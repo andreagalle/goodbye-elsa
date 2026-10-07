@@ -94,26 +94,46 @@ const COLONNE = [
     html: (f) => `<button type="button" class="fondo-btn" data-fondo="${esc(f.id)}">${esc(f.nome_breve)}</button>${badge(avvisiFondo(f))}<span class="sub">${esc(f.societa ?? "Nessuna scheda")}</span>` },
   { key: "spese_adesione", label: "Adesione", num: true, html: (f) => eur(f.spese_adesione) },
   { key: "spese_annue", label: "Spese annue", num: true, html: (f) => eur(f.spese_annue) },
-  { key: "costo_pct_versato", label: "% sul versato", num: true, html: (f) => pct(f.costo_pct_versato, 1) },
+  { key: "costo_pct_versato", label: "% sul versato", titolo: "Costo percentuale su ogni versamento", num: true, html: (f) => pct(f.costo_pct_versato, 1) },
   { key: "n_comparti", label: "Comparti", num: true,
     html: (f) => (f.has_dati ? `${f.n_comparti}${f.n_linee != null && f.n_linee !== f.n_comparti ? ` <span class="tag tag-warn" title="Linee dichiarate da Ciao Elsa">${f.n_linee} dichiarate</span>` : ""}` : NA) },
-  { key: "comm_min", label: "Commissione gestione", num: true,
+  { key: "comm_min", label: "Commissione", titolo: "Commissione di gestione annua, dal comparto più economico al più caro", num: true,
     html: (f) => (f.comm_min == null ? NA : f.comm_min === f.comm_max ? pct(f.comm_min) : `${pct(f.comm_min)} – ${pct(f.comm_max)}`) },
   { key: "max_azioni", label: "Max % azioni", num: true,
     html: (f) => pct(f.max_azioni, 0) + (f.flag_anomalia.includes("comparti_anomali") ? badge(["Valore probabilmente falsato da un comparto con allocazione anomala"]) : "") },
-  { key: "best_rend_10a", label: "Miglior rend. 10 anni", num: true, html: (f) => rend(f.best_rend_10a) },
-  { key: "esg", label: "ESG", tipo: "txt", html: (f) => esc(f.esg ?? "—") },
-  { key: "life_cycle", label: "Life cycle", tipo: "txt", html: (f) => esc(f.life_cycle ?? "—") },
-  { key: "online", label: "Online", tipo: "txt", html: (f) => esc(f.online ?? "—") },
+  { key: "best_rend_10a", label: "Miglior rend. 10 anni", titolo: "Miglior rendimento netto medio annuo a 10 anni tra i comparti del fondo", num: true, html: (f) => rend(f.best_rend_10a) },
+  { key: null, label: "Caratteristiche", titolo: "Linee ESG, percorso life cycle e sottoscrizione online (si filtrano con i pulsanti sopra)",
+    html: caratteristiche },
   { key: null, label: "Fonti",
     html: (f) => `<span class="links">${f.url ? `<a href="${esc(f.url)}" rel="noopener" target="_blank">Sito<span class="sr-only"> di ${esc(f.nome_breve)}</span></a>` : ""}${f.scheda_url ? `<a href="${esc(f.scheda_url)}" rel="noopener" target="_blank">Scheda<span class="sr-only"> Ciao Elsa di ${esc(f.nome_breve)}</span></a>` : ""}</span>` },
 ];
 
+// ESG, life cycle e online in una sola colonna di etichette: la tabella resta abbastanza stretta da non scorrere su desktop
+function caratteristiche(f) {
+  if (!f.has_dati) return NA;
+  const tag = (testo, classe = "tag-on") => `<span class="tag ${classe}">${testo}</span>`;
+  const out = [];
+  if (f.esg === "Sì") out.push(tag("ESG"));
+  if (f.life_cycle === "Sì") out.push(tag("Life cycle"));
+  if (f.online === "Sì (Ciao Elsa)") out.push(tag("Online"));
+  else if (f.online === "No (lista d'attesa)") out.push(tag("Online: lista d'attesa", "tag-off"));
+  return out.length ? `<span class="tags">${out.join("")}</span>` : '<span class="na">—</span>';
+}
+
+// Se la tabella è più larga del contenitore, il contenitore prende un'altezza massima: così la barra
+// orizzontale resta a portata di mano (non solo in fondo alle 38 righe), con intestazione e prima colonna fisse.
+function aggiornaScorrimento() {
+  const box = document.querySelector("#fondi .table-scroll");
+  const tab = document.getElementById("tab-fondi");
+  box.classList.toggle("scorre", tab.scrollWidth > box.clientWidth + 1);
+}
+
 function initTabella() {
   const tr = document.querySelector("#tab-fondi thead tr");
   tr.innerHTML = COLONNE.map((c) =>
-    `<th scope="col" class="${c.num ? "num" : ""}" ${c.key ? `data-key="${c.key}" aria-sort="none"` : ""}>${c.key ? `<button type="button" class="sort">${c.label}</button>` : c.label}</th>`
+    `<th scope="col" class="${c.num ? "num" : ""}" ${c.key ? `data-key="${c.key}" aria-sort="none"` : ""}${c.titolo ? ` title="${esc(c.titolo)}"` : ""}>${c.key ? `<button type="button" class="sort">${c.label}</button>` : c.label}</th>`
   ).join("");
+  new ResizeObserver(aggiornaScorrimento).observe(document.querySelector("#fondi .table-scroll"));
   tr.addEventListener("click", (e) => {
     const th = e.target.closest("th[data-key]");
     if (!th) return;
@@ -161,6 +181,7 @@ function renderTabella() {
         i === 0 ? `<th scope="row">${c.html(f)}</th>` : `<td class="${c.num ? "num" : ""}">${c.html(f)}</td>`).join("")}</tr>`).join("")
     : `<tr><td colspan="${COLONNE.length}">Nessun fondo corrisponde ai filtri.</td></tr>`;
   document.getElementById("conteggio").textContent = `${righe.length} di ${STATO.fondi.length} fondi`;
+  aggiornaScorrimento();
 }
 
 // ---------------------------------------------------------------- dettaglio fondo
@@ -424,16 +445,23 @@ function renderQualita() {
 
     <div class="q-grid">
       <div>
-        <details>
-          <summary>Fondi senza dati di dettaglio (${senza.length})</summary>
-          <ul>${senza.map((f) => `<li>${f.url ? `<a href="${esc(f.url)}" rel="noopener" target="_blank">${esc(f.nome_breve)}</a>` : esc(f.nome_breve)}${avvisiFondo(f).length ? ` – <span class="hint">${esc(avvisiFondo(f).join(" · "))}</span>` : ""}</li>`).join("")}</ul>
-        </details>
+        <h3>Fondi senza dati di dettaglio (${senza.length})</h3>
+        <p class="hint">Il link apre la pagina ufficiale del fondo.</p>
+        <ul class="chips">${senza.map((f) => {
+          const avvisi = avvisiFondo(f);
+          const nome = `${esc(f.nome_breve)}${avvisi.length ? ' <span aria-hidden="true">⚠️</span>' : ""}`;
+          const t = avvisi.length ? ` title="${esc(avvisi.join(" · "))}"` : "";
+          return `<li>${f.url ? `<a class="chip" href="${esc(f.url)}" rel="noopener" target="_blank"${t}>${nome}</a>` : `<span class="chip"${t}>${nome}</span>`}</li>`;
+        }).join("")}</ul>
+        ${senza.filter((f) => avvisiFondo(f).length).map((f) => `<p class="hint chip-nota">⚠️ <strong>${esc(f.nome_breve)}</strong>: ${esc(avvisiFondo(f).join(" · "))}</p>`).join("")}
       </div>
-      <div>
-        <details>
-          <summary>Note sui fondi con dati (${fondiNote.length})</summary>
-          <ul>${fondiNote.map((f) => `<li><button type="button" class="linkish" data-fondo="${esc(f.id)}">${esc(f.nome_breve)}</button>: ${esc(avvisiFondo(f).join(" · "))}</li>`).join("")}</ul>
-        </details>
+      <div class="q-note">
+        <h3>Note sui fondi con dati (${fondiNote.length})</h3>
+        <p class="hint">Clicca sul fondo per leggere la nota completa insieme ai comparti.</p>
+        <ul class="note-list" id="note-fondi" data-aperto="false">${fondiNote.map((f, i) => `<li${i >= NOTE_VISIBILI ? " class=\"extra\"" : ""}>
+          <button type="button" class="linkish" data-fondo="${esc(f.id)}">${esc(f.nome_breve)}</button>
+          <span class="clamp" title="${esc(avvisiFondo(f).join(" · "))}">${esc(avvisiFondo(f).join(" · "))}</span></li>`).join("")}</ul>
+        ${fondiNote.length > NOTE_VISIBILI ? `<button type="button" class="mostra" id="mostra-note" aria-controls="note-fondi" aria-expanded="false">Mostra tutte le ${fondiNote.length} note</button>` : ""}
       </div>
       <div>
         <h3>Fonti</h3>
@@ -442,6 +470,18 @@ function renderQualita() {
       </div>
     </div>`;
 }
+
+const NOTE_VISIBILI = 6;
+document.addEventListener("click", (e) => {
+  const b = e.target.closest("#mostra-note");
+  if (!b) return;
+  const lista = document.getElementById("note-fondi");
+  const aperto = lista.dataset.aperto !== "true";
+  lista.dataset.aperto = String(aperto);
+  b.setAttribute("aria-expanded", String(aperto));
+  b.textContent = aperto ? "Mostra meno" : `Mostra tutte le ${lista.children.length} note`;
+  if (!aperto) lista.scrollIntoView({ block: "nearest" });
+});
 
 // ---------------------------------------------------------------- footer
 function renderFooter() {

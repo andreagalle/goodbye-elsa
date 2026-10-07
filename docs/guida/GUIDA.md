@@ -58,6 +58,10 @@ La pagina funziona anche da telefono e segue il tema chiaro o scuro del disposit
 - **⚠️** accanto al nome segnala note o anomalie: passa il mouse sopra l'icona, oppure apri il dettaglio, per leggerle.
   Il ⚠️ accanto a *Max % azioni* vuol dire che il valore è probabilmente falsato da un comparto con dati invertiti.
 - **Comparti**: se compare il riquadro giallo "*N* dichiarate", la fonte dichiara un numero di linee diverso da quelle trovate.
+- **Caratteristiche**: etichette blu per *ESG*, *Life cycle* e *Online* (sottoscrivibile online); "Online: lista d'attesa"
+  in grigio. Per selezionare i fondi con queste caratteristiche usa i filtri sopra la tabella.
+- **Schermi stretti**: se la tabella non entra in larghezza, scorre dentro un riquadro con l'intestazione e la colonna
+  *Fondo* fisse, e la barra orizzontale resta sempre visibile.
 - **Fonti**: *Sito* apre la pagina ufficiale del fondo, *Scheda* apre la scheda di Ciao Elsa da cui vengono i dati.
 
 Le righe in grigio sono i fondi senza dati di dettaglio.
@@ -125,7 +129,10 @@ alcuni comparti hanno un'asset allocation incoerente con la propria categoria, e
   | Rendimento non a 10 anni | Calcolato su 3 o 5 anni: non confrontabile |
   | Rendimento o commissione mancante | La fonte non li riporta |
 
-- **Fondi senza dati**, **note sui fondi** e **fonti** usate.
+- **Fondi senza dati**: un'etichetta per fondo, che apre la sua pagina ufficiale.
+- **Note sui fondi**: le prime 6 sono sempre visibili, ognuna su due righe; *Mostra tutte* apre l'elenco completo.
+  Clicca sul fondo per leggere la nota per intero.
+- **Fonti** usate.
 
 I dati **non vengono corretti in silenzio**: restano come nella fonte, con la segnalazione, finché qualcuno non li verifica sulla Scheda costi ufficiale.
 
@@ -182,7 +189,8 @@ inoltrata in automatico e si apre l'anteprima.
 2. Al **merge** il workflow *Deploy GitHub Page e release*:
    - calcola la nuova versione;
    - pubblica il sito su GitHub Pages;
-   - crea il tag `vX.Y.Z` e la release, con le note generate dai commit.
+   - crea il tag `vX.Y.Z` e la release, con le note generate dai commit e in allegato i dati della versione
+     (JSON), il workbook Excel, lo zip del sito pubblicato e i checksum SHA-256.
 3. Regole di versione:
    - **minor** se c'è almeno un commit `sito:`, `script:` o `feat:`;
    - **patch** per tutto il resto (`dati:`, `docs:`, `fix:`, `ci:`…);

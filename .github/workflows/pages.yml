@@ -104,10 +104,24 @@ jobs:
           [ -n "$PR_NUMERO" ] && args+=(--pr-numero "$PR_NUMERO" --pr-titolo "$PR_TITOLO")
           python scripts/versione.py note "${args[@]}" > note-rilascio.md
           cat note-rilascio.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: File da allegare alla release
+        env:
+          VERSIONE: ${{ steps.ver.outputs.versione }}
+        run: |
+          mkdir -p rilascio
+          # dati della versione (meta.json contiene già APP_VERSION) e workbook sorgente
+          cp data/fondi.json data/comparti.json data/meta.json rilascio/
+          cp data/fondi-pensione-covip.xlsx "rilascio/fondi-pensione-covip-$VERSIONE.xlsx"
+          # il sito esattamente come pubblicato su GitHub Pages
+          (cd docs && zip -qr "../rilascio/sito-$VERSIONE.zip" .)
+          (cd rilascio && sha256sum -- * > SHA256SUMS.txt)
+          mv note-rilascio.md rilascio/
+          ls -la rilascio
       - uses: actions/upload-artifact@v4
         with:
-          name: note-rilascio
-          path: note-rilascio.md
+          name: rilascio
+          path: rilascio/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
@@ -134,7 +148,8 @@ jobs:
     steps:
       - uses: actions/download-artifact@v4
         with:
-          name: note-rilascio
+          name: rilascio
+          path: rilascio
       - name: Tag e release
         env:
           GH_TOKEN: ${{ github.token }}
@@ -143,5 +158,9 @@ jobs:
         run: |
           titolo="$VERSIONE"
           [ -n "$PR_TITOLO" ] && titolo="$VERSIONE – $PR_TITOLO"
+          cd rilascio
+          # allegati: JSON dei dati, workbook, zip del sito e checksum (le note vanno nella descrizione)
+          allegati=()
+          for f in *; do [ "$f" != note-rilascio.md ] && allegati+=("$f"); done
           gh release create "$VERSIONE" --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
-            --title "$titolo" --notes-file note-rilascio.md --latest
+            --title "$titolo" --notes-file note-rilascio.md --latest "${allegati[@]}"
