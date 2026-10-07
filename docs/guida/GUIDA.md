@@ -182,7 +182,8 @@ inoltrata in automatico e si apre l'anteprima.
 2. Al **merge** il workflow *Deploy GitHub Page e release*:
    - calcola la nuova versione;
    - pubblica il sito su GitHub Pages;
-   - crea il tag `vX.Y.Z` e la release, con le note generate dai commit.
+   - crea il tag `vX.Y.Z` e la release, con le note generate dai commit e in allegato i dati della versione
+     (JSON), il workbook Excel, lo zip del sito pubblicato e i checksum SHA-256.
 3. Regole di versione:
    - **minor** se c'è almeno un commit `sito:`, `script:` o `feat:`;
    - **patch** per tutto il resto (`dati:`, `docs:`, `fix:`, `ci:`…);

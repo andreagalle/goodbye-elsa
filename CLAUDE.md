@@ -216,6 +216,9 @@ responsive, accessibile, in italiano.
   2. `deploy`: GitHub Pages (ambiente `github-pages`);
   3. `release`: `gh release create vX.Y.Z` con le note (sezioni per tipo di commit, link alla PR, numeri dei dati,
      link a dashboard/guida/presentazione e confronto con il tag precedente). Viene saltata se non ci sono commit nuovi.
+     **Allegati** (preparati nel job `build`, passati con l'artifact `rilascio`): `fondi.json`, `comparti.json`,
+     `meta.json` della versione, `fondi-pensione-covip-vX.Y.Z.xlsx`, `sito-vX.Y.Z.zip` (il contenuto di `docs/` così
+     come pubblicato) e `SHA256SUMS.txt`. GitHub aggiunge da solo gli archivi del codice sorgente.
   Si usa `push` e non `pull_request: closed` perché l'ambiente `github-pages` accetta deploy solo dal branch di default.
 - Requisito su GitHub: *Settings → Pages → Source: GitHub Actions*.
 - Commit: i prefissi decidono il tipo di versione, quindi vanno scelti con cura (`sito:` per le funzionalità della dashboard,
