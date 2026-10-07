@@ -161,6 +161,20 @@ def uguale(a, b) -> bool:
     return abs(float(a) - float(b)) <= TOLLERANZA
 
 
+def versione_app() -> str:
+    """Versione pubblicata: APP_VERSION in CI (calcolata da scripts/versione.py), altrimenti git describe."""
+    v = os.environ.get("APP_VERSION")
+    if v:
+        return v
+    try:
+        return subprocess.run(
+            ["git", "describe", "--tags", "--match", "v*", "--always", "--dirty"],
+            cwd=ROOT, capture_output=True, text=True, check=True,
+        ).stdout.strip() + " (sviluppo)"
+    except (OSError, subprocess.CalledProcessError):
+        return "sviluppo"
+
+
 def git_commit() -> str | None:
     sha = os.environ.get("GITHUB_SHA")
     if sha:
@@ -444,6 +458,7 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     props = wb.properties
     modificato = props.modified.isoformat() if props.modified else None
     meta = {
+        "versione": versione_app(),
         "generato_il": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
         "workbook": xlsx.name,
         "workbook_modificato_il": modificato,
@@ -460,8 +475,9 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
         "flag": {"comparti": FLAG_COMPARTI, "fondi": FLAG_FONDI},
         "avvisi_export": rep.warning,
         "fonti": [
-            {"nome": "COVIP – Albo dei fondi pensione (fondi pensione aperti)", "url": "https://www.covip.it",
-             "tipo": "primaria"},
+            {"nome": "COVIP – Elenco dei fondi iscritti all'Albo (Sezione II – Fondi pensione aperti)",
+             "url": "https://www.covip.it/la-covip-e-la-sua-attivita/albo-fondi-pensione/elenco-fondi-albo", "tipo": "primaria",
+             "dettaglio": "filtro Tipologia = Sezione II – Fondi pensione aperti"},
             {"nome": "Pagine informative dei gestori (Nota informativa, Scheda costi)", "url": None,
              "tipo": "primaria", "dettaglio": "colonna url di fondi.json"},
             {"nome": "Generali – confluenza di Almeglio in Generali Global dal 1/1/2027",

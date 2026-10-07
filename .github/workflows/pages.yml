@@ -1,46 +1,147 @@
-name: Export dati e pubblicazione dashboard
+name: Deploy GitHub Page e release
 
+# Al merge di una pull request su master (= push su master):
+#   1. calcola la nuova versione (minor/patch in automatico, major solo a mano),
+#   2. esporta i dati, esegue i test e pubblica docs/ su GitHub Pages,
+#   3. crea il tag vX.Y.Z e la release con le note delle ultime modifiche.
+# Si usa `push` e non `pull_request: closed` perché l'ambiente github-pages accetta deploy
+# solo dal branch di default (refs/heads/master), non da refs/pull/N/merge.
 on:
   push:
-    branches: [main, master]
-  pull_request:
+    branches: [master]
   workflow_dispatch:
+    inputs:
+      bump:
+        description: "Incremento di versione (major solo su decisione esplicita del responsabile)"
+        type: choice
+        options: [auto, patch, minor, major]
+        default: auto
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: pages-release
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: read
+      pull-requests: read
+    outputs:
+      versione: ${{ steps.ver.outputs.versione }}
+      incremento: ${{ steps.ver.outputs.incremento }}
+      rilascia: ${{ steps.ver.outputs.rilascia }}
+      pr_numero: ${{ steps.pr.outputs.numero }}
+      pr_titolo: ${{ steps.pr.outputs.titolo }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install -r requirements.txt
-      - name: Test di schema
-        run: python -m unittest discover -s tests -v
-      - name: Export del workbook in JSON (fallisce se ci sono errori di schema)
+          cache-dependency-path: requirements*.txt
+      - run: pip install -r requirements-dev.txt
+      - run: python -m playwright install --with-deps chromium
+
+      - name: Pull request di origine
+        id: pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pr=$(gh api "repos/$GITHUB_REPOSITORY/commits/$GITHUB_SHA/pulls" --jq '[.[] | select(.merged_at != null)][0] // empty')
+          if [ -n "$pr" ]; then
+            {
+              echo "numero=$(jq -r .number <<<"$pr")"
+              echo "titolo=$(jq -r .title <<<"$pr")"
+              echo "labels=$(jq -r '[.labels[].name] | join(",")' <<<"$pr")"
+            } >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Calcolo della versione
+        id: ver
+        env:
+          INPUT_BUMP: ${{ inputs.bump }}
+          LABELS: ${{ steps.pr.outputs.labels }}
+        run: |
+          bump="${INPUT_BUMP:-auto}"
+          if [ "$bump" = auto ]; then
+            case ",$LABELS," in
+              *,release:major,*) bump="major" ;;
+              *,release:minor,*) bump="minor" ;;
+              *,release:patch,*) bump="patch" ;;
+            esac
+          fi
+          info=$(python scripts/versione.py prossima --bump "$bump" --json)
+          echo "$info"
+          # niente release se non ci sono commit nuovi dall'ultimo tag (es. rilancio del workflow)
+          {
+            echo "versione=$(jq -r .versione <<<"$info")"
+            echo "incremento=$(jq -r .incremento <<<"$info")"
+            echo "rilascia=$([ "$(jq -r .commit <<<"$info")" -gt 0 ] && echo true || echo false)"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Export del workbook (fallisce se ci sono errori di schema)
+        env:
+          APP_VERSION: ${{ steps.ver.outputs.versione }}
         run: python scripts/export_xlsx.py
+      - name: Test (schema, versioni, smoke test del sito)
+        run: python -m unittest discover -s tests -v
+
+      - name: Note di rilascio
+        env:
+          VERSIONE: ${{ steps.ver.outputs.versione }}
+          INCREMENTO: ${{ steps.ver.outputs.incremento }}
+          PR_NUMERO: ${{ steps.pr.outputs.numero }}
+          PR_TITOLO: ${{ steps.pr.outputs.titolo }}
+        run: |
+          args=(--versione "$VERSIONE" --bump "$INCREMENTO" --repo "$GITHUB_REPOSITORY")
+          [ -n "$PR_NUMERO" ] && args+=(--pr-numero "$PR_NUMERO" --pr-titolo "$PR_TITOLO")
+          python scripts/versione.py note "${args[@]}" > note-rilascio.md
+          cat note-rilascio.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: note-rilascio
+          path: note-rilascio.md
       - uses: actions/upload-pages-artifact@v3
-        if: github.event_name != 'pull_request'
         with:
           path: docs
 
   deploy:
-    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  release:
+    needs: [build, deploy]
+    if: needs.build.outputs.rilascia == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: note-rilascio
+      - name: Tag e release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSIONE: ${{ needs.build.outputs.versione }}
+          PR_TITOLO: ${{ needs.build.outputs.pr_titolo }}
+        run: |
+          titolo="$VERSIONE"
+          [ -n "$PR_TITOLO" ] && titolo="$VERSIONE – $PR_TITOLO"
+          gh release create "$VERSIONE" --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "$titolo" --notes-file note-rilascio.md --latest

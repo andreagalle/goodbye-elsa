@@ -1,9 +1,10 @@
 {
-  "generato_il": "2026-10-07T19:57:01+00:00",
+  "versione": "2430c3c-dirty (sviluppo)",
+  "generato_il": "2026-10-07T20:25:20+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
   "workbook_modificato_il": "2026-10-07T19:41:58",
   "workbook_sha256": "fa54dece8fa2d53a82430bec3bc9cb3229f3818be7d399ec2bf5c58961a46a49",
-  "commit": "581a7919c91cf64ad5879e70cc325e87ab7a28ff",
+  "commit": "2430c3cf8c79031c43f9ca4d153ec1e72bbf6f43",
   "conteggi": {
     "fondi": 38,
     "fondi_con_dati": 23,
@@ -30,9 +31,10 @@
   "avvisi_export": [],
   "fonti": [
     {
-      "nome": "COVIP – Albo dei fondi pensione (fondi pensione aperti)",
-      "url": "https://www.covip.it",
-      "tipo": "primaria"
+      "nome": "COVIP – Elenco dei fondi iscritti all'Albo (Sezione II – Fondi pensione aperti)",
+      "url": "https://www.covip.it/la-covip-e-la-sua-attivita/albo-fondi-pensione/elenco-fondi-albo",
+      "tipo": "primaria",
+      "dettaglio": "filtro Tipologia = Sezione II – Fondi pensione aperti"
     },
     {
       "nome": "Pagine informative dei gestori (Nota informativa, Scheda costi)",

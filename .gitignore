@@ -1,3 +1,6 @@
 # JSON copiati nel sito dallo script di export (la fonte è data/*.json)
 docs/data/
 __pycache__/
+# output dell'MCP Playwright e note di rilascio generate in CI
+.playwright-mcp/
+note-rilascio.md

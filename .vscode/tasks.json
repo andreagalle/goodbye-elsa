@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Anteprima GitHub Page",
+      "detail": "Export + test + server su http://localhost:8000",
+      "type": "shell",
+      "command": "./scripts/anteprima.sh",
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": { "regexp": "^__nessuno__$" },
+        "background": { "activesBegin": true, "beginsPattern": "▶ Export", "endsPattern": "▶ Anteprima su" }
+      },
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "Anteprima veloce (senza test)",
+      "type": "shell",
+      "command": "./scripts/anteprima.sh --veloce",
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": { "regexp": "^__nessuno__$" },
+        "background": { "activesBegin": true, "beginsPattern": "▶ Export", "endsPattern": "▶ Anteprima su" }
+      }
+    },
+    { "label": "Export dati (Excel → JSON)", "type": "shell", "command": "python scripts/export_xlsx.py", "problemMatcher": [] },
+    { "label": "Test", "type": "shell", "command": "python -m unittest discover -s tests -v", "group": "test", "problemMatcher": [] },
+    { "label": "Rigenera screenshot della guida", "type": "shell", "command": "python scripts/screenshots.py", "problemMatcher": [] },
+    { "label": "Prossima versione", "type": "shell", "command": "python scripts/versione.py prossima --json", "problemMatcher": [] }
+  ]
+}
