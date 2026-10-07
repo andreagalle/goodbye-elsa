@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guida all'uso</title>
+  <meta name="description" content="Guida all'uso della dashboard di confronto dei fondi pensione aperti COVIP.">
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .guida { max-width: 860px; margin: 0 auto; padding: 8px 16px 40px; }
+    .guida h1 { font-size: 2rem; margin: 24px 0 12px; }
+    .guida h2 { font-size: 1.4rem; margin: 40px 0 10px; padding-top: 12px; border-top: 1px solid var(--grid); }
+    .guida h3 { font-size: 1.1rem; margin: 24px 0 8px; }
+    .guida p, .guida li { max-width: 75ch; }
+    .guida img {
+      display: block; max-width: 100%; height: auto; margin: 12px 0 20px;
+      border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface);
+    }
+    .guida blockquote { margin: 16px 0; padding: 10px 16px; background: var(--warn-bg); color: var(--warn-ink); border-radius: var(--radius); }
+    .guida blockquote p { margin: 4px 0; }
+    .guida table { border-collapse: collapse; margin: 12px 0; font-size: 0.92rem; display: block; overflow-x: auto; }
+    .guida th, .guida td { border-bottom: 1px solid var(--grid); padding: 6px 10px; text-align: left; vertical-align: top; }
+    .guida th { background: var(--surface-2); }
+    .guida code { background: var(--surface-2); padding: 1px 5px; border-radius: 4px; font-size: 0.9em; }
+    .guida pre { background: var(--surface-2); padding: 12px 14px; border-radius: 8px; overflow-x: auto; }
+    .guida pre code { background: none; padding: 0; }
+    .guida h2 a.anchor, .guida h3 a.anchor { color: var(--muted); text-decoration: none; margin-left: 6px; font-weight: 400; opacity: 0; }
+    .guida h2:hover a.anchor, .guida h3:hover a.anchor, .guida a.anchor:focus { opacity: 1; }
+    .topbar { background: var(--surface); border-bottom: 1px solid var(--border); }
+    .topbar .wrap { display: flex; flex-wrap: wrap; gap: 4px 18px; padding-top: 12px; padding-bottom: 12px; }
+    .topbar a { font-weight: 600; text-decoration: none; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked@18.0.13/lib/marked.umd.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.4.15/dist/purify.min.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <nav class="wrap" aria-label="Navigazione">
+      <a href="../">← Dashboard</a>
+      <a href="../presentazione/">🎞️ Presentazione</a>
+      <a href="https://github.com/andreagalle/goodbye-elsa/blob/master/docs/guida/GUIDA.md" rel="noopener">Sorgente su GitHub</a>
+    </nav>
+  </header>
+  <main id="contenuto" class="guida" aria-live="polite">
+    <p>Caricamento della guida…</p>
+  </main>
+  <script>
+    "use strict";
+    // Ancore compatibili con quelle di GitHub ("Qualità dei dati" → "qualità-dei-dati")
+    const slug = (t) => t.toLowerCase().trim().replace(/<[^>]+>/g, "").replace(/[^\p{L}\p{N}\s-]/gu, "").replace(/\s/g, "-");
+
+    window.addEventListener("DOMContentLoaded", async () => {
+      const main = document.getElementById("contenuto");
+      try {
+        const md = await fetch("GUIDA.md", { cache: "no-cache" }).then((r) => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`);
+          return r.text();
+        });
+        marked.use({
+          gfm: true,
+          renderer: {
+            heading({ tokens, depth }) {
+              const html = this.parser.parseInline(tokens);
+              const id = slug(tokens.map((t) => t.raw).join(""));
+              const ancora = depth > 1 ? `<a class="anchor" href="#${id}" aria-label="Link a questa sezione">#</a>` : "";
+              return `<h${depth} id="${id}">${html}${ancora}</h${depth}>\n`;
+            },
+          },
+        });
+        main.innerHTML = DOMPurify.sanitize(marked.parse(md));
+        main.querySelectorAll("img").forEach((img) => { img.decoding = "async"; });
+        const h1 = main.querySelector("h1");
+        if (h1) document.title = `${h1.textContent} – Fondi pensione aperti`;
+        if (location.hash) document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView();
+      } catch (e) {
+        main.innerHTML = `<p class="alert">Impossibile caricare la guida (${e.message}). Leggila su
+          <a href="https://github.com/andreagalle/goodbye-elsa/blob/master/docs/guida/GUIDA.md">GitHub</a>.</p>`;
+      }
+    });
+  </script>
+</body>
+</html>

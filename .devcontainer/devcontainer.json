@@ -1,0 +1,37 @@
+{
+  "name": "Fondi pensione aperti (COVIP)",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": { "version": "22" },
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/anthropics/devcontainer-features/claude-code:1": {}
+  },
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": { "label": "Anteprima GitHub Page", "onAutoForward": "openPreview" }
+  },
+  "containerEnv": {
+    "PLAYWRIGHT_BROWSERS_PATH": "/home/vscode/.cache/ms-playwright"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "anthropic.claude-code",
+        "github.vscode-pull-request-github",
+        "github.vscode-github-actions",
+        "github.github-vscode-theme",
+        "github.codespaces",
+        "ms-python.python",
+        "mhutchie.git-graph",
+        "grapecity.gc-excelviewer"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "files.associations": { "*.md": "markdown" },
+        "workbench.editorAssociations": { "*.xlsx": "gc-excelviewer-excel-editor" },
+        "files.exclude": { "**/__pycache__": true, ".playwright-mcp": true }
+      }
+    }
+  }
+}

@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Presentazione Fondi Pensione</title>
+  <meta name="description" content="Presentazione interattiva della dashboard di confronto dei fondi pensione aperti COVIP: → argomenti, ↓ dettagli.">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@6.0.2/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@6.0.2/dist/theme/white.css" id="tema">
+  <style>
+    :root {
+      --r-main-font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      --r-heading-font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      --r-main-font-size: 30px;
+      --r-heading-text-transform: none;
+      --r-heading-letter-spacing: -0.01em;
+      --r-heading1-size: 2.1em;
+      --r-heading2-size: 1.5em;
+      --r-heading3-size: 1.15em;
+      --r-link-color: #1c5cab;
+      --r-link-color-hover: #2a78d6;
+      --r-selection-background-color: #b7d3f6;
+      --accent: #2a78d6;
+      --muted: #52514e;
+      --card: #f0efec;
+      --warn-bg: #fdf3dc;
+      --warn-ink: #6b4a00;
+      --border: rgba(11, 11, 11, 0.12);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --r-background-color: #121211;
+        --r-main-color: #f3f2ee;
+        --r-heading-color: #ffffff;
+        --r-link-color: #86b6ef;
+        --r-link-color-hover: #b7d3f6;
+        --r-selection-background-color: #184f95;
+        --accent: #3987e5;
+        --muted: #c3c2b7;
+        --card: #262624;
+        --warn-bg: #3a2e10;
+        --warn-ink: #f5d27a;
+        --border: rgba(255, 255, 255, 0.12);
+      }
+    }
+    :root[data-theme="dark"] {
+      --r-background-color: #121211; --r-main-color: #f3f2ee; --r-heading-color: #ffffff;
+      --r-link-color: #86b6ef; --r-link-color-hover: #b7d3f6; --accent: #3987e5; --muted: #c3c2b7;
+      --card: #262624; --warn-bg: #3a2e10; --warn-ink: #f5d27a; --border: rgba(255, 255, 255, 0.12);
+    }
+    html, body { background: var(--r-background-color); }
+    .reveal .slides section { text-align: left; }
+    .reveal .slides section.centro { text-align: center; }
+    .reveal h1, .reveal h2, .reveal h3 { font-weight: 700; }
+    .reveal .sub { color: var(--muted); font-size: 0.75em; }
+    .reveal .piccolo { font-size: 0.62em; color: var(--muted); }
+    .reveal ul, .reveal ol { display: block; margin-left: 1em; }
+    .reveal li { margin: 0.25em 0; }
+    .reveal img.shot {
+      display: block; margin: 0.3em auto 0; max-height: 60vh; max-width: 100%;
+      border: 1px solid var(--border); border-radius: 10px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);
+    }
+    .reveal .warn { background: var(--warn-bg); color: var(--warn-ink); border-radius: 10px; padding: 0.4em 0.8em; font-size: 0.75em; }
+    .kpis { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5em; margin-top: 0.6em; }
+    .kpi { background: var(--card); border-radius: 12px; padding: 0.45em 0.7em; }
+    .kpi .v { font-size: 1.9em; font-weight: 700; line-height: 1.1; }
+    .kpi .l { font-size: 0.6em; color: var(--muted); }
+    .flusso { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35em; font-size: 0.7em; margin-top: 0.8em; }
+    .flusso span.box { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 0.35em 0.6em; }
+    .flusso span.freccia { color: var(--muted); }
+    .griglia2d { display: grid; grid-template-columns: repeat(4, 3.2em); gap: 0.3em; justify-content: center; margin: 0.6em auto; }
+    .griglia2d span { height: 2em; border-radius: 6px; background: var(--card); border: 1px solid var(--border); }
+    .griglia2d span.h { background: var(--accent); }
+    .griglia2d span.vuoto { visibility: hidden; }
+    .tasti { font-size: 0.7em; color: var(--muted); }
+    kbd { font: inherit; border: 1px solid var(--border); border-bottom-width: 3px; border-radius: 6px; padding: 0 0.35em; background: var(--card); }
+    .esempio { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6em; margin-top: 0.5em; }
+    .esempio .kpi .v { font-size: 1.4em; }
+    .reveal .controls { color: var(--accent); }
+    .reveal .progress { color: var(--accent); }
+    @media (max-width: 700px) { .kpis, .esempio { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+      <!-- 1. Titolo ─────────────────────────────────────────────── -->
+      <section>
+        <section class="centro" data-id="titolo">
+          <h1>Fondi pensione aperti a confronto</h1>
+          <p class="sub">Costi, comparti, rendimenti e qualità dei dati dei fondi dell'Albo COVIP</p>
+          <p class="tasti">
+            <kbd>→</kbd> argomento successivo · <kbd>↓</kbd> dettagli · <kbd>Esc</kbd> panoramica · <kbd>F</kbd> schermo intero
+          </p>
+          <p class="piccolo"><a href="../">Apri la dashboard</a> · <a href="../guida/">Guida completa</a></p>
+        </section>
+        <section class="centro">
+          <h2>Come si naviga</h2>
+          <p>La presentazione è una <strong>griglia</strong>: in orizzontale gli argomenti, in verticale gli approfondimenti.</p>
+          <div class="griglia2d" aria-hidden="true">
+            <span class="h"></span><span class="h"></span><span class="h"></span><span class="h"></span>
+            <span></span><span></span><span></span><span></span>
+            <span class="vuoto"></span><span></span><span></span><span class="vuoto"></span>
+            <span class="vuoto"></span><span class="vuoto"></span><span></span><span class="vuoto"></span>
+          </div>
+          <p class="tasti">Le frecce in basso a destra mostrano dove puoi andare. Su telefono: scorri con il dito.</p>
+        </section>
+      </section>
+
+      <!-- 2. Perché ─────────────────────────────────────────────── -->
+      <section>
+        <section>
+          <h2>Perché questo progetto</h2>
+          <ul>
+            <li>I fondi pensione aperti sono <strong>decine</strong>, ognuno con più comparti</li>
+            <li>Costi e rendimenti sono sparsi tra Note informative, Schede costi e siti diversi</li>
+            <li>Su 30 anni, <strong>piccole differenze di costo</strong> diventano migliaia di euro</li>
+          </ul>
+          <p class="piccolo">↓ cosa trovi nella dashboard</p>
+        </section>
+        <section>
+          <h2>Cosa trovi</h2>
+          <ol>
+            <li>Una <strong>tabella</strong> dei fondi con filtri e ordinamento</li>
+            <li>Il <strong>dettaglio</strong> di ogni fondo e dei suoi comparti</li>
+            <li>Un <strong>grafico</strong> commissione/rendimento</li>
+            <li>Le <strong>classifiche</strong> per categoria</li>
+            <li>La sezione sulla <strong>qualità dei dati</strong>, con anomalie e fonti</li>
+          </ol>
+        </section>
+      </section>
+
+      <!-- 3. I dati ─────────────────────────────────────────────── -->
+      <section>
+        <section>
+          <h2>I dati in numeri</h2>
+          <div class="kpis" id="kpis" aria-live="polite">
+            <div class="kpi"><div class="v" data-k="fondi">…</div><div class="l">fondi pensione aperti (elenco COVIP)</div></div>
+            <div class="kpi"><div class="v" data-k="fondi_con_dati">…</div><div class="l">con dati di dettaglio</div></div>
+            <div class="kpi"><div class="v" data-k="comparti">…</div><div class="l">comparti</div></div>
+            <div class="kpi"><div class="v" data-k="comparti_con_anomalie">…</div><div class="l">comparti con anomalie o non confrontabili</div></div>
+          </div>
+          <p class="piccolo" id="versione">Numeri letti dal vivo da <code>data/meta.json</code>.</p>
+        </section>
+        <section>
+          <h2>Da dove vengono</h2>
+          <ul>
+            <li><strong>COVIP</strong>: l'<a href="https://www.covip.it/la-covip-e-la-sua-attivita/albo-fondi-pensione/elenco-fondi-albo" rel="noopener">elenco dei fondi iscritti all'Albo</a>, Sezione II – Fondi pensione aperti</li>
+            <li><strong>Siti ufficiali dei gestori</strong>: Nota informativa e Scheda costi</li>
+            <li><strong>Ciao Elsa</strong>: schede dei fondi, citate come <em>fonte secondaria</em></li>
+          </ul>
+          <p class="piccolo">Ogni dato ha un link alla fonte. La fonte di verità è il file Excel del repository.</p>
+        </section>
+        <section>
+          <h2>Le regole sui dati</h2>
+          <ul>
+            <li>Valori derivati calcolati <strong>con formule</strong>, mai incollati</li>
+            <li>Ogni dato ha una <strong>fonte tracciabile</strong></li>
+            <li>Le incoerenze <strong>non vengono corrette in silenzio</strong>: si segnalano ⚠️</li>
+          </ul>
+          <p class="warn">Esempio: alcuni comparti "garantiti" risultano al 100% azioni. Quasi certamente il dato è invertito nella fonte:
+            resta così, segnalato, finché non viene verificato sulla Scheda costi.</p>
+        </section>
+      </section>
+
+      <!-- 4. La dashboard ───────────────────────────────────────── -->
+      <section>
+        <section>
+          <h2>La dashboard</h2>
+          <img class="shot" src="../guida/img/dashboard.png" alt="Parte alta della dashboard con i riquadri di riepilogo">
+          <p class="piccolo">↓ una sezione alla volta</p>
+        </section>
+        <section>
+          <h3>Tabella dei fondi</h3>
+          <img class="shot" src="../guida/img/tabella-filtri.png" alt="Tabella filtrata per fondi con dati ed ESG, ordinata per commissione">
+          <p class="piccolo">Ricerca, filtri, ordinamento con un clic sulle intestazioni. ⚠️ indica note o anomalie.</p>
+        </section>
+        <section>
+          <h3>Dettaglio di un fondo</h3>
+          <img class="shot" src="../guida/img/dettaglio.png" alt="Dettaglio del fondo Aureo con costi e comparti">
+          <p class="piccolo">Costi, comparti, asset allocation e periodo del rendimento. Il link si può condividere.</p>
+        </section>
+        <section>
+          <h3>Commissione e rendimento</h3>
+          <img class="shot" src="../guida/img/grafico.png" alt="Grafico a dispersione commissione e rendimento per comparto">
+          <p class="piccolo">In alto a sinistra: costa poco e ha reso di più. Confronta solo punti dello stesso colore.</p>
+        </section>
+        <section>
+          <h3>Evidenziare un fondo</h3>
+          <img class="shot" src="../guida/img/grafico-evidenzia.png" alt="Grafico con un fondo evidenziato e i rendimenti a 3 e 5 anni inclusi">
+          <p class="piccolo">I simboli vuoti sono rendimenti a 3 o 5 anni: non confrontabili con quelli a 10.</p>
+        </section>
+        <section>
+          <h3>Confronto per categoria</h3>
+          <img class="shot" src="../guida/img/categorie.png" alt="Classifiche per categoria">
+        </section>
+        <section>
+          <h3>Qualità dei dati</h3>
+          <img class="shot" src="../guida/img/qualita.png" alt="Copertura e anomalie aperte">
+        </section>
+        <section class="centro">
+          <h3>Anche da telefono</h3>
+          <img class="shot" src="../guida/img/mobile-scuro.png" alt="La dashboard su smartphone con il tema scuro" style="max-height:62vh">
+        </section>
+      </section>
+
+      <!-- 5. Come scegliere ─────────────────────────────────────── -->
+      <section>
+        <section>
+          <h2>Come usare i dati per scegliere</h2>
+          <ol>
+            <li>Parti dal tuo <strong>orizzonte</strong>: quanti anni mancano alla pensione?</li>
+            <li>Scegli la <strong>categoria</strong> e confronta solo comparti simili</li>
+            <li>Guarda i <strong>costi</strong> prima dei rendimenti passati</li>
+            <li><strong>Verifica</strong> su Nota informativa, Scheda costi e ISC</li>
+          </ol>
+          <p class="piccolo">↓ perché i costi contano</p>
+        </section>
+        <section>
+          <h2>Quanto pesano i costi</h2>
+          <p class="sub">Esempio illustrativo: <span id="es-ipotesi"></span></p>
+          <div class="esempio">
+            <div class="kpi"><div class="v" id="es-basso">…</div><div class="l">montante con commissione 0,6%</div></div>
+            <div class="kpi"><div class="v" id="es-alto">…</div><div class="l">montante con commissione 1,5%</div></div>
+          </div>
+          <p>Differenza: <strong id="es-diff">…</strong> sugli stessi versamenti.</p>
+          <p class="piccolo">Calcolo semplificato, senza tasse né spese fisse. Non è una previsione.</p>
+        </section>
+        <section>
+          <h2>Attenzione a…</h2>
+          <ul>
+            <li><strong>Rendimenti passati</strong>: un indizio, non una promessa</li>
+            <li><strong>Periodi diversi</strong>: 3 o 5 anni non si confrontano con 10</li>
+            <li><strong>Simboli ⚠️</strong>: dati da verificare</li>
+            <li>Il <strong>fondo negoziale</strong> della tua categoria: spesso costa meno e c'è il contributo del datore di lavoro</li>
+          </ul>
+        </section>
+      </section>
+
+      <!-- 6. Manutenzione ───────────────────────────────────────── -->
+      <section>
+        <section>
+          <h2>Per chi mantiene il progetto</h2>
+          <div class="flusso" aria-label="Flusso di aggiornamento">
+            <span class="box">✏️ Excel</span><span class="freccia">→</span>
+            <span class="box">⚙️ export JSON</span><span class="freccia">→</span>
+            <span class="box">👀 anteprima locale</span><span class="freccia">→</span>
+            <span class="box">🔀 PR su master</span><span class="freccia">→</span>
+            <span class="box">🚀 deploy + release</span>
+          </div>
+          <p class="piccolo">↓ i passi uno per uno</p>
+        </section>
+        <section>
+          <h3>1. Dati e anteprima</h3>
+          <pre><code>python scripts/export_xlsx.py   # Excel → JSON, con validazione
+./scripts/anteprima.sh          # export + test + http://localhost:8000</code></pre>
+          <p class="piccolo">Il file Excel si modifica in Excel, così i valori delle formule restano in cache.</p>
+        </section>
+        <section>
+          <h3>2. Pull request e release</h3>
+          <ul>
+            <li>La CI sulla PR verifica dati, test e sito, e annuncia la versione</li>
+            <li>Al merge: deploy della GitHub Page, poi tag <code>vX.Y.Z</code> e release con le note</li>
+            <li><strong>minor</strong> per <code>sito:</code>/<code>script:</code>/<code>feat:</code>, <strong>patch</strong> per il resto</li>
+            <li><strong>major</strong> solo su decisione esplicita del responsabile</li>
+          </ul>
+        </section>
+        <section>
+          <h3>3. Documentazione sempre allineata</h3>
+          <pre><code>python scripts/screenshots.py   # rigenera gli screenshot</code></pre>
+          <p>Ogni modifica alla dashboard aggiorna insieme <strong>guida</strong>, <strong>presentazione</strong>, screenshot e <code>CLAUDE.md</code>.</p>
+        </section>
+      </section>
+
+      <!-- 7. Fine ───────────────────────────────────────────────── -->
+      <section class="centro">
+        <h2>Grazie!</h2>
+        <p><a href="../">📊 Dashboard</a> · <a href="../guida/">📖 Guida</a> ·
+          <a href="https://github.com/andreagalle/goodbye-elsa" rel="noopener">💻 GitHub</a></p>
+        <p class="warn" style="text-align:left">Non è consulenza finanziaria. Prima di aderire leggi la Nota informativa,
+          la Scheda costi e l'ISC del fondo su <a href="https://www.covip.it" rel="noopener">covip.it</a>.</p>
+      </section>
+
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@6.0.2/dist/reveal.js"></script>
+  <script>
+    "use strict";
+    // Su telefono: slide in verticale e navigazione 2D (niente "scroll view" automatica)
+    const verticale = window.matchMedia("(max-width: 700px) and (orientation: portrait)").matches;
+    Reveal.initialize({
+      scrollActivationWidth: null,
+      hash: true,
+      controls: true,
+      controlsTutorial: true,
+      progress: true,
+      slideNumber: "h.v",
+      overview: true,
+      center: true,
+      transition: "slide",
+      navigationMode: "default",
+      width: verticale ? 620 : 1200,
+      height: verticale ? 1100 : 760,
+      margin: 0.06,
+    });
+
+    // Numeri dal vivo dagli stessi JSON della dashboard
+    fetch("../data/meta.json", { cache: "no-cache" })
+      .then((r) => r.json())
+      .then((m) => {
+        document.querySelectorAll("#kpis [data-k]").forEach((el) => { el.textContent = m.conteggi?.[el.dataset.k] ?? "—"; });
+        const d = m.workbook_modificato_il ? new Date(m.workbook_modificato_il).toLocaleDateString("it-IT", { day: "numeric", month: "long", year: "numeric" }) : "";
+        document.getElementById("versione").textContent = `Versione ${m.versione ?? "—"} · dati aggiornati al ${d}.`;
+      })
+      .catch(() => { document.getElementById("versione").textContent = "Dati non disponibili: esegui l'export."; });
+
+    // Esempio sui costi: versamenti a inizio anno, rendimento lordo costante, commissione sul patrimonio
+    (() => {
+      const versamento = 2000, anni = 30, lordo = 0.04;
+      const montante = (comm) => {
+        let m = 0;
+        for (let i = 0; i < anni; i++) m = (m + versamento) * (1 + lordo - comm);
+        return m;
+      };
+      const eur = (v) => `${new Intl.NumberFormat("it-IT", { maximumFractionDigits: 0, useGrouping: "always" }).format(v)} €`;
+      const basso = montante(0.006), alto = montante(0.015);
+      document.getElementById("es-ipotesi").textContent =
+        `${eur(versamento)} l'anno per ${anni} anni (${eur(versamento * anni)} versati), rendimento lordo del 4% annuo.`;
+      document.getElementById("es-basso").textContent = eur(basso);
+      document.getElementById("es-alto").textContent = eur(alto);
+      document.getElementById("es-diff").textContent = eur(basso - alto);
+    })();
+  </script>
+</body>
+</html>

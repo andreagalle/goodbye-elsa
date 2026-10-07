@@ -9,7 +9,7 @@ const STATO = {
 };
 
 // ---------------------------------------------------------------- formattazione (it-IT)
-const nf = (d) => new Intl.NumberFormat("it-IT", { minimumFractionDigits: d, maximumFractionDigits: d });
+const nf = (d) => new Intl.NumberFormat("it-IT", { minimumFractionDigits: d, maximumFractionDigits: d, useGrouping: "always" });
 const NF0 = nf(0), NF1 = nf(1), NF2 = nf(2);
 const NA = '<span class="na" aria-label="dato mancante">—</span>';
 const eur = (v) => (v == null ? NA : `${NF2.format(v)} €`);
@@ -446,7 +446,7 @@ function renderFooter() {
   const m = STATO.meta;
   const commit = m.commit ? ` · commit <code>${esc(m.commit.slice(0, 7))}</code>` : "";
   document.getElementById("meta-footer").innerHTML =
-    `Dati aggiornati al ${dataIt(m.workbook_modificato_il)} (workbook <code>${esc(m.workbook)}</code>) · export del ${dataIt(m.generato_il)}${commit}.`;
+    `Versione <strong>${esc(m.versione ?? "—")}</strong> · Dati aggiornati al ${dataIt(m.workbook_modificato_il)} (workbook <code>${esc(m.workbook)}</code>) · export del ${dataIt(m.generato_il)}${commit}.`;
 }
 
 carica();

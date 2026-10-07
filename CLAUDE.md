@@ -19,6 +19,15 @@ nella UI (virgola decimale, `€` dopo l'importo, es. `25,00 €`, `1,45%`).
   - Le **incoerenze delle fonti non vengono corrette in silenzio**: si riporta il dato così com'è e lo si segnala nella colonna `Note`.
   - Dati finanziari solo da **fonti ufficiali/primarie** (COVIP, sito/IR del gestore, Nota informativa, Scheda costi)
     oppure Ciao Elsa, citata esplicitamente come fonte secondaria. Niente blog, forum, aggregatori non citati.
+- Istruzioni successive (sviluppo del sito, ottobre 2026):
+  - A ogni PR su `master` (al merge): deploy della GitHub Page, tag e release con le note delle ultime modifiche e
+    versione incrementale. **Claude incrementa solo minor o patch; la major solo quando l'utente lo chiede esplicitamente**
+    (vedi §8).
+  - Devcontainer con tutto l'occorrente, comprese le estensioni in uso e un visualizzatore Excel affidabile (§9).
+  - MCP server Playwright per gli screenshot della guida (§9).
+  - Guida dettagliata + presentazione interattiva reveal.js 2D sulla GitHub Page, **sempre aggiornate e allineate**
+    con il codice e con questo file (§10).
+  - Possibilità di provare la GitHub Page in locale prima del push (§10.3).
 - <!-- TODO: aggiungi qui eventuali altre istruzioni della conversazione originale che non risultano dal file -->
 
 ## 3. Struttura del workbook
@@ -66,7 +75,9 @@ Python, confrontandoli con i valori in cache (warning se diversi). Gli hyperlink
 ## 4. Fonti
 
 ### 4.1 Fonti primarie / istituzionali
-- **COVIP** – Elenco/Albo dei fondi pensione (fondi pensione aperti): https://www.covip.it  <!-- TODO: URL esatto della pagina dell'elenco usata -->
+- **COVIP** – Elenco dei fondi iscritti all'Albo: https://www.covip.it/la-covip-e-la-sua-attivita/albo-fondi-pensione/elenco-fondi-albo
+  con il filtro **Tipologia = "Sezione II – Fondi pensione aperti"**. È l'elenco da cui è partito il progetto
+  (denominazioni di Sheet1 col. A).
 - **Note informative e Schede costi ufficiali** dei singoli fondi (da usare per verificare le anomalie).
 - generali.it – fonte della notizia della confluenza di Almeglio in Generali Global dal 1/1/2027.
 
@@ -176,15 +187,80 @@ responsive, accessibile, in italiano.
 5. **Confronto per categoria** (AZN/BIL/OBB/GAR): migliori e peggiori per costo e rendimento.
 6. Sezione **"Qualità dei dati"**: copertura, anomalie aperte e fonti.
 7. Footer con disclaimer (non è consulenza finanziaria), data di aggiornamento da `meta.json` e licenza.
-8. **CI** (`.github/workflows/pages.yml`): a ogni push su `main` esegue `export_xlsx.py`, fallisce se ci sono errori di
-   schema, pubblica `docs/` (con i JSON copiati in `docs/data/`).
+8. **CI**: `.github/workflows/ci.yml` su ogni PR verso `master` (export, test, smoke test del sito, anteprima della
+   versione); `.github/workflows/pages.yml` al merge su `master` (export, test, deploy di `docs/` con i JSON copiati in
+   `docs/data/`, poi tag e release). Dettagli nella §8.
+9. Pagine collegate dal menu: **Guida** (`docs/guida/`) e **Presentazione** (`docs/presentazione/`), vedi §10.
 
-## 8. Roadmap / TODO
+## 8. Versioni e release
+- Branch principale: **`master`**. Si lavora su branch (es. `dev`) e si apre una PR verso `master`.
+- **SemVer** con tag `vX.Y.Z`; la prima release sarà `v0.1.0`. Logica in `scripts/versione.py` (testata in `tests/test_versione.py`):
+  - **minor** se tra i commit dall'ultimo tag c'è almeno un `sito:`, `script:` o `feat:`;
+  - **patch** per tutto il resto (`dati:`, `docs:`, `fix:`, `ci:`, `test:`, `chore:`…);
+  - **major MAI in automatico**: `!` e `BREAKING CHANGE` contano come minor. La major si fa solo con la label
+    `release:major` sulla PR, o avviando a mano *Deploy GitHub Page e release* con `bump = major`.
+    ⚠️ **Claude non deve mai usare la major (né aggiungere la label `release:major`) senza una richiesta esplicita dell'utente.**
+  - Le label `release:minor` / `release:patch` sulla PR forzano il tipo di incremento.
+- **`ci.yml`** (PR verso `master`, push sugli altri branch): export, test (schema, versioni, smoke test Playwright del sito)
+  e, sulle PR, la versione e le note che verranno pubblicate nel *Job summary*.
+- **`pages.yml`** (push su `master`, cioè il merge di una PR, oppure avvio manuale):
+  1. `build`: trova la PR di origine, calcola la versione, `APP_VERSION=vX.Y.Z python scripts/export_xlsx.py`
+     (la versione finisce in `meta.json` e nel footer), test, note di rilascio, artifact di Pages;
+  2. `deploy`: GitHub Pages (ambiente `github-pages`);
+  3. `release`: `gh release create vX.Y.Z` con le note (sezioni per tipo di commit, link alla PR, numeri dei dati,
+     link a dashboard/guida/presentazione e confronto con il tag precedente). Viene saltata se non ci sono commit nuovi.
+  Si usa `push` e non `pull_request: closed` perché l'ambiente `github-pages` accetta deploy solo dal branch di default.
+- Requisito su GitHub: *Settings → Pages → Source: GitHub Actions*.
+- Commit: i prefissi decidono il tipo di versione, quindi vanno scelti con cura (`sito:` per le funzionalità della dashboard,
+  `fix:` per le correzioni).
+
+## 9. Ambiente di sviluppo
+- **Devcontainer** (`.devcontainer/`): Python 3.12, Node 22, GitHub CLI, Claude Code. `post-create.sh` installa
+  `requirements-dev.txt`, Chromium per i test e per l'MCP, e fa il primo export. La porta 8000 (anteprima) viene inoltrata.
+- **Estensioni** (devcontainer + `.vscode/extensions.json`): Claude Code, GitHub Pull Requests, GitHub Actions,
+  GitHub Theme, Codespaces, Python, **Git Graph** (`mhutchie.git-graph`, grafico dei branch e dei tag di release) e **Spreadsheet Viewer** (`grapecity.gc-excelviewer`) per aprire `.xlsx` in VS Code.
+  È stato scelto perché è di un editore verificato (GrapeCity/MESCIUS), ha più di 6,8 milioni di installazioni, il sorgente è
+  pubblico (github.com/wijmo/gc-excelviewer) ed è un **visualizzatore**. Il workbook va comunque **modificato in Excel**, per
+  mantenere la cache delle formule (§3).
+- **MCP** (`.mcp.json`, server di progetto per Claude Code): `@playwright/mcp@0.0.82` in Chromium headless e isolato, con
+  viewport 1360×820 e output in `.playwright-mcp/` (ignorato da git). Serve a navigare il sito e a fare screenshot ad hoc;
+  gli screenshot della guida si rigenerano invece con lo script riproducibile `scripts/screenshots.py`.
+- Versioni fissate: `playwright==1.63.0` (Python), `@playwright/mcp@0.0.82`, Chart.js 4.4.1, reveal.js 6.0.2,
+  marked 18.0.13, DOMPurify 3.4.15. Quando si aggiorna una versione, aggiornarla qui.
+- `.vscode/tasks.json`: *Anteprima GitHub Page*, *Anteprima veloce*, *Export dati*, *Test*, *Rigenera screenshot*, *Prossima versione*.
+
+## 10. Documentazione per gli utenti
+### 10.1 Guida (`docs/guida/`)
+- Il testo sta in `docs/guida/GUIDA.md` (si legge anche su GitHub); `docs/guida/index.html` lo mostra sul sito con
+  marked + DOMPurify. Le ancore sono compatibili con GitHub.
+- Screenshot in `docs/guida/img/`, generati da `python scripts/screenshots.py` (fa prima l'export): `dashboard`,
+  `tabella-filtri`, `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`, `qualita`, `mobile-scuro`.
+### 10.2 Presentazione (`docs/presentazione/`)
+- reveal.js con navigazione **2D**: in orizzontale gli argomenti (titolo, perché, dati, dashboard, come scegliere,
+  manutenzione, fine), in verticale gli approfondimenti. Riusa gli screenshot della guida e legge i numeri dal vivo da
+  `data/meta.json`. Tema chiaro/scuro automatico.
+### 10.3 Anteprima locale prima del push
+- `./scripts/anteprima.sh` (export + test + server su http://localhost:8000, con le stesse pagine che verranno pubblicate),
+  `--veloce` per saltare i test, `PORTA=9000` per cambiare porta. È disponibile anche come task di VS Code.
+- `tests/test_sito.py` controlla dashboard, dettaglio, mobile, guida (immagini caricate) e presentazione (pile verticali,
+  navigazione ↓) senza errori JavaScript. Usa `scripts/server_locale.py`.
+### 10.4 Regola di allineamento (obbligatoria)
+Ogni modifica che cambia ciò che l'utente vede o fa (dashboard, dati mostrati, flusso di rilascio, comandi) va
+accompagnata **nello stesso commit/PR** da:
+1. aggiornamento di `docs/guida/GUIDA.md`;
+2. aggiornamento della presentazione, se tocca uno degli argomenti;
+3. `python scripts/screenshots.py`, se cambia l'aspetto;
+4. aggiornamento di questo `CLAUDE.md` (struttura, schema, versioni, roadmap) e del `README.md`;
+5. test verdi (`python -m unittest discover -s tests`).
+
+## 11. Roadmap / TODO
 - [x] Script `scripts/export_xlsx.py` + `requirements.txt` + test di schema (`tests/test_export.py`)
 - [x] Prima versione della dashboard (tabella, dettaglio, scatter, confronto per categoria, qualità dei dati) + CI `pages.yml`
-- [ ] Simulatore dei costi
+- [x] CI su PR, deploy + tag + release al merge, versionamento automatico (minor/patch)
+- [x] Devcontainer, MCP Playwright, guida con screenshot, presentazione reveal.js 2D, anteprima locale
+- [ ] Simulatore dei costi (poi aggiornare guida, presentazione e screenshot)
 - [ ] Verificare le anomalie della §5 sulle Schede costi ufficiali
 - [ ] Completare i 15 fondi senza dati
 - [ ] Aggiungere l'**ISC (Indicatore Sintetico dei Costi)** COVIP a 2/5/10/35 anni: è la metrica di costo ufficiale e confrontabile
 - [ ] Valutare di rinominare `Sheet1` in `Fondi` (le formule di Excel si aggiornano da sole; aggiornare lo script)
-- [ ] Confermare l'URL esatto dell'elenco COVIP nella §4.1
+- [x] Confermare l'URL esatto dell'elenco COVIP nella §4.1
