@@ -34,6 +34,8 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
 > Prima di prendere qualsiasi decisione, verificali sulla **Nota informativa / Scheda costi** ufficiale del fondo.
 > Questo progetto non è una consulenza finanziaria.
 
+> ℹ️ **Progetto personale**, nato per uso privato e pubblicato su GitHub a puro scopo dimostrativo: non è un servizio rivolto al pubblico. L'autore non è affiliato a COVIP, ai gestori dei fondi o a Ciao Elsa.
+
 ## Sviluppo
 
 Il modo più semplice è aprire il repository in **Codespaces** o nel **devcontainer** di VS Code: viene installato tutto

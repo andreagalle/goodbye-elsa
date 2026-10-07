@@ -186,11 +186,18 @@ responsive, accessibile, in italiano.
    % sul versato + commissione di gestione sul patrimonio) e montante netto. Confronto tra 2 e 4 comparti.
 5. **Confronto per categoria** (AZN/BIL/OBB/GAR): migliori e peggiori per costo e rendimento.
 6. Sezione **"Qualità dei dati"**: copertura, anomalie aperte e fonti.
-7. Footer con disclaimer (non è consulenza finanziaria), data di aggiornamento da `meta.json` e licenza.
+7. **Disclaimer** sempre visibili: avviso "progetto personale" sotto l'intestazione e nel footer (testo canonico:
+   *"Progetto personale, nato per uso privato e pubblicato su GitHub a puro scopo dimostrativo: non è un servizio rivolto
+   al pubblico né una consulenza finanziaria."*, più la non affiliazione a COVIP, gestori e Ciao Elsa), ripetuto in
+   guida, presentazione e README. Footer con "non è consulenza finanziaria", versione e data di aggiornamento da
+   `meta.json` e licenza.
 8. **CI**: `.github/workflows/ci.yml` su ogni PR verso `master` (export, test, smoke test del sito, anteprima della
    versione); `.github/workflows/pages.yml` al merge su `master` (export, test, deploy di `docs/` con i JSON copiati in
    `docs/data/`, poi tag e release). Dettagli nella §8.
 9. Pagine collegate dal menu: **Guida** (`docs/guida/`) e **Presentazione** (`docs/presentazione/`), vedi §10.
+10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
+   sfumatura, navigazione fissa a pillole, card con ombre morbide, filtri a pillola. Colori come token CSS in
+   `docs/style.css` (chiaro/scuro); i colori delle categorie del grafico sono validati e non vanno cambiati a occhio.
 
 ## 8. Versioni e release
 - Branch principale: **`master`**. Si lavora su branch (es. `dev`) e si apre una PR verso `master`.

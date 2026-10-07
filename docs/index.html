@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Fondi Pensione Aperti a confronto</title>
   <meta name="description" content="Confronto dei fondi pensione aperti italiani iscritti all'Albo COVIP: costi, comparti, asset allocation, rendimenti e commissioni.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap">
   <link rel="stylesheet" href="style.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
   <script src="app.js" defer></script>
@@ -12,23 +15,31 @@
 <body>
   <a class="skip" href="#fondi">Vai alla tabella dei fondi</a>
 
-  <header class="site-header">
+  <header class="hero">
     <div class="wrap">
+      <p class="eyebrow">Albo COVIP · Sezione II – Fondi pensione aperti</p>
       <h1>Fondi pensione aperti a confronto</h1>
-      <p class="lead">Costi, comparti, asset allocation e rendimenti dei fondi pensione aperti dell'Albo COVIP.
-        Dati da fonti ufficiali e dalle schede di Ciao Elsa (fonte secondaria): <strong>verifica sempre la Nota informativa</strong> prima di decidere.</p>
-      <nav aria-label="Sezioni">
-        <a href="#fondi">Fondi</a>
-        <a href="#grafico">Commissione e rendimento</a>
-        <a href="#categorie">Per categoria</a>
-        <a href="#qualita">Qualità dei dati</a>
-        <a href="guida/">📖 Guida</a>
-        <a href="presentazione/">🎞️ Presentazione</a>
-      </nav>
+      <p class="lead">Costi, comparti, asset allocation e rendimenti in un unico posto. Dati da fonti ufficiali e dalle schede
+        di Ciao Elsa (fonte secondaria): <strong>verifica sempre la Nota informativa</strong> prima di decidere.</p>
     </div>
   </header>
 
+  <nav class="topnav" aria-label="Sezioni">
+    <div class="wrap">
+      <a href="#fondi">Fondi</a>
+      <a href="#grafico">Commissione e rendimento</a>
+      <a href="#categorie">Per categoria</a>
+      <a href="#qualita">Qualità dei dati</a>
+      <span class="sep" aria-hidden="true"></span>
+      <a class="extra" href="guida/">Guida</a>
+      <a class="extra" href="presentazione/">Presentazione</a>
+    </div>
+  </nav>
+
   <main class="wrap">
+    <p class="notice" role="note"><span aria-hidden="true">ℹ️</span><span><strong>Progetto personale</strong>, nato per uso privato e
+      pubblicato su GitHub a puro scopo dimostrativo: non è un servizio rivolto al pubblico né una consulenza finanziaria.</span></p>
+
     <section aria-label="Riepilogo" class="kpis" id="kpis"></section>
 
     <p id="errore-caricamento" class="alert" hidden></p>
@@ -87,6 +98,8 @@
 
   <footer class="site-footer">
     <div class="wrap">
+      <p><strong>Progetto personale</strong>, nato per uso privato e pubblicato su GitHub a puro scopo dimostrativo:
+        non è un servizio rivolto al pubblico. Autore non affiliato a COVIP, ai gestori dei fondi o a Ciao Elsa.</p>
       <p><strong>Non è consulenza finanziaria.</strong> I dati possono essere incompleti, non aggiornati o errati.
         Prima di aderire a un fondo consulta la Nota informativa, la Scheda costi e l'ISC (Indicatore Sintetico dei Costi) pubblicati dal fondo e da
         <a href="https://www.covip.it" rel="noopener">COVIP</a>.</p>

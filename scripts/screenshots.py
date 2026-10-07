@@ -21,6 +21,7 @@ OUT = ROOT / "docs" / "guida" / "img"
 
 def attendi(pg):
     pg.wait_for_selector("#tab-fondi tbody tr")
+    pg.evaluate("document.fonts.ready.then(() => true)")
     pg.wait_for_function("() => !!document.querySelector('#scatter') && window.Chart && Chart.getChart('scatter')")
     pg.wait_for_timeout(300)
 
@@ -34,6 +35,8 @@ def main() -> int:
         pg.goto(base)
         attendi(pg)
         pg.screenshot(path=OUT / "dashboard.png")
+        # negli screenshot delle singole sezioni la barra fissa coprirebbe il titolo
+        pg.add_style_tag(content=".topnav { position: static; }")
 
         pg.check("#f-dati")
         pg.check("#f-esg")

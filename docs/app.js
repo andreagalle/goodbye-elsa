@@ -258,6 +258,8 @@ function initGrafico() {
   document.getElementById("g-periodi").addEventListener("change", (e) => { STATO.includiPeriodi = e.target.checked; disegnaGrafico(); });
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", disegnaGrafico);
   disegnaGrafico();
+  // Ridisegna con il font definitivo (Inter) appena è caricato
+  document.fonts?.ready.then(() => STATO.grafico && disegnaGrafico());
 }
 
 function legendaGrafico() {
