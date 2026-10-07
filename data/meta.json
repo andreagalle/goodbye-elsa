@@ -1,0 +1,55 @@
+{
+  "generato_il": "2026-10-07T19:57:01+00:00",
+  "workbook": "fondi-pensione-covip.xlsx",
+  "workbook_modificato_il": "2026-10-07T19:41:58",
+  "workbook_sha256": "fa54dece8fa2d53a82430bec3bc9cb3229f3818be7d399ec2bf5c58961a46a49",
+  "commit": "581a7919c91cf64ad5879e70cc325e87ab7a28ff",
+  "conteggi": {
+    "fondi": 38,
+    "fondi_con_dati": 23,
+    "comparti": 102,
+    "comparti_10_anni": 95,
+    "comparti_con_anomalie": 11,
+    "fondi_con_anomalie": 19
+  },
+  "flag": {
+    "comparti": {
+      "somma_allocazione": "% azioni + % obbligazioni diversa da 100%",
+      "garantito_azionario": "Comparto garantito/prudente con più del 50% di azioni",
+      "categoria_incoerente": "% azioni incoerente con la categoria Ciao Elsa",
+      "periodo_non_10": "Rendimento non a 10 anni: non confrontabile con gli altri",
+      "rendimento_mancante": "Rendimento mancante",
+      "commissione_mancante": "Commissione di gestione mancante"
+    },
+    "fondi": {
+      "linee_diverse": "N. linee dichiarate diverso dai comparti presenti nel foglio Comparti",
+      "senza_dati": "Nessuna scheda né dati di dettaglio",
+      "comparti_anomali": "Almeno un comparto ha anomalie: le metriche aggregate potrebbero essere falsate"
+    }
+  },
+  "avvisi_export": [],
+  "fonti": [
+    {
+      "nome": "COVIP – Albo dei fondi pensione (fondi pensione aperti)",
+      "url": "https://www.covip.it",
+      "tipo": "primaria"
+    },
+    {
+      "nome": "Pagine informative dei gestori (Nota informativa, Scheda costi)",
+      "url": null,
+      "tipo": "primaria",
+      "dettaglio": "colonna url di fondi.json"
+    },
+    {
+      "nome": "Generali – confluenza di Almeglio in Generali Global dal 1/1/2027",
+      "url": "https://www.generali.it",
+      "tipo": "primaria"
+    },
+    {
+      "nome": "Ciao Elsa – schede dei fondi pensione aperti",
+      "url": "https://www.ciaoelsa.com/schede-fondo/fondi-pensione-aperti/",
+      "tipo": "secondaria",
+      "dettaglio": "colonna scheda_url di fondi.json e comparti.json"
+    }
+  ]
+}

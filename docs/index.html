@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fondi Pensione Aperti a confronto</title>
+  <meta name="description" content="Confronto dei fondi pensione aperti italiani iscritti all'Albo COVIP: costi, comparti, asset allocation, rendimenti e commissioni.">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#fondi">Vai alla tabella dei fondi</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Fondi pensione aperti a confronto</h1>
+      <p class="lead">Costi, comparti, asset allocation e rendimenti dei fondi pensione aperti dell'Albo COVIP.
+        Dati da fonti ufficiali e dalle schede di Ciao Elsa (fonte secondaria): <strong>verifica sempre la Nota informativa</strong> prima di decidere.</p>
+      <nav aria-label="Sezioni">
+        <a href="#fondi">Fondi</a>
+        <a href="#grafico">Commissione e rendimento</a>
+        <a href="#categorie">Per categoria</a>
+        <a href="#qualita">Qualità dei dati</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section aria-label="Riepilogo" class="kpis" id="kpis"></section>
+
+    <p id="errore-caricamento" class="alert" hidden></p>
+
+    <section id="fondi" aria-labelledby="h-fondi">
+      <h2 id="h-fondi">Fondi</h2>
+      <p class="hint">Clicca sul nome di un fondo per vedere i comparti. Clicca sulle intestazioni per ordinare.
+        ⚠️ indica note o anomalie da verificare.</p>
+      <form class="toolbar" id="filtri" role="search" onsubmit="return false">
+        <label class="search">
+          <span class="sr-only">Cerca</span>
+          <input type="search" id="q" placeholder="Cerca fondo o società…" autocomplete="off">
+        </label>
+        <label class="chk"><input type="checkbox" id="f-dati"> Solo con dati</label>
+        <label class="chk"><input type="checkbox" id="f-esg"> ESG</label>
+        <label class="chk"><input type="checkbox" id="f-lc"> Life cycle</label>
+        <label class="chk"><input type="checkbox" id="f-online"> Sottoscrivibile online</label>
+        <output id="conteggio" aria-live="polite"></output>
+      </form>
+      <div class="table-scroll">
+        <table class="data" id="tab-fondi">
+          <caption class="sr-only">Fondi pensione aperti</caption>
+          <thead><tr></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="grafico" aria-labelledby="h-grafico">
+      <h2 id="h-grafico">Commissione di gestione e rendimento</h2>
+      <p class="hint">Ogni punto è un comparto. In alto a sinistra ci sono i comparti più economici e con il rendimento passato più alto.
+        I rendimenti passati non garantiscono quelli futuri, e il confronto ha senso solo tra comparti con lo stesso profilo di rischio.</p>
+      <div class="toolbar">
+        <label class="chk"><input type="checkbox" id="g-periodi"> Includi i rendimenti a 3 e 5 anni <span class="tag tag-warn">non confrontabili</span></label>
+        <label class="select">Evidenzia fondo
+          <select id="g-fondo"><option value="">Nessuno</option></select>
+        </label>
+      </div>
+      <div class="legend" id="g-legend" aria-label="Legenda"></div>
+      <div class="chart-box"><canvas id="scatter" role="img" aria-label="Grafico a dispersione: commissione di gestione annua sull'asse orizzontale, rendimento netto medio annuo su quello verticale, un punto per comparto"></canvas></div>
+      <p class="hint" id="g-nota"></p>
+    </section>
+
+    <section id="categorie" aria-labelledby="h-categorie">
+      <h2 id="h-categorie">Confronto per categoria</h2>
+      <p class="hint">Categorie di Ciao Elsa: OBB riunisce gli obbligazionari misti e puri. I rendimenti sono solo quelli a 10 anni.
+        Le categorie sono quelle dichiarate dalla fonte, e alcuni comparti hanno un'asset allocation incoerente (vedi Qualità dei dati).</p>
+      <div class="cards" id="cat-cards"></div>
+    </section>
+
+    <section id="qualita" aria-labelledby="h-qualita">
+      <h2 id="h-qualita">Qualità dei dati</h2>
+      <div id="qualita-body"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p><strong>Non è consulenza finanziaria.</strong> I dati possono essere incompleti, non aggiornati o errati.
+        Prima di aderire a un fondo consulta la Nota informativa, la Scheda costi e l'ISC (Indicatore Sintetico dei Costi) pubblicati dal fondo e da
+        <a href="https://www.covip.it" rel="noopener">COVIP</a>.</p>
+      <p id="meta-footer"></p>
+      <p>Codice con licenza MIT. Fonti: COVIP, siti ufficiali dei gestori, <a href="https://www.ciaoelsa.com" rel="noopener">Ciao Elsa</a> (fonte secondaria).</p>
+    </div>
+  </footer>
+
+  <dialog id="dettaglio" aria-labelledby="d-titolo">
+    <div class="dialog-head">
+      <h2 id="d-titolo"></h2>
+      <button type="button" class="close" id="d-chiudi" aria-label="Chiudi">✕</button>
+    </div>
+    <div id="d-body"></div>
+  </dialog>
+</body>
+</html>

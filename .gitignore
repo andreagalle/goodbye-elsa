@@ -1,0 +1,3 @@
+# JSON copiati nel sito dallo script di export (la fonte è data/*.json)
+docs/data/
+__pycache__/
