@@ -208,7 +208,7 @@ responsive, accessibile, in italiano.
     `release:major` sulla PR, o avviando a mano *Deploy GitHub Page e release* con `bump = major`.
     ⚠️ **Claude non deve mai usare la major (né aggiungere la label `release:major`) senza una richiesta esplicita dell'utente.**
   - Le label `release:minor` / `release:patch` sulla PR forzano il tipo di incremento.
-- **`ci.yml`** (PR verso `master`, push sugli altri branch): export, test (schema, versioni, smoke test Playwright del sito)
+- **`ci.yml`** (solo PR verso `master` e avvio manuale; niente `push`, per non far girare due volte lo stesso job): export, test (schema, versioni, smoke test Playwright del sito)
   e, sulle PR, la versione e le note che verranno pubblicate nel *Job summary*.
 - **`pages.yml`** (push su `master`, cioè il merge di una PR, oppure avvio manuale):
   1. `build`: trova la PR di origine, calcola la versione, `APP_VERSION=vX.Y.Z python scripts/export_xlsx.py`

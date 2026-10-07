@@ -2,11 +2,11 @@ name: CI
 
 # Controlli su ogni pull request verso master: test, export, smoke test del sito
 # e anteprima della versione che verrà pubblicata al merge.
+# Niente trigger `push`: con una PR aperta ogni push farebbe girare lo stesso job due volte.
+# Per controllare un branch senza PR: Actions → CI → Run workflow.
 on:
   pull_request:
     branches: [master]
-  push:
-    branches-ignore: [master]
   workflow_dispatch:
 
 permissions:
@@ -19,6 +19,7 @@ concurrency:
 jobs:
   verifica:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
