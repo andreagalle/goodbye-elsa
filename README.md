@@ -59,4 +59,4 @@ Python 3.11+ e `pip install -r requirements-dev.txt` (solo per l'export basta `r
 poi `python -m playwright install chromium` per test e screenshot.
 
 ## Licenza e fonti
-Dati: COVIP, siti ufficiali dei gestori, Ciao Elsa (vedi `CLAUDE.md` per l'elenco completo). Codice: MIT.
+Dati: COVIP, siti ufficiali dei gestori, Ciao Elsa (vedi `CLAUDE.md` per l'elenco completo). Codice: [The Unlicense](LICENSE) (pubblico dominio); i dati restano delle rispettive fonti.

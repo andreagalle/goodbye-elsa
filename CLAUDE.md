@@ -168,7 +168,7 @@ Fideuram si sottoscrive solo tramite Private Banker.
     has_dati }`
   - `comparti.json`: `{ fondo_id, comparto, categoria, azioni, obbligazioni, rendimento, periodo_anni, commissione,
     scheda_url, note, flag_anomalia }`
-  - `meta.json`: data di export, hash del commit, conteggi, elenco delle fonti.
+  - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi, flag, elenco delle fonti.
   - Le percentuali sono decimali (0.0145), formattate solo nella UI. Celle vuote → `null`, mai 0.
   - Implementato: in più rispetto alla proposta, `fondi.json` ha `nome_breve` (denominazione senza "Fondo pensione aperto"
     ecc., usata dalla UI e per lo slug) e `flag_anomalia`; entrambi i file hanno `riga` (riga del workbook).
@@ -198,15 +198,22 @@ responsive, accessibile, in italiano.
 7. **Disclaimer** sempre visibili: avviso "progetto personale" sotto l'intestazione e nel footer (testo canonico:
    *"Progetto personale, nato per uso privato e pubblicato su GitHub a puro scopo dimostrativo: non è un servizio rivolto
    al pubblico né una consulenza finanziaria."*, più la non affiliazione a COVIP, gestori e Ciao Elsa), ripetuto in
-   guida, presentazione e README. Footer con "non è consulenza finanziaria", versione e data di aggiornamento da
-   `meta.json` e licenza.
+   guida, presentazione e README. Footer (centrato) con "non è consulenza finanziaria", versione e data di
+   aggiornamento da `meta.json` e licenza. **La licenza non si scrive mai a mano**: `export_xlsx.py` la riconosce dal
+   file `LICENSE` del repository (`meta.json → licenza`, oggi **The Unlicense**, pubblico dominio) e il footer la legge
+   da lì; il testo precisa che i dati restano delle rispettive fonti.
 8. **CI**: `.github/workflows/ci.yml` su ogni PR verso `master` (export, test, smoke test del sito, anteprima della
    versione); `.github/workflows/pages.yml` al merge su `master` (export, test, deploy di `docs/` con i JSON copiati in
    `docs/data/`, poi tag e release). Dettagli nella §8.
 9. Pagine collegate dal menu: **Guida** (`docs/guida/`) e **Presentazione** (`docs/presentazione/`), vedi §10.
+   **Navigazione** (`docs/navigazione.js`, condiviso da dashboard e guida): la barra fissa evidenzia la sezione visibile
+   (`aria-current`, IntersectionObserver) e su telefono scorre fino alla voce attiva; pulsante rotondo **"Torna su"**
+   in basso a destra, visibile dopo circa uno schermo di scorrimento. Spaziatura verticale ampia tra le sezioni (96 px,
+   72 su telefono).
 10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
    sfumatura, **intestazione, navigazione e "aperture" delle sezioni centrate** (titolo `h2` + prima riga `.hint`,
-   avviso "progetto personale"); tabelle, grafico, card, note e filtri allineati a sinistra, navigazione fissa a
+   avviso "progetto personale", sotto-aperture `.apertura` come Copertura e Anomalie in Qualità dei dati, footer);
+   tabelle, grafico, card, note e filtri allineati a sinistra, navigazione fissa a
    pillole, card con ombre morbide, filtri a pillola. `text-wrap: balance` sui titoli e `pretty` sui paragrafi, per
    evitare parole isolate a fine riga. Colori come token CSS in
    `docs/style.css` (chiaro/scuro); i colori delle categorie del grafico sono validati e non vanno cambiati a occhio.

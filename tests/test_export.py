@@ -83,6 +83,13 @@ class TestExport(unittest.TestCase):
              "rendimento": 0.01, "periodo_anni": 10, "commissione": 0.01}
         self.assertEqual(ex.flag_comparto(c), ["somma_allocazione"])
 
+    def test_licenza_dal_file_license(self):
+        lic = self.meta["licenza"]
+        testo = (ex.ROOT / "LICENSE").read_text(encoding="utf-8").lower()
+        if "public domain" in testo and "unencumbered" in testo:
+            self.assertEqual(lic["spdx"], "Unlicense")
+        self.assertNotEqual(lic["nome"], "vedi file LICENSE", "licenza non riconosciuta")
+
     def test_slug_e_nome_breve(self):
         self.assertEqual(ex.slugify("Arti & Mestieri"), "arti-e-mestieri")
         self.assertEqual(ex.nome_breve("FONDO PENSIONE APERTO TESEO"), "Teseo")

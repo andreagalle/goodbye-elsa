@@ -56,12 +56,26 @@ class TestSito(unittest.TestCase):
         pg.check("#f-dati")
         self.assertEqual(pg.locator("#tab-fondi tbody tr").count(), 23)
         self.assertIn("Versione", pg.inner_text("#meta-footer"))
+        footer = pg.inner_text(".site-footer")
+        self.assertIn("The Unlicense", footer)
+        self.assertNotIn("MIT", footer)
         self.assertEqual(errori, [])
 
     def test_dettaglio_da_link(self):
         pg, errori = self.pagina("#fondo=aureo", viewport={"width": 1280, "height": 900})
         pg.wait_for_selector("#dettaglio[open] table")
         self.assertEqual(pg.locator("#dettaglio tbody tr").count(), 5)
+        self.assertEqual(errori, [])
+
+    def test_menu_e_torna_su(self):
+        pg, errori = self.pagina("", viewport={"width": 1280, "height": 900})
+        pg.wait_for_selector("#tab-fondi tbody tr")
+        self.assertFalse(pg.is_visible(".su.visibile"))
+        pg.evaluate("document.getElementById('categorie').scrollIntoView({behavior: 'instant'})")
+        pg.wait_for_selector('.topnav a[href="#categorie"][aria-current="true"]')
+        pg.wait_for_selector(".su.visibile")
+        pg.click(".su")
+        pg.wait_for_function("() => window.scrollY === 0")
         self.assertEqual(errori, [])
 
     def test_mobile_senza_scroll_orizzontale(self):

@@ -28,7 +28,11 @@ Per un giro veloce c'è anche la [presentazione interattiva](../presentazione/):
 
 ![Parte alta della dashboard: titolo, menu e quattro riquadri di riepilogo](img/dashboard.png)
 
-In alto ci sono il menu delle sezioni e quattro **riquadri di riepilogo**:
+Sotto il titolo c'è il **menu delle sezioni**, che resta fisso in alto mentre scorri ed evidenzia la sezione in cui
+ti trovi: cliccando una voce ci salti direttamente. Dopo un po' di scorrimento compare in basso a destra il pulsante
+**↑** per tornare all'inizio della pagina (c'è anche in questa guida).
+
+Subito dopo ci sono quattro **riquadri di riepilogo**:
 
 | Riquadro | Significato |
 |---|---|

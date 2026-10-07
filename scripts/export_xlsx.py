@@ -175,6 +175,32 @@ def versione_app() -> str:
         return "sviluppo"
 
 
+# Riconoscimento della licenza dal file LICENSE del repository (la UI non la scrive mai a mano).
+LICENZE = [
+    ("unencumbered software released into the public domain", "The Unlicense", "Unlicense"),
+    ("mit license", "MIT License", "MIT"),
+    ("apache license", "Apache License 2.0", "Apache-2.0"),
+    ("gnu affero general public license", "GNU AGPL v3", "AGPL-3.0"),
+    ("gnu lesser general public license", "GNU LGPL", "LGPL"),
+    ("gnu general public license", "GNU GPL", "GPL"),
+    ("mozilla public license", "Mozilla Public License 2.0", "MPL-2.0"),
+    ("creative commons", "Creative Commons", "CC"),
+]
+
+
+def licenza_repo(rep: "Report") -> dict | None:
+    f = ROOT / "LICENSE"
+    if not f.exists():
+        rep.avviso("File LICENSE assente: la licenza non viene mostrata nel sito")
+        return None
+    testo_lic = " ".join(f.read_text(encoding="utf-8", errors="replace").lower().split())
+    for chiave, nome, spdx in LICENZE:
+        if chiave in testo_lic:
+            return {"nome": nome, "spdx": spdx, "file": "LICENSE"}
+    rep.avviso("Licenza nel file LICENSE non riconosciuta: aggiungerla a LICENZE in export_xlsx.py")
+    return {"nome": "vedi file LICENSE", "spdx": None, "file": "LICENSE"}
+
+
 def git_commit() -> str | None:
     sha = os.environ.get("GITHUB_SHA")
     if sha:
@@ -464,6 +490,7 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
         "workbook_modificato_il": modificato,
         "workbook_sha256": hashlib.sha256(xlsx.read_bytes()).hexdigest(),
         "commit": git_commit(),
+        "licenza": licenza_repo(rep),
         "conteggi": {
             "fondi": len(fondi_out),
             "fondi_con_dati": sum(f["has_dati"] for f in fondi_out),

@@ -430,13 +430,17 @@ function renderQualita() {
   }).join("");
 
   document.getElementById("qualita-body").innerHTML = `
-    <h3>Copertura</h3>
-    <p>${conDati} fondi su ${fondi.length} hanno dati di dettaglio (${pct(conDati / fondi.length, 0)}).</p>
-    <div class="cov" role="img" aria-label="${conDati} fondi con dati su ${fondi.length}">
-      <span class="si" style="flex:${conDati}"></span><span class="no" style="flex:${fondi.length - conDati}"></span></div>
+    <div class="apertura">
+      <h3>Copertura</h3>
+      <p>${conDati} fondi su ${fondi.length} hanno dati di dettaglio (${pct(conDati / fondi.length, 0)}).</p>
+      <div class="cov" role="img" aria-label="${conDati} fondi con dati su ${fondi.length}">
+        <span class="si" style="flex:${conDati}"></span><span class="no" style="flex:${fondi.length - conDati}"></span></div>
+    </div>
 
-    <h3 style="margin-top:20px">Anomalie aperte sui comparti (${anomali.length})</h3>
-    <p class="hint">Segnalate in automatico dallo script di export. I dati sono riportati come sono nella fonte, senza correzioni: vanno verificati sulle Schede costi ufficiali.</p>
+    <div class="apertura">
+      <h3>Anomalie aperte sui comparti (${anomali.length})</h3>
+      <p class="hint">Segnalate in automatico dallo script di export. I dati sono riportati come sono nella fonte, senza correzioni: vanno verificati sulle Schede costi ufficiali.</p>
+    </div>
     <div class="table-scroll"><table class="data">
       <caption class="sr-only">Comparti con anomalie</caption>
       <thead><tr><th scope="col">Fondo</th><th scope="col">Comparto</th><th scope="col">Anomalia</th><th scope="col">Nota</th></tr></thead>
@@ -487,6 +491,11 @@ document.addEventListener("click", (e) => {
 function renderFooter() {
   const m = STATO.meta;
   const commit = m.commit ? ` · commit <code>${esc(m.commit.slice(0, 7))}</code>` : "";
+  const lic = m.licenza;
+  const repo = "https://github.com/andreagalle/goodbye-elsa/blob/master/";
+  document.getElementById("licenza").innerHTML = lic
+    ? `Codice rilasciato con licenza <a href="${repo}${esc(lic.file)}" rel="noopener">${esc(lic.nome)}</a>${lic.spdx === "Unlicense" ? " (pubblico dominio)" : ""}; i dati restano delle rispettive fonti.`
+    : "";
   document.getElementById("meta-footer").innerHTML =
     `Versione <strong>${esc(m.versione ?? "—")}</strong> · Dati aggiornati al ${dataIt(m.workbook_modificato_il)} (workbook <code>${esc(m.workbook)}</code>) · export del ${dataIt(m.generato_il)}${commit}.`;
 }
