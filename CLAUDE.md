@@ -201,7 +201,9 @@ responsive, accessibile, in italiano.
    `docs/data/`, poi tag e release). Dettagli nella §8.
 9. Pagine collegate dal menu: **Guida** (`docs/guida/`) e **Presentazione** (`docs/presentazione/`), vedi §10.
 10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
-   sfumatura, navigazione fissa a pillole, card con ombre morbide, filtri a pillola. Colori come token CSS in
+   sfumatura, **intestazione e navigazione centrate** (il resto della pagina allineato a sinistra), navigazione fissa a
+   pillole, card con ombre morbide, filtri a pillola. `text-wrap: balance` sui titoli e `pretty` sui paragrafi, per
+   evitare parole isolate a fine riga. Colori come token CSS in
    `docs/style.css` (chiaro/scuro); i colori delle categorie del grafico sono validati e non vanno cambiati a occhio.
 
 ## 8. Versioni e release

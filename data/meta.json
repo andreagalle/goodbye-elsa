@@ -1,10 +1,10 @@
 {
-  "versione": "dde6188-dirty (sviluppo)",
-  "generato_il": "2026-10-07T20:59:00+00:00",
+  "versione": "47691ef-dirty (sviluppo)",
+  "generato_il": "2026-10-07T21:03:51+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
   "workbook_modificato_il": "2026-10-07T19:41:58",
   "workbook_sha256": "fa54dece8fa2d53a82430bec3bc9cb3229f3818be7d399ec2bf5c58961a46a49",
-  "commit": "dde6188252346da6d1ede0fb8f8867e39e51b794",
+  "commit": "47691efe2a66ee7bbb21f49fabd670179032e569",
   "conteggi": {
     "fondi": 38,
     "fondi_con_dati": 23,
