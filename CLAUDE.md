@@ -178,14 +178,19 @@ Fideuram si sottoscrive solo tramite Private Banker.
 Sito statico in `docs/`, senza build obbligatoria (vanilla JS + una libreria per i grafici, es. Chart.js o Plotly via CDN),
 responsive, accessibile, in italiano.
 1. **Tabella dei fondi** ordinabile e filtrabile (ESG, life cycle, online, solo con dati), con ricerca testuale, link alla
-   pagina del fondo e alla scheda fonte, e badge ⚠️ dove ci sono note o anomalie.
+   pagina del fondo e alla scheda fonte, e badge ⚠️ dove ci sono note o anomalie. ESG/life cycle/online in un'unica
+   colonna "Caratteristiche" a etichette, così su desktop (≥ 1280 px) la tabella entra senza scroll orizzontale; se non
+   entra, il contenitore prende un'altezza massima (classe `scorre`, gestita da `aggiornaScorrimento()` in `app.js`) con
+   intestazione e colonna "Fondo" fisse, perché la barra orizzontale non resti solo in fondo alle 38 righe.
 2. **Dettaglio fondo**: comparti, asset allocation (barra azioni/obbligazioni), rendimento con periodo esplicito, commissione e note.
 3. **Grafico a dispersione commissione vs rendimento** per comparto, colorato per categoria, solo comparti a 10 anni
    (con un toggle per includere quelli a 3 o 5 anni, ben segnalati).
 4. **Simulatore dei costi**: versamento annuo + orizzonte + comparto → costo totale stimato (adesione + spese fisse +
    % sul versato + commissione di gestione sul patrimonio) e montante netto. Confronto tra 2 e 4 comparti.
 5. **Confronto per categoria** (AZN/BIL/OBB/GAR): migliori e peggiori per costo e rendimento.
-6. Sezione **"Qualità dei dati"**: copertura, anomalie aperte e fonti.
+6. Sezione **"Qualità dei dati"**: copertura, anomalie aperte e fonti. Niente blocchi `<details>` "tutto o niente":
+   i fondi senza dati sono etichette sempre visibili; le note mostrano le prime 6 (due righe ciascuna) con
+   "Mostra tutte / Mostra meno".
 7. **Disclaimer** sempre visibili: avviso "progetto personale" sotto l'intestazione e nel footer (testo canonico:
    *"Progetto personale, nato per uso privato e pubblicato su GitHub a puro scopo dimostrativo: non è un servizio rivolto
    al pubblico né una consulenza finanziaria."*, più la non affiliazione a COVIP, gestori e Ciao Elsa), ripetuto in
