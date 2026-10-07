@@ -28,6 +28,10 @@ nella UI (virgola decimale, `€` dopo l'importo, es. `25,00 €`, `1,45%`).
   - Guida dettagliata + presentazione interattiva reveal.js 2D sulla GitHub Page, **sempre aggiornate e allineate**
     con il codice e con questo file (§10).
   - Possibilità di provare la GitHub Page in locale prima del push (§10.3).
+- Istruzioni permanenti sull'uso della piattaforma (da ottobre 2026): l'utente usa la dashboard e chiede ciò che non
+  capisce. Per ogni domanda Claude **spiega in chat e rende la spiegazione chiara anche nella piattaforma**; se servono
+  dati nuovi o approfondimenti, **cerca online, arricchisce prima l'Excel e poi a cascata tutto il resto**, citando le
+  fonti senza appesantire la grafica. Procedura nella §11.
 - <!-- TODO: aggiungi qui eventuali altre istruzioni della conversazione originale che non risultano dal file -->
 
 ## 3. Struttura del workbook
@@ -201,7 +205,8 @@ responsive, accessibile, in italiano.
    `docs/data/`, poi tag e release). Dettagli nella §8.
 9. Pagine collegate dal menu: **Guida** (`docs/guida/`) e **Presentazione** (`docs/presentazione/`), vedi §10.
 10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
-   sfumatura, **intestazione e navigazione centrate** (il resto della pagina allineato a sinistra), navigazione fissa a
+   sfumatura, **intestazione, navigazione e "aperture" delle sezioni centrate** (titolo `h2` + prima riga `.hint`,
+   avviso "progetto personale"); tabelle, grafico, card, note e filtri allineati a sinistra, navigazione fissa a
    pillole, card con ombre morbide, filtri a pillola. `text-wrap: balance` sui titoli e `pretty` sui paragrafi, per
    evitare parole isolate a fine riga. Colori come token CSS in
    `docs/style.css` (chiaro/scuro); i colori delle categorie del grafico sono validati e non vanno cambiati a occhio.
@@ -270,7 +275,33 @@ accompagnata **nello stesso commit/PR** da:
 4. aggiornamento di questo `CLAUDE.md` (struttura, schema, versioni, roadmap) e del `README.md`;
 5. test verdi (`python -m unittest discover -s tests`).
 
-## 11. Roadmap / TODO
+## 11. Come gestire le domande dell'utente (procedura permanente)
+1. **Spiegare in chat**, in modo semplice, con esempi presi dai dati del progetto.
+2. **Rendere chiaro anche nella piattaforma** ciò che ha generato il dubbio, nel modo più leggero possibile, in quest'ordine:
+   - testo vicino all'elemento: riga `.hint` sotto il titolo, attributo `title` sulle intestazioni di colonna (vedi
+     `titolo` in `COLONNE` di `app.js`), etichette più parlanti;
+   - voce nel **Glossario** o nella sezione giusta di `docs/guida/GUIDA.md`;
+   - una slide (verticale) nella presentazione, solo se l'argomento è centrale.
+   Niente box, icone o colori nuovi senza motivo: la pagina deve restare semplice e poco distraente (§7.10).
+3. **Se servono dati nuovi o da verificare**, cercarli online solo su fonti ammesse (§2: COVIP, siti/documenti ufficiali
+   dei gestori, Nota informativa, Scheda costi; Ciao Elsa come fonte secondaria) e aggiornare **a cascata**:
+   1. **Excel** (fonte di verità): valore nella cella, fonte come hyperlink o in `Note` nel formato
+      `Fonte: <nome> <URL> (consultata il AAAA-MM-GG)`; incoerenze segnalate, mai corrette in silenzio; formule intatte;
+      nuove colonne o fogli solo se servono, documentati nella §3;
+   2. `scripts/export_xlsx.py` (schema, validazioni, flag), `tests/`, poi `python scripts/export_xlsx.py`;
+   3. dashboard (`docs/`), guida, presentazione, `python scripts/screenshots.py`;
+   4. `CLAUDE.md` (§3 struttura, §4 fonti, §5 problemi noti, roadmap) e `README.md`.
+   Se Claude modifica l'Excel con openpyxl, deve preservare formule, formati e hyperlink. Il salvataggio fuori da Excel
+   svuota la cache delle formule: l'export la ricalcola comunque (§3), ma va chiesto all'utente di aprire e salvare il
+   file in Excel.
+4. **Citare le fonti**: in chat con i link consultati; nella piattaforma solo attraverso i canali esistenti (link
+   *Sito/Scheda*, note del fondo/comparto, sezione *Fonti* alimentata da `meta.json → fonti` nella lista di
+   `export_xlsx.py`). Ogni nuova fonte va aggiunta lì e nella §4.
+5. **Chiudere ogni richiesta** con: export, test verdi, screenshot se è cambiato l'aspetto, controllo della regola di
+   allineamento (§10.4) e **messaggio di commit pronto** (convenzionale, in italiano, con le fonti dei dati).
+   Commit e push li fa l'utente.
+
+## 12. Roadmap / TODO
 - [x] Script `scripts/export_xlsx.py` + `requirements.txt` + test di schema (`tests/test_export.py`)
 - [x] Prima versione della dashboard (tabella, dettaglio, scatter, confronto per categoria, qualità dei dati) + CI `pages.yml`
 - [x] CI su PR, deploy + tag + release al merge, versionamento automatico (minor/patch)
