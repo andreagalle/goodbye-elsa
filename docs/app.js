@@ -6,6 +6,7 @@ const STATO = {
   sort: { key: "best_rend_10a", dir: "desc" },
   filtri: { q: "", dati: false, esg: false, lc: false, online: false },
   grafico: null, evidenzia: "", includiPeriodi: false, nascosti: new Set(),
+  regole: [], longevita: null, temaRegole: null, soloVaria: false, graficoLongevita: null,
 };
 
 // ---------------------------------------------------------------- formattazione (it-IT)
@@ -53,15 +54,15 @@ function badge(testi) {
 // ---------------------------------------------------------------- caricamento
 async function carica() {
   try {
-    const [fondi, comparti, meta] = await Promise.all(
-      ["fondi", "comparti", "meta"].map((n) =>
+    const [fondi, comparti, meta, regole, longevita] = await Promise.all(
+      ["fondi", "comparti", "meta", "regole", "longevita"].map((n) =>
         fetch(`data/${n}.json`, { cache: "no-cache" }).then((r) => {
           if (!r.ok) throw new Error(`${n}.json: HTTP ${r.status}`);
           return r.json();
         })
       )
     );
-    Object.assign(STATO, { fondi, comparti, meta, perId: new Map(fondi.map((f) => [f.id, f])) });
+    Object.assign(STATO, { fondi, comparti, meta, regole, longevita, perId: new Map(fondi.map((f) => [f.id, f])) });
   } catch (e) {
     const el = document.getElementById("errore-caricamento");
     el.hidden = false;
@@ -72,6 +73,8 @@ async function carica() {
   initTabella();
   initGrafico();
   renderCategorie();
+  initRegole();
+  initLongevita();
   renderQualita();
   renderFooter();
   initDettaglio();
@@ -240,15 +243,30 @@ function apriFondo(id, aggiornaHash = true) {
       }).join("")}</tbody>
     </table></div>`;
   }
+  html += daVerificare(f);
   document.getElementById("d-body").innerHTML = html;
   if (!dlg.open) dlg.showModal();
   dlg.scrollTop = 0;
   if (aggiornaHash) history.replaceState(null, "", `#fondo=${encodeURIComponent(id)}`);
 }
 
+// Cosa verificare nei documenti del singolo fondo su pensione e decesso: le voci vengono dalle regole
+// che dipendono dal fondo (foglio Regole), così restano allineate all'Excel.
+function daVerificare(f) {
+  const voci = STATO.regole.filter((r) => ["Alla pensione", "In caso di decesso"].includes(r.tema) && r.uguale_per_tutti !== "Sì");
+  if (!voci.length) return "";
+  const sito = f.url ? ` sul <a href="${esc(f.url)}" rel="noopener" target="_blank">sito del fondo ↗</a>` : "";
+  return `<h3 class="d-sez">Alla pensione e in caso di decesso</h3>
+    <p class="hint">Le regole generali valgono per tutti i fondi (<a href="#regole">vedi Regole</a>). Per questo fondo
+      verifica nel <strong>Documento sulle rendite</strong> e nel <strong>Supplemento alla Nota informativa</strong>${sito}:</p>
+    <ul class="verifica">${voci.map((r) => `<li><strong>${esc(r.titolo)}</strong>: ${esc(r.varia)}</li>`).join("")}</ul>`;
+}
+
 function initDettaglio() {
   const dlg = document.getElementById("dettaglio");
   document.getElementById("d-chiudi").addEventListener("click", () => dlg.close());
+  // un link interno (es. "vedi Regole") chiude la finestra e porta alla sezione
+  dlg.addEventListener("click", (e) => { if (e.target.closest('a[href^="#"]')) dlg.close(); });
   dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
   dlg.addEventListener("close", () => {
     if (location.hash.startsWith("#fondo=")) history.replaceState(null, "", location.pathname + location.search);
@@ -412,6 +430,134 @@ function renderCategorie() {
       ${mostraPeggiori ? lista("Rendimento a 10 anni più basso", perRend.slice(-n).reverse(), (c) => rend(c.rendimento)) : ""}
     </article>`;
   }).join("");
+}
+
+// ---------------------------------------------------------------- regole
+const dataBreve = (iso) => new Date(iso).toLocaleDateString("it-IT");
+
+function cardRegola(r, mostraTema) {
+  const stato = r.uguale_per_tutti === "Sì"
+    ? '<span class="tag">Uguale per tutti i fondi</span>'
+    : `<span class="tag tag-on">${r.uguale_per_tutti === "No" ? "Dipende dal fondo" : "In parte dipende dal fondo"}</span>`;
+  const vigore = r.in_vigore_dal && r.in_vigore_dal >= "2026-01-01" ? `<span class="tag">dal ${esc(dataBreve(r.in_vigore_dal))}</span>` : "";
+  return `<article class="regola" id="regola-${esc(r.id)}">
+    ${mostraTema ? `<p class="regola-tema">${esc(r.tema)}</p>` : ""}
+    <h3>${esc(r.domanda)}</h3>
+    ${r.valore ? `<p class="regola-valore">${esc(r.valore)}</p>` : ""}
+    <p class="regola-testo">${esc(r.regola)}</p>
+    ${r.uguale_per_tutti !== "Sì" && r.varia ? `<p class="regola-varia"><strong>Cosa cambia tra i fondi:</strong> ${esc(r.varia)}</p>` : ""}
+    ${r.note ? `<p class="regola-nota">${esc(r.note)}</p>` : ""}
+    <p class="regola-piede">${stato}${vigore}<a href="${esc(r.fonte_url)}" rel="noopener" target="_blank" title="Fonte: ${esc(r.fonte_nome)} (consultata il ${esc(dataBreve(r.consultata_il))})">${esc(r.riferimento)} ↗</a></p>
+  </article>`;
+}
+
+function initRegole() {
+  const temi = [...new Set(STATO.regole.map((r) => r.tema))];
+  if (!temi.length) return;
+  STATO.temaRegole = temi[0];
+  const box = document.getElementById("r-temi");
+  const pulsanti = [...temi, "Tutte"];
+  box.innerHTML = pulsanti.map((t) => {
+    const n = t === "Tutte" ? STATO.regole.length : STATO.regole.filter((r) => r.tema === t).length;
+    return `<button type="button" class="pill" data-tema="${esc(t)}" aria-pressed="false">${esc(t)}<span class="n">${n}</span></button>`;
+  }).join("");
+  box.addEventListener("click", (e) => {
+    const b = e.target.closest("[data-tema]");
+    if (!b) return;
+    STATO.temaRegole = b.dataset.tema;
+    renderRegole();
+  });
+  document.getElementById("r-varia").addEventListener("change", (e) => { STATO.soloVaria = e.target.checked; renderRegole(); });
+  renderRegole();
+}
+
+function renderRegole() {
+  const tutte = STATO.temaRegole === "Tutte";
+  const lista = STATO.regole.filter((r) =>
+    (tutte || r.tema === STATO.temaRegole) && (!STATO.soloVaria || r.uguale_per_tutti !== "Sì"));
+  document.querySelectorAll("#r-temi [data-tema]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.tema === STATO.temaRegole)));
+  document.getElementById("r-lista").innerHTML = lista.length
+    ? lista.map((r) => cardRegola(r, tutte)).join("")
+    : '<p class="hint">In questo tema tutte le regole sono uguali per tutti i fondi.</p>';
+}
+
+// ---------------------------------------------------------------- longevità (tavole ISTAT)
+function initLongevita() {
+  const L = STATO.longevita;
+  if (!L || !L.serie) return;
+  const s = L.sintesi, dd = L.durata_definita;
+  const anni = (v) => NF1.format(v);
+  const kpi = (v, l) => `<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`;
+  document.getElementById("l-kpi").innerHTML =
+    kpi(`${anni(s.uomini.speranza)} · ${anni(s.donne.speranza)}`, `anni di vita attesa a ${L.eta_partenza} anni (uomini · donne): è una media`) +
+    kpi(`${s.uomini.eta_50_vivi} · ${s.donne.eta_50_vivi}`, `l'età che supera metà dei ${L.eta_partenza}enni (uomini · donne)`) +
+    kpi(`${s.uomini.eta_10_vivi} · ${s.donne.eta_10_vivi}`, "l'età che supera uno su dieci (uomini · donne)") +
+    kpi(pct(dd.vivi_a_fine.totale, 0), `è ancora vivo a ${dd.eta_fine} anni, quando finisce una rendita a durata definita iniziata a ${dd.eta_inizio} (${dd.anni} anni)`);
+  document.getElementById("l-legend").innerHTML =
+    '<span class="voce"><span class="linea" style="background:var(--cat-azn)"></span>Uomini</span>' +
+    '<span class="voce"><span class="linea" style="background:var(--cat-bil)"></span>Donne</span>' +
+    `<span class="voce"><span class="linea tratteggio"></span>Fine della rendita a durata definita (${dd.eta_fine} anni)</span>`;
+  const f = L.fonte;
+  document.getElementById("l-nota").innerHTML =
+    `Fonte: <a href="${esc(f.url)}" rel="noopener" target="_blank">${esc(f.nome)}</a>, consultata il ${esc(dataBreve(f.consultata_il))}. ` +
+    "Sono medie della popolazione italiana: la tua prospettiva dipende da salute e stile di vita. La durata della rendita a durata definita la fissa la tavola ISTAT usata per i coefficienti di trasformazione in vigore; qui è stimata con la tavola 2025.";
+  disegnaLongevita();
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", disegnaLongevita);
+  document.fonts?.ready.then(() => STATO.graficoLongevita && disegnaLongevita());
+}
+
+function disegnaLongevita() {
+  if (!window.Chart) return;
+  const L = STATO.longevita, dd = L.durata_definita;
+  const grid = css("--grid"), axis = css("--axis"), ink2 = css("--ink-2"), muted = css("--muted");
+  const serie = (sesso, colore, label) => ({
+    label, data: L.serie[sesso].map((p) => ({ x: p.eta, y: p.vivi * 100 })),
+    borderColor: colore, backgroundColor: colore, borderWidth: 2, pointRadius: 0, pointHoverRadius: 5, tension: 0.15,
+  });
+  // linea verticale tratteggiata alla fine della rendita a durata definita
+  const fineRendita = {
+    id: "fineRendita",
+    afterDatasetsDraw(chart) {
+      const { ctx, chartArea: a, scales: { x } } = chart;
+      const px = x.getPixelForValue(dd.eta_fine);
+      ctx.save();
+      ctx.strokeStyle = ink2; ctx.lineWidth = 1.5; ctx.setLineDash([5, 4]);
+      ctx.beginPath(); ctx.moveTo(px, a.top); ctx.lineTo(px, a.bottom); ctx.stroke();
+      ctx.restore();
+    },
+  };
+  STATO.graficoLongevita?.destroy();
+  STATO.graficoLongevita = new Chart(document.getElementById("longevita"), {
+    type: "line",
+    data: { datasets: [serie("uomini", css("--cat-azn"), "Uomini"), serie("donne", css("--cat-bil"), "Donne")] },
+    plugins: [fineRendita],
+    options: {
+      responsive: true, maintainAspectRatio: false, animation: false,
+      interaction: { mode: "index", intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: css("--surface"), titleColor: css("--ink"), bodyColor: ink2, borderColor: axis, borderWidth: 1, padding: 10,
+          callbacks: {
+            title: (items) => `A ${items[0].parsed.x} anni`,
+            label: (item) => `${item.dataset.label}: ${NF0.format(item.parsed.y)}% ancora in vita`,
+          },
+        },
+      },
+      scales: {
+        x: {
+          type: "linear", min: L.eta_partenza, max: L.serie.totale.at(-1).eta,
+          title: { display: true, text: "Età", color: ink2 },
+          ticks: { color: muted, stepSize: 5 }, grid: { color: grid }, border: { color: axis },
+        },
+        y: {
+          min: 0, max: 100,
+          title: { display: true, text: `% dei ${L.eta_partenza}enni ancora in vita`, color: ink2 },
+          ticks: { color: muted, stepSize: 25, callback: (v) => `${v}%` }, grid: { color: grid }, border: { display: false },
+        },
+      },
+    },
+  });
 }
 
 // ---------------------------------------------------------------- qualità dei dati

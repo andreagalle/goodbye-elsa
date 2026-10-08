@@ -78,6 +78,23 @@ class TestSito(unittest.TestCase):
         pg.wait_for_function("() => window.scrollY === 0")
         self.assertEqual(errori, [])
 
+    def test_regole_e_longevita(self):
+        import json
+        regole = json.loads((ROOT / "docs" / "data" / "regole.json").read_text(encoding="utf-8"))
+        primo_tema = regole[0]["tema"]
+        pg, errori = self.pagina("", viewport={"width": 1280, "height": 900})
+        pg.wait_for_selector("#r-lista .regola")
+        self.assertEqual(pg.locator("#r-lista .regola").count(), sum(r["tema"] == primo_tema for r in regole))
+        pg.click('#r-temi [data-tema="Tutte"]')
+        self.assertEqual(pg.locator("#r-lista .regola").count(), len(regole))
+        pg.check("#r-varia")
+        self.assertEqual(pg.locator("#r-lista .regola").count(), sum(r["uguale_per_tutti"] != "Sì" for r in regole))
+        pg.wait_for_function("() => window.Chart && Chart.getChart('longevita')")
+        self.assertEqual(pg.locator("#l-kpi .kpi").count(), 4)
+        pg.goto(self.base + "#fondo=insieme")
+        pg.wait_for_selector("#dettaglio[open] .verifica li")
+        self.assertEqual(errori, [])
+
     def test_mobile_senza_scroll_orizzontale(self):
         pg, errori = self.pagina("", viewport={"width": 390, "height": 844}, color_scheme="dark")
         pg.wait_for_selector("#tab-fondi tbody tr")

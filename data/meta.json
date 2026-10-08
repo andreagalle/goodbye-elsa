@@ -1,10 +1,10 @@
 {
-  "versione": "122d209-dirty (sviluppo)",
-  "generato_il": "2026-10-08T06:03:01+00:00",
+  "versione": "6ef5963-dirty (sviluppo)",
+  "generato_il": "2026-10-08T21:29:47+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
-  "workbook_modificato_il": "2026-10-07T19:41:58",
-  "workbook_sha256": "fa54dece8fa2d53a82430bec3bc9cb3229f3818be7d399ec2bf5c58961a46a49",
-  "commit": "122d20937ad5f9ff70fc820c4352ed93619a9a78",
+  "workbook_modificato_il": "2026-10-08T06:47:27",
+  "workbook_sha256": "45d7a90ad98ebc1879e3b0602351150634aebdc52611a3a0b9acac787c1c9065",
+  "commit": "6ef59634aaee82884c3f1a4028fc98fb1e1cd132",
   "licenza": {
     "nome": "The Unlicense",
     "spdx": "Unlicense",
@@ -16,7 +16,8 @@
     "comparti": 102,
     "comparti_10_anni": 95,
     "comparti_con_anomalie": 11,
-    "fondi_con_anomalie": 19
+    "fondi_con_anomalie": 19,
+    "regole": 32
   },
   "flag": {
     "comparti": {
@@ -33,7 +34,9 @@
       "comparti_anomali": "Almeno un comparto ha anomalie: le metriche aggregate potrebbero essere falsate"
     }
   },
-  "avvisi_export": [],
+  "avvisi_export": [
+    "115 celle con formula senza valore in cache (file salvato fuori da Excel?): uso i valori ricalcolati in Python"
+  ],
   "fonti": [
     {
       "nome": "COVIP – Elenco dei fondi iscritti all'Albo (Sezione II – Fondi pensione aperti)",
@@ -57,6 +60,72 @@
       "url": "https://www.ciaoelsa.com/schede-fondo/fondi-pensione-aperti/",
       "tipo": "secondaria",
       "dettaglio": "colonna scheda_url di fondi.json e comparti.json"
+    },
+    {
+      "nome": "COVIP – Guida introduttiva alla previdenza complementare (settembre 2018)",
+      "url": "https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "D.Lgs. 252/2005 – testo COVIP aggiornato alla Legge 199/2025",
+      "url": "https://www.covip.it/sites/default/files/legislazione_fondi/decreto_legislativo_5_dicembre_2005_n_252.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – FAQ sul conferimento del TFR",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/conferimento-tfr",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "Legge 30 dicembre 2025, n. 199 – estratto COVIP",
+      "url": "https://www.covip.it/sites/default/files/legislazione_fondi/legge_bilancio_2026.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – FAQ sul trattamento fiscale",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/trattamento-fiscale",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – FAQ sulle prestazioni",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/prestazioni",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Risposta a quesito sul riscatto ex art. 14, c. 5 (febbraio 2021)",
+      "url": "https://www.covip.it/normativa/fondi-pensione/quesiti/risposta-quesito-tema-riscatto-della-posizione-individuale-parte",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Esempio di supplemento alla Nota informativa per i fondi aperti (28 luglio 2026)",
+      "url": "https://www.covip.it/sites/default/files/notizie/esempio_supplementoni_fpa.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Istruzioni sulle prestazioni (deliberazione 25 giugno 2026)",
+      "url": "https://www.covip.it/sites/default/files/provvedimenti/istruzioni_prestazioni_25_06_2026.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Risposta a quesito: premorienza e rinuncia all'eredità (ottobre 2009)",
+      "url": "https://www.covip.it/normativa/fondi-pensione/quesiti/premorienza-rinuncia-alleredita",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "ISTAT – Tavole di mortalità della popolazione residente, Italia 2025 (stima)",
+      "url": "https://demo.istat.it/app/?i=TVM&l=it",
+      "tipo": "primaria",
+      "dettaglio": "foglio Longevita"
     }
   ]
 }

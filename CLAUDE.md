@@ -71,6 +71,34 @@ nella UI (virgola decimale, `€` dopo l'importo, es. `25,00 €`, `1,45%`).
 | I | Scheda Ciao Elsa (fonte) | hyperlink alla scheda del fondo |
 | J | Note | |
 
+### Foglio `Regole` — regole generali della previdenza complementare (intestazioni alla riga 1, una regola per riga)
+Fonte di verità per la sezione *Regole* della dashboard, la guida e la presentazione. Una riga = una regola verificata.
+| Col | Campo | Note |
+|---|---|---|
+| A | ID | `R01`, `R02`, … (univoco) |
+| B | Tema | `Come funziona`, `Adesione e TFR`, `Tasse e deduzioni`, `Prima della pensione`, `Alla pensione`, `In caso di decesso` |
+| C | Titolo breve | etichetta per gli elenchi compatti (es. "Rendita vitalizia") |
+| D | Domanda | come la porrebbe un utente |
+| E | Regola | spiegazione in italiano semplice |
+| F | Valore chiave | es. `50%`, `5.300 € l'anno` (testo) |
+| G | Uguale per tutti i fondi? | `Sì` / `In parte` / `No` |
+| H | Cosa varia da fondo a fondo | obbligatorio se G ≠ `Sì`: è la checklist dell'approfondimento per fondo |
+| I | Riferimento normativo | es. `D.Lgs. 252/2005, art. 11 c. 3` |
+| J | Fonte | nome della fonte + **hyperlink** |
+| K | Consultata il | data |
+| L | In vigore dal | data, solo per le regole nuove |
+| M | Note | incoerenze tra fonti, chiarimenti (mai correzioni silenziose) |
+
+### Foglio `Longevita` — tavola di mortalità ISTAT (Italia), età 60–110
+A Età · B–D Sopravviventi (uomini, donne, uomini e donne, su 100.000 nati) · E–G Speranza di vita residua ·
+H–J **% vivi tra i 67enni (formule** `=B9/B$9`…). Celle L1:M4: fonte, link, data di consultazione, note.
+Oggi: *Tavole di mortalità della popolazione residente 2025 (stima)*, scaricate da demo.istat.it
+(`datiripartizionecompleti2025.zip`, righe "Italia").
+
+**Componente aggiuntivo:** il workbook contiene il collegamento a **Claude per Excel** (`xl/webextensions/*`), che openpyxl
+scarta al salvataggio. Per salvarlo da Python usare sempre `scripts/workbook_utils.py` → `salva(wb, percorso)`, che lo
+reinserisce (test in `tests/test_workbook_utils.py`).
+
 **Attenzione all'export:** `openpyxl` non calcola le formule. Con `data_only=True` legge i valori **messi in cache
 dall'ultimo salvataggio in Excel**: se il file viene modificato fuori da Excel, la cache è vuota. Per questo lo script
 di export deve **risolvere da solo** `Comparti!A` (`=Sheet1!$A$n` → valore di A n) e **ricalcolare** H–L di Sheet1 in
@@ -84,6 +112,19 @@ Python, confrontandoli con i valori in cache (warning se diversi). Gli hyperlink
   (denominazioni di Sheet1 col. A).
 - **Note informative e Schede costi ufficiali** dei singoli fondi (da usare per verificare le anomalie).
 - generali.it – fonte della notizia della confluenza di Almeglio in Generali Global dal 1/1/2027.
+
+### 4.1-bis Fonti normative e statistiche (foglio `Regole` e `Longevita`, consultate l'8/10/2026)
+- D.Lgs. 252/2005, **testo COVIP aggiornato alla L. 199/2025** (con le note sulle modifiche successive):
+  https://www.covip.it/sites/default/files/legislazione_fondi/decreto_legislativo_5_dicembre_2005_n_252.pdf — è la fonte
+  più affidabile sul testo vigente (es. nota 129: capitale tornato al 50%).
+- Legge 30 dicembre 2025, n. 199 (estratto COVIP): https://www.covip.it/sites/default/files/legislazione_fondi/legge_bilancio_2026.pdf
+- COVIP, Istruzioni sulle prestazioni (deliberazione 25/6/2026): https://www.covip.it/sites/default/files/provvedimenti/istruzioni_prestazioni_25_06_2026.pdf
+- COVIP, Esempio di supplemento alla Nota informativa per i fondi aperti (28/7/2026): https://www.covip.it/sites/default/files/notizie/esempio_supplementoni_fpa.pdf
+- COVIP, FAQ (prestazioni, TFR, fisco), risposte a quesito (premorienza 10/2009; riscatto art. 14 c. 5 02/2021), Guida
+  introduttiva (2018); DM 4/9/2026 Modulo TFR3.
+- ISTAT, Tavole di mortalità 2025: https://demo.istat.it/app/?i=TVM&l=it
+- Nota tecnica: le pagine HTML di covip.it rispondono 403 ai fetch automatici; si scaricano con un User-Agent da browser
+  (curl) e i PDF si estraggono in locale (pypdf).
 
 ### 4.2 Pagine informative dei fondi (Sheet1 col. B) e schede Ciao Elsa (col. P)
 | Riga | Fondo | Pagina informativa | Scheda Ciao Elsa |
@@ -154,6 +195,16 @@ Vittoria *Bilanciato internazionale* (3), Aureo *Prudente ESG* (3), Insieme *Obb
 **Stato dei fondi:** Almeglio è chiuso a nuove adesioni e dal 1/1/2027 confluisce in Generali Global.
 Fideuram si sottoscrive solo tramite Private Banker.
 
+**Regole: fonti non allineate (verificato l'8/10/2026)**
+- Capitale alla pensione: la L. 199/2025 lo portava al **60%** dal 1/7/2026, ma il D.L. 62/2026 (conv. L. 112/2026, in vigore
+  dal 28/6/2026) ha ripristinato il **50%** prima che si applicasse. Molte fonti secondarie (e alcune sintesi) riportano 60%.
+- Le FAQ COVIP su TFR (6 mesi, silenzio-assenso) e fisco (deducibilità 5.164,57 €) non sono aggiornate alla riforma.
+- La durata della rendita a durata definita a 67 anni (≈ 19 anni) è stimata con la tavola ISTAT 2025: per legge conta la
+  tavola usata per i coefficienti di trasformazione INPS in vigore.
+
+**Cache delle formule:** dopo l'aggiunta dei fogli `Regole` e `Longevita` (salvataggio con openpyxl, 8/10/2026) la cache
+delle formule è vuota: l'export ricalcola e segnala l'avviso finché il file non viene aperto e salvato in Excel.
+
 **Copertura:** 15 fondi su 38 non hanno ancora una scheda né dati di dettaglio (righe 5, 8, 12–15, 25, 27, 33, 34, 36–40).
 
 ## 6. Regole di sviluppo
@@ -168,7 +219,13 @@ Fideuram si sottoscrive solo tramite Private Banker.
     has_dati }`
   - `comparti.json`: `{ fondo_id, comparto, categoria, azioni, obbligazioni, rendimento, periodo_anni, commissione,
     scheda_url, note, flag_anomalia }`
-  - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi, flag, elenco delle fonti.
+  - `regole.json`: `[{ id, tema, titolo, domanda, regola, valore, uguale_per_tutti, varia, riferimento, fonte_nome,
+    fonte_url, consultata_il, in_vigore_dal, note }]` (date ISO).
+  - `longevita.json`: `{ fonte, eta_partenza: 67, sintesi: {uomini|donne|totale: {speranza, eta_75_vivi, eta_50_vivi,
+    eta_25_vivi, eta_10_vivi}}, durata_definita: {eta_inizio, anni, eta_fine, vivi_a_fine}, serie: {sesso: [{eta, vivi}]} }`
+    (le quote si ricalcolano in Python dai sopravviventi).
+  - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi (anche `regole`), flag, elenco
+    delle fonti (quelle del foglio `Regole` e della tavola ISTAT vi si aggiungono **in automatico**, senza duplicati).
   - Le percentuali sono decimali (0.0145), formattate solo nella UI. Celle vuote → `null`, mai 0.
   - Implementato: in più rispetto alla proposta, `fondi.json` ha `nome_breve` (denominazione senza "Fondo pensione aperto"
     ecc., usata dalla UI e per lo slug) e `flag_anomalia`; entrambi i file hanno `riga` (riga del workbook).
@@ -210,6 +267,12 @@ responsive, accessibile, in italiano.
    (`aria-current`, IntersectionObserver) e su telefono scorre fino alla voce attiva; pulsante rotondo **"Torna su"**
    in basso a destra, visibile dopo circa uno schermo di scorrimento. Spaziatura verticale ampia tra le sezioni (96 px,
    72 su telefono).
+9-bis. **Regole** (sezione `#regole`, dopo *Per categoria*): schede lette da `regole.json`, filtro per tema a pillole
+   (default: il primo tema) e interruttore *Solo ciò che cambia da fondo a fondo*; ogni scheda ha valore chiave, stato
+   (uguale per tutti / dipende dal fondo), data di entrata in vigore se nuova e riferimento normativo con link alla fonte.
+   Sotto, **Per quanto tempo servirà il capitale?**: 4 numeri chiave e la curva ISTAT dei 67enni ancora in vita (Chart.js,
+   uomini/donne, linea tratteggiata alla fine della rendita a durata definita). Nel **dettaglio fondo**, l'elenco
+   "Alla pensione e in caso di decesso" da verificare nei documenti del fondo, generato dalle regole con G ≠ `Sì`.
 10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
    sfumatura, **intestazione, navigazione e "aperture" delle sezioni centrate** (titolo `h2` + prima riga `.hint`,
    avviso "progetto personale", sotto-aperture `.apertura` come Copertura e Anomalie in Qualità dei dati, footer);
@@ -265,10 +328,14 @@ responsive, accessibile, in italiano.
 - Il testo sta in `docs/guida/GUIDA.md` (si legge anche su GitHub); `docs/guida/index.html` lo mostra sul sito con
   marked + DOMPurify. Le ancore sono compatibili con GitHub.
 - Screenshot in `docs/guida/img/`, generati da `python scripts/screenshots.py` (fa prima l'export): `dashboard`,
-  `tabella-filtri`, `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`, `qualita`, `mobile-scuro`.
+  `tabella-filtri`, `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`, `regole`, `longevita`, `qualita`, `mobile-scuro`.
+- Capitolo **"Come funziona un fondo pensione"**: risposte alle domande dell'utente (funzionamento, TFR e uscite anticipate,
+  opzioni alla pensione e cosa dipende dal fondo, decesso ed eredi, strategie con i dati ISTAT), con le fonti in fondo.
+  I numeri devono coincidere con il foglio `Regole`.
 ### 10.2 Presentazione (`docs/presentazione/`)
-- reveal.js con navigazione **2D**: in orizzontale gli argomenti (titolo, perché, dati, dashboard, come scegliere,
-  manutenzione, fine), in verticale gli approfondimenti. Riusa gli screenshot della guida e legge i numeri dal vivo da
+- reveal.js con navigazione **2D**: in orizzontale gli argomenti (titolo, perché, dati, dashboard, **come funziona**, come
+  scegliere, manutenzione, fine), in verticale gli approfondimenti. I valori chiave delle regole (`data-regola="<titolo
+  breve>"`) e la frase sulla longevità si leggono dal vivo da `regole.json` e `longevita.json`. Riusa gli screenshot della guida e legge i numeri dal vivo da
   `data/meta.json`. Tema chiaro/scuro automatico.
 ### 10.3 Anteprima locale prima del push
 - `./scripts/anteprima.sh` (export + test + server su http://localhost:8000, con le stesse pagine che verranno pubblicate),
@@ -300,7 +367,8 @@ accompagnata **nello stesso commit/PR** da:
    2. `scripts/export_xlsx.py` (schema, validazioni, flag), `tests/`, poi `python scripts/export_xlsx.py`;
    3. dashboard (`docs/`), guida, presentazione, `python scripts/screenshots.py`;
    4. `CLAUDE.md` (§3 struttura, §4 fonti, §5 problemi noti, roadmap) e `README.md`.
-   Se Claude modifica l'Excel con openpyxl, deve preservare formule, formati e hyperlink. Il salvataggio fuori da Excel
+   Se Claude modifica l'Excel con openpyxl, deve preservare formule, formati e hyperlink e salvare con
+   `scripts/workbook_utils.salva()` (conserva il collegamento a Claude per Excel). Il salvataggio fuori da Excel
    svuota la cache delle formule: l'export la ricalcola comunque (§3), ma va chiesto all'utente di aprire e salvare il
    file in Excel.
 4. **Citare le fonti**: in chat con i link consultati; nella piattaforma solo attraverso i canali esistenti (link
@@ -315,6 +383,13 @@ accompagnata **nello stesso commit/PR** da:
 - [x] Prima versione della dashboard (tabella, dettaglio, scatter, confronto per categoria, qualità dei dati) + CI `pages.yml`
 - [x] CI su PR, deploy + tag + release al merge, versionamento automatico (minor/patch)
 - [x] Devcontainer, MCP Playwright, guida con screenshot, presentazione reveal.js 2D, anteprima locale
+- [x] Regole generali con fonti (foglio `Regole`), tavola ISTAT di longevità, sezione *Regole* e capitolo della guida
+- [ ] **Approfondimento verticale per fondo sulle prestazioni** (prossimo passo richiesto dall'utente): nuovo foglio
+  `Prestazioni` (una riga per fondo, A = `=Sheet1!$A$n`) con i campi della colonna H del foglio `Regole`: varianti
+  di rendita vitalizia offerte (reversibile, certa 5/10, controassicurata, LTC), compagnia, coefficiente di trasformazione
+  a 67 anni (rendita annua ogni 10.000 €), caricamento e rivalutazione, periodicità/comparto/costi delle nuove forme,
+  durata maggiore, conversione del residuo, costi di anticipazione/riscatto/trasferimento, link a Documento sulle
+  rendite e Supplemento alla Nota informativa, data di consultazione
 - [ ] Simulatore dei costi (poi aggiornare guida, presentazione e screenshot)
 - [ ] Verificare le anomalie della §5 sulle Schede costi ufficiali
 - [ ] Completare i 15 fondi senza dati

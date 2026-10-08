@@ -30,6 +30,7 @@
       <a href="#fondi">Fondi</a>
       <a href="#grafico">Commissione e rendimento</a>
       <a href="#categorie">Per categoria</a>
+      <a href="#regole">Regole</a>
       <a href="#qualita">Qualità dei dati</a>
       <span class="sep" aria-hidden="true"></span>
       <a class="extra" href="guida/">Guida</a>
@@ -89,6 +90,32 @@
       <p class="hint">Categorie di Ciao Elsa: OBB riunisce gli obbligazionari misti e puri. I rendimenti sono solo quelli a 10 anni.
         Le categorie sono quelle dichiarate dalla fonte, e alcuni comparti hanno un'asset allocation incoerente (vedi Qualità dei dati).</p>
       <div class="cards" id="cat-cards"></div>
+    </section>
+
+    <section id="regole" aria-labelledby="h-regole">
+      <h2 id="h-regole">Come funziona: le regole</h2>
+      <p class="hint">Le regole su versamenti, TFR, anticipazioni, pensione e decesso le fissa la legge (D.Lgs. 252/2005,
+        aggiornato alla Legge di Bilancio 2026) e valgono per tutti i fondi; dove qualcosa cambia da fondo a fondo è indicato.
+        Le spiegazioni complete sono nella <a href="guida/#come-funziona-un-fondo-pensione">guida</a>.</p>
+      <div id="r-blocco">
+        <div class="toolbar toolbar-centro">
+          <div class="pills" id="r-temi" role="group" aria-label="Filtra le regole per tema"></div>
+          <label class="chk"><input type="checkbox" id="r-varia"> Solo ciò che cambia da fondo a fondo</label>
+        </div>
+        <div class="regole" id="r-lista" aria-live="polite"></div>
+      </div>
+
+      <div id="l-blocco">
+        <div class="apertura">
+          <h3>Per quanto tempo servirà il capitale?</h3>
+          <p class="hint">Nessuno sa quanto vivrà: è il motivo per cui conta come si sceglie di ricevere la pensione.
+            Ecco quanti 67enni sono ancora in vita a ogni età secondo le tavole ISTAT più recenti.</p>
+        </div>
+        <div class="kpis compatti" id="l-kpi"></div>
+        <div class="legend" id="l-legend" aria-label="Legenda"></div>
+        <div class="chart-box basso"><canvas id="longevita" role="img" aria-label="Percentuale di persone di 67 anni ancora in vita a ogni età, uomini e donne, dati ISTAT 2025"></canvas></div>
+        <p class="hint" id="l-nota"></p>
+      </div>
     </section>
 
     <section id="qualita" aria-labelledby="h-qualita">

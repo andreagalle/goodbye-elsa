@@ -90,6 +90,44 @@ class TestExport(unittest.TestCase):
             self.assertEqual(lic["spdx"], "Unlicense")
         self.assertNotEqual(lic["nome"], "vedi file LICENSE", "licenza non riconosciuta")
 
+    def test_regole(self):
+        regole = self.meta["_extra"]["regole"]
+        self.assertGreaterEqual(len(regole), 30)
+        self.assertEqual(len({g["id"] for g in regole}), len(regole))
+        for g in regole:
+            self.assertIn(g["tema"], ex.TEMI_REGOLE)
+            self.assertIn(g["uguale_per_tutti"], ex.UGUALE_PER_TUTTI)
+            self.assertTrue(g["fonte_url"].startswith("https://"), g["id"])
+            self.assertRegex(g["consultata_il"], r"^\d{4}-\d{2}-\d{2}$")
+            if g["uguale_per_tutti"] != "Sì":
+                self.assertTrue(g["varia"], g["id"])
+        # il limite del capitale è tornato al 50% (D.L. 62/2026): un test lo protegge da modifiche distratte
+        capitale = next(g for g in regole if g["domanda"].startswith("Quanto posso prendere in capitale"))
+        self.assertEqual(capitale["valore"], "50%")
+        self.assertIn("60%", capitale["note"])
+
+    def test_longevita(self):
+        lon = self.meta["_extra"]["longevita"]
+        self.assertEqual(lon["eta_partenza"], 67)
+        for sesso in ex.SESSI:
+            serie = lon["serie"][sesso]
+            self.assertEqual(serie[0], {"eta": 67, "vivi": 1.0})
+            quote = [p["vivi"] for p in serie]
+            self.assertEqual(quote, sorted(quote, reverse=True))
+            sin = lon["sintesi"][sesso]
+            self.assertTrue(15 < sin["speranza"] < 25, sin)
+            self.assertLess(sin["eta_75_vivi"], sin["eta_50_vivi"])
+            self.assertLess(sin["eta_50_vivi"], sin["eta_25_vivi"])
+        dd = lon["durata_definita"]
+        self.assertEqual(dd["anni"], int(lon["sintesi"]["totale"]["speranza"]))
+        self.assertEqual(dd["eta_fine"], 67 + dd["anni"])
+        self.assertTrue(lon["fonte"]["url"].startswith("https://"))
+
+    def test_fonti_includono_regole(self):
+        urls = {f["url"] for f in self.meta["fonti"]}
+        for g in self.meta["_extra"]["regole"]:
+            self.assertIn(g["fonte_url"], urls)
+
     def test_slug_e_nome_breve(self):
         self.assertEqual(ex.slugify("Arti & Mestieri"), "arti-e-mestieri")
         self.assertEqual(ex.nome_breve("FONDO PENSIONE APERTO TESEO"), "Teseo")

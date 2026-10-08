@@ -51,6 +51,13 @@ def main() -> int:
         pg.locator("#grafico").screenshot(path=OUT / "grafico-evidenzia.png")
 
         pg.locator("#categorie").screenshot(path=OUT / "categorie.png")
+
+        # regole: il tema "Alla pensione" è il più rappresentativo; longevità con il grafico ISTAT
+        pg.click('#r-temi [data-tema="Alla pensione"]')
+        pg.mouse.move(0, 0)
+        pg.locator("#r-blocco").screenshot(path=OUT / "regole.png")
+        pg.wait_for_function("() => window.Chart && Chart.getChart('longevita')")
+        pg.locator("#l-blocco").screenshot(path=OUT / "longevita.png")
         q = pg.locator("#qualita")
         q.scroll_into_view_if_needed()
         box = q.bounding_box()

@@ -2,7 +2,7 @@
 """Esporta il workbook dei fondi pensione aperti (COVIP) in JSON per la dashboard.
 
 Legge data/fondi-pensione-covip.xlsx (fonte di verità) e scrive:
-  data/fondi.json, data/comparti.json, data/meta.json
+  data/fondi.json, data/comparti.json, data/regole.json, data/longevita.json, data/meta.json
 e ne copia una versione in docs/data/ per il sito.
 
 openpyxl non calcola le formule: lo script risolve da solo Comparti!A (=Sheet1!$A$n) e
@@ -32,6 +32,8 @@ XLSX_DEFAULT = ROOT / "data" / "fondi-pensione-covip.xlsx"
 
 SHEET_FONDI = "Sheet1"
 SHEET_COMPARTI = "Comparti"
+SHEET_REGOLE = "Regole"        # regole generali della previdenza complementare, con fonti
+SHEET_LONGEVITA = "Longevita"  # tavola di mortalità ISTAT (sopravviventi e speranza di vita)
 FONDI_PRIMA_RIGA = 3      # intestazioni alla riga 2
 COMPARTI_PRIMA_RIGA = 2   # intestazioni alla riga 1
 
@@ -54,6 +56,24 @@ INTESTAZIONI_COMPARTI = {
     6: "Rendimento netto medio annuo", 7: "Periodo rendimento (anni)",
     8: "Commissione di gestione annua", 9: "Scheda Ciao Elsa (fonte)", 10: "Note",
 }
+
+INTESTAZIONI_REGOLE = {
+    1: "ID", 2: "Tema", 3: "Titolo breve", 4: "Domanda", 5: "Regola", 6: "Valore chiave",
+    7: "Uguale per tutti i fondi?", 8: "Cosa varia da fondo a fondo", 9: "Riferimento normativo", 10: "Fonte",
+    11: "Consultata il", 12: "In vigore dal", 13: "Note",
+}
+TEMI_REGOLE = ("Come funziona", "Adesione e TFR", "Tasse e deduzioni", "Prima della pensione", "Alla pensione",
+               "In caso di decesso")
+UGUALE_PER_TUTTI = ("Sì", "In parte", "No")
+RE_ID_REGOLA = re.compile(r"^R\d{2}$")
+
+INTESTAZIONI_LONGEVITA = {
+    1: "Età", 2: "Sopravviventi – uomini", 3: "Sopravviventi – donne", 4: "Sopravviventi – uomini e donne",
+    5: "Speranza di vita – uomini", 6: "Speranza di vita – donne", 7: "Speranza di vita – uomini e donne",
+}
+SESSI = ("uomini", "donne", "totale")
+ETA_PARTENZA = 67    # età di riferimento: requisito anagrafico della pensione di vecchiaia
+ETA_GRAFICO_MAX = 105
 
 # Codici delle anomalie rilevate in automatico (la descrizione finisce in meta.json per la UI).
 FLAG_COMPARTI = {
@@ -297,6 +317,142 @@ def leggi_comparti(ws, fondi_per_riga: dict[int, dict], fondi_per_nome: dict[str
     return comparti
 
 
+def data_iso(v) -> str | None:
+    if v is None or v == "":
+        return None
+    if isinstance(v, dt.datetime):
+        return v.date().isoformat()
+    if isinstance(v, dt.date):
+        return v.isoformat()
+    return None
+
+
+def leggi_regole(ws, rep: Report) -> list[dict]:
+    regole = []
+    for r in range(2, ws.max_row + 1):
+        if all(ws.cell(r, c).value is None for c in range(1, 14)):
+            continue
+        dove = f"Regole riga {r}"
+        fonte = ws.cell(r, 10)
+        regola = {
+            "id": testo(ws.cell(r, 1).value),
+            "tema": testo(ws.cell(r, 2).value),
+            "titolo": testo(ws.cell(r, 3).value),
+            "domanda": testo(ws.cell(r, 4).value),
+            "regola": testo(ws.cell(r, 5).value),
+            "valore": testo(ws.cell(r, 6).value),
+            "uguale_per_tutti": testo(ws.cell(r, 7).value),
+            "varia": testo(ws.cell(r, 8).value),
+            "riferimento": testo(ws.cell(r, 9).value),
+            "fonte_nome": testo(fonte.value),
+            "fonte_url": link(fonte),
+            "consultata_il": data_iso(ws.cell(r, 11).value),
+            "in_vigore_dal": data_iso(ws.cell(r, 12).value),
+            "note": testo(ws.cell(r, 13).value),
+        }
+        for c, campo in ((11, "consultata_il"), (12, "in_vigore_dal")):
+            v = ws.cell(r, c).value
+            if v not in (None, "") and regola[campo] is None:
+                rep.errore(f"{dove}: {campo} non è una data ({v!r})")
+        regola["_dove"] = dove
+        regole.append(regola)
+    return regole
+
+
+def valida_regole(regole: list[dict], rep: Report) -> None:
+    visti = set()
+    for g in regole:
+        dove = g["_dove"]
+        if not g["id"] or not RE_ID_REGOLA.match(g["id"]):
+            rep.errore(f"{dove}: ID {g['id']!r} non valido (atteso R01, R02, …)")
+        elif g["id"] in visti:
+            rep.errore(f"{dove}: ID duplicato {g['id']}")
+        visti.add(g["id"])
+        if g["tema"] not in TEMI_REGOLE:
+            rep.errore(f"{dove}: tema {g['tema']!r} non in {TEMI_REGOLE}")
+        for campo in ("titolo", "domanda", "regola", "riferimento"):
+            if not g[campo]:
+                rep.errore(f"{dove}: {campo} vuoto")
+        if g["uguale_per_tutti"] not in UGUALE_PER_TUTTI:
+            rep.errore(f"{dove}: 'Uguale per tutti i fondi?' = {g['uguale_per_tutti']!r}, ammessi {UGUALE_PER_TUTTI}")
+        elif g["uguale_per_tutti"] != "Sì" and not g["varia"]:
+            rep.errore(f"{dove}: indicare cosa varia da fondo a fondo")
+        if not (g["fonte_nome"] and g["fonte_url"]):
+            rep.errore(f"{dove}: fonte senza nome o senza link")
+        if not g["consultata_il"]:
+            rep.errore(f"{dove}: manca la data di consultazione della fonte")
+
+
+def leggi_longevita(ws, rep: Report) -> dict:
+    """Tavola ISTAT: sopravviventi e speranza di vita per età; le % di sopravvivenza si ricalcolano qui."""
+    righe = []
+    for r in range(2, ws.max_row + 1):
+        eta = ws.cell(r, 1).value
+        if eta is None:
+            continue
+        dove = f"Longevita riga {r}"
+        if not isinstance(eta, int):
+            rep.errore(f"{dove}: età non intera ({eta!r})")
+            continue
+        riga = {"eta": eta}
+        for j, sesso in enumerate(SESSI):
+            riga[f"l_{sesso}"] = numero(ws.cell(r, 2 + j).value, f"sopravviventi {sesso}", dove, rep)
+            riga[f"e_{sesso}"] = numero(ws.cell(r, 5 + j).value, f"speranza di vita {sesso}", dove, rep)
+        righe.append(riga)
+    meta = {testo(ws.cell(r, 12).value): ws.cell(r, 13) for r in range(1, 6) if testo(ws.cell(r, 12).value)}
+    fonte = {
+        "nome": testo(meta["Fonte"].value) if "Fonte" in meta else None,
+        "url": link(meta["Link"]) if "Link" in meta else None,
+        "consultata_il": data_iso(meta["Consultata il"].value) if "Consultata il" in meta else None,
+        "note": testo(meta["Note"].value) if "Note" in meta else None,
+    }
+    if not (fonte["nome"] and fonte["url"] and fonte["consultata_il"]):
+        rep.errore("Longevita: mancano fonte, link o data di consultazione (celle L1:M3)")
+
+    eta = [x["eta"] for x in righe]
+    if eta != list(range(eta[0], eta[0] + len(eta))) if eta else True:
+        rep.errore("Longevita: le età devono essere consecutive")
+        return {}
+    per_eta = {x["eta"]: x for x in righe}
+    if ETA_PARTENZA not in per_eta:
+        rep.errore(f"Longevita: manca l'età {ETA_PARTENZA}")
+        return {}
+    for sesso in SESSI:
+        valori = [per_eta[e][f"l_{sesso}"] for e in eta]
+        if any(v is None or v < 0 for v in valori) or any(b > a for a, b in zip(valori, valori[1:])):
+            rep.errore(f"Longevita: sopravviventi {sesso} mancanti, negativi o crescenti con l'età")
+            return {}
+
+    base = {s: per_eta[ETA_PARTENZA][f"l_{s}"] for s in SESSI}
+    serie, sintesi = {}, {}
+    for s in SESSI:
+        quota = {e: per_eta[e][f"l_{s}"] / base[s] for e in eta if ETA_PARTENZA <= e <= ETA_GRAFICO_MAX}
+        serie[s] = [{"eta": e, "vivi": round(q, 4)} for e, q in quota.items()]
+
+        def eta_soglia(soglia):
+            return next((e for e, q in quota.items() if q <= soglia), None)
+
+        e67 = per_eta[ETA_PARTENZA][f"e_{s}"]
+        sintesi[s] = {
+            "speranza": round(e67, 2),
+            "eta_75_vivi": eta_soglia(0.75),
+            "eta_50_vivi": eta_soglia(0.5),
+            "eta_25_vivi": eta_soglia(0.25),
+            "eta_10_vivi": eta_soglia(0.10),
+        }
+    # rendita a durata definita (art. 11 c. 3-ter): anni interi di speranza di vita, tavola uomini e donne insieme
+    durata = int(sintesi["totale"]["speranza"])
+    fine = ETA_PARTENZA + durata
+    durata_definita = {
+        "eta_inizio": ETA_PARTENZA,
+        "anni": durata,
+        "eta_fine": fine,
+        "vivi_a_fine": {s: round(per_eta[fine][f"l_{s}"] / base[s], 4) for s in SESSI},
+    }
+    return {"fonte": fonte, "eta_partenza": ETA_PARTENZA, "sintesi": sintesi,
+            "durata_definita": durata_definita, "serie": serie}
+
+
 # ---------------------------------------------------------------- calcoli
 
 def ricalcola_metriche(fondo: dict, suoi: list[dict]) -> None:
@@ -406,9 +562,11 @@ def valida(fondi: list[dict], comparti: list[dict], rep: Report) -> None:
 # ---------------------------------------------------------------- main
 
 def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
+    """Restituisce (fondi, comparti, meta); regole e longevità finiscono in meta["_extra"] e vengono
+    scritte in file separati da main()."""
     wb = openpyxl.load_workbook(xlsx)
     wb_cache = openpyxl.load_workbook(xlsx, data_only=True)
-    for nome in (SHEET_FONDI, SHEET_COMPARTI):
+    for nome in (SHEET_FONDI, SHEET_COMPARTI, SHEET_REGOLE, SHEET_LONGEVITA):
         if nome not in wb.sheetnames:
             rep.errore(f"Foglio {nome!r} mancante (presenti: {wb.sheetnames})")
     if rep.errori:
@@ -417,8 +575,15 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     ws_f, ws_c = wb[SHEET_FONDI], wb[SHEET_COMPARTI]
     verifica_intestazioni(ws_f, 2, INTESTAZIONI_FONDI, rep)
     verifica_intestazioni(ws_c, 1, INTESTAZIONI_COMPARTI, rep)
+    verifica_intestazioni(wb[SHEET_REGOLE], 1, INTESTAZIONI_REGOLE, rep)
+    verifica_intestazioni(wb[SHEET_LONGEVITA], 1, INTESTAZIONI_LONGEVITA, rep)
     if rep.errori:
         return [], [], {}
+
+    regole = leggi_regole(wb[SHEET_REGOLE], rep)
+    valida_regole(regole, rep)
+    regole_out = [{k: v for k, v in g.items() if k != "_dove"} for g in regole]
+    longevita = leggi_longevita(wb[SHEET_LONGEVITA], rep)
 
     fondi = leggi_fondi(ws_f, wb_cache[SHEET_FONDI], rep)
     usati: set[str] = set()
@@ -498,6 +663,7 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
             "comparti_10_anni": sum(c["periodo_anni"] == 10 for c in comparti_out),
             "comparti_con_anomalie": sum(bool(c["flag_anomalia"]) for c in comparti_out),
             "fondi_con_anomalie": sum(bool(f["flag_anomalia"]) for f in fondi_out),
+            "regole": len(regole_out),
         },
         "flag": {"comparti": FLAG_COMPARTI, "fondi": FLAG_FONDI},
         "avvisi_export": rep.warning,
@@ -514,6 +680,17 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
              "dettaglio": "colonna scheda_url di fondi.json e comparti.json"},
         ],
     }
+    # fonti delle regole e della tavola di longevità, senza duplicati (la lista resta allineata all'Excel)
+    viste = {f["url"] for f in meta["fonti"]}
+    for g in regole_out:
+        if g["fonte_url"] not in viste:
+            viste.add(g["fonte_url"])
+            meta["fonti"].append({"nome": g["fonte_nome"], "url": g["fonte_url"], "tipo": "primaria",
+                                  "dettaglio": "foglio Regole"})
+    if longevita.get("fonte", {}).get("url") and longevita["fonte"]["url"] not in viste:
+        meta["fonti"].append({"nome": longevita["fonte"]["nome"], "url": longevita["fonte"]["url"],
+                              "tipo": "primaria", "dettaglio": "foglio Longevita"})
+    meta["_extra"] = {"regole": regole_out, "longevita": longevita}
     return fondi_out, comparti_out, meta
 
 
@@ -544,15 +721,18 @@ def main(argv: list[str] | None = None) -> int:
         print(f"Export fallito: {len(rep.errori)} errori, {len(rep.warning)} warning.", file=sys.stderr)
         return 1
 
+    extra = meta.pop("_extra")
     c = meta["conteggi"]
     print(f"OK: {c['fondi']} fondi ({c['fondi_con_dati']} con dati), {c['comparti']} comparti, "
-          f"{c['comparti_con_anomalie']} comparti segnalati, {len(rep.warning)} warning.")
+          f"{c['comparti_con_anomalie']} comparti segnalati, {c['regole']} regole, {len(rep.warning)} warning.")
     if args.check:
         return 0
 
     for cartella in [args.out] + ([] if args.no_docs else [args.docs]):
         scrivi_json(cartella / "fondi.json", fondi)
         scrivi_json(cartella / "comparti.json", comparti)
+        scrivi_json(cartella / "regole.json", extra["regole"])
+        scrivi_json(cartella / "longevita.json", extra["longevita"])
         scrivi_json(cartella / "meta.json", meta)
         print(f"Scritto in {cartella}")
     return 0

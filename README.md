@@ -12,9 +12,10 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
 | Percorso | Descrizione |
 |---|---|
 | `data/fondi-pensione-covip.xlsx` | Workbook sorgente (fonte di verità, modificato a mano in Excel) |
-| `data/fondi.json`, `data/comparti.json`, `data/meta.json` | Dati esportati dal workbook (generati, non modificarli a mano) |
+| `data/fondi.json`, `data/comparti.json`, `data/regole.json`, `data/longevita.json`, `data/meta.json` | Dati esportati dal workbook (generati, non modificarli a mano) |
 | `scripts/export_xlsx.py` | Converte il workbook in JSON, con validazione dello schema e anomalie |
 | `scripts/versione.py` | Calcola la prossima versione e le note di rilascio dai commit |
+| `scripts/workbook_utils.py` | Salva il workbook da Python senza perdere il collegamento a Claude per Excel |
 | `scripts/anteprima.sh` | Anteprima locale della GitHub Page (export + test + server) |
 | `scripts/screenshots.py` | Rigenera gli screenshot della guida e della presentazione |
 | `docs/` | Sito statico GitHub Pages: dashboard, `guida/`, `presentazione/` |
@@ -29,6 +30,9 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
   (filtro *Tipologia: Sezione II – Fondi pensione aperti*), di cui **23** con dati dettagliati presi dalle schede di [Ciao Elsa](https://www.ciaoelsa.com).
 - **102 comparti**, con categoria, % azioni/obbligazioni, rendimento netto medio annuo, orizzonte del rendimento e commissione di gestione.
 - Le metriche per fondo (n. comparti, commissione min/max, % azioni max, miglior rendimento a 10 anni) sono **calcolate con formule** a partire dal foglio `Comparti`.
+- **32 regole generali** (TFR, tasse, anticipazioni, opzioni alla pensione, decesso) aggiornate alla Legge di Bilancio 2026,
+  ognuna con riferimento normativo e link alla fonte ufficiale (foglio `Regole`), e la **tavola di mortalità ISTAT 2025**
+  per ragionare sulla durata della pensione (foglio `Longevita`).
 
 > ⚠️ I dati vengono da fonti secondarie (Ciao Elsa) e contengono anomalie note (vedi `CLAUDE.md` → *Problemi noti nei dati*).
 > Prima di prendere qualsiasi decisione, verificali sulla **Nota informativa / Scheda costi** ufficiale del fondo.

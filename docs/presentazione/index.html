@@ -79,6 +79,11 @@
     kbd { font: inherit; border: 1px solid var(--border); border-bottom-width: 3px; border-radius: 6px; padding: 0 0.35em; background: var(--card); }
     .esempio { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6em; margin-top: 0.5em; }
     .esempio .kpi .v { font-size: 1.4em; }
+    .reveal table.tab { font-size: 0.62em; border-collapse: collapse; margin: 0.4em 0; width: 100%; }
+    .reveal table.tab th, .reveal table.tab td { border-bottom: 1px solid var(--border); padding: 0.35em 0.5em; text-align: left; vertical-align: top; }
+    .reveal table.tab th { width: 38%; font-weight: 600; }
+    .due-col { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6em; font-size: 0.8em; }
+    .due-col ul { font-size: 0.75em; margin: 0.3em 0 0 1em; }
     .reveal .controls { color: var(--accent); }
     .reveal .progress { color: var(--accent); }
     @media (max-width: 700px) { .kpis, .esempio { grid-template-columns: 1fr; } }
@@ -200,6 +205,11 @@
           <img class="shot" src="../guida/img/categorie.png" alt="Classifiche per categoria">
         </section>
         <section>
+          <h3>Le regole in schede</h3>
+          <img class="shot" src="../guida/img/regole.png" alt="Le schede delle regole sul tema Alla pensione">
+          <p class="piccolo">Filtri per tema e "solo ciò che cambia da fondo a fondo". Ogni regola ha il link alla fonte ufficiale.</p>
+        </section>
+        <section>
           <h3>Qualità dei dati</h3>
           <img class="shot" src="../guida/img/qualita.png" alt="Copertura e anomalie aperte">
         </section>
@@ -209,7 +219,93 @@
         </section>
       </section>
 
-      <!-- 5. Come scegliere ─────────────────────────────────────── -->
+      <!-- 5. Come funziona ─────────────────────────────────────── -->
+      <section>
+        <section>
+          <h2>Come funziona un fondo pensione</h2>
+          <div class="flusso" aria-label="Le due fasi di un fondo pensione">
+            <span class="box">💶 Versamenti + TFR</span><span class="freccia">→</span>
+            <span class="box">📈 Comparto scelto</span><span class="freccia">→</span>
+            <span class="box">🧮 Posizione individuale</span><span class="freccia">→</span>
+            <span class="box">🏖️ Pensione: capitale + rendita</span>
+          </div>
+          <ul>
+            <li>Un <strong>conto individuale</strong>: si sa quanto si versa, non quanto si riceverà</li>
+            <li>Contributi deducibili fino a <strong data-regola="Deducibilità">5.300 € l'anno</strong>, rendimenti tassati al 20%</li>
+            <li>Pensione complementare con i requisiti di quella pubblica e almeno <strong>5 anni</strong> di partecipazione</li>
+          </ul>
+          <p class="piccolo">↓ TFR, anticipazioni, pensione, decesso · regole in vigore all'8 ottobre 2026</p>
+        </section>
+        <section>
+          <h3>Il TFR</h3>
+          <ul>
+            <li>Neoassunti dal 1° luglio 2026: adesione <strong>automatica</strong> al fondo negoziale, con <strong>60 giorni</strong> per scegliere un altro fondo o tenere il TFR in azienda</li>
+            <li>Dall'azienda al fondo si passa quando vuoi; <strong>dal fondo all'azienda no</strong></li>
+            <li>In azienda: 1,5% + 75% dell'inflazione. Nel fondo: investito nel comparto, tassato dal 15% al 9%</li>
+            <li>Contributo del datore: di solito solo nel fondo negoziale. Dal 31/10/2026 segue chi trasferisce la posizione</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Riaverlo prima della pensione</h3>
+          <table class="tab">
+            <tr><th>Spese sanitarie gravissime</th><td data-regola="Anticipo per spese mediche">75%, in qualsiasi momento</td></tr>
+            <tr><th>Prima casa (tua o dei figli)</th><td data-regola="Anticipo per la casa">75%, dopo 8 anni</td></tr>
+            <tr><th>Altre esigenze</th><td data-regola="Anticipo per altre esigenze">30%, dopo 8 anni</td></tr>
+            <tr><th>Perdita del lavoro, invalidità</th><td data-regola="Riscatto per perdita del lavoro">50% o 100%</td></tr>
+            <tr><th>RITA: smetti di lavorare vicino alla pensione</th><td data-regola="RITA">5 o 10 anni prima della vecchiaia</td></tr>
+          </table>
+          <p class="piccolo">Tasse dal 15% al 9% (23% per casa e altre esigenze). Dopo 2 anni puoi cambiare fondo, senza tasse.</p>
+        </section>
+        <section>
+          <h3>Alla pensione</h3>
+          <p>Fino al <strong data-regola="Capitale">50%</strong> in capitale, il resto in <strong>una sola</strong> di queste forme:</p>
+          <table class="tab">
+            <tr><th>Rendita vitalizia</th><td>per tutta la vita; alla morte il residuo non torna (salvo reversibile, certa, controassicurata)</td></tr>
+            <tr><th>Rendita a durata definita</th><td>rate per <span data-regola="Rendita a durata definita">≈ 19 anni se inizi a 67</span>; il residuo va ai beneficiari</td></tr>
+            <tr><th>Prelievi liberi</th><td>quando vuoi, entro le rate maturate; il residuo va ai beneficiari</td></tr>
+            <tr><th>Erogazione frazionata</th><td>rate per <span data-regola="Erogazione frazionata">almeno 5 anni</span> (dal 31/10/2026); tasse dal 20% al 15%</td></tr>
+          </table>
+          <p class="piccolo">Il 60% in capitale annunciato dalla Legge di Bilancio 2026 non è mai entrato in vigore: il limite è rimasto 50%.</p>
+        </section>
+        <section>
+          <h3>Regola o condizione del fondo?</h3>
+          <div class="due-col">
+            <div class="kpi"><div class="l"><strong>Uguale per tutti (legge)</strong></div>
+              <ul><li>Requisiti e limite del capitale</li><li>Forme di erogazione disponibili</li><li>Tasse</li><li>Regole sul decesso</li></ul></div>
+            <div class="kpi"><div class="l"><strong>Cambia da fondo a fondo</strong></div>
+              <ul><li>Varianti della vitalizia</li><li>Coefficienti: quanta rendita per ogni euro</li><li>Costi della rendita</li><li>Rate, comparto e costi delle nuove forme</li></ul></div>
+          </div>
+          <p class="piccolo">Dove guardare: Documento sulle rendite e Supplemento alla Nota informativa del fondo.</p>
+        </section>
+        <section>
+          <h3>In caso di decesso</h3>
+          <ul>
+            <li><strong>Prima della pensione</strong>: tutta la posizione ai beneficiari designati, altrimenti agli eredi (a titolo proprio, non come eredità)</li>
+            <li><strong>Rendita vitalizia base</strong>: si ferma, il residuo resta all'assicurazione</li>
+            <li><strong>Reversibile, certa, controassicurata</strong>: proteggono chi resta, con una rata più bassa</li>
+            <li><strong>Nuove forme</strong>: il capitale residuo va alle persone indicate al momento della scelta</li>
+            <li>Quando muoiono anche loro: ciò che hanno ricevuto è loro e segue la loro successione; le rendite si estinguono</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Per quanto tempo servirà il capitale?</h3>
+          <img class="shot" src="../guida/img/longevita.png" alt="Quanti 67enni sono ancora in vita a ogni età, ISTAT 2025" style="max-height:52vh">
+          <p class="piccolo" id="lon-frase">A 86 anni, quando finisce una rendita a durata definita iniziata a 67, è ancora vivo più di uno su due.</p>
+        </section>
+        <section>
+          <h3>Strategie, senza sapere quanto si vivrà</h3>
+          <ol>
+            <li>Le spese essenziali coperte da entrate <strong>per tutta la vita</strong> (pensione pubblica + vitalizia)</li>
+            <li>Il capitale per progetti, imprevisti, eredità: non è protetto dalla longevità</li>
+            <li>Nuove forme: flessibili, ma possono finire. Durata più lunga, comparto prudente o conversione in vitalizia più avanti</li>
+            <li>Nessuna fretta: puoi chiedere la prestazione più tardi, con una rendita più alta</li>
+            <li>Confronta le condizioni di rendita tra i fondi e designa i beneficiari</li>
+          </ol>
+          <p class="piccolo">Criteri generali, non consulenza: per scelte personali serve un consulente indipendente.</p>
+        </section>
+      </section>
+
+      <!-- 6. Come scegliere ─────────────────────────────────────── -->
       <section>
         <section>
           <h2>Come usare i dati per scegliere</h2>
@@ -242,7 +338,7 @@
         </section>
       </section>
 
-      <!-- 6. Manutenzione ───────────────────────────────────────── -->
+      <!-- 7. Manutenzione ───────────────────────────────────────── -->
       <section>
         <section>
           <h2>Per chi mantiene il progetto</h2>
@@ -278,7 +374,7 @@
         </section>
       </section>
 
-      <!-- 7. Fine ───────────────────────────────────────────────── -->
+      <!-- 8. Fine ───────────────────────────────────────────────── -->
       <section class="centro">
         <h2>Grazie!</h2>
         <p><a href="../">📊 Dashboard</a> · <a href="../guida/">📖 Guida</a> ·
@@ -313,6 +409,20 @@
     });
 
     // Numeri dal vivo dagli stessi JSON della dashboard
+    // valori chiave delle regole e della longevità letti dagli stessi JSON della dashboard (allineati all'Excel)
+    fetch("../data/regole.json", { cache: "no-cache" }).then((r) => r.json()).then((regole) => {
+      const perTitolo = new Map(regole.map((r) => [r.titolo, r]));
+      document.querySelectorAll("[data-regola]").forEach((el) => {
+        const r = perTitolo.get(el.dataset.regola);
+        if (r && r.valore) el.textContent = r.valore;
+      });
+    }).catch(() => {});
+    fetch("../data/longevita.json", { cache: "no-cache" }).then((r) => r.json()).then((L) => {
+      const d = L.durata_definita, pc = (v) => `${Math.round(v * 100)}%`;
+      document.getElementById("lon-frase").textContent =
+        `A ${d.eta_fine} anni, quando finisce una rendita a durata definita iniziata a ${d.eta_inizio}, è ancora vivo il ${pc(d.vivi_a_fine.totale)} dei ${d.eta_inizio}enni (uomini ${pc(d.vivi_a_fine.uomini)}, donne ${pc(d.vivi_a_fine.donne)}). Fonte: ISTAT 2025.`;
+    }).catch(() => {});
+
     fetch("../data/meta.json", { cache: "no-cache" })
       .then((r) => r.json())
       .then((m) => {
