@@ -259,6 +259,8 @@ th[aria-sort="descending"] .sort::after { content: "↓"; color: var(--accent); 
 .legend .hollow { width: 10px; height: 10px; border: 2px solid var(--ink-2); border-radius: 50%; }
 .legend .chk { background: none; border: 0; padding: 3px 10px; cursor: default; }
 .chart-box { position: relative; height: min(540px, 70vh); background: var(--surface); border-radius: var(--radius); box-shadow: var(--shadow); padding: 16px; }
+/* didascalia sotto un grafico a tutta larghezza: centrata come il grafico */
+.chart-box + .hint { text-align: center; text-wrap: balance; max-width: 72ch; margin: 12px auto 0; }
 
 /* grafico della longevità */
 .chart-box.basso { height: min(400px, 60vh); }

@@ -57,6 +57,10 @@ def main() -> int:
         pg.mouse.move(0, 0)
         pg.locator("#r-blocco").screenshot(path=OUT / "regole.png")
         pg.wait_for_function("() => window.Chart && Chart.getChart('longevita')")
+        # il blocco è alto quasi quanto la finestra: va portato in cima, perché Chromium non disegna il testo
+        # oltre il bordo inferiore (si perdeva l'ultima riga della didascalia)
+        pg.locator("#l-blocco").evaluate(
+            "e => scrollTo({ top: e.getBoundingClientRect().top + scrollY, behavior: 'instant' })")
         pg.locator("#l-blocco").screenshot(path=OUT / "longevita.png")
         q = pg.locator("#qualita")
         q.scroll_into_view_if_needed()

@@ -276,6 +276,8 @@ responsive, accessibile, in italiano.
 10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
    sfumatura, **intestazione, navigazione e "aperture" delle sezioni centrate** (titolo `h2` + prima riga `.hint`,
    avviso "progetto personale", sotto-aperture `.apertura` come Copertura e Anomalie in Qualità dei dati, footer);
+   centrate anche le **didascalie sotto le immagini a tutta larghezza** (`.chart-box + .hint` sotto i grafici di
+   commissione/rendimento e longevità, `img.shot + .piccolo` nella presentazione, figure della guida);
    tabelle, grafico, card, note e filtri allineati a sinistra, navigazione fissa a
    pillole, card con ombre morbide, filtri a pillola. `text-wrap: balance` sui titoli e `pretty` sui paragrafi, per
    evitare parole isolate a fine riga. Colori come token CSS in
@@ -329,6 +331,10 @@ responsive, accessibile, in italiano.
   marked + DOMPurify. Le ancore sono compatibili con GitHub.
 - Screenshot in `docs/guida/img/`, generati da `python scripts/screenshots.py` (fa prima l'export): `dashboard`,
   `tabella-filtri`, `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`, `regole`, `longevita`, `qualita`, `mobile-scuro`.
+- **Immagini centrate con didascalia** (richiesta dell'utente): nel Markdown un'immagine sta da sola nel suo paragrafo
+  (`![Didascalia](img/x.png)`); `index.html` la trasforma in `<figure>` con il testo alternativo come `<figcaption>`, e
+  immagine e didascalia sono centrate, anche quelle più strette della pagina (es. `mobile-scuro`). Il testo
+  alternativo va quindi scritto come una didascalia leggibile.
 - Capitolo **"Come funziona un fondo pensione"**: risposte alle domande dell'utente (funzionamento, TFR e uscite anticipate,
   opzioni alla pensione e cosa dipende dal fondo, decesso ed eredi, strategie con i dati ISTAT), con le fonti in fondo.
   I numeri devono coincidere con il foglio `Regole`.

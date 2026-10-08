@@ -16,9 +16,13 @@
     .guida h3 { font-size: 1.1rem; margin: 24px 0 8px; }
     .guida p, .guida li { max-width: 75ch; }
     .guida img {
-      display: block; max-width: 100%; height: auto; margin: 12px 0 20px;
+      display: block; max-width: 100%; height: auto; margin: 12px auto 20px;
       border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface);
     }
+    /* immagini centrate con la didascalia (dal testo alternativo) centrata sotto, anche quelle strette */
+    .guida figure { margin: 20px auto 28px; text-align: center; }
+    .guida figure img { margin: 0 auto 8px; }
+    .guida figcaption { max-width: 60ch; margin: 0 auto; color: var(--muted); font-size: 0.9rem; text-wrap: balance; }
     .guida blockquote { margin: 16px 0; padding: 10px 16px; background: var(--warn-bg); color: var(--warn-ink); border-radius: var(--radius); }
     .guida blockquote p { margin: 4px 0; }
     .guida table { border-collapse: collapse; margin: 12px 0; font-size: 0.92rem; display: block; overflow-x: auto; }
@@ -70,6 +74,19 @@
         });
         main.innerHTML = DOMPurify.sanitize(marked.parse(md));
         main.querySelectorAll("img").forEach((img) => { img.decoding = "async"; });
+        // Un'immagine da sola nel paragrafo diventa una figura con la didascalia presa dal testo alternativo
+        main.querySelectorAll("p").forEach((p) => {
+          const img = p.querySelector(":scope > img");
+          if (!img || p.childElementCount !== 1 || p.textContent.trim()) return;
+          const fig = document.createElement("figure");
+          fig.append(img);
+          if (img.alt) {
+            const cap = document.createElement("figcaption");
+            cap.textContent = img.alt;
+            fig.append(cap);
+          }
+          p.replaceWith(fig);
+        });
         const h1 = main.querySelector("h1");
         if (h1) document.title = `${h1.textContent} – Fondi pensione aperti`;
         if (location.hash) document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView();
