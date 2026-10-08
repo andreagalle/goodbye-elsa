@@ -238,6 +238,8 @@ responsive, accessibile, in italiano.
      **Allegati** (preparati nel job `build`, passati con l'artifact `rilascio`): `fondi.json`, `comparti.json`,
      `meta.json` della versione, `fondi-pensione-covip-vX.Y.Z.xlsx`, `sito-vX.Y.Z.zip` (il contenuto di `docs/` così
      come pubblicato) e `SHA256SUMS.txt`. GitHub aggiunge da solo gli archivi del codice sorgente.
+     Gli allegati stanno solo nella pagina *Releases*: la sezione *Packages* (GitHub Packages: npm, Maven, ghcr.io…)
+     è un servizio diverso e resta vuota, per scelta (vedi guida).
   Si usa `push` e non `pull_request: closed` perché l'ambiente `github-pages` accetta deploy solo dal branch di default.
 - Requisito su GitHub: *Settings → Pages → Source: GitHub Actions*.
 - Commit: i prefissi decidono il tipo di versione, quindi vanno scelti con cura (`sito:` per le funzionalità della dashboard,

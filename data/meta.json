@@ -1,10 +1,10 @@
 {
-  "versione": "0669b5a-dirty (sviluppo)",
-  "generato_il": "2026-10-07T21:20:42+00:00",
+  "versione": "122d209-dirty (sviluppo)",
+  "generato_il": "2026-10-08T06:03:01+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
   "workbook_modificato_il": "2026-10-07T19:41:58",
   "workbook_sha256": "fa54dece8fa2d53a82430bec3bc9cb3229f3818be7d399ec2bf5c58961a46a49",
-  "commit": "0669b5a9c95116abbbb229e03e50730454a69f3a",
+  "commit": "122d20937ad5f9ff70fc820c4352ed93619a9a78",
   "licenza": {
     "nome": "The Unlicense",
     "spdx": "Unlicense",

@@ -53,6 +53,8 @@ python scripts/screenshots.py
 Al merge della PR su `master`, GitHub Actions pubblica il sito e crea il tag e la release `vX.Y.Z`:
 **minor** per i commit `sito:`/`script:`/`feat:`, **patch** per il resto, **major** solo su richiesta esplicita
 (label `release:major` o avvio manuale). Una volta sola: *Settings → Pages → Source: GitHub Actions*.
+JSON, workbook e zip del sito sono allegati alla release ([Releases](https://github.com/andreagalle/goodbye-elsa/releases/latest)),
+non nella sezione *Packages*, che è il registro di GitHub per npm, container e simili.
 
 ## Requisiti
 Python 3.11+ e `pip install -r requirements-dev.txt` (solo per l'export basta `requirements.txt`),
