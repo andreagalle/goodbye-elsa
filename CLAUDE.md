@@ -110,14 +110,44 @@ capitolo *Glossario* della guida (generata dall'export). Oggi 49 voci, in gran p
 | H | Note | come il termine è usato nella dashboard, altre fonti, **incoerenze tra fonti** (mai correzioni silenziose) |
 I numeri ripresi dal foglio `Regole` (capitale 50%, deducibilità 5.300 €) devono coincidere: lo controlla `test_export.py`.
 
+### Foglio `Prestazioni` — condizioni alla pensione fondo per fondo (intestazioni alla riga 1, righe 2–39 = Sheet1 3–40)
+Fonte di verità per la sezione *Alla pensione, fondo per fondo* e per il blocco *Alla pensione con questo fondo* del
+dettaglio. Una riga per fondo (anche senza dati); i dati vengono dai documenti ufficiali del gestore. Righe 1 e colonna A bloccate.
+| Col | Campo | Note |
+|---|---|---|
+| A | Fondo | **formula** `=Sheet1!$A$n` |
+| B | Documento sulle rendite (fonte) | titolo con edizione + **hyperlink** |
+| C | Compagnia che paga la rendita | |
+| D–G | Rendita reversibile / certa e poi vitalizia / controassicurata / con LTC | `Sì…` o `No…`, con il dettaglio tra parentesi (es. `Sì (5 o 10 anni)`); vuoto = non verificato |
+| H | N. varianti oltre alla vitalizia | **formula** `=COUNTIF(Dn:Gn,"Sì*")` |
+| I | Rendita annua a 67 anni ogni 10.000 € | `#,##0.00 "€"`. **Solo se confrontabile**: coefficiente per età 67, nato nel 1959, adesione dopo il 21/12/2012 (unisex), rata **annuale**; se il coefficiente è per 1 € di rendita si inverte (10.000/x). Altrimenti vuoto e motivo in `Note` |
+| J | Tasso di conversione a 67 anni | **formula** `=IF(In="","",In/10000)` |
+| K | Tasso tecnico | `0.0%` |
+| L | Basi del coefficiente | tavola, correzione d'età, tasso tecnico, dove sono i coefficienti |
+| M | Costo della rendita (rata annuale) | caricamento `0.00%` |
+| N–Q | Costo anticipazione / riscatto / trasferimento / RITA (€) | 0 = non previsto, vuoto = non trovato; RITA "a rata" va spiegato in `Note` |
+| R | Scheda costi (fonte) | hyperlink |
+| S | Nuove prestazioni (durata definita e prelievi) | periodicità, minimi, comparto predefinito, costi |
+| T | Supplemento alla Nota informativa (fonte) | hyperlink |
+| U | Consultata il | data |
+| V | Note | incoerenze, limiti del confronto, documenti datati |
+
 **Componente aggiuntivo:** il workbook contiene il collegamento a **Claude per Excel** (`xl/webextensions/*`), che openpyxl
 scarta al salvataggio. Per salvarlo da Python usare sempre `scripts/workbook_utils.py` → `salva(wb, percorso)`, che lo
 reinserisce (test in `tests/test_workbook_utils.py`).
 
-**Attenzione all'export:** `openpyxl` non calcola le formule. Con `data_only=True` legge i valori **messi in cache
-dall'ultimo salvataggio in Excel**: se il file viene modificato fuori da Excel, la cache è vuota. Per questo lo script
-di export deve **risolvere da solo** `Comparti!A` (`=Sheet1!$A$n` → valore di A n) e **ricalcolare** H–L di Sheet1 in
-Python, confrontandoli con i valori in cache (warning se diversi). Gli hyperlink vanno letti da `cell.hyperlink.target`.
+**Cache dei valori delle formule:** Excel salva ogni formula insieme al suo ultimo risultato; openpyxl non sa calcolare e,
+salvando, lascia il risultato vuoto. Chi legge il file senza ricalcolare (export con `data_only=True`, Spreadsheet Viewer,
+anteprime, l'xlsx allegato alle release) vedrebbe celle vuote. Per questo `salva()` **calcola le formule in Python**
+(`Calcolatore` in `workbook_utils.py`: riferimenti anche tra fogli e a colonne intere, aritmetica, confronti, `&`, e le
+funzioni in `FUNZIONI` = IF, COUNTIF, COUNTIFS, MINIFS, MAXIFS) e ne scrive i risultati in cache come Excel; restituisce
+le celle non calcolabili (oggi nessuna). Excel le ricalcola comunque all'apertura (`fullCalcOnLoad`). **Una formula con
+una funzione nuova va aggiunta al calcolatore, con un test.** `test_workbook_reale` verifica che i valori calcolati
+coincidano con quelli messi in cache da Excel e con il ricalcolo dell'export.
+
+**Attenzione all'export:** lo script non si fida della cache: **risolve da solo** `Comparti!A` e `Prestazioni!A`
+(`=Sheet1!$A$n` → valore di A n), **ricalcola** H–L di Sheet1 (e H, J di `Prestazioni`) in Python e li confronta con i valori
+in cache (warning se diversi o assenti). Gli hyperlink vanno letti da `cell.hyperlink.target`.
 
 ## 4. Fonti
 
@@ -148,6 +178,14 @@ Python, confrontandoli con i valori in cache (warning se diversi). Gli hyperlink
   supplemento (2026): le stesse fonti del foglio `Regole`.
 - Ciao Elsa (fonte secondaria): home page "Ma chi è Ciao Elsa?" https://www.ciaoelsa.com/ e
   https://www.ciaoelsa.com/sottoscrizione-fondi-pensione-su-ciao-elsa (adesione online con Ciao Elsa come broker).
+
+### 4.1-quater Fonti delle prestazioni (foglio `Prestazioni`, consultate l'8–9/10/2026)
+- Per ogni fondo: **Documento sulle rendite** (o allegato al Regolamento con i coefficienti), **Scheda "I costi"** della Nota
+  informativa e **Supplemento alla Nota informativa** sulle nuove prestazioni (luglio 2026, modello COVIP), con hyperlink
+  nelle colonne B, R e T. In `meta.json → fonti` compaiono come una sola voce (i link sono in `prestazioni.json`).
+- Note tecniche: allianz.it e unicreditallianzvita.it rispondono 403 a curl (si scaricano con Chromium/Playwright);
+  i PDF di unipol.it arrivano compressi in gzip e cifrati AES (servono `gunzip` e il pacchetto `cryptography` per pypdf);
+  i siti Intesa Sanpaolo Assicurazioni usano `…/bin/openAssetInline?path=…/regolamento-e-nota-informativa/<codice prodotto>/…`.
 
 ### 4.2 Pagine informative dei fondi (Sheet1 col. B) e schede Ciao Elsa (col. P)
 | Riga | Fondo | Pagina informativa | Scheda Ciao Elsa |
@@ -238,8 +276,22 @@ previdenza obbligatoria prima del 29/4/1993 e alla complementare prima dell'entr
 252/2005 (art. 23 c. 7) e la Guida COVIP (p. 26) di assunti prima del 29/4/1993 iscritti entro quella data a un fondo già
 istituito al 15/11/1992. La voce segue il decreto e segnala la differenza in nota.
 
-**Cache delle formule:** dopo l'aggiunta dei fogli `Regole`, `Longevita` e `Glossario` (salvataggi con openpyxl, 8/10/2026) la cache
-delle formule è vuota: l'export ricalcola e segnala l'avviso finché il file non viene aperto e salvato in Excel.
+**Cache delle formule:** risolto il 9/10/2026: `workbook_utils.salva()` calcola le formule e le mette in cache, quindi dopo
+un salvataggio da Python non serve più riaprire il file in Excel (§3).
+
+**Prestazioni: dati incompleti o non confrontabili (verificato l'8–9/10/2026)**
+- Dati per **26 fondi su 38**; rendita a 67 anni confrontabile per 16. Mancano (documenti sulle rendite non trovati sui siti
+  pubblici): Fideuram, Destinazione Futuro, Vittoria Formula Lavoro, Arca Previdenza, Unipol Previdenza, Vera Vita,
+  Eurorisparmio, Aureo, Azimut Previdenza, Azimut Sustainable Future, Il Melograno, Core Pension; per BIM Vita, Zurich
+  Contribution, ZED Omnifund e Teseo ci sono solo i costi (e per Teseo le basi tecniche).
+- Coefficienti non pubblicati: Previgest Mediolanum, CNP, PensPlan Profi (sono nella convenzione con la compagnia).
+  Raiffeisen pubblica solo un esempio con rate mensili (422,10 € ogni 10.000 €). UniCredit usa coefficienti **distinti per
+  sesso** (RG48, tasso tecnico 2%): 684,6 € uomini, 575,5 € donne prima della correzione d'età, non confrontabili.
+  Almeglio ha coefficienti diversi per data di adesione ed è chiuso.
+- Documenti datati: Plurifonds (2021) e Crédit Agricole Vita (2022), precedenti alle nuove prestazioni; Arti & Mestieri ha
+  la convenzione per le rendite in scadenza il 31/12/2026.
+- I coefficienti non sono del tutto omogenei: tassi tecnici diversi (0%, 0,5%), tavole diverse (A62, AZPS62, IPS55),
+  Secondapensione con rate anticipate. La dashboard lo spiega sotto la tabella.
 
 **Copertura:** 15 fondi su 38 non hanno ancora una scheda né dati di dettaglio (righe 5, 8, 12–15, 25, 27, 33, 34, 36–40).
 
@@ -264,8 +316,13 @@ delle formule è vuota: l'export ricalcola e segnala l'avviso finché il file no
     nell'ordine del foglio. L'export rigenera anche la tabella del glossario in `docs/guida/GUIDA.md`, **solo** tra
     `<!-- glossario:inizio … -->` e `<!-- glossario:fine -->` (`glossario_md()`; `test_glossario_nella_guida` verifica
     che sia allineata).
-  - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi (anche `regole` e
-    `glossario`), flag, elenco delle fonti (quelle dei fogli `Regole` e `Glossario` e della tavola ISTAT vi si aggiungono
+  - `prestazioni.json`: solo le righe di `Prestazioni` con dati: `[{ fondo_id, riga, documento_rendite: {titolo, url},
+    compagnia, varianti: {reversibile, certa, controassicurata, ltc}, n_varianti, rendita_67, tasso_conversione_67,
+    tasso_tecnico, basi, costo_rendita, costi: {anticipazione, riscatto, trasferimento, rita}, scheda_costi: {titolo, url},
+    nuove_prestazioni, supplemento: {titolo, url}, consultata_il, note }]`. `n_varianti` e `tasso_conversione_67` sono
+    ricalcolati dall'export (come le formule H e J); costi a 0 = non previsti, `null` = non trovati.
+  - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi (anche `regole`,
+    `glossario`, `fondi_con_prestazioni`, `prestazioni_con_rendita_67`), flag, elenco delle fonti (quelle dei fogli `Regole` e `Glossario` e della tavola ISTAT vi si aggiungono
     **in automatico**, senza duplicati; le voci del glossario COVIP diventano una sola fonte, con `url_comune()`).
   - Le percentuali sono decimali (0.0145), formattate solo nella UI. Celle vuote → `null`, mai 0.
   - Implementato: in più rispetto alla proposta, `fondi.json` ha `nome_breve` (denominazione senza "Fondo pensione aperto"
@@ -334,6 +391,12 @@ responsive, accessibile, in italiano.
    I termini nel testo sono `<span class="termine">` (sottolineatura a puntini, helper `termine()` in `app.js`); intestazioni
    di colonna (`glossario`/`spiega` in `COLONNE`), filtri, etichette, legenda del grafico e badge ⚠️ usano gli stessi
    attributi: **non si usa più l'attributo `title`** per le spiegazioni.
+9-quater. **Alla pensione, fondo per fondo** (sezione `#prestazioni`, tra *Regole* e *Glossario*, voce "Alla pensione" nel
+   menu): 3 numeri chiave (fondi con dati, intervallo della rendita a 67 anni ogni 10.000 €, differenza annua su 100.000 €),
+   filtro *Solo con la rendita a 67 anni* e tabella ordinata dalla rendita più alta (rendita, tasso tecnico, costo della
+   rendita, varianti a etichette, costi di anticipazione/riscatto/trasferimento, link alla fonte). Sotto, come leggere i
+   numeri e l'elenco dei fondi mancanti. Nel **dettaglio fondo**, prima della lista da verificare, il blocco *Alla pensione
+   con questo fondo* (`prestazioniFondo()` in `app.js`) con fonti e data di consultazione.
 10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
    sfumatura, **intestazione, navigazione e "aperture" delle sezioni centrate** (titolo `h2` + prima riga `.hint`,
    avviso "progetto personale", sotto-aperture `.apertura` come Copertura e Anomalie in Qualità dei dati, footer);
@@ -377,8 +440,8 @@ responsive, accessibile, in italiano.
 - **Estensioni** (devcontainer + `.vscode/extensions.json`): Claude Code, GitHub Pull Requests, GitHub Actions,
   GitHub Theme, Codespaces, Python, **Git Graph** (`mhutchie.git-graph`, grafico dei branch e dei tag di release) e **Spreadsheet Viewer** (`grapecity.gc-excelviewer`) per aprire `.xlsx` in VS Code.
   È stato scelto perché è di un editore verificato (GrapeCity/MESCIUS), ha più di 6,8 milioni di installazioni, il sorgente è
-  pubblico (github.com/wijmo/gc-excelviewer) ed è un **visualizzatore**. Il workbook va comunque **modificato in Excel**, per
-  mantenere la cache delle formule (§3).
+  pubblico (github.com/wijmo/gc-excelviewer) ed è un **visualizzatore**. Il workbook si modifica in Excel, oppure da Python
+  salvando con `workbook_utils.salva()`, che calcola le formule e ne mantiene la cache (§3).
 - **MCP** (`.mcp.json`, server di progetto per Claude Code): `@playwright/mcp@0.0.82` in Chromium headless e isolato, con
   viewport 1360×820 e output in `.playwright-mcp/` (ignorato da git). Serve a navigare il sito e a fare screenshot ad hoc;
   gli screenshot della guida si rigenerano invece con lo script riproducibile `scripts/screenshots.py`.
@@ -392,7 +455,8 @@ responsive, accessibile, in italiano.
   marked + DOMPurify. Le ancore sono compatibili con GitHub.
 - Screenshot in `docs/guida/img/`, generati da `python scripts/screenshots.py` (fa prima l'export): `dashboard`,
   `tabella-filtri`, `suggerimento` (mouse sul filtro ESG), `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`,
-  `regole`, `longevita`, `glossario`, `qualita`, `mobile-scuro`. I blocchi alti si portano in cima alla finestra prima dello
+  `regole`, `longevita`, `prestazioni`, `glossario`, `qualita`, `dettaglio-pensione` (blocco "Alla pensione con questo
+  fondo" di Generali Global), `mobile-scuro`. I blocchi alti si portano in cima alla finestra prima dello
   scatto (Chromium non disegna oltre il bordo); il pulsante "Torna su" è nascosto negli scatti delle sezioni.
 - Capitolo **"Glossario"**: introduzione scritta a mano, poi la tabella **generata dall'export** dal foglio `Glossario`
   (tra i marcatori `glossario:inizio`/`glossario:fine`, da non modificare a mano).
@@ -403,10 +467,13 @@ responsive, accessibile, in italiano.
 - Capitolo **"Come funziona un fondo pensione"**: risposte alle domande dell'utente (funzionamento, TFR e uscite anticipate,
   opzioni alla pensione e cosa dipende dal fondo, decesso ed eredi, strategie con i dati ISTAT), con le fonti in fondo.
   I numeri devono coincidere con il foglio `Regole`.
+- Capitolo **"Alla pensione, fondo per fondo"**: come leggere la tabella e il blocco del dettaglio, e i limiti del confronto
+  (tasso tecnico, tavole, coefficienti che cambiano, fondi mancanti).
 ### 10.2 Presentazione (`docs/presentazione/`)
 - reveal.js con navigazione **2D**: in orizzontale gli argomenti (titolo, perché, dati, dashboard, **come funziona**, come
   scegliere, manutenzione, fine), in verticale gli approfondimenti. I valori chiave delle regole (`data-regola="<titolo
-  breve>"`) e la frase sulla longevità si leggono dal vivo da `regole.json` e `longevita.json`. Riusa gli screenshot della guida e legge i numeri dal vivo da
+  breve>"`) e la frase sulla longevità si leggono dal vivo da `regole.json` e `longevita.json`; la slide *Quanto paga la
+  rendita? Dipende dal fondo* legge l'intervallo della rendita a 67 anni da `prestazioni.json`. Riusa gli screenshot della guida e legge i numeri dal vivo da
   `data/meta.json`. Tema chiaro/scuro automatico.
 ### 10.3 Anteprima locale prima del push
 - `./scripts/anteprima.sh` (export + test + server su http://localhost:8000, con le stesse pagine che verranno pubblicate),
@@ -442,9 +509,10 @@ accompagnata **nello stesso commit/PR** da:
    3. dashboard (`docs/`), guida, presentazione, `python scripts/screenshots.py`;
    4. `CLAUDE.md` (§3 struttura, §4 fonti, §5 problemi noti, roadmap) e `README.md`.
    Se Claude modifica l'Excel con openpyxl, deve preservare formule, formati e hyperlink e salvare con
-   `scripts/workbook_utils.salva()` (conserva il collegamento a Claude per Excel). Il salvataggio fuori da Excel
-   svuota la cache delle formule: l'export la ricalcola comunque (§3), ma va chiesto all'utente di aprire e salvare il
-   file in Excel.
+   `scripts/workbook_utils.salva()` (conserva il collegamento a Claude per Excel e calcola le formule, così la cache resta
+   piena e **non serve chiedere all'utente di riaprire il file in Excel**). Se `salva()` restituisce celle non calcolate,
+   la formula usa una funzione da aggiungere al calcolatore (§3). Se altre sessioni lavorano sul workbook, ricaricarlo
+   dal disco subito prima di salvare e avvisarle.
 4. **Citare le fonti**: in chat con i link consultati; nella piattaforma solo attraverso i canali esistenti (link
    *Sito/Scheda*, note del fondo/comparto, sezione *Fonti* alimentata da `meta.json → fonti` nella lista di
    `export_xlsx.py`). Ogni nuova fonte va aggiunta lì e nella §4.
@@ -461,12 +529,12 @@ accompagnata **nello stesso commit/PR** da:
 - [x] Glossario con fonti (foglio `Glossario`, 49 voci dal glossario COVIP e da altre fonti ufficiali), sezione *Glossario*
   e suggerimenti al passaggio del mouse su termini, intestazioni, filtri ed etichette
 - [ ] Valutare un flag per le categorie Ciao Elsa fuori dalle soglie COVIP (§5), da decidere con l'utente
-- [ ] **Approfondimento verticale per fondo sulle prestazioni** (prossimo passo richiesto dall'utente): nuovo foglio
-  `Prestazioni` (una riga per fondo, A = `=Sheet1!$A$n`) con i campi della colonna H del foglio `Regole`: varianti
-  di rendita vitalizia offerte (reversibile, certa 5/10, controassicurata, LTC), compagnia, coefficiente di trasformazione
-  a 67 anni (rendita annua ogni 10.000 €), caricamento e rivalutazione, periodicità/comparto/costi delle nuove forme,
-  durata maggiore, conversione del residuo, costi di anticipazione/riscatto/trasferimento, link a Documento sulle
-  rendite e Supplemento alla Nota informativa, data di consultazione
+- [x] **Approfondimento verticale per fondo sulle prestazioni**: foglio `Prestazioni` (26 fondi su 38, rendita a 67 anni
+  confrontabile per 16), sezione *Alla pensione, fondo per fondo*, blocco nel dettaglio, capitolo della guida e slide
+- [x] Cache delle formule calcolata da `workbook_utils.salva()`: niente più "apri e salva in Excel" dopo le modifiche da Python
+- [ ] Completare `Prestazioni` per i 12 fondi senza documenti (§5) e cercare i coefficienti non pubblicati (Mediolanum,
+  CNP, PensPlan Profi, Raiffeisen con rata annuale); aggiornare Plurifonds e Crédit Agricole Vita se escono documenti nuovi
+- [ ] Valutare colonne per rivalutazione (rendimento trattenuto), durata maggiore e conversione del residuo nelle nuove forme
 - [ ] Simulatore dei costi (poi aggiornare guida, presentazione e screenshot)
 - [ ] Verificare le anomalie della §5 sulle Schede costi ufficiali
 - [ ] Completare i 15 fondi senza dati

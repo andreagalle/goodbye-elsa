@@ -232,6 +232,11 @@
           <p class="piccolo">Filtri per tema e "solo ciò che cambia da fondo a fondo". Ogni regola ha il link alla fonte ufficiale.</p>
         </section>
         <section>
+          <h3>Alla pensione, fondo per fondo</h3>
+          <img class="shot" src="../guida/img/prestazioni.png" alt="I numeri chiave e la tabella delle condizioni alla pensione dei fondi">
+          <p class="piccolo">Rendita a 67 anni ogni 10.000 €, opzioni di rendita e costi delle operazioni, dai documenti ufficiali di ogni fondo.</p>
+        </section>
+        <section>
           <h3>Glossario e spiegazioni al passaggio del mouse</h3>
           <img class="shot" src="../guida/img/suggerimento.png" alt="Il suggerimento che compare passando il mouse sul filtro ESG">
           <p class="piccolo">Intestazioni, filtri, etichette e termini sottolineati mostrano la definizione (da telefono, con un tocco).
@@ -304,6 +309,19 @@
               <ul><li>Varianti della vitalizia</li><li>Coefficienti: quanta rendita per ogni euro</li><li>Costi della rendita</li><li>Rate, comparto e costi delle nuove forme</li></ul></div>
           </div>
           <p class="piccolo">Dove guardare: Documento sulle rendite e Supplemento alla Nota informativa del fondo.</p>
+        </section>
+        <section>
+          <h3>Quanto paga la rendita? Dipende dal fondo</h3>
+          <div class="kpis" aria-live="polite">
+            <div class="kpi"><div class="v" id="pr-intervallo">408 € – 463 €</div><div class="l" id="pr-intervallo-l">l'anno ogni 10.000 € di capitale, a 67 anni</div></div>
+            <div class="kpi"><div class="v" id="pr-diff">543 €</div><div class="l">l'anno di differenza con 100.000 €, tra chi paga di più e chi di meno</div></div>
+          </div>
+          <ul>
+            <li>Un <strong>tasso tecnico</strong> più alto alza la prima rata ma riduce le rivalutazioni</li>
+            <li>I coefficienti si possono aggiornare fino alla richiesta: contano quelli in vigore allora</li>
+            <li>Opzioni e costi (anticipazione, riscatto, trasferimento) cambiano anche loro</li>
+          </ul>
+          <p class="piccolo" id="pr-fonte">Dai Documenti sulle rendite dei fondi, letti dal vivo da <code>data/prestazioni.json</code>.</p>
         </section>
         <section>
           <h3>In caso di decesso</h3>
@@ -449,6 +467,18 @@
       const d = L.durata_definita, pc = (v) => `${Math.round(v * 100)}%`;
       document.getElementById("lon-frase").textContent =
         `A ${d.eta_fine} anni, quando finisce una rendita a durata definita iniziata a ${d.eta_inizio}, è ancora vivo il ${pc(d.vivi_a_fine.totale)} dei ${d.eta_inizio}enni (uomini ${pc(d.vivi_a_fine.uomini)}, donne ${pc(d.vivi_a_fine.donne)}). Fonte: ISTAT 2025.`;
+    }).catch(() => {});
+
+    // condizioni alla pensione fondo per fondo (foglio Prestazioni)
+    fetch("../data/prestazioni.json", { cache: "no-cache" }).then((r) => r.json()).then((P) => {
+      const v = P.map((p) => p.rendita_67).filter((x) => x != null);
+      if (v.length < 2) return;
+      const min = Math.min(...v), max = Math.max(...v);
+      const eur0 = (x) => `${new Intl.NumberFormat("it-IT", { maximumFractionDigits: 0, useGrouping: "always" }).format(x)} €`;
+      document.getElementById("pr-intervallo").textContent = `${eur0(min)} – ${eur0(max)}`;
+      document.getElementById("pr-intervallo-l").textContent = `l'anno ogni 10.000 € di capitale, a 67 anni (${v.length} fondi confrontabili)`;
+      document.getElementById("pr-diff").textContent = eur0((max - min) * 10);
+      document.getElementById("pr-fonte").textContent = `Dai documenti ufficiali di ${P.length} fondi (Documento sulle rendite, Scheda costi, Supplemento): dettagli nella dashboard, sezione "Alla pensione".`;
     }).catch(() => {});
 
     fetch("../data/meta.json", { cache: "no-cache" })

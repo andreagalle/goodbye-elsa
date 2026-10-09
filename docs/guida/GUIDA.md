@@ -20,11 +20,12 @@ Per un giro veloce c'è anche la [presentazione interattiva](../presentazione/):
 4. [Grafico commissione e rendimento](#grafico-commissione-e-rendimento)
 5. [Confronto per categoria](#confronto-per-categoria)
 6. [Regole e longevità](#regole-e-longevità)
-7. [Qualità dei dati](#qualità-dei-dati)
-8. [Come funziona un fondo pensione](#come-funziona-un-fondo-pensione): le regole spiegate, dal TFR alla pensione e al decesso
-9. [Glossario](#glossario): le parole tecniche, anche nella dashboard e nei suggerimenti al passaggio del mouse
-10. [Come usare i dati per scegliere](#come-usare-i-dati-per-scegliere)
-11. [Per chi mantiene il progetto](#per-chi-mantiene-il-progetto)
+7. [Alla pensione, fondo per fondo](#alla-pensione-fondo-per-fondo): quanto paga la rendita, opzioni e costi delle operazioni
+8. [Qualità dei dati](#qualità-dei-dati)
+9. [Come funziona un fondo pensione](#come-funziona-un-fondo-pensione): le regole spiegate, dal TFR alla pensione e al decesso
+10. [Glossario](#glossario): le parole tecniche, anche nella dashboard e nei suggerimenti al passaggio del mouse
+11. [Come usare i dati per scegliere](#come-usare-i-dati-per-scegliere)
+12. [Per chi mantiene il progetto](#per-chi-mantiene-il-progetto)
 
 ## Panoramica
 
@@ -100,6 +101,11 @@ Clicca sul nome di un fondo (nella tabella, nel grafico o nelle classifiche) per
   - il rendimento netto medio annuo, con il **periodo** su cui è calcolato. Un'etichetta gialla indica 3 o 5 anni, non confrontabili con i 10;
   - la commissione di gestione annua;
   - le note.
+- **Alla pensione con questo fondo** (per i fondi di cui abbiamo i documenti): la rendita annua a 67 anni ogni 10.000 €,
+  il tasso tecnico, il costo della rendita, chi la paga, le varianti di rendita offerte, i costi di anticipazione,
+  riscatto, trasferimento e RITA, le condizioni della rendita a durata definita e dei prelievi, con i link ai documenti
+  ufficiali (vedi [Alla pensione, fondo per fondo](#alla-pensione-fondo-per-fondo)).
+- **Alla pensione e in caso di decesso**: l'elenco di cosa verificare comunque nei documenti del fondo.
 - L'indirizzo della pagina cambia (es. `…/#fondo=aureo`): puoi copiarlo per condividere direttamente quel fondo.
 - Per chiudere: tasto **Esc**, il pulsante ✕ oppure un clic fuori dalla finestra.
 
@@ -158,6 +164,46 @@ in vita a ogni età. La linea tratteggiata indica dove finisce una rendita a dur
 ![Il grafico della longevità con i quattro numeri chiave](img/longevita.png)
 
 Nel **dettaglio di ogni fondo**, in fondo, c'è l'elenco di cosa verificare nei suoi documenti su pensione e decesso.
+
+## Alla pensione, fondo per fondo
+
+Le regole sono uguali per tutti i fondi, le **condizioni economiche** no. Questa sezione le mette a confronto, fondo per
+fondo, con i dati presi dai documenti ufficiali dei gestori: il **Documento sulle rendite**, la **Scheda costi** della
+Nota informativa e il **Supplemento alla Nota informativa** sulle nuove prestazioni (luglio 2026).
+
+![I numeri chiave e la tabella delle condizioni alla pensione, dalla rendita più alta](img/prestazioni.png)
+
+- **Rendita a 67 anni ogni 10.000 €**: quanto ti paga il fondo, il primo anno e prima delle tasse, se a 67 anni chiedi la
+  rendita vitalizia con 10.000 € di capitale (con 100.000 € è dieci volte tanto). È il **coefficiente di
+  trasformazione** del fondo, per una persona nata intorno al 1959 che ha aderito dopo il 2012 (coefficienti uguali per
+  uomini e donne) e con la rata annuale. La tabella è ordinata da qui: in alto chi paga di più.
+- **Tasso tecnico**: il rendimento che il coefficiente dà già per scontato. Con un tasso più alto (es. 0,5%) la prima
+  rata è più alta, ma le rivalutazioni degli anni successivi sono più basse: due fondi con tassi diversi non si
+  confrontano solo sulla prima rata.
+- **Costo della rendita**: il caricamento che la compagnia trattiene per pagare la rendita, già compreso nel
+  coefficiente (con la rata annuale; con rate mensili di solito è più alto).
+- **Opzioni oltre alla vitalizia**: le varianti offerte (reversibile, certa e poi vitalizia, controassicurata, LTC).
+  Passa il mouse su un'etichetta per il dettaglio, ad esempio la percentuale di reversibilità o gli anni di rendita certa.
+- **Anticipazione, riscatto, trasferimento**: la spesa fissa per ogni operazione. *nessuna* vuol dire che non è prevista,
+  *—* che non l'abbiamo trovata nei documenti.
+- **Fonte**: il documento da cui viene la rendita (o la Scheda costi). Le altre fonti sono nel dettaglio del fondo.
+- **Solo con la rendita a 67 anni** nasconde i fondi per cui il coefficiente non è pubblicato o non è confrontabile.
+
+Cliccando sul nome di un fondo si apre il dettaglio, con il blocco **Alla pensione con questo fondo**:
+
+![Il blocco "Alla pensione con questo fondo" nel dettaglio di Generali Global](img/dettaglio-pensione.png)
+
+Come leggere i numeri, e perché a volte mancano:
+
+- **I coefficienti possono cambiare** fino al momento in cui chiedi la rendita (le compagnie possono aggiornarli, con
+  preavviso, se cambiano le tavole di mortalità o i tassi): contano quelli in vigore allora. Chi ha aderito prima del
+  2013 può avere coefficienti diversi.
+- **Tavole diverse, rate diverse**: le tavole più vecchie (es. IPS55) ipotizzano una vita più breve e quindi danno rate
+  più alte. Per questo una rata alta non è sempre sinonimo di fondo "migliore": conta anche la rivalutazione.
+- **Fondi senza rendita a 67 anni**: alcuni documenti non pubblicano i coefficienti (rinviano alla convenzione con la
+  compagnia), altri ne pubblicano solo un esempio con rate mensili, altri ancora usano coefficienti diversi per uomini e
+  donne (UniCredit): sono riportati nelle note del fondo, ma non messi in classifica.
+- **Fondi assenti dalla tabella**: per ora non abbiamo trovato i documenti pubblici; l'elenco è in fondo alla sezione.
 
 ## Qualità dei dati
 
@@ -283,6 +329,9 @@ resto va in **una sola** di queste forme:
 
 Le **regole** sono uguali ovunque; le **condizioni economiche** (quanta rendita ottieni e quanto costa) no. Per
 questo, prima della pensione conviene confrontare le condizioni di rendita, ed eventualmente trasferire la posizione.
+La sezione [Alla pensione, fondo per fondo](#alla-pensione-fondo-per-fondo) le mette a confronto: a ottobre 2026, tra i
+fondi con coefficienti confrontabili, la rendita a 67 anni va da circa 408 € a circa 463 € l'anno ogni 10.000 €, cioè
+oltre 500 € l'anno di differenza con un capitale di 100.000 €.
 
 ### 4. In caso di decesso
 
@@ -473,14 +522,17 @@ sempre rispettano le soglie COVIP.
 5. **Controlla le ⚠️** e verifica sempre su Nota informativa, Scheda costi e ISC del fondo.
 6. Valuta anche il **fondo negoziale** della tua categoria, se esiste: spesso costa meno e c'è il contributo del datore di lavoro.
 7. **Pensa anche all'uscita**: tipi di rendita offerti, coefficienti e costi della fase di erogazione cambiano da fondo
-   a fondo (vedi [Alla pensione: le opzioni](#3-alla-pensione-le-opzioni)).
+   a fondo (vedi [Alla pensione, fondo per fondo](#alla-pensione-fondo-per-fondo) e
+   [Alla pensione: le opzioni](#3-alla-pensione-le-opzioni)).
 
 ## Per chi mantiene il progetto
 
 ### Aggiornare i dati
 
 1. Modifica `data/fondi-pensione-covip.xlsx` **in Excel** e salva: le formule si ricalcolano e i valori restano in cache.
-   Nel devcontainer puoi aprire il file in sola lettura con l'estensione *Spreadsheet Viewer*.
+   Nel devcontainer puoi aprire il file in sola lettura con l'estensione *Spreadsheet Viewer*. Se lo modifichi da Python,
+   salvalo con `scripts/workbook_utils.salva()`: calcola le formule e ne mette i valori in cache come farebbe Excel
+   (e conserva il collegamento a Claude per Excel), quindi non serve riaprirlo in Excel.
 2. Rigenera i JSON: `python scripts/export_xlsx.py`. Lo script si ferma se trova errori di schema.
 3. Esegui i test: `python -m unittest discover -s tests -v`.
 
@@ -488,6 +540,12 @@ Il **glossario** si modifica nel foglio `Glossario` (una riga per termine, con f
 scrive `glossario.json` per la dashboard e rigenera la tabella del capitolo [Glossario](#glossario), tra i commenti
 `glossario:inizio` e `glossario:fine`: quella parte di questa guida non va modificata a mano. Nella dashboard un
 termine si collega a una voce con l'attributo `data-glossario="<ID>"` (es. `data-glossario="esg"`).
+
+Le **condizioni alla pensione** stanno nel foglio `Prestazioni`: una riga per fondo, con la colonna A collegata al nome
+in `Sheet1` (`=Sheet1!$A$n`). Si compilano dal Documento sulle rendite, dalla Scheda costi e dal Supplemento alla Nota
+informativa (con l'hyperlink al documento e la data di consultazione); le colonne *N. varianti* e *Tasso di
+conversione* sono formule. La rendita a 67 anni si riporta solo se è confrontabile (rata annuale, coefficienti unisex,
+nato intorno al 1959): altrimenti resta vuota e il motivo va nelle note. L'export scrive `prestazioni.json`.
 
 ### Provare il sito prima di pubblicarlo
 

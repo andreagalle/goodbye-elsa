@@ -14,10 +14,10 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
 | Percorso | Descrizione |
 |---|---|
 | `data/fondi-pensione-covip.xlsx` | Workbook sorgente (fonte di verità, modificato a mano in Excel) |
-| `data/fondi.json`, `data/comparti.json`, `data/regole.json`, `data/longevita.json`, `data/glossario.json`, `data/meta.json` | Dati esportati dal workbook (generati, non modificarli a mano) |
+| `data/fondi.json`, `data/comparti.json`, `data/regole.json`, `data/longevita.json`, `data/glossario.json`, `data/prestazioni.json`, `data/meta.json` | Dati esportati dal workbook (generati, non modificarli a mano) |
 | `scripts/export_xlsx.py` | Converte il workbook in JSON, con validazione dello schema e anomalie |
 | `scripts/versione.py` | Calcola la prossima versione e le note di rilascio dai commit |
-| `scripts/workbook_utils.py` | Salva il workbook da Python senza perdere il collegamento a Claude per Excel |
+| `scripts/workbook_utils.py` | Salva il workbook da Python calcolando le formule (cache piena, come Excel) e senza perdere il collegamento a Claude per Excel |
 | `scripts/anteprima.sh` | Anteprima locale della GitHub Page (export + test + server) |
 | `scripts/screenshots.py` | Rigenera gli screenshot della guida e della presentazione |
 | `scripts/icone.py` | Rigenera logo e favicon (`docs/img/`) dall'immagine originale `assets/elsa.png` |
@@ -40,6 +40,9 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
 - **Glossario di 49 termini** (foglio `Glossario`), soprattutto dal [glossario COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario):
   nella dashboard le definizioni compaiono passando il mouse su termini, intestazioni, filtri ed etichette, e sono
   raccolte nella sezione *Glossario*; l'export rigenera anche la tabella del glossario nella guida.
+- **Condizioni alla pensione di 26 fondi** (foglio `Prestazioni`), dai documenti ufficiali dei gestori (Documento sulle
+  rendite, Scheda costi, Supplemento alla Nota informativa): rendita annua a 67 anni ogni 10.000 € (confrontabile per 16
+  fondi), varianti di rendita offerte, costo della rendita, costi di anticipazione, riscatto, trasferimento e RITA.
 
 > ⚠️ I dati vengono da fonti secondarie (Ciao Elsa) e contengono anomalie note (vedi `CLAUDE.md` → *Problemi noti nei dati*).
 > Prima di prendere qualsiasi decisione, verificali sulla **Nota informativa / Scheda costi** ufficiale del fondo.
@@ -53,7 +56,7 @@ Il modo più semplice è aprire il repository in **Codespaces** o nel **devconta
 (Python, Playwright, estensioni, MCP) e la porta dell'anteprima viene inoltrata in automatico.
 
 ```bash
-# 1. Modifica data/fondi-pensione-covip.xlsx in Excel e salva (così i valori delle formule restano in cache)
+# 1. Modifica data/fondi-pensione-covip.xlsx in Excel e salva (da Python: workbook_utils.salva(), che calcola le formule)
 # 2. Prova il sito in locale, identico a quello che verrà pubblicato
 ./scripts/anteprima.sh            # export + test + http://localhost:8000
 # 3. Se hai cambiato la dashboard, aggiorna gli screenshot di guida e presentazione

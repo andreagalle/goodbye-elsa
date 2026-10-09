@@ -167,6 +167,39 @@ class TestExport(unittest.TestCase):
         self.assertEqual(ex.url_comune(["https://x.it/glossario/e#esg", "https://x.it/glossario/l#life-cycle"]),
                          "https://x.it/glossario")
 
+    def test_prestazioni(self):
+        prest = self.meta["_extra"]["prestazioni"]
+        self.assertGreaterEqual(len(prest), 20)
+        self.assertEqual(self.meta["conteggi"]["fondi_con_prestazioni"], len(prest))
+        self.assertEqual(len({p["fondo_id"] for p in prest}), len(prest))
+        for p in prest:
+            self.assertIn(p["fondo_id"], self.per_id)
+            self.assertTrue(p["documento_rendite"] or p["scheda_costi"] or p["supplemento"], p["fondo_id"])
+            for doc in (p["documento_rendite"], p["scheda_costi"], p["supplemento"]):
+                if doc:
+                    self.assertTrue(doc["url"].startswith("https://"), p["fondo_id"])
+            self.assertRegex(p["consultata_il"], r"^\d{4}-\d{2}-\d{2}$")
+            for v in p["varianti"].values():
+                self.assertTrue(v is None or v.startswith(("Sì", "No")), (p["fondo_id"], v))
+            # formule del foglio (H e J) ricalcolate come in Excel
+            self.assertEqual(p["n_varianti"], sum(1 for v in p["varianti"].values() if v and v.startswith("Sì")))
+            if p["rendita_67"] is None:
+                self.assertIsNone(p["tasso_conversione_67"])
+            else:
+                lo, hi = ex.RENDITA_67_PLAUSIBILE
+                self.assertTrue(lo <= p["rendita_67"] <= hi, p["fondo_id"])
+                self.assertAlmostEqual(p["tasso_conversione_67"], p["rendita_67"] / 10000)
+                self.assertIsNotNone(p["documento_rendite"], p["fondo_id"])
+            # percentuali come decimali, costi in euro
+            for campo in ("tasso_tecnico", "costo_rendita"):
+                self.assertTrue(p[campo] is None or 0 <= p[campo] < 0.05, (p["fondo_id"], campo))
+            for v in p["costi"].values():
+                self.assertTrue(v is None or v >= 0)
+
+    def test_cache_formule_piena(self):
+        """Il workbook salvato (da Excel o da workbook_utils.salva) ha i valori delle formule in cache."""
+        self.assertFalse([w for w in self.rep.warning if "cache" in w], self.rep.warning)
+
     def test_slug_e_nome_breve(self):
         self.assertEqual(ex.slugify("Arti & Mestieri"), "arti-e-mestieri")
         self.assertEqual(ex.nome_breve("FONDO PENSIONE APERTO TESEO"), "Teseo")

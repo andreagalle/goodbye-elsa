@@ -1,0 +1,957 @@
+[
+  {
+    "fondo_id": "allianz-previdenza",
+    "riga": 2,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.allianz.it/content/dam/onemarketing/azit/allianz-it/le-soluzioni-per-te/previdenza/documento-rendite-allianz-previdenza.pdf"
+    },
+    "compagnia": "Allianz S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 60%)",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì (cashback)",
+      "ltc": "Sì (rendita raddoppiata, con questionario medico)"
+    },
+    "n_varianti": 4,
+    "rendita_67": 462.5,
+    "tasso_conversione_67": 0.04625,
+    "tasso_tecnico": 0.005,
+    "basi": "Tavola AZPS62, nati 1955–1962 senza correzione d'età, tasso tecnico 0,5% (rata iniziale più alta, rivalutazioni più basse)",
+    "costo_rendita": 0.018,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 25,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (settembre 2026)",
+      "url": "https://www.allianz.it/content/dam/onemarketing/azit/allianz-it/le-soluzioni-per-te/previdenza/costi-allianz-previdenza.pdf"
+    },
+    "nuove_prestazioni": "Rendita a durata definita a rate trimestrali (19 anni a 67 anni); prelievi ogni 3 mesi almeno, minimo 500 €; comparto predefinito Linea Flessibile con garanzia; nessuna spesa di erogazione",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (settembre 2026)",
+      "url": "https://www.allianz.it/content/dam/onemarketing/azit/allianz-it/le-soluzioni-per-te/previdenza/supplemento-nota-informativa-allianz-previdenza.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Costo della rendita dall'1,80% (rata annuale) al 3,30% (mensile); rivalutazione annua con 1,20 punti trattenuti dalla gestione separata VITARIV Group."
+  },
+  {
+    "fondo_id": "previdenza-per-te",
+    "riga": 3,
+    "documento_rendite": {
+      "titolo": "Documento sull'erogazione delle rendite (luglio 2026)",
+      "url": "https://www.axa-mps.it/c/document_library/get_file?groupId=715633&uuid=d7b321fd-ca25-0cbc-9f2e-26bd822cb08f"
+    },
+    "compagnia": "AXA MPS Assicurazioni Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (totale o parziale)",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 421.6,
+    "tasso_conversione_67": 0.04216,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62I, nati 1958–1966 senza correzione d'età, tasso tecnico 0% (Regolamento, allegato n. 2: 42,16 € per 1.000 €)",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 20,
+      "riscatto": 20,
+      "trasferimento": 50,
+      "rita": 5
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.axa-mps.it/c/document_library/get_file?groupId=715633&uuid=dc15cfda-948d-6115-5cf4-348e2262781f"
+    },
+    "nuove_prestazioni": "Rendita a durata definita a rate trimestrali, anche per una durata più lunga della vita attesa; prelievi senza importo minimo; 5 € per ogni rata o prelievo",
+    "supplemento": {
+      "titolo": "Informativa sulle nuove prestazioni pensionistiche (luglio 2026)",
+      "url": "https://www.axa-mps.it/c/document_library/get_file?groupId=715633&uuid=d0170087-0f8e-d74b-2bde-94744cb9bf4f"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "RITA: 5 € su ogni rata trimestrale. Rivalutazione della rendita con almeno 0,75 punti trattenuti dalla gestione separata MPV12."
+  },
+  {
+    "fondo_id": "almeglio-alleanza",
+    "riga": 4,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://cdn.alleanza.it/-/media/alleanza/assets/documenti/live0030_documento-sulle-rendite-almeglio_pdf.pdf"
+    },
+    "compagnia": "Alleanza Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": null,
+      "controassicurata": null,
+      "ltc": null
+    },
+    "n_varianti": 1,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": null,
+    "basi": "Coefficienti diversi secondo la data di adesione (tasso tecnico 2,5%, 2% o 1,75%; tavola RG48 per le adesioni più vecchie)",
+    "costo_rendita": null,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 15.49,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Scheda I costi (maggio 2021)",
+      "url": "https://cdn.alleanza.it/-/media/alleanza/assets/prodotti/almeglio/almeglio_scheda_i-costi_31052021.pdf"
+    },
+    "nuove_prestazioni": "Previste dal 1/7/2026 (documento sulle rendite, ed. luglio 2026)",
+    "supplemento": null,
+    "consultata_il": "2026-10-08",
+    "note": "Fondo chiuso a nuove adesioni, confluisce in Generali Global dal 1/1/2027: coefficienti non confrontabili con quelli di un nuovo iscritto."
+  },
+  {
+    "fondo_id": "generali-global",
+    "riga": 6,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.generali.it/cmsassets/site/d1dfb33f-f1fe-4d14-b823-b36b16f7cacc/FPA_GG_Documento_sulle_rendite_2026-07.pdf"
+    },
+    "compagnia": "Generali Italia S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì",
+      "ltc": "Sì (rendita raddoppiata)"
+    },
+    "n_varianti": 4,
+    "rendita_67": 424.3,
+    "tasso_conversione_67": 0.04243,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62U unisex, nati 1958–1966 senza correzione d'età, tasso tecnico 0% (Regolamento, allegato A)",
+    "costo_rendita": 0.009,
+    "costi": {
+      "anticipazione": 20,
+      "riscatto": 20,
+      "trasferimento": 30,
+      "rita": 20
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (luglio 2026)",
+      "url": "https://www.generali.it/cmsassets/site/45b95744-2d89-4a51-931f-556328e4cded/2026-07_FPA_GG_NI_Scheda_Costi.pdf"
+    },
+    "nuove_prestazioni": "Rate annuali, semestrali, trimestrali o mensili (minimo 200 € a rata); comparto predefinito Obbligazionario Breve Termine; 20 € per accedere, 5 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.generali.it/cmsassets/site/faf78674-3c33-4b7a-9cc7-7bb071db2a6d/2026-07_FPA_GG_NI_Supplemento_v2.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Coefficienti nel Regolamento (luglio 2026), allegato A all'allegato n. 2."
+  },
+  {
+    "fondo_id": "previdsystem",
+    "riga": 7,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (giugno 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/001/PS_Documento%20sulle%20rendite_06_2026.pdf"
+    },
+    "compagnia": "Intesa Sanpaolo Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 50%)",
+      "certa": "No",
+      "controassicurata": "Sì",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 429.1,
+    "tasso_conversione_67": 0.04291,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D/A per anno di nascita (nati 1958–1966 senza correzione), tasso tecnico 0%",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 20,
+      "riscatto": 20,
+      "trasferimento": 20,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa (marzo 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/001/PrevidSystem_NotaInformativa_03_2026_UA.pdf"
+    },
+    "nuove_prestazioni": "Rate mensili, trimestrali o annuali (minimo 150 € a rata); comparto predefinito Crescita Prudente; 20 € per accedere, 2 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/001/PS_Supplemento_NI_07_2026.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": null
+  },
+  {
+    "fondo_id": "teseo",
+    "riga": 8,
+    "documento_rendite": null,
+    "compagnia": "Società Reale Mutua di Assicurazioni",
+    "varianti": {
+      "reversibile": null,
+      "certa": null,
+      "controassicurata": null,
+      "ltc": null
+    },
+    "n_varianti": 0,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": 0.01,
+    "basi": "Tasso tecnico 1% per chi ha aderito dal 21/12/2012 (2% prima); rivalutazione con l'80% del rendimento della gestione separata Previ Reale (scheda I costi)",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 0.0,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (luglio 2026)",
+      "url": "https://www.realemutua.it/grmashare/1/DocumentiCovip/Note%20Informative/Nota%20Informativa%20Parte%20I%20Scheda%20I%20Costi%20-%20Teseo%20-%202026-07.pdf"
+    },
+    "nuove_prestazioni": null,
+    "supplemento": null,
+    "consultata_il": "2026-10-09",
+    "note": "Documento sulle rendite non trovato: la Nota informativa rimanda al sito www.fondoteseo.com. Nessuna spesa per anticipazioni, riscatti, trasferimenti e RITA."
+  },
+  {
+    "fondo_id": "unicredit",
+    "riga": 14,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.unicreditallianzvita.it/content/dam/onemarketing/crv/unicreditallianzvita-it/le-soluzioni-per-te/archivio-prodotti/previdenza/unicredit-fondo-pensione-aperto/31-07-2026/Documento_sulle_Rendite_FPA_31_07_2026_def.pdf"
+    },
+    "compagnia": "UniCredit Vita Assicurazioni S.p.A. (oggi UniCredit Allianz Vita)",
+    "varianti": {
+      "reversibile": "Sì (totale o parziale)",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": 0.02,
+    "basi": "Tavola RG48 distinta per sesso, con correzione d'età per anno di nascita, tasso tecnico 2%",
+    "costo_rendita": 0.018,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 50,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://www.unicreditallianzvita.it/content/dam/onemarketing/crv/unicreditallianzvita-it/le-soluzioni-per-te/archivio-prodotti/previdenza/unicredit-fondo-pensione-aperto/30-03-2026/Scheda_I_costi_UNICREDIT_FPA_03_2026.pdf"
+    },
+    "nuove_prestazioni": "Rendita a durata definita a rate trimestrali; comparto predefinito Linea Tranquilla; nessuna spesa di erogazione oltre a quelle di gestione",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.unicreditallianzvita.it/content/dam/onemarketing/crv/unicreditallianzvita-it/le-soluzioni-per-te/archivio-prodotti/previdenza/unicredit-fondo-pensione-aperto/31-07-2026/Supplemento_NI_FPA_31_07_2026_def.pdf"
+    },
+    "consultata_il": "2026-10-09",
+    "note": "Coefficienti diversi per uomini e donne (tavola RG48, tasso tecnico 2%): a 67 anni, prima della correzione per anno di nascita, 684,6 € (uomini) e 575,5 € (donne) l'anno ogni 10.000 €, non confrontabili con i coefficienti unisex degli altri fondi. Documenti pubblicati nell'archivio prodotti di UniCredit Allianz Vita. Costo della rendita dall'1,80% (annuale) al 3,30% (mensile)."
+  },
+  {
+    "fondo_id": "previgest-fund-mediolanum",
+    "riga": 15,
+    "documento_rendite": {
+      "titolo": "Documento sull'erogazione delle rendite (luglio 2026)",
+      "url": "https://www.mediolanumgestionefondi.it/static-assets/documenti/file/it/2026/07/31//Doc_ErogRendite_PreviMGF.pdf"
+    },
+    "compagnia": "Mediolanum Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": 0.01,
+    "basi": "Tavola IPS55U unisex (adesioni individuali), tasso tecnico 1%",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 0.0,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Scheda I costi",
+      "url": "https://www.mediolanumgestionefondi.it/static-assets/documenti/previgest/SchedaCosti_PreviMGF.pdf"
+    },
+    "nuove_prestazioni": "Rate mensili, trimestrali, semestrali o annuali; comparto predefinito Obbligazionario; nessun costo per accedere né a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.mediolanumgestionefondi.it/static-assets/documenti/file/it/2026/07/31//Supplemento_alla_nota_informativa.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "I coefficienti non sono pubblicati nel documento sulle rendite (rinvio alle tabelle depositate presso il fondo). Tasso tecnico 1%: rata iniziale più alta, rivalutazioni successive più basse."
+  },
+  {
+    "fondo_id": "zurich-contribution",
+    "riga": 16,
+    "documento_rendite": null,
+    "compagnia": null,
+    "varianti": {
+      "reversibile": null,
+      "certa": null,
+      "controassicurata": null,
+      "ltc": null
+    },
+    "n_varianti": 0,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": null,
+    "basi": null,
+    "costo_rendita": null,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 51.65,
+      "trasferimento": 51.65,
+      "rita": 2
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://edge.sitecorecloud.io/zurichinsurf8c0-zwpshared-prod-d824/media/project/zurich-headless/italy/files/covip-schede-costi/zurich-contribution_nota-informativa_parte-i-scheda-i-costi-032026_prot.pdf"
+    },
+    "nuove_prestazioni": null,
+    "supplemento": null,
+    "consultata_il": "2026-10-09",
+    "note": "Documento sulle rendite e supplemento non trovati sul sito pubblico. RITA: 2 € su ogni rata."
+  },
+  {
+    "fondo_id": "zed-omnifund",
+    "riga": 17,
+    "documento_rendite": null,
+    "compagnia": null,
+    "varianti": {
+      "reversibile": null,
+      "certa": null,
+      "controassicurata": null,
+      "ltc": null
+    },
+    "n_varianti": 0,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": null,
+    "basi": null,
+    "costo_rendita": null,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 15,
+      "rita": 2
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://edge.sitecorecloud.io/zurichinsurf8c0-zwpshared-prod-d824/media/project/zurich-headless/italy/files/covip-schede-costi/zed-omnifund_nota-informativa_parte-i-scheda-i-costi-032026_prot.pdf"
+    },
+    "nuove_prestazioni": null,
+    "supplemento": null,
+    "consultata_il": "2026-10-09",
+    "note": "Documento sulle rendite e supplemento non trovati sul sito pubblico. RITA: 2 € su ogni rata."
+  },
+  {
+    "fondo_id": "plurifonds-itas-vita",
+    "riga": 18,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (febbraio 2021)",
+      "url": "https://www.gruppoitas.it/documents/20121/0/7.%20Documento_sulle_rendite_Plurifonds.pdf/f0ac2f9d-47eb-f9e5-4412-767014298b9c"
+    },
+    "compagnia": "ITAS Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 424.8,
+    "tasso_conversione_67": 0.04248,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D unisex, nati 1958–1966 senza correzione, tasso tecnico 0%",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": null,
+      "riscatto": null,
+      "trasferimento": null,
+      "rita": null
+    },
+    "scheda_costi": null,
+    "nuove_prestazioni": null,
+    "supplemento": null,
+    "consultata_il": "2026-10-08",
+    "note": "Documento sulle rendite del 2021, precedente alle nuove prestazioni. Oltre all'1,25% di erogazione, caricamento di gestione dell'1% sul premio."
+  },
+  {
+    "fondo_id": "credit-agricole-vita",
+    "riga": 21,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (maggio 2022)",
+      "url": "https://www.ca-vita.it/media/filer_public/2f/ef/2fef7010-3cd6-48e1-a572-4841ba4fd387/doc_rendite_fpa_2022_05.pdf"
+    },
+    "compagnia": "Crédit Agricole Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 429.4,
+    "tasso_conversione_67": 0.04294,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62I unisex, nati 1958–1966 senza correzione, tasso tecnico 0%",
+    "costo_rendita": 0.009,
+    "costi": {
+      "anticipazione": null,
+      "riscatto": null,
+      "trasferimento": null,
+      "rita": null
+    },
+    "scheda_costi": null,
+    "nuove_prestazioni": "Rate annuali, semestrali o trimestrali; comparto predefinito Linea Garantita",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.ca-vita.it/media/filer_public/3d/8c/3d8c85f6-7565-4a1c-b3f3-a7b8c93e3d69/supplemento_ni_fpa.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Documento sulle rendite del 2022: verificare se è stato aggiornato. Costo della rendita dallo 0,90% (annuale) al 2% (mensile), dal supplemento 2026."
+  },
+  {
+    "fondo_id": "arti-e-mestieri",
+    "riga": 22,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (allegato n. 2 al Regolamento)",
+      "url": "https://www.animasgr.it/d/IT/Downloads/Documents/AM_DocumentoSulleRendite.pdf"
+    },
+    "compagnia": "Unipol Assicurazioni S.p.A. (convenzione nata con Fondiaria-SAI)",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì",
+      "ltc": "Sì (rendita raddoppiata)"
+    },
+    "n_varianti": 4,
+    "rendita_67": 408.18,
+    "tasso_conversione_67": 0.040818,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62 per impegni immediati unisex (40% uomini, 60% donne), tasso tecnico 0% (tabella A-quater)",
+    "costo_rendita": 0.009,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 25,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.animasgr.it/d/IT/Downloads/Documents/AM_Parte_I_Scheda_I_Costi.pdf"
+    },
+    "nuove_prestazioni": "Rate annuali, trimestrali o mensili; comparto predefinito Garanzia 1+; 50 € all'attivazione e 2 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.animasgr.it/d/IT/Downloads/Documents/AM_SupplementoNotaInformativa.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "La convenzione per le rendite scade il 31/12/2026: i coefficienti potrebbero cambiare. Costo della rendita dallo 0,90% (annuale) al 2% (mensile)."
+  },
+  {
+    "fondo_id": "secondapensione",
+    "riga": 23,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite",
+      "url": "https://www.secondapensione.it/files/nuxeo/dl/3b35a7d4-61a4-48ca-b6ff-1e8579f988fb"
+    },
+    "compagnia": "Crédit Agricole Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì",
+      "controassicurata": "Sì",
+      "ltc": "Sì (rendita raddoppiata)"
+    },
+    "n_varianti": 4,
+    "rendita_67": 443.46,
+    "tasso_conversione_67": 0.044346,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62I (60% uomini, 40% donne), nati 1958–1966 senza correzione, tasso tecnico 0%, rate annuali anticipate (22,5498 € per 1 € di rendita)",
+    "costo_rendita": 0.008,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 0.0,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.secondapensione.it/files/nuxeo/dl/e635f73f-3912-4896-8f1e-bd64bf0aa018"
+    },
+    "nuove_prestazioni": "Rate trimestrali, semestrali o annuali; comparto predefinito SecondaPensione Prudente ESG",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.secondapensione.it/files/nuxeo/dl/499c2f11-fe4c-4989-b972-aeaf08f00d9b"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Costo della rendita 0,80% più 0,10% per ogni rata nell'anno. Nessuna spesa per anticipazioni, riscatti e trasferimenti."
+  },
+  {
+    "fondo_id": "giustiniano",
+    "riga": 24,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/005/GIUST_Documento%20sulle%20rendite_07_2026.pdf"
+    },
+    "compagnia": "Intesa Sanpaolo Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 50%)",
+      "certa": "No",
+      "controassicurata": "Sì",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 429.1,
+    "tasso_conversione_67": 0.04291,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D/A per anno di nascita (nati 1958–1966 senza correzione), tasso tecnico 0%",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 20,
+      "riscatto": 20,
+      "trasferimento": 20,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/005/Giustiniano_Scheda_Costi_03_2026_UA.pdf"
+    },
+    "nuove_prestazioni": "Rate mensili, trimestrali o annuali (minimo 150 € a rata); comparto predefinito Giustiniano Monetaria; 20 € per accedere, 2 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/005/GIUST_Supplemento_NI_07_2026.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": null
+  },
+  {
+    "fondo_id": "programma-open",
+    "riga": 25,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://cdn.groupama.it/app/uploads/2026/07/78_Programma-Open-Documento-sulle-rendite_072026.pdf"
+    },
+    "compagnia": "Groupama Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5, 10 o 15 anni)",
+      "controassicurata": "No",
+      "ltc": "Sì (+20%, costo 5% della posizione)"
+    },
+    "n_varianti": 3,
+    "rendita_67": 431.78,
+    "tasso_conversione_67": 0.043178,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola ANIA 2005 unificata per sesso (iscritti dal 21/12/2012), nati 1949–1960, tasso tecnico 0%",
+    "costo_rendita": 0.02,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": null,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://cdn.groupama.it/app/uploads/2026/03/Parte-I_I-costi-1.pdf"
+    },
+    "nuove_prestazioni": "Rate trimestrali, semestrali o annuali; comparto predefinito Nuovo Obbligazionario Etico; 15 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://cdn.groupama.it/app/uploads/2026/08/Supplemento-Nota-Informativa-Programma-Open_202607.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Anticipazioni e riscatti senza spese; il testo estratto della Scheda costi non riporta gli importi per trasferimento e RITA."
+  },
+  {
+    "fondo_id": "il-mio-domani",
+    "riga": 26,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/006/IMD_Documento%20sulle%20Rendite_07_2026.pdf"
+    },
+    "compagnia": "Intesa Sanpaolo Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 50%)",
+      "certa": "No",
+      "controassicurata": "Sì (80% del capitale)",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 429.1,
+    "tasso_conversione_67": 0.04291,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D/A per anno di nascita (nati 1958–1966 senza correzione), tasso tecnico 0% (tabella A: 42,91 € per 1.000 €)",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": null,
+      "riscatto": 50,
+      "trasferimento": 50,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/006/Scheda%20I%20Costi%20Il%20Mio%20Domani%2003-2026%20UA.pdf"
+    },
+    "nuove_prestazioni": "Rate mensili, trimestrali o annuali (minimo 150 € a rata); comparto predefinito Linea Breve Termine; durata anche più lunga della vita attesa; 20 € per accedere, 2 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/006/IMD_Supplemento_NI_07_2026.pdf"
+    },
+    "consultata_il": "2026-10-09",
+    "note": "Stessi coefficienti di Previdsystem e Giustiniano (stessa compagnia). Il testo estratto della Scheda costi non riporta il costo dell'anticipazione."
+  },
+  {
+    "fondo_id": "azione-di-previdenza",
+    "riga": 28,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/Azione_di_Previdenza_documento_sulle_rendite_FPA_07-2026_def.pdf"
+    },
+    "compagnia": "HDI Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì",
+      "ltc": "No"
+    },
+    "n_varianti": 3,
+    "rendita_67": 441.45,
+    "tasso_conversione_67": 0.044145,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D (70% uomini, 30% donne), nati 1958–1966 senza correzione, tasso tecnico 0% (Regolamento, tabella A: 22,6524 € per 1 € di rendita)",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 15,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (luglio 2026)",
+      "url": "https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/PARTE_I_SCHEDA_I_COSTI_07-2026_def.pdf"
+    },
+    "nuove_prestazioni": "Rate annuali, semestrali, trimestrali o mensili; prelievo minimo 2.000 € (o la rendita figurativa se inferiore); 25 € a rata per la rendita a durata definita",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/Supplemento_FPA_07-2026.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Coefficienti nel Regolamento (luglio 2026), espressi come capitale necessario per 1 € di rendita annua."
+  },
+  {
+    "fondo_id": "cnp",
+    "riga": 29,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://gruppocnp.it/sites/default/files/FPA%20CNP_Documento%20sulle%20Rendite_99247_072026_def.pdf"
+    },
+    "compagnia": "CNP Vita Assicura S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D ponderata 40% uomini e 60% donne (adesioni individuali), tasso tecnico 0%",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 0.0,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, I costi (marzo 2026)",
+      "url": "https://gruppocnp.it/sites/default/files/FPA_CNP_Parte_I_i_costi_032026_valido_dal_31032026.pdf"
+    },
+    "nuove_prestazioni": "Rate annuali o semestrali (minimo 500 € a semestre); comparto predefinito con garanzia di restituzione del capitale; 6 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://gruppocnp.it/sites/default/files/Supplemento_nota_informativa_prestazioni_FPA_valido_dal_31072026.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Coefficienti numerici non pubblicati nei documenti consultati (basi tecniche dal documento sulle proiezioni pensionistiche)."
+  },
+  {
+    "fondo_id": "insieme",
+    "riga": 30,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.allianz.it/content/dam/onemarketing/azit/allianz-it/le-soluzioni-per-te/previdenza/documento-rendite-insieme.pdf"
+    },
+    "compagnia": "Allianz S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 60%)",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì (cashback)",
+      "ltc": "Sì (rendita raddoppiata, con questionario medico)"
+    },
+    "n_varianti": 4,
+    "rendita_67": 462.5,
+    "tasso_conversione_67": 0.04625,
+    "tasso_tecnico": 0.005,
+    "basi": "Tavola AZPS62, nati 1955–1962 senza correzione d'età, tasso tecnico 0,5% (stessi coefficienti di Allianz Previdenza)",
+    "costo_rendita": 0.018,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 0.0,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (settembre 2026)",
+      "url": "https://www.allianz.it/content/dam/onemarketing/azit/allianz-it/le-soluzioni-per-te/previdenza/costi-insieme.pdf"
+    },
+    "nuove_prestazioni": "Rendita a durata definita a rate trimestrali (19 anni a 67 anni); prelievi ogni 3 mesi almeno, minimo 500 €; comparto predefinito Linea Flessibile con garanzia; nessuna spesa di erogazione",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (settembre 2026)",
+      "url": "https://www.allianz.it/content/dam/onemarketing/azit/allianz-it/le-soluzioni-per-te/previdenza/supplemento-nota-informativa-insieme.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Costo della rendita dall'1,80% (rata annuale) al 3,30% (mensile); rivalutazione annua con 1,20 punti trattenuti dalla gestione separata VITARIV Group."
+  },
+  {
+    "fondo_id": "bim-vita",
+    "riga": 31,
+    "documento_rendite": null,
+    "compagnia": null,
+    "varianti": {
+      "reversibile": null,
+      "certa": null,
+      "controassicurata": null,
+      "ltc": null
+    },
+    "n_varianti": 0,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": null,
+    "basi": null,
+    "costo_rendita": null,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 50,
+      "rita": 3
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (luglio 2026)",
+      "url": "https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/b-fpa-bv-skcosti-2026-07.pdf"
+    },
+    "nuove_prestazioni": "Prelievi ogni 3 mesi almeno, minimo 1.000 € lordi; rate di frazionamento da mensili ad annuali (solo annuali se la rata è sotto i 100 €)",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/supplemento-fpa-bv-2026-07-v2.pdf"
+    },
+    "consultata_il": "2026-10-09",
+    "note": "Oggi si chiama Unipol Fondo Pensione Aperto BV. Documento sulle rendite non trovato sul sito pubblico. RITA: 3 € su ogni rata."
+  },
+  {
+    "fondo_id": "pensplan-profi",
+    "riga": 32,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite",
+      "url": "https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/DocumentoRendite.pdf"
+    },
+    "compagnia": "ITAS Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D, tasso tecnico 0%",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 10,
+      "rita": 50
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/Icosti.pdf"
+    },
+    "nuove_prestazioni": "Rate non più frequenti di trimestrali; comparto predefinito Ethical Life Short Term; nessun costo per accedere; durata anche più lunga della vita attesa",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa",
+      "url": "https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/Supplemento_PrestazioniPensionistiche.pdf"
+    },
+    "consultata_il": "2026-10-09",
+    "note": "I coefficienti non sono pubblicati nel documento sulle rendite (sono nella convenzione con ITAS Vita). Oltre all'1,25% di erogazione, caricamento dell'1% sul premio. RITA: 50 € per aprire la pratica."
+  },
+  {
+    "fondo_id": "raiffeisen",
+    "riga": 33,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite",
+      "url": "https://www.raiffeisenpensionsfonds.it/fileadmin/RGO/Pensionsfonds/Allgemeine_Unterlagen/IT/5_Documento_sulle_rendite.pdf"
+    },
+    "compagnia": "Assimoco Vita S.p.A. (convenzione fino all'8/9/2030)",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5, 10 o 20 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola IPS55U-I unisex, nati 1949–1960 senza correzione, tasso tecnico 0%",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 50,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.raiffeisenpensionsfonds.it/fileadmin/RGO/Pensionsfonds/Allgemeine_Unterlagen/IT/2.3_Nota_informativa_-_Parte_1_Informazioni_chiave_per_aderente_-_Scheda_I_costi.pdf"
+    },
+    "nuove_prestazioni": "Rate annuali, semestrali o trimestrali (minimo 2.000 € a rata, altrimenti meno frequenti); comparto predefinito Guaranty",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.raiffeisenpensionsfonds.it/fileadmin/RGO/Pensionsfonds/Allgemeine_Unterlagen/IT/Supplemento_Nota_informativa_prestazioni_pensionistiche_31.07.2026.pdf"
+    },
+    "consultata_il": "2026-10-09",
+    "note": "Il documento pubblica solo un esempio: a 67 anni, con rate mensili, 42,21 € l'anno ogni 1.000 € (422,10 € ogni 10.000 €); il coefficiente per rate annuali non è pubblicato. Oltre all'1,25% di erogazione, caricamento dell'1% sul premio."
+  },
+  {
+    "fondo_id": "ubi-previdenza",
+    "riga": 35,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/011-1/UBIPREV_Documento%20sulle%20rendite.07_2026.pdf"
+    },
+    "compagnia": "Intesa Sanpaolo Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 453.5,
+    "tasso_conversione_67": 0.04535,
+    "tasso_tecnico": 0.005,
+    "basi": "Tavola A62D (40% uomini, 60% donne), adesioni dal 1/6/2017, nati 1958–1966 senza correzione, tasso tecnico 0,5% (Regolamento, allegato A1)",
+    "costo_rendita": 0.01,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 25,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/011/UBIPrev_Scheda_I_Costi_03_2026_UA.pdf"
+    },
+    "nuove_prestazioni": "Rate mensili, trimestrali o annuali (minimo 150 € a rata); comparto predefinito Capitale Sicuro",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/011/UBIPrev_Supplemento_NI_07_2026.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Tasso tecnico 0,5%: rata iniziale più alta, rivalutazioni successive più basse. Costo della rendita dall'1% (annuale) all'1,75% (bimestrale), più 2,58 € a rata."
+  },
+  {
+    "fondo_id": "soluzione-previdente",
+    "riga": 36,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.helvetia.com/content/dam/os/it/web/it/prodotti-e-servizi/prodotti_dedicati_alla_previdenza_complementare/fpa_soluzione_previdente/2026/202607/Doc_Rendite_FPA%20Soluzione%20Previdente_07_2026.pdf"
+    },
+    "compagnia": "Helvetia Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 60%)",
+      "certa": "Sì (5 o 10 anni, anche reversibile)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 427.9,
+    "tasso_conversione_67": 0.04279,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62UI, nati 1958–1966 senza correzione, tasso tecnico 0% (tabella 1)",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 25,
+      "rita": 5
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (2026)",
+      "url": "https://www.helvetia.com/content/dam/os/it/web/it/prodotti-e-servizi/prodotti_dedicati_alla_previdenza_complementare/fpa_soluzione_previdente/2026/SchedaICosti_FPASolPrev.pdf"
+    },
+    "nuove_prestazioni": "Rate trimestrali, quadrimestrali, semestrali o annuali; prelievo minimo 1.200 €; comparto predefinito Linea 1 Garantita; nessun costo per accedere",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.helvetia.com/content/dam/os/it/web/it/prodotti-e-servizi/prodotti_dedicati_alla_previdenza_complementare/fpa_soluzione_previdente/2026/202607/Supplemento%20NotaInfo_FPASolPrev.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "RITA: 5 € per ogni rata."
+  },
+  {
+    "fondo_id": "bap-pensione-2007",
+    "riga": 37,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/012/BAPPENS_Documento%20sulle%20rendite_07_2026.pdf"
+    },
+    "compagnia": "Intesa Sanpaolo Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 461.32,
+    "tasso_conversione_67": 0.046132,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola IPS55U-I unisex, nati 1947–1960 senza correzione, tasso tecnico 0% (Regolamento, tabelle)",
+    "costo_rendita": null,
+    "costi": {
+      "anticipazione": 25,
+      "riscatto": 25,
+      "trasferimento": 25,
+      "rita": null
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (marzo 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/012/BAPPen_Scheda_I_Costi_03_2026.pdf"
+    },
+    "nuove_prestazioni": "Rate mensili, trimestrali o annuali (minimo 150 € a rata); comparto predefinito BAP Pensione TFR; 20 € per accedere, 2 € a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/012/BAPPens_Supplemento_NI_07_2026.pdf"
+    },
+    "consultata_il": "2026-10-08",
+    "note": "Tavola IPS55, più datata delle A62: ipotizza una vita più breve e quindi una rata più alta."
+  }
+]

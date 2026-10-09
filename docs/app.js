@@ -9,6 +9,7 @@ const STATO = {
   regole: [], longevita: null, temaRegole: null, soloVaria: false, graficoLongevita: null,
   glossario: [], perTermine: new Map(), cercaGlossario: "",
   documenti: null, // indice dei documenti ufficiali (scripts/documenti.py); null se manca
+  prestazioni: new Map(), soloRendita: false, // condizioni alla pensione per fondo (foglio Prestazioni)
 };
 
 // ---------------------------------------------------------------- formattazione (it-IT)
@@ -21,6 +22,7 @@ const pctTxt = (v, d = 2) => (v == null ? "—" : `${(d === 1 ? NF1 : NF2).forma
 const rend = (v) => (v == null ? NA : `<span class="${v < 0 ? "neg" : ""}">${pct(v)}</span>`);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const dataIt = (iso) => (iso ? new Date(iso).toLocaleDateString("it-IT", { day: "numeric", month: "long", year: "numeric" }) : "—");
+const articoloData = (iso) => (/^(8|11) /.test(dataIt(iso)) ? "l'" : "il ");   // "l'8 ottobre", "il 9 ottobre"
 
 const GRUPPI = {
   AZN: { label: "Azionari (AZN)", var: "--cat-azn", punto: "circle" },
@@ -60,8 +62,8 @@ function badge(testi) {
 // ---------------------------------------------------------------- caricamento
 async function carica() {
   try {
-    const [fondi, comparti, meta, regole, longevita, glossario] = await Promise.all(
-      ["fondi", "comparti", "meta", "regole", "longevita", "glossario"].map((n) =>
+    const [fondi, comparti, meta, regole, longevita, glossario, prestazioni] = await Promise.all(
+      ["fondi", "comparti", "meta", "regole", "longevita", "glossario", "prestazioni"].map((n) =>
         fetch(`data/${n}.json`, { cache: "no-cache" }).then((r) => {
           if (!r.ok) throw new Error(`${n}.json: HTTP ${r.status}`);
           return r.json();
@@ -71,6 +73,7 @@ async function carica() {
     Object.assign(STATO, {
       fondi, comparti, meta, regole, longevita, glossario,
       perId: new Map(fondi.map((f) => [f.id, f])), perTermine: new Map(glossario.map((g) => [g.id, g])),
+      prestazioni: new Map(prestazioni.map((p) => [p.fondo_id, p])),
     });
     STATO.documenti = await caricaDocumenti();
   } catch (e) {
@@ -85,6 +88,7 @@ async function carica() {
   renderCategorie();
   initRegole();
   initLongevita();
+  initPrestazioni();
   initGlossario();
   renderQualita();
   renderFooter();
@@ -261,7 +265,7 @@ function apriFondo(id, aggiornaHash = true) {
       }).join("")}</tbody>
     </table></div>`;
   }
-  html += daVerificare(f) + documentiFondo(f);
+  html += prestazioniFondo(f) + daVerificare(f) + documentiFondo(f);
   document.getElementById("d-body").innerHTML = html;
   if (!dlg.open) dlg.showModal();
   dlg.scrollTop = 0;
@@ -631,6 +635,117 @@ function disegnaLongevita() {
 }
 
 // ---------------------------------------------------------------- glossario (foglio Glossario → glossario.json)
+// ---------------------------------------------------------------- alla pensione, fondo per fondo (foglio Prestazioni)
+const VARIANTI = [   // [campo di prestazioni.json, etichetta, voce del glossario]
+  ["reversibile", "Reversibile", "rendita-reversibile"],
+  ["certa", "Certa e poi vitalizia", "rendita-certa"],
+  ["controassicurata", "Controassicurata", "rendita-controassicurata"],
+  ["ltc", "LTC", "ltc"],
+];
+const SPIEGA_RENDITA_67 = "Qui: la rendita annua iniziale, prima delle tasse, che il fondo paga a chi la chiede a 67 anni con 10.000 € di capitale (rata annuale, per chi è nato intorno al 1959 e ha aderito dopo il 2012). Con 100.000 € è dieci volte tanto. Conta il coefficiente in vigore quando chiedi la rendita.";
+const SPIEGA_COSTO_RENDITA = "Caricamento: la parte che la compagnia trattiene per pagare la rendita, già compresa nel coefficiente. È quella con la rata annuale: con rate più frequenti (es. mensili) di solito è più alta.";
+const SPIEGA_COSTI_OP = "Spesa fissa trattenuta dalla posizione per ogni operazione, dalla Scheda costi del fondo. «nessuna» = non prevista; — = non trovata nei documenti.";
+const offerta = (v) => Boolean(v && v.startsWith("Sì"));
+const costoOp = (v) => (v == null ? NA : v === 0 ? "nessuna" : eur(v));
+const euroRendita = (v) => (v == null ? NA : `${NF0.format(v)} €`);
+
+// Varianti di rendita vitalizia offerte, come etichette (solo quelle previste; il dettaglio fondo mostra anche le altre)
+function variantiTag(p) {
+  const note = VARIANTI.filter(([k]) => p.varianti[k] != null);
+  if (!note.length) return NA;
+  const si = note.filter(([k]) => offerta(p.varianti[k]));
+  if (!si.length) return '<span class="na" data-spiega="Il fondo offre solo la rendita vitalizia semplice.">solo vitalizia</span>';
+  return `<span class="tags">${si.map(([k, l, voce]) => `<span class="tag tag-on" data-glossario="${voce}" data-spiega="${esc(`Qui: ${p.varianti[k]}`)}">${l}</span>`).join("")}</span>`;
+}
+
+const COLONNE_PRESTAZIONI = [
+  { label: "Fondo", glossario: "fondo-pensione-aperto",
+    html: (f, p) => `<button type="button" class="fondo-btn" data-fondo="${esc(f.id)}">${esc(f.nome_breve)}</button><span class="sub">${esc(p.compagnia ?? "Compagnia non indicata")}</span>` },
+  { label: "Rendita a 67 anni<br>ogni 10.000 €", num: true, glossario: "coefficiente-trasformazione", spiega: SPIEGA_RENDITA_67,
+    html: (f, p) => euroRendita(p.rendita_67) },
+  { label: "Tasso<br>tecnico", num: true, glossario: "tasso-tecnico", html: (f, p) => pct(p.tasso_tecnico, 1) },
+  { label: "Costo della<br>rendita", num: true, spiega: SPIEGA_COSTO_RENDITA, html: (f, p) => pct(p.costo_rendita) },
+  { label: "Opzioni oltre alla vitalizia", glossario: "rendita-vitalizia", spiega: "Qui: le varianti di rendita vitalizia che il fondo offre. Passa sulle etichette per il dettaglio.", html: (f, p) => variantiTag(p) },
+  { label: "Anticipazione", num: true, glossario: "anticipazione", spiega: SPIEGA_COSTI_OP, html: (f, p) => costoOp(p.costi.anticipazione) },
+  { label: "Riscatto", num: true, glossario: "riscatto", spiega: SPIEGA_COSTI_OP, html: (f, p) => costoOp(p.costi.riscatto) },
+  { label: "Trasferimento", num: true, glossario: "trasferimento", spiega: SPIEGA_COSTI_OP, html: (f, p) => costoOp(p.costi.trasferimento) },
+  { label: "Fonte", glossario: "documento-rendite", spiega: "Qui: il documento ufficiale da cui viene la rendita a 67 anni (o, se manca, la Scheda costi). Tutte le fonti sono nel dettaglio del fondo.",
+    html: (f, p) => { const d = p.documento_rendite ?? p.scheda_costi ?? p.supplemento; return d ? `<a href="${esc(d.url)}" rel="noopener" target="_blank">${p.documento_rendite ? "Rendite" : p.scheda_costi ? "Costi" : "Supplemento"}<span class="sr-only"> di ${esc(f.nome_breve)}</span></a>` : NA; } },
+];
+
+function initPrestazioni() {
+  const righe = [...STATO.prestazioni.values()].map((p) => [STATO.perId.get(p.fondo_id), p]).filter(([f]) => f);
+  if (!righe.length) return;
+  const conRendita = righe.filter(([, p]) => p.rendita_67 != null).sort((a, b) => a[1].rendita_67 - b[1].rendita_67);
+  const kpi = (v, l) => `<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`;
+  const c = STATO.meta.conteggi;
+  let kpiHtml = kpi(`${righe.length} su ${c.fondi}`, `fondi con i dati sulle prestazioni, presi dai ${termine("documento-rendite", "documenti ufficiali")}`);
+  if (conRendita.length > 1) {
+    const min = conRendita[0][1].rendita_67, max = conRendita[conRendita.length - 1][1].rendita_67;
+    const nomi = (v) => conRendita.filter(([, p]) => p.rendita_67 === v).map(([f]) => esc(f.nome_breve)).join(" e ");
+    kpiHtml +=
+      kpi(`${euroRendita(min)} – ${euroRendita(max)}`, `la ${termine("rendita-vitalizia", "rendita")} annua a 67 anni ogni 10.000 €, da ${nomi(min)} a ${nomi(max)} (${conRendita.length} fondi confrontabili)`) +
+      kpi(euroRendita((max - min) * 10), "l'anno di differenza tra il fondo che paga di più e quello che paga di meno, con 100.000 € di capitale");
+  }
+  document.getElementById("p-kpi").innerHTML = kpiHtml;
+  document.querySelector("#tab-prestazioni thead tr").innerHTML = COLONNE_PRESTAZIONI.map((col) =>
+    `<th scope="col"${col.num ? ' class="num"' : ""}${attrSpiegazione(col)}>${col.label}</th>`).join("");
+  document.getElementById("p-solo-rendita").addEventListener("change", (e) => { STATO.soloRendita = e.target.checked; renderPrestazioni(); });
+  document.querySelector("#tab-prestazioni tbody").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-fondo]");
+    if (b) apriFondo(b.dataset.fondo);
+  });
+  const senza = STATO.fondi.filter((f) => !STATO.prestazioni.has(f.id));
+  document.getElementById("p-nota").innerHTML =
+    `Come leggere la rendita: un ${termine("tasso-tecnico", "tasso tecnico")} più alto dà una prima rata più alta ma rivalutazioni più basse negli anni; ` +
+    "le tavole di mortalità più vecchie (IPS55) ipotizzano una vita più breve e quindi rate più alte. I coefficienti possono cambiare fino al momento in cui chiedi la rendita: " +
+    "contano quelli in vigore allora, e per chi ha aderito prima del 2013 possono essere diversi. " +
+    (senza.length ? `Mancano ancora ${senza.length} fondi, di cui non sono stati trovati i documenti pubblici: ${senza.map((f) => esc(f.nome_breve)).join(", ")}.` : "");
+  renderPrestazioni();
+}
+
+function renderPrestazioni() {
+  const righe = [...STATO.prestazioni.values()]
+    .map((p) => [STATO.perId.get(p.fondo_id), p])
+    .filter(([f, p]) => f && (!STATO.soloRendita || p.rendita_67 != null))
+    .sort(([fa, a], [fb, b]) => (b.rendita_67 ?? -1) - (a.rendita_67 ?? -1) || fa.nome_breve.localeCompare(fb.nome_breve, "it"));
+  document.querySelector("#tab-prestazioni tbody").innerHTML = righe.map(([f, p]) =>
+    `<tr>${COLONNE_PRESTAZIONI.map((col, i) => (i === 0 ? `<th scope="row">${col.html(f, p)}</th>` : `<td${col.num ? ' class="num"' : ""}>${col.html(f, p)}</td>`)).join("")}</tr>`).join("");
+  document.getElementById("p-conteggio").textContent = `${righe.length} fondi`;
+}
+
+// Blocco del dettaglio fondo: condizioni alla pensione dai documenti ufficiali, con le fonti
+function prestazioniFondo(f) {
+  const p = STATO.prestazioni.get(f.id);
+  if (!p) return "";
+  const fact = (l, v, attr = "") => `<div class="fact"><div class="l"${attr}>${l}</div><div class="v">${v}</div></div>`;
+  const varianti = VARIANTI.filter(([k]) => p.varianti[k] != null).map(([k, l, voce]) => {
+    const v = p.varianti[k], si = offerta(v);
+    const dettaglio = v.replace(/^(Sì|No)\s*/, "").replace(/^\((.*)\)$/, "$1");   // "Sì (5 o 10 anni)" → "5 o 10 anni"
+    return `<li class="${si ? "si" : "no"}"><span aria-hidden="true">${si ? "✓" : "✗"}</span> ${termine(voce, l)}${si ? "" : " non prevista"}${dettaglio ? `: ${esc(dettaglio)}` : ""}</li>`;
+  }).join("");
+  const fonti = [["Documento sulle rendite", p.documento_rendite], ["Scheda costi", p.scheda_costi], ["Supplemento alla Nota informativa", p.supplemento]]
+    .filter(([, d]) => d).map(([l, d]) => `<a href="${esc(d.url)}" rel="noopener" target="_blank" data-spiega="${esc(d.titolo)}">${l} ↗</a>`).join(" · ");
+  return `<h3 class="d-sez">Alla pensione con questo fondo</h3>
+    <div class="facts">
+      ${fact("Rendita a 67 anni ogni 10.000 €", p.rendita_67 == null ? NA : `${NF2.format(p.rendita_67)} € l'anno`, ` data-glossario="coefficiente-trasformazione" data-spiega="${esc(SPIEGA_RENDITA_67)}"`)}
+      ${fact("Tasso tecnico", pct(p.tasso_tecnico, 1), ' data-glossario="tasso-tecnico"')}
+      ${fact("Costo della rendita", pct(p.costo_rendita), ` data-spiega="${esc(SPIEGA_COSTO_RENDITA)}"`)}
+      ${fact("Paga la rendita", esc(p.compagnia ?? "—"))}
+    </div>
+    ${varianti ? `<p class="hint">Oltre alla ${termine("rendita-vitalizia", "rendita vitalizia")} semplice:</p><ul class="varianti">${varianti}</ul>` : ""}
+    <div class="facts">
+      ${fact(termine("anticipazione", "Anticipazione"), costoOp(p.costi.anticipazione))}
+      ${fact(termine("riscatto", "Riscatto"), costoOp(p.costi.riscatto))}
+      ${fact(termine("trasferimento", "Trasferimento"), costoOp(p.costi.trasferimento))}
+      ${fact(termine("rita", "RITA"), costoOp(p.costi.rita))}
+    </div>
+    ${p.nuove_prestazioni ? `<p><strong>${termine("rendita-durata-definita", "Rendita a durata definita")} e ${termine("prelievi-liberi", "prelievi")}:</strong> ${esc(p.nuove_prestazioni)}.</p>` : ""}
+    ${p.basi ? `<p class="hint">Come è calcolata la rendita: ${esc(p.basi)}.</p>` : ""}
+    ${p.note ? `<div class="note-box"><strong>Note</strong><p>${esc(p.note)}</p></div>` : ""}
+    <p class="hint">Fonti: ${fonti}${p.consultata_il ? ` (consultate ${articoloData(p.consultata_il)}${esc(dataIt(p.consultata_il))})` : ""}.</p>`;
+}
+
 const normalizza = (s) => String(s ?? "").normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().trim();
 const fonteBreve = (nome) => nome.split(" – ")[0];   // come fonte_breve() in export_xlsx.py: "COVIP – Glossario" → "COVIP"
 

@@ -1,10 +1,10 @@
 {
-  "versione": "515b7fc-dirty (sviluppo)",
-  "generato_il": "2026-10-09T05:13:57+00:00",
+  "versione": "be7006f-dirty (sviluppo)",
+  "generato_il": "2026-10-09T05:28:00+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
-  "workbook_modificato_il": "2026-10-08T22:07:53",
-  "workbook_sha256": "b2a133770ee0e9473d36f10de9ba91e9740f767ee0939ab4a7a549ab7303d6fe",
-  "commit": "515b7fc6d131ed16a1f32f6cdd874d4ad7ccc239",
+  "workbook_modificato_il": "2026-10-09T05:28:00",
+  "workbook_sha256": "05431116d108336ba6bc744df458f109d14c1bbd24eb4096ab96c0cc6b7af4c6",
+  "commit": "be7006f78b294c5972e06c4b28d33e6753985374",
   "licenza": {
     "nome": "The Unlicense",
     "spdx": "Unlicense",
@@ -18,7 +18,9 @@
     "comparti_con_anomalie": 11,
     "fondi_con_anomalie": 19,
     "regole": 32,
-    "glossario": 49
+    "glossario": 49,
+    "fondi_con_prestazioni": 26,
+    "prestazioni_con_rendita_67": 16
   },
   "flag": {
     "comparti": {
@@ -35,9 +37,7 @@
       "comparti_anomali": "Almeno un comparto ha anomalie: le metriche aggregate potrebbero essere falsate"
     }
   },
-  "avvisi_export": [
-    "115 celle con formula senza valore in cache (file salvato fuori da Excel?): uso i valori ricalcolati in Python"
-  ],
+  "avvisi_export": [],
   "fonti": [
     {
       "nome": "COVIP – Elenco dei fondi iscritti all'Albo (Sezione II – Fondi pensione aperti)",
@@ -55,6 +55,12 @@
       "nome": "Generali – confluenza di Almeglio in Generali Global dal 1/1/2027",
       "url": "https://www.generali.it",
       "tipo": "primaria"
+    },
+    {
+      "nome": "Documenti sulle rendite, Supplementi alla Nota informativa e Schede costi dei gestori",
+      "url": null,
+      "tipo": "primaria",
+      "dettaglio": "foglio Prestazioni: link documento_rendite, scheda_costi e supplemento di prestazioni.json"
     },
     {
       "nome": "Ciao Elsa – schede dei fondi pensione aperti",

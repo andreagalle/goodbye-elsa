@@ -40,6 +40,7 @@
         <a href="#grafico">Commissione e rendimento</a>
         <a href="#categorie">Per categoria</a>
         <a href="#regole">Regole</a>
+        <a href="#prestazioni">Alla pensione</a>
         <a href="#glossario">Glossario</a>
         <a href="#qualita">Qualità dei dati</a>
         <span class="sep" aria-hidden="true"></span>
@@ -127,6 +128,26 @@
         <div class="chart-box basso"><canvas id="longevita" role="img" aria-label="Percentuale di persone di 67 anni ancora in vita a ogni età, uomini e donne, dati ISTAT 2025"></canvas></div>
         <p class="hint" id="l-nota"></p>
       </div>
+    </section>
+
+    <section id="prestazioni" aria-labelledby="h-prestazioni">
+      <h2 id="h-prestazioni">Alla pensione, fondo per fondo</h2>
+      <p class="hint">Le regole sono uguali per tutti, le condizioni no: quanto paga la <span class="termine" data-glossario="rendita-vitalizia">rendita</span>,
+        con quali opzioni e quanto costano anticipazioni, riscatti e trasferimenti, dai documenti ufficiali di ogni fondo.
+        Clicca sul nome di un fondo per i dettagli e le fonti.</p>
+      <div class="kpis compatti" id="p-kpi"></div>
+      <div class="toolbar toolbar-centro">
+        <label class="chk" data-spiega="Nasconde i fondi per cui il coefficiente a 67 anni non è pubblicato o non è confrontabile con gli altri."><input type="checkbox" id="p-solo-rendita"> Solo con la rendita a 67 anni</label>
+        <output id="p-conteggio" aria-live="polite"></output>
+      </div>
+      <div class="table-scroll">
+        <table class="data" id="tab-prestazioni">
+          <caption class="sr-only">Condizioni alla pensione dei fondi pensione aperti</caption>
+          <thead><tr></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="hint" id="p-nota"></p>
     </section>
 
     <section id="glossario" aria-labelledby="h-glossario">

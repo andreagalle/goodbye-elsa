@@ -73,6 +73,12 @@ def main() -> int:
         pg.locator("#l-blocco").evaluate(
             "e => scrollTo({ top: e.getBoundingClientRect().top + scrollY, behavior: 'instant' })")
         pg.locator("#l-blocco").screenshot(path=OUT / "longevita.png")
+        # alla pensione, fondo per fondo: numeri chiave e prime righe della tabella (la sezione è più alta della finestra)
+        pr = pg.locator("#prestazioni")
+        pr.evaluate("e => scrollTo({ top: e.getBoundingClientRect().top + scrollY, behavior: 'instant' })")
+        box = pr.bounding_box()
+        pg.screenshot(path=OUT / "prestazioni.png",
+                      clip={"x": box["x"], "y": box["y"], "width": box["width"], "height": min(box["height"], 780)})
         # glossario: più alto della finestra, si fotografa la parte in alto (titolo, ricerca e prime voci)
         gl = pg.locator("#glossario")
         gl.evaluate("e => scrollTo({ top: e.getBoundingClientRect().top + scrollY, behavior: 'instant' })")
@@ -92,6 +98,15 @@ def main() -> int:
         pg.wait_for_selector("#dettaglio[open] table")
         pg.wait_for_timeout(200)
         pg.screenshot(path=OUT / "dettaglio.png")
+        # blocco "Alla pensione con questo fondo" nel dettaglio (dati dal foglio Prestazioni)
+        pg.goto(base + "#fondo=generali-global")
+        pg.wait_for_function("() => document.querySelector('#d-titolo').textContent.includes('Generali')")
+        # il titolo del blocco subito sotto l'intestazione fissa della finestra
+        pg.locator("#d-body h3.d-sez").first.evaluate(
+            "e => { e.scrollIntoView({ block: 'start', behavior: 'instant' }); document.getElementById('dettaglio').scrollBy(0, -110); }")
+        pg.mouse.move(0, 0)
+        pg.wait_for_timeout(200)
+        pg.screenshot(path=OUT / "dettaglio-pensione.png")
 
         m = b.new_page(viewport={"width": 390, "height": 844}, color_scheme="dark", device_scale_factor=1)
         m.goto(base)

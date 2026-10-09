@@ -124,6 +124,34 @@ class TestSito(unittest.TestCase):
         pg.wait_for_selector("#dettaglio[open] .verifica li")
         self.assertEqual(errori, [])
 
+    def test_prestazioni(self):
+        """Sezione "Alla pensione, fondo per fondo" e blocco nel dettaglio fondo (data/prestazioni.json)."""
+        import json
+        prest = json.loads((ROOT / "docs" / "data" / "prestazioni.json").read_text(encoding="utf-8"))
+        con_rendita = [p for p in prest if p["rendita_67"] is not None]
+        pg, errori = self.pagina("", viewport={"width": 1280, "height": 900})
+        pg.wait_for_selector("#tab-prestazioni tbody tr")
+        self.assertEqual(pg.locator("#tab-prestazioni tbody tr").count(), len(prest))
+        self.assertEqual(pg.locator("#p-kpi .kpi").count(), 3)
+        # ordinata dalla rendita più alta; il filtro lascia solo i fondi con il coefficiente
+        primo = max(con_rendita, key=lambda p: p["rendita_67"])
+        self.assertIn(f"{int(primo['rendita_67'] + 0.5)} €", pg.locator("#tab-prestazioni tbody tr").first.inner_text())
+        pg.check("#p-solo-rendita")
+        self.assertEqual(pg.locator("#tab-prestazioni tbody tr").count(), len(con_rendita))
+        # il nome del fondo apre il dettaglio con le condizioni alla pensione e le fonti
+        pg.locator("#tab-prestazioni tbody .fondo-btn").first.click()
+        pg.wait_for_selector("#dettaglio[open]")
+        corpo = pg.locator("#d-body").inner_text()
+        self.assertIn("Alla pensione con questo fondo", corpo)
+        self.assertIn("Documento sulle rendite", corpo)
+        # un fondo senza dati sulle prestazioni non ha il blocco
+        fondi = json.loads((ROOT / "docs" / "data" / "fondi.json").read_text(encoding="utf-8"))
+        senza = next(f for f in fondi if f["id"] not in {p["fondo_id"] for p in prest})
+        pg.goto(self.base + f"#fondo={senza['id']}")
+        pg.wait_for_function("id => document.querySelector('#d-titolo').textContent.includes(id)", arg=senza["nome_breve"])
+        self.assertNotIn("Alla pensione con questo fondo", pg.locator("#d-body").inner_text())
+        self.assertEqual(errori, [])
+
     def test_glossario_e_suggerimenti(self):
         import json
         glossario = json.loads((ROOT / "docs" / "data" / "glossario.json").read_text(encoding="utf-8"))

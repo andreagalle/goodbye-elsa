@@ -2,13 +2,14 @@
 """Esporta il workbook dei fondi pensione aperti (COVIP) in JSON per la dashboard.
 
 Legge data/fondi-pensione-covip.xlsx (fonte di verità) e scrive:
-  data/fondi.json, data/comparti.json, data/regole.json, data/longevita.json, data/glossario.json, data/meta.json
+  data/fondi.json, data/comparti.json, data/regole.json, data/longevita.json, data/glossario.json,
+  data/prestazioni.json, data/meta.json
 e ne copia una versione in docs/data/ per il sito. Rigenera anche la tabella del glossario in docs/guida/GUIDA.md
 (solo il blocco tra i marcatori <!-- glossario:inizio … --> e <!-- glossario:fine -->).
 
-openpyxl non calcola le formule: lo script risolve da solo Comparti!A (=Sheet1!$A$n) e
-ricalcola le metriche H–L di Sheet1, confrontandole con i valori in cache dell'ultimo
-salvataggio in Excel (warning se diversi o assenti).
+openpyxl non calcola le formule: lo script risolve da solo Comparti!A e Prestazioni!A (=Sheet1!$A$n) e
+ricalcola le metriche H–L di Sheet1, confrontandole con i valori in cache dell'ultimo salvataggio
+(di Excel, oppure di scripts/workbook_utils.salva(), che li calcola): warning se diversi o assenti.
 
 Uscita con codice 1 se ci sono errori di schema. Uso:
   python scripts/export_xlsx.py [--xlsx PERCORSO] [--out DIR] [--docs DIR | --no-docs] [--check] [--strict]
@@ -36,6 +37,7 @@ SHEET_COMPARTI = "Comparti"
 SHEET_REGOLE = "Regole"        # regole generali della previdenza complementare, con fonti
 SHEET_LONGEVITA = "Longevita"  # tavola di mortalità ISTAT (sopravviventi e speranza di vita)
 SHEET_GLOSSARIO = "Glossario"  # termini spiegati nella dashboard (suggerimenti al passaggio del mouse) e nella guida
+SHEET_PRESTAZIONI = "Prestazioni"  # condizioni alla pensione fondo per fondo (rendite, costi delle operazioni)
 FONDI_PRIMA_RIGA = 3      # intestazioni alla riga 2
 COMPARTI_PRIMA_RIGA = 2   # intestazioni alla riga 1
 
@@ -87,6 +89,20 @@ DEFINIZIONE_MAX = 400   # oltre, il suggerimento al passaggio del mouse diventa 
 GUIDA = ROOT / "docs" / "guida" / "GUIDA.md"
 INIZIO_GLOSSARIO = "<!-- glossario:inizio"   # la tabella tra i due marcatori è generata dal foglio Glossario
 FINE_GLOSSARIO = "<!-- glossario:fine -->"
+
+INTESTAZIONI_PRESTAZIONI = {
+    1: "Fondo", 2: "Documento sulle rendite (fonte)", 3: "Compagnia che paga la rendita", 4: "Rendita reversibile",
+    5: "Rendita certa e poi vitalizia", 6: "Rendita controassicurata", 7: "Rendita con LTC (non autosufficienza)",
+    8: "N. varianti oltre alla vitalizia", 9: "Rendita annua a 67 anni ogni 10.000 €",
+    10: "Tasso di conversione a 67 anni", 11: "Tasso tecnico", 12: "Basi del coefficiente",
+    13: "Costo della rendita (rata annuale)", 14: "Costo anticipazione (€)", 15: "Costo riscatto (€)",
+    16: "Costo trasferimento (€)", 17: "Costo RITA (€)", 18: "Scheda costi (fonte)",
+    19: "Nuove prestazioni (durata definita e prelievi)", 20: "Supplemento alla Nota informativa (fonte)",
+    21: "Consultata il", 22: "Note",
+}
+VARIANTI = {4: "reversibile", 5: "certa", 6: "controassicurata", 7: "ltc"}   # valori "Sì…" / "No…" / vuoto
+COSTI_OPERAZIONI = {14: "anticipazione", 15: "riscatto", 16: "trasferimento", 17: "rita"}
+RENDITA_67_PLAUSIBILE = (300, 800)   # € l'anno ogni 10.000 € a 67 anni: fuori da qui è quasi certamente un refuso
 
 # Codici delle anomalie rilevate in automatico (la descrizione finisce in meta.json per la UI).
 FLAG_COMPARTI = {
@@ -517,6 +533,92 @@ def valida_glossario(voci: list[dict], rep: Report) -> None:
                        f"(massimo {DEFINIZIONE_MAX}): il resto può andare in Note")
 
 
+def leggi_prestazioni(ws, fondi_per_riga: dict[int, dict], rep: Report) -> list[dict]:
+    """Una riga per fondo (A = =Sheet1!$A$n). Esporta solo le righe con almeno un dato oltre alle formule;
+    H (n. varianti) e J (tasso di conversione) sono ricalcolati qui, come le metriche di Sheet1."""
+    out, visti = [], set()
+    for r in range(2, ws.max_row + 1):
+        a = ws.cell(r, 1).value
+        if a is None:
+            continue
+        dove = f"Prestazioni riga {r}"
+        m = RE_RIF_FONDO.match(str(a))
+        fondo = fondi_per_riga.get(int(m.group(1))) if m else None
+        if fondo is None:
+            rep.errore(f"{dove}: la colonna A deve essere =Sheet1!$A$n di un fondo esistente ({a!r})")
+            continue
+        if fondo["id"] in visti:
+            rep.errore(f"{dove}: fondo ripetuto ({fondo['id']})")
+        visti.add(fondo["id"])
+        dati = [c for c in range(2, 23) if c not in (8, 10) and ws.cell(r, c).value not in (None, "")]
+        if not dati:
+            continue
+
+        def doc(c):
+            cella = ws.cell(r, c)
+            titolo, url = testo(cella.value), link(cella)
+            if titolo and not url:
+                rep.errore(f"{dove}: {INTESTAZIONI_PRESTAZIONI[c]!r} senza hyperlink")
+            return {"titolo": titolo, "url": url} if titolo or url else None
+
+        varianti = {nome: testo(ws.cell(r, c).value) for c, nome in VARIANTI.items()}
+        def num(c, campo):
+            return arrotonda(numero(ws.cell(r, c).value, campo, dove, rep))
+
+        rendita = num(9, "rendita a 67 anni")
+        p = {
+            "fondo_id": fondo["id"],
+            "riga": r,
+            "documento_rendite": doc(2),
+            "compagnia": testo(ws.cell(r, 3).value),
+            "varianti": varianti,
+            "n_varianti": sum(1 for v in varianti.values() if v and v.casefold().startswith("sì")),
+            "rendita_67": rendita,
+            "tasso_conversione_67": arrotonda(rendita / 10000) if rendita is not None else None,
+            "tasso_tecnico": num(11, "tasso tecnico"),
+            "basi": testo(ws.cell(r, 12).value),
+            "costo_rendita": num(13, "costo della rendita"),
+            "costi": {nome: num(c, f"costo {nome}") for c, nome in COSTI_OPERAZIONI.items()},
+            "scheda_costi": doc(18),
+            "nuove_prestazioni": testo(ws.cell(r, 19).value),
+            "supplemento": doc(20),
+            "consultata_il": data_iso(ws.cell(r, 21).value),
+            "note": testo(ws.cell(r, 22).value),
+            "_dove": dove,
+        }
+        v = ws.cell(r, 21).value
+        if v not in (None, "") and p["consultata_il"] is None:
+            rep.errore(f"{dove}: consultata_il non è una data ({v!r})")
+        out.append(p)
+    return out
+
+
+def valida_prestazioni(prestazioni: list[dict], rep: Report) -> None:
+    for p in prestazioni:
+        dove = p["_dove"]
+        for nome, v in p["varianti"].items():
+            if v is not None and not re.match(r"^(Sì|No)\b", v):
+                rep.errore(f"{dove}: rendita {nome} deve iniziare con 'Sì' o 'No' ({v!r})")
+        if not (p["documento_rendite"] or p["scheda_costi"] or p["supplemento"]):
+            rep.errore(f"{dove}: nessuna fonte (documento sulle rendite, scheda costi o supplemento)")
+        if not p["consultata_il"]:
+            rep.errore(f"{dove}: manca la data di consultazione")
+        r67 = p["rendita_67"]
+        if r67 is not None:
+            if not RENDITA_67_PLAUSIBILE[0] <= r67 <= RENDITA_67_PLAUSIBILE[1]:
+                rep.avviso(f"{dove}: rendita a 67 anni di {r67} € ogni 10.000 € fuori dall'intervallo plausibile "
+                           f"{RENDITA_67_PLAUSIBILE}")
+            if not p["documento_rendite"]:
+                rep.avviso(f"{dove}: rendita a 67 anni senza il documento sulle rendite come fonte")
+        if p["tasso_tecnico"] is not None and not 0 <= p["tasso_tecnico"] <= 0.04:
+            rep.avviso(f"{dove}: tasso tecnico {p['tasso_tecnico']} fuori da 0–4% (va scritto come percentuale)")
+        if p["costo_rendita"] is not None and not 0 <= p["costo_rendita"] <= 0.05:
+            rep.avviso(f"{dove}: costo della rendita {p['costo_rendita']} fuori da 0–5% (va scritto come percentuale)")
+        for nome, v in p["costi"].items():
+            if v is not None and v < 0:
+                rep.errore(f"{dove}: costo {nome} negativo ({v})")
+
+
 def fonte_breve(nome: str) -> str:
     """Nome corto per i link compatti: la parte prima del trattino ("COVIP – Glossario" → "COVIP")."""
     return nome.split(" – ")[0].strip()
@@ -586,7 +688,8 @@ def confronta_cache(fondo: dict, rep: Report, cache_vuote: list[str]) -> None:
         cella = f"Sheet1!{lettere[col]}{fondo['riga']}"
         in_cache = fondo["_cache"][col]
         calcolato = fondo[campo]
-        if in_cache is None and fondo["n_comparti"] > 0:
+        # una formula che restituisce "" lascia in cache un testo vuoto, che openpyxl legge come None
+        if in_cache is None and calcolato is not None and (fondo["n_comparti"] > 0 or col == 8):
             cache_vuote.append(cella)
             continue
         if in_cache == "":
@@ -594,8 +697,6 @@ def confronta_cache(fondo: dict, rep: Report, cache_vuote: list[str]) -> None:
         if isinstance(in_cache, str):
             rep.avviso(f"{cella}: valore in cache non numerico ({in_cache!r})")
             continue
-        if col == 8 and in_cache is None:
-            in_cache = 0 if fondo["n_comparti"] == 0 else None
         if not uguale(in_cache, calcolato):
             rep.avviso(f"{cella} ({campo}): in cache {in_cache!r}, ricalcolato {calcolato!r}")
 
@@ -674,7 +775,7 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     scritti in file separati da main()."""
     wb = openpyxl.load_workbook(xlsx)
     wb_cache = openpyxl.load_workbook(xlsx, data_only=True)
-    for nome in (SHEET_FONDI, SHEET_COMPARTI, SHEET_REGOLE, SHEET_LONGEVITA, SHEET_GLOSSARIO):
+    for nome in (SHEET_FONDI, SHEET_COMPARTI, SHEET_REGOLE, SHEET_LONGEVITA, SHEET_GLOSSARIO, SHEET_PRESTAZIONI):
         if nome not in wb.sheetnames:
             rep.errore(f"Foglio {nome!r} mancante (presenti: {wb.sheetnames})")
     if rep.errori:
@@ -686,6 +787,7 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     verifica_intestazioni(wb[SHEET_REGOLE], 1, INTESTAZIONI_REGOLE, rep)
     verifica_intestazioni(wb[SHEET_LONGEVITA], 1, INTESTAZIONI_LONGEVITA, rep)
     verifica_intestazioni(wb[SHEET_GLOSSARIO], 1, INTESTAZIONI_GLOSSARIO, rep)
+    verifica_intestazioni(wb[SHEET_PRESTAZIONI], 1, INTESTAZIONI_PRESTAZIONI, rep)
     if rep.errori:
         return [], [], {}
 
@@ -710,6 +812,9 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     per_riga = {f["riga"]: f for f in fondi}
     per_nome = {f["denominazione"]: f for f in fondi}
     comparti = leggi_comparti(ws_c, per_riga, per_nome, rep)
+    prestazioni = leggi_prestazioni(wb[SHEET_PRESTAZIONI], per_riga, rep)
+    valida_prestazioni(prestazioni, rep)
+    prestazioni_out = [{k: v for k, v in p.items() if k != "_dove"} for p in prestazioni]
 
     cache_vuote: list[str] = []
     for f in fondi:
@@ -777,6 +882,8 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
             "fondi_con_anomalie": sum(bool(f["flag_anomalia"]) for f in fondi_out),
             "regole": len(regole_out),
             "glossario": len(glossario_out),
+            "fondi_con_prestazioni": len(prestazioni_out),
+            "prestazioni_con_rendita_67": sum(p["rendita_67"] is not None for p in prestazioni_out),
         },
         "flag": {"comparti": FLAG_COMPARTI, "fondi": FLAG_FONDI},
         "avvisi_export": rep.warning,
@@ -788,6 +895,9 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
              "tipo": "primaria", "dettaglio": "colonna url di fondi.json"},
             {"nome": "Generali – confluenza di Almeglio in Generali Global dal 1/1/2027",
              "url": "https://www.generali.it", "tipo": "primaria"},
+            {"nome": "Documenti sulle rendite, Supplementi alla Nota informativa e Schede costi dei gestori",
+             "url": None, "tipo": "primaria",
+             "dettaglio": "foglio Prestazioni: link documento_rendite, scheda_costi e supplemento di prestazioni.json"},
             {"nome": "Ciao Elsa – schede dei fondi pensione aperti",
              "url": "https://www.ciaoelsa.com/schede-fondo/fondi-pensione-aperti/", "tipo": "secondaria",
              "dettaglio": "colonna scheda_url di fondi.json e comparti.json"},
@@ -815,7 +925,8 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
             viste.add(url)
             meta["fonti"].append({"nome": nome, "url": url, "dettaglio": "foglio Glossario",
                                   "tipo": "secondaria" if nome.lower().startswith("ciao elsa") else "primaria"})
-    meta["_extra"] = {"regole": regole_out, "longevita": longevita, "glossario": glossario_out}
+    meta["_extra"] = {"regole": regole_out, "longevita": longevita, "glossario": glossario_out,
+                      "prestazioni": prestazioni_out}
     return fondi_out, comparti_out, meta
 
 
@@ -850,6 +961,7 @@ def main(argv: list[str] | None = None) -> int:
     c = meta["conteggi"]
     print(f"OK: {c['fondi']} fondi ({c['fondi_con_dati']} con dati), {c['comparti']} comparti, "
           f"{c['comparti_con_anomalie']} comparti segnalati, {c['regole']} regole, {c['glossario']} voci di glossario, "
+          f"prestazioni di {c['fondi_con_prestazioni']} fondi, "
           f"{len(rep.warning)} warning.")
     if args.check:
         return 0
@@ -860,6 +972,7 @@ def main(argv: list[str] | None = None) -> int:
         scrivi_json(cartella / "regole.json", extra["regole"])
         scrivi_json(cartella / "longevita.json", extra["longevita"])
         scrivi_json(cartella / "glossario.json", extra["glossario"])
+        scrivi_json(cartella / "prestazioni.json", extra["prestazioni"])
         scrivi_json(cartella / "meta.json", meta)
         print(f"Scritto in {cartella}")
     if not args.no_docs:
