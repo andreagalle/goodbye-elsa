@@ -1,3 +1,4 @@
-# Dipendenze per sviluppo, test del sito e screenshot (la CI le installa tutte)
+# Dipendenze per sviluppo, test del sito, screenshot e icone (la CI le installa tutte)
 -r requirements.txt
 playwright==1.63.0
+pillow==12.3.0

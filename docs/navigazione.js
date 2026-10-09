@@ -43,6 +43,18 @@
     document.querySelector("h1")?.focus({ preventScroll: true });
   };
 
+  // il nome accanto al logo lascia spazio alle voci quando il menu altrimenti non entrerebbe (solo da tablet in su:
+  // su telefono il menu scorre col dito); va rimisurato al cambio di larghezza e quando arrivano i font
+  const marchio = document.querySelector(".topnav .marchio");
+  if (marchio && nav) {
+    const adatta = () => {
+      marchio.classList.remove("compatto");
+      marchio.classList.toggle("compatto", nav.scrollWidth > nav.clientWidth + 1);
+    };
+    new ResizeObserver(adatta).observe(nav.parentElement);
+    document.fonts?.ready.then(adatta);
+  }
+
   document.querySelector(".marchio")?.addEventListener("click", (e) => {
     const a = e.currentTarget;
     // da un'altra pagina, o con Ctrl/⌘/Maiusc (nuova scheda o finestra), è un normale link

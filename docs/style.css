@@ -452,6 +452,11 @@ h1:focus { outline: none; }
 .marchio .scritta { font: 400 1.45rem/1 var(--font-elsa); color: var(--elsa); letter-spacing: 0.01em; }
 /* Elsa agita il bastone */
 .marchio:hover img, .marchio:focus-visible img { transform: rotate(-10deg) scale(1.06); }
+/* da tablet in su, se il menu non entra, resta solo il logo (il nome rimane per i lettori di schermo) */
+@media (min-width: 641px) {
+  .marchio.compatto .scritta { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .topnav .marchio.compatto { padding-right: 0; }
+}
 @media (max-width: 640px) {
   .topnav .wrap { column-gap: 6px; }
   .topnav .marchio { gap: 6px; padding-right: 0; }

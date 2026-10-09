@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/img/elsa.png" alt="Logo goodbye Elsa !!: Elsa, una nonna arrabbiata che agita il bastone" width="160"></p>
+
 # Confronto Fondi Pensione Aperti (COVIP)
 
 Analisi comparativa dei **fondi pensione aperti** iscritti all'Albo COVIP: costi, comparti,
@@ -18,7 +20,9 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
 | `scripts/workbook_utils.py` | Salva il workbook da Python senza perdere il collegamento a Claude per Excel |
 | `scripts/anteprima.sh` | Anteprima locale della GitHub Page (export + test + server) |
 | `scripts/screenshots.py` | Rigenera gli screenshot della guida e della presentazione |
-| `docs/` | Sito statico GitHub Pages: dashboard, `guida/`, `presentazione/` |
+| `scripts/icone.py` | Rigenera logo e favicon (`docs/img/`) dall'immagine originale `assets/elsa.png` |
+| `docs/` | Sito statico GitHub Pages: dashboard, `guida/`, `presentazione/`, `img/` (logo e favicon) |
+| `assets/elsa.png` | Logo *goodbye Elsa !!* originale (2048 px), fuori dal sito pubblicato |
 | `tests/` | Test di schema, versioni e smoke test del sito (Playwright) |
 | `.github/workflows/` | `ci.yml` (PR) e `pages.yml` (deploy + tag + release al merge) |
 | `.devcontainer/`, `.mcp.json` | Ambiente di sviluppo e MCP server Playwright |

@@ -308,6 +308,16 @@ responsive, accessibile, in italiano.
    (`aria-current`, IntersectionObserver) e su telefono scorre fino alla voce attiva; pulsante rotondo **"Torna su"**
    in basso a destra, visibile dopo circa uno schermo di scorrimento. Spaziatura verticale ampia tra le sezioni (96 px,
    72 su telefono).
+   **Marchio "goodbye Elsa !!"** (richiesta dell'utente): logo di Elsa (`docs/img/elsa-192.png`) + scritta nel font
+   **Chewy** (Google Fonts) e nell'arancione del suo golfino (`--elsa: #f03e3a`, uguale nei due temi), come pulsante in
+   alto a sinistra in **tutte le pagine**, che riporta sempre all'inizio della dashboard (`<a class="marchio">`; sulla
+   dashboard `navigazione.js` scorre in cima senza ricaricare e toglie l'ancora). Nella barra `.topnav .wrap` è una
+   griglia a tre colonne: marchio, voci (`.topnav .voci`, centrate nella pagina) e una colonna vuota che bilancia.
+   Da 641 px in su, se il menu non entra, `navigazione.js` aggiunge `.compatto` e la scritta si nasconde (resta per i
+   lettori di schermo); su telefono resta, più piccola, e il menu scorre. Nella presentazione è fisso in alto a sinistra.
+   **Favicon** in tutte le pagine: `img/favicon-32.png`, `img/elsa-192.png`, `img/apple-touch-icon.png` (sfondo pieno).
+   L'originale è `assets/elsa.png` (2048 px, fuori da `docs/`); le versioni del sito si rigenerano con
+   `python scripts/icone.py` (Pillow, PNG a 256 colori).
 9-bis. **Regole** (sezione `#regole`, dopo *Per categoria*): schede lette da `regole.json`, filtro per tema a pillole
    (default: il primo tema) e interruttore *Solo ciò che cambia da fondo a fondo*; ogni scheda ha valore chiave, stato
    (uguale per tutti / dipende dal fondo), data di entrata in vigore se nuova e riferimento normativo con link alla fonte.
@@ -372,8 +382,8 @@ responsive, accessibile, in italiano.
 - **MCP** (`.mcp.json`, server di progetto per Claude Code): `@playwright/mcp@0.0.82` in Chromium headless e isolato, con
   viewport 1360×820 e output in `.playwright-mcp/` (ignorato da git). Serve a navigare il sito e a fare screenshot ad hoc;
   gli screenshot della guida si rigenerano invece con lo script riproducibile `scripts/screenshots.py`.
-- Versioni fissate: `playwright==1.63.0` (Python), `@playwright/mcp@0.0.82`, Chart.js 4.4.1, reveal.js 6.0.2,
-  marked 18.0.13, DOMPurify 3.4.15. Quando si aggiorna una versione, aggiornarla qui.
+- Versioni fissate: `playwright==1.63.0` e `pillow==12.3.0` (Python), `@playwright/mcp@0.0.82`, Chart.js 4.4.1,
+  reveal.js 6.0.2, marked 18.0.13, DOMPurify 3.4.15. Quando si aggiorna una versione, aggiornarla qui.
 - `.vscode/tasks.json`: *Anteprima GitHub Page*, *Anteprima veloce*, *Export dati*, *Test*, *Rigenera screenshot*, *Prossima versione*.
 
 ## 10. Documentazione per gli utenti
@@ -402,7 +412,8 @@ responsive, accessibile, in italiano.
 - `./scripts/anteprima.sh` (export + test + server su http://localhost:8000, con le stesse pagine che verranno pubblicate),
   `--veloce` per saltare i test, `PORTA=9000` per cambiare porta. È disponibile anche come task di VS Code.
 - `tests/test_sito.py` controlla dashboard, dettaglio, mobile, guida (immagini caricate) e presentazione (pile verticali,
-  navigazione ↓) senza errori JavaScript. Usa `scripts/server_locale.py`.
+  navigazione ↓) senza errori JavaScript, più marchio e favicon in tutte le pagine (`test_marchio_e_favicon`: il logo
+  riporta alla dashboard, che non si ricarica). Usa `scripts/server_locale.py`.
 ### 10.4 Regola di allineamento (obbligatoria)
 Ogni modifica che cambia ciò che l'utente vede o fa (dashboard, dati mostrati, flusso di rilascio, comandi) va
 accompagnata **nello stesso commit/PR** da:

@@ -7,7 +7,10 @@
   <meta name="description" content="Presentazione interattiva della dashboard di confronto dei fondi pensione aperti COVIP: → argomenti, ↓ dettagli.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chewy&family=Inter:wght@400..800&display=swap">
+  <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="../img/elsa-192.png">
+  <link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@6.0.2/dist/reveal.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@6.0.2/dist/theme/white.css" id="tema">
   <style>
@@ -29,6 +32,7 @@
       --warn-bg: #fdf3dc;
       --warn-ink: #6b4a00;
       --border: rgba(11, 11, 11, 0.12);
+      --elsa: #f03e3a;
     }
     @media (prefers-color-scheme: dark) {
       :root:not([data-theme="light"]) {
@@ -89,9 +93,23 @@
     .reveal .controls { color: var(--accent); }
     .reveal .progress { color: var(--accent); }
     @media (max-width: 700px) { .kpis, .esempio { grid-template-columns: 1fr; } }
+    /* marchio "goodbye Elsa !!" come nella dashboard e nella guida: fisso in alto a sinistra, porta alla dashboard */
+    .marchio {
+      position: fixed; top: 12px; left: 14px; z-index: 40;
+      display: inline-flex; align-items: center; gap: 8px; text-decoration: none; white-space: nowrap;
+    }
+    .marchio img { width: 36px; height: 36px; transition: transform 0.2s; }
+    .marchio .scritta { font: 400 22px/1 Chewy, "Comic Sans MS", "Chalkboard SE", cursive; color: var(--elsa); }
+    .marchio:hover img, .marchio:focus-visible img { transform: rotate(-10deg) scale(1.06); }
+    .marchio:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 999px; }
+    .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+    @media (max-width: 700px) { .marchio img { width: 30px; height: 30px; } .marchio .scritta { font-size: 18px; } }
+    @media (prefers-reduced-motion: reduce) { .marchio img { transition: none; } }
   </style>
 </head>
 <body>
+  <a class="marchio" href="../" title="Torna all'inizio della dashboard">
+    <img src="../img/elsa-192.png" alt="" width="36" height="36"><span class="scritta">goodbye Elsa !!</span><span class="sr-only">: torna all'inizio della dashboard</span></a>
   <div class="reveal">
     <div class="slides">
 
@@ -115,7 +133,8 @@
             <span class="vuoto"></span><span></span><span></span><span class="vuoto"></span>
             <span class="vuoto"></span><span class="vuoto"></span><span></span><span class="vuoto"></span>
           </div>
-          <p class="tasti">Le frecce in basso a destra mostrano dove puoi andare. Su telefono: scorri con il dito.</p>
+          <p class="tasti">Le frecce in basso a destra mostrano dove puoi andare. Su telefono: scorri con il dito.
+            Elsa, in alto a sinistra, ti riporta alla dashboard.</p>
         </section>
       </section>
 
@@ -137,6 +156,7 @@
             <li>Il <strong>dettaglio</strong> di ogni fondo e dei suoi comparti</li>
             <li>Un <strong>grafico</strong> commissione/rendimento</li>
             <li>Le <strong>classifiche</strong> per categoria</li>
+            <li>Le <strong>regole</strong> della previdenza complementare e un <strong>glossario</strong>, con le spiegazioni anche al passaggio del mouse</li>
             <li>La sezione sulla <strong>qualità dei dati</strong>, con anomalie e fonti</li>
           </ol>
         </section>
@@ -210,6 +230,12 @@
           <h3>Le regole in schede</h3>
           <img class="shot" src="../guida/img/regole.png" alt="Le schede delle regole sul tema Alla pensione">
           <p class="piccolo">Filtri per tema e "solo ciò che cambia da fondo a fondo". Ogni regola ha il link alla fonte ufficiale.</p>
+        </section>
+        <section>
+          <h3>Glossario e spiegazioni al passaggio del mouse</h3>
+          <img class="shot" src="../guida/img/suggerimento.png" alt="Il suggerimento che compare passando il mouse sul filtro ESG">
+          <p class="piccolo">Intestazioni, filtri, etichette e termini sottolineati mostrano la definizione (da telefono, con un tocco).
+            Tutte le voci, con la fonte (soprattutto il glossario COVIP), sono nella sezione Glossario.</p>
         </section>
         <section>
           <h3>Qualità dei dati</h3>

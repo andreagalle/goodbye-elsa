@@ -34,6 +34,12 @@ Sotto il titolo c'è il **menu delle sezioni**, che resta fisso in alto mentre s
 ti trovi: cliccando una voce ci salti direttamente. Dopo un po' di scorrimento compare in basso a destra il pulsante
 **↑** per tornare all'inizio della pagina (c'è anche in questa guida).
 
+A sinistra del menu c'è <img class="icona" src="../img/elsa-192.png" alt="" width="20" height="20"> **goodbye Elsa !!**,
+il logo del progetto (Elsa che agita il bastone), che è anche l'icona della scheda del browser. È in tutte le pagine
+(dashboard, guida e presentazione) e, cliccandolo, **torni sempre all'inizio della dashboard**.
+Su un tablet o in una finestra stretta, se il menu completo non entra, resta solo il disegno; su telefono il nome
+resta e il menu scorre di lato con il dito.
+
 Subito dopo ci sono quattro **riquadri di riepilogo**:
 
 | Riquadro | Significato |
@@ -515,6 +521,7 @@ inoltrata in automatico e si apre l'anteprima.
 
 ```bash
 python scripts/screenshots.py   # rigenera docs/guida/img/ con i dati correnti
+python scripts/icone.py         # logo e favicon (docs/img/) dall'originale assets/elsa.png
 ```
 
 Ogni modifica alla dashboard deve aggiornare insieme questa guida (`docs/guida/GUIDA.md`), la presentazione

@@ -18,6 +18,10 @@ except ImportError:  # pragma: no cover
 
 from server_locale import servi  # noqa: E402
 
+# Risorse facoltative: se mancano la pagina funziona lo stesso (vedi caricaDocumenti() in app.js), quindi il loro
+# 404, che il browser scrive in console come errore, non fa fallire i test. Ogni altro errore sì.
+FACOLTATIVE = ("/data/documenti.json",)
+
 
 @unittest.skipIf(sync_playwright is None, "Playwright non installato (pip install -r requirements-dev.txt)")
 @unittest.skipUnless((ROOT / "docs" / "data" / "fondi.json").exists(), "manca docs/data: esegui l'export")
@@ -44,7 +48,8 @@ class TestSito(unittest.TestCase):
         pg = self.browser.new_page(**kw)
         errori = []
         pg.on("pageerror", lambda e: errori.append(str(e)))
-        pg.on("console", lambda m: errori.append(m.text) if m.type == "error" else None)
+        pg.on("console", lambda m: errori.append(m.text)
+              if m.type == "error" and not m.location.get("url", "").endswith(FACOLTATIVE) else None)
         pg.goto(self.base + url)
         return pg, errori
 
@@ -76,6 +81,30 @@ class TestSito(unittest.TestCase):
         pg.wait_for_selector(".su.visibile")
         pg.click(".su")
         pg.wait_for_function("() => window.scrollY === 0")
+        self.assertEqual(errori, [])
+
+    def test_marchio_e_favicon(self):
+        """Logo "goodbye Elsa !!" e favicon in tutte le pagine; il logo riporta all'inizio della dashboard."""
+        for url in ("", "guida/", "presentazione/"):
+            with self.subTest(pagina=url or "dashboard"):
+                pg, errori = self.pagina(url, viewport={"width": 1280, "height": 900})
+                pg.wait_for_function("() => document.querySelector('.marchio img')?.complete")
+                self.assertGreater(pg.eval_on_selector(".marchio img", "i => i.naturalWidth"), 0)
+                self.assertEqual(pg.inner_text(".marchio .scritta"), "goodbye Elsa !!")
+                self.assertEqual(pg.eval_on_selector(".marchio", "a => a.href"), self.base)
+                icone = pg.evaluate("""() => Promise.all([...document.querySelectorAll('link[rel~="icon"], link[rel="apple-touch-icon"]')]
+                    .map((l) => fetch(l.href).then((r) => r.ok)))""")
+                self.assertEqual(icone, [True, True, True])
+                self.assertEqual(errori, [])
+        # sulla dashboard non ricarica la pagina: torna in cima e toglie l'ancora dall'indirizzo
+        pg, errori = self.pagina("#glossario", viewport={"width": 1280, "height": 900})
+        pg.wait_for_selector("#tab-fondi tbody tr")
+        pg.wait_for_function("() => window.scrollY > 0")
+        pg.evaluate("window.ricaricata = false")
+        pg.click(".marchio")
+        pg.wait_for_function("() => window.scrollY === 0")
+        self.assertEqual(pg.evaluate("location.hash"), "")
+        self.assertIs(pg.evaluate("window.ricaricata"), False, "il clic sul logo ha ricaricato la pagina")
         self.assertEqual(errori, [])
 
     def test_regole_e_longevita(self):
