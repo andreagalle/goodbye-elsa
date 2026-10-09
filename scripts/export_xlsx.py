@@ -2,8 +2,9 @@
 """Esporta il workbook dei fondi pensione aperti (COVIP) in JSON per la dashboard.
 
 Legge data/fondi-pensione-covip.xlsx (fonte di verità) e scrive:
-  data/fondi.json, data/comparti.json, data/regole.json, data/longevita.json, data/meta.json
-e ne copia una versione in docs/data/ per il sito.
+  data/fondi.json, data/comparti.json, data/regole.json, data/longevita.json, data/glossario.json, data/meta.json
+e ne copia una versione in docs/data/ per il sito. Rigenera anche la tabella del glossario in docs/guida/GUIDA.md
+(solo il blocco tra i marcatori <!-- glossario:inizio … --> e <!-- glossario:fine -->).
 
 openpyxl non calcola le formule: lo script risolve da solo Comparti!A (=Sheet1!$A$n) e
 ricalcola le metriche H–L di Sheet1, confrontandole con i valori in cache dell'ultimo
@@ -34,6 +35,7 @@ SHEET_FONDI = "Sheet1"
 SHEET_COMPARTI = "Comparti"
 SHEET_REGOLE = "Regole"        # regole generali della previdenza complementare, con fonti
 SHEET_LONGEVITA = "Longevita"  # tavola di mortalità ISTAT (sopravviventi e speranza di vita)
+SHEET_GLOSSARIO = "Glossario"  # termini spiegati nella dashboard (suggerimenti al passaggio del mouse) e nella guida
 FONDI_PRIMA_RIGA = 3      # intestazioni alla riga 2
 COMPARTI_PRIMA_RIGA = 2   # intestazioni alla riga 1
 
@@ -74,6 +76,17 @@ INTESTAZIONI_LONGEVITA = {
 SESSI = ("uomini", "donne", "totale")
 ETA_PARTENZA = 67    # età di riferimento: requisito anagrafico della pensione di vecchiaia
 ETA_GRAFICO_MAX = 105
+
+INTESTAZIONI_GLOSSARIO = {
+    1: "ID", 2: "Gruppo", 3: "Termine", 4: "Per esteso", 5: "Definizione", 6: "Fonte", 7: "Consultata il", 8: "Note",
+}
+GRUPPI_GLOSSARIO = ("Fondi e documenti", "Investimento", "Costi e rendimenti", "Versamenti e uscite anticipate",
+                    "Alla pensione", "Longevità e decesso")
+RE_ID_GLOSSARIO = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")   # usato dalla UI: data-glossario="life-cycle"
+DEFINIZIONE_MAX = 400   # oltre, il suggerimento al passaggio del mouse diventa difficile da leggere
+GUIDA = ROOT / "docs" / "guida" / "GUIDA.md"
+INIZIO_GLOSSARIO = "<!-- glossario:inizio"   # la tabella tra i due marcatori è generata dal foglio Glossario
+FINE_GLOSSARIO = "<!-- glossario:fine -->"
 
 # Codici delle anomalie rilevate in automatico (la descrizione finisce in meta.json per la UI).
 FLAG_COMPARTI = {
@@ -453,6 +466,101 @@ def leggi_longevita(ws, rep: Report) -> dict:
             "durata_definita": durata_definita, "serie": serie}
 
 
+def leggi_glossario(ws, rep: Report) -> list[dict]:
+    voci = []
+    for r in range(2, ws.max_row + 1):
+        if all(ws.cell(r, c).value is None for c in range(1, 9)):
+            continue
+        fonte = ws.cell(r, 6)
+        voce = {
+            "id": testo(ws.cell(r, 1).value),
+            "gruppo": testo(ws.cell(r, 2).value),
+            "termine": testo(ws.cell(r, 3).value),
+            "esteso": testo(ws.cell(r, 4).value),
+            "definizione": testo(ws.cell(r, 5).value),
+            "fonte_nome": testo(fonte.value),
+            "fonte_url": link(fonte),
+            "consultata_il": data_iso(ws.cell(r, 7).value),
+            "note": testo(ws.cell(r, 8).value),
+            "_dove": f"Glossario riga {r}",
+        }
+        v = ws.cell(r, 7).value
+        if v not in (None, "") and voce["consultata_il"] is None:
+            rep.errore(f"{voce['_dove']}: consultata_il non è una data ({v!r})")
+        voci.append(voce)
+    return voci
+
+
+def valida_glossario(voci: list[dict], rep: Report) -> None:
+    ids, termini = set(), set()
+    for v in voci:
+        dove = v["_dove"]
+        if not v["id"] or not RE_ID_GLOSSARIO.match(v["id"]):
+            rep.errore(f"{dove}: ID {v['id']!r} non valido (minuscole, cifre e trattini, es. life-cycle)")
+        elif v["id"] in ids:
+            rep.errore(f"{dove}: ID duplicato {v['id']}")
+        ids.add(v["id"])
+        if v["gruppo"] not in GRUPPI_GLOSSARIO:
+            rep.errore(f"{dove}: gruppo {v['gruppo']!r} non in {GRUPPI_GLOSSARIO}")
+        for campo in ("termine", "definizione"):
+            if not v[campo]:
+                rep.errore(f"{dove}: {campo} vuoto")
+        if v["termine"] and v["termine"].lower() in termini:
+            rep.errore(f"{dove}: termine duplicato {v['termine']!r}")
+        termini.add((v["termine"] or "").lower())
+        if not (v["fonte_nome"] and v["fonte_url"]):
+            rep.errore(f"{dove}: fonte senza nome o senza link")
+        if not v["consultata_il"]:
+            rep.errore(f"{dove}: manca la data di consultazione della fonte")
+        if v["definizione"] and len(v["definizione"]) > DEFINIZIONE_MAX:
+            rep.avviso(f"{dove}: definizione di {len(v['definizione'])} caratteri, troppo lunga per un suggerimento "
+                       f"(massimo {DEFINIZIONE_MAX}): il resto può andare in Note")
+
+
+def fonte_breve(nome: str) -> str:
+    """Nome corto per i link compatti: la parte prima del trattino ("COVIP – Glossario" → "COVIP")."""
+    return nome.split(" – ")[0].strip()
+
+
+def url_comune(urls: list[str]) -> str:
+    """Un solo link per una fonte citata con più link (le lettere del glossario COVIP → la pagina del glossario)."""
+    pagine = sorted({u.split("#")[0] for u in urls})
+    if len(pagine) == 1:
+        return pagine[0]
+    comune = os.path.commonprefix(pagine)
+    return comune[: comune.rfind("/")]
+
+
+def glossario_md(voci: list[dict]) -> str:
+    """Il blocco del glossario per docs/guida/GUIDA.md: una tabella per gruppo, nell'ordine del foglio."""
+    def cella(s: str) -> str:
+        return s.replace("|", "\\|").replace("\n", " ")
+
+    righe = [f"{INIZIO_GLOSSARIO} — generato da scripts/export_xlsx.py dal foglio Glossario: non modificare a mano -->"]
+    for gruppo in dict.fromkeys(v["gruppo"] for v in voci):
+        righe += ["", f"### {gruppo}", "", "| Termine | Significato | Fonte |", "|---|---|---|"]
+        for v in (x for x in voci if x["gruppo"] == gruppo):
+            termine = f"**{v['termine']}**" + (f" ({v['esteso']})" if v["esteso"] else "")
+            spiegazione = v["definizione"] + (f"<br>*{v['note'].replace('*', '')}*" if v["note"] else "")
+            fonte = f"[{fonte_breve(v['fonte_nome'])}]({v['fonte_url']})"
+            righe.append(f"| {cella(termine)} | {cella(spiegazione)} | {cella(fonte)} |")
+    righe += ["", FINE_GLOSSARIO]
+    return "\n".join(righe)
+
+
+def aggiorna_guida(voci: list[dict]) -> str | None:
+    """Riscrive in GUIDA.md solo il blocco tra i marcatori del glossario. Restituisce un errore, o None."""
+    testo_guida = GUIDA.read_text(encoding="utf-8")
+    i, j = testo_guida.find(INIZIO_GLOSSARIO), testo_guida.find(FINE_GLOSSARIO)
+    if i < 0 or j < i:
+        return f"{GUIDA.relative_to(ROOT)}: mancano i marcatori {INIZIO_GLOSSARIO} … --> e {FINE_GLOSSARIO}"
+    nuovo = testo_guida[:i] + glossario_md(voci) + testo_guida[j + len(FINE_GLOSSARIO):]
+    if nuovo != testo_guida:
+        GUIDA.write_text(nuovo, encoding="utf-8")
+        print(f"Aggiornata la tabella del glossario in {GUIDA.relative_to(ROOT)}")
+    return None
+
+
 # ---------------------------------------------------------------- calcoli
 
 def ricalcola_metriche(fondo: dict, suoi: list[dict]) -> None:
@@ -562,11 +670,11 @@ def valida(fondi: list[dict], comparti: list[dict], rep: Report) -> None:
 # ---------------------------------------------------------------- main
 
 def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
-    """Restituisce (fondi, comparti, meta); regole e longevità finiscono in meta["_extra"] e vengono
-    scritte in file separati da main()."""
+    """Restituisce (fondi, comparti, meta); regole, longevità e glossario finiscono in meta["_extra"] e vengono
+    scritti in file separati da main()."""
     wb = openpyxl.load_workbook(xlsx)
     wb_cache = openpyxl.load_workbook(xlsx, data_only=True)
-    for nome in (SHEET_FONDI, SHEET_COMPARTI, SHEET_REGOLE, SHEET_LONGEVITA):
+    for nome in (SHEET_FONDI, SHEET_COMPARTI, SHEET_REGOLE, SHEET_LONGEVITA, SHEET_GLOSSARIO):
         if nome not in wb.sheetnames:
             rep.errore(f"Foglio {nome!r} mancante (presenti: {wb.sheetnames})")
     if rep.errori:
@@ -577,6 +685,7 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     verifica_intestazioni(ws_c, 1, INTESTAZIONI_COMPARTI, rep)
     verifica_intestazioni(wb[SHEET_REGOLE], 1, INTESTAZIONI_REGOLE, rep)
     verifica_intestazioni(wb[SHEET_LONGEVITA], 1, INTESTAZIONI_LONGEVITA, rep)
+    verifica_intestazioni(wb[SHEET_GLOSSARIO], 1, INTESTAZIONI_GLOSSARIO, rep)
     if rep.errori:
         return [], [], {}
 
@@ -584,6 +693,9 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     valida_regole(regole, rep)
     regole_out = [{k: v for k, v in g.items() if k != "_dove"} for g in regole]
     longevita = leggi_longevita(wb[SHEET_LONGEVITA], rep)
+    glossario = leggi_glossario(wb[SHEET_GLOSSARIO], rep)
+    valida_glossario(glossario, rep)
+    glossario_out = [{k: v for k, v in g.items() if k != "_dove"} for g in glossario]
 
     fondi = leggi_fondi(ws_f, wb_cache[SHEET_FONDI], rep)
     usati: set[str] = set()
@@ -664,6 +776,7 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
             "comparti_con_anomalie": sum(bool(c["flag_anomalia"]) for c in comparti_out),
             "fondi_con_anomalie": sum(bool(f["flag_anomalia"]) for f in fondi_out),
             "regole": len(regole_out),
+            "glossario": len(glossario_out),
         },
         "flag": {"comparti": FLAG_COMPARTI, "fondi": FLAG_FONDI},
         "avvisi_export": rep.warning,
@@ -690,7 +803,19 @@ def esporta(xlsx: Path, rep: Report) -> tuple[list[dict], list[dict], dict]:
     if longevita.get("fonte", {}).get("url") and longevita["fonte"]["url"] not in viste:
         meta["fonti"].append({"nome": longevita["fonte"]["nome"], "url": longevita["fonte"]["url"],
                               "tipo": "primaria", "dettaglio": "foglio Longevita"})
-    meta["_extra"] = {"regole": regole_out, "longevita": longevita}
+        viste.add(longevita["fonte"]["url"])
+    # fonti del glossario: una sola voce per fonte (le voci del glossario COVIP puntano a lettere diverse)
+    link_per_fonte: dict[str, list[str]] = {}
+    for g in glossario_out:
+        if g["fonte_nome"] and g["fonte_url"]:
+            link_per_fonte.setdefault(g["fonte_nome"], []).append(g["fonte_url"])
+    for nome, urls in link_per_fonte.items():
+        url = url_comune(urls)
+        if url not in viste:
+            viste.add(url)
+            meta["fonti"].append({"nome": nome, "url": url, "dettaglio": "foglio Glossario",
+                                  "tipo": "secondaria" if nome.lower().startswith("ciao elsa") else "primaria"})
+    meta["_extra"] = {"regole": regole_out, "longevita": longevita, "glossario": glossario_out}
     return fondi_out, comparti_out, meta
 
 
@@ -724,7 +849,8 @@ def main(argv: list[str] | None = None) -> int:
     extra = meta.pop("_extra")
     c = meta["conteggi"]
     print(f"OK: {c['fondi']} fondi ({c['fondi_con_dati']} con dati), {c['comparti']} comparti, "
-          f"{c['comparti_con_anomalie']} comparti segnalati, {c['regole']} regole, {len(rep.warning)} warning.")
+          f"{c['comparti_con_anomalie']} comparti segnalati, {c['regole']} regole, {c['glossario']} voci di glossario, "
+          f"{len(rep.warning)} warning.")
     if args.check:
         return 0
 
@@ -733,8 +859,14 @@ def main(argv: list[str] | None = None) -> int:
         scrivi_json(cartella / "comparti.json", comparti)
         scrivi_json(cartella / "regole.json", extra["regole"])
         scrivi_json(cartella / "longevita.json", extra["longevita"])
+        scrivi_json(cartella / "glossario.json", extra["glossario"])
         scrivi_json(cartella / "meta.json", meta)
         print(f"Scritto in {cartella}")
+    if not args.no_docs:
+        errore = aggiorna_guida(extra["glossario"])
+        if errore:
+            print(f"ERRORE:  {errore}", file=sys.stderr)
+            return 1
     return 0
 
 

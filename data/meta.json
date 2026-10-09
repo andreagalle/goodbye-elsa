@@ -1,10 +1,10 @@
 {
-  "versione": "70f1532-dirty (sviluppo)",
-  "generato_il": "2026-10-08T22:02:23+00:00",
+  "versione": "2e3ce5c-dirty (sviluppo)",
+  "generato_il": "2026-10-09T05:04:57+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
-  "workbook_modificato_il": "2026-10-08T06:47:27",
-  "workbook_sha256": "45d7a90ad98ebc1879e3b0602351150634aebdc52611a3a0b9acac787c1c9065",
-  "commit": "70f15326833658c78751089caf7dc5404c825450",
+  "workbook_modificato_il": "2026-10-08T22:07:53",
+  "workbook_sha256": "b2a133770ee0e9473d36f10de9ba91e9740f767ee0939ab4a7a549ab7303d6fe",
+  "commit": "2e3ce5c53d416dccdfd49e890cdb555f9fb0deda",
   "licenza": {
     "nome": "The Unlicense",
     "spdx": "Unlicense",
@@ -17,7 +17,8 @@
     "comparti_10_anni": 95,
     "comparti_con_anomalie": 11,
     "fondi_con_anomalie": 19,
-    "regole": 32
+    "regole": 32,
+    "glossario": 49
   },
   "flag": {
     "comparti": {
@@ -126,6 +127,24 @@
       "url": "https://demo.istat.it/app/?i=TVM&l=it",
       "tipo": "primaria",
       "dettaglio": "foglio Longevita"
+    },
+    {
+      "nome": "COVIP – Glossario",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario",
+      "dettaglio": "foglio Glossario",
+      "tipo": "primaria"
+    },
+    {
+      "nome": "Ciao Elsa – home page (“Ma chi è Ciao Elsa?”)",
+      "url": "https://www.ciaoelsa.com/",
+      "dettaglio": "foglio Glossario",
+      "tipo": "secondaria"
+    },
+    {
+      "nome": "Ciao Elsa – Sottoscrizione di fondi pensione su Ciao Elsa",
+      "url": "https://www.ciaoelsa.com/sottoscrizione-fondi-pensione-su-ciao-elsa",
+      "dettaglio": "foglio Glossario",
+      "tipo": "secondaria"
     }
   ]
 }

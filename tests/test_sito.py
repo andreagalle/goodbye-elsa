@@ -95,9 +95,49 @@ class TestSito(unittest.TestCase):
         pg.wait_for_selector("#dettaglio[open] .verifica li")
         self.assertEqual(errori, [])
 
+    def test_glossario_e_suggerimenti(self):
+        import json
+        glossario = json.loads((ROOT / "docs" / "data" / "glossario.json").read_text(encoding="utf-8"))
+        # senza scroll animato: lo scroll chiude i suggerimenti, e Playwright muove il mouse mentre la pagina scorre
+        pg, errori = self.pagina("", viewport={"width": 1280, "height": 900}, reduced_motion="reduce")
+        pg.wait_for_selector("#gl-lista .gl-voce")
+        self.assertEqual(pg.locator("#gl-lista .gl-voce").count(), len(glossario))
+        # ogni termine collegato nella pagina ha una voce nel glossario
+        usati = set(pg.eval_on_selector_all("[data-glossario]", "els => els.map(e => e.dataset.glossario)"))
+        self.assertTrue(usati)
+        self.assertEqual(usati - {g["id"] for g in glossario}, set())
+        pg.fill("#gl-cerca", "sostenibil")
+        self.assertIn("ESG", pg.inner_text("#gl-lista"))
+        pg.fill("#gl-cerca", "")
+        # mouse sul filtro ESG: compare la definizione; Esc la chiude
+        tip = pg.locator("#suggerimento")
+        pg.hover('label.chk[data-glossario="esg"]')
+        tip.wait_for(state="visible")
+        self.assertIn("Environmental", tip.inner_text())
+        pg.keyboard.press("Escape")
+        tip.wait_for(state="hidden")
+        # tastiera: il focus sul pulsante di ordinamento mostra la spiegazione della colonna
+        pg.focus('#tab-fondi th[data-key="comm_min"] button')
+        pg.keyboard.press("Shift+Tab")
+        pg.keyboard.press("Tab")
+        tip.wait_for(state="visible")
+        self.assertIn("Commissione di gestione", tip.inner_text())
+        self.assertEqual(pg.evaluate("document.activeElement.getAttribute('aria-describedby')"), "suggerimento")
+        # nel dettaglio fondo il suggerimento sta dentro il <dialog>, sopra la finestra
+        pg.goto(self.base + "#fondo=aureo")
+        pg.wait_for_selector("#dettaglio[open] table")
+        pg.hover("#dettaglio .tag-cat[data-glossario]")
+        tip.wait_for(state="visible")
+        self.assertTrue(pg.evaluate("!!document.getElementById('suggerimento').closest('dialog')"))
+        self.assertEqual(errori, [])
+
     def test_mobile_senza_scroll_orizzontale(self):
-        pg, errori = self.pagina("", viewport={"width": 390, "height": 844}, color_scheme="dark")
+        pg, errori = self.pagina("", viewport={"width": 390, "height": 844}, color_scheme="dark", has_touch=True)
         pg.wait_for_selector("#tab-fondi tbody tr")
+        self.assertLessEqual(pg.evaluate("document.documentElement.scrollWidth"), 390)
+        # da telefono la spiegazione si apre con un tocco sul termine
+        pg.locator("#kpis .termine").first.tap()
+        pg.locator("#suggerimento").wait_for(state="visible")
         self.assertLessEqual(pg.evaluate("document.documentElement.scrollWidth"), 390)
         self.assertEqual(errori, [])
 

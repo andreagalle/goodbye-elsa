@@ -22,7 +22,7 @@ Per un giro veloce c'è anche la [presentazione interattiva](../presentazione/):
 6. [Regole e longevità](#regole-e-longevità)
 7. [Qualità dei dati](#qualità-dei-dati)
 8. [Come funziona un fondo pensione](#come-funziona-un-fondo-pensione): le regole spiegate, dal TFR alla pensione e al decesso
-9. [Glossario](#glossario)
+9. [Glossario](#glossario): le parole tecniche, anche nella dashboard e nei suggerimenti al passaggio del mouse
 10. [Come usare i dati per scegliere](#come-usare-i-dati-per-scegliere)
 11. [Per chi mantiene il progetto](#per-chi-mantiene-il-progetto)
 
@@ -43,6 +43,11 @@ Subito dopo ci sono quattro **riquadri di riepilogo**:
 | Comparti | Le linee di investimento in totale, e quante hanno un rendimento a 10 anni |
 | Comparti con anomalie | Quante linee hanno dati da verificare o non confrontabili (porta alla sezione Qualità dei dati) |
 
+**Spiegazioni al passaggio del mouse**: sulle intestazioni delle colonne, sui filtri, sulle etichette e sui termini
+sottolineati a puntini compare un riquadro con la definizione del [glossario](#glossario) e, dove serve, cosa mostra
+quel punto della pagina. Da telefono basta toccare il termine; con la tastiera il riquadro compare sul controllo che ha
+il focus e si chiude con **Esc**. Tutte le voci sono anche nella sezione **Glossario** della dashboard.
+
 La pagina funziona anche da telefono e segue il tema chiaro o scuro del dispositivo.
 
 ![La dashboard su smartphone con il tema scuro](img/mobile-scuro.png)
@@ -61,7 +66,10 @@ La pagina funziona anche da telefono e segue il tema chiaro o scuro del disposit
   Il contatore a destra indica quanti fondi restano.
 - **Ordinamento**: clicca su un'intestazione per ordinare, clicca di nuovo per invertire. I valori mancanti (—)
   restano sempre in fondo.
-- **⚠️** accanto al nome segnala note o anomalie: passa il mouse sopra l'icona, oppure apri il dettaglio, per leggerle.
+- **Intestazioni, filtri ed etichette**: passaci sopra con il mouse per la spiegazione (es. cosa vuol dire *ESG*, o che
+  *Commissione* va dal comparto più economico al più caro del fondo).
+- **⚠️** accanto al nome segnala note o anomalie: passa il mouse sopra l'icona (da telefono toccala), oppure apri il
+  dettaglio, per leggerle.
   Il ⚠️ accanto a *Max % azioni* vuol dire che il valore è probabilmente falsato da un comparto con dati invertiti.
 - **Comparti**: se compare il riquadro giallo "*N* dichiarate", la fonte dichiara un numero di linee diverso da quelle trovate.
 - **Caratteristiche**: etichette blu per *ESG*, *Life cycle* e *Online* (sottoscrivibile online); "Online: lista d'attesa"
@@ -113,7 +121,8 @@ Confronta solo punti dello **stesso colore**: un azionario rende di più di un o
 
 Per ogni categoria (AZN, BIL, OBB, GAR) la scheda mostra:
 
-- quanti comparti ci sono, la **commissione mediana** e il **rendimento mediano a 10 anni**;
+- quanti comparti ci sono, la **commissione mediana** e il **rendimento mediano a 10 anni** (la mediana è il valore
+  centrale: metà dei comparti sta sotto, metà sopra, e pochi valori estremi non la spostano);
 - i comparti con la commissione più bassa e più alta;
 - i comparti con il rendimento a 10 anni più alto e più basso.
 
@@ -351,38 +360,103 @@ personale serve un consulente indipendente. Questa guida non è consulenza finan
 
 ## Glossario
 
-| Termine | Significato |
-|---|---|
-| **Fondo pensione aperto** | Fondo di previdenza complementare istituito da banche, assicurazioni o SGR, aperto a tutti |
-| **Comparto / linea** | Una delle opzioni di investimento del fondo, ognuna con un proprio profilo di rischio |
-| **AZN** | Azionario: in prevalenza azioni, rischio e potenziale di rendimento più alti |
-| **BIL** | Bilanciato: un mix di azioni e obbligazioni |
-| **OBB misto / puro** | Obbligazionario: soprattutto (misto) o solo (puro) obbligazioni |
-| **GAR** | Garantito: restituzione del capitale (o un rendimento minimo) in certi casi previsti dal regolamento |
-| **Commissione di gestione** | Percentuale del patrimonio prelevata ogni anno per la gestione |
-| **Spese di adesione** | Costo una tantum all'iscrizione |
-| **Spese annue fisse** | Importo fisso prelevato ogni anno |
-| **Rendimento netto medio annuo** | Rendimento medio annuo del comparto, già al netto dei costi, sul periodo indicato |
-| **Life cycle** | Percorso che sposta automaticamente l'investimento verso comparti più prudenti man mano che ci si avvicina alla pensione |
-| **ESG** | Linee che tengono conto di criteri ambientali, sociali e di governance |
-| **ISC** | Indicatore Sintetico dei Costi di COVIP: il costo complessivo su 2, 5, 10 e 35 anni, confrontabile tra tutti i fondi |
-| **Posizione individuale / montante** | Il valore del tuo conto nel fondo: versamenti più rendimenti, meno costi e prelievi |
-| **Anticipazione** | Un prelievo parziale prima della pensione, per i motivi previsti dalla legge; si può reintegrare |
-| **Riscatto** | Il ritiro di metà o di tutta la posizione in casi precisi (perdita del lavoro, invalidità, decesso) |
-| **RITA** | Rendita integrativa temporanea anticipata: la posizione pagata a rate fino alla pensione di vecchiaia, per chi smette di lavorare prima |
-| **Rendita vitalizia** | Pensione pagata per tutta la vita da un'assicurazione; protegge dal rischio di vivere a lungo |
-| **Coefficiente di trasformazione** | Il numero che trasforma il capitale in rendita annua: dipende da età, speranza di vita, tasso tecnico e costi |
-| **Rendita reversibile** | Alla morte di chi la riceve, continua (in tutto o in parte) a una persona indicata |
-| **Rendita certa e poi vitalizia** | Pagata comunque per 5 o 10 anni (anche ai beneficiari, se si muore prima), poi finché si vive |
-| **Rendita controassicurata** | Rendita vitalizia che, alla morte, restituisce ai beneficiari il capitale non ancora pagato |
-| **LTC (Long Term Care)** | Copertura che aggiunge una prestazione se si perde l'autosufficienza |
-| **Rendita a durata definita** | Dal 2026: rate per un numero di anni pari alla speranza di vita; il capitale resta investito e il residuo va ai beneficiari |
-| **Prelievi liberamente determinabili** | Dal 2026: prelievi a scelta, entro le rate maturate di una rendita teorica a durata definita |
-| **Erogazione frazionata** | Dal 31 ottobre 2026: il capitale pagato a rate per almeno 5 anni; tassazione dal 20% al 15% |
-| **Rischio di longevità** | Il rischio di vivere più a lungo di quanto il capitale riesca a coprire |
-| **Beneficiari designati** | Le persone (o gli enti) che indichi per ricevere la posizione in caso di decesso |
-| **Vecchio iscritto** | Chi è iscritto dal 29 aprile 1993 o prima a un fondo preesistente: può prendere tutto in capitale |
-| **Documento sulle rendite** | Documento del fondo con tipi di rendita, coefficienti e costi della fase di erogazione |
+Le parole tecniche della dashboard, spiegate in breve. Le stesse definizioni sono nella sezione
+[Glossario](../#glossario) della dashboard, con una casella per cercarle, e compaiono in un **suggerimento** quando
+passi il mouse su un termine sottolineato a puntini, su un'intestazione di colonna, su un filtro o su un'etichetta
+(da telefono basta toccare il termine). Con la tastiera il suggerimento compare quando il controllo riceve il focus,
+e si chiude con **Esc**.
+
+![Il suggerimento che compare passando il mouse sul filtro ESG della tabella dei fondi](img/suggerimento.png)
+
+La fonte principale è il [glossario della COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario),
+aggiornato alla Legge di Bilancio 2026. Le note in corsivo dicono come il termine è usato nella dashboard o dove le
+fonti non coincidono: per esempio, le categorie dei comparti (AZN, BIL, OBB, GAR) sono quelle di Ciao Elsa e non
+sempre rispettano le soglie COVIP.
+
+![La sezione Glossario della dashboard, con la ricerca e i termini divisi per gruppo](img/glossario.png)
+
+<!-- glossario:inizio — generato da scripts/export_xlsx.py dal foglio Glossario: non modificare a mano -->
+
+### Fondi e documenti
+
+| Termine | Significato | Fonte |
+|---|---|---|
+| **Fondo pensione aperto** | Fondo pensione istituito da una banca, una SGR, una SIM o un'assicurazione e aperto a tutti, anche a chi non lavora. Si aderisce da soli (adesione individuale) oppure tramite un accordo aziendale (adesione collettiva). | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/f#fondi-pensione-aperti) |
+| **Fondo negoziale (chiuso)** | Fondo pensione istituito da contratti o accordi collettivi per i lavoratori di una categoria, di un settore o di un'azienda. Di solito è il fondo a cui il datore di lavoro versa il proprio contributo: aderendo a un fondo aperto si può perderlo.<br>*Sul contributo del datore di lavoro: Guida introduttiva COVIP (2018), p. 25.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/f#fondi-pensione) |
+| **Albo COVIP** (COVIP: Commissione di vigilanza sui fondi pensione) | La COVIP è l'autorità pubblica che vigila sui fondi pensione. L'Albo è il suo elenco ufficiale delle forme pensionistiche complementari: questa dashboard parte dai fondi pensione aperti iscritti all'Albo. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/a#albo-delle-forme-pensionistiche-complementari) |
+| **Contribuzione definita** | Si sa quanto si versa, non quanto si riceverà: la pensione complementare dipende dai contributi versati e dai risultati degli investimenti, al netto dei costi. Non c'è un importo garantito, salvo nei comparti con garanzia. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/f#fondi-pensione) |
+| **Adesione individuale e collettiva** | Individuale: ti iscrivi tu, al fondo che scegli, qualunque lavoro tu faccia. Collettiva: l'iscrizione avviene in base a un accordo tra azienda e lavoratori, anche verso un fondo aperto. Alcune regole, per esempio sul riscatto, cambiano tra le due. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/a#adesione) |
+| **Posizione individuale (montante)** | Il valore del tuo conto nel fondo: i contributi versati più i rendimenti, meno i costi e gli eventuali prelievi. Al momento della pensione si parla anche di montante. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/m#montante-individuale) |
+| **Nota informativa** | Il documento ufficiale che descrive il fondo: comparti, costi, rendimenti passati e prestazioni. Segue uno schema fissato dalla COVIP, è pubblicato sul sito del fondo e va letto prima di aderire. In appendice c'è l'Informativa sulla sostenibilità. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/n#nota-informativa) |
+| **Scheda dei costi** | La parte della Nota informativa che elenca tutti i costi del fondo, con l'ISC. Viene consegnata prima dell'adesione: per confrontare i costi di due fondi la COVIP consiglia di confrontarne le schede.<br>*Guida introduttiva COVIP, pp. 16 e 25.* | [COVIP](https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf) |
+| **Ciao Elsa** | Sito di Elsa Srl che spiega la previdenza complementare, confronta i fondi pensione e per alcuni fondi aperti permette di aderire online. In questa dashboard è la fonte secondaria dei dati di dettaglio: vanno verificati sulla Nota informativa. | [Ciao Elsa](https://www.ciaoelsa.com/) |
+| **Sottoscrizione online** | Adesione al fondo via internet tramite Ciao Elsa, che fa da broker: identificazione con SPID o CIE e questionario di autovalutazione COVIP. “Lista d'attesa” vuol dire che il fondo non è ancora sottoscrivibile su Ciao Elsa: ci si può iscrivere per essere avvisati.<br>*La lista d'attesa è indicata nelle schede dei fondi di Ciao Elsa (es. Previdenza per Te di AXA MPS).* | [Ciao Elsa](https://www.ciaoelsa.com/sottoscrizione-fondi-pensione-su-ciao-elsa) |
+
+### Investimento
+
+| Termine | Significato | Fonte |
+|---|---|---|
+| **Comparto (linea di investimento)** | Una delle opzioni di investimento offerte dal fondo, con una propria politica di investimento e quindi un proprio livello di rischio e di rendimento atteso. Il fondo può consentire di dividere i versamenti tra più comparti. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/c#comparto) |
+| **AZN** (Azionario) | Comparto che investe solo o principalmente in azioni: nel lungo periodo può rendere di più, ma il suo valore può oscillare molto da un anno all'altro, anche in negativo. Per la COVIP un comparto è azionario se almeno il 50% è investito in azioni.<br>*Sigla della categoria usata da Ciao Elsa. Rischio e rendimento: Guida introduttiva COVIP, p. 21.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/m#multicomparto) |
+| **BIL** (Bilanciato) | Comparto che investe sia in azioni sia in obbligazioni, in linea di massima in proporzioni simili: rischio e rendimento atteso intermedi. Per la COVIP è bilanciato un comparto con più del 30% e meno del 50% di azioni.<br>*Sigla e categoria di Ciao Elsa, che non sempre segue le soglie COVIP: diversi comparti BIL hanno il 50% di azioni o più, e per la COVIP sarebbero azionari.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/m#multicomparto) |
+| **OBB** (Obbligazionario (misto o puro)) | Comparto che investe soprattutto in obbligazioni: rendimenti attesi più contenuti e oscillazioni ridotte. “Puro”: solo obbligazioni, niente azioni. “Misto”: anche azioni, ma al massimo il 30%.<br>*Sigle di Ciao Elsa (OBB PURO, OBB MISTO), che non sempre seguono le soglie COVIP: alcuni OBB PURO hanno una piccola quota di azioni, e molti comparti con garanzia sono classificati come OBB.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/m#multicomparto) |
+| **GAR** (Garantito) | Comparto che garantisce la restituzione del capitale versato o un rendimento minimo, ma solo in certi casi previsti dal regolamento, per esempio al pensionamento.<br>*Ciao Elsa usa la categoria GAR per pochi comparti: molti comparti con garanzia sono classificati come obbligazionari (OBB).* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/c#comparti-garantiti) |
+| **Asset allocation** | Come è diviso il patrimonio di un comparto tra azioni (quote di società: possono rendere di più, ma oscillano molto) e obbligazioni (titoli di debito di Stati e imprese, che pagano interessi: oscillazioni più contenute). Più azioni vuol dire più rischio e più rendimento atteso nel lungo periodo.<br>*Guida introduttiva COVIP, pp. 17 e 21–22: composizione del portafoglio in titoli azionari e obbligazionari.* | [COVIP](https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf) |
+| **ESG** (Environmental, Social, Governance) | Fattori ambientali (es. emissioni di CO2, inquinamento), sociali (es. diritti umani, condizioni di lavoro) e di governo delle imprese (es. compensi dei manager) usati per valutare la sostenibilità degli investimenti nel lungo periodo.<br>*Nella dashboard “ESG” vuol dire che, secondo Ciao Elsa, il fondo ha almeno una linea che prevede investimenti sostenibili. Quali comparti promuovono caratteristiche ambientali o sociali, o hanno obiettivi di investimento sostenibile, lo dice l'Informativa sulla sostenibilità allegata alla Nota informativa.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/e#esg) |
+| **Life cycle** | Percorso che sposta automaticamente l'investimento verso comparti più prudenti man mano che ci si avvicina alla pensione, tenendo conto dell'età e degli anni che mancano. Dal 1° luglio 2026 è la destinazione dei versamenti di chi aderisce in modo automatico.<br>*Nella dashboard “Life cycle” vuol dire che, secondo Ciao Elsa, il fondo offre questa opzione.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/l#life-cycle) |
+| **Switch (cambio di comparto)** | Spostare la posizione, o i versamenti futuri, da un comparto all'altro dello stesso fondo. La scelta del comparto non è vincolante, ma tra un cambio e l'altro va rispettato il periodo minimo previsto dal regolamento del fondo.<br>*Guida introduttiva COVIP, pp. 22 e 24.* | [COVIP](https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf) |
+
+### Costi e rendimenti
+
+| Termine | Significato | Fonte |
+|---|---|---|
+| **Spese di adesione** | Costo pagato una sola volta, quando ti iscrivi. Pesa poco se resti nel fondo a lungo, molto se ci resti pochi anni.<br>*Nella definizione dell'ISC è il “costo di iscrizione”, il cui peso diminuisce con gli anni di permanenza.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/i#isc-indicatore-sintetico-dei-costi) |
+| **Spese annue fisse** | Importo fisso in euro prelevato ogni anno dalla posizione, qualunque sia il suo valore: pesa di più all'inizio, quando la posizione è piccola.<br>*Nella definizione dell'ISC è la “spesa annua in cifra fissa”.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/i#isc-indicatore-sintetico-dei-costi) |
+| **Costo % sul versato** | Percentuale trattenuta da ogni versamento prima che venga investito: per esempio, lo 0,5% vuol dire 5 € ogni 1.000 € versati.<br>*Nella definizione dell'ISC è la “spesa in percentuale sui versamenti”.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/i#isc-indicatore-sintetico-dei-costi) |
+| **Commissione di gestione** | Percentuale del patrimonio del comparto trattenuta ogni anno per gestirlo: per esempio, l'1% vuol dire 10 € l'anno ogni 1.000 € investiti. Si paga su tutto ciò che hai accumulato, quindi nel lungo periodo anche piccole differenze riducono molto la pensione.<br>*Nella definizione dell'ISC sono le “commissioni in percentuale sul patrimonio”. Effetto delle piccole differenze di costo: Guida introduttiva COVIP, p. 25.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/i#isc-indicatore-sintetico-dei-costi) |
+| **ISC** (Indicatore sintetico dei costi) | Tutti i costi di un comparto riassunti in un'unica percentuale: di quanto riducono ogni anno il rendimento. La COVIP lo calcola allo stesso modo per tutti i fondi, per 2, 5, 10 e 35 anni di permanenza (versamento di 2.500 € l'anno, rendimento ipotetico del 4%): è il modo ufficiale per confrontare i costi tra fondi.<br>*Si trova nella Scheda dei costi di ogni fondo e nel Comparatore dei costi sul sito della COVIP.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/i#isc-indicatore-sintetico-dei-costi) |
+| **Rendimento netto medio annuo** | Di quanto è cresciuto in media, ogni anno, il valore del comparto, già al netto di costi e tasse, su un periodo dato (qui di solito 10 anni, per alcuni comparti 3 o 5). Si confrontano solo rendimenti dello stesso periodo, e quelli passati non garantiscono quelli futuri.<br>*Guida introduttiva COVIP, p. 17 (rendimenti medi annui composti a 3, 5 e 10 anni) e p. 8 (rendimenti al netto della fiscalità).* | [COVIP](https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf) |
+
+### Versamenti e uscite anticipate
+
+| Termine | Significato | Fonte |
+|---|---|---|
+| **TFR** (Trattamento di fine rapporto) | La liquidazione che il datore di lavoro accantona ogni anno per il dipendente, circa il 6,91% della retribuzione lorda, e paga alla fine del rapporto di lavoro. Si può lasciare in azienda, dove si rivaluta dell'1,5% più il 75% dell'inflazione, oppure versare al fondo pensione.<br>*6,91% della retribuzione lorda: esempi della Guida introduttiva COVIP (2018).* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/t#trattamento-di-fine-rapporto-tfr) |
+| **Deducibilità** | I contributi versati al fondo (escluso il TFR) si sottraggono dal reddito su cui si calcolano le tasse, fino a 5.300 € l'anno dal 2026: si risparmia IRPEF secondo la propria aliquota.<br>*Limite annuo: Legge 199/2025 (vedi Regole, “Deducibilità”).* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/d#deducibilit) |
+| **Anticipazione** | Una parte della posizione chiesta prima della pensione per spese sanitarie gravi, per la prima casa o per altre esigenze, nei limiti di legge. Riduce la pensione futura, ma si può reintegrare rimettendo i soldi nel fondo.<br>*Limiti, tempi e tasse: vedi Regole, tema “Prima della pensione”.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/a#anticipazione) |
+| **Riscatto** | Il ritiro in un'unica soluzione, prima della pensione, del 50% o di tutta la posizione, in casi precisi: perdita del lavoro, invalidità, perdita dei requisiti di partecipazione. In caso di decesso la posizione viene riscattata dai beneficiari o dagli eredi.<br>*Decesso: D.Lgs. 252/2005, art. 14 c. 3.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/r#riscatto) |
+| **RITA** (Rendita integrativa temporanea anticipata) | La posizione pagata a rate fino all'età della pensione di vecchiaia, per chi ha smesso di lavorare e ne è vicino: al massimo 5 anni, o 10 se è senza lavoro da più di 24 mesi. Servono almeno 5 anni di partecipazione. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/r#rita-rendita-integrativa-temporanea-anticipata) |
+| **Trasferimento** | Spostare tutta la posizione in un altro fondo pensione: si può dopo 2 anni di iscrizione, o prima se cambi lavoro. Non si pagano tasse e l'anzianità di iscrizione si conserva.<br>*Il fondo che lasci può applicare una spesa fissa per il trasferimento.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/t#trasferimento) |
+
+### Alla pensione
+
+| Termine | Significato | Fonte |
+|---|---|---|
+| **Prestazione in capitale** | La parte della posizione che alla pensione si riceve subito, in un'unica soluzione: fino al 50% del montante. Si può avere tutto in capitale solo se la rendita sarebbe molto bassa oppure per i “vecchi iscritti”.<br>*Il 60% annunciato dalla Legge 199/2025 non è mai entrato in vigore: vedi Regole, “Capitale”.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/p#prestazione-pensionistica-complementare) |
+| **Vecchio iscritto** | Chi, assunto prima del 29 aprile 1993, entro quella data era già iscritto a un fondo pensione esistente al 15 novembre 1992. Alla pensione può prendere tutta la prestazione in capitale; la condizione si perde con il riscatto dell'intera posizione.<br>*Art. 23 c. 7 del D.Lgs. 252/2005 e Guida introduttiva COVIP, p. 26. Il glossario COVIP (voce “Iscritti”) lo descrive in modo diverso: iscritto alla previdenza obbligatoria prima del 29/4/1993 e alla complementare prima dell'entrata in vigore della Legge 421/1992.* | [D.Lgs. 252/2005](https://www.covip.it/sites/default/files/legislazione_fondi/decreto_legislativo_5_dicembre_2005_n_252.pdf) |
+| **Rendita vitalizia** | Una pensione pagata per tutta la vita, dal fondo o da un'assicurazione convenzionata, in cambio del montante. Protegge dal rischio di longevità; nella forma base, alla morte il capitale residuo non viene restituito.<br>*Forma base e varianti: Esempio COVIP di supplemento alla Nota informativa (28/7/2026).* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/r#rendita-vitalizia) |
+| **Coefficiente di trasformazione** | Il numero che trasforma il montante in rendita annua. Dipende dall'età alla pensione, dalla speranza di vita, dal tasso tecnico e dai costi, e cambia da fondo a fondo: a parità di montante, un coefficiente più alto dà una rendita più alta.<br>*Da cosa dipende: Guida introduttiva COVIP, p. 27.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/c#coefficiente-di-trasformazione-in-rendita) |
+| **Tasso tecnico** | Il rendimento minimo garantito considerato nel calcolo della rendita, al momento in cui viene fissata. È uno degli elementi del coefficiente di trasformazione.<br>*Guida introduttiva COVIP, p. 27.* | [COVIP](https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf) |
+| **Rendita reversibile** | Rendita vitalizia che, alla tua morte, continua in tutto o in parte a una persona che hai indicato. La rata è più bassa di quella della rendita vitalizia base. | [COVIP](https://www.covip.it/sites/default/files/notizie/esempio_supplementoni_fpa.pdf) |
+| **Rendita certa e poi vitalizia** | Rendita pagata comunque per un numero definito di anni, anche alla persona che hai indicato se muori prima, e poi per tutta la vita. La rata è più bassa di quella della rendita vitalizia base. | [COVIP](https://www.covip.it/sites/default/files/notizie/esempio_supplementoni_fpa.pdf) |
+| **Rendita controassicurata** | Rendita vitalizia con restituzione del capitale: alla tua morte, la persona che hai indicato riceve il capitale residuo non ancora pagato. La rata è più bassa di quella della rendita vitalizia base. | [COVIP](https://www.covip.it/sites/default/files/notizie/esempio_supplementoni_fpa.pdf) |
+| **LTC** (Long-term care) | Copertura assicurativa abbinata alla rendita, che la aumenta se si perde l'autosufficienza.<br>*Rendita con copertura LTC: Guida introduttiva COVIP, p. 27.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/l#long-term-care) |
+| **Rendita a durata definita** | Dal 1° luglio 2026, alternativa alla vitalizia: rate per un numero di anni pari alla vita attesa secondo le tavole ISTAT. Il capitale resta investito, ogni rata è il residuo diviso per le rate che mancano, e alla morte il residuo va ai beneficiari.<br>*Non protegge da una vita più lunga del previsto: vedi Regole e il grafico della longevità.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/p#prestazione-pensionistica-complementare) |
+| **Prelievi liberi** (Prelievi liberamente determinabili) | Dal 1° luglio 2026, alternativa alla vitalizia: prelevi quando vuoi, entro la somma delle rate maturate e non ancora riscosse di una rendita teorica a durata definita. Il resto resta investito. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/p#prestazione-pensionistica-complementare) |
+| **Erogazione frazionata** | Dal 31 ottobre 2026: il montante pagato a rate per un periodo che scegli tu, di almeno 5 anni, indipendente dalla speranza di vita. Ha una tassazione meno favorevole delle altre forme.<br>*Tassazione: vedi Regole, “Tasse sulle prestazioni”.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/p#prestazione-pensionistica-complementare) |
+| **Documento sulle rendite** | Documento del fondo che spiega nel dettaglio le prestazioni in rendita e, dal 2026, come si calcolano le rate e i prelievi delle nuove forme. | [COVIP](https://www.covip.it/sites/default/files/provvedimenti/istruzioni_prestazioni_25_06_2026.pdf) |
+| **Supplemento alla Nota informativa** | Documento che dal 2026 ogni fondo pubblica sul proprio sito per descrivere le prestazioni: tipi di rendita e nuove forme offerti, con condizioni e costi. Serve a confrontare i fondi in vista della pensione.<br>*La COVIP ne ha pubblicato un esempio per i fondi aperti il 28/7/2026.* | [COVIP](https://www.covip.it/sites/default/files/provvedimenti/istruzioni_prestazioni_25_06_2026.pdf) |
+
+### Longevità e decesso
+
+| Termine | Significato | Fonte |
+|---|---|---|
+| **Rischio di longevità** | Il rischio di vivere più a lungo del previsto e di finire i risparmi. La rendita vitalizia protegge da questo rischio; il capitale e le nuove forme a rate no.<br>*Guida introduttiva COVIP, pp. 26–27.* | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/r#rischio-di-longevit) |
+| **Speranza di vita** | Quanti anni, in media, vive ancora chi ha raggiunto una certa età. È una media: molte persone vivono più a lungo. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/s#speranza-di-vita-allet-x) |
+| **Tavole di mortalità** | Statistiche su quante persone sopravvivono a ogni età, per età e sesso; in Italia le pubblica l'ISTAT. Servono a calcolare la speranza di vita, i coefficienti della rendita vitalizia e la durata della rendita a durata definita. | [COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/t#tavole-di-mortalit) |
+| **Beneficiari designati** | Le persone, o gli enti, che indichi al fondo perché ricevano la posizione se muori prima della pensione, o il capitale residuo delle nuove forme a rate. Se non ne indichi, la posizione va agli eredi.<br>*Art. 14 c. 3. Per le nuove forme indicarli è obbligatorio (Istruzioni COVIP del 25/6/2026).* | [D.Lgs. 252/2005](https://www.covip.it/sites/default/files/legislazione_fondi/decreto_legislativo_5_dicembre_2005_n_252.pdf) |
+
+<!-- glossario:fine -->
 
 ## Come usare i dati per scegliere
 
@@ -403,6 +477,11 @@ personale serve un consulente indipendente. Questa guida non è consulenza finan
    Nel devcontainer puoi aprire il file in sola lettura con l'estensione *Spreadsheet Viewer*.
 2. Rigenera i JSON: `python scripts/export_xlsx.py`. Lo script si ferma se trova errori di schema.
 3. Esegui i test: `python -m unittest discover -s tests -v`.
+
+Il **glossario** si modifica nel foglio `Glossario` (una riga per termine, con fonte e data di consultazione). L'export
+scrive `glossario.json` per la dashboard e rigenera la tabella del capitolo [Glossario](#glossario), tra i commenti
+`glossario:inizio` e `glossario:fine`: quella parte di questa guida non va modificata a mano. Nella dashboard un
+termine si collega a una voce con l'attributo `data-glossario="<ID>"` (es. `data-glossario="esg"`).
 
 ### Provare il sito prima di pubblicarlo
 

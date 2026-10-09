@@ -7,6 +7,8 @@ const STATO = {
   filtri: { q: "", dati: false, esg: false, lc: false, online: false },
   grafico: null, evidenzia: "", includiPeriodi: false, nascosti: new Set(),
   regole: [], longevita: null, temaRegole: null, soloVaria: false, graficoLongevita: null,
+  glossario: [], perTermine: new Map(), cercaGlossario: "",
+  documenti: null, // indice dei documenti ufficiali (scripts/documenti.py); null se manca
 };
 
 // ---------------------------------------------------------------- formattazione (it-IT)
@@ -28,8 +30,12 @@ const GRUPPI = {
 };
 const gruppo = (cat) => (cat && cat.startsWith("OBB") ? "OBB" : cat);
 const sw = (cat) => `<span class="sw ${esc(gruppo(cat))}" aria-hidden="true"></span>`;
-const tagCat = (cat) => `<span class="tag tag-cat">${sw(cat)}${esc(cat)}</span>`;
+const tagCat = (cat) => `<span class="tag tag-cat"${cat ? ` data-glossario="${esc(gruppo(cat).toLowerCase())}"` : ""}>${sw(cat)}${esc(cat)}</span>`;
 const css = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+
+// Termine con la spiegazione del glossario al passaggio del mouse (testo già in HTML sicuro)
+const termine = (id, testo) => `<span class="termine" data-glossario="${id}">${testo}</span>`;
+const SPIEGA_MEDIANA = "Il valore centrale: metà dei comparti della categoria sta sotto, metà sopra. A differenza della media, non si sposta per pochi valori molto alti o molto bassi.";
 
 const flagFondo = (k) => STATO.meta.flag?.fondi?.[k] ?? k;
 const flagComparto = (k) => STATO.meta.flag?.comparti?.[k] ?? k;
@@ -48,21 +54,25 @@ function avvisiFondo(f) {
 function badge(testi) {
   if (!testi.length) return "";
   const t = esc(testi.join(" · "));
-  return `<span class="warn" role="img" title="${t}" aria-label="Attenzione: ${t}">⚠️</span>`;
+  return `<span class="warn" role="img" data-spiega="${t}" aria-label="Attenzione: ${t}">⚠️</span>`;
 }
 
 // ---------------------------------------------------------------- caricamento
 async function carica() {
   try {
-    const [fondi, comparti, meta, regole, longevita] = await Promise.all(
-      ["fondi", "comparti", "meta", "regole", "longevita"].map((n) =>
+    const [fondi, comparti, meta, regole, longevita, glossario] = await Promise.all(
+      ["fondi", "comparti", "meta", "regole", "longevita", "glossario"].map((n) =>
         fetch(`data/${n}.json`, { cache: "no-cache" }).then((r) => {
           if (!r.ok) throw new Error(`${n}.json: HTTP ${r.status}`);
           return r.json();
         })
       )
     );
-    Object.assign(STATO, { fondi, comparti, meta, regole, longevita, perId: new Map(fondi.map((f) => [f.id, f])) });
+    Object.assign(STATO, {
+      fondi, comparti, meta, regole, longevita, glossario,
+      perId: new Map(fondi.map((f) => [f.id, f])), perTermine: new Map(glossario.map((g) => [g.id, g])),
+    });
+    STATO.documenti = await caricaDocumenti();
   } catch (e) {
     const el = document.getElementById("errore-caricamento");
     el.hidden = false;
@@ -75,9 +85,11 @@ async function carica() {
   renderCategorie();
   initRegole();
   initLongevita();
+  initGlossario();
   renderQualita();
   renderFooter();
   initDettaglio();
+  initSuggerimenti();
 }
 
 // ---------------------------------------------------------------- KPI
@@ -85,41 +97,43 @@ function renderKpi() {
   const c = STATO.meta.conteggi;
   const kpi = (v, l) => `<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`;
   document.getElementById("kpis").innerHTML =
-    kpi(c.fondi, "fondi pensione aperti nell'elenco COVIP") +
+    kpi(c.fondi, `${termine("fondo-pensione-aperto", "fondi pensione aperti")} nell'${termine("albo-covip", "elenco COVIP")}`) +
     kpi(c.fondi_con_dati, `con dati di dettaglio (${pct(c.fondi_con_dati / c.fondi, 0)})`) +
     kpi(c.comparti, `comparti, di cui ${c.comparti_10_anni} con rendimento a 10 anni`) +
     kpi(c.comparti_con_anomalie, '<a href="#qualita">comparti con anomalie o dati non confrontabili</a>');
 }
 
 // ---------------------------------------------------------------- tabella fondi
+// glossario: voce mostrata al passaggio del mouse sull'intestazione; spiega: cosa mostra la colonna in questa tabella
 const COLONNE = [
-  { key: "nome_breve", label: "Fondo", tipo: "txt",
+  { key: "nome_breve", label: "Fondo", tipo: "txt", glossario: "fondo-pensione-aperto",
     html: (f) => `<button type="button" class="fondo-btn" data-fondo="${esc(f.id)}">${esc(f.nome_breve)}</button>${badge(avvisiFondo(f))}<span class="sub">${esc(f.societa ?? "Nessuna scheda")}</span>` },
-  { key: "spese_adesione", label: "Adesione", num: true, html: (f) => eur(f.spese_adesione) },
-  { key: "spese_annue", label: "Spese annue", num: true, html: (f) => eur(f.spese_annue) },
-  { key: "costo_pct_versato", label: "% sul versato", titolo: "Costo percentuale su ogni versamento", num: true, html: (f) => pct(f.costo_pct_versato, 1) },
-  { key: "n_comparti", label: "Comparti", num: true,
-    html: (f) => (f.has_dati ? `${f.n_comparti}${f.n_linee != null && f.n_linee !== f.n_comparti ? ` <span class="tag tag-warn" title="Linee dichiarate da Ciao Elsa">${f.n_linee} dichiarate</span>` : ""}` : NA) },
-  { key: "comm_min", label: "Commissione", titolo: "Commissione di gestione annua, dal comparto più economico al più caro", num: true,
+  { key: "spese_adesione", label: "Adesione", glossario: "spese-adesione", num: true, html: (f) => eur(f.spese_adesione) },
+  { key: "spese_annue", label: "Spese annue", glossario: "spese-annue", num: true, html: (f) => eur(f.spese_annue) },
+  { key: "costo_pct_versato", label: "% sul versato", glossario: "costo-versato", num: true, html: (f) => pct(f.costo_pct_versato, 1) },
+  { key: "n_comparti", label: "Comparti", glossario: "comparto", spiega: "Qui: i comparti presenti nei dati. L'etichetta gialla indica quante linee dichiara Ciao Elsa, quando sono di più o di meno.", num: true,
+    html: (f) => (f.has_dati ? `${f.n_comparti}${f.n_linee != null && f.n_linee !== f.n_comparti ? ` <span class="tag tag-warn" data-spiega="Linee dichiarate da Ciao Elsa: non coincidono con i comparti presenti nei dati.">${f.n_linee} dichiarate</span>` : ""}` : NA) },
+  { key: "comm_min", label: "Commissione", glossario: "commissione-gestione", spiega: "Qui: dal comparto più economico al più caro del fondo.", num: true,
     html: (f) => (f.comm_min == null ? NA : f.comm_min === f.comm_max ? pct(f.comm_min) : `${pct(f.comm_min)} – ${pct(f.comm_max)}`) },
-  { key: "max_azioni", label: "Max % azioni", num: true,
+  { key: "max_azioni", label: "Max % azioni", glossario: "asset-allocation", spiega: "Qui: la quota di azioni del comparto più azionario del fondo, cioè il rischio più alto che puoi scegliere.", num: true,
     html: (f) => pct(f.max_azioni, 0) + (f.flag_anomalia.includes("comparti_anomali") ? badge(["Valore probabilmente falsato da un comparto con allocazione anomala"]) : "") },
-  { key: "best_rend_10a", label: "Miglior rend. 10 anni", titolo: "Miglior rendimento netto medio annuo a 10 anni tra i comparti del fondo", num: true, html: (f) => rend(f.best_rend_10a) },
-  { key: null, label: "Caratteristiche", titolo: "Linee ESG, percorso life cycle e sottoscrizione online (si filtrano con i pulsanti sopra)",
+  { key: "best_rend_10a", label: "Miglior rend. 10 anni", glossario: "rendimento-netto", spiega: "Qui: il rendimento a 10 anni più alto tra i comparti del fondo.", num: true, html: (f) => rend(f.best_rend_10a) },
+  { key: null, label: "Caratteristiche", spiega: "Linee ESG, percorso life cycle e sottoscrizione online, secondo Ciao Elsa: passa sulle etichette per la spiegazione. Si filtrano con i pulsanti sopra la tabella.",
     html: caratteristiche },
-  { key: null, label: "Fonti",
+  { key: null, label: "Fonti", glossario: "ciao-elsa", spiega: "Sito: la pagina ufficiale del fondo. Scheda: la scheda di Ciao Elsa da cui vengono i dati di dettaglio.",
     html: (f) => `<span class="links">${f.url ? `<a href="${esc(f.url)}" rel="noopener" target="_blank">Sito<span class="sr-only"> di ${esc(f.nome_breve)}</span></a>` : ""}${f.scheda_url ? `<a href="${esc(f.scheda_url)}" rel="noopener" target="_blank">Scheda<span class="sr-only"> Ciao Elsa di ${esc(f.nome_breve)}</span></a>` : ""}</span>` },
 ];
+const attrSpiegazione = (c) => `${c.glossario ? ` data-glossario="${c.glossario}"` : ""}${c.spiega ? ` data-spiega="${esc(c.spiega)}"` : ""}`;
 
 // ESG, life cycle e online in una sola colonna di etichette: la tabella resta abbastanza stretta da non scorrere su desktop
 function caratteristiche(f) {
   if (!f.has_dati) return NA;
-  const tag = (testo, classe = "tag-on") => `<span class="tag ${classe}">${testo}</span>`;
+  const tag = (testo, voce, classe = "tag-on") => `<span class="tag ${classe}" data-glossario="${voce}">${testo}</span>`;
   const out = [];
-  if (f.esg === "Sì") out.push(tag("ESG"));
-  if (f.life_cycle === "Sì") out.push(tag("Life cycle"));
-  if (f.online === "Sì (Ciao Elsa)") out.push(tag("Online"));
-  else if (f.online === "No (lista d'attesa)") out.push(tag("Online: lista d'attesa", "tag-off"));
+  if (f.esg === "Sì") out.push(tag("ESG", "esg"));
+  if (f.life_cycle === "Sì") out.push(tag("Life cycle", "life-cycle"));
+  if (f.online === "Sì (Ciao Elsa)") out.push(tag("Online", "sottoscrizione-online"));
+  else if (f.online === "No (lista d'attesa)") out.push(tag("Online: lista d'attesa", "sottoscrizione-online", "tag-off"));
   return out.length ? `<span class="tags">${out.join("")}</span>` : '<span class="na">—</span>';
 }
 
@@ -134,7 +148,7 @@ function aggiornaScorrimento() {
 function initTabella() {
   const tr = document.querySelector("#tab-fondi thead tr");
   tr.innerHTML = COLONNE.map((c) =>
-    `<th scope="col" class="${c.num ? "num" : ""}" ${c.key ? `data-key="${c.key}" aria-sort="none"` : ""}${c.titolo ? ` title="${esc(c.titolo)}"` : ""}>${c.key ? `<button type="button" class="sort">${c.label}</button>` : c.label}</th>`
+    `<th scope="col" class="${c.num ? "num" : ""}" ${c.key ? `data-key="${c.key}" aria-sort="none"` : ""}${attrSpiegazione(c)}>${c.key ? `<button type="button" class="sort">${c.label}</button>` : c.label}</th>`
   ).join("");
   new ResizeObserver(aggiornaScorrimento).observe(document.querySelector("#fondi .table-scroll"));
   tr.addEventListener("click", (e) => {
@@ -200,7 +214,8 @@ function allocazione(c) {
 
 function rendConPeriodo(c) {
   if (c.rendimento == null) return NA;
-  const tag = c.periodo_anni === 10 ? `<span class="tag">10 anni</span>` : `<span class="tag tag-warn">${c.periodo_anni} anni</span>`;
+  const tag = c.periodo_anni === 10 ? `<span class="tag">10 anni</span>`
+    : `<span class="tag tag-warn" data-spiega="Rendimento medio su ${c.periodo_anni} anni: copre un periodo di mercato diverso e non si confronta con quelli a 10 anni.">${c.periodo_anni} anni</span>`;
   return `${rend(c.rendimento)}<br>${tag}`;
 }
 
@@ -211,7 +226,7 @@ function apriFondo(id, aggiornaHash = true) {
   document.getElementById("d-titolo").innerHTML = `${esc(f.nome_breve)}<span class="sub">${esc(f.denominazione)}</span>`;
   const comp = compartiDi(id);
   const avvisi = avvisiFondo(f);
-  const fact = (l, v) => `<div class="fact"><div class="l">${l}</div><div class="v">${v}</div></div>`;
+  const fact = (l, v, voce) => `<div class="fact"><div class="l">${voce ? termine(voce, l) : l}</div><div class="v">${v}</div></div>`;
   const link = [
     f.url && `<a href="${esc(f.url)}" rel="noopener" target="_blank">Pagina informativa del fondo ↗</a>`,
     f.scheda_url && `<a href="${esc(f.scheda_url)}" rel="noopener" target="_blank">Scheda Ciao Elsa (fonte) ↗</a>`,
@@ -223,18 +238,21 @@ function apriFondo(id, aggiornaHash = true) {
     html += `<p>Per questo fondo non ci sono ancora dati di dettaglio. Consulta la Nota informativa sul sito del gestore.</p>`;
   } else {
     html += `<div class="facts">
-      ${fact("Spese di adesione", eur(f.spese_adesione))}
-      ${fact("Spese annue fisse", eur(f.spese_annue))}
-      ${fact("Costo % sul versato", pct(f.costo_pct_versato, 1))}
-      ${fact("ESG", esc(f.esg ?? "—"))}
-      ${fact("Life cycle", esc(f.life_cycle ?? "—"))}
-      ${fact("Sottoscrizione online", esc(f.online ?? "—"))}
+      ${fact("Spese di adesione", eur(f.spese_adesione), "spese-adesione")}
+      ${fact("Spese annue fisse", eur(f.spese_annue), "spese-annue")}
+      ${fact("Costo % sul versato", pct(f.costo_pct_versato, 1), "costo-versato")}
+      ${fact("ESG", esc(f.esg ?? "—"), "esg")}
+      ${fact("Life cycle", esc(f.life_cycle ?? "—"), "life-cycle")}
+      ${fact("Sottoscrizione online", esc(f.online ?? "—"), "sottoscrizione-online")}
     </div>
     <h3>Comparti (${comp.length}${f.n_linee != null && f.n_linee !== comp.length ? `; Ciao Elsa ne dichiara ${f.n_linee}` : ""})</h3>
     <div class="table-scroll"><table class="data">
       <caption class="sr-only">Comparti di ${esc(f.nome_breve)}</caption>
-      <thead><tr><th scope="col">Comparto</th><th scope="col">Categoria</th><th scope="col">Asset allocation</th>
-        <th scope="col" class="num">Rendimento netto<br>medio annuo</th><th scope="col" class="num">Commissione<br>di gestione</th><th scope="col">Note</th></tr></thead>
+      <thead><tr><th scope="col" data-glossario="comparto">Comparto</th>
+        <th scope="col" data-spiega="Categoria dichiarata da Ciao Elsa: passa sull'etichetta del comparto per la spiegazione.">Categoria</th>
+        <th scope="col" data-glossario="asset-allocation">Asset allocation</th>
+        <th scope="col" class="num" data-glossario="rendimento-netto">Rendimento netto<br>medio annuo</th>
+        <th scope="col" class="num" data-glossario="commissione-gestione">Commissione<br>di gestione</th><th scope="col">Note</th></tr></thead>
       <tbody>${comp.map((c) => {
         const note = [...c.flag_anomalia.map((k) => `⚠️ ${esc(flagComparto(k))}`), c.note && esc(c.note)].filter(Boolean);
         return `<tr><th scope="row">${esc(c.comparto)}</th><td>${tagCat(c.categoria)}</td><td>${allocazione(c)}</td>
@@ -243,7 +261,7 @@ function apriFondo(id, aggiornaHash = true) {
       }).join("")}</tbody>
     </table></div>`;
   }
-  html += daVerificare(f);
+  html += daVerificare(f) + documentiFondo(f);
   document.getElementById("d-body").innerHTML = html;
   if (!dlg.open) dlg.showModal();
   dlg.scrollTop = 0;
@@ -258,8 +276,60 @@ function daVerificare(f) {
   const sito = f.url ? ` sul <a href="${esc(f.url)}" rel="noopener" target="_blank">sito del fondo ↗</a>` : "";
   return `<h3 class="d-sez">Alla pensione e in caso di decesso</h3>
     <p class="hint">Le regole generali valgono per tutti i fondi (<a href="#regole">vedi Regole</a>). Per questo fondo
-      verifica nel <strong>Documento sulle rendite</strong> e nel <strong>Supplemento alla Nota informativa</strong>${sito}:</p>
-    <ul class="verifica">${voci.map((r) => `<li><strong>${esc(r.titolo)}</strong>: ${esc(r.varia)}</li>`).join("")}</ul>`;
+      verifica nel <strong>${termine("documento-rendite", "Documento sulle rendite")}</strong> e nel
+      <strong>${termine("supplemento-nota", "Supplemento alla Nota informativa")}</strong>${sito}:</p>
+    <ul class="verifica">${voci.map((r) => `<li><strong>${titoloConGlossario(r.titolo)}</strong>: ${esc(r.varia)}</li>`).join("")}</ul>`;
+}
+
+// Il titolo breve di una regola diventa un termine del glossario se c'è una voce con lo stesso nome (es. "Rendita vitalizia")
+function titoloConGlossario(titolo) {
+  const voce = STATO.glossario.find((g) => normalizza(g.termine) === normalizza(titolo));
+  return voce ? termine(esc(voce.id), esc(titolo)) : esc(titolo);
+}
+
+// ---------------------------------------------------------------- documenti ufficiali
+// data/documenti.json è facoltativo: se manca, la dashboard funziona lo stesso senza la sezione documenti.
+async function caricaDocumenti() {
+  try {
+    const r = await fetch("data/documenti.json", { cache: "no-cache" });
+    if (!r.ok) return null;
+    const d = await r.json();
+    return { ...d, tipi: new Map(d.tipi.map((t) => [t.id, t])), perFondo: new Map(d.fondi.map((x) => [x.fondo_id, x])) };
+  } catch {
+    return null;
+  }
+}
+
+const dimensione = (b) => (b >= 1048576 ? `${NF1.format(b / 1048576)} MB` : `${NF0.format(Math.max(1, Math.round(b / 1024)))} KB`);
+
+function coperturaDocumenti() {
+  const t = STATO.documenti?.totali;
+  if (!t) return "";
+  return `<p class="hint">Documenti ufficiali: ${t.scaricati} PDF per ${t.fondi_con_documenti} fondi su ${t.fondi}
+    (${t.scaricati_referenziati} dei ${t.referenziati} citati nelle pagine informative), nel dettaglio di ogni fondo e nell'<a
+    href="https://github.com/andreagalle/goodbye-elsa/tree/master/docs/documenti" rel="noopener" target="_blank">elenco completo ↗</a>.</p>`;
+}
+
+// Copie dei PDF scaricate dal sito del gestore, con il link all'originale (fa fede quello)
+function documentiFondo(f) {
+  const d = STATO.documenti?.perFondo.get(f.id);
+  if (!d?.documenti.length) return "";
+  const date = d.documenti.map((x) => x.scaricato_il).filter(Boolean).sort();
+  const quando = date.length ? ` il ${dataIt(date[date.length - 1])}` : "";
+  const conteggio = d.referenziati
+    ? `Scaricati ${d.scaricati_referenziati} dei ${d.referenziati} documenti citati nella pagina informativa del fondo${d.scaricati > d.scaricati_referenziati ? `, più ${d.scaricati - d.scaricati_referenziati} trovati in altre pagine del gestore` : ""}.`
+    : "La pagina informativa del fondo non elenca documenti: queste copie vengono da altre pagine del gestore.";
+  const voci = d.documenti.map((x) => {
+    const tipo = STATO.documenti.tipi.get(x.tipo);
+    const originale = x.url ? `<a href="${esc(x.url)}" rel="noopener" target="_blank" data-spiega="Il documento sul sito del gestore: se è stato aggiornato, fa fede questo.">originale ↗</a>` : "";
+    if (!x.file) return `<li><span data-spiega="${esc(tipo?.descrizione ?? "")}">${esc(x.titolo)}</span> <span class="doc-meta">· non scaricato: ${esc(x.note ?? "")}${originale ? ` · ${originale}` : ""}</span></li>`;
+    return `<li><a href="${esc(x.file)}" target="_blank" rel="noopener" data-spiega="${esc(tipo?.descrizione ?? "")}">${esc(x.titolo)}</a>
+      <span class="doc-meta">· PDF, ${x.pagine ?? "?"} pag., ${dimensione(x.byte)} · ${originale}</span></li>`;
+  }).join("");
+  return `<h3 class="d-sez">Documenti ufficiali (${d.scaricati})</h3>
+    <p class="hint">Copie scaricate dal sito del gestore${esc(quando)}, per consultarle anche qui. ${esc(conteggio)} Fa fede la versione
+      pubblicata dal gestore (link “originale”).</p>
+    <ul class="documenti">${voci}</ul>`;
 }
 
 function initDettaglio() {
@@ -304,7 +374,7 @@ function initGrafico() {
 function legendaGrafico() {
   const el = document.getElementById("g-legend");
   el.innerHTML = Object.entries(GRUPPI).map(([k, g]) =>
-    `<button type="button" data-gruppo="${k}" aria-pressed="${!STATO.nascosti.has(k)}">${sw(k)}${g.label}</button>`).join("") +
+    `<button type="button" data-gruppo="${k}" data-glossario="${k.toLowerCase()}" aria-pressed="${!STATO.nascosti.has(k)}">${sw(k)}${g.label}</button>`).join("") +
     (STATO.includiPeriodi ? `<span class="chk"><span class="hollow" aria-hidden="true"></span>Simbolo vuoto: rendimento a 3 o 5 anni</span>` : "");
   el.onclick = (e) => {
     const b = e.target.closest("[data-gruppo]");
@@ -421,8 +491,8 @@ function renderCategorie() {
     const n = Math.min(3, Math.floor(tutti.length / 2)) || 1;
     const mostraPeggiori = tutti.length > 3;
     return `<article class="card">
-      <h3>${sw(k)}${g.label}</h3>
-      <p class="stats">${tutti.length} comparti · commissione mediana ${pctTxt(mediana(conComm.map((c) => c.commissione)))}
+      <h3>${sw(k)}${termine(k.toLowerCase(), g.label)}</h3>
+      <p class="stats">${tutti.length} comparti · commissione <span class="termine" data-spiega="${SPIEGA_MEDIANA}">mediana</span> ${pctTxt(mediana(conComm.map((c) => c.commissione)))}
         · rendimento mediano a 10 anni ${pctTxt(mediana(dieci.map((c) => c.rendimento)))} (${dieci.length} comparti)</p>
       ${lista("Commissione più bassa", perComm.slice(0, n), (c) => pct(c.commissione))}
       ${mostraPeggiori ? lista("Commissione più alta", perComm.slice(-n).reverse(), (c) => pct(c.commissione)) : ""}
@@ -447,7 +517,7 @@ function cardRegola(r, mostraTema) {
     <p class="regola-testo">${esc(r.regola)}</p>
     ${r.uguale_per_tutti !== "Sì" && r.varia ? `<p class="regola-varia"><strong>Cosa cambia tra i fondi:</strong> ${esc(r.varia)}</p>` : ""}
     ${r.note ? `<p class="regola-nota">${esc(r.note)}</p>` : ""}
-    <p class="regola-piede">${stato}${vigore}<a href="${esc(r.fonte_url)}" rel="noopener" target="_blank" title="Fonte: ${esc(r.fonte_nome)} (consultata il ${esc(dataBreve(r.consultata_il))})">${esc(r.riferimento)} ↗</a></p>
+    <p class="regola-piede">${stato}${vigore}<a href="${esc(r.fonte_url)}" rel="noopener" target="_blank" data-spiega="Fonte: ${esc(r.fonte_nome)} (consultata il ${esc(dataBreve(r.consultata_il))})">${esc(r.riferimento)} ↗</a></p>
   </article>`;
 }
 
@@ -489,10 +559,10 @@ function initLongevita() {
   const anni = (v) => NF1.format(v);
   const kpi = (v, l) => `<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`;
   document.getElementById("l-kpi").innerHTML =
-    kpi(`${anni(s.uomini.speranza)} · ${anni(s.donne.speranza)}`, `anni di vita attesa a ${L.eta_partenza} anni (uomini · donne): è una media`) +
+    kpi(`${anni(s.uomini.speranza)} · ${anni(s.donne.speranza)}`, `anni di ${termine("speranza-vita", "vita attesa")} a ${L.eta_partenza} anni (uomini · donne): è una media`) +
     kpi(`${s.uomini.eta_50_vivi} · ${s.donne.eta_50_vivi}`, `l'età che supera metà dei ${L.eta_partenza}enni (uomini · donne)`) +
     kpi(`${s.uomini.eta_10_vivi} · ${s.donne.eta_10_vivi}`, "l'età che supera uno su dieci (uomini · donne)") +
-    kpi(pct(dd.vivi_a_fine.totale, 0), `è ancora vivo a ${dd.eta_fine} anni, quando finisce una rendita a durata definita iniziata a ${dd.eta_inizio} (${dd.anni} anni)`);
+    kpi(pct(dd.vivi_a_fine.totale, 0), `è ancora vivo a ${dd.eta_fine} anni, quando finisce una ${termine("rendita-durata-definita", "rendita a durata definita")} iniziata a ${dd.eta_inizio} (${dd.anni} anni)`);
   document.getElementById("l-legend").innerHTML =
     '<span class="voce"><span class="linea" style="background:var(--cat-azn)"></span>Uomini</span>' +
     '<span class="voce"><span class="linea" style="background:var(--cat-bil)"></span>Donne</span>' +
@@ -560,6 +630,137 @@ function disegnaLongevita() {
   });
 }
 
+// ---------------------------------------------------------------- glossario (foglio Glossario → glossario.json)
+const normalizza = (s) => String(s ?? "").normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().trim();
+const fonteBreve = (nome) => nome.split(" – ")[0];   // come fonte_breve() in export_xlsx.py: "COVIP – Glossario" → "COVIP"
+
+function initGlossario() {
+  if (!STATO.glossario.length) return;
+  document.getElementById("gl-cerca").addEventListener("input", (e) => { STATO.cercaGlossario = e.target.value; renderGlossario(); });
+  renderGlossario();
+  // link diretto a una voce (…/#glossario-esg): le voci esistono solo dopo il caricamento
+  if (location.hash.startsWith("#glossario-")) document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView();
+}
+
+function voceGlossario(g) {
+  const fonte = `Fonte: ${g.fonte_nome}, consultata il ${dataBreve(g.consultata_il)}`;
+  return `<div class="gl-voce" id="glossario-${esc(g.id)}">
+    <dt>${esc(g.termine)}${g.esteso ? ` <span class="esteso">${esc(g.esteso)}</span>` : ""}</dt>
+    <dd>${esc(g.definizione)} <a class="gl-fonte" href="${esc(g.fonte_url)}" rel="noopener" target="_blank" data-spiega="${esc(fonte)}">${esc(fonteBreve(g.fonte_nome))}&nbsp;↗</a>
+      ${g.note ? `<span class="gl-nota">${esc(g.note)}</span>` : ""}</dd>
+  </div>`;
+}
+
+function renderGlossario() {
+  const q = normalizza(STATO.cercaGlossario);
+  const trovate = STATO.glossario.filter((g) => !q || normalizza(`${g.termine} ${g.esteso ?? ""} ${g.definizione}`).includes(q));
+  const gruppi = [...new Set(trovate.map((g) => g.gruppo))];
+  document.getElementById("gl-lista").innerHTML = trovate.length
+    ? gruppi.map((gr) => `<div class="gl-gruppo"><h3>${esc(gr)}</h3>
+        <dl>${trovate.filter((g) => g.gruppo === gr).map(voceGlossario).join("")}</dl></div>`).join("")
+    : '<p class="hint">Nessun termine trovato: prova con un\'altra parola.</p>';
+  document.getElementById("gl-conteggio").textContent =
+    q ? `${trovate.length} di ${STATO.glossario.length} termini` : `${STATO.glossario.length} termini`;
+}
+
+// ---------------------------------------------------------------- suggerimenti al passaggio del mouse
+// data-glossario="<id>" mostra la voce del glossario; data-spiega aggiunge (o è da sola) la spiegazione di quel punto
+// della pagina. Mouse: al passaggio. Tastiera: al focus (e Esc per chiudere). Touch: un tocco su un termine che non è
+// un pulsante o un link. Un solo elemento role="tooltip", spostato dentro il dettaglio fondo quando serve.
+const SUGG = { el: null, bersaglio: null, inArrivo: null, descritto: null, timer: 0, puntatore: "mouse" };
+const CON_SUGGERIMENTO = "[data-glossario],[data-spiega]";
+const INTERATTIVO = "a, button, input, select, textarea, label, summary";
+
+function contenutoSuggerimento(el) {
+  const g = STATO.perTermine.get(el.dataset.glossario);
+  const qui = el.dataset.spiega;
+  const parti = [];
+  if (g) parti.push(`<strong>${esc(g.termine)}${g.esteso ? ` <span class="esteso">· ${esc(g.esteso)}</span>` : ""}</strong>${esc(g.definizione)}`);
+  if (qui) parti.push(g ? `<span class="qui">${esc(qui)}</span>` : esc(qui));
+  return parti.join("");
+}
+
+function mostraSuggerimento(el, focusato = null) {
+  const html = contenutoSuggerimento(el);
+  if (!html) return;
+  nascondiSuggerimento();
+  const tip = SUGG.el;
+  // il <dialog> aperto sta nel "top layer": il suggerimento deve stare dentro di lui per comparire sopra
+  (el.closest("dialog[open]") ?? document.body).append(tip);
+  tip.innerHTML = html;
+  tip.hidden = false;
+  const r = el.getBoundingClientRect(), t = tip.getBoundingClientRect(), m = 8;
+  const top = r.top - t.height - m >= m ? r.top - t.height - m : r.bottom + m;
+  const left = Math.max(m, Math.min(r.left + r.width / 2 - t.width / 2, innerWidth - t.width - m));
+  tip.style.top = `${Math.round(top)}px`;
+  tip.style.left = `${Math.round(left)}px`;
+  SUGG.bersaglio = el;
+  if (focusato) {
+    focusato.setAttribute("aria-describedby", tip.id);
+    SUGG.descritto = focusato;
+  }
+}
+
+function nascondiSuggerimento() {
+  clearTimeout(SUGG.timer);
+  SUGG.inArrivo = null;
+  if (!SUGG.el || SUGG.el.hidden) return;
+  SUGG.el.hidden = true;
+  SUGG.bersaglio = null;
+  SUGG.descritto?.removeAttribute("aria-describedby");
+  SUGG.descritto = null;
+}
+
+function initSuggerimenti() {
+  const tip = document.createElement("div");
+  Object.assign(tip, { id: "suggerimento", className: "suggerimento", hidden: true });
+  tip.setAttribute("role", "tooltip");
+  document.body.append(tip);
+  SUGG.el = tip;
+
+  document.addEventListener("pointerdown", (e) => { SUGG.puntatore = e.pointerType; }, true);
+  // pointermove e non pointerover: se uno scroll ha chiuso il suggerimento, basta muovere un po' il mouse per riaverlo
+  document.addEventListener("pointermove", (e) => {
+    if (e.pointerType !== "mouse") return;
+    const el = e.target.closest(CON_SUGGERIMENTO);
+    if (!el || el === SUGG.bersaglio || el === SUGG.inArrivo) return;
+    clearTimeout(SUGG.timer);
+    SUGG.inArrivo = el;
+    SUGG.timer = setTimeout(() => mostraSuggerimento(el), 120);
+  }, { passive: true });
+  document.addEventListener("pointerout", (e) => {
+    if (e.pointerType !== "mouse") return;
+    const el = e.target.closest(CON_SUGGERIMENTO);
+    if (!el || el.contains(e.relatedTarget)) return;
+    if (el === SUGG.inArrivo) {
+      clearTimeout(SUGG.timer);
+      SUGG.inArrivo = null;
+    }
+    if (el === SUGG.bersaglio) nascondiSuggerimento();
+  });
+  document.addEventListener("focusin", (e) => {
+    const el = e.target.closest?.(CON_SUGGERIMENTO);
+    if (el && e.target.matches(":focus-visible")) mostraSuggerimento(el, e.target);
+  });
+  document.addEventListener("focusout", (e) => { if (e.target === SUGG.descritto) nascondiSuggerimento(); });
+  document.addEventListener("click", (e) => {
+    const el = e.target.closest(CON_SUGGERIMENTO);
+    const tocco = SUGG.puntatore !== "mouse";
+    if (tocco && el && !e.target.closest(INTERATTIVO)) {
+      if (SUGG.bersaglio === el) nascondiSuggerimento();
+      else mostraSuggerimento(el);
+    } else if (tocco || e.target.closest(INTERATTIVO)) {
+      nascondiSuggerimento();
+    }
+  });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") nascondiSuggerimento(); });
+  // anche lo scroll dentro la tabella o il dettaglio (lo scroll non risale il DOM, ma passa dalla fase di cattura);
+  // chiude solo un suggerimento già visibile, senza annullare quello che sta per comparire sotto il mouse
+  window.addEventListener("scroll", () => { if (!SUGG.el.hidden) nascondiSuggerimento(); }, { passive: true, capture: true });
+  window.addEventListener("resize", nascondiSuggerimento);
+  document.getElementById("dettaglio").addEventListener("close", nascondiSuggerimento);
+}
+
 // ---------------------------------------------------------------- qualità dei dati
 function renderQualita() {
   const { fondi, comparti, meta } = STATO;
@@ -581,6 +782,7 @@ function renderQualita() {
       <p>${conDati} fondi su ${fondi.length} hanno dati di dettaglio (${pct(conDati / fondi.length, 0)}).</p>
       <div class="cov" role="img" aria-label="${conDati} fondi con dati su ${fondi.length}">
         <span class="si" style="flex:${conDati}"></span><span class="no" style="flex:${fondi.length - conDati}"></span></div>
+      ${coperturaDocumenti()}
     </div>
 
     <div class="apertura">
@@ -600,7 +802,7 @@ function renderQualita() {
         <ul class="chips">${senza.map((f) => {
           const avvisi = avvisiFondo(f);
           const nome = `${esc(f.nome_breve)}${avvisi.length ? ' <span aria-hidden="true">⚠️</span>' : ""}`;
-          const t = avvisi.length ? ` title="${esc(avvisi.join(" · "))}"` : "";
+          const t = avvisi.length ? ` data-spiega="${esc(avvisi.join(" · "))}"` : "";
           return `<li>${f.url ? `<a class="chip" href="${esc(f.url)}" rel="noopener" target="_blank"${t}>${nome}</a>` : `<span class="chip"${t}>${nome}</span>`}</li>`;
         }).join("")}</ul>
         ${senza.filter((f) => avvisiFondo(f).length).map((f) => `<p class="hint chip-nota">⚠️ <strong>${esc(f.nome_breve)}</strong>: ${esc(avvisiFondo(f).join(" · "))}</p>`).join("")}
@@ -610,7 +812,7 @@ function renderQualita() {
         <p class="hint">Clicca sul fondo per leggere la nota completa insieme ai comparti.</p>
         <ul class="note-list" id="note-fondi" data-aperto="false">${fondiNote.map((f, i) => `<li${i >= NOTE_VISIBILI ? " class=\"extra\"" : ""}>
           <button type="button" class="linkish" data-fondo="${esc(f.id)}">${esc(f.nome_breve)}</button>
-          <span class="clamp" title="${esc(avvisiFondo(f).join(" · "))}">${esc(avvisiFondo(f).join(" · "))}</span></li>`).join("")}</ul>
+          <span class="clamp" data-spiega="${esc(avvisiFondo(f).join(" · "))}">${esc(avvisiFondo(f).join(" · "))}</span></li>`).join("")}</ul>
         ${fondiNote.length > NOTE_VISIBILI ? `<button type="button" class="mostra" id="mostra-note" aria-controls="note-fondi" aria-expanded="false">Mostra tutte le ${fondiNote.length} note</button>` : ""}
       </div>
       <div>

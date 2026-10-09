@@ -35,14 +35,25 @@ def main() -> int:
         pg.goto(base)
         attendi(pg)
         pg.screenshot(path=OUT / "dashboard.png")
-        # negli screenshot delle singole sezioni la barra fissa coprirebbe il titolo
-        pg.add_style_tag(content=".topnav { position: static; }")
+        # negli screenshot delle singole sezioni la barra fissa coprirebbe il titolo, e il pulsante "Torna su" l'angolo
+        pg.add_style_tag(content=".topnav { position: static; } .su { display: none; }")
 
         pg.check("#f-dati")
         pg.check("#f-esg")
         pg.click("#tab-fondi th[data-key=comm_min] button")
         pg.mouse.move(0, 0)
         pg.locator("#fondi").screenshot(path=OUT / "tabella-filtri.png")
+
+        # suggerimento del glossario sul filtro ESG: prima si porta la sezione in cima (lo scroll chiude i
+        # suggerimenti), poi si passa con il mouse
+        fondi = pg.locator("#fondi")
+        fondi.evaluate("e => scrollTo({ top: e.getBoundingClientRect().top + scrollY, behavior: 'instant' })")
+        pg.hover('label.chk[data-glossario="esg"]')
+        pg.wait_for_selector("#suggerimento:not([hidden])")
+        box = fondi.bounding_box()
+        pg.screenshot(path=OUT / "suggerimento.png",
+                      clip={"x": box["x"], "y": box["y"], "width": box["width"], "height": 470})
+        pg.mouse.move(0, 0)
 
         pg.locator("#grafico").screenshot(path=OUT / "grafico.png")
         pg.check("#g-periodi")
@@ -62,6 +73,12 @@ def main() -> int:
         pg.locator("#l-blocco").evaluate(
             "e => scrollTo({ top: e.getBoundingClientRect().top + scrollY, behavior: 'instant' })")
         pg.locator("#l-blocco").screenshot(path=OUT / "longevita.png")
+        # glossario: più alto della finestra, si fotografa la parte in alto (titolo, ricerca e prime voci)
+        gl = pg.locator("#glossario")
+        gl.evaluate("e => scrollTo({ top: e.getBoundingClientRect().top + scrollY, behavior: 'instant' })")
+        box = gl.bounding_box()
+        pg.screenshot(path=OUT / "glossario.png",
+                      clip={"x": box["x"], "y": box["y"], "width": box["width"], "height": min(box["height"], 780)})
         q = pg.locator("#qualita")
         q.scroll_into_view_if_needed()
         box = q.bounding_box()

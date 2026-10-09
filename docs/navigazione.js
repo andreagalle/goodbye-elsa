@@ -1,11 +1,12 @@
 /* Navigazione condivisa da dashboard e guida:
    - evidenzia nella barra in alto la sezione visibile (aria-current), e su telefono la porta in vista;
+   - marchio "goodbye Elsa !!" a sinistra: porta all'inizio della dashboard (se ci sei già, senza ricaricarla);
    - pulsante "Torna su" che compare dopo un po' di scorrimento. */
 "use strict";
 
 (() => {
   // ---------------------------------------------------------------- sezione attiva nel menu
-  const nav = document.querySelector(".topnav .wrap");
+  const nav = document.querySelector(".topnav .voci");
   const link = nav ? [...nav.querySelectorAll('a[href^="#"]')] : [];
   const sezioni = link.map((a) => document.getElementById(a.hash.slice(1))).filter(Boolean);
 
@@ -34,7 +35,23 @@
     sezioni.forEach((s) => oss.observe(s));
   }
 
-  // ---------------------------------------------------------------- torna su
+  // ---------------------------------------------------------------- torna su e marchio
+  const inCima = () => {
+    const riduci = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    window.scrollTo({ top: 0, behavior: riduci ? "auto" : "smooth" });
+    // il focus torna all'inizio della pagina per chi naviga da tastiera
+    document.querySelector("h1")?.focus({ preventScroll: true });
+  };
+
+  document.querySelector(".marchio")?.addEventListener("click", (e) => {
+    const a = e.currentTarget;
+    // da un'altra pagina, o con Ctrl/⌘/Maiusc (nuova scheda o finestra), è un normale link
+    if (a.pathname !== location.pathname || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+    e.preventDefault();
+    if (location.hash) history.replaceState(null, "", location.pathname + location.search);
+    inCima();
+  });
+
   const su = document.createElement("button");
   su.type = "button";
   su.className = "su";
@@ -47,10 +64,5 @@
   window.addEventListener("scroll", aggiorna, { passive: true });
   aggiorna();
 
-  su.addEventListener("click", () => {
-    const riduci = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    window.scrollTo({ top: 0, behavior: riduci ? "auto" : "smooth" });
-    // il focus torna all'inizio della pagina per chi naviga da tastiera
-    document.querySelector("h1")?.focus({ preventScroll: true });
-  });
+  su.addEventListener("click", inCima);
 })();

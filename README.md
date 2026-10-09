@@ -12,7 +12,7 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
 | Percorso | Descrizione |
 |---|---|
 | `data/fondi-pensione-covip.xlsx` | Workbook sorgente (fonte di verità, modificato a mano in Excel) |
-| `data/fondi.json`, `data/comparti.json`, `data/regole.json`, `data/longevita.json`, `data/meta.json` | Dati esportati dal workbook (generati, non modificarli a mano) |
+| `data/fondi.json`, `data/comparti.json`, `data/regole.json`, `data/longevita.json`, `data/glossario.json`, `data/meta.json` | Dati esportati dal workbook (generati, non modificarli a mano) |
 | `scripts/export_xlsx.py` | Converte il workbook in JSON, con validazione dello schema e anomalie |
 | `scripts/versione.py` | Calcola la prossima versione e le note di rilascio dai commit |
 | `scripts/workbook_utils.py` | Salva il workbook da Python senza perdere il collegamento a Claude per Excel |
@@ -33,6 +33,9 @@ asset allocation, rendimenti e commissioni, con una dashboard pubblicata su GitH
 - **32 regole generali** (TFR, tasse, anticipazioni, opzioni alla pensione, decesso) aggiornate alla Legge di Bilancio 2026,
   ognuna con riferimento normativo e link alla fonte ufficiale (foglio `Regole`), e la **tavola di mortalità ISTAT 2025**
   per ragionare sulla durata della pensione (foglio `Longevita`).
+- **Glossario di 49 termini** (foglio `Glossario`), soprattutto dal [glossario COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario):
+  nella dashboard le definizioni compaiono passando il mouse su termini, intestazioni, filtri ed etichette, e sono
+  raccolte nella sezione *Glossario*; l'export rigenera anche la tabella del glossario nella guida.
 
 > ⚠️ I dati vengono da fonti secondarie (Ciao Elsa) e contengono anomalie note (vedi `CLAUDE.md` → *Problemi noti nei dati*).
 > Prima di prendere qualsiasi decisione, verificali sulla **Nota informativa / Scheda costi** ufficiale del fondo.

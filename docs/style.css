@@ -29,6 +29,9 @@
   --radius: 14px;
   --radius-sm: 10px;
   --font: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  /* marchio "goodbye Elsa !!": l'arancione del golfino di Elsa (assets/elsa.png), uguale nei due temi */
+  --elsa: #f03e3a;
+  --font-elsa: Chewy, "Comic Sans MS", "Chalkboard SE", cursive;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -133,15 +136,18 @@ p, li { text-wrap: pretty; }
   backdrop-filter: saturate(1.4) blur(10px); -webkit-backdrop-filter: saturate(1.4) blur(10px);
   border-bottom: 1px solid var(--border);
 }
-.topnav .wrap { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; padding-top: 8px; padding-bottom: 8px; }
+/* tre colonne: marchio a sinistra, voci centrate nella pagina (la terza colonna, vuota, bilancia la prima);
+   se lo spazio non basta le voci si spostano a destra del marchio, e su telefono scorrono */
+.topnav .wrap { display: grid; grid-template-columns: 1fr minmax(0, max-content) 1fr; align-items: center; column-gap: 12px; }
+.topnav .voci { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; padding-top: 8px; padding-bottom: 8px; }
 /* centrata, ma se non entra (telefono) scorre partendo dal primo link invece di tagliarlo */
-.topnav .wrap > :first-child { margin-left: auto; }
-.topnav .wrap > :last-child { margin-right: auto; }
-.topnav a {
+.topnav .voci > :first-child { margin-left: auto; }
+.topnav .voci > :last-child { margin-right: auto; }
+.topnav .voci a {
   flex: none; text-decoration: none; font-weight: 550; font-size: 0.92rem; color: var(--ink-2);
   padding: 6px 12px; border-radius: 999px; white-space: nowrap;
 }
-.topnav a:hover { background: var(--surface-2); color: var(--ink); }
+.topnav .voci a:hover { background: var(--surface-2); color: var(--ink); }
 .topnav a[aria-current="true"] { background: var(--accent-soft); color: var(--accent-ink); font-weight: 650; }
 .topnav a.extra { color: var(--accent-ink); }
 .topnav .sep { flex: none; width: 1px; margin: 6px 6px; background: var(--border); }
@@ -396,3 +402,65 @@ h1:focus { outline: none; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .data tbody tr, .su { transition: none; } }
 @media (forced-colors: active) { .alloc .a, .cov .si { background: CanvasText; } .chk:has(input:checked) { outline: 2px solid CanvasText; } }
+
+/* termini del glossario: sottolineatura a puntini, la spiegazione compare al passaggio del mouse (o con un tocco) */
+.termine {
+  text-decoration: underline dotted; text-decoration-color: var(--muted); text-decoration-thickness: 1px;
+  text-underline-offset: 3px; cursor: help;
+}
+.tag[data-glossario], .tag[data-spiega], .clamp[data-spiega], .data th[data-glossario]:not([data-key]), .data th[data-spiega]:not([data-key]) { cursor: help; }
+.suggerimento {
+  position: fixed; z-index: 40; top: 0; left: 0; width: max-content; max-width: min(340px, calc(100vw - 16px));
+  padding: 10px 12px; border-radius: var(--radius-sm); background: var(--surface); color: var(--ink-2);
+  box-shadow: 0 0 0 1px var(--border), 0 10px 30px rgba(0, 0, 0, 0.18);
+  font: 400 0.84rem/1.45 var(--font); text-align: left; text-transform: none; letter-spacing: normal; text-wrap: pretty;
+  pointer-events: none;
+}
+.suggerimento strong { display: block; margin-bottom: 2px; color: var(--ink); font-size: 0.9rem; font-weight: 650; }
+.suggerimento .esteso { color: var(--muted); font-weight: 400; }
+.suggerimento .qui { display: block; margin-top: 6px; color: var(--muted); }
+
+/* glossario: un riquadro con le voci su più colonne, divise per gruppo */
+#gl-conteggio { color: var(--muted); font-size: 0.88rem; }
+.glossario {
+  columns: 3 300px; column-gap: 40px;
+  background: var(--surface); border-radius: var(--radius); box-shadow: var(--shadow); padding: 20px 28px 24px;
+}
+.gl-gruppo h3 {
+  margin: 0 0 4px; break-after: avoid;
+  font-size: 0.74rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted);
+}
+.gl-gruppo + .gl-gruppo h3 { margin-top: 24px; }
+.gl-gruppo dl { margin: 0; }
+.gl-voce { break-inside: avoid; padding: 8px 0; border-bottom: 1px solid var(--grid); }
+.gl-gruppo .gl-voce:last-child { border-bottom: 0; }
+.gl-voce dt { font-weight: 650; }
+.gl-voce dt .esteso { font-weight: 400; color: var(--muted); font-size: 0.86em; }
+.gl-voce dd { margin: 2px 0 0; font-size: 0.88rem; color: var(--ink-2); }
+.gl-fonte { font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+.gl-nota { display: block; margin-top: 4px; font-size: 0.8rem; color: var(--muted); }
+.gl-voce:target { outline: 2px solid var(--accent); outline-offset: 4px; border-radius: 4px; }
+@media (max-width: 640px) { .glossario { padding: 14px 16px 18px; } }
+@media (forced-colors: active) { .suggerimento { border: 1px solid CanvasText; } }
+
+/* marchio "goodbye Elsa !!" (navigazione.js): in alto a sinistra in ogni pagina, riporta all'inizio della dashboard */
+.topnav .marchio {
+  justify-self: start; display: inline-flex; align-items: center; gap: 8px;
+  padding: 2px 10px 2px 0; text-decoration: none; white-space: nowrap; border-radius: 999px;
+}
+.marchio img { width: 36px; height: 36px; flex: none; transition: transform 0.2s; }
+.marchio .scritta { font: 400 1.45rem/1 var(--font-elsa); color: var(--elsa); letter-spacing: 0.01em; }
+/* Elsa agita il bastone */
+.marchio:hover img, .marchio:focus-visible img { transform: rotate(-10deg) scale(1.06); }
+@media (max-width: 640px) {
+  .topnav .wrap { column-gap: 6px; }
+  .topnav .marchio { gap: 6px; padding-right: 0; }
+  .marchio img { width: 30px; height: 30px; }
+  .marchio .scritta { font-size: 1.1rem; }
+}
+@media (prefers-reduced-motion: reduce) { .marchio img { transition: none; } }
+
+/* documenti ufficiali nel dettaglio del fondo (data/documenti.json) */
+.documenti { margin: 6px 0 0; padding-left: 20px; font-size: 0.88rem; columns: 2 320px; column-gap: 32px; }
+.documenti li { margin: 0 0 6px; break-inside: avoid; }
+.doc-meta { color: var(--muted); font-size: 0.82rem; }

@@ -128,6 +128,45 @@ class TestExport(unittest.TestCase):
         for g in self.meta["_extra"]["regole"]:
             self.assertIn(g["fonte_url"], urls)
 
+    def test_glossario(self):
+        voci = self.meta["_extra"]["glossario"]
+        self.assertGreaterEqual(len(voci), 40)
+        self.assertEqual(len({v["id"] for v in voci}), len(voci))
+        for v in voci:
+            self.assertRegex(v["id"], ex.RE_ID_GLOSSARIO)
+            self.assertIn(v["gruppo"], ex.GRUPPI_GLOSSARIO)
+            self.assertTrue(v["termine"] and v["definizione"], v["id"])
+            self.assertLessEqual(len(v["definizione"]), ex.DEFINIZIONE_MAX, v["id"])
+            self.assertTrue(v["fonte_url"].startswith("https://"), v["id"])
+            self.assertRegex(v["consultata_il"], r"^\d{4}-\d{2}-\d{2}$")
+        # voci usate dalla dashboard (data-glossario in app.js e index.html)
+        ids = {v["id"] for v in voci}
+        for voce in ("esg", "life-cycle", "sottoscrizione-online", "azn", "bil", "obb", "gar", "commissione-gestione"):
+            self.assertIn(voce, ids)
+        # i numeri ripresi dal foglio Regole devono restare allineati
+        regole = {g["titolo"]: g for g in self.meta["_extra"]["regole"]}
+        per_id = {v["id"]: v for v in voci}
+        self.assertIn(regole["Capitale"]["valore"], per_id["capitale"]["definizione"])
+        self.assertIn(regole["Deducibilità"]["valore"].split(" l'anno")[0], per_id["deducibilita"]["definizione"])
+
+    def test_glossario_nella_guida(self):
+        """La tabella del glossario in GUIDA.md è generata dal foglio: se non coincide, va rifatto l'export."""
+        testo = ex.GUIDA.read_text(encoding="utf-8")
+        i, j = testo.find(ex.INIZIO_GLOSSARIO), testo.find(ex.FINE_GLOSSARIO)
+        self.assertTrue(0 <= i < j, "mancano i marcatori del glossario in GUIDA.md")
+        self.assertEqual(testo[i:j + len(ex.FINE_GLOSSARIO)], ex.glossario_md(self.meta["_extra"]["glossario"]),
+                         "glossario di GUIDA.md non allineato al foglio Glossario: esegui python scripts/export_xlsx.py")
+
+    def test_fonti_includono_glossario(self):
+        urls = {f["url"] for f in self.meta["fonti"]}
+        per_nome = {}
+        for v in self.meta["_extra"]["glossario"]:
+            per_nome.setdefault(v["fonte_nome"], []).append(v["fonte_url"])
+        for nome, link in per_nome.items():
+            self.assertIn(ex.url_comune(link), urls, nome)
+        self.assertEqual(ex.url_comune(["https://x.it/glossario/e#esg", "https://x.it/glossario/l#life-cycle"]),
+                         "https://x.it/glossario")
+
     def test_slug_e_nome_breve(self):
         self.assertEqual(ex.slugify("Arti & Mestieri"), "arti-e-mestieri")
         self.assertEqual(ex.nome_breve("FONDO PENSIONE APERTO TESEO"), "Teseo")

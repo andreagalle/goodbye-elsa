@@ -95,6 +95,21 @@ H–J **% vivi tra i 67enni (formule** `=B9/B$9`…). Celle L1:M4: fonte, link, 
 Oggi: *Tavole di mortalità della popolazione residente 2025 (stima)*, scaricate da demo.istat.it
 (`datiripartizionecompleti2025.zip`, righe "Italia").
 
+### Foglio `Glossario` — termini spiegati nella dashboard e nella guida (intestazioni alla riga 1, una voce per riga)
+Fonte di verità per i **suggerimenti al passaggio del mouse**, la sezione *Glossario* della dashboard e la tabella del
+capitolo *Glossario* della guida (generata dall'export). Oggi 49 voci, in gran parte dal glossario COVIP.
+| Col | Campo | Note |
+|---|---|---|
+| A | ID | slug univoco (`esg`, `life-cycle`…): è il valore di `data-glossario` nella UI, **non cambiarlo** senza aggiornare `app.js`/`index.html` |
+| B | Gruppo | `Fondi e documenti`, `Investimento`, `Costi e rendimenti`, `Versamenti e uscite anticipate`, `Alla pensione`, `Longevità e decesso` |
+| C | Termine | come compare nella UI (es. "Comparto (linea di investimento)") |
+| D | Per esteso | sigla sciolta o nome ufficiale (es. "Environmental, Social, Governance"), facoltativo |
+| E | Definizione | italiano semplice, al massimo 400 caratteri (l'export avvisa oltre): è il testo del suggerimento |
+| F | Fonte | nome + **hyperlink** (per il glossario COVIP il link punta alla lettera e alla voce, es. `…/glossario/e#esg`) |
+| G | Consultata il | data |
+| H | Note | come il termine è usato nella dashboard, altre fonti, **incoerenze tra fonti** (mai correzioni silenziose) |
+I numeri ripresi dal foglio `Regole` (capitale 50%, deducibilità 5.300 €) devono coincidere: lo controlla `test_export.py`.
+
 **Componente aggiuntivo:** il workbook contiene il collegamento a **Claude per Excel** (`xl/webextensions/*`), che openpyxl
 scarta al salvataggio. Per salvarlo da Python usare sempre `scripts/workbook_utils.py` → `salva(wb, percorso)`, che lo
 reinserisce (test in `tests/test_workbook_utils.py`).
@@ -125,6 +140,14 @@ Python, confrontandoli con i valori in cache (warning se diversi). Gli hyperlink
 - ISTAT, Tavole di mortalità 2025: https://demo.istat.it/app/?i=TVM&l=it
 - Nota tecnica: le pagine HTML di covip.it rispondono 403 ai fetch automatici; si scaricano con un User-Agent da browser
   (curl) e i PDF si estraggono in locale (pypdf).
+
+### 4.1-ter Fonti del glossario (foglio `Glossario`, consultate l'8/10/2026)
+- **COVIP – Glossario** (aggiornato alla Legge di Bilancio 2026): https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario
+  — una pagina per lettera (`…/glossario/e`), ogni voce ha un'ancora (`#esg`). In `meta.json → fonti` compare una sola volta.
+- COVIP – Guida introduttiva (2018), D.Lgs. 252/2005 (artt. 14 c. 3 e 23 c. 7), Istruzioni sulle prestazioni ed Esempio di
+  supplemento (2026): le stesse fonti del foglio `Regole`.
+- Ciao Elsa (fonte secondaria): home page "Ma chi è Ciao Elsa?" https://www.ciaoelsa.com/ e
+  https://www.ciaoelsa.com/sottoscrizione-fondi-pensione-su-ciao-elsa (adesione online con Ciao Elsa come broker).
 
 ### 4.2 Pagine informative dei fondi (Sheet1 col. B) e schede Ciao Elsa (col. P)
 | Riga | Fondo | Pagina informativa | Scheda Ciao Elsa |
@@ -202,7 +225,20 @@ Fideuram si sottoscrive solo tramite Private Banker.
 - La durata della rendita a durata definita a 67 anni (≈ 19 anni) è stimata con la tavola ISTAT 2025: per legge conta la
   tavola usata per i coefficienti di trasformazione INPS in vigore.
 
-**Cache delle formule:** dopo l'aggiunta dei fogli `Regole` e `Longevita` (salvataggio con openpyxl, 8/10/2026) la cache
+**Categorie Ciao Elsa e classificazione COVIP (verificato l'8/10/2026):** per la COVIP (glossario, voce *Multicomparto*)
+un comparto è obbligazionario puro senza azioni, misto con azioni ≤ 30%, azionario con azioni ≥ 50%, bilanciato negli altri
+casi. Le categorie di Ciao Elsa non sempre lo rispettano: 28 comparti su 102 hanno una % di azioni fuori soglia per la loro
+categoria (es. 10 BIL con il 50% di azioni o più, 6 BIL con il 30% o meno, OBB PURO con il 2–4% di azioni, OBB MISTO allo
+0%), e molti comparti con garanzia sono classificati OBB invece di GAR. Il dato resta quello della fonte: le note delle voci
+`bil`, `obb` e `gar` del glossario lo spiegano. Il flag `categoria_incoerente` usa soglie più larghe e segnala solo i casi
+evidenti.
+
+**Glossario: fonti non allineate:** "vecchio iscritto" — il glossario COVIP (voce *Iscritti*) parla di iscrizione alla
+previdenza obbligatoria prima del 29/4/1993 e alla complementare prima dell'entrata in vigore della L. 421/1992; il D.Lgs.
+252/2005 (art. 23 c. 7) e la Guida COVIP (p. 26) di assunti prima del 29/4/1993 iscritti entro quella data a un fondo già
+istituito al 15/11/1992. La voce segue il decreto e segnala la differenza in nota.
+
+**Cache delle formule:** dopo l'aggiunta dei fogli `Regole`, `Longevita` e `Glossario` (salvataggi con openpyxl, 8/10/2026) la cache
 delle formule è vuota: l'export ricalcola e segnala l'avviso finché il file non viene aperto e salvato in Excel.
 
 **Copertura:** 15 fondi su 38 non hanno ancora una scheda né dati di dettaglio (righe 5, 8, 12–15, 25, 27, 33, 34, 36–40).
@@ -224,8 +260,13 @@ delle formule è vuota: l'export ricalcola e segnala l'avviso finché il file no
   - `longevita.json`: `{ fonte, eta_partenza: 67, sintesi: {uomini|donne|totale: {speranza, eta_75_vivi, eta_50_vivi,
     eta_25_vivi, eta_10_vivi}}, durata_definita: {eta_inizio, anni, eta_fine, vivi_a_fine}, serie: {sesso: [{eta, vivi}]} }`
     (le quote si ricalcolano in Python dai sopravviventi).
-  - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi (anche `regole`), flag, elenco
-    delle fonti (quelle del foglio `Regole` e della tavola ISTAT vi si aggiungono **in automatico**, senza duplicati).
+  - `glossario.json`: `[{ id, gruppo, termine, esteso, definizione, fonte_nome, fonte_url, consultata_il, note }]`
+    nell'ordine del foglio. L'export rigenera anche la tabella del glossario in `docs/guida/GUIDA.md`, **solo** tra
+    `<!-- glossario:inizio … -->` e `<!-- glossario:fine -->` (`glossario_md()`; `test_glossario_nella_guida` verifica
+    che sia allineata).
+  - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi (anche `regole` e
+    `glossario`), flag, elenco delle fonti (quelle dei fogli `Regole` e `Glossario` e della tavola ISTAT vi si aggiungono
+    **in automatico**, senza duplicati; le voci del glossario COVIP diventano una sola fonte, con `url_comune()`).
   - Le percentuali sono decimali (0.0145), formattate solo nella UI. Celle vuote → `null`, mai 0.
   - Implementato: in più rispetto alla proposta, `fondi.json` ha `nome_breve` (denominazione senza "Fondo pensione aperto"
     ecc., usata dalla UI e per lo slug) e `flag_anomalia`; entrambi i file hanno `riga` (riga del workbook).
@@ -273,6 +314,16 @@ responsive, accessibile, in italiano.
    Sotto, **Per quanto tempo servirà il capitale?**: 4 numeri chiave e la curva ISTAT dei 67enni ancora in vita (Chart.js,
    uomini/donne, linea tratteggiata alla fine della rendita a durata definita). Nel **dettaglio fondo**, l'elenco
    "Alla pensione e in caso di decesso" da verificare nei documenti del fondo, generato dalle regole con G ≠ `Sì`.
+9-ter. **Glossario e suggerimenti** (sezione `#glossario`, tra *Regole* e *Qualità dei dati*, voce nel menu): le voci di
+   `glossario.json` per gruppo, su più colonne in un unico riquadro, con ricerca (`#gl-cerca`, ignora maiuscole e accenti),
+   link alla fonte e note; ancore `#glossario-<id>`. **Suggerimenti** (sezione "suggerimenti" di `app.js`, un solo
+   `#suggerimento` con `role="tooltip"`): ogni elemento con `data-glossario="<id>"` mostra la voce, `data-spiega="…"` aggiunge
+   (o da solo dà) la spiegazione di quel punto della pagina ("Qui: …"). Mouse: al passaggio (120 ms); tastiera: al focus
+   visibile, con `aria-describedby`, ed **Esc** per chiudere; touch: un tocco sui termini che non sono pulsanti o link. Nel
+   dettaglio fondo il suggerimento viene spostato dentro il `<dialog>` (top layer); lo scroll chiude quello visibile.
+   I termini nel testo sono `<span class="termine">` (sottolineatura a puntini, helper `termine()` in `app.js`); intestazioni
+   di colonna (`glossario`/`spiega` in `COLONNE`), filtri, etichette, legenda del grafico e badge ⚠️ usano gli stessi
+   attributi: **non si usa più l'attributo `title`** per le spiegazioni.
 10. **Stile**: semplice e poco distraente. Font Inter (Google Fonts, fallback di sistema), intestazione con leggera
    sfumatura, **intestazione, navigazione e "aperture" delle sezioni centrate** (titolo `h2` + prima riga `.hint`,
    avviso "progetto personale", sotto-aperture `.apertura` come Copertura e Anomalie in Qualità dei dati, footer);
@@ -330,7 +381,11 @@ responsive, accessibile, in italiano.
 - Il testo sta in `docs/guida/GUIDA.md` (si legge anche su GitHub); `docs/guida/index.html` lo mostra sul sito con
   marked + DOMPurify. Le ancore sono compatibili con GitHub.
 - Screenshot in `docs/guida/img/`, generati da `python scripts/screenshots.py` (fa prima l'export): `dashboard`,
-  `tabella-filtri`, `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`, `regole`, `longevita`, `qualita`, `mobile-scuro`.
+  `tabella-filtri`, `suggerimento` (mouse sul filtro ESG), `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`,
+  `regole`, `longevita`, `glossario`, `qualita`, `mobile-scuro`. I blocchi alti si portano in cima alla finestra prima dello
+  scatto (Chromium non disegna oltre il bordo); il pulsante "Torna su" è nascosto negli scatti delle sezioni.
+- Capitolo **"Glossario"**: introduzione scritta a mano, poi la tabella **generata dall'export** dal foglio `Glossario`
+  (tra i marcatori `glossario:inizio`/`glossario:fine`, da non modificare a mano).
 - **Immagini centrate con didascalia** (richiesta dell'utente): nel Markdown un'immagine sta da sola nel suo paragrafo
   (`![Didascalia](img/x.png)`); `index.html` la trasforma in `<figure>` con il testo alternativo come `<figcaption>`, e
   immagine e didascalia sono centrate, anche quelle più strette della pagina (es. `mobile-scuro`). Il testo
@@ -360,9 +415,11 @@ accompagnata **nello stesso commit/PR** da:
 ## 11. Come gestire le domande dell'utente (procedura permanente)
 1. **Spiegare in chat**, in modo semplice, con esempi presi dai dati del progetto.
 2. **Rendere chiaro anche nella piattaforma** ciò che ha generato il dubbio, nel modo più leggero possibile, in quest'ordine:
-   - testo vicino all'elemento: riga `.hint` sotto il titolo, attributo `title` sulle intestazioni di colonna (vedi
-     `titolo` in `COLONNE` di `app.js`), etichette più parlanti;
-   - voce nel **Glossario** o nella sezione giusta di `docs/guida/GUIDA.md`;
+   - testo vicino all'elemento: riga `.hint` sotto il titolo, **suggerimento** al passaggio del mouse (`data-spiega` sul
+     punto della pagina, oppure `glossario`/`spiega` in `COLONNE` di `app.js` per le intestazioni), etichette più parlanti;
+   - voce nel **Glossario**: una riga nel foglio `Glossario` (con fonte), poi `data-glossario="<id>"` sui punti della UI
+     dove compare il termine; l'export aggiorna dashboard e tabella della guida. Oppure la sezione giusta di
+     `docs/guida/GUIDA.md`;
    - una slide (verticale) nella presentazione, solo se l'argomento è centrale.
    Niente box, icone o colori nuovi senza motivo: la pagina deve restare semplice e poco distraente (§7.10).
 3. **Se servono dati nuovi o da verificare**, cercarli online solo su fonti ammesse (§2: COVIP, siti/documenti ufficiali
@@ -390,6 +447,9 @@ accompagnata **nello stesso commit/PR** da:
 - [x] CI su PR, deploy + tag + release al merge, versionamento automatico (minor/patch)
 - [x] Devcontainer, MCP Playwright, guida con screenshot, presentazione reveal.js 2D, anteprima locale
 - [x] Regole generali con fonti (foglio `Regole`), tavola ISTAT di longevità, sezione *Regole* e capitolo della guida
+- [x] Glossario con fonti (foglio `Glossario`, 49 voci dal glossario COVIP e da altre fonti ufficiali), sezione *Glossario*
+  e suggerimenti al passaggio del mouse su termini, intestazioni, filtri ed etichette
+- [ ] Valutare un flag per le categorie Ciao Elsa fuori dalle soglie COVIP (§5), da decidere con l'utente
 - [ ] **Approfondimento verticale per fondo sulle prestazioni** (prossimo passo richiesto dall'utente): nuovo foglio
   `Prestazioni` (una riga per fondo, A = `=Sheet1!$A$n`) con i campi della colonna H del foglio `Regole`: varianti
   di rendita vitalizia offerte (reversibile, certa 5/10, controassicurata, LTC), compagnia, coefficiente di trasformazione
