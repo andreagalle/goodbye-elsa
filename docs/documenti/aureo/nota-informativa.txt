@@ -1,0 +1,730 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Nota informativa – 01 Informazioni chiave per aderente
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/01%20Informazioni%20chiave%20per%20aderente.PDF
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 0f53855f418e6baa4f0d17a51ecab1f13bcf760537fd34054fc26e77eaa72346
+# Pagine: 16
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1
+Fondo Pensione Aperto Aureo (il “Fondo”)
+BCC Risparmio&Previdenza S.G.R.p.A., 
+(Gruppo Bancario Cooperativo ICCREA)
+Iscritto all’Albo tenuto dalla COVIP con il n. 53 
+Istituito in Italia
+NOTA INFORMATIVA
+(depositata presso la COVIP il  25/05/2026)
+BCC Risparmio&Previdenza S.G.R.p.A. (di seguito, la “SGR”) è responsabile della completezza 
+e veridicità dei dati e delle notizie contenute nella presente Nota informativa
+La Nota informativa è composta da 2 PARTI e da un’Appendice:
+• la PARTE I ‘LE INFORMAZIONI CHIAVE PER L’ADERENTE’, contiene INFORMAZIONI DI BASE,  è sud-
+divisa in 2 SCHEDE (‘Presentazione’; ‘I costi’) e ti viene consegnata al MOMENTO DELL’ADESIONE; 
+    
+• la PARTE II ‘LE INFORMAZIONI INTEGRATIVE’ , contiene INFORMAZIONI DI APPROFONDIMENTO, 
+è composta da 2 SCHEDE (‘Le opzioni di investimento’; ‘Le informazioni sui soggetti coinvolti’) ed è 
+DISPONIBILE SUL SITO WEB ( www.bccrisparmioeprevidenza.it );    
+    
+• l’Appendice ‘Informativa sulla sostenibilità’, ti viene consegnata al MOMENTO DELL’ADESIONE
+ 
+via Carlo Esterle n. 9/11 
+20132 Milano (MI)
++39 02 430281;   
++39 02 43028600
+info@bccrp.bcc.it 
+aureopensione.bccsinergia@actaliscertymail.it
+www.bccrisparmioeprevidenza.it
+=== pagina 2 ===
+2
+PREMESSA
+Quale è l’obiettivo
+Il Fondo è un fondo pensione aperto , finalizzato all’erogazione di una pensione complementare , ai sensi del 
+decreto legislativo 5 dicembre 2005, n. 252 (di seguito il “ Decreto ”).
+Il Fondo è vigilato dalla Commissione di Vigilanza sui Fondi Pensione (COVIP).
+Come funziona
+Il Fondo opera in regime di contribuzione definita: l’importo della tua pensione complementare è determinato 
+dai contributi che versi e dai rendimenti della gestione. Tieni presente che i rendimenti sono soggetti a oscilla -
+zioni e l’andamento passato non è necessariamente indicativo di quello futuro. Valuta i risultati in un’ottica di 
+lungo periodo.
+Come contribuire
+Se aderisci al Fondo sulla base di un accordo collettivo hai diritto ad avere un contributo del tuo datore di 
+lavoro ma solo nel caso in cui versi al fondo pensione almeno il contributo minimo a tuo carico. Se aderisci al 
+Fondo individualmente la misura e la periodicità della contribuzione sono scelte da te e, se sei un lavoratore 
+dipendente, puoi contribuire versando il TFR maturando. In questo caso il versamento avviene per il tramite del 
+tuo datore di lavoro.
+Quali prestazioni puoi ottenere
+• RENDITA e/o CAPITALE (fino a un massimo del 50%) al momento del pensionamento;
+• ANTICIPAZIONI  - (fino al 75%) per malattia, in ogni momento; (fino al 75%) per acquisto/ristrutturazione pri -
+ma casa, dopo 8 anni; (fino al 30%) per altre cause, dopo 8 anni;
+• RISCATTO PARZIALE/TOTALE per perdita requisiti, invalidità, inoccupazione, mobilità, cassa integrazione, de-
+cesso secondo le condizioni previste nel Regolamento;
+• RENDITA INTEGRATIVA TEMPORANEA ANTICIPATA (RITA).
+Trasferimento
+Puoi trasferire la tua posizione ad altra forma pensionistica complementare dopo 2 anni (in ogni momento per 
+perdita dei requisiti di partecipazione, in caso di modifiche peggiorative/sostanziali).
+I benefici fiscali
+Se partecipi a una forma pensionistica complementare benefici di un trattamento fiscale di favore sui contri -
+buti versati, sui rendimenti conseguiti e sulle prestazioni percepite.
+Parte I – Le informazioni chiave per l’aderente
+ 
+SCHEDA ‘PRESENTAZIONE’  (in vigore dal 01/06/2026)
+Consulta la Sezione ‘Dove trovare ulteriori informazioni’ per capire come approfondire tali aspetti.
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 1 di 12
+Fondo Pensione Aperto Aureo (il “Fondo”)
+BCC Risparmio&Previdenza S.G.R.p.A., 
+(Gruppo Bancario Cooperativo ICCREA)
+Iscritto all’Albo tenuto dalla COVIP con il n. 53 
+Istituito in Italia
+via Carlo Esterle n. 9/11 
+20132 Milano (MI)
++39 02 430281;   
++39 02 43028600
+info@bccrp.bcc.it 
+aureopensione.bccsinergia@actaliscertymail.it
+www.bccrisparmioeprevidenza.it
+=== pagina 3 ===
+3
+LE OPZIONI DI INVESTIMENTO
+Puoi scegliere tra i seguenti 5 comparti:
+DENOMINAZIONE TIPOLOGIA SOSTENIBILIT À* ALTRE CARATTERISTICHE
+Aureo Comparto Obbligazionario 
+ESG Obbligazionario Misto SI /
+Aureo Comparto Bilanciato ESG Bilanciato SI /
+Aureo Comparto Azionario ESG Azionario SI /
+Aureo Comparto 
+Garantito ESG Garantito SI
+Comparto destinato 
+esclusivamente a ricevere flussi 
+di TFR per adesioni tacite e 
+comparto di default in caso di 
+RITA
+Aureo Comparto 
+Prudente ESG Obbligazionario puro SI /
+(*) Comparti caratterizzati da una politica di investimento che promuove caratteristiche ambientali o sociali o ha 
+come obiettivo investimenti sostenibili.
+Nel rispetto del periodo minimo di permanenza di ogni comparto (pari almeno ad un anno) e delle limitazioni che 
+interessano l’adesione al comparto Aureo Comparto Garantito ESG  (non liberamente opzionabile da parte degli 
+aderenti in quanto destinato esclusivamente a ricevere i flussi di TFR conferiti tacitamente nonché, in caso di 
+RITA, la porzione della posizione individuale di cui si chiede il frazionamento salvo diversa scelta dell’aderente) 
+puoi chiedere di modificare la scelta del/i comparto/i sul quale allocare le contribuzioni (c.d. s witch), inoltrando 
+apposita richiesta al soggetto gestore, direttamente o per il tramite dei soggetti incaricati della raccolta delle 
+adesioni, che si impegnano a trasmettere la richiesta entro il giorno lavorativo successivo a quello di ricezione. 
+Inoltre, all’atto dell’adesione o con successiva disposizione impartita alla SGR (nel rispetto del periodo minimo 
+di un anno dall’iscrizione o dall’ultima riallocazione) puoi scegliere che la composizione del capitale investito 
+muti gradualmente nel tempo per effetto di riallocazioni automatiche determinate in funzione della durata resi -
+dua della fase di accumulo (c.d. life cycle), al fine di diminuire il rischio finanziario e la volatilità dell’investimento 
+all’avvicinarsi della scadenza della fase di accumulo. Nel modulo di adesione puoi indicare il percorso life cycle 
+da te prescelto.
+Tenendo conto degli anni mancanti alla maturazione dei requisiti di accesso alle prestazioni stabiliti nel regime 
+obbligatorio di appartenenza e del profilo di rischio-rendimento atteso, la SGR ha definito, a titolo esemplificati -
+vo, i seguenti tre percorsi di life cycle a cui puoi fare riferimento: (i) percorso life cycle denominato “ VERDE ”; (ii) 
+percorso life cycle denominato “ BLU”; e (iii) percorso life cycle denominato “ARGENTO ”.
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 2 di 12
+=== pagina 4 ===
+4
+VERDE
+ANNI MANCANTI ALLA PENSIONE: PIÙ DI 30
+NUMERO DI RIALLOCAZIONI AUTOMATICHE:  4
+PROPENSIONE AL RISCHIO: BASSA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% obbligazionario  
+esg
+% prudente esg
+40 40 20 40 0
+31 30 20 40 10
+23 20 20 30 30
+15 10 10 30 50
+7 0 0 10 90
+PROPENSIONE AL RISCHIO: MEDIA
+anni alla pensione % azionario 
+esg 
+% bilanciato 
+esg
+% obbligazionario 
+esg
+% prudente esg
+40 60 20 20 0
+31 45 20 35 0
+23 30 20 40 10
+15 15 20 35 30
+7 0 10 20 70
+PROPENSIONE AL RISCHIO: ALTA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% 
+obbligazionario 
+esg
+% prudente esg
+40 80 20 0 0
+31 60 20 20 0
+23 40 20 40 0
+15 20 20 40 20
+7 0 20 20 60
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 3 di 12
+=== pagina 5 ===
+5
+BLU
+ANNI MANCANTI ALLA PENSIONE: TRA 20 E 30
+NUMERO DI RIALLOCAZIONI AUTOMATICHE:  3-4
+PROPENSIONE AL RISCHIO: BASSA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% obbligazionario 
+esg
+% prudente esg
+30 40 20 40 0
+23 30 20 40 10
+17 20 20 30 30
+11 10 10 30 50
+5 0 0 10 90
+PROPENSIONE AL RISCHIO: MEDIA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% obbligazionario 
+esg
+% prudente esg
+30 60 20 20 0
+23 45 20 35 0
+17 30 20 40 10
+11 15 20 35 30
+5 0 10 20 70
+PROPENSIONE AL RISCHIO: ALTA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% obbligazionario 
+esg
+% prudente esg
+30 80 20 0 0
+23 60 20 20 0
+17 40 20 40 0
+11 20 20 40 20
+5 0 20 20 60
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 4 di 12
+=== pagina 6 ===
+6
+ARGENTO
+ANNI MANCANTI ALLA PENSIONE: TRA 10 E 20
+NUMERO DI RIALLOCAZIONI AUTOMATICHE:  2-3
+PROPENSIONE AL RISCHIO: BASSA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% obbligazionario 
+esg
+% prudente esg
+20 30 20 40 10
+15 20 20 30 30
+10 10 10 30 50
+5 10 10 30 50
+PROPENSIONE AL RISCHIO: MEDIA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% obbligazionario 
+esg
+% prudente esg
+20 45 20 35 0
+15 30 20 40 10
+10 15 20 35 30
+5 0 10 20 70
+PROPENSIONE AL RISCHIO: ALTA
+anni alla pensione % azionario 
+esg
+% bilanciato 
+esg
+% obbligazionario 
+esg
+% prudente esg
+20 60 20 20 0
+15 40 20 40 0
+10 20 20 40 20
+5 0 20 20 60
+È importante notare che non sono possibili riallocazioni automatiche della tua posizione individuale prima del de -
+corso di un periodo minimo di due anni dalla tua adesione al Fondo o, se successiva, dalla data in cui hai attivato 
+il tuo percorso di life cycle.
+Resta ovviamente ferma per te la possibilità di modificare, mediante disposizione impartita per iscritto alla SGR, 
+l’entità e la periodicità delle riallocazioni degli investimenti in ciascun comparto, nel numero massimo di quattro 
+nel corso dell’intera fase di accumulo.
+In fase di adesione ti viene sottoposto un questionario ( Questionario di autovalutazione ) che ti aiuta a scegliere 
+a quale comparto aderire.
+Puoi trovare ulteriori informazioni sulle caratteristiche dei comparti del FONDO nella SCHEDA ‘Le opzioni 
+di investimento’ (Parte II ‘LE INFORMAZIONI INTEGRATIVE’), che puoi acquisire dall’area pubblica del sito 
+web (www.bccrisparmioeprevidenza.it).
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 5 di 12
+=== pagina 7 ===
+7
+I COMPARTI
+Aureo Comparto Obbligazionario ESG
+Categoria del comparto Obbligazionario misto
+Orizzonte temporale 
+di investimento
+Medio  tra 5 e 10 anni dal pensionamento
+Finalità della gestione La gestione risponde alle esigenze di un soggetto con propensione al rischio 
+medio-bassa e privilegia investimenti volti a favorire la stabilità del capitale e 
+dei suoi risultati (rivalutazione del capitale investito rispondendo alle esigenze 
+di un soggetto che ha maturato una anzianità contributiva pari a circa l’80% 
+della vita lavorativa)
+Garanzia Assente
+Data di avvio dell’operatività del comparto: 01/06/1999
+Patrimonio netto al 31/12/2025 (in euro): 208.910.514
+Rendimento netto del 2025: 0,72% 
+Sostenibilità NO, non ne tiene conto
+SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI
+SI, ha OBIETTIVI DI SOSTENIBILITA’
+Rendimento medio annuo composto (valori percentuali)
+NB: La classe di quota C del Comparto è di nuova istituzione, non sono pertanto disponibili informazioni relative a tale classe di 
+quota
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto.
+AVVERTENZA : Dati del Benchmark non disponibili in quanto a partire dal  01/09/2022  la gestione del comparto 
+adotta «strategie non a benchmark». La gestione prevede una misura di rischio (volatilità). 
+Composizione del portafoglio 
+al 31.12.2025
+100,00%
+0,00%
+Titoli di debito Titoli di capitale
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 6 di 12
+All’interno della scheda “Le opzioni di investimento” (“Parte II “LE INFORMAZIONI INTEGRATIVE”) sono con-
+tenute informazioni sulla misura di rischio del comparto.
+1,66%
+-1,48%
+-0,38%
+0,69%
+-2,0 0%
+0, 00%
+2, 00%
+4, 00%
+6, 00%
+8, 00%
+1 0,0 0%
+1 2,0 0%
+1 4,0 0%
+1 6,0 0%
+3 ann i 5 ann i 1 0 a nn i 2 0 a nn i
+Comparto
+=== pagina 8 ===
+8
+Aureo Comparto Bilanciato ESG
+Categoria del comparto Comparto Bilanciato
+Orizzonte temporale Medio/lungo tra 10 e 15 anni dal pensionamento
+Finalità della Gestione La gestione risponde alle esigenze di un soggetto che privilegia la continuità 
+dei risultati nei singoli esercizi, comunque accettando un’esposizione al 
+rischio medio-alta (rivalutazione del capitale investito rispondendo alle 
+esigenze di un soggetto che ha maturato una anzianità contributiva pari a 
+circa il 50% della vita lavorativa)
+Garanzia Assente
+Data di avvio dell’operatività del comparto: 01/06/1999
+Patrimonio netto al 31/12/2025 (in euro): 808.269.359
+Rendimento netto del 2025: 5,95% 
+Sostenibilità NO, non ne tiene conto
+SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI
+SI, ha OBIETTIVI DI SOSTENIBILITA’
+NB: La classe di quota C del Comparto è di nuova istituzione, non sono pertanto disponibili informazioni relative a tale classe di 
+quota
+Il rendimento riflette gli oneri gravanti sul patrimonio del Comparto.
+AVVERTENZA : Dati del Benchmark non disponibili in quanto a partire dal 01/09/2022 la gestione del comparto 
+adotta «strategie non a benchmark». La gestione prevede una misura di rischio (volatilità). 
+7,30%
+3,26% 3,11% 2,94%
+-2,0 0%
+0, 00%
+2, 00%
+4, 00%
+6, 00%
+8, 00%
+1 0,0 0%
+1 2,0 0%
+1 4,0 0%
+1 6,0 0%
+3 ann i 5 ann i 1 0 a nn i 2 0 a nn i
+Comparto
+Rendimento medio annuo composto Composizione del portafoglio
+ al 31.12.2025
+45,74%
+54,26%
+T it ol i di  de bi to Titol i di capita le
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 7 di 12
+All’interno della scheda “Le opzioni di investimento” (“Parte II “LE INFORMAZIONI INTEGRATIVE”) sono con-
+tenute informazioni sulla misura di rischio del comparto.
+=== pagina 9 ===
+9
+Aureo Comparto Azionario ESG
+Categoria del comparto Azionario
+Orizzonte temporale Lungo periodo  oltre 15 anni dal pensionamento
+Finalità della Gestione La gestione risponde alle esigenze di un soggetto che ricerca rendimenti 
+più elevati nel lungo periodo ed è disposto ad accettare una maggiore 
+esposizione al rischio, con una certa discontinuità dei risultati nei singoli 
+esercizi (rivalutazione del capitale investito rispondendo alle esigenze di un 
+soggetto che ha iniziato la contribuzione e ha maturato un’anzianità
+contributiva fino al 50% della vita lavorativa)
+Garanzia Assente
+Data di avvio dell’operatività del comparto: 01/06/1999
+Patrimonio netto al 31/12/2025 (in euro): 449.069.189
+Rendimento netto del 2025: 11,29%
+Sostenibilità NO, non ne tiene conto
+SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI
+SI, ha OBIETTIVI DI SOSTENIBILITA’
+NB: La classe di quota C del Comparto è di nuova istituzione, non sono pertanto disponibili informazioni relative a tale classe di 
+quota
+Il rendimento riflette gli oneri gravanti sul patrimonio del Comparto.
+AVVERTENZA : Dati del Benchmark non disponibili in quanto a partire dal 01/09/2022 la gestione del comparto 
+adotta «strategie non a benchmark». La gestione prevede una misura di rischio (volatilità).
+Rendimento medio annuo composto Composizione del portafoglio 
+al 31/12/2025
+7,23%
+92,77%
+T it ol i di  de bi to Titol i di capita le
+12,64%
+7,82%
+6,17%
+4,41%
+-2,00%
+0, 00%
+2, 00%
+4, 00%
+6, 00%
+8, 00%
+10,00%
+12,00%
+14,00%
+16,00%
+3 anni 5 anni 10 anni 20 anni
+Comparto
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 8 di 12
+All’interno della scheda “Le opzioni di investimento” (“Parte II “LE INFORMAZIONI INTEGRATIVE”) sono con-
+tenute informazioni sulla misura di rischio del comparto.
+=== pagina 10 ===
+10
+Aureo Comparto Prudente ESG
+Categoria del comparto Obbligazionario puro
+Orizzonte temporale medio periodo  tra 5 e10 anni dal pensionamento
+Finalità della Gestione La gestione risponde alle esigenze di un soggetto con propensione al rischio 
+medio-bassa e privilegia investimenti volti a favorire la stabilità del capitale e dei 
+suoi risultati (rivalutazione del capitale investito rispondendo alle esigenze di un 
+soggetto che ha maturato una anzianità contributiva pari a circa l’80% della vita 
+lavorativa).
+Garanzia assente
+Data di avvio dell’operatività del comparto: 01/09/2022
+Patrimonio netto al 31/12/2025 (in euro):  170.501.848
+Rendimento netto del 2025: 1,53% 
+Sostenibilità NO, non ne tiene conto
+SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI
+SI, ha OBIETTIVI DI SOSTENIBILITA’
+Si precisa che il comparto è operativo da meno di 5 anni.
+NB: La classe di quota C del Comparto è di nuova istituzione, non sono pertanto disponibili informazioni relative a tale classe di 
+quota
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto.
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 9 di 12
+All’interno della scheda “Le opzioni di investimento” (“Parte II “LE INFORMAZIONI INTEGRATIVE”) sono con-
+tenute informazioni sulla misura di rischio del comparto.
+Composizione del portafoglio 
+al 31.12.2025
+Titoli di debito Titoli di capitale
+2,73% 2,23% 1,53%.
+-2,00%
+0, 00%
+2, 00%
+4, 00%
+6, 00%
+8, 00%
+10,00%
+12,00%
+14,00%
+16,00%
+2023 2024 2025
+Comparto
+Rendimento medio annuo composto
+=== pagina 11 ===
+11
+Aureo Comparto Garantito ESG(1)
+A decorrere dal 01/09/2022,  il comparto è destinato esclusivamente a ricevere i flussi di TFR maturando conferiti 
+tacitamente nonché ad accogliere, appartenendo al comparto più prudente, la porzione della posizione individuale 
+di cui si chiede l’erogazione sotto forma di RITA, salvo diversa scelta dell’aderente.
+Categoria del comparto Garantito
+Orizzonte temporale Breve fino a 5 anni dal pensionamento
+Finalità della Gestione La gestione è volta a realizzare con elevata probabilità rendimenti che siano 
+almeno pari a quelli del TFR, in un orizzonte temporale pluriennale. La presenza 
+di una garanzia di risultato consente di soddisfare le esigenze di un soggetto 
+con una bassa propensione al rischio o ormai prossimo alla pensione.
+Garanzia
+Presente. L’importo minimo garantito è pari alla somma dei contributi netti versati al 
+comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro comparto o da altra 
+forma pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, 
+ridotto da eventuali riscatti parziali e anticipazioni. Il diritto alla garanzia è riconosciuto nei 
+seguenti casi: pensionamento, (ad esclusione della RITA), decesso, invalidità permanente, 
+inoccupazione superiore a 48 mesi.
+(1) Comparto destinato ad accogliere i flussi di TFR conferiti tacitamente.
+Data di avvio dell’operatività del comparto: 30/04/2007
+Patrimonio netto al 31/12/2025 (in euro):  257.809.267
+Rendimento netto del 2025: 1,50% 
+Sostenibilità NO, non ne tiene conto
+SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI
+SI, ha OBIETTIVI DI SOSTENIBILITA’
+NB: La classe di quota C del Comparto è di nuova istituzione, non sono pertanto disponibili informazioni relative a tale classe di 
+quota
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto.
+AVVERTENZA : Dati del Benchmark non disponibili in quanto a partire dal 01/09/2022 la gestione del comparto 
+adotta «strategie non a benchmark». La gestione prevede una misura di rischio (volatilità).
+All’interno della scheda “Le opzioni di investimento” (“Parte II “LE INFORMAZIONI INTEGRATIVE”) sono con-
+tenute informazioni sulla misura di rischio del comparto.
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 10 di 12
+Rendimento medio annuo composto Composizione del portafoglio 
+al 31/12/2025
+Titoli di debito Titoli di capitale
+2,18%
+1,01% 0,25% N.D.
+1,82%
+3,44% 2,50% 2,42%
+-2,00%
+0, 00%
+2, 00%
+4, 00%
+6, 00%
+8, 00%
+10,00%
+12,00%
+14,00%
+16,00%
+3 anni 5 anni 10 anni 20 anni
+Comparto TFR
+=== pagina 12 ===
+12
+Aureo Comparto 
+Obbligazionario ESG
+Aureo Comparto 
+Bilanciato ESG
+Aureo Comparto 
+Azionario ESG
+Aureo Comparto 
+Prudente ESG
+Aureo Comparto 
+Garantito ESG
+Vers.
+iniziale 
+annuo
+Età 
+all’iscr.
+Anni di 
+versam.
+Posizione
+finale
+Rendita
+annua
+Posizione
+finale
+Rendita
+annua
+Posizione
+finale
+Rendita
+annua
+Posizione
+finale
+Rendita
+annua
+Posizione
+finale
+Rendita
+annua
+€ 2.500
+30 37 € 121.012 € 4.708 € 134.046 € 5.215 € 144.359 € 5.616 € 128.422 € 4.996 € 128.422 € 4.996
+40 27 € 81.939 € 3.269 € 88.382 € 3.526 € 93.325 € 3.724 € 85.631 € 3.417 € 85.631 € 3.417
+€ 5.000
+30 37 € 242.378 € 9.430 € 268.492 € 10.446 € 289.154 € 11.250 € 257.225 € 10.008 € 257.225 € 10.008
+40 27 € 164.153 € 6.550 € 177.064 € 7.065 € 186.969 € 7.460 € 171.550 € 6.845 € 171.550 € 6.845
+QUANTO POTRESTI RICEVERE QUANDO ANDRAI IN PENSIONE (2)
+(2) Gli importi sono al lordo della fiscalità e sono espressi in termini reali. Il valore della rata di rendita fa riferimento a una rendita 
+vitalizia immediata a un’età di pensionamento pari a 67 anni.
+AVVERTENZA : Gli importi sopra riportati sono proiezioni fondate su ipotesi di calcolo definite dalla COVIP e 
+potrebbero risultare differenti da quelli effettivamente maturati al momento del pensionamento. Le indicazioni 
+fornite non impegnano pertanto in alcun modo né la SGR né la COVIP. Tieni inoltre in considerazione che la 
+posizione individuale è soggetta a variazioni in conseguenza della variabilità dei rendimenti effettivamente 
+conseguiti dalla gestione e che le prestazioni pensionistiche sono soggette a tassazione.
+Trovi informazioni sulla metodologia e le ipotesi utilizzate al seguente indirizzo 
+(www.bccrisparmioeprevidenza.it). Sul sito web del Fondo puoi inoltre realizzare simulazioni personalizzate 
+della tua pensione complementare futura.
+COSA FARE PER ADERIRE 
+Per aderire è necessario compilare in ogni sua parte e sottoscrivere il Modulo di adesione .
+L’adesione decorre dalla data di ricezione del Modulo di adesione da parte del Fondo. Entro 7 giorni dalla ricezione 
+del Modulo, la SGR ti invierà una lettera di conferma dell’avvenuta iscrizione, nella quale potrai verificare, tra 
+l’altro, la data di decorrenza della partecipazione.
+Il modulo verrà inoltrato alla SGR a cura del soggetto incaricato della raccolta delle adesioni entro il giorno 
+lavorativo successivo a quello di ricezione unitamente al mezzo di pagamento. 
+Nel caso di adesioni collettive, la relativa documentazione potrà essere inoltrata con un unico invio. L’importo 
+di ogni versamento, diviso per il valore unitario della quota relativo al giorno di riferimento, determina il numero 
+di quote e le eventuali frazioni che ti saranno attribuite. Il giorno di riferimento è il giorno di valorizzazione 
+immediatamente successivo a quello in cui la SGR ha ricevuto notizia certa della sottoscrizione (per il primo 
+versamento) e sono decorsi i termini di valuta riconosciuti ai mezzi di pagamento. In ogni caso, la SGR si impegna 
+a considerare i versamenti come disponibili per la valorizzazione entro 4 giorni lavorativi dalla data in cui il 
+soggetto persona fisica incaricata del collocamento ha acquisito i relativi mezzi di pagamento.
+La sottoscrizione del Modulo di adesione non è richiesta ai lavoratori che conferiscano tacitamente il loro TFR: 
+la SGR procede automaticamente all’iscrizione al Fondo sulla base delle indicazioni ricevute dal datore di lavoro. 
+In questo caso la lettera di conferma dell’avvenuta iscrizione riporterà anche le informazioni necessarie per 
+consentire all’aderente l’esercizio delle scelte di sua competenza.
+L’adesione al Fondo può avvenire, inoltre, a seguito di trasferimento da altra forma pensionistica. In questo 
+caso, dovrai fornire alla SGR gli elementi utili per effettuare il trasferimento, che si realizzerà definitivamente 
+al momento dell’effettiva acquisizione della posizione individuale di provenienza con l’attribuzione delle quote 
+secondo quanto esposto in precedenza.
+Il collocamento del Fondo Pensione può essere effettuato anche fuori dalla sede legale o dalle dipendenze dei 
+soggetti incaricati del collocamento (ad esempio le banche).
+Ai sensi dell’Art. 30, comma 6, del T.U.F. approvato con D. Lgs. 24 febbraio 1998, n. 58, l’efficacia dei contratti 
+di collocamento conclusi fuori sede è sospesa per la durata di sette giorni decorrenti dalla data della tua prima 
+sottoscrizione. Tale data coincide con la data di conclusione del contratto. Entro detto termine puoi comunicare 
+al soggetto incaricato del collocamento o al consulente finanziario abilitato all’offerta fuori sede il tuo recesso 
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 11 di 12
+=== pagina 13 ===
+13
+senza spese né corrispettivo. Il Regolamento dei corrispettivi avverrà pertanto decorsi almeno 7 (sette) giorni 
+dalla data della prima sottoscrizione, indipendentemente dal giorno di valuta riconosciuto al Depositario.
+La norma non si applica ai contratti di collocamento conclusi presso la sede legale o le dipendenze dei soggetti  
+incaricati del collocamento.
+I RAPPORTI CON GLI ADERENTI 
+La SGR ti trasmette, entro il 31 marzo di ogni anno, una comunicazione (Prospetto delle prestazioni pensionistiche 
+– fase di accumulo ) contenente un aggiornamento sull’ammontare delle risorse che hai accumulato (posizione 
+individuale) e una proiezione della pensione complementare che potresti ricevere al pensionamento.
+Se hai attivato l’opzione life cycle, la SGR provvede, inoltre, ad inviarti, almeno 30 giorni prima del perfezionamento 
+di ogni riallocazione automatica, una comunicazione contenente informazioni sulla composizione della tua 
+posizione individuale e sulle modifiche che interverranno per effetto della riallocazione automatica.
+La SGR mette inoltre a tua disposizione, nell’ area riservata del sito web (accessibile solo da te), informazioni 
+di dettaglio relative ai versamenti effettuati e alla posizione individuale tempo per tempo maturata, nonché 
+strumenti utili ad aiutarti nelle scelte.
+In caso di necessità, puoi contattare la SGR telefonicamente, via e-mail  (anche PEC) o posta ordinaria.
+Eventuali reclami relativi alla partecipazione al Fondo devono essere presentati in forma scritta. Trovi i contatti 
+nell’intestazione di questa Scheda.
+Se non hai ricevuto risposta entro 45 giorni o ritieni che la risposta sia insoddisfacente puoi inviare un 
+esposto alla COVIP. Consulta la Guida pratica alla trasmissione degli esposti alla COVIP (www.covip.it).
+DOVE TROVARE ULTERIORI INFORMAZIONI
+Se ti interessa acquisire ulteriori informazioni puoi consultare i seguenti documenti:
+• la Parte II ‘Le informazioni integrative’ , della Nota informativa;
+• il Regolamento, che contiene le regole di partecipazione al Fondo (ivi comprese le prestazioni che puoi 
+ottenere) e disciplina il funzionamento del fondo;
+• il Documento sul regime fiscale, il Documento sulle anticipazioni e il Documento sulle rendite, che contengono 
+informazioni di dettaglio sulle relative tematiche;
+• il Documento sulla politica di investimento , che illustra la strategia di gestione delle risorse del Fondo.
+• altri documenti  la cui redazione è prevista dalla regolamentazione (ad esempio, il Bilancio, ecc.).
+Tutti questi documenti possono essere acquisiti dall’ area pubblica del sito web 
+(www.bccrisparmioeprevidenza.it). È inoltre disponibile, sul sito web della COVIP (www.covip.it), la Guida 
+introduttiva alla previdenza complementare .
+Nota informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ pag. 12 di 12
+=== pagina 14 ===
+14
+Fondo Pensione Aperto Aureo (il “Fondo”)
+BCC Risparmio&Previdenza S.G.R.p.A., 
+(Gruppo Bancario Cooperativo ICCREA)
+Iscritto all’Albo tenuto dalla COVIP con il n. 53 
+Istituito in Italia
+NOTA INFORMATIVA
+(depositata presso la COVIP il 25/05/2026)
+BCC Risparmio&Previdenza S.G.R.p.A. (di seguito, la “SGR”) è responsabile della completezza 
+e veridicità dei dati e delle notizie contenute nella presente Nota informativa
+Parte I – Le informazioni chiave per l’aderente
+SCHEDA ‘I COSTI’  (in vigore dal 01/06/2026)
+La presenza di costi comporta una diminuzione della posizione individuale e quindi della prestazione pensionistica. 
+Pertanto, prima di aderire al Fondo, è importante confrontare i costi del fondo con quelli previsti dalle altre forme pen-
+sionistiche. Analoghe considerazioni valgono in caso di trasferimento ad altra forma pensionistica complementare.
+I costi nella fase di accumulo (1)
+Tipologia di costo Importo e caratteristiche
+Spese di adesione € 2, da versare in unica soluzione all’atto dell’adesione
+Spese da sostenere durante la fase di accumulo: 
+- Direttamente a carico dell’aderente
+€ 12, applicate in corrispondenza con la prima
+          valorizzazione dell’anno solare (2)(3)
+- Indirettamente a carico dell’aderente (4) (prelevate mensilmente dal patrimonio di ciascun comparto):
+      - Aureo Comparto Obbligazionario ESG 0,90% del patrimonio su base annua
+      - Aureo Comparto Bilanciato ESG 1,20% del patrimonio su base annua
+      - Aureo Comparto Azionario ESG 1,50% del patrimonio su base annua
+      - Aureo Comparto Prudente ESG 0,50% del patrimonio su base annua
+      - Aureo Comparto Garantito ESG 0,50% del patrimonio su base annua
+Spese per l’esercizio di prerogative individuali 
+(prelevate dalla posizione individuale al momento dell’operazione):
+Anticipazione Non previsto
+Trasferimento € 20 prelevato dalla posizione individuale  
+al momento del trasferimento
+Riscatto Non previsto
+Riallocazione della posizione individuale € 2 euro prelevato dalla posizione individuale  
+al momento della riallocazione
+Riallocazione del flusso contributivo Non previsto
+Rendita integrativa temporanea anticipata (RITA) Non previsto
+(1)  In caso di adesioni su base collettiva e di convenzionamenti con associazioni di lavoratori autonomi o liberi professionisti, gli importi indicati devono intendersi come 
+importi massimi applicabili. Le condizioni economiche praticate nei confronti delle collettività interessate sono riportate nella Scheda “I costi - Adesioni collettive" 
+allegata alla Nota Informativa e disponibile sul sito web del Fondo; le agevolazioni praticate si estendono anche ai familiari fiscalmente a carico degli aderenti.
+(2)  Per i soggetti aderenti che, al momento dell’adesione, non abbiano raggiunto la maggiore età, non viene applicata alcuna commissione annuale. Per gli anni 
+successivi all’adesione, l’agevolazione vale fino all’anno solare in cui si compie il 18° anno di età, dopodiché sarà applicata la commissione annuale sopra indicata. 
+(3) Tale commissione troverà applicazione anche ai soggetti che abbiano convertito l’intera posizione in RITA e che non effettuano versamenti contributivi in 
+corso d’anno.
+(4) Oltre alle commissioni indicate, sul patrimonio dei comparti possono gravare le seguenti altre spese: spese legali e giudiziarie, imposte e tasse, oneri di 
+negoziazione, contributo di vigilanza, compenso del Responsabile del fondo, per la parte di competenza del comparto.
+Nota Informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘I costi’ pag. 1 di 3
+via Carlo Esterle n. 9/11 
+20132 Milano (MI)
++39 02 430281;   
++39 02 43028600
+info@bccrp.bcc.it 
+aureopensione.bccsinergia@actaliscertymail.it
+www.bccrisparmioeprevidenza.it
+=== pagina 15 ===
+15
+L ’INDICATORE SINTETICO DEI COSTI (ISC)
+Al fine di fornire un’indicazione sintetica dell’onerosità dei comparti del Fondo, è riportato per ciascun comparto 
+di investimento l’ISC (Indicatore sintetico dei costi), che esprime il costo annuo, in percentuale della posizione 
+individuale maturata, stimato facendo riferimento a un aderente-tipo che versa un contributo annuo di 2.500 euro 
+e ipotizzando un tasso di rendimento annuo del 4% e diversi periodi di partecipazione nella forma pensionistica 
+complementare (2, 5, 10 e 35 anni).
+Per le adesioni su base collettiva e nel caso di convenzionamenti con associazioni di lavoratori autonomi e liberi 
+professionisti, la misura dell’indicatore è riportata nell'apposita Scheda “I costi - Adesioni collettive."
+L ’ISC viene calcolato da tutti i fondi pensione utilizzando la stessa metodologia stabilita dalla COVIP . 
+Per saperne di più, consulta il riquadro ‘L’indicatore sintetico dei costi’ della Guida introduttiva alla previdenza 
+complementare , disponibile sul sito web della COVIP (www.covip.it)
+AVVERTENZA : É importante prestare attenzione all’ISC che caratterizza ciascun comparto. Un ISC del 
+2% invece che dell’1% può ridurre il capitale accumulato dopo 35 anni di partecipazione di circa il 18% (ad 
+esempio, lo riduce da 100.000 euro a 82.000 euro).
+Comparti
+Anni di permanenza
+2 anni 5 anni 10 anni 35 anni
+Aureo Comparto Obbligazionario ESG 1,55% 1,15% 1,04% 0,96%
+Aureo Comparto Bilanciato ESG 1,87% 1,47% 1,35% 1,27%
+Aureo Comparto Azionario ESG 2,18% 1,78% 1,66% 1,58%
+Aureo Comparto Prudente ESG 1,14% 0,74% 0,62% 0,54%
+Aureo Comparto Garantito ESG 1,14% 0,74% 0,62% 0,54%
+AVVERTENZA : Per condizioni differenti rispetto a quelle considerate, ovvero nei casi in cui non si 
+verifichino le ipotesi previste, tale Indicatore ha una valenza meramente orientativa.
+Per consentirti di comprendere l’onerosità dei comparti, nel grafico seguente l’ISC di ciascun comparto del Fondo è 
+confrontato con l’ISC medio dei comparti della medesima categoria offerti dalle altre forme pensionistiche comple-
+mentari presenti sul mercato. I valori degli ISC medi di settore sono rilevati dalla COVIP con riferimento alla fine di 
+ciascun anno solare.
+L ’onerosità del Fondo è evidenziata con un punto; i trattini indicano i valori medi, rispettivamente, dei fondi pensione 
+negoziali (FPN), dei fondi pensione aperti (FPA) e dei piani individuali pensionistici di tipo assicurativo (PIP). Il grafico 
+indica l’ISC minimo e massimo dei comparti dei FPN, dei FPA e dei PIP complessivamente considerati e appartenenti 
+alla stessa categoria di investimento.
+Il confronto prende a riferimento i valori dell’ISC riferiti a un periodo di permanenza nella forma pensionistica di 10 anni.
+Nota Informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘I costi’ pag. 2 di 3
+=== pagina 16 ===
+16
+La COVIP mette a disposizione sul proprio sito il Comparatore dei costi delle forme pensionistiche comple-
+mentari per valutarne l’onerosità (www.covip.it).
+I COSTI NELLA FASE DI EROGAZIONE
+Al momento dell’accesso al pensionamento ti verrà pagata una rata di rendita calcolata sulla base di un coefficiente 
+di conversione che incorpora un caricamento per spese di pagamento rendita; tale caricamento si differenzia in base 
+alla periodicità da te scelta, come di seguito indicato:
+- 1,25% della rendita annua (periodicità annuale);
+- 1,25% della rendita annua (periodicità semestrale);
+- 1,25% della rendita annua (periodicità mensile).
+A ogni ricorrenza annuale la rata di rendita viene rivalutata.
+La misura annua di rivalutazione attribuita si basa su una regola che prevede l’applicazione di un costo, in termini di 
+rendimento trattenuto, pari all’1,00%.
+Per saperne di più, consulta il Documento sulle rendite, disponibile sul sito web del fondo 
+(www.bccrisparmioeprevidenza.it).
+Nota Informativa – Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘I costi’ pag. 3 di 3

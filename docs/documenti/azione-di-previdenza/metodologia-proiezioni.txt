@@ -1,0 +1,81 @@
+# Fondo: AZIONE DI PREVIDENZA - FONDO PENSIONE APERTO (azione-di-previdenza)
+# Documento: Metodologia delle proiezioni – Metodologia utilizzata per l'elaborazione delle proiezioni pensionistiche
+# Fonte: https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/altri-documenti/Azione_di_Previdenza_Metodologia_utilizzata_per_elaborazione_delle_proiezioni_pensionistiche_07-2026_def.pdf
+# Citato in: https://www.hdiassicurazioni.it/it/privati/previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: fb2ff8d83c5f13718ae49665372e8e975850e2c076965ec3cb2b93973552bdbf
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+ 
+Azione di Previdenza - Fondo Pensione Aperto 
+Informazioni sulla metodologia utilizzata per l’elaborazione delle  
+proiezioni pensionistiche 
+ 
+ 
+Il presente documento illustra la metodologia di calcolo e le ipotesi utilizzate per l’elaborazione delle 
+proiezioni pensionistiche standardizzate, contenute nel paragrafo “Quanto potresti ricevere quando 
+andrai in pensione della Parte I della Nota informativa, scheda “Presentazione” e delle proiezioni 
+pensionistiche personalizzate, contenute nel “Prospetto delle prestazioni pensionistiche – fase di 
+accumulo. 
+ 
+Il valore della posizione individuale prospettica e quello della prima rata di rendita attesa sono 
+rappresentati in termini reali e, pertanto, già al netto degli effetti dell’inflazione. 
+La stima dell'evoluzione della posizione individuale tiene conto soltanto della tassazione sui risultati 
+conseguiti. 
+ 
+Per la costruzione delle proiezioni pensionistiche standardizzate si considerano le informazioni 
+relative a figure-tipo, le informazioni proprie della forma pensionistica complementare e le ipotesi 
+definite dalla COVIP valevoli per tutte le forme pensionistiche complementari. 
+ 
+Per le figure-tipo la COVIP prevede di considerare le seguenti caratteristiche: 
+ 
+- Età anagrafica al momento dell’adesione: 30 e 40 anni; 
+- Contributo annuo: 2.500 e 5.000 euro; 
+- Età di pensionamento: 67 anni. 
+ 
+L’elaborazione è compiuta per ciascun comparto (o fondo interno/OICR/gestione interna separata). 
+ 
+Le variabili utilizzate nei calcoli, oltre a quelle precedenti, sono le seguenti: 
+ 
+- Tasso atteso di crescita della contribuzione pari a un tasso reale dell’1%, qualora la contribuzione 
+sia espressa in cifra fissa; qualora la contribuzione sia espressa in percentuale della retribuzione, 
+si assume un tasso annuo atteso di crescita della retribuzione pari all’1% in termini reali. La 
+contribuzione è rivalutata annualmente; 
+- Tasso annuo atteso di inflazione pari al 2%; 
+- I costi relativi alla fase di accumulo utilizzati nel calcolo sono quelli effettivamente praticati dal 
+Fondo Pensione Aperto “Azione di Previdenza” al momento della redazione di questo documento 
+e sono indicati nella scheda “I costi” della Parte I della Nota informativa. Vengono di seguito riportati 
+per comodità dell’Aderente. 
+✓ Direttamente a carico dell’Aderente: 
+spese di adesione: € 20 
+spesa annua in cifra fissa: € 20 
+✓ Indirettamente a carico dell’Aderente (commissioni in percentuale sul patrimonio e su base 
+annua): 
+Comparto              Linea Garantita  Linea Prudente  Linea Equilibrata  Linea Dinamica 
+ % sul patrimonio       1,20%                1,00%                  1,40%                   1,80%  
+- Tasso atteso di rendimento della gestione calcolato sulla base della composizione azionaria 
+obbligazionaria del comparto. Alla componente azionaria è attribuito un rendimento del 4,00% 
+annuo e a quella obbligazionaria del 2,00% annuo. Il tasso è espresso al lordo dei costi e della 
+tassazione; 
+- Ipotesi tecniche per il calcolo della prima rata di rendita effettato sulla base dei coefficienti di 
+conversione forniti da COVIP relative alle seguenti ipotesi: 
+➢ Basi demografiche per il calcolo della rendita: A62D (impegni differiti) 
+➢ Tasso tecnico per il calcolo della rendita: 0,00% 
+➢ Costo relativo alla trasformazione della posizione individuale in rendita: 1,25%
+=== pagina 2 ===
+Per quanto riguarda invece la costruzione delle proiezioni pensionistiche personalizzate, oltre alle 
+predette informazioni proprie del fondo pensione scelto e alle ipotesi definite dalla COVIP valevoli per 
+tutte le forme pensionistiche complementari, si considerano le effettive informazioni relative al singolo 
+aderente, quali: la sua età anagrafica, la misura della contribuzione effettivamente versata, il profilo di 
+investimento scelto e l’età prevista per il pensionamento.  
+ 
+Infine in riferimento al motore di calcolo, quest’ultimo consente di effettuare simulazioni di proiezioni 
+pensionistiche personalizzate in cui, ferme le informazioni proprie del fondo pensione scelto e le ipotesi 
+definite dalla COVIP valevoli per tutte le forma pensionistiche complementari, l’aderente può inserire i 
+dati anagrafici (età e sesso), la misura della contribuzione, la linea d’investimento e l’età prevista per il 
+pensionamento tra quelli disponibili e può modificare il tasso annuo atteso di crescita della contribuzione 
+inserendo una misura non superiore al 3,00% reale costante.

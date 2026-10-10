@@ -1,0 +1,1904 @@
+# Fondo: FONDO PENSIONE APERTO PENSPLAN PROFI (pensplan-profi)
+# Documento: Regolamento – Regolamento
+# Fonte: https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/Regolamento.pdf
+# Citato in: https://www.fondopensioneprofi.com/documenti
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: af4a89034d4eec864784b95870ca3525de9f4d9c0d0d417513f03ae4490cf973
+# Pagine: 45
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+FONDO PENSIONE APERTO 
+ 
+ 
+Fondo pensione istituito in forma di patrimonio separato da 
+EUREGIO PLUS SGR S.P.A. 
+ 
+ 
+ 
+(Art. 12 del Decreto Lgs. 5 dicembre 2005, n. 252)  
+ 
+ 
+ 
+REGOLAMENTO 
+(depositato presso la COVIP in data 31/07/2026) 
+ 
+ 
+ 
+ 
+ 
+ 
+Il presente Regolamento è redatto 
+da EUREGIO PLUS  SGR S. P.A. in 
+conformità allo schema di 
+regolamento predisposto dalla 
+COVIP.
+=== pagina 2 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 1 di 26 
+ 
+Regolamento del “Fondo Pensione Aperto PensPlan 
+Profi” 
+(depositato presso la COVIP in data 31 luglio 2026) 
+ 
+PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO ............................................................................. 3 
+Art. 1 - Denominazione................................................................................................................................................................ 3 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti ........................................................ 3 
+Art. 3 - Scopo ..................................................................................................................................................................................... 3 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO .................................... 4 
+Art. 4 - Regime del Fondo ..................................................................................................................................................... 4 
+Art. 5 - Destinatari e tipologie di adesione ................................................................................................................. 4 
+Art. 6 - Scelte di investimento .............................................................................................................................................. 4 
+Art. 7 - Gestione degli investimenti .................................................................................................................................. 5 
+“Ethical Life High Growth” ................................................................................................................................................. 5 
+“Ethical Life Growth” .............................................................................................................................................................. 6 
+“Ethical Life Balanced Growth” ..................................................................................................................................... 8 
+“Ethical Life Conservative” ............................................................................................................................................... 9 
+“Ethical Life Short Term” ................................................................................................................................................... 10 
+Art. 8 - Spese ..................................................................................................................................................................................... 11 
+PARTE III - CONTRIBUZIONE E PRESTAZIONI .................................................................................... 14 
+Art. 9 - Contribuzione ................................................................................................................................................................ 14 
+Art. 10 - Determinazione della posizione individuale ........................................................................................ 14 
+Art. 11 - Prestazioni pensionistiche e RITA ................................................................................................................... 15 
+Art. 12 - Erogazione delle prestazioni pensionistiche ........................................................................................ 16 
+Art. 13 - Trasferimento e riscatto della posizione individuale ..................................................................... 18 
+Art. 14 - Anticipazioni ................................................................................................................................................................. 19 
+PARTE IV - PROFILI ORGANIZZATIVI ................................................................................................... 21 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile ............................................................. 21 
+Art. 16 - Sistema di governo ................................................................................................................................................. 21 
+Art. 17 - Depositario ..................................................................................................................................................................... 21 
+Art. 18 - Responsabile ............................................................................................................................................................... 22 
+Art. 19 - Organismo di rappresentanza ...................................................................................................................... 22
+=== pagina 3 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 2 di 26 
+ 
+Art. 20 - Conflitti di interesse .............................................................................................................................................. 22 
+Art. 21 - Scritture contabili ..................................................................................................................................................... 23 
+PARTE V - RAPPORTI CON GLI ADERENTI .......................................................................................... 24 
+Art. 22 - Modalità di adesione e clausole risolutive espresse ................................................................... 24 
+Art. 23 - Trasparenza nei confronti degli aderenti ............................................................................................. 25 
+Art. 24 - Comunicazioni e reclami ................................................................................................................................. 25 
+PARTE VI - NORME FINALI ................................................................................................................... 26 
+Art. 25 - Modifiche al Regolamento .............................................................................................................................. 26 
+Art. 26 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di 
+modifiche delle caratteristiche del Fondo ............................................................................................................... 26 
+Art. 27 - Cessione del Fondo ............................................................................................................................................... 26 
+Art. 28 - Operazioni di fusione ........................................................................................................................................... 26 
+Art. 29 - Rinvio ................................................................................................................................................................................ 26 
+ALLEGATO N. 1 DISPOSIZIONI IN MATERIA DI RESPONSABILE  ................................................................... 27 
+ALLEGATO N. 2 CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE  ................................................ 1
+=== pagina 4 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 3 di 26 
+ 
+PARTE I -  IDENTIFICAZIONE E SCOPO DEL FONDO 
+Art. 1 -  Denominazione 
+1. Il “Fondo Pensione Aperto PensPlan Profi” (di seguito “Fondo”) è un fondo pensione aperto 
+istituito ai sensi dell’art. 12 del decreto legislativo 5 dicembre 2005, n. 252 e successive 
+modificazioni e integrazioni (di seguito “Decreto”). 
+Art. 2 -  Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito da PensPlan Invest SGR S.p.A., oggi denominata EUREGIO PLUS SGR 
+S.P.A. (di seguito “ SGR”), giusta autorizzazione rilasciata dalla COVIP, d’intesa con la 
+Banca d’Italia, con provvedimento del 17 maggio 2004; con il medesimo provvedimento 
+la COVIP ha approvato il Regolamento del Fondo. 
+2. La “EUREGIO PLUS SGR S.P.A.” , precedentemente denominata PensPlan Invest SGR S.p.A. , 
+esercita l’attività di gestione del Fondo con effetto dal 25 settembre 2019. 
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 147. 
+4. L’attività relativa al Fondo è svolta in Bolzano presso la sede della SGR. 
+5. L’indirizzo di posta elettronica certificata (PEC) della SGR è euregioplus@pec.it. 
+Art. 3 -  Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di 
+prestazioni pensionistiche complementari del sistema obbligatorio. Tale scopo è 
+perseguito mediante la raccolta dei contributi, la gestione delle risorse nell’escl usivo 
+interesse degli aderenti e l’erogazione delle prestazioni secondo quanto disposto dalla 
+normativa tempo per tempo vigente.
+=== pagina 5 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 4 di 26 
+ 
+PARTE II -  CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art. 4 -  Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del 
+Fondo è determinata in funzione della contribuzione effettuata e in base al principio della 
+capitalizzazione. 
+Art. 5 -  Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita. 
+2. È altresì consentita  l’adesione su base collettiva ai soggetti destinatari delle forme 
+pensionistiche complementari individuati all’art. 2, comma 1, del Decreto, nei cui 
+confronti trovino applicazione i contratti, gli accordi o i regolamenti aziendali che 
+dispongono l’adesione al Fondo. Ai sensi dell’art. 8, comma 7-bis, del Decreto l’adesione 
+al Fondo su base collettiva può avvenire anche in modalità automatica mediante il 
+conferimento del TFR maturando, della contribuzione a carico del datore di lavoro e del 
+lavoratore. 
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al 
+compimento dell’età pensionabile prevista dal regime obbligatorio di appartenenza.  
+Art. 6 -  Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio -rendimento, 
+in modo tale da assicurare agli aderenti una adeguata possibilità di scelta:  
+⚫ “Ethical Life High Growth” 
+⚫ “Ethical Life Growth” 
+⚫ “Ethical Life Balanced Growth” 
+⚫ “Ethical Life Conservative” 
+⚫ “Ethical Life Short Term” 
+Il Fondo mette gratuitamente a disposizione degli aderenti un sistema di avvisi 
+automatici che suggeriscono una riallocazione dell’investimento previdenziale basato 
+su un principio “life cycle”: 
+Denominazione dei comparti Classi di età 
+Ethical Life High Growth 0 – 39 anni 
+Ethical Life Growth 40 – 49 anni 
+Ethical Life Balanced Growth 50 – 57 anni 
+Ethical Life Conservative 58 – 63 anni 
+Ethical Life Short Term Oltre 64 anni 
+Modalità operative, condizioni applicabili e ulteriori dettagli sono riportati nella Nota 
+informativa. 
+Per quanto riguarda le adesioni su base collettiva in modalità automatica ai sensi 
+dell’art. 8, comma 7-bis, la riallocazione avviene senza il diretto intervento dell'aderente; 
+il TFR maturando e i contributi del datore di lavoro e del lavoratore pervenuti a seguito di
+=== pagina 6 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 5 di 26 
+ 
+adesioni automatiche verrà destinato al comparto associato all’età dell’aderente.  
+2. L’aderente, all’atto della formalizzazione della volontà di aderire nel rispetto delle  
+modalità di cui all'art. 22 del presente Regolamento , sceglie il comparto in cui far 
+confluire i versamenti contributivi. L’aderente può successivamente variare tale scelta 
+nel rispetto del periodo minimo di un anno di permanenza nel comparto. Tale limite non 
+opera con riguardo alla prima riallocazione successiva all’adesione tacita o automatica. 
+3. È prevista l’adesione ai seguenti profili life cycle, basati sulla tabella riportata nel comma 
+1 del presente articolo: 
+⚫ “Percorso assistito”, con invio di avvisi di riallocazione e facoltà dell’aderente di 
+richiedere o meno la variazione del comparto; 
+⚫ “Percorso automatizzato”, destinato alle sole adesioni automatiche, che prevede 
+la riallocazione della posizione individuale nel comparto associato alla classe di 
+età di appartenenza, senza il diretto intervento dell'aderente. 
+Art. 7 -  Gestione degli investimenti 
+1. La SGR effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle 
+condizioni stabiliti dalla normativa  tempo per tempo  vigente e dal presente 
+Regolamento, assumendo a riferimento l’esclusivo interesse degli aderenti.  
+2. Ferma restando la responsabilità della SGR, essa può affidare a soggetti di cui all’art. 6, 
+comma 1, lettere a), b), c) , c -bis) del Decreto, in possesso dei requisiti previsti dalla 
+normativa tempo per tempo vigente, l’esecuzione di specifici incarichi di gestione 1. 
+3. La SGR verifica i risultati della gestione mediante  l’adozione di parametri di riferimento 
+coerenti con gli obiettivi e i criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+“Ethical Life High Growth” 
+Il Comparto Ethical Life High Growth ha per obiettivo la rivalutazione del capitale investito 
+nel lungo periodo (oltre 15 anni) rispondendo alle esigenze di un soggetto che ha davanti 
+a sé ancora molti anni di attività lavorativa, è particolarmente sensibile alle 
+caratteristiche sociali, ambientali e di governance dei titoli nei quali investe e ricerca 
+rendimenti interessanti per incrementare più velocemente il proprio patrimonio.  
+A livello strategico la politica  di investimento del Comparto Ethical Life High Growth  
+prevede il 5% delle disponibilità complessive del Comparto  investite in strumenti di 
+natura monetaria e liquidità, il 25% in strumenti obbligazionari ed il restante 70% in 
+strumenti di natura azionaria. Il limite massimo per gli investimenti di quest’ultima 
+tipologia di strumenti finanziari è fissato nel 90% dell e disponibilità complessive del 
+Comparto. Il limite minimo per gli investimenti in strumenti finanziari di natura azionaria 
+è del 50%. 
+In fasi di mercato eccezionali, considerato l’obiettivo ulteriore che si pone la gestione di 
+questo comparto di limitare il rischio del portafoglio attraverso la riduzione 
+ 
+ 
+ 
+1 Il contratto di delega deve prevedere che la SGR e il Responsabile del Fondo debbano poter verificare le procedure 
+adottate dal soggetto delegato per l’esecuzione del contratto e le operazioni poste in essere per conto del Fondo.
+=== pagina 7 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 6 di 26 
+ 
+dell’esposizione in strumenti finanziari di natura azionaria, tale limite minimo può 
+scendere a 0%. 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro.  
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici 
+sia per quanto concerne la componente azionaria che quella obbligazionaria societaria.  
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso 
+in strumenti finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al 
+momento dell’investimento, si caratterizzino per un elevato profilo di respo nsabilità 
+sociale, ambientale e di governance. 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto 
+delle disposizioni contenute nelle leggi e nei decreti disciplinanti la materia e nelle 
+disposizioni emanate dagli organi di vigilanza, il gestore può investire in l iquidità, in 
+azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi ETF). La SGR potrà utilizzare parti 
+di OICR conformi alla direttiva comunitaria 2009/65/CE e successive modifiche, anche 
+collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una consider evole partecipazione diretta o 
+indiretta), purché i programmi e limiti di investimento siano compatibili con quelli del 
+Comparto Ethical Life High Growth  e non generino una concentrazione del rischio 
+incompatibile con quella prevista per il comparto. Con specifico riferimento all’utilizzo di 
+derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento di 
+tali OICR sottostanti amm etta l’uso di derivati per finalità di copertura o di gestione 
+efficiente. 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene 
+prevalentemente tramite negoziazione nei mercati regolamentati delle aree 
+geografiche di riferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto 
+dall’articolo 47 della Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 
+aprile 2004, anche quelli, indicati nella lista approvata dal Consiglio Diretti vo di 
+Assogestioni e pubblicata sul sito internet dell’associazione stessa, dei Paesi verso i quali 
+è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua 
+effettuazione, tali titoli abbiano un rating almeno pari a “ Investment Grade ” o 
+equiparabile (obbligazioni senza rating di un emittente investment grade ) secondo i 
+criteri di classificazione di almeno una delle principali agenzie di rating. Nel caso in cui 
+tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il 
+rating dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “Investment 
+Grade”, la SGR dovrà agire nel migliore interesse del FONDO, decidendo autonomamente 
+se vendere o mantenere in portafoglio il titolo declassato. 
+L’investimento in titoli di debito “non Investment Grade ” non potrà superare il 5% delle 
+disponibilità complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o 
+garantiti da un Paese membro dell'UE, da un Paese aderente all'OCSE, da enti locali o enti 
+pubblici di Stati membri dell'UE o appart enenti all’OCSE o da organismi internazionali di 
+carattere pubblico di cui fanno parte uno o più Paesi dell’UE. 
+“Ethical Life Growth” 
+Il Comparto Ethical Life Growth ha per obiettivo la rivalutazione del capitale investito nel 
+lungo periodo (oltre 15 anni) rispondendo alle esigenze di un soggetto che ha davanti a
+=== pagina 8 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 7 di 26 
+ 
+sé molti anni di attività lavorativa ed è particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei quali investe. 
+A livello strategico la politica di investimento del Comparto Ethical Life Growth prevede il 
+5% delle disponibilità complessive del Comparto  investite in strumenti di natura 
+monetaria e liquidità, il 45% in strumenti obbligazionari ed il restante 50% in strumenti di 
+natura azionaria. Il limite massimo per gli investimenti di quest’ultima tipologia di 
+strumenti finanziari è fissato nel 65% dell e disponibilità complessive del Comparto. Il 
+limite minimo per gli investimenti in strumenti finanziari di natura azionaria è del 35%.  
+In fasi di mercato eccezionali, considerato l’obiettivo ulteriore che si pone la gestione di 
+questo comparto di limitare il rischio del portafoglio attraverso la riduzione 
+dell’esposizione in strumenti finanziari di natura azionaria, tale limite minimo può  
+scendere a 0%. 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro.  
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici 
+sia per quanto concerne la componente azionaria che quella obbligazionaria societaria. 
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso 
+in strumenti finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al 
+momento dell’investimento, si caratterizzino per un elevato profilo di respo nsabilità 
+sociale, ambientale e di governance. 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto 
+delle disposizioni contenute nelle leggi e nei decreti disciplinanti la materia e nelle 
+disposizioni emanate dagli organi di vigilanza, il gestore può investire in l iquidità, in 
+azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi ETF). La SGR potrà utilizzare parti 
+di OICR conformi alla direttiva comunitaria 2009/65/CE e successive modifiche, anche 
+collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una consider evole partecipazione diretta o 
+indiretta), purché i programmi e limiti di investimento siano compatibili con quelli del 
+Comparto Ethical Life Growth  e non generino una concentrazione del rischio 
+incompatibile con quella prevista per il comparto. Con specifico riferimento all’utilizzo di 
+derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento di 
+tali OICR sottostanti amm etta l’uso di derivati per finalità di copertura o di gestione 
+efficiente. 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene 
+prevalentemente tramite negoziazione nei mercati regolamentati delle aree 
+geografiche di riferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto 
+dall’articolo 47 della Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 
+aprile 2004, anche quelli, indicati nella lista approvata dal Consiglio Diretti vo di 
+Assogestioni e pubblicata sul sito internet dell’associazione stessa, dei Paesi verso i quali 
+è orientata la politica di investimento definita per ciascun Comparto del FONDO. 
+L’investimento diretto in titoli di debito è consentito se, al momento della sua 
+effettuazione, tali titoli abbiano un rating almeno pari a “ Investment Grade ” o 
+equiparabile (obbligazioni senza rating di un emittente investment grade ) secondo i 
+criteri di classificazione di almeno una delle principali agenzie di rating. Nel caso in cui 
+tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il 
+rating dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “Investment
+=== pagina 9 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 8 di 26 
+ 
+Grade”, la SGR dovrà agire nel migliore interesse del FONDO, decidendo autonomamente 
+se vendere o mantenere in portafoglio il titolo declassato. 
+L’investimento in titoli di debito “ non Investment Grade” non potrà superare il 6% delle 
+disponibilità complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o 
+garantiti da un Paese membro dell'UE, da un Paese aderente all'OCSE, da enti locali o enti 
+pubblici di Stati membri dell'UE o appart enenti all’OCSE o da organismi internazionali di 
+carattere pubblico di cui fanno parte uno o più Paesi dell’UE. 
+“Ethical Life Balanced Growth” 
+Il Comparto Ethical Life Balanced Growth  ha per obiettivo la rivalutazione del capitale 
+investito nel medio /lungo periodo (tra 10 e 1 5 anni) rispondendo alle esigenze di un 
+soggetto che ha davanti a sé ancora alcuni anni di attività lavorativa ed è 
+particolarmente sensibile alle caratteristiche sociali, ambientali e di governance dei titoli 
+nei quali investe. 
+A livello strategico la politica di investimento del Comparto Ethical Life Balanced Growth 
+prevede il 5% delle disponibilità complessive del Comparto  investite in strumenti di 
+natura monetaria e liquidità, il 65% in strumenti obbligazionari ed il restante 30% in 
+strumenti di natura azionaria. Il limite massimo per gli investimenti di quest’ultima 
+tipologia di strumenti finanziari è fissato nel 39% dell e disponibilità complessive del 
+Comparto. Il limite minimo per gli investimenti in strumenti finanziari di natura azionaria 
+è del 21%. 
+In fasi di mercato eccezionali, considerato l’obiettivo ulteriore che si pone la gestione di 
+questo comparto di limitare il rischio del portafoglio attraverso la riduzione 
+dell’esposizione in strumenti finanziari di natura azionaria, tale limite minimo può  
+scendere a 0%. 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro.  
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici 
+sia per quanto concerne la componente azionaria che quella obbligazionaria societaria. 
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso 
+in strumenti finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al 
+momento dell’investimento, si caratterizzino per un elevato profilo di respo nsabilità 
+sociale, ambientale e di governance. 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto 
+delle disposizioni contenute nelle leggi e nei decreti disciplinanti la materia e nelle 
+disposizioni emanate dagli organi di vigilanza, il gestore può investire in l iquidità, in 
+azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi ETF). La SGR potrà utilizzare parti 
+di OICR conformi alla direttiva comunitaria 2009/65/CE e successive modifiche, anche 
+collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una consider evole partecipazione diretta o 
+indiretta), purché i programmi e limiti di investimento siano compatibili con quelli del 
+Comparto Ethical Life Balanced Growth  e non generino una concentrazione del rischio 
+incompatibile con quella prevista per il comparto. Con specifico riferimento all’utilizzo di 
+derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento di 
+tali OICR sottostanti amm etta l’uso di derivati per finalità di copertura o di gestione 
+efficiente.
+=== pagina 10 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 9 di 26 
+ 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene 
+prevalentemente tramite negoziazione nei mercati regolamentati delle aree 
+geografiche di riferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto 
+dall’articolo 47 della Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 
+aprile 2004, anche quelli, indicati nella lista approvata dal Consiglio Diretti vo di 
+Assogestioni e pubblicata sul sito internet dell’associazione stessa, dei Paesi verso i quali 
+è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua 
+effettuazione, tali titoli abbiano un rating almeno pari a “ Investment Grade ” o 
+equiparabile (obbligazioni senza rating di un emittente investment grade ) secondo i 
+criteri di classificazione di almeno una delle principali agenzie di rating. Nel caso in cui 
+tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il 
+rating dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “Investment 
+Grade”, la SGR dovrà agire nel migliore interesse del FONDO, decidendo autonomamente 
+se vendere o mantenere in portafoglio il titolo declassato. 
+L’investimento in titoli di debito “ non Investment Grade” non potrà superare il 7% delle 
+disponibilità complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o 
+garantiti da un Paese membro dell'UE, da un Paese aderente all'OCSE, da enti locali o enti 
+pubblici di Stati membri dell'UE o appart enenti all’OCSE o da organismi internazionali di 
+carattere pubblico di cui fanno parte uno o più Paesi dell’UE. 
+“Ethical Life Conservative” 
+Il Comparto Ethical Life Conservative  ha per obiettivo la rivalutazione del capitale 
+investito nel medio periodo (tra 5 e 10 anni) rispondendo alle esigenze di un soggetto 
+che ha davanti a sé ancora pochi anni di attività lavorativa , che è particolarmente 
+sensibile alle caratteristiche sociali, ambientali e di governance dei titoli nei quali investe 
+e decide di optare per una gestione prudente. 
+A livello strategico la politica di investimento del Comparto Ethical Life Conservative  
+prevede il 5% delle disponibilità complessive del Comparto  investite in strumenti di 
+natura monetaria e liquidità, il 85 % in strumenti obbligazionari ed il restante 10% in 
+strumenti di natura azionaria. Il limite massimo per gli investimenti di quest’ultima 
+tipologia di strumenti finanziari è fissato nel 13% delle disponibilità complessive del 
+Comparto. Il limite minimo per gli investimenti in strumenti finanziari di natura azionaria 
+è del 0%. 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro.  
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici 
+sia per quanto concerne la componente azionaria che quella obbligazionaria societaria. 
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso 
+in strumenti finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al 
+momento dell’investimento, si caratterizzino per un elevato profilo di respo nsabilità 
+sociale, ambientale e di governance. 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto 
+delle disposizioni contenute nelle leggi e nei decreti disciplinanti la materia e nelle 
+disposizioni emanate dagli organi di vigilanza, il gestore può investire in l iquidità, in 
+azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi ETF). La SGR potrà utilizzare parti
+=== pagina 11 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 10 di 26 
+ 
+di OICR conformi alla direttiva comunitaria 2009/65/CE e successive modifiche, anche 
+collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una considerevole partecipazione diretta o 
+indiretta), purché i programmi e limiti di investimento siano compatibili con quelli del 
+Comparto Ethical  Life Conservative e non generino una concentrazione del rischio 
+incompatibile con quella prevista per il comparto. Con specifico riferimento all’utilizzo di 
+derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento di 
+tali OI CR sottostanti ammetta l’uso di derivati per finalità di copertura o di gestione 
+efficiente. 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene 
+prevalentemente tramite negoziazione nei mercati regolamentati delle aree 
+geografiche di riferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto 
+dall’articolo 47 della Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 
+aprile 2004, anche quelli, indicati nella lista approvata dal Consiglio Diretti vo di 
+Assogestioni e pubblicata sul sito internet dell’associazione stessa, dei Paesi verso i quali 
+è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua 
+effettuazione, tali titoli abbiano un rating almeno pari a “ Investment Grade ” o 
+equiparabile (obbligazioni senza rating di un emittente investment grade ) secondo i 
+criteri di classificazione di almeno una delle principali agenzie di rating. Nel caso in cui 
+tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il 
+rating dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “Investment 
+Grade”, la SGR dovrà agire nel migliore interesse del FONDO, decidendo autonomamente 
+se vendere o mantenere in portafoglio il titolo declassato. 
+L’investimento in titoli di debito “ non Investment Grade ” non potrà superare il 5% delle 
+disponibilità complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o 
+garantiti da un Paese membro dell'UE, da un Paese aderente all'OCSE, da enti locali o enti 
+pubblici di Stati membri dell'UE o appartenenti all’OCSE o da orga nismi internazionali di 
+carattere pubblico di cui fanno parte uno o più Paesi dell’UE. 
+“Ethical Life Short Term” 
+Il Comparto Ethical Life Short Term ha per obiettivo la rivalutazione del capitale investito 
+nel breve periodo ( fino a 5  anni) rispondendo alle esigenze di un soggetto ormai 
+prossimo alla pensione, che è particolarmente sensibile alle caratteristiche sociali, 
+ambientali e di governance dei titoli nei quali investe e decide di optare per una gestione 
+molto prudente in cui i titoli di capitale non siano presenti. 
+A livello strategico la politica di investimento del Comparto Ethical Life Short Term  
+prevede il 5% delle disponibilità complessive del Comparto  investite in strumenti di 
+natura monetaria e liquidità, il 95% in strumenti obbligazionari. 
+Per la componente monetaria ed obbligazionaria gli investimenti sono diversificati a 
+livello globale, pur mantenendo una preferenza all’interno dell’area Euro.  
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici.  
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso 
+in strumenti finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al 
+momento dell’investimento, si caratterizzino per un elevato profilo di respo nsabilità 
+sociale, ambientale e di governance.
+=== pagina 12 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 11 di 26 
+ 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto 
+delle disposizioni contenute nelle leggi e nei decreti disciplinanti la materia e nelle 
+disposizioni emanate dagli organi di vigilanza, il gestore può investire in l iquidità, in 
+azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi ETF). La SGR potrà utilizzare parti 
+di OICR conformi alla direttiva comunitaria 2009/65/CE e successive modifiche, anche 
+collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una consider evole partecipazione diretta o 
+indiretta), purché i programmi e limiti di investimento siano compatibili con quelli del 
+Comparto Ethical Life Short Term  e non generino una concentrazione del rischio 
+incompatibile con quella prevista per il comparto. Con specifico riferimento all’utilizzo di 
+derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento di 
+tali OICR sottostanti amm etta l’uso di derivati per finalità di copertura o di gestione 
+efficiente. 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene 
+prevalentemente tramite negoziazione nei mercati regolamentati delle aree 
+geografiche di riferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto 
+dall’articolo 47 della Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 
+aprile 2004, anche quelli, indicati nella lista approvata dal Consiglio Diretti vo di 
+Assogestioni e pubblicata sul sito internet dell’associazione stessa, dei Paesi verso i quali 
+è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua 
+effettuazione, tali titoli abbiano un rating almeno pari a “ Investment Grade ” o 
+equiparabile (obbligazioni senza rating di un emittente investment grade ) secondo i 
+criteri di classificazione di almeno una delle principali agenzie di rating. Nel caso in cui 
+tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il 
+rating dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “Investment 
+Grade”, la SGR dovrà agire nel migliore interesse del FONDO, decidendo autonomamente 
+se vendere o mantenere in portafoglio il titolo declassato. 
+L’investimento in titoli di debito “ non Investment Grade ” non potrà superare il 5 % delle 
+disponibilità complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o 
+garantiti da un Paese membro dell'UE, da un Paese aderente all'OCSE, da enti locali o enti 
+pubblici di Stati membri dell'UE o appartenenti all’OCSE o da orga nismi internazionali di 
+carattere pubblico di cui fanno parte uno o più Paesi dell’UE. 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i 
+diversi profili di rischio -rendimento, in coerenza con gli obiettivi e i criteri riportati nel 
+Regolamento, sono descritti nella Nota informativa. La Nota informativa descrive, inoltre, 
+le caratteristiche del profilo life cycle. 
+Art. 8 -  Spese 
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a) spese da sostenere all’atto dell’adesione: 
+a.1) una commissione “una tantum” a carico dell’aderente pari a 30 euro;  
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’aderente: 
+I. una commissione pari a 17 euro applicata annualmente  a copertura
+=== pagina 13 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 12 di 26 
+ 
+delle spese amministrative. 
+Per gli aderenti residenti nella Regione Trentino/Alto Adige, tenuto anche 
+conto di quanto previsto dal Decreto del Presidente della Regione 
+Trentino – Alto Adige, n. 75 del 7 ottobre 2015 e successive modifiche o 
+integrazioni, è prevista in via generale l a riduzione a euro 5,00 della 
+commissione di cui al presente punto; 
+II. un contributo di solidarietà annuo pari a 3 euro a garanzia di progetti di 
+microfinanza e sostegno finanziario di iniziative tramite lo strumento del 
+crowdfunding. 
+b.2) indirettamente a carico dell’aderente e che incidono sul comparto:  una 
+commissione di gestione pari a: 
+I. 1,35% del patrimonio su base annua ( 0,113% su base mensile ) per il 
+Comparto Ethical Life High Growth prelevata con cadenza mensile; 
+II. 1,10% del patrimonio su base annua ( 0,092% su base mensile) per il 
+Comparto Ethical Life Growth prelevata con cadenza mensile; 
+III. 1,00% del patrimonio su base annua ( 0,083% su base mensile) per il 
+Comparto Ethical Life Balanced Growth prelevata con cadenza mensile;  
+IV. 0,80% del patrimonio su base annua ( 0,067% su base mensile) per il 
+Comparto Ethical Life Conservative prelevata con cadenza mensile; 
+V. 0,70% del patrimonio su base annua ( 0,058% su base mensile) per il 
+Comparto Ethical Life Short Term prelevata con cadenza mensile. 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, 
+le spese legali e giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri  di 
+negoziazione derivanti dall’attività di impiego delle risorse, nonché il “contributo  di 
+vigilanza” dovuto annualmente alla COVIP ai sensi di legge; sono altresì a carico le spese 
+relative alla remunerazione e allo svolgimento dell’incarico del Responsabile, salva 
+diversa decisione della SGR 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi  
+alla sottoscrizione e al rimborso delle parti di OICR acquistati, né le commissioni  di 
+gestione applicate dall’OICR stesso, salvo i casi di deroga di carattere generale previsti 
+dalla COVIP. In particolare, nel caso di investimenti in OICR collegati, dal compenso della 
+SGR sarà dedotta la remunerazione complessiva percepita dal gestore dell’OICR 
+collegato. Fanno eccezione gli investimenti in FIA diversi da quelli collegati 2. 
+c) spese collegate all’esercizio delle seguenti prerogative individuali, dirette alla  
+copertura dei relativi oneri amministrativi: 
+c.1) 10 euro in caso di trasferimento ad altra forma pensionistica ai sensi dell’art.13; 
+c.2) 10 euro in caso di trasferimento ad un altro comparto di investimento ai  sensi 
+ 
+ 
+ 
+2 Nel caso di investimenti in FIA diversi da quelli collegati sul comparto potranno gravare commissioni di gestione  
+(ed eventuali commissioni di incentivo) a condizione che venga resa agli aderenti adeguata informativa circa la  
+misura massima delle commissioni applicabili nell’ambito della Nota informativa. Per FIA collegati si intendono  
+quelli promossi o gestiti dalla società che gestisce le risorse del Fondo o da altre società del medesimo gruppo di  
+appartenenza.
+=== pagina 14 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 13 di 26 
+ 
+dell’art. 6, comma 2; 
+d) spese relative alla fase di erogazione delle rendite  vitalizie, quali riportate 
+nell’allegato n. 2. 
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia:  
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2, in relazione al 
+comparto nel quale è investita la posizione individuale residua; 
+d-bis.2) non sono previste spese per l'apertura delle pratiche o la copertura 
+degli oneri amministrativi; si applicano le spese direttamente a carico dell’aderente 
+di cui alla lettera b.1. 
+e) spese relative alla prestazione erogata in forma di “Rendita Integrativa 
+Temporanea Anticipata” (RITA) dirette alla copertura dei relativi oneri 
+amministrativi: 50 euro per l’apertura della pratica; 
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base 
+collettiva e di convenzionamenti con associazioni di lavoratori autonomi e liberi 
+professionisti. 
+3. Sono a carico della SGR tutte le spese e oneri non individuati dalle disposizioni del 
+presente articolo.
+=== pagina 15 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 14 di 26 
+ 
+PARTE III -  CONTRIBUZIONE E PRESTAZIONI 
+Art. 9 -  Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo 
+stesso. 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della 
+misura minima e delle modalità stabilite dai contratti e dagli accordi collettivi, anche 
+aziendali. 
+3. I lavoratori dipendenti , in caso di adesione esplicita,  possono contribuire al Fondo 
+conferendo, anche esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive 
+il conferimento del TFR può anche essere parziale ove previsto dagli accordi collettivi. 
+Qualora il lavoratore decida altresì di versare la contribuzione prevista a suo carico e 
+abbia diritto, in base ad accordi collettivi, anche aziendali, a un contributo del datore di 
+lavoro, detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei predetti 
+accordi. Il dato re di lavoro può decidere, anche in assenza di accordi collettivi, di 
+contribuire al Fondo. 
+4. L’aderente su base individuale  ha la facoltà di sospendere la contribuzione fermo 
+restando, per i lavoratori dipendenti, l’obbligo del versamento del TFR maturando 
+eventualmente conferito. La sospensione non comporta la cessazione della 
+partecipazione al Fondo. 
+5. In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore 
+di lavoro e la contribuzione del lavoratore. La contribuzione a carico del lavoratore non è 
+obbligatoria nel caso in cui la retribuzione annuale lorda corrisposta dal datore di lavoro 
+risulti inferiore al valore pari all’assegno sociale di cui all’art. 3, commi 6 e 7, della legge 
+8 agosto 1995, n. 335. L’aderente può conferire il TFR anche in misura parziale ove previsto 
+dagli accordi collettivi. 
+6. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà 
+di sospendere la contribuzione a proprio carico, con conseguente sospensione 
+dell’obbligo contributivo a carico del datore di lavoro, fermo restando il versamento del 
+TFR maturando al Fondo. È possibile riattivare la contribuzione in qualsiasi momento. 
+7. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 12 
+del Decreto (così detta contribuzione da abbuoni). 
+8. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento 
+dell’età pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che 
+alla data del pensionamento possa far valere almeno un anno di contribuzione a favore 
+delle forme di previdenza complementare. 
+9. Per le adesioni collettive, il datore di lavoro deve compilare e trasmettere al Fondo un 
+tracciato (c.d. distinta) riportante i dati dei versamenti per ogni aderente. L’importo del 
+versamento deve corrispondere all’importo indicato nella distinta al centes imo di Euro. 
+Art. 10 -  Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun 
+aderente, è alimentata dai contributi netti versati, dagli importi derivanti da trasferimenti 
+da altre forme pensionistiche complementari e dai versamenti effettuati per il reintegro 
+delle anticipazioni percepite, ed è ridotta da eventuali riscatti parziali e anticipazioni.
+=== pagina 16 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 15 di 26 
+ 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico 
+dell’aderente, di cui all’art. 8, comma 1, lett ere a.1) e b.1). Sul primo versamento incidono 
+anche eventuali spese di adesione. 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il 
+rendimento di ogni singolo comparto è calcolato come variazione del valore della quota 
+dello stesso nel periodo considerato. 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del 
+comparto sono valutate al valore di mercato; pertanto le plusvalenze e le minusvalenze 
+maturate concorrono alla determinazione della posizione individuale, a prescindere dal 
+momento di effettivo realizzo. 
+5. La SGR determina il valore della quota e, conseguentemente, della posizione individuale 
+di ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti 
+sono trasformati in quote, e frazioni di quote, sulla base del primo valore di quota 
+successivo al giorno in cui si sono resi disponibili per la valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è 
+quello risultante al primo giorno di valorizzazione utile successivo a quello in cui la SGR 
+ha verificato la sussistenza delle condizioni che danno diritto alle  prestazioni. 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il 
+Fondo sono intangibili e non possono formare oggetto di sequestro o pignoramento da 
+parte dei creditori dell’aderente. 
+Art. 11 -  Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della 
+maturazione dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di 
+appartenenza dell’aderente, con almeno cinque anni di partecipazione alle form e 
+pensionistiche complementari. Il predetto termine è ridotto a tre anni per il lavoratore 
+che cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo stesso acquisisca 
+il diritto a una pensione complementare e che si sposta in un altro Stato membro 
+dell’Unione europea. L’aderente che decide di proseguire volontariamente la 
+contribuzione ai sensi del comma 8 dell’art. 9 ha la facoltà di determinare 
+autonomamente il momento di fruizione delle prestazioni pensionistiche.  
+2. Per i soggetti non titolari di reddito di lavoro o d ’impresa si considera età pensionabile 
+quella vigente nel regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni 
+pensionistiche sono considerati utili tutti i periodi di partecipazione alle forme 
+pensionistiche complementari maturati dall’aderente per i quali lo stesso non abbia  
+esercitato il riscatto totale della posizione individuale. 
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di 
+contribuzione nei regimi obbligatori di appartenenza e  il periodo minimo  di 
+partecipazione alle forme pensionistiche complementari di cui al comma 1, ha facoltà di 
+richiedere che le prestazioni siano erogate , in tutto o in parte, in forma di “Rendita 
+integrativa temporanea anticipata” (RITA)  con un anticipo massimo di cinque anni 
+rispetto alla data di maturazione dell’età anagrafica prevista per la pensione di 
+vecchiaia nel regime obbligatorio di appartenenza. 
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente 
+inoccupato per un periodo di tempo superiore a  ventiquattro mesi e abbia maturato  il
+=== pagina 17 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 16 di 26 
+ 
+periodo minimo  di partecipazione alle forme pensionistiche complementari  di cui al 
+comma 1 , ha facoltà di richiedere la rendita di cui al precedente comma 4 con un 
+anticipo massimo di dieci anni rispetto alla data di maturazione dell’età anagrafica per 
+la pensione di vecchiaia nel regime obbligatorio di appartenenza.  
+6. La porzione della posizione individuale di cui si chiede il frazionamento , ai sensi dei 
+commi 4 o 5,  verrà fatta confluire, salvo diversa scelta dell’aderente, nel comparto più 
+prudente individuato dal Fondo e indicato nella Nota informativa. L’aderente può 
+successivamente variare il comparto nel rispetto del periodo minimo di permanenza.  
+7. Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta 
+la cessazione dell’erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente 
+ha la facoltà di richiedere, con riferimento alla sola po rzione residua della posizione 
+individuale, il riscatto e l’anticipazione di cui agli artt. 13 e 14, ovvero, cessata l’erogazione 
+della RITA parziale, la prestazione pensionistica. 
+9. In caso di trasferimento ad altra forma pensionistica la RITA si intende automaticamente 
+revocata e viene trasferita l’intera posizione individuale. 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto 
+forma di capitale nel limite del 50 per cento della posizione individuale maturata. Nel 
+computo dell’importo complessivo erogabile in capitale sono detratte le somme 
+erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. Qualora 
+l’importo che si ottiene convertendo in rendita vitalizia immediata annua senza 
+reversibilità a favore dell’aderente il 70 per cento della posizione individuale matu rata 
+risulti inferiore al 50 per cento dell’assegno sociale di cui all’art . 3, commi 6 e 7, della 
+Legge 8 agosto 1995, n. 335, l’aderente può optare per la liquidazione in capitale 
+dell’intera posizione maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto 
+antecedentemente al 29 aprile 1993 ed entro tale data iscritto a una forma pensionistica 
+complementare istituita alla data di entrata in vigore della legge 23 ottobre 1992, n. 421, 
+può richiedere la liquidazione dell’intera prestazione pensionistica complementare in 
+capitale. 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità 
+e pignorabilità in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.  
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda 
+esercitare tale diritto può trasferire la propria posizione individuale presso altra forma 
+pensionistica complementare, per avvalersi delle condizioni di erogazione della ren dita 
+vitalizia praticate da quest’ultima. In tal caso si applica quanto previsto all’art. 13, commi 
+6 e 7. 
+Art. 12 -  Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata 
+una rendita vitalizia immediata calcolata in base alla posizione individuale maturata, al 
+netto della eventuale quota di prestazione da erogare sotto forma di capit ale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie 
+di rendita vitalizia di seguito indicate: 
+⚫ una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in
+=== pagina 18 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 17 di 26 
+ 
+vita e successivamente, in misura totale o per quota scelta dall’aderente stesso, 
+alla/e persona/e da lui designata/e; 
+⚫ una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i 
+primi 5 o  10 anni all’aderente o, in caso di suo decesso, alla /e persona/e da lui 
+designata/e. Successivamente, se l’aderente è ancora in vita, viene corrisposta 
+allo stesso una rendita vitalizia. 
+3. Nell’allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione 
+delle rendite vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) 
+da utilizzare per il relativo calcolo. Tali coefficienti possono essere successivamente 
+variati, nel rispetto della normativa tempo per tempo vigente in materia di stabilità delle 
+compagnie di assicurazione; in ogni caso, le modifiche dei coefficienti di trasformazione 
+non si applicano ai soggetti, già aderenti alla data di introduzione delle modifiche stesse, 
+che esercitano il diritto alla prestazione pensionistica nei tre anni successivi. 
+4. Le simulazioni relative alla rendita  vitalizia che verrà erogata sono effettuate facendo 
+riferimento, laddove vi sia l’impegno a non modificare i coefficienti di trasformazione, a 
+quelli indicati nell’allegato n. 2 e, negli altri casi, a coefficienti individuati dalla COVIP, in 
+modo omogeneo per tutte le forme, in base alle proiezioni ufficiali disponibili 
+sull’andamento della mortalità della popolazione italiana. 
+5. In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale 
+quota di prestazione erogata sotto forma di capitale, l’erogazione della prestazione 
+pensionistica in una delle seguenti forme: 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato 
+sulla base della vita attesa residua del beneficiario, come determinata dall’ISTAT 
+per il calcolo delle pensioni obbligatorie. Su richiesta dell’aderente la prestazione 
+può essere erogata per un numero di anni maggiore rispetto a quelli corrispondenti 
+alla speranza di vita dello stesso. 
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal 
+beneficiario, con facoltà per lo stesso di determinarne la tempistica e l’importo nel 
+limite della somma delle rate, maturate e non riscosse, di una rendita teorica con 
+frazionamento annuale, immediatamente erogabile e di durata definita pari alla 
+vita attesa residua, in anni interi, dell’aderente al momento della richiesta della 
+prestazione. 
+6. Il Fondo provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla 
+rendita vitalizia con tempestività e comunque non oltre il termine massimo di sei mesi. 
+Nel caso in cui la domanda risulti incompleta o insufficiente, la SGR richiede gli  elementi 
+integrativi, e il termine sopra indicato è sospeso fino alla data del completamento o della 
+regolarizzazione della pratica. Il montante residuo è mantenuto in gestione nel comparto 
+scelto dall’aderente, all’atto della richiesta della prestazione o, in difetto di indicazioni, 
+nel comparto individuato dal Fondo nella Nota informativa. 
+6-bis. Al fine di adeguare i sistemi e i processi operativi della SGR per la gestione delle 
+richieste e l’erogazione diretta delle prestazioni, il termine di cui al comma 6 può essere 
+derogato per un periodo transitorio, che non potrà protrarsi oltre il 31  dicembre 2026. 
+Durante tale periodo la SGR acquisisce le richieste di erogazione delle prestazioni. 
+Successivamente all’avvenuto adeguamento dei suddetti sistemi e processi operativi, 
+la SGR procede tempestivamente alla liquidazione delle richieste di ero gazione delle 
+prestazioni pervenute durante il periodo transitorio.
+=== pagina 19 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 18 di 26 
+ 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono 
+essere revocate una volta iniziata la liquidazione, salvo che il beneficiario opti per la 
+conversione del montante residuo in una rendita vitalizia immediata sulla b ase delle 
+condizioni e dei criteri indicati nella Nota informativa, ovvero trasferisca il montante 
+residuo presso un’altra forma pensionistica all’unico fine di beneficiare delle condizioni 
+di rendita vitalizia offerte da quest’ultima. 
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) 
+e b) è tenuto ad individuare i soggetti che, in caso di morte del beneficiario, hanno diritto 
+di riscattare il montante residuo. Tale scelta può essere successivame nte modificata 
+dall’aderente. 
+9. Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente non 
+può richiedere trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione 
+del comparto, che può essere richiesta nel rispetto del periodo minimo di partecipazione 
+di cui all’art. 6, comma 2. 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata 
+ulteriore contribuzione al Fondo, salvo il caso in cui l’interessato attivi un nuovo rapporto 
+di lavoro che preveda la maturazione del TFR. 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle 
+prestazioni pensionistiche di cui al comma 5, lett. a) e b). 
+Art. 13 -  Trasferimento e riscatto della posizione individuale  
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare decorso un periodo minimo di due anni di partecipazione al Fondo.  
+2. L’aderente, anche prima del periodo minimo di permanenza, può:  
+a) trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare, alla quale acceda in relazione alla nuova attività lavorativa;  
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione 
+dell’attività lavorativa che comporti l’inoccupazione per un periodo di tempo non 
+inferiore a dodici mesi e non superiore a quarantotto mesi, ovvero in caso di ricorso 
+da parte del datore di lavoro a procedure di mobilità, cassa integrazione guadagni, 
+ordinaria o straordinaria; 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente 
+che comporti la riduzione della capacità di lavoro a meno di un terzo e a seguito di 
+cessazione dell’attività lavorativa che comporti l’inoccupazione per un periodo di 
+tempo superiore a quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi dell’art. 14, comma 5 , del 
+Decreto, ovvero riscattare parzialmente la posizione individuale nella misura del 
+50% o dell’80%, ovvero trasferirla ad altra forma pensionistica complementare, 
+qualora vengano meno i requisiti di partecipazione. 
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei 
+diritti di trasferimento e di riscatto, può proseguire la partecipazione al Fondo, anche in 
+assenza di ulteriore contribuzione. Tale opzione trova automatica applicazione in difetto 
+di diversa scelta da parte dell’aderente. Nel caso in cui il valore della posizione 
+individuale maturata non sia superiore all’importo di una mensilità dell’assegno sociale 
+di cui all’art. 3, comma 6, della Legge 8 agosto 1995, n. 335, la SGR informa l’aderente
+=== pagina 20 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 19 di 26 
+ 
+della facoltà di trasferire la propria posizione individuale ad altra forma pensionistica 
+complementare, ovvero di chiedere il riscatto dell’intera posizione di cui al comma 2, 
+lettera d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione 
+pensionistica, ovvero nel corso dell’erogazione della “Rendita integrativa temporanea 
+anticipata” (RITA), la posizione individuale è riscattata dai soggetti designati dallo stesso, 
+siano essi persone fisiche o giuridiche , o in mancanza dagli eredi . In mancanza di tali 
+soggetti, la posizione individuale resta acquisita al Fondo. 
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.  
+6. La SGR, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della 
+posizione con tempestività, e comunque entro il termine massimo di due mesi dalla 
+ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, la 
+SGR richiede gli elementi integrativi e il termine sopra indicato è sospeso fino alla data 
+del completamento o della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione 
+della partecipazione al Fondo. 
+Art. 14 -  Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale  maturata nei 
+seguenti casi e misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese 
+sanitarie conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per 
+terapie e interventi straordinari riconosciuti dalle competenti strutture pubbliche;  
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un 
+importo non superiore al 75 per cento, per l’acquisto della prima casa di abitazione, 
+per sé per i figli, per la realizzazione, sulla prima casa di abitazione, degli interventi 
+di manutenzione ordinaria, straordinaria, di restauro e di risanamento conservativo, 
+di ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 1 dell’art. 3 del 
+Decreto del Presidente della Repubblica 6 giugno 2001, n. 380;  
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un 
+importo non superiore al 30 per cento, per la soddisfazione di ulteriori sue esigenze. 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di 
+anticipazioni sono riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere 
+il 75 per cento della posizione individuale maturata, incrementata delle anticipazioni 
+percepite e non reintegrate. 
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto 
+all’anticipazione, sono considerati utili tutti i periodi di partecipazione a forme 
+pensionistiche complementari maturati dall’aderente, per i quali lo stesso non abbia 
+esercitato il diritto di riscatto totale della posizione individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta 
+dell’aderente e in qualsiasi momento. 
+6. Le anticipazioni di cui al comma 1, lettera a) sono sottoposte agli stessi limiti di cedibilità, 
+sequestrabilità e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza 
+obbligatoria.
+=== pagina 21 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 20 di 26 
+ 
+7. La SGR provvede agli adempimenti conseguenti all’esercizio delle predette facoltà da 
+parte dell’aderente con tempestività e comunque non oltre il termine massimo di tre 
+mesi decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti 
+incompleta o insufficiente, la SGR richiede gli elementi integrativi, e il termine sopra 
+indicato è sospeso fino alla data del completamento o della regolarizzazione della 
+pratica.
+=== pagina 22 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 21 di 26 
+ 
+PARTE IV -  PROFILI ORGANIZZATIVI 
+Art. 15 -  Separatezza patrimoniale, amministrativa e contabile  
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e 
+autonomo rispetto sia al patrimonio della SGR, sia a quello degli altri fondi gestiti, sia a 
+quello degli aderenti. 
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli 
+aderenti e non può essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori della 
+SGR o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di 
+rappresentanti dei creditori stessi. Il patrimonio del Fondo non può essere coinvolto nelle 
+procedure concorsuali che riguardino la SGR. 
+4. La SGR è dotata di procedure atte a garantire la separatezza amministrativa e contabile 
+delle operazioni poste in essere per conto del Fondo rispetto al complesso delle altre 
+operazioni svolte dalla SGR e del patrimonio del Fondo rispetto a quello della SGR e di 
+suoi clienti. 
+5. Ferma restando la responsabilità della SGR per l’operato del soggetto delegato, la 
+gestione amministrativa e contabile del Fondo può essere delegata a terzi.  
+6. La SGR è dotata di procedure organizzative atte a garantire la separatezza 
+amministrativa e contabile delle operazioni poste in essere in riferimento a ciascun 
+comparto. 
+7. Il patrimonio di ciascun comparto è suddiviso in quote. 
+Art. 16 -  Sistema di governo 
+1. La SGR assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla 
+complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4 -
+bis, 5 -bis, 5 -ter, 5 -quater, 5 -sexies, 5 -septies, 5 -octies e 5 - nonies del D ecreto in 
+coerenza con gli assetti organizzativi del rispettivo settore di riferimento.  
+Art. 17 -  Depositario 
+1. Il patrimonio del Fondo è  depositato presso un unico soggetto distinto dal gestore, in 
+possesso dei requisiti previsti dalle vigenti disposizioni normative (di seguito 
+“depositario”). 
+2. La SGR può revocare in ogni momento l’incarico al depositario il quale può, a sua volta, 
+rinunciare con preavviso di sei mesi; in ogni caso, l’efficacia della revoca o della rinuncia 
+è sospesa fino a che: 
+⚫ la SGR non abbia stipulato un nuovo contratto con altr o depositario, in possesso 
+dei requisiti di legge; 
+⚫ il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3. Il calcolo del valore della quota può essere delegato al depositario , ferma restando la 
+responsabilità della SGR per l’operato del soggetto delegato. 
+4. Le funzioni del depositario sono regolate dalla normativa tempo per tempo vigente. 
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle 
+irregolarità riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP
+=== pagina 23 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 22 di 26 
+ 
+informazioni su atti o fatti di cui sono venuti a conoscenza nell’esercizio delle funzioni di 
+depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il 
+depositario non sono ammesse azioni dei creditori del depositario, del subdepositario o 
+nell’interesse degli stessi. 
+Art. 18 -  Responsabile 
+1. La SGR nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2, del Decreto. 
+2. Le disposizioni che regolano la nomina, le competenze, il regime di responsabilità del 
+Responsabile sono riportate nell’Allegato n. 1. 
+Art. 19 -  Organismo di rappresentanza 
+1. È istituito un Organismo di rappresentanza (di seguito “Organismo”), ai sensi dell’art. 5, 
+comma 5, del Decreto. 
+2. Le disposizioni che regolano la nomina, la composizione e il funzionamento 
+dell’Organismo sono riportate in un apposito documento denominato “Disposizioni in 
+materia di Organismo di rappresentanza”. 
+3. La SGR individua il numero complessivo dei componenti dell’Organismo in modo tale da 
+garantire la rappresentatività degli iscritti per adesioni collettive e la funzionalità 
+dell’Organismo. 
+4. Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle 
+che alla fine del mese precedente alla designazione hanno almeno 500 lavoratori iscritti 
+al fondo pensione3. 
+5. I componenti dell’Organismo restano in carica tre anni e possono svolgere più mandati. 
+I componenti nominati in sostituzione di quelli cessati in corso di mandato scadono 
+insieme a quelli in carica all’atto della loro nomina. 
+6. Le spese di funzionamento dell’Organismo e gli eventuali compensi riconosciuti ai suoi 
+componenti, non possono gravare sul fondo né sulla SGR. 
+7. L’Organismo svolge funzioni di collegamento tra le collettività che aderiscono al Fondo, 
+la SGR e il Responsabile. L’Organismo non svolge funzioni di controllo.  
+8. I componenti dell’Organismo devono adempiere le loro funzioni nel rispetto dei principi 
+generali di correttezza e buona fede e devono conservare il segreto sui fatti e sui 
+documenti di cui hanno conoscenza in ragione del loro ufficio. 
+Art. 20 -  Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento 
+redatto ai sensi della normativa tempo per tempo vigente. 
+ 
+ 
+ 
+3 Nel caso in cui il numero di aziende o gruppi di cui al comma 4 comporta il superamento del limite massimo di  
+componenti, le collettività tenute alla designazione sono individuate in base alla numerosità degli aderenti al Fondo. 
+La SGR può individuare ulteriori criteri di selezione delle aziende. Se invece  il numero di aziende o gruppi di cui al 
+comma 4 non comporta il raggiungimento del limite massimo di componenti,  la SGR può invitare altre aziende o 
+gruppi, individuati sulla base di un criterio  di selezione delle aziende (quale, ad esempio, la numerosità degli 
+aderenti al Fondo), a comunicare i nominativi dei rappresentanti propri e dei propri lavoratori.
+=== pagina 24 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 23 di 26 
+ 
+Art. 21 -  Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del 
+patrimonio e delle posizioni individuali sono effettuate sulla base delle disposizioni 
+emanate dalla COVIP. 
+2. La SGR conferisce a una società di revisione l’incarico di esprimere , con apposita 
+relazione, un giudizio sul rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web della SGR.
+=== pagina 25 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 24 di 26 
+ 
+PARTE V -  RAPPORTI CON GLI ADERENTI 
+Art. 22 -  Modalità di adesione e clausole risolutive espresse 
+1.  La volontà di aderire al Fondo è formalizzata con la compilazione, in ogni sua parte, e  
+con la sottoscrizione di un apposito modulo di adesione . L’adesione è preceduta dalla 
+consegna della documentazione informativa prevista tempo per tempo dalla normativa 
+vigente. 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite alla 
+SGR. 
+3. Dell’avvenuta conclusione dell’adesione e dell’ iscrizione al Fondo viene data apposita 
+comunicazione all’aderente mediante lettera di conferma, attestante la data di 
+iscrizione e le informazioni relative all’eventuale versamento effettuato.  
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento e dei relativi 
+allegati e delle successive modifiche, fatto salvo quanto previsto in tema di 
+trasferimento nell’art. 26. 
+5. In caso di adesione automatica, il Fondo, sulla base dei dati forniti dal datore di lavoro, 
+comunica all’aderente l’avvenuta adesione, il profilo di tipo life cycle  nel quale sono 
+investiti i contributi, nonché le informazioni necessarie al fine di consentire a quest’ultimo 
+l’esercizio delle scelte di sua competenza. 
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle 
+dipendenze della SGR da parte di addetti a ciò incaricati ovvero tramite la rete di 
+distribuzione della SGR. Le adesioni su base collettiva possono essere raccolte anche 
+presso i luoghi indicati nella Nota informativa. 
+7. In caso di adesione mediante sito web o altre forme di interfaccia online, la SGR deve 
+acquisire il consenso espresso dell’aderente all’utilizzo di tale strumento. In caso di 
+adesione fuori sede o tramite tecniche di comunicazione a distanza o mediante sito web, 
+l’aderente ha il diritto di recedere dall'adesione - senza costi e senza dover indicare il 
+motivo del recesso - entro 30 (trenta) giorni di calendario decorrenti dalla data di 
+ricezione della Lettera di conferma. Le istruzioni per l'esercizio del diritto di recesso 
+nonché i termini, le modalità e i criteri di determinazione delle somme oggetto di 
+rimborso sono dettagliati nella Nota Informativa e in allegato alla Lettera di conferma. Il 
+recesso può essere esercitato dall'aderente anche qualora abbia espressamente 
+richiesto l'esecuzione immediata del servizio di gestione e abbia effettuato la prima 
+contribuzione al Fondo (o altri versamenti), prima della scadenza del termine pe r 
+l'esercizio del diritto di recesso. Entro 30 (trenta) giorni di calendario dal ricevimento della 
+comunicazione di recesso, la SGR procede a liquidare l'eventuale versamento iniziale 
+effettuato prima della comunicazione del recesso dall'adesione  (ed eventuali altri 
+importi versati), al netto degli oneri di adesione, ove trattenute, e dei costi sostenuti per 
+l'esecuzione del servizio di gestione. 
+8. L’aderente è tenuto ad effettuare il versamento della prima contribuzione al Fondo entro 
+sei mesi dalla data di ricezione della lettera di conferma di cui al comma 3 del presente 
+articolo. In caso di inadempimento, la SGR ha facoltà, ai sensi dell’art. 1456 del Codice 
+Civile, di risolvere il contratto comunicando all’aderente la propria volontà di avvalersi 
+della clausola risolutiva espressa, salvo che l’aderente non provveda ad effettuare un 
+versamento entro sessanta giorni dalla ricezione della lettera. 
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso
+=== pagina 26 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 25 di 26 
+ 
+contributivo con conseguente azzeramento della posizione individuale a seguito 
+dell’applicazione delle spese annuali di gestione amministrativa, la SGR ha facoltà, ai 
+sensi dell’art. 1456 del Codice Civile, di risolvere il contratto comunicando la propria 
+volontà di avvalersi della clausola risolutiva espressa, salvo che l’aderente non provveda 
+a effettuare un versamento entro sessanta giorni dalla ricezione della comunicazione.  
+Art. 23 -  Trasparenza nei confronti degli aderenti 
+1. La SGR mette a disposizione degli aderenti  la documentazione inerente al Fondo e tutte 
+le altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali 
+documenti sono disponibili sul sito web della SGR, in un’apposita sezione dedicata alle 
+forme pensionistiche complem entari e presso la sede legale della SGR. I documenti 
+utilizzati in fase di adesione sono resi disponibili in formato cartaceo e gratuitamente 
+anche presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni.  
+2. La SGR fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni 
+individuali maturate e alle prestazioni erogate, secondo quanto previsto dalla normativa 
+tempo per tempo vigente. 
+Art. 24 -  Comunicazioni e reclami 
+1. La SGR definisce le modalità con le quali gli aderenti  e i beneficiari  possono 
+rappresentare le proprie esigenze e presentare reclami  in coerenza con le indicazioni 
+fornite dalla COVIP, riportandole nella Nota Informativa.
+=== pagina 27 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+ 
+ 
+In vigore dal 31/07/2026 pagina 26 di 26 
+ 
+PARTE VI -  NORME FINALI 
+Art. 25 -  Modifiche al Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP.  
+2. La SGR stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse degli 
+aderenti e fatto salvo quanto disposto dall’art. 26. 
+Art. 26 -  Trasferimento in caso di modifiche peggiorative delle condizioni  economiche e 
+di modifiche delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante 
+delle condizioni economiche del Fondo, l’aderente interessato dalle suddette modifiche 
+può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare, anche prima che siano decorsi due anni dall’iscrizione. Il diritto di 
+trasferimento è altresì riconosciuto quando le modifiche interessano in modo 
+sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione 
+significativa delle politiche di investimento. 
+2. La SGR comunica a ogni aderente interessato l’introduzione delle modifiche almeno 
+centoventi giorni prima della relativa data di efficacia; dal momento della 
+comunicazione l’aderente ha novanta giorni di tempo per manifestare l’eventuale scelta 
+di trasferimento. La SGR può chiedere alla COVIP termini ridotti di efficacia nei casi in cui 
+ciò sia utile al buon funzionamento del Fondo e non contrasti con l’interesse degli 
+aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese.  
+Art. 27 -  Cessione del Fondo 
+1. Qualora la SGR non voglia o non possa più esercitare l’attività di gestione del Fondo, 
+questo viene ceduto ad altro soggetto, previa autorizzazione all’esercizio.  In caso di 
+cessione del Fondo a società diverse da quelle del Gruppo al quale appartiene la SGR 
+viene riconosciuto agli aderenti il diritto al trasferimento della posizione presso altra 
+forma pensionistica complementare ai sensi dell’art. 26 e con le modalità ivi previste.  
+Art. 28 -  Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che 
+determinano la sua fusione con un altro fondo gestito dalla medesima SGR, il diritto al 
+trasferimento della posizione presso altra forma pensionistica complementare viene 
+riconosciuto qualora ricorrano le condizioni di cui all’art. 26 e con le modalità ivi previste. 
+Art. 29 -  Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento 
+alla normativa tempo per tempo vigente.
+=== pagina 28 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 1: Disposizioni in materia di responsabile 
+ 
+ 
+In vigore dal 31/07/2026 pagina 27 di 3 
+ 
+ALLEGATO N. 1 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+Art. 1 -  Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo amministrativo di “ EUREGIO PLUS SGR 
+S.P.A.”, di seguito definita “ SGR” che esercita l’attività del Fondo . L’incarico ha durata 
+triennale ed è rinnovabile, anche tacitamente, per non più di una volta 
+consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui 
+viene nominato il nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo 
+di controllo della SGR 
+4. Le nomine, gli eventuali rinnovi dell’incarico, le sostituzioni del Responsabile prima della 
+scadenza del termine vengono comunicati alla COVIP entro quindici giorni dalla 
+deliberazione. 
+Art. 2 -  Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile sono previsti dalla normativa  
+tempo per tempo vigente. 
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera 
+continuativa presso la SGR o società da questa controllate o che la controllano; 
+b) l’incarico di amministratore della SGR. 
+Art. 3 -  Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di 
+incompatibilità comportano la decadenza dall’incarico. 
+Art. 4 -  Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo  di amministrazione 
+all’atto della nomina per l’intero periodo di durata dell’incarico e viene definita sulla base 
+di una sana politica di remunerazione che tenga conto dei principi previsti dalla 
+normativa tempo per tempo vigente, fermo restando che il compenso del Responsabile 
+non può essere pattuito sotto forma di partecipazione agli uti li della SGR, o di società 
+controllanti o controllate, né sotto forma di diritti di acquisto o di sottoscrizione di azioni 
+della SGR o di società controllanti o controllate. 
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile 
+sono poste a carico del Fondo, salva diversa decisione della SGR 
+Art. 5 -  Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dalla SGR, 
+riportando direttamente all’organo di amministrazione della stessa relativamente ai 
+risultati dell’attività svolta.
+=== pagina 29 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 1: Disposizioni in materia di responsabile 
+ 
+ 
+In vigore dal 31/07/2026 pagina 28 di 3 
+ 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative della 
+SGR, di volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei 
+doveri di cui al successivo art. 6. La SGR gli garantisce l’accesso a tutte le informazioni 
+necessarie allo scopo. 
+3. Il Responsabile assiste alle riunioni dell’organo amministrativo e di quello di controllo 
+della SGR, per tutte le materie inerenti al Fondo. 
+Art. 6 -  Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli 
+aderenti e dei beneficiari e  vigila sull’osservanza della normativa e del Regolamento 
+nonché sul rispetto delle buone pratiche e dei principi di corretta amministrazione del 
+Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dalla SGR, organizza lo svolgimento 
+delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a 
+terzi di deleghe di gestione, con riferimento ai controlli su:  
+I. la politica di investimento. In particolare: che la politica di investimento 
+effettivamente seguita sia coerente con quella indicata nel Regolamento  e nel 
+Documento sulla politica di investimento e che gli investimenti, ivi compresi quelli 
+effettuati in OICR, avvengano nell’esclusivo interesse degli aderenti, nel rispetto 
+dei principi di sana e prudente gestione nonché nel rispetto dei criteri e limiti 
+previsti dalla normativa tempo per tempo vigente e dal Regolamento; 
+II. la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli 
+investimenti effettuati siano correttamente identificati, misurati e controllati e 
+che siano coerenti con gli obiettivi perseguiti dalla politica di investimento;  
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento 
+a terzi di deleghe di gestione, con riferimento ai controlli su:  
+I. la separatezza amministrativa e contabile delle operazioni poste in essere  per 
+conto del Fondo rispetto al complesso delle altre operazioni svolte dalla SGR e 
+del patrimonio del Fondo rispetto a quello della SGR e di suoi clienti; 
+II. la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti  e dei 
+beneficiari con riferimento ai controlli su: 
+I. l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative 
+degli aderenti e dei beneficiari, sia al momento del collocamento del Fondo che 
+durante il rapporto; 
+II. gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei 
+beneficiari previste dal Regolamento e le eventuali commissioni correlate ai 
+risultati di gestione siano correttamente applicate; 
+III. la completezza ed esaustività delle informazioni contenute nelle comunicazioni 
+periodiche agli aderenti e dei beneficiari e in quelle inviate in occasione di eventi 
+particolari; 
+IV. l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento 
+riservato ai singoli reclami; 
+V. la tempestività e la correttezza dell’erogazione delle prestazioni , in particolare
+=== pagina 30 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 1: Disposizioni in materia di responsabile 
+ 
+ 
+In vigore dal 31/07/2026 pagina 29 di 3 
+ 
+con riferimento ai tempi di liquidazione delle somme richieste a titolo di 
+anticipazione o riscatto e di trasferimento della posizione individuale.  
+3. Il Responsabile controlla le soluzioni adottate dalla SGR per identificare le situazioni di 
+conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti  e ai 
+beneficiari; egli controlla altresì la corretta esecuzione del contratto stipulato per il 
+conferimento dell’incarico di depositario, nonché il rispetto delle convenzioni 
+assicurative/condizioni per l’erogazione delle rendite e, ove presenti, delle 
+convenzioni/condizioni relative alle prestazioni accessorie. 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà 
+tempestiva comunicazione all’organo di amministrazione e a quello di controllo della 
+SGR indicando gli interventi correttivi da adottare. 
+Art. 7 -  Rapporti con la COVIP 
+1. Il Responsabile: 
+a) predispone annualmente una relazione che descrive in maniera analitica 
+l’organizzazione adottata per l’adempimento dei suoi doveri e che dà conto della 
+congruità delle procedure di cui si avvale per l’esecuzione dell’incarico, dei risultati 
+dell’attività s volta, delle eventuali irregolarità riscontrate durante l’anno e delle 
+iniziative poste in essere  per eliminarle. La relazione viene trasmessa alla COVIP 
+entro il 31 marzo di ciascun anno. 
+Copia della relazione stessa viene trasmessa all’organo di amministrazione e a 
+quello di controllo della SGR; 
+b) vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla 
+stessa le segnalazioni, la documentazione e le relazioni richieste dalla normativa e 
+dalle istruzioni emanate in proposito; 
+c) comunica alla COVIP, contestualmente alla segnalazione all’organo di 
+amministrazione e a quello di controllo della SGR, le irregolarità riscontrate 
+nell’esercizio delle sue funzioni. 
+Art. 8 -  Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste 
+dalla natura dell’incarico e dalla sua specifica competenza e deve conservare il segreto 
+sui fatti e sui documenti di cui ha conoscenza in ragione del suo ufficio,  tranne che nei 
+confronti della COVIP e delle autorità giudiziarie. 
+2. Egli risponde verso la SGR e verso i singoli aderenti e beneficiari al Fondo dei danni a 
+ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391, 2392, 2393, 
+2394, 2394-bis e 2395 del Codice Civile.
+=== pagina 31 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 1 di 14 
+ 
+ALLEGATO N. 2 
+CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE 
+CONVENZIONE PER L’ASSICURAZIONE DELLE PRESTAZIONI 
+PENSIONISTICHE COMPLEMENTARI IN FORMA DI RENDITA 
+VITALIZIA (DI SEGUITO “CONVENZIONE”) 
+tra 
+PensPlan Invest SGR S.p.A. (dal 25/09/2019 Euregio Plus SGR S.p.A.), società iscritta all’Albo 
+delle Società di Gestione del Risparmio tenuto dalla Banca d’Italia di cui all’art. 35 del D.Lgs. 
+24 febbraio 1998, n. 58 (di seguito il “TUF”) con il n. 29 della sezione gestori di OICVM e con il 
+n. 43 della sezione gestori di FIA, con sede in Bolzano, Via della Mostra 11/13, capitale sociale 
+euro 9.868.500,00 i.v ., codice fiscale, partita IVA ed iscrizione al Registro delle Imprese di 
+Bolzano n. 02223270212, la quale interviene nella sua qualità di soggetto istitutore del Fondo 
+Pensione Aperto denominato “Fondo Pensione Aperto PensPlan Profi ”, società sottoposta 
+alla direzione e coordinamento di PensPlan Centrum S.p.A., in persona del Direttore Generale 
+dott. Florian Schwienbacher, nato a Scena (BZ) il 27 agosto 1967, munito dei necessari poteri 
+per la conclusione del presente atto (di seguito, per brevità, denominato “FONDO PENSIONE”) 
+e 
+ITAS VITA S.p.A. , con Sede in Trento, Piazza delle Donne lavoratrici 2, capitale sociale euro 
+24.138.015,00 interamente versato, partita IVA n. 00367690229, codice fiscale ed iscrizione al 
+Registro delle Imprese di Trento n. 02593460583, autorizzata all’esercizio dell’ass icurazione 
+Vita con D.M. n. 6405 del 11/12/1968, in questo atto rappresentata dal dott. Ermanno Grassi, 
+nella veste di Direttore Generale, munito dei necessari poteri per la conclusione del presente 
+atto (di seguito, per brevità, denominata “COMPAGNIA”) 
+di seguito, congiuntamente intese le “PARTI”. 
+Premesso che 
+1. Il FONDO PENSIONE, istituito ai sensi dell’art. 12 del D.Lgs. 05/12/2005 n. 252 e successive 
+modificazioni e integrazioni con delibera del Consiglio di Amministrazione di data 
+27/05/2004, è autorizzato all’esercizio dell’attività ed è iscritto all’albo ist ituito presso la 
+Commissione di Vigilanza sui Fondi Pensione, in data 16/02/2005 con n.147.  
+2. La COMPAGNIA è autorizzata all’esercizio dell’attività di assicurazione sulla durata della 
+vita umana ed è in possesso dei requisiti fissati dall’ISVAP ai sensi dell’art. 6, comma 7, 
+del D.Lgs. 05/12/2005, n. 252. 
+3. Il FONDO PENSIONE e la COMPAGNIA hanno stipulato in data 13/03/2006 una Convenzione 
+per l’erogazione delle prestazioni pensionistiche complementari in forma di rendita 
+vitalizia. 
+4. La Convenzione di cui al punto precedente è stata sostituita dalla Convenzione stipulata 
+tra le PARTI in data 30/01/2007 per adeguarne i contenuti alle nuove previsioni normative 
+introdotte dal D.Lgs. 05/12/2005, n. 252 e per aggiornare i coefficienti di c onversione di
+=== pagina 32 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 2 di 14 
+ 
+cui agli allegati 1 e 2 della Convenzione stessa. 
+5. Le PARTI intendono adeguare il testo della Convenzione stipulata in data 30/01/2007 alla 
+Direttiva 2004/113/CE per quanto concerne il principio della parità di trattamento tra 
+uomini e donne nella fruizione di beni e servizi finanziari, con particolare rif erimento alle 
+tariffe e alle prestazioni assicurative, tra le quali rientrano appunto le tabelle di calcolo 
+riportate nelle convenzioni sottoscritte dalle forme pensionistiche complementari per 
+l'erogazione delle rendite. 
+6. In seguito alla comunicazione ANIA del 14 maggio 2015 che dispone, in base all’art. 13 e 15 
+del Regolamento ISVAP n. 21 del 28 marzo 2008, l’adeguamento del tasso annuo di 
+interesse garantibile (TMG) nei contratti di assicurazione sulla vita e di capitaliz zazione, 
+le PARTI intendono adeguare il testo della Convenzione stipulata in data 30/01/2007 e già 
+modificata in data 22/12/2012. Tale modifica comporta la diminuzione del tasso tecnico 
+garantito dal 2% allo 0%. 
+7. Le PARTI intendono adeguare il testo della Convenzione in conformità al secondo comma 
+dell’art. 9 del citato Regolamento IVASS n. 21 del 28 marzo 2008 in quanto, verificata la 
+variazione delle probabilità di sopravvivenza desunte dalle statistiche nazional i sulla 
+popolazione di fonte ISTAT, intende introdurre le nuove basi demografiche per il calcolo 
+delle prestazioni (denominate “A62D - tasso tecnico 0%”). 
+8. A decorrere dal 1° luglio 2015, in relazione alle tariffe per l’erogazione delle rendite a favore 
+degli aderenti al FONDO PENSIONE che maturano i requisiti di accesso alle prestazioni 
+pensionistiche complementari previste, la Convenzione si intende pertant o modificata 
+come di seguito riportato. 
+Le premesse e gli allegati costituiscono parte integrante e sostanziale della Convenzione.  
+Tutto ciò premesso, le Parti convengono e stipulano la seguente
+=== pagina 33 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 3 di 14 
+ 
+CONVENZIONE PER L’ASSICURAZIONE DELLE PRESTAZIONI PENSIONISTICHE 
+COMPLEMENTARI IN FORMA DI RENDITA VITALIZIA 
+che annulla e sostituisce la Convenzione di cui alle premesse, stipulata tra le PARTI in data 
+30/01/2007 e modificata successivamente in data 21 dicembre 2012, ad eccezione di quanto 
+previsto dall’articolo 1, comma 4 che segue, in tema di esercizio del dir itto alla prestazione 
+pensionistica complementare nei tre anni successivi al 1° luglio 2015.  
+Art. 1 -  Oggetto della Convenzione – Prestazioni assicurate 
+1. La Convenzione ha per oggetto l’assicurazione di una rendita vitalizia immediata 
+rivalutabile sulla testa degli aderenti al FONDO PENSIONE (di seguito indicati come 
+“ASSICURATI” e “ASSICURATO”) che, avendo maturato i requisiti d’accesso alle prestazioni 
+pensionistiche complementari previste dal Regolamento del FONDO PENSIONE, siano 
+inseriti in assicurazione su indicazione del FONDO PENSIONE stesso. 
+2. Il FONDO PENSIONE può richiedere, in relazione al singolo ASSICURATO, che, in luogo della 
+rendita di cui al comma 1, sia erogata una delle seguenti altre rendite vitalizie:  
+a) una rendita vitalizia immediata reversibile. Detta rendita è corrisposta all’aderente 
+finché è in vita e successivamente, in misura totale o per quota scelta dall’iscritto 
+stesso, alla persona da lui designata; 
+b) una rendita immediata certa e successivamente vitalizia. Detta rendita per i primi 
+5 o 10 anni (a seconda della scelta dell’iscritto) è corrisposta all’aderente o, in caso 
+di suo decesso, alla persona da lui designata e, successivamente, all’aderente 
+stesso finché è in vita. 
+3. L’importo annuo delle rendite di cui ai precedenti commi 1 e 2 lett  b) viene inizialmente 
+determinato moltiplicando il premio versato alla COMPAGNIA ai sensi del successivo art. 
+2, al netto delle imposte, per il coefficiente indicato nell’Allegato n. 2A (nel caso di scelta 
+della rendita vitalizia immediata), nell’Allegato  n. 2B (nel caso di scelta della rendita 
+immediata certa per i primi 5 anni e successivamente vitalizia) o nell’Allegato n. 2C (nel 
+caso di scelta della rendita immediata certa per i primi 10 anni e successivamente 
+vitalizia) e dividendo il risultato per 1.000, con i criteri ivi previsti. 
+4. I coefficienti indicati nell’Allegato n. 2 (A62D – tasso tecnico 0%) della presente 
+Convenzione sono operanti per tutti gli aderenti al FONDO PENSIONE, sia su base 
+individuale che su base collettiva, fatta eccezione per gli ASSICURATI già iscritti al FONDO 
+PENSIONE alla data 30 giugno 2015 che eserciteranno il diritto alla prestazione 
+pensionistica complementare nei tre anni successivi al 1° luglio 2015 ovvero fino al 30 
+giugno 2018. Per i suddetti ASSICURATI troveranno applicazione i coefficienti 
+precedentemente in vigore indicati nell’Allegato n. 4 (IPS55 unisex – tasso tecnico 2%). 
+Per gli ASSICURATI già iscritti al FONDO PENSIONE alla data del 20 dicembre 2012 che 
+eserciteranno il diritto alla prestazione pensionistica complementare nei tre anni 
+successivi al 21 dicembre 2012 ovvero fino al 20 dicembre 2015, troveranno applicazione 
+i coefficienti precedentemente in vigore indicati nell’Allegato n. 5 (IPS55 distinte per 
+sesso – tasso tecnico 2%). 
+5. Le rendite, come quantificate al precedente comma 3, saranno annualmente rivalutate 
+secondo quanto previsto nell’Allegato n. 1.
+=== pagina 34 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 4 di 14 
+ 
+Art. 2 -  Premio di assicurazione 
+1. La COMPAGNIA s’impegna a corrispondere al direttamente agli ASSICURATI aderenti al 
+FONDO PENSIONE le rendite oggetto della presente Convenzione a fronte del pagamento 
+di un premio unico per ciascuna rendita assicurata. 
+2. I premi saranno pagati con le seguenti modalità e termini: il FONDO PENSIONE 
+trasmetterà alla COMPAGNIA la richiesta di pagamento della rendita, con un modulo a 
+ciò predisposto che conterrà i dati anagrafici dell’ASSICURATO, nonché l’ammontare del 
+premio unico, la tipologia e la rateizzazione prescelta. 
+3. La COMPAGNIA rilascerà una quietanza a fronte del pagamento di ciascun premio, 
+comprensivo di imposte e tasse, riportante l’indicazione degli estremi identificativi 
+dell’ASSICURATO e l’importo della prestazione assicurata. 
+4. Per l’elaborazione dei coefficienti di cui all’art. 1, comma 3, sono stati applicati i 
+caricamenti determinati secondo i criteri riportati nell’Allegato n. 1.  
+Art. 3 -  Obblighi di comunicazione 
+1. Il FONDO PENSIONE, all’atto dell’inserimento di ciascun Aderente in Convenzione, si 
+impegna a trasmettere alla COMPAGNIA un apposito modulo contenente la tipologia di 
+rendita scelta, la rateizzazione, tutti i dati anagrafici e fiscali dell’ASSICURATO e del le 
+eventuali teste reversionarie. 
+2. Le dichiarazioni del FONDO PENSIONE devono essere esatte e complete; l’inesatta 
+indicazione dei dati dell’Aderente o della testa reversionaria comporta la rettifica 
+dell’importo della rendita. 
+Art. 4 -  Pagamento della rendita 
+1. Ciascuna rendita avrà decorrenza dal primo giorno del mese successivo alla data di 
+pagamento del premio e di consegna del modulo di cui all’art. 3, comma 1, e sarà 
+erogata in rate posticipate con le seguenti modalità: 
+a) frequenza mensile; 
+b) frequenza semestrale; 
+c) frequenza annuale. 
+2. L’erogazione della rendita cesserà con l’ultima scadenza di rata precedente la morte 
+dell’Aderente, fatto salvo quanto previsto dal comma 2 dell’art. 1. 
+3. Le prestazioni oggetto della presente Convenzione sono erogate direttamente all’avente 
+diritto. 
+Art. 5 -  Valore di riscatto 
+1. Le rendite oggetto della presente Convenzione non ammettono valore di riscatto.  
+Art. 6 -  Decorrenza e durata 
+1. La presente Convenzione ha decorrenza 1° luglio 2015 ed ha durata di cinque anni.  
+2. La presente Convenzione è rinnovata tacitamente per uguale periodo, salvo preavviso 
+delle PARTI, che dovrà essere comunicato almeno tre mesi prima della scadenza.  
+Art. 7 -  Recesso 
+1. Il FONDO PENSIONE può recedere dalla presente Convenzione con disdetta scritta, da
+=== pagina 35 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 5 di 14 
+ 
+inviare alla COMPAGNIA, ed il recesso avrà effetto il terzo mese successivo.  
+2. La COMPAGNIA può recedere dalla presente Convenzione con disdetta scritta, da inviare 
+al FONDO PENSIONE, ed il recesso avrà effetto il terzo mese successivo.  
+3. Il recesso non ha effetto sulle rendite in corso di erogazione, che restano in vigore alle 
+condizioni previste dalla presente Convenzione. 
+Art. 8 -  Tasse, bolli ed imposte 
+1. Tutte le spese per tasse, bolli ed imposte, dovute in conformità a leggi presenti e future, 
+sia sul premio unico versato sia sulla rendita convenuta, sono a carico degli ASSICURATI 
+aderenti al FONDO PENSIONE. 
+Art. 9 -  Tasso massimo di interesse garantito 
+1. Le eventuali modifiche del tasso massimo di interesse garantito, determinato dall’IVASS, 
+ai sensi della normativa vigente, sono applicate alla tariffa oggetto della presente 
+Convenzione relativamente agli aderenti non ancora inseriti nella presente Convenzione. 
+Art. 10 -  Clausola finale 
+1. I tassi di premio fissati nella presente Convenzione possono essere modificati sulla base 
+del confronto tra le basi tecniche adottate, diverse dal tasso di interesse, ed i risultati 
+dell’esperienza diretta. 
+2. Le eventuali modifiche verranno applicate agli iscritti al FONDO PENSIONE inseriti in 
+assicurazione successivamente all’entrata in vigore delle modifiche stesse, previa 
+comunicazione al FONDO PENSIONE da effettuarsi a mezzo raccomandata A.R. entro 7 
+giorni dalla loro adozione. 
+3. Nell’ipotesi di cui al comma 1, il FONDO PENSIONE ha facoltà di recesso da esercitarsi entro 
+30 giorni dalla ricezione della comunicazione di cui al comma 2, a mezzo raccomandata 
+A.R. 
+ 
+ 
+Allegati: 
+Allegato n. 1: condizioni e modalità di erogazione delle rendite; 
+Allegato n. 2: Coefficienti di conversione A62D – tasso tecnico 0%, in vigore dal 1° luglio 2015; 
+a) coefficienti di conversione da capitale in rendita vitalizia immediata;  
+b) coefficienti di conversione da capitale in rendita certa per i primi 5  anni e 
+successivamente vitalizia; 
+c) coefficienti di conversione da capitale in rendita certa per i primi 10 anni e 
+successivamente vitalizia. 
+Allegato n. 3: regolamento del “Nuovo Fondo Rivalutazione Vita – FOREVER”. 
+Allegato n. 4: coefficienti di conversione IPS55 Unisex – tasso tecnico 2%, in vigore dal 21 
+dicembre 2012 fino al 30 giugno 2015. Applicabili agli ASSICURATI già iscritti al FONDO 
+PENSIONE alla data 30 giugno 2015 che eserciteranno il diritto alla prestazione pensionistica 
+complementare nei tre anni successivi al 1° luglio 2015 ovvero fino al 30 giugno 2018  
+a) coefficienti di conversione da capitale in rendita vitalizia immediata;  
+b) coefficienti di conversione da capitale in rendita certa per i primi 5  anni e
+=== pagina 36 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 6 di 14 
+ 
+successivamente vitalizia; 
+c) coefficienti di conversione da capitale in rendita certa per i primi 10 anni e 
+successivamente vitalizia. 
+Allegato n. 5: coefficienti di conversione IPS55 distinte per sesso – tasso tecnico 2%, in vigore 
+fino al 20 dicembre 2012 e applicabili agli ASSICURATI già iscritti al FONDO PENSIONE alla data 
+del 20 dicembre 2012 che esercitano il diritto alla prestazion e pensionistica nei tre anni 
+successivi ovvero dal 21 dicembre 2012 al 20 dicembre 2015 
+a) coefficienti di conversione da capitale in rendita vitalizia immediata;  
+b) coefficienti di conversione da capitale in rendita certa per i primi 5 anni e 
+successivamente vitalizia; 
+c) coefficienti di conversione da capitale in rendita certa per i primi 10 anni e 
+successivamente vitalizia. 
+ 
+PENSPLAN INVEST SGR S.p.A.                                 ITAS VITA S.p.A.
+=== pagina 37 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 7 di 14 
+ 
+ALLEGATO N. 1: CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE 
+Art. 1 -  Prestazione in forma di rendita 
+1. Ai sensi dell’art. 12 del Regolamento, la COMPAGNIA garantisce all’aderente la 
+corresponsione di una rendita vitalizia immediata annua, impiegando quale premio 
+unico il valore maturato della posizione individuale, integrato dall’eventuale garanzia di 
+risultato ed al netto dell’eventuale prestazione in forma di capitale erogata all’aderente 
+stesso. Il valore iniziale della rendita annua si ottiene moltiplicando il capitale utilizzato 
+quale premio unico per il coefficiente di conversione di cui all’Allegato n. 2, relativo all’età 
+dell’aderente alla data di decorrenza della rendita e alla rateazione prescelta e 
+dividendo il risultato per 1.000. Se la rateazione prescelta è diversa da quella annuale, il 
+valore iniziale di ciascuna rata di rendita si ottiene dividendo il valore della rendita annua 
+per il numero di rate da corrispondere nell’anno (2 se semestrali, 12 se mensili).  
+2. In alternativa alla rendita di cui al comma 1, su esplicita richiesta dell’aderente, la 
+COMPAGNIA garantisce: 
+a) una rendita vitalizia immediata annua reversibile, di cui all’art. 12, comma 2, del 
+Regolamento; 
+b) una rendita immediata annua certa per i primi 5 o 10 anni e successivamente 
+vitalizia, di cui all’art. 12, comma 2, del Regolamento. Il valore iniziale della rendita 
+annua si ottiene moltiplicando il capitale utilizzato quale premio unico per il 
+coefficiente di conversione di cui all’Allegato n. 2B (nel caso di scelta della rendita 
+certa per i primi 5 anni) o all’Allegato n. 2C (nel caso di scelta della rendita certa 
+per i primi 10 anni) variabile in funzione dell’età dell’aderente alla data di decorrenza 
+della rendita e della rateazione prescelta e dividendo il risultato per 1.000.  
+3. Ciascuna rendita avrà decorrenza dal primo giorno del mese successivo alla data di 
+pagamento del premio. 
+4. L’aderente si impegna a comunicare alla COMPAGNIA: 
+a) la forma di rendita scelta tra le opzioni previste; 
+b) la rateazione della rendita prescelta; 
+c) i dati anagrafici dell’eventuale reversionario; 
+d) la quota di prestazione da erogare in forma di capitale. 
+5. Nel caso di opzione della rendita di cui al precedente comma 2, in caso di decesso 
+dell’aderente, l’avente diritto è tenuto a richiedere il pagamento della rendita e a 
+trasmettere alla COMPAGNIA il proprio certificato di nascita o copia di un documento di 
+riconoscimento valido riportante i dati anagrafici ed il certificato di morte dell’aderente.  
+6. Al fine di verificare l’obbligo di pagamento, la COMPAGNIA si riserva di richiedere ad ogni 
+ricorrenza annuale il certificato di esistenza in vita dell’avente diritto.  
+7. Le rendite di cui al presente articolo non ammettono valore di riscatto.  
+Art. 2 -  Pagamento della rendita 
+1. La rendita annua viene corrisposta, in via posticipata, nella rateazione scelta 
+dall’aderente tra le seguenti opzioni: mensile, semestrale o annuale.  
+2. Il pagamento della rendita sarà effettuato mediante bonifico bancario sul conto 
+corrente indicato dall’avente diritto, entro 15 giorni dalla data di scadenza delle singole 
+rate.
+=== pagina 38 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 8 di 14 
+ 
+3. L’erogazione della rendita cesserà con l’ultima scadenza di rata precedente la morte 
+dell’aderente, fatto salvo quanto previsto dal comma 2 dell’art. 1.  
+Art. 3 -  Modalità di rivalutazione annuale delle rendite assicurate  
+1. I contratti di rendita sopra descritti sono collegati ad una specifica Gestione interna 
+separata, denominata FOREVER, disciplinata da apposito regolamento (vedi allegato n. 
+3). 
+2. La Società determina al termine di ogni mese il tasso medio di rendimento realizzato da 
+FOREVER nel periodo di osservazione annuale, corrispondente ai 12 mesi di calendario 
+trascorsi, con i criteri indicati al punto 9 del regolamento. 
+3. Con riferimento al presente contratto, il rendimento medio preso a riferimento per il 
+calcolo del rendimento annuo attribuito e della corrispondente misura annua di 
+rivalutazione della rendita, sotto definiti, è quello determinato al termine del quarto mese 
+antecedente la data di rivalutazione annua. 
+4. Il rendimento annuo attribuito alla rendita è pari al rendimento realizzato da FOREVER 
+moltiplicato per l’aliquota di partecipazione pari al 90%. Il rendimento così calcolato non 
+può comunque risultare superiore al rendimento realizzato da FOREVER diminuit o di 1,00 
+punto. 
+5. Considerato che il valore iniziale della rendita assicurata è stato calcolato riconoscendo 
+in via anticipata il tasso di interesse del 0% annuo composto (tasso tecnico), la misura 
+annua di rivalutazione si ottiene scontando per il periodo di un anno al suddetto tasso di 
+interesse la differenza fra il rendimento annuo attribuito ed il medesimo tasso.  
+6. Ad ogni anniversario della data di decorrenza della rendita, la rendita in vigore nell’anno 
+precedente viene rivalutata nella misura annua di rivalutazione sopra definita.  
+7. La misura annua della rivalutazione e la nuova prestazione vengono comunicate 
+annualmente all’avente diritto. 
+Art. 4 -  Coefficienti di conversione e caricamenti applicati 
+1. I coefficienti di conversione del capitale maturato in rendita sono quelli in vigore al 
+momento della conversione stessa. A partire dal 1° luglio 2015 verranno applicati i 
+coefficienti di cui all’Allegato n. 2 calcolati:  
+a) sulla base demografica (denominata A62D) senza distinzione per sesso, relativa 
+allo studio basato su dati ISTAT effettuato da ANIA;  
+b) sulla base di un tasso tecnico stabilito nella misura del 0%. 
+2. Successivamente, i coefficienti iniziali potranno essere rivisti in base alle statistiche 
+disponibili e/o ad un diverso tasso tecnico utilizzato. 
+3. I caricamenti previsti sono: 
+a) caricamento di gestione dell’1% calcolato sul premio unico di polizza;  
+b) caricamento di erogazione dell’1,25% calcolato sull’annualità della rendita.  
+4. I coefficienti di conversione della rendita vitalizia immediata annua reversibile di cui 
+all’art. 1 – comma 2 – lett. a) sono depositati presso la Sede del Fondo. Per tale rendita la 
+base demografica, il tasso tecnico ed i caricamenti sono gli stessi di cu i sopra.
+=== pagina 39 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 9 di 14 
+ 
+ALLEGATO 2 : COEFFICIENTI DI CONVERSIONE A62D – tasso tecnico 0%  
+in vigore dal 1° luglio 2015 
+A. Coefficienti di conversione da capitale in rendita vitalizia immediata;  
+B. Coefficienti di conversione da capitale in rendita certa per i primi 5  anni e 
+successivamente vitalizia; 
+C. Coefficienti di conversione da capitale in rendita certa per i primi 10 anni e 
+successivamente vitalizia. 
+Le età verranno rettificate in base alla generazione di nascita secondo la seguente scala di 
+shifting: 
+Generazione Correzione età 
+dal 1922 al 1927 +4 
+dal 1928 al 1938 +3 
+dal 1939 al 1947 +2 
+dal 1948 al 1957 +1 
+dal 1958 al 1966 0 
+dal 1967 al 1977 -1 
+dal 1978 al 1989 -2
+=== pagina 40 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 10 di 14 
+ 
+ALLEGATO 2 A : COEFFICIENTI DI CONVERSIONE DA CAPITALE IN RENDITA  
+VITALIZIA IMMEDIATA 
+Coefficienti di conversione per ogni 1000 euro di capitale al termine in rendita vitalizia 
+posticipata rivalutabile, distinti in base all’età dell’aderente alla data di decorrenza della 
+rendita e alla rateazione della stessa (A62D; tasso tecnico 0%). 
+ 
+ RATEAZIONE RENDITA 
+Età+correzione ANNUALE SEMESTRALE MENSILE 
+50 25,17 25,01 24,88 
+51 25,81 25,64 25,50 
+52 26,47 26,30 26,15 
+53 27,17 26,99 26,83 
+54 27,91 27,71 27,55 
+55 28,68 28,47 28,30 
+56 29,50 29,28 29,10 
+57 30,36 30,12 29,93 
+58 31,27 31,02 30,82 
+59 32,23 31,97 31,75 
+60 33,25 32,97 32,74 
+61 34,33 34,04 33,79 
+62 35,49 35,17 34,91 
+63 36,71 36,37 36,09 
+64 38,01 37,65 37,35 
+65 39,40 39,01 38,69 
+66 40,89 40,46 40,12 
+67 42,48 42,02 41,65 
+68 44,19 43,70 43,30 
+69 46,04 45,51 45,07 
+70 48,04 47,45 46,98 
+71 50,19 49,56 49,04 
+72 52,53 51,83 51,27 
+73 55,07 54,30 53,68 
+74 57,82 56,98 56,29 
+75 60,82 59,89 59,13 
+76 64,09 63,06 62,22 
+77 67,67 66,52 65,59 
+78 71,59 70,31 69,27 
+79 75,88 74,43 73,27 
+80 80,57 78,94 77,64 
+81 85,70 83,87 82,39 
+82 91,33 89,25 87,58 
+83 97,52 95,15 93,26 
+84 104,34 101,63 99,47 
+85 111,82 108,71 106,25
+=== pagina 41 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 11 di 14 
+ 
+ALLEGATO 2 B : COEFFICIENTI DI CONVERSIONE DA CAPITALE IN RENDITA 
+CERTA PER I PRIMI 5 ANNI E SUCCESSIVAMENTE VITALIZIA 
+Coefficienti di conversione per ogni 1000 euro di capitale al termine in rendita posticipata 
+rivalutabile certa per i primi 5 anni e successivamente vitalizia  distinti in base all'età 
+dell'aderente alla data di decorrenza della rendita e alla rateazione della stessa (a62d; tasso 
+tecnico 0%) 
+ RATEAZIONE RENDITA 
+Età+correzione ANNUALE SEMESTRALE MENSILE 
+50 25,16 25,00      24,87  
+51 25,79 25,63      25,49  
+52 26,46 26,28      26,14  
+53 27,16 26,97      26,82  
+54 27,89 27,69      27,53  
+55 28,66 28,45      28,28  
+56 29,47 29,25      29,07  
+57 30,33 30,10      29,91  
+58 31,23 30,99      30,79  
+59 32,19 31,93      31,72  
+60 33,20 32,93      32,70  
+61 34,28 33,99      33,75  
+62 35,42 35,11      34,85  
+63 36,63 36,30      36,03  
+64 37,92 37,57      37,27  
+65 39,30 38,92      38,60  
+66 40,76 40,36      40,02  
+67 42,34 41,90      41,54  
+68 44,02 43,55      43,16  
+69 45,84 45,32      44,90  
+70 47,79 47,23      46,78  
+71 49,89 49,29      48,79  
+72 52,15 51,50      50,97  
+73 54,60 53,89      53,31  
+74 57,24 56,46      55,83  
+75 60,09 59,24      58,55  
+76 63,16 62,24      61,49  
+77 66,49 65,48      64,66  
+78 70,08 68,98      68,08  
+79 73,93 72,73      71,75  
+80 78,07 76,75      75,69  
+81 82,50 81,06      79,90  
+82 87,22 85,65      84,39  
+83 92,23 90,54      89,17  
+84 97,53 95,70      94,22  
+85 103,05 101,08      99,50
+=== pagina 42 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 12 di 14 
+ 
+ALLEGATO 2 C : COEFFICIENTI DI CONVERSIONE DA CAPITALE IN RENDITA 
+CERTA PER I PRIMI 10 ANNI E SUCCESSIVAMENTE VITALIZIA 
+Coefficienti di conversione per ogni 1000 euro di capitale al termine in rendita posticipata 
+rivalutabile certa per i primi 10 anni e successivamente vitalizia distinti in base all'età 
+dell'aderente alla data di decorrenza della rendita e alla rateazione della stessa (A62D; tasso 
+tecnico 0%). 
+ RATEAZIONE RENDITA 
+ETÀ+correzione ANNUALE SEMESTRALE MENSILE 
+50 25,12 24,96      24,83  
+51 25,75 25,58      25,45  
+52 26,41 26,23      26,09  
+53 27,10 26,92      26,77  
+54 27,82 27,63      27,47  
+55 28,58 28,38      28,21  
+56 29,38 29,17      29,00  
+57 30,23 30,00      29,82  
+58 31,12 30,88      30,68  
+59 32,06 31,80      31,60  
+60 33,05 32,78      32,56  
+61 34,10 33,81      33,58  
+62 35,21 34,91      34,66  
+63 36,38 36,07      35,80  
+64 37,63 37,29      37,01  
+65 38,95 38,59      38,30  
+66 40,36 39,97      39,66  
+67 41,85 41,44      41,10  
+68 43,43 43,00      42,64  
+69 45,12 44,65      44,27  
+70 46,92 46,42      46,01  
+71 48,82 48,29      47,86  
+72 50,83 50,27      49,81  
+73 52,96 52,36      51,88  
+74 55,20 54,57      54,05  
+75 57,55 56,89      56,34  
+76 60,01 59,30      58,73  
+77 62,55 61,82      61,22  
+78 65,18 64,42      63,80  
+79 67,85 67,06      66,43  
+80 70,53 69,74      69,08  
+81 73,19 72,39      71,74  
+82 75,78 74,99      74,34  
+83 78,29 77,51      76,88  
+84 80,68 79,94      79,31  
+85 82,96 82,23      81,64
+=== pagina 43 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 13 di 14 
+ 
+ALLEGATO 3 : REGOLAMENTO NUOVO FONDO RIVALUTAZIONE VITA - 
+FOREVER 
+1. Viene attuata una speciale forma di gestione degli investimenti, separata da quella delle 
+altre attività dell’ITAS VITA S.p.A., che viene contraddistinta con il nome “Nuovo Fondo 
+Rivalutazione Vita” ed indicata nel seguito con la sigla FOREVER. La gestione  FOREVER è 
+conforme al Regolamento ISVAP n. 38 del 3 giugno 2011 e si atterrà ad eventuali 
+successive disposizioni; 
+2. La valuta di denominazione è l’Euro; 
+3. Il periodo di osservazione per la determinazione del tasso medio di rendimento è 
+annuale e decorre dal 1° novembre dell’anno precedente fino al 31 ottobre dell’anno di 
+determinazione. 
+All’interno del suddetto periodo di osservazione, viene inoltre determinato al termine di 
+ogni mese un tasso medio di rendimento riferito ad un periodo annuale corrispondente 
+ai 12 mesi di calendario trascorsi; 
+4. Gli obiettivi della gestione separata sono riconducibili ad una valorizzazione del 
+patrimonio della stessa, liberando annualmente quella parte di utili e di plusvalenze 
+sufficienti a garantire una redditività costante nel tempo della gestione, calcolata 
+secondo le indicazioni e le direttive riprese dal Regolamento n. 38 dell’Isvap.  
+Le politiche di investimento sono riconducibili a criteri di prudenza e di affidabilità degli 
+emittenti prescelti e, in particolare, assecondano i seguenti principi:  
+⚫ Le categorie di investimento sono quelle previste dal Regolamento Isvap n. 36 in 
+materia di copertura delle riserve tecniche dell’impresa, ovvero (tra parentesi è 
+indicato il limite massimo consentito rispetto al totale del patrimonio della 
+gestione separata): titoli di debito ed altri titoli assimilabili (100%), titoli di capitale 
+ed altri valori assimilabili (35%), valori del comparto immobiliare con esclusione 
+degli immobili destinati all’esercizio dell’impresa (40%), investimenti alternativi 
+(10%), crediti con esclusione di quelli infruttiferi e di quelli verso riassicuratori (25%), 
+depositi bancari o verso enti creditizi (15%). 
+⚫ Il limite qualitativo viene espresso in termini di solidità dell’investimento misurata 
+attraverso il rating della singola emissione, all’atto dell’acquisto o dell’inserimento 
+dell’attivo nella gestione separata ed integrata da analisi indipendenti;  
+⚫ Le emissioni non dotate di un rating od in possesso di un rating inferiore a BBB - di 
+Standard & Poor’s o merito equivalente, sono ammesse per una percentuale non 
+superiore al 6,0% dell’intero portafoglio della gestione separata;  
+⚫ Le emissioni non quotate in mercati regolamentati sono ammesse per una 
+percentuale non superiore al 5,0% dell’intero portafoglio della gestione separata;  
+⚫ Il limite quantitativo per ogni singolo emittente, con esclusione degli Stati sovrani 
+aderenti all’Unione Europea, viene espresso nella percentuale massima del 7,0% 
+dell’intero portafoglio della gestione separata; 
+⚫ I limiti di investimento, in relazione ai rapporti con le controparti di cui all’art. 5 del 
+Regolamento Isvap n. 25 che disciplina le possibili situazioni di conflitto di interessi, 
+sono definiti nel 1% dell’intero portafoglio della gestione separata;  
+⚫ L’impiego di strumenti finanziari derivati è ammesso sia per la gestione efficace e 
+sia per la copertura del rischio, nel rispetto delle condizioni per l’utilizzo previste
+=== pagina 44 ===
+PensPlan Profi Fondo Pensione Aperto Regolamento 
+Allegato 2: Condizioni e modalità di erogazione delle rendite 
+ 
+ 
+In vigore dal 31/07/2026 pagina 14 di 14 
+ 
+dalla normativa vigente in materia di attività a copertura delle riserve tecniche;  
+5. Il valore delle attività gestite da FOREVER non può essere inferiore all’importo delle riserve 
+matematiche costituite per i contratti a prestazioni rivalutabili in base ai rendimenti 
+realizzati dalla gestione stessa; 
+6. Ai sensi dell’art.6 comma 1 lettera G del Regolamento ISVAP n.38, la Società ha la facoltà 
+di effettuare modifiche al Regolamento derivanti dall’adeguamento dello stesso alla 
+normativa primaria e secondaria vigente, oppure a fronte di mutati criteri gestionali con 
+esclusione, in tale ultimo caso, di quelle meno favorevoli per l’Assicurato;  
+7. Sulla gestione interna separata FOREVER possono gravare unicamente le spese relative 
+all’attività di verifica contabile effettuata dalla società di revisione e quelle 
+effettivamente sostenute per l’acquisto e la vendita delle attività della gestione 
+separata. Non sono consentite altre forme di prelievo, in qualsiasi modo effettuate;  
+8. Il rendimento della gestione separata beneficia di eventuali utili derivanti dalla 
+retrocessione di commissioni o di altri proventi ricevuti dall’impresa in virtù di accordi 
+con soggetti terzi e riconducibili al patrimonio della gestione; 
+9. Il tasso medio di rendimento della gestione separata FOREVER, relativo al periodo di 
+osservazione di cui al precedente punto 3, è determinato rapportando il risultato 
+finanziario della gestione separata FOREVER alla giacenza media delle attività della 
+gestione stessa. 
+Il risultato finanziario della gestione separata FOREVER è costituito dai proventi finanziari 
+di competenza conseguiti dalla gestione stessa, comprensivi degli scarti di emissione e 
+di negoziazione di competenza, dagli utili realizzati e dalle perdite soff erte nel periodo di 
+osservazione. 
+Gli utili realizzati comprendono anche eventuali utili derivanti dalla retrocessione di 
+commissioni o di altri proventi ricevuti dall’impresa in virtù di accordi con soggetti terzi e 
+riconducibili al patrimonio della gestione separata. Le plusvalenze e le minusvalenze 
+vanno prese in considerazione, nel calcolo del risultato finanziario, solo se effettivamente 
+realizzate nel periodo di osservazione. Il risultato finanziario è calcolato al netto delle 
+spese effettivamente sostenute per l’acquisto e la vendita  delle attività, per l’attività di 
+verifica contabile ed al lordo delle ritenute di acconto fiscale. Gli utili e le perdite da 
+realizzo sono determinati con riferimento al valore di iscrizione delle corrispondenti 
+attività nel libro mastro della gestione s eparata e cioè per le attività di nuova 
+acquisizione al prezzo di acquisto e per le attività già di proprietà della Società al valore 
+corrente rilevato alla data di immissione nella gestione separata stessa.  
+La giacenza media delle attività della gestione separata è pari alla somma delle 
+giacenze medie nel periodo di osservazione dei depositi in numerario, degli investimenti 
+e di ogni altra attività della gestione separata. La giacenza media nel periodo di 
+osservazione degli investimenti e delle altre attività è determinata in base al valore di 
+iscrizione nel libro mastro della gestione separata; 
+10. La gestione separata è sottoposta alla verifica da parte di una società di revisione iscritta 
+nell’apposito registro previsto dalla normativa vigente; 
+11. Il regolamento della gestione separata FOREVER è parte integrante delle Condizioni 
+Contrattuali.
+=== pagina 45 ===
+SEDE LEGALE 
+39100 BOLZANO – Passaggio Duomo, 15 
+Tel. 0471 068 700 
+Fax 0471 068 766 
+profi@euregioplus.com 
+PEC: fondoprofi@pec.it 
+ 
+info@pensplan-invest.com

@@ -1,0 +1,929 @@
+# Fondo: AZIMUT SUSTAINABLE FUTURE - FONDO PENSIONE APERTO (azimut-sustainable-future)
+# Documento: Documento sul sistema di governo – DOCUMENTO SUL SISTEMA DI GOVERNO SOCIETARIO AFFERENTE ALLA GESTIONE DEI FONDI PENSIONE APERTI
+# Fonte: https://www.azimut.it/archives/documento-sul-sistema-di-governo-societario-afferente-alla-gestione-dei-fondi-pensione-aperti
+# Citato in: https://www.azimut.it/prodotti-previdenziali/azimut-sustainable-future
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 7d208be1835b81061a7ea2ad2979cc10ef0209826e5892bf0a6bc67742b14079
+# Pagine: 28
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Aprile 2026 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SUL SISTEMA DI 
+GOVERNO SOCIETARIO AFFERENTE 
+ALLA GESTIONE DEI  
+FONDI PENSIONE APERTI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aprile 2026
+=== pagina 2 ===
+Aprile 2026 2 
+ 
+ 
+INDICE 
+ 
+1 PREMESSA pag. 3 
+2 QUADRO NORMATIVO DI RIFERIMENTO pag. 4 
+3 DEFINIZIONI pag. 5 
+4 RUOLI E RESPONSABILITA’ pag. 6 
+5 PROFILI ORGANIZZATIVI pag. 10 
+5.1 Organo di Amministrazione pag. 10 
+5.2 Comitato Investimenti pag. 12 
+5.3 Comitato Sostenibilità pag. 13 
+5.4 Responsabile del Fondo Pensione pag. 14 
+5.5 Sistema dei controlli interni pag. 16 
+5.6 Funzione Compliance pag. 17 
+5.7 Funzioni Fondamentali pag. 17 
+5.8 Depositario e Gestore Amministrativo Pag. 21 
+5.9  Gestore delle posizioni individuali Pag. 22 
+5.10 Funzioni e attività esternalizzate Pag. 22 
+6 POLITICA DI REMUNERAZIONE Pag. 24 
+7 REGOLAMENTAZIONE INTERNA DI RIFERIMENTO Pag. 27
+=== pagina 3 ===
+Aprile 2026 3 
+ 
+1. PREMESSA 
+Il presente “ Documento sul sistema di governo societario afferente alla gestione 
+dei fondi  pensione aperti” (di seguito anche il “Documento”) ha lo scopo di 
+disciplinare il sistema di  governo dei Fondi Pensione aperti (di seguito anche 
+“Fondo” o “Fondi”) istituiti e gestiti da  Azimut Capital Management SGR S.p.A. (di 
+seguito anche “Società” o “SGR”), così da garantire il  rispetto della normativa in 
+tema di forme pensionistiche complementari. In particolare, esso  illustra 
+l’organizzazione della Società rilevante per i pr ofili gestionali inerenti ai fondi 
+pensione, compresa una sintetica descrizione dei controlli interni, del sistema di 
+gestione dei rischi, dei flussi informativi tra le strutture aziendali e il Responsabile di 
+ogni Fondo Pensione, nonché le  informazioni essenziali relative alla politica di 
+remunerazione del Responsabile di ogni Fondo Pensione e dei titolari delle funzioni 
+fondamentali di gestione dei rischi e di revisione interna. 
+I Fondi Pensione istituiti e gestiti dalla SGR sono: Azimut Previdenza, iscritto all’Albo 
+tenuto dalla COVIP al n. 92 e Azimut Sustainable Future, iscritto all’Albo tenuto dalla 
+COVIP al n. 171. 
+Il presente Documento, approvato dall’Organo di Amministrazione dei Fondi 
+Pensione (i.e. il Consiglio di Amministrazione della SGR) in data 16 aprile 2026, forma 
+oggetto di pubblicazione sul sito web dei Fon di ed è soggetto a revisione  con 
+cadenza annuale.
+=== pagina 4 ===
+Aprile 2026 4 
+ 
+2. QUADRO NORMATIVO DI RIFERIMENTO 
+Il presente Documento è stato predisposto tenendo conto dei servizi e delle attività 
+prestate dalla Società nonché del vigente contesto normativo e regolamentare. 
+La principale fonte normativa è il Decreto Legislativo n. 252/2005, modificato dal 
+Decreto Legislativo n. 147/2018 al fine di dare attuazione alla Direttiva UE 2016/2341, 
+cd. IORP II, relativa alle attività e alla vigilanza degli enti pensionistici aziendali o 
+professionali (cd. EPAP). La Direttiva IORP II ha introdotto regole di armonizzazione 
+minima per le istituzioni che gestiscono EPAP, con l’obiettivo di mitigare le differenze 
+che sussistono tra gli Stati membri dell’UE in tema di organizzazione e 
+regolamentazione degli EPAP. 
+Si riportano di seguito le principali disposizioni di riferimento: 
+• Direttiva 2016/2341/UE relativa alle attività di vigilanza degli enti 
+pensionistici aziendali o professionali, cd. IORP II; 
+• D. Lgs. N. 252/2005, Disciplina delle forme pensionistiche complementari; 
+• COVIP, Deliberazione del 29/07/2020 - Direttive alle forme pensionistiche 
+complementari in merito alle modifiche e integrazioni recate al Decreto 
+legislativo 5 dicembre 2005, n. 252 dal Decreto legislativo 13 dicembre 
+2018, n. 147, in attuazione della Direttiva (UE) 2016/2341; 
+• COVIP, Deliberazione del 13/01/2021 - Istruzioni di vigilanza per le società 
+che gestiscono fondi pensione aperti, adottate ai sensi dell’art. 5-decies, 
+comma 1, del decreto legislativo 5 dicembre 2005, n. 252; 
+• EIOPA, Opinione sull’uso dei documenti di governance e di valutazione 
+dei rischi della vigilanza degli EPAP; 
+• EIOPA, Opinione sulla  supervisione della  gestione dei  rischi ambientali, 
+sociali e di governance (cd. ESG); 
+• “SFDR”: Regolamento (UE) 2019/2088 del Parlamento Europeo e del 
+Consiglio Europeo del 27 novembre 2019 relativo all’informativa sulla 
+sostenibilità nel settore dei servizi finanziari, e successive modifiche ed 
+integrazioni; 
+• “DORA”: Regolamento (UE) 2022/2554 del Parlamento europeo e del 
+Consiglio del 14 dicembre 2022 relativo alla resilienza operativa digitale 
+per il settore finanziario.
+=== pagina 5 ===
+Aprile 2026 5 
+ 
+3. DEFINIZIONI 
+Ai sensi del presente Documento si intende per: 
+• Fondo Pensione o Fondo: fondi pensione istituiti e gestiti dalla Società ai 
+sensi dell’art. 12 del D. Lgs. 5 dicembre 2005, n. 252; 
+• Potenziali aderenti: le persone che hanno diritto di aderire a una forma 
+pensionistica complementare; 
+• Aderenti o iscritti: le persone, diverse dai beneficiari, che hanno aderito 
+a una forma pensionistica complementare; 
+• Beneficiari: destinatari delle somme depositate nel fondo pensione; 
+• Impresa promotrice: impresa o altro organismo, a prescindere che 
+comprenda o sia  composto da una o più persone giuridiche o fisiche, 
+che agisce in qualità di datore di  lavoro o di lavoratore autonomo, 
+oppure una loro combinazione, che offre una forma pensionistica o versa 
+contributi in una forma; 
+• Funzioni fondamentali: funzioni di gestione dei rischi (Risk management) 
+e funzione di revisione (Internal Audit), individuate nell’ambito del sistema 
+di governo di un Fondo; 
+• Fattori ESG: fattori ambientali, sociali e di governo societario, ossia i 
+principi di investimento responsabile sostenuti dalle Nazioni Unite; 
+• Prodotto finanziario ex Art.6 SFDR: prodotto finanziario che integra nel 
+processo di investimento la valutazione dei rischi di sostenibilità ma che 
+non ha ambizione di promuovere caratteristiche ambientali e/o sociali 
+(ex art. 8 SFDR) né obiettivi di investimento sostenibile (ex art. 9 SFDR);  
+• Prodotto finanziario ex Art. 8 SFDR: prodotto finanziario che promuove, tra 
+le altre caratteristiche, caratteristiche ambientali o sociali, o una 
+combinazione di tali caratteristiche, a condizione che le imprese in cui gli 
+investimenti sono effettuati rispettino prassi di buona governance.
+=== pagina 6 ===
+Aprile 2026 6 
+ 
+4. RUOLI E RESPONSABILITÀ 
+Si elencano di seguito le principali funzioni attribuite agli organi sociali, alle unità 
+organizzative e  alle funzioni aziendali. 
+L’Organo di Amministrazione , ossia l’organo con funzione di supervisione 
+strategica (o Consiglio  di Amministrazione) della Società, approva il presente 
+Documento e i successivi aggiornamenti; definisce l’organizzazione aziendale e le 
+relative procedure affinché tale Documento sia efficace  e conforme alle 
+disposizioni regolamentari vigenti; definisce gli obiettivi e le linee strategiche di  
+investimento dei Fondi, anche considerando quanto prescritto con riferimento ai 
+fattori ESG, avvalendosi del supporto del Comitato Investimenti , del Comitato di 
+Sostenibilità della SGR e della Funzione Risk Management; prende  visione della 
+relazione annuale del Responsabile di ciascun Fondo Pensione, prima dell ’invio 
+alla Covip. 
+Comitati Endoconsiliari , ossia il Comitato Controllo e Rischi , il  Comitato 
+Remunerazione e il Comitato Nomine , con funzioni consultive e propositive in 
+favore del Consiglio di Amministrazione, in materia rispettivamente di rischi, sistema 
+di controllo interno e buon governo societario , remunerazione del personale più 
+rilevante (inclusi i gestori del Fondo Pensione), nomine degli organi sociali. 
+L’Alta Direzione è composta dall'Amministratore Delegato, dal Direttore Generale, 
+dal Presidente e dal Vice Presidente della SGR e garantisce l’attuazione e il rispetto 
+del presente Documento all’interno della struttura organizzativa della Società; 
+ricopre talune funzioni integrative e suppletive dell’attività dell’Organo di 
+Amministrazione, consistenti nella possibilità, laddove ritenuto opportuno, di fissare 
+ulteriori limiti di rischio; può intervenire in particolari situazioni di mercato che 
+richiedano lo scostamento dagli indirizzi gestionali deliberati dall’Organo di 
+Amministrazione, al fine di  garantire tempestività di intervento; può intervenire in 
+casi di urgenza, su proposta e segnalazione del Direttore Investimenti o, in sua 
+assenza e/o impedimento, del Vice Direttore Investimenti. 
+Il Responsabile del Fondo Pensione (di seguito anche “RFP”) verifica la gestione dei 
+fondi affinché la stessa sia svolta nell’esclusivo interesse degli aderenti dei 
+beneficiari, vigila sul rispetto dei limiti di investimento, sulle operazioni in conflitto di 
+interesse, il rispetto delle buone pratiche e dei principi di corretta amministrazione. 
+Riporta direttamente  all’Organo di Amministrazione della SGR relativamente ai 
+risultati dell’attività svolta predisponendo una relazione annuale da inviare anche 
+alla Covip.
+=== pagina 7 ===
+Aprile 2026 7 
+ 
+Il Comitato Investimenti istituito presso la SGR e che opera con riferimento agli 
+OICVM, FIA aperti e F ondi Pensione  ha funzione di supporto all’Organo di 
+Amministrazione, all’Amministratore Delegato, al Direttore Investimenti e al Vice-
+Direttore Investimenti.  
+Il Comitato Investimenti:  
+• supporta l’Amministratore Delegato nella definizione della proposta al 
+Consiglio di  Amministrazione dell’Asset Allocation Strategica e dei limiti 
+operativi interni, ivi compresi i limiti  di rischio; 
+• definisce le modalità di integrazione dei fattori ESG nel processo di 
+investimento ed emana/implementa, con frequenza almeno semestrale, le 
+liste di esclusione, avvalendosi del supporto del Comitato di sostenibilità 
+della SGR;  
+• monitora l’andamento dei Fondi in una prospettiva sia ex-ante che ex-post, 
+avvalendosi del supporto della Funzione Risk Management; 
+• effettua una analisi almeno annuale in merito all’onerosità dei Fondi e al 
+relativo confronto con altri peer, avvalendosi delle analisi e della 
+documentazione prodotte dalla Funzione Risk Management.  
+Il Comitato di Sostenibilità, istituito presso la SGR in data 15/12/2022 ha la finalità di 
+rafforzare i presidi sulle tematiche di sostenibilità all’interno della SGR. Il Comitato 
+fornisce supporto al Consiglio di Amministrazione e/o al Comitato Investimenti 
+riguardo tematiche ESG connesse alle attività di investimento e alle p olitiche per 
+l’esercizio dei diritti di voto nei confronti delle società oggetto di investimento. 
+Il Comitato di Sostenibilità è inoltre incaricato della definizione e aggiornamento 
+degli approcci e metodologie adottate in  ambito ESG, con il supporto della 
+Funzione di Risk Management e ha la facoltà di esprimere pareri sulla valutazione 
+di inclusione ed esclusione di emittenti e fondi, in merito alle valutazioni elaborate 
+internamente dal Comitato Gestioni Collettive. 
+Il Direttore Investimenti è il responsabile del Team Gestione (composto dai Gestori 
+dei Fondi ) e degli investimenti effettuati in tutte le asset class. Il Direttore  
+Investimenti supporta il Comitato Investimenti nella definizione delle linee guida  
+dell’Asset Allocation Tattica, tenendo anche conto dei principi inerenti al rischio di 
+sostenibilità definiti nella “Policy ESG” e della lista delle esclusioni approvata dal 
+CdA, formulando la proposta  delle Linee Guida di Asset Allocation Tattica per 
+ciascun Fondo. 
+Il Vice-Direttore Investimenti assiste il Direttore Investimenti nell’espletamento delle 
+sue funzioni e in sua assenza e/o impedimento agisce in sua vece.
+=== pagina 8 ===
+Aprile 2026 8 
+ 
+Il Gestore dei Fondi Pensioni (di seguito anche “Responsabile della gestione dei 
+fondi”) ha la responsabilità della gestione dei Fondi e ne implementa il processo di 
+investimento, anche tenendo conto dei principi inerenti al rischio di sostenibilità 
+definiti nella “Policy ESG” e della lista delle esclusioni aggiornata almeno 
+semestralmente dal Comitato Investimenti  e trasmette all’Organo di 
+Amministrazione una rendicontazione mensile. 
+La Funzione Prodotti  coordina le attività implementative interne relative allo 
+sviluppo e alla  manutenzione dei prodotti, curando tra l’altro la predisposizione 
+della documentazione contrattuale inerente al prodotto e i connessi obblighi 
+informativi a tutela degli aderenti e dei beneficiari dei Fondi. La funzione espleta i 
+necessari iter istruttori presso la Covip. 
+La Funzione Operations assicura lo svolgimento delle attività amministrative e 
+contabili attinenti ai fondi pensione gestiti e sovraintende ai relativi rapporti con il 
+Depositario e gli Outsourcer e ne monitora l’operato.  In collaborazione con la 
+Funzione IT, assicura la continuità dei presidi tecnico -informatici e lo sviluppo dei 
+progetti aziendali inter-funzionali a valenza di business. 
+La Funzione Marketing Comunicazione Interna è la struttura deputata  a curare e 
+manutenere i contenuti del sito internet  anche con riferimento alla 
+documentazione inerente ai fondi pensione. 
+Il Trading Desk è la struttura deputata alla trasmissione degli ordini delle controparti 
+e all’esecuzione delle operazioni in strumenti finanziari, dopo l’espletamento dei 
+controlli ex -ante di investment compliance  effettuati dalla  funzione Risk 
+Management. 
+La Direzione  Rete, Commerciale e Marketing  organizza e coordina l’attività di 
+formazione della rete di consulenti  finanziari abilitati all’offerta fuori sede  anche 
+con riferimento ai fondi pensione. 
+L’Organo di Controllo  (i.e. il Collegio Sindacale della SGR), con il supporto delle 
+funzioni di  controllo, vigila affinché il presente Documento sia correttamente 
+osservato; prende visione  delle relazioni annuali del Responsabile di ogni Fondo 
+Pensione. 
+La Funzione Compliance  garantisce e sovraintende alla conformità del presente 
+Documento rispetto alle disposizioni  normative di volta  in volta vigenti e svolge 
+attività finalizzate a prevenire e gestire il rischio di non conformità alle norme.
+=== pagina 9 ===
+Aprile 2026 9 
+ 
+La Funzione Risk Management supporta l’Organo di Amministrazione nel definire gli 
+obiettivi e le linee strategiche di investimento dei Fondi Pensione; fornisce 
+all’Organo di Amministrazione e al   Comitato Investimenti le valutazioni di rischio e la 
+reportistica con l’analisi delle performance utili alla definizione di quanto di 
+competenza di ciascun organo. Inoltre, la Funzione Risk Management monitora 
+periodicamente il rispetto delle strategie fissate e degli eventuali limiti previsti, 
+verificando anche, in tale contesto, l’aderenza dei portafogli ai principi stabiliti per 
+la mitigazione del rischio di sostenibilità, nonché la permanenza, con riferimento ai 
+prodotti finanziari che rientrano nel perimetro della classificazione ex art. 8 e 9 della 
+SFDR, dei fattori per la classificazione del prodotto finanziario come prodotto che 
+promuove caratteristiche ambien tali e/o sociali e/o che persegue obiettivi di 
+investimento. 
+La Funzione Internal Audit verifica periodicamente l’adeguatezza e l’efficacia dei 
+sistemi, dei processi, delle procedure e dei meccanismi di controllo adottati dalla 
+Società, nonché quanto  espressamente richiesto dalla normativa pro -tempore 
+vigente e gestisce i reclami mantenendo il relativo registro elettronico.
+=== pagina 10 ===
+Aprile 2026 10 
+ 
+5. PROFILI ORGANIZZATIVI 
+I Fondi Pensione sono dotati di una struttura che garantisce la separazione delle 
+operazioni effettuate per conto dei Fondi rispetto all’insieme delle altre operazioni 
+attuate dalla SGR per sé medesima o per conto di altri patrimoni gestiti. 
+Ai Fondi Pensione istituiti e gestiti dalla SGR si applicano le misure di sicurezza 
+informatica a tutela del patrimonio informativo aziendale, con riferimento ai criteri 
+e alle procedure di protezione degli accessi e dell’integrità dei dati, nonché il 
+piano di  continuità operativa, conformemente a quanto previsto dal 
+Regolamento UE 2022/2554. 
+I suddetti presidi sono disciplinati all’interno dei documenti “Architettura dei sistemi 
+informativi”, “Misure di sicurezza del Gruppo Azimut in materia di tutela dei dati” e 
+“Piano di Continuità operativa”. Inoltre, nell’ambito della contrattualistica relativa 
+ai servizi amministrativi e IT esternalizzati, sono definite le soluzioni adottate 
+dall’outsourcer a garanzia della continuità operativa. 
+5.1 Organo di Amministrazione 
+L’Organo di Amministrazione dei Fondi Pensione è il Consiglio di Amministrazione 
+della SGR, il quale: 
+• approva, con cadenza annuale, il documento che descrive il sistema di 
+governo dei Fondi Pensione (“Documento sul sistema di governo”). Il 
+documento è reso pubblico contestualmente alla pubblicazione dei 
+rendiconti periodici dei Fondi; 
+• ha la responsabilità ultima dell’osservanza della normativa nazionale e 
+delle norme europee direttamente applicabili; 
+• revisiona periodicamente e modifica, se necessario, il Documento sulla 
+politica di investimento. La frequenza della revisione è almeno triennale; 
+• approva le procedure interne di controllo della gestione finanziaria; 
+• definisce la strategia in materia di esercizio dei diritti di voto spettanti al 
+Fondo; 
+• definisce le strategie generali di investimento dei Fondi, anche con 
+riferimento al profilo di rischio-rendimento;  
+• definisce ed approva l’Asset Allocation Strategica declinandola in limiti 
+operativi interni entro bande di oscillazione minime/massime (c.d. margini 
+di scostamento); 
+• definisce ed approva i limiti di rischio ESG per i prodotti finanziari che 
+rientrano nel perimetro della classificazione ex art. 8 e 9 della SFDR;
+=== pagina 11 ===
+Aprile 2026 11 
+ 
+• approva le liste di esclusione relative agli emittenti su cui non è consentito 
+investire alla luce dei principi stilati nella Policy ESG; 
+• verifica periodicamente l’andamento delle strategie generali di 
+investimento e la loro corretta attuazione e applicazione; 
+• monitora e valuta il livello di rischio ESG sulla base della reportistica 
+periodica fornita dalla funzione Risk Management; 
+• delibera l’affidamento e la revoca di eventuali deleghe di gestione 
+ovvero, in caso di gestione diretta, individua i soggetti incaricati della 
+gestione; 
+• approva le politiche e le procedure inerenti a processi per cui la 
+normativa prescrive obbligatoriamente di dotarsi di specifica 
+regolamentazione interna; 
+• approva il rendiconto annuale del Fondo, sottoposto anche a 
+certificazione da parte del revisore contabile esterno. 
+L’Organo di Amministrazione verifica, entro 30 giorni dalla nomina o del rinnovo, 
+sulla base della documentazione raccolta e analizzata a cura della Direzione 
+Legale e Affari Societari, il possesso  dei requisiti di professionalità e onorabilità, 
+nonché l’assenza di situazioni impeditive, di cause di ineleggibilità o di 
+incompatibilità1, riguardanti la carica 2 di Responsabile del Fondo Pensione e,  
+limitatamente ai requisiti di onorabilità (nonché all’assenza di cause di 
+ineleggibilità o di incompatibilità) di eventuali componenti dell’Organismo di 
+Rappresentanza, ove istituito. 
+Il difetto dei requisiti di professionalità e onorabilità, nonché la sussistenza di 
+situazioni impeditive o di cause di ineleggibilità o incompatibilità, anche 
+sopravvenuti, determinano la decadenza dalla carica. 
+L’Organo di Amministrazione, nei termini previsti dalla normativa di tempo in 
+tempo vigente,  delibera in ordine alla decadenza dalla carica, nonché, al 
+verificarsi di cause sospensione, in merito alla sospensione stessa e ai conseguenti 
+revoca o reintegro del soggetto sospeso. Delle  suddette delibere è data 
+comunicazione alla Covip. 
+ 
+ 
+ 
+1 Così come definiti dalla normativa di tempo in tempo vigente applicabile ai fondi pensione aperti. 
+2 Con riferimento alla carica del componente dell’Organo di Amministrazione, dell’Organo di Controllo, dei Responsabili della Funzione 
+di Revisione Interna e della Funzione di Gestione dei Rischi, si applicano le norme eventualmente previste dell’ordinamento di settore 
+della Società
+=== pagina 12 ===
+Aprile 2026 12 
+ 
+5.2 Comitato Investimenti 
+Il Comitato Investimenti si riunisce, di regola, con cadenza settimanale ed è 
+composto dall’Amministratore Delegato, il quale presiede il Comitato Investimenti, 
+dal Direttore Investimenti, dal Vicedirettore Investimenti, dal Team di Gestione e 
+dal Responsabile della Funzione Risk Management. Sono, inoltre, invitati a 
+partecipare il Direttore Gestioni Individuali e il Responsabile del Servizio di 
+Investment Advisory, nonché il Presidente e il Vice-Presidente della SGR. Il Comitato 
+Investimenti può in ogni caso essere convocato d’urgenza, a fronte di particolari 
+situazioni economico/politiche, tali da richiedere una immediata analisi e 
+l’eventuale modifica delle politiche di riferimento. Il Comitato, inoltre, può 
+partecipare a riunioni con Comitati Investimenti di altre entità del Gruppo. Per 
+quanto attiene alle funzioni del Comitato Investimenti, esso è un organo consultivo 
+al quale è attribuito il compito di: 
+• supportare l’Amministratore Delegato nella definizione della proposta al 
+Consiglio di Amministrazione dell’Asset Allocation Strategica e dei limiti 
+operativi interni, ivi compresi i limiti di rischio;  
+• supportare il Consiglio di Amministrazione nell’ aggiornamento della policy 
+ESG; 
+• supportare il Consiglio di Amministrazione nel monitoraggio dell’utilizzo del 
+budget di rischio;  
+• deliberare a maggioranza semplice la proposta di Asset Allocation 
+Strategica, con il supporto dell’Amministratore Delegato; 
+• supportare il Direttore Investimenti ed il Vice -Direttore Investimenti 
+nell’ambito del processo di implementazione delle strategie di 
+investimento approvate dal Consiglio di Amministrazione; 
+• integrare i fattori ESG nel processo di investimento; 
+• emanare ed implementare, con frequenza almeno semestrale, le liste di 
+esclusione approvate dal Consiglio di Amministrazione , avvalendosi del 
+supporto del Comitato di sostenibilità della S GR e della Funzione di Risk 
+Management; 
+• monitorare l’andamento dei Fondi, avvalendosi del supporto della 
+Funzione Risk Management; 
+• effettuare una analisi almeno annuale in merito all’onerosità dei Fondi e al 
+relativo confronto con altri peer, avvalendosi delle analisi e della 
+documentazione prodotte dalla Funzione Risk Management.
+=== pagina 13 ===
+Aprile 2026 13 
+ 
+In tale contesto il Comitato definisce le strategie di gestione considerati i principi 
+richiamati nella Policy ESG e valuta nel continuo, con il supporto della Funzione di 
+Risk Management l’aderenza delle strategie rispetto a tali principi.  
+5.3 Comitato Sostenibilità 
+Il Comitato si riunisce di norma con periodicità almeno trimestrale ed ogni qual 
+volta si renda necessario al fine di assicurare il corretto svolgimento delle proprie 
+funzioni e dei propri compiti. Il Comitato è composto da:  
+• rappresentanti delle funzioni investimenti delle collettive, delle gestioni 
+patrimoniali, dei Fondi Pensione e del Servizio di Consulenza;  
+• rappresentante della funzione Compliance;  
+• rappresentante della funzione Risk;  
+• rappresentante della funzione Prodotti; 
+• rappresentanti delle funzioni IT e Operation;  
+• rappresentanti della Direzione Rete Commerciale e Marketing 
+Il Comitato assiste e supporta il Consiglio di Amministrazione e i l Comitato 
+Investimenti in merito ai fattori di sostenibilità ed alla loro integrazione nei processi 
+di investimento, riguardo tematiche ESG.  
+Il Comitato è incaricato della definizione e aggiornamento degli approcci e 
+metodologie adottate in  ambito ESG, con il supporto della Funzione di Risk 
+Management. 
+Il Comitato monitora periodicamente: 
+• la classificazione dei prodotti secondo il rischio di sostenibilità; 
+• I principali impatti avversi sui fattori di sostenibilità; 
+• Il perseguimento delle caratteristiche ambientali e sociali dei prodotti ex 
+art.8; 
+• attività di proxy voting ed engagement. 
+Il Comitato ha inoltre la facoltà di esprimere pareri sulla valutazione di inclusione 
+ed esclusione di emittenti e OICR nei portafogli anche del Fondo Pensione.
+=== pagina 14 ===
+Aprile 2026 14 
+ 
+5.4 Responsabile del Fondo Pensione 
+Il Responsabile del Fondo Pensione (di seguito anche “RFP”) è nominato 
+dall’Organo di Amministrazione, previa verifica del rispetto dei requisiti di 
+professionalità e onorabilità, nonché dell’assenza di situazioni impeditive, di cause 
+di ineleggibilità o incompatibilità. 
+Il RFP, qualora venga a trovarsi in situazioni che comportano la sospensione dalla 
+carica, la decadenza o sia destinatario di un’azione penale per reati che possono 
+incidere sul possesso dei requisiti di onorabilità, comunica tempestivamente tali 
+circostanze all’Organo di Amministrazione. Il RFP svolge la propria attività in modo 
+autonomo e indipendente, riportando direttamente  all’Organo di 
+Amministrazione relativamente ai risultati dell’attività svolta. A tale fine si avvale  
+della collaborazione delle strutture organizzative interne della SGR, di volta in volta 
+necessarie allo svolgimento dell’incarico e all’adempimento dei doveri richiesti 
+dalla natura dell’incarico. La SGR, gli garantisce l’accesso a tutte le informazioni 
+necessarie allo scopo. Il RFP assiste alle  riunioni dell’organo amministrativo e di 
+quello di controllo per tutte le materie inerenti ai Fondi. Il RFP: 
+• verifica che la gestione dei Fondi sia nell’esclusivo interesse degli aderenti 
+e dei beneficiari, nonché nel rispetto della normativa vigente e delle 
+previsioni stabilite nei regolamenti e nei contratti; 
+• vigila:  
+o sulla gestione finanziaria delle forme pensionistiche complementari, 
+anche controllando il rispetto della normativa e delle regole interne 
+delle stesse circa i limiti di investimento;  
+o sulla gestione amministrativa delle forme pensionistiche, in 
+particolare controllando la separatezza amministrativa e contabile 
+delle operazioni poste in essere per conto delle forme pensionistiche 
+e del patrimonio delle stesse rispetto a quanto afferente alle altre 
+attività della società e la regolare tenuta dei libri e delle scritture 
+contabili;  
+o sulle misure di trasparenza adottate nei confronti degli aderenti e 
+beneficiari;  
+o sull'adeguatezza della procedura di gestione dei reclami;  (e) sulla 
+tempestiva e corretta erogazione delle prestazioni;  
+o sulle situazioni in conflitto di interesse;  
+o sul rispetto delle buone pratiche e dei principi di corretta 
+amministrazione.
+=== pagina 15 ===
+Aprile 2026 15 
+ 
+• comunica tempestivamente all’Organo di Amministrazione e a quello di 
+Controllo della Società eventuali irregolarità riscontrate, indicando gli 
+interventi correttivi da adottare; 
+• relaziona annualmente sulle procedure di controllo adottate, 
+l’organizzazione dei Fondi, i risultati dell'attività svolta, le anomalie 
+riscontrate e le iniziative poste in essere per eliminarle. La struttura delle 
+relazioni, a titolo meramente esemplificat ivo, si compone delle seguenti 
+parti: descrizione e dimensioni del fondo, fatti di rilievo, monitoraggio delle 
+attività di gestione e amministrative, struttura della gestione di portafoglio, 
+strutture amministrative e organizzative, misure di trasparenza adottate nei 
+confronti degli aderenti. Le relazioni vengono inviate alla Covip, previa 
+trasmissione a titolo di informativa all’Organo di Amministrazione e 
+all’Organo di Controllo. 
+Il RFP si incontra periodicamente con le diverse funzioni organizzative interne della 
+SGR per avere informazioni complessive sulle politiche di gestione, sui controlli della 
+funzione Risk Management, sull’operato del Fund Administrator e del Service 
+Provider, prende visione di  eventuali novità normative concernenti modifiche da 
+apportare alla documentazione d’offerta.  Si riportano di seguito i principali flussi 
+informativi tra le strutture aziendali e il RFP: 
+• Internal Audit: 
+o con riferimento a ogni singolo reclamo concernente il Fondo 
+Pensione, scheda  reclamo elaborata automaticamente 
+dall’applicativo per la gestione dei reclami e testo del reclamo; 
+o report trimestrale relativo alla gestione dei reclami; 
+o esiti delle attività di controllo audit relative al Fondo Pensione e, 
+nell’ambito di  incontri indetti su iniziativa del RFP, eventuali 
+aggiornamenti sulle attività di controllo; 
+o piano annuale delle attività e relazione annuale della Funzione, per 
+le parti relative alla gestione del Fondo Pensione. 
+• Risk Management: 
+o eventuali segnalazioni di sforamenti avvenuti nell’ambito degli 
+investimenti riferiti ai diversi Comparti nel rispetto della normativa e 
+del regolamento del Fondo Pensione; 
+o illustrazione degli esiti delle attività di monitoraggio con riferimento ai 
+rischi che gravano su Fondo Pensione, aderenti e beneficiari.
+=== pagina 16 ===
+Aprile 2026 16 
+ 
+• Compliance: 
+o incontri, su iniziativa del RFP, per eventuali aggiornamenti su attività di 
+controllo relative al Fondo Pensione o per attività di consulenza ai fini 
+dell’adempimento degli obblighi normativi. 
+• Funzione Prodotti: 
+o Documentazione contrattuale (e.g. Regolamento  di gestione, Nota 
+informativa) aggiornata in ottemperanza a disposizioni normative o 
+per altre ragioni; 
+o trasmissione delle comunicazioni inviate dalla SGR alla Covip o 
+ricevute dalla Covip  medesima con specifico riferimento agli  iter 
+istruttori connessi alla documentazione di offerta dei Fondi. 
+• Funzione Operations: 
+o Documento di monitoraggio sulle tempistiche di liquidazione sulla 
+base degli SLA   concordati; 
+o Statistiche di vigilanza trimestrali; 
+o Rendiconto Annuale e Informazioni Contabili trimestrali. 
+Il RFP partecipa alle sedute dell’Organo di Amministrazione e dell’Organo di 
+Controllo ogniqualvolta nell’ordine del giorno siano inclusi punti concernenti il 
+fondo pensione. 
+5.5 Sistema dei controlli interni 
+In ottemperanza alle disposizioni normative vigenti, la Società ha esteso anche ai 
+fondi pensione il sistema di controllo interno adottato. 
+Il sistema dei controlli interni della SGR si basa sull’allocazione a quattro differenti 
+funzioni delle   relative responsabilità di controllo: tre di secondo livello (Funzione 
+Risk Management  e di controllo  ICT, Funzione  Compliance, Funzione 
+Antiriciclaggio) e una di terzo livello (Funzione Internal Audit). 
+L’Organo di Amministrazione approva  un piano strategico pluriennale e , un 
+budget annuo, con l’impegno per ciascuna funzione di controllo di coordinarsi con 
+le altre per evitare sovrapposizioni di attività e duplicazioni di spesa, nonché di 
+fornire periodica rendicontazione all’Organo di Amministrazione sulle spese 
+sostenute e le relative attività svolte.
+=== pagina 17 ===
+Aprile 2026 17 
+ 
+Al fine di dare efficacia al requisito di indipendenza proprio delle funzioni di 
+controllo, le stesse: 
+• non sono gerarchicamente subordinate ad altre funzioni aziendali: i 
+rispettivi Responsabili rispondono direttamente all’Organo di 
+Amministrazione e all’Organo di Controllo; 
+• sono separate a livello organizzativo dalle altre funzioni; 
+• non possono essere coinvolte nello svolgimento delle attività operative, 
+salvo un eventuale supporto consultivo; 
+• sono dotate di risorse umane adeguate con riferimento al numero, alle 
+competenze tecnico-professionali e all’esperienza e aggiornamento; 
+• sono dotate di adeguate risorse tecnologiche e informatiche. 
+5.6 Funzione Compliance 
+La Funzione svolge attività finalizzate al corretto presidio del rischio di conformità, 
+inteso come  rischio di incorrere in sanzioni giudiziarie o amministrative, perdite 
+finanziarie o danni reputazionali in conseguenza di violazioni di norme di legge, di 
+regolamenti, ovvero di norme di autoregolamentazione o di codici di condotta. 
+Per maggiori dettagli in merito alle attività in capo alla Funzione di Compliance si 
+fa direttamente rimando alla “Policy per le attività di Compliance” adottata di 
+tempo in tempo dalla SGR. 
+5.7 Funzioni Fondamentali 
+La SGR ha individuato le seguenti Funzioni fondamentali dei Fondi Pensione: 
+• Funzione di gestione rischi (funzione Risk Management) 
+• Funzione di revisione interna (funzione Internal Audit) 
+L’Organo di Amministrazione de lla SGR  delibera in merito all’istituzione delle 
+suddette Funzioni  Fondamentali, adottando le relative politiche e procedure e 
+nominando i rispettivi Responsabili, nel rispetto della normativa di tempo in tempo 
+vigente applicabile alla SGR. 
+Ai titolari delle Funzioni fondamentali è assicurata la sussistenza delle condizioni 
+necessarie a un efficace svolgimento delle proprie mansioni che sia obiettivo, 
+equo e indipendente.
+=== pagina 18 ===
+Aprile 2026 18 
+ 
+Fatto salvo il privilegio contro l'autoincriminazione, i Titolari delle Funzioni 
+fondamentali comunicano alla Covip se l'organo al quale hanno trasmesso le 
+risultanze e le raccomandazioni  rilevanti nel proprio ambito di attività non 
+intraprende azioni correttive adeguate e tempestive nei seguenti casi: 
+• quando la persona o l'unità organizzativa che svolge la funzione 
+fondamentale ha rilevato il rischio sostanziale che il fondo pensione non 
+soddisfi un requisito legale significativo e  l'ha comunicato all'organo del 
+fondo pensione al quale trasmette le risultanze e le  raccomandazioni 
+rilevanti nel proprio ambito di attività del fondo pensione e ciò possa avere 
+un impatto significativo sugli interessi degli aderenti e dei beneficiari; 
+• quando la persona o l'unità organizzativa che svolge la funzione 
+fondamentale ha notato una violazione significativa della legislazione, dei 
+regolamenti o delle disposizioni amministrative applicabili al fondo 
+pensione e alle sue attività nell'ambito della funzione  fondamentale di 
+quella persona o unità organizzativa e l'ha comunicato all'organo del  
+fondo pensione al quale trasmette le risultanze e le raccomandazioni 
+rilevanti nel proprio ambito di attività. 
+Funzione di gestione dei rischi - Risk Management  
+Al fine di garantire un efficace sistema di gestione dei rischi, la SGR definisce 
+strategie, processi e procedure di segnalazione necessarie a individuare, misurare, 
+monitorare, gestire e segnalare  periodicamente all’Organo di Amministrazione i 
+rischi a livello individuale ed aggregato ai quali i  Fondi sono o potrebbero essere 
+esposti, nonché le relative interdipendenze. 
+Il sistema di gestione dei rischi è integrato nella struttura organizzativa e nei processi 
+decisionali della SGR, tenendo in adeguata considerazione il ruolo dei soggetti 
+che svolgono funzioni di  amministrazione, direzione e controllo dei fondi o altre 
+funzioni fondamentali. 
+La Funzione di Risk Management- cui è stata  assegnata anche la responsabilità 
+per la gestione e il monitoraggio del rischio ICT - è deputata, principalmente, allo 
+svolgimento dei seguenti compiti: 
+• implementare i processi e le procedure per gestire tutte le potenziali fonti 
+di rischio che possono avere impatto sui Fondi Pensione (e.g. rischio di 
+mercato, di controparte, di liquidità, operativo); 
+• attuare il processo di gestione dei rischi di sostenibilità, ivi inclusi i rischi 
+climatici ed ambientali; 
+• coordinare il processo di gestione dei rischi ESG all’interno della SGR 
+avvalendosi della collaborazione delle proprie risorse e di altre Direzioni e/o
+=== pagina 19 ===
+Aprile 2026 19 
+ 
+Unità Organizzative per gli aspetti di loro competenza; 
+• rivedere regolarmente e, qualora necessario, rafforzare le procedure per 
+la valutazione degli strumenti presenti nei portafogli dei Fondi Pensione 
+• verificare il rispetto ex-ante dei limiti normativi e regolamentari, nonché i 
+limiti interni di Asset Allocation determinati dal Comitato Investimenti e 
+deliberati dall’Organo di Amministrazione; 
+• monitorare ex-post il rispetto delle strategie generali di investimento 
+deliberate dall’Organo di Amministrazione; 
+• collaborare alla definizione e all'attuazione delle politiche di governo dei 
+rischi ICT. 
+Al fine del monitoraggio dei limiti ex-ante la funzione Risk Management fa uso del 
+sistema AIM  di Bloomberg. In particolare, il modulo di compliance (CMGR) 
+integrato nel sistema AIM consente di effettuare un monitoraggio puntuale dei 
+limiti d’investimento e di gestire differenti livelli di alert e di blocco. 
+Il monitoraggio ex-ante ha la finalità di ridurre al minimo la possibilità di violazioni 
+ex-post. 
+Tuttavia, solo in fase di monitoraggio ex -post un limite può considerarsi 
+effettivamente violato. 
+La valutazione del rischio mercato viene effettuata attraverso la misurazione ex  
+ante del VaR dei portafogli dei diversi comparti dei fondi pensione. Viene inoltre 
+redatto un report di rischio  che comprende, per ciascun comparto, la 
+performance da inizio anno e sui diversi mesi, l’analisi del VaR con l’evidenza delle 
+variazioni intercorse, le analisi di Stress Testing, le analisi sul rischio di liquidità, 
+nonché la scomposizione  del portafoglio per  le diverse asset class.  Gli esiti dei 
+controlli sono oggetto di reportistica mensile all’Organo di Amministrazione, al  
+Comitato Investimenti, al Direttore Investimenti, e all’Amministratore Delegato e al 
+Responsabile di ogni Fondo Pensione.  Eventuali violazioni sono segnalate 
+tempestivamente ai  responsabili del Team di Gestione e, successivamente, al 
+Direttore Investimenti e all’Alta Direzione. 
+La Funzione di Risk Management provvede inoltre alla “mappatura” dei rischi 
+operativi, redigendo e mantenendo costantemente aggiornato un documento 
+riepilogativo dei rischi  individuati e rafforzando il presidio sul controllo del rischio 
+operativo della Società, mediante apposite linee di verifica e di reporting. 
+La Funzione Risk Management fornisce all’Organo di Amministrazione indicazioni 
+sui livelli di rischio dei prodotti, anche considerando il cd. Rischio ESG. Nel dettaglio, 
+l’analisi fornita dalla Funzione Risk Management include, a titolo esemplificativo, le
+=== pagina 20 ===
+Aprile 2026 20 
+ 
+seguenti misure di rischio e le evidenze dei risultati conseguiti dalla gestione: 
+• l’asset breakdown di fine periodo; 
+• i controlli sui limiti di asset allocation strategica definiti dal CdA; 
+• la valutazione del profilo rischio-rendimento del portafoglio dei Fondi; 
+• i livelli di VAR; 
+• l’analisi delle performance ex-post; 
+• un report relativo al monitoraggio del rischio di liquidità così come definito 
+all’interno della Policy di Liquidity Risk & Stress Testing adottata dalla SGR. 
+Nel report viene data rappresentazione (i) della ripartizione del portafoglio 
+sui diversi bucket di Time to Liquidate, (ii) degli eventi di rimborso ipotizzati 
+e (iii) dei livelli di Redemption Coverage Ratio; 
+• con frequenza trimestrale una valutazione del rischio di controparte per 
+ciascuna delle controparti approvate ai sensi della Procedura di 
+Counterparty Risk Assesment adottata dalla SGR; 
+• un report relativo al livello di turnover di portafoglio su diversi orizzonti; 
+•  una analisi riguardante i breach attivi o passivi, ivi compresi i limiti ESG, 
+occorsi con indicazione della motivazione, del portafoglio impattato e 
+delle statistiche da inizio anno; 
+•  reportistica periodica sull’attività di monitoraggio ed analisi del rischio ESG. 
+Nell’ambito della propria operatività, la Funzione Risk Management, con il 
+contributo di altre  funzioni e unità organizzative, nonché di fornitori esterni, negli 
+specifici ambiti di competenza, assolve agli obblighi, di cui all’art. 5 -nonies del 
+decreto n. 252/2005, in materia di periodica “valutazione interna del rischio” con 
+riferimento a tutti i rischi rilevanti per i Fondi Pensione. 
+Per maggiori dettagli in merito alle attività in capo alla Funzione Risk Management, 
+si fa direttamente rimando alla policy e alla procedura della Funzione adottate di 
+tempo in tempo dalla SGR. 
+Funzione di revisione interna - Internal Audit 
+L’attività della Funzione Internal Audit è volta a verificare, in un’ottica di controlli di 
+terzo livello, la correttezza dei processi gestionali, operativi e di controllo, 
+l’adeguatezza e l’efficienza dell’assetto organizzativo del sistema di governo del 
+Fondo, comprese le attività esternalizzate. 
+Annualmente la Funzione Internal Audit predispone un piano di attività specifico 
+per i controlli di Sede. Tale piano, validato dal Responsabile della Funzione Internal 
+Audit, viene reso noto ai Responsabili delle Funzioni di controllo di secondo livello, 
+al fine di evitare eventuali sovrapposizioni tra le attività di verifica, e sottoposto
+=== pagina 21 ===
+Aprile 2026 21 
+ 
+all’Organo di Amministrazione e all’Organo di Controllo. 
+La pianificazione annuale può essere aggiornata e/o modificata dal Responsabile 
+della Funzione in occasione di specifiche situazioni/richieste. 
+Con cadenza annuale, la Funzione Internal Audit predispone e invia all’Organo di 
+Amministrazione e all’Organo di Controllo una relazione con il riepilogo delle 
+attività svolte, le conclusioni raggiunte e il piano degli interventi proposti. 
+Il piano annuale delle attività e la relazione annuale della Funzione, per le parti 
+relative alla gestione dei Fondi Pensione, sono trasmessi anche al RFP. 
+La Funzione condivide gli esiti delle attività di controllo audit relative ai Fondi 
+Pensione con il RFP, interfacciandosi, nell’ambito di incontri indetti su iniziativa di 
+quest’ultimo, in merito a eventuali aggiornamenti sulle attività di controllo. 
+La Funzione Internal  Audit svolge inoltre attività di controllo sull’operato dei 
+Consulenti Finanziari abilitati all’offerta fuori sede, tramite il monitoraggio di 
+appositi indicatori di anomalia, sia tramite visite ispettive presso gli uffici dei 
+Consulenti Finanziari. 
+La funzione di Internal Audit gestisce inoltre il registro dei reclami, coordina la 
+redazione e l’invio delle risposte agli aderenti, e provvede a trasmettere al RFP la 
+scheda reclamo relativa a ogni singolo esposto e un report trimestrale relativo ai 
+reclami. Contestualmente vengono forniti alle funzioni operative i dati inerenti ai 
+reclami al fine dell’invio della relativa relazione a Covip. 
+Per maggiori dettagli in merito alle attività in capo alla Funzione Internal Audit, si fa 
+direttamente rimando alla policy e alla procedura della Funzione Internal Audit 
+adottate di tempo in tempo dalla SGR. 
+5.8 Depositario e Gestore Amministrativo 
+Il Depositario dei Fondi è BNP Paribas S.A. – Succursale Italia, con sede in Piazza 
+Lina Bo Bardi,  n. 3, iscritto al n° 5482 dell’Albo delle Banche tenuto dalla Banca 
+d’Italia. L’incarico di depositario riguarda anche i beni facenti parte del 
+patrimonio dei Fondi Pensione istituiti e gestiti dalla Società.  
+Il Depositario controlla la legittimità delle operazioni effettuate dai Fondi Pensione, 
+valuta la coerenza tra le decisioni di investimento prese dai gestori e il 
+Regolamento del fondo interessato, nonché verifica che ogni singolo investimento 
+compiuto dal gestore sia svolto nel rispetto dei vincoli e limiti previsti dalla legge e 
+dal Regolamento.  Inoltre, BNP  ha ricevuto incarico per  svolgere i servizi 
+amministrativo-contabili di fund accounting dei Fondi pensioni.
+=== pagina 22 ===
+Aprile 2026 22 
+ 
+5.9 Gestore delle posizioni individuali 
+La SGR ha provveduto a delegare la gestione amministrativa delle posizioni 
+individuali degli Aderenti a Previnet S.p.A. con sede legale in Via E. Forlanini 24, 
+31022 Preganziol, Treviso. 
+5.10 Funzioni e attività esternalizzate 
+Le seguenti strutture della SGR sono accentrate ed esternalizzate presso Azimut 
+Holding S.p.A. (capogruppo del Gruppo Azimut): 
+• Direzione Amministrazione, Finanza e Controllo; 
+• Direzione Affari Legali e Societari; 
+• Direzione Risorse Umane. 
+Le funzioni Compliance e Risk Management si avvalgono del supporto di terzi 
+esterni, incaricati, tramite appositi contratti di servizio, di fornire supporto 
+consulenziale e operativo nell’ambito dello svolgimento delle attività di pertinenza, 
+sotto il coor dinamento e la supervisione diretta del Responsabile di ciascuna 
+funzione. 
+La funzione Internal Audit si avvale del supporto di terzi esterni, incaricati, tramite 
+appositi contratti di servizio, di svolgere, sotto il coordinamento e la supervisione 
+diretta del Responsabile di Funzione: 
+• i controlli di sede (relativi ai processi e alle attività svolte dalle strutture di 
+sede e da eventuali outsourcer); 
+• i controlli sull’operato dei Consulenti Finanziari abilitati all’offerta fuori sede; 
+• la gestione dei reclami ricevuti dalla Società. 
+Nell’ambito della gestione delle segnalazioni alla Covip, la Società si avvale del 
+supporto di un service provider esterno. 
+La SGR ha provveduto a esternalizzare la gestione amministrativa delle posizioni 
+individuali degli Aderenti a Previnet S.p.A.  
+Inoltre, la SGR ha provveduto ad esternalizzare la gestione contabile (e.g. calcolo 
+del NAV) a BNP Paribas S.A. – Succursale Italia. 
+La SGR, per l’esercizio dei diritti di voto inerenti agli strumenti finanziari di pertinenza 
+dei Fondi gestiti, svolge le attività connesse mediante il voto elettronico  disposto 
+tramite la piattaforma web di proxy voting gestita dalla Società provider ISS  
+Institutional Shareholder Services, Inc., ovvero mediante delega conferita ad hoc, 
+sulla base di esplicite istruzioni vincolanti, a specifici soggetti incaricati.
+=== pagina 23 ===
+Aprile 2026 23 
+ 
+Per il Fondo Pensione Aperto Azimut Previdenza, la convenzione per l’erogazione 
+della prestazione pensionistica in forma di rendita vitalizia è stipulata con Generali 
+Italia S.p.A. con sede legale in Mogliano Veneto (TV), Via Marocchesa 14. Generali 
+Italia S.p.A. è iscritta all’Albo delle Imprese IVASS al n. 1.00021 e appartiene al 
+Gruppo Generali. 
+Per il Fondo Pensione Aperto Azimut Sustainable Future, la convenzione per 
+l’erogazione della prestazione pensionistica in forma di rendita vitalizia è stipulata 
+con Zurich Investments Life S.p.A. - Società a socio unico, soggetta all’attività di 
+direzione e coordinamento di Zurich Insurance Company Ltd – Rappresentanza 
+Generale per l’Italia - con sede in Via Benigno Crespi n. 23 – 20159 Milano. 
+La policy in materia di esternalizzazioni adottata dalla SGR, cui si rinvia per maggiori 
+dettagli, disciplina principi, criteri, ruoli e responsabilità inerenti al processo di 
+esternalizzazione, i contenuti minimi contrattuali, il monitoraggio e la risoluz ione. 
+Con specifico riferimento al processo di valutazione e attribuzione delle deleghe 
+di gestione a soggetti abilitati si fa rimando alla procedura “Processo di 
+Investimento nell’ambito dei servizi di gestione collettiva del risparmio e di 
+previdenza complementare”.
+=== pagina 24 ===
+Aprile 2026 24 
+ 
+6. POLITICA DI REMUNERAZIONE 
+Ai sensi dell’art. 5 -octies del D.lgs. n. 252/2005, nonché della Deliberazione Covip 
+del 13/01/2021 (Istruzioni di vigilanza per le società che gestiscono fondi pensione 
+aperti), la Società ha incluso la definizione delle politiche di remunerazione relative 
+ai Responsabili delle Funzioni Fondamentali (i.e. Risk Management e Internal Audit) 
+e al R FP di ogni Fondo Pensione nell’ambito della Politica di remunerazione e 
+incentivazione, adottata conformemente alle disposizioni delle Direttive AIFM e 
+UCITS V, delle Linee Guida ESMA 2013/232 e 2016/575, nonché degli Orientamenti 
+ESMA/2013/606, e della normativa di recepimento contenuta nel Regolamento di 
+Banca d’Italia del 5 dicembre 2019 come modificato dal Provvedimento di Banca 
+d’Italia del 23 dicembre 2022 di attuazione degli articoli 4-undecies e 6, comma 1, 
+lettere b) e c-bis) del TUF. 
+Il Consiglio d’Amministrazione, con periodicità almeno annuale, riesamina la 
+politica di remunerazione e incentivazione, sulla base della proposta formulata dal 
+Comitato Remunerazione, successivamente sottoposta all’approvazione 
+dell’Assemblea. Il Collegio  Sindacale partecipa alla riunione del Consiglio di 
+Amministrazione e dell’Assemblea che delibera l’approvazione della Politica. 
+Si specifica che l’onere della retribuzione dei Responsabili delle Funzioni 
+Fondamentali è a carico della SGR, mentre il costo del RFP è ripartito tra i vari 
+comparti di ciascun Fondo Pensione. 
+In coerenza con quanto richiesto dalla normativa applicabile, la SGR ha 
+identificato i ruoli attribuiti agli organi e funzioni aziendali nel processo di definizione 
+e attuazione della politica, i criteri funzionali all’identificazione del personale più 
+rilevante e le regole applicabili alla struttura del sistema di remunerazione e 
+incentivazione. 
+Gli obiettivi generali e le linee guida perseguite attraverso la politica retributiva 
+rispondono a criteri di: 
+• meritocrazia, garantendo un forte collegamento con la prestazione fornita 
+ed il potenziale manageriale futuro attraverso la valutazione oggettiva e 
+trasparente delle performance individuali e la loro valorizzazione; 
+• sostenibilità, sia sotto il profilo finanziario che di sana, prudente ed efficace 
+gestione dei rischi, riconducendo da un lato gli oneri retributivi entro valori 
+compatibili con l’equilibrio economico dell’azienda e definendo dall’altro 
+obiettivi e paramet ri coerenti con le politiche di gestione dei rischi, tra i 
+quali rischio di sostenibilità, la cui integrazione  nell’ambito dei processi 
+decisionali relativi agli investimenti è disciplinata dalla Policy ESG adottata 
+dalla Società.
+=== pagina 25 ===
+Aprile 2026 25 
+ 
+La remunerazione dei Responsabili delle Funzioni Fondamentali (i.e. Risk 
+Management e Internal Audit), rientranti tra il personale delle funzioni aziendali di 
+controllo e il “personale più rilevante” identificato dalla SGR, include una 
+componente fissa e una variabile, determinata in base ai  principi illustrati, 
+rispettivamente, ai paragrafi III.2.2 3 e III.3 della Politica4. 
+La componente variabile è sottoposta a meccanismi di correzione ( clawback e 
+malus) al fine di  coprire i casi, inter alia, di comportamenti fraudolenti o di colpa 
+grave del personale. 
+La remunerazione del RFP, rientrante tra il “personale più rilevante” indentificato 
+dalla SGR, non prevede componenti variabili. 
+La SGR non prevede benefici pensionistici discrezionali né pattuizioni sui compensi 
+in caso di conclusione anticipata del rapporto di lavoro o di cessazione anticipata 
+della carica (cd. golden parachute). 
+La Politica riflette i principi delineati all’art. 5-octies, comma 4, del D.lgs. n. 252/2005 
+e, in particolare: 
+• sancisce il principio di coerenza del sistema di remunerazione e 
+incentivazione con la sana, prudente ed efficace: 
+o gestione dei fondi, tramite l’allineamento del sistema, da un lato, agli 
+obiettivi strategici, la redditività e l’equilibrio dei fondi stessi nel lungo 
+termine e, dall’altro, agli interessi a lungo termine di aderenti e 
+beneficiari; 
+o gestione del rischio. 
+ 
+ 
+3 La remunerazione variabile del personale delle funzioni di controllo non è collegata ai risultati economici, in maniera tale da non 
+comprometterne l’indipendenza e da evitare possibili conflitti d’interesse. 
+Gli indicatori di performance sottesi all’attribuzione e allocazione della remunerazione variabile del personale delle funzioni di 
+controllo consistono in: 
+• livello di presidio e controllo dei processi e dell’operatività della SGR per la prevenzione di situazioni di rischio e per la tempestiva 
+rilevazione di comportamenti anomali; 
+• valutazione di conformità alle norme dei processi e delle procedure aziendali; 
+• corretta elaborazione di modelli, metodologie e metriche per la misurazione dei rischi, con adeguata produzione di reportistica per 
+il loro monitoraggio. 
+4 La remunerazione variabile del “personale più rilevante” è soggetta a regole di dettaglio più stringenti, previste per tale categoria 
+dall’Allegato 2 al Regolamento della Banca d’Italia del 5 dicembre 2019, con riferimento a: 
+• Pagamento in strumenti finanziari: il 50% della remunerazione variabile è composta da quote o azioni degli OICVM o dei FIA 
+gestiti (ovvero da una combinazione che tenga il più possibile conto della proporzione di essi), o da partecipazioni al capitale 
+equivalenti, strumenti legati alle quote o azioni oppure da altri strumenti non monetari equivalenti che siano altrettanto efficaci sul 
+piano dell’allineamento degli incentivi, in termini tali da assicurare il rispetto dei principi generali di collegamento con i rischi assunti 
+e i risultati conseguiti; 
+• Periodo di retention (durante il quale sussiste un divieto di vendita degli strumenti) pari a un anno, da applicare sia alla 
+componente in strumenti finanziari pagata up-front sia a quella differita, in termini tali da allineare gli incentivi con gli interessi di 
+lungo termine della SGR, degli OICR gestiti e dei relativi investitori; 
+• Periodo di differimento: la componente variabile è soggetta, per una quota pari al 40%, a sistemi di pagamento differito per un 
+periodo di tre anni, ai fini del corretto allineamento al tipo di rischi connessi con l’investimento negli OICR gestiti.
+=== pagina 26 ===
+Aprile 2026 26 
+ 
+• include un esplicito riferimento alla regolamentazione societaria relativa 
+alle misure adottate in materia di prevenzione e gestione dei conflitti di 
+interesse; 
+• definisce ruoli e responsabilità di Funzioni e Organi aziendali coinvolti nel 
+processo di definizione e attuazione della Politica di Remunerazione; 
+• prevede una frequenza almeno annuale del processo di revisione. 
+La politica di remunerazione si applica inoltre ai fornitori di servizi di cui all’art. 5 -
+septies, comma 1, del D.lgs. n. 252/2005, a meno che tali fornitori non siano 
+disciplinati dalle direttive 2009/65/CE, 2009/138/CE, 2011/61/UE, 2013/36/UE e 
+2014/65/UE.
+=== pagina 27 ===
+Aprile 2026 27 
+ 
+7. REGOLAMENTAZIONE INTERNA DI RIFERIMENTO 
+Si riepiloga di seguito la regolamentazione interna adottata  da Azimut Capital 
+Management SGR S.p.A. rilevante5ai fini delle attività e dei controlli afferenti alla 
+gestione dei Fondi Pensione istituiti e gestiti dalla SGR stessa. 
+• Gestione dei rischi e revisione interna6: 
+o Policy della Funzione Risk Management; 
+o Procedura della Funzione Risk Management; 
+o Policy di Liquidity Risk & Stress Testing; 
+o Policy della Funzione Internal Audit; 
+o Procedura della Funzione Internal Audit;  
+o Policy ESG. 
+• Esternalizzazioni7: 
+o Policy esternalizzazioni;  
+o Processo di investimento nell’ambito dei servizi di Gestione Collettiva 
+del Risparmio e di Previdenza Complementare8. 
+• Remunerazioni9: 
+o Politica di remunerazione e incentivazione.  
+• Politica di gestione dei conflitti di interesse10: 
+o Policy di gestione dei conflitti di interesse;  
+o Procedura sull’identificazione e gestione dei conflitti di interesse. 
+• Sistemi informativi, presidi di sicurezza informatici, piani di emergenza11 
+adottati da Azimut Holding: 
+o Architettura dei sistemi informativi;  
+o Misure di sicurezza del Gruppo Azimut in materia di tutela dei dati;  
+o Piano di Continuità Operativa; 
+ 
+5 Inerente a tematiche e processi per cui la normativa applicabile ai fondi pensione aperti prescrive obbligatoriamente di dotarsi di 
+specifica regolamentazione interna. 
+6 Artt. 4-bis, comma 3, 5-ter, 5-quater del D.lgs. n. 252/2005; §§2-4 della Deliberazione Covip del 13/01/2021. 
+7 Artt. 4-bis e 5-septies del D.lgs. n. 252/2005; §6 della Deliberazione Covip del 13/01/2021. 
+8 In cui sono disciplinati la selezione dei gestori terzi e il monitoraggio delle attività svolte dagli stessi nell’ambito della delega di 
+gestione. 
+9 Art. 5-octies del D.lgs. n. 252/2005; §7 della Deliberazione Covip del 13/01/2021. 
+10 Art. 6, comma 5-bis, del D.lgs. n. 252/2005. 
+11 Art. 4-bis del D.lgs. n. 252/2005; §1 della Deliberazione Covip del 13/01/2021.
+=== pagina 28 ===
+Aprile 2026 28 
+ 
+o Digital Operational Resilience Strategy; 
+o ICT Risk Management Framework Policy; 
+o ICT Risk Assessment Methodology; 
+o ICT Risk Monitoring Methodology; 
+o ICT Project Management Policy; 
+o ICT Project Risk Assessment Methodology; 
+o Value Chain Policy; e  
+o ICT Third Party Management Policy.

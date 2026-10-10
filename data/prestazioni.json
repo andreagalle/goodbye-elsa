@@ -219,6 +219,120 @@
     "note": "Documento sulle rendite non trovato: la Nota informativa rimanda al sito www.fondoteseo.com. Nessuna spesa per anticipazioni, riscatti, trasferimenti e RITA."
   },
   {
+    "fondo_id": "destinazione-futuro-credemvita",
+    "riga": 9,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.credemvita.it/content/dam/credemvita/documenti/prodotti/doppi/in-collocamento/previdenza/destinazione-futuro---fondo-pensione-aperto-by-credemvita/Destinazione%20Futuro%20FPA_%20DOC%20RENDITE_072026.pdf"
+    },
+    "compagnia": "Credemvita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (totale o parziale)",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì",
+      "ltc": "No"
+    },
+    "n_varianti": 3,
+    "rendita_67": 420.5,
+    "tasso_conversione_67": 0.04205,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62U unisex, nati 1958–1966 senza correzione d'età, tasso tecnico 0% (42,05 € per 1.000 €)",
+    "costo_rendita": 0.0,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 0.0,
+      "rita": 18
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.credemvita.it/content/dam/credemvita/documenti/prodotti/doppi/in-collocamento/previdenza/destinazione-futuro---fondo-pensione-aperto-by-credemvita/Nota%20Parte%201_Scheda%20Costi_FPA%20Destinazione%20Futuro.pdf"
+    },
+    "nuove_prestazioni": "Rate trimestrali, semestrali o annuali (minimo 1.000 € a rata, altrimenti meno frequenti); prelievi ogni 3 mesi almeno; comparto predefinito Prudente Garantito; 18 € a rata o prelievo",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.credemvita.it/content/dam/credemvita/documenti/prodotti/doppi/in-collocamento/previdenza/destinazione-futuro---fondo-pensione-aperto-by-credemvita/Supplemento%20Nota%20informativa_FPA%20Destinazione%20Futuro_072026.pdf"
+    },
+    "consultata_il": "2026-10-10",
+    "note": "Nessun costo per la gestione e l'erogazione della rendita vitalizia. RITA: 18 € su ogni rata."
+  },
+  {
+    "fondo_id": "unipol-previdenza",
+    "riga": 12,
+    "documento_rendite": {
+      "titolo": "Documento sull'erogazione delle rendite (giugno 2025)",
+      "url": "https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/5d3f4fcc-c3b2-4aa9-93ee-be589cab8e69"
+    },
+    "compagnia": "Unipol Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 408.18,
+    "tasso_conversione_67": 0.040818,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62I unisex (40% uomini, 60% donne), nati 1958–1966 senza correzione d'età, tasso tecnico 0% (24,4988 € per 1 € di rendita, adesioni individuali)",
+    "costo_rendita": 0.009,
+    "costi": {
+      "anticipazione": 50,
+      "riscatto": 0.0,
+      "trasferimento": 0.0,
+      "rita": 3
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/1dafcf9e-5552-40d7-8199-721478e55766"
+    },
+    "nuove_prestazioni": "Rate da mensili ad annuali (solo annuali se la rata è sotto i 100 €); prelievi ogni 3 mesi almeno, minimo 1.000 € lordi",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa",
+      "url": "https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/a856e764-8cdf-4a04-8104-d40a8e7d0102"
+    },
+    "consultata_il": "2026-10-10",
+    "note": "La prima anticipazione è gratuita, le successive costano 50 €. RITA: 3 € su ogni rata. Costo della rendita dallo 0,9% (annuale) al 2% (mensile). Stessi coefficienti di BIM Vita, Vera Vita e Arti & Mestieri."
+  },
+  {
+    "fondo_id": "vera-vita",
+    "riga": 13,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (dicembre 2023)",
+      "url": "https://www.bancobpmvita.it/media/dlm_uploads/FPA_-_Doc_sulle_rendite_Ed._12_2023.pdf"
+    },
+    "compagnia": "Banco BPM Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 408.18,
+    "tasso_conversione_67": 0.040818,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62I unisex (40% uomini, 60% donne), tasso tecnico 0% (24,4988 € per 1 € di rendita)",
+    "costo_rendita": null,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 25,
+      "trasferimento": 25,
+      "rita": 3
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.bancobpmvita.it/media/dlm_uploads/FPA-1.-Scheda-I-costi.pdf"
+    },
+    "nuove_prestazioni": "Rate annuali, semestrali, trimestrali o mensili (minimo 600 € a rata, altrimenti meno frequenti); comparto predefinito Popolare Bond; 3 € a rata o prelievo",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.bancobpmvita.it/media/dlm_uploads/FPA-Vera-Vita-Supplemento-NI_Ed.-07.2026.pdf"
+    },
+    "consultata_il": "2026-10-10",
+    "note": "Documento sulle rendite del 2023, precedente alle nuove prestazioni. RITA: 3 € su ogni rata."
+  },
+  {
     "fondo_id": "unicredit",
     "riga": 14,
     "documento_rendite": {
@@ -297,20 +411,23 @@
   {
     "fondo_id": "zurich-contribution",
     "riga": 16,
-    "documento_rendite": null,
-    "compagnia": null,
-    "varianti": {
-      "reversibile": null,
-      "certa": null,
-      "controassicurata": null,
-      "ltc": null
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.zurich.it/api/archiviodigitale/download?guid=60B5B99F-0000-C71B-BF36-46FD29FCB19F&filename=Zurich%20Contribution_Documento%20sulle%20rendite_072026_prot.pdf"
     },
-    "n_varianti": 0,
-    "rendita_67": null,
-    "tasso_conversione_67": null,
+    "compagnia": "Zurich Investments Life S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 60%)",
+      "certa": "Sì (5 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 421.6,
+    "tasso_conversione_67": 0.04216,
     "tasso_tecnico": null,
-    "basi": null,
-    "costo_rendita": null,
+    "basi": "Coefficienti nel Regolamento (allegato 2), nati 1958–1966 senza correzione d'età (42,16 € per 1.000 €); tavola e tasso tecnico non indicati",
+    "costo_rendita": 0.0125,
     "costi": {
       "anticipazione": 0.0,
       "riscatto": 51.65,
@@ -321,28 +438,34 @@
       "titolo": "Nota informativa, scheda I costi (marzo 2026)",
       "url": "https://edge.sitecorecloud.io/zurichinsurf8c0-zwpshared-prod-d824/media/project/zurich-headless/italy/files/covip-schede-costi/zurich-contribution_nota-informativa_parte-i-scheda-i-costi-032026_prot.pdf"
     },
-    "nuove_prestazioni": null,
-    "supplemento": null,
-    "consultata_il": "2026-10-09",
-    "note": "Documento sulle rendite e supplemento non trovati sul sito pubblico. RITA: 2 € su ogni rata."
+    "nuove_prestazioni": "Rate trimestrali, semestrali o annuali; prelievi una volta l'anno; comparto predefinito Linea Garantita; 2 € a rata o prelievo",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.zurich.it/api/archiviodigitale/download?guid=00B4B99F-0000-C412-96BC-93B4DA412C73&filename=Zurich%20Contribution_Supplemento%20Nota%20Informativa%20072026_prot.pdf"
+    },
+    "consultata_il": "2026-10-10",
+    "note": "Oltre all'1,25% compreso nel coefficiente, 2,50 € su ogni rata di rendita e 0,75% trattenuto dal rendimento della gestione separata. RITA: 2 € su ogni rata."
   },
   {
     "fondo_id": "zed-omnifund",
     "riga": 17,
-    "documento_rendite": null,
-    "compagnia": null,
-    "varianti": {
-      "reversibile": null,
-      "certa": null,
-      "controassicurata": null,
-      "ltc": null
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.zurich.it/api/archiviodigitale/download?guid=90A5B99F-0000-CC1E-9007-299274039113&filename=ZED%20Omnifund_documento%20sulle%20rendite_072026_prot.pdf"
     },
-    "n_varianti": 0,
-    "rendita_67": null,
-    "tasso_conversione_67": null,
+    "compagnia": "Zurich Investments Life S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 60%)",
+      "certa": "No",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 1,
+    "rendita_67": 421.6,
+    "tasso_conversione_67": 0.04216,
     "tasso_tecnico": null,
-    "basi": null,
-    "costo_rendita": null,
+    "basi": "Coefficienti nel Regolamento (allegato 2), nati 1958–1966 senza correzione d'età (42,16 € per 1.000 €); tavola e tasso tecnico non indicati",
+    "costo_rendita": 0.0125,
     "costi": {
       "anticipazione": 0.0,
       "riscatto": 0.0,
@@ -353,10 +476,13 @@
       "titolo": "Nota informativa, scheda I costi (marzo 2026)",
       "url": "https://edge.sitecorecloud.io/zurichinsurf8c0-zwpshared-prod-d824/media/project/zurich-headless/italy/files/covip-schede-costi/zed-omnifund_nota-informativa_parte-i-scheda-i-costi-032026_prot.pdf"
     },
-    "nuove_prestazioni": null,
-    "supplemento": null,
-    "consultata_il": "2026-10-09",
-    "note": "Documento sulle rendite e supplemento non trovati sul sito pubblico. RITA: 2 € su ogni rata."
+    "nuove_prestazioni": "Rate trimestrali, semestrali o annuali; prelievi una volta l'anno; comparto predefinito Linea Garantita; 2 € a rata o prelievo",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.zurich.it/api/archiviodigitale/download?guid=40A3B99F-0000-C013-A5EC-4E4913272BAC&filename=ZED%20Omnifund_Supplemento%20Nota%20Informativa%20072026_prot.pdf"
+    },
+    "consultata_il": "2026-10-10",
+    "note": "Oltre all'1,25% compreso nel coefficiente, 2,50 € su ogni rata di rendita e 0,75% trattenuto dal rendimento della gestione separata. RITA: 2 € su ogni rata."
   },
   {
     "fondo_id": "plurifonds-itas-vita",
@@ -389,6 +515,44 @@
     "supplemento": null,
     "consultata_il": "2026-10-08",
     "note": "Documento sulle rendite del 2021, precedente alle nuove prestazioni. Oltre all'1,25% di erogazione, caricamento di gestione dell'1% sul premio."
+  },
+  {
+    "fondo_id": "aureo",
+    "riga": 20,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite",
+      "url": "https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/Documento%20sulle%20rendite.pdf"
+    },
+    "compagnia": "Assimoco Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100%, 75% o 50%)",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 430.6,
+    "tasso_conversione_67": 0.04306,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola IPS55U-I unisex, nati 1949–1960 senza correzione d'età, tasso tecnico 0% (43,06 € per 1.000 €)",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 20,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi",
+      "url": "https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/03%20Scheda%20I%20COSTI.PDF"
+    },
+    "nuove_prestazioni": "Rate mensili, trimestrali, semestrali o annuali (minimo 100 € a rata, altrimenti meno frequenti)",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/2026.07-FP_Aureo_Supplemento_Nota_Informativa.pdf"
+    },
+    "consultata_il": "2026-10-10",
+    "note": "Le nuove prestazioni sono descritte nell'«Integrazione documento Rendite» pubblicata accanto al documento. Stessa compagnia e stesse basi tecniche di Raiffeisen (IPS55U-I, tasso tecnico 0%)."
   },
   {
     "fondo_id": "credit-agricole-vita",
@@ -616,6 +780,44 @@
     "note": "Stessi coefficienti di Previdsystem e Giustiniano (stessa compagnia). Il testo estratto della Scheda costi non riporta il costo dell'anticipazione."
   },
   {
+    "fondo_id": "azimut-previdenza",
+    "riga": 27,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (valido dal 1/1/2025, aggiornato al 31/7/2026)",
+      "url": "https://www.azimut.it/archives/azimut-previdenza-documento-sulle-rendite-valido-dal-01-01-2025"
+    },
+    "compagnia": "Generali Italia S.p.A.",
+    "varianti": {
+      "reversibile": "Sì (100% o 60%)",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì",
+      "ltc": "Sì (rendita raddoppiata)"
+    },
+    "n_varianti": 4,
+    "rendita_67": null,
+    "tasso_conversione_67": null,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62D con coefficienti distinti per uomini e donne, tasso tecnico 0% (0,5% per una delle tabelle della controassicurata)",
+    "costo_rendita": 0.0125,
+    "costi": {
+      "anticipazione": 0.0,
+      "riscatto": 0.0,
+      "trasferimento": 50,
+      "rita": 30
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (aprile 2026)",
+      "url": "https://www.azimut.it/archives/2026-04-azimut-previdenza-nota-informativa-parte-i-scheda-i-costi-adesione-individuale"
+    },
+    "nuove_prestazioni": "Rate mensili, bimestrali, trimestrali, semestrali o annuali (minimo 250 € a rata, altrimenti meno frequenti); comparto predefinito Obbligazionario; 30 € per accedere, nessun costo a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.azimut.it/archives/2026-07-azimut-previdenza-nota-informativa-supplemento"
+    },
+    "consultata_il": "2026-10-10",
+    "note": "Coefficienti pubblicati distinti per uomini e donne (A62D, tasso tecnico 0%): a 67 anni 457,44 € (uomini) e 395,65 € (donne) l'anno ogni 10.000 €, non confrontabili con i coefficienti unisex degli altri fondi. Oltre all'1,25% sulle rate (1,50% con LTC), caricamento dello 0,50% sul premio. RITA: 30 € all'apertura della pratica."
+  },
+  {
     "fondo_id": "azione-di-previdenza",
     "riga": 28,
     "documento_rendite": {
@@ -732,19 +934,22 @@
   {
     "fondo_id": "bim-vita",
     "riga": 31,
-    "documento_rendite": null,
-    "compagnia": null,
-    "varianti": {
-      "reversibile": null,
-      "certa": null,
-      "controassicurata": null,
-      "ltc": null
+    "documento_rendite": {
+      "titolo": "Documento sull'erogazione delle rendite (luglio 2026)",
+      "url": "https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/new.pdf"
     },
-    "n_varianti": 0,
-    "rendita_67": null,
-    "tasso_conversione_67": null,
-    "tasso_tecnico": null,
-    "basi": null,
+    "compagnia": "Unipol Assicurazioni S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "No",
+      "ltc": "No"
+    },
+    "n_varianti": 2,
+    "rendita_67": 408.18,
+    "tasso_conversione_67": 0.040818,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62I unisex (40% uomini, 60% donne), tasso tecnico 0% (40,8184 € per 1.000 €)",
     "costo_rendita": null,
     "costi": {
       "anticipazione": 0.0,
@@ -761,8 +966,8 @@
       "titolo": "Supplemento alla Nota informativa (luglio 2026)",
       "url": "https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/supplemento-fpa-bv-2026-07-v2.pdf"
     },
-    "consultata_il": "2026-10-09",
-    "note": "Oggi si chiama Unipol Fondo Pensione Aperto BV. Documento sulle rendite non trovato sul sito pubblico. RITA: 3 € su ogni rata."
+    "consultata_il": "2026-10-10",
+    "note": "Oggi si chiama Unipol Fondo Pensione Aperto BV. RITA: 3 € su ogni rata."
   },
   {
     "fondo_id": "pensplan-profi",
@@ -953,5 +1158,43 @@
     },
     "consultata_il": "2026-10-08",
     "note": "Tavola IPS55, più datata delle A62: ipotizza una vita più breve e quindi una rata più alta."
+  },
+  {
+    "fondo_id": "core-pension",
+    "riga": 38,
+    "documento_rendite": {
+      "titolo": "Documento sulle rendite (luglio 2026)",
+      "url": "https://www.corepension.it/files/nuxeo/dl/ac831586-15a0-4a89-b50d-36fb10459175?inline="
+    },
+    "compagnia": "Crédit Agricole Vita S.p.A.",
+    "varianti": {
+      "reversibile": "Sì",
+      "certa": "Sì (5 o 10 anni)",
+      "controassicurata": "Sì",
+      "ltc": "No"
+    },
+    "n_varianti": 3,
+    "rendita_67": 443.46,
+    "tasso_conversione_67": 0.044346,
+    "tasso_tecnico": 0.0,
+    "basi": "Tavola A62I unisex, nati 1958–1966 senza correzione d'età, tasso tecnico 0%, rate annuali anticipate (22,5498 € per 1 € di rendita)",
+    "costo_rendita": 0.008,
+    "costi": {
+      "anticipazione": 10,
+      "riscatto": 10,
+      "trasferimento": 10,
+      "rita": 0.0
+    },
+    "scheda_costi": {
+      "titolo": "Nota informativa, scheda I costi (luglio 2026)",
+      "url": "https://www.corepension.it/files/nuxeo/dl/eadd0903-b773-453f-8461-1f35fda500ca?inline="
+    },
+    "nuove_prestazioni": "Rate trimestrali, semestrali o annuali (minimo 500 € a rata, altrimenti meno frequenti); comparto predefinito Core Pension Obbligazionario Misto; nessun costo per accedere né a rata",
+    "supplemento": {
+      "titolo": "Supplemento alla Nota informativa (luglio 2026)",
+      "url": "https://www.corepension.it/files/nuxeo/dl/7b95edc1-6995-47a6-b4f8-10b1757f8ed0?inline="
+    },
+    "consultata_il": "2026-10-10",
+    "note": "Stessi coefficienti di Secondapensione (stessa compagnia e stesse basi tecniche)."
   }
 ]

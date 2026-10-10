@@ -1,0 +1,1322 @@
+# Fondo: FONDO PENSIONE APERTO SOLUZIONE PREVIDENTE (soluzione-previdente)
+# Documento: Documento sulla politica di investimento – Documento sulla Politica di investimento
+# Fonte: https://www.helvetia.com/content/dam/os/it/web/it/prodotti-e-servizi/prodotti_dedicati_alla_previdenza_complementare/fpa_soluzione_previdente/Politica_investimento_FPA.pdf
+# Citato in: https://www.helvetia.com/it/web/it/prodotti-e-servizi/prodotti-dedicati-alla-previdenza-complementare/previdenza_complementare/fpa-soluzione-previdente.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 33598c77fb2f6b011300340ae69927e71e2ada805d5689511d9bf7cb02a45c96
+# Pagine: 31
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Politica di 
+investimento.
+=== pagina 2 ===
+1 
+ 
+ 
+Fondo Pensione Aperto 
+SOLUZIONE PREVIDENTE 
+Estratto Documento sulla Politica di investimento
+=== pagina 3 ===
+2 
+ 
+Sommario  
+ 
+1. Introduzione ............................................................................................................................................. 3 
+2. Obiettivi del documento ......................................................................................................................... 3 
+3 Ambito di applicazione ........................................................................................................................... 3 
+4 Riferimenti normativi ............................................................................................................................... 4 
+5 Ruoli e responsabilità ............................................................................................................................. 4 
+5.1 Organo amministrativo ........................................................................................................................ 5 
+5.2 Chief Financial Officer (Direttore Finance) ....................................................................................... 5 
+5.3 Funzione Investimenti .......................................................................................................................... 6 
+5.4 Gestore .................................................................................................................................................. 6 
+5.5 Banca Depositaria ................................................................................................................................ 6 
+6 Caratteristiche dei potenziali aderenti ................................................................................................. 7 
+7 Obiettivi e criteri di attuazione della politica di investimento ............................................................ 7 
+7.1 Linea 1 Garantita .................................................................................................................................. 8 
+7.2 Linea 2 Prudente ................................................................................................................................ 10 
+7.3 Linea 3 Equilibrata ............................................................................................................................. 12 
+7.4 Linea 4 Dinamica ................................................................................................................................ 15 
+7.5 Disposizioni comuni a tutti i comparti .............................................................................................. 18 
+7.5.1 Investimenti Alternativi e Immobiliari ............................................................................................ 18 
+7.5.2 Limiti di esposizione per emittente o gruppi di emittenti .............................................................. 18 
+7.5.3 Limiti di concentrazione per settore .............................................................................................. 18 
+7.5.4 Controparti e Mercati di negoziazione ........................................................................................... 18 
+7.5.5 Criteri di selezione degli investimenti ............................................................................................ 18 
+7.5.6 Investimenti Responsabili ............................................................................................................... 19 
+7.6 Disposizioni comuni alla "Linee 3 Equilibrata" ed alla "Linea 4 Dinamica" in materia di 
+promozione delle caratteristiche ambientali e sociali .......................................................................... 20 
+7.6.1 Componente Titoli .......................................................................................................................... 20 
+7.6.2 Componente OICR .......................................................................................................................... 22 
+7 Mandati gestori ...................................................................................................................................... 23 
+8 Diritti di Voto .......................................................................................................................................... 24 
+9 Sistema di controllo della gestione finanziaria ................................................................................. 24 
+10 Gestione delle deviazioni ................................................................................................................ 27
+=== pagina 4 ===
+3 
+ 
+1. Introduzione 
+In ottemperanza alle disposizioni contenute nella Deliberazione COVIP del 16 marzo 2012 
+“Disposizioni sul processo di attuazione della politica di investimento” (d’ora in avanti, 
+“Deliberazione”), che si applicano a tutte le forme pensionistiche complement ari, il Consiglio di 
+Amministrazione della Compagnia definisce la strategia finanziaria del Fondo Pensione Aperto 
+“Soluzione Previdente” (d’ora in avanti, “Fondo”), iscritto al n. 155 dell’Albo dei Fondi Pensione della 
+Covip in data 18 ottobre 2006. Il Fondo è una forma pensionistica operante in regime di contribuzione 
+definita: l’entità della prestazione pensionistica è determinata in funzione della contribuzione 
+effettuata e della redditività derivante dall’impiego delle risorse. Il Fondo è costituito in forma di 
+patrimonio separato e autonomo nell’ambito della Società. 
+Ai sensi dell’Art. 2 Comma 4 della Deliberazione il Consiglio di Amministrazione, con cadenza 
+almeno triennale, provvederà a rivedere ed aggiornare le presenti linee guida, valutandone 
+l’adeguatezza, la completezza e la coerenza in relazione all’evoluzione  del contesto economico -
+finanziario, degli asset finanziari e della dinamica degli iscritti. Eventuali modifiche alla politica di 
+investimento apportate in sede di revisione triennale, saranno oggetto di apposita deliberazione. Ai 
+sensi dell’Art. 2 Comma 5 della Deliberazione, le modifiche apportate nel corso del triennio saranno 
+annotate nell' apposita sezione del documento con una sintetica descrizione delle stesse e delle 
+date in cui sono state effettuate. 
+Il documento è trasmesso, in sede di prima definizione e, in seguito, in occasione di ogni sua 
+modificazione: 
+− Al Responsabile del Fondo; 
+− Alla Banca Depositaria; 
+− Alla Covip entro 20 giorni dalla sua formalizzazione. 
+ 
+Il documento è a disposizione degli aderenti che ne facciano richiesta. 
+2. Obiettivi del documento 
+ 
+Il presente documento (di seguito “Policy”) definisce la politica degli investimenti ai sensi dell’art. 2, 
+comma 3,  indicando gli obiettivi della gestione finanziaria, i suoi criteri di attuazione, i compiti e le 
+responsabilità dei soggetti coinvolti nel processo d’investimento, nonché i sistemi di controllo e 
+valutazione dei risultati in modo da garantire che le risorse affidate siano impiegate in modo efficiente 
+nell’arco temporale coerente con i bisogni previdenziali degli aderenti, per massimizzare il ritorno 
+degli investimenti, con un livello di variabilità che consenta di massimizzare la probabilità di 
+raggiungere gli obiettivi di redditività attesi e minimizzare la probabilità di realizzare perdite elevate 
+sull’orizzonte temporale di riferimento. 
+ 
+3 Ambito di applicazione 
+ 
+Il presente documento si applica al Fondo Pensione Aperto "Soluzione Previdente", istituito da 
+Helvetia Vita Spa.
+=== pagina 5 ===
+4 
+ 
+4 Riferimenti normativi 
+ 
+Il quadro normativo di riferimento è il seguente: 
+ 
+− Decreto legislativo 5 dicembre 2005, n.252 -  Disciplina delle forme pensionistiche 
+complementari; 
+− Deliberazione COVIP del 16 marzo 2012 –  Disposizioni sul processo di attuazione della 
+Politica di Investimento; 
+− Decreto Ministeriale 166/2014 -  Regolamento di attuazione dell’art. 6, comma 5 -bis del 
+decreto legislativo 5 dicembre 2005, n. 252, recante norme sui criteri e limiti di investimento 
+delle risorse dei fondi pensione e sulle regole in materia di conflitti di interesse; 
+− Regolamento UE 2019/2088 del Parlamento Europeo e del Consiglio Europeo relativo 
+all'informativa sulla sostenibilità nel settore dei servizi finanziari del 27 novembre 2019; 
+− Regolamento UE 2020/852 del Parlamento Europeo e del Consiglio Europeo relativo 
+all'istituzione di un quadro che favorisce gli investimenti sostenibili e recante modifica del 
+regolamento UE 2019/2088 del 18 giugno 2020; 
+− Regolamento Delegato UE 2021/1256 della Commissione recante modifiche al regolamento 
+delegato UE 2015/35 per quanto riguarda l'integrazione dei rischi di sostenibilità nella 
+governance delle imprese di assicurazione e riassicurazione del 21 aprile 2021;  
+− Regolamento Delegato UE 2021/2139 della Commissione che integra il regolamento (UE) 
+2020/852 del Parlamento europeo e del Consiglio fissando i criteri di vaglio tecnico che 
+consentono di determinare a quali condizioni si possa considerare che un'attività economica 
+contribuisce in modo sostanziale alla mitigazione dei cambiamenti climatici o all'adattamento 
+ai cambiamenti climatici e se non arreca un danno significativo a nessun altro obiettivo 
+ambientale del 4 giugno 2021;  
+− Regolamento Delegato 2022/1288 della Commissione Europea che integra il regolamento 
+(UE) 2019/2088 del Parlamento europeo e del Consiglio per quanto riguarda le norme 
+tecniche di regolamentazione, specificando i dettagli del contenuto e la presentazione delle 
+informazioni in relazione al principio del "non nuocere in modo significativo", specificando il 
+contenuto, le metodologie e la presentazione delle informazioni in relazione agli indicatori di 
+sostenibilità e agli impatti negativi sulla sostenibilità, nonché il contenuto e la presentazione 
+delle informazioni in relazione alla promozione delle caratteristiche ambientali o sociali e alla 
+sostenibilità obiettivi di investimento nei documenti precontrattuali, sui siti web e nelle 
+relazioni periodiche, del 06 aprile 2022. 
+− Legge n. 220/2021 - Misure per contrastare il finanziamento delle imprese produttrici di mine 
+antipersona, di munizioni e submunizioni a grappolo. 
+5 Ruoli e responsabilità 
+ 
+Pertanto, gli attori coinvolti nel processo di attuazione della politica di investimento e nel sistema di 
+controllo per il Fondo, sono:
+=== pagina 6 ===
+5 
+ 
+− l’Organo Amministrativo; 
+− il Chief Financial Officer (Direttore Finance),  
+− la Funzione Investimenti;  
+− il Gestore esterno incaricato della gestione, ove presente; 
+− la banca depositaria;  
+ 
+A tali soggetti sono attribuiti i compiti e le responsabilità sinteticamente riportati di seguito. 
+ 5.1 Organo amministrativo 
+L’Organo Amministrativo di Helvetia  Vita, è responsabile della strategia d’investimento, dei target 
+assegnati, dell’adeguatezza della struttura organizzativa e del rispetto della normativa: 
+ 
+− definisce e adotta la politica di investimento, deliberando il Regolamento ed emanando la 
+Nota Informativa del Fondo, idonea a raggiungere gli obiettivi strategici del Fondo, 
+verificandone l’efficacia per la revisione e l’eventuale modifica; 
+− richiede di essere informato ed esamina l’informativa relativa all’andamento del profilo 
+rischio/rendimento della gestione finanziaria; 
+− valuta le raccomandazioni del Chief Financial Officer e le proposte elaborate dalla funzione 
+Investimenti; 
+− garantisce che gli attori coinvolti nel processo posseggano una preparazione professionale 
+e un livello di conoscenze ed esperienza adeguati alle mansioni svolte; 
+− analizza l’attività e le analisi svolte dalle funzioni sia operative sia di controllo e dagli organi 
+di controllo; 
+− approva le procedure interne di controllo della gestione finanziaria;  
+− definisce la strategia in materia di eventuale esercizio dei diritti di voto spettanti al Fondo. 
+ 
+5.2 Chief Financial Officer (Direttore Finance) 
+Il Chief Financial Officer è il responsabile dell’attuazione della politica d’investimento, anche nel caso 
+in cui le attività di asset management siano esternalizzate. In particolare: 
+− contribuisce all’impostazione della politica di investimento; 
+− garantisce l’attuazione, il mantenimento e il monitoraggio degli indirizzi strategici deliberati 
+dall’Organo Amministrativo formulando delle proposte riguardo ai nuovi sviluppi dei mercati; 
+− controlla nel continuo la coerenza tra la gestione finanziaria e le strategie, i piani e le politiche 
+di rischio definite, la normativa primaria, secondaria ed aziendale; 
+− analizza la reportistica sulla gestione finanziaria e formula eventuali proposte di modifica o 
+integrazione della gestione stessa, recanti: 
+ i risultati conseguiti nel tempo, per singolo comparto; 
+ il grado di rischio assunto in rapporto al rendimento realizzato;  
+− trasmette il rapporto di cui al punto precedente all’Organo Amministrativo e al Collegio 
+Sindacale; 
+− valuta l’operato dei soggetti incaricati della gestione;  
+− se richiesto dall’Organo Amministrativo, esercita il diritto di voto inerente i titoli oggetto della 
+gestione secondo le istruzioni vincolanti ricevute; 
+− condivide le procedure interne di controllo della gestione finanziaria, tenendo conto delle 
+proposte formulate dalla Funzione Investimenti e le sottopone all’approvazione dell’Organo 
+Amministrativo.  
+− nello svolgimento delle attività di propria competenza si avvale della Funzione Investimenti, 
+del quale definisce in dettaglio l’assetto organizzativo, i compiti e le responsabilità e cura il
+=== pagina 7 ===
+6 
+ 
+mantenimento della funzionalità e dell’adeguatezza complessiva dell’assetto organizzativo. 
+ 
+ 5.3 Funzione Investimenti 
+      La funzione Investimenti: 
+- struttura i presidi utili per il monitoraggio dei flussi informativi e supervisiona gli investimenti 
+mobiliari effettuati attraverso l’analisi dei risultati conseguiti nel corso del tempo;  
+− definisce, sviluppa e aggiorna le procedure di monitoraggio della gestione finanziaria, da 
+sottoporre, per la condivisione, al Chief Financial Officer; 
+− svolge l’attività istruttoria per la selezione dei gestori finanziari , che sottopone al Chief 
+Financial Officer e all’Organo Amministrativo, cura la definizione degli SLA; 
+− formula con il Chief Financial Officer, le raccomandazioni per l’Organo Amministrativo; 
+− valuta le proposte di asset allocation tattica del Gestore e riporta al Chief Financial Officer le 
+analisi effettuate; 
+− controlla l’attuazione della strategia d’investimento da parte  del Gestore e valuta il suo 
+operato, con particolare attenzione agli investimenti in strumenti alternativi e in derivati, 
+− archivia la documentazione attestante il presidio e il monitoraggio nelle directory della società 
+istitutrice/ della Funzione per dieci anni in modo da consentire la ricostruzione degli eventi 
+che hanno determinato le situazioni reddituali passate; 
+- trasmette al Comitato investimenti/ALM una rendicontazione sintetica trimestrale;   
+- effettua il monitoraggio di sua competenza descritto nel paragrafo 10; 
+- trasmette una reportistica trimestrale sull’attività svolta al Responsabile del Fondo. 
+ 
+ 
+5.4 Gestore  
+Qualora la gestione sia in outsourcing, il gestore: 
+− fornisce una valutazione sull’andamento dei mercati finanziari e la propria view di mercato; 
+− espone l’asset allocation tattica (portafoglio modello) alla riunione trimestrale con il 
+Responsabile della Funzione Investimenti, ossia le scelte d’investimento finalizzate a 
+realizzare extra-rendimenti; 
+− investe le risorse finanziarie con la finalità di catture, attraverso una gestione attiva, le 
+opportunità di mercato; 
+− trasmette alla Funzione Investimenti una rendicontazione trimestrale sulle scelte effettuate; 
+− se richiesto, esercita il diritto di voto spettante al Fondo inerente i titoli oggetto della gestione 
+secondo le istruzioni vincolanti impartite dall’organo amministrativo dello stesso. 
+ 
+5.5 Banca Depositaria 
+La Banca Depositaria esegue le attività a essa affidate dalla legge; in particolare: 
+− custodisce gli strumenti finanziari e le disponibilità liquide del Fondo; 
+− accerta che nelle operazioni relative al Fondo le controprestazioni le siano rimesse nei 
+termini d’uso. Controlla in particolare che le negoziazioni di pertinenza del Fondo siano 
+regolate secondo la disciplina vigente nei mercati in cui le negoziazioni hanno luogo; 
+− controlla che le istruzioni, impartite dal Gestore, non siano contrarie alla legge, al 
+regolamento del Fondo, nonché alle prescrizioni della Vigilanza; tale verifica ha per oggetto 
+la totalità delle operazioni e riguarda la legittimità di ciascuna di esse anche in relazione alla 
+composizione complessiva degli investimenti del Fondo sulla base delle operazioni di 
+gestione disposte
+=== pagina 8 ===
+7 
+ 
+− controlla, in occasione della valorizzazione, la congruità dell’attivo netto destinato alle 
+prestazioni. 
+6 Caratteristiche dei potenziali aderenti 
+ 
+Il Fondo è destinato sia alle adesioni individuali di tutti i soggetti indistintamente sia alle adesioni dei 
+lavoratori sulla base, ad esempio, di contratti o accordi collettivi aziendali. Esso non ha quindi una 
+popolazione di riferimento predefinita. La pluralità di possibili orizzonti temporali corrispondenti a 
+diverse tipologie di iscritti rende necessario disporre di più opzioni d’investimento, con facoltà 
+concessa ai potenziali aderenti di destinare liberamente i contributi a uno o più comparti con 
+combinazioni di rischio- rendimento diversificate. Il Fondo è idoneo a soddisfare le aspettative di 
+popolazioni di riferimento ampie. In ogni caso, per tenere in considerazione le caratteristiche e i 
+potenziali bisogni previdenziali della popolazione di riferimento, la Società monitora le caratteristiche 
+socio-demografiche degli iscritti, l’andamento delle adesioni e delle uscite nonché il livello di 
+contribuzione media. 
+7 Obiettivi e criteri di attuazione della politica di investimento 
+ 
+L’obiettivo di soddisfare i bisogni previdenziali della popolazione di riferimento comporta la necessità 
+di prevedere una pluralità di orizzonti temporali ai quali associare diversi rendimenti medi annui attesi 
+e diverse combinazioni di rischio-rendimento. A tal fine, si stabilisce che i contributi versati al Fondo 
+potranno confluire in uno dei seguenti comparti: 
+ Linea 1 Garantita 
+ Linea 2 Prudente 
+ Linea 3 Equilibrata 
+ Linea 4 Dinamica 
+ 
+costituiti coerentemente con le finalità previdenziali del Fondo e assumendo a riferimento l’esclusivo 
+interesse degli aderenti.  
+ 
+I flussi di TFR conferiti tacitamente al Fondo saranno destinati alla Linea 1 Garantita. 
+ 
+Il profilo di rischio è stato valutato con riferimento alla variabilità dei rendimenti misurata in termini di 
+volatilità annualizzata dei rendimenti mensili rolling. L’orizzonte temporale, invece, è stato 
+determinato con riferimento ai bisogni previdenziali dei potenziali aderenti.  
+ 
+La gestione del rischio viene effettuata anche coerentemente con quanto definito all'interno del Risk 
+Appetite Framework (RAF) approvato dalla Compagnia. 
+Coerentemente con quest'ultimo l'identificazione dei rischi di mercato avviene individuando le 
+migliori opportunità di investimento considerando l'obbiettivo di rendimento la posizione di solvibilità 
+e di liquidità della Compagnia. 
+ 
+Ai sensi dell’Art. 4 comma 1 della Deliberazione, con riferimento a ciascun comparto , vengono 
+definiti l’asset allocation target, gli strumenti finanziari nei quali si intende investire, le modalità e lo 
+stile di gestione.
+=== pagina 9 ===
+8 
+ 
+ 
+Per ciascun comparto si considerano tutti i rischi derivanti dagli investimenti nelle asset class 
+ammissibili, il vincolo rappresentato dal profilo di rischio di ciascun comparto e i limiti agli investimenti 
+fissati dalla normativa di settore. Per calcolare l’Asset Allocation strategica vengono formulate ipotesi 
+sui rendimenti e le volatilità attesi di ciascuna classe di attività nell'universo investibile, insieme alle 
+ipotesi sulla correlazione tra esse.  
+In particolare, sono state utilizzate le aspettative di rendimento della Compagnia, le volatilità e le 
+correlazioni stimate sulle serie storiche degli indici rappresentativi delle asset class di riferimento.  
+Le valutazioni sono state formulate in contesto real world con riferimento ad un orizzonte temporale 
+coerente con quello della singola linea. 
+ 
+L'Asset Allocation target è determinata individuando le combinazioni rischio-rendimento efficienti e 
+ottimizzando il profilo rischio/rendimento del portafoglio di attività finanziarie, nel rispetto dei profili 
+di rischio e dell’orizzonte temporale di riferimento specifici di ciascun comparto.  
+ 
+7.1 Linea 1 Garantita 
+OBIETTIVI DELLA POLITICA DI INVESTIMENTO 
+La gestione è volta a realizzare, con elevata probabilità, rendimenti che siano almeno pari a quelli 
+del TFR su un orizzonte temporale pluriennale. La Linea prevede la garanzia che, al momento 
+dell’esercizio del diritto di pensionamento, la posizione individuale, in base alla quale sarà calcolata 
+la prestazione, non possa essere inferiore alla somma dei contributi versati, al netto delle spese e 
+di eventuali anticipazioni non reintegrate o di importi riscattati. La medesima garanzia opera anche 
+prima del pensionamento, nei casi di premorienza, invalidità permanente (che comporti la riduzione 
+della capacità lavorativa a meno di un terzo) e inoccupazione per un periodo di tempo superiore a 
+48 mesi. La garanzia è prestata da Helvetia Vita S.p.A. 
+ 
+L’orizzonte temporale del comparto è di breve (5 anni). 
+ 
+L’Asset Allocation Target coerente con l’orizzonte temporale e il profilo di rischio che si vuole 
+ottenere, è riportata nella seguente tabella.  
+ 
+Tabella 1. Asset Allocation Target “Linea 1 – garantita” 
+Asset Class Target 
+Liquidità 3% 
+Obbligazioni 97% 
+ 
+La duration target del portafoglio obbligazionario è di 4 anni. 
+ 
+Sulla base dell’esperienza storica e delle aspettative sull’evoluzione dei mercati finanziari di 
+riferimento, il rendimento atteso reale (al netto delle commissioni), sull'orizzonte temporale di 
+riferimento, può essere stimato nella misura del -0,9%.  
+La variabilità dei rendimenti, anche in considerazione della garanzia prevista, è contenuta. 
+Sulla linea opera la garanzia di restituzione dei contributi versati (al netto delle spese, di anticipazioni 
+non reintegrate e di importi riscattati), pertanto, la probabilità di ottenere rendimenti nominali
+=== pagina 10 ===
+9 
+ 
+complessivi negativi è nulla. 
+La probabilità, anche in base all'esperienza passata, di realizzare rendimenti inferiori al tasso di 
+inflazione, sull'orizzonte temporale di riferimento, è circa del 67%. 
+ 
+Il benchmark di riferimento è rappresentato dal seguente paniere di indici: 
+ 100% ICE BofAML 3-5 Year Euro Government lndex (Ticker Bloomberg: EG02) 
+ 
+L'indice "ICE BofAML 3 -5 Year Euro G ovemment lndex" è il sottoinsieme del "ICE BofAML Euro 
+Govemment lndex" composto solo dai titoli con durata residua finale pari o superiore a 3 anni ed 
+inferiore a 5 anni.  
+L'indice "ICE BofAML Euro Government lndex" replica la performance di titoli di debito sovrani in 
+Euro, emessi dai paesi membri dell'Euro sia nel mercato degli Eurobond che nel mercato nazionale 
+dell'emittente. I paesi devono essere membri dell'Unione Monetaria Europea e devono avere un 
+rating in valuta estera a lungo termine almeno investment grade (sulla base di una media di Moody, 
+S & P e Fitch), inoltre la fonte di prezzo dei titoli deve essere trasparente. 
+Il paniere di riferimento viene aggiornato mensilmente ed è disponibile dal 31 dicembre 1985. 
+ 
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+Il comparto risulta esposto ai seguenti rischi finanziari: rischio di tasso di interesse, rischio spread, 
+rischio di controparte. Al fine di assicurare che l’assunzione e la gestione dell’esposizione ai rischi 
+sia coerente con il profilo di rischiosità del comparto, si fissano i seguenti limiti di investimento e 
+criteri di attuazione della politica di investimento. 
+La duration del portafoglio obbligazionario può discostarsi da quella target; non può comunque 
+risultare inferiore a 1 anni e superiore a 6 anni. 
+Non è consentito, l’investimento in titoli di capitale, anche se rivenienti da conversione di obbligazioni 
+convertibili e/o warrant, comparto immobiliare o strumenti cosiddetti alternativi.  
+L’area geografica di riferimento è prevalentemente l’area EMU . Gli strumenti finanziari devono 
+essere espressi in Euro. 
+E’ ammesso l’investimento in titoli di emittenti governativi appartenenti all’area OCSE, organismi 
+sovranazionali ai quali partecipa almeno uno Stato appartenente all’OCSE, enti garantiti da Stati 
+appartenenti all’OCSE, come pure in emittenti corporate purché appartenenti all’area OCSE. I titoli 
+di debito o di capitale emessi da soggetti diversi dai Paesi appartenenti all’Ocse o residenti in tali 
+Paesi, è ammesso nel limite massimo regolamentare del 5% del patrimonio del comparto, purché 
+negoziati in mercati regolamentati dei Paesi dell’Unione Europea, degli Stati Uniti e del Regno Unito. 
+Le risorse finanziarie del comparto possono essere investite in Organismi di Investimento Collettivo 
+del Risparmio, di seguito denominati “OICR”, purché i loro programmi e i limiti di investimento siano 
+compatibili con quelli del comparto. L’investimento in OICR è finalizzato a ottenere un maggiore 
+livello di diversificazione e di efficienza gestionale, senza alterare il profilo rischio/rendimento del 
+comparto. In particolare, è possibile investire in OICR per assumere esposizioni in mercati 
+considerati res iduali nell’universo investibile come, per esempio, i mercati extra –  europei o 
+particolari settori merceologici. Ai fini della presente Deliberazione, gli ETF sono assimilati agli OICR. 
+Non è ammesso l’utilizzo di strumenti derivati.
+=== pagina 11 ===
+10 
+ 
+La strategia di gestione è attiva per consentire di gestire situazioni di mercato contingenti e migliorare 
+il profilo rischio/rendimento del comparto.  
+Il livello massimo di rotazione annua del patrimonio (turnover) è fissato a circa 1,5.  
+ 
+La composizione del portafoglio può discostarsi da quella dal benchmark, purché la Tracking Error 
+Volatility1, assunta come misura di scostamento rispetto al benchmark, risulti inferiore al 4%. 
+La Compagnia monitora anche le seguenti misure di rischiosità: 
+• la volatilità dei rendimenti (soglia di attenzione 2%); 
+• la massima perdita potenziale con un livello di confidenza del 95% su un orizzonte temporale 
+di 1 anno (VaR) (soglia di attenzione 3%). 
+Dell'eventuale superamento delle suddette soglie sarà interessato il Comitato Investimenti/ALM. 
+ 
+7.2 Linea 2 Prudente 
+OBIETTIVI DELLA POLITICA DI INVESTIMENTO 
+La gestione è orientata ad ottenere nel medio- lungo periodo un incremento del capitale investito 
+attraverso la combinazione di investimenti azionari ed obbligazionari sfruttando le opportunità offerte 
+dai mercati internazionali, senza che gli investimenti siano concentrati geograficamente in una 
+particolare area o mercato. La politica di investimento mira a perseguire una struttura di portafoglio 
+mista, orientata prevalentemente verso titoli di debito (titoli di stato, obbligazioni di ogni tipo, sia 
+pubbliche che private, comprese le obbligazioni convertibili e con warrant), titoli di capitale, parti di 
+OICR, di emittenti sia italiani sia esteri. 
+ 
+L’orizzonte temporale del comparto è di medio/lungo periodo (tra 10 e 15 anni).  
+ 
+L’Asset Allocation Target coerente con l’orizzonte temporale e il profilo di rischio che si vuole 
+ottenere, è riportata nella seguente tabella. 
+Tabella 2. Asset Allocation Target “Linea 2” 
+Asset Class Target 
+Liquidità 3% 
+Obbligazioni  82% 
+Azioni  15% 
+ 
+La duration target del portafoglio obbligazionario è di 7 anni. 
+ 
+Sulla base dell’esperienza storica e delle aspettative sull’evoluzione dei mercati finanziari di 
+riferimento, il rendimento atteso reale (al netto delle commissioni), sull'orizzonte temporale di 
+riferimento, può essere stimato nella misura del -0,3%.  
+La variabilità dei rendimenti può essere significativa, in considerazione del fatto che la gestione mira 
+a individuare combinazioni rischio- rendimento efficienti considerando anche asset class rischiose 
+(mercato azionario, obbligazioni a medio-lungo termine) ed esposizione al rischio cambio.  
+ 
+1 La Tracking Error Volatility (TEV) descrive la volatilità dei rendimenti differenziali di un fondo rispetto ad un indice di riferimento (benchmark).
+=== pagina 12 ===
+11 
+ 
+La probabilità, anche in base all'esperienza passata, di realizzare rendimenti inferiori al tasso di 
+inflazione, sull'orizzonte temporale di riferimento, è circa del 56%. 
+Il benchmark di riferimento è rappresentato dal seguente paniere di indici: 
+ 85% ICE BofA 5-10 Year Euro Government (Ticker Bloomberg: EG06); 
+ 15% MSCI WORLD Net Total Return EUR (Ticker Bloomberg: MSDEWIN). 
+ 
+L'indice "ICE BofAML 5 -10 Year Euro Govemment lndex" è il sottoinsieme del "ICE BofAML Euro 
+Govemment lndex" composto solo dai titoli con durata residua finale pari o superiore a 5  anni ed 
+inferiore a 10 anni. L'indice "ICE BofAML Euro Government lndex" replica la performance di titoli di 
+debito sovrani in Euro, emessi dai paesi membri dell'Euro sia nel mercato degli Eurobond che nel 
+mercato nazionale dell'emittente. I paesi devono essere membri dell'Unione Monetaria Europea e 
+devono avere un rating in valuta estera a lungo termine almeno investment grade (sulla base di una 
+media di Moody, S & P e Fitch), inoltre la fonte di prezzo dei titoli deve essere trasparente. 
+Il paniere di riferimento viene aggiornato mensilmente ed è disponibile dal 31 dicembre 1985. 
+L’indice "MSCI WORLD Net Total Return EUR", è un indice a capitalizzazione, che per l’investitore 
+in euro rappresenta il rendimento dei principali titoli azionari quotati nelle borse dei paesi sviluppati, 
+tenuto conto degli eventuali apprezzamenti o deprezzamenti delle valute nei confronti dell’Euro.  
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+Il comparto risulta esposto ai seguenti rischi finanziari: rischio di tasso di interesse, rischio spread, 
+rischio di controparte, rischio azionario, rischio cambio.  
+Al fine di assicurare che l’assunzione e la gestione dell’esposizione ai rischi sia coerente con il profilo 
+di rischiosità del comparto, si fissano i seguenti limiti di investimento e criteri di attuazione della 
+politica di investimento. 
+La duration del portafoglio obbligazionario può discostarsi da quella target; non può comunque 
+risultare inferiore a 4,5 anni e superiore a 10 anni. 
+ 
+Il peso della componente obbligazionaria, deve rappresentare almeno il 60% del patrimonio del 
+comparto.  
+ 
+È possibile investire in titoli di emittenti governativi appartenenti all’area OCSE, organismi 
+sovranazionali ai quali partecipa almeno uno Stato appartenente all’OCSE, enti garantiti da Stati 
+appartenenti all’OCSE, come pure in emittenti corporate purché appartenenti all’area OCSE. I titoli 
+di debito o di capitale emessi da soggetti diversi dai Paesi appartenenti all’Ocse o residenti in tali 
+Paesi, è ammesso nel limite massimo regolamentare del 5% del patrimonio del comparto, purché 
+negoziati in mercati regolamentati dei Paesi dell’Unione Europea, degli Stati Uniti, del Canada,  del 
+Giappone e del Regno Unito. 
+ 
+Il patrimonio del comparto potrà essere investito in titoli di capitale, ivi inclusi quelli derivanti da 
+conversione di obbligazioni convertibili e/o warrant, nel limite massimo del 40% del patrimonio del 
+comparto. 
+ 
+L’area geografica di riferimento è prevalentemente l’area EMU. 
+ 
+L’esposizione in attività finanziarie espresse in valuta diversa dall’Euro deve risultare inferiore al 
+30% del patrimonio del comparto, al netto di coperture attraverso derivati. Il rischio cambio derivante
+=== pagina 13 ===
+12 
+ 
+dall’investimento in strumenti finanziari espressi in valute diverse dall’Euro può essere coperto con 
+l’utilizzo di contratti di valuta a termine e a pronti, contratti di opzione o futures.  
+L’impiego di contratti derivati per la copertura del rischio cambio avviene con le modalità e nei limiti 
+fissati dalla normativa in materia previdenziale, in particolare dal D.M. 166/2014  e successive 
+modificazioni e integrazioni. 
+Non è ammesso l’investimento in strumenti derivati diversi da quelli indicati o per finalità diverse 
+dalla copertura del rischio cambio. 
+Le risorse finanziarie del comparto possono essere investite in Organismi di Investimento Collettivo 
+del Risparmio, di seguito denominati “OICR”, purché i loro programmi e i limiti di investimento siano 
+compatibili con quelli del comparto.  
+L’investimento in OICR è finalizzato a ottenere un maggiore livello di diversificazione e di efficienza 
+gestionale, senza alterare il profilo rischio/rendimento del comparto. Ai fini della presente 
+Deliberazione, gli ETF sono assimilati agli OICR. 
+L'investimento in FIA,  qualora previsto dal regolamento del Fondo, è contenuto entro il limite del 
+20% delle disponibilità complessive del fondo e del 25% del valore del FIA, in linea con quanto 
+disposto dalla normativa vigente in materia previdenziale, in particolare dal D.M. 166/2014 e 
+successive modifiche ed integrazioni. 
+La strategia di gestione è attiva per consentire di gestire situazioni di mercato contingenti e migliorare 
+il profilo rischio/rendimento del comparto.  
+Il livello massimo di rotazione annua del patrimonio (turnover) è fissato a circa 1,50.  
+La composizione del portafoglio può discostarsi da quella dal benchmark, purché la Tracking Error 
+Volatility2, assunta come misura di scostamento rispetto al benchmark, risulti inferiore al 5%.  
+La Compagnia monitora anche le seguenti misure di rischiosità: 
+• la volatilità dei rendimenti (soglia di attenzione 6%) 
+• la massima perdita potenziale con un livello di confidenza del 95% su un orizzonte temporale 
+di 1 anno (VaR) (soglia di attenzione 11%) 
+Dell'eventuale superamento delle suddette soglie sarà interessato il Comitato Investimenti/ALM .
+  
+7.3 Linea 3 Equilibrata 
+OBIETTIVI DELLA POLITICA DI INVESTIMENTO 
+La gestione si pone l’obiettivo di perseguire nel lungo periodo un incremento del capitale investito 
+attraverso la combinazione di investimenti azionari ed obbligazionari sfruttando le opportunità offerte 
+dai mercati internazionali, senza che gli investimenti siano concentrati geograficamente in una 
+particolare area o mercato. La politica di investimento mira a perseguire una struttura di portafoglio 
+mista, orientata prevalentemente verso titoli di debito (titoli di stato, obbligazioni di ogni tipo, sia 
+pubbliche che private, comprese le obbligazioni convertibili e con warrant), titoli di capitale, parti di 
+OICR, di emittenti sia italiani sia esteri.  
+ 
+L’orizzonte temporale del comparto è di lungo periodo (oltre 15 anni).  
+ 
+L’Asset Allocation Target coerente con l’orizzonte temporale di investimento fissato e il profilo di 
+ 
+2 La Tracking Error Volatility (TEV) descrive la volatilità dei rendimenti differenziali di un fondo rispetto ad un indice di riferimento (benchmark).
+=== pagina 14 ===
+13 
+ 
+rischio che si vuole ottenere, è riportata nella seguente tabella.  
+Tabella 3. Asset Allocation Target “Linea 3” 
+Asset Class Target 
+Liquidità 3% 
+Obbligazioni 62% 
+Azioni  35% 
+ 
+La duration target del portafoglio obbligazionario è di 7 anni. 
+ 
+Sulla base dell’esperienza storica e delle aspettative sull’evoluzione dei mercati finanziari di 
+riferimento, il rendimento atteso reale (al netto delle commissioni), sull'orizzonte temporale di 
+riferimento, può essere stimato nella misura del 0,2%. 
+La variabilità dei rendimenti può essere significativa, anche in considerazione del fatto che la 
+gestione mira a individuare combinazioni rischio- rendimento efficienti considerando anche asset 
+class rischiose (mercato azionario, obbligazioni a medio -lungo termine) ed esposizione al rischio 
+cambio. 
+La probabilità, anche in base all'esperienza passata, di realizzare rendimenti inferiori al tasso di 
+inflazione, sull'orizzonte temporale di riferimento, è circa del 46%.  
+ 
+Il benchmark di riferimento è rappresentato dal seguente paniere di indici: 
+ 
+ 65% ICE BofA 5-10 Year Euro Government (Ticker Bloomberg: EG06); 
+ 30% MSCI WORLD Net Total Return EUR (Ticker Bloomberg: MSDEWIN); 
+ 5% MSCI EMU Net Total Return EUR (Ticker Bloomberg: MSDEEMUN). 
+ 
+L'indice "ICE BofAML 5- 10 Year Euro Govemment lndex" è il sottoinsieme del "ICE BofAML Euro  
+Govemment lndex" composto solo dai titoli con durata residua finale pari o superiore a 5  anni ed 
+inferiore a 10 anni. L'indice "ICE BofAML Euro Government lndex" replica la performance di titoli di 
+debito sovrani in Euro, emessi dai paesi membri dell'Euro sia nel mercato degli Eurobond che nel 
+mercato nazionale dell'emittente. I paesi devono essere membri dell'Unione Monetaria Europea e 
+devono avere un rating in valuta estera a lungo termine almeno investment grade (sulla base di una 
+media di Moody, S & P e Fitch), inoltre la fonte di prezzo dei titoli deve essere trasparente. 
+Il paniere di riferimento viene aggiornato mensilmente ed è disponibile dal 31 dicembre 1985. 
+L’indice "MSCI WORLD Net Total Return EUR", è un indice a capitalizzazione, che per l’investitore 
+in euro rappresenta il rendimento dei principali titoli azionari quotati nelle borse dei paesi sviluppati, 
+tenuto conto degli eventuali apprezzamenti o deprezzamenti delle valute nei confronti dell’Euro.  
+L'indice " MSCI EMU Net Total Return EUR" è un indice Net Total Return che cattura la performance 
+delle società quotate, di media ed elevata capitalizzazione, appartenenti ai principali paesi dell'Area 
+Euro. 
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+Il comparto risulta esposto ai seguenti rischi finanziari: rischio di tasso di interesse, rischio spread, 
+rischio di controparte, rischio azionario, rischio cambio. Al fine di assicurare che l’assunzione e la
+=== pagina 15 ===
+14 
+ 
+gestione dell’esposizione ai rischi sia coerente con il profilo di rischiosità del comparto, si fissano i 
+seguenti limiti di investimento e criteri di attuazione della politica di investimento. 
+La duration del portafoglio obbligazionario può discostarsi da quella target; non può comunque 
+risultare inferiore a 3,5 anni e superiore a 10 anni. 
+Il peso della componente obbligazionaria deve rappresentare almeno il 10% del patrimonio del 
+comparto.  
+È possibile investire in titoli di emittenti governativi appartenenti all’area OCSE, organismi 
+sovranazionali ai quali partecipa almeno uno Stato appartenente all’OCSE, enti garantiti da Stati 
+appartenenti all’OCSE, come pure in emittenti corporate purché appartenenti all’area OCSE. I titoli 
+di debito o di capitale emessi da soggetti diversi dai Paesi appartenenti all’Ocse o residenti in tali 
+Paesi, è ammesso nel limite massimo regolamentare del 5% del patrimonio del comparto, purché 
+negoziati in mercati regolamentati dei Paesi dell’Unione Europea, degli Stati Uniti, del Canada, del 
+Giappone e del Regno Unito. 
+Il patrimonio del comparto potrà essere investito in titoli di capitale, ivi inclusi quelli derivanti da 
+conversione di obbligazioni convertibili e/o warrant, nel limite massimo del 70% del patrimonio del 
+comparto. 
+L’area geografica di riferimento è prevalentemente l’area EMU e di emittenti residenti negli USA. 
+L’esposizione in attività finanziarie espresse in valuta diversa dall’Euro, non coperte dal rischio 
+cambio, deve essere in linea con quella del benchmark di riferimento e comunque non superiore al 
+30% del valore complessivo del patrimonio del comparto, in linea con i limiti fissati dal D.M. 166/2014 
+e successive modifiche e/o integrazioni. 
+Il rischio cambio derivante dall’investimento in strumenti finanziari espressi in valute diverse dall’Euro 
+può essere coperto con l’utilizzo di contratti di valuta a termine e a pronti, contratti di opzione o 
+futures. 
+L’impiego di contratti derivati per la copertura del rischio cambio avviene con le modalità e nei limiti 
+fissati dalla normativa in materia previdenziale, in particolare dal D.M. 166/2014  e successive 
+modificazioni e integrazioni. 
+Non è ammesso l’investimento in strumenti derivati diversi da quelli indicati o per finalità diverse 
+dalla copertura del rischio cambio. 
+Le attività finanziarie nelle quali risulta investito il patrimonio del fondo devono essere negoziate in 
+mercati regolamentati appartenenti all’Area Ocse e devono essere caratterizzati da elevata 
+liquidabilità.  
+Le risorse finanziarie del comparto possono essere investite in Organismi di Investimento Collettivo 
+del Risparmio, di seguito denominati “OICR” 3, purché i loro programmi e i limiti di investimento siano 
+compatibili con quelli del comparto.  
+ 
+3 Per OICR si intendono gli organismi di investimento collettivo rientranti nell’ambito di applicazione della direttiva 85/611/CEE e i fondi comuni di 
+investimento mobiliare e immobiliare chiusi, di diritto italiano.
+=== pagina 16 ===
+15 
+ 
+L’investimento in OICR è finalizzato a ottenere un maggiore livello di diversificazione e di efficienza 
+gestionale, senza alterare il profilo rischio/rendimento del comparto. Ai fini della presente 
+Deliberazione, gli ETF sono assimilati agli OICR. 
+L'investimento in FIA, qualora previsto dal regolamento del Fondo, è contenuto entro il limite del 
+20% delle disponibilità complessive del fondo e del 25% del valore del FIA, in linea con quanto 
+disposto dalla normativa vigente in materia previdenziale, in particolare dal D.M. 166/2014 e 
+successive modifiche ed integrazioni. 
+La strategia di gestione è attiva per consentire di gestire situazioni di mercato contingenti e migliorare 
+il profilo rischio/rendimento del comparto.  
+Il livello massimo di rotazione annua del patrimonio (turnover) è fissato a circa 1,50.  
+La composizione del portafoglio può discostarsi da quella dal benchmark, purché la Tracking Error 
+Volatility4, assunta come misura di scostamento rispetto al benchmark, risulti inferiore al 6%. 
+La Compagnia monitora anche le seguenti misure di rischiosità: 
+• la volatilità dei rendimenti (soglia di attenzione 7,5%) 
+• la massima perdita potenziale con un livello di confidenza del 95% su un orizzonte temporale 
+di 1 anno (VaR) (soglia di attenzione 12%). 
+Dell'eventuale superamento delle suddette soglie sarà interessato il Comitato Investimenti/ALM 
+ 
+7.4 Linea 4 Dinamica 
+OBIETTIVI DELLA POLITICA DI INVESTIMENTO 
+La gestione si pone l’obiettivo di perseguire nel lungo periodo un incremento del capitale investito 
+attraverso la combinazione di investimenti azionari ed obbligazionari sfruttando le opportunità offerte 
+dai mercati internazionali, senza che gli investimenti siano concentrati geograficamente in una 
+particolare area o mercato. La politica di investimento mira a perseguire una struttura di portafoglio 
+mista, orientata prevalentemente verso titoli di debito (titoli di stato, obbligazioni di ogni tipo, sia 
+pubbliche che private, comprese le obbligazioni convertibili e con warrant), titoli di capitale, parti di 
+OICR, di emittenti sia italiani sia esteri.  
+ 
+L’orizzonte temporale del comparto è di lungo periodo (oltre 15 anni).  
+ 
+L’Asset Allocation Target coerente con l’orizzonte temporale di investimento fissato e il profilo di 
+rischio che si vuole ottenere, è riportata nella seguente tabella.  
+Tabella 3. Asset Allocation Target “Linea 3” 
+Asset Class Target 
+Liquidità 3% 
+Obbligazioni 7% 
+Azioni  90% 
+ 
+La duration target del portafoglio obbligazionario è di 2 anni. 
+ 
+4 La Tracking Error Volatility (TEV) descrive la volatilità dei rendimenti differenziali di un fondo rispetto ad un indice di riferimento (benchmark).
+=== pagina 17 ===
+16 
+ 
+ 
+Sulla base dell’esperienza storica e delle aspettative sull’evoluzione dei mercati finanziari di 
+riferimento, il rendimento atteso reale (al netto delle commissioni), sull'orizzonte temporale di 
+riferimento, può essere stimato nella misura del 3,8%. 
+La variabilità dei rendimenti può essere significativa, anche in considerazione del fatto che la 
+gestione mira a individuare combinazioni rischio- rendimento efficienti considerando anche asset 
+class rischiose (mercato azionario, obbligazioni a medio -lungo termine) ed esposizione al rischio 
+cambio. 
+La probabilità, anche in base all'esperienza passata, di realizzare rendimenti inferiori al tasso di 
+inflazione, sull'orizzonte temporale di riferimento, è circa del 9%.  
+ 
+Il benchmark di riferimento è rappresentato dal seguente paniere di indici: 
+ 
+ 10% ICE BofA 1-3 Year Euro Government (Ticker Bloomberg: EG01); 
+ 30% MSCI WORLD Net Total Return EUR (Ticker Bloomberg: MSDEWIN); 
+ 60% MSCI EMU Net Total Return EUR (Ticker Bloomberg: MSDEEMUN). 
+ 
+L'indice "ICE BofAML 1-3 Year Euro Govemment lndex" è il sottoinsieme del "ICE BofAML Euro  
+Govemment lndex" composto solo dai titoli con durata residua finale pari o superiore a 1  anni ed 
+inferiore a 3 anni. L'indice "ICE BofAML Euro Government lndex" replica la performance di titoli di 
+debito sovrani in Euro, emessi dai paesi membri dell'Euro sia nel mercato degli Eurobond che nel 
+mercato nazionale dell'emittente. I paesi devono essere membri dell'Unione Monetaria Europea e 
+devono avere un rating in valuta estera a lungo termine almeno investment grade (sulla base di una 
+media di Moody, S & P e Fitch), inoltre la fonte di prezzo dei titoli deve essere trasparente. 
+Il paniere di riferimento viene aggiornato mensilmente ed è disponibile dal 31 dicembre 1985. 
+L’indice "MSCI WORLD Net Total Return EUR" è un indice a capitalizzazione, che per l’investitore 
+in euro rappresenta il rendimento dei principali titoli azionari quotati nelle borse dei paesi sviluppati, 
+tenuto conto degli eventuali apprezzamenti o deprezzamenti delle valute nei confronti dell’Euro.  
+L'indice " MSCI EMU Net Total Return EUR" è un indice Net Total Return che cattura la performance 
+delle società quotate, di media ed elevata capitalizzazione, appartenenti ai principali paesi dell'Area 
+Euro. 
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+Il comparto risulta esposto ai seguenti rischi finanziari: rischio di tasso di interesse, rischio spread, 
+rischio di controparte, rischio azionario, rischio cambio. Al fine di assicurare che l’assunzione e la 
+gestione dell’esposizione ai rischi sia coerent e con il profilo di rischiosità del comparto, si fissano i 
+seguenti limiti di investimento e criteri di attuazione della politica di investimento. 
+La duration del portafoglio obbligazionario non può risultare superiore a 5 anni. 
+L’investimento in titoli di capitale non potrà scendere al di sotto del 70% del patrimonio del comparto 
+mentre potrà raggiungere anche il 100% dello stesso. Nel rispetto dei vigenti limiti normativi, una 
+quota non superiore al 30% del portafoglio potrà ess ere investita in strumenti obbligazionari sia 
+governativi sia societari, anche per il tramite di OICR, o in depositi di liquidità. 
+È possibile investire in titoli di emittenti governativi appartenenti all’area OCSE, organismi 
+sovranazionali ai quali partecipa almeno uno Stato appartenente all’OCSE, enti garantiti da Stati 
+appartenenti all’OCSE, come pure in emittenti corporate purché appartenenti all’area OCSE. I titoli 
+di debito o di capitale emessi da soggetti diversi dai Paesi appartenenti all’Ocse o residenti in tali
+=== pagina 18 ===
+17 
+ 
+Paesi, è ammesso nel limite massimo regolamentare del 5% del patrimonio del comparto, purché 
+negoziati in mercati regolamentati dei Paesi dell’Unione Europea, degli Stati Uniti, del Canada, del 
+Giappone e del Regno Unito. 
+L’area geografica di riferimento è prevalentemente l’area EMU e di emittenti residenti negli USA. 
+L’esposizione in attività finanziarie espresse in valuta diversa dall’Euro, non coperte dal rischio 
+cambio, deve essere in linea con quella del benchmark di riferimento e comunque non superiore al 
+30% del valore complessivo del patrimonio del comparto, in linea con i limiti fissati dal D.M. 166/2014 
+e successive modifiche e/o integrazioni. 
+Il rischio cambio derivante dall’investimento in strumenti finanziari espressi in valute diverse dall’Euro 
+può essere coperto con l’utilizzo di contratti di valuta a termine e a pronti, contratti di opzione o 
+futures. 
+L’impiego di contratti derivati per la copertura del rischio cambio avviene con le modalità e nei limiti 
+fissati dalla normativa in materia previdenziale, in particolare dal D.M. 166/2014  e successive 
+modificazioni e integrazioni. 
+Non è ammesso l’investimento in strumenti derivati diversi da quelli indicati o per finalità diverse 
+dalla copertura del rischio cambio. 
+Le attività finanziarie nelle quali risulta investito il patrimonio del fondo devono essere negoziate in 
+mercati regolamentati appartenenti all’Area Ocse e devono essere caratterizzati da elevata 
+liquidabilità.  
+Le risorse finanziarie del comparto possono essere investite in Organismi di Investimento Collettivo 
+del Risparmio, di seguito denominati “OICR” 5, purché i loro programmi e i limiti di investimento siano 
+compatibili con quelli del comparto.  
+L’investimento in OICR è finalizzato a ottenere un maggiore livello di diversificazione e di efficienza 
+gestionale, senza alterare il profilo rischio/rendimento del comparto. Ai fini della presente 
+Deliberazione, gli ETF sono assimilati agli OICR. 
+L'investimento in FIA, qualora previsto dal regolamento del Fondo, è contenuto entro il limite del 
+20% delle disponibilità complessive del fondo e del 25% del valore del FIA, in linea con quanto 
+disposto dalla normativa vigente in materia previdenziale, in particolare dal D.M. 166/2014 e 
+successive modifiche ed integrazioni. 
+La strategia di gestione è attiva per consentire di gestire situazioni di mercato contingenti e migliorare 
+il profilo rischio/rendimento del comparto.  
+Il livello massimo di rotazione annua del patrimonio (turnover) è fissato a circa 1,50.  
+La composizione del portafoglio può discostarsi da quella dal benchmark, purché la Tracking Error 
+Volatility6, assunta come misura di scostamento rispetto al benchmark, risulti inferiore al 8%. 
+La Compagnia monitora anche le seguenti misure di rischiosità: 
+• la volatilità dei rendimenti (soglia di attenzione 16%) 
+• la massima perdita potenziale con un livello di confidenza del 95% su un orizzonte temporale 
+ 
+5 Per OICR si intendono gli organismi di investimento collettivo rientranti nell’ambito di applicazione della direttiva 85/611/CEE e i fondi comuni di 
+investimento mobiliare e immobiliare chiusi, di diritto italiano. 
+6 La Tracking Error Volatility (TEV) descrive la volatilità dei rendimenti differenziali di un fondo rispetto ad un indice di riferimento (benchmark).
+=== pagina 19 ===
+18 
+ 
+di 1 anno (VaR) (soglia di attenzione 20%) 
+Dell'eventuale superamento delle suddette soglie sarà interessato il Comitato Investimenti/ALM. 
+  
+7.5 Disposizioni comuni a tutti i comparti 
+ 
+7.5.1 Investimenti Alternativi e Immobiliari 
+Le Linee possono effettuare investiment i nel comparto immobiliare e/o strumenti cosiddetti 
+alternativi, nel limite complessivo del 10% per singolo comparto. 
+7.5.2 Limiti di esposizione per emittente o gruppi di emittenti 
+L’esposizione verso singoli emittenti o soggetti facenti parte di un medesimo gruppo non deve 
+superare i limiti regolamentari. Il rating degli emittenti di titoli di debito in portafoglio, al momento 
+dell'acquisto, deve essere almeno "BBB -", considerando il second best tra i rating assegnati dalle 
+principali agenzie di rating. I titoli privi di rating non sono ammessi. 
+In relazione alla valutazione degli investimenti in generale ed ai rischi di controparte in particolare, 
+inoltre, la Compagnia non si affida esclusivamente e meccanicamente all’utilizzo dei giudizi da parte 
+della Agenzie di rating quali definite all’articolo 3, paragrafo 1, lettera b), del regolamento (CE) n. 
+1060/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, ma considera e valuta 
+anche i principali indicatori di rischio: 
+ 
+• CDS (credit default swap) dell'Emittente;  
+• Probabilità di default.  
+ 
+7.5.3 Limiti di concentrazione per settore 
+Sono ammessi emittenti appartenenti ai seguenti settori industriali: Consumo ciclico, Consumo 
+stabile, Energia, Finanza, Industria, Industria Farmaceutica, Information Techncology, Materiali di 
+base, Telecomunicazioni, Utilities. Il peso di ciascun settore non può superare il 75% del patrimonio 
+del comparto.  
+Il suddetto limite non si applica ai titoli di emittenti governativi o assimilati.  
+ 
+7.5.4 Controparti e Mercati di negoziazione 
+Le attività finanziarie devono essere negoziate in mercati regolamentati  o Multilateral Trading 
+Facilities appartenenti all’Area Ocse.  
+Le operazioni di negoziazione over the counter devono avvenire con controparti sottoposte a 
+vigilanza prudenziale a fini di stabilità 
+ 
+7.5.5 Criteri di selezione degli investimenti
+=== pagina 20 ===
+19 
+ 
+Titoli di Stato: in una prima fase, la selezione si bas a sul rating creditizio dell'emittente, assegnato 
+dalle principali agenzie di rating, sulle dinamiche del premio di rischio rispetto al tasso privo di rischio, 
+e su alcune variabili macro-economiche, quali l’indebitamento complessivo, i ratios legati al Prodotto 
+interno Lordo ed al Deficit corrente, ecc.  Si identifica la specifica obbligazione il cui rendimento 
+complessivo, duration e vita residua sono più adatti a far fronte agli impegni nei confronti  degli 
+assicurati, tenuto conto del portafoglio esistente e della necessità di garantire una adeguata 
+diversificazione. 
+ 
+Titoli obbligazionari di emittenti Corporate: in primo luogo, si considera il paese dell'emittente o del 
+garante; quindi il rating dell'emittente assegnato dalle principali agenzie di rating, congiuntamente al 
+rendimento del titolo; infine, si prendono in considerazione anche le analisi dei principali data 
+providers, nonché degli uffici studi dei principali operatori di mercato per avere anche una visione 
+prospettica delle attese del mercato circa le evoluzioni future dei diversi emittenti.  Una volta 
+identificato un paniere di obbligazioni possibili, se ne valuta la coerenza con il portafoglio in essere 
+in base alla concentrazione all'interno del portafoglio obbligazionario, allo spread rispetto ai titoli di 
+stato del medesimo Paese e rispetto ai titoli di stato italiani con la stessa scadenza. 
+Le obbligazioni corporate possono essere anche acquistate sul mercato primario, in qualità di 
+investitori istituzionali, approfittando di uno spread bid-ask nullo. 
+Investimenti in Titoli Azionari e assimilabili : la selezione dei singoli titoli si basa sulla capacità 
+prospettica della società emittente di produrre reddito sotto forma di dividendi ordinari.  Nella 
+valutazione vengono considerate anche variabili quali la correlazione con il mercato azionario di 
+riferimento (Beta) nonché elementi quali i principali ratios economico/patrimoniali (P/E, Price/Book 
+Value, P/CF, ecc 
+OICR:  (i) i fondi con uno stile di gestione attiva sono scelti in base al loro rapporto rischio/rendimento 
+e alla loro capacità di sovra-performare il benchmark, al netto delle commissioni; (ii) i fondi con uno 
+stile di gestione passiva sono scelti prevalentemente in base alla loro capacità di minimizzare il 
+tracking error, contenendo le commissioni; (iii) i fondi flessibili sono valutati in base alla loro capacità 
+di offrire prestazioni positive e stabili nel tempo, con performance  storiche superiori di almeno 100 
+bps al tasso privo di rischio a 1 anno. Gli OICR selezionati dovranno consentire l’accesso alle 
+informazioni sulle strategie poste in essere dal gestore, la struttura dei costi, i periodi di uscita 
+dall’investimento e assicurare i flussi informat ivi necessari per una adeguata valutazione 
+dell’investimento e per predisporre le segnalazioni periodiche da inviare alla COVIP. 
+7.5.6 Investimenti Responsabili 
+Conformemente alla Politica in materia di investimenti responsabili approvata dalla Compagnia il 20 
+dicembre 2022, il Fondo adotta un approccio, volto ad integrare i rischi di sostenibilità all'interno dei 
+suoi processi di ricerca e investimento e al contempo a monitorare il rendimento degli investimenti 
+attraverso analisi delle performance e degli impatti ESG (Environmental, Social e Governance). 
+Gli investimenti sono considerati a maggior rischio, in riferimento ai fattori ESG, se gli emittenti: 
+• producono o utilizzano armi o parti essenziali di queste, in violazione a principi umanitari 
+fondamentali attraverso un normale utilizzo (bombe a grappolo, mine terrestri antiuomo, 
+ecc.); 
+• producono o utilizzano carbone ad uso termico; 
+• sono coinvolti in violazioni gravi o sistematiche dei diritti umani; 
+• sono coinvolti in gravi danni ambientali;
+=== pagina 21 ===
+20 
+ 
+• sono implicati in casi di grave corruzione. 
+I riferimenti principali per l’individuazione dei temi oggetto di restrizione sono la "Convenzione di 
+Oslo", la "Convenzione di Ottawa"  e la disciplina interna "Direttiva di Gruppo sulle sanzioni" e si 
+basano sulle informazioni fornite da data provider specializzati esterni, al fine di assicurare una 
+valutazione indipendente ed imparziale. 
+In particolare, il Fondo identifica gli emittenti con una maggiore esposizione alle tematiche ESG, con 
+un’analisi complementare alla tradizionale analisi del rischio finanziario, sulla base di una “lista di 
+titoli sotto osservazione” aggiornata almeno trim estralmente, che indica emittenti particolarmente 
+controversi, monitorati al fine di un’eventuale esclusione dall’universo investibile. Questa lista viene 
+approvata da uno specifico "Comitato per gli investimenti responsabili" presso la Società Casamadre 
+e validato dal "Comitato Investimenti/ALM" della Compagnia. 
+Ulteriori esclusioni dall'universo investibile sono regolate da apposita procedura interna, redatta in 
+conformità alla Legge 9 dicembre 2021, n. 220, recante il divieto di finanziamento alle imprese 
+produttrici di mine antipersona, munizioni e submunizioni a grappolo. 
+ 
+7.6 Disposizioni comuni alla "Linee 3 Equilibrata" ed alla "Linea 4 
+Dinamica" in materia di promozione delle caratteristiche ambientali e sociali 
+ 
+Per quanto riguarda le linee ESG del Fondo ("Linee 3 Equilibrata" ed alla "Linea 4 Dinamica"), che 
+promuovono caratteristiche ambientali e sociali, si applicano le seguenti metodologie a seconda che 
+si tratti di investimenti in singoli titoli o OICR. 
+7.6.1 Componente Titoli 
+Integrazione ESG 
+Per quanto riguarda l’integrazione ESG, gli investimenti allineati alle caratteristiche ambientali e 
+sociali promosse dal prodotto sono quelli con un rating specifico minimo pari o superiore a "BB" 
+(considerando il seguente ordine crescente: CCC, B, BB, BB B, A, AA, AAA) sul pillar 
+“Environmental” e “Social”. Il rating è calcolato utilizzando i dati e la metodologia MSCI ESG 
+Research. 
+Esclusioni 
+Per quanto riguarda i criteri di esclusione, ai fini della promozione delle caratteristiche ambientali e 
+sociali, la Compagnia esclude i titoli di emittenti societari che: 
+• sono direttamente coinvolti nello sviluppo, nella produzione, nella manutenzione o nella 
+vendita di “armi vietate”, come definito da diverse convenzioni internazionali. La Compagnia dispone 
+di strumenti e procedure  per identificare le aziende che producono munizioni a grappolo e mine 
+antiuomo e tutte le società che forniscono componenti e sistemi che sono stati specificamente 
+progettati o modificati per adattarsi all’uso di queste armi controverse per le sue decisioni di 
+investimento;  
+• generano più del 5% delle proprie entrate dall’estrazione e/o vendita di carbone termico;
+=== pagina 22 ===
+21 
+ 
+• generano più del 5% delle proprie entrate dal settore delle armi nucleari; 
+• generano più del 5% delle proprie entrate dalle sabbie bituminose; 
+• sono coinvolti in controversie ESG molto severe; 
+• sono produttori di tabacco; 
+• per gli emittenti governativi vengono esclusi i titoli coinvolti in relazioni d’affari legati a uno 
+specifico gruppo di paesi per i quali prevalgono disposizioni sanzionatorie globali di carattere 
+economico motivate dai diritti umani (imposte dal Consiglio di sicurezza delle Nazioni Unite). 
+Presa in considerazione dei PAI 
+L'impatto negativo dei titoli sui fattori di sostenibilità viene mitigato concentrandosi su uno specifico 
+sottoinsieme di PAI. In particolare: 
+• PAI 4 - Esposizione a imprese attive nel settore dei combustibili fossili -  La Compagnia 
+esclude titoli di emittenti societari che generano più del 5% delle proprie entrate dall’estrazione e/o 
+vendita di carbone termico; 
+• PAI 10 -  Violazioni dei principi del Global Compact delle Nazioni Unite e delle linee guida 
+dell’Organizzazione per la cooperazione e lo sviluppo economico (OCSE) destinate alle imprese 
+multinazionali - La Compagnia esclude titoli di emittenti societari coinvolti in controversie ESG molto 
+severe; 
+• PAI 14 - Esposizione ad armi controverse (mine antiuomo, munizioni a grappolo, armi 
+chimiche e armi biologiche) - La Compagnia esclude titoli di emittenti societari che sono direttamente 
+coinvolti nello sviluppo, nella produzione, nella manutenzione o nella vendita di “armi vietate”, come 
+definito da diverse convenzioni internazionali. La Compagnia dispone di strumenti e procedure per 
+identificare le aziende che producono munizioni a grappolo e mine antiuomo e tutte le società che 
+forniscono componenti e sistemi che sono stati specificamente progettati o modificati per adattarsi 
+all’uso di queste armi controverse per le sue decisioni di investimento; 
+• PAI 16 - Paesi che beneficiano degli investimenti soggetti a violazioni sociali - In merito alle 
+disposizioni in materia di sanzioni internazionali, la Compagnia esegue controlli pre e post -
+negoziazione per tutti i titoli quotati, gli emittenti e altre controparti. La Compagnia si astiene da 
+investimenti e relazioni d’affari legati a uno specifico gruppo di paesi per i quali prevalgono 
+disposizioni sanzionatorie globali di carattere economico motivate dai diritti umani (imposte dal 
+Consiglio di sicurezza delle Nazioni Unite). 
+Prassi di buona governance 
+Per quanto riguarda i titoli la Compagnia applica un elemento vincolante, costituito da un punteggio 
+pari o superiore a “BB” per il pilastro di Governance delle società partecipate (considerando la 
+seguente scala: CCC, B, BB, BBB, A, AA, AAA). Sono inoltre escluse dal perimetro le imprese 
+beneficiarie di investimenti contrassegnati con una red flag nell’ambito della governance per i quali, 
+dalla valutazione del coinvolgimento diretto negli impatti negativi più gravi, risulta che questi non 
+siano ancora stati mitigati con soddisfazione di tutti gli stakeholders coinvolti nell’investimento.  
+Le valutazioni sono effettuate utilizzando i dati e la metodologia MSCI ESG Research.
+=== pagina 23 ===
+22 
+ 
+7.6.2 Componente OICR 
+Gli OICR allineati alle caratteristiche ambientali e sociali promosse dal prodotto sono quelli che 
+rientrano nella definizione di ex art. 8/9 SFDR a patto che tale classificazione sia data da un Asset 
+Manager a seguito di un'adeguata Due Diligence effettua ta sul criterio di assegnazione di tale 
+caratteristica. 
+Alternativamente, viene applicata la metodologia interna, composta dai seguenti elementi: 
+Integrazione ESG 
+Gli OICR allineati alle caratteristiche ambientali e sociali promosse dal prodotto sono quelli con un 
+rating specifico minimo pari o superiore a "BB" (considerando il seguente ordine crescente: CCC, B, 
+BB, BBB, A, AA, AAA) sul pillar «Environmental» e «Social». Il rating è calcolato utilizzando i dati e 
+la metodologia MSCI ESG Research. 
+ 
+Esclusioni 
+Il prodotto rispetta determinati criteri di esclusione, per i quali non sono ammessi OICR operanti in 
+settori ritenuti non sostenibili e/o che possono comportare significativi rischi ambientali e sociali oltre 
+una certa soglia. 
+Nello specifico la Compagnia esclude gli OICR che: 
+• abbiano emittenti direttamente coinvolti nello sviluppo (per oltre il 2% del peso complessivo  
+dell’OICR), nella produzione, nella manutenzione o nella vendita di “armi vietate”, come definito da 
+diverse convenzioni internazionali. La Compagnia dispone di strumenti e procedure per identificare 
+le aziende che producono munizioni a grappolo e mine antiuomo e tutte le società che forniscono 
+componenti e sistemi che sono stati specificamente progettati o modificati per adattarsi all’uso di 
+queste armi controverse per le sue decisioni di investimento;  
+• siano coinvolti per oltre il 5% in estrazione e/o vendita di carbone termico; 
+• siano coinvolti per oltre il 5% nel settore delle armi nucleari; 
+• siano coinvolti per oltre il 5 % in controversie ESG molto severe; 
+• siano coinvolti per oltre il 15% nel settore del tabacco. 
+ 
+Tutte le esclusioni sono monitorate nell’ambito di un controllo mensile della conformità degli 
+investimenti. 
+ 
+Presa in considerazione dei PAI 
+La selezione degli OICR mira a favorire quelli classificati come articolo 8 o 9 SFDR, anche a fronte 
+di un processo di Due Diligence. Maggiore è il peso degli OICR classificati come articolo 9 o 8 SFDR, 
+maggiore ci si aspetta essere il contenimento del PAI.
+=== pagina 24 ===
+23 
+ 
+Alternativamente, criteri di esclusione vengono applicati ad un sottoinsieme di PAI, in particolare: 
+• PAI 4 - Esposizione a imprese attive nel settore dei combustibili fossili -  La Compagnia 
+esclude OICR coinvolti per oltre il 5% nell’estrazione e/o vendita di carbone termico; 
+• PAI 10 -  Violazioni dei principi del Global Compact delle Nazioni Unite e delle linee guida 
+dell’Organizzazione per la cooperazione e lo sviluppo economico (OCSE) destinate alle imprese 
+multinazionali - La Compagnia esclude OICR le cui imprese sottostanti siano coinvolte per oltre il 5 
+% in controversie ESG molto severe; 
+• PAI 14 - Esposizione ad armi controverse (mine antiuomo, munizioni a grappolo, armi 
+chimiche e armi biologiche) - La Compagnia esclude OICR i cui emittenti societari siano direttamente 
+coinvolti (per oltre il 2% del peso complessivo dell’OICR) nello sviluppo, nella produzione, nella 
+manutenzione o nella vendita di “armi vietate”, come definito da diverse convenzioni internazionali. 
+La Compagnia dispone di strumenti e procedure per identificare le aziende che producono munizioni 
+a grappolo e mine antiuomo e tutte le società che forniscono componenti e sistemi che sono stati 
+specificamente progettati o modificati per adattarsi all’uso di queste armi controverse per le sue 
+decisioni di investimento. 
+ 
+Prassi di buona governance 
+Le Linee selezionano OICR di terzi che promuovono caratteristiche ambientali e/o sociali e/o che 
+abbiano un obiettivo di investimento sostenibile (rispettivamente, ai sensi dell’art. 8 e 9 del 
+Regolamento SFDR). 
+Tali OICR, come ulteriormente verificato dalla procedura di Due Diligence, rispettano per definizione 
+le prassi di buona governance. 
+Alternativamente, la Compagnia applica un elemento vincolante, costituito da un punteggio pari o 
+superiore a “BB” per il pillar Governance medio degli OICR (considerando la seguente scala: CCC, 
+B, BB, BBB, A, AA, AAA). Sono inoltre escluse dal perimetro gl i OICR con almeno un emittente 
+contrassegnato da una red flag nell’ambito della governance, quindi per i quali, dalla valutazione del 
+coinvolgimento diretto negli impatti negativi più gravi, risulta che questi non siano ancora stati mitigati 
+con soddisfazione di tutti gli stakeholders coinvolti nell’investimento.  
+Le valutazioni sono effettuate sulla base dei dati e della metodologia MSCI ESG Research. 
+Il peso complessivo della "Componente Titoli" e della "Componente OICR" che promuovono 
+caratteristiche ambientali e sociali, applicando tutti gli elementi vincolanti descritti rispettivamente 
+nei paragrafi 7.6.1 e 7.6.2, dovrà costituire minimo il 70% del totale degli investimenti (laddove nel 
+conteggio del “totale degli investimenti” sono incluse anche potenziali componenti residuali quali, a 
+titolo esemplificativo, derivati e liquidità).” 
+7 Mandati gestori 
+ 
+La gestione del patrimonio delle quattro linee è effettuata direttamente dalla Compagnia.
+=== pagina 25 ===
+24 
+ 
+8 Diritti di Voto 
+ 
+Dal mese di febbraio 2021 il Fondo è dotato di una "Politica di impegno" in seno alla quale è 
+disciplinato l'esercizio del diritto di voto. 
+9 Sistema di controllo della gestione finanziaria 
+Il sistema di governance e dei controlli interni di Helvetia Vita (cui la Compagnia istitutrice del Fondo 
+appartiene) prevede un sistema di controllo interno a tre livelli: 
+− controllo di “primo livello” (o controlli “di linea”), svolto dalle funzioni operative di business, 
+dirette e  coordinate dall’Alta Direzione e dal management di linea, che definiscono e 
+gestiscono adeguati controlli operativi a livello di processo nell’ambito delle attività quotidiane 
+e nella normale gestione del business (intendendo con ciò sia le attività di controllo ordinarie 
+che l’adeguamento di processi e procedure, nonché le necessarie verifiche e 
+l’implementazione delle eventuali misure correttive individuate); 
+− controllo di “secondo livello”, demandato alle funzioni fondamentali, tra cui di Risk 
+Management e Compliance, le quali collaborano, ciascuna per gli aspetti di propria 
+competenza, alla definizione di regole e policy di attuazione delle strategie di controllo dei 
+rischi ed assistono il management nella identificazione dei rischi connessi. In particolare 
+contribuiscono al monitoraggio dei rischi in essere, ad una valutazione indipendente dei rischi 
+e dei presidi di controllo adottati dalla Compagnia, nonché al monitoraggio della corretta 
+implementazione delle azioni correttive proposte. Il ruolo e le attività svolte dalla funzioni 
+sono definiti nelle rispettive politiche alle quali si rimanda per maggiori approfondimenti 
+− controllo di “terzo livello”, demandato alla funzione di Internal Audit e finalizzato alla 
+valutazione dell’adeguatezza, efficacia ed efficienza del sistema di controllo interno nel suo 
+complesso tramite una verifica indipendente sull’attività delle diverse aree aziendali (inclusi i 
+processi relativi al “secondo livello” di controllo).  
+Le funzioni di controllo di 2° e 3° livello di Helvetia Vita, nell’esercizio dei loro compiti istituzionali di 
+cui alle disposizioni regolamentari di settore (Reg.  IVASS n.38/2018), possono svolgere ulteriori 
+verifiche specifiche in esecuzione dei rispettivi piani di attività. 
+Con specifico riferimento al Fondo Pensione Aperto Soluzione Previdente, la Compagnia ha 
+proceduto a nominare un Responsabile del Fondo, nonché un Organismo di Sorveglianza, ai sensi 
+della disciplina vigente in materia di previdenza complementare (DL 252/2005 art.5 c.2 e 4), i cui 
+compiti e responsabilità sono definiti nel Regolamento del Fondo. In particolare, il Responsabile del 
+Fondo vigila sull’osservanza della normativa e dei principi di corretta amministrazione del Fondo 
+nell’esclusivo interesse degli aderenti ed organizza lo svolgimento delle sue funzioni avvalendosi 
+delle procedure definite dalla Compagnia al fine di vigilare sulla gestione finanziaria ed 
+amministrativa del Fondo, nonché sulle misure di trasparenza nei confronti degli aderenti. 
+ 
+Helvetia Vita è pertanto dotata di un sistema di controllo interno ed in particolare di un modello 
+organizzativo finalizzato ad una adeguata gestione dei rischi secondo un principio di proporzionalità, 
+ed in coerenza col modello organizzativo del  gruppo Helvetia svizzero e delle best practices nel 
+rispetto della normativa di settore della società istitutrice, in particolare il Regolamento IVASS n. 
+38/2018 ed il Regolamento IVASS n. 24/2016.
+=== pagina 26 ===
+25 
+ 
+ 
+Il responsabile ultimo del sistema di controllo è il Consiglio di Amministrazione,  che ne definisce le 
+linee di indirizzo in coerenza con quelle definite dalla Capogruppo Helvetia Rappresentanza e, con 
+riferimento al Fondo, assicura la costante completezza, funzionalità ed efficacia verificandone 
+periodicamente l’adeguatezza e l’effettivo funzionamento. Inoltre assicura che il sistema di gestione 
+dei rischi sia tale da consentire l’identificazione, la valutazione e il controllo e reporting dei rischi 
+maggiormente significativi, ivi compresi i rischi derivanti dalla non conformità alle norme. 
+ 
+Il Collegio Sindacale opera in conformità dell’art. 8 del Regolamento IVASS n.38/2018 dell’art.12 del 
+Regolamento IVASS n. 24/2016. 
+  
+La Direzione Finance  attua la gestione finanziaria, valuta e gestisce i rischi finanziari di ogni 
+comparto del Fondo fissati nella presente delibera, assicurando la definizione di limiti operativi nei 
+mandati gestori e la tempestiva verifica dei limiti medesimi, nonché il monitoraggio delle esposizioni 
+ai rischi. 
+ 
+La Direzione Finance, inoltre,  presidia la rilevazione delle informazioni e la metodologia che ne 
+garantisce la veridicità, la correttezza, la completezza, nonché l’aggiornamento in caso di anomalie 
+emerse in fase di controllo.  
+ 
+Il calcolo e la pubblicazione del NAV sono affidati a Previnet come outsourcer esterno. Sono stati 
+posti in essere dei presidi per fronteggiare i rischi operativi e controllare i flussi informativi: 
+- giornalmente, il sistema informatico di Casa Madre della società istitutrice il Fondo, invia a 
+Previnet un flusso relativo ai prezzi e cambi rilevati dal provider Bloomberg; 
+- settimanalmente, il Gestore invia i flussi delle operazioni a Previnet e al Back Office della 
+società istitutrice; 
+- mensilmente, Previnet invia un flusso alla Banca depositaria per i controlli di competenza;  
+- a fine mese, il Back Office effettua la riconciliazione dei nominali e dei controvalori tra i sistemi 
+informativi SAP/TRM, Banca Depositaria e Previnet.  
+ 
+Con specifico riferimento al processo di investimento del Fondo, la funzione di Risk Management 
+agisce in qualità di funzione di controllo di 2° livello, effettuando annualmente una verifica sulle 
+procedure seguite nell’impostazione e nell’attuazione della politica d’investimento ed una verifica 
+circa la coerenza dello stile di gestione e della velocità di rotazione del patrimonio in caso di 
+disallineamento rispetto agli indicatori di costo (costi addebitati vs costi previsti) e fornendo 
+informativa periodica al CdA della Compagnia ed al Responsabile del Fondo. 
+Altresì, rientra nel novero delle attività di competenza della funzione Risk Management la valutazione 
+interna del rischio relativo al fondo pensione aperto, svolta con il contributo anche delle altre funzioni 
+di controllo (primo e secondo livello) per le parti di propria competenza, ed è approvata dall’organo 
+di amministrazione della Società almeno ogni tre anni, o immediatamente dopo ogni variazione 
+significativa del profilo di rischio del fondo pensione aperto. 
+La società di revisione esamina il rendiconto del Fondo al fine di verificare che non ci siano vizi 
+derivanti da errori e se i risultati sono attendibili. Attesta la conformità alle norme che ne disciplinano 
+i criteri di redazione, la chiarezza e la vera e corretta rappresentazione della situazione patrimoniale 
+e della variazione dell’attivo netto destinato alle prestazioni.
+=== pagina 27 ===
+26 
+ 
+Con riferimento alla sicurezza, la società istitutrice  e gli outsourcer, si impegnano ad adottare, 
+applicare e mantenere al proprio interno un piano di business continuity che permetta di assicurare 
+la continuazione o il ripristino del funzionamento del servizio esternalizzato in caso di interruzione o 
+di grave deterioramento della qualità del servizio stesso e che preveda verifiche periodiche di 
+backup. 
+La gestione del Fondo è effettuata nel rispetto della normativa vigente in materia di conflitti di 
+interesse. Il Gestore è tenuto a comunicare tempestivamente al Fondo e alla Banca Depositaria ogni 
+situazione di conflitto rilevante ai sensi del Decreto Legislativo n. 58 del 24/02/1998 (Regolamento 
+degli Intermediari Consob). Il Gestore si è impegnato a fornire al Responsabile del Fondo e alla 
+Banca Depositaria ogni informazione utile comunicando la propria politica di gestione dei conflitti di 
+interesse. I principi guida sono l’adozione di presidi organizzativi, la trasparenza nell’informazione e 
+l’indipendenza nella gestione. 
+Inoltre, il sistema di controllo prevede la stesura di specifiche procedure, da formalizzare in un 
+apposito manuale operativo, per verificare che le azioni poste in essere dai vari soggetti coinvolti nel 
+processo risultino in grado di assicurare gli obiettivi finanziari stabiliti. Le principali procedure sono 
+di seguito descritte. 
+ 
+Parametro Soggetto Modalità di verifica Periodicità 
+Indicatori di rischio/ 
+rendimento  
+ 
+Funzione  
+Investimenti 
+Calcolo e monitoraggio degli indicatori di 
+rischio/rendimento, quali la 
+rendimento/performance, volatilità dei 
+rendimenti, massima perdita ritenuta 
+accettabile, duration, tracking error 
+volatility. 
+Trimestrale 
+Performance 
+attribution 
+Funzione 
+Investimenti 
+Esame dei risultati conseguiti in termini di 
+rischio e rendimento, sia in assoluto sia in 
+relazione all’andamento del mercato. 
+Attribuzione della differenza tra risultati 
+conseguiti in termini di rischio e rendimento 
+rispetto a quelli attesi ai diversi fattori 
+Annuale 
+Profilo di rischio e 
+orizzonte temporale 
+Funzione 
+Investimenti 
+Controllo del profilo di rischio e dell’orizzonte 
+temporale, della congruità delle soglie di 
+rischio e del rapporto rischio-rendimento 
+Annuale 
+Incidenza dei costi 
+Funzione 
+Investimenti Controllo annuale dell’incidenza dei costi Annuale 
+Performance analysis 
+Gestore delegato 
+Presentazione e analisi delle Performance   Trimestrale 
+Limiti di 
+investimento 
+Funzione 
+Investimenti 
+Verifica eventuali sforamenti rispetto ai limiti 
+stabiliti nel presente documento e 
+regolamentari 
+Trimestrale 
+Controllo costi di 
+gestione, di 
+negoziazione e degli 
+OICR 
+Funzione 
+Investimenti 
+Analisi dei costi sostenuti e verifica della loro 
+coerenza con i costi a carico degli aderenti. 
+Controllo sulla coerenza tra costi effettivi per 
+gli OICR e quanto previsto dalle previsioni 
+regolamentari o dalle convenzioni di gestione. 
+Annuale
+=== pagina 28 ===
+27 
+ 
+Controllo incidenza 
+costi OICR  
+Funzione 
+Investimenti 
+Verifica dell’incidenza sulla redditività dei 
+costi sostenuti (eventuale, solo in caso di 
+ricorso a OICR di dimensioni significative) 
+Annuale 
+Verifica stile di 
+gestione Risk Management 
+Verifica circa la coerenza dello stile di 
+gestione e della velocità di rotazione del 
+patrimonio in caso di disallineamento rispetto 
+agli indicatori di costo (costi addebitati vs 
+costi previsti)  
+Annuale 
+Verifica applicazione 
+procedure di 
+impostazione e 
+attuaz. politica di 
+investimento 
+Funzione di controllo 
+interno 
+Verifica sulle procedure seguite 
+nell’impostazione e nell’attuazione della 
+politica di investimento 
+Annuale 
+ Monitoraggio  
+popolazione di 
+riferimento 
+Ufficio portafoglio 
+Analisi dei movimenti per nuove adesioni, 
+uscite e livello di contribuzione per comparto 
+delle nuove adesioni e delle uscite 
+Semestrale 
+Analisi socio-
+demografiche Ufficio portafoglio 
+Analisi socio demografiche sugli aderenti (età, 
+sesso, tipo di contribuzione – individuale o 
+collettivo) 
+Annuale 
+ 
+Ogni funzione provvede per le proprie competenze a produrre adeguata informativa per gli Organi 
+sociali, l’Alta Direzione e il Responsabile del Fondo. 
+10 Gestione delle deviazioni 
+ 
+Nel manuale operativo sono disciplinati i casi di gestione delle deviazioni. Inoltre l'owner della policy 
+comunica alle funzioni fondamentali (Compliance, Internal Audit, Risk Management), per gli aspetti 
+di rispettiva competenza, qualsiasi fatto rilevante per gli adempimenti previsti.  
+Nel caso in cui gli emendamenti locali non siano conformi alla policy definita dalla Casa Madre, la 
+stessa deve esserne informata a tempo debito. 
+11 Approvazione 
+ 
+Il presente documento viene formalizzato dal Consiglio di Amministrazione della Compagnia 
+avvalendosi della collaborazione della funzione Investimenti.  
+La presente Policy è stata approvata dal Consiglio di Amministrazione tenutosi in data 24/03/2026.
+=== pagina 29 ===
+28 
+ 
+Allegato 1 – Revisioni del Documento  (ai sensi Art. 2, co. 5°, della Delibera COVIP 16.03.2012) 
+ 
+1. Rispetto alla versione precedente – del marzo 2023 - di seguito le principali modifiche 
+approvate il 23 marzo 2026 con validità dal 1 aprile 2026: 
+ 
+Paragrafo 4: Aggiornamento Riferimenti normativi; 
+Paragrafo 7:  
+• Adeguamento, per tutte le linee, delle stime del "rendimento atteso" e della "probabilità di 
+realizzare un rendimento reale negativo"; 
+ 
+ 
+2. Rispetto alla versione precedente – del settembre 2021 - di seguito le principali 
+modifiche approvate il 21 marzo 2023 con validità dal 1 aprile 2023: 
+ 
+Paragrafo 4: Aggiornamento Riferimenti normativi; 
+Paragrafo 7:  
+• Aggiornamento denominazione delle linee; 
+• I ntroduzione "Linea 4 Dinamica"; 
+• Modifica dei benchmark della "Linee 1 Garantita", "Linee 2 Prudente ", "Linee 3 Equilibrata"; 
+ 
+  VECCHI BENCHMARK NUOVI BENCHMARK 
+Linea 1 100% JP Morgan GBI EMU 1-3 Yrs 100% ICE BofA 3-5 Year Euro Government 
+Linea 2 
+85% JP Morgan GBI Global in Local 
+Currency,  
+15% MSCI AC World Local Currency 
+85% ICE BofA 5-10 Year Euro Government Index 
+15% MSCI WORLD Net Total Return EUR Index 
+Linea 3 
+65% JP Morgan GBI Global in Local 
+Currency 
+30% MSCI AC World Index in Euro 
+5% MSCI Daily TR Net EMU Local 
+65% ICE BofA 5-10 Year Euro Government Index 
+30% MSCI WORLD Net Total Return EUR Index 
+5% MSCI EMU NET TOTAL RETURN EUR 
+ 
+• A deguamento, per tutte le linee, delle stime del "rendimento atteso" e della "probabilità di 
+realizzare un rendimento reale negativo"; 
+Paragrafo 7.1:  
+• Innalzamento duration target del portafoglio obbligazionario da 2 a 4 anni, a seguito della 
+modifica del benchmark; 
+• Innalzamento del limite superiore della duration massima del portafoglio obbligazionario da
+=== pagina 30 ===
+29 
+ 
+5 a 6 anni, a seguito della modifica del benchmark; 
+Paragrafo 7.6: Introduzione disposizioni comuni alla "Linee 3 Equilibrata" ed alla "Linea 4 Dinamica" 
+in materia di promozione delle caratteristiche ambientali e sociali; 
+ 
+3. Rispetto alla versione precedente – dell'aprile 2020 - di seguito le principali modifiche 
+approvate il 22 settembre 2021 con validità dal 1 ottobre 2021: 
+  
+Paragrafo 7: per tutte le linee adeguamento stime del "rendimento atteso" e della "probabilità di 
+realizzare un rendimento reale negativo";  
+Paragrafo 7.2: riduzione della volatilità dei rendimenti da 6,5% al 6%, quale soglia di attenzione;  
+Paragrafo 7.4: Investimenti Responsabili: nuova introduzione;  
+Capitolo 9: recepimento della "Politica in impegno" della Compagnia; 
+ 
+4. Rispetto alla versione precedente – del dicembre 2018 - di seguito le principali 
+modifiche approvate il 15 aprile 2020 con validità dal 15 aprile 2020: 
+ 
+Capitolo 4 – Riferimenti normativi: nuova introduzione  
+Paragrafo 7.1 – Linea 1 Garantita:  
+• Aggiornamento orizzonte temporale del comparto (da 5/10 anni a 5 anni)  
+• Modifica Asset Allocation Target (liquidità da 5% a 3% e conseguente aumento delle 
+"Obbligazioni");  
+• Aggiornamento del rendimento medio annuo atteso e della probabilità di avere rendimenti 
+inferiori al tasso di inflazione (su relativo orizzonte temporale);  
+• Aumento della duration massima del portafoglio obbligazionario da 4 a 5 anni.  
+• Introduzione di una soglia di attenzione per misure di rischiosità quali Valore a Rischio 
+(VaR) e Volatilità  
+ 
+Paragrafo 7.2 Linea 2:  
+• Modifica orizzonte temporale del comparto (da 10/20 anni a 10/15 anni)  
+• Modifica Asset Allocation Target (liquidità da 5% a 3% e conseguente aumento delle 
+"Obbligazioni");  
+• Aggiornamento del rendimento medio annuo atteso e della probabilità di avere rendimenti 
+inferiori al tasso di inflazione (su relativo orizzonte temporale);  
+• Modifica del limite massimo di turnover ( da 2 a 1,5)  
+• Modifica Tracking Error Volatility ( da 4 a 5)  
+• Introduzione di una soglia di attenzione per misure di rischiosità quali Valore a Rischio 
+(VaR) e Volatilità  
+ 
+Paragrafo 7.3 Linea 3:  
+• Modifica orizzonte temporale del comparto (da 30 anni a superiore 15 anni)  
+• Modifica Asset Allocation Target (liquidità da 5% a 3% e conseguente aumento delle 
+"Obbligazioni");  
+• Aggiornamento del rendimento medio annuo atteso e della probabilità di avere rendimenti 
+inferiori al tasso di inflazione (su relativo orizzonte temporale);
+=== pagina 31 ===
+30 
+ 
+• Introduzione di una soglia di attenzione per misure di rischiosità quali Valore a Rischio 
+(VaR) e Volatilità  
+ 
+Paragrafo 7.4 Disposizione comuni a tutti i comparti  
+• Modifica del limite di rating "BBB-" limitata "al momento dell'acquisto" del titolo.  
+ 
+Capitolo 10 – Attribuzione attività "Controllo costi di gestione, di negoziazione e degli OICR" 
+all'Area Investimenti  
+Capitolo 11 – Gestione delle deviazioni: nuova introduzione  
+Capitolo 12 – Archiviazione: nuova introduzione  
+Capitolo 13 – Approvazione: nuova introduzione

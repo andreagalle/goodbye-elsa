@@ -1,0 +1,1743 @@
+# Fondo: FONDO PENSIONE APERTO BIM VITA (bim-vita)
+# Documento: Regolamento – Regolamento del fondo
+# Fonte: https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/c2-c3-fpa-bv-reg-2026-07-v2.pdf
+# Citato in: https://www.unipol.it/fragments/dialogs/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: bb7ae81060de0dfdfb7d335fa96bbe18d0585136beeb04adfd74c814804caf76
+# Pagine: 44
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL FONDO PENSIONE APERTO BV 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 120 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REGOLAMENTO
+=== pagina 2 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 1 di 38  
+ 
+ 
+ 
+INDICE 
+ 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+Art. 1 - Denominazione 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+Art. 3 - Scopo 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art. 4 - Regime del Fondo  
+Art. 5 - Destinatari e tipologie di adesione  
+Art. 6 - Scelte di investimento 
+Art. 7 - Gestione degli investimenti 
+Art. 8 - Spese 
+ 
+PARTE III – CONTRIBUZIONI E PRESTAZIONI 
+Art. 9 - Contribuzione 
+Art. 10 - Determinazione della posizione individuale 
+Art. 11 - Prestazioni pensionistiche e RITA 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+Art. 14 - Anticipazioni 
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile  
+Art. 16 - Sistema di governo 
+Art. 17 - Depositario 
+Art. 18 - Responsabile 
+Art. 19 - Conflitti di interesse 
+Art. 20 - Scritture contabili
+=== pagina 3 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 2 di 38  
+PARTE V – RAPPORTI CON GLI ADERENTI 
+Art. 21 - Modalità di adesione e clausole risolutive espresse 
+Art. 22 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+Art. 23 - Comunicazioni e reclami 
+ 
+PARTE VI – NORME FINALI 
+Art. 24 - Modifiche del Regolamento 
+Art. 25 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo 
+Art. 26 - Cessione del Fondo 
+Art. 27 - Operazioni di fusione 
+Art. 28 - Rinvio 
+ 
+Allegati: 
+Allegato n.1 Disposizioni in materia di Responsabile 
+Allegato n.2 Condizioni e modalità di erogazione delle rendite
+=== pagina 4 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 3 di 38  
+ 
+ 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+Art. 1 - Denominazione 
+1. “Unipol Fondo Pensione Aperto BV” (di seguito definito “Fondo”) è un fondo pensione aperto 
+istituito ai sensi dell’art. 12 del Decreto lgs. 5 dicembre 2005, n. 252 (di seguito “Decreto”). 
+ 
+ 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito dalla società “BIM Vita S.p.A. ” giusta autorizzazione 
+rilasciata dalla COVIP con provvedimento del 30 novembre 2000 ; con il medesimo 
+provvedimento la COVIP ha approvato il Regolamento del Fondo. 
+2. La società Unipol Assicurazioni S.p.A., di seguito l’ “Impresa di Assicurazione” esercita 
+l’attività di gestione del Fondo con effetto dal 1° luglio 2026. 
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 120. 
+4. L’attività relativa al Fondo è svolta in Bologna, presso la sede dell’Impresa di Assicurazione. 
+5. L’indirizzo di posta elettronica certificata (PEC) dell ’Impresa di Assicurazione è 
+unipolfpabv0120@pec.unipol.it. 
+ 
+ 
+Art. 3 - Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di 
+prestazioni pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito 
+mediante la raccolta dei contributi, la gestione delle risorse nell’escl usivo interesse degli 
+aderenti, e l’erogazione delle prestazioni secondo quanto disposto dalla normativa tempo per 
+tempo vigente.
+=== pagina 5 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 4 di 38  
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITA’ DI 
+INVESTIMENTO 
+ 
+Art. 4 - Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del 
+Fondo è determinata in funzione della contribuzione effettuata e in base al principio della 
+capitalizzazione. 
+ 
+ 
+Art. 5 - Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita.  
+2. È altresì consentita  l’adesione su base collettiva ai soggetti destinatari delle forme 
+pensionistiche complementari individuati dall’art. 2, comma 1, del Decreto, nei cui confronti 
+trovino applicazione i contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione 
+al Fondo. Ai sensi dell’art. 8, comma 7 -bis, del Decreto l’adesione al Fondo su base collettiva 
+può avvenire anche in modalità automatica mediante il conferimento tacito del TFR maturando, 
+della contribuzione a carico del datore di lavoro e del lavoratore. 
+3. Possono aderire al fondo su base collettiva anche gli aderenti taciti, ovvero i lavoratori 
+dipendenti del settore privato assunti antecedentemente al 1° luglio 2026, che non hanno 
+espresso alcuna volontà di adesione, nei tempi e nei modi fissati dal Decret o nella versione 
+antecedente alla riforma di cui alla Legge n. 199/2025, circa il conferimento del TFR maturando. 
+4. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento 
+dell’età pensionabile prevista dal regime obbligatorio di appartenenza. 
+ 
+ 
+Art. 6 - Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio -rendimento, in 
+modo tale da assicurare agli aderenti una adeguata possibilità di scelta: 
+• Comparto Bond Unipol; 
+• Comparto Equilibrio Unipol: comparto garantito, destinato ad accogliere il conferimento 
+del TFR degli aderenti taciti che risultano iscritti al Fondo; 
+• Comparto Bilanciata Globale Unipol; 
+• Comparto Equity Unipol. 
+1-bis. Al fine di costruire il profi lo life-cycle in adeguamento alle Deliberazione Covip del 23 giugno 
+2026, è consentito avv alersi di un periodo transitorio che non potrà protrarsi oltre il 3 0 giugno 
+2027. Durante tale periodo il Fondo raccoglie le adesioni automatiche allocando i relativi 
+contributi e quote di TFR nei seguenti comparti: 
+- Bond Unipol; 
+- Equity Unipol. 
+I criteri con i quali saranno investiti i flussi contributi delle adesioni automatiche sono i medesimi 
+alla base del profilo life-cycle che sarà attivato entro il termine del periodo transitorio e sono
+=== pagina 6 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 5 di 38  
+descritti nel Supplemento alla Nota Informativa. Tali modalità rappresentano disposizioni di natura 
+transitoria. Una volta disponibile, il profilo life-cycle sarà attivato: 
+- per le adesioni automatiche raccolte anche nel corso del periodo transitorio; 
+- per le adesioni automatiche raccolte dalla data di attivazione del profilo life-cycle; 
+nonché reso disponibile quale nuova opzione di investimento per tutti gli iscritti.  
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti in cui far confluire i versamenti 
+contributivi, con facoltà di modificare nel tempo tale destinazione. L’aderente può  inoltre 
+riallocare la propria posizione individuale tra i diversi comparti, nel rispetto del periodo minimo 
+di un anno dall’iscrizione ovvero dall’ultima riallocazione. In questo caso i versamenti 
+contributivi successivi sono suddivisi sulla base delle nuove percentuali fissate all’atto della 
+riallocazione, salvo diversa disposizione dell’aderente. Il limite del periodo di permanenza 
+minimo non opera con riguardo alla prima riallocazione successiva all’adesione tacita o 
+automatica.  
+ 
+ 
+Art. 7 - Gestione degli investimenti 
+1. L’Impresa di Assicurazione effettua l’investimento delle risorse del Fondo nel rispetto dei 
+limiti e delle condizioni stabiliti dalla normativa tempo per tempo vigente e dal presente 
+Regolamento, assumendo a riferimento l’esclusivo interesse degli aderenti. 
+2. Ferma restando la responsabilità dell’I mpresa di Assicurazione, essa può affidare a soggetti 
+di cui all’art. 6, comma 1, lettere a), b), c), c -bis) del Decreto, in possesso  dei requisiti previsti 
+dalla normativa tempo per tempo vigente, l’esecuzione di specifici incarichi di gestione. 
+3. L’Impresa di Assicurazione verifica i risultati della gestione mediante l’adozione di parametri 
+di riferimento coerenti con gli obiettivi e i criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+ 
+a) Comparto Bond Unipol 
+Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari 
+opportunamente selezionati al fine di incrementarne il valore nel medio-lungo termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli 
+strumenti finanziari, OICR e strumenti finanziari derivati previsti dalla normativa vigente nel 
+rispetto di quanto sotto riportato. 
+L’impresa di Assicurazione attua una politica di investimento tendenzialmente orientata 
+verso strumenti finanziari ed OICR di natura obbligazionaria, senza un benchmark di 
+riferimento e senza vincoli predeterminati, consentendo così di modificare l’asset allocation 
+in funzione delle condizioni del mercato (Stile di gestione c.d. ‘flessibile’). 
+Gli strumenti finanziari e gli OICR di natura azionaria non possono superare il 10% del valore 
+del portafoglio.  
+Ai fini di copertura del valore del portafoglio potranno essere utilizzate tecniche di copertura 
+del rischio di tasso e/o del rischio azionario. 
+Gli strumenti finanziari selezionati potranno essere denominati in Euro o in altre valute. 
+Nel caso di investimenti denominati in valute diverse dall’Euro, sempre ai fini di copertura 
+del valore del portafoglio possono essere altresì utilizzate tecniche di copertura del rischio 
+di cambio.
+=== pagina 7 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 6 di 38  
+b) Comparto Equilibrio Unipol 
+Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari 
+opportunamente selezionati al fine di incrementarne il valore nel medio-lungo termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli 
+strumenti finanziari, OICR e strumenti finanziari derivati previsti dalla normativa vigente nel 
+rispetto di quanto sotto riportato. 
+L’Impresa di Assicurazione attua una politica di investimento tendenzialmente orientata ad 
+una composizione di portafoglio ampiamente diversificata, con la possibilità di investire in 
+tutti gli strumenti finanziari ed OICR previsti dalla normativa vigente, senza un benchmark di 
+riferimento e senza vincoli prede terminati, consentendo così di modificare l’asset allocation 
+in funzione delle condizioni del mercato (Stile di gestione c.d. ‘flessibile’). 
+Gli strumenti finanziari e gli OICR di natura azionaria non possono superare il 50% del valore 
+del portafoglio.  
+Ai fini di copertura del valore del portafoglio potranno essere utilizzate tecniche di copertura 
+del rischio di tasso e/o del rischio azionario. 
+Gli strumenti finanziari selezionati potranno essere denominati in Euro o in altre valute. 
+Nel caso di investimenti denominati in valute diverse dall’Euro, sempre ai fini di copertura 
+del valore del portafoglio possono essere altresì utilizzate tecniche di copertura del rischio 
+di cambio.  
+Nel rispetto della politica di investimento e tenendo conto delle garanzie proposte, con 
+questo comparto l’Impresa di Assicurazione si prefigge di realizzare rendimenti comparabili, 
+nei limiti previsti dalla normativa statale e comunitaria, al tass o di rivalutazione del TFR, 
+quantomeno in un orizzonte temporale pluriennale.  
+L’adesione al presente C omparto attribuisce all’aderente, al verificarsi degli eventi di cui 
+appresso, il diritto alla corresponsione di un importo minimo garantito a prescindere dai 
+risultati di gestione. La garanzia può essere prestata all’Impresa di Assicurazione da soggetti 
+diversi dalla stessa, a ciò abilitati. 
+L’importo minimo garantito è pari alla somma dei contributi netti versati al comparto, inclusi 
+gli eventuali importi derivanti da trasferimenti da altro comparto o da altra forma 
+pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto 
+da eventuali riscatti parziali e anticipazioni. 
+Per contributi netti si intendono i contributi di cui all’Art.10, comma 2.  
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+a) esercizio del diritto alla prestazione pensionistica di cui all’Art. 11; 
+b) riscatto per decesso; 
+c) riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a 
+meno di un terzo; 
+d) riscatto per inoccupazione per un periodo superiore a 48 mesi. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale 
+maturata, calcolata ai sensi dell’Art. 10, e con riferimento al primo giorno di valorizzazione 
+utile successivo alla verifica delle condizioni che danno diritto alla prestazione, la stessa viene 
+integrata a tale maggior valore. L’integrazione viene corrisposta dall’Impresa di 
+Assicurazione. 
+ 
+c) Comparto Bilanciata Globale Unipol 
+Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari 
+opportunamente selezionati al fine di incrementarne il valore nel medio -lungo termine,
+=== pagina 8 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 7 di 38  
+attraverso il potenziale di rivalutazione delle attività reali. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli 
+strumenti finanziari, OICR e strumenti finanziari derivati previsti dalla normativa vigente nel 
+rispetto di quanto sotto riportato. 
+La politica di investimento del Comparto tende a una composizione di portafoglio diversificata 
+e bilanciata tra titoli di debito e titoli di capitale. Gli strumenti finanziari e gli OICR di natura 
+azionaria non possono superare il 60% del valore del portafoglio. 
+Ai fini di copertura del valore del portafoglio potranno essere utilizzate tecniche di copertura 
+del rischio di tasso e/o del rischio azionario.  
+Gli strumenti finanziari selezionati potranno essere denominati in Euro o in altre valute. 
+Nel caso di investimenti denominati in valute diverse dall’Euro, sempre ai fini di copertura del 
+valore del portafoglio possono essere altresì utilizzate tecniche di copertura del rischio di 
+cambio.  
+ 
+d) Comparto Equity Unipol 
+Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari 
+opportunamente selezionati al fine di incrementarne il valore nel lungo termine, attraverso 
+il potenziale di rivalutazione delle attività reali. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli 
+strumenti finanziari, OICR e strumenti finanziari derivati previsti dalla normativa vigente nel 
+rispetto di quanto sotto riportato. 
+La gestione finanziaria del comparto è principalmente orientata all’investimento in strumenti 
+di natura azionaria. Il portafoglio può essere investito fino al 100% in strumenti finanziari e 
+OICR di natura azionaria. 
+Ai fini di copertura del valore del portafoglio potranno essere utilizzate tecniche di copertura 
+del rischio di tasso e/o azionario. 
+Gli strumenti finanziari selezionati potranno essere denominati in Euro o in altre valute.  
+Nel caso di investimenti denominati in valute diverse dall’Euro, sempre ai fini di copertura 
+del valore del portafoglio possono essere altresì utilizzate tecniche di copertura del rischio 
+di cambio.  
+5. La politica di investime nto relativa a ciascun comparto, le relative caratteristiche e i diversi 
+profili di rischio-rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, 
+sono descritti nella Nota informativa. Le modalità allocative dei flussi contributi delle adesioni 
+automatiche utilizzate nel periodo transitorio sono descritte nel Supplemento alla Nota 
+Informativa e rappresentano disposizioni di natura transitoria. 
+ 
+Art. 8 - Spese 
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a) spese da sostenere all’atto dell’adesione: non sono previste; 
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’aderente: non sono previste; 
+b.2) indirettamente a carico dell’aderente e che incidono sul comparto: 
+ 
+b.2.1) Comparto Bond Unipol: una commissione di gestione pari a 1,00% del
+=== pagina 9 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 8 di 38  
+patrimonio su base annua, prelevata con cadenza trimestrale; 
+ 
+b.2.2) Comparto Equilibrio Unipol: una commissione di gestione pari a 1,40% del 
+patrimonio su base annua, prelevata con cadenza trimestrale; 
+ 
+b.2.3) Comparto Bilanciata Globale Unipol: una commissione di gestione pari a 
+1,50% del patrimonio su base annua, prelevata con cadenza trimestrale; 
+ 
+b.2.4) Comparto Equity Unipol: una commissione di gestione pari a 1,80% del 
+patrimonio su base annua, prelevata con cadenza trimestrale. 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese legali 
+e giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione derivanti 
+dall’attività di impiego delle risorse, nonché il “contributo  di vigilanza” dovuto annualmente 
+alla COVIP ai sensi di legge; sono altresì a carico del comparto le spese relative alla 
+remunerazione e allo svolgimento dell’incarico del Responsabile salva diversa decisione 
+dell’Impresa di Assicurazione. 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla 
+sottoscrizione e al rimborso delle parti di OICR acquistati, né le commissioni di gestione 
+applicate dall’OICR stesso, salvo i casi di deroga di carattere generale pre visti dalla COVIP. In 
+particolare, nel caso di investimenti in OICR collegati, dal compenso dell’I mpresa di 
+Assicurazione sarà dedotta la remunerazione complessiva percepita dal gestore dell’OICR 
+collegato. Fanno eccezione gli investimenti in FIA diversi da quelli collegati. 
+c) spese collegate all’esercizio delle seguenti prerogative individuali, dirette alla 
+copertura dei relativi oneri amministrativi: 
+c.1) 50,00 euro in caso di trasferimento ad altra forma pensionistica; 
+d) spese relative alla fase di erogazione delle rendite, quali riportate nell’Allegato n. 2; 
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia; 
+d-bis.1) indirettamente a carica dell’aderente e che incidono sul comparto: 
+i) Comparto Bond Unipol: una commissione di gestione pari a 1,00% del patrimonio 
+su base annua, prelevata con cadenza trimestrale; 
+ii) Comparto Equilibrio Unipol: una commissione di gestione pari a 1,40% del 
+patrimonio su base annua, prelevata con cadenza trimestrale; 
+iii) Comparto Bilanciata Globale Unipol: una commissione di gestione pari a 1,50% 
+del patrimonio su base annua, prelevata con cadenza trimestrale; 
+iv) Comparto Equity Unipol: una commissione di gestione pari a 1,80% del 
+patrimonio su base annua, prelevata con cadenza trimestrale; 
+d-bis.2) in cifra fissa. 
+e) spese in cifra fissa relative alla prestazione erogata in forma di “Rendita integrativa 
+temporanea anticipata” (RITA) dirette alla copertura dei relativi oneri amministrativi: 
+3,00 euro per ogni rata di rendita erogata. 
+ 
+2.  L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva
+=== pagina 10 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 9 di 38  
+e di convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La 
+riduzione delle commissioni di gestione espresse in misura percentuale sul patrimonio avviene 
+mediante emissione di classi di quote differenti. 
+3. Sono a carico dell’I mpresa di A ssicurazione tutte le spese e oneri non individuati dalle 
+disposizioni del presente articolo.
+=== pagina 11 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 10 di 38  
+ 
+ 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+ 
+Art. 9 - Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso. 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura 
+minima e delle modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali. 
+3. I lavoratori dipendenti, in caso di adesione esplicita, possono contribuire al Fondo conferendo, 
+anche esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento 
+del TFR può anche essere parziale ove previsto dagli accordi collettivi. Qualora il lavoratore 
+decida altresì di versare la contribuzione prevista a suo carico e abbia diritto, in base ad accordi 
+collettivi, anche aziendali, a un contributo del datore di lavoro, detto contributo affluirà al 
+Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il datore di lavoro può decidere, 
+anche in assenza di accordi collettivi, di contribuire al Fondo. 
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, 
+per i lavoratori dipenden ti, l’obbligo del versamento del TFR maturando eventualmente 
+conferito. La sospensione non comporta la cessazione della partecipazione al Fondo. 
+5. In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore di 
+lavoro e la contribuzione del lavoratore. La contribuzione a carico del lavoratore non è 
+obbligatoria nel caso in cui la retribuzione annuale lorda corrisposta dal datore di lavoro risulti 
+inferiore al valore pari all’assegno sociale di cui all’art.  3, commi 6 e 7, della Legge 8 agosto 
+1995, n. 335. L’aderente può conferire il TFR anche in misura parziale ove previsto dagli accordi 
+collettivi. 
+6. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 12, 
+del Decreto (c.d. contribuzione da abbuoni). 
+7. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento 
+dell’età pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che alla 
+data del pensionamento possa far valere almeno un anno di contribuzione a favore delle forme 
+di previdenza complementare. 
+ 
+ 
+Art. 10 - Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è 
+alimentata dai contributi netti versati, dagli importi derivanti da trasferimenti da altre forme 
+pensionistiche complementari e dai versamenti effettuati per il reintegro delle anticipazioni 
+percepite, ed è ridotta da eventuali riscatti parziali e anticipazioni. 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico 
+dell’aderente, di cui all’art. 8, comma 1, lettere a), b) e c). Sul primo versamento incidono anche 
+eventuali spese di adesione. 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di 
+ogni singolo comparto è calcolato come variazione del valore della quota dello stesso nel periodo 
+considerato.
+=== pagina 12 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 11 di 38  
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto 
+sono valutate al valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla 
+determinazione della posizione individuale, a prescindere dal momento di effettivo realizzo. 
+5. L’Impresa di Assicurazione determina il valore della quota e, conseguentemente,  della 
+posizione individuale di ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I 
+versamenti sono trasformati in quote e frazioni di quote, sulla base del primo valore di quota 
+successivo al giorno in cui si sono resi disponibili per la valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è 
+quello risultante al primo giorno di valorizzazione utile successivo a quello in cui l’I mpresa di 
+Assicurazione ha verificato la sussistenza delle condizioni che danno diritto alle prestazioni. 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo 
+sono intangibili e non possono formare oggetto di sequestro o pignoramento da parte dei 
+creditori dell’aderente. 
+ 
+ 
+Art. 11 - Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della 
+maturazione dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di 
+appartenenza dell’aderente, con almeno cinque anni di partecipazione alle form e 
+pensionistiche complementari. Il predetto termine è ridotto a tre anni per il lavoratore che 
+cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo stesso acquisisca  il diritto a 
+una pensione complementare e che si sposta in un altro Stato membro dell’Unione europea. 
+L’aderente che decide di proseguire volontariamente la contribuzione ai sensi del comma 8  
+dell’art. 9 ha la facoltà di determinare autonomamente il momento di fruizione delle prestazioni 
+pensionistiche. 
+2. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera età pensionabile quella 
+vigente nel regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni 
+pensionistiche sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche 
+complementari maturati dall’aderente per i quali lo stesso non abbia esercitato il riscatto totale 
+della posizione individuale. 
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di 
+contribuzione nei regimi obbligatori di appartenenza e il periodo minimo di partecipazione alle 
+forme pensionistiche complementari di cui al comma 1, ha facoltà di richiedere che le prestazioni 
+siano erogate, in tutto o in parte, in forma di RITA con un anticipo massimo di cinque anni 
+rispetto alla data di maturazione dell’età anagrafica prevista per la pensione di vecchiaia nel 
+regime obbligatorio di appartenenza. 
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per 
+un periodo di tempo superiore a ventiquattro mesi e abbia maturato il periodo minimo di 
+partecipazione alle forme pensionistiche complementari di cui al comma 1, ha facoltà di 
+richiedere la rendita di cui al comma 4 con un anticipo massimo di dieci ann i rispetto alla data 
+di maturazione dell’età anagrafica per la pensione di vecchiaia nel regime obbligatorio di 
+appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento , ai sensi dei commi 4
+=== pagina 13 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 12 di 38  
+o 5, verrà fatta confluire, salvo diversa scelta dell’aderente, nel comparto più prudente 
+individuato dal Fondo e indicato nella Nota informativa. L’aderente può successivamente 
+variare il comparto nel rispetto del periodo minimo di permanenza. 
+7. Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta la 
+cessazione dell’erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente 
+ha la facoltà di richiedere, con riferimento alla sola porzione residua della posizione individuale, 
+il riscatto e l’anticipazione di cui agli artt. 13 e 14,  ovvero, cessata l’erogazione della RITA 
+parziale, la prestazione pensionistica. 
+9. In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende 
+automaticamente revocata e viene trasferita l’intera posizione individuale. 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma 
+di capitale nel limite del 50 per cento della posizione individuale maturata. Nel computo 
+dell’importo complessivo erogabile in capitale sono detratte le somme erogate a titolo  di 
+anticipazione per le quali non si sia provveduto al reintegro. Qualora l’importo che si ottiene 
+convertendo in rendita vitalizia immediata annua senza reversibilità a favore dell’aderente il 70 
+per cento della posizione individuale maturata risulti infe riore al 50 per cento dell’assegno 
+sociale di cui all’art. 3, commi 6, 7, della Legge 8 agosto 1995, n. 335, l’aderente può optare per 
+la liquidazione in capitale dell’intera posizione maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto 
+antecedentemente al  29 aprile 1993 ed entro tale data iscritto a una forma pensionistica 
+complementare istituita alla data di entrata in vigore della Legge 23 ottobre 1992, n. 421, può 
+richiedere la liquidazione dell’intera prestazione pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare 
+tale diritto può trasferire la propria posizione individuale presso altra forma pensionistica 
+complementare, per avvalersi delle condizioni di erogazione della rendita vitalizia praticate da 
+quest’ultima. In tal caso si applica quanto previsto dall’art. 13, commi 6 e 7. 
+ 
+ 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una 
+rendita vitalizia immediata calcolata in base alla posizione individuale maturata, al netto della 
+eventuale quota di prestazione da erogare sotto forma di capitale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie  di 
+rendita vitalizia di seguito indicate: 
+a) una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’aderente stesso, alla/e persona/e 
+da lui designata/e; 
+b) una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 
+cinque anni all’aderente o, in caso di suo decesso, alla/e persona/e da lui designata/e. 
+Successivamente, se l’aderente è ancora in vita, viene corrisposta allo stesso una rendita 
+vitalizia;
+=== pagina 14 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 13 di 38  
+c) una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi dieci 
+anni all’aderente o, in caso di suo decesso, alla/e persona/e da lui designata/e. 
+Successivamente, se l’aderente è ancora in vita, viene corrisposta allo stesso una rendita 
+vitalizia. 
+3. Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle 
+rendite vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare 
+per il relativo calcolo. Tali coefficienti possono essere successivamente variati, nel rispetto della 
+normativa tempo per tempo vigente in materia di stabilità delle compagnie di assicurazione; in 
+ogni caso, le modifiche dei coefficienti di trasformazione non si applicano ai soggetti, già aderenti 
+alla data di introduzione delle modifiche stesse, che esercitano il diritto alla prestazione 
+pensionistica nei tre anni successivi. 
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo 
+riferimento, laddove vi sia l’impegno a non modificare i coefficienti di trasformazione, a quelli 
+indicati nell’Allegato n. 2 e, negli altri casi, a coefficienti individuati dalla COVIP, in modo 
+omogeneo per  tutte le forme, in base alle proiezioni ufficiali disponibili sull’andamento della 
+mortalità della popolazione italiana. 
+5. In alternativa alla rendita vitalizia, l'aderente può richiedere, al netto della eventuale quota di 
+prestazione erogata sotto forma di capitale, l'erogazione della prestazione pensionistica in una 
+delle seguenti forme: 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base 
+della vita attesa residua del beneficiario, come determinata dall'ISTAT per il calcolo delle 
+pensioni obbligatorie; 
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, 
+con facoltà per lo stesso di determinarne la tempistica e l'importo nel limite della somma 
+delle rate, maturate e non riscosse, di una rendita teorica con frazion amento annuale, 
+immediatamente erogabile e di durata definita pari alla vita attesa residua, in anni interi, 
+dell'aderente al momento della richiesta della prestazione. 
+6. L’impresa di assicurazione  provvede ad erogare direttamente le prestazioni pensionistiche 
+diverse dalla rendita vitalizia con tempestività e comunque non oltre il termine massimo di 90  
+giorni decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o 
+insufficiente, l’impresa di assicurazione richiede gli elementi integrativi, e il termine sopra 
+indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. Il 
+montante residuo è mantenuto in gestione, nel comparto scelto dall'aderente, all'atto della 
+richiesta della prestazione o, in difetto di indicazioni, nel comparto individuato nella Nota 
+informativa. 
+6-bis. Al fine di adeguare i sistemi e i processi operativi dell’impresa di assicurazione per la 
+gestione delle richieste e l'erogazione diretta delle prestazioni, il termine di cui al comma 6 può 
+essere derogato per un periodo transitorio, che non potrà protrarsi oltre il 31 dicembre 2026. 
+Durante tale periodo l’impresa di as sicurazione acquisisce le richieste di erogazione delle 
+prestazioni. Successivamente all'avvenuto adeguamento dei suddetti sistemi e processi 
+operativi, l’impresa di assicurazione procede tempestivamente alla liquidazione delle richieste di 
+erogazione delle prestazioni pervenute durante il periodo transitorio. 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere
+=== pagina 15 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 14 di 38  
+revocate una volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del 
+montante residuo in una rendita vitalizia immediata sulla base delle condizioni e dei criteri 
+indicati nella Nota informativa, ovvero trasferisca il montante  residuo presso un'altra forma 
+pensionistica all'unico fine di beneficiare delle condizioni di rendita vitalizia offerte da 
+quest'ultima. 
+8. L'aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett.a) e b) è 
+tenuto ad individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare 
+il montante residuo. Tale scelta può essere successivamente modificata dall'aderente. 
+9. Nel corso dell'erogazione delle prestazioni di cui al comma 5, lett. a) e b), l'aderente non può 
+richiedere trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione del 
+comparto/profilo di investimento, che può essere richiesta nel rispetto del periodo minimo di 
+partecipazione di cui all'art. 6, comma 2. 
+10. Nel corso dell'erogazione delle prestazioni pensionistiche, non può essere versata ulteriore 
+contribuzione al Fondo, salvo il caso in cui l'interessato attivi un nuovo rapporto di lavoro che 
+preveda la maturazione del TFR. 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle 
+prestazioni pensionistiche di cui al comma 5, lett. a) e b). 
+ 
+ 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+12. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare decorso un periodo minimo di due anni di partecipazione al Fondo. 
+1. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare, alla quale acceda in relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione 
+dell’attività lavorativa che comporti l’inoccupazione per un periodo di tempo non inferiore 
+a dodici mesi e non superiore a quarantotto mesi, ovvero in caso di ricorso da parte del 
+datore di lavoro a procedure di mobilità, cassa integrazione guadagni, ordinaria o 
+straordinaria; 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che 
+comporti la riduzione della capacità di lavoro a meno di un terzo e a seguito di cessazione 
+dell’attività lavorativa che comporti l’inoccupazione per un periodo di tempo superiore a 
+quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi de ll’art.14, comma 5, del 
+Decreto ovvero trasferirla ad altra forma pensionistica complementare, qualora vengano 
+meno i requisiti di partecipazione. 
+ 
+2. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di 
+trasferimento e riscatto, può proseguire la partecipazione al Fondo, anche in assenza di 
+ulteriore contribuzione. Tale opzione trova automatica applicazio ne in difetto di diversa scelta 
+da parte dell’aderente. Nel caso in cui il valore della posizione individuale maturata non sia 
+superiore all’importo di una mensilità dell’assegno sociale di cui all’art. 3, comma 6, della Legge
+=== pagina 16 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 15 di 38  
+8 agosto 1995, n. 335, l’Impresa di Assicurazione informa l’aderente della facoltà di trasferire la 
+propria posizione individuale ad altra forma pensionistica complementare, ovvero di chiedere il 
+riscatto dell’intera posizione di cui al comma 2, lettera d). 
+3. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, 
+ovvero nel corso dell’erogazione della “Rendita integrativa temporanea anticipata”  (RITA), la 
+posizione individuale è riscattata dai soggetti designati dallo stesso, siano essi persone fisiche o 
+giuridiche, o in mancanza dagli eredi. In mancanza di tali soggetti, la posizione individuale resta 
+acquisita al Fondo. 
+4. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione. 
+5. L’Impresa di Assicurazione, accertata la sussistenza dei requisiti, provvede al trasferimento o 
+al riscatto della posizione con tempestività, e comunque non oltre il termine massimo di sei 
+mesi decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o 
+insufficiente, l’I mpresa di Assicurazione richiede gli elementi integrativi e il termine sopra 
+indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. 
+6. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della 
+partecipazione al Fondo. 
+ 
+ 
+Art. 14 - Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti 
+casi e misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie 
+conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e 
+interventi straordinari riconosciuti dalle competenti strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non 
+superiore al 75 per cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, 
+o per la realizzazione, sulla prima casa di abitazione, degli interventi di manutenzione 
+ordinaria, straordinaria, di restauro e di risanamento conservativo , di ristrutturazione 
+edilizia, di cui alle lettere a), b), c) e d) del comma 1, dell’art. 3, del Decreto del Presidente 
+della Repubblica del 6 giugno 2001, n. 380; 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non 
+superiore al 30 per cento, per la soddisfazione di ulteriori sue esigenze. 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di 
+anticipazioni sono riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 
+75 per cento della posizione individuale maturata, incrementata delle anticipazioni percepite e 
+non reintegrate. 
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, 
+sono considerati utili tutti i periodi di partecipazione a forme pensionistiche complementari 
+maturati dall’aderente, per i quali lo stesso non abbia esercitato il diritto di riscatto totale della 
+posizione individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta 
+dell’aderente e in qualsiasi momento.
+=== pagina 17 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 16 di 38  
+6. Le anticipazioni di cui al comma 1, lettera a), sono sottoposte agli stessi limiti di cedibilità, 
+sequestrabilità e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza 
+obbligatoria. 
+7. L’Impresa di A ssicurazione provvede agli adempimenti conseguenti all’esercizio delle 
+predette facoltà da parte dell’aderente con tempestività e comunque non oltre il  termine 
+massimo di sei mesi decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti 
+incompleta o insufficiente, l’I mpresa di A ssicurazione richiede gli elementi integrativi, e il 
+termine sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della 
+pratica.
+=== pagina 18 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 17 di 38  
+ 
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+ 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo 
+rispetto sia al patrimonio dell’Impresa di Assicurazione, sia a quello degli altri fondi gestiti, sia a 
+quello degli aderenti. 
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche  agli 
+aderenti e non può essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori 
+dell’Impresa di Assicurazione o di rappresentanti dei creditori stessi, né da parte dei creditori 
+degli aderenti o di rappresentanti dei creditori stessi. Il patrimonio del Fondo non può essere 
+coinvolto nelle procedure concorsuali che riguardino l’Impresa di Assicurazione. 
+4. L’Impresa di Assicurazione è dotata di procedure atte a garantire la separatezza 
+amministrativa e contabile delle operazioni poste in essere per conto del Fondo rispetto al 
+complesso delle altre operazioni svolte dall’Impresa di Assicurazione e del patrimonio del Fondo 
+rispetto a quello dell’Impresa di Assicurazione e di suoi clienti. 
+5. Ferma restando la responsabilità dell’Impresa di Assicurazione per l’operato del soggetto  
+delegato, la gestione amministrativa e contabile del Fondo può essere delegata a terzi. 
+6. L’Impresa di Assicurazione è dotata di procedure atte a garantire la separatezza 
+amministrativa e contabile delle operazioni poste in essere in riferimento a ciascun comparto. 
+7. Il patrimonio di ciascun comparto è suddiviso in quote o in differenti classi di quote. 
+ 
+ 
+Art. 16 - Sistema di governo 
+1. L’Impresa di Assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla 
+portata e alla complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli 
+artt. 4-bis, 5-bis, 5-ter, 5-quater, 5-sexies, 5-septies, 5-octies e 5-nonies del Decreto in coerenza 
+con gli assetti organizzativi del rispettivo settore di riferimento. 
+ 
+ 
+Art. 17 - Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso 
+dei requisiti previsti dalle vigenti disposizioni normative (di seguito “depositario”). 
+2. L’Impresa di Assicurazione può revocare in ogni momento l’incarico al depositario il quale 
+può, a sua volta, rinunciare con preavviso di almeno sei mesi ; in ogni caso, l’efficacia della 
+revoca o della rinuncia è sospesa fino a che: 
+− l’Impresa di Assicurazione non abbia stipulato un nuovo contratto con altro depositario, 
+in possesso dei requisiti di legge;  
+−  il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario.
+=== pagina 19 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 18 di 38  
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la 
+responsabilità dell’Impresa di Assicurazione per l’operato del soggetto delegato. 
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente. 
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle 
+irregolarità riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP 
+informazioni su atti o fatti di cui sono venuti a conoscenza nell’esercizio de lle funzioni di 
+depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario 
+non sono ammesse azioni dei creditori del depositario, del subdepositario o nell’interesse degli 
+stessi. 
+ 
+ 
+Art. 18 - Responsabile 
+1. L’Impresa di Assicurazione nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2, 
+del Decreto. 
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del 
+Responsabile sono riportate nell’Allegato n. 1. 
+ 
+ 
+Art. 19 - Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai 
+sensi della normativa tempo per tempo vigente. 
+ 
+ 
+Art. 20 - Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio 
+e delle posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+2. L’Impresa di Assicurazione conferisce a una società di revisione  l’incarico di esprimere, con 
+apposita relazione, un giudizio sul rendiconto del Fondo. 
+3.  Il rendiconto del Fondo è pubblicato sul sito web dell’Impresa di Assicurazione.
+=== pagina 20 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 19 di 38  
+ 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+ 
+Art. 21 - Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di 
+adesione. L’adesione è preceduta dalla consegna della documentazione informativa prevista 
+tempo per tempo dalla normativa vigente. 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite  
+all’Impresa di Assicurazione. 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante 
+lettera di conferma, attestante la data di iscrizione e le informazioni relative all’eventuale 
+versamento effettuato. 
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi allegati, 
+e delle successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’art. 25. 
+5. In caso di adesione  automatica, il Fondo, sulla base dei dati forniti dal datore di lavoro, 
+comunica all’aderente l’avvenuta adesione  con le modalità allocative utilizzate nel periodo 
+transitorio descritte nel Supplemento alla Nota Informativa e le informazioni necessarie al fine 
+di consentire a quest’ultimo l’esercizio delle scelte di sua competenza. 
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle 
+dipendenze dell’Impresa di A ssicurazione da parte di addetti a ciò incaricati ovvero tramite la 
+rete di distribuzione dell’Impresa di Assicurazione. Le adesioni su base collettiva possono essere 
+raccolte anche presso i luoghi indicati nella Nota informativa. 
+7. L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza 
+costi di recesso e senza dover indicare il motivo dello stesso . In caso di adesione mediante sito 
+web, l’Impresa di Assicurazione deve acquisire il consenso espresso dell’aderente all’utilizzo di 
+tale strumento. L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del 
+modulo, senza costi di recesso e senza dover indicare il motivo  dello stesso. Per l’esercizio del 
+diritto di recesso, l’aderente invia una comunicazione scritta all’Impresa di Assicurazione con 
+modalità che garantiscono certezza della data di ricezione. L ’Impresa di Assicurazione, entro 
+trenta giorni dal ricevimento della comunicazione, procede a rimborsare le somme 
+eventualmente pervenute, al netto delle spese di adesione, ove trattenute. L ’Impresa di 
+Assicurazione rende previamente noti all’aderente il momento in cui l’adesione si intende 
+conclusa, i termini, le modalità e i criteri di determinazione delle somme oggetto di rimborso. 
+8. L’aderente è tenuto a d effettuare il versamento della prima contribuzione entro sei mesi 
+dall’adesione al Fondo. In caso di inadempimento, l’Impresa di Assicurazione ha facoltà, ai sensi 
+dell’art. 1456 del Codice Civile, di risolvere il contratto comunicando all’aderente  la propria 
+volontà di avvalersi della clausola risolutiva espressa, salvo che l’aderente non provveda a d 
+effettuare un versamento entro sessanta giorni dalla ricezione della comunicazione. 
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo 
+con conseguente azzeramento della posizione individuale a seguito dell’applicazione delle spese 
+annuali di gestione amministrativa, l’Impresa di Assicurazione ha facoltà, ai sensi dell’art. 1456 
+del Codice Civile, di risolvere il contratto comunicando la propria volontà di avvalersi della
+=== pagina 21 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 20 di 38  
+clausola risolutiva espressa, salvo che l’aderente non provveda ad  effettuare un versamento 
+entro sessanta giorni dalla ricezione della comunicazione. 
+ 
+ 
+Art. 22 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. L’Impresa di Assicurazione mette a disposizione degli aderenti la documentazione inerente 
+al Fondo e tutte le altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in 
+materia. Tali documenti sono disponibili sul sito web dell’Impresa di Assicurazione, in 
+un’apposita sezione dedicata alle forme pensionistiche complementari e presso la sede legale 
+dell’Impresa di Assicurazione. I documenti utilizzati in fase di adesione sono resi disponibili in 
+formato cartaceo e gratuitamente anche presso le sedi dei soggetti che effettuano l’attività di 
+raccolta delle adesioni. 
+2. L’Impresa di Assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle 
+posizioni individuali maturate e alle prestazioni erogate, secondo quanto previsto dalla 
+normativa tempo per tempo vigente. 
+ 
+ 
+Art. 23 - Comunicazioni e reclami 
+1. L ’Impresa di A ssicurazione definisce le modalità con le quali gli aderenti e i beneficiari 
+possono rappresentare le proprie esigenze e presentare reclami in coerenza con le indicazioni 
+fornite dalla COVIP, riportandole nella Nota informativa.
+=== pagina 22 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 21 di 38  
+ 
+PARTE VI – NORME FINALI 
+ 
+Art. 24 - Modifiche del Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP. 
+2. L’Impresa di Assicurazione stabilisce il termine di efficacia  delle modifiche, tenuto conto 
+dell’interesse degli aderenti e fatto salvo quanto disposto dall’art. 25. 
+ 
+Art. 25 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di 
+modifiche delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle 
+condizioni economiche del Fondo, l’aderente interessato dalle suddette modifiche può 
+trasferire la posizione individuale maturata ad altra forma pensionistica complementare, anche 
+prima che siano decorsi due anni dall’iscrizione. Il diritto di trasferimento è altresì riconosciuto 
+quando le modifiche interessano in modo sostanziale la caratterizzazione del Fondo, come può 
+avvenire in caso di variazione significativa delle politiche di investimento. 
+2. L’Impresa di A ssicurazione comunica a ogni aderente interessato l’introduzione  delle 
+modifiche almeno centoventi giorni prima della relativa data di efficacia; dal momento  della 
+comunicazione l’aderente ha novanta giorni di tempo per manifestare l’eventuale scelta di 
+trasferimento. L’Impresa di Assicurazione può chiedere alla COVIP termini ridotti di efficacia nei 
+casi in cui ciò sia utile al buon funzionamento del Fondo e non contrasti con l’interesse degli  
+aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese. 
+ 
+Art. 26 - Cessione del Fondo 
+1. Qualora l’Impresa di Assicurazione non voglia o non possa più esercitare l’attività di gestione 
+del Fondo, questo viene ceduto ad altro soggetto, previa autorizzazione all’esercizio. In caso di 
+cessione del Fondo a società diverse da quelle del Gruppo al quale appartiene  l’Impresa di 
+Assicurazione viene riconosciuto agli aderenti il diritto al trasferimento della posizione presso 
+altra forma pensionistica complementare ai sensi dell’art. 25 e con le modalità ivi previste. 
+ 
+Art. 27 - Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la 
+sua fusione con un altro fondo gestito dalla medesima I mpresa di Assicurazione, il diritto al 
+trasferimento della posizione presso altra forma pensionistica complementare viene 
+riconosciuto qualora ricorrano le condizioni di cui all’art. 25 e con le modalità ivi previste. 
+ 
+Art. 28 - Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla 
+normativa tempo per tempo vigente.
+=== pagina 23 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 22 di 38  
+ 
+ 
+ALLEGATO N.1 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+ 
+Art. 1 - Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione dell’I mpresa di 
+Assicurazione che esercita l’attività del Fondo. L’incarico ha durata triennale ed è rinnovabile, 
+anche tacitamente, per non più di una volta consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene 
+nominato il nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di 
+controllo dell’Impresa di Assicurazione. 
+4. Le nomine, gli eventuali rinnovi dell’incarico e le sostituzioni del Responsabile prima della 
+scadenza del termine vengono comunicati alla COVIP entro quindici giorni dalla deliberazione. 
+ 
+Art. 2 - Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile sono previsti dalla normativa tempo 
+per tempo vigente. 
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa 
+presso l’Impresa di Assicurazione o società da questa controllate o che la controllano; 
+b) l’incarico di amministratore dell’Impresa di Assicurazione. 
+ 
+Art. 3 - Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di  
+incompatibilità comporta la decadenza dall’incarico. 
+ 
+Art. 4 - Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione 
+all’atto della nomina per l’intero periodo di durata dell’incarico e viene definita sulla base di una 
+sana politica di remunerazione che tenga conto dei principi previsti dalla normativa tempo per 
+tempo vigente, fermo restando che il compenso del Responsabile non può essere pattuito sotto 
+forma di partecipazione agli utili dell’I mpresa di A ssicurazione, o di società controllanti o 
+controllate, né sotto forma di diritti di acquisto o di sottoscrizione di azioni dell ’Impresa di 
+Assicurazione o di società controllanti o controllate. 
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono 
+poste a carico del Fondo, salva diversa decisione dell’Impresa di Assicurazione.
+=== pagina 24 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 23 di 38  
+ 
+Art. 5 - Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dall’I mpresa di 
+Assicurazione, riportando direttamente all’organo di amministrazione della stessa 
+relativamente ai risultati dell’attività svolta. 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative 
+dell’Impresa di A ssicurazione, di volta in volta necessarie allo svolgimento dell’incarico e 
+all’adempimento dei doveri di cui all’art. 6. L’Impresa di Assicurazione gli garantisce l’accesso a 
+tutte le informazioni necessarie allo scopo. 
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo 
+dell’Impresa di Assicurazione, per tutte le materie inerenti al Fondo. 
+ 
+Art. 6 - Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli 
+aderenti e dei beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul 
+rispetto delle buone pratiche e dei principi di corretta amministrazione del Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dall’Impresa di Assicurazione, organizza 
+lo svolgimento delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di 
+deleghe di gestione, con riferimento ai controlli su: 
+i) la politica di investimento. In particolare: che la politica di investimento 
+effettivamente seguita sia coerente con quella indicata nel Regolamento e nel 
+Documento sulla politica di investimento e che gli investimenti, ivi compresi quelli 
+effettuati in OICR, avvengano nell’esclusivo interesse degli aderenti, nel rispetto 
+dei principi di sana e prudente gestione nonché nel rispetto dei criteri e limiti 
+previsti dalla normativa tempo per tempo vigente e dal Regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli 
+investimenti effettuati siano correttamente identificati, misurati e controllati e 
+che siano coerenti con gli obiettivi perseguiti dalla politica di investimento; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a 
+terzi di deleghe di gestione, con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per 
+conto del Fondo rispetto al complesso delle altre operazioni svolte dall’Impresa di 
+Assicurazione e del patrimonio del Fondo rispetto a quello dell’I mpresa di 
+Assicurazione e di suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei 
+beneficiari con riferimento ai controlli su: 
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative 
+degli aderenti e dei beneficiari, sia al momento del collocamento del Fondo che 
+durante il rapporto;
+=== pagina 25 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 24 di 38  
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei 
+beneficiari previste dal Regolamento e le eventuali commissioni correlate ai 
+risultati di gestione siano correttamente applicate; 
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni 
+periodiche agli aderenti e ai beneficiari e in quelle inviate in occasione di eventi 
+particolari; 
+iv) l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento 
+riservato ai singoli reclami; 
+v) la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con 
+riferimento ai tempi di liquidazione delle somme richieste a titolo di anticipazione 
+o riscatto e di trasferimento della posizione individuale. 
+3. Il Responsabile controlla le soluzioni adottate dall’Impresa di Assicurazione per identificare le 
+situazioni di conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e 
+ai beneficiari; egli controlla altresì la corretta esecuzione del contratto stipulato per il 
+conferimento dell’incarico di depositario, nonché il rispetto delle convenzioni 
+assicurative/condizioni per l’erogazione delle rendite e, ove presenti, delle 
+convenzioni/condizioni relative alle prestazioni accessorie. 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva 
+comunicazione all’organo di amministrazione e a quello di controllo dell’I mpresa di 
+Assicurazione indicando gli interventi correttivi da adottare. 
+ 
+Art. 7 - Rapporti con la COVIP 
+1. Il Responsabile: 
+a)  predispone annualmente una relazione che descrive in maniera analitica 
+l’organizzazione adottata per l’adempimento dei suoi doveri e che dà conto della 
+congruità delle procedure di cui si avvale per l’esecuzione dell’incarico, dei risultati 
+dell’attività svolta, delle eventuali irregolarità riscontrate durante l’anno e delle 
+iniziative poste in essere per eliminarle. La relazione viene trasmessa alla COVIP entro 
+il 31 marzo di ciascun anno. Copia della relazione stessa viene trasmessa all’organo di 
+amministrazione e a quello di controllo dell’Impresa di Assicurazione; 
+b)  vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla 
+stessa le segnalazioni, la documentazione e le relazioni richieste dalla normativa tempo 
+per tempo vigente e dalle istruzioni emanate in proposito; 
+c)  comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione 
+e a quello di controllo dell’I mpresa di Assicurazione, le irregolarità riscontrate 
+nell’esercizio delle sue funzioni. 
+ 
+Art. 8 - Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste 
+dalla natura dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti 
+e sui documenti di cui ha conoscenza in ragione del suo ufficio, tranne che nei confronti della 
+COVIP e delle autorità giudiziarie.
+=== pagina 26 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 25 di 38  
+2. Egli risponde verso l’Impresa di Assicurazione e verso i singoli aderenti e beneficiari del Fondo 
+dei danni a ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391, 2392, 2393, 
+2394, 2394-bis e 2395 del Codice Civile.
+=== pagina 27 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 26 di 38 
+ 
+ 
+ 
+ALLEGATO N.2 
+ 
+CONDIZIONI E MODALITÀ 
+DI EROGAZIONE DELLE RENDITE 
+ 
+ 
+1) Prestazioni in rendita 
+ 
+La posizione individuale maturata dall’aderente al Fondo, dedotta l’eventuale liquidazione in forma 
+di capitale, costituisce la somma da convertire e viene utilizzata dall’Impresa di Assicurazione quale 
+premio unico per garantire la prestazione pensionistica complementare nella forma di rendita scelta 
+dall’aderente fra le tipologie proposte dall’Impresa di Assicurazione. 
+ 
+Il Fondo si impegna a versare il premio unico all’Impresa di Assicurazione mediante bonifico 
+bancario con valuta entro 15 giorni dalla data della richiesta effettuata dall’aderente. La relativa 
+scrittura di addebito ha valore di quietanza e la data di versamento del premio, nonché di entrata 
+in vigore delle garanzie assicurative  (data di conversione in rendita), coincide con la data di valuta 
+del relativo accredito riconosciuta all’Impresa di A ssicurazione o con la data dell’operazione, se 
+successiva a quella di valuta. 
+ 
+L’importo annuo della rendita vitalizia sarà determinato impiegando il premio unico stesso 
+nell’apposita tariffa, depositata presso la sede del Fondo, in vigore all’epoca della conversione della 
+posizione individuale, in base all’anno di nascita, all’età raggiunta dall’aderente e, qualora 
+l’aderente sia un lavoratore dipendente che aderisce su base collettiva, al sesso. 
+ 
+A fronte del premio unico versato, l’Impresa di Assicurazione garantisce, a scelta dell’aderente, una 
+delle seguenti tipologie di rendite: 
+ 
+ Forma A 
+ corresponsione all'aderente di una rendita immediata, dovuta finché egli sia in vita; 
+ 
+ Forma B 
+ corresponsione di una rendita immediata  certa per i primi cinque anni e successivamente 
+vitalizia: essa è  dovuta all’aderente finché egli sia in vita, con la garanzia che, in caso di su o 
+decesso prima di aver percepito cinque annualità, le rate di rendita mancanti al completamento 
+delle suddette cinque annualità vengano corrisposte alla/e persona/e da lui designata/e; 
+ 
+ Forma C 
+ corresponsione di una rendita immediata certa per i primi dieci anni e successivamente vitalizia: 
+essa è dovuta all’aderente finché egli sia in vita, con la garanzia che, in caso di suo decesso prima 
+di aver percepito dieci annualità, le rate di rendita mancanti al completamento delle suddette 
+dieci annualità vengano corrisposte alla/e persona/e da lui designata/e;
+=== pagina 28 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 27 di 38 
+ 
+ 
+ Forma D 
+ corresponsione all'aderente di una rendita immediata, dovuta finché egli sia in vita, e 
+successivamente reversibile, in misura totale o per la quota scelta dall’aderente stesso, a favore 
+della/e persona/e da lui preventivamente designata/e. 
+ 
+L’importo annuo della rendita vitalizia sarà determinato impiegando il premio unico stesso 
+nell’apposita tariffa, depositata presso la sede del Fondo, in vigore all’epoca della conversione 
+della posizione individuale, in base all’anno di nascita, all’età raggiunta dall’aderente e, qualora 
+l’aderente sia un lavoratore dipendente che aderisce su base collettiva, al sesso.   
+ 
+Nelle tabelle più avanti riportate sono indicati i valori iniziali della rendita annua assicurata con 
+le Forme A, B e C, per ogni Euro 1.000,00 di premio unico. 
+ 
+ In particolare,  
+- nell’Annesso n° 2.1 sono contenute le tabelle da adottare qualora la conversione in rendita 
+derivi da adesioni al Fondo avvenute su base individuale e da adesioni su base collettiva 
+diverse da quelle di lavoratori dipendenti; 
+- nell’Annesso n° 2.2 sono contenute le tabelle da adottare qualora la conversione in rendita 
+derivi da adesioni al Fondo su base collettiva di lavoratori dipendenti. 
+ 
+Il valore iniziale della corrispondente rendita annua assicurata con la F orma D verrà 
+determinato, caso per caso, in funzione dell’età e del sesso della/e persona/e designata/e  - 
+qualora l’aderente sia un lavoratore dipendente che aderisce su base collettiva - , nonché 
+dell’aliquota di reversibilità pattuita, applicando i coefficienti e le modalità di calcolo depositate 
+presso la sede del Fondo. 
+ 
+ La rendita annua non è riscattabile; essa viene corrisposta con le modalità e nei termini fissati 
+al successivo punto 2 e si rivaluta come previsto al successivo punto 3. 
+ 
+2) Modalità di corresponsione della rendita 
+ 
+ La rendita viene corrisposta in via posticipata, nella rateazione prescelta dall’aderente tra quelle 
+proposte dall’Impresa di Assicurazione (annuale, semestrale, trimestrale e mensile). 
+Fatto salvo quanto previsto per le Forme B e C , l’Impresa di A ssicurazione, contro rilascio di 
+regolare quietanza da parte degli aventi diritto, corrisponde:  
+- ciascuna rata di rendita, subordinatamente all’esistenza in vita dell’ aderente o 
+della/e persona/e da lui designata/e ad ogni rispettiva scadenza; 
+- il rateo di rendita maturato al momento del decesso dell’ aderente o della/e  
+persona/e da lui designata/e relativo al tempo trascorso dall’ultima scadenza di rata 
+precedente il decesso o, se non è ancora scaduta la prima rata di rendita, dal termine 
+della fase di accumulo. 
+ 
+ Per il pagamento della rendita è necessario fornire all’Impresa di A ssicurazione, tramite il 
+Fondo, i documenti indicati nella Tabella A. 
+ 
+Qualora l’esame della suddetta documentazione evidenzi situazioni particolari o dubbie tali da 
+non consentire la verifica dell’obbligo di pagamento o l’individuazione degli aventi diritto o
+=== pagina 29 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 28 di 38 
+ 
+l’adempimento agli obblighi di natura fiscale, l’Impresa di A ssicurazione richiederà 
+tempestivamente l’ulteriore documentazione necessaria in relazione alle particolari esigenze 
+istruttorie. 
+ 
+Verificata la sussistenza dell'obbligo di pagamento, la rata di rendita dovuta viene messa a 
+disposizione degli aventi diritto entro 30 giorni dalla relativa data di scadenza, purché a tale 
+data l’Impresa di Assicurazione abbia ricevuto tutta la documentazione necessaria; in caso 
+contrario, la rata di rendita viene messa a disposizione entro 30 giorni dal ricevimento da parte 
+dell’Impresa di Assicurazione della suddetta documentazione completa. Decorso tale termine, 
+ed a partire dal medesimo, sono dovuti gli interessi moratori, a favore degli aventi diritto, 
+calcolati secondo i criteri della capitalizzazione semplice, al tasso annuo pari al saggio legale 
+tempo per tempo in vigore, anche agli eventuali fini ed effetti di cui all’art. 1224, 2° co., c.c.. 
+ 
+ 
+3) Modalità di rivalutazione della rendita 
+ 
+Le Forme di rendita di cui al precedente punto 1 ) fanno parte di una speciale categoria di 
+assicurazioni sulla vita per le quali l’Impresa di Assicurazione riconosce una rivalutazione annua 
+delle prestazioni assicurate secondo le modalità sotto indicate. 
+ 
+A tal fine l’Impresa di Assicurazione utilizza i risultati conseguiti con l’apposita Gestione 
+Separata R.E. Unipol, disciplinata dall’allegato Regolamento. 
+ 
+ 
+Rendimento attribuito: L‘Impresa di Assicurazione dichiara, entro la fine del mese che precede 
+quello in cui cade l'anniversario della data di conversione in rendita, il rendimento annuo da 
+attribuire agli aderenti, che è pari al 90% del tasso medio di rendimento della Gestione 
+Separata, fermo restando il trattenimento da parte dell’Impresa di Assicurazione di almeno 3/4 
+(ovvero 0,75) di punto percentuale di rendimento. 
+ A tal fine, come stabilito dal Regolamento, l‘Impresa di A ssicurazione determina mensilmente 
+il tasso medio di rendimento della Gestione separata realizzato su un periodo di osservazione 
+di 12 mesi; il tasso medio di rendimento così determinato costituisce la base di calcolo per la 
+rivalutazione da applicare alle prestazioni assicurate con data di rivalutazione che cade nel terzo 
+mese successivo al termine del periodo di osservazione considerato. 
+ 
+Misura di rivalutazione: La misura annua di rivalutazione è pari al rendimento annuo attribuito 
+e non può essere negativa. 
+ 
+Rivalutazione della rendita annua assicurata: Ad ogni anniversario della data di conversione in 
+rendita, la rendita assicurata da corrispondere nell’anno seguente viene aumentata nella 
+misura di rivalutazione sopra definita. 
+ 
+Il valore rivalutato della rendita annua assicurata viene comunicato annualmente all’assicurato.
+=== pagina 30 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 29 di 38 
+ 
+Tabella A 
+ 
+DOCUMENTAZIONE DA PRESENTARE ALL’IMPRESA DI ASSICURAZIONE 
+Documentazione necessaria per il pagamento di tutte le Forme di rendita: 
+• Documento valido comprovante l’esistenza in vita dell’aderente. 
+Ulteriore documentazione, per le sole Forme B e C, se si verifica il decesso dell’aderente prima 
+del quinto o, rispettivamente, del decimo anniversario: 
+• Certificato di morte dell’aderente. 
+• Copia di un documento di identità in corso di validità della/e  persona/e designata/e 
+dall’aderente. 
+• Codice fiscale della/e persona/e designata/e dall’aderente. 
+• Originale dell'atto di notorietà reso innanzi a un Notaio o altro organo deputato a riceverlo 
+(quale, ad esempio, un Cancelliere di un ufficio giudiziario), dal quale risulti se è stato redatto 
+o meno testamento e se quest’ultimo, di cui deve essere rimess o l’atto notarile di 
+pubblicazione, è l’unico o l’ultimo conosciuto, valido e non impugnato. In mancanza di 
+testamento, se sul contratto risultano indicati, quali beneficiari, gli eredi legittimi 
+dell’aderente, l’atto notorio dovrà riportare l’elenco di tutti gli eredi legittimi dell’aderente, 
+con l'indicazione delle generalità complete, dell'età, del loro rapporto di parentela, della 
+capacità di agire di ciascuno di essi, nonché dell'eventuale stato di gravidanza della vedova. 
+Nel caso che siano designati beneficiari diversi dagli eredi legittimi, l’atto notorio dovrà 
+indicare i dati anagrafici dei soggetti aventi diritto in qualità di beneficiari. 
+Ricordiamo che non è consentita la presentazione della dichiarazione sostitutiva di notorietà 
+(di cui all’art. 47 del D.P.R. 445/2000) che ha validità unicamente tra privato e organi della 
+pubblica amministrazione. 
+• Relazione del medico curante sulle cause del decesso redatta su apposito modello fornito 
+dall’ Impresa di Assicurazione, debitamente compilato. 
+• Documento rilasciato dall'autorità competente ed eventuale chiusa istruttoria da cui si 
+desumano le precise circostanze del decesso, in caso di morte violenta (infortunio, suicidio, 
+omicidio). 
+• Originale del decreto del Giudice Tutelare, se fra gli aventi diritto vi sono minori od incapaci, 
+che autorizzi l'Esercente la potestà parentale od il Tutore alla riscossione della somma 
+spettante ai minori od agli incapaci, indicando anche le modalità per il reimpiego di tale 
+somma ed esonerando l’Impresa di Assicurazione da ogni responsabilità al riguardo. 
+Ulteriore documentazione per la sola Forma D, se il decesso dell’aderente precede quello 
+della/e persona/e da lui designata/e: 
+• Certificato di morte dell’aderente; 
+• Documento valido comprovante l’esistenza in vita della /e persona/e designata/e 
+dall’aderente. 
+ Qualora l’esame della suddetta documentazione evidenzi situazioni particolari o dubbie tali 
+da non consentire la verifica dell’obbligo di pagamento o l’individuazione degli aventi diritto o 
+l’adempimento agli obblighi di natura fiscale, l ’Impresa di A ssicurazione richiederà 
+tempestivamente l’ulteriore documentazione necessaria in relazione alle particolari esigenze 
+istruttorie.
+=== pagina 31 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 30 di 38 
+ 
+Segue ALLEGATO N. 2 
+ 
+REGOLAMENTO DELLA GESTIONE SEPARATA "R.E. UNIPOL" 
+ 
+Art. 1 
+Viene attuata una speciale forma di gestione degli investimenti, separata da quella delle altre attività della 
+Società, contraddistinta con il nome "R.E. Unipol" (di seguito la "Gestione separata") e disciplinata dal 
+presente regolamento redatto ai sensi d el Regolamento Isvap del 3 Giugno 2011, n. 38 e successive 
+modifiche. 
+Il regolamento della Gestione separata è parte integrante delle condizioni contrattuali. 
+ 
+Art. 2 
+La valuta di denominazione della Gestione separata è l'euro. 
+ 
+Art. 3 
+L'attuazione delle politiche di investimento della Gestione separata compete alla Società, che vi provvede 
+realizzando una gestione professionale degli attivi. 
+Le scelte d’investimento mirano a ottimizzare il rendimento nel medio e lungo termine mantenendo un basso 
+livello di rischiosità del portafoglio e perseguendo la stabilità dei rendimenti nel corso del tempo. 
+Lo stile gestionale adottato è finalizzato a perseguire la sicurezza, la prudenza e la liquidità degli investimenti 
+tenendo conto della struttura degli impegni assunti e delle garanzie offerte dai contratti collegati alla 
+Gestione separata.  
+Le risorse della Gestione separata sono investite esclusivamente in tipologie di attività che rientrano nelle 
+categorie ammissibili alla copertura delle riserve tecniche, ai sensi della normativa vigente. Le principali 
+tipologie di investimento sono di seguito descritte: 
+ 
+• Investimenti obbligazionari: titoli governativi, titoli corporate e quote di Organismi di investimento 
+collettivo del risparmio (OICR) obbligazionari conformi alla normativa UCITS. Le scelte di investimento di 
+natura obbligazionaria sono effettuate in coerenza con la struttura dei passivi e, a livello di singoli 
+emittenti, in funzione della redditività e del rispettivo merito di credito; 
+• Investimenti azionari: strumenti finanziari quotati nei mercati regolamentati e quote di OICR azionari 
+conformi alla normativa UCITS; 
+• Investimenti monetari: depositi bancari, pronti contro termine e quote di OICR monetari conformi alla 
+normativa UCITS; 
+• Investimenti immobiliari: beni immobili, azioni di società immobiliari e Fondi immobiliari; 
+• Investimenti in altri strumenti finanziari: Fondi di Investimento Alternativi (“FIA”), Hedge Fund UCITS e 
+quote di OICR non conformi alla normativa UCITS. 
+ 
+Nel rispetto di quanto previsto dalla vigente normativa di settore, possono inoltre essere effettuati 
+investimenti in strumenti finanziari derivati, con lo scopo di realizzare un’efficace gestione e di ridurre la 
+rischiosità del portafoglio della gestione stessa. 
+Al fine di contenere l'esposizione al rischio mercato, nelle sue diverse configurazioni, vengono definiti i 
+seguenti limiti quantitativi: 
+Tipologia di investimento Massimo 
+Investimenti in titoli obbligazionari, monetari e altri valori assimilabili 100% 
+Investimenti in titoli azionari e altri valori assimilabili 35% 
+Investimenti immobiliari e altri valori assimilabili 20% 
+Investimenti in altri strumenti finanziari 20% 
+Con riferimento alla componente obbligazionaria del portafoglio si precisa che l'esposizione massima ai titoli 
+corporate è del 65%.
+=== pagina 32 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 31 di 38 
+ 
+Al fine di contenere il rischio di concentrazione, titoli corporate emessi da uno stesso emittente o da società 
+facenti parte del medesimo Gruppo sono ammessi per un ammontare massimo pari al 5% del portafoglio 
+obbligazionario. 
+Con riferimento alla componente azionaria del portafoglio si precisa che gli investimenti in titoli azionari non 
+quotati non potranno essere presenti per una percentuale superiore al 10% del portafoglio. 
+La Società per assicurare la tutela dei Contraenti da possibili situazioni di conflitto di interesse si impegna al 
+rispetto dei limiti di investimento in relazione ai rapporti con le controparti di cui all'art. 5 del Regolamento 
+IVASS del 26 ottobre 2016, n. 30 ed eventuali successive modifiche. 
+Nell'ambito della politica d'investimento relativa alla Gestione separata, non è esclusa la possibilità di 
+investire in strumenti finanziari emessi dalle suddette controparti. 
+La Società si riserva comunque, a tutela degli interessi dei Contraenti, di investire in strumenti finanziari o 
+altri attivi emessi o gestiti dalle controparti di cui all'art. 5 del Regolamento IVASS del 26 ottobre 2016, n. 30, 
+nel rispetto del limite del 20%. 
+ 
+Art. 4 
+Il tasso medio di rendimento viene determinato e certificato in relazione all'esercizio annuale della Gestione 
+separata che decorre relativamente al periodo di osservazione, dal 1° gennaio di ciascun anno fino al 
+successivo 31 dicembre. 
+Inoltre, all’inizio di ogni mese viene determinato il tasso medio di rendimento della Gestione separata 
+realizzato nel periodo costituito dai dodici mesi immediatamente precedenti. 
+Il tasso medio di rendimento della Gestione separata per l'esercizio relativo alla certificazione si ottiene 
+rapportando il risultato finanziario della Gestione separata di competenza del suddetto periodo di 
+osservazione, alla giacenza media delle attività della Gestione separata stessa. Il tasso medio di rendimento 
+realizzato in ciascun altro periodo si determina con le medesime modalità. 
+Per risultato finanziario della Gestione separata si devono intendere i proventi finanziari conseguiti dalla 
+stessa Gestione separata, comprensivi degli scarti di emissione e di negoziazione di competenza, dagli utili 
+realizzati e dalle perdite sofferte ne l periodo di osservazione. Gli utili realizzati comprendono anche quelli 
+specificati al successivo art. 7. Le plusvalenze e le minusvalenze sono prese in considerazione, nel calcolo del 
+risultato finanziario, solo se effettivamente realizzate nel periodo d i osservazione. Il risultato finanziario è 
+calcolato al netto delle spese di cui al successivo art. 6 ed al lordo delle ritenute di acconto fiscali. Gli utili e 
+le perdite da realizzo sono determinati con riferimento al valore di iscrizione delle corrispondenti attività nel 
+libro mastro della Gestione separata e cioè al prezzo di acquisto per i beni di nuova acquisizione ed al valore 
+di mercato all'atto dell'iscrizione nella Gestione separata per i beni già di proprietà della Società. 
+La giacenza media delle attività della Gestione separata è pari alla somma della giacenza media nel periodo 
+di osservazione dei depositi in numerario, della giacenza media nel periodo di osservazione degli investimenti 
+e della giacenza media nel medesimo p eriodo di osservazione di ogni altra attività della Gestione separata. 
+La giacenza media degli investimenti e delle altre attività è determinata in base al valore di iscrizione nel libro 
+mastro della Gestione separata. 
+ 
+Art. 5 
+Il valore delle attività gestite non potrà essere inferiore all'importo delle riserve matematiche costituite per i 
+contratti di assicurazione e di capitalizzazione che prevedono una clausola di rivalutazione delle prestazioni 
+legata al rendimento della Gestione separata. 
+ 
+Art. 6 
+Sulla Gestione separata gravano unicamente le spese relative all'attività di verifica contabile effettuata dalla 
+società di revisione e quelle effettivamente sostenute per l'acquisto e la vendita delle attività della Gestione 
+separata. Non sono consentite altre forme di prelievo, in qualsiasi modo effettuate. 
+ 
+Art. 7 
+Il rendimento della Gestione separata beneficia di eventuali utili derivanti dalle retrocessioni di commissioni 
+o di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi e riconducibili al patrimonio della
+=== pagina 33 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 32 di 38 
+ 
+Gestione separata. 
+ 
+Art. 8 
+La Gestione separata è annualmente sottoposta a verifica contabile da parte di una società di revisione, 
+iscritta all'Albo speciale previsto dalla legge, la quale attesta la rispondenza della Gestione separata stessa al 
+presente regolamento. 
+ 
+Art. 9 
+Il presente regolamento potrà essere modificato al fine dell'adeguamento dello stesso alla normativa 
+primaria e secondaria vigente oppure a fronte di mutati criteri gestionali con esclusione, in tale ultimo caso, 
+di quelli meno favorevoli per il Contraente. 
+La Società si riserva di coinvolgere la Gestione separata in operazioni di scissione o fusione con altre Gestioni 
+separate della Società stessa. Almeno 60 giorni prima della data stabilita per l'operazione di scissione o di 
+fusione, la Società ne dà preavviso ai Contraenti fornendo i dettagli dell'operazione stessa.
+=== pagina 34 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 33 di 38
+=== pagina 35 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 34 di 38 
+ 
+ 
+ANNESSO N° 2.1 ALL’ALLEGATO N° 2 
+(adesioni individuali e adesioni su base collettiva diverse da quelle di lavoratori dipendenti) 
+ 
+TARIFFA DI ASSICURAZIONE PER LA CONVERSIONE DELLA POSIZIONE INDIVIDUALE IN PRESTAZIONE 
+PENSIONISTICA 
+ 
+La presente tariffa è determinata tenendo conto della speranza di vita desunta dalle Basi demografiche per rendite 
+vitalizie elaborate dall’ANIA -  Tavola A62I indifferenziata per sesso (composizione: 40% maschi; 60% femmine) e 
+distinta per anno di nascita.  La tariffa non tiene conto di alcun tasso di interesse precontato  (cioè il tasso tecnico è 
+pari a zero). La rendita annua derivante dall’applicazione della presente tariffa tiene già conto delle spese per il 
+servizio di erogazione della rendita, pari allo 0,8% della rendita annua stessa, maggiorato di tante volte lo 0,1 % per 
+quante sono le rate di rendita dovute nell’anno. 
+ 
+ 
+Avvertenza sulle modalità di calcolo 
+ 
+L’età assicurativa indicata nelle tabelle dei valori di rendita si determina al termine della fase di accumulo applicando 
+all’età raggiunta dall’aderente - calcolata in anni interi e mesi compiuti - la seguente correzione in funzione dell’anno 
+di nascita. 
+ 
+Anno di nascita: Correzione da applicare all’età al termine della fase di accumulo: 
+dal 1927 al 1938 aumento di 3 anni 
+dal 1939 al 1947 aumento di 2 anni 
+dal 1948 al 1957 aumento di 1 anno 
+dal 1958 al 1966 invariata 
+dal 1967 al 1977 riduzione di 1 anno 
+dal 1978 al 1989 riduzione di 2 anni 
+dal 1990 al 2001 riduzione di 3 anni 
+dal 2002 al 2014 riduzione di 4 anni 
+dal 2015 al 2020 riduzione di 5 anni 
+dal 2021 riduzione di 6 anni 
+ 
+Se l'età assicurativa non è intera, la rendita annua si ottiene interpolando linearmente fra i valori di rendita relativi 
+alle due età intere che la comprendono, cioè aggiungendo al minore dei due valori tanti dodicesimi della differenza 
+rispetto al maggiore, per quanti sono i mesi compiuti dall’aderente.
+=== pagina 36 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 35 di 38 
+ 
+Tabella dei valori di rendita con la Forma A 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età assicurativa Erogazione in rate: 
+annuali semestrali trimestrali mensili 
+40 19,8742 19,7555 19,6674 19,4808 
+41 20,2689 20,1459 20,0551 19,8642 
+42 20,6794 20,5518 20,4581 20,2626 
+43 21,1065 20,9739 20,8772 20,6770 
+44 21,5510 21,4132 21,3133 21,1082 
+45 22,0136 21,8704 21,7671 21,5568 
+46 22,4958 22,3467 22,2398 22,0240 
+47 22,9985 22,8432 22,7325 22,5110 
+48 23,5231 23,3612 23,2465 23,0190 
+49 24,0708 23,9018 23,7828 23,5491 
+50 24,6439 24,4674 24,3438 24,1034 
+51 25,2436 25,0591 24,9307 24,6832 
+52 25,8718 25,6786 25,5450 25,2902 
+53 26,5302 26,3277 26,1887 25,9260 
+54 27,2209 27,0085 26,8635 26,5926 
+55 27,9463 27,7232 27,5719 27,2922 
+56 28,7097 28,4751 28,3170 28,0280 
+57 29,5145 29,2674 29,1020 28,8031 
+58 30,3642 30,1036 29,9304 29,6208 
+59 31,2632 30,9879 30,8061 30,4853 
+60 32,2151 31,9238 31,7328 31,3999 
+61 33,2245 32,9157 32,7147 32,3688 
+62 34,2965 33,9687 33,7568 33,3969 
+63 35,4362 35,0875 34,8637 34,4889 
+64 36,6490 36,2773 36,0406 35,6495 
+65 37,9441 37,5472 37,2962 36,8876 
+66 39,3309 38,9060 38,6393 38,2117 
+67 40,8184 40,3624 40,0784 39,6301 
+68 42,4171 41,9265 41,6234 41,1524 
+69 44,1394 43,6101 43,2856 42,7899 
+70 45,9982 45,4256 45,0773 44,5544 
+71 48,0082 47,3868 47,0119 46,4590 
+72 50,1859 49,5094 49,1047 48,5186 
+73 52,5480 51,8092 51,3708 50,7481 
+74 55,1144 54,3049 53,8285 53,1650 
+75 57,9085 57,0183 56,4989 55,7899 
+76 60,9575 59,9749 59,4066 58,6468 
+77 64,2919 63,2032 62,5790 61,7622 
+78 67,9434 66,7324 66,0441 65,1631 
+79 71,9359 70,5839 69,8222 68,8690 
+80 76,3020 74,7870 73,9411 72,9065 
+81 81,0752 79,3717 78,4289 77,3025 
+82 86,2892 84,3673 83,3132 82,0830 
+83 91,9927 89,8174 88,6348 87,2872
+=== pagina 37 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 36 di 38 
+ 
+Tabella dei valori di rendita con la Forma B 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età assicurativa Erogazione in rate: 
+annuali semestrali trimestrali mensili 
+40 19,8705 19,7521 19,6642 19,4778 
+41 20,2649 20,1422 20,0516 19,8608 
+42 20,6749 20,5477 20,4542 20,2589 
+43 21,1014 20,9693 20,8728 20,6729 
+44 21,5453 21,4081 21,3084 21,1035 
+45 22,0072 21,8646 21,7616 21,5516 
+46 22,4886 22,3402 22,2337 22,0182 
+47 22,9904 22,8359 22,7256 22,5045 
+48 23,5141 23,3531 23,2388 23,0117 
+49 24,0607 23,8927 23,7742 23,5408 
+50 24,6325 24,4571 24,3341 24,0942 
+51 25,2307 25,0474 24,9197 24,6728 
+52 25,8571 25,6654 25,5326 25,2783 
+53 26,5137 26,3129 26,1746 25,9126 
+54 27,2024 26,9918 26,8478 26,5775 
+55 27,9256 27,7046 27,5543 27,2754 
+56 28,6867 28,4544 28,2974 28,0093 
+57 29,4887 29,2442 29,0801 28,7822 
+58 30,3353 30,0776 29,9059 29,5975 
+59 31,2305 30,9585 30,7784 30,4589 
+60 32,1779 31,8904 31,7013 31,3699 
+61 33,1819 32,8776 32,6787 32,3345 
+62 34,2477 33,9249 33,7155 33,3576 
+63 35,3802 35,0373 34,8164 34,4438 
+64 36,5848 36,2199 35,9865 35,5980 
+65 37,8703 37,4812 37,2340 36,8284 
+66 39,2452 38,8294 38,5673 38,1432 
+67 40,7180 40,2728 39,9942 39,5499 
+68 42,2983 41,8207 41,5239 41,0578 
+69 43,9970 43,4835 43,1667 42,6769 
+70 45,8255 45,2722 44,9334 44,4176 
+71 47,7963 47,1989 46,8357 46,2916 
+72 49,9233 49,2768 48,8867 48,3116 
+73 52,2200 51,5190 51,0991 50,4901 
+74 54,7015 53,9400 53,4872 52,8412 
+75 57,3841 56,5557 56,0666 55,3801 
+76 60,2851 59,3828 58,8537 58,1229 
+77 63,4215 62,4379 61,8649 61,0859 
+78 66,8081 65,7354 65,1145 64,2830 
+79 70,4515 69,2818 68,6088 67,7206 
+80 74,3581 73,0842 72,3551 71,4061 
+81 78,5294 77,1444 76,3557 75,3418 
+82 82,9612 81,4592 80,6077 79,5252 
+83 87,6464 86,0238 85,1074 83,9533
+=== pagina 38 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 37 di 38 
+ 
+Tabella dei valori di rendita con la Forma C 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età assicurativa Erogazione in rate: 
+annuali semestrali trimestrali mensili 
+40 19,8588 19,7411 19,6534 19,4673 
+41 20,2519 20,1299 20,0396 19,8492 
+42 20,6605 20,5340 20,4409 20,2460 
+43 21,0853 20,9540 20,8580 20,6584 
+44 21,5272 21,3909 21,2918 21,0873 
+45 21,9870 21,8454 21,7429 21,5334 
+46 22,4659 22,3187 22,2127 21,9978 
+47 22,9649 22,8117 22,7021 22,4816 
+48 23,4854 23,3259 23,2124 22,9859 
+49 24,0286 23,8623 23,7446 23,5120 
+50 24,5965 24,4230 24,3009 24,0618 
+51 25,1904 25,0092 24,8825 24,6365 
+52 25,8120 25,6226 25,4910 25,2377 
+53 26,4632 26,2650 26,1281 25,8672 
+54 27,1459 26,9383 26,7957 26,5268 
+55 27,8623 27,6446 27,4961 27,2187 
+56 28,6156 28,3870 28,2320 27,9456 
+57 29,4086 29,1684 29,0065 28,7105 
+58 30,2447 29,9919 29,8227 29,5165 
+59 31,1276 30,8612 30,6840 30,3670 
+60 32,0607 31,7797 31,5939 31,2653 
+61 33,0478 32,7510 32,5560 32,2151 
+62 34,0936 33,7796 33,5747 33,2206 
+63 35,2021 34,8695 34,6539 34,2857 
+64 36,3777 36,0251 35,7979 35,4148 
+65 37,6273 37,2530 37,0134 36,6141 
+66 38,9573 38,5595 38,3065 37,8900 
+67 40,3735 39,9504 39,6829 39,2479 
+68 41,8823 41,4318 41,1488 40,6941 
+69 43,4899 43,0101 42,7105 42,2347 
+70 45,2017 44,6908 44,3734 43,8752 
+71 47,0224 46,4785 46,1424 45,6203 
+72 48,9556 48,3772 48,0215 47,4743 
+73 51,0028 50,3887 50,0125 49,4389 
+74 53,1635 52,5130 52,1158 51,5149 
+75 55,4343 54,7476 54,3295 53,7003 
+76 57,8086 57,0869 56,6482 55,9904 
+77 60,2758 59,5212 59,0628 58,3763 
+78 62,8179 62,0344 61,5581 60,8435 
+79 65,4073 64,6008 64,1093 63,3680 
+80 68,0102 67,1890 66,6862 65,9207 
+81 70,5868 69,7609 69,2518 68,4653 
+82 73,1024 72,2808 71,7698 70,9655 
+83 75,5327 74,7228 74,2136 73,3943
+=== pagina 39 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 38 di 38 
+ 
+ANNESSO N° 2.2 ALL’ALLEGATO N° 2 
+(adesioni su base collettiva di lavoratori dipendenti) 
+ 
+TARIFFA DI ASSICURAZIONE PER LA CONVERSIONE DELLA POSIZIONE INDIVIDUALE IN PRESTAZIONE 
+PENSIONISTICA 
+La presente tariffa è determinata tenendo conto della speranza di vita desunta dalle Basi demografiche per rendite 
+vitalizie elaborate dall’ANIA - Tavola A62I distinta per sesso e per anno di nascita. La tariffa non tiene conto di alcun 
+tasso di interesse precontato  (cioè il tasso tecnico è pari a zero). La rendita annua derivante dall’applicazione della 
+presente tariffa tiene già conto delle spese per il servizio di erogazione della rendita, pari allo 0,8% della rendita annua 
+stessa, maggiorato di tante volte lo 0,1% per quante sono le rate di rendita dovute nell’anno. 
+ 
+ 
+Avvertenza sulle modalità di calcolo 
+ 
+L’età assicurativa indicata nelle tabelle dei valori di rendita si determina al termine della fase di accumulo applicando 
+all’età raggiunta dall’aderente - calcolata in anni interi e mesi compiuti - la seguente correzione in funzione del sesso 
+e dell’anno di nascita. 
+ 
+MASCHI FEMMINE 
+Anno di nascita: 
+Correzione da applicare 
+all’età al termine della fase 
+di accumulo: 
+Anno di nascita: 
+Correzione da applicare 
+all’età al termine della fase 
+di accumulo: 
+dal 1926 al 1938 aumento di 3 anni dal 1930 al 1940 aumento di 3 anni 
+dal 1939 al 1947 aumento di 2 anni dal 1941 al 1949 aumento di 2 anni 
+dal 1948 al 1957 aumento di 1 anno dal 1950 al 1957 aumento di 1 anno 
+dal 1958 al 1966 invariata dal 1958 al 1966 invariata 
+dal 1967 al 1978 riduzione di 1 anno dal 1967 al 1976 riduzione di 1 anno 
+dal 1979 al 1992 riduzione di 2 anni dal 1977 al 1986 riduzione di 2 anni 
+dal 1993 al 2006 riduzione di 3 anni dal 1987 al 1996 riduzione di 3 anni 
+dal 2007 al 2020 riduzione di 4 anni dal 1997 al 2007 riduzione di 4 anni 
+dal 2021 riduzione di 5 anni dal 2008 al 2018 riduzione di 5 anni 
+- - dal 2019 al 2020 riduzione di 6 anni 
+- - dal 2021 riduzione di 7 anni 
+ 
+Se l'età assicurativa non è intera, la rendita annua si ottiene interpolando linearmente fra i valori di rendita relativi 
+alle due età intere che la comprendono, cioè aggiungendo al minore dei due valori tanti dodicesimi della differenza 
+rispetto al maggiore, per quanti sono i mesi compiuti dall’aderente.
+=== pagina 40 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 39 di 38 
+ 
+Tabella dei valori di rendita con la Forma A 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età 
+assicurativa MASCHI FEMMINE 
+Erogazione in rate: Erogazione in rate: 
+annuali semestrali trimestrali mensili annuali semestrali trimestrali mensili 
+40 20,8368 20,7073 20,6125 20,4153 19,1808 19,0695 18,9861 18,8071 
+41 21,2685 21,1340 21,0361 20,8342 19,5498 19,4346 19,3487 19,1656 
+42 21,7182 21,5785 21,4773 21,2703 19,9330 19,8136 19,7251 19,5379 
+43 22,1870 22,0417 21,9371 21,7248 20,3310 20,2073 20,1160 19,9244 
+44 22,6762 22,5249 22,4167 22,1989 20,7446 20,6162 20,5221 20,3259 
+45 23,1861 23,0285 22,9164 22,6928 21,1747 21,0414 20,9441 20,7432 
+46 23,7184 23,5540 23,4378 23,2081 21,6223 21,4837 21,3833 21,1774 
+47 24,2745 24,1029 23,9822 23,7461 22,0884 21,9443 21,8404 21,6293 
+48 24,8563 24,6770 24,5518 24,3089 22,5738 22,4238 22,3163 22,0997 
+49 25,4653 25,2777 25,1475 24,8974 23,0798 22,9234 22,8121 22,5897 
+50 26,1048 25,9084 25,7729 25,5153 23,6077 23,4447 23,3293 23,1009 
+51 26,7759 26,5699 26,4288 26,1632 24,1592 23,9891 23,8694 23,6346 
+52 27,4805 27,2643 27,1171 26,8431 24,7357 24,5579 24,4336 24,1922 
+53 28,2212 27,9939 27,8402 27,5572 25,3388 25,1530 25,0238 24,7752 
+54 28,9998 28,7607 28,6000 28,3074 25,9706 25,7760 25,6416 25,3856 
+55 29,8192 29,5673 29,3991 29,0964 26,6331 26,4292 26,2893 26,0254 
+56 30,6828 30,4170 30,2408 29,9273 27,3298 27,1158 26,9699 26,6976 
+57 31,5944 31,3135 31,1286 30,8036 28,0635 27,8386 27,6863 27,4052 
+58 32,5581 32,2609 32,0666 31,7293 28,8376 28,6010 28,4418 28,1512 
+59 33,5789 33,2639 33,0593 32,7088 29,6559 29,4065 29,2399 28,9392 
+60 34,6613 34,3269 34,1112 33,7466 30,5217 30,2585 30,0838 29,7723 
+61 35,8099 35,4541 35,2264 34,8466 31,4393 31,1610 30,9776 30,6545 
+62 37,0277 36,6487 36,4079 36,0117 32,4153 32,1205 31,9276 31,5921 
+63 38,3196 37,9152 37,6600 37,2463 33,4546 33,1418 32,9385 32,5896 
+64 39,6905 39,2582 38,9873 38,5548 34,5629 34,2302 34,0156 33,6522 
+65 41,1549 40,6917 40,4037 39,9507 35,7463 35,3918 35,1647 34,7858 
+66 42,7250 42,2276 41,9207 41,4454 37,0125 36,6338 36,3931 35,9972 
+67 44,4108 43,8753 43,5474 43,0477 38,3697 37,9643 37,7085 37,2942 
+68 46,2246 45,6466 45,2953 44,7691 39,8276 39,3924 39,1200 38,6855 
+69 48,1814 47,5557 47,1785 46,6230 41,3966 40,9283 40,6374 40,1810 
+70 50,2967 49,6174 49,2110 48,6233 43,0885 42,5830 42,2716 41,7911 
+71 52,5875 51,8477 51,4087 50,7853 44,9162 44,3690 44,0347 43,5277 
+72 55,0728 54,2644 53,7887 53,1258 46,8949 46,3008 45,9408 45,4045 
+73 57,7700 56,8838 56,3666 55,6599 49,0409 48,3936 48,0047 47,4362 
+74 60,7017 59,7270 59,1629 58,4074 51,3722 50,6648 50,2433 49,6389 
+75 63,8936 62,8179 62,2005 61,3906 53,9108 53,1348 52,6765 52,0322 
+76 67,3773 66,1857 65,5076 64,6367 56,6813 55,8270 55,3267 54,6379 
+77 71,1874 69,8624 69,1148 68,1753 59,7119 58,7676 58,2195 57,4807 
+78 75,3539 73,8750 73,0477 72,0311 63,0348 61,9868 61,3839 60,5888 
+79 79,8970 78,2410 77,3226 76,2191 66,6760 65,5082 64,8425 63,9840 
+80 84,8569 82,9963 81,9733 80,7720 70,6635 69,3572 68,6193 67,6894 
+81 90,2739 88,1766 87,0335 85,7217 75,0268 73,5603 72,7394 71,7289 
+82 96,2191 93,8461 92,5639 91,1265 79,7793 78,1281 77,2121 76,1109 
+83 102,7496 100,0546 98,6112 97,0308 84,9657 83,1005 82,0752 80,8717
+=== pagina 41 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 40 di 38 
+ 
+Tabella dei valori di rendita con la Forma B 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età 
+assicurativa MASCHI FEMMINE 
+Erogazione in rate: Erogazione in rate: 
+annuali semestrali trimestrali mensili annuali semestrali trimestrali mensili 
+40 20,8317 20,7027 20,6081 20,4112 19,1779 19,0669 18,9836 18,8047 
+41 21,2629 21,1290 21,0314 20,8296 19,5465 19,4317 19,3459 19,1630 
+42 21,7120 21,5729 21,4721 21,2653 19,9294 19,8104 19,7221 19,5350 
+43 22,1802 22,0355 21,9312 21,7193 20,3270 20,2036 20,1126 19,9212 
+44 22,6686 22,5180 22,4101 22,1926 20,7401 20,6121 20,5182 20,3222 
+45 23,1776 23,0208 22,9090 22,6858 21,1696 21,0368 20,9398 20,7391 
+46 23,7089 23,5454 23,4296 23,2003 21,6166 21,4785 21,3784 21,1727 
+47 24,2639 24,0933 23,9732 23,7375 22,0819 21,9384 21,8348 21,6239 
+48 24,8446 24,6664 24,5417 24,2993 22,5665 22,4171 22,3100 22,0937 
+49 25,4522 25,2659 25,1363 24,8868 23,0714 22,9159 22,8050 22,5830 
+50 26,0900 25,8950 25,7603 25,5032 23,5983 23,4363 23,3214 23,0933 
+51 26,7590 26,5547 26,4144 26,1495 24,1486 23,9796 23,8604 23,6260 
+52 27,4611 27,2469 27,1007 26,8273 24,7239 24,5473 24,4236 24,1826 
+53 28,1988 27,9738 27,8213 27,5391 25,3257 25,1412 25,0126 24,7646 
+54 28,9741 28,7376 28,5782 28,2866 25,9562 25,7631 25,6294 25,3739 
+55 29,7898 29,5409 29,3742 29,0726 26,6175 26,4151 26,2759 26,0126 
+56 30,6491 30,3867 30,2122 29,9000 27,3128 27,1005 26,9554 26,6838 
+57 31,5555 31,2787 31,0958 30,7723 28,0451 27,8221 27,6707 27,3902 
+58 32,5131 32,2206 32,0286 31,6931 28,8177 28,5831 28,4248 28,1350 
+59 33,5261 33,2167 33,0149 32,6665 29,6343 29,3871 29,2215 28,9216 
+60 34,5988 34,2710 34,0586 33,6965 30,4983 30,2375 30,0639 29,7533 
+61 35,7357 35,3878 35,1640 34,7871 31,4140 31,1383 30,9561 30,6340 
+62 36,9402 36,5704 36,3341 35,9415 32,3874 32,0955 31,9040 31,5696 
+63 38,2171 37,8235 37,5737 37,1641 33,4236 33,1140 32,9122 32,5646 
+64 39,5721 39,1523 38,8877 38,4599 34,5278 34,1988 33,9860 33,6240 
+65 41,0177 40,5692 40,2885 39,8410 35,7064 35,3560 35,1310 34,7537 
+66 42,5650 42,0848 41,7865 41,3176 36,9663 36,5926 36,3543 35,9602 
+67 44,2230 43,7079 43,3901 42,8981 38,3157 37,9160 37,6632 37,2510 
+68 46,0025 45,4489 45,1097 44,5925 39,7634 39,3352 39,0662 38,6344 
+69 47,9159 47,3198 46,9571 46,4125 41,3191 40,8593 40,5726 40,1194 
+70 49,9760 49,3328 48,9443 48,3698 42,9935 42,4986 42,1925 41,7159 
+71 52,1962 51,5009 51,0838 50,4767 44,7984 44,2645 43,9367 43,4346 
+72 54,5908 53,8378 53,3893 52,7466 46,7470 46,1697 45,8180 45,2879 
+73 57,1725 56,3557 55,8725 55,1910 48,8534 48,2278 47,8494 47,2888 
+74 59,9559 59,0688 58,5475 57,8238 51,1327 50,4531 50,0453 49,4511 
+75 62,9559 61,9916 61,4287 60,6590 53,6016 52,8621 52,4216 51,7906 
+76 66,1891 65,1403 64,5318 63,7122 56,2776 55,4715 54,9949 54,3235 
+77 69,6717 68,5305 67,8723 66,9985 59,1779 58,2984 57,7820 57,0664 
+78 73,4138 72,1720 71,4598 70,5275 62,3202 61,3597 60,7996 60,0359 
+79 77,4156 76,0656 75,2954 74,3004 65,7146 64,6655 64,0575 63,2415 
+80 81,6824 80,2175 79,3857 78,3240 69,3684 68,2230 67,5633 66,6907 
+81 86,2116 84,6265 83,7302 82,5982 73,2852 72,0363 71,3210 70,3876 
+82 91,0035 89,2953 88,3328 87,1276 77,4577 76,0979 75,3230 74,3247 
+83 96,0325 94,2025 93,1738 91,8941 81,8892 80,4123 79,5746 78,5078
+=== pagina 42 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 41 di 38 
+ 
+Tabella dei valori di rendita con la Forma C 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età 
+assicurativa MASCHI FEMMINE 
+Erogazione in rate: Erogazione in rate: 
+annuali semestrali trimestrali mensili annuali semestrali trimestrali mensili 
+40 20,8161 20,6878 20,5937 20,3971 19,1686 19,0581 18,9751 18,7964 
+41 21,2456 21,1126 21,0154 20,8141 19,5362 19,4218 19,3364 19,1537 
+42 21,6929 21,5548 21,4544 21,2481 19,9178 19,7994 19,7114 19,5246 
+43 22,1589 22,0153 21,9116 21,7001 20,3140 20,1913 20,1005 19,9094 
+44 22,6449 22,4955 22,3882 22,1713 20,7254 20,5982 20,5047 20,3091 
+45 23,1511 22,9957 22,8846 22,6620 21,1531 21,0211 20,9246 20,7242 
+46 23,6793 23,5173 23,4023 23,1737 21,5980 21,4609 21,3612 21,1560 
+47 24,2306 24,0618 23,9426 23,7077 22,0610 21,9186 21,8156 21,6052 
+48 24,8070 24,6308 24,5072 24,2656 22,5432 22,3950 22,2885 22,0727 
+49 25,4096 25,2256 25,0972 24,8487 23,0456 22,8914 22,7811 22,5596 
+50 26,0415 25,8492 25,7158 25,4599 23,5698 23,4091 23,2949 23,0675 
+51 26,7036 26,5024 26,3636 26,1000 24,1172 23,9496 23,8312 23,5975 
+52 27,3978 27,1870 27,0426 26,7708 24,6894 24,5145 24,3916 24,1513 
+53 28,1261 27,9051 27,7546 27,4742 25,2882 25,1054 24,9778 24,7305 
+54 28,8902 28,6585 28,5015 28,2120 25,9154 25,7242 25,5915 25,3370 
+55 29,6927 29,4493 29,2855 28,9864 26,5734 26,3731 26,2350 25,9727 
+56 30,5365 30,2806 30,1094 29,8000 27,2651 27,0551 26,9112 26,6406 
+57 31,4247 31,1554 30,9763 30,6561 27,9934 27,7729 27,6228 27,3435 
+58 32,3609 32,0772 31,8896 31,5580 28,7614 28,5295 28,3727 28,0842 
+59 33,3490 33,0497 32,8531 32,5092 29,5725 29,3285 29,1645 28,8660 
+60 34,3927 34,0767 33,8704 33,5134 30,4301 30,1728 30,0011 29,6921 
+61 35,4958 35,1617 34,9449 34,5741 31,3380 31,0664 30,8863 30,5661 
+62 36,6611 36,3075 36,0794 35,6938 32,3016 32,0145 31,8254 31,4931 
+63 37,8924 37,5178 37,2777 36,8764 33,3253 33,0214 32,8225 32,4773 
+64 39,1938 38,7966 38,5435 38,1255 34,4138 34,0916 33,8822 33,5232 
+65 40,5742 40,1528 39,8859 39,4499 35,5723 35,2302 35,0094 34,6355 
+66 42,0410 41,5935 41,3117 40,8567 36,8065 36,4429 36,2097 35,8199 
+67 43,5991 43,1237 42,8260 42,3507 38,1227 37,7356 37,4891 37,0822 
+68 45,2541 44,7490 44,4344 43,9375 39,5276 39,1151 38,8541 38,4288 
+69 47,0112 46,4747 46,1422 45,6225 41,0277 40,5877 40,3111 39,8661 
+70 48,8740 48,3047 47,9535 47,4097 42,6295 42,1600 41,8666 41,4004 
+71 50,8449 50,2416 49,8708 49,3017 44,3388 43,8376 43,5264 43,0377 
+72 52,9250 52,2866 51,8958 51,3003 46,1606 45,6261 45,2959 44,7832 
+73 55,1119 54,4381 54,0267 53,4039 48,0987 47,5292 47,1790 46,6410 
+74 57,4015 56,6926 56,2607 55,6098 50,1551 49,5492 49,1783 48,6137 
+75 59,7851 59,0428 58,5911 57,9120 52,3295 51,6867 51,2946 50,7023 
+76 62,2508 61,4779 61,0076 60,3005 54,6189 53,9393 53,5259 52,9051 
+77 64,7801 63,9812 63,4944 62,7602 57,0179 56,3022 55,8676 55,2176 
+78 67,3452 66,5269 66,0266 65,2671 59,5158 58,7661 58,3112 57,6320 
+79 69,9102 69,0808 68,5711 67,7887 62,0916 61,3119 60,8385 60,1306 
+80 72,4359 71,6063 71,0926 70,2909 64,7162 63,9128 63,4238 62,6888 
+81 74,8789 74,0612 73,5493 72,7326 67,3544 66,5355 66,0348 65,2750 
+82 77,2082 76,4125 75,9076 75,0799 69,9703 69,1434 68,6349 67,8528 
+83 79,4015 78,6348 78,1404 77,3050 72,5407 71,7128 71,1996 70,3977
+=== pagina 43 ===
+Unipol Fondo Pensione Aperto BV 
+Regolamento – Modello RegFPA_BV – Edizione 07/2026_v2 Pagina 42 di 38
+=== pagina 44 ===
+

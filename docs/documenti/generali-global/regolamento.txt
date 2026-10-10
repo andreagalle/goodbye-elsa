@@ -1,0 +1,1865 @@
+# Fondo: GENERALI GLOBAL - FONDO PENSIONE APERTO A CONTRIBUZIONE DEFINITA (generali-global)
+# Documento: Regolamento – Generali Global Regolamento
+# Fonte: https://www.generali.it/cmsassets/site/702ec322-aafd-4a1b-9b52-415a3204a252/FPA_Generali_Global_Regolamento_2026-07.pdf
+# Citato in: https://www.generali.it/previdenza/generali-global-fondo-pensione-aperto/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 55883fec9ef4a48622ca4957faf503bdf6cb2e9d31f06471d8dc05c6bdcaabcb
+# Pagine: 46
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Generali Italia S.p.A.  
+ 
+GENERALI GLOBAL 
+Fondo Pensione Aperto a contribuzione definita  
+(Art. 12 del Decreto Legislativo n. 252 del 5 dicembre 2005)  
+Regolamento 
+ 
+Edizione luglio 2026
+=== pagina 2 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 2 di 46 
+INDICE  
+ 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+Art. 1 - Denominazione 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+Art. 3 - Scopo 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art. 4 - Regime del Fondo 
+Art. 5 - Destinatari e tipologie di adesione 
+Art. 6 - Scelte di investimento 
+Art. 7 - Gestione degli investimenti 
+Art. 8 - Spese 
+ 
+PARTE III – CONTRIBUZIONI E PRESTAZIONI 
+Art. 9 - Contribuzione 
+Art. 10 - Determinazione della posizione individuale 
+Art. 11 - Prestazioni pensionistiche e RITA 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+Art. 14 - Anticipazioni 
+Art. 14-bis - Prestazioni accessorie 
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+Art. 16 - Sistema di governo 
+Art. 17 - Depositario 
+Art. 18 - Responsabile 
+Art. 19 - Organismo di rappresentanza 
+Art. 20 - Conflitti di interesse 
+Art. 21 - Scritture contabili 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+Art. 22 - Modalità di adesione e clausole risolutive espresse 
+Art. 23 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+Art. 24 - Comunicazioni e reclami 
+ 
+PARTE VI – NORME FINALI 
+Art. 25 - Modifiche del Regolamento 
+Art. 26 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche delle 
+caratteristiche del Fondo 
+Art. 27 - Cessione del Fondo 
+Art. 28 - Operazioni di fusione 
+Art. 29 - Rinvio 
+ 
+ALLEGATI 
+Allegato n. 1 - Disposizioni in materia di Responsabile 
+Allegato n. 2 - Condizioni e modalità di erogazione delle rendite vitalizie 
+Allegato n. 3 - Condizioni delle prestazioni accessorie 
+Allegato n. 4 - Integrazione al Regolamento per ex funzionari ed ex agenti delle Comunità Europee
+=== pagina 3 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 3 di 46 
+ 
+PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+Art. 1 -  Denominazione 
+1. “GENERALI GLOBAL - Fondo pensione aperto a contribuzione definita” (di seguito “Fondo”), è un fondo 
+pensione aperto istituito ai sensi dell’art. 12 del Decreto lgs. 5 dicembre 2005, n. 252 (di seguito “De-
+creto”). 
+ 
+Art. 2 -  Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito dalla società Assicurazioni Generali S.p.A., giusta autorizzazione rilasciata dalla 
+COVIP; con il medesimo provvedimento la COVIP ha approvato il Regolamento del Fondo.  
+2. La società Generali Italia S.p.A. (di seguito “impresa di assicurazione”) esercita l’attività di gestione del 
+Fondo con effetto dal 1 luglio 2013, giusta autorizzazione rilasciata dalla COVIP con provvedimento del 
+29 luglio 1998. 
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 8. 
+4. L’attività relativa al Fondo è svolta in Mogliano Veneto (TV), presso la sede dell ’impresa di assicura-
+zione. 
+5. L’indirizzo di posta elettronica certificata (PEC) dell’impresa di assicurazione è generaliitalia@pec.ge-
+neraligroup.com. 
+ 
+Art. 3 -  Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta 
+dei contributi, la gestione delle risorse nell’esclusivo interesse degli aderenti, e l’erogazione delle pre-
+stazioni secondo quanto disposto dalla normativa tempo per tempo vigente.  
+ 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+ 
+Art. 4 -  Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è de-
+terminata in funzione della contribuzione effettuata e in base al principio della capitalizzazione.  
+ 
+Art. 5 -  Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita.  
+2. È altresì consentita l’adesione su base collettiva ai soggetti destinatari delle forme pensionistiche com-
+plementari individuati all’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, 
+gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo. Ai sensi dell’art. 8, comma 7-
+bis, del Decreto l’adesione al Fondo su base collettiva può avvenire anche in modalità automatica me-
+diante il conferimento tacito del TFR maturando, della contribuzione a carico del datore di lavoro e del 
+lavoratore. 
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza. 
+4. L’adesione al Fondo è consentita anche agli ex funzionari ed ex agenti delle comunità europee, per 
+poter ricevere, nel rispetto dell’art. 12 dell’Allegato VIII dello Statuto dei funzionari dell’Unione Europea, 
+così come recepito nel “Documento integrativo per ex funzionari ed ex agenti delle comunità europee 
+relativo al trasferimento delle somme accumulate nel regime pensionistico delle Comunità Europee”, le 
+somme accumulate nel regime pensionistico delle comunità medesime. 
+ 
+Art. 6 -  Scelte di investimento
+=== pagina 4 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 4 di 46 
+1. Il Fondo è articolato nei seguenti comparti e profili life cycle, differenziati per profili di rischio-rendimento, 
+in modo tale da assicurare agli aderenti una adeguata possibilità di scelta:  
+a) “OBBLIGAZIONARIO BREVE TERMINE”; 
+b) “OBBLIGAZIONARIO”; 
+c) “REAL RETURN”; 
+d) “MULTI ASSET”; 
+e) “AZIONARIO GLOBALE”; 
+f) Profilo life cycle “PRUDENTE” – rischiosità bassa 
+g) Profilo life cycle “DINAMICO” – rischiosità media. Il profilo life cycle “DINAMICO” è destinato 
+ad accogliere il TFR maturando e i contributi del datore di lavoro e del lavoratore pervenuti a 
+seguito di adesioni automatiche. 
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti o un profilo life cycle in cui far confluire i 
+versamenti contributivi, con facoltà di modificare nel tempo tale destinazione. L’aderente può inoltre 
+riallocare la propria posizione individuale tra i diversi comparti o profilo life cycle, nel rispetto del periodo 
+minimo di un anno dall’iscrizione ovvero dall’ultima riallocazione. In questo caso i versamenti contributivi 
+successivi sono suddivisi sulla base delle nuove percentuali fissate all’atto della riallocazione, salvo 
+diversa disposizione dell’aderente. Il limite del periodo di permanenza minimo non opera con riguardo 
+alla prima riallocazione successiva all’adesione automatica. 
+ 
+Art. 7 -  Gestione degli investimenti 
+1. L’impresa di assicurazione effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle 
+condizioni stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo 
+a riferimento l’esclusivo interesse degli aderenti. 
+2.  Ferma restando la responsabilità dell’impresa di assicurazione, essa può affidare a soggetti di cui 
+all’art.6, comma 1, lettere a), b), c), c-bis) del Decreto, in possesso dei requisiti previsti dalla normativa 
+tempo per tempo vigente, l’esecuzione di specifici incarichi di gestione.  
+3. L’impresa di assicurazione verifica i risultati di gestione mediante l’adozione di parametri di riferimento 
+coerenti con gli obiettivi e i criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+ 
+i) OBBLIGAZIONARIO BREVE TERMINE 
+La gestione è volta ad attuare politiche di redditività degli investimenti obbligazionari a breve termine, 
+limitando la volatilità del portafoglio. L’adesione alla linea è indicata per coloro che sono prossimi all’ac-
+cesso alla prestazione pensionistica com plementare e per chi ha un orizzonte temporale di breve pe-
+riodo (fino a 5 anni). 
+Il comparto si compone di investimenti in obbligazioni, sia governative sia societarie, con scadenza 
+compresa tra 1 e 5 anni e coerenti con il benchmark di riferimento. 
+L’indice di riferimento (benchmark) del comparto è così composto: 
+• 70% JPM EGBI Investment Grade 1-5 anni (JNEUI1R5) 
+• 30% ICE BofAML 1-5 Year Euro Corporate Index (EROV) 
+Il comparto può essere investito in liquidità fino ad un massimo del 30%. 
+ 
+ii)  OBBLIGAZIONARIO 
+La finalità della gestione è volta ad accrescere il capitale perseguendo politiche di redditività degli inve-
+stimenti. L’adesione alla linea è indicata per coloro che non sono lontani dall’accesso alla prestazione 
+pensionistica complementare e per chi ha un orizzonte temporale di medio periodo (fra 5 e 10 anni).  
+Il comparto attua una politica di investimento volta a perseguire una composizione del portafoglio, in 
+titoli di debito, diversificata sia in termini geografici sia di merito di credito. Saranno considerati sia i titoli 
+obbligazionari governativi sia i titoli obbligazionari di emittenti sovranazionali e le obbligazioni societarie
+=== pagina 5 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 5 di 46 
+emesse da operatori economici.  
+L’indice di riferimento (benchmark) del comparto è così composto: 
+• 10% BofA ML US Treasury master all mats, Total Return € hedged  
+• 35% JPM EMU Investment Grade all mat  
+• 15% Bloomberg Barclays Euro Govt Inflation-Linked All Markets ex Greece TRI 
+• 10% BofA ML US Emerging External Sovereign IG all mats, Total Return € hedged  
+• 20% Bloomberg Barclays Euro Aggregate Corporate Total Return Index 
+• 10% ICE BofA ML Euro High Yield Index 
+ 
+iii) REAL RETURN 
+La gestione del Comparto ha l’obiettivo di realizzare rendimenti, in un arco di tempo di medio periodo 
+(fra 5 e 10 anni), in grado di preservare il valore in termini reali dei capitali conferiti.  
+Il Comparto si prefigge di conseguire l’obiettivo investendo prevalentemente in un’allocazione flessibile 
+alle diverse classi di attivi, ivi compresi, a titolo esemplificativo ma non esaustivo, azioni, titoli di Stato, 
+obbligazioni societarie e strumenti del mercato monetario di tutto il mondo, nonché depositi vincolati. 
+L’allocazione tra queste classi di attivi è perlopiù determinata sulla base di analisi macroeconomiche, 
+modelli quantitativi e indicatori di rischio. 
+Gli investimenti del Comparto possono inoltre comprendere, a titolo esemplificativo ma non esaustivo, 
+titoli correlati alle azioni, strumenti di debito di qualsiasi tipo, OICR , strumenti derivati quali, a titolo 
+esemplificativo ma non esaustivo, future su indici o su un singolo titolo, future su dividendi e opzioni su 
+azioni.  
+L’esposizione del Comparto ai titoli di debito con rating inferiore a ‘investment grade’ non può superare 
+il 20% del patrimonio netto. 
+L’esposizione del Comparto agli investimenti azionari non può superare il 30% del patrimonio netto. 
+La natura flessibile del comparto dettata dall’obiettivo di preservare il valore attraverso una politica di 
+investimento dinamica non consente di individuare uno specifico benchmark.  
+La volatilità annua attesa del comparto è pari al 4% circa. 
+ 
+iv) MULTI ASSET 
+La finalità della gestione è accrescere il capitale perseguendo sia politiche di redditività degli investi-
+menti sia di rivalutazione del capitale. L’adesione alla linea è indicata per coloro che sono lontani dall’ac-
+cesso alla prestazione pensionistica complementare e per chi ha un orizzonte temporale di medio – 
+lungo periodo (fra 10 e 15 anni).  
+Il Comparto si prefigge di conseguire l’obiettivo investendo prevalentemente in un’allocazione flessibile 
+alle diverse classi di attivi, ivi compresi, a titolo esemplificativo ma non esaustivo, azioni, titoli di Stato, 
+obbligazioni societarie e strumenti del mercato monetario di tutto il mondo, nonché depositi vincolati.  
+L’allocazione tra queste classi di attivi è perlopiù determinata sulla base di analisi macroeconomiche, 
+modelli quantitativi e indicatori di rischio. 
+Gli investimenti del Comparto possono inoltre comprendere, a titolo esemplificativo ma non esaustivo, 
+titoli correlati alle azioni, strumenti di debito di qualsiasi tipo, O ICR, strumenti derivati quali, a titolo 
+esemplificativo ma non esaustivo, future su indici o su un singolo titolo, future su dividendi e opzioni su 
+azioni.  
+L’esposizione del Comparto ai titoli di debito con rating inferiore a ‘investment grade’ non può superare 
+il 50% del patrimonio netto. 
+L’esposizione del Comparto agli investimenti azionari non può superare il 60% del patrimonio netto. 
+La natura flessibile del comparto dettata dall’obiettivo di generare valore attraverso una politica di inve-
+stimento dinamica non consente di individuare uno specifico benchmark. 
+Il Comparto è soggetto ad un controllo del rischio volto a contenere la volatilità realizzata su base an-
+nuale nei limiti del 6%.
+=== pagina 6 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 6 di 46 
+ 
+v) AZIONARIO GLOBALE 
+La finalità della gestione è offrire ai partecipanti un investimento diversificato nei mercati azionari inter-
+nazionali, al fine di aumentare nel tempo il valore dei capitali conferiti. L’adesione alla linea è indicata 
+per coloro che sono lontani dall’accesso alla prestazione pensionistica complementare e per chi ha un 
+orizzonte temporale di lungo periodo (oltre 15 anni).  
+L’indice di riferimento (benchmark) del comparto è così composto: 
+• 50% MSCI Europe Total Return Index; 
+• 25% MSCI US Total Return Index; 
+• 25% MSCIPacific Total Return Index. 
+ 
+vi) PROFILO LIFE CYCLE “DINAMICO” 
+Il profilo life cycle “DINAMICO” è destinato ad accogliere il TFR maturando e i contributi del datore di 
+lavoro e del lavoratore pervenuti a seguito di adesioni automatiche.  
+Il profilo life cycle “DINAMICO” prevede l’allocazione automatica delle contribuzioni periodiche fra quat-
+tro comparti: Azionario Globale, Multi Asset, Real Return e Obbligazionario. Ogni contributo viene ri-
+partito percentualmente fra quei comparti la cui combinazione è finalizzata ad ottimizzarne la redditività 
+in relazione all’orizzonte temporale dell’investimento, con la finalità di costruire un percorso che riduca 
+il livello di rischiosità all’avvicinarsi della scadenza stabilita (pensionamento) in accordo con la propen-
+sione al rischio e l’orizzonte temporale propri dell’aderente.  
+A partire dal 12° anno rimanente al pensionamento (fissato, convenzionalmente, all’età di 67 anni), 
+vengono riallocate verso il comparto “Obbligazionario Breve Termine” sia le contribuzioni future sia 
+l’intera posizione accumulata fino a quel momento in ragione di un dodicesimo per ogni anno residuo 
+alla scadenza stabilita, a scapito degli altri quattro comparti in proporzione al loro peso nella posizione 
+dell’aderente.  
+Poiché i singoli contributi versati dall’aderente vengono ripartiti fra i diversi comparti del Fondo Pensione 
+Aperto in ragione di una rischiosità decrescente all’avvicinarsi della pensione, non è possibile calcolare 
+ex-ante gli indicatori di rendimento, v olatilità e Shortfall poiché diversi per ogni singolo aderente e va-
+riabili in funzione del periodo residuo alla scadenza della fase di accumulo.  
+ 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di 
+rischio-rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti nella 
+Nota informativa. La Nota informativa descrive, inoltre, le caratteristiche dei profili life cycle. 
+ 
+Art. 8 -  Spese 
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a) spesa da sostenere all’atto dell’adesione: una commissione “una tantum” a carico dell’ade-
+rente pari a euro 60,00. 
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’aderente: una commissione pari a 20,00 euro, applicata 
+annualmente; 
+b.2) indirettamente a carico dell’aderente e che incidono sul comparto: 
+i. una commissione di gestione pari allo 0,85% del patrimonio su base annua del com-
+parto denominato “OBBLIGAZIONARIO BREVE TERMINE”, prelevata con cadenza 
+mensile; 
+ii. una commissione di gestione pari allo 0,90% del patrimonio su base annua del com-
+parto denominato “OBBLIGAZIONARIO”, prelevata con cadenza mensile;
+=== pagina 7 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 7 di 46 
+iii. una commissione di gestione pari allo 0,95% del patrimonio su base annua del com-
+parto denominato “REAL RETURN”, prelevata con cadenza mensile; 
+iv. una commissione di gestione pari allo 1,30% del patrimonio su base annua del com-
+parto denominato “MULTI ASSET”, prelevata con cadenza mensile. 
+v. una commissione di gestione pari allo 1,50% del patrimonio su base annua del com-
+parto denominato “AZIONARIO GLOBALE”, prelevata con cadenza mensile. 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese 
+legali e giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione de-
+rivanti dall’attività di impiego delle risorse, nonché il “contributo di vigilanza” dovuto annual-
+mente alla COVIP ai sensi di legge; sono altresì a carico del comparto le spese relative alla 
+remunerazione e allo svolgimento dell’incarico del Responsabile, salva diversa decisione 
+dell’impresa di assicurazione. 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscri-
+zione e al rimborso delle parti di OICR acquistati, né le commissioni di gestione applicate 
+dall’OICR stesso, salvo i casi di deroga di carattere generale previsti dalla COVIP. In partico-
+lare, nel caso di investimenti in OICR collegati, dal compenso dell’impresa di assicurazione 
+sarà dedotta la remunerazione complessiva percepita dal gestore dell’OICR collegato. Fanno 
+eccezione gli investimenti in FIA diversi da quelli collegati 1. 
+c) spese collegate all’esercizio delle seguenti prerogative individuali , dirette alla copertura 
+dei relativi oneri amministrativi:  
+c.1) 30,00 euro in caso di trasferimento ad altra forma pensionistica; 
+c.2) 20,00 euro in caso di riscatto della posizione individuale; 
+c.3) 20,00 euro in caso di anticipazione; 
+c.4) 30,00 euro per le modifica della percentuale di allocazione dei contributi futuri tra i com-
+parti; 
+c.5) 30,00 euro per la riallocazione della posizione individuale tra i comparti ovvero per la 
+modifica del profilo life-cycle; 
+d) spese relative alla fase di erogazione delle rendite, quali riportate nell’Allegato n. 2. 
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia:  
+d-bis.1)  spese per la gestione finanziaria di cui alla lettera b.2, in relazione al com-
+parto nel quale è investita la posizione individuale residua; 
+d-bis.2) spese in cifra fissa: 
+ d-bis.2 i) 20 euro al momento del perfezionamento della richiesta; 
+ d-bis.2 ii) 5 euro addebitati in corrispondenza di ogni rata. 
+e) spese e premi relativi alle prestazioni assicurative accessorie , quali riportate nell’Allegato 
+n. 3; 
+f) spese in cifra fissa relative alla prestazione erogata in forma di “Rendita integrativa tem-
+poranea anticipata” (RITA) dirette alla copertura dei relativi oneri amministrativi: 
+f.1) 20 euro al momento del perfezionamento della richiesta; 
+f.2) 5 euro addebitati in corrispondenza di ogni rata. 
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di 
+convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle com-
+missioni di gestione espresse in misura percentual e sul patrimonio avviene mediante emissione di 
+classi di quote differenti. 
+ 
+1 Nel caso di investimenti in FIA diversi da quelli collegati sul comparto potranno gravare commissioni di gestione (ed eventuali commissioni 
+di incentivo) a condizione che venga resa agli aderenti adeguata informativa circa la misura massima delle commissioni applicabili nell’am-
+bito della Nota informativa. Per FIA collegati si intendono quelli promossi o gestiti dalla società che gestisce le risorse del Fondo o da altre 
+società del medesimo gruppo di appartenenza.
+=== pagina 8 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 8 di 46 
+3. Sono a carico dell’impresa di assicurazione tutte le spese e oneri non individuati dalle disposizioni del 
+presente articolo. 
+ 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+ 
+Art. 9 -  Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso. 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima 
+e delle modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali.  
+3. I lavoratori dipendenti, in caso di adesione esplicita,  possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può 
+anche essere parziale ove previsto dagli accordi collettivi. Qualora il lavoratore decida altresì di versare 
+la contribuzione prevista a suo carico e abbia diritto, in base ad accordi collettivi, anche aziendali, a un 
+contributo del datore di lavoro, detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei 
+predetti accordi. Il datore di lavoro può decidere, anche in assenza di accordi collettivi di contribuire al 
+Fondo. 
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i lavo-
+ratori dipendenti, l’obbligo del versamento del TFR maturando eventualmente conferito. La sospensione 
+non comporta la cessazione della partecipazione al Fondo. 
+5. In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore di lavoro e la 
+contribuzione del lavoratore. La contribuzione a carico del lavoratore non è obbligatoria nel caso in cui 
+la retribuzione annuale lorda corrisposta dal  datore di lavoro risulti inferiore al valore pari all’assegno 
+sociale di cui all’art. 3, commi 6 e 7, della Legge 8 agosto 1995, n. 335. L’aderente può conferire il TFR 
+anche in misura parziale ove previsto dagli accordi collettivi. 
+6. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà di sospendere 
+la contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo a carico del 
+datore di lavoro, fermo restando il versamento del TFR maturando al Fondo.  È possibile riattivare la 
+contribuzione in qualsiasi momento. 
+7. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 12, del Decreto 
+(c.d. contribuzione da abbuoni). 
+8. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età pensio-
+nabile prevista dal regime obbligatorio di appartenenza, a condizione che alla data del pensionamento 
+possa far valere almeno un anno di contribuzione a favore delle forme di previdenza complementare.  
+ 
+Art. 10 - Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è alimen-
+tata dai contributi netti versati, dagli importi derivanti da trasferimenti da altre forme pensionistiche com-
+plementari e dai versamenti effettuati per il reintegro delle anticipazioni percepite, ed è ridotta da even-
+tuali riscatti parziali e anticipazioni. 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, di 
+cui all’art. 8, comma 1, lett. a), e delle eventuali somme destinate a copertura delle prestazioni acces-
+sorie previste. Sul primo versamento incidono anche eventuali spese di adesione. 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di ogni singolo 
+comparto è calcolato come variazione del valore della quota dello stesso nel periodo considerato.  
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono 
+valutate al valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla determina-
+zione della posizione individuale, a prescindere dal momento di effettivo realizzo.
+=== pagina 9 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 9 di 46 
+5. L’impresa di assicurazione determina il valore della quota e, conseguentemente, della posizione indivi-
+duale di ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono tra-
+sformati in quote e frazioni di quote, sulla base del primo valore di quota succes sivo al giorno in cui si 
+sono resi disponibili per la valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello risultante 
+al primo giorno di valorizzazione utile successivo a quello in cui l’impresa di assicurazione ha verificato 
+la sussistenza delle condizioni che danno diritto alle prestazioni. 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono in-
+tangibili e non possono formare oggetto di sequestro o pignoramento da parte dei creditori dell’ade-
+rente. 
+ 
+Art. 11 - Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei 
+requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, con 
+almeno cinque anni di partecipazione alle for me pensionistiche complementari. Il predetto termine è 
+ridotto a tre anni per il lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo 
+stesso acquisisca il diritto a una pensione complementare e che si sposta in un altro Sta to membro 
+dell’Unione Europea. L’aderente che decide di proseguire volontariamente la contribuzione ai sensi del 
+comma 8 dell’art. 9 ha la facoltà di determinare autonomamente il momento di fruizione delle prestazioni 
+pensionistiche. 
+2. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera età pensionabile quella vigente 
+nel regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche 
+sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati 
+dall’aderente per i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale. 
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione 
+nei regimi obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1,  ha facoltà di richiedere che le prestazioni pensionistiche siano ero-
+gate, in tutto o in parte, in forma di RITA con un anticipo massimo di cinque anni rispetto alla  data di 
+maturazione dell’età anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appar-
+tenenza. 
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un pe-
+riodo di tempo superiore a ventiquattro mesi e abbia maturato il periodo minimo di partecipazione alle 
+forme pensionistiche complementari di cui al comma 1, ha facoltà di richiedere la rendita di cui al comma 
+4 con un anticipo massimo di dieci anni rispetto alla data di maturazione dell’età anagrafica per la 
+pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei commi 4 e 5, verrà 
+fatta confluire, salvo diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo e 
+indicato nella Nota informativa. L’aderente può successivamente variare il comparto nel rispetto del 
+periodo minimo di permanenza. 
+7. Nel corso di erogazione della RITA  l’aderente può richiederne la revoca; ciò comporta la cessazione 
+dell’erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha la facoltà 
+di richiedere, con riferimento alla sola porzione residua della posizione individuale, il riscatto e l’antici-
+pazione di cui agli artt. 13 e 14, cessata l’erogazione della RITA parziale, ovvero la prestazione pensio-
+nistica. 
+9.  In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende automatica-
+mente revocata e viene trasferita l’intera posizione individuale.
+=== pagina 10 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 10 di 46 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di capitale 
+nel limite del 50 per cento della posizione individuale maturata. Nel computo dell’importo complessivo 
+erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia 
+provveduto al reintegro. Qualora l’importo che si ottiene convertendo in rendita vitalizia immediata an-
+nua senza reversibilità a favore dell’aderente il 70 per cento della posizione individuale maturata risulti 
+inferiore al 50 per cento dell’assegno sociale di cui all’articolo 3, commi 6, 7, della Legge 8 agosto 1995, 
+n. 335, l’aderente può optare per la liquidazione in capitale dell’intera posizione maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 
+aprile 1993 ed entro tale data iscritto a una forma pensionistica complementare istituita alla data di 
+entrata in vigore della Legge 23 ottobre 1992, n. 421, può richiedere la liquidazione dell’intera presta-
+zione pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e pignorabilità 
+in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.  
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto 
+può trasferire la propria posizione individuale presso altra forma pensionistica complementare, per av-
+valersi delle condizioni di erogazione della rendita  vitalizia praticate da quest’ultima. In tal caso si ap-
+plica quanto previsto dall’art.13, commi 6 e 7. 
+ 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita vi-
+talizia immediata calcolata in base alla posizione individuale maturata, al netto della eventuale quota di 
+prestazione da erogare sotto forma di capitale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di rendita vita-
+lizia di seguito indicate:  
+- una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e suc-
+cessivamente, in misura totale o per quota scelta dall’aderente stesso, alla persona da lui de-
+signata; 
+- una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 o 10 anni 
+all’aderente o, in caso di suo decesso, alla persona da lui designata. Successivamente, se 
+l’aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia; 
+- una rendita con controassicurazione: detta rendita è corrisposta all’aderente finché in vita; in 
+caso di suo decesso, il montante residuale è corrisposto alla/e persona/e da lui designata/e; 
+- una rendita maggiorata in caso di non autosufficienza: detta rendita è corrisposta all’aderente 
+finché in vita, e, maggiorata per un importo pari al 100% dal momento in cui sopraggiunge lo 
+stato di non autosufficienza. 
+3. Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite 
+vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo 
+calcolo. Tali coefficienti possono essere successivamente variati, nel rispetto della normativa tempo 
+per tempo vigente in materia di stabilità delle compagnie di assicurazione; in ogni caso, le modifiche 
+dei coefficienti di trasformazione non si applicano ai soggetti, già aderenti alla data di introduzione delle 
+modifiche stesse, che esercitano il diritto alla prestazione pensionistica nei tre anni successivi.  
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, lad-
+dove vi sia l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’Allegato n. 2 
+e, negli altri casi, a coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base 
+alle proiezioni ufficiali disponibili sull’andamento della mortalità della popolazione italiana. 
+5. In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale quota di presta-
+zione erogata sotto forma di capitale, l’erogazione della prestazione pensionistica in una delle seguenti 
+forme:
+=== pagina 11 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 11 di 46 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della 
+vita attesa residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni 
+obbligatorie. 
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con 
+facoltà per lo stesso di determinarne la tempistica e l’importo nel limite della somma delle rate, 
+maturate e non riscosse, di una rendita teorica con frazionamento annuale, immediatamente 
+erogabile e di durata definita pari alla vita attesa residua, in anni interi, dell’aderente al momento 
+della richiesta di prestazione. 
+6. L’impresa di assicurazione provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla 
+rendita vitalizia con tempestività e comunque non oltre il termine massimo di 180 giorni. Nel caso in cui 
+la domanda risulti incompleta o insufficiente, l’impresa di assicurazione richiede gli elementi integrativi, 
+e il termine sopra indicato è sospeso fino alla data di completamento o di regolarizzazione della pratica. 
+Il montante residuo è mantenuto in gestione, nel comparto scelto dall’aderente, all’atto di richiesta della 
+prestazione o, in difetto di indicazioni, nel comparto individuato nella Nota informativa.  
+6-bis. Al fine di adeguare i sistemi e i processi operativi dell’impresa di assicurazione per la gestione delle 
+richieste e l’erogazione diretta delle prestazioni, il termine di cui al comma 6 può essere derogato per 
+un periodo transitorio, che non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo l’impresa 
+di assicurazione acquisisce le richieste di erogazione delle prestazioni. Successivamente all’avvenuto 
+adeguamento dei suddetti sistemi e processi operativi, l’impresa di assicurazione procede tempestiva-
+mente alla liquidazione delle richieste di erogazione delle prestazioni pervenute durante il periodo tran-
+sitorio. 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere revocate 
+una volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del montante residuo 
+in una rendita vitalizia immediata sulla base delle condizioni e dei criteri indicati nella Nota informativa, 
+ovvero trasferisca il montante residuo presso un’altra forma pensionistica all’unico fine di beneficiare 
+delle condizioni di rendita vitalizia offerte da quest’ultima. 
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto 
+ad individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante 
+residuo. Tale scelta può essere successivamente modificata dall’aderente. 
+9. Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente non può chiedere 
+trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione del comparto, che può es-
+sere richiesta nel rispetto del periodo minimo di partecipazione di cui all’art. 6, comma 2. 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore contribu-
+zione al Fondo, salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la matu-
+razione del TFR. 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni 
+pensionistiche di cui al comma 5, lett. a) e b). 
+ 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica complementare 
+decorso un periodo minimo di due anni di partecipazione al Fondo. 
+2. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale 
+acceda in relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività la-
+vorativa che comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e non 
+superiore a quarantotto mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di 
+mobilità, cassa integrazione guadagni, ordinaria o straordinaria;
+=== pagina 12 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 12 di 46 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la 
+riduzione della capacità di lavoro a meno di un terzo e a seguito di cessazione dell’attività lavorativa 
+che comporti l’inoccupazione per un periodo di tempo superiore a quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi dell’art.14, comma 5 del Decreto, ovvero 
+riscattare nella misura del 25%, 50% o 75%, ovvero trasferirla ad altra forma pensionistica comple-
+mentare, qualora vengano meno i requisiti di partecipazione.  Il riscatto parziale può essere eserci-
+tato una sola volta nel periodo di partecipazione al Fondo. 
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di trasferi-
+mento e di riscatto, può proseguire la partecipazione al Fondo, anche in assenza di contribuzione. Tale 
+opzione trova automatica applicazione in difetto di diversa scelta da parte dell’aderente. Nel caso in cui 
+il valore della posizione individuale maturata non sia superiore all’importo di una mensilità dell’assegno 
+sociale di cui all’art. 3, comma 6, della Legge 8 agosto 1995, n. 335, l’impresa di assicurazione informa 
+l’aderente della facoltà di trasferire la propria posizione individuale ad altra forma pensionistica comple-
+mentare, ovvero di chiedere il riscatto dell’intera posizione di cui al comma 2, lettera d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero 
+nel corso dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la posizione indivi-
+duale è riscattata dai soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, o in man-
+canza dagli eredi. In mancanza di tali soggetti, la posizione individuale resta acquisita al Fondo.  
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.  
+6. L’impresa di assicurazione, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto 
+della posizione con tempestività, e comunque non oltre il termine massimo di 120 giorni  decorrente 
+dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, l’impresa di 
+assicurazione richiede gli elementi integrativi e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della partecipa-
+zione al Fondo. 
+ 
+Art. 14 - Anticipazioni  
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e 
+misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie conseguenti 
+a situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi straordinari ricono-
+sciuti dalle competenti strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore 
+al 75 per cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, per la realizzazione, 
+sulla prima casa di abitazione, degli interventi  di manutenzione ordinaria, straordinaria, di restauro 
+e di risanamento conservativo, di ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 
+1 dell’art. 3 del Decreto del Presidente della Repubblica del 6 giugno 2001, n. 380;  
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore 
+al 30 per cento, per la soddisfazione di ulteriori sue esigenze.  
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono 
+riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento 
+della posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate.  
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono con-
+siderati utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati dall’aderente, 
+per i quali lo stesso non abbia esercitato il diritto di riscatto totale della posizione individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in
+=== pagina 13 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 13 di 46 
+qualsiasi momento. 
+6. Le anticipazioni di cui al comma 1 lettera a), sono sottoposte agli stessi limiti di cedibilità, sequestrabilità 
+e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.  
+7. L’impresa di assicurazione provvede agli adempimenti conseguenti all’esercizio delle predette facoltà 
+da parte dell’aderente con tempestività e comunque non oltre il termine massimo di 120 giorni  decor-
+rente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, l’im-
+presa di assicurazione richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino alla 
+data del completamento o della regolarizzazione della pratica. 
+ 
+Art. 14-bis. - Prestazioni accessorie  
+1. Il Fondo prevede inoltre le seguenti prestazioni: 
+a) la corresponsione di un capitale al verificarsi della morte in data anteriore a quella di esercizio 
+del diritto alla prestazione pensionistica complementare; 
+b) la corresponsione di un capitale al verificarsi della morte o della invalidità totale e permanente 
+in data anteriore a quella di esercizio del diritto alla prestazione pensionistica complementare.  
+2. L’adesione alle suddette prestazioni è facoltativa e può essere espressa all’atto dell’adesione al Fondo 
+o successivamente mediante sottoscrizione di apposito modulo. 
+3. Le condizioni delle suddette prestazioni sono indicate nell’Allegato n. 3 al presente Regolamento. 
+ 
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+ 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia al 
+patrimonio dell’impresa di assicurazione, sia a quello degli altri fondi gestiti, sia a quello degli aderenti.  
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non 
+può essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori dell ’impresa di 
+assicurazione o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di rap-
+presentanti dei creditori stessi. Il patrimonio del Fondo non può essere coinvolto nelle procedure con-
+corsuali che riguardino l’impresa di assicurazione. 
+4. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e con-
+tabile delle operazioni poste in essere per conto del Fondo rispetto al complesso delle altre operazioni 
+svolte dall’impresa di assicurazione e del patrimonio del Fondo rispetto a quello dell’impresa di assicu-
+razione e di suoi clienti. 
+5. Ferma restando la responsabilità dell ’impresa di assicurazione per l’operato del soggetto delegato, la 
+gestione amministrativa e contabile del Fondo può essere delegata a terzi.  
+6. L’impresa di assicurazione è dotata di procedure organizzative atte a garantire la separatezza ammini-
+strativa e contabile delle operazioni poste in essere in riferimento a ciascun comparto.  
+7. Il patrimonio di ciascun comparto è suddiviso in quote o in differenti classi di quote.  
+ 
+Art. 16 – Sistema di governo 
+1. L’impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla portata e 
+alla complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4- bis, 5-bis, 5-
+ter, 5-quater, 5-sexies, 5-septies, 5-octies e 5-nonies del Decreto in coerenza con gli assetti organizza-
+tivi del rispettivo settore di riferimento. 
+ 
+Art. 17 - Depositario
+=== pagina 14 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 14 di 46 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei 
+requisiti previsti dalle vigenti disposizioni normative (di seguito “depositario”). 
+2. L’impresa di assicurazione può revocare in ogni momento l’incarico al depositario il quale può, a sua 
+volta, rinunciare con preavviso non inferiore a sei mesi; in ogni caso, l’efficacia della revoca o della 
+rinuncia è sospesa fino a che: 
+- l’impresa di assicurazione non abbia stipulato un nuovo contratto con altro depositario, in possesso 
+dei requisiti di legge; 
+- il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità 
+dell’impresa di assicurazione per l’operato del soggetto delegato. 
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente. 
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità ri-
+scontrate nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di 
+cui sono venuti a conoscenza nell’esercizio delle funzioni di depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono 
+ammesse azioni dei creditori del depositario, del subdepositario o nell’interesse degli stessi. 
+ 
+Art. 18 - Responsabile  
+1. L’impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2 del De-
+creto.  
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del Responsabile 
+sono riportate nell’Allegato n.1. 
+ 
+Art. 19 - Organismo di rappresentanza  
+1. È istituito un Organismo di rappresentanza (di seguito “Organismo”), ai sensi dell’art. 5, comma 5 del 
+Decreto. 
+2. Le disposizioni che regolano la nomina, la composizione e il funzionamento dell’Organismo sono ripor-
+tate in un apposito documento denominato “Disposizioni in materia di Organismo di rappresentanza”. 
+3. L’impresa di assicurazione individua il numero complessivo dei componenti dell’Organismo in modo 
+tale da garantire la rappresentatività degli iscritti per adesioni collettive e la funzionalità dell’Organismo. 
+4. Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle che alla fine del 
+mese precedente alla designazione hanno almeno 500 lavoratori iscritti al fondo pensione.  
+5. I componenti dell’Organismo restano in carica tre anni e possono svolgere più mandati. I componenti 
+nominati in sostituzione di quelli cessati in corso di mandato scadono insieme a quelli in carica all’atto 
+della loro nomina. 
+6. Le spese di funzionamento dell’Organismo e gli eventuali compensi riconosciuti ai suoi componenti, 
+non possono gravare sul fondo né sull’impresa di assicurazione. 
+7. L’Organismo svolge funzioni di collegamento tra le collettività che aderiscono al Fondo, l’impresa di 
+assicurazione e il Responsabile. L’Organismo non svolge funzioni di controllo. 
+8. I componenti dell’Organismo devono adempiere le loro funzioni nel rispetto dei principi generali di cor-
+rettezza e buona fede e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza 
+in ragione del loro ufficio. 
+ 
+Art. 20 - Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi della 
+normativa tempo per tempo vigente. 
+ 
+Art. 21 - Scritture contabili
+=== pagina 15 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 15 di 46 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle 
+posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP.  
+2. L’impresa di assicurazione conferisce a una società di revisione l’incarico di esprimere, con apposita 
+relazione, un giudizio sul rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web dell’impresa di assicurazione. 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+ 
+Art. 22 - Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. L’ade-
+sione è preceduta dalla consegna della  documentazione informativa prevista tempo per tempo dalla 
+normativa vigente. 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite al l’impresa di assi-
+curazione. 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera di 
+conferma, attestante la data di iscrizione e le informazioni relative all’eventuale versamento effettuato. 
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi allegati, e delle 
+successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’art.26. 
+5. In caso di adesione automatica, il Fondo, sulla base dei dati forniti dal datore di lavoro, comunica 
+all’aderente l’avvenuta adesione, il profilo di tipo life cycle nel quale sono investiti i contributi, nonché le 
+informazioni necessarie al fine di consentire a quest’ultimo l’esercizio delle scelte di sua competenza. 
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze 
+dell’impresa di assicurazione da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione 
+dell’impresa di assicurazione. Le adesioni su base collettiva possono essere raccolte anche presso i 
+luoghi indicati nella Nota informativa. 
+7. L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di 
+recesso e senza dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente invia una 
+comunicazione scritta all’impresa di assicurazione con modalità che garantiscono certezza della data 
+di ricezione. L’impresa di assicurazione, entro trenta giorni dal ricevimento della comunicazione, pro-
+cede a rimborsare le somme eventualmente pervenute, al netto delle spese di adesione, ove trattenute. 
+L’impresa di assicurazione rende previamente noti all’aderente il momento in cui l’adesione si intende 
+conclusa, i termini, le modalità e i criteri di determinazione delle somme oggetto di rimborso.  
+8. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione al 
+Fondo. In caso di inadempimento, l’impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del Co-
+dice Civile, di risolvere il contratto comunicando all’aderente la propria volontà di avvalersi della clausola 
+risolutiva espressa, salvo che l’aderente non provveda a effettuare un versamento entro sessanta giorni 
+dalla ricezione della comunicazione. 
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con conse-
+guente azzeramento della posizione individuale a seguito dell’applicazione delle spese annuali di ge-
+stione amministrativa, l’impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di 
+risolvere il contratto comunicando la propria volontà di avvalersi della clausola risolutiva espressa, salvo 
+che l’aderente non provveda a effettuare un versamento entro sessanta giorni dalla ricezione della 
+comunicazione. 
+ 
+Art. 23 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. L’impresa di assicurazione mette a disposizione degli aderenti la documentazione inerente al Fondo e 
+tutte le altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali  docu-
+menti sono disponibili sul sito web dell’impresa di assicurazione, in un’apposita sezione dedicata alle
+=== pagina 16 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 16 di 46 
+forme pensionistiche complementari e presso la sede legale dell’impresa di assicurazione. I documenti 
+utilizzati in fase di adesione sono resi disponibili in formato cartaceo e gratuitamente anche presso le 
+sedi dei soggetti che effettuano l’attività di raccolta delle adesioni. 
+2. L’impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni 
+individuali maturate e alle prestazioni erogate , secondo quanto previsto dalla normativa tempo per 
+tempo vigente. 
+ 
+Art. 24 - Comunicazioni e reclami 
+1. L’impresa di assicurazione definisce le modalità con le quali gli aderenti e i beneficiari possono rappre-
+sentare le proprie esigenze e presentare reclami  in coerenza con le indicazioni fornite dalla COVIP, 
+riportandole nella Nota Informativa. 
+ 
+PARTE VI – NORME FINALI 
+ 
+Art. 25 - Modifiche del Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP.  
+2. L’impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse 
+degli aderenti e fatto salvo quanto disposto dall’art.26. 
+ 
+Art. 26 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione indi-
+viduale maturata ad altra forma pensionistica complementare, anche prima che siano decorsi due anni 
+dall’iscrizione. Il diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in modo 
+sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione significativa dell e 
+politiche di investimento. 
+2. L’impresa di assicurazione comunica a ogni aderente interessato l’introduzione delle modifiche almeno 
+centoventi giorni prima della relativa data di efficacia; dal momento della comunicazione l’aderente ha 
+novanta giorni di tempo per manifestare l’eventuale scelta di trasferimento. L’impresa di assicurazione 
+può chiedere alla COVIP termini ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del 
+Fondo e non contrasti con l’interesse degli aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese.  
+ 
+Art. 27 - Cessione del Fondo 
+1. Qualora l’impresa di assicurazione non voglia o non possa più esercitare l’attività di gestione del Fondo, 
+questo viene ceduto ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione del Fondo 
+a società diverse da quelle del Gruppo al quale appartiene l’impresa di assicurazione viene riconosciuto 
+agli aderenti il diritto al trasferimento della posizione presso altra forma pensionistica complementare  
+ai sensi dell’art. 26 e con le modalità ivi previste. 
+ 
+Art. 28 - Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fu-
+sione con un altro fondo gestito dalla medesima impresa di assicurazione, il diritto al trasferimento della 
+posizione presso altra forma pensionistica viene riconosciuta qualora rincorrano le condizioni di cui 
+all’art. 26 e con le modalità ivi previste. 
+ 
+Art. 29 - Rinvio
+=== pagina 17 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 17 di 46 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla normativa 
+vigente. 
+ 
+ALLEGATO N. 1 – DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+ 
+Art. 1 -  Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione dell’impresa di assicurazione che 
+esercita l’attività del Fondo. L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non 
+più di una volta consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene nominato 
+il nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di controllo 
+dell’impresa di assicurazione. 
+4. Le nomine, gli eventuali rinnovi dell’incarico e le sostituzioni del Responsabile prima della scadenza del 
+termine vengono comunicati alla COVIP entro quindici giorni dalla deliberazione. 
+ 
+Art. 2 -  Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile, sono previsti dalla normativa tempo per tempo 
+vigente. 
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa presso 
+l’impresa di assicurazione o società da questa controllate o che la controllano; 
+b) l’incarico di amministratore dell’impresa di assicurazione. 
+ 
+Art. 3 -  Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità  o di incompatibilità 
+comporta la decadenza dall’incarico. 
+ 
+Art. 4 -  Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’atto della 
+nomina per l’intero periodo di durata dell’incarico  e viene definita sulla base di una sana politica di 
+remunerazione che tenga conto dei principi previsti dalla normativa tempo per tempo vigente, fermo 
+restando che il compenso del Responsabile non può essere pattuito sotto forma di partecipazione agli 
+utili dell’impresa di assicurazione, o di società controllanti o controllate, né sotto forma di diritti di acqui-
+sto o di sottoscrizione di azioni dell’impresa di assicurazioni o di società controllanti o controllate. 
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a 
+carico del Fondo, salva diversa decisione dell’impresa di assicurazione.  
+ 
+Art. 5 -  Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dall ’impresa di assicura-
+zione, riportando direttamente all’organo di amministrazione della stessa relativamente ai risultati 
+dell’attività svolta. 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative dell ’impresa di 
+assicurazione, di volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri di 
+cui all’art. 6. L’impresa di assicurazione gli garantisce l’accesso a tutte le informazioni necessarie allo 
+scopo. 
+3. Il Responsabile assiste alle riunioni dell’organo amministrativo e di quello di controllo dell ’impresa di 
+assicurazione, per tutte le materie inerenti al Fondo.
+=== pagina 18 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 18 di 46 
+ 
+Art. 6 -  Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei 
+beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle buone 
+pratiche e dei principi di corretta amministrazione del Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dall ’impresa di assicurazione, organizza lo svol-
+gimento delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di 
+deleghe di gestione, con riferimento ai controlli su: 
+i) la politica di investimento. In particolare: che la politica di investimento effettivamente 
+seguita sia coerente con quella indicata nel Regolamento e nel Documento sulla poli-
+tica di investimento e che gli investimenti, ivi compresi quelli effettuati in OICR, avven-
+gano nell’esclusivo interesse degli aderenti, nel rispetto dei principi di sana e prudente 
+gestione nonché nel rispetto dei criteri e limiti previsti dalla normativa tempo per tempo 
+vigente e dal Regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investi-
+menti effettuati siano correttamente identificati, misurati e controllati e che siano coe-
+renti con gli obiettivi perseguiti dalla politica di investimento; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi 
+di deleghe di gestione, con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per conto 
+del Fondo rispetto al complesso delle altre operazioni svolte dall ’impresa di assicura-
+zione e del patrimonio del Fondo rispetto a quello dell ’impresa di assicurazione e di 
+suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei beneficiari 
+con riferimento ai controlli su: 
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli 
+aderenti e dei beneficiari , sia al momento del collocamento del Fondo che durante il 
+rapporto; 
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei beneficiari 
+previste dal Regolamento e le eventuali commissioni correlate ai risultati di gestione 
+siano correttamente applicate; 
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni perio-
+diche agli aderenti e ai beneficiari e in quelle inviate in occasione di eventi particolari; 
+iv) l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento riser-
+vato ai singoli reclami; 
+v) la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con rife-
+rimento ai tempi di liquidazione delle somme richieste a titolo di anticipazione o riscatto 
+e di trasferimento della posizione individuale. 
+3. Il Responsabile controlla le soluzioni adottate dall’impresa di assicurazione per identificare le situazioni 
+di conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; egli 
+controlla altresì la corretta esecuzione del contratto stipulato per il conferimento dell’incarico di deposi-
+tario, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle rendite e, ove 
+presenti, delle convenzioni/condizioni relative alle prestazioni accessorie. 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva comunica-
+zione all’organo di amministrazione e a quello di controllo dell ’impresa di assicurazione indicando gli 
+interventi correttivi da adottare.
+=== pagina 19 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 19 di 46 
+ 
+Art. 7 -  Rapporti con la COVIP 
+1. Il Responsabile: 
+a) predispone annualmente una relazione che descrive in maniera analitica l’organizza-
+zione adottata per l’adempimento dei suoi doveri e che dà conto della congruità delle 
+procedure di cui si avvale per l’esecuzione dell’incarico, dei risultati dell’attività svolta, 
+delle eventuali irregolarità riscontrate durante l’anno e delle iniziative poste in essere 
+per eliminarle. La relazione viene trasmessa alla COVIP entro il 31 marzo di ciascun 
+anno. Copia della relazione stessa viene trasmessa all’organo di amminist razione e 
+a quello di controllo dell’impresa di assicurazione; 
+b) vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla 
+stessa le segnalazioni, la documentazione e le relazioni richieste dalla normativa 
+tempo per tempo vigente e dalle istruzioni emanate in proposito; 
+c) comunica alla COVIP, contestualmente alla segnalazione all’organo di amministra-
+zione e a quello di controllo dell ’impresa di assicurazione, le irregolarità riscontrate 
+nell’esercizio delle sue funzioni. 
+ 
+Art. 8 -  Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura 
+dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti di 
+cui ha conoscenza in ragione del suo ufficio, tranne che nei confronti della COVIP e delle autorità giu-
+diziarie. 
+2. Egli risponde verso l’impresa di assicurazione e verso i singoli aderenti e beneficiari del Fondo dei danni 
+a ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt.2391, 2392, 2393, 2394, 2394-bis 
+e 2395 del Codice Civile.
+=== pagina 20 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 20 di 46 
+ALLEGATO N. 2 – CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE VITALIZIE 
+ 
+Condizioni di erogazione delle prestazioni in forma di rendita vitalizia 
+(Art. 12 del Regolamento) 
+ 
+Determinazione dell’ammontare della rendita vitalizia 
+1. L’ammontare della prima annualità di rendita annua vitalizia rivalutabile si ottiene moltiplicando il valore 
+destinato a costituire la rendita di cui all’art. 10, comma 1, del Regolamento, per un coefficiente indivi-
+duato in base all’età in anni e mesi  ed alla rateazione prescelta, in vigore al momento della richiesta 
+della prestazione. 
+Il coefficiente di conversione per l’età in anni e mesi è ottenuto per interpolazione lineare dei coefficienti 
+relativi all’età intere superiore e inferiore rispetto all’età stessa, contenuti nelle Tabelle allegate sub «A», 
+«B», «C», «D», «E» e «F». 
+Pertanto, i coefficienti, riportati nelle tabelle, sono validi per tutti gli aderenti che facciano richiesta della 
+prestazione prima della eventuale sostituzione dei coefficienti medesimi. 
+Tali coefficienti possono essere successivamente variati, nel rispetto della normativa in materia di sta-
+bilità delle compagnie di assicurazione e delle relative disposizioni applicative emanate dall’IVASS; in 
+ogni caso, le modifiche dei coefficienti di trasformazione non si applicano ai soggetti, già aderenti alla 
+data di introduzione delle modifiche stesse, che esercitano il diritto alla prestazione pensionistica nei 
+tre anni successivi. 
+2. I documenti riportanti i coefficienti di conversione relativi alle prestazioni di reversibilità e alle altre tipo-
+logie di rendita vitalizia sono depositati presso la sede del Fondo pensione. 
+ 
+Erogazione della rendita vitalizia 
+1. La rendita vitalizia è corrisposta in via posticipata con la rateazione scelta dall’aderente. La rateazione 
+non è modificabile in corso di erogazione. La prima rata di rendita vitalizia viene corrisposta al termine 
+del primo periodo di rateazione prescelto, a partire dalla decorrenza della rendita stessa. L’erogazione 
+della rendita vitalizia cessa con l'ultima scadenza di rata precedente la morte dell'Aderente assicurato. 
+La rendita vitalizia non può essere riscattata. 
+2. Il pagamento della rendita vitalizia viene eseguito mediante bonifico bancario alla scadenza delle rate 
+convenute. L’aderente dovrà dare comunicazione al Fondo pensione del c/c bancario e delle coordinate 
+bancarie (IBAN) sul quale accreditare gli importi. In caso di variazione del c/c bancario l'Aderente dovrà 
+darne comunicazione al Fondo pensione con tre mesi di anticipo rispetto alla data di corresponsione 
+della rata. 
+3. Per tutti i pagamenti del Fondo pensione debbono essere preventivamente consegnati allo stesso i 
+documenti necessari a verificare l'effettiva esistenza dell'obbligo di pagamento e ad individuare gli 
+aventi diritto mentre il Fondo pensione si riserva di richiedere, con lettera raccomandata, il certificato di 
+nascita dell'Assicurato entro un anno dall’esercizio del diritto.  
+4. La Società riconosce una rivalutazione annua delle prestazioni in base alle condizioni che seguono. La 
+Società gestisce le attività a copertura degli impegni assunti (riserva matematica) nei confronti degli 
+aderenti al Fondo pensione nella Gestione Separata «Rendigen» con le modalità e i criteri previsti dal 
+Regolamento della gestione allegato sub «G».  
+5. La Società dichiara mensilmente, entro il primo giorno del mese che precede quello della ricorrenza 
+annuale della rendita vitalizia, il rendimento medio annuo conseguito dalla Gestione Separata nell’arco 
+dei dodici mesi precedenti il secondo mese anteriore a quello della ricorrenza annuale della rendita 
+vitalizia secondo quanto previsto dal Regolamento della Gestione Separata Rendigen. Detto rendi-
+mento, diminuito di un valore trattenuto pari ad 1,20 punti percentuali assoluti , è attribuito alla rendita  
+vitalizia. Qualora il rendimento della Gestione Separata sia pari o superiore al 2,10% ed inferiore al
+=== pagina 21 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 21 di 46 
+2,20% (intervallo di rendimento), il valore trattenuto sopra definito è incrementato di 0,02 punti percen-
+tuali assoluti. Per ogni ulteriore uguale intervallo di rendimento di un punto percentuale tale valore si 
+incrementa in eguale misura. 
+La misura di rivalutazione si ottiene scontando per il periodo di un anno al tasso di interesse del lo 0% 
+(1% per la controassicurata) - già conteggiato nel calcolo del coefficiente di conversione - la differenza 
+tra il rendimento attribuito ed il suddetto tasso di interesse. La rivalutazione attribuita alla rendita vitalizia 
+controassicurata può risultare negativa; in ogni caso, a ciascuna  ricorrenza, l’importo annuo della ren-
+dita vitalizia rivalutata non potrà essere inferiore al valore della rendita vitalizia iniziale diminuito dell’1% 
+per ogni anno trascorso dalla decorrenza della rendita vitalizia. 
+6. Ad ogni anniversario della data di decorrenza della rendita vitalizia, la rendita vitalizia in vigore nel 
+periodo annuale precedente viene adeguata in funzione della più recente misura di rivalutazione fissata, 
+a norma del precedente comma entro il primo giorno del mese che precede l’anniversario suddetto. 
+7. Nella fase di erogazione il tasso di interesse tecnico impiegato nel calcolo iniziale della prestazione in 
+rendita vitalizia è pari allo 0% (1% per la sola rendita controassicurata) e potrà essere modificato, con 
+esclusione dei primi tre anni dalla data di termine della fase di accumulo, in ottemperanza a modifiche 
+del tasso di interesse massimo applicabile in un contratto di assicurazione sulla vita così come stabilito 
+dall’Ivass (Regolamento IVASS n. 21 del 28 marzo 2008). 
+Eventuali ulteriori modalità di rivalutazione/adeguamento della rendita vitalizia in fase di erogazione, 
+collegate a gestioni separate e/o altri strumenti finanziari, saranno comunicate all’Aderente a seguito 
+della richiesta di liquidazione della prestazione in forma di rendita vitalizia.
+=== pagina 22 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 22 di 46 
+Allegato «A» all’Allegato n. 2 al Regolamento 
+ 
+TABELLA DEI COEFFICIENTI DI CONVERSIONE DEL CAPITALE IN RENDITA VITALIZIA AL TASSO 
+TECNICO DELLO 0% 
+ 
+MASCHI e FEMMINE 
+Età al 
+pensionamento 
+Rateazione rendita 
+Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+50 0,02527 0,02511 0,02506 0,02503 0,02501 0,02498 
+51 0,02590 0,02573 0,02568 0,02565 0,02562 0,02560 
+52 0,02656 0,02639 0,02633 0,02630 0,02627 0,02624 
+53 0,02726 0,02707 0,02701 0,02698 0,02695 0,02692 
+54 0,02799 0,02779 0,02773 0,02770 0,02766 0,02763 
+55 0,02876 0,02855 0,02848 0,02845 0,02842 0,02838 
+56 0,02957 0,02935 0,02928 0,02924 0,02920 0,02917 
+57 0,03042 0,03019 0,03011 0,03008 0,03004 0,03000 
+58 0,03132 0,03108 0,03100 0,03096 0,03092 0,03088 
+59 0,03228 0,03202 0,03193 0,03189 0,03185 0,03180 
+60 0,03329 0,03301 0,03292 0,03288 0,03283 0,03279 
+61 0,03436 0,03407 0,03397 0,03392 0,03388 0,03383 
+62 0,03550 0,03519 0,03509 0,03503 0,03498 0,03493 
+63 0,03672 0,03638 0,03627 0,03621 0,03616 0,03610 
+64 0,03801 0,03765 0,03753 0,03747 0,03741 0,03735 
+65 0,03938 0,03900 0,03887 0,03881 0,03874 0,03868 
+66 0,04086 0,04044 0,04030 0,04023 0,04017 0,04010 
+67 0,04243 0,04198 0,04184 0,04176 0,04169 0,04162 
+68 0,04413 0,04364 0,04348 0,04341 0,04333 0,04325 
+69 0,04596 0,04543 0,04526 0,04517 0,04509 0,04500 
+70 0,04793 0,04736 0,04717 0,04707 0,04698 0,04689 
+71 0,05006 0,04944 0,04923 0,04913 0,04903 0,04893 
+72 0,05237 0,05169 0,05146 0,05135 0,05124 0,05113 
+73 0,05487 0,05412 0,05388 0,05376 0,05363 0,05351 
+74 0,05759 0,05677 0,05650 0,05636 0,05623 0,05610 
+75 0,06055 0,05964 0,05934 0,05919 0,05905 0,05890 
+76 0,06378 0,06277 0,06244 0,06228 0,06211 0,06195 
+77 0,06731 0,06619 0,06582 0,06564 0,06546 0,06528 
+78 0,07119 0,06993 0,06952 0,06932 0,06912 0,06892 
+ 
+Dal al Age Shifting 
+01/01/1900 31/12/1907 7 
+01/01/1908 31/12/1917 6 
+01/01/1918 31/12/1922 5 
+01/01/1923 31/12/1927 4 
+01/01/1928 31/12/1940 3 
+01/01/1941 31/12/1948 2 
+01/01/1949 31/12/1957 1
+=== pagina 23 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 23 di 46 
+01/01/1958 31/12/1966 0 
+01/01/1967 31/12/1977 -1 
+01/01/1978 31/12/1988 -2 
+01/01/1989 31/12/1999 -3 
+01/01/2000 31/12/2011 -4 
+01/01/2012 31/12/2020 -5 
+01/01/2021 oltre -6 
+ 
+La tavola demografica A62U Indifferenziata per sesso richiede la rettifica dell’età effettiva dell’aderente, calco-
+lata in anni e mesi compiuti, invecchiandola o ringiovanendola sommando algebricamente la rettifica (in anni) 
+corrispondente alla data di nascita contenuta nella Tabella di rettifica dell’età (ottenendo così un’“età di calcolo”). 
+ 
+Il coefficiente di conversione per l’età in anni e mesi, rettificata come sopra, è ottenuto per interpolazione lineare 
+dei coefficienti relativi alle età intere superiore e inferiore rispetto all’età rettificata stessa. 
+ 
+Basi tecniche e caricamenti 
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico dello 0%) è stata adottata 
+la tavola di sopravvivenza “A62U” con un caricamento dello 0,90%.
+=== pagina 24 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 24 di 46 
+Allegato «B» all’Allegato n. 2 al Regolamento 
+ 
+TABELLA DEI COEFFICIENTI DI CONVERSIONE DEL CAPITALE IN RENDITA VITALIZIA REVERSIBILE 
+AL 60% AL TASSO TECNICO DELLO 0% 
+ 
+A seguito della richiesta di conversione del capitale in rendita vitalizia reversibile la Società provvede a comu-
+nicare l’ammontare della rendita vitalizia utilizzando i coefficienti della tavola di sopravvivenza “A62U” con un 
+tasso tecnico dello 0% e un caricamento dello 0,90%.  Riportiamo di seguito due esempi di coefficienti di con-
+versione in rendita vitalizia reversibili, rispettivamente con percentuale di reversibilità al 100% ed al 60%:  
+ 
+Esempio 1 
+Rateazione rendita: annuale 
+Percentuale reversibilità: 100% 
+Età prima 
+testa 
+Età seconda testa 
+65 67 70 
+65 0,03296 0,03398 0,03534 
+67 0,03398 0,03521 0,03691 
+70 0,03534 0,03691 0,03920 
+ 
+Esempio 2 
+Rateazione rendita: annuale 
+Percentuale reversibilità: 60% 
+Età prima 
+testa 
+Età seconda testa 
+65 67 70 
+65 0,03526 0,03595 0,03685 
+67 0,03692 0,03778 0,03894 
+70 0,03949 0,04065 0,04228
+=== pagina 25 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 25 di 46 
+Allegato «C» all’Allegato n. 2 al Regolamento 
+ 
+TABELLA DEI COEFFICIENTI DI CONVERSIONE DEL CAPITALE IN RENDITA CERTA PER 5 ANNI E 
+SUCCESSIVAMENTE VITALIZIA AL TASSO TECNICO DELLO 0% 
+ 
+MASCHI e FEMMINE 
+Età al 
+pensionamento 
+Rateazione rendita 
+Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+50 0,02526 0,02510 0,02505 0,02502 0,02500 0,02497 
+51 0,02589 0,02572 0,02567 0,02564 0,02561 0,02558 
+52 0,02655 0,02637 0,02632 0,02629 0,02626 0,02623 
+53 0,02724 0,02706 0,02700 0,02697 0,02694 0,02691 
+54 0,02797 0,02778 0,02771 0,02768 0,02765 0,02762 
+55 0,02874 0,02853 0,02846 0,02843 0,02840 0,02836 
+56 0,02954 0,02933 0,02925 0,02922 0,02918 0,02915 
+57 0,03039 0,03016 0,03009 0,03005 0,03001 0,02998 
+58 0,03129 0,03105 0,03097 0,03093 0,03089 0,03085 
+59 0,03224 0,03198 0,03190 0,03186 0,03181 0,03177 
+60 0,03325 0,03297 0,03288 0,03284 0,03279 0,03275 
+61 0,03431 0,03402 0,03393 0,03388 0,03383 0,03378 
+62 0,03544 0,03514 0,03503 0,03498 0,03493 0,03488 
+63 0,03665 0,03632 0,03621 0,03615 0,03610 0,03605 
+64 0,03792 0,03757 0,03746 0,03740 0,03734 0,03728 
+65 0,03929 0,03891 0,03879 0,03872 0,03866 0,03860 
+66 0,04074 0,04034 0,04020 0,04014 0,04007 0,04001 
+67 0,04230 0,04187 0,04172 0,04165 0,04158 0,04151 
+68 0,04397 0,04350 0,04335 0,04327 0,04320 0,04312 
+69 0,04577 0,04526 0,04509 0,04501 0,04493 0,04485 
+70 0,04770 0,04715 0,04697 0,04688 0,04679 0,04670 
+71 0,04978 0,04918 0,04899 0,04889 0,04880 0,04870 
+72 0,05202 0,05138 0,05117 0,05106 0,05096 0,05085 
+73 0,05444 0,05374 0,05351 0,05340 0,05328 0,05317 
+74 0,05705 0,05629 0,05604 0,05592 0,05579 0,05567 
+75 0,05988 0,05905 0,05877 0,05864 0,05850 0,05837 
+76 0,06293 0,06202 0,06172 0,06158 0,06143 0,06128 
+77 0,06623 0,06523 0,06491 0,06475 0,06459 0,06443 
+78 0,06979 0,06871 0,06835 0,06817 0,06800 0,06783 
+ 
+Dal al Age Shifting 
+01/01/1900 31/12/1907 7 
+01/01/1908 31/12/1917 6 
+01/01/1918 31/12/1922 5 
+01/01/1923 31/12/1927 4 
+01/01/1928 31/12/1940 3 
+01/01/1941 31/12/1948 2
+=== pagina 26 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 26 di 46 
+01/01/1949 31/12/1957 1 
+01/01/1958 31/12/1966 0 
+01/01/1967 31/12/1977 -1 
+01/01/1978 31/12/1988 -2 
+01/01/1989 31/12/1999 -3 
+01/01/2000 31/12/2011 -4 
+01/01/2012 31/12/2020 -5 
+01/01/2021 oltre -6 
+ 
+La tavola demografica A62U Indifferenziata per sesso richiede la rettifica dell’età effettiva dell’aderente, calco-
+lata in anni e mesi compiuti, invecchiandola o ringiovanendola sommando algebricamente la rettifica (in anni) 
+corrispondente alla data di nascita contenuta nella Tabella di rettifica dell’età (ottenendo così un’“età di calcolo”). 
+ 
+Il coefficiente di conversione per l’età in anni e mesi, rettificata come sopra, è ottenuto per interpolazione lineare 
+dei coefficienti relativi alle età intere superiore e inferiore rispetto all’età rettificata stessa. 
+ 
+Basi tecniche e caricamenti 
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico dello 0%) è stata adot-
+tata la tavola di sopravvivenza “A62U” con un caricamento dello 0,90%.
+=== pagina 27 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 27 di 46 
+Allegato «D» all’Allegato n. 2 al Regolamento 
+ 
+TABELLA DEI COEFFICIENTI DI CONVERSIONE DEL CAPITALE IN RENDITA CERTA PER 10 ANNI E 
+SUCCESSIVAMENTE VITALIZIA AL TASSO TECNICO DELLO 0% 
+  
+MASCHI e FEMMINE 
+Età al 
+pensionamento 
+Rateazione rendita 
+Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+50 0,02522 0,02506 0,02501 0,02499 0,02496 0,02493 
+51 0,02585 0,02568 0,02563 0,02560 0,02557 0,02555 
+52 0,02650 0,02633 0,02627 0,02624 0,02621 0,02619 
+53 0,02719 0,02701 0,02695 0,02692 0,02689 0,02686 
+54 0,02791 0,02772 0,02765 0,02762 0,02759 0,02756 
+55 0,02866 0,02846 0,02840 0,02836 0,02833 0,02830 
+56 0,02946 0,02925 0,02918 0,02914 0,02911 0,02907 
+57 0,03030 0,03007 0,03000 0,02996 0,02993 0,02989 
+58 0,03118 0,03095 0,03087 0,03083 0,03079 0,03075 
+59 0,03211 0,03186 0,03178 0,03174 0,03170 0,03166 
+60 0,03310 0,03284 0,03275 0,03271 0,03266 0,03262 
+61 0,03414 0,03386 0,03377 0,03372 0,03368 0,03363 
+62 0,03525 0,03495 0,03485 0,03480 0,03475 0,03470 
+63 0,03642 0,03610 0,03599 0,03594 0,03589 0,03584 
+64 0,03765 0,03732 0,03721 0,03715 0,03710 0,03704 
+65 0,03897 0,03861 0,03849 0,03843 0,03837 0,03832 
+66 0,04036 0,03998 0,03986 0,03979 0,03973 0,03967 
+67 0,04185 0,04144 0,04131 0,04124 0,04117 0,04111 
+68 0,04343 0,04299 0,04285 0,04278 0,04271 0,04264 
+69 0,04510 0,04464 0,04449 0,04441 0,04434 0,04426 
+70 0,04689 0,04640 0,04623 0,04615 0,04607 0,04599 
+71 0,04879 0,04826 0,04809 0,04800 0,04792 0,04783 
+72 0,05080 0,05024 0,05005 0,04996 0,04987 0,04978 
+73 0,05293 0,05233 0,05213 0,05204 0,05194 0,05184 
+74 0,05517 0,05454 0,05433 0,05423 0,05412 0,05402 
+75 0,05752 0,05686 0,05664 0,05653 0,05642 0,05631 
+76 0,05999 0,05929 0,05906 0,05894 0,05883 0,05871 
+77 0,06256 0,06182 0,06158 0,06146 0,06134 0,06122 
+78 0,06521 0,06444 0,06419 0,06406 0,06394 0,06382 
+ 
+Dal al Age Shifting 
+01/01/1900 31/12/1907 7 
+01/01/1908 31/12/1917 6 
+01/01/1918 31/12/1922 5 
+01/01/1923 31/12/1927 4 
+01/01/1928 31/12/1940 3 
+01/01/1941 31/12/1948 2 
+01/01/1949 31/12/1957 1
+=== pagina 28 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 28 di 46 
+01/01/1958 31/12/1966 0 
+01/01/1967 31/12/1977 -1 
+01/01/1978 31/12/1988 -2 
+01/01/1989 31/12/1999 -3 
+01/01/2000 31/12/2011 -4 
+01/01/2012 31/12/2020 -5 
+01/01/2021 oltre -6 
+ 
+La tavola demografica A62U Indifferenziata per sesso richiede la rettifica dell’età effettiva dell’aderente, calco-
+lata in anni e mesi compiuti, invecchiandola o ringiovanendola sommando algebricamente la rettifica (in anni) 
+corrispondente alla data di nascita contenuta nella Tabella di rettifica dell’età (ottenendo così un’“età di calcolo”). 
+ 
+Il coefficiente di conversione per l’età in anni e mesi, rettificata come sopra, è ottenuto per interpolazione lineare 
+dei coefficienti relativi alle età intere superiore e inferiore rispetto all’età rettificata stessa. 
+ 
+Basi tecniche e caricamenti 
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico dello 0%) è stata adot-
+tata la tavola di sopravvivenza “A62U” con un caricamento dello 0,90%.
+=== pagina 29 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 29 di 46 
+Allegato «E» all’Allegato n. 2 al Regolamento 
+ 
+TABELLA DEI COEFFICIENTI DI CONVERSIONE DEL CAPITALE IN RENDITA CONTROASSICURATA 
+AL TASSO TECNICO DEL 1% 
+ 
+MASCHI e FEMMINE 
+Età al 
+pensionamento 
+Rateazione rendita 
+Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+50 0,02931 0,02907 0,02899 0,02895 0,02891 0,02887 
+51 0,02981 0,02956 0,02948 0,02944 0,02938 0,02934 
+52 0,03034 0,03006 0,02997 0,02993 0,02988 0,02984 
+53 0,03086 0,03059 0,03050 0,03045 0,03041 0,03037 
+54 0,03143 0,03115 0,03105 0,03101 0,03092 0,03088 
+55 0,03202 0,03168 0,03158 0,03153 0,03149 0,03144 
+56 0,03259 0,03228 0,03217 0,03212 0,03207 0,03202 
+57 0,03322 0,03290 0,03280 0,03275 0,03263 0,03258 
+58 0,03389 0,03348 0,03337 0,03331 0,03326 0,03320 
+59 0,03450 0,03414 0,03403 0,03397 0,03391 0,03386 
+60 0,03521 0,03484 0,03472 0,03466 0,03461 0,03444 
+61 0,03596 0,03546 0,03533 0,03526 0,03520 0,03513 
+62 0,03661 0,03620 0,03606 0,03600 0,03593 0,03587 
+63 0,03740 0,03698 0,03684 0,03678 0,03671 0,03664 
+64 0,03825 0,03762 0,03747 0,03739 0,03732 0,03725 
+65 0,03893 0,03845 0,03829 0,03821 0,03814 0,03806 
+66 0,03982 0,03933 0,03917 0,03909 0,03901 0,03894 
+67 0,04076 0,04027 0,04011 0,03970 0,03961 0,03953 
+68 0,04178 0,04087 0,04069 0,04061 0,04052 0,04043 
+69 0,04242 0,04185 0,04167 0,04158 0,04149 0,04140 
+70 0,04347 0,04290 0,04272 0,04263 0,04254 0,04246 
+71 0,04461 0,04343 0,04322 0,04312 0,04302 0,04292 
+72 0,04516 0,04450 0,04430 0,04420 0,04410 0,04401 
+73 0,04632 0,04568 0,04548 0,04539 0,04530 0,04520 
+74 0,04760 0,04699 0,04681 0,04575 0,04564 0,04553 
+75 0,04904 0,04730 0,04708 0,04697 0,04687 0,04677 
+76 0,04933 0,04866 0,04846 0,04837 0,04828 0,04819 
+77 0,05081 0,05022 0,05005 0,04997 0,04989 0,04982 
+78 0,05253 0,05033 0,05013 0,05003 0,04994 0,04985 
+ 
+dal al Age Shifting 
+01/01/1900 31/12/1907 7 
+01/01/1908 31/12/1917 6 
+01/01/1918 31/12/1922 5 
+01/01/1923 31/12/1927 4 
+01/01/1928 31/12/1940 3 
+01/01/1941 31/12/1948 2 
+01/01/1949 31/12/1957 1
+=== pagina 30 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 30 di 46 
+01/01/1958 31/12/1966 0 
+01/01/1967 31/12/1977 -1 
+01/01/1978 31/12/1988 -2 
+01/01/1989 31/12/1999 -3 
+01/01/2000 31/12/2011 -4 
+01/01/2012 31/12/2020 -5 
+01/01/2021 oltre -6 
+ 
+La tavola demografica A62U Indifferenziata per sesso richiede la rettifica dell’età effettiva dell’aderente, calco-
+lata in anni e mesi compiuti, invecchiandola o ringiovanendola sommando algebricamente la rettifica (in anni) 
+corrispondente alla data di nascita contenuta nella Tabella di rettifica dell’età (ottenendo così un’“età di calcolo”). 
+ 
+Il coefficiente di conversione per l’età in anni e mesi, rettificata come sopra, è ottenuto per interpolazione lineare 
+dei coefficienti relativi alle età intere superiore e inferiore rispetto all’età rettificata stessa. 
+ 
+Basi tecniche e caricamenti 
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico del 1%) è stata adottata 
+la tavola di sopravvivenza “A62U” con un caricamento dello 0,90%.
+=== pagina 31 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 31 di 46 
+Allegato «F» all’Allegato n. 2 al Regolamento 
+ 
+TABELLA DEI COEFFICIENTI DI CONVERSIONE DEL CAPITALE IN RENDITA ANNUA VITALIZIA CON 
+RADDOPPIO IN CASO DI NON AUTOSUFFICIENZA AL TASSO TECNICO DEL LO 0% 
+ 
+MASCHI e FEMMINE 
+Età al 
+pensionamento 
+Rateazione rendita 
+Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+50 0,02414 0,02404 0,02401 0,02399 0,02398 0,02396 
+51 0,02472 0,02461 0,02458 0,02456 0,02454 0,02453 
+52 0,02532 0,02521 0,02517 0,02515 0,02514 0,02512 
+53 0,02595 0,02583 0,02580 0,02578 0,02576 0,02574 
+54 0,02661 0,02649 0,02645 0,02643 0,02641 0,02639 
+55 0,02730 0,02718 0,02713 0,02711 0,02709 0,02707 
+56 0,02803 0,02790 0,02785 0,02783 0,02781 0,02779 
+57 0,02880 0,02866 0,02861 0,02859 0,02856 0,02854 
+58 0,02960 0,02945 0,02941 0,02938 0,02936 0,02933 
+59 0,03045 0,03030 0,03025 0,03022 0,03019 0,03017 
+60 0,03135 0,03119 0,03113 0,03111 0,03108 0,03105 
+61 0,03231 0,03213 0,03207 0,03204 0,03201 0,03198 
+62 0,03331 0,03312 0,03306 0,03303 0,03300 0,03297 
+63 0,03438 0,03418 0,03411 0,03408 0,03405 0,03401 
+64 0,03551 0,03529 0,03522 0,03519 0,03515 0,03512 
+65 0,03671 0,03648 0,03640 0,03637 0,03633 0,03629 
+66 0,03798 0,03774 0,03766 0,03762 0,03758 0,03754 
+67 0,03935 0,03909 0,03900 0,03896 0,03892 0,03887 
+68 0,04080 0,04052 0,04043 0,04039 0,04034 0,04029 
+69 0,04236 0,04206 0,04196 0,04192 0,04187 0,04182 
+70 0,04404 0,04371 0,04361 0,04355 0,04350 0,04345 
+71 0,04584 0,04549 0,04537 0,04532 0,04526 0,04520 
+72 0,04778 0,04740 0,04727 0,04721 0,04715 0,04708 
+73 0,04986 0,04945 0,04932 0,04925 0,04918 0,04911 
+74 0,05212 0,05167 0,05152 0,05145 0,05137 0,05130 
+75 0,05455 0,05406 0,05390 0,05382 0,05374 0,05366 
+76 0,05720 0,05666 0,05648 0,05639 0,05630 0,05622 
+77 0,06007 0,05947 0,05928 0,05918 0,05908 0,05899 
+78 0,06319 0,06253 0,06231 0,06221 0,06210 0,06199 
+ 
+dal al Age Shifting 
+01/01/1900 31/12/1907 7 
+01/01/1908 31/12/1917 6 
+01/01/1918 31/12/1922 5 
+01/01/1923 31/12/1927 4 
+01/01/1928 31/12/1940 3 
+01/01/1941 31/12/1948 2
+=== pagina 32 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 32 di 46 
+01/01/1949 31/12/1957 1 
+01/01/1958 31/12/1966 0 
+01/01/1967 31/12/1977 -1 
+01/01/1978 31/12/1988 -2 
+01/01/1989 31/12/1999 -3 
+01/01/2000 31/12/2011 -4 
+01/01/2012 31/12/2020 -5 
+01/01/2021 oltre -6 
+ 
+La tavola demografica A62U Indifferenziata per sesso richiede la rettifica dell’età effettiva dell’aderente, calco-
+lata in anni e mesi compiuti, invecchiandola o ringiovanendola sommando algebricamente la rettifica (in anni) 
+corrispondente alla data di nascita contenuta nella Tabella di rettifica dell’età (ottenendo così un’“età di calcolo”). 
+ 
+Il coefficiente di conversione per l’età in anni e mesi, rettificata come sopra, è ottenuto per interpolazione lineare 
+dei coefficienti relativi alle età intere superiore e inferiore rispetto all’età rettificata stessa. 
+ 
+Basi tecniche e caricamenti 
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico dello 0%) è stata adottata 
+la tavola di sopravvivenza “A62U” con un caricamento dello 0,90%.
+=== pagina 33 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 33 di 46 
+Allegato «G» all’Allegato n. 2 al Regolamento 
+REGOLAMENTO DELLA GESTIONE SEPARATA RENDIGEN 
+ 
+1. Il presente Regolamento disciplina il portafoglio di investimenti, gestito separatamente dagli altri attivi 
+detenuti dalla Società, denominato RENDIGEN (la Gestione Separata). Tale Regolamento è parte in-
+tegrante delle condizioni di assicurazione.  
+2. La Gestione Separata è denominata in Euro.  
+3. La Gestione Separata è riservata ai contratti e alle opzioni contrattuali che prevedono l’erogazione di 
+rendite vitalizie.  
+ 
+OBIETTIVI DELLA GESTIONE 
+4. La Società, nella gestione del portafoglio, attua una politica d’investimento prudente orientata verso titoli 
+mobiliari di tipo obbligazionario che mira a massimizzare il rendimento nel medio e lungo termine mante-
+nendo costantemente un basso livello di rischiosità del portafoglio e perseguendo la stabilità dei rendimenti 
+nel corso del tempo. La scelta degli investimenti è determinata sulla base della struttura degli impegni 
+assunti nell’ambito dei contratti assicurativi collegati alla gestione e dall’analisi degli scenari economici e 
+dei mercati di investimento. Nel breve termine, e nel rispetto di tali criteri, è comunque possibile cogliere 
+eventuali opportunità di rendimento.  
+Le principali tipologie di investimento sono: obbligazionario, immobiliare e azionario, come di seguito spe-
+cificato; l’investimento potrà anche essere indiretto attraverso l’utilizzo di OICR (Organismi di Investimento 
+Collettivo del Risparmio, tra cui ad esempio i fondi comuni di investimento) armonizzati.  
+ 
+TIPOLOGIE DEGLI INVESTIMENTI 
+5. Investimenti obbligazionari  
+L’investimento in titoli obbligazionari, prevalentemente con rating investment grade, punta ad una diversifi-
+cazione per settori, emittenti, scadenze, e a garantire un adeguato grado di liquidabilità. In questo ambito 
+sono ricompresi anche strumenti di investimento di breve e brevissimo termine quali depositi bancari, pronti 
+contro termine o fondi monetari. 
+ 
+Investimenti immobiliari  
+La gestione degli investimenti comprenderà attività del comparto immobiliare, incluse le azioni e le quote di 
+Società del medesimo settore.  
+ 
+Investimenti azionari  
+Gli investimenti in strumenti finanziari di tipo azionario sono effettuati prevalentemente in titoli quotati nei 
+mercati ufficiali o regolamentati, riconosciuti e regolarmente operanti. La selezione dei singoli titoli azionari 
+è basata sia sull’analisi di dati macroeconomici (tra i quali ciclo economico, andamento dei tassi di interesse 
+e delle valute, politiche monetarie e fiscali) sia sullo studio dei fondamentali delle singole Società (dati 
+reddituali, potenzialità di crescita e posizionamento sul mercato).  
+Vi è anche la possibilità di investire in altri strumenti finanziari. 
+Nella gestione degli investimenti, la Società si attiene ai seguenti limiti:  
+Investimenti obbligazionari  massimo 100%  
+Investimenti immobiliari  massimo 40%  
+Investimenti azionari  massimo 35%  
+Investimenti in altri strumenti finanziari  massimo 10%
+=== pagina 34 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 34 di 46 
+Nel rispetto di quanto previsto dalla vigente normativa di settore, possono inoltre essere effettuati inve-
+stimenti in strumenti finanziari derivati. 
+Possono infine essere effettuati investimenti in attivi emessi dalle controparti di cui all’art. 5 del Rego-
+lamento IVASS 27 maggio 2008, n. 25 nel limite complessivo massimo del 20% dell’attivo della Ge-
+stione Separata. In tale limite non rientrano gli investimenti in strumenti collettivi di investimento mobi-
+liare o immobiliare istituiti, promossi o gestiti dalle controparti sopra citate per i quali la normativa di 
+riferimento o i relativi regolamenti di gestione non consentano di effettuare operazioni potenzialmente 
+suscettibili di generare conflitti di interesse con Società del gruppo di appartenenza della SGR oltre il 
+limite del 20% del patrimonio dell’OICR. 
+L’Euro è la principale valuta dei titoli presenti nella Gestione Separata. Nel rispetto dei criteri previsti 
+dalla normativa di settore è possibile l’utilizzo di titoli anche in altre valute, mantenendo un basso livello 
+di rischiosità. 
+ 
+VALORE DELLA GESTIONE E ONERI 
+6. Il valore delle attività della Gestione Separata non potrà essere inferiore alle riserve matematiche, co-
+stituite dall’Impresa, al fine di adempiere agli obblighi contrattuali derivanti dai contratti le cui prestazioni 
+sono rivalutabili in base ai rendimenti realizzati dalla gestione stessa.  
+7. Sulla Gestione Separata possono gravare unicamente le spese relative all’attività di verifica contabile 
+effettuata dalla Società di revisione e quelle effettivamente sostenute per l’acquisto e la vendita delle 
+attività della Gestione Separata. Non sono consentite altre forme di prelievo, in qualsiasi modo effet-
+tuate. 
+ 
+RENDIMENTO MEDIO E PERIODO DI OSSERVAZIONE  
+8. Il periodo di osservazione per la determinazione del tasso medio di rendimento decorre dal 1° gennaio 
+al 31 dicembre di ogni anno.  
+9. Il rendimento della Gestione Separata beneficia di eventuali utili derivanti dalla retrocessione di com-
+missioni o di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi riconducibili al patri-
+monio della Gestione Separata.  
+10. Il tasso medio di rendimento della Gestione Separata, relativo al periodo di osservazione annuale, è 
+determinato rapportando il risultato finanziario della Gestione Separata alla giacenza media delle attività 
+della Gestione Separata stessa. Analogamente, al termine di ogni mese, viene determinato il tasso 
+medio di rendimento realizzato nei dodici mesi precedenti.  
+Il valore di iscrizione nel libro mastro di una attività di nuova acquisizione è pari al prezzo di acquisto. Il 
+risultato finanziario della Gestione Separata è costituito dai proventi finanziari di competenza conseguiti 
+dalla gestione stessa, comprensivi degli scarti di emissione e di negoziazione di competenza, dagli utili 
+realizzati e dalle perdite sofferte nel periodo di osservazione oltre che degli utili e dei proventi di cui al 
+precedente paragrafo 9. Il risultato finanziario è calcolato al netto delle spese di cui al precedente pa-
+ragrafo 7 effettivamente sostenute ed al lordo delle ritenute di acconto fiscale. Gli utili e le perdite da 
+realizzo sono determinati con riferimento al valore di iscrizione delle corrispondenti attività nel libro 
+mastro della Gestione Separata.  
+La giacenza media delle attività della Gestione Separata è pari alla somma della giacenza media nel 
+periodo di osservazione dei depositi in numerario, degli investimenti e di ogni altra della Gestione Se-
+parata. La giacenza media è determinata in base al valore di iscrizione nel libero mastro della Gestione 
+Separata. 
+ 
+CERTIFICAZIONE DELLA GESTIONE ED EVENTUALI MODIFICHE  
+11. La Gestione Separata è annualmente sottoposta a certificazione da parte di una Società di revisione 
+iscritta nell’apposito registro previsto dalla normativa vigente.
+=== pagina 35 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 35 di 46 
+12. Il presente Regolamento potrà essere modificato per essere adeguato alla normativa primaria e secon-
+daria vigente oppure a fronte di mutati criteri gestionali con esclusione, in tale ultimo caso, di modifiche 
+meno favorevoli per il contraente.  
+13. La Gestione Separata potrà essere oggetto di fusione o scissione con altre gestioni separate costituite 
+dalla Società aventi caratteristiche similari e politiche di investimento omogenee. La fusione o la scis-
+sione persegue in ogni caso l’interesse dei contraenti e non comporta oneri aggiuntivi a carico di questi 
+ultimi.
+=== pagina 36 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 36 di 46 
+ALLEGATO N. 3 – CONDIZIONI DELLE PRESTAZIONI ASSICURATIVE ACCESSORIE 
+ 
+CONDIZIONI DI ASSICURAZIONE DELLA PRESTAZIONE ACCESSORIA IN CASO DI PREMORIENZA 
+(Art. 14-bis, comma 1, lettera a), del Regolamento) 
+ 
+Art. 1 - Prestazioni assicurate 
+1. Queste condizioni disciplinano un’assicurazione monoannuale in caso di morte dell’Aderente Assicu-
+rato rinnovabile ogni anno. La copertura viene prestata a fronte della contribuzione di un importo, al 
+netto di eventuali imposte e tasse, pari all’ammontare del premio scelto dall’aderente. Il relativo capitale 
+si determina dividendo l’ammontare del premio prescelto per il tasso all’età alla data del versamento 
+annuale dell’aderente, riportato nella Tabella allegata. L’importo del premio, oltre ad imposte e tasse 
+relative, viene detratto annualmente in unica soluzione dal contributo di cui all’art. 9 del Regolamento. 
+L’impresa di assicurazione si impegna a corrispondere il capitale assicurato agli aventi diritto, sempre-
+ché l’Aderente Assicurato abbia versato la contribuzione sopra indicata entro il mese di febbraio (ovvero 
+entro due mesi dall’attivazione della copertura, nel caso questa avvenga in corso d’anno) . In caso di 
+mancata contribuzione, la copertura, è sospesa. 
+2. L’impresa di assicurazione accetta il rischio solo previa sottoscrizione delle dichiarazioni riportate 
+nell’apposito modulo. 
+3. L’assicurazione decorre dalle ore 24 del giorno successivo a quello in cui l’aderente ha richiesto la 
+copertura e si estingue alle ore 24 del 31 dicembre. La copertura si intende tacitamente rinnovata, con 
+decorrenza 1° gennaio, salvo disdetta pervenuta dall’aderente. 
+4. La prestazione accessoria prevede il versamento di un premio, a scelta dell’ Aderente, secondo le op-
+zioni di seguito riportate in funzione dell’età: 
+Età’ Opzioni di premio 
+18 – 28 50 € 
+29 – 40 50 €; 100 € 
+41 – 45 100 €; 150 € 
+46 – 50 150 €; 200 €; 250 € 
+50 – 55 200 €; 250 €; 300 € 
+56 – 60 250 €; 300 € 
+L’Aderente che intenda accedere all a prestazione accessoria deve indicare l’ammontare del premio 
+scelto. Nel caso in cui, in sede di rinnovo tacito, l’ammontare del premio scelto dall’ Aderente non sia 
+tra le opzioni disponibili, il premio utilizzato sarà il minimo previsto per l’età dell’Aderente. 
+5. L’assicurazione non è prestata a coloro che abbiano superato il 60° anno di età. 
+ 
+Art. 2 - Cessazione della garanzia 
+1. In caso di vita dell’Aderente Assicurato, alla prima ricorrenza annuale della data di contribuzione l’assi-
+curazione si estingue. 
+2. La garanzia cessa anticipatamente rispetto a tale termine in caso di uscita dell’Aderente Assicurato dal 
+Fondo. Qualora l’uscita dalla copertura avvenga prima della scadenza annuale, per motivi diversi 
+dall’evento assicurato, l’impresa di assicurazione restituirà all’Aderente Assicurato il rateo di premio al 
+relativo alla frazione d’anno per il quale la copertura non è più richiesta. 
+ 
+Art. 3 - Rischio di morte 
+1. L’assicurazione è operante, qualunque possa esserne la causa, senza limiti territoriali e senza tener 
+conto dei cambiamenti di professione dell'Aderente Assicurato, salvo le esclusioni di cui al successivo 
+punto 2. 
+2. E’ esclusa dall’assicurazione la morte causata da:
+=== pagina 37 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 37 di 46 
+a) delitto doloso dell’Aderente Assicurato o del Beneficiario; 
+b) partecipazione dell’Aderente Assicurato a delitti dolosi; 
+c) partecipazione non attiva dell’assicurato ad atti di guerra, dichiarata o non dichiarata, o guerra 
+civile, se: 
+- l’assicurato si trova già nel territorio interessato dagli atti di guerra e il decesso avviene dopo 
+14 giorni dall’inizio delle ostilità  
+- al momento dell’arrivo dell’assicurato in un paese dove c’è una situazione di guerra o similari; 
+d) eventi causati da armi nucleari, incidenti nucleari o esposizione alle relative radiazioni; 
+e) guida di veicoli e natanti a motore senza patente specifica; la copertura è attiva se la patente è 
+scaduta da non più di sei mesi; 
+f) incidente di volo, se l’assicurato è a bordo di mezzi non autorizzati al volo o con pilota senza 
+specifico brevetto in qualità di membro dell’equipaggio; 
+g) suicidio, se avviene nei primi due anni dall'entrata in vigore dell'assicurazione o nei primi dodici 
+mesi dall’eventuale riattivazione della copertura; 
+h) attività sportiva, non dichiarata come praticata alla data della sottoscrizione del modulo di ade-
+sione o successivamente. 
+In questi casi, ad eccezione di quello indicato alla lettera a), per il quale non è prevista alcuna presta-
+zione, l’impresa di assicurazione corrisponde una prestazione pari all’ultimo versamento di premio ef-
+fettuato, in luogo di quella prevista all’art.1, comma 1. 
+ 
+Art. 4 - Beneficiari 
+1. L’Aderente Assicurato indica il Beneficiario; può modificare l’indicazione in ogni momento scrivendo 
+all’impresa di assicurazione o all’Agenzia o per testamento. 
+La designazione del Beneficiario non può essere modificata nei seguenti casi:  
+- dopo che l’Aderente Assicurato ed il Beneficiario hanno dichiarato in forma scritta all’impresa di 
+assicurazione, rispettivamente, la rinuncia al potere di revoca e l'accettazione del beneficio;  
+- dopo il decesso dell’Aderente Assicurato. 
+In questi casi ogni variazione al contratto che influisce sui diritti del Beneficiario ne richiede l'assenso 
+scritto. 
+2. Tutte le richieste di pagamento devono essere inviate in forma scritta all’impresa di assicurazione o 
+all’Agenzia, accompagnate da: 
+- documenti necessari per verificare l’obbligo di pagamento e per individuare gli aventi diritto; 
+- documento di identità e codice fiscale del richiedente (se non già presentati o scaduti).  
+Documenti necessari per pagamenti per decesso dell’Aderente Assicurato: 
+- certificato di morte dell’Aderente o, se gli aventi diritto sono gli eredi, autocertificazione della morte 
+dell’Aderente sottoscritta da un erede2; 
+- relazione del medico curante sulle cause e circostanze del decesso e sulle condizioni di salute 
+dell’assicurato3, nonché l’ulteriore documentazione eventualmente richiesta dall’impresa di assicu-
+razione se il caso specifico presenta particolari esigenze istruttorie; 
+- dichiarazione sostitutiva di atto di notorietà4 dalla quale risulti: 
+o se l’Aderente Assicurato ha lasciato o meno testamento e, in caso affermativo, che il testa-
+mento pubblicato è l’ultimo, è valido e non è stato impugnato; 
+o l’elenco degli eredi legittimi e testamentari dell’aderente, se i beneficiari sono gli eredi; 
+- copia conforme del verbale di pubblicazione testamento olografo o dell’atto di registrazione del 
+ 
+2 L’autocertificazione deve contenere l’autorizzazione all’impresa di assicurazione a effettuare le opportune verifiche presso la Pubblica 
+Amministrazione. 
+3 È possibile utilizzare un modulo messo a disposizione dall’impresa di assicurazione 
+4 Redatta in conformità all’art. 21 c. 2 del D.P.R. 445/2000, cioè con firma autenticata da un pubblico ufficiale
+=== pagina 38 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 38 di 46 
+testamento pubblico.
+=== pagina 39 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 39 di 46 
+TABELLA 
+TASSI E RELATIVI CAPITALI ASSICURATI IN FUNZIONE DEL PREMIO SCELTO 
+Età Tasso 
+lordo 
+Premio 
+50 100 150 200 250 300 
+18 0,00057 87.719,30           
+19 0,00060 83.333,33           
+20 0,00064 78.125,00           
+21 0,00066 75.757,58           
+22 0,00069 72.463,77           
+23 0,00072 69.444,44           
+24 0,00070 71.428,57           
+25 0,00071 70.422,54           
+26 0,00073 68.493,15           
+27 0,00074 67.567,57           
+28 0,00076 65.789,47           
+29 0,00080 62.500,00 125.000,00         
+30 0,00079 63.291,14 126.582,28         
+31 0,00080 62.500,00 125.000,00         
+32 0,00079 63.291,14 126.582,28         
+33 0,00081 61.728,40 123.456,79         
+34 0,00082 60.975,61 121.951,22         
+35 0,00088 56.818,18 113.636,36         
+36 0,00092 54.347,83 108.695,65         
+37 0,00100 50.000,00 100.000,00         
+38 0,00104 48.076,92 96.153,85         
+39 0,00115 43.478,26 86.956,52         
+40 0,00126 39.682,54 79.365,08         
+41 0,00138   72.463,77 108.695,65       
+42 0,00149   67.114,09 100.671,14       
+43 0,00162   61.728,40 92.592,59       
+44 0,00175   57.142,86 85.714,29       
+45 0,00195   51.282,05 76.923,08       
+46 0,00211     71.090,05 94.786,73 118.483,41   
+47 0,00232     64.655,17 86.206,90 107.758,62   
+48 0,00250     60.000,00 80.000,00 100.000,00   
+49 0,00276     54.347,83 72.463,77 90.579,71   
+50 0,00305     49.180,33 65.573,77 81.967,21   
+51 0,00342       58.479,53 73.099,42 87.719,30 
+52 0,00376       53.191,49 66.489,36 79.787,23 
+53 0,00418       47.846,89 59.808,61 71.770,33 
+54 0,00461       43.383,95 54.229,93 65.075,92 
+55 0,00519       38.535,65 48.169,56 57.803,47 
+56 0,00574         43.554,01 52.264,81 
+57 0,00638         39.184,95 47.021,94 
+58 0,00705         35.460,99 42.553,19 
+59 0,00790         31.645,57 37.974,68 
+60 0,00836         29.904,31 35.885,17
+=== pagina 40 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 40 di 46 
+CONDIZIONI DI ASSICURAZIONE DELLA PRESTAZIONE ACCESSORIA IN CASO DI PREMORIENZA O 
+INVALIDITA’ TOTALE E PERMANENTE 
+(Art. 14-bis, comma 1, lettera b), del Regolamento) 
+ 
+Art. 1 - Prestazioni assicurate 
+1. Queste condizioni disciplinano un’assicurazione monoannuale in caso di morte o invalidità totale e per-
+manente rinnovabile ogni anno. La copertura viene prestata a fronte della contribuzione di un importo, 
+al netto di eventuali imposte e tasse, pari all’ammontare del premio scelto dall’aderente. Il relativo ca-
+pitale si determina dividendo l’ammontare del premio prescelto per il tasso all’età alla data del versa-
+mento annuale dell’Aderente, riportato nella Tabella allegata. L’importo del premio, viene detratto an-
+nualmente in unica soluzione dal contributo di cui all’art. 9 del Regolamento. L’impresa di assicurazione 
+si impegna a corrispondere il capitale assicurato agli aventi diritto, sempreché l’Aderente Assicurato 
+abbia versato la contribuzione sopra indicata entro il mese di febbraio (ovvero entro due mesi dall’atti-
+vazione della copertura, nel caso questa avvenga in corso d’anno). In caso di mancata contribuzione, 
+la copertura, è sospesa. 
+2. L’impresa di assicurazione accetta il rischio di cui alla presente assicurazione solo previa sottoscrizione 
+delle dichiarazioni riportate nell’apposito modulo. 
+3. L’assicurazione decorre dalle ore 24 del giorno successivo a quello in cui l’aderente ha richiesto la 
+copertura e si estingue alle ore 24 del 31 dicembre. La copertura si intende tacitamente rinnovata, con 
+decorrenza 1° gennaio, salvo disdetta pervenuta dall’aderente. 
+4. La prestazione accessoria prevede il versamento di un premio, a scelta dell’ Aderente, secondo le op-
+zioni di seguito riportate in funzione dell’età: 
+Età’ Opzioni di premio 
+18 – 21 50 € 
+22 – 36 50 €; 100 € 
+37 – 39 100 €; 150 € 
+40 – 41 100 €; 150 €; 200 € 
+42 100 €; 150 €; 200 €; 250 € 
+43 100 €; 150 €; 200 €; 250 €; 300 € 
+44 - 45 150 €; 200 €; 250 €; 300 € 
+46 - 47 200 €; 250 €; 300 € 
+48 – 49 250 €; 300 € 
+50 300 € 
+L’Aderente che intenda accedere all a prestazione accessoria deve indicare l’ammontare del premio 
+scelto. Nel caso in cui, in sede di rinnovo tacito, l’ammontare del premio scelto dall’Aderente non sia 
+tra le opzioni disponibili, il premio utilizzato sarà il minimo previsto per l’età dell’Aderente. 
+5. L’assicurazione non viene prestata a coloro che abbiano superato il 50° anno di età. 
+ 
+Art. 2 - Cessazione della garanzia 
+1. In caso di vita dell’Aderente Assicurato, alla prima ricorrenza annuale della data di contribuzione l’assi-
+curazione si estingue. 
+2. La garanzia cesserà anticipatamente rispetto a tale termine in caso di uscita dell’Aderente Assicurato 
+dal Fondo. Qualora l’uscita dalla copertura avvenga prima della scadenza annuale, per motivi diversi 
+dall’evento assicurato, l’impresa di assicurazione restituirà all’Aderente Assicurato il rateo di premio al 
+relativo alla frazione d’anno per il quale la copertura non è più richiesta. 
+ 
+Art. 3 - Rischio di morte 
+1. L’assicurazione è operante, qualunque possa esserne la causa, senza limiti territoriali e senza tener
+=== pagina 41 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 41 di 46 
+conto dei cambiamenti di professione dell'Aderente Assicurato, salvo le esclusioni di cui al successivo 
+punto 2. 
+2. E’ esclusa dall’assicurazione la morte causata da: 
+a) delitto doloso dell’Aderente Assicurato o del Beneficiario; 
+b) partecipazione dell’Aderente Assicurato a delitti dolosi; 
+c) partecipazione non attiva dell’assicurato ad atti di guerra, dichiarata o non dichiarata, o guerra 
+civile, se: 
+- l’assicurato si trova già nel territorio interessato dagli atti di guerra e il decesso avviene dopo 
+14 giorni dall’inizio delle ostilità  
+- al momento dell’arrivo dell’assicurato in un paese dove c’è una situazione di guerra o similari; 
+d) eventi causati da armi nucleari, incidenti nucleari o esposizione alle relative radiazioni;  
+e) guida di veicoli e natanti a motore senza patente specifica; la copertura è attiva se la patente è 
+scaduta da non più di sei mesi; 
+f) incidente di volo, se l’assicurato è a bordo di mezzi non autorizzati al volo o con pilota senza 
+specifico brevetto in qualità di membro dell’equipaggio; 
+g) suicidio, se avviene nei primi due anni dall'entrata in vigore dell'assicurazione o nei primi dodici 
+mesi dall’eventuale riattivazione della copertura; 
+h) attività sportiva, non dichiarata come praticata alla data della sottoscrizione del modulo di ade-
+sione o successivamente. 
+In questi casi, ad eccezione di quello indicato alla lettera a), per il quale non è prevista alcuna presta-
+zione, l’impresa di assicurazione corrisponde una prestazione pari all’ultimo versamento di premio ef-
+fettuato, in luogo di quella prevista all’art.1, comma 1. 
+ 
+Art. 4 – Rischio invalidità totale e permanente 
+1. Si intende colpito da invalidità totale e permanente l’Aderente Assicurato che, per sopravvenuta malattia 
+organica o lesione fisica, comunque indipendente dalla sua volontà ed oggettivamente accertabile, ab-
+bia perduto, in modo presumibilmente totale e permanente, la capacità all’esercizio della propria pro-
+fessione o mestiere e di ogni altro lavoro confacente alle sue attitudini e abitudini.  
+2. Sono esclusi dall’assicurazione i casi di invalidità totale e permanente dovuti alle stesse cause per le 
+quali il precedente art. 3, comma 2 esclude la copertura del rischio morte. In questi casi, ad eccezione 
+di quello indicato alla lettera a), per il quale non è prevista alcuna prestazione, l’impresa di assicurazione 
+corrisponde una prestazione pari all’ultimo versamento di premio effettuato, in luogo di quella prevista 
+all’art.1, comma 1. 
+3. Verificatasi l’invalidità totale e permanente dell’Aderente Assicurato, lo stesso o altra persona che lo 
+rappresenti, deve chiederne per iscritto il riconoscimento all’impresa di assicurazione, attraverso l’Agen-
+zia cui è assegnato il contratto, unitamente ad un rapporto particolareggiato del medico curante (o del 
+medico specialista) sulle cause e sul decorso della malattia o della lesione che ha prodotto l’invalidità. 
+Ai fini dell’accertamento dell’invalidità, l’Aderente Assicurato deve fornire tutte le informazioni sulle 
+cause e conseguenza dell’invalidità. 
+L’impresa di assicurazione si impegna ad accertare l'invalidità entro tre mesi dalla data dell a lettera 
+raccomandata di cui sopra. Il decesso dell'Aderente Assicurato che intervenga prima che venga rico-
+nosciuta l'invalidità equivale ad avvenuto riconoscimento dello stato d'invalidità.  
+4. L’impresa di assicurazione si riserva di richiedere all’Aderente Assicurato informazioni sulle predette 
+cause e ulteriore documentazione medica in considerazione di specifiche esigenze istruttorie, scio-
+gliendo al tempo stesso dal segreto professionale i medici che lo hanno visitato e curato. Ultimati i 
+controlli medici l ’impresa di assicurazione comunica per iscritto all’Aderente Assicurato, entro e non 
+oltre il periodo di accertamento, se riconosce o meno lo stato di invalidità
+=== pagina 42 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 42 di 46 
+ 
+Art. 5 - Beneficiari 
+1. L’Aderente Assicurato indica il Beneficiario; può modificare l’indicazione in ogni momento scrivendo 
+all’impresa di assicurazione o all’Agenzia o per testamento. 
+La designazione del Beneficiario non può essere modificata nei seguenti casi:  
+- dopo che l’Aderente Assicurato ed il Beneficiario hanno dichiarato in forma scritta all’impresa di 
+assicurazione, rispettivamente, la rinuncia al potere di revoca e l'accettazione del beneficio;  
+- dopo il decesso dell’Aderente Assicurato; 
+- dopo che, verificatosi l'evento previsto nell'art.1, il Beneficiario abbia comunicato per iscritto all’im-
+presa di assicurazione di volersi avvalere del beneficio. 
+In questi casi ogni variazione al contratto che influisce sui diritti del Beneficiario ne richiede l'assenso 
+scritto. 
+2. Tutte le richieste di pagamento devono essere inviate in forma scritta all’impresa di assicurazione o 
+all’Agenzia, accompagnate da: 
+- documenti necessari per verificare l’obbligo di pagamento e per individuare gli aventi diritto; 
+- documento di identità e codice fiscale del richiedente (se non già presentati o scaduti).  
+Documenti necessari per pagamenti per decesso dell’Aderente Assicurato: 
+- certificato di morte dell’Aderente o, se gli aventi diritto sono gli eredi, autocertificazione della morte 
+dell’Aderente sottoscritta da un erede 5; 
+- relazione del medico curante sulle cause e circostanze del decesso e sulle condizioni di salute 
+dell’assicurato 6, nonché l’ulteriore documentazione eventualmente richiesta dall’impresa di assi-
+curazione se il caso specifico presenta particolari esigenze istruttorie; 
+- dichiarazione sostitutiva di atto di notorietà 7 dalla quale risulti: 
+o se l’Aderente Assicurato ha lasciato o meno testamento e, in caso affermativo, che il testa-
+mento pubblicato è l’ultimo, è valido e non è stato impugnato; 
+o l’elenco degli eredi legittimi e testamentari dell’aderente, se i beneficiari sono gli eredi; 
+- copia conforme del verbale di pubblicazione testamento olografo o dell’atto di registrazione del 
+testamento pubblico. 
+ 
+5 L’autocertificazione deve contenere l’autorizzazione all’impresa di assicurazione a effettuare le opportune verifiche presso la Pubblica 
+Amministrazione. 
+6 È possibile utilizzare un modulo messo a disposizione dall’impresa di assicurazione 
+7 Redatta in conformità all’art. 21 c. 2 del D.P.R. 445/2000, cioè con firma autenticata da un pubblico ufficiale
+=== pagina 43 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 43 di 46 
+TABELLA 
+TASSI E RELATIVI CAPITALI ASSICURATI IN FUNZIONE DEL PREMIO SCELTO 
+Età Tasso 
+lordo 
+Premio 
+50 100 150 200 250 300 
+18 0,00066 75.757,58      
+19 0,00069 72.463,77      
+20 0,00073 68.493,15      
+21 0,00077 64.935,06      
+22 0,00080 62.500,00 125.000,00     
+23 0,00084 59.523,81 119.047,62     
+24 0,00083 60.240,96 120.481,93     
+25 0,00085 58.823,53 117.647,06     
+26 0,00088 56.818,18 113.636,36     
+27 0,00092 54.347,83 108.695,65     
+28 0,00096 52.083,33 104.166,67     
+29 0,00101 49.504,95 99.009,90     
+30 0,00101 49.504,95 99.009,90     
+31 0,00105 47.619,05 95.238,10     
+32 0,00104 48.076,92 96.153,85     
+33 0,00107 46.728,97 93.457,94     
+34 0,00108 46.296,30 92.592,59     
+35 0,00115 43.478,26 86.956,52     
+36 0,00121 41.322,31 82.644,63     
+37 0,00132  75.757,58 113.636,36    
+38 0,00136  73.529,41 110.294,12    
+39 0,00150  66.666,67 100.000,00    
+40 0,00163  61.349,69 92.024,54 122.699,39   
+41 0,00184  54.347,83 81.521,74 108.695,65   
+42 0,00213  46.948,36 70.422,54 93.896,71 117.370,89  
+43 0,00248  40.322,58 60.483,87 80.645,16 100.806,45 120.967,74 
+44 0,00289   51.903,11 69.204,15 86.505,19 103.806,23 
+45 0,00341   43.988,27 58.651,03 73.313,78 87.976,54 
+46 0,00393    50.890,59 63.613,23 76.335,88 
+47 0,00460    43.478,26 54.347,83 65.217,39 
+48 0,00522     47.892,72 57.471,26 
+49 0,00603     41.459,37 49.751,24 
+50 0,00684      43.859,65
+=== pagina 44 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 44 di 46 
+ALLEGATO N. 4 – INTEGRAZIONE AL REGOLAMENTO RIVOLTA AGLI EX FUNZIONARI ED EX 
+AGENTI DELLE COMUNITA’ EUROPEE  
+per poter ricevere, nel rispetto dell’art.12 dell’Allegato VIII dello Statuto dei funzionari dell’Unione Europea, le 
+somme accumulate nel regime pensionistico delle Comunità Europee. 
+ 
+Introduzione 
+L’articolo 12 dell’Allegato VIII dello Statuto dei funzionari dell’Unione Europea (Regolamento del Consiglio n. 
+259/1968, come modificato con successivo Regolamento del Consiglio n. 723/2004 e con  Regolamento del 
+Parlamento Europeo e del Consiglio n. 1080/2010) stabilisce che i funzionari che lascino le istituzioni comuni-
+tarie senza poter beneficiare di una pensione di anzianità, immediata o differita,  possono trasferire quanto ac-
+cumulato nel regime pensionistico delle Comunità Europee (Unione Europea,  Euratom) presso un’assicura-
+zione privata o un fondo pensione nazionale di loro scelta che garantisca, limitatamente a dette somme trasfe-
+rite, che: 
+1. non sia rimborsato il capitale; 
+2. si provveda al versamento di una rendita mensile non prima del sessantesimo anno di età e al più tardi 
+a partire dal sessantaseiesimo; 
+3. siano previste prestazioni in materia di reversibilità; 
+4. un ulteriore trasferimento ad altro fondo sia autorizzato solo all e medesime condizioni di cui ai punti 
+precedenti. 
+ 
+Tale Regolamento è direttamente applicabile in Italia senza che sia necessaria l’emanazione di alcuna dispo-
+sizione nazionale di recepimento, esecuzione ed integrazione. 
+ 
+Il Fondo recepisce tali vincoli in relazione esclusivamente ai soggetti di cui in premessa (di seguito, per brevità, 
+Ex-Agenti) e solo per la prestaz ione corrispondente all’importo maturato presso il regime pensionistico delle 
+Comunità e trasferito al Fondo (di seguito, per brevità, Maturato Comunitario). 
+Le previsioni del Regolamento e della Nota Informativa relative a prestazioni e trasferimenti si intendono  per-
+tanto integrate come segue: 
+a) il diritto alla prestazione pensionistica si acquisisce comunque non prima del sessantesimo anno e, al  
+massimo, non oltre il sessantaseiesimo; 
+b) l’anticipo massimo di 5 anni rispetto alla maturazione dei requisiti per l’accesso alle prestazioni nel  
+regime obbligatorio di appartenenza è esercitabile, non prima del sessantesimo anno;  
+c) non è consentita la liquidazione della prestazione sotto forma di capitale; 
+d) a seguito dell’esercizio del diritto alla prestazione pensionistica, è prevista la corresponsione con ra-
+teazione mensile di una rendita vitalizia immediata o di una rendita vitalizia reversibile corrisposta 
+all’aderente finché egli è in vita e successivamente, in misura totale o per quota indicata dall’aderente 
+stesso, ad altro soggetto dallo stesso designato; 
+e) l’ulteriore trasferimento ad altra forma pensionistica complementare, compreso quello che avvenga in 
+relazione alla nuova attività lavorativa, è autorizzato solo alle medesime condizioni previste dall’articolo 
+12 dell’allegato VIII dello Statuto dei funzionari dell’Unione Europea; 
+f) non sono previsti riscatti parziali né totali: 
+• per cessazione dell’attività lavorativa che comporti l’inoccupazione per un periodo di tempo non  
+inferiore a 12 mesi e non superiore a 48 mesi, ovvero in caso di ricorso da parte del datore di  
+lavoro a procedure di mobilità, cassa integrazione guadagni, ordinaria o straordinaria;  
+• in caso di invalidità permanente che comporti la riduzione della capacità di lavoro a meno di u n 
+terzo e a seguito di cessazione dell’attività lavorativa che comporti l’inoccupazione per un periodo 
+di tempo superiore a 48 mesi. Resta salva la previsione di cui all’art. 11, comma 4 del Regolamento 
+del Fondo, qualora tali ipotesi si verifichino nel quinquennio precedente la maturazione dei requisiti
+=== pagina 45 ===
+Generali Global - Regolamento Edizione luglio 2026 Pag. 45 di 46 
+di accesso alle prestazioni pensionistiche complementari, nel rispetto di quanto sancito al prece-
+dente punto b); 
+• qualora vengano meno i requisiti di partecipazione al Fondo stabiliti dalle fonti che dispongono 
+l’adesione su base collettiva; 
+g) in caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, la presta-
+zione individuale deve essere erogata sotto forma di rendit a, agli eredi o diversi soggetti dallo stesso 
+designati; 
+h) non sono previsti casi di Anticipazione, pertanto anche le specifiche previsioni del documento sulle 
+anticipazioni risultano essere interamente non applicabili; 
+i) il trasferimento della posizione in caso di modifiche peggiorative delle condizioni economiche, in caso 
+di modifiche delle caratteristiche del Fondo e di cessione del Fondo a società diverse da quelle del 
+Gruppo al quale appartiene l’impresa di assicurazione, prima che siano decorsi due anni dall’iscrizione, 
+è autorizzato solo al le medesime condizioni previste dall’articolo 12 dell’allegato VIII dello Statuto dei 
+funzionari dell’Unione Europea. 
+ 
+In relazione esclusivamente agli Ex -Agenti e solo per il Maturato Comunitar io, in caso di conflitto tra le norme 
+contenute nel presente documento e quelle contenute nel Regolamento, nella Nota Informativa, nel Modulo di 
+Adesione ed in ogni altro documento relativo al Fondo , prevarranno quelle contenute nel presente documento 
+contrattuale.
+=== pagina 46 ===
+generali.it 
+Pagina 46 di 46

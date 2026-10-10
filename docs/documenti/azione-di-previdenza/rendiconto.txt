@@ -1,0 +1,2615 @@
+# Fondo: AZIONE DI PREVIDENZA - FONDO PENSIONE APERTO (azione-di-previdenza)
+# Documento: Rendiconto – Bilancio / Rendiconto del Fondo e relative relazioni
+# Fonte: https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/altri-documenti/HDI_Assicurazioni_Fascicolo_Bilancio_fondo_pensione_2025.pdf
+# Citato in: https://www.hdiassicurazioni.it/it/privati/previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 2f15e7b1420b14568311394fea1c89d9629a2040aad5148d5d9bf1316b44bad2
+# Pagine: 60
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+HDI Assicurazioni S.p.A. 
+Organi Sociali 
+  
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Azione di Previdenza  
+Fondo Pensione Aperto  
+Bilancio 2025
+=== pagina 2 ===
+HDI Assicurazioni S.p.A. 
+Organi Sociali 
+  
+2 
+ 
+INDICE
+=== pagina 3 ===
+HDI Assicurazioni S.p.A. 
+Indice 
+  
+3 
+ 
+INDICE 
+ORGANI SOCIALI   ................................ ................................ ................................ ...............................  5 
+RELAZIONE SULLA GESTIONE ................................ ................................ ................................ ................  7 
+Investimenti socialmente responsabili .................................................................................................................... 8 
+Benchmark ............................................................................................................................................................ 10 
+Situazione del fondo al 31 dicembre 2025 ............................................................................................................ 12 
+Costi complessivi a carico del Fondo ..................................................................................................................... 13 
+Investimenti per i quali si configurano situazioni di conflitto di interessi ............................................................. 14 
+Fatti di rilievo verificatisi dopo la chiusura dell’esercizio ...................................................................................... 14 
+Evoluzione Normativa ........................................................................................................................................... 14 
+Evoluzione prevedibile della gestione ................................................................................................................... 15 
+NOTA INTEGRATIVA   ................................ ................................ ................................ .........................  17 
+INFORMAZIONI GENERALI .................................................................................................................................... 17 
+A) Descrizione delle caratteristiche strutturali del Fondo Pensione Aperto .......................................................... 17 
+B) Imposta sostitutiva ........................................................................................................................................... 17 
+C) Criteri di valutazione ......................................................................................................................................... 17 
+D) Criteri adottati per il riparto dei costi comuni alle fasi ed ai comparti ............................................................. 17 
+E) Criteri e procedure utilizzate per la stima di oneri e proventi ........................................................................... 18 
+F) Indicazione delle categorie, comparti o gruppi di lavoratori o di imprese a cui il Fondo Pensione si riferisce .. 18 
+IL RENDICONTO NELLA FASE DI ACCUMULO ............................................................................................................. 19 
+LINEA PRUDENTE ............................................................................................................................................... 20 
+Stato Patrimoniale - Fase di accumulo    .................................................................................................................. 20 
+Conto Economico - Fase di accumulo .................................................................................................................... 20 
+Informazioni sulla Linea Prudente   ......................................................................................................................... 20 
+Informazioni sullo Stato Patrimoniale    ................................................................................................................... 21 
+Informazioni sul Conto Economico ........................................................................................................................ 24 
+LINEA EQUILIBRATA  ............................................................................................................................................ 25 
+Stato Patrimoniale - Fase di accumulo    .................................................................................................................. 25 
+Conto Economico - Fase di accumulo .................................................................................................................... 25 
+Informazioni sulla Linea Equilibrata    ...................................................................................................................... 26 
+Informazioni sullo Stato Patrimoniale    ................................................................................................................... 26 
+Informazioni sul Conto Economico ........................................................................................................................ 30 
+LINEA DINAMICA ............................................................................................................................................... 32 
+Stato Patrimoniale - Fase di accumulo    .................................................................................................................. 32 
+Conto Economico - Fase di accumulo .................................................................................................................... 32 
+Informazioni sulla Linea Dinamica ........................................................................................................................ 32 
+Informazioni sullo Stato Patrimoniale    ................................................................................................................... 33 
+Informazioni sul Conto Economico ........................................................................................................................ 36 
+LINEA GARANTITA  .............................................................................................................................................. 38 
+Stato Patrimoniale - Fase di accumulo    .................................................................................................................. 38 
+Conto Economico - Fase di accumulo .................................................................................................................... 38 
+Informazioni sulla Linea Garantita    ........................................................................................................................ 39 
+Informazioni sullo Stato Patrimoniale    ................................................................................................................... 39 
+Informazioni sul Conto Economico ........................................................................................................................ 42
+=== pagina 4 ===
+HDI Assicurazioni S.p.A. 
+Organi Sociali 
+  
+4 
+ 
+ORGANI SOCIALI
+=== pagina 5 ===
+HDI Assicurazioni S.p.A. 
+Organi Sociali 
+  
+5 
+ 
+Organi sociali 
+ 
+HDI Assicurazioni S.p.A. 
+Organi sociali in carica alla data di approvazione del bilancio 
+ 
+Consiglio di Amministrazione  
+Presidente 
+Wilm Langenbach 
+ 
+Vice Presidente 
+Gianni Spulcioni 
+ 
+Amministratore Delegato e Direttore Generale 
+Roberto Mosca 
+ 
+Consiglieri 
+Fabio Carusi 
+Ludovica Di Paolo Antonio (dal 29 aprile 2025) 
+Nicoletta Garola 
+Christian Sebastian Mueller 
+Antonella Rocco (dal 29 aprile 2025) 
+Oliver Willi Schmid 
+ 
+Segretario  
+Sandra Massaccesi 
+ 
+Collegio Sindacale  
+Presidente  
+Sergio Beretta 
+ 
+Sindaci Effettivi  
+Grazia Bonante 
+Luigi Rizzi 
+ 
+Sindaci Supplenti  
+Irene Bertucci 
+Simone Furian 
+ 
+Direzione Generale   
+Amministratore Delegato e Direttore Generale 
+Roberto Mosca 
+ 
+Fondo Pensione Aperto “Azione di Previdenza”  
+Responsabile  
+Claudio Cacciamani  
+ 
+Società di Revisione  
+PricewaterhouseCoopers S.p.A. 
+ 
+Sede sociale e Direzione Generale: HDI Assicurazioni S.p.A. – Piazza Guglielmo Marconi, 25 – 00144 Roma 
+Telefono: +39 06 421 031 - Fax: +39 06 4210 3500 - Posta elettronica certificata: hdi.assicurazioni@pec.hdia.it
+=== pagina 6 ===
+6 
+ 
+RELAZIONE SULLA GESTIONE
+=== pagina 7 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+   7 
+ 
+Relazione sulla gestione 
+Nel corso del 2025 l’operatività realizzata sui portafogli del Fondo Pensione ha evidenziato un approccio 
+gestionale coerente con la natura previdenziale dello strumento e con i diversi profili di rischio dei comparti. 
+Le movimentazioni effettuate, in termini di acquisti e vendite, risultano prevalentemente riconducibili ad 
+attività di ribilanciamento e di allocazione strategica orientata al medio-lungo periodo, in linea con le politiche 
+di investimento vigenti. Non si rilevano pertanto interventi riconducibili a strategie di natura tattica o a finalità 
+connotate da elementi speculativi. 
+Con riferimento alla diversificazione geografica, l’esposizione complessiva dei portafogli risulta 
+adeguatamente distribuita, con una significativa presenza di strumenti riferiti ai mercati dell’area euro e degli 
+Stati Uniti, cui si affiancano investimenti a copertura globale che contribuiscono alla mitigazione del rischio 
+specifico.  L’utilizzo prevalente di OICR e ETF ha rappresentato il principale strumento operativo adottato nella 
+gestione, consentendo un’efficiente diversificazione e un controllo efficace dei rischi di mercato, di credito e 
+di liquidità. Tale impostazione risulta pienamente in linea con gli obiettivi di lungo periodo del Fondo. 
+ 
+Linea Prudente 
+Nel 2025 la Linea Prudente ha mantenuto un profilo di rischio complessivamente contenuto. L’operatività ha 
+evidenziato una prevalenza della componente obbligazionaria governativa coerente con la natura prudente 
+del comparto. Dal punto di vista geografico, l’esposizione è rimasta concentrata principalmente sui mercati 
+europei, con particolare riferimento a Italia e Francia, cui si è affiancata una progressiva apertura verso 
+strumenti a carattere globale. Il rischio di credito si è mantenuto su livelli bassi o medio-bassi, grazie al ricorso 
+a emittenti investment grade e a fondi ampiamente diversificati. La duration è risultata, mediamente superiore 
+rispetto al comparto Garantita, riflettendo una maggiore tolleranza al rischio di tasso, pur sempre entro limiti 
+coerenti con il profilo prudente del comparto. 
+La gestione è stata influenzata da un approccio sostenibile nella ricerca di investimenti riconducibili ad 
+emittenti con forte connotazione ESG, selezionati tra emittenti sia governativi che Corporate. La gestione ha 
+ricevuto un rating di sostenibilità da un provider esterno e seguito un approccio basato sugli obiettivi di 
+sviluppo sostenibile delle Nazioni Unite e sulla valutazione periodica dei principali fattori di rischio, in 
+conformità con la normativa vigente. 
+ 
+Linea Equilibrata 
+Nel 2025 la Linea Equilibrata ha conseguito una performance molto significativa, tra le più elevate degli ultimi 
+esercizi, risultata superiore al benchmark di riferimento. L’operatività ha riflesso una gestione orientata al 
+bilanciamento tra crescita del capitale e controllo della volatilità. La composizione del portafoglio è risultata 
+equilibrata tra componente obbligazionaria e componente azionaria. La componente azionaria è stata 
+implementata sia tramite singoli titoli sia tramite ETF e fondi indicizzati su mercati azionari globali.                       
+La diversificazione geografica è stata ampia ed ha compreso in modo significativo i mercati statunitensi ed 
+europei, con esposizioni indirette anche ad altre aree sviluppate. Il rischio di credito, limitatamente alla 
+componente obbligazionaria, è rimasto concentrato su emittenti di elevata qualità, mentre il rischio 
+complessivo del comparto è stato maggiormente influenzato dall’andamento dei mercati azionari. La duration 
+complessiva si è collocata su livelli intermedi, coerenti con una strategia di investimento orientata al medio -
+lungo periodo. 
+La gestione è stata influenzata da un approccio sostenibile nella ricerca di investimenti riconducibili ad 
+emittenti con forte connotazione ESG, selezionati tra emittenti sia governativi che Corporate. La gestione ha 
+ricevuto un rating di sostenibilità da un provider esterno e seguito un approccio basato sugli obiettivi di 
+sviluppo sostenibile delle Nazioni Unite e sulla valutazione periodica dei principali fattori di rischio, in linea 
+con la normativa vigente.   
+ 
+Linea Dinamica 
+Nel 2025, la Linea Dinamica ha conseguito una performance molto elevata e nettamente superiore a quella 
+del benchmark di riferimento. La gestione ha evidenziato un’impostazione marcatamente orientata alla 
+crescita del capitale nel lungo periodo. L’operatività è stata caratterizzata da una forte prevalenza della 
+componente azionaria, realizzata principalmente con la selezione di società con solidi fondamentali e buone
+=== pagina 8 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+   8 
+ 
+prospettive di crescita nell’area Euro, sia attraverso ETF e fondi esposti ai principali mercati azionari globali, 
+con rilevante incidenza dei mercati statunitensi. La componente obbligazionaria, presente in misura molto 
+contenuta nel corso dell’anno, ha svolto prevalentemente una funzione di diversificazione e di contenimento 
+della volatilità complessiva del portafoglio. In questo comparto il rischio principale è rappresentato dal rischio 
+di mercato in ragione della prevalenza della componente azionaria, mentre il rischio di credito ha assunto un 
+ruolo secondario, data la qualità degli strumenti obbligazionari utilizzati. La duration risulta poco significativa 
+ai fini dell’analisi complessiva, in considerazione della predominanza della componente azionaria. 
+L’operatività del comparto Dinamica risulta quindi coerente con un profilo di aderente caratterizzato da un 
+orizzonte temporale lungo e da una maggiore capacità di assorbire le oscillazioni dei mercati finanziari. 
+La gestione è stata influenzata da un approccio sostenibile nella ricerca di investimenti riconducibili ad 
+emittenti con forte connotazione ESG, selezionati tra emittenti sia governativi che Corporate. La gestione ha 
+ricevuto un rating di sostenibilità da un provider esterno e seguito un approccio basato sugli obiettivi di 
+sviluppo sostenibile delle Nazioni Unite e sulla valutazione periodica dei principali fattori di rischio, in linea 
+con la normativa vigente. 
+ 
+Linea Garantita 
+Nel 2025 il comparto Garantita ha registrato una performance in linea con l’andamento del mercato dei tassi 
+nell’area Euro. L’operatività è stata chiaramente orientata alla tutela del capitale e alla stabilità dei rendimenti. 
+Gli investimenti si sono concentrati prevalentemente su strumenti obbligazionari e su fondi a bassa volatilità, 
+con un’esposizione geografica fortemente ancorata all’area Euro e una conseguente limitazione del rischio di 
+cambio. Gli emittenti sottostanti sono in larga parte riconducibili a soggetti governativi, sovranazionali o 
+emittenti Corporate comunque caratterizzati da un elevato merito creditizio, con un profilo di rischio di credito 
+molto contenuto. La duration del portafoglio è stata complessivamente contenuta, a conferma di un approccio 
+prudente volto a ridurre la sensibilità alle variazioni dei tassi di interesse. Nel suo insieme, la gestione del 
+comparto Garantita risulta pienamente coerente con l’obiettivo di conservazione del capitale tipico di questa 
+linea di investimento. 
+La gestione ha adottato un approccio sostenibile nella selezione degli investimenti, privilegiando emittenti 
+governativi e Corporate con una forte connotazione ESG. Il comparto/linea è stato oggetto di valutazione da 
+parte di un provider esterno, che ha attribuito un rating di sostenibilità.  La gestione ha ricevuto un rating di 
+sostenibilità da un provider esterno e seguito un approccio basato sugli obiettivi di sviluppo sostenibile delle 
+Nazioni Unite e sulla valutazione periodica dei principali fattori di rischio, in linea con la normativa vigente.    
+ 
+Investimenti socialmente responsabili 
+Il Fondo ha confermato un approccio e orientamento alla sostenibilità, attraverso scelte di investimento con 
+caratteristiche di sostenibilità e una metodologia coerenti con i principi ESG (Environmental, Social & 
+Governance) ed in linea con la normativa legata al Regolamento Europeo 2019/2088 in merito all’ informativa 
+sulla sostenibilità nel settore dei servizi finanziari (Sustainable Finance Disclosure Regulation – SFDR) e alla 
+normativa sulla tassonomia, adottata dall’Unione Europea con il Regolamento 2020/852. 
+La ricerca di una gestione con caratteristiche di sostenibilità ha influenzato le scelte di investimento e la ricerca 
+di emittenti con uno Score Esg mediamente elevato. 
+Anche la applicazione delle esclusioni ai settori indicati nelle policy ESG ha orientato verso scelte compatibili 
+con la lotta al cambiamento climatico e l’attenzione alle tematiche Sociali. 
+Anche per il 2025 la Compagnia ha chiesto a Mainstreet Partners l’analisi dei portafogli per il rilascio del 
+rating ESG e del report di impatto. 
+Il rating ESG rilasciato è stato il seguente: 
+▪ Linea Prudente 4.3 su 5; 
+▪ Linea Garantita 3.7 su 5; 
+▪ Linea Equilibrata 3.7 su 5; 
+▪ Linea Dinamica 3.7 su 5. 
+Il risultato è ampiamente soddisfacente sotto i tre aspetti che costituiscono i pilastri sui quali esso si fonda:  
+- affidabilità della Compagnia come Asset Manager; 
+- strategia di investimento; 
+- holdings in portafoglio.
+=== pagina 9 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+   9 
+ 
+Il punteggio tiene conto anche delle nuove sfide che attendono la Compagnia ed il Fondo alla luce del nuovo 
+dettato normativo sulla Sostenibilità, continuamente in evoluzione. 
+HDI Assicurazioni S.p.A. ha preso in considerazione i principali effetti negativi delle proprie decisioni di 
+investimento sui fattori di sostenibilità (di seguito anche “PAI”). La metodologia utilizzata per completare il 
+calcolo degli effetti è aderente alle previsioni e alle disposizioni tecniche del Regolamento UE 2022/1288. 
+I fattori di sostenibilità comprendono aspetti ambientali e sociali, tra cui le condizioni dei lavoratori, il rispetto 
+dei diritti umani e le misure di contrasto alla corruzione. 
+ 
+Riportiamo di seguito una tabella riassuntiva relativa ai risultati dell'analisi dell'allineamento agli Obiettivi di 
+Sviluppo Sostenibile (Sustainable Development Goals). Un allineamento ad un SDG di valore superiore al 3,5 
+può essere considerato positivo. 
+ 
+ 
+ 
+ 
+ 
+ 
+Per dare concretezza all’analisi, si riportano di seguito i risultati concreti che l’approccio sostenibile ha 
+consentito di realizzare con un investimento di 100 mila euro della durata di 12 mesi. 
+ 
+ 
+SDG 1 SDG 2 SDG 3 SDG 4 SDG 5
+Portafoglio Sconfiggere  la povertà Sconfiggere  la fame  
+nel  mondo Buona  salute Istruzione  di qualità Parità  di genere
+Dinamica 3,00 3,00 3,00 3,00 3,50
+Equilibrata 3,00 3,00 3,50 3,00 3,00
+Garantita 3,00 3,00 3,50 3,00 3,00
+Prudente 3,00 3,00 3,50 3,00 3,00
+SDG 6 SDG 7 SDG 8 SDG 9 SDG 10 SDG 11
+Portafoglio Acqua  pulita  e servizi  
+igienico-sanitari Energia  rinnovabile Buona  occupazione  e 
+crescita  economica
+Innovazione  e 
+infrastrutture
+Ridurre  le 
+disuguaglianze
+Città  e comunità  
+sostenibili
+Dinamica 3,00 3,00 4,00 3,00 3,00 3,00
+Equilibrata 3,00 3,50 3,00 4,00 3,00 3,50
+Garantita 3,00 3,50 3,00 4,50 3,00 4,00
+Prudente 3,00 4,00 3,00 5,00 3,00 4,00
+SDG 12 SDG 13 SDG 14 SDG 15 SDG 16 SDG 17
+Portafoglio Consumo  responsabile Lotta  contro  il  
+cambiamento  climatico
+Flora  e fauna  
+acquatica Flora  e fauna  terrestre Pace  e giustizia Partenership  per  gli 
+obiettivi  sociali
+Dinamica 4,00 3,50 3,00 3,50 3,50 4,00
+Equilibrata 3,50 4,00 3,00 3,00 3,00 3,00
+Garantita 3,00 4,00 3,00 3,00 3,00 3,00
+Prudente 3,00 4,50 3,00 3,00 3,00 3,00
+Portafoglio KG di CO2  risparmiata
+CO2  risparmiata,  
+espressa  nel  consumo  
+medio  di X viaggi  in 
+auto  da Milano  a 
+Roma
+Litri  di acqua  
+risparmiata
+Acqua  risparmiata,  
+espressa  in numero  di 
+docce
+Dinamica 4.096 55 4.952 71
+Equilibrata 10.030 135 37.817 540
+Garantita 14.015 188 80.432 1.149
+Prudente 15.792 212 104.419 1.492
+Riduzione  di inquinamento Acqua  risparmiata
+Portafoglio
+% di società  che  
+intraprendono  forti  
+azioni  contro  pratiche  
+di lavoro  minorili
+Incremento  % rispetto  
+all'  indice  di 
+riferimento
+Ricavi  generati  da cibo  
+naturale  e/o  biologico  
+prodotto  e distribuito
+Quantità  di cibo  
+naturale   e/o  biologico   
+prodotto   e  distribuito,   
+espresso   in  numero   di  
+pasti
+KG di rifiuti  risparmiati
+Acqua  risparmiata,  
+espressa  in numero  di 
+bidoni
+Dinamica 98% 6% 1.920 240 2.288 458
+Equilibrata 98% 6% 820 103 2.589 518
+Garantita 97% 5% 80 10 3.527 705
+Prudente 100% 8% 66 8 3.230 646
+Tutela  lavoro  minorile Cibo  naturale  e/o  organico Produzione  di rifiuti
+=== pagina 10 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+   10 
+ 
+ 
+Benchmark 
+La Compagnia è orientata verso un’asset allocation diversificata pur nel rispetto dei principi stabiliti nei 
+regolamenti e nei prospetti informativi delle diverse linee di investimento. 
+L’accentuarsi del rischio sovrano ha inciso sul profilo di rischiosità del portafoglio, per cui la Compagnia è 
+chiamata a separare l’esposizione verso emittenti governativi da quelli non governativi, e quindi tra le diverse 
+asset class. 
+Il Fondo nel 2025 ha adottato un benchmark ESG per ciascun comparto di investimento. L’adozione di un 
+benchmark significa dotarsi di un parametro di riferimento che integra criteri di sostenibilità nella misurazione 
+della performance di un portafoglio o di un fondo. Esso permette di misurare la performance rispetto a un 
+indice, coerente con obiettivi ambientali e sociali, allinearsi a politiche di investimento responsabile, 
+dimostrare coerenza tra politica di investimento e gestione effettiva, ridurre il rischio di greenwashing, 
+migliorare la trasparenza verso aderenti e autorità di vigilanza. 
+Di seguito si riporta, per ogni comparto del Fondo, il confronto mensile fra la performance netta del comparto 
+e quella netta del relativo benchmark. 
+ 
+Linea Prudente 
+Benchmark  
+35% iBoxx EUR Corporates Net Zero 2050 Paris-Aligned ESG TR 
+55% J.P. Morgan ESG EMU Government Bond IG 3 - 5 Year 
+10% Euribor 3 mesi 
+ 
+ 
+ 
+Linea Equilibrata  
+Benchmark  
+30% iBoxx EUR Corporates Net Zero 2050 Paris-Aligned ESG TRI 
+Portafoglio
+% di  società  che  
+presentano  un  
+elevato  livello  di  
+soddisfazione   dei   
+dipendenti
+Incremento  % 
+rispetto  al  Indice  di  
+riferimento
+% di  donne  nel   
+consiglio  
+d'amministrazione
+Incremento  % 
+rispetto  all'indice  di  
+riferimento
+% di  consiglieri   
+indipendenti   nel   
+board
+Incremento  % 
+rispetto  all'indice  di  
+riferimento
+Dinamica 68% 18% 40% 6% 71% 2%
+Equilibrata 70% 19% 39% 6% 68% -1%
+Garantita 62% 11% 40% 6% 65% -4%
+Prudente 65% 15% 41% 8% 65% -4%
+Ambiente  di  lavoro Uguaglianza  di  genere Consiglieri  indipendenti
+Linea  Prudente
+Dicembre 2024
+Performance  2025 Benchmark  Performance NAV Performance
+Gennaio 208,60 0,11% 17,48 0,23%
+Febbraio 209,90 0,56% 17,55 0,63%
+Marzo 209,24 0,21% 17,46 0,11%
+Aprile 211,71 1,13% 17,62 1,03%
+Maggio 212,15 1,22% 17,67 1,32%
+Giugno 212,36 1,22% 17,67 1,32%
+Luglio 212,71 1,28% 17,71 1,55%
+Agosto 212,99 1,31% 17,72 1,61%
+Settembre 213,45 1,41% 17,74 1,72%
+Ottobre 214,67 1,82% 17,82 2,18%
+Novembre 214,50 1,67% 17,82 2,18%
+Dicembre 214,15 1,44% 17,81 2,12%
+Benchmark NAV
+208,10 17,44
+=== pagina 11 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+   11 
+ 
+50% J.P. Morgan ESG EMU Government Bond IG 3 - 5 Year 
+10% EURO STOXX 50 ESG Price EUR 
+10% Euribor 3 mesi 
+ 
+Linea Dinamica  
+Benchmark  
+15%  iBoxx EUR Corporates Net Zero 2050 Paris-Aligned ESG TRI 
+35% J.P. Morgan ESG EMU Government Bond IG 3 - 5 Year 
+10% Dow Jones Sustainability World Composite Index 
+30% EURO STOXX 50 ESG Price EUR 
+10% Euribor 3 mesi 
+ 
+Linea Garantita  
+Benchmark  
+20% Dow Jones Sustainability World Composite Index 
+20% MIB ESG 
+50% EURO STOXX 50 ESG Price EUR 
+10% Euribor 3 mesi 
+Linea  Equilibrata
+Dicembre 2024
+Performance  2025 Benchmark  Performance NAV Performance
+Gennaio 203,44 1,78% 20,24 1,76%
+Febbraio 205,44 2,50% 20,43 2,71%
+Marzo 200,21 0,21% 20,06 0,85%
+Aprile 200,33 0,14% 20,10 1,06%
+Maggio 204,12 1,61% 20,57 3,42%
+Giugno 203,79 1,35% 20,53 3,22%
+Luglio 205,37 1,89% 20,69 4,02%
+Agosto 205,48 1,82% 20,69 4,02%
+Settembre 208,33 2,88% 20,81 4,63%
+Ottobre 211,33 4,01% 21,03 5,73%
+Novembre 210,99 3,76% 21,04 5,78%
+Dicembre 212,37 4,20% 21,15 6,33%
+Benchmark NAV
+198,87 19,89
+Linea  Dinamica
+Dicembre 2024
+Performance  2025 Benchmark  Performance NAV Performance
+Gennaio 183,88 3,86% 20,09 3,34%
+Febbraio 187,12 5,20% 20,34 4,63%
+Marzo 177,61 0,70% 19,76 1,65%
+Aprile 174,85 -0,70% 19,72 1,44%
+Maggio 182,84 2,80% 20,64 6,17%
+Giugno 181,93 2,23% 20,61 6,02%
+Luglio 185,07 3,51% 20,85 7,25%
+Agosto 185,57 3,60% 20,83 7,15%
+Settembre 190,67 5,77% 21,10 8,54%
+Ottobre 195,14 7,65% 21,50 10,60%
+Novembre 194,55 7,25% 21,51 10,65%
+Dicembre 198,03 8,68% 21,75 11,88%
+Benchmark NAV
+175,09 19,44
+=== pagina 12 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+   12 
+ 
+ 
+Si riporta, inoltre, nelle seguenti tabelle un confronto dei rendimenti medi annui netti a 3, 5 e 10 anni dei 
+comparti e del benchmark. 
+ 
+ 
+ 
+ 
+ 
+ 
+Situazione del fondo al 31 dicembre 2025 
+Il Fondo Pensione Aperto “Azione di Previdenza”, istituito da HDI Assicurazioni S.p.A. con apposita delibera 
+del proprio Consiglio di Amministrazione del 1° dicembre 2000, ha iniziato la propria attività il 3 dicembre 
+2001 dopo aver ottenuto le necessarie autorizzazioni ed aver depositato il relativo Prospetto Informativo 
+presso l’Archivio Prospetti della CONSOB in data 19 novembre 2001. Il Fondo è iscritto al n. 111 dell’albo 
+tenuto dalla Commissione di Vigilanza sui Fondi Pensione. 
+La prima adesione al Fondo è avvenuta nel corso del mese di marzo 2002; le quote per le linee di investimento 
+sottoscritte sono state assegnate al prezzo convenzionale d’offerta iniziale di € 10,00. 
+Nel corso del 2010 si è perfezionata l’iscrizione alla Mefop S.p.A. (Società per lo Sviluppo del Mercato dei 
+Fondi Pensione) con l’assegnazione di 1.100 quote. 
+La Mefop, che raccoglie un ampio panorama di fondi pensione e la partecipazione del Ministero dell’Economia 
+e delle Finanze (che detiene la maggioranza assoluta delle azioni), nasce con l’obiettivo di studiare, 
+Linea  Garantita
+Dicembre 2024
+Performance  2025 Benchmark  Performance NAV Performance
+Gennaio 201,74 0,59% 16,00 0,38%
+Febbraio 203,39 1,22% 16,04 0,63%
+Marzo 202,21 0,66% 15,98 0,25%
+Aprile 204,34 1,50% 16,06 0,75%
+Maggio 205,30 1,84% 16,12 1,13%
+Giugno 205,28 1,78% 16,12 1,13%
+Luglio 205,71 1,90% 16,17 1,44%
+Agosto 206,02 1,97% 16,19 1,57%
+Settembre 206,98 2,31% 16,19 1,57%
+Ottobre 208,47 2,88% 16,27 2,07%
+Novembre 208,43 2,81% 16,27 2,07%
+Dicembre 208,51 2,78% 16,26 2,01%
+Benchmark NAV
+200,20 15,94
+Ultimi  3 anni Ultimi  5 anni Ultimi  10 anni
+Linea  Prudente 3,486% -0,022% 1,090%
+Benchmark 2,522% -0,822% -0,405%
+Rendimento  medio  annuo  composto  netto
+Ultimi  3 anni Ultimi  5 anni Ultimi  10 anni
+Linea  Equilibrata 6,316% 2,625% 2,907%
+Benchmark 5,405% 1,835% 0,972%
+Rendimento  medio  annuo  composto  netto
+Ultimi  3 anni Ultimi  5 anni Ultimi  10 anni
+Linea  Dinamica 9,624% 6,818% 5,289%
+Benchmark 10,358% 6,608% 3,661%
+Rendimento  medio  annuo  composto  netto
+Ultimi  3 anni Ultimi  5 anni Ultimi  10 anni
+Linea  Garantita 3,513% 0,248% 1,414%
+Benchmark 3,432% 0,026% 0,167%
+Rendimento  medio  annuo  composto  netto
+=== pagina 13 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+   13 
+ 
+interpretare e comunicare la previdenza complementare per favorirne lo sviluppo. 
+Il Fondo Pensione è strutturato in quattro linee di investimento denominate “Prudente”, “Equilibrata”, 
+“Dinamica” e “Garantita” ciascuna delle quali caratterizzata da una propria politica di investimento, da un 
+profilo di rischio-rendimento e da un orizzonte temporale. 
+I contributi incassati nel 2025, al netto delle spese sostenute dall’aderente all’atto dell’adesione, sono stati 
+pari a Euro 64.622.958,99, mentre i contributi da ricevere ammontano a Euro 7.073.099,48:  
+ 
+Le commissioni “una tantum” sono state pari a euro 57.504,59.  
+L’ammontare netto del patrimonio si incrementa rispetto all’esercizio precedente così come riportato nel 
+seguente grafico:  
+ 
+l raffronto fra i movimenti in entrata (contributi, trasferimenti in entrata e switch in entrata) e i movimenti in 
+uscita rappresentati dalle liquidazioni (anticipazioni, trasferimenti in uscita, switch in uscita, riscatti e 
+prestazioni pensionistiche) è riportato nella seguente tabella:    
+ 
+ 
+Costi complessivi a carico del Fondo 
+Le commissioni di gestione di competenza dell’esercizio sono state pari a Euro 6.581.507,03. Non sono stati 
+sostenuti costi né per spese legali o giudiziarie, né per commissioni di negoziazione.  
+Alla data del 31 dicembre 2025 tutte le linee hanno riportato debiti d’imposta. L’imposta sostitutiva sui redditi 
+è stata applicata e contabilizzata in conformità a quanto previsto dalla Delibera Covip del 16 gennaio 2002. 
+ 
+(importi in Euro)
+Linea  di investimento Contributi  incassati Contributi  da ricevere
+Prudente 4.449.715,23                 472.502,47
+Equilibrata 21.529.825,30               2.472.689,90
+Dinamica 16.251.568,12               1.677.441,09
+Garantita 22.391.850,34               2.450.466,02
+Totale 64.622.958,99 7.073.099,48
+(importi in Euro)
+Linea  di investimento Movimenti  in entrata  
+(Contributi)
+Movimenti  in uscita  
+(Liquidazioni)
+Saldo  della  gestione  
+previdenziale
+Prudente 4.558.789,80 -4.138.493,45 420.296,35
+Equilibrata 22.350.375,13 -13.243.480,41 9.106.894,72
+Dinamica 17.848.933,80 -7.757.972,53 10.090.961,27
+Garantita 25.371.598,79 -17.740.586,66 7.631.012,13
+Totale 70.129.697,52 -42.880.533,05 27.249.164,47
+=== pagina 14 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione 
+14 
+Il riepilogo dei costi sostenuti dal Fondo è riportato nella seguente tabella: 
+Di seguito è indicato il rapporto percentuale tra il totale delle commissioni di gestione poste a carico delle 
+linee al netto di quelle prelevate annualmente ed il patrimonio medio delle stesse:  
+Investimenti per i quali si configurano situazioni di conflitto di interessi 
+La Compagnia non presenta investimenti per i quali si configurano situazioni di conflitto di interessi. 
+Fatti di rilievo verificatisi dopo la chiusura dell’esercizio 
+Nelle prime settimane del 2026, si sono registrati afflussi significativi verso i mercati azionari europei. Tale 
+dinamica appare riconducibile ad esigenze di diversificazione rispetto agli Stati Uniti, considerati relativamente 
+più costosi, e all’attenzione su settori più tradizionali (in particolare banche, energia, difesa) ritenuti idonei a 
+offrire profili di rendimento/rischio coerenti in un contesto di valutazioni elevate. 
+A metà febbraio, i mercati globali hanno evidenziato accentuata volatilità in scia a tensione geopolitiche 
+legate al timore di un possibile attacco degli Stati Uniti in Medio Oriente (Iran) e a potenziali interruzioni delle 
+forniture energetiche. Il Brent ha superato i 70 $/barile con impatto negativo sui listini azionari e incremento 
+della domanda di beni rifugio (in particolare oro), in un contesto di maggiore avversione al rischio da parte 
+degli investitori.  
+Gli analisti segnalano un marcato ottimismo sui mercati azionari, che in alcuni segmenti può configurarsi 
+come eccesso di euforia e potenziale premessa per fasi correttive. Il fenomeno si associa a valutazioni elevate, 
+soprattutto nel comparto tecnologico, e al ruolo pervasivo del tema AI nel determinare pricing e 
+posizionamenti settoriali. 
+Successivamente alla chiusura del bilancio, si è verificata una significativa escalation del conflitto in Medio 
+Oriente a seguito delle azioni militari congiunte di Stati Uniti e Israele contro l’Iran, iniziate a fine febbraio 
+2026. Gli attacchi hanno colpito infrastrutture militari e civili iraniane, provocando un aumento rapido delle 
+ostilità su scala regionale. 
+La situazione ha inoltre prodotto impatti rilevanti sui mercati energetici, con un aumento dei prezzi del petrolio 
+ed interruzioni e deviazioni delle rotte commerciali nell’area del Golfo, considerate critiche per il traffico 
+marittimo mondiale e chiusura temporanea dello spazio aereo in alcuni paesi interessati. 
+Alla luce delle incertezze geopolitiche in Medio Oriente ed in Ucraina, la Compagnia ha rilevato una sostenuta 
+volatilità nei valori di mercato degli attivi, riconducibile all’incertezza sulla durata e sull’evoluzione dei 
+conflitti, e continuerà pertanto a monitorare nel corso dell’esercizio i potenziali impatti derivanti dal loro 
+ulteriore sviluppo. 
+Evoluzione Normativa 
+Di seguito si riportano i principali provvedimenti normativi di interesse per il settore della previdenza 
+complementare: 
+(importi in Euro)
+Linea   di  
+investimento
+Commissioni  di  
+gestione
+Commissioni  di  
+negoziazione Oneri  fiscali  Spese  legali  e 
+giudiziarie
+Prudente 394.326,21 0 0 0
+Equilibrata 2.556.091,68              0 0 0
+Dinamica 2.277.703,17              0 0 0
+Garantita 1.353.385,97              0 0 0
+Totale 6.581.507,03         0 0 0
+Linea   di  investimento Rapporto  percentuale
+Prudente 1,11%
+Equilibrata 1,52%
+Dinamica 1,95%
+Garantita 0,83%
+=== pagina 15 ===
+HDI Assicurazioni S.p.A. 
+Relazione sulla gestione  
+15 
+• DORA – Resilienza Operativa Digitale: D.lgs. 10/03/2025, n. 23 di adeguamento al Reg. (UE) 2022/2554 e 
+Circolari COVIP (19 marzo 2025; 8 aprile 2025) sul Registro delle informazioni e i relativi adempimenti per le 
+forme pensionistiche
+• Legge di bilancio 2026 (Legge 30/12/2025, n. 199) – Riforma del secondo pilastro (modifiche al d.lgs. 
+252/2005) con modifiche strutturali al sistema di previdenza complementare, incentivi fiscali, maggiore 
+flessibilità delle prestazioni e adesione automatica per i neoassunti.
+• SFDR – Proposta di revisione (COM(2025) 841, 20/11/2025): modifica del Reg. (UE) 2019/2088 con 
+semplificazione delle disclosure, nuovo impianto di categorizzazione dei prodotti sostenibili e 
+razionalizzazione dei PAI; iter legislativo in corso
+• Decreto-legge 19 febbraio 2026, n. 19 - Disposizioni urgenti per l’attuazione del PNRR - Risoluzione 
+stragiudiziale delle controversie in materia di previdenza complementare e poteri della COVIP sui fondi sanitari 
+che prevede l’obbligo adesione a “sistemi di risoluzione stragiudiziale delle controversie con iscritti, pensionati 
+e beneficiari”.
+Evoluzione prevedibile della gestione  
+Nel corso del 2026 il Fondo introdurrà il modello Life Cycle come opzione di investimento che adatta 
+automaticamente il profilo di rischio all’età dell’aderente e all’orizzonte temporale residuo. La strategia 
+prevede un’esposizione più elevata all’azionario nelle fasi iniziali della vita lavorativa, con progressiva 
+ricomposizione verso strumenti obbligazionari/comparti prudenziali all’avvicinarsi del pensionamento, in 
+un’ottica di consolidamento del capitale accumulato. L’impostazione riduce il rischio di scelte emotive e 
+consente una gestione dinamica senza oneri decisionali continuativi da parte dell’aderente, fermo restando il 
+diritto di scegliere linee alternative ove previste. 
+Roma, 24 marzo 2026 
+Per Il Consiglio di Amministrazione            Per presa visione: 
+Il Presidente     Il Responsabile del Fondo 
+ Wilm Langenbach        Claudio Cacciamani
+=== pagina 16 ===
+16 
+ 
+NOTA INTEGRATIVA
+=== pagina 17 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+17 
+ 
+Nota Integrativa 
+In aderenza alla Delibera della Commissione di Vigilanza sui Fondi Pensione del 17 giugno 1998 il bilancio è 
+stato redatto in osservanza dei principi generali di chiarezza e rappresentazione veritiera e corretta ai sensi 
+dell’art. 2423 c.c. e dei principi di prudenza, competenza e continuità di cui all’art. 2423 bis c.c., nonché di 
+quanto previsto specificatamente dalla Covip. I principi contabili ed i criteri di valutazione, ove applicabili e se 
+non specificatamente previsti da normativa di settore emanata dalla Covip, per la redazione del bilancio del 
+Fondo Pensione sono quelli indicati dal Codice civile, così come integrati ed interpretati dai principi contabili 
+emanati dall’OIC (Organismo Italiano di Contabilità). 
+Il bilancio è redatto in unità di euro. 
+ 
+Informazioni generali 
+A) Descrizione delle caratteristiche strutturali del Fondo Pensione Aperto 
+Il Fondo Pensione Aperto Azione di Previdenza è un fondo a contribuzione definita istituito e gestito da HDI 
+Assicurazioni S.p.A. ai sensi dell’art. 12 del Decreto Legislativo 05 dicembre 2005, n. 252.  
+Il fondo costituisce patrimonio autonomo e separato da quello di HDI Assicurazioni S.p.A. ed opera sia in fase 
+di accumulo (periodo che intercorre da quando viene effettuato il primo versamento a quando si accede alla 
+prestazione pensionistica) che di erogazione (momento del pensionamento in cui la posizione individuale 
+costituisce la base per il calcolo della pensione complementare, che viene erogata per tutto il resto della vita). 
+È articolato in quattro linee, “Linea Prudente”, “Linea Equilibrata”, “Linea Dinamica”, “Linea Garantita”, 
+caratterizzate da differenti politiche di investimento, profili di rischio e di rendimento, orizzonti temporali.  
+La custodia del patrimonio del Fondo è affidata a BFF Bank S.p.A. 
+Le informazioni generali e i criteri sotto riportati ai punti B), C), D), E) della presente Nota Integrativa sono 
+interamente applicati ai fini della redazione dei rendiconti delle quattro linee sopra riportate della fase di 
+accumulo al 31 dicembre 2025 del Fondo Pensione Aperto Azione di Previdenza. 
+ 
+B) Imposta sostitutiva  
+Il Fondo Pensione è soggetto ad imposta sostitutiva delle imposte sui redditi, che si applica sul risultato netto 
+maturato in ciascun periodo di imposta. 
+Qualora il risultato della gestione dovesse essere negativo, questo potrà essere computato in diminuzione del 
+risultato di periodi successivi o utilizzato in diminuzione del risultato di altre linee di investimento.  
+La Legge 190 del 23.12.2014 (c.d. legge di stabilità) all’art. 1 comma da 621 a 624 ha disposto l’incremento 
+della tassazione dall’11,50% al 20% della misura dell’imposta sostitutiva sul risultato maturato dai Fondi 
+Pensione in ciascun periodo di imposta, ad eccezione dei titoli di Stato italiani e dei titoli a reddito fisso della 
+c.d.”white list” per i quali è prevista una tassazione al 12,50%. 
+ 
+C) Criteri di valutazione  
+I criteri di valutazione seguiti sono conformi a quelli stabiliti dalla Commissione di Vigilanza sui Fondi 
+Pensione. In particolare: 
+▪ gli acquisti dei valori mobiliari sono contabilizzati alla data nella quale è effettuata l’operazione, 
+indipendentemente dalla data di regolazione della stessa;  
+▪ gli attivi quotati sono valutati al prezzo di chiusura rilevato l’ultimo giorno di borsa aperta;  
+▪ le attività e le passività denominate in valuta sono valutate al tasso di cambio a pronti corrente alla data di 
+chiusura dell’esercizio; 
+▪ le altre attività e passività sono valutate separatamente al valore di presumibile realizzo e di estinzione; 
+▪ le plusvalenze sui valori mobiliari sono determinate sulla base del costo medio d’acquisto;  
+▪ le commissioni di gestione sono determinate in base alla competenza temporale; 
+▪ i contributi sono contabilizzati al momento dell’incasso e non in ragione della loro competenza economica.   
+ 
+D) Criteri adottati per il riparto dei costi comuni alle fasi ed ai comparti  
+Non sono stati sostenuti costi comuni da ripartire tra i comparti.
+=== pagina 18 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+18 
+ 
+E) Criteri e procedure utilizzate per la stima di oneri e proventi  
+La compilazione del prospetto è stata effettuata con riferimento alla data del 31 dicembre 2025, con 
+imputazione diretta degli oneri e dei proventi secondo competenza temporale e senza stime degli stessi.  
+ 
+F) Indicazione delle categorie, comparti o gruppi di lavoratori o di imprese a cui il Fondo Pensione si riferisce 
+Al 31 dicembre 2025 risultano iscritti al Fondo 33.734 aderenti, con una crescita di 2.060 rispetto alle 31.674 
+iscrizioni al 31 dicembre 2024. La variazione è dovuta a 3.284 nuove adesioni, di cui 2.885 individuali e 399 
+collettive, 299 riscatti, 566 trasferimenti in uscita, 14 recessi, 344 prestazioni pensionistiche di cui 342 in 
+forma di capitale e 2 in forma di rendita e 1 chiusura di posizione a zero. 
+Del totale degli aderenti, 5.186 (di cui 455 per la Linea Prudente, 1.537 per la Linea Equilibrata, 1.648 per la 
+Linea Dinamica e 1.546 per la Linea Garantita) risultano iscritti ma non ancora intestatari di quote. 
+Si precisa che nel totale degli iscritti sono ricompresi gli aderenti i cui moduli di adesione, seppur sottoscritti 
+entro e non oltre il 31 dicembre 2025, sono pervenuti alla Compagnia successivamente a tale data. 
+Si riporta di seguito la movimentazione delle linee avvenuta nell’esercizio 2025:  
+ 
+ 
+ 
+Con riferimento ai dipendenti del Gruppo HDI Assicurazioni nella seguente tabella sono riportate le adesioni 
+suddivise per Società: 
+ 
+La tabella che segue riporta, per tipologia di adesione, la distribuzione degli aderenti tra le linee del Fondo al 
+31 dicembre 2025 e l’ammontare netto del patrimonio:  
+ 
+ 
+ 
+ 
+ 
+ 
+Linea  di 
+investimento
+Nuove  adesioni  
+(a)
+Riscatti  
+(b)
+Recessi  
+(c)
+Trasferimenti  in 
+uscita  (d)
+Prestazioni  
+pensionistiche  (e)
+Chiusura  poszioni  
+a zero  (f)
+Movimentazione  
+g=(a-b-c-d-e-f)
+Linea Prudente 146 38 1 35 52 0 20
+Linea Equilibrata 903 79 6 173 98 1 546
+Linea Dinamica 1.266 52 3 121 17 0 1.073
+Linea Garantita 969 130 4 237 177 0 421
+Totale 3.284 299 14 566 344 1 2.060
+Linea  di 
+investimento Switch  in entrata Switch  in uscita Anticipazioni Trasferimenti    in  
+entrata
+Linea Prudente 7 36 90 287
+Linea Equilibrata 68 72 606 329
+Linea Dinamica 114 46 420 422
+Linea Garantita 62 97 462 54
+Totale 251 251 1.578 1.092
+Società Totale  aderenti  al 
+31/12/2024
+Nuovi  aderenti  
+nell'anno  2025
+Totale  uscite  
+nell'anno  2025
+Totale  aderenti  al 
+31/12/2025
+HDI Assicurazioni S.p.A. 594 32 -22 604
+InLinea S.p.A. 1 3 0 4
+HDI Immobiliare S.r.l. 1 0 0 1
+Totale 596 35 -22 609
+Linea  di 
+investimento
+Adesioni   
+individuali
+Adesioni   
+collettive Adesioni  totali Composizione  % Ammontare  netto  
+del  patrimonio Composizione  %
+Prudente 2.084 358 2.442 7,24% 35.591.109 7,02%
+Equilibrata 9.473 1.232 10.705 31,73% 176.919.217 34,87%
+Dinamica 8.205 719 8.924 26,45% 127.955.164 25,22%
+Garantita 10.176 1.487 11.663 34,58% 166.881.090 32,89%1
+Totale 29.938 3.796 33.734 100,00% 507.346.580 100,00%
+=== pagina 19 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+19 
+ 
+Al 31 dicembre 2025 gli iscritti, in base alla categoria di attività lavorativa svolta, sono così suddivisi:  
+ 
+Il rendiconto nella fase di accumulo  
+Le voci che non presentano importi non sono state riportate come da disposizioni impartite dalla Commissione 
+di Vigilanza sui Fondi Pensione.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Linea  di 
+investimento
+Lavoratori  
+dipendenti
+Lavoratori  
+autonomi
+Liberi  
+professionisti Altri Totale  per  linea  
+di investimento Pensionati
+Prudente 2.006 258 26 152 2.442 52
+Equilibrata 8.949 1.049 108 599 10.705 98
+Dinamica 7.213 816 61 834 8.924 17
+Garantita 9.514 1.235 116 798 11.663 177
+Totale 27.682 3.358 311 2.383 33.734 344
+=== pagina 20 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+20 
+ 
+Linea Prudente  
+Rendiconto della fase di accumulo al 31 dicembre 2025 
+Fondo Pensione Aperto - Azione di Previdenza 
+Stato Patrimoniale - Fase di accumulo 
+ 
+Conto Economico - Fase di accumulo  
+ 
+Linea Prudente - Valuta di denominazione: Euro  
+La linea è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo la pura redditività degli 
+investimenti, in un orizzonte temporale di medio periodo e presenta un profilo di rischio medio - basso. La 
+politica di investimento è orientata verso strumenti finanziari di natura obbligazionaria e verso titoli di debito, 
+con esclusione di titoli di capitale e titoli obbligazionari recanti opzioni su azioni.  
+ 
+Informazioni sulla Linea Prudente  
+Gli aderenti alla Linea Prudente al 31/12/2025 sono 2.442.  
+Il numero delle quote attribuite nel corso dell’anno 2025 e il rispettivo controvalore risultano dal seguente 
+prospetto:  
+10  Investimenti 35.899.107,67      34.652.598,64 
+a) Depositi bancari 1.272.609,09     1.613.618,65     
+c) Titoli emessi da Stati o da organismi internazionali 11.183.934,25   12.078.979,61   
+d) Titoli di debito quotati 22.163.062,50   19.641.023,52   
+h) Quote di O.I.C.R. 516.568,14       495.655,15       
+l) Ratei e risconti attivi 484.947,32       385.076,99       
+n) Altre attività della gestione finanziaria 277.986,37       438.244,72       
+30  Crediti  di imposta -                    72.386,94       
+35.899.107,67      34.724.985,58 
+10  Passività  della  gestione  previdenziale 80.726,22            163.087,15     
+a) Debiti della gestione previdenziale 80.726,22         163.087,15       
+30  Passività  della  gestione  finanziaria 89.758,83            86.334,21       
+d) Altre passività della gestione finanziaria 89.758,83         86.334,21         
+40  Debiti  di imposta 137.513,69          -               
+307.998,74          249.421,36     
+100  Attivo  netto  destinato  alle  prestazioni 35.591.108,93      34.475.564,22 
+472.502,47          613.053,11     
+31/12/2024
+TOTALE  ATTIVITA’
+TOTALE  PASSIVITA’
+CONTI  D’ORDINE
+STATO  PATRIMONIALE  – FASE  DI ACCUMULO  
+LINEA  PRUDENTE 31/12/2025
+10  Saldo  della  gestione  previdenziale 420.296,35          1.115.658,48   
+a) Contributi per le prestazioni 3.131.795,62     3.190.668,10     
+b) Anticipazioni 734.342,01-       593.016,75-       
+c) Trasferimenti e riscatti 460.517,15-       35.627,17-         
+d) Trasformazioni in rendita -                  -                  
+e) Erogazioni in forma di capitale 1.516.640,11-     1.446.365,70-     
+20  Risultato  della  gestione  finanziaria 1.227.088,26        1.669.155,13   
+a) Dividendi e interessi 1.045.678,58     959.921,30       
+b) Profitti e perdite da operazioni finanziarie 181.409,68       709.233,83       
+30  Oneri  di gestione 394.326,21-          374.345,85-     
+a) Società di gestione 394.326,21-       374.345,85-       
+40  Variazione  dell’attivo  netto  destinato  alle  prestazioni
+ante  imposta  sostitutiva  (10)+(20)+(30) 1.253.058,40        2.410.467,76   
+50  Imposta  sostitutiva 137.513,69-          238.522,40-     
+1.115.544,71        2.171.945,36   Variazione  dell’attivo  netto  destinato  alle  prestazioni  (40)+(50)
+31/12/2024CONTO  ECONOMICO  – FASE  DI ACCUMULO                                    
+LINEA  PRUDENTE 31/12/2025
+=== pagina 21 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+21 
+ 
+ 
+Il valore quota della Linea Prudente al 31/12/2025 è pari a € 17,81. 
+Informazioni sullo Stato Patrimoniale  
+Investimenti: € 35.899.107,67 
+• Depositi bancari: € 1.272.609,09 
+Sono costituiti dal saldo liquido al 31/12/2025 dei conti correnti bancari, uno in euro e uno in dollari, 
+accesi presso BFF Bank S.p.A. e dagli eventuali interessi maturati sui depositi medesimi.  
+Nello specifico, le disponibilità liquide in valuta possedute ammontano a 10.025,27 dollari pari a                 
+8.532,14 euro. 
+• Titoli emessi da Stati o da organismi internazionali: €11.183.934,25 
+Sono rappresentati dai titoli di Stato o di organismi internazionali quotati, valutati in base ai rispettivi 
+prezzi di chiusura alla data del 31/12/2025. 
+• Titoli di debito quotati: € 22.163.062,50 
+Sono rappresentati dai titoli di debito quotati emessi da imprese private, valutati in base ai rispettivi prezzi 
+di chiusura alla data del 31/12/2025 
+• Quote di O.I.C.R.: € 516.568,14 
+Sono rappresentati da quote di OICR non quotate (che investono nel comparto obbligazionario), valutate 
+in base ai rispettivi prezzi di chiusura alla data del 31/12/2025. 
+• Ratei e risconti attivi: € 484.947,32 
+Sono rappresentati dai ratei di interessi sui predetti titoli maturati alla data del 31/12/2025. 
+• Altre attività della gestione finanziaria: € 277.986,37 
+Sono rappresentate dai crediti per: 
+➢ Credito per gestione previdenziale: € 277.968,43 derivante da quote da emettere per 
+avvaloramento del 31/12/2025 
+➢ spese bancarie e di intermediazione verso HDI Assicurazioni: € 17,94 
+ 
+ 
+(importi  in Euro)
+Numero Controvalore
+Quote in essere all'inizio dell'esercizio 1.976.377,01 34.475.564,22
+Quote emesse 259.287,19 3.131.795,62
+Quote annullate/rimborsate -237.474,57 -2.711.499,27 
+Altre variazioni -                    695.248,36
+Quote  in essere  alla  fine  dell'esercizio 1.998.189,62  35.591.108,93
+=== pagina 22 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+22 
+ 
+Si riporta di seguito l’indicazione dei primi 50 titoli detenuti in portafoglio, specificandone il valore e la quota 
+sul totale delle attività: 
+ 
+Descrizione  Titolo Codice  ISIN Valore  in  euro % Totale  Attività
+EU 2 5/8 07/04/28 EU000A4D5QM6 2.619.656,00      7,30%
+RFGB 2 3/4 07/04/28 FI4000037635 1.519.890,00      4,23%
+EU 2 7/8 04/04/28 EU000A1G6TV9 1.417.290,00      3,95%
+BTPS 4.35 11/01/33 IT0005544082 1.399.139,43      3,90%
+ANNGR 0 5/8 03/24/31 DE000A3E5FR9 870.970,00         2,43%
+TRNIM 4 3/4 PERP XS2798269069 723.625,00         2,02%
+ANIMIM 1 3/4 10/23/26 XS2069040389 596.544,00         1,66%
+ASSGEN 5.8 07/06/32 XS2468223107 553.720,00         1,54%
+BTPS 5 1/4 11/01/29 IT0001278511 548.631,60         1,53%
+GEMFUNDS-GEMBOND FR0014007SB9 516.568,14         1,44%
+ANESM 3 3/4 04/25/30 XS2610209129 511.210,00         1,42%
+BTPS 3.65 08/01/35 IT0005631590 507.666,50         1,41%
+BTPS 2.8 06/15/29 IT0005495731 504.395,65         1,41%
+PGB 2 7/8 07/21/26 PTOTETOE0012 502.100,00         1,40%
+TITIM 3 5/8 05/25/26 XS1419869885 501.400,00         1,40%
+BNSIM 2 3/8 02/20/28 XS1772457633 499.405,00         1,39%
+MERYFP 4 06/04/32 FR001400ZOM2 499.375,00         1,39%
+STLA 3 7/8 06/06/31 XS3090081897 499.035,00         1,39%
+BTPS 4.1 04/30/46 IT0005631608 498.620,00         1,39%
+ADIFAL 1 1/4 05/04/26 ES0200002030 498.280,00         1,39%
+BTPS 1.35 04/01/30 IT0005383309 474.152,40         1,32%
+TKOFP 1 5/8 03/31/29 FR0014002PC4 469.600,00         1,31%
+HEIBOS 1 5/8 10/13/31 XS2397252011 439.075,00         1,22%
+WLNFP 5 1/2 06/10/30 FR0014010A08 435.955,00         1,21%
+AEMSPA 1 11/02/33 XS2403533263 412.605,00         1,15%
+FRFP 5 3/8 05/28/27 FR001400EA16 410.772,00         1,14%
+CDEP 0 3/4 06/30/29 IT0005451197 372.844,00         1,04%
+TRNIM 0 3/8 06/23/29 XS2357205587 367.076,00         1,02%
+CRELAN 6 02/28/30 BE0002936178 325.500,00         0,91%
+EPEN 5 7/8 11/30/29 XS2822505439 319.830,00         0,89%
+BAMIIM 4 7/8 01/17/30 IT0005580136 315.750,00         0,88%
+SABSM 5 06/07/29 XS2598331242 315.375,00         0,88%
+SLOREP 3 5/8 03/11/33 SI0002104303 314.250,00         0,88%
+SAUR 4 7/8 10/24/29 XS2918553855 310.584,00         0,87%
+ANNGR 4 3/4 05/23/27 DE000A30VQA4 308.058,00         0,86%
+GE 4 5/8 02/22/27 XS0288429532 306.540,00         0,85%
+AARB 5 7/8 05/29/26 DE000AAR0413 303.633,00         0,85%
+ENELIM 4 1/4 PERP XS2975137618 303.375,00         0,85%
+MEX 3 5/8 04/09/29 XS1054418600 302.145,00         0,84%
+VW 3 7/8 11/19/31 XS2941605235 301.998,00         0,84%
+PSABFR 3 7/8 01/19/26 FR001400F6V1 300.132,00         0,84%
+ACSSCE 1 7/8 04/20/26 XS1799545329 299.898,00         0,84%
+AQUASM 2.629 06/08/27 XS1627343186 299.727,00         0,83%
+EMN 1 7/8 11/23/26 XS1523250295 298.128,00         0,83%
+KHC 2 1/4 05/25/28 XS1405784015 295.899,00         0,82%
+ABBV 2 1/8 11/17/28 XS1520907814 295.059,00         0,82%
+COLSM 2 1/2 11/28/29 XS1725678194 293.142,00         0,82%
+ANESM 0 3/8 10/07/27 XS2388941077 288.507,00         0,80%
+ENELIM 0 3/8 05/28/29 XS2390400716 278.250,00         0,78%
+ENELIM 0 7/8 01/17/31 XS2432293756 267.768,00         0,75%
+Altri Titoli 8.050.416,17      22,43%
+Depositi  Bancari 1.272.609,09      3,54%
+Ratei e Risconti  attivi 484.947,32         1,35%
+Altre attività  della  gestione  finanziaria 277.986,37         0,77%
+Totale  Portafoglio 35.899.107,67   100%0 -1
+=== pagina 23 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+23 
+ 
+Gli investimenti in titoli emessi da Stati o da organismi internazionali sono concentrati nell’Area dei Paesi U.E., 
+mentre gli investimenti in quote di O.I.C.R sono concentrati nell’Area dei Paesi NON OCSE: 
+ 
+La seguente tabella riepiloga la durata media finanziaria dei titoli di debito in portafoglio relativa alle tipologie 
+più significative di titoli: 
+ 
+Il controvalore degli acquisti e delle vendite di strumenti finanziari, distinti per tipologia, è riepilogato nella 
+seguente tabella: 
+ 
+Non ci sono operazioni di acquisto e di vendita di titoli stipulate e non ancora regolate alla data di chiusura 
+dell'esercizio, né operazioni in situazioni di conflitto di interesse. 
+ 
+Conti d’ordine: € 472.502,47 
+• Rappresentano i contributi da ricevere e quindi valorizzati nell’esercizio successivo.   
+Passività della gestione previdenziale: € 80.726,22 
+• Passività della gestione previdenziale: € 80.726,22 
+Passività della gestione finanziaria: € 89.758,83  
+• Altre passività della gestione finanziaria: € 89.758,83.  
+Rappresentano i debiti verso HDI Assicurazioni per commissioni di gestione relative al IV trimestre 
+2025. 
+Debiti d’imposta: € 137.513,69 
+• il saldo è determinato dall’imposta a debito riferita all’anno 2025 pari a € 137.513.,69.  
+Attivo netto destinato alle prestazioni: € 35.591.108,93 
+• Attivo netto destinato alle prestazioni per l’anno 2025. 
+Titoli  di debito Peso
+Altri Paesi U.E. 62,07%
+Italia 30,80%
+Altri Paesi  OCSE 3,94%
+USA 2,67%
+Altri Paesi  NON OCSE 0,52%
+Totale 100%
+Titoli  di debito  quotati  con  scadenza  oltre  i 6 mesi 93,40%
+Quote  di O.I.C.R. Peso
+Altri Paesi NON OCSE 76,41%
+Altri Paesi  OCSE 14,25%
+Altri Paesi U.E. 7,40%
+USA 1,94%
+Totale  100%
+Categoria  Bilancio Duration  modificata
+Titoli emessi da Stati quotati 3,970
+Titoli di debito quotati 3,070
+Totale  3,380  
+(importi in Euro)
+Categoria  Bilancio Acquisti Vendite
+Titoli emessi da Stati quotati -6.906.620,00 4.032.971,00
+Titoli di debito quotati -4.712.596,00 0,00
+Quote di O.I.C.R. 0,00 0,00
+Totale -11.619.216,00  4.032.971,00
+=== pagina 24 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+24 
+ 
+Informazioni sul Conto Economico  
+Saldo della gestione previdenziale: € 420.296,35 
+• Contributi per le prestazioni: 3.131.795,62 
+Sono rappresentati dai contributi incassati dagli aderenti e destinati all’investimento nel 2025.  
+• Trasferimenti e riscatti: - € 460.517,15 
+di cui: 
+➢ Trasferimenti da altri fondi: € 1.317.919,61 
+➢ Switch in entrata: € 109.074,57 
+➢ Riscatti: - € 488.764,29 
+➢ Trasferimenti ad altri fondi: - € 721.435,41 
+➢ Switch in uscita: - € 677.311,63 
+• Erogazione in forma di capitale: - € 1.516.640,11 
+• Anticipazioni: - € 734.342,01 
+Risultato della gestione finanziaria: € 1.227.088,26 
+• Dividendi e interessi: € 1.045.678,58 
+di cui: 
+➢ Interessi su titoli di Stato quotati: € 337.434,16 
+➢ Interessi su titoli obbligazionari quotati: € 646.989.93 
+➢ Interessi attivi su c/c: € 31.014,66 
+➢ Proventi su quote di O.I.C.R. non quotate: € 30.239,83 
+• Profitti e perdite da operazioni finanziarie: € 181.409,68 
+di cui:  
+➢ plusvalenze realizzate su titoli di Stato quotati: € 43.036.01 
+➢ plusvalenze realizzate su titoli obbligazionari quotati: € 13.783,19 
+➢ plusvalenze realizzate sulle quote di O.I.C.R. non quotate: € 20.912,99 
+➢ plusvalenze da valutazione al mercato dei titoli di Stato quotati: € 56.654.68 
+➢ plusvalenze da valutazione al mercato dei titoli obbligazionari quotati: € 221.875,80 
+➢ minusvalenze realizzate su titoli di Stato quotati: - € 5.806,39 
+➢ minusvalenze realizzate su titoli obbligazionari quotati: - € 6.516,67 
+➢ minusvalenze realizzate su cambi: - € 1.072,76 
+➢ minusvalenze da valutazione al mercato su titoli di Stato quotati: € -43.225,61 
+➢ minusvalenze da valutazione al mercato dei titoli obbligazionari quotati: - € 118.231,50 
+➢ minusvalenze da valutazione su cambi: - € 0,06 
+Oneri di gestione: - € 394.326,21 
+• Sono interamente riferiti alle commissioni di gestione riconosciute alla società di gestione. 
+Imposta sostitutiva: - € 137.513,69 
+• Dato riferito interamente alla quota parte di competenza dell’imposta sostitutiva a debito maturata 
+al 31/12/2025. 
+Variazione dell’Attivo Netto Destinato alle Prestazioni € 1.115.544,71 
+• La variazione dell’Attivo Netto Destinato alle Prestazioni rappresenta il risultato economico ottenuto 
+dalla linea di investimento nel corso dell’esercizio.
+=== pagina 25 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+25 
+ 
+Linea Equilibrata  
+Rendiconto della fase di accumulo al 31 dicembre 2025 
+Fondo Pensione Aperto - Azione di Previdenza  
+Stato Patrimoniale - Fase di accumulo 
+ 
+Conto Economico - Fase di accumulo  
+ 
+ 
+Linea Equilibrata -Valuta di denominazione: Euro  
+La linea è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo la crescita del capitale 
+in un orizzonte temporale di medio-lungo periodo e presenta un profilo di rischio medio alto. La politica di 
+investimento è volta ad assicurare una composizione bilanciata del portafoglio, nel quale la componente 
+azionaria non può superare il 50%. La componente obbligazionaria privilegia investimenti in titoli di stato di 
+Paesi aderenti all’OCSE, con una duration media non superiore a sei anni. L’esposizione in valuta estera del 
+portafoglio non può superare il 65% del patrimonio, con investimenti in titoli di Paesi emergenti in misura 
+marginale.  
+ 
+10  Investimenti 181.106.471,02 159.443.694,92 
+a) Depositi bancari 13.449.829,01   5.491.288,16     
+c) Titoli emessi da Stati o da organismi internazionali 30.136.663,16   32.938.272,21   
+d) Titoli di debito quotati 54.917.742,05   44.073.241,51   
+e) Titoli di capitale quotati 49.362.918,17   48.391.205,00   
+g) Titoli di capitale non quotati 63.230,73         40.000,00         
+h) Quote di O.I.C.R. 30.665.333,59   26.092.166,20   
+i) Opzioni acquistate -                  4.927,73           
+l) Ratei e risconti attivi 1.240.888,46     747.587,66       
+n) Altre attività della gestione finanziaria 1.269.865,85     1.665.006,45     
+30  Crediti  di imposta -                 -                 
+181.106.471,02 159.443.694,92 
+10  Passività  della  gestione  previdenziale 1.111.321,19    467.721,56       
+a) Debiti della gestione previdenziale 1.111.321,19     467.721,56       
+30  Passività  della  gestione  finanziaria 625.937,40       554.041,16       
+d) Altre passività della gestione finanziaria 625.937,40       554.041,16       
+40  Debiti  di imposta 2.449.994,98    746.051,00       
+4.187.253,57    1.767.813,78    
+100  Attivo  netto  destinato  alle  prestazioni 176.919.217,45 157.675.881,14 
+2.472.689,90    1.984.039,85    
+TOTALE  ATTIVITA’
+TOTALE  PASSIVITA’
+STATO  PATRIMONIALE  – FASE  DI ACCUMULO                                
+LINEA  EQUILIBRATA 31/12/2025 31/12/2024
+CONTI  D’ORDINE
+10  Saldo  della  gestione  previdenziale 9.106.894,72    8.164.945,85    
+a) Contributi per le prestazioni 17.399.383,13   15.737.433,38   
+b) Anticipazioni 3.900.047,71-     4.067.538,89-     
+c) Trasferimenti e riscatti 1.294.669,82-     482.774,75       
+d) Trasformazioni in rendita 75.260,14-         -                  
+e) Erogazioni in forma di capitale 3.022.510,74-     3.987.723,39-     
+20  Risultato  della  gestione  finanziaria 15.142.528,17   10.716.835,92   
+a) Dividendi e interessi 4.457.333,05     4.143.146,90     
+b) Profitti e perdite da operazioni finanziarie 10.685.195,12   6.573.689,02     
+30  Oneri  di gestione 2.556.091,60-    2.290.100,72-    
+a) Società di gestione 2.556.091,60-     2.290.100,72-     
+40  Variazione  dell’attivo  netto  destinato  alle  prestazioni
+ante  imposta  sostitutiva  (10)+(20)+(30) 21.693.331,29   16.591.681,05   
+50  Imposta  sostitutiva 2.449.994,98-    1.624.217,70-    
+19.243.336,31   14.967.463,35   Variazione  dell’attivo  netto  destinato  alle  prestazioni  (40)+(50)
+CONTO  ECONOMICO  – FASE  DI ACCUMULO  LINEA  
+EQUILIBRATA 31/12/2025 45.657,00
+=== pagina 26 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+26 
+ 
+Informazioni sulla Linea Equilibrata  
+Gli aderenti alla Linea Equilibrata al 31/12/2025 sono 10.705. 
+Il numero delle quote attribuite nel corso dell’anno 2025 e il rispettivo controvalore risultano dal seguente 
+prospetto:  
+ 
+Il valore quota della Linea Equilibrata al 31/12/2025 è pari a € 21,15. 
+Informazioni sullo Stato Patrimoniale  
+Investimenti: € 181.106.471,02 
+• Depositi bancari: € 13.449.829,01 
+Sono costituiti dal saldo liquido al 31/12/2025 dei conti correnti bancari, uno in euro e uno in dollari, 
+accesi presso BFF Bank S.p.A. e dagli eventuali interessi maturati sui depositi medesimi.  
+Nello specifico, le disponibilità liquide in valuta possedute ammontano a 1.265.947,24 dollari pari a 
+1.077.401,91 euro. 
+• Titoli emessi da Stati o da organismi internazionali: € 30.136.663,16 
+Sono rappresentati dai titoli di Stato o di organismi internazionali quotati, valutati in base ai rispettivi 
+prezzi di chiusura alla data del 31/12/2025. 
+• Titoli di debito quotati: € 54.917.742,05 
+Sono rappresentati dai titoli di debito quotati emessi da imprese private, valutati in base ai rispettivi prezzi 
+di chiusura alla data del 31/12/2025. 
+• Titoli di capitale quotati: € 49.362.918,17 
+Sono rappresentati dai titoli azionari quotati, valutati in base ai rispettivi prezzi di chiusura alla data del 
+31/12/2025. 
+• Titoli di capitale non quotati: € 63.230,73 
+Sono rappresentati dai titoli azionari non quotati.  
+• Quote di O.I.C.R.: € 30.665.333,59 
+Sono rappresentati da quote di OICR quotate (che investono prevalentemente nel comparto azionario), 
+valutate in base ai rispettivi prezzi di chiusura alla data del 31/12/2025 e da non quotate (valutati in base 
+al NAV che viene inviato dalla società emittente). 
+• Ratei e risconti attivi: € 1.240.888,46 
+Sono rappresentati dai ratei di interessi sui predetti titoli maturati alla data del 31/12/2025. 
+• Altre attività della gestione finanziaria: € 1.269.865,85 
+Sono rappresentate dai crediti per: 
+➢ Credito gestione previdenziale: € 1.262.690,64 derivante da quote da emettere per 
+avvaloramento del 31/12/2025 
+➢ dividendi da incassare: € 3.970,41 
+➢ spese bancarie e di intermediazione verso HDI Assicurazioni: € 3.204,80 
+(importi in Euro)
+Numero Controvalore
+Quote in essere all'inizio  dell'esercizio 7.925.690,94 157.675.881,14
+Quote emesse 1.091.291,08 17.399.383,13
+Quote annullate/rimborsate -653.318,52  -8.292.488,41  
+Altre variazioni -                         10.136.441,59
+Quote  in  essere  alla  fine  dell'esercizio 8.363.663,50  176.919.217,45
+=== pagina 27 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+27 
+ 
+ 
+ 
+Si riporta di seguito l’indicazione dei primi 50 titoli detenuti in portafoglio, specificandone il valore e la 
+quota sul totale delle attività:  
+ 
+Descrizione  Titolo Codice  ISIN Valore  in  euro % Totale  Attività
+EU 2 5/8 07/04/28 EU000A4D5QM6 7.455.944,00         4,12%
+EU 2 7/8 04/04/28 EU000A1G6TV9 3.745.695,00         2,07%
+BTPS 5 1/4 11/01/29 IT0001278511 3.291.789,60         1,82%
+BTPS 4.05 10/30/37 IT0005596470 3.110.252,70         1,72%
+LYXOR DAX (DR) UCITS ETF LU0252633754 2.444.718,15         1,35%
+FIRST STATE GLOBAL UMBRELLA FU IE00BFY85B09 2.224.921,62         1,23%
+LYXOR NET ZERO 2050 S&P EUROZO LU2195226068 2.002.908,77         1,11%
+INFINEON TECHNOLOGIES AG DE0006231004 1.795.646,16         0,99%
+T 3 7/8 03/31/27 US91282CMV09 1.709.441,48         0,94%
+BTPS 3.65 08/01/35 IT0005631590 1.522.999,50         0,84%
+BTPS 4.35 11/01/33 IT0005544082 1.506.765,54         0,83%
+STLA 3 7/8 06/06/31 XS3090081897 1.497.105,00         0,83%
+KPN 4 7/8 PERP XS2824778075 1.343.875,00         0,74%
+DB X-TRACKERS FTSE MIB INDEX U LU0274212538 1.314.667,05         0,73%
+AMUNDI ETF FTSE MIB UCITS ETF LU1681037518 1.209.250,28         0,67%
+FRTR 5 3/4 10/25/32 FR0000187635 1.160.500,00         0,64%
+BTPS 1.35 04/01/30 IT0005383309 1.137.965,76         0,63%
+BNP PARIBAS FUNDS - AQUA LU1165135952 1.101.234,02         0,61%
+UBS LUX FUND SOLUTIONS - EURO LU1971906802 1.091.800,41         0,60%
+ISHARES DOW JONES GLOBAL SUSTA IE00B57X3V84 1.086.637,20         0,60%
+RCFFP 5 3/4 11/22/31 FR001400M2G2 1.078.750,00         0,60%
+BNP PARIBAS EASY S&P 500 ESG U IE0004J37T45 1.049.970,39         0,58%
+VALORI SICAV-HEARTH ETHICAL FU LU2481105620 1.049.785,50         0,58%
+BTPS 4.15 10/01/39 IT0005582421 1.033.889,20         0,57%
+BNP PARIBAS EASY MSCI NORTH AM LU1291104575 1.032.897,01         0,57%
+DB X-TRACKERS MSCI EMU INDEX U LU0846194776 1.020.396,68         0,56%
+TRADE AND RECEIVABLE FINANCE F LU2131876513 1.013.580,00         0,56%
+=== pagina 28 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+28 
+ 
+ 
+Gli investimenti in strumenti finanziari risultano costituiti da titoli di debito, titoli di capitale e quote di 
+O.I.C.R. emessi principalmente da Altri Paesi U.E.: 
+ 
+Descrizione  Titolo Codice  ISIN Valore  in  euro % Totale  Attività
+TKOFP 4 1/4 04/08/31 FR001400YPL4 1.012.580,00         0,56%
+DOLOEN 3 1/2 10/09/30 IT0005669400 1.012.260,00         0,56%
+CERTSP 4 1/4 01/30/31 XS2986319205 1.008.770,00         0,56%
+DEQGR 4 1/2 10/15/30 XS3090109813 1.004.740,00         0,55%
+PKNPW 3 5/8 07/02/32 XS3104553931 997.870,00            0,55%
+AMUNDI MSCI WORLD SRI CLIMATE IE000Y77LGG9 991.648,84            0,55%
+FONDO INFRASTRUTTURE PER LA CR IT0005399768 990.276,89            0,55%
+EURIZON AZIONI PMI ITALIA IT0005244964 983.110,60            0,54%
+EOFP 2 3/8 06/15/29 XS2312733871 973.730,00            0,54%
+ENGIFP 4 1/4 03/06/44 FR001400OJE3 964.260,00            0,53%
+EIFFAGE SA FR0000130452 955.576,80            0,53%
+FERROV 0 3/8 03/25/28 XS2324772453 952.020,00            0,53%
+LAMART 2 7/8 04/14/32 FR0014009OK5 951.850,00            0,53%
+BNP PARIBAS FUNDS CLIMATE IMPA LU0406802768 945.262,38            0,52%
+XTRACKERS ESG MSCI EUROPE UCIT IE00BFMNHK08 932.665,50            0,51%
+NN GROUP NV NL0010773842 926.868,26            0,51%
+ASSICURAZIONI GENERALI SPA IT0000062072 891.211,75            0,49%
+HEIBOS 1 5/8 10/13/31 XS2397252011 878.150,00            0,48%
+VTRS 1.908 06/23/32 XS2193983108 875.490,00            0,48%
+WLNFP 5 1/2 06/10/30 FR0014010A08 871.910,00            0,48%
+FRANKLIN MSCI CHINA PARIS ALIG IE000EBPC0Z7 850.859,52            0,47%
+SAP SE DE0007164600 834.233,40            0,46%
+EDPPL 3 7/8 03/11/30 XS2542914986 824.632,00            0,46%
+Altri Titoli 94.482.525,74      52,17%
+Depositi  Bancari 13.449.829,01      7,43%
+Ratei e Risconti  attivi 1.240.888,46         0,69%
+Altre attività  della gestione  finanziaria 1.269.865,85         0,70%
+Totale  Portafoglio 181.106.471,02   100%
+Titoli  di debito Peso
+Altri Paesi U.E. 54,76%
+Italia 38,15%
+USA 4,14%
+Altri Paesi  OCSE 2,95%
+Totale 100%
+Titoli  di debito  quotati  con  scadenza  oltre  i 6 mesi 96,97%
+Titoli  di capitale Peso
+Altri Paesi U.E. 71,08%
+Italia 21,35%
+USA 6,41%
+Altri Paesi  OCSE 1,16%
+Totale 100%
+Quote  di O.I.C.R. Peso
+Altri Paesi U.E. 42,93%
+Altri Paesi  OCSE 10,06%
+Italia 16,44%
+USA 23,94%
+Altri Paesi NON OCSE 6,63%
+Totale  100%
+=== pagina 29 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+29 
+ 
+La seguente tabella riepiloga la durata media finanziaria dei titoli di debito in portafoglio relativa alle 
+tipologie più significative di titoli: 
+ 
+Il controvalore degli acquisti e delle vendite di strumenti finanziari, distinti per tipologia, è riepilogato nella 
+seguente tabella: 
+ 
+ 
+Non ci sono operazioni di acquisto e di vendita di titoli stipulate e non ancora regolate alla data di chiusura 
+dell'esercizio, né operazioni in situazioni di conflitto di interesse. 
+Con riferimento al portafoglio azionario, la Linea Equilibrata ha una esposizione in valuta in dollari USA pari 
+al 6,22% del totale dei titoli di capitale. Nelle seguenti tabelle sono riportati i titoli di capitale in valuta estera 
+presenti in portafoglio:  
+ 
+Con riferimento al portafoglio obbligazionario, la Linea Equilibrata ha una esposizione in valuta interamente 
+in dollari USA pari al 2,01% del totale dei titoli obbligazionari. 
+ 
+ 
+Categoria  Bilancio Duration  modificata
+Titoli emessi da Stati quotati 4,560
+Titoli di debito quotati 3,450
+Altri titoli Minibond 0,060
+Totale  3,840  
+(importi in Euro)
+Categoria  Bilancio Acquisti Vendite
+Titoli emessi da Stati quotati -22.612.743,98 15.246.035,71
+Titoli di debito quotati -19.147.560,00 1.850,08
+Titoli di capitale quotati -6.554.259,73 14.179.061,79
+Quote di O.I.C.R. -9.726.631,80 7.061.174,06
+Totale -58.041.195,51 36.488.121,64
+(importi in Euro)
+Comparto ISIN Descrizione Valori  in  USD Controvalore  euro
+Linea Equilibrata US0378331005                    APPLE INC                                                   567.372 482.870
+Linea Equilibrata US68389X1054                    ORACLE CORP                                                 341.092 290.291
+Linea Equilibrata US0326541051                    ANALOG DEVICES INC                                          226.994 193.187
+Linea Equilibrata US58933Y1055                    MERCK & CO INC                                              210.099 178.808
+Linea Equilibrata US98419M1009                    XYLEM INC/NY                                                207.538 176.628
+Linea Equilibrata US7427181091                    PROCTER & GAMBLE CO/THE                                     166.956 142.090
+Linea Equilibrata US1941621039                    COLGATE-PALMOLIVE CO                                        166.574 141.765
+Linea Equilibrata US4370761029                    HOME DEPOT INC/THE                                          148.995 126.805
+Linea Equilibrata US0126531013                    ALBEMARLE CORP                                              144.552 123.023
+Linea Equilibrata US6541061031                    NIKE INC                                                    144.239 122.757
+Linea Equilibrata US81762P1021                    SERVICENOW INC                                              137.871 117.337
+Linea Equilibrata US8243481061                    SHERWIN-WILLIAMS  CO/THE                                     134.796 114.720
+Linea Equilibrata US2441991054                    DEERE & CO                                                  133.619 113.718
+Linea Equilibrata US2310211063                    CUMMINS INC                                                 129.654 110.344
+Linea Equilibrata IE00BY7QL619                    JOHNSON CONTROLS INTERNATIONAL                              104.422 88.870
+Linea Equilibrata IE00B4BNMY34                    ACCENTURE PLC                                               99.271 84.486
+Linea Equilibrata US00846U1016                    AGILENT TECHNOLOGIES INC                                    91.711 78.052
+Linea Equilibrata US5486611073                    LOWE'S COS INC                                              75.965 64.651
+Linea Equilibrata US6200763075                    MOTOROLA SOLUTIONS INC                                      74.747 63.615
+Linea Equilibrata US42824C1099                    HEWLETT PACKARD ENTERPRISE CO                               73.549 62.595
+Linea Equilibrata US92556V1061                    VIATRIS INC                                                 54.158 46.091
+Linea Equilibrata US0304201033                    AMERICAN WATER WORKS CO INC                                 50.895 43.315
+Linea Equilibrata US4824801009                    KLA CORP                                                    48.603 41.364
+Linea Equilibrata US7134481081                    PEPSICO INC                                                 41.190 35.056
+Linea Equilibrata US4943681035                    KIMBERLY-CLARK CORP                                         39.549 33.659
+3.614.411 3.076.097
+(importi in Euro)
+Comparto ISIN Descrizione Valori  in  USD Controvalore  euro
+Linea Equilibrata  US91282CMV09                    T 3 7/8 03/31/27                                            2.008.594  1.709.441
+2.008.594 1.709.441
+=== pagina 30 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+30 
+ 
+Conti d’ordine: € 2.472.689,90 
+• Rappresentano i contributi da ricevere e quindi valorizzati nell’esercizio successivo. 
+Passività della gestione previdenziale: € 1.111.321,19 
+• Altre passività della gestione previdenziale: € 1.111.321,19 derivante da quote da rimborsare per 
+avvaloramento del 31/12/2025 
+Passività della gestione finanziaria: € 625.937,40 
+• Altre passività della gestione finanziaria: € 625.937,40 
+Rappresentano i debiti verso HDI Assicurazioni per commissioni di gestione relative al IV trimestre 
+2025. 
+Debiti d’imposta: € 2.449.994,98 
+• il saldo è determinato dall’imposta a debito riferita all’anno 2025 pari a - € 2.449.994,98 
+Attivo netto destinato alle prestazioni: € 176.919.217,45 
+• Attivo netto destinato alle prestazioni per l’anno 2025. 
+ 
+Informazioni sul Conto Economico  
+Saldo della gestione previdenziale: € 9.106.894,72 
+• Contributi per le prestazioni: € 17.399.383,13 
+   Sono rappresentati dai contributi incassati dagli aderenti e destinati all’investimento nel 2025.  
+• Trasferimenti e riscatti: - € 1.294.669,82 
+di cui:  
+➢ Trasferimenti da altri fondi: € 4.130.442,17 
+➢ Switch in entrata: € 820.549,83 
+➢ Riscatti: - € 1.214.087,59 
+➢ Trasferimenti ad altri fondi: - € 3.718.130,18 
+➢ Switch in uscita: - € 1.313.444,05 
+• Trasformazioni in rendita: - € 75.260,14 
+• Erogazione in forma di capitale: - € 3.022.510,74 
+• Anticipazioni: - € 3.900.047,71 
+ 
+Risultato della gestione finanziaria: € 15.142.528,17 
+• Dividendi e interessi: € 4.457.333,05 
+di cui: 
+➢ Interessi su titoli di Stato quotati: € 970.463,11  
+➢ Interessi su titoli obbligazionari quotati: € 1.593.574,86 
+➢ Interessi su c/c bancari: € 133.269.88 
+➢ Dividendi su titoli azionari quotati: 1.821.948,71 
+➢ Dividendi su quote di O.I.C.R. quotate: € 231.446,19 
+➢ Recupero tassazione dividenti anni precedenti: -€ 12.779,42 
+➢ Ritenute su dividendi: - € 280.590,28 
+• Profitti e perdite da operazioni finanziarie: € 10.685.195,12 
+di cui:  
+➢ plusvalenze realizzate su titoli di Stato quotati: € 113.625.75 
+➢ plusvalenze realizzate su titoli obbligazionari quotati: € 56.666,14 
+➢ plusvalenze realizzate su titoli azionari quotati: € 3.169.177,56 
+➢ plusvalenze realizzate sulle quote di O.I.C.R. quotate: € 32.995,15  
+➢ plusvalenze da valutazione su cambi; € 1.145,74 
+➢ minusvalenze realizzate su titoli di Stato quotati: - € 14.589,90 
+➢ minusvalenze realizzate su titoli obbligazionari quotati: - € 18.233,77 
+➢ minusvalenze realizzate su titoli azionari quotati: - € 612.917,05  
+➢ minusvalenze realizzate su quote di O.I.C.R. quotate e non quotate: - € 511.178,95
+=== pagina 31 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+31 
+ 
+➢ minusvalenze realizzate su cambi; - € 135.836,78 
+➢ minusvalenze realizzati su opzioni: - € 4.927,73   
+➢ plusvalenze da valutazione al mercato dei titoli di Stato quotati: € 135.153,17 
+➢ plusvalenze da valutazione al mercato dei titoli obbligazionari quotati: € 533.186,80 
+➢ plusvalenze da valutazione al mercato dei titoli azionari quotati: € 8.652.073,66 
+➢ plusvalenze da valutazione al mercato dei titoli azionari non quotati: € 1.047,51 
+➢ plusvalenze da valutazione al mercato delle quote di O.I.C.R. quotate: € 2.595.015,53 
+➢ minusvalenze da valutazione al mercato dei titoli di Stato quotati: - € 148.921,20 
+➢ minusvalenze da valutazione al mercato dei titoli obbligazionari quotati: - € 308.853,47 
+➢ minusvalenze da valutazione al mercato dei titoli azionari quotati: - € 2.196.400,64 
+➢ minusvalenze da valutazione su cambi tioli azionari: - € 443.910,40 
+➢ minusvalenze da valutazione su quote di O.I.C.R. quotate e non quotate: - € 209.122,08  
+Oneri di gestione: - € 2.556.091,60 
+• Sono interamente riferiti alle commissioni di gestione riconosciute alla società di gestione. 
+Imposta sostitutiva: - € 2.449.994,98 
+• Dato riferito interamente alla quota parte di competenza dell’imposta sostitutiva a debito maturata 
+al 31/12/2025. 
+Variazione dell’Attivo Netto Destinato alle Prestazioni € 19.243.336,31 
+• La variazione dell’Attivo Netto Destinato alle Prestazioni rappresenta il risultato economico ottenuto 
+dalla linea di investimento nel corso dell’esercizio.
+=== pagina 32 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+32 
+ 
+Linea Dinamica  
+Rendiconto della fase di accumulo al 31 dicembre 2025 
+Fondo Pensione Aperto - Azione di Previdenza  
+Stato Patrimoniale - Fase di accumulo 
+ 
+Conto Economico - Fase di accumulo  
+ 
+Linea Dinamica - Valuta di denominazione: Euro  
+La linea è finalizzata a soddisfare le esigenze di aderenti che hanno come obiettivo la crescita del capitale in 
+un orizzonte temporale di lungo periodo e presenta un alto profilo di rischio. La politica di investimento è volta 
+prevalentemente verso strumenti finanziari azionari italiani ed esteri fino al 100% del portafoglio. Gli 
+investimenti sono orientati in titoli emessi in paesi aderenti all’OCSE e negoziati in mercati regolamentati. 
+L’esposizione in valuta estera del portafoglio non può superare il 65% del patrimonio con investimenti in titoli 
+di paesi emergenti in misura marginale.  
+ 
+Informazioni sulla Linea Dinamica  
+Gli aderenti alla Linea Dinamica al 31/12/2025 sono 8.924. 
+Il numero delle quote attribuite nel corso dell’anno 2025 e il rispettivo controvalore risultano dal seguente 
+prospetto:  
+10 Investimenti 132.167.392,82 107.199.854,43     
+a) Depositi bancari 14.630.398,11   4.567.307,29     
+c) Titoli emessi da Stati o da organismi internazionali -                  1.020.405,00     
+d) Titoli di debito quotati -                  2.354.591,00     
+e) Titoli di capitale quotati 79.128.807,61   72.637.396,85   
+g) Titoli di capitale non quotati 357.711,92       323.639,01       
+h) Quote di O.I.C.R. 37.053.313,18   25.329.078,99   
+i) Opzioni acquistate -                  4.952,69           
+l) Ratei e risconti attivi -                  29.308,89         
+n) Altre attività della gestione finanziaria 997.162,00       933.174,71       
+30  Crediti  di imposta -                 -                    
+132.167.392,82 107.199.854,43     
+10  Passività  della  gestione  previdenziale 392.953,41       358.411,22          
+a) Debiti della gestione previdenziale 392.953,41       358.411,22       
+30  Passività  della  gestione  finanziaria 580.424,12       477.841,48          
+d) Altre passività della gestione finanziaria 580.424,12       477.841,48       
+40 Debiti  d'imposta 3.238.851,50    1.459.796,72        
+4.212.229,03    2.296.049,42        
+100 Attivo  netto  destinato  alle  prestazioni 127.955.163,79 104.903.805,01     
+1.677.441,09    1.396.166,05        CONTI  D’ORDINE
+STATO  PATRIMONIALE  – FASE  DI ACCUMULO                                
+LINEA  DINAMICA 31/12/2025 31/12/2024
+TOTALE  ATTIVITA’
+TOTALE  PASSIVITA’
+10  Saldo  della  gestione  previdenziale 10.090.961,27   7.772.847,59        
+a) Contributi per le prestazioni 12.421.407,52   10.491.420,47   
+b) Anticipazioni 3.220.375,77-     2.475.083,17-     
+c) Trasferimenti e riscatti 1.742.351,17     984.761,31       
+e) Erogazioni in forma di capitale 852.421,65-       1.228.251,02-     
+20  Risultato  della  gestione  finanziaria 18.476.952,18   9.371.240,96        
+a) Dividendi e interessi 2.599.904,38     2.693.199,20     
+b) Profitti e perdite da operazioni finanziarie 15.877.047,80   6.678.041,76     
+30  Oneri  di gestione 2.277.703,17-    1.936.678,95-        
+a) Società di gestione 2.277.703,17-     1.936.678,95-     
+40  Variazione  dell’attivo  netto  destinato  alle  prestazioni
+ante  imposta  sostitutiva  (10)+(20)+(30) 26.290.210,28   15.207.409,60      
+50  Imposta  sostitutiva 3.238.851,50-    1.508.527,54-        
+23.051.358,78   13.698.882,06      Variazione  dell’attivo  netto  destinato  alle  prestazioni  (40)+(50)
+CONTO  ECONOMICO  – FASE  DI ACCUMULO  LINEA  DINAMICA 31/12/2025 31/12/2024
+=== pagina 33 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+33 
+ 
+ 
+Il valore quota della Linea Dinamica al 31/12/2025 è pari a € 21,75. 
+Informazioni sullo Stato Patrimoniale  
+Investimenti: € 132.167.392,82 
+• Depositi bancari: € 14.630.398,11 
+Sono costituiti dal saldo liquido al 31/12/2025 dei conti correnti bancari, uno in euro e uno in dollari, 
+accesi presso BFF Bank S.p.A. e dagli eventuali interessi maturati sui depositi medesimi.    
+Nello specifico, le disponibilità liquide in valuta possedute ammontano a 318.683,49 dollari pari a 
+271.219,99 euro. 
+• Titoli di capitale quotati: € 79.128.807,61. 
+Sono rappresentati dai titoli azionari quotati, valutati in base ai rispettivi prezzi di chiusura alla data del 
+31/12/2025. 
+• Titoli di capitale non quotati: € 357.711,92 
+Sono rappresentati dai titoli azionari non quotati. 
+• Quote di O.I.C.R.: € 37.053.313,18 
+Sono rappresentati da quote di OICR quotate (che investono prevalentemente nel comparto azionario), 
+valutate in base ai rispettivi prezzi di chiusura alla data del 31/12/2025 e da non quotate (valutati in base 
+al NAV che viene inviato dalla società emittente). 
+• Altre attività della gestione finanziaria: € 997.162,00 
+Sono rappresentate dai crediti per: 
+➢ Credito gestione previdenziale: € 982.113,49 derivante da quote da emettere per 
+avvaloramento del 31/12/2025 
+➢ dividendi da incassare: € 6.358,08 
+➢ spese bancarie e di intermediazione verso HDI Assicurazioni: € 8.690,43 
+ 
+Si riporta di seguito l’indicazione dei primi 50 titoli detenuti in portafoglio, specificandone il valore e la quota 
+sul totale delle attività: 
+(importi in Euro)
+Numero Controvalore
+Quote in essere all'inizio  dell'esercizio 5.395.186,28 104.903.805,01
+Quote emesse 870.156,07 12.421.407,52
+Quote annullate/rimborsate -384.710,73  -2.330.446,25  
+Altre variazioni -                         12.960.397,51
+Quote  in  essere  alla  fine  dell'esercizio 5.880.631,62 127.955.163,79
+=== pagina 34 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+34 
+ 
+ 
+Descrizione  Titolo Codice  ISIN Valore  in  euro % Totale  Attività
+NORDEA 1 SICAV - GLOBAL CLIMAT LU0348927095 3.515.995,32         2,66%
+LYXOR NASDAQ-100 UCITS ETF LU1829221024 3.058.492,95         2,31%
+INFINEON TECHNOLOGIES AG DE0006231004 2.542.586,97         1,92%
+LYXOR DAX (DR) UCITS ETF LU0252633754 2.420.637,80         1,83%
+NORDEA 1 SICAV - GLOBAL STARS LU0985319473 2.280.579,72         1,73%
+BNP PARIBAS EASY S&P 500 UCITS FR0011550185 2.040.324,06         1,54%
+LYXOR NET ZERO 2050 S&P EUROZO LU2195226068 2.025.712,50         1,53%
+AMUNDI ETF FTSE MIB UCITS ETF LU1681037518 1.571.895,50         1,19%
+SIEMENS AG DE0007236101 1.563.801,85         1,18%
+LYXOR DOW JONES INDUSTRIAL AVE FR0007056841 1.531.146,96         1,16%
+PRYSMIAN SPA IT0004176001 1.462.240,64         1,11%
+UBS LUX FUND SOLUTIONS - EURO LU1971906802 1.422.242,94         1,08%
+ISHARES DOW JONES GLOBAL SUSTA IE00B57X3V84 1.421.498,40         1,08%
+ENEL SPA IT0003128367 1.419.130,48         1,07%
+AXA SA FR0000120628 1.409.146,88         1,07%
+ENGIE SA FR0010208488 1.400.602,59         1,06%
+AMUNDI MSCI WORLD SRI CLIMATE IE000Y77LGG9 1.315.023,84         0,99%
+ACCOR SA FR0000120404 1.269.391,50         0,96%
+MERCK KGAA DE0006599905 1.211.901,00         0,92%
+DB X-TRACKERS FTSE MIB INDEX U LU0274212538 1.204.634,70         0,91%
+BAWAG GROUP AG AT0000BAWAG2 1.133.910,00         0,86%
+SAP SE DE0007164600 1.128.840,30         0,85%
+FIRST STATE GLOBAL UMBRELLA FU IE00BFY85B09 1.114.914,81         0,84%
+NOKIA OYJ FI0009000681 1.110.399,30         0,84%
+FRANKLIN MSCI CHINA PARIS ALIG IE000EBPC0Z7 1.086.365,28         0,82%
+NN GROUP NV NL0010773842 1.086.287,76         0,82%
+BNP PARIBAS FUNDS - AQUA LU1165135952 1.078.939,90         0,82%
+SACYR ES0182870214 1.073.920,68         0,81%
+ASSICURAZIONI GENERALI SPA IT0000062072 1.052.086,75         0,80%
+VALORI SICAV-HEARTH  ETHICAL FU LU2481105620 1.046.463,05         0,79%
+BNP PARIBAS EASY S&P 500 ESG U IE0004J37T45 1.041.733,39         0,79%
+ASML HOLDING NV NL0010273215 1.032.889,40         0,78%
+KONECRANES OYJ FI0009005870 1.026.984,30         0,78%
+SIEMENS HEALTHINEERS AG DE000SHL1006 1.025.029,48         0,78%
+BNP PARIBAS EASY MSCI NORTH AM LU1291104575 1.021.617,91         0,77%
+CAPGEMINI SE FR0000125338 1.005.423,00         0,76%
+DEUTSCHE TELEKOM AG DE0005557508 995.262,12            0,75%
+SANOFI FR0000120578 991.978,24            0,75%
+MONCLER SPA IT0004965148 990.152,68            0,75%
+VINCI SA FR0000125486 985.730,55            0,75%
+ASR NEDERLAND NV NL0011872643 980.164,78            0,74%
+ISHARES GLOBAL WATER UCITS ETF IE00B1TXK627 942.508,71            0,71%
+BNP PARIBAS FUNDS CLIMATE IMPA LU0406802768 912.148,40            0,69%
+SNAM SPA IT0003153415 877.160,76            0,66%
+AZIMUT HOLDING SPA IT0003261697 867.874,42            0,66%
+ANIMA HOLDING SPA IT0004998065 859.032,47            0,65%
+INTESA SANPAOLO SPA IT0000072618 855.850,95            0,65%
+THEAM QUANT EUROPE CLIMATE CAR FR0013397734 850.409,46            0,64%
+EDP - ENERGIAS DE PORTUGAL SA PTEDP0AM0009 798.472,08            0,60%
+HERA SPA IT0001250932 796.112,76            0,60%
+Altri Titoli 50.684.182,42      38,35%
+Depositi  Bancari 14.630.398,11      11,07%
+Ratei e Risconti  attivi -                          0,00%
+Altre attività  della  gestione  finanziaria 997.162,00            0,75%
+Totale  Portafoglio 132.167.392,82  100%
+=== pagina 35 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+35 
+ 
+Gli investimenti in strumenti finanziari risultano costituiti da titoli di capitale, quote di O.I.C.R. emessi 
+principalmente da Altri Paesi U.E.: 
+ 
+ 
+Il controvalore degli acquisti e delle vendite di strumenti finanziari, distinti per tipologia, è riepilogato nella 
+seguente tabella:   
+ 
+ 
+Non ci sono operazioni di acquisto e di vendita di titoli stipulate e non ancora regolate alla data di chiusura 
+dell'esercizio, né operazioni in situazioni di conflitto di interesse. 
+Con riferimento al portafoglio azionario, la Linea Dinamica ha una esposizione in valuta in dollari USA pari al 
+5,65% del totale dei titoli di capitale. Nella seguente tabelle sono riportati i titoli di capitale in valuta estera 
+presenti in portafoglio:  
+ 
+Titoli  di capitale Peso
+Altri Paesi U.E. 69,36%
+Italia 23,76%
+USA 5,53%
+Altri Paesi  OCSE 1,35%
+Totale 100%
+Quote  di O.I.C.R. Peso
+USA 39,64%
+Altri Paesi U.E. 35,58%
+Italia 9,98%
+Altri Paesi  OCSE 9,28%
+Altri Paesi NON OCSE 5,52%
+Totale  100%
+(importi in Euro)
+Categoria  Bilancio Acquisti Vendite
+Titoli emessi da Stati quotati -10.485.257,00 5.013.297,68
+Titoli di debito quotati 0,00 2.366.384,00
+Titoli di capitale quotati -19.281.042,20 26.195.094,19
+Quote di O.I.C.R. -13.570.028,50 4.306.194,85
+Listed option 0,00 10,40
+Totale -43.336.327,70  37.880.981,12  
+(importi in Euro)
+Comparto ISIN Descrizione Valori  in  USD Controvalore  euro
+Linea Dinamica US68389X1054                    ORACLE CORP                                                 670.490 570.630
+Linea Dinamica US58933Y1055                    MERCK & CO INC                                              407.146 346.507
+Linea Dinamica US7427181091                    PROCTER & GAMBLE CO/THE                                     341.651 290.767
+Linea Dinamica US98419M1009                    XYLEM INC/NY                                                289.927 246.747
+Linea Dinamica US0126531013                    ALBEMARLE CORP                                              257.704 219.322
+Linea Dinamica US2441991054                    DEERE & CO                                                  238.837 203.266
+Linea Dinamica US0382221051                    APPLIED MATERIALS INC                                       238.230 202.749
+Linea Dinamica US0326541051                    ANALOG DEVICES INC                                          226.994 193.187
+Linea Dinamica US6541061031                    NIKE INC                                                    222.093 189.015
+Linea Dinamica US6200763075                    MOTOROLA SOLUTIONS INC                                      220.026 187.256
+Linea Dinamica US2310211063                    CUMMINS INC                                                 216.431 184.196
+Linea Dinamica US0079031078                    ADVANCED MICRO DEVICES INC                                  213.946 182.082
+Linea Dinamica US1941621039                    COLGATE-PALMOLIVE CO                                        213.038 181.309
+Linea Dinamica IE00BY7QL619                    JOHNSON CONTROLS INTERNATIONAL                              208.844 177.740
+Linea Dinamica US0378331005                    APPLE INC                                                   206.614 175.841
+Linea Dinamica IE00B4BNMY34                    ACCENTURE PLC                                               204.445 173.995
+Linea Dinamica US5486611073                    LOWE'S COS INC                                              195.822 166.657
+Linea Dinamica US0758871091                    BECTON DICKINSON AND CO                                     155.256 132.133
+Linea Dinamica US8243481061                    SHERWIN-WILLIAMS  CO/THE                                     134.796 114.720
+Linea Dinamica US6153691059                    MOODY'S CORP                                                119.539 101.735
+=== pagina 36 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+36 
+ 
+ 
+Conti d’ordine: € 1.677.441,09 
+• Rappresentano i contributi da ricevere e quindi valorizzati nell’esercizio successivo. 
+Passività della gestione previdenziale: € 392.953,41 
+• Altre passività della gestione previdenziale: € 392.953,41 derivante da quote da rimborsare per 
+avvaloramento del 31/12/2025 
+Passività della gestione finanziaria: € 580.424,12 
+• Altre passività della gestione finanziaria: € 580.424,12. Rappresentano i debiti verso HDI 
+Assicurazioni per commissioni di gestione relative al IV trimestre 2025. 
+Debiti d’imposta: € 3.238.851,50 
+• il saldo è determinato dal debito riferita all’anno 2025 pari a € 3.238.851,50 
+• Nel mese di febbraio 2025 i crediti per imposta sostitutiva maturati nell’esercizio 2024 sulle Linee 
+Prudente e Garantita sono stati utilizzati in compensazione per il pagamento del debito di imposta 
+sostitutiva relativo alla Linea Dinamica, ai sensi della normativa vigente in materia di compensazione 
+orizzontale. Successivamente, è stato effettuato un trasferimento di liquidità dai comparti a debito 
+verso quelli a credito. 
+Si riporta qui di seguito la movimentazione: 
+ 
+Attivo netto destinato alle prestazioni: € 127.955.163,79 
+• Attivo netto destinato alle prestazioni per l’anno 2025. 
+ 
+Informazioni sul Conto Economico  
+Saldo della gestione previdenziale: € 10.090.961,27 
+• Contributi per le prestazioni: 12.421.407,52 
+Sono rappresentati dai contributi incassati dagli aderenti e destinati all’investimento nel 2025.  
+• Trasferimenti e riscatti: € 1.742.351,17 
+di cui:  
+➢ Trasferimenti da altri fondi: € 3.830.160,60  
+➢ Switch in entrata: € 1.597.365,68 
+➢ Riscatti: - € 709.726,24 
+➢ Trasferimenti ad altri fondi: - € 2.228.364,86 
+➢ Switch in uscita: - € 747.084,01 
+• Erogazione in forma di capitale: - € 852.421,65 
+• Anticipazioni: - € 3.220.375,77 
+Risultato della gestione finanziaria: € 18.476.952,18 
+Comparto ISIN Descrizione Valori  in  USD Controvalore  euro
+Linea Dinamica US4370761029                    HOME DEPOT INC/THE                                          112.177 95.469
+Linea Dinamica US81762P1021                    SERVICENOW INC                                              101.105 86.047
+Linea Dinamica US4943681035                    KIMBERLY-CLARK CORP                                         79.098 67.317
+5.274.209 4.488.688
+Linea  di investimento Credito  2024 Utilizzo  Credito  2024  Residuo
+Prudente 72.386,94 -72.386,94 0,00
+Garantita 196.918,49 -196.918,49 0,00
+Totale 269.305,43 -269.305,43 0,00
+Linea  di investimento Debito  2024 Utilizzo  Debito  2024  Versato
+Dinamica -1.467.796,72 269.305,43 -1.198.491,29 
+Totale -1.467.796,72 269.305,43 -1.198.491,29
+=== pagina 37 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+37 
+ 
+• Dividendi e interessi: € 2.599.904,38 
+di cui: 
+➢ Interessi su titoli di Stato quotati: € 10.036,52 
+➢ Interessi su titoli obbligazionari quotati: € 10.964,13 
+➢ Interessi su c/c bancari: € 131.801,44 
+➢ Dividendi su titoli azionari quotati: € 2.689.388,05 
+➢ Recupero tassazione dividendi anni precedenti: -€ 14.861,24 
+➢ Ritenute su dividendi: - € 349.327,28 
+➢ Proventi su quote di O.I.C.R. quotate: € 121.902,76 
+• Profitti e perdite da operazioni finanziarie: € 15.877.047,80 
+di cui:  
+➢ plusvalenze realizzate su titoli di Stato: € 4.776,85 
+➢ plusvalenze realizzate su titoli obbligazionari quotati: € 12.560,54 
+➢ plusvalenze realizzate su titoli azionari quotati: € 5.634.975,32 
+➢ plusvalenze realizzate su quote di O.I.C.R. quotate e non quotate: € 51.570,61 
+➢ minusvalenze realizzate su titoli di Stato quotati: - € 3,57 
+➢ minusvalenze realizzate su titoli obbligazionari quotati: - € 1.066,59 
+➢ minusvalenze realizzate su titoli azionari quotati: - € 1.101.606,53  
+➢ minusvalenze realizzate su cambi; - € 58.785,62 
+➢ minusvalenze realizzate su quote di O.I.C.R. quotate e non quotate: - € 52.085,16 
+➢ minusvalenze realizzati su opzioni: - € 4.942,29 
+➢ plusvalenze da valutazione al mercato dei titoli azionari quotati: € 12.230.626,72 
+➢ plusvalenze da valutazione al mercato dei titoli azionari non quotati: € 923,00 
+➢ plusvalenze da valutazione su cambi: € 1.501,22  
+➢ plusvalenze da valutazione al mercato delle quote di O.I.C.R. quotate e non quotate:                                  
+€ 2.618.243,86 
+➢ minusvalenze da valutazione al mercato dei titoli azionari quotati: - € 2.748.795,13  
+➢ minusvalenze da cambi: - € 553.516,66 
+➢ minusvalenze da valutazione al mercato delle quote di O.I.C.R. quotate e non quotate:                              
+- € 157.328,77 
+Oneri di gestione: - € 2.277.703,17 
+• Sono interamente riferiti alle commissioni di gestione riconosciute alla società di gestione.  
+Imposta sostitutiva: - € 3.238.851,50 
+• Dato riferito alla quota parte di competenza dell’imposta sostitutiva a debito maturata al 31/12/2025. 
+Variazione dell’Attivo Netto Destinato alle Prestazioni € 23.051.358,78 
+• La variazione dell’Attivo Netto Destinato alle Prestazioni rappresenta il risultato economico ottenuto 
+dalla linea di investimento nel corso dell’esercizio.
+=== pagina 38 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+38 
+ 
+Linea Garantita  
+Rendiconto della fase di accumulo al 31 dicembre 2025 
+Fondo Pensione Aperto - Azione di Previdenza 
+Stato Patrimoniale - Fase di accumulo 
+ 
+Conto Economico - Fase di accumulo  
+ 
+Linea Garantita - Valuta di denominazione: Euro  
+La linea è finalizzata a soddisfare le esigenze degli aderenti con una bassa propensione al rischio o prossimi 
+alla pensione. Prevede, infatti, al verificarsi di taluni eventi (pensionamento, decesso, invalidità permanente, 
+inoccupazione superiore a 48 mesi), la corresponsione di un importo minimo garantito a prescindere dai 
+risultati di gestione. La politica di investimento è volta ad assicurare una composizione del portafoglio 
+ampiamente diversificata con prevalenza di titoli di debito denominati in Euro (la componente azionaria non 
+potrà eccedere il 10% del patrimonio, comprendendo gli OICR e i fondi chiusi). L’orizzonte temporale 
+consigliato è il medio periodo.  
+10  Investimenti 168.449.125,39 157.074.917,81 
+a) Depositi bancari 5.304.445,99     5.047.351,61     
+c) Titoli emessi da Stati o da organismi internazionali 73.427.882,61   79.993.701,54   
+d) Titoli di debito quotati 78.001.051,85   57.821.314,41   
+e) Titoli di capitale quotati 582.073,93       428.134,50       
+h) Quote di O.I.C.R. 7.860.324,68     10.088.312,83   
+l) Ratei e risconti attivi 1.872.904,93     1.350.129,53     
+n) Altre attività della gestione finanziaria 1.400.441,40     2.345.973,39     
+20  Garanzie  di risultato  acquisite  sulle  posizioni
+individuali 157.309,09       205.976,00       
+30  Crediti  di imposta -                 196.918,49       
+168.606.434,48 157.477.812,30 
+10  Passività  della  gestione  previdenziale 690.320,41       841.985,28       
+a) Debiti della gestione previdenziale 690.320,41       841.985,28       
+20  Garanzie  di risultato  acquisite  sulle  posizioni
+individuali 157.309,09       205.976,00       
+30  Passività  della  gestione  finanziaria 293.410,77       272.295,81       
+d) Altre passività della gestione finanziaria 293.410,77       272.295,81       
+40  Debiti  d'imposta 584.304,33       -                 
+1.725.344,60    1.320.257,09    
+100  Attivo  netto  destinato  alle  prestazioni 166.881.089,88 156.157.555,21 
+2.450.466,02    2.504.168,90    
+31/12/2024
+TOTALE  ATTIVITA’
+TOTALE  PASSIVITA’
+CONTI  D’ORDINE
+STATO  PATRIMONIALE  – FASE  DI ACCUMULO                                
+LINEA  GARANTITA 31/12/2025
+10  Saldo  della  gestione  previdenziale 7.631.012,13    8.743.722,82    
+a) Contributi per le prestazioni 16.441.769,30   15.431.433,15   
+b) Anticipazioni 3.143.356,86-     3.384.526,76-     
+c) Trasferimenti e riscatti 70.429,04         3.058.350,50     
+d) Trasformazioni in rendita 72.869,18-         -                  
+e) Erogazioni in forma di capitale 5.664.960,17-     6.361.534,07-     
+20  Risultato  della  gestione  finanziaria 5.030.212,84    7.099.528,65    
+a) Dividendi e interessi 4.082.883,78     3.687.521,79     
+b) Profitti e perdite da operazioni finanziarie 947.329,06       3.412.006,86     
+30  Oneri  di gestione 1.353.385,97-    1.241.287,14-    
+a) Società di gestione 1.353.385,97-     1.241.287,14-     
+40  Variazione  dell’attivo  netto  destinato  alle  prestazioni
+ante  imposta  sostitutiva  (10)+(20)+(30) 11.307.839,00   14.601.964,33   
+50  Imposta  sostitutiva 584.304,33-       1.024.474,34-    
+10.723.534,67   13.577.489,99   Variazione  dell’attivo  netto  destinato  alle  prestazioni  (40)+(50)
+31/12/2024CONTO  ECONOMICO  – FASE  DI ACCUMULO                                    
+LINEA  GARANTITA 31/12/2025
+=== pagina 39 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+39 
+ 
+Informazioni sulla Linea Garantita  
+Gli aderenti alla Linea Garantita al 31/12/2025 sono 11.663.  
+Il numero delle quote attribuite nel corso dell’anno 2025 e il rispettivo controvalore risultano dal seguente 
+prospetto:  
+ 
+Il valore quota della Linea Garantita al 31/12/2025 è pari a € 16,26. 
+Informazioni sullo Stato Patrimoniale  
+Investimenti: € 168.449.125,39 
+• Depositi bancari: € 5.304.445.99 
+Sono costituiti dal saldo liquido al 31/12/2025 dei conti correnti bancari, uno in euro e uno in dollari, 
+accesi presso BFF Bank S.p.A. e dagli eventuali interessi maturati sui depositi medesimi.    
+Nello specifico, le disponibilità liquide in valuta possedute ammontano a 6.286,99dollari pari a 5.350.63 
+euro. 
+• Titoli emessi da Stati o da organismi internazionali: € 73.427.882,61 
+Sono rappresentati dai titoli di Stato o di organismi internazionali quotati, valutati in base ai rispettivi 
+prezzi di chiusura alla data del 31/12/2025. 
+• Titoli di debito quotati: € 78.001.051,85 
+Sono rappresentati dai titoli di debito quotati emessi da imprese private, valutati in base ai rispettivi prezzi 
+di chiusura alla data del 31/12/2025. 
+• Titoli di capitale quotati: € 582.073,93 
+Sono rappresentati dai titoli azionari quotati, valutati in base ai rispettivi prezzi di chiusura alla data del 
+31/12/2025. 
+• Quote di O.I.C.R.: € 7.860.324,68 
+Sono rappresentati da quote di OICR quotate che investono prevalentemente nel comparto azionario, 
+valutate in base ai rispettivi prezzi di chiusura alla data del 31/12/2025 e da non quotate (valutati in base 
+al NAV che viene inviato dalla società emittente). 
+• Ratei e risconti attivi: € 1.872.904,93 
+Sono rappresentati dai ratei di interessi sui predetti titoli maturati alla data del 31/12/2025 
+• Altre attività della gestione finanziaria: € 1.400.441,40  
+➢ Credito gestione previdenziale: € 1.399.605,29 derivante da quote da emettere per 
+avvaloramento del 31/12/2025  
+➢ spese bancarie e di intermediazione verso HDI Assicurazioni: € 836,11 
+(importi in Euro)
+Numero Controvalore
+Quote in essere all'inizio  dell'esercizio 9.796.477,94 156.157.555,21
+Quote emesse 1.577.267,14 16.441.769,30
+Quote annullate/rimborsate -1.114.835,82  -8.810.757,17  
+Altre variazioni -                         3.092.522,54
+Quote  in  essere  alla  fine  dell'esercizio 10.258.909,25 166.881.089,88
+=== pagina 40 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+40 
+ 
+ 
+ 
+Si riporta di seguito l’indicazione dei primi 50 titoli detenuti in portafoglio, specificandone il valore e la quota 
+sul totale delle attività:  
+ 
+Descrizione  Titolo Codice  ISIN Valore  in  euro % Totale  Attività
+EU 2 5/8 07/04/28 EU000A4D5QM6 38.992.572,00      23,15%
+FRTR 0 1/4 11/25/26 FR0013200813 5.902.200,00         3,50%
+EU 2 7/8 04/04/28 EU000A1G6TV9 5.466.690,00         3,25%
+FIRST STATE GLOBAL UMBRELLA FU IE00BFY85B09 4.186.731,35         2,49%
+BTPS 5 1/4 11/01/29 IT0001278511 3.730.694,88         2,21%
+RFGB 2 3/4 07/04/28 FI4000037635 3.039.780,00         1,80%
+ACSSCE 1 7/8 04/20/26 XS1799545329 2.499.150,00         1,48%
+AQUASM 3 3/4 06/11/32 XS3089767183 2.489.000,00         1,48%
+PSABFR 3 7/8 01/19/26 FR001400F6V1 2.401.056,00         1,43%
+FRTR 5 3/4 10/25/32 FR0000187635 2.321.000,00         1,38%
+COVEGR 4 3/4 11/15/28 XS2554997937 2.092.840,00         1,24%
+EU 3 1/8 12/05/28 EU000A3K4EN5 2.042.520,00         1,21%
+BTPS 2.8 06/15/29 IT0005495731 2.017.582,60         1,20%
+COLSM 2 1/2 11/28/29 XS1725678194 1.954.280,00         1,16%
+FRTR 0 3/4 02/25/28 FR001400AIN5 1.935.400,00         1,15%
+DB X-TRACKERS FTSE MIB INDEX U LU0274212538 1.868.909,00         1,11%
+EU 0 07/04/29 EU000A3KRJQ6 1.841.480,00         1,09%
+BTPS 4 10/30/31 IT0005542359 1.586.087,55         0,94%
+STLA 3 7/8 06/06/31 XS3090081897 1.497.105,00         0,89%
+TKOFP 1 5/8 03/31/29 FR0014002PC4 1.408.800,00         0,84%
+SIENFI 4 04/05/26 XS2601458602 1.203.984,00         0,71%
+RCFFP 5 3/4 11/22/31 FR001400M2G2 1.078.750,00         0,64%
+ICCREA 6 7/8 01/20/28 XS2577533875 1.042.500,00         0,62%
+PCIM 4 1/4 01/18/28 XS2577396430 1.028.150,00         0,61%
+BAMIIM 4 7/8 01/18/27 XS2577572188 1.024.060,00         0,61%
+TRADE AND RECEIVABLE FINANCE F LU2131876513 1.013.580,00         0,60%
+TKOFP 4 1/4 04/08/31 FR001400YPL4 1.012.580,00         0,60%
+DOLOEN 3 1/2 10/09/30 IT0005669400 1.012.260,00         0,60%
+CERTSP 4 1/4 01/30/31 XS2986319205 1.008.770,00         0,60%
+CNPFP 4 3/4 PERP FR0013336534 1.007.500,00         0,60%
+DEQGR 4 1/2 10/15/30 XS3090109813 1.004.740,00         0,60%
+=== pagina 41 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+41 
+ 
+ 
+ 
+Gli investimenti in strumenti finanziari risultano costituiti da titoli emessi da Stati o da organismi internazionali 
+emessi prevalentemente da Altri Paesi U.E.,  da quote di O.I.C.R. emessi principalmente da Italia e Altri Paesi 
+U.E. e da titoli di Capitale emessi prevalentemente da Italia: 
+ 
+ 
+ 
+Descrizione  Titolo Codice  ISIN Valore  in  euro % Totale  Attività
+TITIM 3 5/8 05/25/26 XS1419869885 1.002.800,00         0,60%
+PKNPW 3 5/8 07/02/32 XS3104553931 997.870,00            0,59%
+WERFEN 3 5/8 02/12/32 XS3090952519 995.610,00            0,59%
+EFFP 2 5/8 01/10/30 FR0014010BK0 990.660,00            0,59%
+TRNIM 3 07/22/31 XS3128477521 986.980,00            0,59%
+GFCFP 1 3/8 06/30/27 FR0013266350 984.030,00            0,58%
+FERROV 0 3/8 03/25/28 XS2324772453 952.020,00            0,57%
+LAMART 2 7/8 04/14/32 FR0014009OK5 951.850,00            0,57%
+CDEP 0 3/4 06/30/29 IT0005451197 932.110,00            0,55%
+ENELIM 0 3/8 05/28/29 XS2390400716 927.500,00            0,55%
+SEGPLP 0 7/8 05/27/29 XS2344569038 927.130,00            0,55%
+HEIBOS 1 5/8 10/13/31 XS2397252011 878.150,00            0,52%
+VTRS 1.908 06/23/32 XS2193983108 875.490,00            0,52%
+WLNFP 5 1/2 06/10/30 FR0014010A08 871.910,00            0,52%
+ANNGR 0 5/8 03/24/31 DE000A3E5FR9 870.970,00            0,52%
+EU 0 07/04/31 EU000A3KSXE1 863.270,00            0,51%
+DGFP 0 11/27/28 FR0014000PF1 834.399,00            0,50%
+AEMSPA 1 11/02/33 XS2403533263 825.210,00            0,49%
+TENN 0 7/8 06/16/35 XS2406569579 806.090,00            0,48%
+Altri Titoli 41.686.531,69      24,75%
+Depositi  Bancari 5.304.445,99         3,15%
+Ratei e Risconti  attivi 1.872.904,93         1,11%
+Altre attività  della gestione  finanziaria 1.400.441,40         0,83%
+Totale  Portafoglio 168.449.125,39  100%
+Titoli  di debito Peso
+Altri Paesi U.E. 74,61%
+Italia 20,86%
+USA 2,69%
+Altri Paesi  OCSE 1,84%
+Totale 100%
+Titoli  di debito  quotati  con  scadenza  oltre  i 6 mesi 93,70%
+Quote  di O.I.C.R. Peso
+Italia 30,61%
+Altri Paesi U.E. 29,89%
+Altri Paesi  OCSE 19,28%
+USA 11,65%
+Altri Paesi NON OCSE 8,56%
+Totale 100%
+Titoli  di capitale Peso
+Italia 61,82%
+Altri Paesi U.E. 38,18%
+Totale  100%
+=== pagina 42 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+42 
+ 
+La seguente tabella riepiloga la durata media finanziaria dei titoli di debito in portafoglio relativa alle tipologie 
+più significative di titoli: 
+ 
+Il controvalore degli acquisti e delle vendite di strumenti finanziari, distinti per tipologia, è riepilogato nella 
+seguente tabella: 
+ 
+ 
+Non ci sono operazioni di acquisto e di vendita di titoli stipulate e non ancora regolate alla data di chiusura 
+dell'esercizio, né operazioni in situazioni di conflitto di interesse. 
+Garanzie di risultato acquisite sulle posizioni individuali: 157.309,09 
+L’importo è determinato su un orizzonte temporale di 15 anni tramite valutazione stocastica, attualizzando 
+la differenza tra il valore garantito e il valore della posizione per singolo aderente. 
+Conti d’ordine: € 2.450.466,02 
+Rappresentano i contributi da ricevere e quindi valorizzati nell’esercizio successivo. 
+Passività della gestione previdenziale: € 690.320,41 
+• Altre passività della gestione previdenziale: € 690.320,41 
+Passività della gestione finanziaria: € 293.410,77 
+• Altre passività della gestione finanziaria  
+Rappresentano prevalentemente i debiti verso HDI Assicurazioni per commissioni di gestione relative 
+al IV trimestre 2025. 
+Debiti d’imposta: € 584.304,33 
+il saldo è determinato dal debito riferita all’anno 2025 pari a € 584.304,33 
+Attivo netto destinato alle prestazioni: € 166.881.089,88 
+• Attivo netto destinato alle prestazioni per l’anno 2025. 
+ 
+Informazioni sul Conto Economico  
+Saldo della gestione previdenziale: € 7.631.012,13 
+• Contributi per le prestazioni: € 16.441.769,30 
+Sono rappresentati dai contributi incassati dagli aderenti e destinati all’investimento nel 2025.  
+• Trasferimenti e riscatti: € 70.429,04 
+di cui:  
+➢ Trasferimenti da altri fondi: € 5.950.081,04 
+➢ Switch in entrata: € 2.979.748,45 
+➢ Riscatti: - € -1.428.397,44 
+➢ Trasferimenti ad altri fondi: - € 4.659.839,17 
+➢ Switch in uscita: - € 2.771.163,84 
+• Erogazione in forma di capitale: - € 5.664.960,17 (di cui erogazione R.I.T.A. per - € 117.316,84) 
+Categoria  Bilancio Duration  modificata
+Titoli emessi da Stati quotati 2,680
+Titoli di debito quotati 3,030
+Altri titoli Minibond 0,060
+Totale  2,860  
+(importi in Euro)
+Categoria  Bilancio Acquisti Vendite
+Titoli emessi da Stati quotati -74.737.307,94 51.598.220,25
+Titoli di debito quotati -30.170.332,50 202.711,68
+Quote di O.I.C.R. -2.765,49 2.347.672,60
+Totale -104.910.405,93 54.148.604,53
+=== pagina 43 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+43 
+ 
+• Erogazione in forma di rendita: - €.72.869,18 
+• Anticipazioni: - € 3.143.356,86 
+ 
+Risultato della gestione finanziaria: € 5.030.212,84 
+• Dividendi e interessi: € 4.082.883,78 
+di cui:  
+➢ Interessi su titoli di Stato quotati: € 1.850.007,36 
+➢ Interessi su titoli obbligazionari quotati: € 1.950.145,69 
+➢ Interessi su c/c bancari: € 123.301,03 
+➢ Dividendi su titoli azionari quotati: € 28.802,65  
+➢ Recupero tassazione dividenti anni precedenti: € 368,89 
+➢ Ritenute su dividendi: - € 9.070,30 
+➢ Proventi su quote di O.I.C.R. quotate e non quotate: € 139.328,46 
+• Profitti e perdite da operazioni finanziarie: € 947.329,06 
+di cui:  
+➢ plusvalenze realizzate su titoli di Stato: € 393.225,45  
+➢ plusvalenze realizzate su titoli obbligazionari quotati: € 125.032,36 
+➢ minusvalenze realizzate su titoli di Stato: - € 94.949,23 
+➢ minusvalenze realizzate su titoli obbligazionari quotati: - € 7.997,11  
+➢ minusvalenze realizzate su \ - € 167.874,29 
+➢ minusvalenze realizzate su cambi: - € 672,96 
+➢ plusvalenze da valutazione al mercato dei titoli di Stato quotati: € 238.880,78 
+➢ plusvalenze da valutazione al mercato dei titoli obbligazionari quotati: € 753.325,67 
+➢ plusvalenze da valutazione su titoli azionari quotati: € 153.939,43 
+➢ plusvalenze da valutazione su quote di O.I.C.R.: € 456.586,90 
+➢ minusvalenze da valutazione su cambi; - € 0,15 
+➢ minusvalenze da valutazione al mercato dei titoli di Stato quotati: - € 361.124,36 
+➢ minusvalenze da valutazione al mercato dei titoli obbligazionari quotati: - € 369.249,74 
+➢ minusvalenze da valutazione al mercato delle quote di O.I.C.R. quotate e non quotate:                     - 
+€  171.793,65 
+Oneri di gestione: - € 1.353.385,97 
+• Sono interamente riferiti alle commissioni di gestione riconosciute alla società di gestione. 
+Imposta sostitutiva: € 584.304,33 
+• Dato riferito interamente alla quota parte di competenza dell’imposta sostitutiva a debito maturata 
+al 31/12/2025. 
+Variazione dell’Attivo Netto Destinato alle Prestazioni € 10.723.534,67 
+• La variazione dell’Attivo Netto Destinato alle Prestazioni rappresenta il risultato economico ottenuto 
+dalla linea di investimento nel corso dell’esercizio.
+=== pagina 44 ===
+HDI Assicurazioni S.p.A. 
+  Nota Integrativa 
+ 
+44 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HDI Assicurazioni SpA 
+Società con unico azionista (Capogruppo del 
+Gruppo Assicurativo “HDI Assicurazioni” iscritto 
+all’Albo dei Gruppi Assicurativi al n. 015) 
+ 
+Piazza Marconi, 25 – 00144 Roma 
+Tel. + 39 06 421031 . Fax +39 06 4210 3500 
+ 
+hdi.assicurazioni@hdia.it 
+hdi.assicurazioni@pec.hdia.it 
+www.hdiassicurazioni.it
+=== pagina 45 ===
+Relazione della società di revisione indipendente ai sensi 
+dell’articolo 21 dello Schema di Regolamento di cui alla 
+Deliberazione Covip 19 maggio 2021 
+Al Consiglio di Amministrazione di 
+HDI Assicurazioni SpA 
+Giudizio 
+Abbiamo svolto la revisione contabile del Rendiconto della fase di accumulo del Fondo Pensione 
+Aperto a Contribuzione Definita “Azione di Previdenza - Fondo Pensione Aperto” - comparto 
+“Linea Prudente” (il “Fondo”) attivato da HDI Assicurazioni SpA, costituito dallo Stato 
+Patrimoniale al 31 dicembre 2025, dal Conto Economico per l’esercizio chiuso a tale data e dalla Nota 
+Integrativa. 
+A nostro giudizio, il Rendiconto della fase di accumulo del comparto (Stato Patrimoniale, Conto 
+Economico e Nota Integrativa) fornisce una rappresentazione veritiera e corretta della situazione 
+patrimoniale e finanziaria del Fondo Pensione Aperto a Contribuzione Definita “Azione di Previdenza - 
+Fondo Pensione Aperto” - comparto “Linea Prudente” attivato da HDI Assicurazioni SpA al 31 
+dicembre 2025 e della variazione dell’attivo netto destinato alle prestazioni per l’esercizio chiuso a tale 
+data, in conformità ai provvedimenti emanati da Covip che ne disciplinano i criteri di redazione. 
+Elementi alla base del giudizio 
+Abbiamo svolto la revisione contabile in conformità ai principi di revisione internazionali (ISA Italia). 
+Le nostre responsabilità ai sensi di tali principi sono ulteriormente descritte nella sezione 
+“Responsabilità della società di revisione per la revisione contabile del Rendiconto” della presente 
+relazione. Siamo indipendenti rispetto al Fondo e alla società HDI Assicurazioni SpA in conformità alle
+=== pagina 46 ===
+2 di 4 
+ 
+norme e ai principi in materia di etica e di indipendenza applicabili nell’ordinamento italiano alla 
+revisione contabile del bilancio. Riteniamo di aver acquisito elementi probativi sufficienti e appropriati 
+su cui basare il nostro giudizio. 
+Responsabilità degli Amministratori e del Collegio Sindacale per il Rendiconto 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la redazione del Rendiconto che 
+fornisca una rappresentazione veritiera e corretta in conformità ai provvedimenti emanati da Covip 
+che ne disciplinano i criteri di redazione e, nei termini previsti dalla legge, per quella parte del 
+controllo interno dagli stessi ritenuta necessaria per consentire la redazione di un Rendiconto che non 
+contenga errori significativi dovuti a frodi o a comportamenti o eventi non intenzionali. 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la valutazione della capacità del 
+Fondo di continuare ad operare come un’entità in funzionamento e, nella redazione del Rendiconto, 
+per l’appropriatezza dell’utilizzo del presupposto della continuità aziendale, nonché per una adeguata 
+informativa in materia. Gli Amministratori utilizzano il presupposto della continuità aziendale nella 
+redazione del Rendiconto a meno che abbiano valutato che sussistono le condizioni per la liquidazione 
+del Fondo o per l’interruzione dell’attività o non abbiano alternative realistiche a tale scelta. 
+Il Collegio Sindacale di HDI Assicurazioni SpA ha la responsabilità della vigilanza, nei termini previsti 
+dalla legge, sul processo di predisposizione dell’informativa finanziaria del Fondo. 
+Responsabilità della società di revisione per la revisione contabile del Rendiconto 
+I nostri obiettivi sono l’acquisizione di una ragionevole sicurezza che il Rendiconto nel suo complesso 
+non contenga errori significativi, dovuti a frodi o a comportamenti o eventi non intenzionali, e 
+l’emissione di una relazione di revisione che includa il nostro giudizio. Per ragionevole sicurezza si 
+intende un livello elevato di sicurezza che tuttavia non fornisce la garanzia che una revisione contabile 
+svolta in conformità ai principi di revisione internazionali (ISA Italia) individui sempre un errore 
+significativo, qualora esistente. Gli errori possono derivare da frodi o da comportamenti o eventi non 
+intenzionali e sono considerati significativi qualora ci si possa ragionevolmente attendere che essi, 
+singolarmente o nel loro insieme, siano in grado di influenzare le decisioni economiche prese dagli 
+utilizzatori sulla base del Rendiconto.
+=== pagina 47 ===
+3 di 4 
+ 
+Nell’ambito della revisione contabile svolta in conformità ai principi di revisione internazionali (ISA 
+Italia), abbiamo esercitato il giudizio professionale e abbiamo mantenuto lo scetticismo professionale 
+per tutta la durata della revisione contabile. Inoltre: 
+● abbiamo identificato e valutato i rischi di errori significativi nel Rendiconto, dovuti a frodi o a 
+comportamenti o eventi non intenzionali; abbiamo definito e svolto procedure di revisione in 
+risposta a tali rischi; abbiamo acquisito elementi probativi sufficienti e appropriati su cui basare il 
+nostro giudizio. Il rischio di non individuare un errore significativo dovuto a frodi è più elevato 
+rispetto al rischio di non individuare un errore significativo derivante da comportamenti od eventi 
+non intenzionali, poiché la frode può implicare l’esistenza di collusioni, falsificazioni, omissioni 
+intenzionali, rappresentazioni fuorvianti o forzature del controllo interno; 
+● abbiamo acquisito una comprensione del controllo interno rilevante ai fini della revisione contabile 
+allo scopo di definire procedure di revisione appropriate nelle circostanze, e non per esprimere un 
+giudizio sull’efficacia del controllo interno del Fondo e di HDI Assicurazioni SpA; 
+● abbiamo valutato l’appropriatezza dei criteri e delle modalità di valutazione adottati nonché la 
+ragionevolezza delle stime contabili effettuate dagli Amministratori, inclusa la relativa informativa; 
+● siamo giunti ad una conclusione sull’appropriatezza dell’utilizzo da parte degli Amministratori del 
+presupposto della continuità aziendale e, in base agli elementi probativi acquisiti, sull’eventuale 
+esistenza di una incertezza significativa riguardo a eventi o circostanze che possono far sorgere 
+dubbi significativi sulla capacità del Fondo di continuare ad operare come un’entità in 
+funzionamento. In presenza di un’incertezza significativa, siamo tenuti a richiamare l’attenzione 
+nella relazione di revisione sulla relativa informativa inclusa nel Rendiconto ovvero, qualora tale 
+informativa sia inadeguata, a riflettere tale circostanza nella formulazione del nostro giudizio. Le 
+nostre conclusioni sono basate sugli elementi probativi acquisiti fino alla data della presente 
+relazione. Tuttavia, eventi o circostanze successivi possono comportare che il Fondo cessi di 
+operare come un’entità in funzionamento; 
+● abbiamo valutato la presentazione, la struttura e il contenuto del Rendiconto nel suo complesso, 
+inclusa l’informativa, e se il Rendiconto rappresenti le operazioni e gli eventi sottostanti in modo da 
+fornire una corretta rappresentazione.
+=== pagina 48 ===
+4 di 4 
+ 
+Abbiamo comunicato ai responsabili delle attività di governance di HDI Assicurazioni SpA, identificati 
+ad un livello appropriato come richiesto dagli ISA Italia, tra gli altri aspetti, la portata e la tempistica 
+pianificate per la revisione contabile e i risultati significativi emersi, incluse le eventuali carenze 
+significative nel controllo interno identificate nel corso della revisione contabile. 
+ 
+Roma, 24 marzo 2026 
+PricewaterhouseCoopers SpA 
+ 
+ 
+Dario Troja 
+(Revisore legale)
+=== pagina 49 ===
+Relazione della società di revisione indipendente ai sensi 
+dell’articolo 21 dello Schema di Regolamento di cui alla 
+Deliberazione Covip 19 maggio 2021 
+Al Consiglio di Amministrazione di 
+HDI Assicurazioni SpA 
+Giudizio 
+Abbiamo svolto la revisione contabile del Rendiconto della fase di accumulo del Fondo Pensione 
+Aperto a Contribuzione Definita “Azione di Previdenza - Fondo Pensione Aperto” - comparto 
+“Linea Equilibrata” (il “Fondo”) attivato da HDI Assicurazioni SpA, costituito dallo Stato 
+Patrimoniale al 31 dicembre 2025, dal Conto Economico per l’esercizio chiuso a tale data e dalla Nota 
+Integrativa. 
+A nostro giudizio, il Rendiconto della fase di accumulo del comparto (Stato Patrimoniale, Conto 
+Economico e Nota Integrativa) fornisce una rappresentazione veritiera e corretta della situazione 
+patrimoniale e finanziaria del Fondo Pensione Aperto a Contribuzione Definita “Azione di Previdenza - 
+Fondo Pensione Aperto” - comparto “Linea Equilibrata” attivato da HDI Assicurazioni SpA al 31 
+dicembre 2025 e della variazione dell’attivo netto destinato alle prestazioni per l’esercizio chiuso a tale 
+data, in conformità ai provvedimenti emanati da Covip che ne disciplinano i criteri di redazione. 
+Elementi alla base del giudizio 
+Abbiamo svolto la revisione contabile in conformità ai principi di revisione internazionali (ISA Italia). 
+Le nostre responsabilità ai sensi di tali principi sono ulteriormente descritte nella sezione 
+“Responsabilità della società di revisione per la revisione contabile del Rendiconto” della presente 
+relazione. Siamo indipendenti rispetto al Fondo e alla società HDI Assicurazioni SpA in conformità alle
+=== pagina 50 ===
+2 di 4 
+ 
+norme e ai principi in materia di etica e di indipendenza applicabili nell’ordinamento italiano alla 
+revisione contabile del bilancio. Riteniamo di aver acquisito elementi probativi sufficienti e appropriati 
+su cui basare il nostro giudizio. 
+Responsabilità degli Amministratori e del Collegio Sindacale per il Rendiconto 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la redazione del Rendiconto che 
+fornisca una rappresentazione veritiera e corretta in conformità ai provvedimenti emanati da Covip 
+che ne disciplinano i criteri di redazione e, nei termini previsti dalla legge, per quella parte del 
+controllo interno dagli stessi ritenuta necessaria per consentire la redazione di un Rendiconto che non 
+contenga errori significativi dovuti a frodi o a comportamenti o eventi non intenzionali. 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la valutazione della capacità del 
+Fondo di continuare ad operare come un’entità in funzionamento e, nella redazione del Rendiconto, 
+per l’appropriatezza dell’utilizzo del presupposto della continuità aziendale, nonché per una adeguata 
+informativa in materia. Gli Amministratori utilizzano il presupposto della continuità aziendale nella 
+redazione del Rendiconto a meno che abbiano valutato che sussistono le condizioni per la liquidazione 
+del Fondo o per l’interruzione dell’attività o non abbiano alternative realistiche a tale scelta. 
+Il Collegio Sindacale di HDI Assicurazioni SpA ha la responsabilità della vigilanza, nei termini previsti 
+dalla legge, sul processo di predisposizione dell’informativa finanziaria del Fondo. 
+Responsabilità della società di revisione per la revisione contabile del Rendiconto 
+I nostri obiettivi sono l’acquisizione di una ragionevole sicurezza che il Rendiconto nel suo complesso 
+non contenga errori significativi, dovuti a frodi o a comportamenti o eventi non intenzionali, e 
+l’emissione di una relazione di revisione che includa il nostro giudizio. Per ragionevole sicurezza si 
+intende un livello elevato di sicurezza che tuttavia non fornisce la garanzia che una revisione contabile 
+svolta in conformità ai principi di revisione internazionali (ISA Italia) individui sempre un errore 
+significativo, qualora esistente. Gli errori possono derivare da frodi o da comportamenti o eventi non 
+intenzionali e sono considerati significativi qualora ci si possa ragionevolmente attendere che essi, 
+singolarmente o nel loro insieme, siano in grado di influenzare le decisioni economiche prese dagli 
+utilizzatori sulla base del Rendiconto.
+=== pagina 51 ===
+3 di 4 
+ 
+Nell’ambito della revisione contabile svolta in conformità ai principi di revisione internazionali (ISA 
+Italia), abbiamo esercitato il giudizio professionale e abbiamo mantenuto lo scetticismo professionale 
+per tutta la durata della revisione contabile. Inoltre: 
+● abbiamo identificato e valutato i rischi di errori significativi nel Rendiconto, dovuti a frodi o a 
+comportamenti o eventi non intenzionali; abbiamo definito e svolto procedure di revisione in 
+risposta a tali rischi; abbiamo acquisito elementi probativi sufficienti e appropriati su cui basare il 
+nostro giudizio. Il rischio di non individuare un errore significativo dovuto a frodi è più elevato 
+rispetto al rischio di non individuare un errore significativo derivante da comportamenti od eventi 
+non intenzionali, poiché la frode può implicare l’esistenza di collusioni, falsificazioni, omissioni 
+intenzionali, rappresentazioni fuorvianti o forzature del controllo interno; 
+● abbiamo acquisito una comprensione del controllo interno rilevante ai fini della revisione contabile 
+allo scopo di definire procedure di revisione appropriate nelle circostanze, e non per esprimere un 
+giudizio sull’efficacia del controllo interno del Fondo e di HDI Assicurazioni SpA; 
+● abbiamo valutato l’appropriatezza dei criteri e delle modalità di valutazione adottati nonché la 
+ragionevolezza delle stime contabili effettuate dagli Amministratori, inclusa la relativa informativa; 
+● siamo giunti ad una conclusione sull’appropriatezza dell’utilizzo da parte degli Amministratori del 
+presupposto della continuità aziendale e, in base agli elementi probativi acquisiti, sull’eventuale 
+esistenza di una incertezza significativa riguardo a eventi o circostanze che possono far sorgere 
+dubbi significativi sulla capacità del Fondo di continuare ad operare come un’entità in 
+funzionamento. In presenza di un’incertezza significativa, siamo tenuti a richiamare l’attenzione 
+nella relazione di revisione sulla relativa informativa inclusa nel Rendiconto ovvero, qualora tale 
+informativa sia inadeguata, a riflettere tale circostanza nella formulazione del nostro giudizio. Le 
+nostre conclusioni sono basate sugli elementi probativi acquisiti fino alla data della presente 
+relazione. Tuttavia, eventi o circostanze successivi possono comportare che il Fondo cessi di 
+operare come un’entità in funzionamento; 
+● abbiamo valutato la presentazione, la struttura e il contenuto del Rendiconto nel suo complesso, 
+inclusa l’informativa, e se il Rendiconto rappresenti le operazioni e gli eventi sottostanti in modo da 
+fornire una corretta rappresentazione.
+=== pagina 52 ===
+4 di 4 
+ 
+Abbiamo comunicato ai responsabili delle attività di governance di HDI Assicurazioni SpA, identificati 
+ad un livello appropriato come richiesto dagli ISA Italia, tra gli altri aspetti, la portata e la tempistica 
+pianificate per la revisione contabile e i risultati significativi emersi, incluse le eventuali carenze 
+significative nel controllo interno identificate nel corso della revisione contabile. 
+ 
+Roma, 24 marzo 2026 
+PricewaterhouseCoopers SpA 
+ 
+ 
+Dario Troja 
+(Revisore legale)
+=== pagina 53 ===
+Relazione della società di revisione indipendente ai sensi 
+dell’articolo 21 dello Schema di Regolamento di cui alla 
+Deliberazione Covip 19 maggio 2021 
+Al Consiglio di Amministrazione di 
+HDI Assicurazioni SpA 
+Giudizio 
+Abbiamo svolto la revisione contabile del Rendiconto della fase di accumulo del Fondo Pensione 
+Aperto a Contribuzione Definita “Azione di Previdenza - Fondo Pensione Aperto” - comparto 
+“Linea Dinamica” (il “Fondo”) attivato da HDI Assicurazioni SpA, costituito dallo Stato 
+Patrimoniale al 31 dicembre 2025, dal Conto Economico per l’esercizio chiuso a tale data e dalla Nota 
+Integrativa. 
+A nostro giudizio, il Rendiconto della fase di accumulo del comparto (Stato Patrimoniale, Conto 
+Economico e Nota Integrativa) fornisce una rappresentazione veritiera e corretta della situazione 
+patrimoniale e finanziaria del Fondo Pensione Aperto a Contribuzione Definita “Azione di Previdenza - 
+Fondo Pensione Aperto” - comparto “Linea Dinamica” attivato da HDI Assicurazioni SpA al 31 
+dicembre 2025 e della variazione dell’attivo netto destinato alle prestazioni per l’esercizio chiuso a tale 
+data, in conformità ai provvedimenti emanati da Covip che ne disciplinano i criteri di redazione. 
+Elementi alla base del giudizio 
+Abbiamo svolto la revisione contabile in conformità ai principi di revisione internazionali (ISA Italia). 
+Le nostre responsabilità ai sensi di tali principi sono ulteriormente descritte nella sezione 
+“Responsabilità della società di revisione per la revisione contabile del Rendiconto” della presente 
+relazione. Siamo indipendenti rispetto al Fondo e alla società HDI Assicurazioni SpA in conformità alle
+=== pagina 54 ===
+2 di 4 
+ 
+norme e ai principi in materia di etica e di indipendenza applicabili nell’ordinamento italiano alla 
+revisione contabile del bilancio. Riteniamo di aver acquisito elementi probativi sufficienti e appropriati 
+su cui basare il nostro giudizio. 
+Responsabilità degli Amministratori e del Collegio Sindacale per il Rendiconto 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la redazione del Rendiconto che 
+fornisca una rappresentazione veritiera e corretta in conformità ai provvedimenti emanati da Covip 
+che ne disciplinano i criteri di redazione e, nei termini previsti dalla legge, per quella parte del 
+controllo interno dagli stessi ritenuta necessaria per consentire la redazione di un Rendiconto che non 
+contenga errori significativi dovuti a frodi o a comportamenti o eventi non intenzionali. 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la valutazione della capacità del 
+Fondo di continuare ad operare come un’entità in funzionamento e, nella redazione del Rendiconto, 
+per l’appropriatezza dell’utilizzo del presupposto della continuità aziendale, nonché per una adeguata 
+informativa in materia. Gli Amministratori utilizzano il presupposto della continuità aziendale nella 
+redazione del Rendiconto a meno che abbiano valutato che sussistono le condizioni per la liquidazione 
+del Fondo o per l’interruzione dell’attività o non abbiano alternative realistiche a tale scelta. 
+Il Collegio Sindacale di HDI Assicurazioni SpA ha la responsabilità della vigilanza, nei termini previsti 
+dalla legge, sul processo di predisposizione dell’informativa finanziaria del Fondo. 
+Responsabilità della società di revisione per la revisione contabile del Rendiconto 
+I nostri obiettivi sono l’acquisizione di una ragionevole sicurezza che il Rendiconto nel suo complesso 
+non contenga errori significativi, dovuti a frodi o a comportamenti o eventi non intenzionali, e 
+l’emissione di una relazione di revisione che includa il nostro giudizio. Per ragionevole sicurezza si 
+intende un livello elevato di sicurezza che tuttavia non fornisce la garanzia che una revisione contabile 
+svolta in conformità ai principi di revisione internazionali (ISA Italia) individui sempre un errore 
+significativo, qualora esistente. Gli errori possono derivare da frodi o da comportamenti o eventi non 
+intenzionali e sono considerati significativi qualora ci si possa ragionevolmente attendere che essi, 
+singolarmente o nel loro insieme, siano in grado di influenzare le decisioni economiche prese dagli 
+utilizzatori sulla base del Rendiconto.
+=== pagina 55 ===
+3 di 4 
+ 
+Nell’ambito della revisione contabile svolta in conformità ai principi di revisione internazionali (ISA 
+Italia), abbiamo esercitato il giudizio professionale e abbiamo mantenuto lo scetticismo professionale 
+per tutta la durata della revisione contabile. Inoltre: 
+● abbiamo identificato e valutato i rischi di errori significativi nel Rendiconto, dovuti a frodi o a 
+comportamenti o eventi non intenzionali; abbiamo definito e svolto procedure di revisione in 
+risposta a tali rischi; abbiamo acquisito elementi probativi sufficienti e appropriati su cui basare il 
+nostro giudizio. Il rischio di non individuare un errore significativo dovuto a frodi è più elevato 
+rispetto al rischio di non individuare un errore significativo derivante da comportamenti od eventi 
+non intenzionali, poiché la frode può implicare l’esistenza di collusioni, falsificazioni, omissioni 
+intenzionali, rappresentazioni fuorvianti o forzature del controllo interno; 
+● abbiamo acquisito una comprensione del controllo interno rilevante ai fini della revisione contabile 
+allo scopo di definire procedure di revisione appropriate nelle circostanze, e non per esprimere un 
+giudizio sull’efficacia del controllo interno del Fondo e di HDI Assicurazioni SpA; 
+● abbiamo valutato l’appropriatezza dei criteri e delle modalità di valutazione adottati nonché la 
+ragionevolezza delle stime contabili effettuate dagli Amministratori, inclusa la relativa informativa; 
+● siamo giunti ad una conclusione sull’appropriatezza dell’utilizzo da parte degli Amministratori del 
+presupposto della continuità aziendale e, in base agli elementi probativi acquisiti, sull’eventuale 
+esistenza di una incertezza significativa riguardo a eventi o circostanze che possono far sorgere 
+dubbi significativi sulla capacità del Fondo di continuare ad operare come un’entità in 
+funzionamento. In presenza di un’incertezza significativa, siamo tenuti a richiamare l’attenzione 
+nella relazione di revisione sulla relativa informativa inclusa nel Rendiconto ovvero, qualora tale 
+informativa sia inadeguata, a riflettere tale circostanza nella formulazione del nostro giudizio. Le 
+nostre conclusioni sono basate sugli elementi probativi acquisiti fino alla data della presente 
+relazione. Tuttavia, eventi o circostanze successivi possono comportare che il Fondo cessi di 
+operare come un’entità in funzionamento; 
+● abbiamo valutato la presentazione, la struttura e il contenuto del Rendiconto nel suo complesso, 
+inclusa l’informativa, e se il Rendiconto rappresenti le operazioni e gli eventi sottostanti in modo da 
+fornire una corretta rappresentazione.
+=== pagina 56 ===
+4 di 4 
+ 
+Abbiamo comunicato ai responsabili delle attività di governance di HDI Assicurazioni SpA, identificati 
+ad un livello appropriato come richiesto dagli ISA Italia, tra gli altri aspetti, la portata e la tempistica 
+pianificate per la revisione contabile e i risultati significativi emersi, incluse le eventuali carenze 
+significative nel controllo interno identificate nel corso della revisione contabile. 
+ 
+Roma, 24 marzo 2026 
+PricewaterhouseCoopers SpA 
+ 
+ 
+Dario Troja 
+(Revisore legale)
+=== pagina 57 ===
+Relazione della società di revisione indipendente ai sensi 
+dell’articolo 21 dello Schema di Regolamento di cui alla 
+Deliberazione Covip 19 maggio 2021 
+Al Consiglio di Amministrazione di 
+HDI Assicurazioni SpA 
+Giudizio 
+Abbiamo svolto la revisione contabile del Rendiconto della fase di accumulo del Fondo Pensione 
+Aperto a Contribuzione Definita “Azione di Previdenza - Fondo Pensione Aperto” - comparto 
+“Linea Garantita” (il “Fondo”) attivato da HDI Assicurazioni SpA, costituito dallo Stato 
+Patrimoniale al 31 dicembre 2025, dal Conto Economico per l’esercizio chiuso a tale data e dalla Nota 
+Integrativa. 
+A nostro giudizio, il Rendiconto della fase di accumulo del comparto (Stato Patrimoniale, Conto 
+Economico e Nota Integrativa) fornisce una rappresentazione veritiera e corretta della situazione 
+patrimoniale e finanziaria del Fondo Pensione Aperto a Contribuzione Definita “Azione di Previdenza - 
+Fondo Pensione Aperto” - comparto “Linea Garantita” attivato da HDI Assicurazioni SpA al 31 
+dicembre 2025 e della variazione dell’attivo netto destinato alle prestazioni per l’esercizio chiuso a tale 
+data, in conformità ai provvedimenti emanati da Covip che ne disciplinano i criteri di redazione. 
+Elementi alla base del giudizio 
+Abbiamo svolto la revisione contabile in conformità ai principi di revisione internazionali (ISA Italia). 
+Le nostre responsabilità ai sensi di tali principi sono ulteriormente descritte nella sezione 
+“Responsabilità della società di revisione per la revisione contabile del Rendiconto” della presente 
+relazione. Siamo indipendenti rispetto al Fondo e alla società HDI Assicurazioni SpA in conformità alle
+=== pagina 58 ===
+2 di 4 
+ 
+norme e ai principi in materia di etica e di indipendenza applicabili nell’ordinamento italiano alla 
+revisione contabile del bilancio. Riteniamo di aver acquisito elementi probativi sufficienti e appropriati 
+su cui basare il nostro giudizio. 
+Responsabilità degli Amministratori e del Collegio Sindacale per il Rendiconto 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la redazione del Rendiconto che 
+fornisca una rappresentazione veritiera e corretta in conformità ai provvedimenti emanati da Covip 
+che ne disciplinano i criteri di redazione e, nei termini previsti dalla legge, per quella parte del 
+controllo interno dagli stessi ritenuta necessaria per consentire la redazione di un Rendiconto che non 
+contenga errori significativi dovuti a frodi o a comportamenti o eventi non intenzionali. 
+Gli Amministratori di HDI Assicurazioni SpA sono responsabili per la valutazione della capacità del 
+Fondo di continuare ad operare come un’entità in funzionamento e, nella redazione del Rendiconto, 
+per l’appropriatezza dell’utilizzo del presupposto della continuità aziendale, nonché per una adeguata 
+informativa in materia. Gli Amministratori utilizzano il presupposto della continuità aziendale nella 
+redazione del Rendiconto a meno che abbiano valutato che sussistono le condizioni per la liquidazione 
+del Fondo o per l’interruzione dell’attività o non abbiano alternative realistiche a tale scelta. 
+Il Collegio Sindacale di HDI Assicurazioni SpA ha la responsabilità della vigilanza, nei termini previsti 
+dalla legge, sul processo di predisposizione dell’informativa finanziaria del Fondo. 
+Responsabilità della società di revisione per la revisione contabile del Rendiconto 
+I nostri obiettivi sono l’acquisizione di una ragionevole sicurezza che il Rendiconto nel suo complesso 
+non contenga errori significativi, dovuti a frodi o a comportamenti o eventi non intenzionali, e 
+l’emissione di una relazione di revisione che includa il nostro giudizio. Per ragionevole sicurezza si 
+intende un livello elevato di sicurezza che tuttavia non fornisce la garanzia che una revisione contabile 
+svolta in conformità ai principi di revisione internazionali (ISA Italia) individui sempre un errore 
+significativo, qualora esistente. Gli errori possono derivare da frodi o da comportamenti o eventi non 
+intenzionali e sono considerati significativi qualora ci si possa ragionevolmente attendere che essi, 
+singolarmente o nel loro insieme, siano in grado di influenzare le decisioni economiche prese dagli 
+utilizzatori sulla base del Rendiconto.
+=== pagina 59 ===
+3 di 4 
+ 
+Nell’ambito della revisione contabile svolta in conformità ai principi di revisione internazionali (ISA 
+Italia), abbiamo esercitato il giudizio professionale e abbiamo mantenuto lo scetticismo professionale 
+per tutta la durata della revisione contabile. Inoltre: 
+● abbiamo identificato e valutato i rischi di errori significativi nel Rendiconto, dovuti a frodi o a 
+comportamenti o eventi non intenzionali; abbiamo definito e svolto procedure di revisione in 
+risposta a tali rischi; abbiamo acquisito elementi probativi sufficienti e appropriati su cui basare il 
+nostro giudizio. Il rischio di non individuare un errore significativo dovuto a frodi è più elevato 
+rispetto al rischio di non individuare un errore significativo derivante da comportamenti od eventi 
+non intenzionali, poiché la frode può implicare l’esistenza di collusioni, falsificazioni, omissioni 
+intenzionali, rappresentazioni fuorvianti o forzature del controllo interno; 
+● abbiamo acquisito una comprensione del controllo interno rilevante ai fini della revisione contabile 
+allo scopo di definire procedure di revisione appropriate nelle circostanze, e non per esprimere un 
+giudizio sull’efficacia del controllo interno del Fondo e di HDI Assicurazioni SpA; 
+● abbiamo valutato l’appropriatezza dei criteri e delle modalità di valutazione adottati nonché la 
+ragionevolezza delle stime contabili effettuate dagli Amministratori, inclusa la relativa informativa; 
+● siamo giunti ad una conclusione sull’appropriatezza dell’utilizzo da parte degli Amministratori del 
+presupposto della continuità aziendale e, in base agli elementi probativi acquisiti, sull’eventuale 
+esistenza di una incertezza significativa riguardo a eventi o circostanze che possono far sorgere 
+dubbi significativi sulla capacità del Fondo di continuare ad operare come un’entità in 
+funzionamento. In presenza di un’incertezza significativa, siamo tenuti a richiamare l’attenzione 
+nella relazione di revisione sulla relativa informativa inclusa nel Rendiconto ovvero, qualora tale 
+informativa sia inadeguata, a riflettere tale circostanza nella formulazione del nostro giudizio. Le 
+nostre conclusioni sono basate sugli elementi probativi acquisiti fino alla data della presente 
+relazione. Tuttavia, eventi o circostanze successivi possono comportare che il Fondo cessi di 
+operare come un’entità in funzionamento; 
+● abbiamo valutato la presentazione, la struttura e il contenuto del Rendiconto nel suo complesso, 
+inclusa l’informativa, e se il Rendiconto rappresenti le operazioni e gli eventi sottostanti in modo da 
+fornire una corretta rappresentazione.
+=== pagina 60 ===
+4 di 4 
+ 
+Abbiamo comunicato ai responsabili delle attività di governance di HDI Assicurazioni SpA, identificati 
+ad un livello appropriato come richiesto dagli ISA Italia, tra gli altri aspetti, la portata e la tempistica 
+pianificate per la revisione contabile e i risultati significativi emersi, incluse le eventuali carenze 
+significative nel controllo interno identificate nel corso della revisione contabile. 
+ 
+Roma, 24 marzo 2026 
+PricewaterhouseCoopers SpA 
+ 
+ 
+Dario Troja 
+(Revisore legale)

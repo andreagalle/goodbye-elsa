@@ -1,0 +1,1408 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Documento sulla politica di investimento – Politica Investimento FPA
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/Politica%20Investimento%20FPA.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-10
+# SHA-256 del PDF: 93f132af2af41ea944f32cceec50bc7b28b04b730ed2249cbbfa579e31e2c3c6
+# Pagine: 28
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+PRIVATO 
+Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso 
+interno e per esclusive finalità lavorative. Qualsiasi utilizzo di altra natura dovrà essere autorizzato dal 
+proprietario del documento e regolato da specifici accordi di riservatezza.  
+DOCUMENTO SULLA POLITICA DI 
+INVESTIMENTO DEL FONDO PENSIONE 
+APERTO AUREO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tipo Documento  Regolamento Operativo 
+Codifica BCCRP-ROP-M9-09-R04 
+Classificazione Privato 
+Approvato da  CdA di BCC R&P
+=== pagina 2 ===
+Pag. 2 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+ 
+ 
+ 
+Scheda documento  
+Società emittente: BCC Risparmio&Previdenza 
+Titolo: Documento sulla politica di investimento del Fondo 
+Pensione Aperto Aureo  
+Owner di riferimento: U.O. Portafogli d’investiment o 
+Redattore: U.O. Portafogli d’investimento 
+Validatore: Funzione Investimenti 
+Verificatore: Funzione di Risk Management 
+Funzione di Compliance 
+Funzione AML 
+Presidio Specialistico in materia di Compliance Fiscale 
+Presidio Specialistico in materia di Privacy 
+Dirigente Preposto  
+Approvatore: Consiglio di Amministrazione di BCC R& P 
+Materia sensibile ai fini 
+231:  
+Sì 
+Allegati al documento: Allegato A - Integrazione de i fattori ESG nel processo 
+d'investimento 
+Allegato B - Rating ESG per emittente societario 
+Allegato  C - Metodologia proprietaria ICCREA  
+Cronologia delle revisioni  
+Numero versione Data approvazione Principali interv enti 
+1.0 
+ 
+2.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CdA 20/12/2023 
+ 
+CdA 27/03/2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prima versione del documento 
+ 
+Aggiornamento dei valori 
+riguardanti il rendimento medio 
+annuo atteso, la variabilità 
+annua, il livello e la probabilità di 
+Shortfall dei vari Comparti; 
+Creazione Allegati B e C
+=== pagina 3 ===
+Pag. 3 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+3.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CdA 24 settembre 
+2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CdA 30 settembre 
+2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrazione del paragrafo 4 con 
+l’inserimento dei seguenti flussi 
+informativi a favore del 
+Consigliere delegato in ambito 
+ESG: raccolta ESG; commenti 
+all’operatività di portafoglio; 
+monitoraggi ex post in ambito 
+limiti di investimento e in ambito 
+climate risk; relazione in materia 
+di  armi non convenzionali. 
+ 
+Definizione più approfondita 
+dell’Asset Allocation Strategica; 
+introdotta informativa e 
+comunicazione all’Autorità di 
+Vigilanza in caso di violazione  
+del divieto, ai sensi della Legge 
+n. 220/2021, di investimento nei 
+confronti di società coinvolte 
+nello sviluppo, nella produzione 
+o nella commercializzazione di 
+mine antipersona e munizioni a 
+grappolo; sostituzione dell’UO 
+Back Office Finanza e BFF Bank 
+con, rispettivamente, BCC 
+Sinergia e BNP; indicazione 
+della quota massima investibile 
+in OICR armonizzati e strumenti 
+finanziari derivati che abbiano ad 
+oggetto indici finanziari legati 
+all’andamento di commodities. 
+ 
+Emanazione e norme abrogate in BCC Risparmio&Previdenza 
+Emanato con: OD 27/2026  
+Norme abrogate: N.A.
+=== pagina 4 ===
+Pag. 4 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+SOMMARIO 
+1. PREMESSA........................................ ............................................................... 6 
+2. OBIETTIVI DA REALIZZARE NELLA GESTIONE FINANZIAR IA ..................... 7 
+3. CRITERI DA SEGUIRE NELL’ATTUAZIONE DELLA GESTION E 
+FINANZIARIA ............................................................................................................ 11 
+4. SISTEMA DI CONTROLLO E VALUTAZIONE DEI RISULTATI  CONSEGUITI ..  
+…………… ............................................................................................................. ...20 
+5. CRONOLOGIA DELLE MODIFICHE APPORTATE ........... ............................. 26 
+6. APPENDICE ...................................... .............................................................. 28
+=== pagina 5 ===
+Pag. 5 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Il presente Documento si compone delle seguenti sezioni: 
+ Premessa; 
+ Obiettivi da realizzare nella gestione finanziaria ; 
+ Criteri da seguire nell’attuazione della gestione;  
+ Sistema di controllo e valutazione dei risultati c onseguiti; 
+ Modifiche apportate nell’ultimo triennio. 
+Il Documento è redatto da BCC Risparmio&Previdenza S.G.R.p.A. secondo le indicazioni 
+stabilite dalla Covip con la Delibera 16 marzo 2012 . Il Documento è a disposizione degli 
+aderenti che ne facciano richiesta scritta a mezzo mail o posta ai seguenti indirizzi: 
+ 
+Indirizzo e-mail: info@bccrp.bcc.it 
+Posta: Via Carlo Esterle, 9/11 – 20132 Milano (MI) 
+ 
+Il presente Documento ha lo scopo di definire la strategia finanziaria che la forma pensionistica 
+intende attuare per ottenere, dall’impiego delle ri sorse affidate, combinazioni 
+rischio/rendimento efficienti nell’arco temporale c oerente con i bisogni previdenziali degli 
+aderenti. Il Documento è soggetto a costante aggiornamento. Esso, pertanto, non costituisce 
+documentazione contrattuale.
+=== pagina 6 ===
+Pag. 6 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+1. PREMESSA 
+Il Documento ha lo scopo di definire la strategia f inanziaria che BCC Risparmio&Previdenza 
+S.G.R.p.A. (nel seguito anche “SGR”) intende attuar e per ottenere, dall’impiego delle risorse 
+affidate in gestione al Fondo Pensione Aperto Aureo, combinazioni rischio rendimento efficienti 
+nell’arco temporale coerente con i bisogni previdenziali degli aderenti e con le prestazioni da 
+erogare. 
+Tale documento è redatto in conformità alla Deliber azione Covip del 16 Marzo 2012 (nel 
+seguito “Deliberazione”). Il documento indica gli o biettivi che BCC Risparmio&Previdenza 
+S.G.R.p.A. mira a realizzare con riferimento sia all’attività complessiva sia a quella dei singoli 
+comparti. 
+ 
+Caratteristiche generali del Fondo Pensione Aperto Aureo 
+Fondo Pensione Aperto Aureo (di seguito anche definito “Fondo”) è finalizzato all’erogazione 
+di trattamenti pensionistici complementari del sistema previdenziale obbligatorio, ai sensi del 
+d.lgs. 5 dicembre 2005, n. 252. 
+Il Fondo è iscritto all’albo tenuto dalla COVIP con  il n. 53 ed è gestito da BCC 
+Risparmio&Previdenza S.G.R.P.A., società di gestione del risparmio appartenente al Gruppo 
+Bancario ICCREA. 
+ 
+Destinatari 
+Il Fondo è rivolto a tutti coloro che intendono realizzare un piano di previdenza complementare 
+su base individuale. Possono inoltre aderire, su ba se collettiva, i lavoratori nei cui confronti 
+trovano applicazione i contratti, gli accordi o i regolamenti aziendali che prevedono l’adesione 
+al Fondo. 
+ 
+Tipologia, natura giuridica e regime previdenziale 
+Il Fondo è un fondo pensione aperto, costituito in forma di patrimonio separato e autonomo 
+all’interno di BCC Risparmio&Previdenza S.G.R.p.A. e operante in regime di contribuzione 
+definita.
+=== pagina 7 ===
+Pag. 7 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+2. OBIETTIVI DA REALIZZARE NELLA GESTIONE FINANZIAR IA 
+L’obiettivo finale della politica di investimento d el Fondo è quello di perseguire combinazioni 
+rischio-rendimento efficienti in un determinato arc o temporale, coerente con quello delle 
+prestazioni da erogare; esse devono consentire di m assimizzare le risorse destinate alle 
+prestazioni esponendo gli aderenti a un livello di rischio ritenuto accettabile. 
+In particolare, il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del 
+pensionamento, di prestazioni pensionistiche comple mentari al sistema obbligatorio. A tale 
+fine esso provvede alla raccolta dei contributi, al la gestione delle risorse nell’esclusivo 
+interesse degli aderenti, e all’erogazione delle pr estazioni secondo quanto disposto dalla 
+normativa in materia di previdenza complementare. 
+ 
+Analisi delle caratteristiche socio-demografiche de i potenziali aderenti e loro bisogni 
+previdenziali 
+I fondi pensione aperti, per loro natura e definizi one, non si rivolgono ad una predeterminata 
+categoria di soggetti ma, piuttosto, ad una platea indefinita di potenziali investitori, eterogenea 
+sotto i profili della provenienza, degli obiettivi di investimento, del livello di retribuzione, nonché 
+del tasso di sostituzione atteso. Per le suddette r agioni, con riferimento al Fondo Pensione 
+Aperto Aureo, la SGR ritiene di non poter procedere  all’analisi delle caratteristiche socio-
+demografiche della popolazione di riferimento e dei  suoi bisogni previdenziali. Si prevede, 
+comunque, che la SGR mantenga costantemente aggiornate le informazioni sui propri aderenti 
+sulla base di quanto richiesto dalla COVIP per le segnalazioni statistiche. 
+ 
+Definizione delle prestazioni obiettivo 
+Tenuto conto di quanto descritto al paragrafo prece dente, non si è ritenuto di definire le 
+prestazioni obiettivo. 
+ 
+Investimenti ammessi e relativi limiti: le scelte di gestione 
+La SGR effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni 
+stabiliti dalla normativa vigente e dal Regolamento  del Fondo medesimo, assumendo a 
+riferimento l’esclusivo interesse degli aderenti.  
+La SGR può effettuare l’investimento delle risorse in Organismi di Investimento Collettivo del 
+Risparmio, di seguito denominati “OICR”, purché i l oro programmi e i limiti di investimento 
+siano compatibili con quelli dei comparti del Fondo  che ne prevedono l’acquisizione. Si
+=== pagina 8 ===
+Pag. 8 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+intendono per OICR gli organismi di investimento co llettivo rientranti nell’ambito di 
+applicazione della direttiva 2009/65/CE (cd. "OICVM"), così come previsto dal D.M. 166/2014. 
+Nell’attuazione delle specifiche politiche di gesti one di ciascun Comparto, l’investimento in 
+valori mobiliari di emittenti esteri potrà essere e ffettuato relativamente a quei titoli quotati in 
+mercati ufficiali o regolamentati, riconosciuti, regolarmente funzionanti ed aperti al pubblico nei 
+seguenti Paesi: Algeria, Argentina, Australia, Aust ria, Belgio, Bolivia, Brasile, Bulgaria, 
+Cambogia, Canada, Cile, Colombia, Corea del Sud, Da nimarca, Egitto, Filippine, Finlandia, 
+Francia, Giappone, Giordania, Gran Bretagna, Grecia , Honduras, Hong Kong, India, 
+Indonesia, Iraq, Irlanda, Islanda, Israele, Italia,  Laos, Lussemburgo, Malesia, Marocco, 
+Messico, Mongolia, Nicaragua, Norvegia, Nuova Zelan da, Olanda, Pakistan, Perù, Polonia, 
+Portogallo, Repubblica Ceca, Repubblica Federale Te desca, Repubblica Popolare Cinese, 
+Repubblica Slovacca, Romania, Singapore, , Spagna, Sri Lanka, Sud Africa, Svezia, Svizzera, 
+Taiwan, Tailandia, Tunisia, Turchia, Ungheria, U.S.A., Venezuela, Vietnam. 
+In conformità e nei limiti stabiliti dalla normativ a vigente, il Fondo adotta, per ogni comparto, 
+uno stile di gestione di tipo flessibile. In relazione allo stile di gestione adottato non è possibile 
+individuare un parametro di riferimento (benchmark)  coerente con i rischi connessi con la 
+politica d’investimento del Fondo. In luogo del benchmark vengono adottate misure di volatilità 
+dei differenti comparti del Fondo coerenti con gli indicatori di rischio sintetico espressi. 
+Su base semestrale ed in relazione a ciascun compar to, viene definita una Asset Allocation 
+Strategica basata su un modello multifattoriale di rischio ed ottimizzata in funzione del 
+rendimento atteso e del rischio insito, comprensivo  di correlazioni, in ogni asset class 
+finanziaria che va a comporre il singolo portafogli o. L’Asset Allocation Strategica viene 
+deliberata dal Consiglio di Amministrazione su prop osta del Comitato Investimenti che la 
+costruisce avvalendosi anche dei contributi dei par tner della S.G.R.; l’Asset Allocation 
+Strategica viene poi declinata in una versione tatt ica che mensilmente viene deliberata dal 
+Consiglio di Amministrazione su proposta del Comita to Investimenti, in base alle analisi 
+economiche e finanziarie di più breve periodo, elab orate dalla U.O. Investimenti. L’Asset 
+Allocation Strategica è quindi frutto di un processo di ottimizzazione che prevede l’integrazione 
+dei rendimenti attesi di equilibrio con gli orientamenti strategici, tenendo conto dell’incertezza 
+di questi ultimi e delle correlazioni fra le diverse asset class, determinando così il rendimento 
+medio annuo atteso di ogni comparto.  
+In riferimento al Comparto Garantito ESG, tale processo è limitato in termini di elaborazione di 
+strategie di asset allocation, in ragione della pos sibilità di investire in un’unica asset class, 
+corrispondente ai titoli di stato (o equivalenti) a breve termine; pertanto, il rendimento obiettivo 
+è perseguito attraverso la opportuna selezione dei singoli strumenti finanziari. 
+Il processo di gestione dei portafogli è integrato da analisi che tengano conto dei fattori di 
+rischio ambientali, sociali e di buona governance. Si rimanda all’allegato A per i dettagli delle 
+metodologie applicate e agli allegati B e C per inf ormazioni tecniche circa la metodologia di 
+scoring ESG proprietaria ICCREA.
+=== pagina 9 ===
+Pag. 9 di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+I comparti del Fondo Pensione Aperto Aureo possono essere combinati dagli investitori al fine 
+di realizzare percorsi di life cycle, in modo che l a composizione del capitale investito muti 
+gradualmente nel tempo per effetto di riallocazioni automatiche, determinate in funzione della 
+durata residua della fase di accumulo, con l’obiett ivo di diminuire il rischio finanziario e la 
+volatilità dell’investimento all’avvicinarsi della scadenza della fase di accumulo. 
+ 
+I comparti 
+Fondo Pensione Aperto Aureo è costituito da una pluralità di opzioni di investimento (comparti), 
+ciascuna caratterizzata da una propria combinazione di rischio/rendimento: 
+Aureo Comparto Garantito ESG 
+Orizzonte temporale : breve/medio periodo (fino a 5 anni dal pensionamento) 
+Propensione al rischio : Bassa 
+Rendimento medio annuo atteso : +0.15% / +0.35% 
+Variabilità annua : 0.49% 
+Livello di Shortfall 1:  -0.81% 
+Probabilità di Shortfall 2:  0.01% 
+ 
+Aureo Comparto Obbligazionario ESG 
+Orizzonte temporale : breve/medio periodo (tra 5 e 10 anni dal pensionamento) 
+Propensione al rischio : medio-bassa 
+Rendimento medio annuo atteso : +0.43% / 2.29% 
+Variabilità annua:  4.66% 
+Livello di Shortfall : -7.69% 
+Probabilità di Shortfall : 3.49% 
+ 
+1 Per “Livello di Shortfall” si intende la perdita mas sima accettabile dell’investimento nell’orizzonte temporale della 
+gestione.  
+2 Per “Probabilità di Shortfall” si intende la probabil ità che, anche in base all’esperienza passata, il r endimento 
+dell’investimento, nell’orizzonte temporale della gestione, risulti inferiore a un determinato limite.
+=== pagina 10 ===
+Pag. 10  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Aureo Comparto Prudente ESG 
+Orizzonte temporale : medio/lungo periodo (tra 5 e 10 anni dal pensionamento) 
+Propensione al rischio : medio-bassa  
+Rendimento medio annuo atteso:  -0.35% / +0.88% 
+Variabilità annua:  3.07% 
+Livello di Shortfall:  -5.07% 
+Probabilità di Shortfall:  3.95% 
+ 
+Aureo Comparto Bilanciato ESG 
+Orizzonte temporale:  medio/lungo periodo (tra 10 e 15 anni dal pensionamento) 
+Propensione al rischio : medio-alta 
+Rendimento medio annuo atteso : +2.39% / 6.20%  
+Variabilità annua : 9.51% 
+Livello di Shortfall:  -15.69% 
+Probabilità di Shortfall:  2.72% 
+ 
+Aureo Comparto Azionario ESG 
+Orizzonte temporale : medio/lungo periodo (oltre 15 anni dal pensionamento) 
+Propensione al rischio : alta 
+Rendimento medio annuo atteso : 3.61% / 9.55% 
+Variabilità annua : 14.86% 
+Livello di Shortfall:  -24.52% 
+Probabilità di Shortfall : 3.45%
+=== pagina 11 ===
+Pag. 11  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+3. CRITERI DA SEGUIRE NELL’ATTUAZIONE DELLA GESTION E 
+FINANZIARIA 
+Per il raggiungimento dell’obiettivo finanziario di ciascun comparto, il documento individua: 
+ la ripartizione strategica delle attività, ovvero la percentuale del patrimonio da investire 
+nelle varie classi di strumenti; 
+ gli strumenti finanziari nei quali si intende inve stire e i rischi connessi; 
+ la modalità di gestione diretta o indiretta che si  intende adottare e lo stile; 
+ i criteri per l’esercizio dei diritti di voto spet tanti al Fondo; 
+ i criteri per mitigare i rischi di sostenibilità,  nonché  per contrastare il finanziamento delle 
+imprese produttrici di mine antipersona, di munizio ni e submunizioni a grappolo, con 
+riferimento ai quali si rimanda all’allegato A 
+ 
+Aureo Comparto Garantito ESG 
+Finalità della gestione:  la gestione risponde alle esigenze di un soggetto con bassa 
+propensione al rischio o ormai prossimo alla pensio ne. Pertanto, la gestione è volta a 
+realizzare un moderato accrescimento del capitale sfruttando la redditività di mercati monetari 
+e obbligazionari. Si evidenzia che a questo comparto sono destinati esclusivamente i flussi di 
+TFR maturando conferiti tacitamente dagli aderenti su base collettiva nonché la porzione della 
+posizione individuale di cui si chiede l’erogazione sotto forma di RITA, salvo diversa scelta da 
+parte dell’aderente. 
+N.B.:  I flussi di TFR conferiti tacitamente sono destinati a questo comparto. 
+Garanzia:  L’adesione al comparto denominato “Aureo Comparto Garantito” attribuisce 
+all’aderente, al verificarsi degli eventi di cui appresso, il diritto alla corresponsione di un importo 
+minimo garantito a prescindere dai risultati di ges tione. L’importo minimo garantito è pari alla 
+somma dei contributi netti versati al comparto, inc lusi gli eventuali importi derivanti da 
+trasferimenti da altro comparto o da altra forma pe nsionistica e i versamenti effettuati per il 
+reintegro delle anticipazioni percepite, ridotto da eventuali riscatti parziali e anticipazioni.  
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+ esercizio del diritto alla prestazione pensionisti ca come previsto dal regolamento del 
+fondo; 
+ riscatto per decesso; 
+ riscatto per invalidità permanente che comporti la  riduzione della capacità di lavoro a 
+meno di un terzo; 
+ riscatto per inoccupazione per un periodo superior e a 48 mesi. 
+Orizzonte temporale:  breve/medio periodo (fino a 5 anni dal pensionamento). 
+Propensione al rischio:  Bassa.
+=== pagina 12 ===
+Pag. 12  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Politica di gestione : la politica di gestione è volta a perseguire un’adeguata remunerazione del 
+capitale sfruttando la redditività dei mercati monetari e obbligazionari. 
+Strumenti finanziari : principalmente strumenti finanziari di natura obbligazionaria e monetaria, 
+denominati in euro o coperti dal rischio di cambio, e quote di OICR obbligazionari.  
+Categorie di emittenti e settori industriali : emittenti governativi e sopranazionali. 
+Aree geografiche di investimento:  Paesi rientranti nella Zona A, come dettagliato ne lla Nota 
+Informativa.  
+Rischio cambio : la copertura del rischio di cambio potrà non esse re effettuata 
+sistematicamente. 
+Modalità di gestione:  la SGR provvede direttamente ad investire il patri monio del Fondo, 
+secondo uno stile di gestione attivo volto anche alla generazione di rendimenti tali da superare 
+i costi di gestione. Lo stile di gestione adottato non consente di individuare un parametro di 
+riferimento (benchmark) coerente con i rischi connessi con la politica d’investimento del Fondo. 
+In luogo del benchmark è stata individuata la seguente misura di volatilità del Fondo coerente 
+con la misura di rischio espressa: volatilità del comparto (Annualized Standard Deviation) pari 
+a 2%. 
+Indicatori:  turnover: 300% target; 
+volatilità: max 2%. 
+ 
+ 
+Aureo Comparto Obbligazionario ESG 
+Finalità della gestione:  la gestione risponde alle esigenze di un soggetto con propensione al 
+rischio medio-bassa e privilegia investimenti volti  a favorire la stabilità del capitale e dei suoi 
+risultati (rivalutazione del capitale investito ris pondendo alle esigenze di un soggetto che ha 
+maturato una anzianità contributiva pari a circa l’80% della vita lavorativa). 
+Orizzonte temporale:  medio periodo (tra 5 e 10 anni dal pensionamento). 
+Propensione al rischio:  medio-bassa. 
+Politica di gestione : la SGR attua una politica d’investimento volta a perseguire una 
+composizione del portafoglio orientata verso titoli di debito; resta comunque ferma la facoltà di 
+detenere una parte del patrimonio in disponibilità liquide. 
+Fermo restando il rispetto di quanto previsto dal D.M. n. 166/2014, potranno essere effettuati 
+investimenti in titoli denominati in valute estere a condizione che essi siano emessi da Paesi
+=== pagina 13 ===
+Pag. 13  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+indicati nel Regolamento o da soggetti residenti in Paesi indicati nel Regolamento o negoziati 
+nei mercati regolamentati dei Paesi indicati nel Regolamento. 
+Strumenti finanziari:  titoli di debito, sia pubblici che privati, denomi nati in euro e/o in valute 
+diverse dall’euro, titoli azionari esclusivamente q uotati su mercati regolamentati per una 
+misura non superiore al 15% e quote di OICR. La durata media finanziaria del comparto, intesa 
+come media ponderata della duration degli investime nti del comparto netti (al netto delle 
+eventuali passività finanziarie) potrà variare all’interno di un range relativamente ampio (2-10 
+anni), al fine di consentire la gestione attiva del rischio tasso.  
+Per il conseguimento dell’obiettivo d’investimento possono essere utilizzati anche strumenti 
+finanziari derivati. L’utilizzo di strumenti finanziari derivati ha finalità sia di copertura sia di più 
+efficiente gestione del comparto, nel senso che i d erivati possono essere utilizzati come 
+alternativa efficiente all’investimento diretto in titoli, avendo una correlazione positiva con 
+questi ultimi ovvero muovendosi nella medesima direzione dei titoli. Il limite massimo di utilizzo 
+complessivo di strumenti finanziari derivati, sia p er finalità di copertura che di efficiente 
+gestione, è pari al 100% del valore netto del comparto. 
+Categorie di emittenti e settori industriali:  emittenti sovranazionali, governativi o societari,  
+aventi un merito creditizio anche molto rischioso, con un livello di rischio complessivo 
+compatibile con l’indicatore sintetico di rischio del fondo. I titoli di natura azionaria riguardano 
+prevalentemente le imprese a maggiore capitalizzazi one, senza riferimento ad alcun settore 
+specifico. 
+Aree geografiche di investimento : mercati regolamentati dei Paesi europei, american i e 
+asiatici. Parte degli investimenti potrà essere imp iegata, in misura contenuta, nei mercati di 
+Paesi emergenti.  
+Rischio cambio:  la copertura del rischio di cambio connesso all’in vestimento in valuta estera 
+sarà di volta in volta oggetto di valutazione da pa rte del gestore. Le operazioni di copertura 
+sulle divise saranno effettuate tramite contratti f orward con controparti autorizzate dal CdA e 
+soggette a periodica valutazione secondo le procedure interne in vigore. 
+Modalità di gestione : la SGR provvede direttamente ad investire il patr imonio del Fondo, 
+secondo uno stile di gestione attivo volto anche al la generazione di rendimenti eccedenti tali 
+da superare i costi di gestione. Lo stile di gestio ne adottato non consente di individuare un 
+parametro di riferimento (benchmark) coerente con i  rischi connessi con la politica 
+d’investimento del Fondo. In luogo del benchmark è stata individuata la seguente misura di 
+volatilità del Fondo coerente con la misura di risc hio espressa: volatilità del comparto 
+(Annualized Standard Deviation) pari a 5%. 
+Indicatori: turnover: 90% target; 
+volatilità: max 5%.
+=== pagina 14 ===
+Pag. 14  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Diritti di voto:  la valutazione in merito all’esercizio dei diritti di voto è effettuata esclusivamente 
+con riferimento agli strumenti finanziari per i quali la quota di detenzione complessiva da parte 
+dei fondi sia maggiore o uguale al 3% del capitale della società (c.d. partecipazione 
+qualificata). Tale strategia è stata definita princ ipalmente in base al fatto che l'obiettivo della 
+gestione, in linea generale, non è quello di orientare le politiche societarie: se un'azienda attua 
+politiche aziendali che la SGR non approva, si pref erisce ridurne o azzerarne il peso in 
+portafoglio piuttosto che cercare di orientarne le decisioni. Questo è reso possibile dal fatto 
+che la SGR privilegia l'investimento in titoli liqu idi e che nella maggior parte dei casi la quota 
+azionaria detenuta di ogni società è poco rilevante. 
+ 
+ 
+Aureo Comparto Prudente ESG 
+Finalità della gestione:  la gestione risponde alle esigenze di un soggetto con propensione al 
+rischio medio-bassa e privilegia investimenti volti  a favorire la stabilità del capitale e dei suoi 
+risultati (rivalutazione del capitale investito ris pondendo alle esigenze di un soggetto che ha 
+maturato una anzianità contributiva pari a circa l’80% della vita lavorativa). 
+Orizzonte temporale:  medio periodo (tra 5 e 10 anni dal pensionamento). 
+Propensione al rischio:  medio-bassa. 
+Politica di gestione:  la SGR attua una politica d’investimento volta a p erseguire una 
+composizione del portafoglio orientata verso titoli di debito; resta comunque ferma la facoltà di 
+detenere una parte del patrimonio in disponibilità liquide. 
+Fermo restando il rispetto di quanto previsto dal D.M. n. 166/2014, potranno essere effettuati 
+investimenti in titoli denominati in valute estere a condizione che essi siano emessi da Paesi 
+indicati nel Regolamento o da soggetti residenti in Paesi indicati nel Regolamento o negoziati 
+nei mercati regolamentati dei Paesi indicati nel Regolamento. 
+Strumenti finanziari:  titoli di debito, sia pubblici che privati, denomi nati in euro e/o in valute 
+diverse dall’euro e quote di OICR. La durata media finanziaria del comparto, intesa come 
+media ponderata della duration degli investimenti d el comparto netti (al netto delle eventuali 
+passività finanziarie) potrà variare all’interno di un range relativamente ampio (0-7 anni), al fine 
+di consentire la gestione attiva del rischio tasso rispetto al profilo di rischio individuato per il 
+comparto. Per il conseguimento dell’obiettivo d’inv estimento possono essere utilizzati anche 
+strumenti finanziari derivati. L’utilizzo di strumenti finanziari derivati ha finalità sia di copertura 
+sia di più efficiente gestione del comparto, nel se nso che i derivati possono essere utilizzati 
+come alternativa efficiente all’investimento dirett o in titoli, avendo una correlazione positiva 
+con questi ultimi ovvero muovendosi nella medesima direzione dei titoli. Il limite massimo di 
+utilizzo complessivo di strumenti finanziari derivati, sia per finalità di copertura che di efficiente 
+gestione, è pari al 100% del valore netto del comparto.
+=== pagina 15 ===
+Pag. 15  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Categorie di emittenti e settori industriali:  emittenti sovranazionali, governativi o societari,  
+aventi un merito creditizio anche molto rischioso, con un livello di rischio complessivo 
+compatibile con l’indicatore sintetico di rischio del fondo. 
+Aree geografiche di investimento:  mercati regolamentati dei Paesi europei, americani  e 
+asiatici. Parte degli investimenti potrà essere imp iegata, in misura contenuta, nei mercati di 
+Paesi emergenti.  
+Rischio cambio:  la copertura del rischio di cambio connesso all’in vestimento in valuta estera 
+sarà di volta in volta oggetto di valutazione da pa rte del gestore. Le operazioni di copertura 
+sulle divise saranno effettuate tramite contratti f orward con controparti autorizzate dal CdA e 
+soggette a periodica valutazione secondo le procedure interne in vigore. 
+Modalità di gestione:  la SGR provvede direttamente ad investire il patri monio del Fondo, 
+secondo uno stile di gestione attivo, volti anche alla generazione di rendimenti tali da superare 
+i costi di gestione. Lo stile di gestione adottato non consente di individuare un parametro di 
+riferimento (benchmark) coerente con i rischi connessi con la politica d’investimento del Fondo. 
+In luogo del benchmark è stata individuata la seguente misura di volatilità del Fondo coerente 
+con la misura di rischio espressa: volatilità del comparto (Annualized Standard Deviation) pari 
+a 3,75%. 
+Indicatori:  turnover: 90% target; 
+volatilità: max 3,75%. 
+ 
+ 
+Aureo Comparto Bilanciato ESG 
+Finalità della gestione:  la gestione risponde alle esigenze di un soggetto che privilegia la 
+continuità dei risultati nei singoli esercizi e acc etta un’esposizione al rischio medio-alta 
+(rivalutazione del capitale investito rispondendo alle esigenze di un soggetto che ha maturato 
+una anzianità contributiva pari a circa il 50% della vita lavorativa). 
+Orizzonte temporale:  medio/lungo periodo (tra 10 e 15 anni dal pensionamento). 
+Propensione al rischio:  medio-alta. 
+Politica di gestione:  la SGR attua una politica d’investimento volta a p erseguire una 
+composizione del patrimonio del Comparto bilanciata tra titoli di capitale e titoli di debito. 
+Fermo restando il rispetto di quanto previsto dal D.M. n. 166/2014, potranno essere effettuati 
+investimenti in titoli denominati in valute estere a condizione che essi siano emessi da Paesi 
+indicati nel regolamento o da soggetti residenti in  Paesi indicati nel regolamento o negoziati 
+nei mercati regolamentati dei Paesi indicati nel regolamento.
+=== pagina 16 ===
+Pag. 16  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Resta comunque ferma la facoltà, oltre che di detenere una parte del patrimonio in disponibilità 
+liquide, di investire in altri valori mobiliari; tuttavia, i titoli di debito presenti nel portafoglio non 
+potranno essere inferiori al 30% del patrimonio del Comparto medesimo, OICR armonizzati e 
+strumenti finanziari derivati che abbiano ad oggett o indici finanziari legati all’andamento di 
+commodities, in misura non superiore al 5% del patrimonio del Comparto medesimo. 
+Strumenti finanziari:  composizione bilanciata del portafoglio in titoli di capitale e in titoli di 
+debito, sia pubblici che privati, denominati in eur o e/o in valute diverse dall’euro e quote di 
+OICR. La durata media finanziaria del comparto, intesa come media ponderata della duration 
+degli investimenti del comparto netti (al netto delle eventuali passività finanziarie) potrà variare 
+all’interno di un range relativamente ampio (0-6 an ni), al fine di consentire la gestione attiva 
+del rischio tasso.  
+Per il conseguimento dell’obiettivo d’investimento possono essere utilizzati anche strumenti 
+finanziari derivati. L’utilizzo di strumenti finanziari derivati ha finalità sia di copertura sia di più 
+efficiente gestione del comparto, nel senso che i d erivati possono essere utilizzati come 
+alternativa efficiente all’investimento diretto in titoli, avendo una correlazione positiva con 
+questi ultimi ovvero muovendosi nella medesima direzione dei titoli. Il limite massimo di utilizzo 
+complessivo di strumenti finanziari derivati, sia p er finalità di copertura che di efficiente 
+gestione, è pari al 100% del valore netto del comparto. 
+Categorie di emittenti e settori industriali:  emittenti sovranazionali, governativi o societari,  
+aventi un merito creditizio anche molto rischioso, con un livello di rischio complessivo 
+compatibile con l’indicatore sintetico di rischio d el fondo. Gli investimenti in titoli di capitale 
+saranno effettuati in assenza di limiti riguardanti  capitalizzazione, dimensione o settore di 
+appartenenza degli emittenti. La quota di capitali investiti in titoli di debito non potrà essere 
+inferiore al 30% del patrimonio della linea medesima. 
+Aree geografiche di investimento:  mercati regolamentati dei Paesi europei, americani  e 
+asiatici. Parte degli investimenti potrà essere impiegata, in misura inferiore al 30%, nei mercati 
+di Paesi emergenti. 
+Rischio cambio:  la copertura del rischio di cambio connesso all’in vestimento in valuta estera 
+sarà di volta in volta oggetto di valutazione da pa rte del gestore. Le operazioni di copertura 
+sulle divise saranno effettuate tramite contratti f orward con controparti autorizzate dal CdA e 
+soggette a periodica valutazione secondo le procedure interne in vigore. 
+Modalità di gestione:  la SGR provvede direttamente ad investire il patri monio del Fondo, 
+secondo uno stile di gestione attivo volto anche alla generazione di rendimenti tali da superare 
+i costi di gestione. Lo stile di gestione adottato non consente di individuare un parametro di 
+riferimento (benchmark) coerente con i rischi connessi con la politica d’investimento del Fondo. 
+In luogo del benchmark è stata individuata la seguente misura di volatilità del Fondo coerente
+=== pagina 17 ===
+Pag. 17  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+con la misura di rischio espressa: volatilità del comparto (Annualized Standard Deviation) pari 
+al 14%. 
+Indicatori:  turnover: 90% target; 
+volatilità: max 14%. 
+Diritti di voto:  la valutazione in merito all’esercizio dei diritti di voto è effettuata esclusivamente 
+con riferimento agli strumenti finanziari per i quali la quota di detenzione complessiva da parte 
+dei fondi sia maggiore o uguale al 3% del capitale della società (c.d. partecipazione 
+qualificata). Tale strategia è stata definita princ ipalmente in base al fatto che l'obiettivo della 
+gestione, in linea generale, non è quello di orientare le politiche societarie: se un'azienda attua 
+politiche aziendali che la SGR non approva, si pref erisce ridurne o azzerarne il peso in 
+portafoglio piuttosto che cercare di orientarne le decisioni. Questo è reso possibile dal fatto 
+che la SGR privilegia l'investimento in titoli liqu idi e che nella maggior parte dei casi la quota 
+azionaria detenuta di ogni società è poco rilevante. 
+ 
+ 
+Aureo Comparto Azionario ESG 
+Finalità della gestione:  la gestione risponde alle esigenze di un soggetto che ricerca rendimenti 
+più elevati nel lungo periodo ed è disposto ad accettare un’esposizione al rischio elevata con 
+una certa discontinuità dei risultati nei singoli e sercizi (rivalutazione del capitale investito 
+rispondendo alle esigenze di un soggetto che ha ini ziato la contribuzione e ha maturato una 
+anzianità contributiva fino al 50% della vita lavorativa). 
+Orizzonte temporale : lungo periodo (oltre 15 anni dal pensionamento). 
+Propensione al rischio:  alta. 
+Politica di gestione:  la SGR attua una politica d’investimento volta a p erseguire una 
+composizione del patrimonio del Comparto prevalente mente orientata ai titoli di capitale. 
+Fermo restando il rispetto di quanto previsto dal D.M. n. 166/2014, potranno essere effettuati 
+investimenti in titoli denominati in valute estere a condizione che essi siano emessi da Paesi 
+indicati nel Regolamento o da soggetti residenti in Paesi indicati nel Regolamento o negoziati 
+nei mercati regolamentati dei Paesi indicati nel Regolamento. 
+Resta comunque ferma la facoltà, oltre che di detenere una parte del patrimonio in disponibilità 
+liquide, di investire in altri valori mobiliari, quali titoli di debito, che non potranno essere presenti 
+in misura superiore al 20% del patrimonio del Compa rto medesimo, OICR armonizzati e 
+strumenti finanziari derivati che abbiano ad oggett o indici finanziari legati all’andamento di 
+commodities, in misura non superiore al 5% del patrimonio del Comparto medesimo.
+=== pagina 18 ===
+Pag. 18  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Strumenti finanziari:  principalmente titoli di capitale, denominati in e uro e/o in divise diverse 
+dall’euro e quote di OICR.  
+Per il conseguimento dell’obiettivo d’investimento possono essere utilizzati anche strumenti 
+finanziari derivati. L’utilizzo di strumenti finanziari derivati ha finalità sia di copertura sia di più 
+efficiente gestione del comparto, nel senso che i d erivati possono essere utilizzati come 
+alternativa efficiente all’investimento diretto in titoli, avendo una correlazione positiva con 
+questi ultimi ovvero muovendosi nella medesima direzione dei titoli. Il limite massimo di utilizzo 
+complessivo di strumenti finanziari derivati, sia p er finalità di copertura che di efficiente 
+gestione, è pari al 100% del valore netto del comparto. 
+Categorie di emittenti e settori industriali:  gli investimenti in titoli di capitale saranno eff ettuati 
+in assenza di limiti riguardanti capitalizzazione, dimensione o settore di appartenenza degli 
+emittenti. Obbligazioni di emittenti sovranazionali , Stati ed emittenti privati, emittenti 
+sovranazionali, governativi o societari, aventi un merito creditizio anche molto rischioso, con 
+un livello di rischio complessivo compatibile con l ’indicatore sintetico di rischio del fondo. La 
+quota di capitali investiti in titoli di debito non  potrà essere superiore al 20% del patrimonio 
+della linea medesima. 
+Aree geografiche di investimento:  mercati regolamentati dei Paesi europei, americani  e 
+asiatici. Parte degli investimenti potrà essere impiegata, in misura inferiore al 30%, nei mercati 
+di Paesi emergenti. 
+Rischio cambio : la copertura del rischio di cambio connesso all’i nvestimento in valuta estera 
+sarà di volta in volta oggetto di valutazione da pa rte del gestore. Le operazioni di copertura 
+sulle divise saranno effettuate tramite contratti f orward con controparti autorizzate dal CdA e 
+soggette a periodica valutazione secondo le procedure interne in vigore. 
+Modalità di gestione : la SGR provvede direttamente ad investire il patr imonio del Fondo, 
+secondo uno stile di gestione attivo volto anche alla generazione di rendimenti tali da superare 
+i costi di gestione. Lo stile di gestione adottato non consente di individuare un parametro di 
+riferimento (benchmark) coerente con i rischi connessi con la politica d’investimento del Fondo. 
+In luogo del benchmark è stata individuata la seguente misura di volatilità del Fondo coerente 
+con la misura di rischio espressa: volatilità del comparto (Annualized Standard Deviation) pari 
+al 25%. 
+Indicatori:  turnover: 90% target; 
+volatilità: max 25%. 
+Diritti di voto:  la valutazione in merito all’esercizio dei diritti di voto è effettuata esclusivamente 
+con riferimento agli strumenti finanziari per i quali la quota di detenzione complessiva da parte 
+dei fondi sia maggiore o uguale al 3% del capitale della società (c.d. partecipazione 
+qualificata). Tale strategia è stata definita princ ipalmente in base al fatto che l'obiettivo della 
+gestione, in linea generale, non è quello di orientare le politiche societarie: se un'azienda attua
+=== pagina 19 ===
+Pag. 19  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+politiche aziendali che la SGR non approva, si pref erisce ridurne o azzerarne il peso in 
+portafoglio piuttosto che cercare di orientarne le decisioni. Questo è reso possibile dal fatto 
+che la SGR privilegia l'investimento in titoli liqu idi e che nella maggior parte dei casi la quota 
+azionaria detenuta di ogni società è poco rilevante.
+=== pagina 20 ===
+Pag. 20  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+4. SISTEMA DI CONTROLLO E VALUTAZIONE DEI RISULTATI  CONSEGUITI 
+Le procedure interne di controllo della gestione fi nanziaria sono formalizzate nell’ambito del 
+Manuale Normativo di BCC Risparmio&Previdenza S.G.R.p.A, relativo alla gestione del Fondo 
+Pensione Aperto Aureo. La Funzione Internal Audit s volge, sulla base del Piano di audit 
+approvato dal CdA di BCC R&P, almeno con cadenza bi ennale, attività di verifica e di 
+assurance complessiva per il CdA sul disegno e sul funzionamento del sistema dei controlli 
+inerenti alle attività del Fondo Pensione Aperto Aureo. 
+Si specifica che alla base della pianificazione ann uale delle attività di verifica delle diverse 
+Funzioni di Controllo Aziendali vi è la condivisione del rispettivo Piano, al fine di identificare il 
+perimetro di analisi ed efficientare le relative attività di controllo. 
+Di seguito vengono indicati i parametri che sono og getto di controllo per tutti i comparti e la 
+relativa periodicità. 
+ 
+ 
+INDICATORE – 
+MODALITÀ DI 
+VERIFICA 
+PERIODICITÀ DESTINATARIO FONTE DATI E 
+FORNITORE 
+DEGLI 
+STRUMENTI 
+ANALITICI  
+UO OWNER 
+Misure di 
+Performance 
+(controllo 
+eseguito da Risk 
+Management) 
+Report con le 
+performance del 
+Fondo Pensione.  
+Report di 
+confronto tra le 
+performance del 
+Fondo Pensione 
+e le performance 
+dei peer group 
+rappresentativi 
+della 
+concorrenza. 
+Settimanale Direzione 
+Generale; 
+Responsabile UO 
+Investimenti; 
+Responsabile UO 
+Portafogli 
+d’investimento; 
+UO Fondi in Titoli; 
+UO Commerciale 
+e Marketing 
+FONTE 
+DATI:BCC 
+Sinergia e BNP 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+Unione Fiduciaria 
+e MathWorks 
+ Risk 
+Management 
+ Performance 
+attribution. 
+Analisi delle 
+componenti 
+classiche di 
+allocation, 
+selection e 
+interaction. 
+All'occorrenza 
+scomposizione 
+Mensile Consiglio di 
+Amministrazione; 
+Direzione 
+Generale; 
+Responsabile UO 
+Investimenti; 
+Responsabile UO 
+Portafogli 
+d’investimento; 
+UO Fondi in Titoli 
+FONTE DATI: 
+BCC Sinergia e 
+BNP 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+MSCI BarraOne  
+Risk 
+Management
+=== pagina 21 ===
+Pag. 21  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+dei dati: per 
+classi di 
+strumenti 
+finanziari, per 
+settori industriali 
+e per esposizione 
+valutaria. 
+Misure di 
+rischio 
+(controllo 
+eseguito da Risk 
+Management) 
+Report con la 
+stima dei rischi 
+dei portafogli 
+gestiti 
+(monitoraggio 
+della volatilità 
+assoluta di ogni 
+comparto) e con 
+il controllo, dove 
+previsto, dei 
+valori massimi 
+consentiti 
+Almeno 
+settimanale 
+Direzione 
+Generale; 
+Responsabile UO 
+Investimenti; 
+Responsabile UO 
+Portafogli 
+d’investimento; 
+UO Fondi in Titoli 
+FONTE DATI: 
+BCC Sinergia e 
+BNP 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+MSCI BarraOne e 
+MathWorks 
+Risk 
+Management 
+Controllo dei 
+limiti agli 
+investimenti  
+(controllo 
+eseguito da Risk 
+Management) 
+Monitoraggio 
+dell’esposizione 
+azionaria, 
+obbligazionaria, 
+in derivati e di 
+investito in sicav 
+(aggregate per 
+tipologia di asset 
+class) e con il 
+controllo delle 
+politiche 
+deliberate. 
+Almeno 
+settimanale 
+Direzione 
+Generale; 
+Responsabile UO 
+Investimenti; 
+Responsabile UO 
+Portafogli 
+d’investimento 
+FONTE DATI: 
+BCC Sinergia e 
+BNP 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+OPM per il 
+controllo limiti ex-
+ante e Unione 
+Fiduciaria per il 
+controllo limiti ex-
+post. Mathworks. 
+Risk 
+Management 
+ Controllo della 
+esposizione 
+valutaria: report 
+con il calcolo 
+dell’esposizione 
+in valuta e con il 
+controllo delle 
+politiche 
+deliberate 
+Almeno 
+settimanale 
+Direzione 
+Generale; 
+Responsabile UO 
+Investimenti; 
+Responsabile UO 
+Portafogli 
+d’investimento 
+ 
+FONTE DATI: 
+BCC Sinergia e 
+BNP 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+Unione Fiduciaria, 
+MSCI BarraOne e 
+Mathworks 
+Risk 
+Management
+=== pagina 22 ===
+Pag. 22  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+ Controllo della 
+durata media 
+finanziaria di ogni 
+comparto (intesa 
+come media 
+ponderata della 
+duration dei titoli 
+obbligazionari sul 
+valore 
+complessivo 
+netto degli attivi 
+di portafoglio) e 
+controllo delle 
+politiche 
+deliberate 
+Almeno 
+settimanale 
+Direzione 
+Generale; 
+Responsabile UO 
+Investimenti; 
+Responsabile UO 
+Portafogli 
+d’investimento 
+FONTE DATI: 
+BCC Sinergia e 
+BNP 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+Unione Fiduciaria, 
+MSCI BarraOne e 
+Mathworks 
+Risk 
+Management 
+ Monitoraggio dei 
+limiti di 
+regolamento e 
+dei limiti interni. 
+Controllo di 
+sintesi sul supero 
+dei limiti di 
+Universo 
+Investibile e di 
+asset allocation 
+tattica 
+Settimanale Direzione 
+Generale; UO 
+Investimenti; UO 
+Portafogli 
+d’investimento 
+FONTE DATI: 
+BCC Sinergia e 
+BNP 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+Unione Fiduciaria, 
+MSCI BarraOne e 
+Mathworks 
+Risk 
+Management 
+ Turnover: 
+Monitoraggio del 
+calcolo del 
+turnover e 
+confronto con il 
+livello massimo o 
+l’obiettivo di 
+rotazione 
+Annuale Amministrazione FONTE DATI: 
+BCC Sinergia 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+Mathworks 
+Risk 
+Management 
+Investimenti 
+ESG 
+Monitoraggi “ex 
+post” in ambito 
+limiti di 
+investimento 
+ESG 
+Mensile Comitato ESG; 
+Consiglio di 
+Amministrazione; 
+Direttore 
+Generale; 
+Responsabile 
+U.O. Investimenti; 
+FONTE DATI: 
+Risk Management 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+MSCI BarraOne e 
+Mathworks 
+Risk 
+Management
+=== pagina 23 ===
+Pag. 23  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Responsabile 
+U.O. Portafogli 
+d’investimento 
+ Monitoraggi “ex 
+post” in ambito 
+Climate Risk 
+Mensile Comitato ESG; 
+Consiglio di 
+Amministrazione; 
+Direttore 
+Generale; 
+Responsabile 
+U.O. Investimenti; 
+Responsabile 
+U.O. Portafogli 
+d’Investimento 
+FONTE DATI: 
+Risk Management 
+FORNITORE 
+DEGLI 
+STRUMENTI: 
+MSCI BarraOne e 
+Mathworks 
+Risk 
+Management  
+ Raccolta ESG Trimestrale  U.O. Portafogli 
+d’investimento, 
+che utilizza il dato 
+per predisporre la 
+Relazione di cui 
+alla riga 
+successiva 
+FONTE DATI: 
+Amministrazione 
+ 
+ 
+Amministrazio 
+ne 
+ Relazione al 
+Comitato ESG 
+Trimestrale Comitato ESG; la 
+relazione è 
+presentata al 
+primo Consiglio di 
+Amministrazione 
+successivo alla 
+riunione del 
+Comitato ESG 
+ U.O. Portafogli 
+d’Investimento 
+ 
+ Relazione in 
+ambito armi non 
+convenzionali 
+(i.e. mine 
+antipersona, 
+munizioni e 
+submunizioni a 
+grappolo) 
+Annuale Comitato ESG; 
+Consiglio di 
+Amministrazione; 
+Direzione 
+Generale; 
+Funzione di 
+Compliance e 
+Funzione AML 
+ U.O. Portafogli 
+d’Investimento 
+/ 
+Risk 
+Management 
+ Informativa circa 
+la violazione 
+della black list in 
+ambito armi non 
+convenzionali 
+Ad evento e 
+comunque 
+tempestivame 
+nte 
+Direzione 
+Generale; 
+Consigliere 
+delegato in ambito 
+ESG; 
+ U.O. Portafogli 
+d’Investimento 
+/ 
+Risk 
+Management
+=== pagina 24 ===
+Pag. 24  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Responsabile del 
+Fondo Pensione; 
+Consiglio di 
+Amministrazione 
+di Capogruppo 
+(l’informativa che 
+la Funzione di Risk 
+Management e la 
+UO Portafogli di 
+Investimenti 
+trasmettono alle 
+strutture della 
+SGR è veicolata al 
+Wealth 
+Management di 
+Capogruppo che 
+ha la 
+responsabilità di 
+informare il CdA di 
+Capogruppo) e 
+della SGR; 
+Funzione di 
+Compliance e 
+Funzione AML 
+ In caso di 
+violazione della 
+black list in 
+ambito armi non 
+convenzionali, 
+comunicazione  a 
+Covip con 
+indicazione delle 
+criticità emerse, 
+delle azioni di 
+rimedio 
+individuate e 
+della 
+pianificazione 
+delle stesse. La 
+comunicazione è 
+inviata anche al 
+Ad evento, 
+previa 
+autorizzazione 
+del CdA della 
+SGR e 
+confronto con 
+la struttura 
+preposta di 
+Capogruppo 
+(Wealth 
+Management) 
+e con il 
+Responsabile 
+del Fondo 
+pensione 
+ 
+ 
+ 
+ 
+ 
+ 
+Covip 
+ U.O. Portafogli 
+d’Investimento 
+/Risk 
+Management/ 
+Segreteria 
+Societaria e 
+Legale (solo 
+per invio a 
+Covip)
+=== pagina 25 ===
+Pag. 25  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+Responsabile del 
+Fondo Pensione. 
+Controllo 
+variabili di 
+costo 
+(controllo 
+eseguito da 
+Compliance) 
+Controllo della 
+conformità 
+(rispetto alla 
+normativa di 
+riferimento e alle 
+previsioni 
+statutarie e 
+regolamentari 
+della forma 
+pensionistica) dei 
+costi applicati ai 
+singoli comparti 
+del Fondo 
+Pensione. 
+Annuale 
+(mese di aprile 
+dell’anno 
+successivo a 
+quello oggetto 
+di verifica) 
+Comitato Sviluppo 
+Prodotti 
+ U.O. 
+Amministrazio 
+ne (Report sui 
+costi applicati 
+al Fondo 
+Pensione 
+presentato in 
+Comitato 
+Sviluppo 
+Prodotti alla 
+prima 
+occasione utile 
+successiva alla 
+periodicità)
+=== pagina 26 ===
+Pag. 26  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+5. CRONOLOGIA DELLE MODIFICHE APPORTATE 
+Si descrivono di seguito le modifiche apportate al presente Documento nell’ultimo triennio. 
+ 
+Data Descrizione sintetica della 
+modifica apportata 
+Descrizione sintetica delle 
+indicazioni che sono state 
+sostituite  
+Dic 2023 Creazione dell’Allegato A Integrazione dei fattori ESG nel 
+processo d’investimento  
+Mar 2025 Creazione Allegati B e C Metodologia di scoring ESG 
+proprietaria ICCREA 
+Aggiornamento dei valori riguardanti il 
+rendimento medio annuo atteso, la 
+variabilità annua, il livello, la probabilità 
+di Shortfall dei vari Comparti e il turn 
+over. 
+Modificata descrizione del controllo 
+inerente alle variabili di costo.  
+Set 2025 Integrazione paragrafo 4 Inserimento dei seguenti flussi 
+informativi a favore del Consigliere 
+delegato in ambito ESG: raccolta ESG; 
+commenti all’operatività di portafoglio; 
+monitoraggi ex post in ambito limiti di 
+investimento e in ambito climate risk; 
+relazione in materia di  armi non 
+convenzionali. 
+ 2026 Modifiche al paragrafo relativo alle 
+scelte di gestione e alla tabella dei 
+report informativi; affinamenti in 
+materia di controlli ai sensi della 
+Legge 220/2021. 
+Definizione più approfondita dell’Asset 
+Allocation Strategica;  i ntrodotta 
+informativa e comunicazione 
+all’Autorità di Vigilanza in caso di 
+violazione del divieto, ai sensi della 
+Legge n. 220/2021, di investimento nei 
+confronti di società coinvolte nello 
+sviluppo, nella produzione o nella 
+commercializzazione di mine 
+antipersona e munizioni a grappolo.  
+sostituzione dell’UO Back Office 
+Finanza e BFF Bank con, 
+rispettivamente, BCC Sinergia e BNP 3; 
+indicazione della quota massima 
+ 
+3 A decorrere dal 1° giugno 2026 il depositario del Fo ndo Pensione è BNP Paribas Succursale Italia, a cui so no 
+state affidate le attività di outsourcing amministrativo.
+=== pagina 27 ===
+Pag. 27  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+investibile in OICR armonizzati e 
+strumenti finanziari derivati che 
+abbiano ad oggetto indici finanziari 
+legati all’andamento di commodities.
+=== pagina 28 ===
+Pag. 28  di 28  
+ 
+ 
+PRIVATO 
+Il p  Il presente documento è di proprietà di BCC Risparmio&Previdenza ed è destinato ad esclusivo uso interno e per esclusive finalità lavorative. Qualsiasi 
+utilizzo di altra natura dovrà essere autorizzato dal proprietario del documento e regolato da specifici accordi di riservatezza.  
+6. APPENDICE 
+Procedure di controllo della gestione finanziaria  
+ 
+Si elencano le procedure di controllo della gestione finanziaria del Fondo Pensione Aperto 
+Aureo, per il cui dettaglio si rimanda al Manuale Normativo di BCC Risparmio&Previdenza S. 
+G. R. p. A. 
+ 
+ 
+Numero Procedura  Attività  
+161 RSK Valutazione del rischio di credito delle co ntroparti 
+165 RSK Controllo rischi sui portafogli gestiti e c alcolo performance  
+166 RSK Presidio limiti Gestioni Collettive

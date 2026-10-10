@@ -1,0 +1,70 @@
+# Fondo: ALMEGLIO - FONDO PENSIONE APERTO ALLEANZA A CONTRIBUZIONE DEFINITA (almeglio-alleanza)
+# Documento: Metodologia delle proiezioni – Informazioni sulla metodologia utilizzata per l’elaborazione delle prestazioni pensionistiche
+# Fonte: https://cdn.alleanza.it/-/media/alleanza/assets/prodotti/almeglio/nota-metodologica-proiezioni-covip-31-maggio-2021.pdf?la=it-it&rev=54e75cb6c5194028baf989f83d787f0a&hash=90D9BCC359BA3E8A596413C941692094
+# Citato in: https://www.alleanza.it/previdenza-complementare/almeglio/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: bfe271d2c1ae139cb8868a1f52f7ff320ab2d6dbb934f92584eb5b6eaaa1c70c
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+AlMeglio – Fondo Pensione Aperto (FPA) chiuso a nuove adesioni 
+ 
+METODOLOGIA E IPOTESI UTILIZZATE  
+PER L’ELABORAZIONE DELLE PRESTAZIONI PENSIONISTICHE 
+ 
+ 
+Il presente documento è volto a illustrare la metodologia di calcolo e le ipotesi utilizzate per la 
+simulazione della prestazione pensionistica alla data di pensionamento.  
+La costruzione delle proiezioni pensionistiche si basa: 
+• sulle informazioni relative all’Aderente:  
+- dati anagrafici dell’Aderente (età e sesso) 
+- misura della contribuzione 
+- profilo di investimento 
+- età prevista al pensionamento di vecchiaia 
+• sulle informazioni relative alla forma pensionistica complementare: 
+- costi connessi alla partecipazione nella fase di accumulo (pari a quelli effettivamente 
+applicati dalla forma pensionistica complementare e consultabili dalla Scheda “I costi”) 
+- basi tecniche e demografiche per il calcolo della prima rata di rendita:  
+ 
+Per adesioni dal 30 novembre 2014 al 31 marzo 2015 
+• tavola IPS55U, corrispondente alla combinazione 60% femmine, 40% maschi  
+• tasso tecnico 1,75%  
+• costo relativo alla trasformazione della posizione in rendita: 1,25%  
+Per adesioni dal 10 dicembre 2012 al 29 novembre 2014 
+• tavola IPS55U, corrispondente alla combinazione 60% femmine, 40% maschi  
+• tasso tecnico 2%  
+• costo relativo alla trasformazione della posizione in rendita: 1,25%  
+Per adesioni fino al 9 dicembre 2012 
+• tavola RG48 differenziata per genere  
+• tasso tecnico 2,5%  
+• costo relativo alla trasformazione della posizione in rendita: 1,25%  
+ 
+• sulle ipotesi definite dalla COVIP:  
+- tasso di inflazione: 2%  
+- tasso di crescita reale dei contributi versati al Fondo: 1%  
+- età di pensionamento: 67 anni  
+- tasso atteso di rendimento della gestione calcolato sulla base della composizione 
+azionaria e obbligazionaria del comparto: alla componente azionaria è attribuito un 
+rendimento del 4% annuo e a quella obbligazionaria un rendimento del 2% annuo
+=== pagina 2 ===
+Il motore di calcolo per lo sviluppo delle proiezioni, disponibile nell’Area Riservata - Area Clienti, 
+consente la realizzazione di simulazioni personalizzate in merito alla prestazione pensionistica senza 
+la necessità di inserire le informazioni relative all’Aderente (sesso, età e valore della posizione 
+individuale maturata). Tale strumento consente altresì di simulare l’effetto sulla posizione individuale 
+in maturazione e sulla prestazione pensionistica di ciascuna opzione esercitabile dall’Aderente in 
+merito a: 
+- anticipazione; 
+- riscatto parziale; 
+- modifica dell’opzione di investimento dell’intera posizione individuale (switch); 
+- modifica dell’opzione di investimento dei versamenti contributivi futuri (reindirizzamento). 
+ 
+L’introduzione di tali opzioni ha finalità puramente indicative; queste opzioni possono prevedere 
+requisiti normativi o contrattuali che saranno verificati al momento di un’eventuale effettiva richiesta 
+presentata alla forma pensionistica. 
+Al termine dell’elaborazione viene fornito il valore della posizione individuale prospettica e l’importo 
+annuo iniziale delle tipologie di rendita previste dalla forma pensionistica, sia alla data di 
+pensionamento di vecchiaia indicata dall’Aderente, sia n ei cinque anni successivi. Tali valori sono 
+rappresentati al lordo della fiscalità (nel calcolo dell’evoluzione della posizione individuale si tiene 
+conto soltanto delle imposte gravanti sui rendimenti) e in termini reali e, pertanto, già al netto degli 
+effetti dell’inflazione.

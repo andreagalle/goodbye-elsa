@@ -1,0 +1,114 @@
+# Fondo: FONDO PENSIONE APERTO ZURICH CONTRIBUTION (zurich-contribution)
+# Documento: Metodologia delle proiezioni – Metodologia e ipotesi utilizzate per le proiezioni v integrata completa 13082021 FPA DEF
+# Fonte: https://www.zurich.it/api/archiviodigitale/download?guid=D5A581DF-16E4-483D-8D60-7F292EE93080&filename=Metodologia%20e%20ipotesi%20utilizzate%20per%20le%20proiezioni%20v%20integrata%20completa%2013082021%20FPA%20DEF.pdf.pdf
+# Citato in: https://www.zurich.it/persone/risparmio-e-investimento/previdenza/zurich-contribution
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5311dbd15ad74139a896974eec1d97bde7090cf5c817aa810401a768fcd505c9
+# Pagine: 3
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+INTERNAL USE ONLY 
+ 
+ 
+METODOLOGIA E IPOTESI UTILIZZATE PER L’ELABORAZIONE DELLE PRESTAZIONI 
+PENSIONISTICHE 
+ 
+Il presente documento è volto a illustrare la metodologia di calcolo e le ipotesi utilizzate per 
+l’elaborazione delle prestazioni pensionistiche standardizzate e personalizzate, finalizzate a illustrare 
+al potenziale Aderente: 
+• l’importo della prestazione attesa al momento del pensionamento; 
+• il valore della rendita annua vitalizia immediata corrispondente alla posizione individuale 
+maturata. 
+ 
+1. Variabili utilizzate per la costruzione delle proiezioni pensionistiche 
+ 
+Per la costruzione delle proiezioni pensionistiche personalizzate (fornite dal motore di calcolo e dal 
+Prospetto delle prestazioni pensionistiche – fase di accumulo )  e standardizzate (contenute nella 
+Nota Informativa) si considerano le informazioni relative al singolo Aderente (o figure -tipo definite 
+dalla COVIP), le informazioni proprie della forma pensionistica complementare e le ipotesi definite 
+dalla COVIP in modo uniforme per tutte le forme pensionistiche complementari. Le variabili utilizzate 
+sono le seguenti: 
+o Dati anagrafici dell’aderente (età e sesso) o di figure-tipo definite dalla COVIP (nel caso di 
+proiezioni standardizzate) 
+o Misura della contribuzione : espressa su base annuale, al lordo dei costi o definita dalla 
+COVIP (nel caso di proiezioni standardizzate).  
+o Tasso annuo di crescita della contribuzione/retribuzione, pari a 1%. 
+o Tasso annuo atteso di inflazione, pari a 2%. 
+o Tasso atteso di rendimento della gestione: viene definito in funzione della composizione del 
+comparto (azionaria o obbligazionaria). Il tasso di rendimento della componente azionaria è 
+pari al 4% mentre quello della componente obbligazionaria è pari al 2%. Sono espressi in 
+termini reali e al lordo dei costi e della tassazione. 
+o Età di pensionamento: si tratta della presumibile età di pensionamento di vecchiaia 
+dell’Aderente, o delle figure-tipo definite dalla COVIP (nel caso di proiezioni standardizzate).  
+o Ipotesi tecniche per il calcolo della rendita: il calcolo della prima rata annua di rendita vitalizia 
+immediata, è effettuato applicando i coefficienti di conversione relativi alle seguenti ipotesi: 
+ 
+o nella proiezione standardizzata: 
+o Basi Demografiche: tavola di mortalità A62 indifferenziata per sesso, 
+corrispondente alla combinazione 50% maschi e 50% femmine; 
+o Basi finanziarie: tasso tecnico dello 0%; 
+o Costo relativo alla trasformazione della posizione individuale in rendita: 1,25% 
+ 
+o Nella proiezione personalizzata (fornita dal motore di calcolo) 
+o Basi Demografiche: tavola di mortalità A62 immediata indifferenziata per sesso, 
+corrispondente alla combinazione 60% maschi e 40% femmine (tavola Covip); 
+o Basi finanziarie: tasso tecnico dello 0%; 
+o Costo relativo alla trasformazione della posizione individuale in rendita: 1,25%
+=== pagina 2 ===
+INTERNAL USE ONLY 
+ 
+2. Elaborazione delle proiezioni pensionistiche personalizzate fornite periodicamente nell’ambito 
+del “Prospetto delle prestazioni pensionistiche – fase di accumulo” 
+L’elaborazione delle proiezioni personalizzate inerenti al valore della posizione individuale si basa 
+inoltre sulle seguenti esemplificazioni:  
+• versamenti: vengono determinati in funzione delle scelte fatte dall’Aderente, al lordo dei costi 
+gravanti direttamente su quest’ultimo. Per semplicità si assume che i versamenti vengano 
+effettuati all’inizio di ciascun anno.  
+• posizione individuale maturata: si assume quale dato iniziale la posizione individuale 
+effettivamente maturata dall’Aderente alla fine dell’anno solare precedente.  
+Su questa si procede con sviluppo della proiezione tenendo conto della contribuzione lorda 
+relativa a ciascun anno, del tasso di rendimento corrispondente al profilo di investimento 
+scelto dell’Aderente, dei costi praticati dalla forma pensionistica complementare e del 
+prelievo fiscale sui rendimenti della gestione, secondo la normativa tempo pe r tempo 
+vigente.  
+• importo annuo della rendita: calcolato, al lordo della tassazione, utilizzando i coefficienti di 
+conversione in rendita determinati sulla base delle “ipotesi tecniche per il calcolo della 
+rendita” di seguito indicate: 
+ Se la previsione di rendita è entro il 31/12/2023  
+o Basi Demografiche: tavola di mortalità A62 immediata indifferenziata per sesso, 
+corrispondente alla combinazione 50% maschi e 50% femmine; 
+o Basi finanziarie: tasso tecnico dello 1%; 
+o Costo relativo alla trasformazione della posizione individuale in rendita: 1,25% 
+ 
+Se la previsione di rendita è post il 31/12/2023  
+ 
+o Basi Demografiche: tavola di mortalità A62 immediata indifferenziata per sesso, 
+corrispondente alla combinazione 60% maschi e 40% femmine (tavola Covip); 
+o Basi finanziarie: tasso tecnico dello 0%; 
+o Costo relativo alla trasformazione della posizione individuale in rendita: 1,25% 
+ 
+ 
+3. Elaborazione delle proiezioni pensionistiche standardizzate fornite nell’ambito della Nota 
+informativa  
+ 
+Le figure – tipo definite dalla COVIP per l’elaborazione delle proiezioni standardizzate hanno le 
+seguenti caratteristiche:  
+• dati anagrafici dell’aderente al momento dell’adesione (età): 30 e 40 anni;  
+• contributo annuo: 2.500 e 5.000 euro;  
+• età di pensionamento: 67 anni; 
+• tasso annuo di crescita della contribuzione/retribuzione: 1% 
+• tasso annuo atteso di inflazione: 2% 
+• tasso atteso di rendimento della gestione (parte OICR): viene definito in funzione della 
+composizione del comparto (azionaria o obbligazionaria). Il tasso di rendimento della 
+componente azionaria è pari al 4% mentre quello della componente obbligazionaria è pari al 
+2%.  
+• ipotesi tecniche per il calcolo della rendita: il calcolo della prima rata annua di rendita vitalizia 
+immediata, è effettuato applicando i coefficienti di conversione relativi alle seguenti ipotesi:
+=== pagina 3 ===
+INTERNAL USE ONLY 
+ 
+o Basi Demografiche: tavola di mortalità A62 indifferenziata per sesso, 
+corrispondente alla combinazione 50% maschi e 50% femmine; 
+o Basi finanziarie: tasso tecnico pari allo 0%; 
+o Costo relativo alla trasformazione della posizione individuale in rendita: 1,25%

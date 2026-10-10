@@ -1,0 +1,1029 @@
+# Fondo: PROGRAMMA OPEN FONDO PENSIONE APERTO (programma-open)
+# Documento: Documento sul sistema di governo – Programma Open – Documento sul sistema di governo
+# Fonte: https://cdn.groupama.it/app/uploads/2026/06/Programma-Open_Documento-sul-sistema-di-governo_2026_IT.pdf
+# Citato in: https://www.groupama.it/previdenza-integrativa/programma-open/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: bac07f3658732df1f80e662b9703944309208a8996b43ac0b3ee26fa86500f25
+# Pagine: 23
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Pag. 1 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+Versione: 6.0 
+ 
+ 
+ 
+ 
+DOCUMENTO SUL SISTEMA DI GOVERNO 
+del Fondo Pensione Aperto Programma Open 
+ di Groupama Assicurazioni S.p.A.  
+iscritto all’albo tenuto dalla Covip n°78 
+ 
+ 
+ 
+ 
+Il presente documento è redatto ai sensi dell’art. 5 decies, comma 1, del D. Lgs. 252/2005, così come 
+modificato in seguito all’attuazione della Direttiva 2016/2341 (cd. IORP II): “ Le società e gli enti che 
+gestiscono fondi pensione costituiti nella forma di patrimoni separati ai sensi dell’articolo 3, comma 1, lettera 
+h), assicurano, in modo proporzionato alla dimensione, alla natura, alla portata e alla complessità delle attività 
+del fondo pensione, l’assolvimento d egli obblighi previsti dagli ar ticoli 4-bis, 5-bis, 5-ter, 5-quater, 5-sexies, 
+5-septies, 5-octies e 5-nonies in coerenza con gli assetti organizzativi del rispettivo settore di riferimento. La 
+COVIP, sentite la Banca d’Italia, la Consob e l’IVASS adotta specifiche istruzioni di vigilanza al fine di garantire 
+l’assolvimento dei citati obblighi.” 
+La Deliberazione COVIP del 13 gennaio 2021 dispone che: […] Il sistema di governo della società, 
+per la parte relativa alla gestione dei fondi pensione aperti e salvo quanto più avanti precisato, è 
+descritto in un apposito documento, da redigersi, con cadenza annuale, e da pubblicarsi sul sito web 
+della forma pensionistica/società unitamente al rendiconto dei fondi stessi, in cui ne viene fornita una 
+rappresentazione strettamente limitata ai profili gestionali che assumono rilievo con riferimento a tali fondi. 
+La prima pubblicazione del “Documento sul sistema di governo societario afferente alla gestione del 
+Fondo Pensione Aperto – Programma Open” è stata effettuata nel 2021, unitamente al rendiconto 
+per il 2020.
+=== pagina 2 ===
+Pag. 2 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+Versione del documento 
+ 
+Versione Approvato da Data 
+1.0 Consiglio di Amministrazione 22/03/2021 
+2.0 Consiglio di Amministrazione 18/03/2022 
+3.0 Consiglio di Amministrazione 21/03/2023 
+4.0 Consiglio di Amministrazione 19/03/2024 
+5.0 Consiglio di Amministrazione 20/03/2025 
+6.0 Consiglio di Amministrazione 16/03/2026 
+ 
+ 
+Principali riferimenti normativi 
+Il presente documento è stato redatto in conformità alla Normativa vigente di settore, facendo riferiment o 
+principalmente a: 
+Normativa interna 
+• Nota informativa Fondo Pensione Aperto Programma Open 
+• Regolamento Fondo Pensione Aperto Programma Open 
+• Documento sulla strategia finanziaria delle forme pensionistiche complementari istituite da Groupama 
+Assicurazioni S.p.A. 
+• Politica delle remunerazioni di Groupama Assicurazioni S.p.A. 
+• Politica di Gestione dei rischi di Groupama Assicurazioni S.p.A. 
+• Politica e Carta della Funzione Internal Audit  
+• Codice di Corporate Governance di Groupama Assicurazioni S.p.A. 
+Normativa esterna 
+• Decreto Legislativo n. 252/2005 
+• Deliberazione del 13 gennaio 2021 “Istruzioni di vigilanza per le società che gestiscono fondi pensione 
+aperti, adottate ai sensi dell’art. 5-decies, comma 1, del decreto legislativo 5 dicembre 2005, n. 252.”  
+• Direttiva UE 2016/2341
+=== pagina 3 ===
+Pag. 3 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+Indice 
+ 
+PREMESSA ................................ ................................ ................................ ................................ ....... 4 
+1. ORGANIZZAZIONE DEL FONDO ................................ ................................ ............................. 5 
+1.1 Profili gestionali rilevanti ....................................................................................................................... 5 
+1.2 Ruoli e responsabilità rilevanti nel processo di investimento ............................................................... 8 
+2. SISTEMA DI CONTROLLO INTERNO ................................ ................................ .................... 11 
+2.1 Premessa ............................................................................................................................................ 11 
+2.2 Funzione di Internal Audit ................................................................................................................... 12 
+3. FLUSSI INFORMATIVI TRA STRUTTURE AZIENDALI E RESPONSABILE DEL FONDO .. 14 
+4. SISTEMA DI GESTIONE DEI RISCHI ................................ ................................ ................... 15 
+4.1 Premessa ............................................................................................................................................ 15 
+4.2 Ruoli e Responsabilità ........................................................................................................................ 16 
+4.3 Valutazione interna del rischio ............................................................................................................ 19 
+4.4 Approvazione e revisione .................................................................................................................... 20 
+5. POLITICA DI REMUNERAZIONE ................................ ................................ ........................... 20 
+5.1 Premessa ............................................................................................................................................ 20 
+5.2 Responsabile del Fondo e Funzioni Fondamentali............................................................................. 21 
+5.3 Integrazione dei rischi di sostenibilità nella politica retributiva ........................................................... 21 
+5.4 Approvazione e revisione .................................................................................................................... 23
+=== pagina 4 ===
+Pag. 4 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+PREMESSA 
+Il presente Documento, in linea con quanto stabilito dall’art. 5 decies, comma 1 del D.Lgs. 252/2005, come 
+da ultimo modificato sulla base della c.d. Direttiva “IORP II” e dettagliato nelle relative Linee Guida COVIP, è 
+stato redatto al fine di rappresentare il sistema di governo del Fondo Pensione Aperto Programma Open (di 
+seguito anche “Fondo”). Il Fondo è stato autorizzato dalla COVIP all’esercizio dell’attività in data 26 maggio 
+1999 ed è iscritto al numero 78 dell’albo dei fondi pensione. Il Fondo è finalizzato all’erogazione di trattamenti 
+pensionistici complementari del sistema previdenziale obbligatorio, ai sensi del d.lgs. 5 dicembre 2005, n. 252.  
+Il Fondo è costituito in forma di patrimonio autonomo e separato da quello del soggetto gestore e degli 
+aderenti ed è destinato esclusivamente all’erogazione di prestazioni pensionistiche a favore degli  aderenti 
+stessi. Il Fondo opera in regime di contribuzione definita: l’entità della prestazione pensionistica è determinata 
+in funzione della contribuzione versata e dei rendimenti della gestione. La gestione delle risorse è svolta 
+nell’esclusivo interesse dell’aderente e secondo le indicazioni di investimen to fornite dallo stesso scegliendo 
+tra le proposte offerte.  Il Fondo è rivolto a tutti coloro che intend ano costituire un piano di previdenza 
+complementare su base individuale. Possono, inoltre, aderire, su base collettiva, i lavoratori nei cui confronti 
+trovano applicazione i contratti, gli accordi o i regolamenti aziendali che ne dispongono l’adesione.  
+Nel nuovo art. 4-bis del decreto n. 252/2005, richiamato dall’art. 5-decies del medesimo decreto, sono previsti 
+i requisiti generali in materia di sistema di governo a cui debbono uniformarsi anche le società che gestiscono 
+fondi pensione aperti (di seguito: società), per quanto attiene alle attività rilevanti ai fini della gestione dei 
+fondi stessi. 
+Il sistema di governo di ciascuna società - per i profili relativi alla gestione dei fondi pensione aperti - è in 
+particolare disegnato in modo tale da rispondere alla prioritaria esigenza, attuale e prospettica, di tutela degli 
+aderenti e dei beneficiari dei fondi stessi e di salvaguardia della piena separazione patrimonial e tra il 
+patrimonio di ciascun fondo pensione a perto e quello della società e degli altri clienti.  In tale ottica, occorre 
+assicurare l’efficienza e l’efficacia dei processi interni e di  quelli esternalizzati, l’idonea individuazione e 
+gestione dei rischi, nonché l’attendibilità e l’integrità dei dati e delle informazioni, anche contabili, inerenti ai 
+profili gestionali dei fondi pensione aperti e lo svolgimento delle attività nel rispett o dei criteri di sana e 
+prudente gestione. 
+Un ruolo centrale riveste l’adozione da parte delle società di un sistema di controllo interno, quale efficace 
+presidio per garantire il rispetto delle regole, la funzionalità del sistema gestionale e la diffusione di valori di 
+corretta amministrazione e l egalità. Tale sistema, strutturato secondo la normativa di settore di ciascuna 
+società, in particolare prevede un insieme organizzato di procedure di verifica dell’operatività dei fondi 
+pensione aperti, che complessivamente assicuri la verifica di conformi tà della gestione dei predetti fondi 
+rispetto alla normativa nazionale e dell’Unione europea, sia essa primaria o secondaria, nonché la rispondenza 
+alle previsioni stabilite dai regolamenti e dalle procedure operative.
+=== pagina 5 ===
+Pag. 5 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+Il presente “Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti” 
+ha per oggetto: 
+• l’organizzazione della società rilevante per i profili gestionali inerenti ai fondi pensione aperti, ivi 
+incluse le funzioni e/o attività che risultano esternalizzate; 
+• la descrizione sintetica di come sono organizzati i controlli interni rilevanti per i fondi pensione aperti; 
+• la descrizione sintetica di come è organizzato il sistema di gestione dei rischi rilevante per i fondi 
+pensione aperti; 
+• la descrizione sintetica di come sono organizzati i flussi informativi tra le strutture aziendali e il 
+responsabile del fondo pensione aperto e viceversa; 
+• le informazioni essenziali relative alla politica di remunerazione del responsabile del fondo pensione 
+aperto e dei titolari delle funzioni fondamentali di gestione dei rischi e di internal audit (qualora tali 
+ultime figure siano previste dall’ordinamento di settore della società è possibile far rinvio ad altri 
+documenti, disponibili al pubblico, previsti dalla normativa di settore). 
+Il presente “Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti” è 
+da redigersi con cadenza annuale e da pubblicarsi sul sito web della forma pensionistica/società unitamente 
+al rendiconto dei fondi stessi, in cui ne viene fornita una rappresentazione strettamente limitata ai profili 
+gestionali che assumono rilievo con riferimento a tali fondi. 
+1. ORGANIZZAZIONE DEL FONDO 
+1.1  Profili gestionali rilevanti 
+L’organizzazione del Fondo Pensione Aperto poggia, da un lato , sull’organizzazione della Compagnia  e, 
+dall’altro, sulle convenzioni stipulate con soggetti terzi per l’espletamento delle attività riguardanti il Service 
+amministrativo e la gestione finanziaria. Si specifica che la Compagnia istituisce e gestisce il Fondo. Pertanto, 
+gli organi e le funzioni di seguito descritte fanno riferimento a quelle della Compagnia. Tale organizzazione è 
+composta dai seguenti organi che svolgono i seguenti compiti e funzioni: 
+Consiglio di Amministrazione: 
+La primaria funzione attribuita al Consiglio di Amministrazione di Groupama Assicurazioni S.p.A. è quella di 
+stabilire gli obiettivi e gli indirizzi politico strategici della Compagnia, nonché di assicurarsi che essi vengano 
+conseguiti. Il Consiglio di Amministrazione nomina, qualora non vi abbia provveduto l’Assemblea: 
+• un Presidente, eventualmente uno o più Vicepresidenti, che sostituiscono il Presidente assente o 
+impedito; 
+• un Segretario. 
+Il Consiglio di Amministrazione è attualmente composto da undici consiglieri di cui un Presidente e un 
+Amministratore Delegato. Al Consiglio di Amministrazione è attribuita la competenza ad assumere le delibere 
+concernenti:
+=== pagina 6 ===
+Pag. 6 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• la fusione mediante incorporazione di qualunque società che sia interamente controllata dalla Società, 
+o della quale la Società detenga almeno il 90% del capitale sociale; 
+• l’istituzione o la soppressione di sedi secondarie; 
+• la riduzione del capitale sociale nel caso di recesso da parte di un socio dalla Società; 
+• qualunque adeguamento dello statuto a disposizioni normative; 
+• il trasferimento della sede sociale in qualunque altro luogo all’interno del territorio italiano. 
+Gli amministratori non possono essere nominati per un periodo superiore a tre esercizi sociali e scadono alla 
+data dell’Assemblea convocata per l’approvazione del bilancio relativo all’ultimo esercizio della loro carica. 
+ 
+Presidente del Consiglio di Amministrazione 
+Il Presidente del Consiglio di Amministrazione di Groupama Assicurazioni S.p.A. ha un ruolo non esecutivo e 
+non svolge alcuna funzione gestionale. Il Presidente provvede affinché: 
+• agli amministratori sia trasmessa con congruo anticipo la documentazione a supporto delle 
+deliberazioni dell’organo o, almeno, una prima informativa sulle materie che verranno discusse;  
+• la documentazione a supporto delle deliberazioni, in particolare quella resa ai componenti privi di 
+deleghe esecutive, sia adeguata in termini quantitativi e qualitativi rispetto alle materie iscritte 
+all’ordine del giorno; 
+• il processo di autovalutazione dell’assetto di governo societario sia svolto con efficacia, le modalità 
+con cui esso è condotto siano coerenti rispetto al grado di complessità dei lavori dell’organo, siano 
+adottate le misure correttive previste per far fro nte alle eventuali carenze riscontrate, nonché 
+predisposti e attuati programmi di inserimento e piani di formazione dei componenti dell’organo . 
+Collegio Sindacale 
+Il Collegio Sindacale di Groupama Assicurazioni S.p.A. costituisce l’organo di controllo del sistema ordinario e 
+viene eletto dall’Assemblea dei soci. Il Collegio Sindacale verifica l’adeguatezza dell’assetto organizzativo, 
+amministrativo e contabile adottato dall’impresa e dal Gruppo nel suo complesso  e il suo concreto 
+funzionamento ai fini della normativa applicabile. 
+L’Assemblea Ordinaria di Groupama Assicurazioni S.p.A. elegge il Collegio Sindacale costituito da tre sindaci 
+effettivi e da due supplenti e nomina il Presidente del Collegio Sindacale, verificata la sussistenza dei requisiti 
+previsti dalla normativa. 
+ 
+ 
+ 
+Nel dettaglio, i compiti del Collegio Sindacale sono:
+=== pagina 7 ===
+Pag. 7 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• mantenere un continuo rapporto con la funzione di Internal Audit, la funzione di Compliance e con le 
+altre funzioni Fondamentali e la società di Revisione, conservando un’adeguata evidenza delle 
+osservazioni e delle proposte formulate e procedendo ad interventi di follow-up; 
+• acquisire, all’inizio del mandato, conoscenze sull’assetto organizzativo ed esaminare i risultati del 
+lavoro della società di revisione per la valutazione del sistema di controllo interno e del sistema 
+amministrativo contabile; 
+• verificare l’idoneità della definizione delle deleghe, nonché l’adeguatezza dell’assetto organizzativo, 
+prestando particolare attenzione alla separazione di responsabilità nei compiti e nelle funzioni;  
+• valutare l’efficienza e l’efficacia del sistema di governo societario, con particolare riguardo all’operato 
+della funzione di Internal Audit, della quale deve verificare la sussistenza della necessaria autonomia, 
+indipendenza e funzionalità; 
+• curare il tempestivo scambio con la società di revisione dei dati e delle informazioni rilevanti per 
+l’espletamento dei propri compiti, esaminando anche le periodiche relazioni della società di revisione; 
+• segnalare al Consiglio di Amministrazione le eventuali anomalie o debolezze dell’assetto organizzativo 
+e del sistema di governo societario, indicando e sollecitando idonee misure correttive; nel corso del 
+mandato pianificare e svolgere, anche coordinandosi  con la società di revisione, periodici interventi 
+di vigilanza volti ad accertare se le carenze o anomalie segnalate siano state superate e se, rispetto 
+a quanto verificato all’inizio del mandato, siano intervenute significative modifiche dell’operatività  
+della società che impongano un adeguamento dell’assetto organizzativo e del sistema di governo 
+societario; 
+• conservare un’adeguata evidenza delle osservazioni e delle proposte formulate e della successiva 
+attività di verifica dell’attuazione delle eventuali misure correttive. 
+ 
+Responsabile del Fondo 
+La Compagnia nomina un Responsabile del Fondo, ai sensi dell’Art. 5, comma 2 del Decreto.  La nomina del 
+Responsabile spetta all'organo amministrativo di Groupama Assicurazioni S.p.A. L'incarico ha durata triennale 
+ed è rinnovabile, anc he tacitamente, per non più di una volta consecutivamente. La cessazione del 
+Responsabile del Fondo per scadenza del termine ha effetto nel momento in cui viene nominato il nuovo 
+Responsabile del Fondo. Il Responsabile del Fondo può essere revocato solo per giusta causa, sentito il parere 
+dell'organo di controllo della Compagnia. Le nomine, gli eventuali rinnovi dell'incarico, le sostituzioni del 
+Responsabile del Fondo prima della scadenza del termine vengono comunicati alla COVIP entro 15 giorni dalla 
+deliberazione. 
+ 
+ 
+I principali doveri in capo al Responsabile del Fondo sono:
+=== pagina 8 ===
+Pag. 8 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• vigilare sull'osservanza della normativa e del Regolamento nonché sul rispetto delle buone pratiche e 
+dei principi di corretta amministrazione del Fondo nell'esclusivo interesse degli aderenti; 
+• avvalendosi delle procedure definite dalla Compagnia, organizza re lo svolgimento delle sue funzioni 
+al fine di: 
+o vigilare sulla gestione Fondo, anche nel caso di conferimento a terzi di deleghe di gestione;  
+o vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di 
+deleghe di gestione; 
+• vigilare sulle misure di trasparenza adottate nei confronti degli aderenti; 
+• controllare le soluzioni adottate dalla Compagnia per identificare le situazioni di conflitti di interesse 
+e per evitare che le stesse arrechino pregiudizio agli aderenti; controllare, altresì, la corretta 
+esecuzione del contratto stipulato per il conferimento dell'incarico di Depositario, nonché il rispetto 
+delle convenzioni assicurative/condizioni per l'erogazione delle rendite e , ove presenti, delle 
+convenzioni/condizioni relative alle prestazioni di invalidità e premorienza. 
+ 
+Direzione Vita e Linea Persone 
+La funzione, nell’ambito del business di riferimento: 
+• gestisce i processi assuntivi, post -vendita e liquidativi delle forme pensionistiche (Fondo pensione 
+aperto e Piani individuali), compresi i rapporti con i gestori amministrativi esterni, il Depositario e il 
+Responsabile del Fondo; 
+• elabora le statistiche istituzionali per COVIP. 
+La Compagnia , ai sensi dell’art. 5 septies del D.lgs 252/2005, ha deciso di esternalizzare alcuni servizi a 
+soggetti esterni al Fondo. In particolare: 
+• la gestione amministrativa, contabile e fiscale è affidata , sulla base di apposita convenzione , a 
+Previnet S.p.A. 
+• alla gestione delle risorse del Fondo provvede direttamente Groupama Assicurazioni S.p.A., che ha 
+conferito a Groupama Asset Management SGR S.p.A., tramite apposita convenzione, l’incarico di 
+effettuare specifiche scelte di investimento concernenti i singo li comparti di investimento, con 
+riferimento all’intero patrimonio degli stessi e a tutti i mercati e le tipologie di strumenti finanziari 
+consentiti dal regolamento del Fondo. 
+La revisione legale dei conti è stata affidata alla società Deloitte & Touche S.p.A. ed il Depositario del Fondo 
+è BNP PARIBAS SA. 
+1.2  Ruoli e responsabilità rilevanti nel processo di investimento 
+Con riferimento al processo d’investimento, i soggetti coinvolti nel processo di attuazione della politica di 
+investimento sono:
+=== pagina 9 ===
+Pag. 9 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+Il Consiglio di Amministrazione 
+• definisce e adotta la politica di investimento idonea a raggiungere gli obiettivi strategici; 
+• rivede e modifica la politica di investimento, con cadenza almeno triennale; 
+• esamina il rapporto annuale sulla gestione finanziaria e valuta proposte elaborate dal Comitato Rischio 
+Finanziario; 
+• controlla l’attività svolta dal Comitato Rischio Finanziario; 
+• approva le procedure di controllo della gestione finanziaria, tenendo conto delle proposte formulate 
+dal Comitato Rischio Finanziario. 
+Comitato Rischio Finanziario 
+• recepisce le direttive adottate dal Consiglio d’Amministrazione in materia di politica di investimento; 
+• presenta al Consiglio d’Amministrazione il rapporto sulla gestione finanziaria; 
+• valuta le proposte elaborate dall’Unità Operativa Investimenti Finanziari, con periodicità trimestrale;  
+• controlla l’attività svolta dall’Unità Operativa Investimenti Finanziari e rendiconta al Consiglio 
+d’Amministrazione. 
+Responsabile del Fondo 
+• verifica che la politica di investimento sia coerente con quella indicata nel Regolamento;  
+• controlla che gli investimenti avvengano nell’esclusivo interesse degli aderenti, nel rispetto dei principi 
+di sana e prudente gestione, nonché nel rispetto dei criteri e dei limiti previsti dalla normativa e dal 
+Regolamento; 
+• verifica che i rischi assunti con gli investimenti effettuati siano adeguatamente identificati e gestiti, e 
+che siano coerenti con gli obiettivi perseguiti nella politica di investimento; 
+• vigila sulla gestione amministrativa del Fondo Pensione Aperto Programma Open, con riferimento ai 
+controlli sulla separatezza amministrativa e contabile delle operazioni poste in essere per conto di 
+Programma Open Fondo Pensione Aperto rispetto al complesso delle operazioni svolte dalla Società 
+e del patrimonio di Programma Open Fondo Pensione Aperto rispetto a quello della socie tà e quello 
+gestito dalla Società per conto degli altri assicurati. 
+Unità Operativa Investimenti finanziari 
+• elabora il rapporto sulla gestione finanziaria, nonché eventuali proposte di modifica o integrazione 
+della gestione stessa, recante: 
+o la verifica della gestione esaminando i risultati conseguiti nel tempo, per singolo comparto;  
+o la valutazione del grado di rischio assunto in rapporto al rendimento realizzato; 
+• trasmette il rapporto di cui al precedente punto al Comitato Rischio Finanziario; 
+• redige un ’eventuale relazione straordinaria in caso di significativi cambiamenti nei livelli di 
+rendimento-rischio derivanti dall’attività di investimento o superamento delle soglie di rischio;
+=== pagina 10 ===
+Pag. 10 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• controlla l’attuazione della strategia di investimento da parte dei soggetti incaricati della gestione e 
+ne valuta l’operato mediante documentazione dei controlli svolti, con particolare attenzione agli 
+investimenti in strumenti alternativi e in derivati; 
+• definisce, sviluppa e aggiorna le procedure interne di controllo della gestione finanziaria, da 
+sottoporre all’approvazione del Consiglio d’Amministrazione; 
+• elabora i rendiconti di vigilanza relativamente alle statistiche trimestrali sulla composizione degli 
+Investimenti; 
+• effettua il calcolo del valore della quota per ogni classe e per ogni comparto di Programma Open 
+Fondo Pensione Aperto. 
+Gestore Finanziario 
+• effettua le scelte d’investimento finalizzate a realizzare extra -rendimenti rispetto al parametro 
+oggettivo di riferimento di ogni comparto; 
+• trasmette all’Unità Operativa Investimenti Finanziari (che, a sua volta , trasmette al C onsiglio di 
+Amministrazione) una rendicontazione sulle scelte d’investimento effettuate. 
+Depositario 
+• esegue le attività a essa affidate dalla normativa e dal Fondo Pensione Aperto; 
+• trasmette le informazioni eventualmente richieste dal Fondo per alimentare il sistema di verifica e di 
+controllo della gestione finanziaria. 
+Risk Management 
+• concorre alla definizione del sistema di gestione dei rischi di investimento del fondo e delle relative 
+soglie; 
+• verifica che la strategia di investimento sia in linea con il profilo di rischio del fondo, ponendo 
+particolare attenzione all'investimento in strumenti alternativi e/o derivati; 
+• effettua valutazioni ad hoc in caso di cambiamenti significativi nei livelli di rischio-rendimento derivanti 
+dall'attività di investimento o superamento delle soglie di rischio. 
+ 
+Internal Audit 
+In occasione delle verifiche di audit, la funzione Internal Audit verifica: 
+• la correttezza dei processi e l’efficacia e l’efficienza delle procedure organizzative del fondo; 
+• la regolarità e la funzionalità dei flussi informativi tra settori aziendali; 
+• l’adeguatezza dei sistemi informativi e la loro affidabilità; 
+• la rispondenza dei processi amministrativo contabili a criteri di correttezza e di regolare tenuta della 
+contabilità; 
+• l’efficacia dei controlli svolti sulle attività esternalizzate.
+=== pagina 11 ===
+Pag. 11 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+2. SISTEMA DI CONTROLLO INTERNO 
+2.1  Premessa 
+Il Sistema di Controllo Interno (SCI) è l’insieme di regole, procedure e strutture organizzative volte ad 
+assicurare il corretto funzionamento ed il buon andamento dell’impresa e a garantire, con un ragionevole 
+margine di sicurezza:  
+• l’efficienza e l’efficacia dei processi aziendali;  
+• l’adeguato controllo dei rischi;  
+• l’attendibilità e l’integrità delle informazioni contabili e gestionali;  
+• la salvaguardia del patrimonio;  
+• la conformità delle attività dell’impresa alla normativa vigente, alle direttive e alle procedure aziendali. 
+In merito alle Funzioni Fondamentali, l’art. 5 -decies del decreto n. 252/2005 richiama, con riferimento alle 
+società che gestiscono fondi pensione aperti, l’art. 5 -quater (sulla funzione di Internal Audit) del medesimo 
+decreto. 
+La Deliberazione del 13 gennaio 2021 della COVIP dispone che “ L’attribuzione dei relativi compiti e 
+l’articolazione delle funzioni nell’ambito dell’assetto organizzativo delle società avvengono secondo le regole 
+dei rispettivi ordinamenti, ben potendo essere svolte da soggetti, anche esterni, che tali funzioni già svolgono 
+nell’ambito del complessivo disegno organizzativo delle società. Nella declaratoria dei compiti assegnati ai 
+titolari delle funzioni fondamentali, redatta in conformità alla normativa di settore, è fatto esplicito riferimento 
+alla circostanza che tali compiti sono svolti anche con riguardo ai fondi pensione aperti gestiti dalle società.”  
+Pertanto, nel perimetro di competenza del la funzione di Internal Audit della Compagnia rientra anche la 
+corretta funzionalità del Fondo Pensione Aperto Programma Open.  
+L’art. 4-bis, comma 3, del decreto n. 252/2005 prevede , inoltre, l’adozione di politiche scritte in relazione a 
+ciascuna delle sopra indicate Funzioni Fondamentali. Tali politiche possono essere riportate nei documenti 
+societari la cui redazione sia già prevista dalle disposizioni di settore, eventualmente integrandoli per gli aspetti 
+di più specifica pertinenza  dei fondi pensione aperti. Pertanto, il Fondo si avvale della Carta e Politica di 
+Internal Audit e della Politica di Gestione dei Rischi della Compagnia. 
+Le politiche in parola sono soggette a revisione periodica, in conformità alle previsioni del settore di 
+appartenenza; in difetto la revisione è effettuata almeno ogni tre anni e comunque in caso di variazioni 
+significative del settore interessato. 
+Il Consiglio di Amministrazione ha costituito al proprio interno un Comitato di Controllo Interno e Rischi, 
+composto da amministratori non esecutivi, in maggioranza indipendenti ai sensi dell’art. 2387 del codice civile 
+al quale sono affidate funzioni consultive e propositive ed il compito di indagini conoscitive. Più nel dettaglio 
+Il Comitato è incaricato di assicurare l’efficacia del sistema di controllo interno e gestione dei rischi e che le
+=== pagina 12 ===
+Pag. 12 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+valutazioni e le decisioni del Consiglio di Amministrazione siano supportate da un’adeguata attività istruttoria. 
+Il Comitato fissa gli orientamenti, esamina il piano di lavoro predisposto dalle funzioni di controllo, segue lo 
+stato di avanzamento delle at tività, l’evoluzione delle metodologie di controllo ed esprime pareri su specifici 
+aspetti inerenti all’identificazione dei principali rischi aziendali, nonché in merito alla progettazione, 
+realizzazione e gestione del sistema di controllo interno. Lo stesso controlla il rispetto delle politiche relative 
+alle funzioni di controllo.  
+Il Consiglio di Amministrazione e l’Amministratore Delegato sono informati periodicamente sull’efficacia e 
+adeguatezza del sistema di controllo interno e di gestione dei rischi sulla base della reportistica fornita dal 
+Responsabile della Funzione Internal Audit. Inoltre, la Funzione Internal Audit può proporre agli Organi 
+Aziendali e all’Alta Direzione iniziative per il rafforzamento del sistema dei controlli interni e di gestione dei 
+rischi. 
+L’Alta Direzione è composta dall’Amministratore Delegato e Direttore Generale, dal Vice Direttore Generale e 
+dal Vice Direttore Generale Operations, in quanto responsabili ad alto livello del processo decisionale e di 
+attuazione delle strategie. Essa è responsabile dell'attuazione, del mantenimento e del monitoraggio del 
+sistema di governo societario, coerentemente con le direttive dell’organo ammini strativo e nel rispetto dei 
+ruoli e dei compiti ad essa attribuiti, anche a livello di gruppo in quanto Alta direzione dell’ultima società 
+controllante italiana. A tale fine , l’Alta Direzione si avvale, in particolare, della collaborazione delle società 
+facenti parte del gruppo a livello italiano. 
+2.2  Funzione di Internal Audit 
+La Funzione Internal Audit supporta gli Organi Amministrativi e di Controllo ed è incaricata di valutare e 
+monitorare l’efficacia, l’efficienza e l’adeguatezza del sistema di controllo interno e delle ulteriori componenti 
+del sistema di governo societario e le eventuali necessità di adeguamento, anche attraverso attività di 
+supporto e di consulenza alle altre funzioni aziendali. 
+ 
+ 
+In questo ambito, la Funzione Internal Audit persegue i seguenti obiettivi: 
+• predisporre un piano delle attività basato sulla valutazione dei rischi, determinando le priorità in linea 
+con gli obiettivi dell’organizzazione; 
+• rispettare il Piano di Audit approvato, rivedere ed adeguare opportunamente il Piano in risposta ai 
+cambiamenti intervenuti a livello di attività, rischi, operatività, programmi, sistemi e controlli 
+dell’organizzazione; 
+• monitorare l'attuazione, da parte delle funzioni oggetto di audit, delle raccomandazioni formulate;  
+• ottimizzare le risorse umane e finanziarie assegnate;
+=== pagina 13 ===
+Pag. 13 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• comunicare tempestivamente i risultati del lavoro. 
+ 
+A tal fine, tenuto anche conto di quanto previsto dalla normativa vigente, la Funzione Internal Audit svolge, 
+nel rispetto de i “Global Internal Audit Standards ”, mediante metodologie, modalità operative e strumenti 
+predefiniti e sulla base di una specifica pianificazione delle proprie attività, valutazioni indipendenti in merito 
+all’efficacia e all’efficienza del presidio dei rischi, relazionando gli Organi Ammi nistrativi e di Controllo  ed il 
+Responsabile del Fondo in merito agli esiti della propria attività e ai possibili miglioramenti da apportare. 
+La Funzione Internal Audit supporta l’organizzazione per il migliore raggiungimento dei propri obiettivi, 
+avvalendosi di un approccio sistematico e professionale, finalizzato alla valutazione e al miglioramento dei 
+processi di controllo interno, risk management e corporate governance. 
+Compiti 
+La Funzione Internal Audit uniforma la propria attività agli standard professionali comunemente accettati a 
+livello nazionale ed internazionale e verifica:  
+• la correttezza dei processi gestionali e l’efficacia e l’efficienza delle procedure organizzative;  
+• la regolarità e la funzionalità dei flussi informativi tra settori aziendali;  
+• l’adeguatezza dei sistemi informativi e la loro affidabilità affinché non sia inficiata la qualità delle 
+informazioni sulle quali il vertice aziendale basa le proprie decisioni;  
+• la rispondenza dei processi amministrativo contabili a criteri di correttezza e di regolare tenuta della 
+contabilità;  
+• l’efficacia dei controlli svolti sulle attività esternalizzate.  
+Durante l’esecuzione dell’attività di revisione e in sede di valutazione e segnalazione delle relative risultanze, 
+la Funzione Internal Audit:  
+• svolge i compiti ad essa assegnati con autonomia ed obiettività di giudizio, in modo da preservare la 
+propria indipendenza e imparzialità, in coerenza con le direttive a tal fine definite dall’organo 
+amministrativo;  
+• instaura collegamenti organici con tutti i centri titolari di funzioni di controllo interno.  
+A seguito dell’analisi sull’attività oggetto di controllo, il titolare della Funzione Internal Audit procede, secondo 
+le modalità e la periodicità fissata dall’organo amministrativo, a comunicare all’organo amministrativo, all’Alta 
+Direzione e all ’organo di controllo la valutazione delle risultanze e le eventuali disfunzioni e criticità; resta 
+fermo l’obbligo di segnalare con urgenza all’organo amministrativo e a quello di controllo le situazioni di 
+particolare gravità.  
+L’attività di revisione, con specifica evidenza degli interventi effettuati, è adeguatamente documentata, 
+raccolta e archiviata . Le risultanze della specifica area oggetto di controllo sono altresì comunicate al
+=== pagina 14 ===
+Pag. 14 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+responsabile della funzione interessata dall’attività di audit e al Responsabile del Fondo. Le attività di Internal 
+Audit si concludono con l’attività di follow-up, consistente nella verifica a distanza di tempo dell’efficacia delle 
+correzioni apportate al sistema. 
+Coordinamento con altri attori 
+La Funzione Internal Audit ha collegamenti organici e collabora con tutte le funzioni e organi deputati al 
+controllo, al fine di scambiarsi ogni informazione utile per l’espletamento dei rispettivi compiti.  La Funzione 
+Internal Audit si coordina periodicamente con le altre funzioni fondamentali di controllo (Risk Management & 
+Controllo Permanente, Compliance e Funzione Attuariale) e con l’Amministratore Delegato condividendo lo 
+stato avanzamento lavori e le principali considerazioni sull’attività svolta.  
+La Funzione Internal Audit, al fine di garantire il regolare scambio di informazioni con tutti i soggetti deputati 
+al controllo interno, si coordina con il Collegio Sindacale, i rappresentanti della Società di Revisione e 
+l’Organismo di Vigilanza.  Inoltre, la Funzione Internal Audit collabora con il Responsabile del Fondo, 
+informando quest’ultimo delle risultanze di audit attinenti al Fondo. 
+Tutti gli Audit Report finali emessi dalla Funzione Internal Audit e approvati dal Responsabile della Funzione 
+Internal Audit vengono trasmessi, su richiesta, al Collegio Sindacale, all’Organismo di Vigilanza e alla Società 
+di Revisione. Inoltre, relativam ente alle missioni  sui Fondi Pensione aperti, informa periodicamente il 
+Responsabile del Fondo in merito agli esiti della propria attività e ai possibili miglioramenti da apportare con 
+riferimento alle forme pensionistiche complementari. Il Responsabile de l Fondo, a sua volta, invia al 
+Responsabile della Funzione Internal Audit la Relazione annuale da lui predisposta. Le singole Unità 
+Organizzative, a loro volta, trasmettono alla Funzione Internal Audit ogni fatto o informazione rilevante ai fini 
+del presidio del sistema dei controlli interni, di cui la Funzione Internal Audit provvede a verificare 
+l’adeguatezza. 
+ 
+3. FLUSSI INFORMATIVI TRA STRUTTURE AZIENDALI E RESPONSABILE DEL 
+FONDO 
+Il Responsabile del Fondo svolge la propria attività in modo autonomo e indipendente dalla Compagnia. A 
+tale fine il Responsabile del Fondo si avvale della collaborazione delle strutture organizzative della Compagnia, 
+di volta in volta necessarie allo svolgimento dell'incarico e all'adempimento dei doveri definiti all’interno del 
+“paragrafo 1.1” del presente documento.  
+La Compagnia gli garantisce l'accesso a tutte le informazioni necessarie allo scopo. Il Responsabile del Fondo 
+assiste alle riunioni dell'organo amministrativo e di quello di controllo della Compagnia, per tutte le materie 
+inerenti al Fondo.
+=== pagina 15 ===
+Pag. 15 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+Delle anomalie e delle irregolarità riscontrate nell'esercizio delle sue funzioni il Responsabile  del Fondo dà 
+tempestiva comunicazione all'organo di amministrazione e a quello di controllo della Compagnia e si attiva 
+perché vengano adottati gli opportuni provvedimenti. 
+ 
+Rapporti con la COVIP 
+Il Responsabile del Fondo: 
+• predispone annualmente una relazione che descrive in maniera analitica l'organizzazione adottata per 
+l'adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale per 
+l'esecuzione dell'incarico, dei risultati dell'attività svolta, delle eventuali anomalie riscontrate durante 
+l'anno e delle iniziative poste in essere per eliminarle. La relazione viene trasmessa alla COVIP entro 
+il 31 marzo di ciascun anno. Copia della relazione stessa viene trasmessa all'organo di 
+amministrazione e a quello di controllo della Compagnia per quanto di rispettiva competenza; 
+• vigila sul  rispetto delle deliberazioni della COVlP e verifica che vengano inviate alla stessa le 
+segnalazioni, la documentazione e le relazioni richieste dalla normativa e dalle istruzioni emanate in 
+proposito; 
+• comunica alla COVIP, contestualmente alla segnalazione all'organo di amministrazione e a quello di 
+controllo della Compagnia, le irregolarità riscontrate nell'esercizio delle sue funzioni. 
+ 
+4. SISTEMA DI GESTIONE DEI RISCHI 
+4.1  Premessa 
+Il sistema di gestione dei rischi include le strategie, i processi, le procedure, anche di reportistica, necessarie 
+per individuare, misurare, valutare, monitorare, gestire e rappresentare su base continuativa i rischi attuali e 
+prospettici cui l’impresa è  o potrebbe essere esposta, con particolare attenzione a quelli significativi e, ove 
+possibile, le relative interdipendenze e le potenziali aggregazioni. Il sistema di gestione dei rischi è funzionale 
+a mantenere i rischi cui l’impresa è esposta ad un livello accettabile, coerente con le disponibilità patrimoniali.  
+La Deliberazione del 13 gennaio 2021 dispone che “ L’attribuzione dei relativi compiti e l’articolazione delle 
+funzioni nell’ambito dell’assetto organizzativo delle società avvengono secondo le regole dei rispettivi 
+ordinamenti, ben potendo essere svolte da soggetti, anche esterni, che tali funzioni già sv olgono nell’ambito 
+del complessivo disegno organizzativo delle società. Nella declaratoria dei compiti assegnati ai titolari delle 
+funzioni fondamentali, redatta in conformità alla normativa di settore, è f atto esplicito riferimento alla 
+circostanza che tali compiti sono svolti anche con riguardo ai fondi pensione aperti gestiti dalle società.”  
+Pertanto, nel perimetro di competenza della Funzione di Gestione dei Rischi della Compagnia rientra anche il 
+presidio dei rischi a cui il Fondo Pensione Aperto Programma Open è esposto.
+=== pagina 16 ===
+Pag. 16 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+L’art. 4-bis, comma 3, del decreto n. 252/2005 prevede l’adozione di politiche scritte in relazione alle funzioni 
+fondamentali. Tali politiche possono essere riportate nei documenti societari la cui redazione sia già prevista 
+dalle disposizioni di settore,  eventualmente integrandoli per gli aspetti di più specifica pertinenza dei fondi 
+pensione aperti. Pertanto, il Fondo si avvale della Politica di Gestione dei rischi della Compagnia.  
+Groupama Assicurazioni mette in atto un sistema efficace di gestione dei rischi, che comprende le informazioni 
+strategiche, i processi e le informazioni necessarie per rilevare, misurare, controllare, gestire e dichiarare in 
+modo permanente i rischi, a livello individuale e agg regato, a cui sono o potrebbero essere esposti, nonché 
+le interdipendenze tra questi rischi.  
+Il processo di gestione dei rischi, presieduto dal Chief Risk Officer, si articola nelle seguenti fasi:  
+▪ Identificazione dei rischi rilevanti : finalizzata a individuare tutti i rischi significativi, le cui conseguenze 
+possono minare la solvibilità o costituire un serio ostacolo alla realizzazione degli obiettivi economici e 
+patrimoniali; 
+▪ Valutazione dei rischi : volta alla valutazione e misurazione dei rischi identificati, attraverso l’impiego di 
+opportune metodologie e strumenti; 
+▪ Monitoraggio: con l’obiettivo di stabilire modalità di controllo periodico dei rischi e identificare eventuali piani 
+di azione, al fine di ridimensionare i principali rischi; 
+▪ Reporting e segnalazioni: al fine di garantire una corretta, completa e tempestiva conoscenza da parte degli 
+organi aziendali dell’attività di gestione dei rischi posta in essere, nonché dei rischi ad essa connessi, sono 
+previsti specifici flussi informativi nei confronti dell’Alta Direzione e del Consiglio di Amministrazione. 
+Con specifico riferimento alla funzione di Risk Management, nella sua qualità di Funzione Fondamentale di 
+secondo livello, essa risponde al Consiglio di Amministrazione per il tramite del Chief Risk Officer e del 
+Comitato per il Controllo interno e i Rischi e non dipende da funzioni operative. 
+4.2  Ruoli e Responsabilità 
+All’interno del Documento “Politica di gestione dei rischi” della Compagnia, sono definiti e descritti i ruoli e le 
+responsabilità attribuiti agli organi in relazione alle attività di gestione dei rischi. Si specifica che tali compiti 
+sono relativi, e si applicano, anche al Fondo Pensione Aperto, in quanto quest’ultimo rientra nel perimetro di 
+attività della Compagnia. Di seguito vengono riportati sinteticamente gli organi ed i ruoli attribuiti : 
+Consiglio di Amministrazione  
+Al Consiglio di Amministrazione della Compagnia è riservata la definizione della politica di gestione dei rischi.  
+L’organo amministrativo assicura che il sistema di gestione dei rischi consenta l’identificazione, la valutazione 
+e il controllo dei rischi maggiormente significativi cui è esposto il Gruppo assicurativo.  
+A tal fine, almeno una volta l’anno:
+=== pagina 17 ===
+Pag. 17 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• determina il sistema degli obiettivi di rischio, definendo la tolleranza al rischio in coerenza con il 
+fabbisogno di solvibilità globale della stessa, individuando le tipologie di rischio che ritiene di assumere 
+e fissando in modo coerente i relativi limiti di tolleranza;  
+• definisce e valuta le strategie, anche in un’ottica di medio-lungo periodo, e le politiche di assunzione, 
+di valutazione e di gestione dei rischi rilevanti per il Gruppo (a titolo esemplificativo: riservazione, 
+sottoscrizione, riassicurazione, rischi operativi);  
+• effettua una revisione del piano di emergenza.  
+Il Consiglio di Amministrazione verifica, inoltre, durante il corso dell’anno, che l’Alta Direzione implementi 
+correttamente il sistema di gestione dei rischi secondo le direttive impartite e che ne valuti la funzionalità e 
+l’adeguatezza. Il Consiglio di A mministrazione dovrà essere periodicamente informato sulla efficacia ed 
+adeguatezza del sistema di gestione dei rischi. In tal senso dovranno essere riferite al Consiglio, con 
+tempestività, le criticità più significative individuate dalle varie funzioni aziendali.  
+Alta Direzione 
+L’Alta Direzione della Compagnia è responsabile dell’attuazione, del mantenimento e del monitoraggio del 
+sistema di controllo interno e del sistema di gestione dei rischi per il perimetro del Gruppo assicurativo. In 
+tale contesto:  
+• attua gli obiettivi e la strategia fissati dal Consiglio di Amministrazione;  
+• propone al Consiglio di Amministrazione, anche su indicazione della Funzione di Risk Management, 
+eventuali modifiche alla politica di gestione dei rischi;  
+• dà attuazione alle indicazioni del Consiglio di Amministrazione in ordine alle misure da adottare per 
+correggere le anomalie riscontrate e apportare miglioramenti. 
+Comitato per il Controllo Interno e i Rischi (CCIR) 
+Il Comitato ha funzioni consultive e propositive ed il compito di svolgere indagini conoscitive. In particolare, 
+il CCIR assiste il Consiglio di Amministrazione  nella determinazione delle linee di indirizzo del sistema di 
+controllo interno e gestione dei rischi, nella verifica periodica della sua adeguatezza e del suo effettivo 
+funzionamento e nell’identificazione e gestione dei principali rischi della società Groupama Assicurazioni e del 
+Fondo Pensione Aperto.  
+Nell’ambito delle attribuzioni sopra descritte, il CCIR valida il profilo di rischio in ottica attuale e prospettica, 
+sulla base delle analisi e delle evidenze rappresentate dalla Funzione di Risk Management. 
+Collegio Sindacale 
+Il Collegio Sindacale, nell’ambito della propria attività e nel rispetto delle attribuzioni ad esso assegnate dal 
+Regolamento IVASS 2018 n. 38, valuta l’efficacia e l’efficienza del sistema dei controlli interni, segnala al
+=== pagina 18 ===
+Pag. 18 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+Consiglio di Amministrazione le eventuali anomalie o debolezze dell’assetto organizzativo e del sistema dei 
+controlli interni proponendo idonee misure correttive e verificandone l’attuazione. 
+Organismo di Vigilanza 
+L’Organismo di Vigilanza verifica l’osservanza delle norme del D.lgs. n. 231/01. Ai fini dello svolgimento delle 
+attività di propria competenza, l’Organismo può richiedere e accedere direttamente a documenti ed 
+informazioni aziendali. 
+L’Organismo riferisce al Consiglio di Amministrazione periodicamente sull’attività svolta, sulle verifiche 
+specifiche effettuate in merito all’adeguatezza del Modello Organizzativo nonché sull’eventuale aggiornamento 
+della mappatura delle attività sensibili e su altri eventuali temi di maggior rilevanza; con cadenza annuale 
+informa inoltre il consiglio con una relazione descrittiva contenente una sintesi di tutte le attività svolte n el 
+corso del periodo ed un piano delle attività previste per l’anno successivo. 
+Funzione Fondamentale di Risk Management 
+La Funzione di Risk Management è responsabile dello sviluppo del sistema di gestione dei rischi in ottica 
+attuale e prospettica, altresì riportando gli esiti delle proprie valutazioni all’Alta Direzione, al Comitato per il 
+Controllo Interno e i Rischi e al Consiglio di Amministrazione, evidenziando eventuali carenze e suggerendo 
+le modalità con cui risolverle. 
+La funzione di Risk Management, per garantire l’efficacia del sistema di gestione dei rischi ed il rispetto delle 
+linee guida definite dal  Consiglio di Amministrazione, si avvale del lavoro svolto dai Comitati specifici delle 
+macro-tipologie di rischio: 
+• Comitato Rischio Operativo 
+• Comitato Rischio Finanziario 
+• Comitato Rischio Assicurativo 
+• Comitato ALM. 
+ 
+Funzione Fondamentale di verifica della conformità  
+Nell’ambito del Sistema di gestione dei rischi, la Funzione di verifica della conformità, quale funzione di 
+secondo livello della Compagnia che riporta funzionalmente al Consiglio di Amministrazione per il tramite del 
+Chief Risk Officer, svolge l’attività di prevenzione e mitigazione del rischio di non conformità, definito come il 
+rischio di incorrere in sanzioni giudiziarie, amministrative o disciplinari, di perdita finanziaria significativa o di 
+attentato alla reputazione derivanti dalla mancata osservanza della normativa di riferimento.  
+Per quanto riguarda il presidio dei rischi di non conformità a cui il Fondo Pensione Aperto è esposto, la 
+Funzione collabora con il Risk Management nella valutazione del sistema dei rischi.
+=== pagina 19 ===
+Pag. 19 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+In occasione della definizione del Piano delle attività annuali, la Funzione prevede eventuali verifiche circa 
+l’adeguatezza e l’efficacia delle misure organizzative adottate per la prevenzione del rischio di non conformità 
+alle norme e propone le modifiche organizzative e procedurali finalizzate ad assicurare un adeguato presidio 
+del rischio del Fondo. 
+Altre Funzioni 
+Tenuto conto delle peculiarità delle attribuzioni e dei contenuti professionali specifici richiesti, nello 
+svolgimento della propria attività la Funzione di Risk Management collabora e si interfaccia con:  
+• Funzioni di controllo di primo livello: le funzioni di primo livello partecipano, ciascuno in funzione 
+dell’area di appartenenza, al sistema di gestione dei rischi fornendo le informazioni necessarie per la 
+valutazione, il monitoraggio e la mitigazione dei rischi identificati, in qualità di owner  di tali rischi; 
+• Funzioni di controllo di secondo livello: la Funzione di verifica della conformità, per gli aspetti relativi 
+al rischio di compliance; 
+• Funzione di controllo di terzo livello : la Funzione di Internal Audit, nella sua qualità di funzione di 
+terzo livello, contribuisce al miglioramento dei processi di governance, gestione del rischio e di 
+controllo. 
+4.3  Valutazione interna del rischio 
+Ai sensi dell’art. 5 -decies del decreto n. 252/2005 il quale richiama l’art. 5 -nonies del medesimo decreto, la 
+Funzione di Gestione dei Rischi effettua una valutazione interna del rischio del Fondo, avvalendosi altresì del 
+supporto delle altre aree aziendali coinvolte nel processo.  
+Per le modalità di conduzione della valutazione interna, la Funzione di Gestione dei Rischi effettua 
+l’identificazione di tutti i possibili rischi cui il Fondo risulta o potrebbe risultare esposto , considerando sia i 
+rischi individuati dalla normativa di riferimento (cfr. art. 5 -ter, comma 5, del D.Lgs. 252/05) che eventuali 
+ulteriori fattori di rischio connessi con la specifica operatività del Fondo e con le relative scelte gestionali , nel 
+primario interesse degli aderenti.  La mappatura dei rischi del Fondo costituisce un supporto fondamentale a 
+qualsiasi attività di verifica, interna o esterna, finalizzata al riscontro dell’adeguatezza, della sicurezza e della 
+correttezza dei presidi posti in essere.  
+Ai fini della conduzione dell’attività di valutazione la Funzione di Gestione dei Rischi si serve del framework 
+dei rischi, degli strumenti di monitoraggio e della relativa reportistica periodica, nonché di qualsiasi altro 
+strumento a disposizione della Compagnia utile alle finalità in oggetto. 
+La valutazione viene approvata dall’organo di amministrazione, previo parere favorevole da parte del Comitato 
+per il Controllo Interno e i Rischi, almeno ogni tre anni, o immediatamente dopo ogni variazione significativa 
+del profilo di rischio del Fondo . Gli esiti di tale valutazione sono documentati in uno specifico report, 
+unitamente alle aree di miglioramento eventualmente identificate.
+=== pagina 20 ===
+Pag. 20 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+4.4  Approvazione e revisione 
+La Politica di Gestione dei rischi della Compagnia è predisposta dalla Funzione Risk Management e sottoposta 
+a verifica e condivisione con tutte le strutture coinvolte nei processi di riferimento; tale documento è approvato 
+dal Consiglio di Amministrazione della Compagnia , previo parere favorevole del Comitato per il Controllo 
+Interno e i Rischi.  
+La Politica è, inoltre, rivista ed , eventualmente, modificata ogni qualvolta esigenze di aggiornamento 
+normativo, interventi dell’Autorità di Vigilanza, strategie di business o modifiche di contesto (modifiche 
+rilevanti di processi aziendali e alle piattaforme informatiche utilizzate, riorganizzazioni strutturali significative) 
+lo richiederanno e, comunque, almeno annualmente. 
+ 
+5. POLITICA DI REMUNERAZIONE 
+5.1  Premessa 
+Il Fondo si avvale della Politica delle Remunerazioni della Compagnia in ossequio a quanto richiesto dal D.Lgs 
+252/2005 nonché in coerenza a quanto indicato nell a Deliberazione del 13 Gennaio 2021 “Istruzioni di 
+vigilanza per le società che gestiscono fondi pensione aperti, adottate ai sensi dell’art. 5 -decies, comma 1, 
+del decreto legislativo 5 dicembre 2005, n. 252.”  
+Il presente documento , sulla base delle disposizioni normative  suddette, descrive e illustra le informazioni 
+essenziali relative alla pol itica di remunerazione del R esponsabile del Fondo Pensione Aperto e dei titolari 
+delle Funzioni Fondamentali di gestione dei rischi e di internal audit. 
+Premesso che le politiche retributive rivestono un ruolo importante nel consentire di attrarre e mantenere 
+professionalità adeguate, è necessario assicurare l’adozione di sistemi di remunerazione coerenti con la sana 
+e prudente gestione dei rischi, evitando incentivi che possano incoraggiare eccessive assunzioni di rischi. 
+L’allineamento delle politiche retributive agli interessi di lungo termine dell’impresa contribuisce al 
+rafforzamento della tutela degli interessi degli stakeholders, inclusi gli assicurati, e alla stabilità del mercato.  
+Con specifica delibera, il Consiglio di Amministrazione di Groupama Assicurazioni S.p.A. ha costituito il 
+Comitato remunerazioni, composto da amministratori non esecutivi, in maggioranza indipendenti ai sensi 
+dell’articolo 2387 del codice civile. 
+Il Comitato Remunerazioni: 
+• svolge funzioni di consulenza e di proposta nell’ambito della definizione delle politiche di 
+remunerazione e formula proposte in materia di compensi di ciascuno degli amministratori investiti di 
+particolari cariche;
+=== pagina 21 ===
+Pag. 21 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• verifica la congruità del complessivo schema retributivo, nonché la proporzionalità delle 
+remunerazioni dell’amministratore esecutivo rispetto al personale rilevante dell’impresa;  
+• sottopone periodicamente a verifica le politiche di remunerazione al fine di garantirne l’adeguatezza 
+anche in caso di modifiche all’operatività dell’impresa o del contesto di mercato in cui la stessa opera; 
+• individua i potenziali conflitti di interesse e le misure adottate per gestirli  e accerta il verificarsi delle 
+condizioni per il pagamento degli incentivi del personale rilevante; 
+• fornisce adeguata informativa al consiglio di amministrazione sull’efficace funzionamento delle 
+politiche di remunerazione; 
+• valida la corretta applicazione degli indicatori di rischio e di performance nella determinazione dei 
+bonus, verificandone la conformità rispetto a quanto definito dalla politica di remunerazione e dai 
+regolamenti applicativi dei sistemi di retribuzione variabile. 
+5.2  Responsabile del Fondo e Funzioni Fondamentali 
+La retribuzione annuale del Responsabile  del Fondo è determinata dall'organo amministrativo all'atto della 
+nomina per l'intero periodo di durata dell'incarico. Il compenso del Responsabile  del Fondo non può essere 
+pattuito sotto forma di partecipazione agli utili della Compagnia o di società controllanti o controllate, né sotto 
+forma di diritti di acquisto o di sottoscrizione di azioni della Compagnia o di società controllanti o controllate. 
+Le spese relative alla remunerazione e allo svolgimento dell'incarico di Responsabile  del Fondo sono poste a 
+carico del Fondo, salva diversa decisione della Compagnia. 
+Con riferimento alle informazioni relative alla retribuzione delle Funzioni Fondamentali della Compagnia si 
+precisa che  all’interno della “Politica delle remunerazioni di Groupama ” le Funzioni Fondamentali sono 
+ricomprese nella definizione di “personale rilevante”. Al personale rilevante è riconosciuta una remunerazione 
+fissa e una variabile , quest’ultima non commisurata in alcun modo ai risultati aziendali . La remunerazione 
+variabile dei titolari e del personale di livello più elevato delle funzioni fondamentali è fissata in misura 
+adeguata rispetto al livello di responsabilità e all’impegno connessi al ruolo. 
+La struttura retributiva del personale di Groupama Assicurazioni S.p.A. è basata su diverse componenti con 
+l’obiettivo di: bilanciare le componenti di retribuzione fissa e variabile nel tempo, attuare un approccio flessibile 
+alla retribuzione, realizzare l’orientamento alle performance senza indurre comportamenti rischiosi e orientati 
+al breve. 
+5.3  Integrazione dei rischi di sostenibilità nella politica retributiva 
+Per la Compagnia, in linea con gli obiettivi perseguiti dal Gruppo Groupama a livello internazionale, gli impegni in materia 
+di sostenibilità ambientale, sociale e di governance (ESG) sono un pilastro delle priorità di sviluppo e di business e sono 
+integrati nella politica retributiva e nei sistemi di incentivazione, con l'obiettivo di creare opportunità di valore sostenibile
+=== pagina 22 ===
+Pag. 22 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+a lungo termine, mantenendo una forte attenzione e un forte impegno per il benessere dei clienti e delle persone che 
+interagiscono quotidianamente con la compagnia. 
+La Compagnia si impegna a contribuire allo sviluppo sostenibile, come definito dagli Obiettivi di Sviluppo Sostenibile 
+(SDG), integrando le questioni ESG nel proprio modello di business per sviluppare risposte efficaci e generare valore 
+condiviso con i propri stakeholder.  
+In quest'ottica, la strategia di sviluppo sostenibile è strutturata attorno ai seguenti pilastri:  
+• Impegno per l'ambiente;  
+• Impegno per la salute;  
+• Impegno nel lavoro sociale;  
+• Impegno per un investimento responsabile;  
+• Impegno per la diversità e l'inclusione.  
+La politica retributiva della Compagnia è quindi conforme alle disposizioni del Regolamento UE 2088/2019, essendo 
+basata su meccanismi retributivi che rispettano i criteri di sostenibilità, sono trasparenti e coerenti con una sana gestione 
+del rischio, che si concretizza in:  
+• sistemi di governance predeterminati, trasparenti e verificabili con il coinvolgimento delle funzioni di controllo;  
+• l'equilibrio tra retribuzione fissa e variabile, in modo da non indurre comportamenti rischiosi e orientati al breve 
+termine;  
+• un pacchetto retributivo che includa benefit pensati per migliorare il benessere dei dipendenti;  
+• la presenza di criteri di ponderazione del rischio e il legame con risultati reali e sostenibili per il pagamento della 
+componente variabile;  
+• l'assegnazione di obiettivi, anche non finanziari, che contribuiscano alla creazione di valore per l'azienda e che 
+non siano in contraddizione con i principi ESG;  
+• il differimento e il pagamento equilibrato della retribuzione variabile su un periodo pluriennale per le imprese 
+che assumono rischi;  
+• l'introduzione di meccanismi di malus e di recupero. 
+Nell’ambito del processo di valutazione della performance ai fini della politica di remunerazione e incentivazione, 
+Groupama Assicurazioni riserva un’importanza strategica al conseguimento di obiettivi ambientali, sociali e di governance 
+(ESG). Essi sono d eclinati con riferimento al perimetro individuale di responsabilità e tenendo conto dei sistemi di 
+incentivazione applicabili. 
+Negli obiettivi dei membri del Comitato Direttivo sono inclusi indicatori ESG e di sostenibilità valutabili nell’orizzonte 
+annuale della performance. Essi si riferiscono alla declinazione annuale degli obiettivi ESG del Piano Strategico Aziendale 
+e del Gruppo. Il meccanismo di incentivazione prevede la presenza di indicatori ESG quantitativi o comunque misurabili, 
+a titolo di esempio, non esaustivo: 
+• avanzamento del programma aziendale CARE
+=== pagina 23 ===
+Pag. 23 di 23 
+Fondo Pensione Aperto                                                                       Documento sul Sistema di Governo - versione 6.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+• inserimento di elementi ESG nelle garanzie prodotti 
+• gestione dei rischi ESG 
+• implementazione ESG data framework 
+• contributo al “Decarbonization Plan” 
+ 
+5.4  Approvazione e revisione 
+La “politica delle remunerazioni” della Compagnia è definita e rivista periodicamente dal Consiglio di 
+Amministrazione di Groupama Assicurazioni S.p.A. previo parere favorevole espresso dal Comitato 
+Remunerazioni. L’approvazione della presente politica è in capo all’Assemblea ordinaria dei Soci di Groupama 
+Assicurazioni. La politica è recepita dal Fondo Pensione Aperto. 
+La Direzione Risorse Umane  Comunicazione e Sostenibilità  di Groupama Assicurazioni S.p.A. è responsabile 
+dell’elaborazione, della formalizzazione e dell’aggiornamento della politica delle remunerazioni della 
+Compagnia. 
+La politica è sottoposta a valutazione annuale e a revisione periodica ogni qual volta se ne riscontri la necessità. 
+L'attuazione delle politiche di remunerazione adottate dall’impresa è soggetta, con cadenza almeno annuale, 
+a una verifica da parte delle funzioni fondamentali che collaborano ciascuna secondo le rispettive competenze.

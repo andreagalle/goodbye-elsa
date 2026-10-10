@@ -1,0 +1,20 @@
+# Fondo: FONDO PENSIONE APERTO GIUSTINIANO (giustiniano)
+# Documento: Metodologia delle proiezioni – Metodologie
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/informativa-sulla-sostenibilit%C3%A0/005/Metodologie.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/giustiniano.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 84064088508806e42e2d6eeb7b45575cfe90e5fe18ed55f10605e9f31463a254
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Accessibilità per i documenti non web | Documento WORD   1  
+ 
+INFORMATIVA SULLA SOSTENIBILITÀ  
+“Giustiniano” 
+Data di pubblicazione 30/03/202 5 
+Metodologie  
+I Comparti del Fondo utilizzano come indicatore di sostenibilità, finalizzato a 
+misurare il rispetto di ciascuna delle caratteristiche ambientali o sociali promosse, il 
+mantenimento del livello minimo del rating ESG medio di portafoglio pari o 
+superiore a BBB.

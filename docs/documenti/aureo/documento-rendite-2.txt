@@ -1,0 +1,491 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Documento sulle rendite – Integrazione documento Rendite
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/Integrazione%20documento%20Rendite.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-10
+# SHA-256 del PDF: 7a142460b01fc721939a47864c10867588c615bce204665900054a5191f501be
+# Pagine: 9
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1
+FONDO PENSIONE APERTO AUREO (il “Fondo”)
+BCC Risparmio&Previdenza S.G.R.p.A., 
+(Gruppo Bancario Cooperativo ICCREA)
+Iscritto all’Albo tenuto dalla COVIP con il n. 53 
+Istituito in Italia
+INTEGRAZIONE AL DOCUMENTO SULLE RENDITE
+Le nuove prestazioni pensionistiche alternative alla rendita vitalizia introdotte dalla Legge 
+30 dicembre 2025, n. 199 che ha modificato l’art. 11 del D.Lgs 252/2005
+Rendita a Durata Definita
+Dal 1° luglio 2026
+Prelievi Liberamente Determinabili
+Dal 1° luglio 2026
+Avvertenza preliminare
+Il presente documento costituisce integrazione al Documento sulle rendite del Fondo Pensione 
+Aperto Aureo ed è redatto in attuazione del par. 6 delle Istruzioni COVIP del 25 giugno 2026.
+Tale Documento relativo alle nuove prestazioni pensionistiche di cui all'art. 11, co. 3-bis, D.Lgs. 
+252/2005 non sostituisce il Documento sulle rendite esistente, ma lo integra. I contenuti relativi alla 
+rendita vitalizia rimangono invariati.
+Prima di effettuare la richiesta, l'aderente è invitato a consultare il presente documento nella sua 
+interezza e le ulteriori informative che il Fondo rende disponibili per una scelta consapevole.
+1. Quadro normativo di riferimento
+L'art. 1, comma 201, della Legge 30 dicembre 2025, n. 199 (Legge di Bilancio 2026) ha introdotto tre nuove 
+tipologie di prestazione pensionistica complementare, inserendole nell'art. 11 del D.Lgs. 5 dicembre 2005, n. 
+252 (di seguito: Decreto). Le Istruzioni COVIP del 25 giugno 2026 hanno quindi fornito le indicazioni operative 
+per l'applicazione uniforme delle nuove disposizioni da parte di tutte le forme pensionistiche a contribuzione 
+definita.
+Le nuove prestazioni sono espressamente qualificate dalla legge come «prestazioni pensionistiche» e sono 
+pertanto soggette al medesimo regime normativo — fiscale, previdenziale e di vigilanza — delle prestazioni già 
+disciplinate dall'art. 11 del Decreto.
+via Carlo Esterle n. 9/11 
+20132 Milano (MI)
++39 02 430281;   
++39 02 43028600
+info@bccrp.bcc.it 
+aureopensione.bccsinergia@actaliscertymail.it
+www.bccrisparmioeprevidenza.it
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 1 di  9
+=== pagina 2 ===
+2
+Riferimento normativo Contenuto
+Art. 11, co. 3-bis, D.Lgs. 
+252/2005 
+Individua le tre nuove tipologie di prestazione quali alternative alla 
+rendita vitalizia
+Art. 11, co. 3-ter, D.Lgs. 
+252/2005 
+Disciplina la rendita a durata definita e il calcolo della durata sulla 
+base delle tavole ISTAT
+Art. 11, co. 3-quater, D.Lgs. 
+252/2005 
+Disciplina i prelievi liberamente determinabili e il meccanismo del 
+tetto massimo
+Art. 11, co. 3-quinquies, 
+D.Lgs. 252/2005 
+Precisa che tali prestazioni sono erogate direttamente dal Fondo 
+ed il relativo montante è mantenuto in gestione. In caso di decesso 
+il montante residuo è riscattato dai soggetti indicati al momento 
+dell’esercizio dell’opzione.
+Istruzioni COVIP 25 giugno 
+2026
+Indicazioni operative di carattere generale per l'applicazione 
+omogenea delle nuove disposizioni
+Considerate anche le nuove prestazioni illustrate in questo Documento integrativo, le scelte per gli iscritti che 
+maturano il diritto alla prestazione pensionistica di previdenza complementare sono le seguenti:
+a) in capitale per l’intero ammontare, nel caso in cui l’aderente sia un “vecchio iscritto” vale a dire si sia iscritto al 
+fondo pensione preesistente entro il 28 aprile 1993 oppure si sia iscritto alla previdenza complementare entro 
+il 28 aprile 1993 e abbia trasferito tale posizione pregressa presso il fondo pensione, oppure quando l’importo 
+della rendita pensionistica derivante dalla conversione del 70% del montante finale risulti inferiore alla metà 
+dell’assegno sociale INPS di cui all’articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335.
+b) eccetto i casi di cui al punto a), in capitale fino a un massimo del 50% del montante finale accumulato al 
+momento della richiesta; 
+c) rendita vitalizia; 
+d) rendita a durata definita; 
+e) prelievi liberamenti determinabili; 
+2. Disciplina comune alle nuove prestazioni
+Prima di illustrare le caratteristiche specifiche di ciascuna tipologia, è necessario descrivere le regole trasversali 
+stabilite dall'art. 11, co. 3-bis, e dalle Istruzioni COVIP, che si applicano indistintamente a tutte le nuove opzioni. I 
+requisiti di accesso sono gli stessi previsti per qualsiasi prestazione pensionistica complementare:
+• maturazione dei requisiti pensionistici nel regime obbligatorio di appartenenza (maturazione dei requisiti per 
+la pensione di vecchiaia o dei requisiti per la pensione anticipata);
+• almeno 5 anni di partecipazione a forme pensionistiche complementari (termine ridotto a 3 anni per il 
+lavoratore il cui rapporto di lavoro in corso cessa per motivi indipendenti dal fatto che lo stesso acquisisca il 
+diritto a una pensione complementare e che si sposta tra Stati membri dell'Unione europea).
+I profili fiscali relativi alle prestazioni sono descritti nel Documento sul regime fiscale disponibile sul sito web del 
+Fondo.
+2.1 Disciplina comune alle nuove prestazioni
+Le nuove prestazioni sono disponibili esclusivamente per gli aderenti a forme pensionistiche complementari 
+a contribuzione definita soggette al D.Lgs. 252/2005. Sono esclusi i lavoratori dipendenti delle pubbliche 
+amministrazioni iscritti ai fondi di comparto ad essi dedicati, cui si applica il D.Lgs. 124/1993. Questi ultimi 
+potranno accedervi solo previo trasferimento della posizione individuale a un'altra forma pensionistica 
+complementare soggetta al D.Lgs. 252/2005.
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 2 di  9
+=== pagina 3 ===
+3
+2.2 Alternatività rispetto alla rendita vitalizia e non combinabilità
+Le nuove tipologie di prestazione (rendita a durata definita, prelievi liberamente disponibili) sono alternative alla 
+rendita vitalizia: l'aderente può scegliere una sola opzione tra quelle disponibili. Non è possibile combinare tra 
+loro le nuove prestazioni, né combinarle con la rendita vitalizia.
+È invece possibile affiancare a qualsiasi delle suddette opzioni una quota in forma di capitale, nei limiti dell'art. 11, 
+co. 3 del Decreto (lett. b, paragrafo 1). Al ricorrere delle condizioni di cui all'ultimo periodo del medesimo comma, 
+il montante può essere interamente percepito in capitale (lett. a, paragrafo 1).
+2.3 Irrevocabilità della scelta e conversione in rendita vitalizia
+Una volta avviata l'erogazione, la scelta della tipologia di prestazione è irrevocabile. È tuttavia sempre possibile 
+convertire il montante residuo in una rendita vitalizia (immediata o, se prevista dal Fondo, differita). Tale 
+conversione può avvenire:
+• presso il Fondo stesso;
+• trasferendo il montante residuo a un'altra forma pensionistica complementare, al solo scopo di accedere alle 
+condizioni di rendita vitalizia ivi offerte.
+Il Fondo disciplina nel proprio Regolamento le condizioni e le modalità di accesso alla rendita vitalizia in tali 
+situazioni.
+2.4 Gestione del montante residuo
+Le nuove prestazioni sono erogate direttamente dal Fondo pensione, senza intermediazione di una compagnia 
+assicurativa. Il montante non ancora erogato rimane investito nel comparto scelto dall'aderente all'atto della 
+richiesta della prestazione o, in assenza di indicazioni, nel comparto individuato dal Fondo a tale scopo e riportato 
+nel Supplemento alla Nota informativa. È possibile utilizzare anche i comparti già previsti per la fase di accumulo.
+Il montante residuo è soggetto al rischio di investimento: il suo valore varia in funzione dei risultati della gestione 
+finanziaria del comparto prescelto.
+2.5 Cessazione delle prerogative di accumulo
+Dal momento dell'esercizio dell'opzione, l'aderente non può più esercitare le prerogative tipiche della fase di 
+accumulo. In particolare:
+• non è possibile effettuare trasferimenti della posizione (se non per usufruire delle condizioni di erogazione 
+della rendita del fondo cessionario);
+• non è possibile richiedere anticipazioni;
+• non è possibile accedere alla RITA (se la RITA è in corso di liquidazione le nuove prestazioni non sono 
+cumulabili con la stessa e se vengono richieste comportano la revoca della RITA in erogazione);
+• non è possibile versare ulteriori contributi, salvo che venga attivato un nuovo rapporto di lavoro con maturazione 
+di TFR (le prerogative derivanti da tale nuova contribuzione sono gestite separatamente dalla prestazione in 
+corso);
+• è invece consentito lo switch di comparto, nel rispetto del periodo minimo fissato nel Regolamento.
+2.6 Designazione dei soggetti aventi titolo al riscatto in caso di decesso
+In caso di decesso del beneficiario durante la fase di erogazione, il montante residuo è riscattato dai soggetti dallo 
+stesso indicati al momento dell'esercizio dell'opzione. La designazione è obbligatoria: le richieste prive di tale 
+indicazione sono considerate incomplete e non vengono lavorate. L'indicazione può consistere nella conferma 
+dei soggetti già designati per la fase di accumulo. Le scelte possono essere successivamente modificate.
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 3 di  9
+=== pagina 4 ===
+4
+2.7 Tempi di erogazione e costi
+Il Fondo eroga la prestazione entro i termini indicati nel proprio Regolamento e comunque non oltre sei mesi 
+dalla presentazione della richiesta. Durante il periodo transitorio, concesso da Covip per consentire al Fondo 
+di adeguare i propri sistemi e le procedure operative alle nuove prestazioni entro il 31 dicembre 2026, il Fondo 
+acquisirà le richieste ma provvederà alla liquidazione dopo la conclusione di tale adeguamento di cui verrà 
+data apposita comunicazione. I costi addebitati devono essere contenuti e strettamente limitati alle spese 
+amministrative effettivamente sostenute (come riportati nel Supplemento della Nota informativa disponibile sul 
+sito del Fondo).
+3. Rendita a Durata Definita
+3.1	 Definizione	e	caratteristiche	essenziali
+La rendita a durata definita è una prestazione pensionistica erogata per un periodo di tempo predeterminato sulla 
+base della vita attesa residua del beneficiario. A differenza della rendita vitalizia, l'erogazione cessa allo scadere 
+del periodo stabilito indipendentemente dalla sopravvivenza o meno del beneficiario.
+3.2 Determinazione della durata
+La durata della rendita corrisponde al numero intero di anni della speranza di vita residua dell'aderente all'età 
+di esercizio dell'opzione, ricavato dalle tavole di mortalità ISTAT utilizzate per il calcolo dei vigenti coefficienti di 
+trasformazione del montante in rendita di cui alla Tavola A allegata alla Legge 8 agosto 1995, n. 335. Il numero di 
+anni è arrotondato per difetto.
+Vedi tabelle paragrafo 8 
+Durata estesa. Se previsto dal regolamento del Fondo, l'aderente può richiedere una durata superiore alla vita 
+attesa ISTAT. In tal caso la durata deve essere esplicitamente indicata nella richiesta di prestazione.
+3.3 Calcolo dell'importo delle rate
+L'importo di ciascuna rata non è fisso. Viene ricalcolato alla data di liquidazione di ogni rata dividendo il montante 
+disponibile in quel momento per il numero di rate ancora da erogare. Poiché il montante continua a essere 
+investito nel comparto prescelto, l'importo varia in funzione dei risultati della gestione finanziaria.
+Formula: Importo rata(n) = Montante disponibile alla data di liquidazione(n) ÷ Numero di rate residue(n)
+Per i Fondi che adottano una contabilità per quote, a ciascuna rata corrisponde un numero prefissato di quote 
+(ottenuto dividendo il numero complessivo di quote del montante per il numero di rate totali). L'importo in euro 
+della rata varia in funzione del valore della quota alla data di liquidazione.
+3.4 Periodicità
+L'aderente può scegliere la periodicità di erogazione tra le opzioni messe a disposizione dal Fondo, fermi restando 
+i seguenti limiti normativi:
+• periodicità minima: mensile;
+• periodicità massima: annuale.
+Il Fondo prevede un importo minimo per singola rata, pari a 100 euro al di sotto del quale non è ammessa la 
+cadenza scelta (es. cadenza mensile non disponibile se l'importo della singola rata mensile risulterebbe inferiore 
+alla soglia minima definita dal Fondo).
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 4 di  9
+=== pagina 5 ===
+5
+3.5 Esempio numerico illustrativo
+Ipotesi di base: montante accumulato 200.000 € · durata rendita 20 anni · erogazione annuale · rendimento 
+variabile anno per anno.
+Anno Montante a 
+inizio anno
+Numero 
+quote a 
+inizio anno
+Valore 
+quota a 
+fine anno
+Rendimento 
+del comparto
+Montante post-
+rendimento
+Quote erogate 
+(400)
+Importo 
+incassato
+Anno 1 200.000 € 8000 25,88 € 3,50%  207.000 € 400 10.350 €
+Anno 2 196.650 € 7600 26,39 € 2,00%  200.583 € 400 10.557 €
+Anno 3 190.026 € 7200 26,00 € -1,50%  187.176 € 400 10.399 €
+Anno 4 176.777 € 6800 27,04 € 4,00%  183.848 € 400 10.815 €
+Anno 5 173.033 € 6400 27,85 € 3,00%  178.224 € 400 11.139 €
+… … … … … … … …
+Anno 20 14.947 € 400 38,49 € 3,00%  400 15.395 €
+La tabella è puramente illustrativa. I rendimenti indicati sono ipotetici e non costituiscono previsione. L'importo effettivo delle 
+rate dipenderà dai risultati della gestione finanziaria del comparto prescelto dall'aderente.
+Formula applicata: rata dell'anno N = montante disponibile post-rendimento ÷ numero di rate residue. Ogni anno il montante 
+decresce per effetto dell'erogazione e varia per i risultati della gestione
+3.6	 Rischi	specifici
+Rischio di longevità
+L'erogazione cessa alla scadenza del periodo stabilito. Se l'aderente sopravvive alla durata della 
+rendita, non riceverà ulteriori erogazioni da questa prestazione. Potrà tuttavia convertire il montante 
+eventualmente residuo in una rendita vitalizia, se disponibile.
+Rischio di investimento
+L'importo delle rate non è garantito. Se il comparto di investimento subisce perdite, il montante 
+disponibile si riduce e le rate future saranno più basse. Viceversa, rendimenti positivi determinano 
+rate più elevate.
+Rischio di concentrazione
+Le prestazioni di previdenza complementare potrebbero concentrarsi eccessivamente nella fase 
+iniziale a fronte di una minore copertura disponibile nel restante periodo di pensionamento.
+4. Prelievi Liberamente Determinabili
+4.1	 Definizione	e	caratteristiche	essenziali
+I prelievi liberamente determinabili sono una prestazione pensionistica che consente all'aderente di scegliere autonoma-
+mente, entro i limiti stabiliti dalla normativa, quando prelevare e quanto. Il montante non prelevato rimane investito nel 
+comparto prescelto e continua a produrre rendimento.
+4.2	 Il	meccanismo	della	rendita	figurativa	e	il	tetto	massimo	prelevabile
+Per evitare che l'aderente esaurisca prematuramente il capitale, la normativa stabilisce un tetto massimo prelevabile 
+in ogni momento. Tale tetto è calcolato in relazione a una rendita a durata definita teorica figurativa (non reale), con le 
+seguenti caratteristiche:
+• frazionamento annuale;
+• immediatamente erogabile al momento della richiesta;
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 5 di  9
+=== pagina 6 ===
+6
+• durata pari alla vita attesa residua dell'aderente (in anni interi, arrotondata per difetto), calcolata con le medesime 
+tavole ISTAT utilizzate per la rendita a durata definita.
+Questa rendita figurativa non viene mai effettivamente erogata: rileva esclusivamente come parametro di calcolo del 
+tetto massimo.
+Tetto massimo prelevabile in qualsiasi momento = Somma delle rate di rendita figurativa maturate dall'inizio − Totale 
+dei prelievi già effettuati
+Ogni anno che trascorre, matura una nuova rata teorica, che si aggiunge al tetto disponibile. I prelievi effettuati scalano 
+il tetto disponibile. Le rate teoriche non riscosse si accumulano e restano disponibili per prelievi futuri.
+Nell'ultimo anno di durata della rendita teorica, il tetto massimo prelevabile coincide con l'intero montante residuo 
+accumulato fino a quel momento.
+L 'aderente può richiedere un primo prelievo già contestualmente alla domanda di accesso alla prestazione. L 'importo 
+non può superare quello della prima rata di rendita figurativa.
+4.3 Calcolo con contabilità per quote
+Per i Fondi che adottano una contabilità per quote, a ciascuna rata di rendita figurativa corrisponde un numero fisso di 
+quote, ottenuto dividendo il numero complessivo di quote del montante iniziale per il numero di rate. L 'importo mas-
+simo prelevabile è determinato moltiplicando il valore della quota alla data del prelievo per la differenza tra le quote 
+relative alle rate maturate e le quote già utilizzate per prelievi precedenti.
+4.4 Esempio numerico illustrativo
+Ipotesi di base: montante accumulato 200.000 € · vita attesa residua 20 anni · rendita figurativa annuale 10.000 € (= 
+200.000 / 20) · rendimento ipotetico 3,5% annuo.
+Anno
+Numero 
+quote 
+a inizio 
+anno
+Valore 
+quota 
+a inizio 
+anno
+Rendi-
+mento 
+del com-
+parto
+Montante 
+post-rendi-
+mento
+Quote 
+prele-
+vabili 
+maturate
+Massimo 
+preleva-
+bile
+Prelievo 
+effettuato
+Quote 
+prelevabili 
+avanzate
+Montante 
+residuo Note
+Anno 1 8000 25,00 €  200.000 € 400 10.000 € 10.000 € 0 190.000 €
+Prima rata 
+disponibile 
+da subito
+Anno 2 7600 25,88 € 3,50% 196.650 € 400 10.350 € 0 € 400 196.650 €
+Nessun 
+prelievo: si 
+accumula 
+una rata
+Anno 3 7600 26,39 € 2,00% 200.583 € 400 21.114 € 10.557 € 400 190.026 €
+Prelievo 
+parziale, 
+resta un 
+residuo
+Anno 4 7200 26,00 € -1,50% 187.176 € 400 20.797 € 0 € 800 187.176 €
+Nessun 
+prelievo: si 
+accumula 
+una rata
+Anno 5 7200 27,04 € 4,00% 194.663 € 400 32.444 € 27.036 € 200 167.626 €
+Prelievo 
+superiore 
+alla rata 
+maturata
+… … … … … … … … … … …
+Il montante residuo è calcolato al netto dei prelievi effettuati e al lordo del rendimento maturato (ipotetico 3,5% annuo per semplicità). Nella 
+realtà il rendimento varia anno per anno.
+Il 'Max prelevabile al 31/12' indica il tetto disponibile al termine di ciascun anno, tenendo conto dei prelievi già effettuati nell'anno stesso.
+La tabella è puramente illustrativa. I rendimenti indicati sono ipotetici e non costituiscono previsione.
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 6 di  9
+=== pagina 7 ===
+7
+4.5	 Rischi	specifici
+Rischio di longevità
+Se i prelievi vengono effettuati con ritmo sostenuto nei primi anni, il montante si riduce 
+significativamente. Al termine della vita attesa teorica, se l'aderente è ancora in vita, può prelevare il 
+montante residuo ma non riceve ulteriore protezione automatica.
+Rischio di investimento
+Il tetto massimo prelevabile in euro varia con il valore delle quote. In periodi di rendimento negativo il 
+montante si riduce e il tetto effettivo può risultare inferiore alle rate teoriche maturate.
+Rischio di concentrazione
+La massima flessibilità di prelievo richiede disciplina nella pianificazione. Prelievi concentrati nelle 
+prime fasi possono compromettere la copertura nei periodi successivi.
+5. Confronto tra le tipologie e analisi di scenario
+La tabella seguente confronta le principali caratteristiche delle diverse tipologie di prestazione, inclusa la rendita vitali-
+zia, per agevolare una valutazione consapevole da parte dell'aderente.
+Tipologia Rendita vitalizia Rendita a durata 
+definita
+Prelievi liberamente 
+determinabili
+Durata dell'erogazione Vita intera Vita attesa residua 
+(ISTAT) o maggiore 
+durata
+Vita attesa residua 
+(limite teorico)
+Importo delle rate Fisso (contrattuale) con 
+rivalutazione annuale
+Variabile (risultati 
+gestione)
+Variabile (risultati 
+gestione) e in base a 
+richiesta dell’aderente
+Rischio di longevità A carico assicuratore A carico aderente A carico aderente
+Rischio di investimento1 No (rendimento garantito) Sì Sì
+Flessibilità di prelievo Nessuna Limitata (eventuale 
+periodicità scelta)
+Massima (a richiesta in 
+base a soglie massime)
+Reversibilità della scelta Irrevocabile Irrevocabile* Irrevocabile*
+Montante residuo in 
+caso di decesso
+Dipende dalla tipologia di rendita 
+vitalizia
+Riscatto da soggetti 
+designati
+Riscatto da soggetti 
+designati
+Erogata da Compagnia assicurativa 
+convenzionata con Fondo 
+pensione
+Fondo pensione 
+direttamente
+Fondo pensione 
+direttamente
+Disponibile dal Già prevista 1° luglio 2026 1° luglio 2026
+Tassazione post 20072 15/9% 15/9% 15/9%
+* Salvo successiva conversione in rendita vitalizia immediata o differita, esercitabile in qualsiasi momento presso il Fondo o trasferendo il 
+montante residuo a un'altra forma pensionistica.
+_____________________________________________
+(1)  In caso contrario, indicare eventuali garanzie contrattualizzate.
+(2)  Per maggiori dettagli si veda il Documento sul regime fiscale disponibile sul sito web del Fondo..
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 7 di  9
+=== pagina 8 ===
+8
+6. Periodo transitorio – Modalità operative
+Le Istruzioni COVIP del 25 giugno 2026 prevedono un periodo transitorio, non prorogabile oltre il 31 dicembre 2026, 
+per consentire ai Fondi pensione di adeguare in modo ordinato i propri sistemi e processi operativi interni. Durante tale 
+periodo:
+• il Fondo è tenuto ad acquisire le richieste degli aderenti di accedere alle nuove prestazioni;
+• il Fondo può procedere alla liquidazione e all'erogazione delle prestazioni successivamente all'avvenuto adeguamen-
+to dei sistemi;
+• l'aderente può revocare la propria scelta in qualsiasi momento prima che il Fondo proceda alla liquidazione del primo 
+importo;
+• il Fondo darà chiara evidenza di tale situazione nel presente documento, nei moduli di richiesta e nel supplemento 
+alla Nota informativa.
+Stato di adeguamento del Fondo
+«Il Fondo è in fase di adeguamento: le richieste vengono acquisite e saranno liquidate al termine della 
+fase di adeguamento di cui sarà data apposita comunicazione».
+Le modifiche al Regolamento del Fondo sono state adottate dagli organi di governo e trasmesse alla COVIP in regime 
+di comunicazione ai sensi degli artt. 10, 21, 29, 34 e 36 del Regolamento sulle procedure (Deliberazione COVIP del 19 
+maggio 2021).
+7. Modalità di richiesta della prestazione
+Per accedere alle nuove prestazioni pensionistiche, l'aderente deve:
+1. Verificare di aver maturato i requisiti di accesso (pensionamento nel regime obbligatorio e almeno 5 anni di parteci-
+pazione alla previdenza complementare).
+2. Prendere visione del presente documento, del Supplemento alla Nota informativa e di ogni altra documentazione 
+messa a disposizione dal Fondo.
+3. Compilare il modulo di richiesta, disponibile sul sito web del Fondo.
+4. Indicare obbligatoriamente il/i soggetto/i designato/i al riscatto del montante residuo in caso di decesso. Le richie-
+ste prive di tale indicazione sono considerate incomplete e non vengono lavorate.
+5. Indicare il comparto di investimento prescelto per la fase di erogazione (in assenza di indicazione, il Fondo applicherà 
+il comparto di default).
+6. Trasmettere il modulo compilato secondo le modalità indicate dal Fondo.
+8. Anni di speranza di vita per le nuove prestazioni 
+ richieste fino al 31.12.2026
+Età  Speranza di vita popolazione 
+(anni interi)
+50 34
+51 33
+52 32
+53 31
+54 30
+55 29
+56 28
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 8 di  9
+=== pagina 9 ===
+9
+57 27
+58 26
+59 26
+60 25
+61 24
+62 23
+63 22
+64 21
+65 20
+66 20
+67 19
+68 18
+69 17
+70 16
+71 15
+72 15
+73 14
+74 13
+75 12
+76 12
+77 11
+78 10
+79 10
+80 9
+81 8
+82 8
+83 7
+84 7
+85 6
+86 6
+87 5
+88 5
+89 4
+90 4
+91 4
+92 3
+93 3
+94 3
+95 2
+96 2
+97 2
+98 2
+99 2
+100 1
+101 1
+Documento redatto ai sensi del par. 6 delle Istruzioni COVIP del 25 giugno 2026 
+(Deliberazione in tema di prestazioni pensionistiche di cui all'art. 11 del D.Lgs. 5 dicembre 2005, 
+n. 252, come modificato dalla Legge 30 dicembre 2025, n. 199).
+Fondo Pensione Aperto Aureo · via Carlo Esterle n. 9/11 20132 Milano (MI)· www.bccrisparmioeprevidenza.it · 
+info@bccrp.bcc.it aureopensione.bccsinergia@actaliscertymail.it
+Integrazione al Documento sulle rendite - Nuove prestazioni – Art. 11, co. 3-bis, D.Lgs. 252/2005 Luglio 2026
+            pag. 9 di  9

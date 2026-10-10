@@ -1,0 +1,1104 @@
+# Fondo: PREVIDENZA PER TE - FONDO PENSIONE APERTO (previdenza-per-te)
+# Documento: Documento sulla politica di investimento – Previdenza per Te - Documento sulla politica di investimento.pdf
+# Fonte: https://www.axa-mps.it/c/document_library/get_file?uuid=816eb0da-05f8-29e1-7557-693b460e3047&groupId=715633
+# Citato in: https://www.axa-mps.it/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: ff22575284ae3ebc6a10fbf5e438dfc301002cafb231dc33d16732f067b50a99
+# Pagine: 25
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+Internal 
+ 
+ 
+AXA MPS PREVIDENZA PER TE 
+AXA MPS Assicurazioni Vita S.p.A. 
+Documento sulla politica di investimento 
+ 
+1. Il Fondo Pensione Aperto 
+2. Il documento sulla politica di investimento 
+2.a. Generalità 
+2.b. Modifiche  
+3. Gli obiettivi della politica di investimento 
+4. I criteri di attuazione della politica di investimento 
+4.a. Asset Allocation strategica 
+4.b. Strumenti finanziari utilizzabili 
+4.c. Modalità e stile di gestione delle risorse 
+5. I compiti e le responsabilità dei soggetti coinvolti 
+6. Il sistema di controllo della gestione finanziaria 
+7. Principi e modalità di attuazione dell’integrazione dei rischi di sostenibilità nel processo investimenti  
+ 
+1. Il Fondo Pensione Aperto “AXA MPS Previdenza Per Te” 
+“AXA MPS Previdenza per Te” (in seguito: “fondo”) è un Fondo pensione aperto (FPA) finalizzato all’erogazione di 
+trattamenti pensionistici complementari del sistema obbligatorio, ai sensi del d.lgs. 5 dicembre 2005 n. 252.  
+Il fondo è iscritto all’albo tenuto dalla COVIP con il n. 5 ed è gestito d a AXA MPS Assicurazioni Vita S.p.A. (in 
+seguito: “Compagnia”), appartenente al Gruppo AXA.  
+Il fondo è rivolto a tutti coloro che intendono costituire un piano di previdenza complementare su base 
+individuale o collettiva. 
+Il fondo è costituito in forma di patrimonio separato ed autonomo all’interno della Compagnia ed è operante in 
+regime di contribuzione definita. L’entità della prestazione pensionistica è determinata in funzione della 
+contribuzione effettuata e dei relativi rendimenti. 
+I contributi versati , al netto degli oneri trattenuti al momento del versamento, sono investiti in strumenti 
+finanziari, sulla base della politica di investimento definita per ciascun comparto del fondo, e producono nel 
+tempo un rendimento variabile in funzione degli andamenti dei mercati e delle scelte di gestione. 
+Le risorse del fondo: 
+• sono depositate presso una “Banca Depositaria” (State Street Bank International GmbH Succursale 
+Italia), che custodisce il patrimonio del fondo e controlla la regolarità delle operazioni di ge stione; 
+• sono affidate in gestione ad un “Gestore Delegato” (AXA Investment Managers S.p.A). 
+Il fondo propone una pluralità di opzioni di investimento (comparti), ciascuna caratterizzata da una propria 
+combinazione di rischio/rendimento (“Moneta”, “Stabilit à”, “Mista”, “Crescita”, “Garantita”). Il comparto 
+“Garantita” prevede la garanzia di corresponsione di un importo non inferiore ai contributi versati capitalizzati al 
+tasso di interesse indicato nel regolamento del fondo nei casi indicati nello stesso.
+=== pagina 2 ===
+2 
+ 
+Internal 
+In alternativa, il fondo consente di aderire al percorso “life cycle” in base al quale la posizione individuale 
+maturata e i versamenti contributivi sono ripartiti in una combinazione di comparti predeterminata con profilo di 
+rischio progressivamente decrescente in funzione dell’approssimarsi della data di pensionamento. In particolare:  
+• la posizione individuale maturata viene riallocata automaticamente all’inizio di ciascun periodo 
+predeterminato, individuato in funzione degli anni rimanenti alla data di pens ionamento prevista; 
+• i versamenti contributivi vengono allocati in funzione della data di versamento nella combinazione di 
+comparti pertinente sulla base degli anni rimanenti alla data di pensionamento prevista.  
+ 
+2. Il documento sulla politica di investimento 
+ 
+2.a Generalità 
+ 
+Il presente documento sulla politica di investimento (nel seguito: “documento”) del fondo è stato predisposto in 
+attuazione delle disposizioni contenute nel D.Lgs. n. 252/2005 (art. 6, commi 5 -ter e 5 -quater) e nella 
+deliberazione Covip del 16 marzo 2012. Il “documento” è stato approvato dal Consiglio di Amministrazione della 
+Compagnia nella seduta del 21 Novembre  2023. Esso definisce la strategia finanziaria che il fondo intende 
+realizzare per ottenere efficienti combinazioni rischio -rendimento dall’impiego delle risorse affidate in gestione in 
+un arco temporale coerente con i bisogni previdenziali degli aderenti. A tale  scopo il documento individua: (i) gli 
+obiettivi della politica di investimento; (ii) i corrispondenti criteri di attuazione; (iii) i compiti e le responsabilità de i 
+soggetti interessati al processo di investimento; (iv) il sistema di controllo della gesti one finanziaria. Il documento 
+(e le eventuali successive modifiche) viene trasmesso alla Covip, al Responsabile ed all’Organo di controllo del 
+fondo, ai soggetti incaricati della gestione finanziaria ed alla Banca depositaria. Viene inoltre trasmesso agli 
+aderenti, agli aventi diritto ed a loro rappresentanti, su richiesta da inoltrare ai seguenti indirizzi:  
+o posta elettronica: axampsvita@legalmail.it  
+o posta ordinaria: AXA MPS Vita S.p.A. Via Aldo Fabrizi, 9, 00128 Roma 
+ 
+ 
+2.b Modifiche 
+ 
+Il presente documento  dovrà essere rivisto con cadenza almeno triennale e rimarrà valido fino al 202 6. In questa 
+sezione sono descritte le modifiche apportate nel triennio e le corrispondenti date di esecuzione. 
+ELENCO VARIAZIONI APPORTATE NEL DOCUMENTO  
+DATA NOTE 
+21/11/2023 
+Sez. 3. Gli obiettivi della politica di investimento 
+Modifica dei parametri dell’Inflazione stimata, del Rendimento Medio Annuo 
+Atteso in termini reali, della Variabilità del rendimento atteso in relazione alla 
+gestione separata e ai fondi interni e della Probabilità che il rendimento atteso 
+risulti negativo. 
+Sez.4.a Asset Allocation strategica 
+Modifica dei parametri di Duration
+=== pagina 3 ===
+3 
+ 
+Internal 
+Sez.4c I criteri di attuazione della politica di investimento: modalità e stile di 
+gestione delle risorse 
+Modifica dei paramentri di tracking error volatility 
+Sez. 5 I compiti e le responsabilità dei soggetti coinvolti 
+Inserito riferimento all’Alta Direzione  
+Sez. 7 Principi e modalità di attuazione inerenti l’integrazione dei rischi di 
+sostenibilità 
+Aggiornamento in coerenza con Regolamento Delegato (UE) 2022/1288 della 
+Commissione Europea del 6 aprile 2022, che si applica dal primo gennaio 2023  
+23/03/2021 Inserimento Sez. 7 Principi e modalità di attuazione dell’integrazione dei rischi di 
+sostenibilità nel processo investimenti 
+20/09/2019 
+Sez. 3. Gli obiettivi della politica di investimento 
+Modifica dei parametri dell’Inflazione stimata, del Rendimento Medio Annuo 
+Atteso in termini reali, della Variabilità del rendimento atteso in relazione alla 
+gestione separata e ai fondi interni e della Probabilità che il rendimento atteso 
+risulti negativo. 
+20/09/2019 
+Sez. 4 I criteri di attuazione della p olitica di investimento - Par. 4.a) Asset 
+Allocation Strategica  
+Adeguamento dei limiti di investimento previsti dall’Asset Allocation  Strategica di 
+ciascun comparto, conformemente a quanto previsto dal Regolamento del Fondo.  
+ 
+3. Gli obiettivi della politica di investimento 
+La politica di investimento del fondo è finalizzata alla massimizzazione delle risorse gestite, fornendo agli aderent i 
+opzioni di investimento diversificate (comparti) in funzione di diverse aspettative di rendimento e di tolleranza al 
+rischio. Il fondo non ha una popolazione di riferimento predefinita. Le sue caratteristiche, illustrate al par. 1), lo 
+rendono idoneo a s oddisfare le esigenze previdenziali di potenziali aderenti appartenenti a popolazioni di 
+riferimento estremamente ampie e diversificate. La Compagnia, tuttavia, al fine di considerare le caratteristiche e 
+i bisogni previdenziali  degli aderenti, verifica le  caratteristiche socio-demografiche degli stessi, l’andamento delle 
+adesioni e delle uscite nonché il livello della contribuzione media. 
+A ciascuno dei comparti del fondo indicati al par.  1) è associata una delle specifiche combinazioni 
+rischio/rendimento individuate in un orizzonte temporale definito in funzione del numero di anni mancanti al 
+pensionamento e quindi coerente con le prestazioni da erogare, secondo lo schema seguente  in cui con 
+l’espressione “rendimento medio annuo atteso in termini reali” si intende il rendimento atteso del comparto al 
+netto delle commissioni di gestione e dell’inflazione stimata sulla base della serie storica di riferimento.
+=== pagina 4 ===
+4 
+ 
+Internal 
+Comparto “Garantita”: 
+ 
+• Orizzonte temporale della gestione: da 1 a 5 anni 
+• Rendimento medio annuo atteso  in termini reali: -2,04%; per effetto della presenza di un rendimento 
+minimo garantito ( 0%), il rendimento atteso  annuo in termini nominali (al verificarsi di uno degli eventi 
+previsti) non è negativo.  
+• Variabilità del rendimento atteso: 2,12% 
+• Probabilità che il rendimento atteso risulti  negativo: 62,19%; per effetto della presenza di un rendimento 
+minimo garantito ( 0%), la probabilità che il rendimento atteso in termini nominali risulti inferiore a 
+quello garantito è nulla.  
+ 
+Comparto “Moneta”: 
+ 
+• Orizzonte temporale della gestione: da 5 a 10 anni 
+• Rendimento medio annuo atteso in termini reali:  -1,35% 
+• Variabilità del rendimento atteso: 2,93% 
+• Probabilità che il rendimento atteso risulti negativo: 56,72% 
+ 
+Comparto “Stabilità”: 
+ 
+• Orizzonte temporale della gestione: da 10 a 20 anni 
+• Rendimento medio annuo atteso in termini reali): 0,17% 
+• Variabilità del rendimento atteso: 5,02% 
+• Probabilità che il rendimento atteso risulti negativo: 48,76% 
+ 
+Comparto “Mista”: 
+ 
+• Orizzonte temporale della gestione: da 20 a 30 anni 
+• Rendimento medio annuo atteso in termini reali: 0,88% 
+• Variabilità del rendimento atteso: 8,26% 
+• Probabilità che il rendimento atteso risulti negativo: 42,04% 
+ 
+Comparto “Crescita”: 
+ 
+• Orizzonte temporale della gestione: superiore a 30 anni 
+• Rendimento medio annuo atteso in termini reali: 1,53% 
+• Variabilità del rendimento atteso: 10,99% 
+• Probabilità che il rendimento atteso risulti negativo: 42,54%
+=== pagina 5 ===
+5 
+ 
+Internal 
+Nel fondo è, inoltre, presente il percorso “ life cycle ” illustrato al par. 1). Le combinazioni di comparti 
+predeterminate, con profilo di rischio progressivamente decrescente in funzione dell’approssimarsi della data di 
+pensionamento, sono stabilite secondo lo schema seguente: 
+ 
+Comparto Anni mancanti al pensionamento 
+più di 25 25-20 20-15 15-10 10-5 meno di 5 
+“Garantita”    10% 40% 50% 
+“Moneta”   10% 20% 30% 50% 
+“Stabilità”   20% 60% 30%  
+“Mista”  30% 60% 10%   
+“Crescita” 100% 70% 10%    
+ 
+Il profilo rischio/rendimento associabile a ciascuno dei periodi temporali in cui è articolato il percorso “ life cycle” 
+può essere determinato con buona approssimazione come  media aritmetica ponderata dei valori di rendimento 
+atteso e volatilità associati ai singoli comparti.  
+4. I criteri di attuazione della politica di investimento 
+ 
+4.a Asset Allocation strategica 
+ 
+Nella tabella seguente è posta in evidenza, per ciascun comparto, l’ asset allocation che permette di ottenere il 
+miglior trade off tra rendimento atteso annuo (in termini reali) nell’orizzonte temporale considerato e deviazione 
+standard del medesimo, nel rispetto dei vincoli precedentemente indicati. 
+Dato l’attuale contesto del mercato monetario il comparto “Garantita” non presenta un benchmark di riferimento 
+per dare maggiore flessibilità al Gestore con l’obiettivo di ottenere rendimenti asso luti positivi. 
+ 
+ 
+ 
+ 
+ 
+ 
+L’asset class “monetario” include la “liquidità” ed i titoli obbligazionari con scadenza residua inferiore ai 18  mesi. 
+La “liquidità” è costituita (DM 703/96) dai titoli del mercato monetario e altri titoli di debito con vita residua non 
+superiore a sei mesi, aventi requisiti di trasferibilità ed esatta valutabilità, ivi compresi i depositi bancari a breve . 
+ 
+Per ciascun comparto del fondo si indicano nel seguito le aree geografiche, i settori di  attività e le valute di 
+riferimento degli investimenti nonché i limiti di manovra e la duration della componente obbligazionaria e relativi 
+benchmark. 
+Comparto “Garantita”:  
+L’attività di investimento è orientata in prevalenza verso:
+=== pagina 6 ===
+6 
+ 
+Internal 
+• titoli obbligazionari con duration non superiore a 2 anni, certificati di deposito, strumenti di mercato 
+monetario e, in misura residuale, azioni. Tale esposizione potrà essere ottenuta anche tra mite OICR.  
+• emittenti sovranazionali, nazionali ed esteri, sia pubblici che privati, con rating non inferiore a “ investment 
+grade”.  
+• paesi dell’area UE e in misura minore di emittenti di paesi extra UE. Non sono previsti vincoli per 
+settori di attività.  
+ 
+Limiti di investimento e margini di manovra: 
+- Valute diverse dall’Euro: complessivamente considerate fino ad un massimo 30% del patrimonio;  
+- Azionario: fino ad un massimo del 15% del patrimonio 
+- Obbligazionario: fino ad un massimo del 100% del patrimonio 
+- Rating medio di portafoglio: investment grade 
+ 
+Benchmark:  
+Non Previsto 
+ 
+ 
+Comparto “Moneta”:  
+L’attività di investimento è orientata in prevalenza verso: 
+• titoli obbligazionari con duration compresa tra 2 e 4 anni , certificati di deposito e strumenti di mercato 
+monetario. Tale esposizione potrà essere ottenuta anche tramite OICR.  
+• emittenti sovranazionali, nazionali ed esteri, sia pubblici che privati, con rating non inferiore a “ investment 
+grade”.  
+• paesi dell’area UE e in misura minore di emi ttenti di paesi extra UE. Non sono previsti vincoli per settori di 
+attività. Gli indici utilizzati come benchmark comprendono tutti i settori di ogni singolo mercato con 
+preferenza verso le società a maggiore capitalizzazione. 
+ 
+Limiti di investimento e margini di manovra: 
+- Valute diverse dall’Euro: complessivamente considerate fino ad un massimo 30% del patrimonio;  
+- Azionario: fino ad un massimo del 10% del patrimonio, solo se provenienti da conversione di obbligazioni 
+convertibili e/o con warrants 
+- Obbligazionario: fino al 100% del patrimonio 
+- Rating medio di portafoglio: investment grade 
+ 
+Benchmark:  
+20%: BofA Merrill Lynch Euro Treasury Bill Index  
+5%: JP Morgan Emu Government Bonds Index  
+27.5%: Merrill Lynch EMU Corporate 1 -7  
+ 5%: Barclays Euro Govt Inflation Bond  
+17.5%: Barclays US Corporate IG total return Hedged EUR 
+12.5%: BofA Merrill Lynch US High Yield Master II Hedged EUR * 
+12.5%: JP Morgan EMBIG Diversified Hedged EUR * 
+ 
+* La strategia sottostante viene implementata tramite short duration assets  
+ 
+Comparto “Stabilità”:
+=== pagina 7 ===
+7 
+ 
+Internal 
+L’attività di investimento è orientata in prevalenza verso:  
+• titoli obbligazionari con duration compresa fra 4 e 5 anni, certificati di deposito, strumenti di mercato 
+monetario e azioni, con prevalenza della componente obbligazionaria. Tale esposizione potrà essere 
+ottenuta anche tramite OICR.  
+• emittenti sovranazionali, nazionali ed esteri, sia pubb lici che privati, con rating non inferiore a “ investment 
+grade”.  
+• paesi dell’area UE e in misura minore di emittenti di paesi extra UE. Non sono previsti vincoli per settori di 
+attività. Gli indici utilizzati come benchmark comprendono tutti i settori di o gni singolo mercato con 
+preferenza verso le società a maggiore capitalizzazione. 
+ 
+Limiti di investimento e margini di manovra: 
+- Valute diverse dall’Euro: complessivamente considerate fino ad un massimo 30% del patrimonio;  
+- Azionario: fino ad un massimo del 40% del patrimonio; Obbligazionario: fino ad un massimo del 90% del 
+patrimonio 
+- Rating medio di portafoglio: investment grade 
+ 
+ 
+ 
+Benchmark:  
+20%: BofA Merrill Lynch Euro Treasury Bill Index  
+20%: MSCI World * 
+20%: JP Morgan Emu Government Bonds Index  
+10%: JP Morgan GBI Global ex EMU unhedged in Eur  
+10%: Merrill Lynch EMU Corporate 1 -7  
+10%: Barclays Euro Govt Inflation Bond  
+10%: FTSE Italia All Shares  
+ 
+* Parte del rischio cambio è coperta in conformità ai limiti normativi del DM166/2014. 
+ 
+ 
+Comparto “Mista”:  
+L’attività di investimento è orientata in maniera bilanciata verso: 
+• azioni e titoli obbligazionari con duration compresa tra 5 e 7 anni , con una tendenziale prevalenza della 
+componente azionaria. Tale esposizione potrà essere ottenuta anche tramite OICR.  
+• emittenti sovranazionali, nazionali ed esteri, sia pubblici che privati, con rating non inferiore a “ investment 
+grade”.  
+• paesi dell’area UE, USA e in misura minore di emittenti di altri paesi. Non sono previsti vincoli per settori di 
+attività. Gli indici utilizzati come benchmark comprendono tutti i settori di ogni singolo mercato con 
+preferenza verso le società a maggiore capitalizzazione. 
+ 
+Limiti di investimento e margini di manovra: 
+- Valute diverse dall’Euro: complessivamente considerate fino ad un massimo 30% del patrimonio;  
+- Azionario: fino ad un massimo del 70% del patrimonio;  
+- Obbligazionario: fino ad un massimo del 70% del patrimonio 
+- Rating medio di portafoglio: investment grade
+=== pagina 8 ===
+8 
+ 
+Internal 
+Benchmark:  
+35% MSCI World * 
+15% JP Morgan Emu Government Bonds Index  
+10% JP Morgan GBI Global ex EMU unhedged in Eur  
+10% Merrill Lynch EMU Corporate 1 -7  
+10% Barclays Euro Govt Inflation Bond  
+20% FTSE Italia All Shares  
+ 
+* Parte del rischio cambio è coperta in conformità ai limiti normativi del DM166/2014. 
+ 
+Comparto “Crescita”:  
+L’attività di investimento è orientata in prevalenza verso: 
+• azioni e titoli obbligazionari con duration compresa tra 5 e 7 anni , con una netta prevalenza della 
+componente azionaria. Tale esposizione potrà essere ottenuta anche tramite OICR.  
+• emittenti sovranazionali, nazionali ed esteri, sia pubblici che privati, c on rating non inferiore a “ investment 
+grade”.  
+• paesi dell’area UE, USA e in misura minore di emittenti di altri paesi. Non sono previsti vincoli per settori di 
+attività. Gli indici utilizzati come benchmark comprendono tutti i settori di ogni singolo mercato con 
+preferenza verso le società a maggiore capitalizzazione. 
+ 
+Limiti di investimento e margini di manovra: 
+- Valute diverse dall’Euro: complessivamente considerate fino ad un massimo 30% del patrimonio;  
+- Azionario: fino ad un massimo del  90% del patrimonio; Obbligazionario: fino ad un massimo del  50% del 
+patrimonio 
+- Rating medio di portafoglio: investment grade 
+ 
+Benchmark:  
+55%: MSCI World * 
+  9%: JP Morgan Emu Government Bonds Index  
+  5%: JP Morgan GBI Global ex EMU unhedged in Eur  
+  3%: Merrill Lynch EMU Corporate 1 -7  
+  3%: Barclays Euro Govt Inflation Bond  
+25%: FTSE Italia All Shares  
+* Parte del rischio cambio è coperta in conformità ai limiti normativi del DM166/2014. 
+ 
+ 
+4.b  I criteri di attuazione della politica di investimento: strumenti finanziari utilizzabili  
+ 
+Nell’ambito dei principi generali stabiliti dalla normativa vigente e dal regolamento del fondo e nel rispetto delle 
+condizioni e dei limiti fissati con D.M. n. 166/2014, le disponibilità del fondo possono essere investite in: 
+i. Titoli di debito 
+ii. Titoli di capitale 
+iii. Quote di OICR/FIA 
+iv. Strumenti finanziari derivati 
+v. Liquidità e esposizione valutaria
+=== pagina 9 ===
+9 
+ 
+Internal 
+ 
+Gli strumenti finanziari derivati (inclusi i prodotti strutturati), son o usati esclusivamente con lo scopo di ridurre il 
+rischio di investimento o di pervenire ad una gestione efficace delle risorse.  In particolare: 
+• le operazioni di “ riduzione del rischio” di investimento sono quelle effettuate allo scopo di proteggere il 
+valore di singole attività o di insiemi di attività da avverse variazioni dei tassi di interesse, dei tassi di 
+cambio o dei prezzi di mercato. L'intento di copertura deve essere riscontrab ile tecnicamente in virtù di 
+una elevata correlazione tra le caratteristiche finanziarie delle attività coperte e quelle degli strumenti 
+derivati; 
+• le operazioni finalizzate ad una “ gestione efficace”  delle risorse sono quelle effettuate allo scopo di 
+raggiungere gli obiettivi di investimento in maniera più veloce, più agevole, più economica o più 
+flessibile rispetto a quanto sia possibile operando sugli attivi sottostanti.  
+ 
+Fermo restando quanto previsto dal Regolamento n. 648/2012 del Parlamento europeo e  del Consiglio del 4 
+luglio 2012 sugli strumenti derivati OTC, le controparti centrali e i repertori di dati sulle negoziazioni, il fondo 
+pensione valuta in ogni momento tutti i rischi connessi con l’operatività in derivati e monitora costantemente 
+l’esposizione generata da tali operazioni. I derivati non possono generare una esposizione al rischio finanziario 
+superiore a quella risultante da un acquisto a pronti degli strumenti finanziari sottostanti il contratto derivato. 
+Non sono ammesse vendite allo scoperto, né operazioni in derivati equivalenti a vendite allo scoperto. 
+ 
+Tenuto conto delle caratteristiche dimensionali del fondo e della politica di investimento descritta nel presente 
+documento, l’investimento in OICR è ammesso a condizione che:  
+o la polit ica di investimento dell’OICR sia coerente con quella del comparto e nella misura in cui 
+consenta di realizzare una efficace copertura di tutti i mercati di riferimento, tramite  gestori 
+specializzati, con una adeguata diversificazione; 
+o il fondo, anche al f ine di monitorare il rischio di ciascun OICR, disponga di informazioni complete, 
+approfondite e costantemente aggiornate su tutti i singoli strumenti finanziari inseriti nel portafoglio 
+di ciascun OICR e sulle strategie di investimento adottate; 
+o non comporti oneri aggiuntivi rispetto a quelli previsti dal fondo pensione e comunicati agli aderenti;  
+o non generi, anche indirettamente, una concentrazione di rischio incompatibile con i limiti qualitativi 
+e quantitativi fissati nel presente documento. 
+ 
+Fermo rest ando il rispetto del principio di adeguata diversificazione degli investimenti, l’investimento in FIA è 
+contenuto entro il limite del 20 per cento delle disponibilità complessive del fondo pensione e del 25 per cento 
+del valore del FIA. L’investimento in F IA non UE non commercializzati in Italia è consentito in presenza di accordi 
+di cooperazione tra l’Autorità competente del Paese d’origine del FIA e le Autorità italiane.  
+ 
+Per ciascun comparto, inoltre, l’investimento in strumenti finanziari non negoziati nei mercati regolamentati e in 
+OICR alternativi (FIA) è mantenuto a livelli prudenziali, ed è complessivamente contenuto entro il limite del 30 
+per cento delle disponibilità complessive del comparto. Gli OICVM e i depositi bancari si considerano strumenti 
+finanziari negoziati nei mercati regolamentati. 
+I fondi pensione, tenuto conto anche dell’esposizione realizzata tramite derivati, non investono più del 5 per 
+cento delle loro disponibilità complessive in strumenti finanziari emessi da uno stesso  soggetto e non più del 10 
+per cento in strumenti finanziari emessi da soggetti appartenenti a un unico gruppo.  
+L’investimento in strumenti finanziari connessi a merci è limitato al 5 per cento delle disponibilità complessive 
+del comparto. 
+L’esposizione valutaria, al netto delle coperture realizzate mediante strumenti finanziari derivati, è contenuta 
+entro il limite del 30% delle disponibilità complessive di ciascun comparto.
+=== pagina 10 ===
+10 
+ 
+Internal 
+ 
+4.c  I criteri di attuazione della politica di investimento: modalità e stile di gestione delle risorse 
+ 
+Le risorse del fondo sono affidate in gestione ad un Gestore delegato (AXA Investment Managers Paris ) 
+appartenente allo stesso Gruppo della Compagnia . Il mandato di gestione, di tipo “generalista”, è stato stipulato 
+per una durata indeterminata con facoltà di recesso in ogni momento, da parte della Compagnia, senza penali e 
+presenta un regime commissionale “fisso”. 
+Per ciascun comparto del fondo si indicano nel seguito lo stile di gestione adottato e gli indicatori monitorati 
+(livello massimo di turnover di portafoglio e tracking error volatility). 
+Comparto “Garantita”: 
+ 
+• stile di gestione: attivo; 
+• turnover di portafoglio: 3 
+ 
+Comparto “Moneta”: 
+ 
+• stile di gestione: attivo; 
+• turnover di portafoglio: 3 
+• tracking error volatility: 3,5% 
+ 
+ 
+Comparto “Stabilità”: 
+ 
+• stile di gestione: attivo;  
+• turnover di portafoglio: 2 
+• tracking error volatility: 4,5% 
+ 
+ 
+Comparto “Mista”: 
+ 
+• stile di gestione: attivo,  
+• turnover di portafoglio: 1 
+• tracking error volatility: 5,5% 
+ 
+ 
+ 
+Comparto “Crescita”: 
+ 
+• stile di gestione: attivo; 
+• turnover di portafoglio: 1 
+• tracking error volatility: 6,5%
+=== pagina 11 ===
+11 
+ 
+Internal 
+ 
+5. I compiti e le responsabilità dei soggetti coinvolti 
+Il Consiglio di Amministrazione della Compagnia, su proposta dell’Alta Direzione: 
+• approva la politica di investimento del fondo, comprese le linee guida in materia di esercizio dei diritt i di 
+voto spettanti al fondo medesimo, e le successive eventuali modifiche; 
+• autorizza l’affidamento in gestione (e la revoca) a terzi delle risorse del fondo;  
+• approva le procedure interne di controllo della gestione finanziaria d el fondo. 
+Il Consiglio di Amministrazione, inoltre: 
+• valutate anche le proposte dell’Alta Direzio ne, esamina annualmente, assumendo, se del caso, le 
+conseguenti determinazioni, i report predisposti dal responsabile:  
+• della funzione Investimenti (i) sulle risultanze dell’attività di investimento del fondo anche in 
+termini di efficacia e adeguatezza della gestione delegata, (ii) sull’attuazione della politica di 
+investimento e sull’operato dei soggetti incaricati della gestione delle risorse del f ondo, (iii) 
+sui costi di gestione, sul rapporto rischio/rendimento e sulla performance attribution; 
+• della funzione di Risk Management, suddiviso per comparti, sulla variabilità dei rendimenti 
+medi, sulla duration dei titoli obbligazionari, sulla velocità di rotazione del patrimonio e sulla 
+tracking error volatility; 
+• esercita le funzioni previste nell’ambito del sistema dei controlli interni della Compagnia.  
+L’Alta Direzione , sentiti i responsabili delle funzioni Investimenti e Risk Management, propone al Consiglio di 
+Amministrazione: 
+• la politica di investimento del fondo, comprese le linee guida in materia di esercizio dei diritti di voto 
+spettanti al fondo medesimo, e le successive eventuali modifiche; 
+• l’affidamento in gestione (e la revoca) a terzi delle risorse del fondo; 
+• le procedure interne di controllo della gestione finanziaria del fondo. 
+L’Alta Direzione, inoltre: 
+• esamina annualmente, proponendo, se del caso, al Consiglio di Amministrazione di adottare le 
+conseguenti determinazioni, i report predisposti dal responsabile: 
+• della funzione Investimenti (i) sulle risultanze dell’attività di investimento del fondo anche in 
+termini di efficacia e adeguatezza della gestione delegata, (ii) sull’attuazione della politica di 
+investimento e sull’operato dei soggetti incaricati della gestione delle risorse del fondo , (iii) 
+sui costi di gestione, sul rapporto rischio/rendimento e sulla performance attribution; 
+• della funzione di Risk Management, suddiviso per comparti, sulla varia bilità dei rendimenti 
+medi, sulla duration dei titoli obbligazionari, sulla velocità di rotazione del patrimonio  e sulla 
+tracking error volatility; 
+• esercita le funzioni previste nell’ambito del sistema dei controlli interni della Compagnia.  
+Il Direttore Fi nanziario, con il contributo  del responsabile della funzione Investimenti, sentito anche il 
+responsabile della funzione Risk Management formula all’Amministratore Delegato proposte motivate in materia 
+di: 
+• politica di investimento del fondo, comprese le lin ee guida in materia di esercizio dei  diritti di voto 
+spettanti al fondo medesimo, e le successive eventuali modifiche;
+=== pagina 12 ===
+12 
+ 
+Internal 
+• affidamento in gestione (e revoca) a terzi delle risorse del fondo; 
+• procedure interne di controllo della gestione finanziaria del fondo. 
+Il Direttore Finanziario, inoltre: 
+• esamina annualmente, proponendo, se del caso, all’Amministratore Delegato di adottare le conseguenti 
+determinazioni, i report predisposti dal responsabile: 
+• della funzione Investimenti (i) sulle risultanze dell’attività di investimento del fondo anche in 
+termini di efficacia e adeguatezza della gestione delegata, (ii) sull’attuazione della politica di 
+investimento e sull’operato dei soggetti incaricati della gestione delle risorse del fondo , (iii) 
+sui costi di gestione, sul rapporto rischio/rendimento e sulla performance attribution; 
+• della funzione di Risk Management, suddiviso per comparti, sulla variabilità dei rendimenti 
+medi, sulla duration dei titoli obbligazionari, sulla velocità di rotazione del patrimonio  e sulla 
+tracking error volatility; 
+• esercita le funzioni previste nell’ambito del sistema dei controlli interni della Compagnia.  
+Le risultanze dell’attività di investimento del FPA, anche in termini di efficacia e adeguatezza della gestione, sono 
+valutate trimestralmente in un incontro tecnico tra principali soggetti coinvolti.  
+Il responsabile della funzione Investimenti: 
+• contribuisce alla formulazione da parte del Direttore Finanziario di proposte motivate in materia di: (i) 
+politica di investimen to del fondo, fornendo analisi sull’andamento dei mercati e valutazioni sulla 
+coerenza fra le azioni di investimento intraprese o da intraprendere e gli obiettivi del fondo; (ii)  
+affidamento in gestione (e revoca) a terzi delle risorse del fondo; 
+• verifica la gestione finanziaria del fondo trasmette ndo annualmente alle competenti funzioni aziendali e 
+del fondo i report (i) sulle risultanze dell’attività di investimento del fondo anche in termini di efficacia e 
+adeguatezza della gestione delegata, (i i) sull’attuazione della politica di investimento e sull’operato dei 
+soggetti incaricati della gestione delle risorse del fondo , (iii) sui costi di gestione, sul rapporto 
+rischio/rendimento e sulla performance attribution; 
+• propone al Direttore Finanziario l’adozione e l’aggiornamento delle procedure interne di controllo della 
+gestione finanziaria del fondo; 
+Il responsabile della funzione di Risk Management: 
+• concorre alla definizione (i) della politica di investimento del fondo e delle successive eventuali 
+modifiche, con particolare riferimento alle metodologie di valutazione dei rischi ed alla fissazione dei 
+limiti qualitativi e quantitativi da assegnare al Gestore Delegato, (ii) delle procedure interne di controllo 
+della gestione finanziaria del fondo; 
+• verifica la gestione finanziaria del fondo trasmettendo annualmente al Consiglio di Amministrazione 
+nonché alle competenti funzioni aziendali e del fondo il report, suddiviso per comparti, sulla variabilità 
+dei rendimenti medi, sulla duration dei titoli obbligazionari , sulla velocità di rotazione del patrimonio  e 
+sulla tracking error volatility; 
+• esercita le ulteriori funzioni previste nell’ambito del sistema di controllo interno della Compagnia.  
+Il Gestore Delegato esercita l’attività di investimento del fondo con l e finalità, le modalità e i limiti descritti nel 
+presente documento.  
+La Banca Depositaria svolge le attività previste dalla normativa vigente e quelle ulteriori stabilite 
+contrattualmente dal fondo.  Su richiesta, trasmette agli organi del fondo e al responsabile dell e funzioni
+=== pagina 13 ===
+13 
+ 
+Internal 
+Investimenti e Risk Manage ment della Compagnia ogni informazione ritenuta utile o necessaria per l’esercizio 
+delle attività di controllo della gestione finanziaria del fondo. 
+ 
+6. Il sistema di controllo della gestione finanziaria  
+Il sistema di controllo della gestione finanziaria del fondo è costituito dall’insieme di regole, strutture 
+organizzative e processi volti ad assicurare che l’attività di investimento posta in essere risulti coerente con gli 
+obbiettivi di politica finanziaria definiti. Esso si basa sul monitoraggio: 
+a) dei costi di gestione e di negoziazione sostenuti ivi compresi quelli degli OICR e, per quest’ultimi, della loro 
+incidenza sulla redditività; 
+b) della popolazione di riferimento del fondo;   
+c) delle procedure di impostazione e attuazione della politica di investimento;  
+nonché, a livello del singolo comparto del fondo, sul controllo:  
+1) della variabilità del rendimento medio; 
+2) della duration dei titoli obbligazionari; 
+3) della velocità di rotazione del patrimonio; 
+4) della tracking error volatility; 
+5) degli altri limiti qualitativi e quantitativi indicati ai par. 4a) e 4b) del presente documento; 
+6) del rapporto rischio/rendimento e della performance attribution; 
+I costi di negoziazione (impliciti ed espliciti) dei titoli sono annualmente monitorati dalla Funzione Investimenti 
+con la metodologia illustrata nel manuale operativo del fondo. Analogamente, viene verificata la coerenza dei 
+costi di gestione addebitati d agli OICR con le previsioni regolamentari  e l’incidenza dei predetti costi sulla 
+redditività degli OICR. 
+Il monitoraggio della popolazione di riferimento, riferito al livello medio delle contribuzioni , all’andamento delle 
+nuove adesioni, all’andamento delle uscite  ed al numero dei reclami viene annualmente eseguito dall e Direzione 
+L&S , Operations e uffici Reclami ognuno per i propri ambiti. 
+La verifica delle procedure adottate per l’impostazione e l’attuazione della politica di investimento 
+viene effettuata dalle strutture di controllo interno della forma pensionistica per quanto di 
+competenza. 
+Gli indicatori di cui ai precedenti punti da 1) a 4), a livello del singolo comparto del fondo, sono monitorati 
+annualmente dalla funzione di Risk Management  sulla base della metodologia di calcolo illustrata nel manuale 
+operativo del fondo. 
+I limiti qualitativi e quantitativi di cui al par. 4a) del presente documento, sono monitorati annualmente dalla 
+Funzione Investimenti, mentre quelli (di carattere normati vo) indicati al  par 4b) sono monitorati dalla Banca 
+Depositaria secondo le modalità indicate nella convenzione di Banca Depositaria.  
+Le anali si di rischio/rendimento e performance attribution  sono svolte dalla Funzione Investimenti con cadenza 
+annuale secondo la metodologia illustrata nel manuale operativo del fondo.  
+Nell’ambito del sistema di controllo della gestione finanziaria del fondo, assume un rilievo particolare 
+l’attendibilità e l’integrità delle informazioni utilizzate. Nel manuale operativo del fondo sono indicati:
+=== pagina 14 ===
+14 
+ 
+Internal 
+- i presidi posti in essere per fronteggiare i rischi operativi in capo alle funzioni interne e esterne di 
+trattamento dei dati; 
+- modalità e frequenza della riconciliazione dei dati della Banca Depositaria con qu elli del Gestore 
+Delegato, dell’outsourcer amministrativo e della funzione Investimenti 
+ 
+Completano, infine, il sistema di controllo della gestione finanziaria del fondo , le attività di controllo svolte dal 
+Responsabile e dall’Organismo di Sorveglianza del fondo sulla base delle previsioni normative e regolamentari 
+vigenti. 
+ 
+7. Principi e modalità di attuazione inerenti l’integrazione dei rischi di soste nibilità 
+Introduzione 
+L'Unione Europea ha lanciato un ambizioso Piano d'Azione Sostenibile (sulla sostenibilità ambientale e sulla 
+finanza sostenibile) per sostenere la realizzazione degli obiettivi del Green Deal europeo convogliando gli 
+investimenti privati nella transizione verso un'economia climaticamente neutrale, resiliente al clima, efficiente 
+sotto il profilo delle risorse. 
+Nell'ambito di questo piano d'azione, nel novembre 2019 è stato emanato il Regolamento (UE) 2019/2088 
+sull'informativa relativa alla sostenibilità nel settore dei servizi finanziari (c.d. "SFDR" Sustainable Finance 
+Disclosure Regulation). Questo introduce nuove regole sull'informativa relativa agli investimenti sostenibili ed ai 
+rischi di sostenibilità, applicabili dal 10 marzo 2021. 
+Il presente documento fornisce le informazioni, a livello di Compagnia, relative alle politich e sul rischio di 
+sostenibilità e agli impatti negativi sulla sostenibilità richiesti dagli articoli 3 e 4 della SFDR integrati a norma dal 
+Regolamento Delegato (UE) 2022/1288 della Commissione Europea del 6 aprile 2022, che si applica dal primo 
+gennaio 2023. 
+Ai fini della SFDR: 
+• I "rischi per la sostenibilità" sono un evento o condizione ambientale, sociale o di governance che, se si 
+verifica, potrebbe causare un impatto negativo effettivo o potenziale sul valore di un investimento ed i 
+"fattori di sostenibi lità" sono relativi alle questioni sociali e dei dipendenti, al rispetto dei diritti umani, 
+alle questioni anticorruzione e anti-concussione. 
+• I "Principali impatti negativi" o "PAI" fanno riferimento agli impatti delle decisioni di investimento che 
+possono provocare effetti negativi sostanziali nell’ambito di uno qualsiasi dei fattori di sostenibilità sopra 
+menzionati. 
+Disclaimer: in un contesto di recente attuazione nell'Unione Europea dei requisiti normativi in materia di finanza 
+sostenibile, che si prevede miglioreranno nei prossimi anni, l'approccio presentato è soggetto a modifiche.  
+ 
+Scopo di questo documento 
+AXA MPS Assicurazioni Vita S.p.A. ha implementato una serie di politiche e processi d'investimento, che mirano a 
+garantire un approccio coerente all'integrazione dei fattori ambientali, sociali e di governance ("ESG").
+=== pagina 15 ===
+15 
+ 
+Internal 
+Le informazioni fornite nel presente documento si riferiscono ad AXA MPS Assicurazioni Vita S.p.A. che, in qualità 
+di operatore del mercato finanziario, è soggetta agli obblighi di informativa SFDR. 
+ 
+ 
+Approccio all'Investimento Responsabile 
+Il portafoglio di investimenti di AXA MPS Assicurazioni Vita S.p.A., a partire da questa data, segue la strategia di 
+Investimento Responsabile del Gruppo AXA descritta di seguito nel presente d ocumento. 
+Nel suo rapporto contrattuale con AXA Investment Managers (AXA IM), AXA MPS Assicurazioni Vita S.p.A. richiede 
+che AXA IM segua i principi della politica di Investimento Responsabile del Gruppo AXA, in particolare 
+incorporando progressivamente i fattori ESG nella gestione. 
+AXA MPS Assicurazioni Vita S.p.A. è attiva negli Investimenti Responsabili (o RI, Responsible Investment) da diversi 
+anni e ritiene che essere un'azienda responsabile sia cruciale per raggiungere il successo a lungo termine. Si 
+ritiene che i fattori ESG possano influenzare non solo la gestione dei portafogli di investimento di tutte le classi di 
+attivi (a titolo di esempio azioni, obbligazioni, titoli di Stato, ecc.), di tutti i settori, dei diversi emittenti e diversi  
+paesi, ma anche una serie di interessi che impattano i clienti e altri stakeholders.  
+La filosofia di investimento della Compagnia si basa sulla convinzione che la combinazione di "fattori non 
+finanziari" con i criteri finanziari tradizionali aiuterà a costruire port afogli più stabili che performino meglio a 
+lungo termine. L'approccio non finanziario è diventato una necessità per diverse ragioni:  
+1. è determinante per monitorare le società o le attività inserite nei portafogli che causano un'esposizione a livelli 
+elevati di rischio ESG, che in ultima analisi inciderebbero sulla performance finanziaria;  
+2. si concentra sul fatto che le aziende abbiano implementato le migliori pratiche di gestione dell'impatto 
+ambientale, sociale e di governance, e che le loro pratiche respons abili le preparino meglio, a nostro avviso, ad 
+affrontare le grandi sfide del futuro, con conseguente miglioramento delle performance degli asset in relazione ai 
+fattori ESG; e 
+3. consente di migliorare le prestazioni attraverso un dialogo attivo con le azien de sulla gestione dei problemi ESG 
+sugli investimenti, limitando l'esposizione al rischio reputazionale e/o coinvolgendo i principali stakeholder legati 
+alle nostre attività di investimento nella nostra strategia ESG. 
+ 
+Doppia materialità dei fattori ESG 
+Come evidenziato dalla direttiva sulle relazioni non finanziarie (2014/95/UE), un gran numero di fattori ESG può 
+essere analizzato da due prospettive complementari: 
+• impatto sullo sviluppo, sulla performance o sulla posizione di un'azienda, nonché sul valore finanziario di un 
+investimento, in senso lato (ovvero, materialità "finanziaria"); 
+• impatti esterni delle attività della società o di investimento sui fattori ESG (ovvero, materialità "ambientale, 
+sociale e di governance") – vedere di seguito la sezione “Rischi di Sostenibilità”.
+=== pagina 16 ===
+16 
+ 
+Internal 
+ 
+Le politiche e i processi di investimento responsabile di AXA MPS Assicurazioni Vita S.p.A. affrontano entrambi 
+questi impatti e il nostro quadro di riferimento per gli Investimenti Responsabili è organizzato attorno a tre 
+pilastri, descritti di seguito: 
+1. Ricerca quantitativa e qualitativa ESG; 
+2. Politiche di esclusione; 
+3. Politiche di gestione. 
+ 
+L’approccio di AXA MPS Assicurazioni Vita S.p.A. al Rischio di Sostenibilità [Articolo 3]  
+Politiche di esclusione e punteggio ESG 
+AXA MPS Assicurazioni Vita S.p.A., beneficiando dell’esperienza dell’asset manager del Gruppo AXA, utilizza un 
+approccio ai rischi di sostenibilità che deriva dall'integrazione di criteri ESG per i processi di ricerca e investimento 
+che si basano in particolare su: 
+• politiche di esclusione settoriale e normativa; 
+• metodologie di punteggio ESG proprietarie. 
+Queste politiche e metodologie sono descritte ulteriormente di seguito. Riteniamo che contribuiscano alla 
+gestione dei rischi per la sostenibilità in due modi complementari: 
+• le politiche di esclusione mirano ad escludere qualsiasi attività esposta ai più gravi rischi per la sostenibilità 
+identificati nel corso del nostro processo decisionale di investimento; 
+• l'utilizzo di punteggi ESG nel processo decisional e di investimento consente ad AXA MPS Assicurazioni Vita S.p.A. 
+di concentrarsi su asset con una performance ESG complessivamente migliore e minori rischi di sostenibilità o di 
+accertare il livello attuale di performance ESG dei nostri asset e di migliorar lo nel tempo. 
+A complemento di questi approcci globali, AXA MPS Assicurazioni Vita S.p.A., beneficiando dell’esperienza 
+dell’asset manager del Gruppo AXA, ha integrato specifiche valutazioni del rischio di sostenibilità all'interno dei 
+propri processi di i nvestimento per alcuni portafogli per i quali potrebbero non esistere dati di mercato o 
+specifiche metodologie di punteggio ESG, come ad esempio all'interno di specifiche classi di attivi non quotate.  
+Per le UL interne articolo 8, i rischi per la sostenibi lità sono integrati nelle decisioni di investimento includendo un 
+processo di due diligence ESG come parte del processo di due diligence dell’asset manager del Gruppo AXA che si 
+applica alla selezione del gestore del fondo OICVM e alla selezione dei fondi per i prodotti di fondi di fondi. 
+Per le UL esterne, la Società fornirà il collegamento al sito web del gestore del fondo OICVM per verificare la 
+politica ESG che ogni società di gestione del risparmio avrà implementato.
+=== pagina 17 ===
+17 
+ 
+Internal 
+ 
+Politiche di esclusione settoriale 
+Le politiche di esclusione settoriale e normativa sono uno dei pilastri dell'approccio di AXA MPS Assicurazioni Vita 
+S.p.A. ai rischi di sostenibilità e PAI. Gli elenchi di esclusione si basano su dati forniti da fornitori terzi e mirano a 
+consentire ad A XA MPS Assicurazioni Vita S.p.A. di escludere dal suo universo investibile attività esposte a rischi 
+significativi per la sostenibilità o che possono avere un impatto negativo significativo sui fattori di sostenibilità.  
+Le nostre politiche di esclusione settoriale si concentrano sui seguenti fattori ESG: 
+• Ambientale (Environmental; E): clima (estrazione del carbone e produzione di energia basata sul carbone; 
+produzione di sabbie bituminose ed attività che utilizzano energia prodotta da sabbie bituminose), biodiversità 
+(produzione di olio di palma) o soft commodity (derivati di commodities alimentari);  
+• Sociale (S): salute (produttori di tabacco), lavoro, società e diritti umani (violazioni di norme e standard 
+internazionali1; produzione di armi controvers e; produttori di armi al fosforo bianco; esclusione di investim enti in 
+titoli emessi da Paesi in cui si osservano gravi violazioni dei diritti umani);  
+• Governance (G): etica aziendale (gravi controversie, violazioni di norme e standard internazionali), co rruzione 
+(gravi controversie, violazioni di norme e standard internazionali). 
+Nel complesso, una significativa percentuale degli assets di AXA MPS Assicurazioni Vita S.p.A. viene sottoposta 
+alle esclusioni settoriali relative alle seguenti politiche di AXA  sugli Investimenti Responsabili, ulteriormente 
+dettagliate nella tabella seguente: 
+• Politica sul carbone e politica sul petrolio e gas del Gruppo AXA 
+• Politica sulla conversione degli ecosistemi e sulla deforestazione del Gruppo AXA  
+• Politica sui Diritti umani del Gruppo AXA 
+• Politica sulle armi controverse del Gruppo AXA 
+• Soft commodities 
+• Tabacco 
+La politica sul carbone, la politica sul petrolio e sul gas e la politica sulla conversione degli ecosistemi e la 
+deforestazione del Gruppo AXA sono attual mente in fase di revisione e si prevede che saranno aggiornate nel 
+corso del 2023. 
+Maggiori dettagli su queste politiche di esclusione e sul loro ambito di applicazione sono disponibili nella sezione 
+dedicata del. Sito web del Gruppo AXA: https://www.AXA.com/ 
+ 
+Metodologie del punteggio ESG 
+Una delle sfide affrontate dai partecipanti ai mercati finanziari quando integrano i rischi per la sostenibilità o i PAI 
+nel loro processo di investimento è la disponibilità limitata di dati rilevanti, infatti tali dati n on sono ancora 
+sistematicamente divulgati dagli emittenti o, se divulgati dagli emittenti, possono essere incompleti o possono 
+ 
+1 I Principi del Global Compact delle Nazioni Unite, le Convenzioni dell'Organizzazione Internazionale del Lavoro (OIL), 
+le Linee guida dell'OCSE per le imprese multinazionali e i Principi guida delle Nazioni Unite su imprese e diritti umani 
+(UNGP).
+=== pagina 18 ===
+18 
+ 
+Internal 
+seguire metodologie differenti. La maggior parte delle informazioni utilizzate per stabilire gli elenchi di esclusione 
+o determinare i fattori ESG si basano su dati storici, che potrebbero non essere completi o accurati o potrebbero 
+non riflettere completamente la futura performance ESG o i rischi degli investimenti.  
+Le metodologie per le politiche di esclusione e il punteggio ESG a pplicate da AXA MPS Assicurazioni Vita S.p.A. 
+vengono aggiornate, se necessario, per tenere conto dei cambiamenti nella disponibilità dei dati o delle 
+metodologie utilizzate dagli emittenti o dai vari framework di riferimento settoriali o specifici di alcu ni subsettori 
+per divulgare le informazioni relative a ESG, ma non vi è garanzia che tali metodologie ESG riusciranno a cogliere 
+tutti i fattori ESG. 
+Per le classi di attivi tradizionali (emittenti societari e sovrani): 
+AXA MPS Assicurazioni Vita S.p.A. si affida ad AXA IM che, per la maggior parte dei suoi asset, utilizza metodologie 
+di scoring ESG proprietarie e di terzi per valutare gli emittenti. 
+• Modello di valutazione ESG Q2: AXA IM ha recentemente adottato un modello di scoring ESG di un fornitore 
+esterno, abbinandolo ad ulteriori analisi proprie. Questo nuovo e migliorato approccio qualitativo e quantitativo, 
+intitolato Q² (Qual and Quant), offre una maggiore copertura, nonché un'analisi perfezionata e fornisce un 
+punteggio strutturato. Utilizzando pe r gli emittenti societari il modello di punteggio ESG di MSCI come punto di 
+partenza, la metodologia Q² consente di aumentare la copertura. Nel caso in cui MSCI non fornisca un rating per 
+un emittente, gli analisti ESG di AXA IM produrranno un'analisi ESG documentata, che a sua volta sarà trasformata 
+in un punteggio ESG quantitativo (seguendo la metodologia di aggregazione dei pilastri di MSCI e la 
+normalizzazione dei punteggi). Nel caso in cui MSCI copra un emittente, ma gli analisti ESG di AXA IM non sono  
+d'accordo con la valutazione, (ad esempio perché la valutazione si basa su dati scarsi e/o obsoleti), è possibile 
+sottoporre un'analisi ESG documentata alla revisione dell'ESG Assessment and Review Committee (ESARC), 
+presieduto dal Responsabile della Rice rca di AXA IM; se l'ESARC convalida l'analisi, questa sarà trasformata in un 
+punteggio ESG quantitativo e sostituirà il punteggio MSCI esistente. 
+• Modello di scoring MSCI per le società: 
+o Nella metodologia di attribuzione del punteggio agli emittenti societa ri, la gravità delle controversie viene 
+valutata e monitorata da MSCI nel suo modello su base continuativa per assicurarsi che i rischi più rilevanti si 
+riflettano nel punteggio ESG finale. Le controversie di elevata gravità determinano forti penalizzazion i sui 
+punteggi dei sottofattori e, in ultima analisi, sui punteggi ESG; 
+o I dati utilizzati in queste metodologie includono le emissioni di gas serra (GHG), lo stress idrico, la salute e la 
+sicurezza sul lavoro, gli standard lavorativi della catena di fornit ura, l'etica aziendale, il rischio di sicurezza 
+energetica, il benessere. AXA IM valuta gli emittenti in base a criteri ESG (società e soggetti sovrani) sulla base di 
+dati quantitativi e/o valutazioni qualitative derivanti da ricerche interne ed esterne;  
+o Questi punteggi ESG forniscono una visione standardizzata della performance degli emittenti sui fattori ESG e 
+consentono di promuovere i fattori ambientali e sociali e di integrare ulteriormente i rischi e le opportunità ESG 
+nelle decisioni di investimento. 
+Per le classi di attivi alternativi, è stata sviluppata una serie specifica di metodologie che utilizzano valutazioni sia 
+quantitative che qualitative in cui spesso ci si ritrova di fronte a una significativa mancanza di dati affidabili, 
+accessibili e per tinenti. Ciò include (i) la valutazione dei rischi di sostenibilità attraverso la due diligence ESG e/o 
+(ii) l'uso di metodologie ESG proprietarie (tra cui il punteggio ESG o il monitoraggio dei fattori ESG).  
+ 
+L’approccio di AXA MPS Assicurazioni Vita S.p. A. agli impatti avversi sulla sostenibilità (PAI, Principal Adverse 
+Impacts) [Articolo 4] 
+Descrizione dei principali impatti negativi sui fattori di sostenibilità e piani d'azione
+=== pagina 19 ===
+19 
+ 
+Internal 
+Come già accennato, AXA MPS Assicurazioni Vita S.p.A. ha sviluppato diversi framework che mirano a catturare i 
+PAI rilevanti per ogni principale tipologia di emittente, che sono dettagliati nell'Appendice 1 (come disposto dal 
+Regolamento Delegato (UE) 2022/1288), la quale verrà pubblicata entro il 30 giugno di o gni anno. 
+Piani d'azione relativi alla considerazione dei PAI. 
+A livello di Compagnia: 
+Nel 2019, il Gruppo AXA ha aderito alla "Net Zero Asset Owner Alliance", una coalizione di investitori istituzionali 
+che si impegnano a convertire i propri investimenti in emissioni di gas serra "nette" entro il 2050 per allineare i 
+propri portafogli a una traiettoria di 1,5°C. 
+A livello di prodotto: 
+AXA MPS Assicurazioni Vita S.p.A. monitora annualmente il punteggio ESG complessivo e le emissioni di CO2 delle 
+sue partecipazioni, nonché una selezione di indicatori ESG (compresi quelli relativi al clima) a seconda della classe 
+di attivi. 
+ 
+Identificazione e prioritizzazione dei PAI 
+Dall'inizio del 2023, ai fini della nostra dichiarazione PAI aggregata a livello di Compagnia e per la rendicontazione 
+a livello di prodotto per le nostre Gestioni Separate (SFDR Articolo 8), AXA MPS Assicurazioni Vita S.p.A. si basa 
+sulla seguente suddivisione: 
+• classi di attivi tradizionali (società quotate e soggetti sovrani): dati forniti da S&P  Global Trucost; 
+• immobili detenuti direttamente: dati raccolti direttamente dalle indagini;  
+• I Fondi e le Unit Linked (che rappresentano circa il 9% degli asset totali) non sono coperti nel report 2023 
+in Appendice 1: stiamo identificando un fornitore di dati per il report del prossimo anno. 
+Inoltre, AXA MPS Assicurazioni Vita S.p.A. utilizza le già citate esclusioni settoriali del Gruppo AXA e le 
+metodologie di punteggio ESG (descritte sopra in "Approccio di AXA MPS Assicurazioni Vita S.p.A. al rischio di 
+sostenibilità") per affrontare i PAI dei suoi investimenti. 
+Le esclusioni settoriali sono legate a settori industriali specifici che sono stati identificati come aventi alcuni dei 
+PAI più significativi, come l'impatto dell'olio di palma sulla biodiversità, o del carbone e delle sabbie bituminose 
+sulle emissioni di carbonio. Queste esclusioni settoriali rappresentano, per il Gruppo AXA, la massima priorità per 
+evitare il rischio PAI ad esse associato. 
+Le nostre metodologie di punteggio ESG vengono applicate a nche per consentire un monitoraggio delle priorità 
+dei PAI, che sono rilevanti per ogni settore industriale e per ogni asset class dei nostri investimenti. I PAI sono 
+generalmente identificati e valutati anche attraverso KPI ESG come le emissioni di gas se rra o il rispetto dei diritti 
+umani e del lavoro. 
+Per le classi di attivi tradizionali, come descritto sopra, AXA MPS Assicurazioni Vita S.p.A. utilizza la metodologia 
+AXA IM Q2, applicata a tutti gli emittenti societari e sovrani. Si prendono in considera zione anche le controversie 
+gravi, che riflettono eventi in cui l'emittente ha avuto un impatto negativo sostanziale sui fattori di sostenibilità, 
+sociali o di governance (metodologia “Controversies Research” di Sustainalytics). Le controversie più rilevan ti
+=== pagina 20 ===
+20 
+ 
+Internal 
+comportano automaticamente un punteggio ESG più basso, con conseguente esclusione degli emittenti 
+interessati dagli investimenti2. 
+Per alcune classi di attivi alternativi, come descritto in precedenza, AXA IM ha sviluppato metodologie di 
+punteggio ESG,  che includono l'identificazione di PAI rilevanti. Sebbene l'attuale capacità di AXA IM di valutare 
+questi impatti possa essere limitata dall'assenza o dalla parziale disponibilità e qualità di informazioni, dati e 
+indicatori, AXA IM continuerà a sviluppare ulteriormente questi processi per raccogliere, quando disponibili, 
+informazioni e dati sui PAI degli investimenti. 
+L'elenco dei fattori ESG e le fonti dei dati vengono periodicamente rivisti in merito ai PAI e alla qualità ESG degli 
+emittenti. C onsiderata la complessità del processo di modellizzazione ESG possono comunque esser presenti 
+elementi aleatori e di incertezza nella considerazione dei PAI nel processo decisionale di investimento.  
+Sebbene venga applicato un rigoroso processo di selezione  dei fornitori terzi di dati, con l'obiettivo di ottenere 
+livelli adeguati di qualità, i processi e le metodologie ESG proprietarie potrebbero non cogliere adeguatamente 
+tutti i rischi di sostenibilità e, di conseguenza, la valutazione dei PAI sul rendimen to del prodotto potrebbe non 
+essere del tutto accurata o eventi di sostenibilità imprevisti potrebbero influire negativamente sulla performance 
+del portafoglio. 
+ 
+Politiche di impegno (engagement) 
+In qualità di azionista e obbligazionista, il Gruppo AXA può  impegnarsi con il management delle società in cui 
+investe, per migliorare la governance delle stesse. Tale impegno viene svolto direttamente dal Gruppo AXA o da 
+AXA Investment Managers (AXA IM) per conto del Gruppo AXA.  
+Il team di ricerca sul Credito del Gruppo AXA conduce regolarmente colloqui individuali con il top management 
+degli emittenti in cui il Gruppo AXA è maggiormente esposto. Questi colloqui danno al “Credit Research Team” del 
+Gruppo AXA l'opportunità di esaminare e discutere direttamente, anch e in ambito ESG, la strategia degli 
+emittenti. 
+Inoltre, AXA IM, in qualità di gestore dei fondi del Gruppo AXA, si impegna direttamente con le società partecipate 
+in settori chiave. 
+Di seguito è riportata una panoramica della strategia di engagement, quand o viene svolta per conto del Gruppo 
+AXA: 
+AXA IM applica due diverse strategie di coinvolgimento: "dialogo di sostenibilità" e "engagement con obiettivi":  
+• Definizione degli obiettivi di engagement: AXA IM distingue il dialogo regolare condotto con le società partecipate 
+in merito alle loro pratiche di sostenibilità (denominato "dialogo di sostenibilità") dall'impegno attivo con obiettivi 
+specifici e identificati (denominato "engagement con obiettivi"):  
+o Il dialogo di sostenibilità è fondamentale per ins taurare e sviluppare un rapporto 
+costruttivo con l'azienda, oltre che per acquisire conoscenze sulle sue politiche e pratiche. 
+Tuttavia, anche se può essere utile per un futuro potenziale impegno mirato, questo tipo di 
+dialogo è meno efficace e mira principalmente a raccogliere informazioni; 
+ 
+2 Tutti gli emittenti al di sotto di 1,43 (su 10) nella metodologia Q 2.
+=== pagina 21 ===
+21 
+ 
+Internal 
+o L'engagement con obiettivi mira ad influenzare il cambiamento a livello delle società 
+partecipate. AXA IM definisce obiettivi mirati relativi ai principali ESG e il calendario che 
+ritiene appropriato per monitorare i progressi di ciascuno degli obiettivi definiti; 
+o La politica di engagement di AXA IM, combinata con la sua politica di Corporate Governance 
+e di voto, consente a AXA MPS Assicurazioni Vita S.p.A. di ridurre i PAI dell’emittente.  
+• Governance del processo di engagement: 
+AXA IM condivide all'inizio gli obiettivi con le società partecipate e ne traccia e registra sistematicamente i 
+progressi nel modo descritto di seguito. Qualora vengano individuate inefficienze con il "dialogo di sostenibilità", 
+AXA IM potrà fare escalation o richiedere un approccio più formale tramite "Engagement con obiettivi".  
+• Monitoraggio, escalation e conclusione dell'engagement: AXA IM ha istituito un sistema per tracciare i progressi 
+del dialogo e dell'engagement con le società partecipate nelle classi di attivi tradizionali. 
+o Ogni volta che viene registrata un'interazione con una società, viene caricato un rapporto di 
+engagement che viene reso visibile a tutte le piattaforme di investimento di AXA IM.  
+o L'escalation della discussione attraverso  altri mezzi e/o ad altri livelli gerarchici sono ulteriori 
+opzioni. Una strategia di escalation viene pertanto definita caso per caso e può comprendere 
+una o più delle seguenti azioni: 
+▪ Rivolgersi a un livello superiore della gerarchia aziendale; 
+▪ Collaborazioni con altri investitori (anche attraverso dichiarazioni pubbliche congiunte 
+in alcuni casi); 
+▪ Votazioni contrarie nelle delibere dell'assemblea generale informando, se possibile, le 
+società partecipate anticipatamente e fornendo le motivazioni che le ha nno 
+determinate; 
+▪ Partecipazione alla preparazione delle delibere per l’Assemblea generale; o  
+▪ Disinvestimento. 
+ 
+Il programma di engagement di AXA IM è strutturato con tappe, risultati e obiettivi raggiungibili, con lo scopo di 
+realizzare un cambiamento. AXA IM riconosce che il cambiamento dei comportamenti culturali raramente avviene 
+da un giorno all'altro. Alcune aziende potrebbero essere più recettive di altre. Nella maggior parte dei casi, 
+saranno necessarie diverse interazioni prima di poter vedere dei progressi concreti. 
+AXA IM si impegna anche con le autorità di regolamentazione e gli organi istituzionali al fine di garantire che la 
+politica sostenga le tematiche relative alla sostenibilità e agli investimenti responsabili. In particolare, l'approccio 
+di AXA IM mira a far sì che il quadro normativo in via di sviluppo promuova un'effettiva comparabilità, trasparenza 
+e solidità degli approcci ESG applicabili al settore finanziario. 
+L'implementazione e il successo delle iniziative di coinvolgimento in tutte  le classi di attivi tradizionali di AXA IM 
+sono supervisionati dal Comitato di monitoraggio e coinvolgimento ESG del Gruppo AXA.  
+ 
+Riferimenti a standard internazionali 
+In quanto parte del Gruppo AXA, AXA MPS Assicurazioni Vita S.p.A. cerca di rispettare e aderire a diversi principi, 
+standard e codici, considerati best practice nel mercato, che regolano le politiche e i processi aziendali:  
+• Il Gruppo AXA è membro del Globa l Compact delle Nazioni Unite (UN GCP) dal 2003 e segue questi principi come 
+parte della sua politica di Investimenti Responsabili;
+=== pagina 22 ===
+22 
+ 
+Internal 
+• il Gruppo AXA è membro dei Principi per l'Investimento Responsabile delle Nazioni Unite (UN PRI)  , dal maggio 
+2007; 
+• il Gruppo AXA è membro della Task Force on Climate-Related Financial Disclosure (TCFD), dal 2017. 
+ 
+Confronto storico 
+Il confronto storico sarà pubblicato per la prima volta nel giugno 2024.  
+ 
+SFDR - Gestioni Separate 
+Per i prodotti investiti in gestioni separate, la compagnia applica, nei suoi processi di investimento, un approccio 
+che incorpora le valutazioni dei rischi di sostenibilità, derivate dall'integrazione dei criteri ESG (Ambiente, Sociale 
+e Governance). Dal 2017 la Compagnia AXA MPS Assicurazioni Vita S. p.A., beneficiando dell’esperienza dell’ Asset 
+Manager del gruppo AXA s.a, ha implementato un framework per integrare i rischi di sostenibilità (vedi nota 1) 
+nelle decisioni di investimento, basate sui fattori di sostenibilità (vedi nota 2), che si fondano  in particolare su (i) 
+esclusioni settoriali e normative e (ii) metodologie di scoring ESG proprietarie del Gruppo Axa s.a..  
+• Gli investimenti nelle gestioni separate recepiscono le seguenti esclusioni settoriali e normative: produzione di 
+armi controverse, derivati su commodities alimentari (“soft”), produzione di olio di palma, produzione di sabbie 
+bituminose e attività che utilizzano energia prodotta da sabbie bituminose, manifattura del tabacco. Tutte queste 
+politiche di esclusione mirano ad evitare q ualsiasi attività esposta ai più gravi rischi per la sostenibilità identificati 
+nel corso del processo decisionale di investimento della compagnia  
+• Il processo decisionale di investimento delle gestioni separate, si basa anche su regole di "standard mini mi" ESG 
+e su valutazioni relative alle controversie al fine di esaminare ed escludere gli investimenti sottostanti che 
+potrebbero risentire di performance negative. Una delle sfide affrontate dagli operatori dei mercati finanziari per 
+integrare i rischi pe r la sostenibilità nel loro processo di investimento è la disponibilità limitata di dati rilevanti a 
+tale scopo. Tali dati non sono ancora sistematicamente divulgati dagli emittenti, possono essere incompleti e una 
+volta resi pubblici possono seguire metod ologie differenti. La maggior parte delle informazioni sui fattori ESG si 
+basa su dati storici e potrebbe non riflettere la futura valutazione ESG o i rischi degli investimenti sottostanti. Le 
+metodologie ESG applicate dalla Compagnia vengono regolarmente aggiornate per tenere conto dei cambiamenti 
+nella disponibilità dei dati o delle metodologie utilizzate dall'emittente per divulgare le informazioni sui fattori 
+ESG, ma non vi è alcuna garanzia che le metodologie della compagnia riusciranno a catturare tut ti questi fattori. 
+Questi punteggi ESG forniscono una visione standardizzata e olistica della performance degli investimenti 
+sottostanti le gestioni separate e consentono alla compagnia di integrare ulteriormente i rischi ESG nel proprio 
+processo decisionale di investimento. In tutto il Gruppo AXA: (i) il tasso di copertura dei punteggi ESG all'interno 
+del portafoglio è ca. 80%, calcolato sulla base della media ponderata del mix dell’asset allocation e (ii)   ca. Il 20% 
+degli investimenti sottostanti rimane nti non è attualmente coperto dai punteggi ESG a causa dei limiti della 
+metodologia e della qualità dei dati. 
+Inoltre, sono messe in atto procedure di voto ed ingaggio che tengono conto dei principali rischi e opportunità di 
+sostenibilità e mirano a promuovere queste caratteristiche presso le società in cui si investe. 
+Data questa integrazione dei rischi per la sostenibilità nei processi di investimento della compagnia, i probabili 
+impatti dei rischi per la sostenibilità sui rendimenti delle gestioni separa te sono attualmente stimati bassi. 
+Note:
+=== pagina 23 ===
+23 
+ 
+Internal 
+1) Ai sensi del Regolamento (UE) 2019/2088 del 27 novembre 2019 sull'informativa relativa alla sostenibilità nel 
+settore dei servizi finanziari (e successive integrazioni "SFDR"), per «rischio di sostenibilità» si i ntende un evento o 
+una condizione di tipo ambientale, sociale o di governance che, se si verifica, potrebbe provocare un significativo 
+impatto negativo sul valore dell’investimento 
+2) In conformità con la normativa “SFDR”, per "fattori di sostenibilità" si  intendono le problematiche ambientali, 
+sociali e concernenti il personale, il rispetto dei diritti umani e le questioni relative alla lotta alla corruzione attiva 
+e passiva. 
+ 
+SFDR - UNIT LINKED INTERNE: 
+AXA MPS Assicurazioni Vita S.p.A. beneficia dell’esp erienza del Gruppo AXA S.A. e si basa sulla Politica di 
+integrazione dei rischi di sostenibilità dell’Asset Manager del Gruppo AXA.  
+Il Gestore ha progettato e implementato una politica di integrazione dei rischi di sostenibilità, in linea con il 
+Regolamento (UE) 2019/2088 del Parlamento Europeo e del Consiglio, del 27 novembre 2019, sull'informativa 
+relativa alla sostenibilità nel settore dei servizi finanziari ("SFDR"). Secondo la normativa SFDR, il "rischio di 
+sostenibilità" indica un evento o una condizi one ambientale, sociale o di governance ("ESG") il verificarsi del quale 
+potrebbe causare un impatto negativo materiale effettivo o potenziale sul valore di un investimento. La politica 
+del Gestore pertanto affronta i rischi per la sostenibilità dalla pros pettiva che gli eventi ESG potrebbero causare 
+un impatto negativo significativo sul valore degli investimenti dei Fondi.  
+Per le Unit Linked interne, i rischi di sostenibilità sono integrati nelle decisioni di investimento con un processo di 
+due diligence ESG, parte del processo di due diligence sugli investimenti della società di gestione del risparmio del 
+Gruppo AXA e che è applicabile alla selezione del gestore del fondo OICVM e alla selezione del fondo per i 
+prodotti di fondi di fondi     
+Sebbene il Gestore non possa rimuovere tutto il rischio di sostenibilità dal portafoglio di ogni Fondo, il processo di 
+due diligence ESG del Gestore mira a ridurre il rischio di coda (estremale) relativo alla sostenibilità per gli 
+investimenti del Fondo e a fornire rendimenti più stabili a lungo termine. 
+Ad esempio, un rischio per la sostenibilità potrebbe essere un onere per un settore particolare come quello 
+dell'energia o dell'estrazione mineraria, derivante dalla regolamentazione sul cambiamento climatico, in grado di  
+aumentare il costo dell’utilizzo di combustibili fossili e avere un effetto a catena sulla riduzione della domanda di 
+tutti i combustibili che emettono anidride carbonica. Lo scopo della due diligence ESG a questo proposito è 
+garantire che i gestori degli  investimenti prendano in considerazione questo tipo di rischi per la sostenibilità, nel 
+selezionare gli emittenti in cui investire. Gli emittenti che sono più esposti ai rischi per la sostenibilità e non 
+gestiscono tali rischi in modo appropriato è probab ile che subiscano un impatto negativo sulla performance 
+finanziaria, il che potrebbe comportare una riduzione dei rendimenti   
+Il Gestore, in qualità di membro del Gruppo AXA aderisce alla sua Politica di Investimento Responsabile ("la 
+Politica") e obbliga inoltre contrattualmente qualsiasi Gestore degli Investimenti che agisce in qualità di delegato 
+del Gestore ad aderire a detta  Politica. Tuttavia, a causa della loro natura, la Politica non può essere applicata a 
+Fondi strutturati come Fondi di Fondi o Fondi che replicano un indice. Informazioni su tutti i fondi a cui si applica 
+la Politica sono pubblicate nel relativo allegato 
+La Politica ha individuato emittenti specifici nei seguenti settori i cui titoli sono esclusi come potenziali 
+Investimenti dei Fondi: 
+• Estrazione del carbone e produzione di energia basata sul carbone
+=== pagina 24 ===
+24 
+ 
+Internal 
+• Produzione di sabbie bituminose e attività che utilizzano energia prodotta da sabbie bituminose 
+• Manifattura del tabacco 
+• Produzione di olio di palma 
+• Derivati su commodities alimentari (“soft”) 
+• Produzione di armi controverse 
+ 
+Le più attuali linee guida di settore sono disponibili sul Sito Web Responsib le Investment del Gruppo AXA s.a. 
+Il probabile impatto dei rischi per la sostenibilità 
+Il Gestore ha valutato il probabile impatto dei rischi per la sostenibilità sui rendimenti dei Fondi e questa sezione 
+presenta un riepilogo qualitativo di tali rischi. 
+La capacità del Gestore di valutare l'impatto dei rischi per la sostenibilità è attività complessa. La valutazione dei 
+rischi per la sostenibilità richiede giudizi soggettivi e si basa su dati difficili da ottenere, incompleti, stimati, non 
+aggiornati o com unque significativamente inaccurati e difficilmente verificabili. Anche se identificato, non vi può 
+essere alcuna garanzia che l'impatto dei rischi per la sostenibilità sugli investimenti dei Fondi sarà valutato 
+correttamente. 
+Nella misura in cui si verifi ca un rischio di sostenibilità, o si manifesta in un modo non previsto, potrebbe esserci 
+un impatto negativo improvviso e materiale sul valore di un investimento e quindi sui rendimenti di un Comparto. 
+Tale impatto negativo, seppur gestito attraverso un cr iterio di adeguata diversificazione di emittenti/settori, 
+potrebbe non pregiudicare un'intera perdita di valore dei relativi Investimenti e può avere un uguale impatto 
+negativo sui rendimenti di un Comparto. 
+Riguardo agli organismi di investimento colletti vo e ai fondi di fondi, a seguito della diversificazione degli 
+investimenti, il rischio di perdite significative derivanti da un singolo strumento di investimento è tuttavia ridotto.  
+Gli impatti a seguito del verificarsi di un rischio di sostenibilità poss ono essere numerosi e variare a seconda del 
+rischio specifico e dell’asset class. In generale, quando si verifica un rischio di sostenibilità rispetto a un'attività, ci 
+sarà un impatto negativo e potrebbe esserci un'intera perdita del suo valore. Per un em ittente corporate, ciò 
+potrebbe essere dovuto a un danno alla sua reputazione con un conseguente calo della domanda per i suoi 
+prodotti o servizi, a perdita di personale chiave, esclusione da potenziali opportunità di business, aumento dei 
+costi di gestione e / o aumento del costo del capitale. Un emittente corporate potrebbe anche subire l'impatto di 
+multe e altre sanzioni previste dalla normativa. Il tempo e le risorse dedicati alla gestione dell'azienda possono 
+essere distratti dalla propria attività ed essere assorbiti dall’impegno di affrontare il rischio di sostenibilità, 
+comprese le modifiche alle pratiche aziendali e la gestione di indagini e controversie. I rischi di sostenibilità 
+possono anche dare origine a perdite di valore di beni e/o perdite fi siche, inclusi danni a immobili e infrastrutture. 
+Anche l'utilità e il valore delle attività detenute dalle imprese a cui è esposto un Fondo possono essere influenzate 
+negativamente da un rischio di sostenibilità. 
+I rischi di sostenibilità sono rilevanti s ia come rischi a sé stanti, sia come rischi trasversali che si manifestano 
+attraverso molti altri tipi di rischio che sono rilevanti per le attività di un Fondo. Ad esempio, il verificarsi di un 
+rischio di sostenibilità può dar luogo a rischi finanziari e aziendali, anche attraverso un impatto negativo sul 
+merito di credito di altre imprese. La crescente importanza attribuita alle considerazioni sulla sostenibilità sia dalle 
+imprese che dai consumatori significa che il verificarsi di un rischio per la soste nibilità può comportare un
+=== pagina 25 ===
+25 
+ 
+Internal 
+significativo danno reputazionale alle imprese interessate. Il verificarsi di un rischio di sostenibilità può anche dar 
+luogo a rischi di esecuzione da parte di governi e autorità di regolamentazione e rischio di contenzioso.  
+Un rischio di sostenibilità potrebbe verificarsi e avere un impatto su un investimento specifico o può avere un 
+impatto più ampio su un settore economico, regioni geografiche e / o giurisdizioni e regioni politiche.  
+Molti settori economici, regioni e / o giurisdizioni, compresi quelli in cui un Fondo può investire, sono attualmente 
+e/o in futuro potrebbero essere soggetti a una transizione generale verso un modello economico più verde, a 
+basse emissioni di carbonio e meno inquinante. I driver di questa transiz ione includono l'intervento governativo 
+e/o normativo, l'evoluzione delle preferenze dei consumatori e/o l'influenza di organizzazioni non governative e 
+gruppi di interesse speciale. 
+Leggi, regolamenti e norme di settore svolgono un ruolo significativo nel  controllo dell'impatto sui fattori di 
+sostenibilità di molte industrie, in particolare per quanto riguarda i fattori ambientali e sociali.  
+Qualsiasi modifica a tali misure, come leggi sempre più rigorose in materia di ambiente o salute e sicurezza, può 
+avere un impatto materiale sulle attività, sui costi e sulla redditività delle imprese. Inoltre, le imprese che ad oggi 
+rispettano le norme poterebbero subire richieste di risarcimento, sanzioni e altre responsabilità in relazione a 
+presunte violazioni prece denti. Qualsiasi elemento tra quelli elencati può comportare una perdita sostanziale di 
+valore di un investimento collegato a tali attività. 
+Inoltre, alcune industrie devono affrontare considerevoli attenzioni da parte delle autorità di regolamentazione, 
+delle organizzazioni non governative e dei gruppi di interesse speciale per quanto concerne il loro impatto sui 
+fattori di sostenibilità, come il rispetto del salario minimo o dei requisiti di salario dignitoso e delle condizioni di 
+lavoro per il personale nella catena di fornitura. L'influenza di tali autorità, organizzazioni e gruppi, insieme 
+all'attenzione del pubblico può indurre le industrie interessate ad apportare modifiche sostanziali alle loro 
+pratiche commerciali che possono aumentare i costi e com portare un impatto negativo importante sulla 
+redditività delle imprese. Tale influenza esterna può anche avere un impatto materiale sulla domanda dei 
+consumatori di prodotti e servizi di un'azienda, il che può comportare una perdita sostanziale di valore d i un 
+investimento collegato a tali attività. 
+I settori, le regioni, le imprese e le tecnologie ad elevate emissioni di carbonio, più inquinanti o che comunque 
+causano un impatto negativo sostanziale sui fattori di sostenibilità possono subire un calo signi ficativo della 
+domanda e/o l'obsolescenza, con il risultato di attività il cui valore è significativamente ridotto o completamente 
+azzerato prima della durata media prevista. I tentativi da parte di settori, regioni, aziende e tecnologie di adattarsi 
+in mo do da ridurre il loro impatto sui fattori di sostenibilità potrebbero non avere successo, potrebbero 
+comportare costi significativi e la redditività futura potrebbe essere sostanzialmente ridotta.  
+Nel caso in cui sorga un rischio di sostenibilità, ciò pot rebbe indurre gli investitori a determinare che un 
+particolare investimento non è più idoneo e a cederlo (o non effettuare un investimento in esso), aumentando 
+ulteriormente la spinta al ribasso sul valore dell'investimento in tali settori.  
+ 
+ 
+ 
+ 
+Roma, 21 Novembre 2023

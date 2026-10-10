@@ -1,0 +1,741 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Nota informativa – Scheda Presentazione – Nota informativa – Scheda "Presentazione"
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/7a94c441-272c-4745-b56b-86730b097295
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/documenti-utili
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 125260e266e40a0c4ea5dd641dea1ce98b1cfea0a73e7f566a42fc34aba21090
+# Pagine: 14
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL PREVIDENZA FPA 
+ 
+Fondo Pensione Aperto 
+Iscritto all’Albo tenuto dalla Covip con il n°30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Scheda ‘Presentazione’
+=== pagina 2 ===
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 1 di 11 
+UNIPOL PREVIDENZA FPA V
+ia Stalingrado, 45 – 40128 – Bologna 
+(BO) 
+FONDO PENSIONE APERTO +39 011 6523222;
+Fax +39 051 5076627
+UNIPOL ASSICURAZIONI SPA (GRUPPO ASSICURATIVO UNIPOL) 
+Iscritto all’Albo tenuto dalla COVIP con il n. 30  
+fondiaperti@unipol.it
+unipolprevidenzafpa0030@pec.unipol.it
+Istituito in Italia www.unipol.it 
+N
+ota informativa 
+(depositata presso la COVIP il 31/03/2026) 
+UNIPOL ASSICURAZIONI SPA (di seguito, UNIPOL ASSICURAZIONI) è responsabile della completezza e veridicità dei dati e delle notizie 
+contenute nella presente Nota informativa. 
+La Nota informativa è composta da 2 PARTI e da un’Appendice: 
+− la PARTE I ‘L E INFORMAZIONI CHIAVE PER L’ADERENTE’ , contiene INFORMAZIONI DI BASE, è suddivisa in 2 SCHEDE 
+(‘Presentazione’; ‘I costi’) e ti viene consegnata al MOMENTO DELL’ADESIONE;
+la PARTE II ‘LE INFORMAZIONI INTEGRATIVE ’, contiene INFORMAZIONI DI APPROFONDIMENTO, è composta da 2 SCHEDE (‘Le 
+opzioni di investimento’; ‘Le informazioni sui soggetti coinvolti’) ed è DISPONIBILE SUL SITO WEB (www.unipol.it)
+− l’Appendice ‘Informativa sulla sostenibilità’, ti viene consegnata al MOMENTO DELL’ADESIONE. 
+Parte I ‘Le informazioni chiave per l’aderente’ 
+Scheda ‘Presentazione’ (in vigore dal 31/03/2026) 
+Premessa 
+Quale è l’obiettivo UNIPOL PREVIDENZA FPA  è un fondo pensione aperto  finalizzato all’erogazione di una pensione 
+complementare, ai sensi del decreto legislativo 5 dicembre 2005, n. 252. 
+UNIPOL PREVIDENZA FPA è vigilato dalla Commissione di vigilanza sui fondi pensione (COVIP). 
+Come funziona UNIPOL PREVIDENZA FPA  opera in regime di contribuzione definita : l’importo della tua pensione
+complementare è determinato dai contributi che versi e dai rendimenti della gestione. Tieni presente che i 
+rendimenti sono soggetti a oscillazioni e l’andamento passato non è necessariamente indicativo di quello 
+futuro. Valuta i risultati in un’ottica di lungo periodo. 
+Come contribuire Se aderisci a UNIPOL PREVIDENZA FPA sulla base di un accordo collettivo  hai diritto ad avere un contributo
+del tuo datore di lavoro  ma solo nel caso in cui versi al fondo pensione almeno il contributo minimo a tuo 
+carico. Se aderisci a UNIPOL PREVIDENZA FPA  individualmente la misura e la periodicità della contribuzione 
+(mensile, trimestrale, semestrale o annuale) sono scelte da te e, se sei un lavoratore dipendente, puoi 
+contribuire versando il TFR maturando. In questo caso il versamento avviene per il tramite del tuo datore di 
+lavoro. 
+Quali prestazioni 
+puoi ottenere 
+ RENDITA e/o CAPITALE ‒ (fino a un massimo del 50%) al momento del pensionamento;
+ ANTICIPAZIONI ‒ (fino al 75%)  per malattia, in ogni momento; (fino  al 75%) per
+acquisto/ristrutturazione prima casa, dopo 8 anni; (fino al 30%) per altre cause, dopo 8 anni;
+ RISCATTO PARZIALE/TOTALE  ‒ per perdita requisiti , invalidità, inoccupazione, mobilità, cassa
+integrazione, decesso ‒ secondo le condizioni previste nel Regolamento;
+ RENDITA INTEGRATIVA TEMPORANEA ANTICIPATA (RITA);
+ CAPITALE in caso di morte o invalidità totale e permanente in caso di ades ione alla corrispondente
+prestazione assicurativa accessoria ad adesione facoltativa.
+Trasferimento Puoi trasferire la tua posizione ad altra forma pensionistica complementare dopo 2 anni ( in ogni momento 
+per perdita dei requisiti di partecipazione, in caso di modifiche peggiorative/sostanziali). 
+I benefici fiscali Se partecipi a una forma pensionistica complementare benefici di un trattamento fiscale di favore  sui 
+contributi versati, sui rendimenti conseguiti e sulle prestazioni percepite. 
+Consulta la Sezione ‘Dove trovare ulteriori informazioni’ per capire come approfondire tali aspetti.
+=== pagina 3 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 2 di 11 
+ 
+Le opzioni di investimento 
+Puoi scegliere tra i seguenti 7 comparti: 
+DENOMINAZIONE TIPOLOGIA Sostenibilità(*) ALTRE CARATTERISTICHE 
+Garantito Flex garantito NO Comparto TFR per adesioni tacite ; 
+Comparto di default in caso di RITA 
+ Obbligazionario obbligazionario misto NO  
+Bilanciato Etico obbligazionario misto SI  
+Bilanciato Prudente obbligazionario misto NO  
+Bilanciato Equilibrato bilanciato NO  
+Bilanciato Dinamico bilanciato NO  
+Azionario azionario NO  
+(*) Comparti caratterizzati da una politica di investimento che promuove caratteristiche ambientali o sociali o ha come obiettivo  
+investimenti sostenibili. 
+In fase di adesione ti viene sottoposto un questionario (Questionario di autovalutazione) che ti aiuta a scegliere a quale 
+comparto aderire. 
+ 
+Puoi trovare ulteriori informazioni sulle caratteristiche dei comparti di UNIPOL PREVIDENZA  FPA nella SCHEDA ‘Le 
+opzioni di investimento’ (Parte II ‘LE INFORMAZIONI INTEGRATIVE’), che puoi acquisire dall’area pubblica del sito web 
+www.unipol.it. Ulteriori informazioni sulla sostenibilità sono reperibili nell’Appendice ‘Informativa sulla sostenibilità’. 
+I comparti 
+ 
+Garantito Flex(1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Comparto destinato ad accogliere i flussi di TFR conferiti tacitamente. Tale comparto è altresì destinato ad accogliere, in assenza 
+di indicazioni da parte dell’ aderente, la porzione della posizione individuale di cui si richiede il frazionamento per l’erogazione 
+della “Rendita integrativa temporanea anticipata” (RITA). 
+• Garanzia: presente; viene prevista la  restituzione del capitale versato nel comparto nei seguenti casi: 
+pensionamento; decesso; invalidità permanente; inoccupazione superiore a 48 mesi; anticipazione nei casi 
+previsti all’art. 14, comma 1, lettere a) e b) del Regolamento del Fondo; trasferimen to della posizione 
+individuale ad altra forma pensionistica al quale l’iscritto acceda in relazione alla sua attività lavorativa  
+• Data di avvio dell’operatività del comparto: 01/05/2016 
+• Patrimonio netto al 31.12.2025(in euro): 288.996.171,82 
+• Rendimento netto del 2025: 1,69% 
+• Sostenibilità:    NO, non ne tiene conto 
+    SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI 
+    SI, ha OBIETTIVI DI SOSTENIBILITA’ 
+COMPARTO 
+GARANTITO 
+ORIZZONTE 
+TEMPORALE 
+BREVE 
+fino a  
+5 anni dal  
+pensionamento 
+L’obiettivo del comparto è il mantenimento 
+del capitale investito e il suo graduale 
+incremento nel tempo. La presenza di una 
+garanzia di capitale consente di soddisfare 
+le esigenze di un soggetto con una bassa 
+propensione al rischio o ormai prossimo 
+alla pensione. Il comparto è adatto ad un 
+soggetto avverso al rischio che sceglie una 
+gestione con le suddette caratteristiche di 
+garanzia al fine di mantenere il capitale 
+conferito
+=== pagina 4 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 3 di 11 
+ 
+ Rendimento netto medio annuo composto  
+Il comparto è operativo da meno di 20 anni solari; pertanto il grafico seguente 
+riporta solo i rendimenti medi annui composti realizzati nei periodi pluriennali 
+passati di attività del comparto stesso (non viene riportato il rendimento relativo 
+alle frazioni di anno solare). Considerato che il comparto è destinato a raccogliere 
+i flussi di TFR conferiti tacitamente, il grafico riporta anche i tassi di rivalutazione 
+del TFR relativi ai periodi considera ti. Poiché la gestione del comparto è 
+“flessibile”, il grafico non riporta un benchmark con cui confrontare il rendimento 
+del comparto. 
+ 
+ 
+Per approfondire tali aspetti c onsulta la Scheda ’Le opzioni di 
+investimento’, contenente le informazioni sulla misura di rischio 
+del comparto. 
+Il rendimento riflette gli oneri gravanti sul patrimonio del c omparto e non 
+contabilizzati nell’andamento del TFR. 
+Composizione del portafoglio al 31.12.2025(1)(2) 
+ 
+(1) Le obbligazioni sono comprensive della liquidità 
+(2) Le azioni comprendono quote di Fondi di Investimento 
+Alternativi 
+ 
+Obbligazionario 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Garanzia: assente 
+• Data di avvio dell’operatività del comparto: 15/03/1999 
+• Patrimonio netto al 31.12.2025 (in euro): 73.219.269,17 
+• Rendimento netto del 2025: 1,17% 
+• Sostenibilità:    NO, non ne tiene conto 
+    SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI 
+    SI, ha OBIETTIVI DI SOSTENIBILITA’ 
+COMPARTO 
+OBBLIGAZIONARIO 
+MISTO 
+ORIZZONTE 
+TEMPORALE 
+MEDIO 
+tra 5 e 10 anni dal 
+pensionamento 
+L’obiettivo del comparto è il graduale 
+incremento nel medio termine del capitale 
+investito. La gestione è adatta a soddisfare le 
+esigenze di un soggetto con propensione al 
+rischio medio/bassa e non lontano dalla 
+pensione e privilegia investimenti volti a 
+favorire la stabilità dei risultati.
+=== pagina 5 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 4 di 11 
+ 
+Rendimento netto medio annuo composto 
+In occasione dell’operazione di f usione del 01/05/2016 il comparto ha modificato la 
+politica di investimento ed il benchmark; in data 01/10/2020 il comparto ha nuovamente 
+modificato la politica di investimento passando da una strategia “a benchmark” ad una 
+“flessibile”, pertanto il grafico seguente non riporta un benchmark con cui confrontare i 
+rendimenti netti medi annui composti del comparto.  
+ 
+Per approfondire tali aspetti consulta la Scheda ’Le opzioni di 
+investimento’, contenente le informazioni sulla misura di rischio 
+del comparto. 
+ 
+ 
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto. 
+ 
+Composizione del portafoglio al 31.12.2025(1) (2) 
+ 
+(1) Le obbligazioni sono comprensive della liquidità 
+(2) Le azioni comprendono quote di Fondi di Investimento 
+Alternativi 
+ 
+Bilanciato etico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Garanzia: assente 
+• Data di avvio dell’operatività del comparto: 01/05/2016 
+• Patrimonio netto al 31.12.2025(in euro): 50.110.966,67 
+• Rendimento netto del 2025: 1,06% 
+  
+• Sostenibilità:    NO, non ne tiene conto 
+    SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI.  
+    SI, ha OBIETTIVI DI SOSTENIBILITA’ 
+COMPARTO 
+OBBLIGAZIONARIO 
+MISTO 
+ORIZZONTE 
+TEMPORALE 
+MEDIO 
+tra 5 e 10 anni 
+dal pensionamento 
+L’obiettivo del comparto è il graduale 
+incremento nel medio termine del capitale 
+investito. La gestione è adatta a soddisfare 
+le esigenze di un soggetto con propensione 
+al rischio medio/bassa e non lontano dalla 
+pensione e privilegia investimenti volti a 
+favorire la stabilità dei risultati
+=== pagina 6 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 5 di 11 
+ 
+Rendimento netto medio annuo composto  
+Il comparto è operativo da meno di 20 anni solari; pertanto il grafico seguente riporta 
+solo i rendimenti medi annui composti realizzati nei periodi pluriennali passati di 
+attività del comparto.  
+Il 01/10/2020 il comparto ha modificato la politica di investimento passando da una 
+strategia “a benchmark” ad una “flessibile”, pertanto il grafico non riporta un 
+benchmark con cui confrontare i rendimenti del comparto.  
+ 
+Per approfondire tali aspetti consulta la Scheda ’Le opzioni di 
+investimento’, contenente le informazioni sulla misura di rischio 
+del comparto. 
+ 
+ 
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto. 
+ 
+Composizione del portafoglio al 31.12.2025(1) (2) 
+ 
+(1) Le obbligazioni sono comprensive della liquidità 
+(2) Le azioni comprendono quote di Fondi di Investimento 
+Alternativi 
+ 
+ 
+ 
+ 
+Bilanciato prudente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Garanzia: assente 
+• Data di avvio dell’operatività del comparto: 15/03/1999 
+• Patrimonio netto al 31.12.2025 (in euro): 129.144.399,93 
+• Rendimento netto del 2025: 1,72% 
+Rendimento netto medio annuo composto  
+In occasione dell’operazione di fusione del 01/05/2016 e nuovamente in data 
+01/10/2020, il comparto ha modificato la politica di investimento ed il 
+benchmark. Pertanto il grafico seguente riporta i rendimenti medi annui composti 
+del comparto ed il corrispo ndente andamento del benchmark tempo per tempo 
+vigente. 
+ 
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto e non 
+contabilizzati nell’andamento del benchmark.  
+ 
+Composizione del portafoglio al 31.12.2025(1) (2) 
+ 
+ (1) Le obbligazioni sono comprensive della liquidità 
+(2) Le azioni comprendono quote di Fondi di Investimento 
+Alternativi 
+• Sostenibilità:    NO, non ne tiene conto 
+    SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI 
+    SI, ha OBIETTIVI DI SOSTENIBILITA’ 
+COMPARTO 
+OBBLIGAZIONARIO 
+MISTO 
+ORIZZONTE 
+TEMPORALE 
+MEDIO 
+tra 5 e 10 anni 
+dal pensionamento 
+L’obiettivo del Comparto è l’incremento nel 
+medio termine del capitale investito. La 
+gestione è adatta a soddisfare le esigenze di 
+un soggetto con propensione al rischio 
+media e privilegia investimenti volti a 
+favorire la stabilità dei risultati.
+=== pagina 7 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 6 di 11 
+ 
+ 
+Bilanciato equilibrato 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Garanzia: assente 
+• Data di avvio dell’operatività del comparto: 15/03/1999 
+• Patrimonio netto al 31.12.2025 (in euro): 73.404.648,09 
+• Rendimento netto del 2025: 3,41% 
+  
+Rendimento netto medio annuo composto (valori percentuali) 
+In occasione dell’operazione di fusione del 01/05/2016 e nuovamente in data 
+01/10/2020, il comparto ha modificato la politica di investimento ed il benchmark. 
+Pertanto il grafico seguente riporta i rendimenti medi annui composti del com parto ed 
+il corrispondente andamento del benchmark tempo per tempo vigente. 
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto e non 
+contabilizzati nell’andamento del benchmark.  
+ 
+Composizione del portafoglio al 31.12.2025(1) 
+ 
+(1) Le obbligazioni sono comprensive della liquidità 
+ 
+ 
+  
+• Sostenibilità:    NO, non ne tiene conto 
+    SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI 
+    SI, ha OBIETTIVI DI SOSTENIBILITA’ 
+COMPARTO 
+BILANCIATO 
+ORIZZONTE 
+TEMPORALE 
+MEDIO/LUNGO 
+tra 10 e 15 anni 
+dal pensionamento 
+L’obiettivo del comparto è l’incremento nel 
+medio/lungo termine del capitale investito. La 
+gestione risponde alle esigenze di un soggetto 
+con propensione al rischio media o che ha 
+ancora un numero discreto di anni prima della 
+pensione. Il comparto è adatto a un soggetto 
+che ricerca rendimenti nel medio/lungo 
+periodo privilegiando la continuità dei risultati 
+ed è disposto ad accettare una esposizione al 
+rischio media.
+=== pagina 8 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 7 di 11 
+ 
+  
+Bilanciato Dinamico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Garanzia: assente 
+• Data di avvio dell’operatività del comparto: 15/03/1999 
+• Patrimonio netto al 31.12.2025 (in euro): 221.966.994,57 
+• Rendimento netto del 2025: 5,86% 
+Rendimento netto medio annuo composto (valori percentuali) 
+In occasione dell’operazione di fusione del 01/05/2016 e nuovamente in data 01/10/2020, 
+il comparto ha modificato la politica di investimento ed il benchmark. Pertanto il grafico 
+seguente riporta i rendimenti medi annui composti del comparto ed il corrispondente 
+andamento del benchmark tempo per tempo vigente. 
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto e non 
+contabilizzati nell’andamento del benchmark. 
+ 
+Composizione del portafoglio al 31.12.2025(1) 
+ 
+(1) Le obbligazioni sono comprensive della liquidità 
+ 
+Azionario 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+• Sostenibilità    NO, non ne tiene conto 
+    SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI 
+    SI, ha OBIETTIVI DI SOSTENIBILITA’ 
+COMPARTO 
+BILANCIATO 
+ORIZZONTE 
+TEMPORALE 
+MEDIO/LUNGO 
+tra 10 e 15 anni 
+dal pensionamento 
+L’obiettivo del comparto è l’incremento nel 
+medio/lungo termine del capitale investito. La 
+gestione risponde alle esigenze di un soggetto 
+con propensione al rischio medio alta o che ha 
+ancora un numero elevato di anni prima della 
+pensione. Il comparto è ada tto a un soggetto 
+che ricerca rendimenti più elevati nel medio 
+lungo periodo ed è disposto ad accettare una 
+maggiore esposizione al rischio, con la 
+possibilità di registrare discontinuità dei 
+risultati nei singoli esercizi. 
+ 
+COMPARTO 
+AZIONARIO 
+ORIZZONTE 
+TEMPORALE 
+LUNGO 
+oltre 15 anni 
+dal pensionamento 
+L’obiettivo del comparto è la 
+rivalutazione nel lungo termine del 
+capitale investito. La gestione risponde 
+alle esigenze di un soggetto con 
+propensione al rischio alta o che ha 
+ancora un numero elevato di anni prima 
+della pensione. Il comparto è adatto a 
+un soggetto che ricerca rendimenti più 
+elevati nel lungo periodo ed è disposto 
+ad accettare una elevata esposizione al 
+rischio, con la possibilità di registrare 
+discontinuità dei risultati nei singoli 
+esercizi.
+=== pagina 9 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 8 di 11 
+ 
+• Garanzia: assente 
+• Data di avvio dell’operatività del comparto: 01/05/2016 
+• Patrimonio netto al 31.12.2025 (in euro): 183.844.535,80 
+• Rendimento netto del 2025: 10,55% 
+ 
+Rendimento netto medio annuo composto (valori percentuali) 
+Il comparto è operativo da meno di 20 anni solari; pertanto il grafico seguente 
+riporta solo i  rendimenti medi annui composti realizzati nei periodi pluriennali 
+passati di attività del comparto stesso (non viene riportato il rendimento relativo 
+alle frazioni di anno solare). Il grafico riporta anche i corrispondenti andamenti del 
+benchmark. 
+Il rendimento riflette gli oneri gravanti sul patrimonio del comparto e non 
+contabilizzati nell’andamento del benchmark.  
+Composizione del portafoglio al 31.12.2025(1) 
+ 
+(1) Le obbligazioni sono comprensive della liquidità 
+ 
+ 
+Quanto potresti ricevere quando andrai in pensione (2) 
+ 
+A) Adesioni su base collettiva 
+Aderente di sesso maschile 
+Età 
+all’iscrizione 
+anni di 
+versame
+nto 
+Comparto 
+Versamento iniziale annuo  
+€ 2.500 € 5.000 
+posizione 
+finale 
+rendita 
+annua 
+posizione 
+finale 
+rendita 
+annua 
+30 37 
+Garantito Flex € 123.321,95 € 4.894,71 € 247.300,07 € 9.815,47 
+Obbligazionario € 120.582,89 € 4.786,00 € 241.803,66 € 9.597,31 
+Bilanciato Etico € 122.313,09 € 4.854,67 € 245.275,60 € 9.735,11 
+Bilanciato 
+Prudente € 122.302,69 € 4.854,26 € 245.254,74 € 9.734,29 
+Bilanciato 
+Equilibrato € 127.675,46 € 5.067,50 € 256.036,32 € 10.162,21 
+Bilanciato 
+Dinamico € 131.377,94 € 5.214,46 € 263.466,28 € 10.457,11 
+Azionario € 137.027,36 € 5.438,69 € 274.803,55 € 10.907,09 
+40 27 
+Garantito Flex € 83.011,49 € 3.416,33 € 166.535,99 € 6.853,77 
+Obbligazionario € 81.638,29 € 3.359,81 € 163.779,19 € 6.740,32 
+Bilanciato Etico € 82.506,97 € 3.395,57 € 165.523,12 € 6.812,09 
+Bilanciato 
+Prudente € 82.501,76 € 3.395,35 € 165.512,67 € 6.811,66 
+Bilanciato 
+Equilibrato € 85.172,21 € 3.505,25 € 170.873,85 € 7.032,29 
+Bilanciato 
+Dinamico € 86.989,51 € 3.580,04 € 174.522,31 € 7.182,45 
+Azionario € 89.728,16 € 3.692,75 € 180.020,61 € 7.408,73 
+• Sostenibilità    NO, non ne tiene conto 
+    SI, promuove CARATTERISTICHE AMBIENTALI O SOCIALI 
+    SI, ha OBIETTIVI DI SOSTENIBILITA’
+=== pagina 10 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 9 di 11 
+ 
+ 
+ 
+Aderente di sesso femminile 
+Età 
+all’iscrizio
+ne 
+anni di 
+versame
+nto 
+Comparto 
+Versamento iniziale annuo  
+€ 2.500 € 5.000 
+posizione 
+finale 
+rendita 
+annua 
+posizione 
+finale 
+rendita 
+annua 
+30 37 
+Garantito Flex € 123.321,95 € 4.262,36 € 247.300,07 € 8.547,40 
+Obbligazionario € 120.582,89 € 4.167,69 € 241.803,66 € 8.357,43 
+Bilanciato Etico € 122.313,09 € 4.227,49 € 245.275,60 € 8.477,43 
+Bilanciato 
+Prudente € 122.302,69 € 4.227,13 € 245.254,74 € 8.476,71 
+Bilanciato 
+Equilibrato € 127.675,46 € 4.412,83 € 256.036,32 € 8.849,35 
+Bilanciato 
+Dinamico € 131.377,94 € 4.540,80 € 263.466,28 € 9.106,15 
+Azionario € 137.027,36 € 4.736,06 € 274.803,55 € 9.498,00 
+40 27 
+Garantito Flex € 83.011,49 € 2.967,36 € 166.535,99 € 5.953,05 
+Obbligazionario € 81.638,29 € 2.918,27 € 163.779,19 € 5.854,51 
+Bilanciato Etico € 82.506,97 € 2.949,32 € 165.523,12 € 5.916,84 
+Bilanciato 
+Prudente € 82.501,76 € 2.949,14 € 165.512,67 € 5.916,47 
+Bilanciato 
+Equilibrato € 85.172,21 € 3.044,59 € 170.873,85 € 6.108,11 
+Bilanciato 
+Dinamico € 86.989,51 € 3.109,56 € 174.522,31 € 6.238,53 
+Azionario € 89.728,16 € 3.207,45 € 180.020,61 € 6.435,08
+=== pagina 11 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 10 di 11 
+ 
+ 
+B) Adesioni su base individuale 
+Aderente di sesso maschile o femminile 
+Età 
+all’iscrizio
+ne 
+anni di 
+versament
+o 
+Comparto 
+Versamento iniziale annuo 
+€ 2.500 € 5.000 
+posizione 
+finale 
+rendita 
+annua 
+posizione 
+finale 
+rendita 
+annua 
+30 37 
+Garantito Flex € 123.321,95 € 4.519,62 € 247.300,07 € 9.063,29 
+Obbligazionario € 120.582,89 € 4.419,24 € 241.803,66 € 8.861,86 
+Bilanciato Etico € 122.313,09 € 4.482,65 € 245.275,60 € 8.989,10 
+Bilanciato 
+Prudente € 122.302,69 € 4.482,27 € 245.254,74 € 8.988,33 
+Bilanciato 
+Equilibrato € 127.675,46 € 4.679,17 € 256.036,32 € 9.383,47 
+Bilanciato 
+Dinamico € 131.377,94 € 4.814,87 € 263.466,28 € 9.655,77 
+Azionario € 137.027,36 € 5.021,91 € 274.803,55 € 10.071,27 
+40 27 
+Garantito Flex € 83.011,49 € 3.149,80 € 166.535,99 € 6.319,06 
+Obbligazionario € 81.638,29 € 3.097,69 € 163.779,19 € 6.214,45 
+Bilanciato Etico € 82.506,97 € 3.130,65 € 165.523,12 € 6.280,63 
+Bilanciato 
+Prudente € 82.501,76 € 3.130,46 € 165.512,67 € 6.280,23 
+Bilanciato 
+Equilibrato € 85.172,21 € 3.231,78 € 170.873,85 € 6.483,66 
+Bilanciato 
+Dinamico € 86.989,51 € 3.300,74 € 174.522,31 € 6.622,09 
+Azionario € 89.728,16 € 3.404,65 € 180.020,61 € 6.830,72 
+ 
+(2) Gli importi sono al lordo della fiscalità e sono espressi in termini reali. Il valore della rata di rendita fa riferimento a una rendita 
+vitalizia immediata a un’età di pensionamento pari a 67 anni. 
+ 
+AVVERTENZA: Gli importi sopra riportati sono proiezioni fondate su ipotesi di calcolo definite dalla COVIP e potrebbero 
+risultare differenti da quelli effettivamente maturati al momento del pensionamento. Le indicazioni fornite non impegnano 
+pertanto in alcun modo né UNIPOL ASSICURAZIONI né la COVIP. Tieni inoltre in considerazione che la posizione individuale 
+è soggetta a variazioni in conseguenza della variabilità dei rendimenti effettivamente conseguiti dalla gestione e che le 
+prestazioni pensionistiche sono soggette a tassazione. 
+ 
+Trovi informazioni sulla metodologia e le ipotesi utilizzate  al seguente indirizzo 
+[https://www.unipol.it/risparmio/pensione-integrativa-fondi-pensione/fondo-pensione-aperto, sezione “Documenti” ]. 
+Sul sito web (www.unipol.it) al medesimo indirizzo puoi inoltre realizzare simulazioni personalizzate  della tua pensione 
+complementare futura. 
+  
+Cosa fare per aderire 
+Per aderire è necessario compilare in ogni sua parte e sottoscrivere il Modulo di adesione. 
+L’adesione decorre dalla data di ricezione del Modulo di adesione da parte del fondo. Entro 30 giorni dalla ricezione del 
+Modulo, UNIPOL PREVIDENZA FPA  ti invierà una lettera di conferma dell’avvenuta iscrizione, nella quale potrai 
+verificare, tra l’altro, la data di decorrenza della partecipazione. 
+La sottoscrizione del Modulo non è richiesta ai lavoratori che conferiscano tacitamente il loro TFR: UNIPOL 
+ASSICURAZIONI procede automaticamente all’iscrizione a UNIPOL PREVIDENZA FPA sulla base delle indicazioni ricevute 
+dal datore di lavoro. In questo caso la lettera di conferma dell’avvenuta iscrizione riporterà anche  le informazioni 
+necessarie per consentire all’aderente l’esercizio delle scelte di sua competenza.
+=== pagina 12 ===
+Unipol Previdenza FPA 
+ 
+Nota Informativa - Mod. NIUSPFPA – Ed. 03/2026 Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘Presentazione’ - Pag. 11 di 11 
+ 
+ 
+I rapporti con gli aderenti 
+UNIPOL ASSICURAZIONI ti trasmette, entro il 31 marzo di ogni anno, una comunicazione ( Prospetto delle prestazioni 
+pensionistiche – fase di accumulo ) contenente un aggiornamento sull’ammontare delle risorse che hai accumulato 
+(posizione individuale) e una proiezione della pensione complementare che potresti ricevere al pensionamento . 
+UNIPOL ASSICURAZIONI mette inoltre a tua disposizione, nell’ area riservata del  sito web (accessibile solo da te ), 
+informazioni di dettaglio relative ai versamenti effettuati e alla posizione individuale tempo per tempo maturata, 
+nonché strumenti utili ad aiutarti nelle scelte. 
+In caso di necessità, puoi contattare UNIPOL ASSICURAZIONI telefonicamente, via e-mail (anche PEC) o posta ordinaria. 
+Eventuali reclami relativi alla partecipazione a UNIPOL PREVIDENZA FPA  devono essere presentati in forma scritta con 
+le modalità di invio riportate sul sito https://www.unipol.it/servizio-clienti/reclami/prodotti-previdenziali ed utilizzando 
+i contatti ivi previsti. 
+ 
+Se non hai ricevuto risposta entro 45 giorni o ritieni che la risposta sia insoddisfacente puoi inviare un esposto alla COVIP. 
+Consulta la Guida pratica alla trasmissione degli esposti alla COVIP (www.covip.it). 
+Dove trovare ulteriori informazioni 
+Se ti interessa acquisire ulteriori informazioni puoi consultare i seguenti documenti: 
+• la Parte II ‘Le informazioni integrative’, della Nota informativa; 
+• il Regolamento, che contiene l e regole di partecipazione a UNIPOL PREVIDENZA FPA  (ivi comprese le 
+prestazioni che puoi ottenere) e ne disciplina il funzionamento; 
+• il Documento sul regime fiscale,  il Documento sulle anticipazioni  e il Documento sull ’erogazione delle  
+rendite, che contengono informazioni di dettaglio sulle relative tematiche;  
+• il Documento sulla politica di investimento , che illustra la strategia di gestione delle risorse di UNIPOL 
+PREVIDENZA FPA.  
+• altri documenti la cui redazione è prevista dalla regolamentazione (ad esempio, il Rendiconto, ecc.). 
+ 
+Tutti questi documenti possono essere acquisiti dall’ area pubblica del sito web (https://www.unipol.it/homepage). È 
+inoltre disponibile, sul sito web della COVIP (www.covip.it), la Guida introduttiva alla previdenza complementare.
+=== pagina 13 ===
+
+=== pagina 14 ===
+

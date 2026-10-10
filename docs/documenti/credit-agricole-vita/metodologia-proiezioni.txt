@@ -1,0 +1,73 @@
+# Fondo: FONDO PENSIONE APERTO CREDIT AGRICOLE VITA (credit-agricole-vita)
+# Documento: Metodologia delle proiezioni – Metodo di calcolo prestazioni pensionistiche
+# Fonte: https://www.ca-vita.it/media/filer_public/80/ee/80eed668-6bc4-44d1-9fc0-f7dfd9f125bc/def_informazioni-sulla-metodologia-utilizzata-per-lelaborazione-delle-prestazioni-pensionistiche-standardizzate-fornite-nellambito-della-nota-informativa.pdf
+# Citato in: https://www.ca-vita.it/fondo-pensione-e-previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 442693b6be30517e1782665146b943342a52b9a743a167fb89481f7fa3ee4faa
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 di 2 
+ 
+Informazioni sulla metodologia utilizzata per l’elaborazione delle prestazioni pensionistiche 
+standardizzate fornite nell’ambito della Nota informativa 
+ 
+ 
+Il presente documento è volto a illustrare la metodologia di calcolo e le ipotesi utilizzate per l’elaborazione delle prestazioni 
+pensionistiche. 
+ 
+Nella Nota informativa sono fornite simulazioni effettuate nel rispetto delle Istruzioni per l’elaborazione di prestazioni 
+pensionistiche standardizzate fornite nell’ambito della Nota informativa da parte di COVIP, avendo a riferimento figure-tipo 
+con le seguenti caratteristiche: 
+ età anagrafica al momento dell’adesione: 30 e 40 anni; 
+ contributo annuo: 2.500 e 5.000; 
+ età di pensionamento: 67 anni. 
+ 
+Il Paragrafo ‘Quanto potresti ricevere quando andrai in pensione’, della Parte I ‘Le informazioni chiave per l’aderente’, della 
+Nota informativa, riporta il valore della posizione individuale e il corrispondente valore della rata annua di rendita atte sa, 
+calcolata con riferimento alle suddette ipotesi. 
+ 
+L’elaborazione è compiuta per ciascun comparto (o fondo interno/OICR/gestione interna separata) e/o combinazione 
+predefinita offerti dalla forma pensionistica complementare 
+ 
+ 
+Le variabili utilizzate nei calcoli sono le seguenti: 
+ 
+ Dati anagrafici: l’età e il sesso sono quelli relativi all’aderente. 
+ Misura della contribuzione: la misura della contribuzione è quella risultante alla forma  pensionistica 
+complementare sulla base delle indicazioni dell’aderente  ovvero quella che risulti effettivamente versata con 
+carattere di stabilità. La stessa è espressa su base annuale. 
+ Tasso atteso di crescita della contribuzione/retribuzione: la contribuzione è rivalutata annualmente. La 
+rivalutazione avviene a un tasso re ale dell’1%, qualora la contribuzione sia espressa in cifra fissa; qualora la 
+stessa sia invece espressa in percentuale della retribuzione, si assume un tasso annuo atteso di crescita della 
+retribuzione pari all’1% in termini reali. 
+ Tasso annuo atteso di inflazione: il tasso annuo atteso di inflazione è posto pari al 2%. 
+ Costi connessi alla partecipazione nella fase di accumulo: i costi relativi alla fase di accumulo sono quelli 
+effettivamente applicati all’aderente. 
+ Profilo di investimento: il profilo di i nvestimento è quello scelto dall’aderente. In presenza di meccanismi di 
+riallocazione automatica della posizione individuale o dei flussi di contribuzione tra comparti (o fondi 
+interni/OICR/gestioni interne separate) o combinazioni degli stessi in funzione dell’età dell’aderente o degli anni 
+mancanti al pensionamento, lo sviluppo delle proiezioni ne tiene conto secondo le modalità previste dalla forma 
+pensionistica complementare. 
+ Tasso atteso di rendimento della gestione: calcolato  sulla base della composizione azionaria e obbligazionaria 
+del comparto. Alla componente azionaria è attribuito un rendimento del 4,00% medio annuo e a   quella 
+obbligazionaria del 2,00% medio annuo. Il tasso è espresso al lordo dei costi e della tassazione. 
+ Età di pensionamento: si tratta della presumibile età di pensionamento di vecchiaia, come individuata sulla base 
+delle indicazioni fornite nello Schema di “Prospetto delle prestazioni pensionistiche – fase di accumulo” (Sezione 
+‘I tuoi dati’). 
+ Ipotesi tecniche per il calcolo della rendita: il calcolo della prima rata annua di rendita è effettuato applicando i 
+coefficienti di conversione relativi alle seguenti ipotesi: 
+o basi demografiche: la tavola di mortalità è la A62, ove la forma pensionistica complementare prev eda 
+una differenziazione per sesso, e, negli altri casi, la A62U (A62 indifferenziata per sesso), corrispondente 
+alla combinazione 60 per cento maschi, 40 per cento femmine; 
+o basi finanziarie: il tasso tecnico è posto pari allo 0%; 
+o costo relativo alla trasformazione della posizione individuale in rendita: 1,25% della posizione  
+o individuale maturata al termine della fase di accumulo.
+=== pagina 2 ===
+2 di 2 
+ 
+Qualora i coefficienti di conversione effettivamente utilizzati dalla forma pensionistica complementare al 
+momento dell’elaborazione del documento risultino meno favorevoli all’aderente rispetto a quelli sopra indicati, 
+il calcolo della prima rata annua di rendita è effettuato applicando i coefficienti propri della forma pensionistica 
+complementare.

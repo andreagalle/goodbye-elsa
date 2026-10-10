@@ -1,0 +1,3314 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Regolamento – Regolamento del fondo
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/3f80b46d-baa1-482e-a3d8-c57d8e5449a2
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/documenti-utili
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: ac6eccffb655e92d49173be24243c43303cddb124f7b975bcdc5ddda637fa0ad
+# Pagine: 66
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL PREVIDENZA FPA 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REGOLAMENTO
+=== pagina 2 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 1 di 55 
+ 
+INDICE 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+ Art. 1 - Denominazione 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+Art. 3 - Scopo 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art. 4 - Regime del Fondo 
+Art. 5 - Destinatari 
+Art. 6 - Scelte di investimento 
+ Art. 7 - Gestione degli investimenti 
+Art. 8 - Spese 
+PARTE III – CONTRIBUZIONI E PRESTAZIONI 
+Art. 9 - Contribuzione 
+Art. 10 - Determinazione della posizione individuale 
+Art. 11 - Prestazioni pensionistiche 
+Art. 12 - Erogazione della rendita 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+Art. 14 - Anticipazioni 
+Art. 14-bis - Prestazioni accessorie  
+PARTE IV - PROFILI ORGANIZZATIVI 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+Art. 16 - Sistema di governo 
+Art. 17 - Depositario 
+Art. 18 - Responsabile 
+Art. 19 - Organismo di rappresentanza  
+Art. 20 - Conflitti di interesse 
+Art. 21 - Scritture contabili 
+PARTE V - RAPPORTI CON GLI ADERENTI 
+Art. 22 - Modalità di adesione e clausole risolutive espresse 
+Art. 23 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+Art. 24 - Comunicazioni e reclami 
+ 
+PARTE VI – NORME FINALI 
+Art. 25 - Modifiche del Regolamento 
+Art. 26 - Trasferimento in caso di modifiche peggiorative de lle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo 
+Art. 27 - Cessione del Fondo 
+Art. 28 - Operazioni di fusione 
+Art. 29 - Rinvio 
+ 
+Allegati: 
+Allegato n.1 Disposizioni in materia di Responsabile 
+Allegato n.2 Condizioni e modalità di erogazione delle rendite 
+Allegato n.3 Condizioni delle prestazioni accessorie  
+APPENDICE AL REGOLAMENTO
+=== pagina 3 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 2 di 55 
+ 
+ PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO  
+Art.1. -  Denominazione 
+1. Il Fondo pensione aperto Unipol Previdenza  FPA, di seguito definito “Fondo”, è un fondo pensione 
+aperto istituito ai sensi dell’art. 12 del decreto legislativo 5 dicembre 2005, n.252 (di seguito “Decreto”). 
+Art.2. -  Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito dalla “Compagnia Assicuratrice Unipol S.p.A.” giusta autorizzazione rilasciata 
+dalla COVIP  con provvedimento del 22/07/1998; con il medesimo provvedimento la COVIP ha 
+approvato il Regolamento del Fondo. 
+2. La società Unipol  Assicurazioni S.p.A. , di seguito “ Impresa di assicurazione”, esercita l’attività di 
+gestione del Fondo con effetto dal 31/12/2024.  
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 30. 
+4. L’attività relativa al Fondo è svolta in Bologna, presso la sede dell’Impresa di assicurazione. 
+5. L’indirizzo di posta elettronica c ertificata (PEC) dell’Impresa  di assicurazione  è 
+UnipolPrevidenzaFPA0030@pec.unipol.it. 
+Art.3. -  Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta 
+dei contributi, la gestione delle risorse nell’esclusivo interesse degli aderenti, e l’erogazione delle 
+prestazioni secondo quanto disposto dalla normativa tempo per tempo vigente. 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art.4. -  Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è 
+determinata in funzione della contribuzione effettuata e in base al principio della capitalizzazione. 
+Art.5. -  Destinatari  
+1. L’adesione al Fondo è volontaria ed è consentita in forma individuale. È altresì consentita, su base 
+collettiva, ai soggetti destinatari delle forme pensionistiche complementari individuati d all’art. 2, 
+comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, gli accordi o i regolamenti 
+aziendali che dispongono l’adesione al Fondo.   
+2. Ai sensi dell’articolo 8, comma 7, del Decreto l’adesione al Fondo su base collettiva può avvenire anche 
+mediante conferimento tacito del TFR maturando. 
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza. 
+Art.6. -  Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio e di rendimento, in modo 
+tale da assicurare agli aderenti una adeguata possibilità di scelta: 
+- Comparto Garantito Flex. Questo comparto è destinato al conferimento tacito del TFR . Il 
+comparto è altresì destinato ad accogliere, in assenza di indicazioni da parte dell’aderente, la 
+porzione della posizione individuale di cui si richiede il frazionamento per l’erogazione della 
+“Rendita integrativa temporanea anticipata” (RITA). L’aderente può variare successivamente il 
+comparto, nel rispetto del periodo minimo di permanenza. 
+- Comparto Obbligazionario
+=== pagina 4 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 3 di 55 
+ 
+- Comparto Bilanciato Etico 
+- Comparto Bilanciato Prudente 
+- Comparto Bilanciato Equilibrato  
+- Comparto Bilanciato Dinamico 
+- Comparto Azionario 
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti in cui far confluire i versamenti 
+contributivi, con facoltà di modificare nel tempo tale destinazione. L’aderente può inoltre riallocare la 
+propria posizione individuale tra i diversi comparti nel rispetto del periodo minimo di un anno 
+dall’iscrizione ovvero dall’ultima riallocazione. In questo caso i versamenti contributivi successivi sono 
+suddivisi sulla base delle nuove percentuali fissate all’atto della riallocazione, salvo diversa disposizione 
+dell’aderente. Il limite del periodo di permanenza minimo non opera con riguardo al TFR conferito 
+tacitamente.  
+Art.7. -  Gestione degli investimenti 
+1. L’Impresa di assicurazione effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle 
+condizioni stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo 
+a riferimento l’esclusivo interesse degli aderenti. 
+2. Ferma restando la responsabilità dell’Impresa di assicurazione, essa può affidare a soggetti di cui 
+all’art.6, comma 1, lettere a), b), c) e c-bis) del Decreto, in possesso dei requisiti  previsti dalla normativa 
+tempo per tempo vigente, l’esecuzione di specifici incarichi di gestione. 
+3. L’Impresa di assicurazione verifica i risultati della gestione mediante l’adozione di parametri di 
+riferimento coerenti con gli obiettivi e i criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+Comparto Garantito Flex, con garanzia del capitale. 
+Il Comparto Garantito Flex ha un profilo di rischio basso, nullo nel caso in cui operi la garanzia. 
+L’obiettivo del Comparto è il mantenimento del capitale investito e il suo graduale incremento nel 
+tempo. 
+L’orizzonte temporale del Comparto è di breve termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli strumenti 
+finanziari, OICR e strumenti finanziari derivati previsti dalla normativa tempo per tempo vigente nel 
+rispetto di quanto sotto riportato. 
+La politica di investimento è orientata principalmente verso strumenti finanziari ed OICR di qualsiasi 
+natura (ad esempio di natura monetaria, obbligazionaria, azionaria e alternativi), denominati sia in 
+euro che in altre valute, in proporzioni variabili, senza vincoli predeterminati (stile di gestione c.d. 
+‘flessibile’). 
+Per gli investimenti in valuta estera, fermo restando il limite di Legge, l’Impresa di assicurazione  
+valuterà eventuali coperture del rischio di cambio. 
+La politica di investimento è idonea a garantire la restituzione del capitale e mira a realizzare  
+rendimenti comparabili, nei limiti previsti dalla normativa statale e comunitaria, al tasso di 
+rivalutazione del TFR, quantomeno in un orizzonte temporale pluriennale. 
+Comparto Obbligazionario 
+Il Comparto Obbligazionario ha come obiettivo il graduale incremento nel medio termine del 
+capitale investito. 
+L’orizzonte temporale del Comparto è di medio termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli strumenti 
+finanziari, OICR e strumenti finanziari derivati previsti dalla normativa tempo per tempo vigente nel 
+rispetto di quanto sotto riportato. 
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed 
+OICR di natura obbligazionaria.
+=== pagina 5 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 4 di 55 
+ 
+Per gli investimenti in valuta estera, fermo restando il limite di Legge, l’Impresa di assicurazione  
+valuterà eventuali coperture del rischio di cambio. 
+Comparto Bilanciato Etico 
+Il Comparto Bilanciato Etico ha come obiettivo il graduale incremento nel medio termine del 
+capitale investito. 
+L’orizzonte temporale del Comparto è di medio termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli strumenti 
+finanziari, OICR e strumenti finanziari derivati previsti dalla normativa tempo per tempo vigente nel 
+rispetto di quanto sotto riportato.  
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed 
+OICR di natura obbligazionaria.  
+Gli investimenti di natura azionaria non possono superare il 10% del valore del portafoglio.  
+Per gli investimenti in valuta estera, fermo restando il limite di Legge, l’Impresa di assicurazione  
+valuterà eventuali coperture del rischio di cambio.  
+La sele zione degli strumenti finanziari ed OICR da parte dell’Impresa di assicurazione  avviene 
+nell’ambito di un universo investibile selezionato in base ad una valutazione della responsabilità 
+sociale e ambientale e della struttura di governance (cosiddetta analisi ESG – Environmental, Social, 
+Governance).  
+Nell’universo investibile possono essere  inclusi gli OICR  e strumenti assimilabili secondo la 
+normativa tempo per tempo vigente, che perseguono una politica di investimento ispirata a principi 
+etici o a valutazioni ESG o a criteri di sostenibilità. 
+Comparto Bilanciato Prudente 
+Il Comparto Bilanciato Prudente ha come obiettivo l’incremento nel medio termine del capitale 
+investito. 
+L’orizzonte temporale del Comparto è di medio termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli strumenti 
+finanziari, OICR e strumenti finanziari derivati previsti dalla normativa tempo per tempo vigente nel 
+rispetto di quanto sotto riportato. 
+La politica di investimento è orientata prevalentemente verso l’acquisizione di strumenti finanziari 
+ed OICR di natura obbligazionaria.  
+Gli investimenti di natura azionaria non possono superare il 30% del valore del portafoglio.  
+Per gli investimenti in valuta estera, fermo restando il limite di Legge, l’Impresa di assicurazione  
+valuterà eventuali coperture del rischio di cambio. 
+Comparto Bilanciato Equilibrato 
+Il Comparto Bilanciato Equilibrato ha come obiettivo l’incremento nel medio/lungo termine del 
+capitale investito.  
+L’orizzonte temporale del Comparto è di medio/lungo termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli strumenti 
+finanziari, OICR e strumenti finanziari derivati previsti dalla normativa vigente nel rispetto di quanto 
+sotto riportato.  
+La politica di investimento è orientata prevalentemente verso l’acquisizione di strumenti finanziari 
+ed OICR di natura obbligazionaria.  
+Gli investimenti di natura azionaria non possono superare il 50% del valore del portafoglio.  
+Per gli investimenti in valuta estera, fermo restando il limite di Legge, l’Impresa di assicurazione  
+valuterà eventuali coperture del rischio di cambio. 
+Comparto Bilanciato Dinamico 
+Il Comparto Bilanciato Dinamico ha come obiettivo l’incremento nel medio/lungo termine del 
+capitale investito.  
+L’orizzonte temporale del Comparto è di medio/lungo termine.
+=== pagina 6 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 5 di 55 
+ 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli strumenti 
+finanziari, OICR e strumenti finanziari derivati previsti dalla normativa tempo per tempo vigente nel 
+rispetto di quanto sotto riportato.  
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed 
+OICR di natura obbligazionaria ed azionaria.  
+Gli investimenti di natura azionaria non possono superare il 70% del valore del portafoglio.  
+Per gli investimenti in valuta estera, fermo restando il limite di Legge, l’Impresa di assicurazione  
+valuterà eventuali coperture del rischio di cambio. 
+Comparto Azionario 
+Il Comparto Azionario ha come obiettivo la rivalutazione nel lungo termine del capitale investito. 
+L’orizzonte temporale del Comparto è di lungo termine. 
+Le disponibilità del Comparto possono essere investite in depositi bancari e in tutti gli strumenti 
+finanziari, OICR e strumenti finanziari derivati previsti dalla normativa tempo per tempo vigente nel 
+rispetto di quanto sotto riportato.  
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed 
+OICR di natura azionaria.  
+Gli investimenti di natura azionaria possono raggiungere il 100% del valore del portafoglio.  
+Per gli investimenti in valuta estera, fermo restando il limite di Legge, l’Impresa di assicurazione  
+valuterà eventuali coperture del rischio di cambio. 
+L’adesione al Comparto Garantito Flex attribuisce all’aderente, al verificarsi degli eventi nel seguito 
+indicati, il diritto alla corresponsione di un importo minimo garantito a prescindere dai risultati di 
+gestione. La garanzia può essere prestata all’Impresa di assicurazione da soggetti, diversi dalla stessa, 
+a ciò abilitati. 
+L’importo minimo garantito agli aderenti al Comparto Garantito Flex è pari alla somma dei contributi 
+netti versati al comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro comparto o da 
+altra forma pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto 
+da eventuali riscatti parziali e anticipazioni. 
+Per contributi netti si intendono i contributi di cui all’Art.10, comma 2. 
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+- esercizio del diritto alla prestazione pensionistica di cui all’Art.11; 
+- riscatto per decesso; 
+- riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un 
+terzo; 
+- riscatto per inoccupazione per un periodo superiore a 48 mesi; 
+- anticipazione nei casi previsti all’Art. 14, comma 1, lettere a) e b); 
+- trasferimento della posizione individuale ad altra forma pensionistica al quale l’iscritto acceda in 
+relazione alla sua attività lavorativa ai sensi dell’Art.13, comma 2 lettera a). 
+A seguito di operazioni di Fusione riguardanti il Fondo e delle modifiche regolamentari connesse e 
+conseguenti, agli aderenti interessati dalle predette operazioni sono applicati diversi livelli di garanzia 
+riportati in apposita appendice al presente Regolamento. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata, 
+calcolata ai sensi dell’Art.10, con riferimento al primo giorno di valorizzazione utile successivo alla 
+verifica delle condizioni che danno diritto alla prestazione , la stessa viene integrata a tale maggior 
+valore. L’integrazione viene corrisposta dall’Impresa di assicurazione. 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di 
+rischio e rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti 
+nella Nota informativa.
+=== pagina 7 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 6 di 55 
+ 
+Art.8. -  Spese  
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a) spese da sostenere all’atto dell’adesione : una commissione “una tantum” a carico 
+dell’aderente pari a euro 50,00. 
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’aderente : una commissione pari a euro 25,00, applicata 
+annualmente; 
+b.2)  indirettamente a carico dell’aderente e che incidono sul comparto: 
+i. Comparto Garantito Flex: una commissione di gestione, su base annua, pari allo 0,75% 
+del patrimonio del comparto prelevate mensilmente; 
+ii. Comparto Obbligazionario; una commissione di gestione, su base annua, pari allo 
+0,90% del patrimonio del comparto prelevate mensilmente; 
+iii. Comparto Bilanciato Etico: una commissione di gestione, su base annua, pari allo 
+0,90% del patrimonio del comparto prelevate mensilmente; 
+iv. Comparto Bilanciato Prudente: una commissione di gestione, su base annua, pari 
+all’1,10% del patrimonio del comparto prelevate mensilmente; 
+v. Comparto Bilanciato Equilibrato: una commissione di gestione, su base annua, pari 
+all’1,10% del patrimonio del comparto prelevate mensilmente; 
+vi. Comparto Bilanciato Dinamico: una commissione di gestione, su base annua, pari 
+all’1,30% del patrimonio del comparto prelevate mensilmente; 
+vii. Comparto Azionario: una commissione di gestione, su base annua, pari all’1,60% del 
+patrimonio del comparto prelevate mensilmente.  
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese legali e 
+giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione derivanti dall’attività 
+di impiego delle risorse, nonché il “contributo di vigilanza” dovuto annualmente alla COVIP ai sensi di 
+legge; sono altresì a carico del comparto le spese relative alla remunerazione e allo svolgimento 
+dell’incarico del Responsabile, salva diversa decisione dell’Impresa di assicurazione. 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e 
+al rimborso delle parti di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo 
+i casi di deroga di carattere generale previsti dalla COVIP. In particolare, nel caso di investimenti in 
+OICR collegati, dal compenso dell’Impresa di assicurazione sarà dedotta la remunerazione complessiva 
+percepita dal gestore dell’OICR collegato. Fanno eccezione gli investimenti in FIA diversi da quelli 
+collegati. 
+c) spese collegate all’esercizio delle seguenti prerogative individuali,  dirette alla copertura dei 
+relativi oneri amministrativi:  
+c.1) 25,00 Euro per la riallocazione della posizione individuale tra i comparti del Fondo; 
+c.2) 50,00 Euro per spese relative ad anticipazioni; la prima anticipazione è gratuita; 
+c.3) nessuna spesa per il trasferimento ad altra forma pensionistica; 
+c.4) nessuna spesa per il riscatto della posizione; 
+c.5) nessuna spesa per la modifica della percentuale di allocazione dei contributi futuri tra i 
+comparti; 
+d) spese relative alla fase di erogazione delle rendite, quali riportate nell’Allegato n. 2; 
+e) spese e premi relativi alle prestazioni accessorie, quali riportate nell’Allegato n. 3. 
+f) spese relative alla prestazione erogata in forma di “Rendita integrativa temporanea anticipata”  
+(RITA) dirette alla copertura dei relativi oneri amministrativi : pari a 3,00 euro per ogni rata di 
+rendita erogata. 
+1.bis A seguito d i operazioni di Fusione riguardanti il Fondo e delle modifiche regolamentari connesse e 
+conseguenti, agli aderenti interessati dalle predette operazioni sono applicati diversi livelli di spese 
+riportati in apposita appendice al presente Regolamento.
+=== pagina 8 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 7 di 55 
+ 
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di 
+convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle 
+commissioni di gestione espresse in misura percentuale sul patrimonio avviene mediante emissione di 
+classi di quote differenti. 
+3. Sono a carico dell’Impresa di assicurazione tutte le spese e oneri non individuati dalle disposizioni del 
+presente articolo. 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+Art.9. -  Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso. 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima 
+e delle modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali.  
+3. I lavoratori dipendenti possono contribuire al Fondo conferendo, anche esclusivamente, i flussi di TFR 
+in maturazione . Nelle adesioni collettive il conferimento del TFR può anche essere parziale ove previsto 
+dagli accordi collettivi. Qualora il lavoratore decida altresì di versare la contribuzione prevista a suo 
+carico e abbia diritto, in base ad accordi collettivi, anche aziendali, ad un contributo del datore di lavoro, 
+detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il datore di 
+lavoro può decidere, anche in assenza di accordi collettivi, di contribuire al Fondo. 
+4. L’aderente su base individuale  ha la facoltà di sospendere la contribuzione fermo restando, per i 
+lavoratori dipendenti, l’obbligo del versamento del TFR maturando eventualmente conferito. La 
+sospensione non comporta la cessazione della partecipazione al Fondo. 
+5. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha la facoltà di 
+sospendere la contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo 
+a carico del datore di lavoro, fermo restando il versamen to del TFR maturando al Fondo. È possibile 
+riattivare la contribuzione in qualsiasi momento. 
+6. La contribuzione può essere attuata nel rispetto di quanto previsto dall’Art. 8, comma 12, del Decreto 
+(c.d. contribuzione ad abbuoni). 
+7. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che alla data del 
+pensionamento possa far valere almeno un anno di contribuzione a favore delle forme di previdenza 
+complementare. 
+Art.10. -  Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è 
+alimentata dai contributi netti versati, dagli importi derivanti da trasferimenti da altre forme 
+pensionistiche complementari e dai versamenti effettuati per il reintegro delle anticipazioni percepite, 
+ed è ridotta da eventuali riscatti parziali e anticipazioni. 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, 
+di cui all’Art.8, comma 1, lett ere a), b), c), e delle eventuali somme destinate a copertura delle 
+prestazioni accessorie previste. Sul primo versamento incidono anche eventuali spese di adesione. 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di ogni 
+singolo comparto è calcolato come variazione del valore della quota dello stesso nel periodo 
+considerato. 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono 
+valutate al valore di mercato; pertanto le plusvalenze e le minusvalenze maturate concorrono alla 
+determinazione della posizione individuale, a prescindere dal momento di effettivo realizzo. 
+5. L’Impresa di assicurazione  determina il valore della quota e, conseguentemente, della posizione 
+individuale di ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono
+=== pagina 9 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 8 di 55 
+ 
+trasformati in quote, e frazioni di quote, sulla base del primo valore di quota successivo al giorno in cui 
+si sono resi disponibili per la valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello 
+risultante al primo giorno di valorizzazione utile successivo a quello in cui l’Impresa di assicurazione ha 
+verificato la sussistenza delle condizioni che danno diritto alle prestazioni. 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono 
+intangibili e non possono formare oggetto di sequestro o pignoramento da parte dei creditori 
+dell’aderente. 
+Art.11. -  Prestazioni pensionistiche  
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei 
+requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, con 
+almeno cinque anni di partecipazione alle form e pensionistiche complementari. Il predetto termine è 
+ridotto a tre anni per il lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal fatto che 
+lo stesso acquisisca il diritto a una pensione complementare e che si sposta in un altro Stato membro 
+dell’Unione europea. L’aderente che decide di proseguire volontariamente la contribuzione ai sensi del 
+comma 7 dell’ art. 9 ha la facoltà di determinare autonomamente il momento di fruizione delle 
+prestazioni pensionistiche. 
+2. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera età pensionabile quella vigente 
+nel regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche 
+sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati 
+dall’aderente per i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale. 
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione 
+nei regimi obbligatori di appartenenza e il periodo minimo di  partecipazione alle forme pensionistiche 
+complementari di cui al comma 1, ha facoltà di richiedere che le prestazioni siano erogate, in tutto o in 
+parte, in forma di RITA con un anticipo massimo di cinque anni rispetto alla data di maturazione dell’età 
+anagrafica prevista per  la pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un 
+periodo di tempo superiore a ventiquattro mesi e abbia maturato il periodo minimo di partecipazione 
+alle forme pensionistiche complementari di cui al comma 1, ha facoltà di richiedere la rendita di cui al 
+comma 4 con un anticipo massimo di dieci anni rispetto alla data di maturazione dell’età anagrafica per 
+la pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento verrà fatta confluire, salvo 
+diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo e indicato nella Nota 
+informativa. L’aderente può successivamente variare il comparto nel rispetto del periodo minimo di 
+permanenza. 
+7. Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta la cessazione 
+dell’erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha la facoltà 
+di richiedere, con riferimento alla sola porzione residua della posizione individuale, il risca tto e 
+l’anticipazione di cui agli artt. 13 e 14, ovvero la prestazione pensionistica. 
+9. In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende 
+automaticamente revocata e viene trasferita l’intera posizione individuale. 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di 
+capitale nel limite del 50 per cento della posizione individuale maturata. Nel computo dell’importo 
+complessivo erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali 
+non si sia provveduto al reintegro. Qualora l’importo che si ottiene convertendo in rendita vitalizia 
+immediata annua senza reversibilità a favore dell’aderente il 70 per cento della posizione individuale 
+maturata risulti inferiore al 50 per cento dell’assegno sociale di cui all’articolo 3, commi 6 e 7, della
+=== pagina 10 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 9 di 55 
+ 
+legge 8 agosto 1995, n. 335, l’aderente può optare per la liquidazione in capitale dell’intera posizione 
+maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 
+aprile 1993 ed entro tale data iscritto a una forma pensionistica complementare istituita alla data di 
+entrata in vigore della legge 23 ottobre 1992, n. 421, p uò richiedere la liquidazione dell’intera 
+prestazione pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche  in capitale e in rendita  sono sottoposte agli stessi limiti di cedibilità, 
+sequestrabilità e pignorabilità in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto 
+può trasferire la propria posizione individuale presso altra forma pensionistica complementare, per 
+avvalersi delle condizioni di erogazione della ren dita praticate da quest’ultima. In tal caso si applica 
+quanto previsto all’Art.13, comma 6 e 7. 
+Art.12. -  Erogazione della rendita 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita 
+vitalizia immediata calcolata in base alla posizione individuale maturata, al netto della eventuale quota 
+di prestazione da erogare sotto forma di capitale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle forme di seguito 
+indicate:  
+- una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’aderente stesso, alla/e  persona/e da lui 
+designata/e; 
+- una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 anni 
+all’aderente o, in caso di suo decesso, alla /e persona/e da lui designata/e . Successivamente, se 
+l’aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia; 
+- una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 10 anni 
+all’aderente o, in caso di suo decesso, alla/e  persona/e da lui designata/e . Successivamente, se 
+l’aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia. 
+3. Nell’Allegato n.2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite e i 
+coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo calcolo. Tali 
+coefficienti possono essere successivamente variati, nel rispetto della normativa in materia di stabilità 
+delle compagnie di assicurazione; in ogni caso, le modifiche dei coefficienti di trasformazione non si 
+applicano ai soggetti, già aderenti alla data di introduzione delle modifiche stesse, che esercitano il 
+diritto alla prestazione pensionistica nei tre anni successivi. 
+4. Le simulazioni relative alla rendita che verrà erogata sono effettuate facendo riferimento, laddove vi 
+sia l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’Allegato n.2 e, negli 
+altri casi, a coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base alle 
+proiezioni ufficiali disponibili sull’andamento della mortalità della popolazione italiana. 
+Art.13. -  Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare decorso un periodo minimo di due anni di partecipazione al Fondo. 
+2. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale 
+acceda in relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività 
+lavorativa che comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e non 
+superiore a quarantotto mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di 
+mobilità, cassa integrazione guadagni, ordinaria o straordinaria;
+=== pagina 11 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 10 di 55 
+ 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la 
+riduzione della capacità di lavoro a meno di un terzo e a seguito di cessazione dell’attività lavorativa 
+che comporti l’inoccupazione per un periodo di tempo superiore a quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi dell’art.14, comma 5 del Decreto ovvero 
+trasferirla ad altra forma pensionistica complementare, qualora vengano meno i requisiti di 
+partecipazione.  
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di  
+trasferimento e riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore 
+contribuzione. Tale opzione trova automatica applicazione in difetto di diversa scelta da parte 
+dell’aderente. Nel caso in cui il valore della posizione individuale maturata non sia superiore all’importo 
+di una mensilità dell’assegno sociale di cui all’art.3, comma 6, della Legge 8 agosto 1995, n.335, 
+l’Impresa di assicurazione informa l’aderente della facoltà di trasferire la propria posizione individuale 
+ad altra forma pensionistica complementare, ovvero di chiedere il riscatto dell’intera posizione di cui 
+al comma 2, lettera d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero 
+nel corso dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la posizione 
+individuale è riscattata dai soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, o in 
+mancanza dagli eredi. In mancanza di tali soggetti, la posizione individuale resta acquisita al Fondo.  
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.  
+6. L’impresa di assicurazione, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto 
+della posizione con tempestività, e comunque non oltre il termine massimo di  90 giorni decorrente 
+dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, l’Impresa di 
+assicurazione richiede gli elementi integrativi e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della 
+partecipazione al Fondo. 
+Art.14. -  Anticipazioni  
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e 
+misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie 
+conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi 
+straordinari riconosciuti dalle competenti strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore 
+al 75 per cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, per la realizzazione, 
+sulla prima casa di abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro 
+e di risanamento conservativo, di ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 
+1 dell’art. 3 del Decreto del Presidente della Repubblica 6 giugno 2001, n. 380;  
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore 
+al 30 per cento, per la soddisfazione di ulteriori sue esigenze. 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono 
+riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento 
+della posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate. 
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono 
+considerati utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati 
+dall’aderente, per i quali lo stesso non abbia eserci tato il diritto di riscatto totale della posizione 
+individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in 
+qualsiasi momento.
+=== pagina 12 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 11 di 55 
+ 
+6. Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, sequestrabilità 
+e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+7. L’Impresa di assicurazione provvede agli adempimenti conseguenti all’esercizio delle predette facoltà 
+da parte dell’aderente con tempestività e comunque non oltre il termine massimo di 90 giorni 
+decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, 
+l’Impresa di assicurazione richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino 
+alla data del completamento o della regolarizzazione della pratica. 
+Art. 14-bis - Prestazioni accessorie 
+1. Il Fondo prevede inoltre le seguenti prestazioni: 
+a) il pagamento di un capitale da corrispondere in caso di decesso o in caso di sopravvenuta invalidità 
+totale e permanente; 
+b) il pagamento di un capitale da corrispondere in caso di decesso. 
+Il Fondo Aperto eroga la prestazione di cui al punto a) mediante “l’assicurazione temporanea in caso 
+di morte o invalidità” e la prestazione di cui al punto b) mediante “l’assicurazione temporanea in caso 
+di morte”. 
+2. L’adesione alle suddette prestazioni è facoltativa e può essere espressa all’atto dell’adesione al Fondo 
+o successivamente mediante sottoscrizione di apposito modulo.  
+3. Le condizioni delle suddette prestazioni sono indicate nell’Allegato n.3 al presente Regolamento. 
+PARTE IV – PROFILI ORGANIZZATIVI 
+Art.15. -  Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia 
+al patrimonio dell’Impresa di assicurazione , sia a quello degli altri fondi gestiti, sia a quello degli 
+aderenti. 
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non 
+può essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecut ive da parte dei creditori dell’Impresa di 
+assicurazione o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di 
+rappresentanti dei creditori stessi. Il patrimonio del Fondo non può essere coinvolto nelle procedure 
+concorsuali che riguardino l’Impresa di assicurazione. 
+4. L’Impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e 
+contabile delle operazioni poste in essere per conto del Fondo rispetto al complesso del le altre 
+operazioni svolte dall’Impresa di assicurazione  e del patrimonio d el Fondo rispetto a quello 
+dell’Impresa di assicurazione e di suoi clienti. 
+5. Ferma restando la responsabilità dell’Impresa di assicurazione per l’operato del soggetto delegato, la 
+gestione amministrativa e contabile del Fondo può essere delegata a terzi. 
+6. L’Impresa di assicurazione è dotata di procedure organizzative atte a garantire la separatezza 
+amministrativa e contabile delle operazioni poste in essere in riferimento a ciascun comparto. 
+7. Il patrimonio di ciascun comparto è suddiviso in quote o in differenti classi di quote. 
+Art.16. -  Sistema di governo 
+1. L’Impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla portata e 
+alla complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4-bis, 5-bis, 5-
+ter, 5 -quater, 5 -sexties, 5 -septies, 5 -octies e 5 -nonies del Decreto in coerenza con gli assetti 
+organizzativi del rispettivo settore di riferimento.
+=== pagina 13 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 12 di 55 
+ 
+ 
+Art.17. -  Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei 
+requisiti previsti dalle vigenti disposizioni normative (di seguito “depositario”). 
+2. L’Impresa di assicurazione può revocare in ogni momento l’incarico al depositario il quale può, a sua 
+volta, rinunciare con preavviso di almeno sei mesi; in ogni caso, l’efficacia della revoca o della rinuncia 
+è sospesa fino a che: 
+- l’Impresa di assicurazione non abbia stipulato un nuovo contratto con altro depositario, in possesso 
+dei requisiti di legge; 
+- il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità 
+dell’Impresa di assicurazione per l’operato del soggetto delegato. 
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente. 
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità 
+riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di 
+cui sono venuti a conoscenza nell’esercizio delle funzioni di depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono 
+ammesse azioni dei creditori del depositario, del sub depositario o nell’interesse degli stessi. 
+Art.18. -  Responsabile  
+1. L’Impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’art.5, comma 2 del Decreto. 
+2. Le disposizioni che regolano la nomina, le  competenze e il regime di responsabilità del Responsabile 
+sono riportate nell’Allegato n.1. 
+Art.19. -  Organismo di rappresentanza  
+1. È istituito un Organismo di rappresentanza (di seguito “Organismo”), ai sensi dell’art.5, comma  5 del 
+Decreto. 
+2. Le disposizioni che regolano la nomina, la composizione e il funzionamento dell’Organismo di 
+rappresentanza sono riportate in un apposito documento denominato “Disposizioni in materia di 
+Organismo di rappresentanza”. 
+3. L’Impresa di assicurazione individua il numero complessivo dei componenti dell’Organismo in modo 
+tale da garantire la rappresentatività degli iscritti per adesioni collettive e la funzionalità 
+dell’Organismo. 
+4. Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle che alla fine del 
+mese precedente alla designazione hanno almeno 500 lavoratori iscritti al Fondo. 
+5. I componenti dell’Organismo restano in carica tre anni e possono svolgere più mandati. I componenti 
+nominati in sostituzione di quelli cessati in corso di mandato scadono insieme a quelli in carica all’atto 
+della loro nomina. 
+6. Le spese di funzionamento dell’Organismo e gli eventuali compensi riconosciuti ai suoi componenti non 
+possono gravare sul Fondo né sull’Impresa di assicurazione. 
+7. L’Organismo svolge funzioni di collegamento tra le collettività che aderiscono al Fondo, l’Impresa di 
+assicurazione e il Responsabile. L’Organismo non svolge funzioni di controllo. 
+8. I componenti dell’Organismo devono adempiere le loro funzioni nel rispetto dei principi generali di 
+correttezza e buona fede e devono conservare il segreto sui fatti e sui documenti di cui hanno 
+conoscenza in ragione del loro ufficio.
+=== pagina 14 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 13 di 55 
+ 
+Art.20. -  Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi 
+della normativa tempo per tempo vigente. 
+Art.21. -  Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle 
+posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+2. L’Impresa di assicurazione conferisce a una società di revisione l’incarico di esprimere , con apposita 
+relazione, un giudizio sul rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web dell’Impresa di assicurazione. 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+Art.22. -  Modalità di adesione e clausole risolutive espresse 
+1. L’adesione al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. L’adesione è 
+preceduta dalla consegna della documentazione informativa prevista tempo per tempo dalla normativa 
+vigente. 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite all’Impresa di 
+assicurazione. 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera di 
+conferma, attestante la data di iscrizione e le informazioni relative all’eventuale versamento effettuato. 
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi allegati, e delle 
+successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’Art.26. 
+5. In caso di adesione mediante conferimento tacito del TFR il Fondo, sulla base dei dati forniti dal datore 
+di lavoro, comunica all’aderente l’avvenuta adesione e le informazioni necessarie al fine di consentire 
+a quest’ultimo l’esercizio delle scelte di sua competenza. 
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze 
+dell’Impresa di assicurazione da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione 
+dell’Impresa di assicurazione. Le adesioni su base collettiva possono essere raccolte anche presso i 
+luoghi indicati nella Nota informativa. 
+7. L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di 
+recesso e senza dover indicare il motivo dello stesso. In caso di adesione mediante sito web, l’Impresa 
+di assicurazione deve acquisire il consenso espresso dell’aderente all’utilizzo di tale strumento. 
+L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di 
+recesso e senza dover indicare il motivo  dello stesso. Per l’esercizio del diritto di recesso, l’aderente 
+invia una comunicazione scritta all’Impresa di assicurazione con modalità che garantiscono certezza 
+della data di ricezione. L’Impresa di assicurazione, entro trenta giorni dal ricevimento della 
+comunicazione, procede a rimborsare le somme eventualmente pervenute, al netto delle spese di 
+adesione, ove trattenute. L’Impresa di assicurazione rende previamente noti all’aderente il momento 
+in cui l’adesione si intende conclusa, i termini, le modalità e i criteri di determinazione delle somme 
+oggetto di rimborso. 
+8. L’aderente è tenuto ad effettuare il versamento della prima contribuzione entro sei mesi dall’adesione 
+al Fondo. In caso di inadempimento, l’Impresa di assicurazione ha facoltà, ai sensi dell’art.1456 del 
+Codice Civile, di risolvere il contratto comunicand o all’aderente la propria volontà di avvalersi della 
+clausola risolutiva espressa, salvo che l’aderente non provveda ad effettuare un versamento entro 
+sessanta giorni dalla ricezione della comunicazione. 
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con 
+conseguente azzeramento della posizione individuale a seguito dell’applicazione delle spese annuali di 
+gestione amministrativa, l’Impresa di assicurazione ha facoltà, ai sensi dell’art.1456 del Codice Civile,
+=== pagina 15 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 14 di 55 
+ 
+di risolvere il contratto comunicando la propria volontà di avvalersi della clausola risolutiva espressa, 
+salvo che l’aderente non provveda ad effettuare un versamento entro sessanta giorni dalla ricezione 
+della comunicazione. 
+Art.23. -  Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. L’Impresa di assicurazione mette a disposizione degli aderenti la documentazione inerente al Fondo e 
+tutte le altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali 
+documenti sono disponibili sul sito web dell’Impresa di assicurazione, in un’apposita sezione dedicata 
+alle forme pensionistiche complementari e presso la sede legale dell’Impresa di assicurazione. I 
+documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e gratuitamente anche 
+presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni. 
+2. L’Impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni 
+individuali maturate e alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per 
+tempo vigente. 
+Art.24. -  Comunicazioni e reclami 
+1. L’Impresa di assicurazione  definisce le modalità con le quali gli aderenti e i beneficiari possono 
+rappresentare le proprie esigenze e presentare reclami in coerenza con le indicazioni fornite dalla 
+COVIP, riportandole nella Nota informativa. 
+PARTE VI – NORME FINALI 
+Art.25. -  Modifiche al Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP. 
+2. L’Impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse 
+degli aderenti e fatto salvo quanto disposto all’art. 26. 
+Art.26. -  Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione 
+individuale maturata ad altra forma pensionistica complementare, anche prima che siano decorsi due 
+anni dall’iscrizione. Il diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in 
+modo sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione significativa 
+delle politiche di investimento. 
+2. L’Impresa di assicurazione comunica a ogni aderente interessato l’introduzione delle modifiche almeno 
+centoventi giorni prima della relativa data di efficacia; dal momento della comunicazione l’aderente ha 
+novanta giorni di tempo per manifestare l’eventuale scelta di trasferimento. L’Impresa di assicurazione 
+può chiedere alla COVIP termini ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del 
+Fondo e non contrasti con l’interesse degli aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese. 
+Art.27. -  Cessione del Fondo 
+1. Qualora l’Impresa  di assicurazione non voglia o non possa più esercitare l’attività di gestione del Fondo, 
+questo viene ceduto ad altro soggetto, previa autorizzazione all’esercizio. In  caso di cessione del Fondo 
+a società diverse da quelle del Gruppo al quale appartiene l’Impresa di assicurazione viene riconosciuto 
+agli aderenti il diritto al trasferimento della posizione presso altra forma pensionistica complementare 
+ai sensi dell’Art.26 e con le modalità ivi previste.
+=== pagina 16 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 15 di 55 
+ 
+Art.28. -  Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fusione 
+con un altro fondo gestito dalla medesima Impresa di assicurazione , il diritto al trasferimento della 
+posizione presso altra forma pensionistica complementare viene riconosciuto qualora ricorrano le 
+condizioni di cui all’Art. 26 e con le modalità ivi previste. 
+Art.29. -  Rinvio 
+2. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla 
+normativa tempo per tempo vigente.
+=== pagina 17 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 16 di 55 
+ 
+ALLEGATO N.1 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+Art.1. -  Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione dell’Impresa di assicurazione che 
+esercita l’attività del Fondo. L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non 
+più di una volta consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene nominato 
+il nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di controllo 
+dell’Impresa di assicurazione. 
+4. Le nomine, gli eventuali rinnovi dell’incarico, le sostituzioni del Responsabile prima della scadenza del 
+termine vengono comunicati alla COVIP entro quindici giorni deliberazione. 
+Art.2. -  Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile, sono previsti dalla normativa tempo per tempo 
+vigente. 
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa p resso 
+l’Impresa di assicurazione o società da questa controllate o che la controllano; 
+b) l’incarico di amministratore dell’Impresa di assicurazione. 
+Art.3. -  Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incompatibilità 
+comporta la decadenza dall’incarico. 
+Art.4. -  Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’atto della 
+nomina per l’intero periodo di durata dell’incarico e viene definita sulla base di una sana politica di 
+remunerazione che tenga conto dei principi previsti dalla normativa tempo per tempo vigente, fermo 
+restando che il compenso del Responsabile non può essere pattuito sotto forma di partecipazione agli 
+utili dell’Impresa di assicurazione, o di società controllanti o controllate, né sotto forma di diritti di 
+acquisto o di sottoscrizione di azioni dell’Impresa di assicurazione o di società controllanti o controllate. 
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a 
+carico del Fondo, salva diversa decisione dell’Impresa di assicurazione. 
+Art.5. -  Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dall’Impresa di 
+assicurazione riportando direttamente all’organo di amministrazione della stessa relativamente ai 
+risultati dell’attività svolta. 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative dell’Impresa di 
+assicurazione, di volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri 
+di cui all’Art.6. L’Impresa di assicurazione gli garantisce l’accesso a tutte le informazioni necessarie allo 
+scopo. 
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo dell’Impresa 
+di assicurazione, per tutte le materie inerenti al Fondo.
+=== pagina 18 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 17 di 55 
+ 
+Art.6. -  Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei 
+beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle buone 
+pratiche e dei principi di corretta amministrazione del Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dall’Impresa di assicurazione , organizza lo 
+svolgimento delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe di 
+gestione, con riferimento ai controlli su: 
+i) la politica di investimento. In particolare: che la politica di investimento effettivamente seguita 
+sia coerente con quella indicata nel Regolamento e nel Documento sulla politica di 
+investimento e che gli investimenti, ivi compresi quelli effettuati in OICR, avvengano 
+nell’esclusivo interesse degli aderenti, nel rispetto dei principi di sana e prudente gestione 
+nonché nel rispetto dei criteri e limiti previsti dalla normativa tempo pe r tempo vigente e dal 
+Regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investimenti 
+effettuati siano correttamente identificati, misurati e controllati e che siano coerenti con gli 
+obiettivi perseguiti dalla politica di investimento; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di deleghe 
+di gestione, con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per conto del Fondo 
+rispetto al complesso delle altre operazioni svolte dall’Impresa di assicurazione  e del 
+patrimonio del Fondo rispetto a quello dell’Impresa di assicurazione e di suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti con riferimento ai 
+controlli su: 
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli aderenti e 
+dei beneficiari, sia al momento del collocamento del Fondo che durante il rapporto; 
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei beneficiari previste 
+dal Regolamento e le eventuali commissioni correlate ai risultati di gestione siano correttamente 
+applicate; 
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni periodiche agli 
+aderenti e ai beneficiari e in quelle inviate in occasione di eventi particolari; 
+iv) l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento riservato ai 
+singoli reclami; 
+v) la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con riferimento 
+ai tempi di liquidazione delle somme richieste a titolo di anticipazione o riscatto e di 
+trasferimento della posizione individuale. 
+3. Il Responsabile controlla le soluzioni adottate dall’Impresa di assicurazione per identificare le situazioni 
+di conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; 
+egli controlla altresì la corretta esecuzione del contratto stipulato per il conferimento dell’incarico di 
+depositario, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle rendite 
+e, ove presenti, delle convenzioni/condizioni relative alle prestazioni accessorie. 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva 
+comunicazione all’organo di amministrazione e a quello di controllo dell’ Impresa di assicurazione 
+indicando gli interventi correttivi da adottare. 
+Art.7. -  Rapporti con la COVIP 
+1. Il Responsabile: 
+- predispone annualmente una relazione che descrive in maniera analitica l’organizzazione adottata 
+per l’adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale
+=== pagina 19 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 18 di 55 
+ 
+per l’esecuzione dell’incarico, dei risultati dell’attività svolta, delle eventuali irregolarità riscontrate 
+durante l’anno e delle iniziative poste in essere per eliminarle. La relazione viene trasmessa alla 
+COVIP entro il 31 marzo di ciascun anno. Copia della relazione stessa viene trasmessa all’organo di 
+amministrazione e a quello di controllo dell’Impresa di assicurazione; 
+- vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa le 
+segnalazioni, la documentazione e le relazioni richieste dalla normativa tempo per tempo vigente 
+e dalle istruzioni emanate in proposito; 
+- comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazion e e a quello 
+di controllo dell’Impresa di assicurazione, le irregolarità riscontrate nell’esercizio delle sue funzioni. 
+Art.8. -  Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura 
+dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti di 
+cui ha conoscenza in ragione del suo ufficio,  tranne che nei confronti della COVIP e delle autorità 
+giudiziarie. 
+2. Egli risponde verso l’Impresa di assicurazione e verso i singoli aderenti e beneficiari del Fondo dei danni 
+a ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391, 2392, 2393, 2394, 2394-
+bis e 2395 del Codice Civile.
+=== pagina 20 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 19 di 55 
+ 
+ 
+ 
+ 
+ALLEGATO N.2 
+CONDIZIONI E MODALITÀ 
+DI EROGAZIONE DELLE RENDITE 
+ 
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA CON 
+RIVALUTAZIONE ANNUALE DELLA RENDITA 
+(TASSO TECNICO 0,0%) 
+ 
+Prestazioni contrattuali  
+- Forma A 
+Il contratto di rendita vitalizia immediata garantisce il godimento da parte dell’Assicurato di una rendita 
+vitalizia, rivalutabile annualmente. La rendita è pagata in via posticipata in base alla rateazione della rendita 
+stessa (annuale, semestrale, quadrimestrale, trimestrale, bimestrale, mensile) vita natural durante 
+dell’Assicurato. La rendita avrà decorrenza dal giorno del pagamento del premio e sarà erogata, su richiesta 
+dell’Assicurato, a mezzo bonifico o assegno bancario non trasferibile  secondo la rateazione prescelta . La 
+documentazione necessaria all’Impresa di assicurazione per l’erogazione della rendita è la seguente:  
+- generalità complete dell’Assicurato (cognome e nome, luogo e data di nascita, residenza, codice 
+fiscale);  
+- certificato di esistenza in vita;  
+- coordinate bancarie nel caso di pagamento a mezzo bonifico bancario (denominazione banca, IBAN, 
+generalità dell’intestatario del conto).  
+La liquidazione della rendita viene effettuata il giorno stesso della scadenza di ogni singola rata, pre vio 
+accertamento, da parte dell’Impresa di assicurazione, dell’esistenza in vita dell’Assicurato.  
+La Compagnia provvede ad accertare l’esistenza in vita dell’Assicurato. Nel caso in cui sia necessario ai fini 
+della verifica dell’obbligo di pagamento , la Compagnia potrà richiedere direttamente all’Assicurato 
+documentazione comprovante l’esistenza in vita dello stesso o un’autocertificazione corredata da fotocopia 
+fronte retro di un documento d’identità in corso di validità.  Il decesso dell’assicurato dovrà essere 
+tempestivamente comunicato all’Impresa di assicurazione, la quale avrà diritto alla restituzione delle rate 
+di rendita eventualmente liquidate ma non dovute a seguito del decesso. In ogni caso, fatto salvo quanto 
+previsto al paragrafo “Prestazioni alternative” per le Forme B e C, l’Impresa di assicurazione corrisponde il 
+rateo di rendita maturato al momento del decesso dell’Assicurato, relativo al tempo trascorso dall’ultima 
+scadenza di rata precedente al decesso o, se non è ancora scaduta la prima rata di rendita, dal termine della 
+fase di accumulo. 
+Prestazioni alternative  
+L’Assicurato, in luogo della rendita vitalizia di cui sopra, può richiedere l’erogazione della rendita in una delle 
+seguenti forme:  
+- Forma B  
+una rendita certa per i primi 5 anni e successivamente vitalizia; detta rendita è corrisposta per i primi 5 anni 
+all’aderente o, in caso di suo decesso, alla/e persona/e da lui designata/e e, successivamente, all’aderente
+=== pagina 21 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 20 di 55 
+ 
+finché in vita; 
+- Forma C  
+una rendita certa per i primi 10 anni e successivamente vitalizia; detta rendita è corrisposta per i primi 10 
+anni all’aderente o, in caso di suo decesso, alla /e persona/e da lui designata /e e, successivamente, 
+all’aderente finché in vita;  
+- Forma D 
+una rendita vitalizia reversibile; detta rendita è corrisposta all’aderente finché è in vita e successivamente, 
+in misura totale o per la quota scelta dall’aderente stesso, alla/e persona/e da lui designata/e.  
+La documentazione necessaria all’Impresa di assicurazione  per l’erogazione delle forme di rendita sopra 
+indicate è la seguente:  
+-  generalità complete dell’Assicurato (cognome e nome, luogo e data di nascita, residenza, codice 
+fiscale); 
+-  certificato di esistenza in vita;  
+-  atto di designazione del/i beneficiario/i in caso di morte e generalità complete dello/degli stesso/i; 
+-  coordinate bancarie nel caso di pagamento a mezzo bonifico bancario (denominazione banca, IBAN, 
+generalità dell’intestatario del conto).  
+Le modalità di accertamento in vita e le modalità e i tempi di pagamento delle rendite sono quelli previsti nel 
+paragrafo precedente.  
+ 
+Determinazioni delle prestazioni contrattuali  
+L’ammontare della rendita vitalizia (Forma A) si determina dividendo il premio unico netto, corrisposto dal 
+Fondo Aperto, per il rispettivo coefficiente di cui alle Tabelle Am e Af distinte per sesso per le adesioni su 
+base collettiva e A per le adesioni su base individuale  corrispondente alla rateazione prescelta ed all’età 
+corretta. L’importo di ciascuna rata di rendita si ottiene dividendo l’ammontare della rendita di cui sopra per 
+il numero di rate prescelto. I coefficienti delle tariffe della Forma A per età corrette diverse da quelle riportate 
+nelle Tabelle Am, Af e A sono conservati agli atti del Fondo Aperto.  
+L’ammontare della rendita vitalizia certa ( Forme B e C ) si determina dividendo il premio unico netto, 
+corrisposto dal Fondo Aperto, per un coefficiente determinato sulla base della rateazione prescelta, del sesso 
+(nel caso delle adesioni su base collettiva)  e dell’età corretta dell’Assicurato. L’importo di ciascuna rata di 
+rendita si ottiene dividendo l’ammontare della rendita di cui sopra per il numero di rate prescelto. I 
+coefficienti delle Forme B e C sono riportati rispettivamente, per le adesioni su base collettiva nelle Tabelle 
+Bm, Bf, Cm e Cf, per le adesioni su base individuale nelle Tabelle B e C e conservati agli atti del Fondo Aperto.  
+L’ammontare della rendita vitalizia reversibile ( Forma D ) si determina dividendo il premio unico netto, 
+corrisposto dal Fondo Aperto, per un coefficiente determinato sulla base della rateazione prescelta, della 
+quota reversionaria, del sesso (nel caso delle adesioni su base collettiva) e dell’età corretta sia dell’Assicurato 
+che del reversionario (ovvero dei reversionari). L’importo di ciascuna rata di rendita si ottiene dividendo 
+l’ammontare della rendita di cui sopra per il numero di rate prescelto. I coefficienti della Forma D  sono 
+conservati agli atti del Fondo Aperto. 
+L’età corretta dell’Assicurato, e degli eventuali reversionari, viene determinata sommando algebricamente 
+all’età computabile il fattore correttivo corrispondente all’anno di nascita e al sesso (nel caso delle adesioni 
+su base collettiva) contenuto nelle seguenti tabelle “AGE-SHIFTING”:
+=== pagina 22 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 21 di 55 
+ 
+TABELLA “AGE-SHIFTING” PER ADESIONI SU BASE COLLETTIVA 
+MASCHI FEMMINE 
+anno di nascita  fattore correttivo  anno di nascita  fattore correttivo  
+Fino al 1925 + 4 Fino al 1929 + 4 
+Dal 1926 al 1938 + 3 Dal 1930 al 1940 + 3 
+Dal 1939 al 1947 + 2 Dal 1941 al 1949 + 2 
+Dal 1948 al 1957 + 1 Dal 1950 al 1957 + 1 
+Dal 1958 al 1966 0 Dal 1958 al 1966 0 
+Dal 1967 al 1978 - 1 Dal 1967 al 1976 - 1 
+Dal 1979 al 1992 - 2 Dal 1977 al 1986 - 2 
+Dal 1993 al 2006 - 3 Dal 1987 al 1996 - 3 
+Dal 2007 al 2020 - 4 Dal 1997 al 2007 - 4 
+Dal 2021 - 5 Dal 2008 al 2018 - 5 
+  Dal 2019 al 2020 - 6 
+  Dal 2021 - 7 
+ 
+TABELLA “AGE-SHIFTING” PER ADESIONI SU BASE INDIVIDUALE 
+MASCHI E FEMMINE 
+anno di nascita fattore correttivo 
+Fino al 1926 + 4 
+Dal 1927 al 1938 + 3 
+Dal 1939 al 1947 + 2 
+Dal 1948 al 1957 + 1 
+Dal 1958 al 1966 0 
+Dal 1967 al 1977 - 1 
+Dal 1978 al 1989 - 2 
+Dal 1990 al 2001 - 3 
+Dal 2002 al 2014 - 4 
+Dal 2015 al 2020 - 5 
+Dal 2021 - 6 
+ 
+L’età computabile dell’Assicurato, e degli eventuali reversionari, si determina in anni interi, con riferimento 
+all’anniversario di nascita più vicino al momento di ingresso in assicurazione (data di effetto dell’assicurazione 
+di rendita); si trascura, pertanto, la frazione d’anno inferiore a sei mesi e si considera, invece, come anno la 
+frazione d’anno che supera od eguaglia il semestre. Il premio unico netto si ottiene depurando il premio lordo 
+dalle imposte di Legge.  
+Spese per il servizio di erogazione della rendita 
+Le spese per il servizio di erogazione della rendita sono pari allo 0,8% della rendita annua stessa, maggiorato 
+di tante volte lo 0,1% per quante sono le rate di rendita dovute nell’anno. I coefficienti riportati nelle Tabelle 
+Am, Af, Bm, Bf, Cm, Cf e A, B, C sono già comprensivi di tali spese.  
+Basi demografiche e finanziarie  
+I coefficienti delle Forme A, B, C e D sono stati determinati tenendo conto della speranza di vita desunta dalle
+=== pagina 23 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 22 di 55 
+ 
+Basi demografiche per rendite vitalizie elaborate dall’ANIA rispettivamente: 
+ 
+per le adesioni su base collettiva Tavola A62I distinta per sesso e per anno di nascita 
+per le adesioni su base individuale 
+Tavola A62I indifferenziata per sesso 
+(composizione: 40% maschi; 60% femmine) e 
+distinta per anno di nascita 
+ 
+Il tasso di interesse tecnico è pari allo 0,0% annuo composto posticipato. Le tavole demografiche e finanziarie 
+utilizzate per la costruzione dei coefficienti sono conservate agli atti del Fondo Aperto.  
+ 
+Rivalutazione della rendita assicurata  
+Ad ogni anniversario della data di effetto della rendita, la rendita stessa, in vigore nel periodo annuale 
+precedente, verrà rivalutata nella misura e secondo le modalità riportate nella Clausola di Rivalutazione. 
+Riscatto  
+La presente forma assicurativa non ammette valore di riscatto.  
+Clausola di salvaguardia  
+Nel corso di esecuzione del contratto, potranno essere applicate modifiche concernenti condizioni tariffarie 
+(tassi di premio unico e/o aliquote di retrocessione), in adeguamento a disposizioni normative di fonte 
+primaria e secondaria, ovvero, nel rispetto  della normativa di stabilità delle compagnie di assicurazione e 
+delle relative disposizioni applicative emanate dall’IVASS; in ogni caso, tali modifiche non potranno essere 
+applicate né sulle rendite in fase di erogazione, né ai soggetti, già aderenti alla data di introduzione delle 
+stesse, che esercitino il diritto alla prestazione pensionistica nei tre anni successivi.
+=== pagina 24 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 23 di 55 
+ 
+FORMA A - ADESIONI SU BASE COLLETTIVA 
+ 
+Tabella Am 
+MASCHI 
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 47,9921 48,2921 48,4242 48,5143 48,6524 48,9828 
+41 47,0180 47,3171 47,4482 47,5373 47,6735 47,9981 
+42 46,0444 46,3425 46,4727 46,5608 46,6951 47,0139 
+43 45,0715 45,3686 45,4978 45,5850 45,7173 46,0303 
+44 44,0990 44,3952 44,5234 44,6096 44,7401 45,0473 
+45 43,1292 43,4245 43,5517 43,6370 43,7655 44,0669 
+46 42,1613 42,4556 42,5819 42,6662 42,7928 43,0885 
+47 41,1955 41,4889 41,6142 41,6975 41,8222 42,1121 
+48 40,2312 40,5235 40,6479 40,7303 40,8530 41,1373 
+49 39,2692 39,5606 39,6840 39,7654 39,8863 40,1648 
+50 38,3071 38,5976 38,7200 38,8005 38,9194 39,1922 
+51 37,3470 37,6365 37,7581 37,8376 37,9546 38,2217 
+52 36,3894 36,6779 36,7985 36,8771 36,9922 37,2536 
+53 35,4344 35,7220 35,8416 35,9193 36,0325 36,2882 
+54 34,4830 34,7697 34,8884 34,9650 35,0764 35,3264 
+55 33,5354 33,8211 33,9389 34,0146 34,1241 34,3685 
+56 32,5915 32,8763 32,9931 33,0679 33,1755 33,4143 
+57 31,6512 31,9351 32,0509 32,1248 32,2305 32,4638 
+58 30,7143 30,9972 31,1122 31,1851 31,2890 31,5167 
+59 29,7806 30,0626 30,1766 30,2487 30,3507 30,5728 
+60 28,8506 29,1317 29,2448 29,3159 29,4161 29,6326 
+61 27,9253 28,2054 28,3176 28,3878 28,4862 28,6972 
+62 27,0068 27,2861 27,3973 27,4666 27,5631 27,7687 
+63 26,0963 26,3747 26,4850 26,5534 26,6481 26,8483 
+64 25,1949 25,4724 25,5819 25,6493 25,7423 25,9371 
+65 24,2984 24,5750 24,6836 24,7502 24,8414 25,0308 
+66 23,4055 23,6812 23,7889 23,8546 23,9440 24,1282 
+67 22,5170 22,7919 22,8987 22,9635 23,0511 23,2300 
+68 21,6335 21,9074 22,0134 22,0773 22,1632 22,3368 
+69 20,7549 21,0280 21,1330 21,1961 21,2802 21,4487 
+70 19,8820 20,1542 20,2584 20,3206 20,4030 20,5663 
+71 19,0159 19,2873 19,3906 19,4520 19,5327 19,6907 
+72 18,1578 18,4283 18,5308 18,5913 18,6703 18,8232 
+73 17,3100 17,5797 17,6813 17,7410 17,8183 17,9662 
+74 16,4740 16,7428 16,8437 16,9025 16,9781 17,1211 
+75 15,6510 15,9190 16,0190 16,0770 16,1511 16,2891 
+76 14,8418 15,1090 15,2082 15,2654 15,3378 15,4711 
+77 14,0474 14,3138 14,4123 14,4687 14,5395 14,6681 
+78 13,2707 13,5364 13,6340 13,6897 13,7590 13,8829 
+79 12,5161 12,7810 12,8779 12,9328 13,0006 13,1201 
+80 11,7845 12,0487 12,1449 12,1991 12,2654 12,3805 
+81 11,0774 11,3409 11,4364 11,4898 11,5548 11,6657 
+82 10,3929 10,6557 10,7505 10,8033 10,8669 10,9738 
+83 9,7324 9,9945 10,0887 10,1408 10,2031 10,3060
+=== pagina 25 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 24 di 55 
+ 
+FORMA A - ADESIONI SU BASE COLLETTIVA 
+ 
+Tabella Af 
+FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 52,1356 52,4397 52,5759 52,6701 52,8164 53,1715 
+41 51,1515 51,4547 51,5899 51,6831 51,8275 52,1767 
+42 50,1681 50,4703 50,6045 50,6967 50,8392 51,1825 
+43 49,1859 49,4871 49,6204 49,7116 49,8521 50,1896 
+44 48,2052 48,5055 48,6378 48,7281 48,8666 49,1983 
+45 47,2261 47,5254 47,6568 47,7461 47,8827 48,2085 
+46 46,2485 46,5468 46,6772 46,7655 46,9002 47,2202 
+47 45,2726 45,5700 45,6994 45,7867 45,9195 46,2337 
+48 44,2990 44,5955 44,7239 44,8103 44,9411 45,2495 
+49 43,3280 43,6235 43,7509 43,8363 43,9652 44,2679 
+50 42,3590 42,6535 42,7800 42,8645 42,9914 43,2883 
+51 41,3921 41,6857 41,8112 41,8947 42,0198 42,3109 
+52 40,4275 40,7200 40,8446 40,9272 41,0503 41,3357 
+53 39,4651 39,7567 39,8804 39,9620 40,0832 40,3629 
+54 38,5051 38,7958 38,9184 38,9991 39,1184 39,3924 
+55 37,5472 37,8369 37,9586 38,0383 38,1558 38,4240 
+56 36,5901 36,8789 36,9996 37,0784 37,1939 37,4565 
+57 35,6335 35,9213 36,0411 36,1189 36,2326 36,4894 
+58 34,6770 34,9638 35,0827 35,1596 35,2713 35,5225 
+59 33,7201 34,0061 34,1240 34,1999 34,3097 34,5552 
+60 32,7636 33,0486 33,1655 33,2405 33,3485 33,5883 
+61 31,8073 32,0914 32,2074 32,2814 32,3875 32,6216 
+62 30,8497 31,1327 31,2478 31,3209 31,4250 31,6535 
+63 29,8912 30,1734 30,2875 30,3596 30,4618 30,6846 
+64 28,9328 29,2140 29,3271 29,3983 29,4987 29,7157 
+65 27,9749 28,2551 28,3674 28,4376 28,5360 28,7474 
+66 27,0179 27,2972 27,4084 27,4777 27,5743 27,7799 
+67 26,0622 26,3406 26,4509 26,5192 26,6139 26,8139 
+68 25,1082 25,3856 25,4950 25,5624 25,6551 25,8494 
+69 24,1566 24,4330 24,5414 24,6079 24,6988 24,8874 
+70 23,2080 23,4835 23,5910 23,6565 23,7455 23,9285 
+71 22,2637 22,5382 22,6448 22,7094 22,7965 22,9739 
+72 21,3243 21,5979 21,7035 21,7672 21,8524 22,0242 
+73 20,3912 20,6639 20,7686 20,8313 20,9147 21,0810 
+74 19,4658 19,7376 19,8414 19,9032 19,9847 20,1455 
+75 18,5492 18,8200 18,9229 18,9838 19,0636 19,2189 
+76 17,6425 17,9125 18,0145 18,0744 18,1524 18,3023 
+77 16,7471 17,0162 17,1173 17,1764 17,2526 17,3972 
+78 15,8642 16,1325 16,2327 16,2909 16,3654 16,5047 
+79 14,9979 15,2653 15,3646 15,4220 15,4947 15,6289 
+80 14,1516 14,4181 14,5166 14,5732 14,6442 14,7734 
+81 13,3286 13,5943 13,6920 13,7477 13,8171 13,9414 
+82 12,5346 12,7995 12,8964 12,9513 13,0192 13,1387 
+83 11,7695 12,0336 12,1298 12,1839 12,2503 12,3653
+=== pagina 26 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 25 di 55 
+ 
+FORMA A - ADESIONI SU BASE INDIVIDUALE 
+ 
+Tabella A 
+MASCHI E FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA 
+TASSO TECNICO 0,0%  
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 50,3165 50,6188 50,7532 50,8456 50,9883 51,3325 
+41 49,3366 49,6380 49,7714 49,8627 50,0035 50,3419 
+42 48,3572 48,6576 48,7901 48,8805 49,0193 49,3519 
+43 47,3789 47,6783 47,8098 47,8992 48,0361 48,3629 
+44 46,4016 46,7001 46,8306 46,9191 47,0541 47,3750 
+45 45,4264 45,7239 45,8534 45,9410 46,0740 46,3891 
+46 44,4528 44,7494 44,8779 44,9645 45,0956 45,4049 
+47 43,4811 43,7767 43,9043 43,9899 44,1191 44,4227 
+48 42,5114 42,8060 42,9327 43,0173 43,1446 43,4423 
+49 41,5441 41,8378 41,9635 42,0472 42,1725 42,4645 
+50 40,5780 40,8707 40,9954 41,0782 41,2016 41,4879 
+51 39,6139 39,9057 40,0295 40,1112 40,2327 40,5133 
+52 38,6522 38,9430 39,0658 39,1466 39,2662 39,5411 
+53 37,6929 37,9828 38,1046 38,1845 38,3022 38,5713 
+54 36,7365 37,0254 37,1463 37,2252 37,3410 37,6045 
+55 35,7829 36,0709 36,1908 36,2688 36,3827 36,6405 
+56 34,8314 35,1184 35,2374 35,3144 35,4265 35,6786 
+57 33,8817 34,1677 34,2858 34,3619 34,4721 34,7185 
+58 32,9335 33,2186 33,3358 33,4109 33,5192 33,7600 
+59 31,9865 32,2707 32,3869 32,4611 32,5675 32,8027 
+60 31,0413 31,3246 31,4398 31,5131 31,6176 31,8472 
+61 30,0983 30,3806 30,4950 30,5673 30,6700 30,8939 
+62 29,1575 29,4389 29,5523 29,6237 29,7245 29,9429 
+63 28,2197 28,5002 28,6126 28,6831 28,7821 28,9949 
+64 27,2859 27,5654 27,6770 27,7465 27,8436 28,0509 
+65 26,3546 26,6332 26,7438 26,8124 26,9077 27,1094 
+66 25,4253 25,7030 25,8127 25,8804 25,9738 26,1700 
+67 24,4988 24,7756 24,8843 24,9511 25,0427 25,2334 
+68 23,5754 23,8512 23,9591 24,0250 24,1147 24,2999 
+69 22,6555 22,9305 23,0374 23,1024 23,1903 23,3700 
+70 21,7400 22,0140 22,1201 22,1841 22,2702 22,4445 
+71 20,8298 21,1029 21,2081 21,2712 21,3555 21,5244 
+72 19,9259 20,1982 20,3024 20,3647 20,4472 20,6107 
+73 19,0302 19,3016 19,4049 19,4663 19,5470 19,7052 
+74 18,1441 18,4146 18,5170 18,5775 18,6565 18,8094 
+75 17,2686 17,5382 17,6398 17,6995 17,7767 17,9244 
+76 16,4049 16,6736 16,7744 16,8332 16,9087 17,0512 
+77 15,5541 15,8220 15,9219 15,9798 16,0536 16,1911 
+78 14,7181 14,9852 15,0843 15,1414 15,2136 15,3461 
+79 13,9013 14,1675 14,2658 14,3221 14,3927 14,5203 
+80 13,1058 13,3713 13,4688 13,5243 13,5933 13,7162 
+81 12,3342 12,5990 12,6957 12,7504 12,8179 12,9362 
+82 11,5889 11,8529 11,9489 12,0029 12,0689 12,1828 
+83 10,8704 11,1337 11,2290 11,2822 11,3468 11,4564
+=== pagina 27 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 26 di 55 
+ 
+FORMA B - ADESIONI SU BASE COLLETTIVA 
+ 
+Tabella Bm 
+MASCHI 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 5 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 48,0038 48,3029 48,4346 48,5245 48,6625 48,9928 
+41 47,0303 47,3283 47,4591 47,5480 47,6840 48,0085 
+42 46,0574 46,3544 46,4842 46,5721 46,7062 47,0249 
+43 45,0853 45,3813 45,5101 45,5970 45,7292 46,0421 
+44 44,1140 44,4089 44,5367 44,6227 44,7529 45,0600 
+45 43,1452 43,4390 43,5658 43,6509 43,7792 44,0805 
+46 42,1783 42,4711 42,5969 42,6810 42,8073 43,1029 
+47 41,2135 41,5053 41,6301 41,7132 41,8376 42,1274 
+48 40,2502 40,5410 40,6648 40,7469 40,8694 41,1535 
+49 39,2894 39,5790 39,7019 39,7830 39,9036 40,1819 
+50 38,3289 38,6175 38,7393 38,8195 38,9381 39,2107 
+51 37,3707 37,6581 37,7790 37,8581 37,9749 38,2417 
+52 36,4151 36,7014 36,8213 36,8995 37,0143 37,2754 
+53 35,4625 35,7477 35,8665 35,9437 36,0566 36,3120 
+54 34,5136 34,7976 34,9154 34,9917 35,1026 35,3524 
+55 33,5686 33,8514 33,9682 34,0435 34,1525 34,3966 
+56 32,6274 32,9091 33,0249 33,0992 33,2063 33,4448 
+57 31,6902 31,9706 32,0854 32,1587 32,2639 32,4968 
+58 30,7568 31,0360 31,1497 31,2221 31,3254 31,5526 
+59 29,8275 30,1054 30,2180 30,2894 30,3908 30,6124 
+60 28,9027 29,1792 29,2908 29,3611 29,4606 29,6766 
+61 27,9832 28,2583 28,3688 28,4382 28,5358 28,7463 
+62 27,0708 27,3445 27,4540 27,5223 27,6180 27,8230 
+63 26,1663 26,4386 26,5470 26,6144 26,7082 26,9077 
+64 25,2704 25,5413 25,6486 25,7151 25,8070 26,0011 
+65 24,3797 24,6493 24,7555 24,8210 24,9111 25,0998 
+66 23,4935 23,7615 23,8667 23,9312 24,0195 24,2028 
+67 22,6127 22,8791 22,9832 23,0467 23,1331 23,3111 
+68 21,7380 22,0027 22,1057 22,1682 22,2527 22,4253 
+69 20,8699 21,1328 21,2346 21,2960 21,3786 21,5459 
+70 20,0096 20,2705 20,3710 20,4314 20,5121 20,6741 
+71 19,1585 19,4172 19,5163 19,5757 19,6545 19,8111 
+72 18,3181 18,5743 18,6721 18,7304 18,8072 18,9586 
+73 17,4909 17,7444 17,8408 17,8979 17,9728 18,1189 
+74 16,6789 16,9294 17,0242 17,0801 17,1531 17,2939 
+75 15,8841 16,1312 16,2244 16,2790 16,3499 16,4856 
+76 15,1082 15,3515 15,4428 15,4962 15,5651 15,6956 
+77 14,3530 14,5920 14,6815 14,7336 14,8003 14,9257 
+78 13,6214 13,8558 13,9432 13,9939 14,0585 14,1789 
+79 12,9173 13,1465 13,2318 13,2810 13,3435 13,4589 
+80 12,2425 12,4661 12,5490 12,5967 12,6570 12,7675 
+81 11,5994 11,8166 11,8970 11,9431 12,0012 12,1068 
+82 10,9886 11,1988 11,2764 11,3208 11,3766 11,4774 
+83 10,4131 10,6154 10,6900 10,7326 10,7860 10,8821
+=== pagina 28 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 27 di 55 
+ 
+FORMA B - ADESIONI SU BASE COLLETTIVA 
+ 
+Tabella Bf 
+FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 5 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 52,1435 52,4470 52,5829 52,6770 52,8232 53,1782 
+41 51,1600 51,4624 51,5974 51,6905 51,8347 52,1838 
+42 50,1771 50,4786 50,6125 50,7046 50,8469 51,1902 
+43 49,1956 49,4960 49,6290 49,7201 49,8605 50,1979 
+44 48,2157 48,5151 48,6471 48,7372 48,8756 49,2072 
+45 47,2375 47,5358 47,6668 47,7560 47,8924 48,2181 
+46 46,2608 46,5581 46,6881 46,7762 46,9108 47,2307 
+47 45,2860 45,5822 45,7112 45,7984 45,9310 46,2451 
+48 44,3136 44,6087 44,7367 44,8229 44,9535 45,2618 
+49 43,3437 43,6377 43,7647 43,8500 43,9786 44,2811 
+50 42,3759 42,6689 42,7949 42,8791 43,0059 43,3026 
+51 41,4102 41,7022 41,8272 41,9105 42,0353 42,3262 
+52 40,4467 40,7377 40,8617 40,9440 41,0669 41,3521 
+53 39,4855 39,7754 39,8985 39,9798 40,1008 40,3802 
+54 38,5264 38,8153 38,9374 39,0177 39,1368 39,4106 
+55 37,5692 37,8571 37,9782 38,0576 38,1748 38,4429 
+56 36,6128 36,8997 37,0198 37,0983 37,2135 37,4759 
+57 35,6568 35,9427 36,0619 36,1394 36,2527 36,5094 
+58 34,7009 34,9857 35,1040 35,1805 35,2920 35,5429 
+59 33,7447 34,0285 34,1458 34,2214 34,3309 34,5762 
+60 32,7887 33,0716 33,1878 33,2625 33,3701 33,6097 
+61 31,8330 32,1148 32,2302 32,3038 32,4096 32,6435 
+62 30,8762 31,1570 31,2714 31,3441 31,4479 31,6761 
+63 29,9190 30,1987 30,3121 30,3838 30,4857 30,7082 
+64 28,9621 29,2408 29,3531 29,4239 29,5239 29,7407 
+65 28,0062 28,2837 28,3951 28,4649 28,5629 28,7739 
+66 27,0516 27,3280 27,4383 27,5071 27,6032 27,8085 
+67 26,0990 26,3741 26,4833 26,5512 26,6453 26,8449 
+68 25,1488 25,4226 25,5308 25,5976 25,6898 25,8837 
+69 24,2019 24,4743 24,5814 24,6472 24,7374 24,9256 
+70 23,2593 23,5302 23,6362 23,7009 23,7892 23,9717 
+71 22,3222 22,5915 22,6963 22,7600 22,8463 23,0231 
+72 21,3917 21,6592 21,7628 21,8255 21,9098 22,0809 
+73 20,4694 20,7349 20,8373 20,8989 20,9812 21,1467 
+74 19,5570 19,8204 19,9214 19,9819 20,0622 20,2220 
+75 18,6562 18,9171 19,0168 19,0761 19,1544 19,3085 
+76 17,7691 18,0273 18,1254 18,1835 18,2597 18,4082 
+77 16,8982 17,1531 17,2496 17,3064 17,3805 17,5234 
+78 16,0462 16,2973 16,3920 16,4475 16,5194 16,6567 
+79 15,2173 15,4642 15,5569 15,6110 15,6806 15,8124 
+80 14,4158 14,6578 14,7483 14,8009 14,8683 14,9946 
+81 13,6453 13,8819 13,9701 14,0211 14,0862 14,2070 
+82 12,9103 13,1410 13,2267 13,2762 13,3389 13,4545 
+83 12,2116 12,4359 12,5190 12,5668 12,6272 12,7376
+=== pagina 29 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 28 di 55 
+ 
+FORMA B - ADESIONI SU BASE INDIVIDUALE 
+ 
+Tabella B 
+MASCHI E FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 5 ANNI 
+TASSO TECNICO 0,0%  
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 50,3259 50,6275 50,7616 50,8538 50,9964 51,3405 
+41 49,3465 49,6471 49,7802 49,8714 50,0121 50,3504 
+42 48,3678 48,6673 48,7995 48,8897 49,0285 49,3609 
+43 47,3903 47,6887 47,8199 47,9092 48,0459 48,3725 
+44 46,4139 46,7113 46,8415 46,9298 47,0646 47,3854 
+45 45,4396 45,7360 45,8651 45,9525 46,0853 46,4003 
+46 44,4670 44,7623 44,8905 44,9768 45,1078 45,4170 
+47 43,4964 43,7906 43,9178 44,0032 44,1322 44,4356 
+48 42,5277 42,8210 42,9471 43,0315 43,1586 43,4562 
+49 41,5616 41,8538 41,9789 42,0624 42,1875 42,4794 
+50 40,5968 40,8879 41,0121 41,0945 41,2177 41,5038 
+51 39,6342 39,9242 40,0474 40,1289 40,2502 40,5305 
+52 38,6741 38,9630 39,0852 39,1657 39,2850 39,5596 
+53 37,7164 38,0042 38,1254 38,2050 38,3224 38,5913 
+54 36,7615 37,0483 37,1685 37,2471 37,3626 37,6258 
+55 35,8094 36,0951 36,2143 36,2919 36,4055 36,6630 
+56 34,8594 35,1440 35,2623 35,3389 35,4506 35,7024 
+57 33,9113 34,1948 34,3120 34,3877 34,4975 34,7437 
+58 32,9648 33,2473 33,3635 33,4383 33,5461 33,7867 
+59 32,0200 32,3013 32,4166 32,4903 32,5963 32,8312 
+60 31,0772 31,3574 31,4716 31,5444 31,6485 31,8777 
+61 30,1369 30,4159 30,5291 30,6009 30,7031 30,9267 
+62 29,1990 29,4769 29,5891 29,6599 29,7602 29,9782 
+63 28,2644 28,5410 28,6522 28,7221 28,8204 29,0328 
+64 27,3337 27,6091 27,7193 27,7882 27,8847 28,0915 
+65 26,4059 26,6801 26,7892 26,8571 26,9517 27,1529 
+66 25,4808 25,7537 25,8618 25,9287 26,0214 26,2170 
+67 24,5592 24,8306 24,9377 25,0036 25,0944 25,2845 
+68 23,6416 23,9116 24,0176 24,0825 24,1714 24,3559 
+69 22,7288 22,9973 23,1021 23,1660 23,2529 23,4319 
+70 21,8219 22,0886 22,1923 22,2551 22,3401 22,5136 
+71 20,9221 21,1870 21,2894 21,3512 21,4343 21,6022 
+72 20,0307 20,2935 20,3947 20,4555 20,5365 20,6989 
+73 19,1498 19,4103 19,5102 19,5698 19,6489 19,8058 
+74 18,2810 18,5391 18,6375 18,6961 18,7732 18,9246 
+75 17,4264 17,6817 17,7786 17,8359 17,9110 18,0570 
+76 16,5878 16,8399 16,9352 16,9913 17,0643 17,2049 
+77 15,7675 16,0159 16,1094 16,1642 16,2351 16,3704 
+78 14,9682 15,2125 15,3041 15,3576 15,4263 15,5562 
+79 14,1942 14,4338 14,5234 14,5754 14,6419 14,7665 
+80 13,4484 13,6829 13,7702 13,8207 13,8850 14,0044 
+81 12,7341 12,9627 13,0476 13,0966 13,1586 13,2728 
+82 12,0538 12,2761 12,3584 12,4058 12,4655 12,5746 
+83 11,4095 11,6247 11,7042 11,7499 11,8072 11,9114
+=== pagina 30 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 29 di 55 
+ 
+FORMA C - ADESIONI SU BASE COLLETTIVA 
+ 
+Tabella Cm 
+MASCHI 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 10 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 48,0398 48,3376 48,4689 48,5586 48,6964 49,0267 
+41 47,0685 47,3651 47,4954 47,5841 47,7200 48,0444 
+42 46,0980 46,3935 46,5227 46,6105 46,7444 47,0630 
+43 45,1285 45,4229 45,5511 45,6379 45,7698 46,0827 
+44 44,1601 44,4533 44,5805 44,6663 44,7963 45,1034 
+45 43,1945 43,4865 43,6127 43,6974 43,8255 44,1268 
+46 42,2311 42,5219 42,6470 42,7308 42,8569 43,1524 
+47 41,2701 41,5597 41,6838 41,7666 41,8907 42,1805 
+48 40,3112 40,5996 40,7226 40,8044 40,9266 41,2106 
+49 39,3552 39,6422 39,7643 39,8450 39,9653 40,2435 
+50 38,4002 38,6860 38,8069 38,8867 39,0050 39,2774 
+51 37,4481 37,7325 37,8523 37,9311 38,0474 38,3142 
+52 36,4993 36,7822 36,9010 36,9787 37,0931 37,3541 
+53 35,5542 35,8357 35,9533 36,0300 36,1424 36,3977 
+54 34,6138 34,8937 35,0102 35,0859 35,1963 35,4459 
+55 33,6783 33,9566 34,0720 34,1466 34,2551 34,4990 
+56 32,7477 33,0245 33,1387 33,2122 33,3187 33,5570 
+57 31,8221 32,0972 32,2102 32,2827 32,3873 32,6199 
+58 30,9015 31,1748 31,2867 31,3581 31,4607 31,6877 
+59 29,9859 30,2575 30,3681 30,4385 30,5391 30,7605 
+60 29,0759 29,3456 29,4550 29,5243 29,6230 29,8388 
+61 28,1724 28,4401 28,5482 28,6165 28,7132 28,9234 
+62 27,2769 27,5425 27,6494 27,7166 27,8113 28,0161 
+63 26,3905 26,6540 26,7596 26,8257 26,9184 27,1176 
+64 25,5143 25,7755 25,8797 25,9447 26,0354 26,2292 
+65 24,6462 24,9049 25,0077 25,0715 25,1603 25,3486 
+66 23,7863 24,0422 24,1436 24,2062 24,2929 24,4758 
+67 22,9363 23,1891 23,2888 23,3503 23,4350 23,6124 
+68 22,0975 22,3469 22,4449 22,5051 22,5876 22,7596 
+69 21,2715 21,5171 21,6133 21,6721 21,7525 21,9190 
+70 20,4608 20,7019 20,7961 20,8536 20,9317 21,0927 
+71 19,6677 19,9038 19,9958 20,0518 20,1277 20,2833 
+72 18,8947 19,1253 19,2150 19,2694 19,3429 19,4931 
+73 18,1449 18,3695 18,4566 18,5094 18,5805 18,7252 
+74 17,4212 17,6390 17,7234 17,7744 17,8431 17,9824 
+75 16,7266 16,9369 17,0183 17,0675 17,1336 17,2676 
+76 16,0640 16,2660 16,3442 16,3914 16,4549 16,5836 
+77 15,4368 15,6296 15,7043 15,7494 15,8102 15,9337 
+78 14,8489 15,0315 15,1024 15,1454 15,2034 15,3217 
+79 14,3041 14,4758 14,5427 14,5834 14,6386 14,7517 
+80 13,8053 13,9652 14,0279 14,0662 14,1184 14,2266 
+81 13,3549 13,5024 13,5605 13,5963 13,6457 13,7490 
+82 12,9520 13,0869 13,1405 13,1739 13,2204 13,3191 
+83 12,5942 12,7170 12,7664 12,7975 12,8412 12,9358
+=== pagina 31 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 30 di 55 
+ 
+FORMA C - ADESIONI SU BASE COLLETTIVA 
+ 
+Tabella Cf 
+FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 10 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 52,1686 52,4711 52,6068 52,7007 52,8468 53,2017 
+41 51,1870 51,4884 51,6230 51,7159 51,8601 52,2092 
+42 50,2063 50,5066 50,6402 50,7322 50,8743 51,2175 
+43 49,2272 49,5264 49,6590 49,7499 49,8901 50,2274 
+44 48,2499 48,5479 48,6794 48,7694 48,9076 49,2391 
+45 47,2744 47,5712 47,7018 47,7907 47,9270 48,2527 
+46 46,3006 46,5963 46,7258 46,8138 46,9481 47,2679 
+47 45,3288 45,6234 45,7518 45,8388 45,9712 46,2852 
+48 44,3593 44,6528 44,7802 44,8662 44,9966 45,3048 
+49 43,3923 43,6846 43,8110 43,8960 44,0245 44,3269 
+50 42,4273 42,7185 42,8439 42,9279 43,0544 43,3511 
+51 41,4642 41,7543 41,8788 41,9618 42,0864 42,3773 
+52 40,5032 40,7922 40,9157 40,9977 41,1203 41,4056 
+53 39,5442 39,8321 39,9546 40,0356 40,1564 40,4358 
+54 38,5870 38,8739 38,9953 39,0754 39,1943 39,4680 
+55 37,6316 37,9174 38,0379 38,1170 38,2339 38,5020 
+56 36,6769 36,9616 37,0811 37,1593 37,2743 37,5366 
+57 35,7227 36,0063 36,1248 36,2020 36,3151 36,5718 
+58 34,7688 35,0514 35,1689 35,2451 35,3563 35,6072 
+59 33,8152 34,0966 34,2130 34,2883 34,3975 34,6428 
+60 32,8622 33,1424 33,2579 33,3321 33,4394 33,6790 
+61 31,9102 32,1891 32,3036 32,3768 32,4822 32,7160 
+62 30,9582 31,2359 31,3492 31,4215 31,5249 31,7530 
+63 30,0072 30,2834 30,3956 30,4669 30,5683 30,7907 
+64 29,0581 29,3328 29,4438 29,5140 29,6135 29,8301 
+65 28,1118 28,3848 28,4946 28,5638 28,6612 28,8721 
+66 27,1691 27,4402 27,5489 27,6169 27,7123 27,9174 
+67 26,2311 26,5002 26,6075 26,6744 26,7678 26,9671 
+68 25,2988 25,5656 25,6716 25,7373 25,8286 26,0221 
+69 24,3738 24,6380 24,7425 24,8070 24,8962 25,0840 
+70 23,4579 23,7192 23,8221 23,8854 23,9724 24,1543 
+71 22,5536 22,8114 22,9126 22,9746 23,0594 23,2355 
+72 21,6635 21,9173 22,0165 22,0771 22,1596 22,3298 
+73 20,7906 21,0397 21,1368 21,1959 21,2760 21,4404 
+74 19,9382 20,1820 20,2767 20,3342 20,4118 20,5703 
+75 19,1097 19,3473 19,4395 19,4952 19,5704 19,7230 
+76 18,3087 18,5394 18,6286 18,6825 18,7550 18,9018 
+77 17,5384 17,7613 17,8475 17,8995 17,9692 18,1102 
+78 16,8023 17,0166 17,0994 17,1494 17,2163 17,3515 
+79 16,1052 16,3101 16,3892 16,4370 16,5011 16,6305 
+80 15,4521 15,6463 15,7215 15,7670 15,8281 15,9518 
+81 14,8468 15,0296 15,1005 15,1435 15,2016 15,3198 
+82 14,2918 14,4627 14,5293 14,5699 14,6249 14,7378 
+83 13,7854 13,9445 14,0069 14,0450 14,0971 14,2050
+=== pagina 32 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 31 di 55 
+ 
+FORMA C - ADESIONI SU BASE INDIVIDUALE 
+ 
+Tabella C 
+MASCHI E FEMMINE 
+ ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 10 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 50,3554 50,6558 50,7896 50,8817 51,0241 51,3682 
+41 49,3780 49,6774 49,8101 49,9012 50,0417 50,3799 
+42 48,4016 48,6998 48,8315 48,9216 49,0602 49,3926 
+43 47,4265 47,7236 47,8543 47,9434 48,0799 48,4065 
+44 46,4528 46,7488 46,8784 46,9665 47,1012 47,4219 
+45 45,4814 45,7762 45,9048 45,9919 46,1246 46,4396 
+46 44,5120 44,8056 44,9332 45,0193 45,1500 45,4591 
+47 43,5447 43,8371 43,9637 44,0488 44,1775 44,4809 
+48 42,5796 42,8708 42,9964 43,0805 43,2073 43,5049 
+49 41,6171 41,9071 42,0317 42,1148 42,2397 42,5315 
+50 40,6562 40,9451 41,0685 41,1507 41,2736 41,5597 
+51 39,6976 39,9853 40,1077 40,1889 40,3098 40,5902 
+52 38,7416 39,0280 39,1494 39,2296 39,3486 39,6232 
+53 37,7883 38,0735 38,1938 38,2730 38,3901 38,6589 
+54 36,8380 37,1219 37,2412 37,3194 37,4345 37,6977 
+55 35,8907 36,1734 36,2917 36,3688 36,4820 36,7395 
+56 34,9460 35,2274 35,3446 35,4207 35,5320 35,7838 
+57 34,0037 34,2837 34,3998 34,4750 34,5844 34,8305 
+58 33,0636 33,3423 33,4574 33,5315 33,6390 33,8794 
+59 32,1258 32,4031 32,5171 32,5902 32,6957 32,9305 
+60 31,1909 31,4667 31,5795 31,6517 31,7552 31,9843 
+61 30,2592 30,5334 30,6452 30,7163 30,8179 31,0413 
+62 29,3310 29,6037 29,7143 29,7844 29,8840 30,1018 
+63 28,4074 28,6784 28,7878 28,8568 28,9545 29,1666 
+64 27,4894 27,7584 27,8666 27,9346 28,0302 28,2368 
+65 26,5764 26,8435 26,9504 27,0172 27,1109 27,3118 
+66 25,6691 25,9339 26,0395 26,1052 26,1969 26,3922 
+67 24,7687 25,0311 25,1352 25,1998 25,2894 25,4790 
+68 23,8764 24,1360 24,2387 24,3020 24,3895 24,5736 
+69 22,9939 23,2503 23,3513 23,4135 23,4988 23,6772 
+70 22,1231 22,3760 22,4752 22,5360 22,6192 22,7919 
+71 21,2665 21,5153 21,6126 21,6720 21,7530 21,9200 
+72 20,4267 20,6709 20,7661 20,8240 20,9026 21,0640 
+73 19,6068 19,8457 19,9386 19,9950 20,0713 20,2270 
+74 18,8099 19,0429 19,1333 19,1880 19,2618 19,4119 
+75 18,0394 18,2656 18,3532 18,4062 18,4774 18,6219 
+76 17,2985 17,5172 17,6017 17,6528 17,7214 17,8602 
+77 16,5904 16,8007 16,8821 16,9311 16,9970 17,1302 
+78 15,9190 16,1201 16,1979 16,2448 16,3079 16,4356 
+79 15,2888 15,4797 15,5536 15,5984 15,6586 15,7808 
+80 14,7037 14,8834 14,9532 14,9956 15,0529 15,1697 
+81 14,1669 14,3347 14,4001 14,4401 14,4943 14,6059 
+82 13,6794 13,8349 13,8960 13,9334 13,9847 14,0914 
+83 13,2393 13,3828 13,4396 13,4746 13,5231 13,6250
+=== pagina 33 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 32 di 55 
+ 
+Clausola di Rivalutazione per Tariffe di rendita vitalizia immediata con tasso tecnico pari allo 0,0%  
+La presente polizza fa parte di una speciale categoria di assicurazioni sulla vita per le quali la Società 
+riconoscerà una rivalutazione annua delle prestazioni assicurate secondo le modalità appresso indicate; a tal 
+fine la Società utilizzerà i risultati conseguiti con l’apposita “GESTIONE SPECIALE VITATTIVA” secondo quanto 
+previsto dal Regolamento che segue. 
+Secondo quanto stabilito all’Art. 3 del Regolamento, in ogni periodo di osservazione la Società determina 
+dodici tassi medi di rendimento, ciascuno riferito ad un periodo costituito da dodici mesi consecutivi, il primo 
+dei quali termina il 31 gennaio e l’ultimo il 31 dicembre dello stesso anno. 
+Al fine di determinare la percentuale di rivalutazione di cui al successivo punto A), il tasso medio di 
+rendimento della Gestione separata “GESTIONE SPECIALE VITATTIVA” è quello realizzato nel periodo dei 
+dodici mesi che precedono l’inizio del terzo mese antecedente quello nel quale cade la data di ricorrenza 
+annuale della data di effetto della polizza.  
+ 
+A) Tasso di rivalutazione. Percentuale di rivalutazione. 
+Il tasso di rivalutazione si ottiene moltiplicando il tasso annuo di rendimento di cui al punto 3 del 
+Regolamento della GESTIONE SPECIALE VITATTIVA per l’aliquota di retrocessione, stabilita di volta in volta e 
+comunque non inferiore al 90%; in ogni caso i l tasso di rivalutazione riconosciuto non potrà risultare 
+superiore al tasso annuo di rendimento diminuito di 0,5 punti percentuali. 
+La percentuale di rivalutazione sarà pari al tasso di rivalutazione di cui sopra e non potrà essere negativa. 
+ 
+B) Modalità di rivalutazione. 
+Ad ogni ricorrenza annuale della data di effetto della polizza le prestazioni assicurate saranno rivalutate in 
+funzione della percentuale di rivalutazione di cui al precedente punto A). 
+La prima rivalutazione avrà luogo in occasione della prima ricorrenza annuale della data di effetto, a 
+condizione che il premio dovuto sia stato regolarmente corrisposto. Nel caso in cui il premio dovuto sia stato 
+corrisposto dopo trenta giorni dalla data di effetto della polizza, la prima rivalutazione sarà effettuata pro -
+rata temporis, in base ai giorni che intercorrono tra la data di versamento del premio e quella del primo 
+anniversario della data di effetto della polizza successivo alla data di versamento del premio. 
+Le rivalutazioni successive alla prima avverranno ad ogni ulteriore ricorrenza annuale della data di effetto.
+=== pagina 34 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 33 di 55 
+ 
+REGOLAMENTO DELLA GESTIONE SEPARATA “GESTIONE SPECIALE VITATTIVA” DENOMINATA IN EURO 
+1. Gestione speciale Vitattiva 
+Unipol Assicurazioni S.p.A. (di seguito la “Società”) attua una speciale forma di gestione degli investimenti, 
+separata da quella delle altre attività, che viene contraddistinta con il nome “Gestione Speciale Vitattiva” (di 
+seguito la “Gestione separata”) Il valore delle attività gestite (di seguito le “Attività”) non sarà inferiore 
+all’importo delle riserve matematiche costituite per i contratti a prestazioni rivalutabili in base ai rendimenti 
+realizzati dalla Gestione separata.  
+Il presente Regolamento è parte integrante delle condizioni contrattuali. 
+La Gestione separata è disciplinata dal presente regolamento redatto ai sensi del Regolamento ISVAP n. 38 
+del 3 giugno 2011 e successive modifiche.  
+2. Politica di investimento 
+L’attuazione delle politiche di investimento della Gestione separata compete alla Società, che vi provvede 
+realizzando una gestione professionale degli attivi. 
+Le scelte d’investimento mirano a ottimizzare il rendimento nel medio e lungo termine mantenendo un basso 
+livello di rischiosità del portafoglio e perseguendo la stabilità dei rendimenti nel corso del tempo. 
+Lo stile gestionale adottato è finalizzato a perseguire la sicurezza, la prudenza e la liquidità degli investimenti 
+tenendo conto della struttura degli impegni assunti e delle garanzie offerte dai contratti collegati alla 
+Gestione separata. 
+Le risorse della Gestione separata sono investite esclusivamente in tipologie di attività che rientrano nelle 
+categorie ammissibili alla copertura delle riserve tecniche, ai sensi della normativa vigente. Le principali 
+tipologie di investimento sono di seguito descritte: 
+• Investimenti obbligazionari: titoli governativi, titoli corporate e quote di Organismi di investimento 
+collettivo del risparmio (OICR) obbligazionari conformi alla normativa UCITS. Le scelte di investimento di 
+natura obbligazionaria sono effettuate in coerenza con la struttura dei passivi e, a livello di singoli emittenti, 
+in funzione della redditività e del rispettivo merito di credito; 
+• Investimenti azionari: strumenti finanziari quotati nei mercati regolamentati e quote di OICR azionari 
+conformi alla normativa UCITS; 
+• Investimenti monetari: depositi bancari, pronti contro termine e quote di OICR monetari conformi 
+alla normativa UCITS; 
+• Investimenti immobiliari: beni immobili, azioni di società immobiliari e Fondi immobiliari; 
+• Investimenti in altri strumenti finanziari: Fondi di Investimento Alternativi (“FIA”), Hedge Fund UCITS 
+e quote di OICR non conformi alla normativa UCITS. 
+Nel rispetto di quanto previsto dalla vigente normativa di settore, possono inoltre essere effettuati 
+investimenti in strumenti finanziari derivati, con lo scopo di realizzare un’efficace gestione e di ridurre la 
+rischiosità del portafoglio della gestione stessa. 
+Al fine di contenere l’esposizione al rischio mercato, nelle sue diverse configurazioni, vengono definiti i 
+seguenti limiti quantitativi: 
+Tipologia di investimento Massimo 
+Investimenti in titoli obbligazionari, monetari e altri valori assimilabili 100% 
+Investimenti in titoli azionari e altri valori assimilabili 35% 
+Investimenti immobiliari e altri valori assimilabili 20% 
+Investimenti in altri strumenti finanziari 20% 
+Con riferimento alla componente obbligazionaria del portafoglio si precisa che l’esposizione massima ai titoli 
+corporate è del 65%. 
+Al fine di contenere il rischio di concentrazione, titoli corporate emessi da uno stesso emittente o da società 
+facenti parte del medesimo Gruppo sono ammessi per un ammontare massimo pari al 5% del portafoglio 
+obbligazionario. 
+Con riferimento alla componente azionaria del portafoglio si precisa che gli investimenti in titoli azionari non 
+quotati non potranno essere presenti per una percentuale superiore al 10% del portafoglio. 
+La Società per assicurare la tutela dei Contraenti da possibili situazioni di conflitto di interesse si impegna al
+=== pagina 35 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 34 di 55 
+ 
+rispetto dei limiti di investimento in relazione ai rapporti con le controparti di cui all’art. 5 del Regolamento 
+IVASS del 26 ottobre 2016, n. 30 ed eventuali successive modifiche. 
+Nell’ambito della politica d’investimento relativa alla Gestione separata, non è esclusa la possibilità di 
+investire in strumenti finanziari emessi dalle suddette controparti. 
+La Società si riserva comunque, a tutela degli interessi dei Contraenti, di investire in strumenti finanziari o 
+altri attivi emessi o gestiti dalle controparti di cui all’art. 5 del Regolamento IVASS del 26 ottobre 2016, n. 30, 
+nel limite del 20%. 
+3. Determinazione del tasso medio di rendimento 
+Il tasso medio di rendimento della Gestione separata realizzato nel periodo di osservazione si ottiene 
+rapportando il risultato finanziario di competenza del periodo considerato alla giacenza media delle Attività 
+della Gestione separata nello stesso periodo. Il periodo di osservazione decorre dal 1° gennaio al 31 dicembre. 
+Il risultato finanziario è costituito dai proventi finanziari di competenza del periodo di osservazione 
+considerato (comprensivi degli scarti di emissione e di negoziazione di competenza), dagli utili e dalle perdite 
+da realizzo per la quota di competenza della Gestione separata , al lordo delle ritenute di acconto fiscali ed 
+al netto delle spese effettivamente sostenute per l’acquisto e la vendita delle Attività della Gestione separata 
+e di quelle relative all’attività di verifica contabile effettuata dalla società di revisione. Non sono consentite 
+altre forme di prelievo in qualsiasi modo effettuate. 
+Gli utili e le perdite da realizzo sono determinati con riferimento al valore di iscrizione delle corrispondenti 
+Attività nel libro mastro della Gestione separata e cioè al prezzo di acquisto per i beni di nuova acquisizione 
+ed al valore di mercato all'atto di iscrizione nel libro mastro per i beni già di proprietà della Società. 
+Il rendimento della Gestione separata beneficia di eventuali utili derivanti dalla retrocessione di commissioni 
+o di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi e riconducibili al patrimonio della 
+gestione. 
+La giacenza media delle attività della Gestione separata è pari alla somma delle giacenze medie nel periodo 
+di osservazione dei depositi in numerario, degli investimenti e di ogni altra attività della Gestione separata. 
+La giacenza media nel periodo di osservazione degli investimenti e delle altre attività è determinata in base 
+al valore di iscrizione nel libro mastro della Gestione separata. 
+Nel periodo di osservazione si determinano dodici tassi medi di rendimento, ciascuno riferito ad un periodo 
+costituito da dodici mesi consecutivi, il primo dei quali termina il 31 gennaio e l’ultimo il 31 dicembre dello 
+stesso anno. 
+4. Modifiche al Regolamento 
+La Società si riserva il diritto di apportare eventuali modifiche al Regolamento della Gestione separata 
+derivanti dall’adeguamento dello stesso alla normativa primaria e secondaria vigente o a fronte di mutati 
+criteri gestionali, con esclusione, in questo ultimo caso, di modifiche meno favorevoli per il contraente. 
+5. Certificazione della gestione VITATTIVA 
+La Gestione separata è annualmente sottoposta a certificazione da parte di una Società di revisione iscritta 
+nell’apposito registro previsto dalla normativa vigente.
+=== pagina 36 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 35 di 55 
+ 
+ 
+ 
+ALLEGATO N.3 
+CONDIZIONI DELLE PRESTAZIONI ACCESSORIE
+=== pagina 37 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 36 di 55 
+ 
+3A -   CONDIZIONI DELLE PRESTAZIONI ASSICURATIVE PER INVALIDITÀ E PREMORIENZA 
+PER ADESIONI SU BASE COLLETTIVA 
+ 
+ASSICURAZIONE TEMPORANEA IN CASO DI MORTE E DI INVALIDITÀ 
+A PREMIO MONOANNUALE VARIABILE 
+ 
+PREMESSA 
+Ai fini della presente con il termine società viene indicata Unipol Assicurazioni S.p.A. – Via Stalingrado n. 45 - 
+40128 Bologna. 
+Art. 1  DEFINIZIONE  
+L’assicurazione temporanea per il caso di morte e di invalidità è un’assicurazione che garantisce la 
+corresponsione di un capitale di importo prefissato in caso di decesso e di invalidità permanente 
+dell’Assicurato. 
+Per ogni aderente al Fondo Pensione Aperto che dichiara di voler sottoscrivere tale garanzia complementare 
+la Società provvede a determinare annualmente il premio per garantire il capitale assicurato; il capitale 
+assicurato e il premio vengono univocamente determinati secondo le modalità descritte negli Artt. 6 e 7. 
+Art. 2  DICHIARAZIONI DELL’ASSICURATO 
+Le dichiarazioni dell’Assicurato hanno valore essenziale per la valutazione del rischio e per il consenso alla 
+stipulazione del contratto; pertanto, le risposte alle domande formulate con apposito questionario devono 
+essere veritiere, esatte e complete. In  caso di dichiarazioni inesatte e reticenze si applicano gli artt. 1892, 
+1893 e 1894 del Codice Civile . L’inesatta indicazione dell’età dell’assicurato comporta comunque, al 
+momento del pagamento, la rettifica delle somme dovute dalla società in base all’età reale.  
+Non dispensano dall’obbligo di rappresentare in modo veritiero, esatto e completo la reale entità del rischio, 
+eventuali dichiarazioni rese o informazioni comunque fornite e/o acquisite relativamente a contratti di 
+assicurazione infortuni e/o malattia stipulati con la stessa società. 
+Art. 3  ASSUNZIONE DEI RISCHI – LIMITI DI ETÀ 
+L’assicurazione viene assunta in base alle dichiarazioni rilasciate da ogni aderente-Assicurando su un apposito 
+questionario anamnestico fornito dalla Società. 
+In considerazione del profilo sanitario risultante la Società si riserva la facoltà di accettare o rifiutare 
+l’assunzione del rischio. 
+Nel caso in cui la Società non accetti l’assunzione del rischio, l’eventuale premio pagato può, a scelta 
+dell’iscritto, essere rimborsato oppure sommato al contributo versato al fondo aperto; in tale caso sarà 
+investito nella Comparto di investimento da lui prescelta secondo i criteri disposti dal regolamento del fondo 
+aperto. 
+Possono sottoscrivere l’assicurazione tutti gli aderenti al Fondo Pensione Aperto con età compresa fra i 14 e 
+i 64 anni. 
+L’assicurazione non è rinnovabile nei confronti di coloro che abbiano superato i suddetti limiti d’età. 
+Art. 4  ENTRATA IN VIGORE DELL’ASSICURAZIONE 
+L’assicurazione entra in vigore, a condizione che sia stato pagato il premio, dalle ore 24.00 del giorno in cui: 
+• Il contratto sia stato sottoscritto da entrambe le parti;  
+oppure 
+• la Società abbia consegnato al Contraente il contratto dalla stessa sottoscritto. 
+Qualora il contratto preveda una data di effetto successiva, l’assicurazione non può entrare in vigore prima 
+delle ore 24.00 del giorno previsto.
+=== pagina 38 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 37 di 55 
+ 
+Art. 5  ETÀ COMPUTABILE 
+L’età computabile dell’Assicurato si determina in anni interi, con riferimento all’anniversario di nascita più 
+vicino al momento di ingresso in assicurazione (data di effetto dell’assicurazione); si trascura, pertanto, la 
+frazione d’anno inferiore a sei me si e si considera, invece, come anno la frazione d’anno che supera od 
+eguaglia il semestre. 
+Art. 6  CAPITALI ASSICURATI 
+In caso di morte e di invalidità permanente dell’Assicurato la Società garantisce il pagamento del capitale 
+assicurato al momento del sinistro. 
+Il capitale assicurato per ciascun aderente al fondo viene determinato, ogni anno, moltiplicando il contributo 
+annuo per la differenza fra l’età di quiescenza e l’età computabile, dove per età di quiescenza si intende 
+convenzionalmente il 65esimo anno di età. 
+Art. 7  PREMI DI ASSICURAZIONE 
+A fronte della prestazione assicurativa ogni anno è dovuto un premio annuo lordo. 
+Il premio annuo di assicurazione per ogni Assicurato sarà determinato all’inizio di ciascun anno di 
+assicurazione - dove per anno di assicurazione si intende il periodo che intercorre fra l’anniversario della data 
+di effetto della copertura assicurativa e la data della ricorrenza successiva -  in base ai tassi di premio di cui 
+alla tabella A1, con riferimento all’età computabile raggiunta dall’Assicurato, al sesso ed al relativo capitale 
+assicurato. 
+Il premio netto di ciascun anno si ottiene moltiplicando il capitale assicurato dell’anno, per il corrispondente 
+tasso di premio e dividendo il risultato per mille. 
+Il premio annuo lordo si ottiene aggiungendo al premio netto le imposte (attualmente pari al 0,00 % del 
+premio netto stesso). 
+Il premio lordo può essere pagato per intero all’inizio di ciascun anno di assicurazione oppure frazionato in 
+rate annuali, semestrali, quadrimestrali, trimestrali, bimestrali o mensili; ogni anno il premio lordo di rata ai 
+ottiene dividendo il premio annuo lordo per il numero di rate dovute nel corso dell’anno assicurativo. 
+In caso di uscita in corso d’anno non dipendente da sinistro, la garanzia assicurativa resterà in vigore fino alla 
+scadenza del periodo di copertura acquisito col pagamento dell’ultima rata di premio lordo pagata. 
+Potranno venire applicate, nel corso di esecuzione del contratto, modifiche, concernenti le condizioni 
+tariffarie (tassi di premio) e le condizioni di polizza, dovute a disposizioni eventuali di legge e/o ad 
+adeguamenti a provvedimenti dell’IVASS (Istituto  per la vigilanza sulle assicurazioni); i termini di 
+adeguamento verranno recepiti a partire dal 1° anniversario della data di effetto della copertura assicurativa 
+successivo al termine del mese seguente a quello di decorrenza del provvedimento o di recepi mento delle 
+disposizioni. 
+Art. 8  DURATA DEL CONTRATTO - RESCISSIONE - RIATTIVAZIONE 
+La durata del contratto è data dalla differenza fra l’età computabile alla data di effetto del contratto e l’età 
+di quiescenza stabilita convenzionalmente in 65 anni. 
+Per tutta la durata del contratto la Società si impegna a calcolare ad ogni ricorrenza annuale del contratto i 
+valori del capitale assicurato e del premio da corrispondere. 
+Nel caso in cui l’ aderente-Assicurato decida di rescindere l’assicurazione dovrà darne comunicazione, a 
+mezzo di lettera raccomandata, almeno tre mesi prima della ricorrenza annuale della data di effetto della 
+garanzia a partire dalla quale si vuole abbia effetto la rescissione. 
+La riattivazione di una assicurazione rescissa è possibile alle seguenti condizioni: 
+• richiesta scritta dell’aderente-Assicurato; 
+• compilazione del questionario anamnestico. In considerazione del profilo sanitario risultante la Società 
+si riserva la facoltà di accettare o rifiutare l’assunzione del rischio. 
+In ogni caso di riattivazione l’assicurazione entra in vigore alle presenti condizioni di assicurazione.
+=== pagina 39 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 38 di 55 
+ 
+Art. 9  RISCHIO DI MORTE 
+Il rischio di morte è coperto qualunque possa esserne la causa, senza limiti territoriali e senza tenere conto 
+dei cambiamenti di professione dell’Assicurato. 
+È escluso dalla garanzia soltanto il decesso causato da: 
+• dolo dell’Assicurato o del Beneficiario; 
+• partecipazione attiva dell’Assicurato a delitti dolosi; 
+• partecipazione attiva dell’Assicurato a fatti di guerra, salvo che non derivi da obblighi verso lo Stato 
+Italiano: in questo caso la garanzia può essere prestata, su richiesta dell’Assicurato, alle condizioni 
+stabilite dal competente Ministero. 
+• incidente di volo, se l’Assicurato viaggia a bordo di aeromobile non autorizzato al volo o con pilota non 
+titolare di brevetto idoneo e, in ogni caso, se viaggia in qualità di membro dell’equipaggio; 
+• suicidio, se avviene nei primi due anni dall’entrata in vigore dell’assicurazione. 
+Art. 10  PAGAMENTI DELLA SOCIETÀ IN CASO DI DECESSO 
+Verificatosi il decesso, prima di procedere al pagamento, dovranno essere consegnati alla Società i documenti 
+necessari a: 
+• verificare l’effettiva esistenza dell’obbligo di pagamento; 
+• individuare con esattezza gli aventi diritto. 
+Sono richiesti i seguenti documenti: 
+• certificato di morte; 
+• relazione medica sulle cause del decesso, redatta su apposito modulo fornito dalla Società; 
+• ulteriore documentazione di carattere sanitario, o altra eventualmente ritenuta necessaria, a richiesta 
+della Società. 
+Verificata la sussistenza dell’obbligo di pagamento, la Società liquida la somma dovuta entro 30 giorni dal 
+ricevimento della documentazione completa. Decorso tale termine, ed a partire dal medesimo, sono dovuti 
+gli interessi moratori a favore dei Beneficiari. 
+Ogni pagamento viene effettuato presso la sede o la competente Agenzia della Società. 
+Per il pagamento in caso di invalidità permanente vale quanto disposto dall’Art. 3 delle «Condizioni 
+regolanti la copertura del rischio di invalidità permanente». 
+Art. 11  TASSE E IMPOSTE 
+Tasse e imposte relative al contratto sono a carico dell’Assicurato o dei Beneficiari ed aventi diritto. 
+Art. 12  DIRITTO DI RECESSO  
+L’aderente-Assicurato può recedere dal contratto entro 30 giorni dal momento in cui è informato che il 
+contratto è concluso, dandone comunicazione al Fondo Aperto ed a: 
+Unipol Assicurazioni S.p.A.  - Direzione Vita - Via Stalingrado n. 45 -  40128 Bologna, a mezzo lettera 
+raccomandata con avviso di ricevimento contenente gli elementi identificativi del contratto. 
+Il contratto si intende concluso nel momento in cui l’Assicurato ha ricevuto comunicazione dell’accettazione 
+della Società o, in mancanza, nel momento in cui la polizza è stata sottoscritta da entrambe le parti ovvero la 
+Società abbia consegnato all’Assicurato la polizza dalla stessa sottoscritta. 
+La notifica del recesso libera per il futuro l’Assicurato da qualsiasi obbligazione derivante dal contratto. 
+Entro trenta giorni dal ricevimento della raccomandata di recesso, la Società, previa restituzione dell’originale 
+di polizza e delle eventuali appendici, rimborsa all’Assicurato il premio da questi eventualmente corrisposto, 
+al netto dell’imposta sulle ass icurazioni e della parte relativa al periodo per il quale il contratto ha avuto 
+effetto.
+=== pagina 40 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 39 di 55 
+ 
+CONDIZIONI REGOLANTI LA COPERTURA DEL RISCHIO 
+DI INVALIDITÀ PERMANENTE 
+ 
+Art. 1 
+Si intende colpito da invalidità permanente l’Assicurato che, per sopravvenutagli infermità o difetto fisico o 
+mentale, comunque indipendente dalla sua volontà ed oggettivamente accertabile, abbia ridotto in modo 
+permanente la propria capacità di lavoro, in occupazioni confacenti alle sue attitudini, a meno di un terzo del 
+normale e sempre che tale evento abbia comportato la risoluzione del rapporto di lavoro. 
+ 
+Art. 2 
+Viene esclusa la copertura dei casi di invalidità che si verifichino ad età successive a quella stabilita 
+convenzionalmente come limite per l’età pensionabile, 65 anni d’età, e quelli imputabili a cause di guerra, a 
+torbidi civili, a partecipazione a risse  e azioni delittuose, a infortunio verificatosi sia in volo che a terra in 
+dipendenza di viaggi aerei compiuti sia come militare sia come civile, fatta eccezione dei viaggi compiuti in 
+qualità di passeggero su linee regolarmente istituite per il pubblico e sercizio della navigazione aerea e su 
+aeromobili plurimotore di proprietà di ditte o di privati condotti da piloti professionisti, con l’esclusione in 
+tale ultima situazione, delle trasvolate oceaniche. È, inoltre, esclusa la copertura dei casi dovuti a le sioni 
+volontarie. 
+ 
+Art. 3 
+Verificatasi l’invalidità dell’Assicurato, il Contraente o l’Assicurato deve farne denuncia alla Società, per gli 
+opportuni accertamenti, facendo pervenire alla Direzione Generale della Società medesima, a mezzo lettera 
+raccomandata, il certificato del med ico curante, redatto sul modulo speciale che la Società fornisce per il 
+tramite delle proprie Agenzie. 
+La Società si impegna ad accertare l’invalidità entro 180 giorni dalla data della lettera raccomandata di cui 
+sopra. 
+Il decesso dell’Assicurato che intervenga prima che venga riconosciuta l’invalidità equivale ad avvenuto 
+riconoscimento dello stato d’invalidità. 
+ 
+Art. 4 
+A richiesta della Società, il Contraente e l’Assicurato, sotto pena di decadenza da ogni diritto derivante dalla 
+presente assicurazione per il caso d’invalidità, sono obbligati: 
+a. a rendere con verità ed esattezza qualsiasi dichiarazione richiesta dalla Società per gli accertamenti dello 
+stato di invalidità dell’Assicurato; 
+b. a fornire tutte le prove che dalla Società fossero ritenute opportune per stabilire le cause e gli effetti 
+della malattia o della lesione fisica che hanno prodotto l’invalidità. 
+La Società si riserva, inoltre, il pieno ed incondizionato diritto di accertare l’invalidità con medici di sua fiducia. 
+ 
+Art. 5 
+Il pagamento del capitale verrà eseguito in un’unica soluzione alla data di riconoscimento dell’invalidità, 
+sempre che tale evento abbia comportato la risoluzione del rapporto di lavoro. 
+Eseguito il pagamento del capitale assicurato la garanzia si estingue e nulla e più dovuto per il caso di morte 
+dell’Assicurato. 
+ 
+Art. 6 
+Nel caso in cui l’invalidità non venga riconosciuta dalla Società, il Contraente ha facoltà, entro il termine di 
+30 giorni dalla comunicazione avutane, di promuovere, mediante lettera raccomandata con ricevuta di 
+ritorno spedita alla Direzione Generale della Società; la decisione di un Collegio Arbitrale composto da tre 
+medici, di cui uno nominato dalla Società, l’altro dal Contraente ed il terzo scelto di comune accordo dalle
+=== pagina 41 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 40 di 55 
+ 
+due parti. In caso di mancato accordo entro 20 giorni dalla richiesta di arbitrato, la scelta del terzo arbitro 
+sarà demandata al Presidente del Tribunale ove ha sede la Società. 
+Il Collegio Arbitrale decide a maggioranza, entro il termine di 30 giorni, come amichevole compositore, senza 
+formalità di procedura. 
+Gli arbitri, ove lo credano, potranno esperire, senza obbligo di sentenza, qualsiasi accertamento sanitario di 
+carattere preliminare od incidentale (visite mediche, esami di laboratorio, ecc). 
+Ciascuna delle parti sopporta le spese e competenze del proprio medico e la metà di quelle del terzo medico. 
+Le altre spese sono a carico della parte soccombente. 
+ 
+Art. 7 
+Dalla data del timbro postale della lettera raccomandata di cui all’ Art.3 il Contraente sospende il pagamento 
+del premio relativo alla posizione dell’ Assicurato per il quale è in corso l’accertamento dell’invalidità, mentre 
+la Società si impegna a mantenere in vigore le garanzie prestate; se l’invalidità è riconosciuta dalla Società o 
+dal Collegio Arbitrale di cui all’ Art. 6, l’obbligo al pagamento del premio cessa definitivamente; invece se 
+l’invalidità non viene riconosciuta, il Contraente è tenuto a corrispondere i premi scaduti posteriormente alla 
+data di denuncia della invalidità aumentati degli interessi di reintegro valuta, nella misura di cui alle 
+Condizioni generali di polizza.
+=== pagina 42 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 41 di 55 
+ 
+Tabella A1 
+ASSICURAZIONE TEMPORANEA IN CASO DI 
+MORTE E INVALIDITÀ A PREMIO 
+MONOANNUALE VARIABILE 
+ 
+Tassi di premio di tariffa per 1.000 Euro di capitale assicurato 
+ 
+MASCHI FEMMINE 
+ETÀ TASSI DI PREMIO ETÀ TASSI DI PREMIO 
+14 0,52 14 0,32 
+15 0,71 15 0,35 
+16 0,92 16 0,39 
+17 1,07 17 0,42 
+18 1,18 18 0,43 
+19 1,25 19 0,45 
+20 1,29 20 0,45 
+21 1,30 21 0,45 
+22 1,31 22 0,45 
+23 1,33 23 0,45 
+24 1,35 24 0,45 
+25 1,37 25 0,51 
+26 1,41 26 0,55 
+27 1,45 27 0,56 
+28 1,49 28 0,61 
+29 1,56 29 0,68 
+30 1,62 30 0,76 
+31 1,65 31 0,85 
+32 1,70 32 0,90 
+33 1,76 33 0,99 
+34 1,82 34 1,03 
+35 1,88 35 1,09 
+36 1,96 36 1,18 
+37 2,02 37 1,27 
+38 2,14 38 1,47 
+39 2,20 39 1,64 
+40 2,33 40 1,87 
+41 2,59 41 2,06 
+42 3,01 42 2,22 
+43 3,47 43 2,46 
+44 4,04 44 2,88 
+45 4,64 45 3,34 
+46 5,45 46 4,05 
+47 6,45 47 4,86 
+48 7,42 48 5,77 
+49 8,47 49 6,65 
+50 9,49 50 7,44 
+51 10,77 51 8,29 
+52 12,29 52 9,33 
+53 14,23 53 10,79 
+54 16,30 54 12,46 
+55 18,52 55 14,19 
+56 20,75 56 16,10 
+57 23,02 57 18,03 
+58 25,41 58 20,08 
+59 28,05 59 21,93 
+60 30,58 60 23,65 
+61 33,18 61 25,60 
+62 35,81 62 27,54 
+63 38,46 63 29,49 
+64 41,27 64 31,43
+=== pagina 43 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 42 di 55 
+ 
+ASSICURAZIONE TEMPORANEA IN CASO DI MORTE 
+A PREMIO MONOANNUALE VARIABILE 
+PREMESSA 
+Ai fini della presente con il termine società viene indicata Unipol Assicurazioni S.p.A. – Via Stalingrado n. 45 - 
+40128 Bologna. 
+Art. 1  DEFINIZIONE  
+L’assicurazione temporanea per il caso di morte è un’assicurazione che garantisce la corresponsione di un 
+capitale di importo prefissato in caso di decesso dell’assicurato. Per ogni aderente al Fondo Pensione Aperto 
+che dichiara di voler sottoscrivere tale  garanzia complementare la Società provvede a determinare 
+annualmente il premio per garantire il capitale assicurato; il capitale assicurato e il premio vengono 
+univocamente determinati secondo le modalità descritte negli Artt. 6 e 7. 
+Art. 2  DICHIARAZIONI DELL’ASSICURATO 
+Le dichiarazioni dell’Assicurato hanno valore essenziale per la valutazione del rischio e per il consenso alla 
+stipulazione del contratto; pertanto, le risposte alle domande formulate con apposito questionario devono 
+essere veritiere, esatte e complete. In caso di dichiarazioni inesatte e reticenze si applicano gli artt. 1892, 
+1893 e 1894 del Codice Civile . L’inesatta indicazione dell’età dell’Assicurato comporta comunque, al 
+momento del pagamento, la rettifica delle somme dovute dalla società in base all’età reale. Non dispensano 
+dall’obbligo di rappresentare in modo veritiero, esatto e completo la reale e ntità del rischio, eventuali 
+dichiarazioni rese o informazioni comunque fornite e/o acquisite relativamente a contratti di assicurazione 
+infortuni e/o malattia stipulati con la stessa Società.  
+ART. 3  ASSUNZIONE DEI RISCHI – LIMITI DI ETÀ 
+L’assicurazione viene assunta in base alle dichiarazioni rilasciate da ogni aderente-Assicurando su un apposito 
+questionario anamnestico fornito dalla società.  
+In considerazione del profilo sanitario risultante la Società si riserva la facoltà di accettare o rifiutare 
+l’assunzione del rischio. 
+Nel caso in cui la Società non accetti l’assunzione del rischio, l’eventuale premio pagato può, a scelta 
+dell’iscritto, essere rimborsato oppure sommato al contributo versato al Fondo Aperto; in tale caso sarà 
+investito nella Comparto di investimento da lui prescelta secondo i criteri disposti dal Regolamento del Fondo 
+Aperto. 
+Possono sottoscrivere l’assicurazione tutti gli Aderenti al Fondo Pensione Aperto con età compresa fra i 14 e 
+i 64 anni. L’assicurazione non è rinnovabile nei confronti di coloro che abbiano superato i suddetti limiti d’età. 
+Art. 4  ENTRATA IN VIGORE DELL’ASSICURAZIONE 
+L’assicurazione entra in vigore, a condizione che sia stato pagato il premio, dalle ore 24.00 del giorno in cui: 
+• Il contratto sia stato sottoscritto da entrambe le parti;  
+oppure 
+• la Società abbia consegnato al Contraente il contratto dalla stessa sottoscritto. 
+Qualora il contratto preveda una data di effetto successiva, l’assicurazione non può entrare in vigore prima 
+delle ore 24.00 del giorno previsto. 
+Art. 5  ETÀ COMPUTABILE 
+L’età computabile dell’Assicurato si determina in anni interi, con riferimento all’anniversario di nascita più 
+vicino al momento di ingresso in assicurazione (data di effetto dell’assicurazione); si trascura, pertanto, la
+=== pagina 44 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 43 di 55 
+ 
+frazione d’anno inferiore a sei mesi e si considera, invece, come anno la frazione d’anno che supera od 
+eguaglia il semestre. 
+Art. 6  CAPITALI ASSICURATI 
+In caso di morte dell’Assicurato la Società garantisce il pagamento del capitale assicurato al momento del 
+decesso. 
+Il capitale assicurato per ciascun aderente al fondo viene determinato, ogni anno, moltiplicando il contributo 
+annuo per la differenza fra l’età di quiescenza e l’età computabile, dove per età di quiescenza si intende 
+convenzionalmente il 65esimo anno di età. 
+Art. 7  PREMI DI ASSICURAZIONE 
+A fronte della prestazione assicurativa ogni anno è dovuto un premio annuo lordo.  
+Il premio annuo di assicurazione per ogni Assicurato sarà determinato all’inizio di ciascun anno di 
+assicurazione - dove per anno di assicurazione si intende il periodo che intercorre fra l’anniversario della data 
+di effetto della copertura assicurativa e la data della ricorrenza successiva -  in base ai tassi di premio di cui 
+alla tabella C1, con riferimento all’età computabile raggiunta dall’Assicurato, al sesso, ed al relativo capitale 
+assicurato. Il premio netto di ciascun anno si ottiene moltiplicando il capitale assicurato dell’anno, per il 
+corrispondente tasso di premio e dividendo il risultato per mille. 
+Il premio annuo lordo si ottiene aggiungendo al premio netto le imposte (attualmente pari al 0,00 % del 
+premio netto stesso). 
+Il premio lordo può essere pagato per intero all’inizio di ciascun anno di assicurazione oppure frazionato in 
+rate annuali, semestrali, quadrimestrali, trimestrali, bimestrali o mensili; ogni anno il premio lordo di rata ai 
+ottiene dividendo il premio annuo lordo per il numero di rate dovute nel corso dell’anno assicurativo. 
+In caso di uscita in corso d’anno non dipendente da sinistro, la garanzia assicurativa resterà in vigore fino alla 
+scadenza del periodo di copertura acquisito col pagamento dell’ultima rata di premio lordo pagata. 
+Potranno venire applicate, nel corso di esecuzione del contratto, modifiche, concernenti le condizioni 
+tariffarie (tassi di premio) e le condizioni di polizza, dovute a disposizioni eventuali di legge e/o ad 
+adeguamenti a provvedimenti dell’IVASS (Istituto  per la vigilanza sulle assicurazioni); i termini di 
+adeguamento verranno recepiti a partire dal 1° anniversario della data di effetto della copertura assicurativa 
+successivo al termine del mese seguente a quello di decorrenza del provvedimento o di recepi mento delle 
+disposizioni. 
+Art. 8  DURATA DEL CONTRATTO – RESCISSIONE – RIATTIVAZIONE 
+La durata del contratto è data dalla differenza fra l’età computabile alla data di effetto del contratto e l’età 
+di quiescenza stabilita convenzionalmente in 65 anni. 
+Per tutta la durata del contratto la Società si impegna a calcolare ad ogni ricorrenza annuale del contratto i 
+valori del capitale assicurato e del premio da corrispondere. 
+Nel caso in cui l’ aderente-Assicurato decida di rescindere l’assicurazione dovrà darne comunicazione, a 
+mezzo di lettera raccomandata, almeno tre mesi prima della ricorrenza annuale della data di effetto della 
+garanzia a partire dalla quale si vuole abbia effetto la rescissione. 
+La riattivazione di una assicurazione rescissa è possibile alle seguenti condizioni: 
+• richiesta scritta dell’aderente-Assicurato; 
+• compilazione del questionario anamnestico. In considerazione del profilo sanitario risultante la Società 
+si riserva la facoltà di accettare o rifiutare l’assunzione del rischio. 
+In ogni caso di riattivazione l’assicurazione entra in vigore alle presenti condizioni di assicurazione. 
+Art. 9  RISCHIO DI MORTE 
+Il rischio di morte è coperto qualunque possa esserne la causa, senza limiti territoriali e senza tenere conto 
+dei cambiamenti di professione dell’Assicurato. 
+È escluso dalla garanzia soltanto il decesso causato da:
+=== pagina 45 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 44 di 55 
+ 
+• dolo dell’Assicurato o del Beneficiario; 
+• partecipazione attiva dell’Assicurato a delitti dolosi; 
+• partecipazione attiva dell’Assicurato a fatti di guerra, salvo che non derivi da obblighi verso lo Stato 
+Italiano: in questo caso la garanzia può essere prestata, su richiesta dell’Assicurato, alle condizioni 
+stabilite dal competente Ministero; 
+• incidente di volo, se l’Assicurato viaggia a bordo di aeromobile non autorizzato al volo o con pilota non 
+titolare di brevetto idoneo e, in ogni caso, se viaggia in qualità di membro dell’equipaggio; 
+• suicidio, se avviene nei primi due anni dall’entrata in vigore dell’assicurazione. 
+Art. 10 PAGAMENTI DELLA SOCIETÀ 
+Verificatosi il decesso, prima di procedere al pagamento, dovranno essere consegnati alla Società i documenti 
+necessari a: 
+• verificare l’effettiva esistenza dell’obbligo di pagamento; 
+• individuare con esattezza gli aventi diritto. 
+Sono richiesti i seguenti documenti: 
+• certificato di morte; 
+• relazione medica sulle cause del decesso, redatta su apposito modulo fornito dalla Società; 
+• ulteriore documentazione di carattere sanitario, o altra eventualmente ritenuta necessaria, a richiesta 
+della Società. 
+Verificata la sussistenza dell’obbligo di pagamento, la Società liquida la somma dovuta entro 30 giorni dal 
+ricevimento della documentazione completa. Decorso tale termine, ed a partire dal medesimo, sono dovuti 
+gli interessi moratori a favore dei Beneficiari. 
+Ogni pagamento viene effettuato presso la sede o la competente Agenzia della Società. 
+Art. 11  TASSE E IMPOSTE 
+Tasse e imposte relative al contratto sono a carico dell’Assicurato o dei Beneficiari ed aventi diritto. 
+Art. 12  DIRITTO DI RECESSO  
+L’aderente-Assicurato può recedere dal contratto entro 30 giorni dal momento in cui è informato che il 
+contratto è concluso, dandone comunicazione al Fondo Aperto ed a: 
+Unipol Assicurazioni S.p.A.  - Direzione Vita - Via Stalingrado n. 45 -  40128 Bologna, a mezzo lettera 
+raccomandata con avviso di ricevimento contenente gli elementi identificativi del contratto. 
+Il contratto si intende concluso nel momento in cui l’Assicurato ha ricevuto comunicazione dell’accettazione 
+della Società o, in mancanza, nel momento in cui la polizza è stata sottoscritta da entrambe le parti ovvero la 
+Società abbia consegnato all’Assicurato la polizza dalla stessa sottoscritta. 
+La notifica del recesso libera per il futuro all’Assicurato da qualsiasi obbligazione derivante dal contratto. 
+Entro trenta giorni dal ricevimento della raccomandata di recesso, la Società, previa restituzione dell’originale 
+di polizza e delle eventuali appendici, rimborsa all’Assicurato il premio da questi eventualmente corrisposto, 
+al netto dell’imposta sulle assicurazioni e della parte relativa al periodo per il quale il contratto ha avuto 
+effetto.
+=== pagina 46 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 45 di 55 
+ 
+Tabella C1 
+ 
+ASSICURAZIONE TEMPORANEA IN CASO DI 
+MORTE A PREMIO MONOANNUALE 
+VARIABILE 
+ 
+Tassi di premio di tariffa per 1.000 Euro di capitale assicurato  
+MASCHI FEMMINE 
+ETÀ TASSI DI PREMIO ETÀ TASSI DI PREMIO 
+14 0,41 14 0,21 
+15 0,60 15 0,24 
+16 0,81 16 0,28 
+17 0,96 17 0,31 
+18 1,07 18 0,32 
+19 1,14 19 0,34 
+20 1,17 20 0,34 
+21 1,18 21 0,34 
+22 1,18 22 0,34 
+23 1,19 23 0,34 
+24 1,20 24 0,36 
+25 1,21 25 0,42 
+26 1,23 26 0,45 
+27 1,25 27 0,49 
+28 1,27 28 0,51 
+29 1,31 29 0,54 
+30 1,34 30 0,57 
+31 1,37 31 0,60 
+32 1,41 32 0,62 
+33 1,46 33 0,64 
+34 1,51 34 0,65 
+35 1,56 35 0,69 
+36 1,61 36 0,73 
+37 1,66 37 0,79 
+38 1,76 38 0,84 
+39 1,79 39 0,91 
+40 1,91 40 0,97 
+41 2,06 41 1,06 
+42 2,26 42 1,16 
+43 2,46 43 1,27 
+44 2,70 44 1,41 
+45 2,93 45 1,56 
+46 3,30 46 1,75 
+47 3,76 47 1,95 
+48 4,19 48 2,15 
+49 4,61 49 2,32 
+50 4,99 50 2,47 
+51 5,41 51 2,68 
+52 5,97 52 2,94 
+53 6,74 53 3,26 
+54 7,52 54 3,57 
+55 8,47 55 3,89 
+56 9,46 56 4,27 
+57 10,54 57 4,73 
+58 11,78 58 5,22 
+59 13,14 59 5,74 
+60 14,62 60 6,25 
+61 16,20 61 6,76 
+62 17,89 62 7,28 
+63 19,74 63 7,79 
+64 21,78 64 8,31
+=== pagina 47 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 46 di 55 
+ 
+3B -   CONDIZIONI DELLE PRESTAZIONI ASSICURATIVE PER INVALIDITÀ E PREMORIENZA 
+ PER ADESIONI SU BASE INDIVIDUALE 
+ASSICURAZIONE TEMPORANEA IN CASO DI MORTE E DI INVALIDITÀ A PREMIO MONOANNUALE VARIABILE 
+PREMESSA  
+Le presenti condizioni si applicano agli aderenti al Fondo o alle coperture accessorie per invalidità e 
+premorienza a partire dal 21/12/2012; per gli aderenti alla data del 20/12/2012 continuano ad applicarsi le 
+condizioni previgenti.   
+Ai fini della presente con il termine società viene indicata Unipol Assicurazioni S.p.A. – Via Stalingrado n. 45 - 
+40128 Bologna. 
+Art. 1  DEFINIZIONE  
+L’assicurazione temporanea per il caso di morte e di invalidità è un’assicurazione che garantisce la 
+corresponsione di un capitale di importo prefissato in caso di decesso e di invalidità permanente 
+dell’Assicurato. 
+Per ogni aderente al Fondo Pensione Aperto che dichiara di voler sottoscrivere tale garanzia complementare 
+la Società provvede a determinare annualmente il premio per garantire il capitale assicurato; il capitale 
+assicurato e il premio vengono univocamente determinati secondo le modalità descritte negli Artt. 6 e 7. 
+Art. 2  DICHIARAZIONI DELL’ASSICURATO 
+Le dichiarazioni dell’assicurato hanno valore essenziale per la valutazione del rischio e per il consenso alla 
+stipulazione del contratto; pertanto, le risposte alle domande formulate con apposito questionario devono 
+essere veritiere, esatte e complete. In caso di dichiara zioni inesatte e reticenze si applicano gli artt. 1892, 
+1893 e 1894 del Codice Civile . L’inesatta indicazione dell’età dell’assicurato comporta comunque, al 
+momento del pagamento, la rettifica delle somme dovute dalla società in base all’età reale.  
+Non dispensano dall’obbligo di rappresentare in modo veritiero, esatto e completo la reale entità del rischio, 
+eventuali dichiarazioni rese o informazioni comunque fornite e/o acquisite relativamente a contratti di 
+assicurazione infortuni e/o malattia stipulati con la stessa società. 
+Art. 3  ASSUNZIONE DEI RISCHI – LIMITI DI ETÀ 
+L’assicurazione viene assunta in base alle dichiarazioni rilasciate da ogni aderente-Assicurando su un apposito 
+questionario anamnestico fornito dalla società. 
+In considerazione del profilo sanitario risultante la Società si riserva la facoltà di accettare o rifiutare 
+l’assunzione del rischio. 
+Nel caso in cui la Società non accetti l’assunzione del rischio, l’eventuale premio pagato può, a scelta 
+dell’iscritto, essere rimborsato oppure sommato al contributo versato al fondo aperto; in tale caso sarà 
+investito nella Comparto di investimento da lui prescelta secondo i criteri disposti dal regolamento del fondo 
+aperto. 
+Possono sottoscrivere l’assicurazione tutti gli Aderenti al Fondo Pensione Aperto con età compresa fra i 14 e 
+i 64. L’assicurazione non è rinnovabile nei confronti di coloro che abbiano superato i suddetti limiti d’età. 
+Art. 4  ENTRATA IN VIGORE DELL’ASSICURAZIONE 
+L’assicurazione entra in vigore, a condizione che sia stato pagato il premio, dalle ore 24.00 del giorno in cui: 
+• Il contratto sia stato sottoscritto da entrambe le parti;  
+oppure 
+• la Società abbia consegnato al Contraente il contratto dalla stessa sottoscritto. 
+Qualora il contratto preveda una data di effetto successiva, l’assicurazione non può entrare in vigore prima 
+delle ore 24.00 del giorno previsto.
+=== pagina 48 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 47 di 55 
+ 
+Art. 5  ETÀ COMPUTABILE 
+L’età computabile dell’Assicurato si determina in anni interi, con riferimento all’anniversario di nascita più 
+vicino al momento di ingresso in assicurazione (data di effetto dell’assicurazione); si trascura, pertanto, la 
+frazione d’anno inferiore a sei me si e si considera, invece, come anno la frazione d’anno che supera od 
+eguaglia il semestre. 
+Art. 6  CAPITALI ASSICURATI 
+In caso di morte e di invalidità permanente dell’Assicurato la società garantisce il pagamento del capitale 
+assicurato al momento del sinistro. 
+Il capitale assicurato per ciascun aderente al fondo viene determinato, ogni anno, moltiplicando il contributo 
+annuo per la differenza fra l’età di quiescenza e l’età computabile, dove per età di quiescenza si intende 
+convenzionalmente il 65esimo anno di età. 
+Art. 7  PREMI DI ASSICURAZIONE 
+A fronte della prestazione assicurativa ogni anno è dovuto un premio annuo lordo. 
+Il premio annuo di assicurazione per ogni Assicurato sarà determinato all’inizio di ciascun anno di 
+assicurazione - dove per anno di assicurazione si intende il periodo che intercorre fra l’anniversario della data 
+di effetto della copertura assicurativa e la data della ricorrenza successiva -  in base ai tassi di premio di cui 
+alla tabella A2, con riferimento all’età computabile raggiunta dall’Assicurato, al sesso ed al relativo capitale 
+assicurato. 
+Il premio netto di ciascun anno si ottiene moltiplicando il capitale assicurato dell’anno, per il corrispondente 
+tasso di premio e dividendo il risultato per mille. 
+Il premio annuo lordo si ottiene aggiungendo al premio netto le imposte (attualmente pari al 0,00 % del 
+premio netto stesso). 
+Il premio lordo può essere pagato per intero all’inizio di ciascun anno di assicurazione oppure frazionato in 
+rate annuali, semestrali, quadrimestrali, trimestrali, bimestrali o mensili; ogni anno il premio lordo di rata ai 
+ottiene dividendo il premio annuo lordo per il numero di rate dovute nel corso dell’anno assicurativo. 
+In caso di uscita in corso d’anno non dipendente da sinistro, la garanzia assicurativa resterà in vigore fino alla 
+scadenza del periodo di copertura acquisito col pagamento dell’ultima rata di premio lordo pagata. 
+Potranno venire applicate, nel corso di esecuzione del contratto, modifiche, concernenti le condizioni 
+tariffarie (tassi di premio) e le condizioni di polizza, dovute a disposizioni eventuali di legge e/o ad 
+adeguamenti a provvedimenti dell’IVASS (Istituto  per la vigilanza sulle assicurazioni); i termini di 
+adeguamento verranno recepiti a partire dal 1° anniversario della data di effetto della copertura assicurativa 
+successivo al termine del mese seguente a quello di decorrenza del provvedimento o di recepi mento delle 
+disposizioni. 
+Art. 8  DURATA DEL CONTRATTO - RESCISSIONE - RIATTIVAZIONE 
+La durata del contratto è data dalla differenza fra l’età computabile alla data di effetto del contratto e l’età 
+di quiescenza stabilita convenzionalmente in 65 anni. 
+Per tutta la durata del contratto la Società si impegna a calcolare ad ogni ricorrenza annuale del contratto i 
+valori del capitale assicurato e del premio da corrispondere. 
+Nel caso in cui l’ aderente-Assicurato decida di rescindere l’assicurazione dovrà darne comunicazione, a 
+mezzo di lettera raccomandata, almeno tre mesi prima della ricorrenza annuale della data di effetto della 
+garanzia a partire dalla quale si vuole abbia effetto la rescissione. 
+La riattivazione di una assicurazione rescissa è possibile alle seguenti condizioni: 
+• richiesta scritta dell’aderente-Assicurato; 
+• compilazione del questionario anamnestico. 
+In considerazione del profilo sanitario risultante la Società si riserva la facoltà di accettare o rifiutare 
+l’assunzione del rischio. 
+In ogni caso di riattivazione l’assicurazione entra in vigore alle presenti condizioni di assicurazione.
+=== pagina 49 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 48 di 55 
+ 
+Art. 9  RISCHIO DI MORTE 
+Il rischio di morte è coperto qualunque possa esserne la causa, senza limiti territoriali e senza tenere conto 
+dei cambiamenti di professione dell’Assicurato. 
+È escluso dalla garanzia soltanto il decesso causato da: 
+• dolo dell’Assicurato o del Beneficiario; 
+• partecipazione attiva dell’Assicurato a delitti dolosi; 
+• partecipazione attiva dell’Assicurato a fatti di guerra, salvo che non derivi da obblighi verso lo Stato 
+Italiano: in questo caso la garanzia può essere prestata, su richiesta dell’Assicurato, alle condizioni 
+stabilite dal competente Ministero. 
+• incidente di volo, se l’Assicurato viaggia a bordo di aeromobile non autorizzato al volo o con pilota non 
+titolare di brevetto idoneo e, in ogni caso, se viaggia in qualità di membro dell’equipaggio; 
+• suicidio, se avviene nei primi due anni dall’entrata in vigore dell’assicurazione. 
+Art. 10  PAGAMENTI DELLA SOCIETÀ IN CASO DI DECESSO 
+Verificatosi il decesso, prima di procedere al pagamento, dovranno essere consegnati alla Società i documenti 
+necessari a: 
+• verificare l’effettiva esistenza dell’obbligo di pagamento; 
+• individuare con esattezza gli aventi diritto. 
+Sono richiesti i seguenti documenti: 
+• certificato di morte; 
+• relazione medica sulle cause del decesso, redatta su apposito modulo fornito dalla Società; 
+• ulteriore documentazione di carattere sanitario, o altra eventualmente ritenuta necessaria, a richiesta 
+della Società. 
+Verificata la sussistenza dell’obbligo di pagamento, la Società liquida la somma dovuta entro 30 giorni dal 
+ricevimento della documentazione completa. Decorso tale termine, ed a partire dal medesimo, sono dovuti 
+gli interessi moratori a favore dei Beneficiari. 
+Ogni pagamento viene effettuato presso la sede o la competente Agenzia della Società. 
+Per il pagamento in caso di invalidità permanente vale quanto disposto dall’Art. 3 delle «Condizioni regolanti 
+la copertura del rischio di invalidità permanente». 
+Art. 11  TASSE E IMPOSTE 
+Tasse e imposte relative al contratto sono a carico dell’Assicurato o dei Beneficiari ed aventi diritto. 
+Art. 12  DIRITTO DI RECESSO  
+L’aderente-Assicurato può recedere dal contratto entro 30 giorni dal momento in cui è informato che il 
+contratto è concluso, dandone comunicazione al Fondo Aperto ed a: 
+Unipol Assicurazioni S.p.A.  - Direzione Vita - Via Stalingrado n. 45 -  40128 Bologna, a mezzo lettera 
+raccomandata con avviso di ricevimento contenente gli elementi identificativi del contratto. 
+Il contratto si intende concluso nel momento in cui l’Assicurato ha ricevuto comunicazione dell’accettazione 
+della Società o, in mancanza, nel momento in cui la polizza è stata sottoscritta da entrambe le parti ovvero la 
+Società abbia consegnato all’Assicurato la polizza dalla stessa sottoscritta. 
+La notifica del recesso libera per il futuro l’Assicurato da qualsiasi obbligazione derivante dal contratto. 
+Entro trenta giorni dal ricevimento della raccomandata di recesso, la Società, previa restituzione dell’originale 
+di polizza e delle eventuali appendici, rimborsa all’Assicurato il premio da questi eventualmente corrisposto, 
+al netto dell’imposta sulle ass icurazioni e della parte relativa al periodo per il quale il contratto ha avuto 
+effetto.
+=== pagina 50 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 49 di 55 
+ 
+CONDIZIONI REGOLANTI LA COPERTURA DEL RISCHIO 
+DI INVALIDITÀ PERMANENTE 
+ 
+Art. 1 
+Si intende colpito da invalidità permanente l’Assicurato che, per sopravvenutagli infermità o difetto fisico o 
+mentale, comunque indipendente dalla sua volontà ed oggettivamente accertabile, abbia ridotto in modo 
+permanente la propria capacità di lavoro, in occupazioni confacenti alle sue attitudini, a meno di un terzo del 
+normale e sempre che tale evento abbia comportato la risoluzione del rapporto di lavoro. 
+ 
+Art. 2 
+Viene esclusa la copertura dei casi di invalidità che si verifichino ad età successive a quella stabilita 
+convenzionalmente come limite per l’età pensionabile, 65 anni d’età, e quelli imputabili a cause di guerra, a 
+torbidi civili, a partecipazione a risse  e azioni delittuose, a infortunio verificatosi sia in volo che a terra in 
+dipendenza di viaggi aerei compiuti sia come militare sia come civile, fatta eccezione dei viaggi compiuti in 
+qualità di passeggero su linee regolarmente istituite per il pubblico e sercizio della navigazione aerea e su 
+aeromobili plurimotore di proprietà di ditte o di privati condotti da piloti professionisti, con l’esclusione in 
+tale ultima situazione, delle trasvolate oceaniche. È, inoltre, esclusa la copertura dei casi dovuti a le sioni 
+volontarie e al tentato suicidio. 
+ 
+Art. 3 
+Verificatasi l’invalidità dell’Assicurato, il Contraente o l’Assicurato deve farne denuncia alla Società, per gli 
+opportuni accertamenti, facendo pervenire alla Direzione Generale della Società medesima, a mezzo lettera 
+raccomandata, il certificato del medico curante, redatto sul m odulo speciale che la Società fornisce per il 
+tramite delle proprie Agenzie. 
+La Società si impegna ad accertare l’invalidità entro 180 giorni dalla data della lettera raccomandata di cui 
+sopra. 
+Il decesso dell’Assicurato che intervenga prima che venga riconosciuta l’invalidità equivale ad avvenuto 
+riconoscimento dello stato d’invalidità. 
+ 
+Art. 4 
+A richiesta della Società, il Contraente e l’Assicurato, sotto pena di decadenza da ogni diritto derivante dalla 
+presente assicurazione per il caso d’invalidità, sono obbligati: 
+a. a rendere con verità ed esattezza qualsiasi dichiarazione richiesta dalla Società per gli accertamenti 
+dello stato di invalidità dell’Assicurato; 
+b. a fornire tutte le prove che dalla Società fossero ritenute opportune per stabilire le cause e gli effetti 
+della malattia o della lesione fisica che hanno prodotto l’invalidità. 
+La Società si riserva, inoltre, il pieno ed incondizionato diritto di accertare l’invalidità con medici di sua fiducia. 
+ 
+Art. 5 
+Il pagamento del capitale verrà eseguito in un’unica soluzione alla data di riconoscimento dell’invalidità, 
+sempre che tale evento abbia comportato la risoluzione del rapporto di lavoro. 
+Eseguito il pagamento del capitale assicurato la garanzia si estingue e nulla e più dovuto per il caso di morte 
+dell’Assicurato. 
+ 
+Art. 6 
+Nel caso in cui l’invalidità non venga riconosciuta dalla Società, il Contraente ha facoltà, entro il termine di 
+30 giorni dalla comunicazione avutane, di promuovere, mediante lettera raccomandata con ricevuta di 
+ritorno spedita alla Direzione Generale della Società; la decisione di un Collegio Arbitrale composto da tre 
+medici, di cui uno nominato dalla Società, l’altro dal Contraente ed il terzo scelto di comune accordo dalle
+=== pagina 51 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 50 di 55 
+ 
+due parti. In caso di mancato accordo entro 20 giorni dalla richiesta di arbitrato, la scelta del terzo arbitro 
+sarà demandata al Presidente del Tribunale ove ha sede la Società. 
+Il Collegio Arbitrale decide a maggioranza, entro il termine di 30 giorni, come amichevole compositore, senza 
+formalità di procedura. 
+Gli arbitri, ove lo credano, potranno esperire, senza obbligo di sentenza, qualsiasi accertamento sanitario di 
+carattere preliminare od incidentale (visite mediche, esami di laboratorio, ecc). 
+Ciascuna delle parti sopporta le spese e competenze del proprio medico e la metà di quelle del terzo medico. 
+Le altre spese sono a carico della parte soccombente. 
+ 
+Art. 7 
+Dalla data del timbro postale della lettera raccomandata di cui all’Art.3 il Contraente sospende il pagamento 
+del premio relativo alla posizione dell’Assicurato per il quale è in corso l’accertamento dell’invalidità, mentre 
+la Società si impegna a mantenere in vigore le garanzie prestate; se l’invalidità è riconosciuta dalla Società o 
+dal Collegio Arbitrale di cui all’ Art. 6, l’obbligo al pagamento del premio cessa definitivamente; invece se 
+l’invalidità non viene riconosciuta, il Contraente è tenuto a corrispondere i premi scaduti posteriormente alla 
+data di denuncia della invalidità aumentati degli interessi di reintegro valuta, nella misura di cui alle 
+Condizioni generali di polizza.
+=== pagina 52 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 51 di 55 
+ 
+Tabella A2 
+ASSICURAZIONE TEMPORANEA IN CASO DI 
+MORTE E INVALIDITÀ A PREMIO 
+MONOANNUALE VARIABILE 
+ 
+Tassi di premio di tariffa per 1.000 Euro di capitale assicurato 
+ 
+ETÀ TASSI DI PREMIO 
+14 0,52 
+15 0,52 
+16 0,71 
+17 0,92 
+18 1,07 
+19 1,18 
+20 1,25 
+21 1,29 
+22 1,30 
+23 1,31 
+24 1,33 
+25 1,35 
+26 1,37 
+27 1,41 
+28 1,45 
+29 1,49 
+30 1,56 
+31 1,62 
+32 1,65 
+33 1,70 
+34 1,76 
+35 1,82 
+36 1,88 
+37 1,96 
+38 2,02 
+39 2,14 
+40 2,20 
+41 2,33 
+42 2,59 
+43 3,01 
+44 3,47 
+45 4,04 
+46 4,64 
+47 5,45 
+48 6,45 
+49 7,42 
+50 8,47 
+51 9,49 
+52 10,77 
+53 12,29 
+54 14,23 
+55 16,30 
+56 18,52 
+57 20,75 
+58 23,02 
+59 25,41 
+60 28,05 
+61 30,58 
+62 33,18 
+63 35,81 
+64 38,46
+=== pagina 53 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 52 di 55 
+ 
+ASSICURAZIONE TEMPORANEA IN CASO DI MORTE 
+A PREMIO MONOANNUALE VARIABILE 
+PREMESSA 
+Le presenti condizioni si applicano agli aderenti al Fondo o alle coperture accessorie per invalidità e 
+premorienza a partire dal 21/12/2012; per gli aderenti alla data del 20/12/2012 continuano ad applicarsi le 
+condizioni previgenti.   
+ 
+Ai fini della presente con il termine società viene indicata Unipol Assicurazioni S.p.A. – Via Stalingrado n. 45 - 
+40128 Bologna. 
+Art. 1  DEFINIZIONE  
+L’assicurazione temporanea per il caso di morte è un’assicurazione che garantisce la corresponsione di un 
+capitale di importo prefissato in caso di decesso dell’Assicurato. Per ogni aderente al Fondo Pensione Aperto 
+che dichiara di voler sottoscrivere tale garanzia complementare la Società provvede a determinare 
+annualmente il premio per garantire il capitale assicurato; il capitale assicurato e il premio vengono 
+univocamente determinati secondo le modalità descritte negli Artt. 6 e 7. 
+Art. 2  DICHIARAZIONI DELL’ASSICURATO 
+Le dichiarazioni dell’Assicurato hanno valore essenziale per la valutazione del rischio e per il consenso alla 
+stipulazione del contratto; pertanto, le risposte alle domande formulate con apposito questionario devono 
+essere veritiere, esatte e complete. In  caso di dichiarazioni inesatte e reticenze si applicano gli artt. 1892, 
+1893 e 1894 del Codice Civile.  L’inesatta indicazione dell’età dell’Assicurato comporta comunque, al 
+momento del pagamento, la rettifica delle somme dovute dalla società in base all’età reale. Non dispensano 
+dall’obbligo di rappresentare in modo veritiero, esatto e completo la reale entità del rischio, eventuali 
+dichiarazioni rese o informazioni comunque fornite e/o acquisite relativamente a contratti di assicurazione 
+infortuni e/o malattia stipulati con la stessa società  
+Art. 3  ASSUNZIONE DEI RISCHI – LIMITI DI ETÀ 
+L’assicurazione viene assunta in base alle dichiarazioni rilasciate da ogni aderente-Assicurando su un apposito 
+questionario anamnestico fornito dalla Società.  
+In considerazione del profilo sanitario risultante la Società si riserva la facoltà di accettare o rifiutare 
+l’assunzione del rischio. 
+Nel caso in cui la Società non accetti l’assunzione del rischio, l’eventuale premio pagato può, a scelta 
+dell’iscritto, essere rimborsato oppure sommato al contributo versato al Fondo Aperto; in tale caso sarà 
+investito nella Comparto di investimento da lui prescelta secondo i criteri disposti dal Regolamento del Fondo 
+Aperto. 
+Possono sottoscrivere l’assicurazione tutti gli Aderenti al Fondo Pensione Aperto con età compresa fra i 14 e 
+i 65 anni.  
+L’assicurazione non è rinnovabile nei confronti di coloro che abbiano superato i suddetti limiti d’età. 
+ 
+Art. 4  ENTRATA IN VIGORE DELL’ASSICURAZIONE 
+L’assicurazione entra in vigore, a condizione che sia stato pagato il premio, dalle ore 24.00 del giorno in cui: 
+• Il contratto sia stato sottoscritto da entrambe le parti;  
+oppure 
+• la Società abbia consegnato al Contraente il contratto dalla stessa sottoscritto. 
+Qualora il contratto preveda una data di effetto successiva, l’assicurazione non può entrare in vigore prima 
+delle ore 24.00 del giorno previsto.
+=== pagina 54 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 53 di 55 
+ 
+Art. 5  ETÀ COMPUTABILE 
+L’età computabile dell’Assicurato si determina in anni interi, con riferimento all’anniversario di nascita più 
+vicino al momento di ingresso in assicurazione (data di effetto dell’assicurazione); si trascura, pertanto, la 
+frazione d’anno inferiore a sei me si e si considera, invece, come anno la frazione d’anno che supera od 
+eguaglia il semestre. 
+Art. 6  CAPITALI ASSICURATI 
+In caso di morte dell’Assicurato la Società garantisce il pagamento del capitale assicurato al momento del 
+decesso. 
+Il capitale assicurato per ciascun aderente al fondo viene determinato, ogni anno, moltiplicando il contributo 
+annuo per la differenza fra l’età di quiescenza e l’età computabile, dove per età di quiescenza si intende dove 
+per età di quiescenza si intende convenzionalmente il 65esimo anno di età. 
+Art. 7  PREMI DI ASSICURAZIONE 
+A fronte della prestazione assicurativa ogni anno è dovuto un premio annuo lordo. 
+Il premio annuo di assicurazione per ogni Assicurato sarà determinato all’inizio di ciascun anno di 
+assicurazione - dove per anno di assicurazione si intende il periodo che intercorre fra l’anniversario della data 
+di effetto della copertura assicurativa e la data della ricorrenza successiva -  in base ai tassi di premio di cui 
+alla tabella C2, con riferimento all’età computabile raggiunta dall’Assicurato, e al relativo capitale assicurato. 
+Il premio netto di ciascun anno si ottiene moltiplicando il capitale assicurato dell’anno, per il corrispondente 
+tasso di premio e dividendo il risultato per mille. 
+Il premio annuo lordo si ottiene aggiungendo al premio netto le imposte (attualmente pari al 0,00 % del 
+premio netto stesso). 
+Il premio lordo può essere pagato per intero all’inizio di ciascun anno di assicurazione oppure frazionato in 
+rate annuali, semestrali, quadrimestrali, trimestrali, bimestrali o mensili; ogni anno il premio lordo di rata ai 
+ottiene dividendo il premio annuo lordo per il numero di rate dovute nel corso dell’anno assicurativo. 
+In caso di uscita in corso d’anno non dipendente da sinistro, la garanzia assicurativa resterà in vigore fino alla 
+scadenza del periodo di copertura acquisito col pagamento dell’ultima rata di premio lordo pagata. 
+Potranno venire applicate, nel corso di esecuzione del contratto, modifiche, concernenti le condizioni 
+tariffarie (tassi di premio) e le condizioni di polizza, dovute a disposizioni eventuali di legge e/o ad 
+adeguamenti a provvedimenti dell’IVASS (Istituto per la vigilanza sulle assicurazioni); i termini di 
+adeguamento verranno recepiti a partire dal 1° anniversario della data di effetto della copertura assicurativa 
+successivo al termine del mese seguente a quello di decorrenza del provvedimento o di recepimento delle 
+disposizioni. 
+Art. 8  DURATA DEL CONTRATTO – RESCISSIONE – RIATTIVAZIONE 
+La durata del contratto è data dalla differenza fra l’età computabile alla data di effetto del contratto e l’età 
+di quiescenza stabilita convenzionalmente in 65 anni. 
+Per tutta la durata del contratto la Società si impegna a calcolare ad ogni ricorrenza annuale del contratto i 
+valori del capitale assicurato e del premio da corrispondere. 
+Nel caso in cui l’ aderente-Assicurato decida di rescindere l’assicurazione dovrà darne comunicazione, a 
+mezzo di lettera raccomandata, almeno tre mesi prima della ricorrenza annuale della data di effetto della 
+garanzia a partire dalla quale si vuole abbia effetto la rescissione. 
+La riattivazione di una assicurazione rescissa è possibile alle seguenti condizioni: 
+• richiesta scritta dell’aderente-Assicurato; 
+• compilazione del questionario anamnestico. In considerazione del profilo sanitario risultante la Società 
+si riserva la facoltà di accettare o rifiutare l’assunzione del rischio. 
+In ogni caso di riattivazione l’assicurazione entra in vigore alle presenti condizioni di assicurazione.
+=== pagina 55 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 54 di 55 
+ 
+Art. 9  RISCHIO DI MORTE 
+Il rischio di morte è coperto qualunque possa esserne la causa, senza limiti territoriali e senza tenere conto 
+dei cambiamenti di professione dell’Assicurato. 
+È escluso dalla garanzia soltanto il decesso causato da: 
+• dolo dell’Assicurato o del Beneficiario; 
+• partecipazione attiva dell’Assicurato a delitti dolosi; 
+• partecipazione attiva dell’Assicurato a fatti di guerra, salvo che non derivi da obblighi verso lo Stato 
+Italiano: in questo caso la garanzia può essere prestata, su richiesta dell’Assicurato, alle condizioni 
+stabilite dal competente Ministero; 
+• incidente di volo, se l’Assicurato viaggia a bordo di aeromobile non autorizzato al volo o con pilota non 
+titolare di brevetto idoneo e, in ogni caso, se viaggia in qualità di membro dell’equipaggio; 
+• suicidio, se avviene nei primi due anni dall’entrata in vigore dell’assicurazione. 
+Art. 10 PAGAMENTI DELLA SOCIETÀ 
+Verificatosi il decesso, prima di procedere al pagamento, dovranno essere consegnati alla Società i documenti 
+necessari a: 
+• verificare l’effettiva esistenza dell’obbligo di pagamento; 
+• individuare con esattezza gli aventi diritto. 
+Sono richiesti i seguenti documenti: 
+• certificato di morte; 
+• relazione medica sulle cause del decesso, redatta su apposito modulo fornito dalla Società; 
+• ulteriore documentazione di carattere sanitario, o altra eventualmente ritenuta necessaria, a richiesta 
+della Società. 
+Verificata la sussistenza dell’obbligo di pagamento, la Società liquida la somma dovuta entro 30 giorni dal 
+ricevimento della documentazione completa. Decorso tale termine, ed a partire dal medesimo, sono dovuti 
+gli interessi moratori a favore dei Beneficiari. 
+Ogni pagamento viene effettuato presso la sede o la competente Agenzia della Società. 
+Art. 11  TASSE E IMPOSTE 
+Tasse e imposte relative al contratto sono a carico dell’Assicurato o dei Beneficiari ed aventi diritto. 
+Art. 12  DIRITTO DI RECESSO  
+L’aderente-Assicurato può recedere dal contratto entro 30 giorni dal momento in cui è informato che il 
+contratto è concluso, dandone comunicazione al Fondo Aperto ed a: 
+Unipol Assicurazioni S.p.A.  - Direzione Vita - Via Stalingrado n. 45 -  40128 Bologna, a mezzo lettera 
+raccomandata con avviso di ricevimento contenente gli elementi identificativi del contratto. 
+Il contratto si intende concluso nel momento in cui l’Assicurato ha ricevuto comunicazione dell’accettazione 
+della Società o, in mancanza, nel momento in cui la polizza è stata sottoscritta da entrambe le parti ovvero la 
+Società abbia consegnato all’Assicurato la polizza dalla stessa sottoscritta. 
+La notifica del recesso libera per il futuro all’Assicurato da qualsiasi obbligazione derivante dal contratto. 
+Entro trenta giorni dal ricevimento della raccomandata di recesso, la Società, previa restituzione dell’originale 
+di polizza e delle eventuali appendici, rimborsa all’Assicurato il premio da questi eventualmente corrisposto, 
+al netto dell’imposta sulle assicurazioni e della parte  relativa al periodo per il quale il contratto ha avuto 
+effetto.
+=== pagina 56 ===
+Unipol Previdenza FPA 
+Regolamento – mod. RegFPA – ed. 06/2025 Pagina 55 di 55 
+ 
+Tabella C2 
+ 
+ASSICURAZIONE TEMPORANEA IN CASO DI 
+MORTE A PREMIO MONOANNUALE 
+VARIABILE 
+ 
+Tassi di premio di tariffa per 1.000 Euro di capitale assicurato 
+ 
+ETÀ TASSO DI PREMIO 
+14 0,41 
+15 0,41 
+16 0,60 
+17 0,81 
+18 0,96 
+19 1,07 
+20 1,14 
+21 1,17 
+22 1,18 
+23 1,18 
+24 1,19 
+25 1,20 
+26 1,21 
+27 1,23 
+28 1,25 
+29 1,27 
+30 1,31 
+31 1,34 
+32 1,37 
+33 1,41 
+34 1,46 
+35 1,51 
+36 1,56 
+37 1,61 
+38 1,66 
+39 1,76 
+40 1,79 
+41 1,91 
+42 2,06 
+43 2,26 
+44 2,46 
+45 2,70 
+46 2,93 
+47 3,30 
+48 3,76 
+49 4,19 
+50 4,61 
+51 4,99 
+52 5,41 
+53 5,97 
+54 6,74 
+55 7,52 
+56 8,47 
+57 9,46 
+58 10,54 
+59 11,78 
+60 13,14 
+61 14,62 
+62 16,20 
+63 17,89 
+64 19,74
+=== pagina 57 ===
+Unipol Previdenza FPA 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 1 di 8 
+ 
+APPENDICE AL REGOLAMENTO 
+ 
+DIVERSI LIVELLI DI SPESE E DI GARANZIA APPLICATI A SEGUITO DI OPERAZIONI DI FUSIONE 
+ 
+Premessa 
+ 
+In data 01/07/2012 il Fondo ha incorporato i Fondi Pensione Aperti "Unipol Futuro" e "Aurora Previdenza”  e in conseguenza 
+della Fusione il Regolamento del Fondo è stato modificato.  
+In data 01/05/2016 il Fondo ha incorporato i Fondi Pensione Aperti “Unipol Insieme”, “CONTO PREVIDENZA”, “FONDIARIA 
+PREVIDENTE”, “SAI”, e “UNIPOLSAI ASSICURAZIONI” e in conseguenza della Fusione il Regolamento del Fondo è stato modificato. 
+Dalla data di efficacia della Fusione il Fondo Incorporante ha variato la sua denominazione in “ UnipolSai Previdenza FPA”. 
+Agli aderenti interessati dalle predette operazioni sono applicati diversi livelli di spese e di garanzia .  
+Di seguito sono riportate le informazioni di dettaglio in relazione al regime delle spese ed alla garanzia.  
+ 
+ 
+SEZIONE I – OPERAZIONE DI FUSIONE CON EFFETTO DAL 01/05/2016 
+A) Informazioni di dettaglio in relazione al regime delle spese 
+ 
+Modifiche Regolamentari del Fondo Pensione Aperto Unipol Previdenza 
+Agli aderenti su base individuale e su base collettiva e ai nuovi lavoratori di collettività aziendali aderenti prima del  01/05/2016 - 
+data di efficacia delle modifiche regolamentari -  ma successivamente al 01/07/2012, continuano ad applicarsi le previgenti 
+condizioni relative al regime delle spese, a valere sui versamenti successivi alla predetta data di efficacia delle modifiche  
+regolamentari. 
+Nella tabella che segue sono riportate le spese applicate ai predetti soggetti.  
+ 
+Fondo 
+Pensione 
+Aperto  
+Spese di 
+adesione 
+Spese annue da 
+sostenere durante la 
+fase di accumulo 
+Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione individuale 
+Spese di anticipazione Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Unipol 
+Previdenza  
+€ 50,00  € 25,00 
+€ 25,00 
+se richiesto prima di 36 
+mesi 
+€ 50,00 
+dalla seconda 
+anticipazione 
+€ 50,00 € 0,00 
+ 
+Per le adesioni su base collettiva ante modifiche regolamentari vengono mantenute inalterate le condizioni indicate nella Fas cia 
+applicata alla collettività alla data dell’adesione. In particolare: 
+ 
+Fondo 
+Pensione 
+Aperto  
+Spese di 
+adesione 
+Spese annue da 
+sostenere durante la 
+fase di accumulo 
+Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione individuale 
+Spese di anticipazione Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Unipol 
+Previdenza 
+Fascia A 
+€ 0,00 € 15,49 
+€ 15,49 
+se richiesto prima di 24 
+mesi 
+€ 0,00 € 00,00 € 0,00 
+Unipol 
+Previdenza 
+Fascia B 
+€ 10,33 € 15,49 
+€ 15,49 
+se richiesto prima di 24 
+mesi 
+€ 0,00 € 00,00 € 0,00
+=== pagina 58 ===
+Unipol Previdenza FPA 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 2 di 8 
+ 
+Unipol 
+Previdenza 
+Fascia C 
+€ 18,08 € 15,49 
+€ 15,49 
+se richiesto prima di 24 
+mesi 
+€ 0,00 € 00,00 € 0,00 
+Unipol 
+Previdenza 
+Fascia D 
+€ 12,91 € 15,49 
+€ 15,49 
+se richiesto prima di 24 
+mesi 
+€ 0,00 € 00,00 € 0,00 
+Unipol 
+Previdenza 
+Fascia E 
+€ 20,00 € 15,00 € 50,00 € 0,00 € 00,00 € 0,00 
+Unipol 
+Previdenza 
+Fascia F 
+€ 0,00 € 15,00 € 50,00 € 0,00 € 00,00 € 0,00 
+ 
+ 
+Fusione 
+In data 01/05/2016 il Fondo ha incorporato i Fondi Pensione Aperti “FONDIARIA PREVIDENTE”, “SAI”, “Unipol Insieme”, “CONTO 
+PREVIDENZA” e “UNIPOLSAI ASSICURAZIONI ". Agli aderenti su base individuale e su base collettiva prima della Fusione e ai nuovi 
+lavoratori di collettività aziendali aderenti prima della Fusione, continuano ad applicarsi le previgenti condizioni relative  al regime 
+delle spese, a valere sui versamenti successivi alla predetta data di efficacia della Fusione. 
+Nella tabella che segue sono riportate le spese applicate ai predetti soggetti, aderenti prima della Fusione ai Fondi incorpo rati. 
+ 
+Fondo Pensione 
+Aperto  
+Spese di 
+adesione 
+Spese annue 
+da sostenere 
+durante la fase 
+di accumulo 
+   Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione individuale 
+Spese di 
+anticipazione 
+Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Conto Previdenza 
+€ 40,00 
+Ridotte in base 
+alla classe di quota 
+€ 30,00 classe A 
+€ 20,00 classe B 
+€ 0,00 classe C 
+€ 0,00 € 0,00 € 0,00 € 0,00 € 0,00 
+UnipolSai 
+Assicurazioni 
+€ 40,00 
+Ridotte in base 
+alla classe di quota 
+€ 30,00 classe A 
+€ 20,00 classe B 
+€ 0,00 classe C 
+€ 0,00 € 25,00 € 0,00 € 25,00 € 25,00 
+Unipol Insieme € 0,00  € 0,00 € 0,00 € 0,00 € 0,00 € 0,00 
+Fondiaria 
+Previdente € 40,00 € 0,00 € 0,00 € 0,00 € 0,00 € 0,00 
+SAI € 40,00 € 0,00 € 25,00 € 0,00 € 25,00 € 25,00
+=== pagina 59 ===
+Unipol Previdenza FPA 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 3 di 8 
+ 
+ 
+B) Informazioni di dettaglio relative alla garanzia 
+ 
+Modifiche Regolamentari del Fondo Pensione Aperto Unipol Previdenza 
+Agli aderenti su base individuale e su base collettiva al Fondo prima del 01/05/2016, data di efficacia delle modifiche 
+regolamentari, continuano ad applicarsi le previgenti condizioni relative alla garanzia sui contributi netti versati 
+antecedentemente a tale data,  a condizione che le posizioni individuali maturate entro tale data permangano all’interno del 
+comparto originario come ridenominato, anche successivamente al 01/05/2016.  
+Nella tabella che segue, il confronto fra le garanzie applicate ai predetti soggetti ed il regime delle garanzie a far data d al 
+01/05/2016. 
+ 
+Comparti del Fondo Incorporante  
+“Unipol Previdenza” 
+Ante Fusione 
+Garanzia vigente alla Data della 
+Fusione 
+Comparti di destinazione del 
+Fondo UnipolSai 
+ Previdenza FPA  risultanti dalla 
+Fusione 
+Garanzia 
+Comparto A 
+(raccoglie i flussi di TFR conferiti 
+tacitamente) 
+1,00% Comparto Obbligazionario  non prevista  
+Comparto B Capitale Comparto Bilanciato Prudente 
+ non prevista  
+ 
+ 
+Fusione 
+In data 01/05/2016 il Fondo ha incorporato i Fondi Pensione Aperti “Unipol Insieme”, “CONTO PREVIDENZA”, “FONDIARIA 
+PREVIDENTE”, “SAI”, e “UNIPOLSAI ASSICURAZIONI”. Continuano, tuttavia, ad applicarsi le previgenti condizioni relative alla 
+garanzia sui contributi netti versati antecedentemente alla data di efficacia della Fusione  - a condizione che le posizioni 
+individuali maturate entro tale data nei Fondi incorporati permangano nei relativi Comparti del Fondo risultanti dalla Fusion e - 
+rispettivamente:  
+i) agli aderenti su base individuale e su base collettiva al Comparto “Garantito Flex” del Fondo, provenienti dagli 
+originari comparti “Premium TFR” del Fondo “CONTO PREVIDENZA” e “Premium TFR” del Fondo “UNIPOLSAI 
+ASSICURAZIONI”; 
+ii) agli aderenti su base individuale e su base collettiva al “Comparto Obbligazionario” del Fondo, provenienti 
+dagli originari comparti “Previ Bond” del Fondo “SAI” e “Bond” del Fondo “UNIPOLSAI ASSICURAZIONI”; 
+iii) agli aderenti su base individuale e su base collettiva al Comparto “Bilanciato Etico” del Fondo, provenienti 
+dall’originario Comparto “Protezione Etica” del Fondo “UNIPOL INSIEME”; 
+iv) agli aderenti su base individuale e su base collettiva al Comparto “Bilanciato Prudente” del Fondo, provenienti 
+dagli originari comparti “Garantito” del Fondo “FONDIARIA PREVIDENTE”, “Previ Gest” e “Previ Capital” del 
+Fondo “SAI”, “Crescita” del Fondo “Uni pol Insieme”, “Garantito” del Fondo “CONTO PREVIDENZA” e “Gest” 
+del Fondo “UNIPOLSAI ASSICURAZIONI”. 
+Nelle tabelle che seguono, il confronto fra le garanzie applicate ai predetti soggetti ed il regime delle garanzie a far data dal 
+01/05/2016. 
+ 
+ 
+Comparti del Fondo 
+“Unipol Insieme” 
+Ante Fusione 
+Garanzia vigente alla 
+Data della Fusione 
+Comparti di destinazione del Fondo UnipolSai 
+Previdenza FPA risultanti dalla Fusione Garanzia 
+Comparto Protezione Etica 
+(raccoglie i flussi di TFR conferiti 
+tacitamente) 
+1,0% Comparto Bilanciato Etico  
+CLASSE 2 non prevista 
+Comparto Crescita Capitale Comparto Bilanciato Prudente 
+CLASSE 2 
+non prevista
+=== pagina 60 ===
+Unipol Previdenza FPA 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 4 di 8 
+ 
+Comparti del Fondo “Conto 
+Previdenza” 
+Ante Fusione 
+Garanzia vigente 
+alla Data della 
+Fusione 
+Comparti di destinazione del Fondo UnipolSai 
+Previdenza FPA risultanti dalla Fusione Garanzia 
+Comparto Premium TFR  1,00% Comparto Garantito Flex 
+ (raccoglie i flussi di TFR conferiti tacitamente) Capitale 
+Comparto Garantito 
+(raccoglie i flussi di TFR conferiti 
+tacitamente) 
+1,00% Comparto Bilanciato Prudente non prevista  
+  
+Comparti del Fondo “Fondiaria 
+Previdente” 
+Ante Fusione 
+Garanzia vigente alla 
+Data della Fusione 
+Comparti di destinazione del Fondo UnipolSai 
+Previdenza FPA risultanti dalla Fusione Garanzia 
+Comparto Monetario  - Comparto Garantito Flex  
+(raccoglie i flussi di TFR conferiti tacitamente) Capitale 
+Comparto Garantito 
+(raccoglie i flussi di TFR conferiti 
+tacitamente) 
+1,00% Comparto Bilanciato Prudente non prevista  
+  
+Comparti del Fondo “Sai” 
+Ante Fusione 
+Garanzia vigente alla 
+Data della Fusione 
+Comparti di destinazione del Fondo UnipolSai 
+Previdenza FPA risultanti dalla Fusione Garanzia 
+Comparto  
+Previ-Bond 1,00% Comparto Obbligazionario non prevista 
+Comparto  
+Previ-Gest 
+(raccoglie i flussi di TFR conferiti 
+tacitamente) 
+1,00% 
+Comparto Bilanciato Prudente non prevista 
+Comparto  
+Previ-Capital Capitale 
+  
+Comparti del Fondo “UnipolSai 
+Assicurazioni” 
+Ante Fusione 
+Garanzia vigente alla 
+Data della Fusione 
+Comparti di destinazione del Fondo UnipolSai 
+Previdenza FPA risultanti dalla Fusione Garanzia 
+Comparto Premium TFR  1,00% Comparto Garantito Flex 
+(raccoglie i flussi di TFR conferiti tacitamente) Capitale 
+Comparto Bond 1,00% Comparto Obbligazionario  non prevista 
+Comparto  
+Gest 
+(raccoglie i flussi di TFR conferiti 
+tacitamente) 
+1,00% Comparto Bilanciato Prudente non prevista
+=== pagina 61 ===
+Unipol Previdenza FPA 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 5 di 8 
+ 
+SEZIONE II – OPERAZIONE DI FUSIONE CON EFFETTO DAL 01/07/2012 
+ 
+A) Informazioni di dettaglio in relazione al regime delle spese 
+ 
+Modifiche Regolamentari del Fondo Pensione Aperto Unipol Previdenza  
+In data 01/07/2012 il Regolamento del Fondo è stato modificato. Agli aderenti su base individuale e su base collettiva prima del 
+01/07/2012 - data di efficacia delle modifiche regolamentari - e ai nuovi lavoratori di collettività aziendali aderenti prima di tale 
+data, continuano ad applicarsi le previgenti condizioni di miglior favore relative al regime delle spese, a valere sui versam enti 
+successivi alla predetta data di efficacia delle modifiche regolam entari. 
+Nella tabella che segue sono riportate le spese applicate ai predetti soggetti . 
+ 
+Fondo Pensione 
+Aperto  
+Spese di 
+adesione 
+Spese annue da 
+sostenere durante 
+la fase di 
+accumulo 
+  Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione 
+individuale 
+Spese di 
+anticipazione 
+Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Unipol Previdenza  € 25,82 € 15,49 
+€15,49 
+se richiesto prima 
+di 24 mesi 
+€ 0,00 € 0,00 € 0,00 
+Per le adesioni su base collettiva ante modifiche regolamentari  vengono mantenute inalterate le condizioni indicate nella Fascia 
+applicata alla collettività alla data dell’adesione. In particolare: 
+Fondo Pensione 
+Aperto  
+Spese di 
+adesione 
+Spese annue da 
+sostenere durante 
+la fase di accumulo 
+Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione 
+individuale 
+Spese di 
+anticipazione 
+Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Unipol Previdenza 
+Fascia A € 0,00 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00 
+Unipol Previdenza 
+Fascia B € 10,33 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00 
+Unipol Previdenza 
+Fascia C € 18,08 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00 
+Unipol Previdenza 
+Fascia D € 12,91 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00
+=== pagina 62 ===
+Unipol Previdenza FPA 
+ 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 6 di 8 
+ 
+Fusione  
+In data 01/07/2012 il Fondo ha incorporato i Fondi Pensione Aperti "Unipol Futuro" e "Aurora Previdenza". Agli aderenti su base 
+individuale e su base collettiva prima della Fusione e ai nuovi lavoratori di collettività aziendali aderenti prima della Fus ione, 
+continuano ad applicarsi le previgenti condizioni di miglior favore relative al regime delle spese, a valere sui versamenti 
+successivi alla predetta data di efficacia della Fusione 
+Nella tabella che segue sono riportate le spese applicate ai predetti soggetti . 
+ 
+ 
+Fondo Pensione 
+Aperto  
+Spese di 
+adesione 
+Spese annue da 
+sostenere durante 
+la fase di 
+accumulo 
+Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione 
+individuale 
+Spese di 
+anticipazione 
+Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Unipol Futuro  € 25,82 € 15,49 
+€15,49 
+se richiesto prima 
+di 24 mesi 
+€ 0,00 € 0,00 € 0,00 
+Aurora Previdenza  € 50,00  € 15,00 € 0,00 € 0,00 € 50,00 € 0,00 
+ 
+Per le adesioni su base collettiva ante Fusione vengono mantenute inalterate le condizioni indicate nella Fascia applicata alla 
+collettività alla data dell’adesione. In particolare: 
+ 
+Fondo Pensione 
+Aperto 
+Unipol Futuro  
+Spese di 
+adesione 
+Spese annue da 
+sostenere durante 
+la fase di accumulo 
+Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione 
+individuale 
+Spese di 
+anticipazione 
+Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Fascia A € 0,00 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00 
+Fascia B € 10,33 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00 
+Fascia C € 18,08 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00 
+Fascia D € 12,91 € 15,49 
+€ 15,49 
+se richiesto prima di 
+24 mesi 
+€ 0,00 € 00,00 € 0,00
+=== pagina 63 ===
+Unipol Previdenza FPA 
+ 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 7 di 8 
+ 
+ 
+Fondo Pensione 
+Aperto  
+Aurora Previdenza  
+Spese di 
+adesione 
+Spese annue da 
+sostenere durante 
+la fase di accumulo 
+Spese per l’esercizio di prerogative individuali 
+Spese di 
+riallocazione della 
+posizione 
+individuale 
+Spese di 
+anticipazione 
+Spese di 
+trasferimento 
+Spese di 
+riscatto 
+Fascia A € 0,00 € 15,00 € 0,00 € 0,00 € 50,00 € 0,00 
+Fascia B € 10,33 € 15,00 € 0,00 € 0,00 € 50,00 € 0,00 
+ 
+B) Informazioni di dettaglio relative alla garanzia 
+ 
+Modifiche Regolamentari del Fondo Pensione Aperto Unipol Previdenza 
+Agli aderenti su base individuale e su base collettiva al Fondo prima del 1° luglio 2012, data di efficacia delle modifiche 
+regolamentari, e ai nuovi lavoratori di collettività aziendali aderenti continuano ad applicarsi fino alla data del 30/04/2016 le 
+previgenti condizioni relative alla garanzia, ferma restando l’applicabilità delle variazioni conseguenti ad adeguamenti 
+normativi.  
+Dal 01/05/2016, data di efficacia della seconda operazione di fusione, le predette garanzie continuano ad applicarsi sui 
+contributi netti versati antecedentemente a tale data , a condizione che le posizioni individuali maturate entro tale data 
+permangano nei relativi Comparti del Fondo risultanti dalla Fusione . 
+Nella tabella che segue, il confronto fra le garanzie applicate ai predetti soggetti dall’1/07/2012 ed il regime delle garanz ie a 
+far data dal 01/05/2016 (data di efficacia della seconda operazione di fusione).  
+ 
+Comparti del Fondo 
+Incorporante 
+“Unipol Previdenza” 
+Ante 01/07/2012 
+Garanzia vigente alla Data 
+01/07/2012 
+Garanzia dall’1/7/2012  
+ 
+UnipolSai Previdenza FPA 
+Comparto di destinazione e 
+garanzia 
+Comparto A 
+(raccoglie i flussi di TFR 
+conferiti tacitamente) 
+2,00%  
+2,00% dal 01/07/2012 al 30/11/2014 
+1,75% dal 01/12/2014 al 30/03/2015 
+1,50% dal 31/03/2015 al 30/06/2015 
+1,00% dal 01/07/2015  
+(*) 
+ 
+Comparto Obbligazionario 
+Garanzia non prevista  
+Comparto B 2,00%  
+2,00% dal 01/07/2012 al 30/11/2014 
+1,75% dal 01/12/2014 al 30/03/2015 
+1,50% dal 31/03/2015 al 30/06/2015 
+1,00% dal 01/07/2015 
+(*) 
+ 
+Comparto Bilanciato Prudente 
+Garanzia non prevista 
+ 
+(*) variazione in relazione all’adeguamento al valore del tasso massimo di interesse garantibile per legge (TMG)
+=== pagina 64 ===
+Unipol Previdenza FPA 
+ 
+Appendice al Regolamento – mod. RegFPA – ed. 06/2025 Pagina 8 di 8 
+ 
+Fusione  
+In data 01/07/2012 il Fondo ha incorporato i Fondi Pensione Aperti "Unipol Futuro" e "Aurora Previdenza". Agli aderenti su ba se 
+individuale e su base collettiva prima della Fusione e ai nuovi lavoratori di collettività aziendali aderenti prima della Fus ione, 
+continuano ad applicarsi fino alla data del 30/04/2016 le previgenti condizioni di miglior favore relative alla garanzia, a valere sui 
+versamenti successivi alla predetta data di efficacia della Fusione,  ferma restando l’applicabilità delle variazioni conseguenti ad 
+adeguamenti normativi. 
+Dal 01/05/2016, data di efficacia della seconda operazione di fusione, le predette garanzie continuano ad applicarsi sui contributi 
+netti versati antecedentemente a tale data , a condizione che le posizioni individuali maturate entro tale data permangano nei 
+relativi Comparti del Fondo risultanti dalla Fusione. 
+Nella tabella che segue, il confronto fra le garanzie applicate ai predetti soggetti ed il regime delle garanzie a far data d al 
+01/05/2016 (data di efficacia della seconda operazione di fusione). 
+Comparti del Fondo 
+Incorporato 
+“Unipol Futuro” 
+Ante 01/07/2012 
+Garanzia vigente alla 
+Data 01/07/2012 
+Comparti di destinazione 
+del Fondo Unipol 
+Previdenza risultanti 
+dalla Fusione 
+Garanzia 
+UnipolSai Previdenza FPA 
+Comparto di destinazione e 
+garanzia 
+Comparto A 
+(raccoglie i flussi di 
+TFR conferiti 
+tacitamente) 
+2,00%  
+Comparto A 
+(raccoglie i flussi di TFR 
+conferiti tacitamente) 
+2,00% dal 01/07/2012 al 
+30/11/2014 
+1,75% dal 01/12/2014 al 
+30/03/2015 
+1,50% dal 31/03/2015 al 
+30/06/2015 
+1,00% dal 01/07/2015  
+(*) 
+ 
+Comparto Obbligazionario 
+Garanzia non prevista  
+Comparto B 2,00%  Comparto B 
+2,00% dal 01/07/2012 al 
+30/11/2014 
+1,75% dal 01/12/2014 al 
+30/03/2015 
+1,50% dal 31/03/2015 al 
+30/06/2015 
+1,00% dal 01/07/2015  
+(*) 
+ 
+Comparto Bilanciato Prudente 
+Garanzia non prevista 
+ 
+ 
+ 
+Comparti del Fondo 
+Incorporato 
+“Aurora Previdenza” 
+Ante 01/07/2012 
+Garanzia vigente alla 
+Data 01/07/2012 
+Comparti di destinazione 
+del Fondo Unipol 
+Previdenza risultanti 
+dalla Fusione 
+Garanzia 
+UnipolSai Previdenza FPA 
+Comparto di destinazione e 
+garanzia 
+Comparto Rendimento 
+Garantito 
+(raccoglie i flussi di TFR 
+conferiti tacitamente) 
+2,50%  
+Comparto A 
+(raccoglie i flussi di TFR 
+conferiti tacitamente) 
+2,50% dal 01/07/2012 al 
+30/11/2014 
+1,75% dal 01/12/2014 al 
+30/03/2015 
+1,50% dal 31/03/2015 al 
+30/06/2015 
+1,00% dal 01/07/2015 
+(*) 
+ 
+Comparto Obbligazionario 
+Garanzia non prevista  
+Comparto 
+Internazionale 
+Conservativo 
+0,00%  Comparto B Capitale 
+Comparto Bilanciato 
+Prudente 
+Garanzia non prevista 
+ 
+ 
+(*) variazione in relazione all’adeguamento al valore del tasso massimo di interesse garantibile per legge (TMG)
+=== pagina 65 ===
+
+=== pagina 66 ===
+

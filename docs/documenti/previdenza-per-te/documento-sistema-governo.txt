@@ -1,0 +1,986 @@
+# Fondo: PREVIDENZA PER TE - FONDO PENSIONE APERTO (previdenza-per-te)
+# Documento: Documento sul sistema di governo – Documento sul Sistema di Governo afferente alla gestione dei Fondi Pensione Aperti di AXA MPS Vita.pdf
+# Fonte: https://www.axa-mps.it/c/document_library/get_file?uuid=b84122de-7854-b84c-0890-245ec629cfc7&groupId=715633
+# Citato in: https://www.axa-mps.it/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 811b315ea5a9007839d5d0de3e9157ac30bb3bee96d77dcd46f024aeb1d2c6bd
+# Pagine: 24
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul Sistema di Governo  afferente alla gestione dei Fondi Pensione Aperti di AXA 
+MPS Vita 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Owner: Legal & Corporate Affairs & Authorities 
+ 
+Approvatore: CDA AXA MPS Assicurazioni Vita  
+ 
+Versione: 1.0 
+ 
+Data di emissione: 29/04/2021 
+ 
+Decorrenza: 29/04/2021 
+ 
+Destinatari: AXA MPS Assicurazioni Vita 
+ 
+Oggetto: Documento sul Sistema di Governo  afferente alla gestione dei Fondi 
+Pensione Aperti
+=== pagina 2 ===
+2 
+ 
+STORICO DELLE VERSIONI 
+ 
+Versione Data Modifiche apportate Autore delle modifiche 
+1.0 23/04/2021 Prima redazione del Documento Legal & Corporate Affairs 
+& Authorities 
+    
+    
+    
+ 
+SOMMARIO 
+1. PREMESSA ....................................................................................................................................... 4 
+1.1. Contesto ed obiettivi del Documento ................................................................................... 4 
+1.2. Riferimenti normativi ............................................................................................................. 5 
+1.3. Ambito generale di applicazione ........................................................................................... 5 
+1.4. Approvazione e revisione ....................................................................................................... 6 
+1.5. Principi generali ...................................................................................................................... 6 
+2. L’ORGANIZZAZIONE E IL SISTEMA DI GOVERNO DEI FPA NELL’AMBITO DELLA COMPAGNIA ....... 6 
+2.1. L’applicazione del principio di proporzionalità nel Sistema di Governo .............................. 6 
+2.2. La struttura organizzativa ...................................................................................................... 7 
+2.3. Revisione del Sistema di Governo del Fondo ........................................................................ 8 
+2.4. Gli Organi sociali e i presidi o enti a loro supporto ............................................................... 8 
+2.4.1. Assemblea della Compagnia .......................................................................................... 8 
+2.4.2. Società di Revisione Contabile ....................................................................................... 8 
+2.4.3. Collegio Sindacale ........................................................................................................... 8 
+2.4.4. CDA ................................................................................................................................. 9 
+2.5. Responsabile ......................................................................................................................... 11 
+2.5.1. Ruolo e attribuzioni ...................................................................................................... 11 
+2.6. Funzioni Fondamentali del Fondo ....................................................................................... 12 
+2.7. Le altre Funzioni Fondamentali della Compagnia e la Funzione AML ................................ 12 
+2.8. Altri attori ............................................................................................................................. 13 
+2.8.1. Organismo di Rappresentanza (oggi non istituito) del Fondo .................................... 13 
+2.8.2. Comitati esecutivi ......................................................................................................... 13 
+2.8.3. Comitati tecnici ............................................................................................................. 13 
+2.8.4. Strutture operative ....................................................................................................... 13 
+2.9. Il sistema normativo interno ............................................................................................... 15
+=== pagina 3 ===
+3 
+ 
+3. Responsabilità e compiti nel processo di investimento................................................................ 15 
+4. IL SISTEMA DI CONTROLLO INTERNO ............................................................................................ 17 
+4.1. L’ambiente di controllo ........................................................................................................ 17 
+4.2. Linee guida sui controlli interni e linee di difesa ................................................................. 18 
+4.3. Attori coinvolti – Ruolo del CDA nell’ambito del Sistema di Controllo Interno ................. 19 
+4.4. Attori coinvolti – Ruolo del Collegio Sindacale nell’ambito del Sistema di Controllo 
+Interno .............................................................................................................................................. 19 
+4.5. Attori coinvolti – Funzione di Revisione Interna ................................................................. 19 
+4.6. Attori coinvolti – Funzione di Gestione dei Rischi ............................................................... 20 
+4.7. Attori coinvolti – Ruolo del Responsabile nell’ambito del Sistema di Controllo Interno .. 21 
+5. IL SISTEMA DI GESTIONE DEI RISCHI ............................................................................................. 21 
+5.1. Attori coinvolti ...................................................................................................................... 21 
+5.2. Valutazione interna del rischio ............................................................................................ 21 
+7. INFORMAZIONI RELATIVE ALLA POLITICA DI REMUNERAZIONE .................................................. 23
+=== pagina 4 ===
+4 
+ 
+1. PREMESSA 
+1.1. Contesto ed obiettivi del Documento 
+ 
+AXA MPS Assicurazioni Vita S.p.A. (“ Compagnia” o “Società” ) è un’impresa  autorizzata 
+all’esercizio delle assicurazioni nei Rami Vita, appartenente al gruppo assicurativo AXA ITALIA 
+(“Gruppo AXA ITALIA ”) sottoposta alla direzione e coordinamento della Capogruppo AXA 
+Assicurazioni S.p.A. 
+La Compagnia ha istituito e gestisce fondi pensione aperti,  cioè costituiti nella forma di patrimoni 
+separati ai sensi dell’articolo 3, comma 1, lettera h) Decreto Legislativo  n. 252 (“Decreto”) del 5 
+dicembre 2005 (definiti anche come  “ Fondi” o “ Fondi Pens ione” o, quando ci si riferisca 
+genericamente ad uno di essi,  “Fondo” o  “Fondo Pensione” o, indistintamente,  “FPA”  quando si 
+faccia indistintamente riferimento ai Fondi o a ciascuno di essi). 
+Il Documento sul Sistema di Governo dei Fondi Pensione Aperti è redatto dalla Compagnia, ai sensi 
+dell’art. 4-bis, comma 2 e 5-decies del Decreto Legislativo n. 252 del 5 dicembre 2005 (“il Decreto”), 
+come modificato dal Decreto Legislativo n. 147 del 13 dicembre 2018  e come attuato dall a 
+Deliberazione della Commissione di Vigilanza sui Fondi Pensione (“COVIP”) del 13 gennaio 2021 
+“Istruzioni di vigilanza per le società che gestiscono Fondi Pensione aperti ” cioè  costituiti nella 
+forma di patrimoni separati ai sensi dell’articolo 3, comma 1, lettera h) del Decreto.   
+ 
+Ai sensi delle suddette disposizioni normative, la Compagnia quale ente che istituisce e gestisce 
+FPA, assicura l’assolvimento degli obblighi previsti del Decreto in materia di “ sistema di governo” 
+dei Fondi Pensione: 
+i) in modo proporzionato alla dimensione, alla natura, alla portata e alla complessità delle attività 
+del Fondo Pensione; 
+ii) nell’ambito degli assetti organizzativi propri della Compagnia quale impresa istitutrice;  
+iii) in coerenza con la normativa del rispettivo settore di riferimento; 
+dotandosi, quindi, di un sistema di governo della gestione dei propri FPA in modo tale da rispondere 
+alle esigenze di  tutela i) degli aderenti e dei beneficiari dei FPA e ii) della piena separatezza 
+patrimoniale tra il patrimonio di ciascun  FPA rispetto a quello degli altri e rispetto al patrimonio 
+della Compagnia. 
+ 
+Il presente Documento, approvato dal Consiglio di Amministrazione  (“CDA”) nel suo compito di 
+definire il sistema di governo  della Compagnia afferente alla gestione di ciascun FPA  (in breve 
+“Sistema di Governo”), ha l’obiettivo:  
+i) di definire: 
+- l’organizzazione della Compagnia rilevante per i profili gestionali inerenti ai FPA, ivi incluse 
+le funzioni e/o attività che risultano esternalizzate;  
+- una descrizione di come sono organizzati i controlli interni rilevanti per i FPA (“Sistema di 
+Controllo Interno”);  
+- una descrizione sintetica di come è organizzato il sistema di gestione dei rischi rilevante per 
+i FPA;
+=== pagina 5 ===
+5 
+ 
+- una descrizione sintetica di come sono organizzati i flussi informativi tra le strutture 
+aziendali e il responsabile di ciascun FPA;  
+- le informazioni essenziali relative alla politica di remunerazione del responsabile del Fondo 
+Pensione aperto e dei titolari delle Funzioni Fondamentali di gestione dei rischi e di 
+revisione interna.  
+ ii) di promuovere così:  
+- la conoscenza e l’attuazione del Sistema di Governo dei FPA, affinché possa assicurare una 
+gestione sana e prudente dell’attività , proporzionato alla dimensione, alla natura, alla 
+portata e alla complessità delle attività dei FPA medesimi; 
+- la gestione efficiente delle attività operative di ciascun FPA.   
+1.2. Riferimenti normativi  
+Il quadro complessivo delle norme di governance dei FPA, inteso come il sistema delle regole e delle 
+procedure cui gli organi sociali si ispirano per adottare la propria linea di condotta, è stato definito 
+in coerenza con le Direttive europee e in attuazione delle n orme legislative e regolamentari 
+nazionali vigenti in materia di forme pensionistiche complementari . Tra le principal i norme in 
+questione si evidenziano: 
+- il Decreto Legislativo n. 252 del 5 dicembre 2005, e successive modifiche; 
+- il Decreto Ministeriale n. 166 del 2 settembre 2014 - Regolamento di attuazione dell’articolo 
+6, comma 5-bis del decreto legislativo 5 dicembre 2005, n. 252, recante norme sui criteri e 
+limiti di investimento delle risorse dei Fondi Pensione e sulle regole in materia di conflitti di 
+interesse; 
+- il Decreto Ministeriale n. 108 del 11 giugno 2020 in materia di requisiti di professionalità e di 
+onorabilità, di cause di ineleggibilità e di incompatibilità, di situazioni impeditive e di cause 
+di sospensione dei soggetti che svolgono funzioni di amministrazione, direzione e controllo 
+presso le forme pensionistiche complementari; 
+- la Regolamentazione emanata dalla Commissione di Vigilanza sui Fondi Pensione in 
+attuazione del Decreto; in particolare: 
+o Deliberazione COVIP del 16 marzo 2012 - Disposizioni sul processo di attuazione della 
+politica di investimento; 
+o Deliberazione COVIP del 29 luglio 2020, recante direttive alle forme pensionistiche 
+complementari in merito alle modifiche e integrazioni recate al decreto legislativo 5 
+dicembre 2005, n. 252, dal decreto legislativo 13 dicembre 2018, n. 147, in attuazione 
+della direttiva (UE) 2016/2341; 
+o  Deliberazione COVIP del 13 gennaio 2021 - Istruzioni di vigilanza per le società che 
+gestiscono fondi pensione aperti. 
+ 
+1.3. Ambito generale di applicazione 
+Il presente Documento sul Sistema di Governo dei FPA (di seguito anche “Documento”) è adottato 
+dalla Compagnia per la gestione dei FPA dalla stessa istituiti e istituendi  o comunque gestiti , in 
+attuazione delle disposizioni normative del Decreto in materia di Sistema di Governance dei FPA.
+=== pagina 6 ===
+6 
+ 
+Il presente Documento illustra le direttive che definiscono il Sistema di Governo dei FPA in coerenza 
+con la normativa d el settore assicurativ o, distin to dal Sistema di Governance del Gruppo AXA 
+ITALIA, pur tenendo conto e, in parte avvalendosi, dello stesso. 
+1.4. Approvazione e revisione  
+Il presente Documento: 
+- è redatto e approvato dal CDA della Compagnia; 
+- è soggetto a revisione e aggiornamento con cadenza annuale da parte del medesimo CDA;   
+- è pubblicato sul sito web della Compagnia unitamente al rendiconto dei FPA.  
+1.5. Principi generali  
+Nel rispetto delle disposizioni normative del Decreto e delle relative norm e di attuazione emess e 
+dalla COVIP e della normativa del settore assicurativo, la Compagnia, per i propri FPA  ha definito i 
+seguenti principi generali: 
+- istituzione di un Sistema di Governo applicabile alla gestione dei FPA della Compagnia; 
+- proporzionalità del suddetto Sistema di Governo alla dimensione, alla natura, alla portata 
+e alla complessità delle attività dei FPA; 
+- ricorso all’attuale struttura organizzativa della Compagnia ricompresa nel più ampio 
+framework di governance del Gruppo AXA ITALIA;  
+- conferma dell’esternalizzazione di funzioni della Compagnia presso le Società del Gruppo  
+AXA ITALIA , in coerenza con l’attuale organizzazione societaria del Gruppo , anche ai fini 
+gestionali dei FPA e definizione e attuazione dei relativi presidi; 
+- redazione ed aggiornamento annuale del Documento sul Sistema di Governo dei FPA. 
+ 
+2. L’ORGANIZZAZIONE E IL SISTEMA DI GOVERNO DEI FPA NELL’AMBITO DELLA COMPAGNIA 
+2.1. L’applicazione del principio di proporzionalità nel Sistema di Governo  
+Nell’ambito del Decreto e delle relative norme di attuazione, la COVIP disciplina per i FPA 
+l’applicazione del principio di proporzionalità nell’istituzione di un Sistema di Governo. 
+In particolare, ai sensi dell’art. 4-bis, il Sistema di Governance “è proporzionato alla dimensione, alla 
+natura, alla portata e alla complessità delle attività del Fondo Pensione” e come già accennato (art. 
+5-decies del Decreto) i) in modo proporzionato alla dimensione, alla natura, alla portata e alla 
+complessità delle attività del Fondo Pensione; ii) nell’ambito degli assetti organizzativi propri 
+dell’impresa istitutrice;  iii) in coerenza con la normativa del rispettivo settore di riferimento. 
+ 
+Pertanto, la Compagnia adotta il proprio Sistema di Governo dei FPA in applicazione del suddetto 
+principio di proporzionalità, avuta in particolare considerazione dei principali profili che lo 
+caratterizzano, quali il regime previdenziale applicato, le modalità gestionali, la configurazione 
+della platea di riferimento, l’articolazione dei flussi contributivi, la tipologia delle prestazioni fornite 
+e le caratteristiche dei soggetti tenuti alla contribuzione. 
+Il Sistema di Governo dei FPA è distinto e si aggiunge al Sistema di Governance della Compagnia, 
+pur avvalendosi della struttura organizzativa e dei processi istituiti nell ’attuazione del Sistema di 
+Governance della stessa.
+=== pagina 7 ===
+7 
+ 
+Tenuto conto di quanto precede e della situazione attualmente  in essere nel la Compagnia, il 
+Sistema di Governo dei FPA, oltre alla figura del Responsabile ex art. 5 comma secondo e terzo del 
+Decreto già presente nei FPA, prevede: 
+- di confermare il ricorso all’esternalizzazione già in essere alla Capogruppo delle Funzioni 
+Fondamentali di Revisione Interna e di Gestione dei Rischi, ciascuna delle quali, all’interno 
+della Capogruppo, è organizzativamente distinta e separata dalle altre, atte quindi a valere 
+anche per i FPA; 
+- di nominare, previa delibera del CDA  della Compagnia , il Titolare di ciascuna di dette 
+Funzioni (che coincide con il Titolare già nominato in Capogruppo  per le medesim e 
+Funzioni in attuazione delle norme del settore assicurativo ) che riferisce, direttamente al 
+CDA della Compagnia che lo nomina: gli esiti delle proprie attività, verifiche e valutazioni, 
+attuando inoltre flussi strutturati di informativa, segnalazione e/o reportistica verso lo 
+stesso, il Collegio Sindacale e il Responsabile;  
+- la definizione e l’attuazione di misure appropriate a garantire la continuità e la regolarità 
+dello svolgimento dell’attività dei FPA nell’ambito del modello di governance applicato alla 
+Compagnia e della sua struttura organizzativa;  
+- la definizione di un adeguato Sistema di Controllo Interno che prevede, in particolare, sia 
+“segnalazioni di eventuali anomalie relative alle attività svo lte per il Fondo” attuati dalle 
+Funzioni operative, sia “controlli interni di secondo e terzo livello”;   
+- la definizione di un adeguato Sistema di Gestione dei Rischi, proporzionato alla 
+dimensione, all’organizzazione interna e alla dimensione, alla natura , alla portata e alla 
+complessità delle attività del Fondo, con particolare riferimento alla valutazione interna 
+del rischio e ai relativi metodi;  
+- la definizione di una sana politica di remunerazione di tutte le persone che amministrano 
+effettivamente il Fondo. 
+In particolare, è garantita l’autonomia di giudizio e l’indipendenza della Funzione di Revisione 
+Interna e della Funzione di Gestione dei Rischi, rispetto alle funzioni operative del la Compagnia 
+operanti a beneficio del Fondo e alle altre Funzioni Fondamentali. 
+In coerenza con le disposizioni del Decreto, non è prevista l’istituzione della Funzione di conformità 
+alle norme (“Compliance”) e della Funzione Attuariale, ferma restando l’inclusione delle tematiche 
+di compliance e attua riali nel Sistema di Controllo Interno  e di Gestione dei rischi  dei FPA  
+nell’ambito della Compagnia. 
+Allo stato non è previst a, per i FPA esistenti, l’istituzione dell’Organismo di Rappresentanza  
+previsto dall’art. 5 comma quinto del Decreto, in quanto, allo stato, non sono in essere FPA per cui 
+sussistono i requisiti normativi per la relativa istituzione. 
+2.2. La struttura organizzativa   
+La Compagnia , tenuto conto dei principali ambiti organizzativi , si avvale della propria struttura  
+organizzativa, operante anche a beneficio dei FPA, nell’ambito della quale operano i seguenti attori:  
+- gli organi sociali della Compagnia  (Assemblea, CDA, Collegio Sindacale) e gli organismi 
+ed enti a loro supporto (“OdV" e Società di revisione Esterna);
+=== pagina 8 ===
+8 
+ 
+- i comitati consiliari  della Compagnia  e i comitati esecutivi e tecnici del Gruppo AXA 
+ITALIA competenti anche per la Compagnia , che possono svolgere funzioni con riflessi 
+gestionali sui FPA a seconda delle materie trattate; 
+- le Funzioni Fondamentali operanti come tali anche per ciascun Fondo ed esternalizzate 
+presso AXA Assicurazioni SpA: 
+o la Funzione di Revisione Interna  (detta anche “Internal Audit” o “Corporate 
+Audit”) 
+o la Funzione di Gestione dei Rischi (detta anche “Risk Management”); 
+- il Responsabile del Fondo ex art. 5 comma secondo e terzo del Decreto; 
+- le altre Funzioni Fondamentali non operanti come tali ai sensi del Decreto per i FPA e la 
+Funzione AML, ma che svolgono attività in favore della Com pagnia con possibili riflessi a 
+beneficio della gestione dei FPA; 
+- le strutture operative proprie della Compagnia o oggi esternalizzate presso le altre 
+Società del Gruppo AXA ITALIA secondo l’attuale organizzazione del medesimo, svolte da 
+unità organizzative interne a società ad esso appartenenti; 
+- il Gestore Amministrativo, servizio oggi esternalizzato a OneWelf S.p.A;  
+- il Gestore Finanziario, servizio oggi esternalizzato a AXA Investment Paris S.A.  
+2.3. Revisione del Sistema di Governo del Fondo 
+La Funzione di Revisione Interna del Fondo valuta e monitora l’efficacia, l’efficienza e l’adeguatezza 
+del Sistema di Controllo Interno e delle ulteriori componenti del Sistema di Governo del Fondo. Il 
+CDA, anche sulla base delle evidenze emerse nell’ambito di tale riesame, rivede con frequenza 
+annuale il presente Documento, al fine di fornire un quadro esauriente e aggiornato dell’assetto 
+organizzativo complessivo del Fondo. 
+Nei seguenti paragrafi sono approfonditi singolarmente gli attori del Sistema di Governo qui citati. 
+2.4. Gli Organi sociali e i presidi o enti a loro supporto 
+2.4.1.  Assemblea della Compagnia 
+L'Assemblea dei Soci, regolarmente convocata e validamente costituita secondo le indicazioni 
+statutarie e di legge, è l’organo sociale della Compagnia che esprime con le sue deliberazioni la 
+volontà degli azionisti. L'Assemblea ordinaria per l'approvazione  del bilancio, che tiene conto 
+anche delle risultanze contabili del Rendiconto dei FPA, è convocata almeno una volta all'anno 
+entro centoventi giorni dalla chiusura dell'esercizio ovvero entro il maggior termine di centottanta 
+giorni dalla chiusura dell'esercizio sociale nei casi previsti dalla legge.  
+Le Assemblee straordinarie possono essere convocate quante volte il C DA lo ritenga opportuno o 
+quando ne sia fatta richiesta ai sensi delle disposizioni di legge e per gli oggetti ad esse riservati. 
+2.4.2.  Società di Revisione Contabile 
+Alla Società di Revisione è attribuito l’incarico di revisione contabile e certificazione del bilancio 
+della Compagnia nonché del Rendiconto annuale del Fondo. 
+2.4.3. Collegio Sindacale   
+Il Collegio Sindacale, come disposto dall’art. 2403 del codice civile, vigila sull’osservanza della legge 
+e dello Statuto della Compagnia , sul rispetto dei principi di corretta amministrazione ed in
+=== pagina 9 ===
+9 
+ 
+particolare sull’adeguatezza dell’assetto organizzativo, amministrativo e contabile adottato dalla 
+Società e sul suo concreto funzionamento. Il Collegio, al fine di adempiere al suddetto ruolo, è 
+destinatario dei flussi di informativa e reporting definiti nell’ambito del Sistema di Controllo Interno 
+e trasmessi dalle funzioni aziendali e, in maniera particolare, quelle adibite all’attuazione dei 
+controlli interni. Il Collegio Sindacale partecipa stabilmente alle sedute del CDA. 
+2.4.4. CDA 
+L’Organo di amministrativo della Compagnia è costituito dal CDA, secondo il modello societario c.d. 
+tradizionale, composto, come previsto dallo Statuto, da una pluralità di membri nominati 
+dall’Assemblea.  
+Esso risulta investito dei più ampi poteri per la gestione ordinaria e straordinaria della Società, con 
+la facoltà, pertanto, di compiere tutti gli atti, anche di disposizione, ritenuti necessari od opportuni 
+per l’attuazione dell’oggetto sociale esclusi soltanto gli atti che la legge espressamente riserva 
+all’Assemblea degli azionisti. 
+Esso individua gli obiettivi e  le strategie, definisce le politiche aziendali, valutandone 
+periodicamente la corretta attuazione e la coerenza con l’evoluzione dell’attività. 
+Promuove la diffusione della cultura del rischio a tutti i livelli dell’organizzazione. 
+Approva e valuta periodicamente l’adeguatezza della struttura organizzativa, delle procedure 
+aziendali e delle funzioni di controllo nonché l’attribuzione di compiti e responsabilità alle diverse 
+aree aziendali. 
+Verifica che il sistema di flussi informativi sia adeguato, completo e tempestivo. 
+Approva, su base triennale, il Documento sulle Politiche di investimento dei portafogli gestiti. 
+In relazione ai FPA: 
+- ne approva il rendiconto e il regolamento;  
+- adotta ogni decisione  relativa all’istituzione e/o all’esternalizzazione delle Funzioni 
+Fondamentali dei FPA , nominandone i relativi Titolari, previa verifica dei requisiti di 
+idoneità alla carica in termini di onorabilità e professionalità (“Fit&Proper”) applicabili;  
+- nomina il Responsabile di ciascun FPA; 
+- approva:  
+i. il Documento sul Sistema di Governo dei FPA; 
+ii. il Piano di emergenza sui rischi operativi dei FPA;  
+iii. la Politica di Internal Audit; 
+iv. la Politica di Gestione dei Rischi; 
+v. la Politica di Remunerazione; 
+vi. il Documento sulle Politiche di investimento dei FPA;  
+vii. la Politica di Esternalizzazione; 
+viii. il documento di Valutazione Interna del Rischio;   
+ix. la Politica di Gestione dei Conflitti di Interesse dei Fondi Pensione Aperti; 
+quali documenti autonomi o nell’ambito dei più ampi ed equivalenti documenti richiesti dalla 
+normativa di vigilanza del settore assicurativo approvati dalla Compagnia; 
+- approva le esternalizzazioni di attività o funzioni essenziali e/o importanti della Compagnia 
+che hanno impatti su i FPA  che siano considera ti tali secondo la normativa del settore 
+assicurativo ivi incluse l’attività di gestore;
+=== pagina 10 ===
+10 
+ 
+- designa o revoca il depositario; 
+- esercita le attribuzioni  infra descritte  con riguardo al  Sistema di Controllo Interno , al 
+sistema di gestione dei rischi e gestione degli investimenti.  
+2.4.2.1 Amministratore Delegato 
+Il CDA ha il potere di conferire attribuzioni, escluse quelle riservate dalla legge alla sua competenza, 
+ad uno o più dei suoi membri, stabilendone le attribuzioni.  
+L’Amministratore Delegato  (“CEO”) della Compagnia  esercita i poteri strategici, di direzione e 
+coordinamento, nonché i poteri rappresentativi, oltre a quello di compiere tutto quanto sia ritenuto 
+utile, necessario ed opportuno nell’interesse della Società nell’ambito dei medesimi poteri e di 
+quelli da considerarsi accessori e/o strumentali agli stessi; il CEO esercita tali poteri in coerenza con 
+gli indirizzi programmatici e strategici determinati dal C DA e nei limiti dei valori specificati; sono 
+fatti salvi i poteri attribuiti dalla legge o dallo Statuto in via esclusiva ad altri organi della Società 
+ovvero altrimenti delegati dal Consiglio. 
+Esso presiede i Comitati Esecutivi infra descritti o vi prende parte. 
+Il CEO sovraintende al Sistema di Controllo Interno, al sistema gestione dei rischi e gestione degli 
+investimenti dei FPA secondo le modalità infra descritte. 
+2.4.2.2 Il Presidente 
+Il Presidente del CDA ha un ruolo non esecutivo i) non svolge, neppure di fatto, alcuna funzione 
+gestionale ii) ha le seguenti responsabilità: 
+• assicurare la definizione dell’agenda e che il dibattito sia condotto con lo scopo di dare priorità 
+alle materie strategiche e che a queste sia destinato il giusto tempo di discussione; 
+• assicurare che gli Amministratori ricevano documentazione adeguata ed in tempo utile prima 
+della delibera; 
+• assicurare che la documentazione sia adeguata in termini di qualità e quantità, tenendo in 
+considerazione gli argomenti di volta in volta in agenda; 
+• condurre la discussione e gestire i lavori del CDA; 
+• promuovere tra tutti gli Amministratori un dibattito adeguato e proattivo; 
+• verificare la regolarità e l’efficacia del processo di auto -valutazione e della successiva 
+implementazione delle azioni correttive; 
+• assicurare il la ncio e l’implementazione dei programmi di induction e training per gli 
+Amministratori. 
+2.4.2.3 Comitati Consiliari 
+Il CDA della Compagnia individua al proprio interno Comitati consiliari per ricevere supporto nello 
+svolgimento delle proprie funzioni. Tali Comitati, che non hanno competenze specifiche  sui FPA, 
+forniscono opinioni e formulano proposte in modo che il C DA abbia a disposizione le informazioni 
+per deliberare le risoluzioni più appropriate che corrispondono:  
+- con riferimento alle politiche di remunerazione, al Comitato Remunerazioni; 
+- con riferimento al sistema dei controlli interni e della gestione dei rischi, a maggior presidio degli 
+stessi: 
+i) al Comitato Controllo Interno e Rischi istituto ex art. 6 Regolamento 38; 
+ii)  al Comitato di Audit;
+=== pagina 11 ===
+11 
+ 
+entrambi assistono il CDA nella supervisione e nella determinazione delle linee di indirizzo del 
+sistema di controllo interno e gestione dei rischi, nella verifica periodica della sua adeguatezza 
+e del suo effettivo funzionamento, e nell’identificazione e gestione dei principali rischi aziendali, 
+secondo le rispettive competenze riportate nei Terms of Reference di ciascuno. 
+Nelle competenze di tali Comitati non rientrano le politiche e gli altri documenti i) che compongono 
+il Sistema di Governo dei FPA e ii) che la Compagnia approvi specificatamente per i medesimi FPA, 
+separatamente dagli altri documenti di governance della Compagnia stessa.  
+In ogni caso, tali documenti relativi ai soli FPA potranno essere sottoposti ai medesimi Comitati per 
+informativa. Tali Comitati, secondo le rispettive competenze, potranno trattare temi o documenti 
+più ampi relativi all'attività assicurativa della Compagnia con riflessi rilevanti anche sulla gestione 
+dei FPA. 
+2.4.2.4 Organismo di Vigilanza  
+L’Organismo di Vigilanza è l’organismo interno della Compagnia  dotato di autonomi poteri di 
+iniziativa e controllo, preposto alla vigilanza sul funzionamento e sull’osservanza del Modello di 
+Organizzazione e Gestione ex. D. Lgs. 231/01 nonché al relativo aggiornamento mediante proposte 
+di modifica, adeguamento e miglioramento formulate al Consiglio di Amministrazione. 
+2.5. Responsabile  
+Ai sensi dell’art. 5, comma secondo e terzo del Decreto e delle relative disposizioni di attuazione, il 
+CDA della Compagnia nomina un responsabile di ciascun FPA  incaricato di verificare, in modo 
+autonomo e indipendente, che la gestione della forma pensionistica sia svolta, a tutela degli 
+aderenti e beneficiari, nel rispetto della normativa vigente e delle previsioni stabilite nei 
+regolamenti e nei contratti.  La Compagnia  garantisce al Responsabile  l’accesso a tutte le 
+informazioni necessarie allo svolgimento del proprio ruolo e, a tal fine, provvede affinché assista 
+alle riunioni del CDA e del Collegio Sindacale della  Compagnia, per tutte le materie inerenti al 
+Fondo. 
+2.5.1. Ruolo e attribuzioni 
+Più specificatamente il Responsabile:   
+- si avvale della collaborazione delle strutture organizzative della Compagnia di volta in volta 
+necessarie allo svolgimento dell’incarico e all’adempimento dei propri doveri; 
+- vigila sull’osservanza della normativa e del Regolamento nonché  sul rispetto delle buone 
+pratiche e dei principi di corretta amministrazione del Fondo  nell’esclusivo interesse degli 
+aderenti; 
+- avvalendosi delle procedure definite dalla Compagnia, organizza lo  svolgimento delle sue 
+funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, con riferimento ai controlli su: i) le politiche 
+di investimento ii) la gestione e il monitoraggio dei rischi; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento  con 
+riferimento ai controlli su:  i) la separatezza amministrativa e contabile delle operazioni 
+poste in essere per conto del Fondo rispetto al complesso delle altre operazioni svolte dalla 
+Compagnia e del patrimonio del Fondo rispetto a quello della Compagnia e di  suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo;
+=== pagina 12 ===
+12 
+ 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti con riferimento 
+ai controlli su:  i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze  
+informative degli aderenti  ii) gli oneri di gestione  iii) la completezza ed esaustività delle 
+informazioni contenute nelle comunicazioni agli aderenti iv) l’adeguatezza della procedura 
+v) la tempestività della soddisfazione delle richieste degli aderenti; 
+- controlla le soluzioni adottate dalla Compagnia per identificare le  situazioni di conflitti di 
+interesse e per evitare che le stesse arrechino pregiudizio agli aderenti;  
+- controlla altresì la corretta esecuzione del contratto stipulato per il  conferimento 
+dell’incarico di depositario, nonché il rispetto delle convenzioni assicurative/condizioni per 
+l’erogazione delle rendite e, ove pres enti, delle convenzioni/  condizioni relative alle 
+prestazioni di premorienza e malattie gravi con invalidità; 
+- svolge il ruolo infra descritto nell’ambito del Sistema del Controllo Interno della 
+Compagnia. 
+Il Responsabile deve adempiere i suoi doveri con la  professionalità e la diligenza  richieste dalla 
+natura dell’incarico e dalla sua specifica competenza e deve  conservare il segreto sui fatti e sui 
+documenti di cui ha conoscenza in ragione del  suo ufficio, tranne che nei confronti della COVIP e 
+delle autorità giudiziarie. Egli risponde verso la Compagnia e verso i singoli aderenti al Fondo dei 
+danni a ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+All’azione di responsabilità si applicano, in quanto compatibili, gli art.2392, 2393,  2394, 2394bis, 
+2395 del codice civile. 
+2.6. Funzioni Fondamentali del Fondo 
+Come già infra accennato, la Compagnia ricorre, anche in relazione alle Funzioni Fondamentali dei 
+Fondi, all’esternalizzazione già in essere delle Funzioni Fondamentali di Revisione Interna e di 
+Gestione dei Rischi alla Capogruppo , anche con riferimento ai FPA. I Titolari delle Funzioni 
+Fondamentali della Capogruppo corrispondo ai Titolari delle pari Funzioni della Compagnia perla 
+gestione dei FPA.i    
+I Titolari delle Funzioni Fondamentali comunicano le risultanze e le raccomandazioni rilevanti nel 
+proprio ambito di responsabilità, per quanto riguarda ciascun FPA, al CDA, al Collegio Sindacale e 
+al Responsabile. Sono altresì tenuti, in conformità a quanto previsto dall’art. 5 -bis comma 5, del 
+Decreto, a comunicare alla COVIP le situazioni problematiche risc ontrate nello svolgimento della 
+propria attività, per quanto attiene ai fondi pensione aperti, qualora le stesse non abbiano trovato, 
+come dovrebbero, soluzione all’interno della Compagnia. 
+Per quanto riguarda i compiti specifici delle Funzioni Fondamental i del Fondo (Revisione Interna; 
+Gestione dei Rischi) si rimanda ai paragrafi 4.5, 4.6 e 6. 
+2.7. Le altre Funzioni Fondamentali della Compagnia e la Funzione AML 
+La Compagnia ricorre all’esternalizzazione in favore della Capogruppo AXA Assicurazioni  anche 
+delle Funzioni Fondamentali non operanti  come tali per i FPA  ai sensi del Decreto, ma che 
+svolgono attività in favore della Compagnia con riflessi a beneficio della gestione dei FPA:  
+• la Funzione di Compliance che è la funzione di controllo che opera sul rischio  di non 
+conformità alle norme, esercita dunque il proprio ruolo anche in qualità di Funzione
+=== pagina 13 ===
+13 
+ 
+Fondamentale di gruppo, in modo proporzionato alla natura, alla portata e alla 
+complessità dei rischi inerenti all’attività del gruppo stesso; 
+• la Funzione Attuariale che, tra le diverse responsabilità relative alla Compagnia in sé : 
+supervisiona il calcolo delle riserve tecniche e garantisce l’adeguatezza delle 
+metodologie, dei modelli sottostanti utilizzati e delle ipotesi definite per il calcolo delle 
+riserve tecniche. 
+Analogamente, la Funzione AML, anch’essa esternalizzata in favore della Capogruppo non opera 
+espressamente per i FPA, ma svolge le attività di prevenzione e contrasto ai rischi di riciclaggio di 
+finanziamento al terrorismo previste dalle norme del settore assicurativo (Reg. IVASS n. 44/2018), 
+con riflessi a beneficio della gestione dei FPA. 
+2.8. Altri attori 
+2.8.1. Organismo di Rappresentanza (oggi non istituito) del Fondo 
+Come sopra riportato, ad oggi non è costituito l’Organismo di Rappresentanza dei FPA composto 
+da un rappresentante designato dalla medesima azienda o gruppo e da un rappresentante dei 
+lavoratori, per ciascuna delle predette collettività.  
+Esso, ove costituito, dovrà  svolgere funzioni di collegamento tra le collettività che aderiscono al  
+Fondo, la Società e il Responsabile. 
+2.8.2.  Comitati esecutivi 
+Sono istituiti per il Gruppo AXA  ITALIA quattro Comitati esecutivi, presieduti o partecipati dal CEO 
+della Capogruppo che assistono il medesimo nei processi decisionali più complessi, permettendo 
+di far confluire, negli stessi processi, diverse competenze tecniche a supporto , che valgono anche 
+per la Compagnia. 
+Detti Comitati possono avere potere deliberativo e/o consultivo sulla base delle attribuzioni loro 
+assegnate dal medesimo CEO all’atto dell’approvazione del ToR di ciascun Comitato.  
+2.8.3. Comitati tecnici 
+Il CEO della Capogruppo istitui sce per il Gruppo AXA ITALIA nove Comitati tecnici. Questi lo 
+assistono per i processi decisionali più complessi permettendo di combinare diverse competenze 
+tecniche. 
+Tali Comitati   possono avere potere deliberativo e/o consultivo sulla base delle deleghe loro 
+attribuite dal CEO all’atto dell’approvazione del ToR di ciascun Comitato.  
+2.8.4. Strutture operative  
+Come accennato, la Compagnia, anche ai fini gestionali dei FPA, può avvalersi di tutte le strutture 
+operative interne ad essa o esternalizzate in favore di imprese del Gruppo AXA ITALIA. 
+Tra le unità organizzative interne alla Compagnia che effettuano le loro attività, anche in favore dei 
+FPA assumono particolare rilievo: 
+-  l’area L&S che: 
+• fornisce le valutazioni tecniche necessarie  per la definizione del piano prodotti e la 
+pianificazione delle relative attività attuariali; 
+• assicura il contributo per l'analisi tecnica, le valutazioni di profittabilità e la realizzazione 
+dei nuovi prodotti per ogni canale distributivo;
+=== pagina 14 ===
+14 
+ 
+• assicura il costante monitoraggio dei FPA in termini di redditività, rischiosità e adeguatezza 
+delle basi tecniche, proponendo eventuali azioni correttive; 
+• garantisce la definizione delle assumption di propria competenza; 
+• assicura la corretta implementazione e manutenzione delle formule attuariali e delle 
+tabelle prodotti sugli specifici applicativi;  
+• garantisce il corretto calcolo dei compensi provigionali alle reti distributive per AXA MPS 
+Vita;  
+• predispone le valutazioni economiche e di opportunità rispetto alle richieste di deroga; 
+• assicura il supporto alla rete distributiva per il tramite delle strutture dedicate; 
+- l’area Customer Operations & Claims  che provvede all’assistenza in favore di beneficiari e 
+aderenti, gestendo il relativo call center. 
+Tra le aree organizzative esternalizzate dalla Compagnia nell’ambito del Gruppo AXA ITALIA , 
+rivestono particolare rilevanza ai fini dei profili gestionali del Fondo:   
+- Finance esternalizzata ad AXA ITALIA Servizi che:  
+➢ guida le strategie finanziarie dei FPA, monitorando le performance finanziarie  
+➢ la Funzione Investments e il Responsabile Finance concorrono a determinare ed attuare 
+il processo di gestione degli investimenti infra descritto;   
+- L&S, nelle sue strutture esternalizzate a AXA ITALIA Servizi, che: 
+➢ provvede al calcolo del NAV; 
+➢ assicura la gestione amministrativa dei titoli in portafoglio e la relativa contabilità interna, 
+coerentemente con le condizioni fissate nei Regolamenti dei Fondi stessi e nelle 
+disposizioni normative; 
+➢ provvede alle attività di controllo su portafoglio e processi operativi di competenza; 
+➢ provvede alle attività liquidative.   
+- Transformation che:  
+➢ garantisce l’adozione delle disposizioni normative e delle strategie di sicurezza e  del 
+Gruppo AXA ITALIA, negli ambiti relativi alla Information Security , alla Operational 
+Resilience, ai Piani di emergenza e alla Physical Security, promuovendo lo sviluppo di una 
+cultura interna della Sicurezza;  
+➢ stabilisce, implementa e attua le linee guida e i processi in materia di acquisti. 
+- Legal & Corporate Affairs & Authorities in parte esternalizzata alla Capogruppo e, in parte, 
+ad AXA ITALIA Servizi S.c.p.A. che garantisce la gestione delle attività degli organi sociali della 
+Compagnia e il presidio dei requisiti Fit&Proper. 
+- Risorse Umane, Organizzazione e Change Management, nelle sue strutture esternalizzate ad 
+AXA ITALIA Servizi  che, tra i diversi compiti, definisce le politiche retributive aziendali 
+coerentemente con le indicazioni strategiche del Gruppo e garantisce il presidio dei principali 
+processi legati alle performance delle Funzioni Fondamentali.  
+Tra le ulteriori attività esternalizzate, particolare rilevanza rivestono:
+=== pagina 15 ===
+15 
+ 
+- l’attività di gestione amministrativa dei FPA esternalizzata a OneWelf S.r.l. per cui la 
+stessa provvede: all’amministrazione di ciclo attivo e passivo, corretta tenuta della 
+contabilità, gestione delle piattaforme tecnologiche per l’area riservata del sito web  e 
+attività accessorie; 
+- l’attività di gestione finanziaria delegata al gestore AXA IM PARIS, che sulla scorta delle 
+decisioni del Comitato Investimenti AXA ITALIA, specifica le strategie applicative delle linee 
+guida investimenti e , monitorata dalla funzione Investments di AXA ITALIA Servizi, 
+provvede alla gestione del portafoglio sotteso agli attivi dei FPA. 
+ 
+2.9. Il sistema normativo interno 
+Le fonti normative interne rappresentano l’insieme delle regole che devono essere seguite 
+all’interno del Fondo Pensione Dipendenti Gruppo AXA. In linea con il D.Lgs. n. 252 del 5 dicembre 
+2005 e con la Delibera COVIP del 13 gennaio 2020, il Fondo, alla luce del quadro normativo vigente, 
+adotta i documenti sopra menzionati approvati dal CDA. Il Fondo, i noltre, in considerazione delle 
+proprie esigenze organizzative ed operative, può dotarsi  di idonee procedure operative per la 
+definizione delle responsabilità tra i soggetti che partecipano alla gestione del F ondo, nonché per 
+regolare l’attribuzione di compiti, i processi operativi, gli strumenti e le linee di riporto informativo, 
+formalizzate, in un apposito “Manuale operativo delle procedure” del Fondo. 
+ 
+3. Responsabilità e compiti nel processo di investimento 
+Il CDA della Compagnia, su proposta del Responsabile Finance:  
+• approva la politica di investimento del Fondo, comprese le linee guida in materia di 
+esercizio dei diritti di voto spettanti al Fondo medesimo, e le successive eventuali 
+modifiche;  
+• autorizza l’affidamento in gestione (e la revoca) a terzi delle risorse del Fondo;  
+• approva le procedure interne di controllo della gestione finanziaria del Fondo.  
+ 
+Il CDA, inoltre, valutate anche le proposte del Responsabile Finance:   
+-  esamina annualmente, assumendo, se del caso, le conseguenti determinazioni, i report 
+predisposti dal responsabile della: 
+➢ funzione Investimenti (i) sulle risultanze dell’attività di investimento del Fondo 
+anche in termini di efficacia e adeguatezza della g estione delegata, (ii) 
+sull’attuazione della politica di investimento e sull’operato dei soggetti incaricati 
+della gestione delle risorse del Fondo, (iii) sui costi di gestione, sul rapporto 
+rischio/rendimento e sulla performance attribution;  
+➢  funzione di  Risk Management, suddiviso per comparti, sulla variabilità dei 
+rendimenti medi, sulla duration dei titoli obbligazionari, sulla velocità di rotazione 
+del patrimonio e sulla tracking error volatility;  
+- esercita le funzioni previste nell’ambito del Sistema di Controllo Interno della Compagnia.  
+ 
+Il Responsabile Finance , sentiti i responsabili delle funzioni Investimenti e Risk Management, 
+propone al CDA:
+=== pagina 16 ===
+16 
+ 
+• la politica di investimento del Fondo, comprese le linee guida in materia di esercizio dei 
+diritti di voto spettanti al Fondo medesimo, e le successive eventuali modifiche;  
+• l’affidamento in gestione (e la revoca) a terzi delle risorse del Fondo;  
+• le procedure interne di controllo della gestione finanziaria del Fondo.  
+ 
+Il Responsabile Finance:  
+- esamina annualmente, i report predisposti dal responsabile:  
+• della funzione Investimenti (i) sulle risultanze dell’attività di investimento del Fondo 
+anche in termini di efficacia e adeguatezza della gestione delegata, (ii) sull’attuazione 
+della politica di investimento e sull’operato dei soggetti incaricati della gestione delle 
+risorse del Fondo, (iii) sui costi di gestione, sul rapporto rischio/rendimento e sulla 
+performance attribution;  
+• della funzione di Risk Management, suddiviso per comparti, sulla va riabilità dei 
+rendimenti medi, sulla duration dei titoli obbligazionari, sulla velocità di rotazione del 
+patrimonio e sulla tracking error volatility;  
+- esercita le funzioni previste nell’ambito del Sistema di Controllo Interno della Compagnia.  
+ 
+Le risultanze dell’attività di investimento del FPA, anche in termini di efficacia e adeguatezza della 
+gestione, sono valutate trimestralmente in un incontro tecnico tra principali soggetti coinvolti.  
+ 
+Il responsabile della funzione Investimenti:  
+• contribuisce alla formulazione da parte del Responsabile Finance  di proposte 
+motivate in materia di: (i) politica di investimento del Fondo, fornendo analisi 
+sull’andamento dei mercati e valutazioni sulla coerenza fra le azioni di investimento 
+intraprese o da int raprendere e gli obiettivi del Fondo; (ii) affidamento in gestione 
+(e revoca) a terzi delle risorse del Fondo;  
+• verifica la gestione finanziaria del Fondo trasmettendo annualmente alle 
+competenti funzioni aziendali e del Fondo i report (i) sulle risultanze dell’attività di 
+investimento del Fondo anche in termini di efficacia e adeguatezza della gestione 
+delegata, (ii) sull’attuazione della politica di investimento e sull’operato dei 
+soggetti incaricati della gestione delle risorse del Fondo, (iii) sui costi  di gestione, 
+sul rapporto rischio/rendimento e sulla performance attribution;  
+• propone al Responsabile Finance l’adozione e l’aggiornamento delle procedure 
+interne di controllo della gestione finanziaria del Fondo. 
+ 
+Il responsabile della funzione di Risk Management:  
+• concorre alla definizione (i) della politica di investimento del Fondo e delle 
+successive eventuali modifiche, con particolare riferimento alle metodologie di 
+valutazione dei rischi ed alla fissazione dei limiti qualitativi e quantitativi da 
+assegnare al Gestore Delegato, (ii) delle procedure interne di controllo della 
+gestione finanziaria del Fondo;  
+• verifica la gestione finanziaria del Fondo trasmettendo annualmente al CDA nonché 
+alle competenti funzioni aziendali e del Fondo il report, suddi viso per comparti,
+=== pagina 17 ===
+17 
+ 
+sulla variabilità dei rendimenti medi, sulla duration dei titoli obbligazionari, sulla 
+velocità di rotazione del patrimonio e sulla tracking error volatility;  
+• esercita le ulteriori funzioni previste nell’ambito del Sistema di Controllo Interno 
+della Compagnia come presidio di secondo livello.  
+Il Depositario svolge le attività previste dalla normativa vigente e quelle ulteriori stabilite 
+contrattualmente dal Fondo. Su richiesta, trasmette agli organi del Fondo e al responsabile delle 
+funzioni Investimenti e Risk Management della Compagnia ogni informazione ritenuta utile o 
+necessaria per l’esercizio delle attività di controllo della gestione finanziaria del Fondo. 
+ 
+4. IL SISTEMA DI CONTROLLO INTERNO 
+Di seguito si riporta la descrizione del Sistema di Controllo Interno adottato dalla Compagnia per i 
+FPA e che si avvale del framework dei controlli in essere presso la Compagnia.  
+4.1. L’ambiente di controllo 
+La Compagnia, coerentemente con le direttive del Gruppo AXA ITALIA, allo scopo di creare un 
+robusto ambiente di controllo, adotta specifici strumenti che indirizzano i comportamenti di 
+dipendenti e di collaboratori nelle varie aree operative, al fine di prevenire comportamenti scorretti 
+o non in linea con le direttive adottate. Tali strumenti sono:  
+• il Codice Etico e di Compliance, che definisce i valori fondamentali, i principi guida e i 
+comportamenti attesi dai collaboratori; 
+• la Politica di conformità all e norme, che definisce e formalizza, in coerenza con quanto 
+stabilito dall’AXA SA Group Compliance Governance Policy, dagli AXA Group Standards e 
+dalla normativa nazionale ed europea di riferimento, i principi generali per garantire la 
+conformità alle norme e le direttive in materia di conformità alle norme con indicazione 
+dei ruoli e delle responsabilità degli attori coinvolti; 
+• la Politica Anticorruzione ed il Codice di Condotta Anticorruzione, che sanciscono i principi 
+di condotta e le regole da adottare per la gestione delle attività quotidiane; 
+• le regole per il mantenimento dell’iscrizione all’Albo Fornitori, a garanzia di comportamenti 
+reciprocamente fondati sull’etica professionale e responsabilità sociale; 
+• il Modello di organizzazione, gestione e controllo ( Modello) adottato ai sensi del Decreto 
+Legislativo n. 231 del 2001; l’organismo interno delle Società preposto alla vigilanza sul 
+funzionamento e sull’osservanza del Modello nonché al relativo aggiornamento è 
+l’Organismo di Vigilanza;  
+• il Modello organizzativo per la protezione dei dati personali del gruppo (cd. Modello 
+Privacy), tramite il quale il Gruppo AXA ITALIA definisce specifici ruoli e responsabilità nel 
+trattamento dei dati personali e prevede l’adozione di misure organizzati ve e tecniche per 
+la protezione dei dati personali di cui è Titolare una Società AXA ITALIA; 
+• specifiche direttive adottate dalla Capogruppo per garantire la conformità alla normativa, 
+la protezione dei dati personali ed in tema di esternalizzazioni, e per disciplinare altri aspetti 
+del sistema dei controlli interni;  
+• le pratiche di gestione delle performance (su tutta la popolazione del Gruppo AXA ITALIA) e 
+di remunerazione (per la popolazione del Gruppo AXA ITALIA con retribuzione variabile) che
+=== pagina 18 ===
+18 
+ 
+si basano su un processo di assegnazione di obiettivi personali e di relativi feedback per il 
+loro raggiungimento; 
+ciò anche a beneficio della sana e corretta gestione dei FPA a tutela degli aderenti. 
+4.2. Linee guida sui controlli interni e linee di difesa 
+La Gestione dei FPA pertanto si giova del sistema dei controlli interni della Compagnia e del Gruppo 
+AXA ITALIA. Il sistema di controlli interni del Gruppo AXA ITALIA è costituito dall’insieme delle regole, 
+delle prassi, delle procedure e delle strutture aziendali che operano – avuto riguardo anche al ruolo 
+della Capogruppo – da un lato, per assicurare l’efficace funzionamento del Gruppo e, dall’altro, per 
+identificare, gestire e monitorare i principali rischi cui è esposto.  
+Il Gruppo AXA ITALIA, al fine di implementa re il sistema dei controlli interni, si dota di prassi e 
+procedure di controllo, dispone, inoltre, di un sistema di controlli interni e di gestione dei rischi che 
+permette di effettuare un controllo effettivo sia sulle scelte strategiche sia sull’equilibrio gestionale 
+delle singole componenti.  
+La struttura di controllo della Compagnia è articolata su tre livelli. 
+• Controlli di primo livello : sono diretti ad assicurare il corretto svolgimento delle 
+operazioni nel perseguimento degli obiettivi assegnati; sono effettuati dalle strutture 
+organizzative responsabili delle attività e/o da altre Funzioni appartenenti al medesimo 
+settore e rappresentano il primo e fondamentale controllo operativo;  
+• Controlli di secondo livello: rappresentano l’insieme di attività svolte da Funzioni/organi 
+(Risk Management; Compliance & Data Protection; Anti Money Laundering & Counter 
+Terrorist Financing; Funzione attu ariale; Internal Control; etc.) che, in posizione 
+indipendente dai responsabili delle attività operative, hanno il compito di monitorare, in 
+via sistematica, l’andamento delle diverse famiglie di rischio, dell’operatività e 
+dell’adeguatezza dei controlli di primo livello;  
+• Controlli di terzo livello: sono rappresentati principalmente dall’attività di Internal Audit, 
+volta a individuare andamenti anomali, violazioni delle procedure e della 
+regolamentazione, nonché a valutare l’efficacia e l’efficienza del si stema di controllo 
+interno nel suo complesso. 
+Infine, il Sistema dei controlli interni, parte integrante del Sistema di Governo, prevede: 
+- la separatezza e l’indipendenza organizzativa dei soggetti che svolgono per il Fondo la 
+Funzione Fondamentale esternalizzata rispetto alle Strutture operative rispetto e alle altre 
+Funzioni Fondamentali; 
+- l’attribuzione della titolarità di ciascuna Funzione Fondamentale del Fondo a soggetti tra 
+di essi distinti; 
+- il riporto diretto delle Funzioni Fondam entali esternalizzate al CDA della Compagnia  e 
+l’attuazione di flussi strutturati di informativa, segnalazione e/o reportistica verso lo stesso, 
+verso il Collegio Sindacale e verso il Responsabile.
+=== pagina 19 ===
+19 
+ 
+4.3. Attori coinvolti – Ruolo del CDA nell’ambito del Sistema di Controllo Interno 
+Il CDA ha la responsabilità ultima del  Sistema di Controllo Interno, e ne  assicura la costante 
+completezza, funzionalità ed efficacia, anche con riferimento alle attività esternalizzate. 
+Nell’ambito dei controlli Interni, il CDA ha i seguenti ruoli: 
+- assicura che il sistema di gestione dei rischi consenta l’identificazione, la valutazione anche 
+prospettica e il controllo dei rischi, ivi compresi quelli derivanti dalla non conformità alle 
+norme, garantendo l’obiet tivo della salvaguardia del patrimonio, anche in un’ ottica di 
+medio – lungo periodo; 
+- si accerta che i Titolari delle Funzioni Fondamentali, anche qualora esse siano 
+esternalizzate, siano in possesso dei requisiti di Fit & Proper previsti dalla normativa del 
+settore assicurativo applicabile (ogg i art. 76 del D. Lgs. n. 209/2005 e art. 25 del 
+Regolamento IVASS n. 38/2018); 
+- valuta il modo in cui il Fondo previene i conflitti di interesse relativamente alle Funzioni; 
+- valuta i piani e i report prodotti dalle Funzioni Fondamentali; 
+- valuta la relazione annuale del Responsabile. 
+L’Amministratore Delegato sovraintende al Sistema di Controllo Interno e, con il supporto degli altri 
+esponenti dell’Alta Direzione della Compagnia, propone al CDA le direttive da adottare in proposito 
+e ne garantisce l’attuazione.  
+4.4. Attori coinvolti – Ruolo del  Collegio Sindacale  nell’ambito del Sistema di Controllo 
+Interno 
+Il Collegio Sindacale sovrintende alla complessiva attuazione del Sistema di Controllo Interno e, a 
+tal fine, partecipa stabilmente alle sedute del CDA, valutando:  
+- piani e i report prodotti dalle Funzioni Fondamentali; 
+- la relazione annuale del Responsabile del Fondo. 
+Inoltre, il Collegio Sindacale ha l’obbligo di segnalare alla COVIP eventu ali vicende in grado di 
+incidere, sull’equilibrio del Fondo nonché i provvedimenti ritenuti necessari per la salvaguardia 
+delle condizioni di equilibrio.  
+Il Collegio Sindacale ha altresì l’obbligo di comunicare alla COVIP eventuali irregolarità riscontrate 
+in grado di incidere negativamente sulla corretta amministrazione e gestione del Fondo e di 
+trasmettere alla COVIP sia i verbali delle riunioni nelle quali abbia riscontrato che i fatti esaminati 
+integrino fattispecie di irregolarità, sia i verbali delle riunioni che abbiano escluso la sussistenza di 
+tali irregolarità allorché, ai sensi dell’art. 2404 Codice Civile, ultimo comma, si sia manifestato un 
+dissenso in seno al Collegio. 
+ 
+4.5. Attori coinvolti – Funzione di Revisione Interna  
+La Funzione di Revisione Interna dei Fondi Pensione Aperti valuta  e riferisce al Consiglio di  
+Amministrazione della Compagnia e al Responsabile di ciascun Fondo se i processi di governance 
+e di controllo dei FPA sono rilevanti, adeguati e funzionanti, in modo da contribuire a garantirne 
+la pertinenza, l'adeguatezza e il funzionamento. 
+La Funzione di Revisione Interna, nell’ambito delle proprie responsabilità e attribuzioni,  
+riesamina con regolarità l’adeguatezza e l’efficienza del complessivo sistema di co ntrolli interni 
+nell’ambito dei controlli in relazione alle attività di propria competenza secondo un approccio
+=== pagina 20 ===
+20 
+ 
+risk-based. 
+Sulla base dei risultati delle verifiche effettuate, la Funzione di Revisione Interna formula 
+raccomandazioni al C DA della Compagnia e controlla l’avvenuta rimozione delle anomalie 
+riscontrate nell’operatività dei Fondi Pensione e nel funzionamento dei controlli interni, 
+eseguendo pertanto attività di follow-up. 
+Come previsto dall’art. 5-quater del Decreto, la Funzione di Revisione Interna ha la responsabilità 
+di verificare la correttezza dei processi gestionali ed operativi riguardanti i Fondi Pensione, 
+l’attendibilità delle rilevazioni contabili e gestionali, l’adeguatezza e l’efficienza del Sistema di 
+Controllo interno e degli altri elementi riguardanti l’assetto organizzativo del Sistema di Governo 
+dei Fondi Pensione, comprese le attività esternalizzate, e la funzionalità dei flussi informativi. 
+La Funzione predispone secondo un approccio risk -based un piano delle attivi tà annuale in 
+aderenza con le pertinenti disposizioni legali e normative locali e dei requisiti stabiliti nell’AXA 
+“Internal Audit Manual”. 
+Al fine dell’attuazione dei propri compiti e responsabilità e del presidio del sistema di  controllo 
+interno, la Funzione di Revisione Interna mantiene uno stretto rapporto con le Funzioni e le Unità 
+Organizzative nel suddetto sistema, nonché una comunicazione regolare con i principali soggetti 
+dei Fondi Pensione per garantire che la Funzione di Revisione Interna sia informata sui principali 
+nuovi sviluppi, iniziative, progetti e cambiamenti operativi e di Governance. 
+4.6. Attori coinvolti – Funzione di Gestione dei Rischi 
+La Funzione di Gestione dei Rischi   esercita il proprio ruolo in qualità di Funzione Fondamentale, in 
+modo proporzionato alla natura, alla portata e alla complessità dei rischi inerenti all ’attività di 
+ciascun Fondo. 
+La suddetta Funzione è indipendente dalle Unità Organizzative che svolgono attività operative per 
+i Fondi  e dalle altre Funzioni Fondamentali e ha l’obiettivo di concorrere alla definizione della 
+politica di gestione dei rischi e di facilitare l’attuazione del sistema di gestione dei rischi, verificando 
+l’efficienza ed efficacia del sistema nel suo complesso, e di assicurare il monitoraggio dei rischi più 
+significativi. 
+La Funzione di Gestione dei Rischi concorre alla definizione della Politica di Gestione dei Rischi, 
+sottoposta ad approvazione del CDA e riesaminata ogni  3 anni, ovvero in ogni caso di variazioni 
+significative. 
+A tal fine, la Funzione di Gestione dei Rischi: 
+- mappa i rischi riguardanti i Fondi  Pensione Aperti ritenuti pertinenti/significativi, come 
+individuati nell’ambito della relativa Politica di Gestione dei Rischi; 
+- definisce le procedure necessarie per la gestione dei rischi individuati e ritenuti 
+pertinenti/significativi; 
+- riceve i flussi informativi sulla totalità dei rischi rilevanti per il Fondo; 
+- predispone il Documento sui metodi di individuazione e valutazione dei rischi; 
+- attua, con frequenza almeno triennale o in seguito a variazioni significative del profilo di 
+rischio, la valutazione interna del rischio, da sottoporre all’approvazione del CDA; 
+- relaziona, almeno annualmente, all’Organo di Amministrazione sull’attività svolta;
+=== pagina 21 ===
+21 
+ 
+- trasmette le risultanze delle verifiche e le relative raccomandazioni al CDA, al Collegio 
+Sindacale e al Responsabile , al fine di attivare tempestivamente gli eventuali interventi 
+correttivi; 
+- comunica all’Autorità di Vigilanza le situazioni problematiche riscontrate nello svolgimento 
+della propria attività qualora le stesse non abbiano trovato, come dovrebbero, soluzione 
+all’interno del Fondo stesso.    
+4.7. Attori coinvolti – Ruolo del Responsabile nell’ambito del Sistema di Controllo Interno 
+Il Responsabile del FPA, nell’ambito delle competenze sopra descritte, al paragrafo 2.5. 
+- comunica tempestivamente al CDA e al Collegio Sindacale, nonché alla COVIP le irregolarità 
+riscontrate, indicando gli interventi correttivi da adottare.  
+- predispone annualmente una relazione che descrive in maniera analitica l’organizzazione 
+adottata per l’adempimento dei suoi doveri e la trasmette a: COVIP, CDA, Collegio Sindacale 
+e, ove presente, all’Organismo di Rappresentanza del Fondo. 
+- vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa 
+le segnalazioni, la documentazione e le relazioni richieste dalla normativa e dalle istruzioni 
+emanate in proposito.  
+5. IL SISTEMA DI GESTIONE DEI RISCHI 
+Il Sistema di gestione dei rischi ha come obiettivo prioritario quello di promuovere la diffusione 
+della cultura del rischio all’interno della Compagnia anche con riferimento ai FPA, fornendo 
+opportuni strumenti a concreto supporto delle decisioni strategiche aziendali, analizzando e 
+gestendo i rischi ai quali potrebbero essere esposti i Fondi Pensione Aperti  e i loro aderenti e 
+beneficiari, considerando i rischi che possono verificarsi all’interno della Compagnia o nelle entità 
+a cui sono esternalizzate funzioni o attività. 
+La Funzione di Gestione de i Rischi è responsabile di concorrere alla definizione e 
+all’implementazione del Sistema di Gestione dei Rischi, che viene consolidato n el continuo 
+attraverso la diffusione di una forte cultura del rischio all’interno della Compagnia. 
+ 
+5.1. Attori coinvolti 
+Al CDA della Compagnia è affidata la responsabilità ultima del Sistema di Gestione dei Rischi, de l 
+quale assicura la costante completezza, funzionalità ed efficacia. 
+La Funzione di Gestione dei Rischi supporta il CDA nel garantire l ’efficacia della gestione, del 
+controllo e della mitigazione dei rischi a cui il Fondo è esposto o potrebbe esserlo nel medio-lungo 
+periodo, in conformità con i dettami regolamentari nazionali ed internazionali di riferimento. A tal 
+fine la Funzione di Gestione dei Rischi è il destinatario  dei flussi informativi sulla totalità dei rischi 
+rilevanti per il Fondo. 
+ 
+5.2. Valutazione interna del rischio 
+La Compagnia descrive i metodi di cui essa si è dotata, nel rispetto del principio di proporzionalità, 
+per individuare e valutare i rischi cui i FPA sono o potrebbe ro essere espost i nel breve e lungo 
+periodo e che potrebbero avere un impatto sulla capacità di far fronte ai propri obblighi; a tal fine, 
+la Funzione di Gestione dei Rischi predispone il Documento sui metodi di individuazione e 
+valutazione dei rischi.
+=== pagina 22 ===
+22 
+ 
+La Funzione di Gesti one dei Rischi effettua periodicamente la valutazione interna del rischio, 
+approvata dal CDA del Fondo almeno ogni tre anni, o immediatamente dopo ogni variazione 
+significativa del profilo di rischio del Fondo Pensione. 
+Nell’ambito della valutazione interna del rischio, la Compagnia effettua la valutazione dell’efficacia 
+del Sistema di Gestione dei rischi  dei Fondi, fornendo altresì una descrizione del modo in cui la 
+valutazione dei rischi è integrata nel processo gestionale e nei processi decisionali della Compagnia 
+e del modo in cui essa previene i conflitti di interesse con l’Impresa promotrice in merito alle 
+Funzioni Fondamentali ad essa esternalizzate. 
+Il CDA, ai fini dell’assunzione delle decisioni strategiche relative ai Fondi, tiene in considerazione gli 
+esiti dell’attività di valutazione interna dei rischi. 
+ 
+6. Flussi informativi tra le strutture aziendali e il Responsabile del Fondo 
+La Compagnia ha implementato adeguati flussi informativi e documentali tramite i quali, su base 
+periodica e ad evento, il Responsabile riceve reportistica, notizie e dati riguardanti il Fondo, per 
+l’espletamento delle proprie attività di vigilanza sulla gestione finanziaria e amministrativa, 
+nonché sulle misure di trasparenza adottate dalla Compagnia nei confronti degli aderenti e dei 
+beneficiari. 
+Sono organizzate, altresì, riunioni periodiche nell’ambito delle quali il Responsabile incontra le 
+principali funzioni interne coinvolte nel processo di gestione del Fondo, per l’esame congiunto 
+della documentazione messa a disposizione e la trattazione delle tematiche di rilievo. 
+Delle anomalie e delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà 
+tempestiva comunicazione a CDA, Collegio Sindacale, Funzioni Fondamentali, L&S e COVIP. 
+Nell’ambito di tali riunioni periodiche, il Responsabile è aggiornato su quanto segue: 
+➢ dati su patrimonio e raccolta; 
+➢ dati sulle adesioni, informazioni sulla gestione finanziaria (performance dei comparti, 
+indicatori di rischio, andamento dei mercati di riferimento, commenti di gestione, 
+composizione dei portafogli), trattazione dei singoli esposti ricevuti nel periodo; 
+➢ reportistica sui tempi di liquidazione delle anticipazioni, riscatti e trasferimenti; 
+➢ reportistica sull’ andamento delle riconciliazioni e della valorizzazione dei contributi; 
+➢  reportistica sui sospesi e sugli storni. 
+Il Responsabile assiste alle riunioni del CDA e del Collegio Sindacale della Compagnia per tutte le 
+materie inerenti ai FPA. 
+La Compagnia rende inoltre disponibili a beneficio del Responsabile del Fondo i seguenti ulteriori 
+documenti: 
+• segnalazioni inviate a COVIP; 
+• report sulla composizione della quota del fondo; 
+• reportistica amministrativa e contabile; 
+• nonché, ove riguardanti i FPA: delibere del CDA; corrispondenza con le Autorità di 
+Vigilanza; 
+• estratti delle relazioni delle Funzioni Fondamentali sottoposte al CDA; 
+• estratti dei verbali delle riunioni del Collegio Sindacale; 
+• documentazione e relazioni richieste dalla normativa da trasmettere al Responsabile.
+=== pagina 23 ===
+23 
+ 
+7. INFORMAZIONI RELATIVE ALLA POLITICA DI REMUNERAZIONE 
+Per i FPA, la Compagnia adotta una Politica di Remunerazione, approvata dal CDA della Compagnia, 
+redatta in conformità alle disposizioni normative di cui all’art. 5 -octies del D.Lgs. n. 252  e tenuto 
+conto del principio di proporzionalità in relazione all’organizzazione interna, alla dimensione, alla 
+natura, alla portata e alla complessità delle attività del Fondo. 
+La suddetta Politica di Remunerazione risponde all’obiettivo di rendere la remunerazione 
+riconosciuta nell’ambito del Fondo coerente con la sana, prudente ed efficace gestione del Fondo 
+stesso e in linea, da un lato, con gli obiettivi strategici, la redditività e l’equilibrio del Fondo nel lungo 
+termine e, dall’altro, con gli interessi sempre a lungo termine degli aderenti e beneficiari. 
+La Politica di Remunerazione si applica al Responsabile del Fondo e ai titolari delle Funzioni 
+Fondamentali di Internal Audit e Risk Management.  Con riferimento alla remunerazione del 
+Responsabile del Fondo, essa è determinata dal CDA dell a Compagnia all’atto della nomina per 
+l’intero periodo di durata dell’incarico. Il compenso del Responsabile non può essere pattuito sotto 
+forma di partecipazione agli utili della Compagnia o di società controllanti o controllate, né sotto 
+forma di diritti  di acquisto o di sottoscrizione di azioni della Società o di società controllanti o 
+controllate.  
+Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a 
+carico del Fondo, salva diversa decisione della Compagnia.  
+La remunerazione, inoltre, non include componenti variabili, ferma restando la congruità rispetto 
+alle responsabilità della funzione, anche in relazione ai livelli di mercato.  
+Con delibera del Consiglio di Amministrazione di AXA MPS Vita S.p.A. 28/05/2019 è stato identificato 
+il Responsabile dei Fondi per un periodo di tre anni fino al 30/06/2022 e definito un compenso fisso. 
+ Con riferimento ai Titolari delle Funzioni Fondamental i, che oggi rivestono tale ruolo anche nella 
+Capogruppo Assicurativa della Compagnia,  riportando quanto già previsto dalla Politica di pari 
+oggetto del Gruppo AXA ITALIA  applicata dalla Compagnia  al fine di evitare ogni conflitto di 
+interesse e di garantire l’indipendenza dei Titolari delle Funzioni rispetto all’entità o alla linea di  
+business su cui svolgono il controllo, il pacchetto retributivo si uniforma ai seguenti principi 
+fondamentali: 
+- la componente variabile, ove riconosciuta, è legata al raggiungimento dei soli obiettivi individuali 
+definiti nella target letter individuale senza alcun legame con quelli del Gruppo AXA in Italia; 
+- la componente variabile differita, ove riconosciuta, è legata al raggiungimento degli obiettivi d el 
+Gruppo AXA S.A (di cui il Gruppo AXA ITALIA è parte integrante quale sottogruppo nazionale) e 
+svincolata da quelli del Gruppo AXA ITALIA; 
+- essi riferiscono direttamente al CDA della Capogruppo che li nomina e che approva l’attribuzione 
+dei loro obiettivi annuali, il relativo raggiungimento e l’erogazione della componente variabile ove 
+riconosciuta oltre che tutte le proposte meritocratiche (revisione del  pacchetto retributivo, 
+eventuali passaggi di livello). 
+I costi del Titolare di ciascuna Funzione Fondamentale dalla Compagnia esternalizzata alla 
+Capogruppo sono sostenuti da AXA MPS Vita pro quota , cioè in proporzione ad una stima delle 
+attività effettuate in favore di AXA MPS Vita anche con riferimento ai Fondi. 
+***** 
+La Politica di Remunerazione dei FPA, si fonda sui seguenti principi guida:
+=== pagina 24 ===
+24 
+ 
+- deve essere definita, attuata e mantenuta in linea con le attività, il profilo di rischio, gli 
+obiettivi e l’interesse a lungo termine, la stabilità finanziaria, la performance del Fondo nel 
+suo complesso e deve sostenere una gestione sana, prudente ed efficace del Fondo;  
+- deve essere in linea con il profilo di rischio e gli interessi a lungo termine degli aderenti e dei 
+beneficiari;  
+- deve prevedere misure volte a evitare i conflitti di interesse;  
+- deve essere coerente con una gestione sana ed efficace del rischio e non incoraggiare 
+un’assunzione di rischi che non sia congrua con i profili di rischio e le regole del Fondo;  
+- è riesaminata almeno ogni tre anni;  
+- la politica di remunerazione e la sorveglianza sulla stessa sono definite e gestite in modo 
+chiaro, trasparente ed efficace. 
+La Politica di Remunerazione si aggiunge alla Politica di Remunerazione del Gruppo AXA Italia.  
+La Politica di Remunerazione del Gruppo AXA ITALIA, applicabile ai FPA, per quanto non giù 
+espressamente previsto dal presente documento, in linea c on le previsioni del Regolamento (UE) 
+2019/2088 del 27 novembre 2019 e successive modifiche, considera: i) fra i criteri utilizzati come 
+misura della performance la presenza di indicatori di responsabilità sociale ii) i rischi di sostenibilità 
+con riferimento agli elementi di remunerazione di breve termine che per quelli di lungo termine.

@@ -1,0 +1,514 @@
+# Fondo: FONDO PENSIONE APERTO PREVIGEST FUND MEDIOLANUM (previgest-fund-mediolanum)
+# Documento: Documento sul sistema di governo – File
+# Fonte: https://www.mediolanumgestionefondi.it/static-assets/documenti/file/it/2026/03/25//Previgest_Fund_Documento_sul_sistema_di_governo_societario.pdf
+# Citato in: https://www.mediolanumgestionefondi.it/fondi-pensione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 3bf8026e5d301652a9d7ba19f2765c6487e3aa98e68c35dd9ee4caaeabfab900
+# Pagine: 13
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul sistema di governo societario 
+afferente alla gestione del fondo pensione aperto 
+PREVIGEST FUND MEDIOLANUM 
+ 
+Redatto ai sensi della Delibera Covip del 13 gennaio 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consiglio di Amministrazione di Mediolanum Gestione Fondi SGR.p.A. del 24 marzo 2026
+=== pagina 2 ===
+1 
+SOMMARIO 
+ 
+1 PREMESSA E OBIETTIVO DEL DOCUMENTO ...................................................................................... 2 
+2 VALIDITA’ DEL DOCUMENTO ................................................................................................................. 2 
+3 ORGANIZZAZIONE DELLA SOCIETA’ RILEVANTE PER I PROFILI GESTIONALI INERENTI AL 
+FONDO PENSIONE .......................................................................................................................................... 3 
+3.1 ORGANO AMMINISTRATIVO ...................................................................................................................... 3 
+3.2 AMMINISTRATORE DELEGATO .................................................................................................................. 4 
+3.3 COMITATO RISCHI ................................................................................................................................... 4 
+3.4 COMITATO INVESTIMENTI MOBILIARI ......................................................................................................... 4 
+3.5 DIVISIONE INVESTIMENTI MOBILIARI ......................................................................................................... 5 
+3.5.1 Ufficio Investimenti Obbligazionari .................................................................................... 6 
+3.6 CORPORATE GOVERNANCE & SUSTAINABILITY ......................................................................................... 7 
+3.7 UFFICIO AMMINISTRAZIONE FONDI ........................................................................................................... 7 
+3.8 FUNZIONE RISK MANAGEMENT ................................................................................................................ 7 
+3.9 FUNZIONE COMPLIANCE .......................................................................................................................... 8 
+3.10 FUNZIONE INTERNAL AUDIT ..................................................................................................................... 8 
+3.11 FUNZIONE ANTIRICICLAGGIO .................................................................................................................... 8 
+3.12 RESPONSABILE DEL FONDO PENSIONE ..................................................................................................... 8 
+3.13 ORGANISMO DI RAPPRESENTANZA DEL FONDO PENSIONE ......................................................................... 8 
+3.14 PREVINET S.P.A. .................................................................................................................................... 9 
+3.15 STATE STREET BANK INTERNATIONAL GMBH SUCCURSALE ITALIA ........................................................... 9 
+4 SISTEMA DEI CONTROLLI INTERNI ..................................................................................................... 10 
+5 SISTEMA DI GESTIONE DEI RISCHI ..................................................................................................... 10 
+6 FLUSSI INFORMATIVI ............................................................................................................................ 11 
+7 POLITICA DI REMUNERAZIONE DEL FONDO PENSIONE E DEI TITOLARI DELLE FUNZIONI 
+FONDAMENTALI ............................................................................................................................................ 11
+=== pagina 3 ===
+2 
+1 PREMESSA E OBIETTIVO DEL DOCUMENTO 
+Il Fondo pensione aperto PREVIGEST FUND MEDIOLANUM  è finalizzato all’erogazione di 
+trattamenti pensionistici complementari del sistema previdenziale obbligatorio, ai sensi del d.lgs. 5 
+dicembre 2005, n. 252.  
+PREVIGEST FUND MEDIOLANUM (nel seguito anche solo il “Fondo”  o “Previgest Fund”) è stato 
+istituito da Mediolanum Gestione Fondi SGR p.A. (di seguito anche “SGR” o “Società”), Società di 
+Gestione del Risparmio appartenente al Gruppo Mediolanum, ed è iscritto all’albo tenuto dalla 
+COVIP con il n. 34. 
+Mediolanum Gestione Fondi SGR p.A. è abilitata , tra l’altro, alla gestione delle risorse dei  fondi 
+pensione costituiti ai sensi e per gli effetti di cui all'art. 4 del decreto legislativo 21 aprile 1993 n. 124 
+e successive modifiche e integrazioni, nonché la costituzione e la gestione dei fondi pensione previsti 
+dall'art. 9 del decreto legislativ o medesimo e sue successive modifiche e integrazioni. La società 
+può svolgere altresì tutte le operazioni funzionali alle attività di gestione di fondi pensione. 
+ 
+La Società può, inoltre, svolgere: 
+ 
+a) la gestione su base individuale di portafogli d'investimento per conto terzi; 
+b) la gestione in regime di delega conferita da soggetti che prestano il servizio di gestione di 
+portafogli di investimento e da parte di organismi di investimento collettivo esteri; 
+c) l'attività di consulenza in materia di investimenti in strumenti finanziari; 
+d) le attività connesse e strumentali quali previste dalla regolamentazione vigente emanata 
+dalla Autorità di vigilanza e di controllo; 
+e) l’assunzione di partecipazioni, nei limiti consentiti dalla normativa vigente, in società aventi 
+per oggetto esclusivo lo svolgimento di attività strumentali a quella della società stessa. 
+ 
+La Società è iscritta all’Albo delle Società di Gestione del Risparmio di cui all’articolo 35, comma 1 
+del D.Lgs. n.58/1998 e successive modificazio ni ed integrazioni, in particolare al numero 6 della 
+Sezione “Gestori di OICVM” e al numero 4 della Sezione “Gestori di FIA”. 
+ 
+Il presente documento è redatto ai sensi della Deliberazione COVIP del 13 gennaio 2021 allo scopo 
+di illustrare il sistema di governo adottato dalla SGR con riferimento all’attività di gestione del Fondo, 
+in conformità con i principi normativi che disciplinano le forme pensionistiche complementari, con i 
+provvedimenti dell’Autorità di Vigilanza e nel rispetto delle linee guida defin ite dal Consiglio di 
+Amministrazione. 
+In particolare, la Deliberazione COVIP del 13 gennaio 2021 recante “Istruzioni di vigilanza per le 
+società che gestiscono fondi pensione  aperti, adottate ai sensi dell’art. 5 -decies, comma 1, del 
+decreto legislativo 5 dicembre 2005, n. 252 è finalizzata a dare attuazione al predetto art. 5-decies 
+del decreto n. 252/2005, così da allineare i comportamenti delle società che  gestiscono fondi 
+pensione aperti alle previsioni ivi richiamate. 
+Le predette Istruzioni definiscono le modalità di coordinamento della normativa del decreto n. 
+252/2005, in tema di governance, con gli ordinamenti di settore delle società che gestiscono fondi 
+pensione aperti, nell’ottica di salvaguardarne l’applicazione, in caso di eventuale sovrapposizione di 
+discipline. 
+2 VALIDITA’ DEL DOCUMENTO 
+Il documento è approvato dal Consiglio di Amministrazione di Mediolanum Gestione Fondi SGR p.A. 
+ed è aggiornato su base annuale e comunque ogni qualvolta si verifichi un cambiamento rilevante 
+nella n ormativa di riferimento, nell’organizzazione e/o nell’operatività del Sistema di Governo 
+Societario.
+=== pagina 4 ===
+3 
+ 
+E’ inoltre a disposizione degli aderenti, dei beneficiari e dei loro rappresentanti sul sito della SGR 
+nella sezione dedicata al fondo pensione ( www.mediolanumgestionefondi.it/fondi-pensione) 
+unitamente al rendiconto dei fondi. 
+3 ORGANIZZAZIONE DELLA SOCIETA’ RILEVANTE PER I PROFILI GESTIONALI 
+INERENTI AL FONDO PENSIONE 
+Nel seguito si riportano gli attori, interni ed esterni alla SGR, a vario titolo coinvolti nel processo di 
+gestione del fondo pensione, riportando per ciascuno di essi i relativi compiti e responsabilità: 
+ 
+• l’Organo Amministrativo, ossia il Consiglio di Amministrazione della società istitutrice; 
+• l’Amministratore Delegato; 
+• il Comitato Rischi; 
+• il Comitato Investimenti Mobiliari; 
+• la Divisione Investimenti Mobiliari; 
+• l’ufficio Gestione Investimenti Obbligazionari a riporto del quale è collocata l’unità “Gestione 
+Fondo Pensione”, struttura incaricata della gestione del Fondo Pensione . All’interno 
+dell’Ufficio Gestione Investimenti Obbligazionari operano i gestori del fondo pensione;  
+• l’ufficio Corporate Governance & Sustainability; 
+• l’ufficio Amministrazione Fondi; 
+• la Funzione Risk Management; 
+• la Funzione Compliance; 
+• la Funzione Internal Audit; 
+• la Funzione Antiriciclaggio; 
+• il Responsabile del Fondo;  
+• l’Organismo di Rappresentanza del Fondo; 
+• l’outsourcer Previnet S.p.A; 
+• State Street Bank International GMBH Succursale Italia. 
+In particolare, nei paragrafi seguenti, si riportano i compiti e le responsabilità attribuiti a ciascun 
+attore/unità organizzativa sopra citati. 
+3.1 Organo Amministrativo 
+Il Consiglio di Amministrazione è l’organo responsabile della gestione aziendale, che svolge la 
+funzione di indirizzo e sorveglianza previste da lla legge e dallo statuto sociale, determinando gli 
+obiettivi e le strategie aziendali e assicurandone un’efficiente ed efficace implementazione. 
+ 
+Con riferimento all’attività di gestione, il Consiglio di Amministrazione ha la responsabilità, sulla base 
+delle proposte formulate dalle funzioni operative e di controllo, di: 
+• determinare e rivedere periodicamente le politiche di investimento dei patrimoni in gestione, 
+con particolare riferimento al profilo di rischio-rendimento ed ai relativi parametri di riferimento 
+(quali: indicatori di rischio – VaR e TEV, volatilità, benchmark, ecc.), ai quali ispirare ed 
+adattare l’attività di gestione e con i quali confrontarne periodicamente i risultati in funzione 
+delle caratteristiche proprie di ogni distinta attività gestionale e di ogni servizio gestito; 
+• definire il sistema di gestione dei rischi a cui è esposto il patrimonio del fondo e determinare 
+i limiti di investimento nell’ambito di quanto previsto dalla normativa vigente; 
+• verificare periodicamente i risultati ottenuti nella gestione del fondo pensione;
+=== pagina 5 ===
+4 
+• approvare il regolamento del Fondo;  
+• approvare il processo di investimento e verificarne periodicamente l’adeguatezza. 
+ 
+Il Consiglio di Amministrazione, infine, nomina il Responsabile della Divisione Investimenti Mobiliari, 
+istituisce i l Comitato Investimenti Mobiliari, definendone la composizione ed approvandone i 
+regolamenti e determina i limiti di investimento nell’ambito di quanto previsto dalla normativa vigente.  
+3.2 Amministratore Delegato 
+L’Amministratore Delegato ha la rappresentanza generale della Società. Il Consiglio di 
+Amministrazione gli conferisce idonei poteri per la conduzione aziendale e la gestione dei patrimoni 
+dei fondi, incluso il fondo pensione aperto Previgest Fund Mediolanum. 
+3.3 Comitato Rischi 
+Il Comitato Rischi è un comitato endoconsiliare che svolge funzioni di supporto al Consiglio di 
+Amministrazione in materia di rischi e sistema di controlli interni. In tale ambito particolare attenzione 
+deve essere posta dal Comitato a t utte quelle attività strumentali e necessarie affinché il Consiglio 
+possa addivenire ad una corretta ed efficace determinazione delle politiche di governo dei rischi. 
+3.4 Comitato Investimenti Mobiliari 
+Il Comitato Investimenti Mobiliari è istituito dal Consiglio di Amministrazione, che  ne definisce la 
+composizione e ne approva il Regolamento. Si riunisce, di norma, con frequenza mensile e, ove 
+opportuno, su convocazione del Responsabile della Divisione degli Investimenti Mobiliari. 
+Il Comitato ha la funzione di coordinare l’attività gestionale, assumendo decisioni in merito alle 
+politiche allocative e alle scelte tattiche di gestione, rivestendo altresì un ruolo dialettico e propositivo 
+nei confronti del Consiglio di Amministrazio ne e degli organi e soggetti delegati alla gestione dei 
+patrimoni, per materie e argomenti afferenti i mercati finanziari. 
+Altresì, il Comitato rappresenta un momento di confronto tra le funzioni gestionali e le funzioni di 
+controllo del rischio. 
+ 
+Le singole scelte di investimento su specifici mercati, settori, fondi, titoli e categorie di titoli o 
+strumenti finanziari, sono demandate sempre ai soggetti titolari di deleghe gestionali, i quali operano 
+sulla base delle indicazioni strategiche ricevute e tenendo conto delle indicazioni del Comitato 
+Investimenti Mobiliari.  
+ 
+Il Comitato effettua principalmente le seguenti attività: 
+• in coerenza con le linee strategiche approvate dal Consiglio di Amministrazione per ciascuna 
+tipologia di portafoglio, presenta al Consiglio di Amministrazione le scelte di asset allocation 
+tattica per il periodo di riferimento successivo; 
+• nell’ambito delle indicazioni strategiche e di asset allocation deliberate dal Consiglio di 
+Amministrazione, è responsabile dell’attuazione dell'allocazione tattica degli investimenti; 
+• informa il Consiglio di Amministrazione in merito alle implementazioni tattiche adottate nel 
+periodo precedente; 
+• assicura il corretto svolgimento del processo di investimento; 
+• esamina e valuta periodicamente l’andamento del fondo pensione utilizzando un adeguato 
+reporting, fondato, tra l’altro, su parametri oggettivi di riferimento per l’analisi delle 
+performance, della volatilità e dei rischi;
+=== pagina 6 ===
+5 
+• monitora periodicamente l’andamento dei fondi dal punto di vista della sostenibilità e fornisce 
+eventuali indicazioni al team gestionale; 
+• monitora, valuta e condivide l’operatività della Divisione Investimenti Mobiliari; 
+• discute l’asset allocation tattica dei diversi comparti del Fondo, in coerenza con le indicazioni 
+strategiche ed i livelli di rischio stabiliti;  
+• assicura, tramite i soggetti delegati, l’invio di un’informativa periodica al Consiglio di 
+Amministrazione, con riferimento al corretto svolgimento dei processi di investimento e al 
+rispetto delle strategie di rischio-rendimento definite; 
+• propone al Consiglio di Amministrazione / ai s oggetti deleganti l’assunzione di decisioni di 
+ordine strategico in materia di investimento; 
+• predispone, con cadenza almeno annuale, una relazione sull’attività svolta dal Comitato, da 
+sottoporre all’attenzione del Consiglio di Amministrazione. 
+3.5 Divisione Investimenti Mobiliari 
+La Divisione Investimenti Mobiliari della SGR effettua principalmente le seguenti attività: 
+• valuta e definisce, nell’ambito delle deleghe 1 ricevute, gli indirizzi operativi sulle attività di 
+investimento, supervisionando l’attività di gestione e coordinando l’attuazione delle politiche 
+d’investimento; 
+• mantiene le relazioni con i distributori dei prodotti mobiliari della società; 
+• ha la responsabilità e realizza le politiche di asset allocation tattica; 
+• si av vale del supporto della Funzione Risk Management per l’analisi dell’andamento del 
+profilo di rischio -rendimento dei patrimoni gestiti, da valutare in relazione alle linee guida 
+definite dal Consiglio di Amministrazione; 
+• effettua tutte le operazioni in strumenti finanziari e valutari atte alla migliore implementazione 
+delle politiche d’investimento; 
+• autorizza, nel rispetto dei limiti di volta in volta stabiliti dal Consiglio di Amministrazione o 
+dall’Amministratore Delegato, eventuali deroghe ai limiti opera tivi interni, nell’esclusivo 
+interesse degli investitori e a fronte di specifiche esigenze o opportunità gestionali; 
+• attiva gli opportuni controlli di linea sullo svolgimento delle attività di competenza, ponendo 
+la massima attenzione, in particolare, all’ adozione di misure volte ad assicurare la verifica, 
+prima dell’esecuzione delle operazioni, della compatibilità delle stesse con i limiti agli 
+investimenti specificati nei regolamenti, nei prospetti dei prodotti e nella normativa interna; 
+• coordina le attività del Comitato Investimenti Mobiliari, assicurando allo stesso un adeguato 
+flusso informativo, tale da consentirne una regolare operatività, supportandolo altresì nella 
+predisposizione delle analisi di scenario macro-economiche; 
+• verifica lo score ESG dei  singoli fondi sottoposto dal Responsabile dell’Ufficio Corporate 
+Governance & Sustainability ai fini dell’attività di investimento; 
+• supervisiona l’attività di gestione, coordinando l’attuazione delle politiche d’investimento del 
+Fondo. 
+ 
+1 Per le deleghe conferite, si faccia riferimento al documento “Deleghe per l’attività di gestione dei patrimoni di 
+Mediolanum Gestione Fondi SGR.p.a”. Le deleghe definiscono, per ciascun soggetto delegato, il livello 
+gerarchico, la tipologia di operazioni che il soggetto può disporre e i prodotti sui quali è autorizzato a disporre 
+operazioni.
+=== pagina 7 ===
+6 
+3.5.1 Ufficio Investimenti Obbligazionari 
+Nell’ambito della Divisione Investimenti Mobiliari, opera l’unità Gestione Fondo Pensione, a diretto 
+riporto dell’ufficio Investimenti Obbligazionari.  
+La predetta Unità, con specifico riferimento al Fondo: 
+• ha la responsabilità e  realizza le politiche di asset allocation tattica e la selezione degli 
+strumenti finanziari per il Fondo  Pensione aperto istituito dalla SGR, tenendo conto delle 
+indicazioni stabilite dal Comitato Investimenti Mobiliari ed in accordo con il Responsabile 
+della gestione del fondo; 
+• effettua le operazioni in strumenti finanziari e valutari, atte alla gestione dei portafogli 
+amministrati nel rispetto dei limiti operativi definiti; 
+• verifica, prima dell’esecuzione delle operazioni, la compatibilità delle stesse con i limiti agli 
+investimenti specificati nei regolamenti, nei prospetti – ove presenti – dei prodotti e nella 
+normativa interna; 
+• supporta le preposte strutture interne nella redazione dei rendiconti obbligatori dei prodotti, 
+ove previsti. 
+ 
+3.5.1.1 Gestori del fondo pensione 
+Alla gestione del fondo pensione concorrono i gestori obbligazionari ed  azionari della Divisione 
+Investimenti Mobiliari, che operano coerentemente alle delibere adottate dal Consiglio di 
+Amministrazione e tenendo conto delle indicazioni stabilite dal Comitato Investimenti Mobiliari e nel 
+rispetto di quelle ricevute dal Responsabile della gestione del fondo. 
+I gestori sono i soggetti delegati ad implementare le strategie e le tattiche allocative definite dai 
+superiori organi collegiali o individuali, selezionando gli strumenti finanziari da acquistare o vendere, 
+tramite gli int ermediari autorizzati all’operatività . I gestori, nel corso della propria attività, hanno 
+l’obbligo di: 
+• assicurare il rispetto delle disposizioni di vigilanza e della normativa concernente la gestione dei 
+patrimoni; 
+• assicurare il rispetto ex ante dei limiti previsti per i prodotti gestiti; 
+• astenersi da ogni comportamento che possa avvantaggiare un patrimonio gestito a danno di un 
+altro; 
+• operare al fine di contenere i costi a carico dei prodotti gestiti; 
+• operare al fine di evitare qualsiasi situazione di conflitto di interessi; 
+• astenersi dall’effettuare, per conto dei patrimoni gestiti, operazioni con frequenza non 
+necessaria per la realizzazione degli obiettivi dei prodotti stessi; 
+• perseguire, nel rispetto delle politiche definite internamente, il conseguimento del miglior 
+risultato possibile (best execution), nella trasmissione ed esecuzione di ordini per conto dei 
+prodotti gestiti; 
+• sviluppare analisi di tipo macro e microeconomico a supporto dell’attività di investimento. 
+ 
+I gestori si attengono inoltre alle disposizioni contenute nella regolamentazione interna aziendale, in 
+particolare a quanto contenuto nei documenti “Policy in materia di operazioni personali” e “Codice 
+di Condotta”, entrambi approvati dal Consiglio di Amm inistrazione della Società, che contemplano 
+rispettivamente le possibili modalità di esecuzione delle operazioni di investimento del patrimonio 
+personale in strumenti finanziari e i comportamenti cui attenersi nell’attività lavorativa.
+=== pagina 8 ===
+7 
+3.6 Corporate Governance & Sustainability  
+L’ufficio Corporate Governance & Sustainability si occupa di promuovere e presidiare l’integrazione 
+dei fattori ESG nel processo di investimento in accordo con le linee guida condivise con la 
+Capogruppo:  
+In particolare, effettua le seguenti attività:    
+• revisione, sviluppo e implementazione della Politica di Investimento responsabile e delle regole 
+interne della SGR in ambito ESG, anche al fine di recepire eventuali adempimenti normativi;  
+• cura degli adempimenti informativi definiti dal Regolamento UE 2019/2088;  
+• monitoraggio nel continuo del profilo ESG degli emittenti, anche mediante incontri con le società 
+finalizzati ad approfondimenti in materia di governo societario, e di gestione delle politiche 
+ambientali e sociali (engagement);  
+• monitoraggio e analisi degli indicatori di sostenibilità sia a livello di prodotto che a livello di 
+Entity;  
+• partecipazione al Comitato Investimenti Mobiliari fornendo informazioni in merito al  
+posizionamento dei fondi rispetto alle tematiche di sostenibilità nonché al rispetto dei limiti e 
+degli obiettivi in materia, definiti dal Consiglio di Amministrazione;  
+• reporting periodico, in merito all’esito dei controlli su tematiche ESG, nei confronti del Comitato 
+Rischi e del Consiglio di Amministrazione.  
+3.7 Ufficio Amministrazione Fondi 
+L’ufficio Amministrazione Fondi è responsabile dello svolgimento delle attività strumentali alla 
+gestione operativa della Divisione Investimenti Mobiliari, nonché di controllo delle attività svolte ai 
+fini della valorizzazione del patrimonio del Fondo Pensione, da parte del fornitore State Street Bank, 
+cui la SGR ha affidato, in virtù di uno specifico contratto di prestazione di servizi, la gestione 
+amministrativa del fondo.  
+Provvede, inoltre, a monitorare ex ante ed ex post il rispetto dei limiti normativi, operativi e 
+regolamentari delle operazioni di compravendita effettuate dagli addetti della Divisione Investimenti 
+Mobiliari per conto dei patrimoni gestiti, mediante l’implementazione di apposite regole di compliance 
+sull’applicativo di Front Office Bloomberg – AIM. 
+In riferimento al subentro di State Street Bank nel calcolo della quota, restano comunque in capo 
+all’Ufficio Amministrazione Fondi le attività di presidio e controllo nei confronti di Previnet, con 
+particolare riferimento alla verifica degli adempimenti informativi e di vigilanza previsti dalla 
+normativa di riferimento, nonché al coordinamento operativo con il fornitore. 
+3.8 Funzione Risk Management 
+La Funzione Risk Management è l’unità preposta allo svolgimento delle verifiche e delle analisi sui 
+rischi assunti nella gestione dei portafogli e dell’azien da in generale. La Funzione concorre alla 
+definizione della politica di gestione dei rischi e facilita l’attuazione del sistema di gestione dei rischi. 
+Tale funzione aziendale di controllo possiede i requisiti di indipendenza previsti dalla normativa 
+vigente e riferisce al Consiglio di Amministrazione della Società, al quale relaziona periodicamente. 
+La Funzione definisce i modelli di valutazione del profilo di rischio -rendimento e gli strumenti 
+informativi a supporto e svolge le attività di controllo del r ispetto del profilo di rischio deliberato dal 
+Consiglio di Amministrazione della Società nell’ambito dell’attività di gestione dei patrimoni e di 
+gestione del rischio aziendale.
+=== pagina 9 ===
+8 
+3.9 Funzione Compliance 
+La Funzione Compliance fornisce consulenza e collaborazione all’attività di formazione e alle diverse 
+unità organizzative della società sulle materie in cui assume rilievo il rischio di non conformità, con 
+valutazione preliminare degli impatti rivenienti dall’evoluzione del quadro normativo ed effettua la 
+valutazione della conformità alla regolamentazione applicabile, dei progetti innovativi e, in 
+particolare, l’operatività in nuovi prodotti o servizi. 
+Si precisa che l o svolgimento delle attività è demandato alla Funzione Compliance di Banca 
+Mediolanum in virtù di un apposito contratto di servizio. 
+3.10 Funzione Internal Audit 
+L’attività della  Funzione Internal Audit , in outsourcing presso Banca Mediolanum , è volta a 
+individuare violazioni delle procedure e della regolamentazione, nonché a valutare periodicamente 
+la completezza, l’adeguatezza, la funzionalità (in termini di efficienza ed efficacia) e l’affidabilità del 
+Sistema dei Controlli Interni, con cadenza prefissata in relazione alla natura e all’intensità dei rischi 
+ed alla criticità dei servizi ICT. 
+La Funzione, sulla base dei risultati delle verifiche condotte, formula raccomandazioni e porta 
+all'attenzione degli Organi Aziendali le possibili aree di miglioramento con particolare riferimento al 
+Sistema dei Controlli Interni (“SCI”) , al processo di gestione dei rischi , nonché agli strumenti di 
+misurazione e controllo degli stessi. 
+3.11 Funzione Antiriciclaggio  
+La Funzione Antiriciclaggio di Banca Mediolanum, in virtù di un contratto di prestazione di servizi in 
+essere, cura gli adempimenti relativi all’applicazione della normativa in materia di antiriciclaggio e di 
+contrasto al finanziamento de l terrorismo, nel rispetto della Policy sul contrasto al riciclaggio e al 
+finanziamento del terrorismo di MGF garantendo l’adeguamento dei processi, delle procedure e dei 
+controlli interni a seguito dell’entrata in vigore di nuove norme. 
+3.12 Responsabile del Fondo Pensione 
+Il responsabile è nominato dal Consiglio di Amministrazione della SGR, previa verifica del possesso 
+dei requisiti previsti dalla normativa di riferimento. L’incarico ha durata triennale ed è rinnovabile, 
+anche tacitamente, per non più di una volta consecutivamente.  Il Responsabile del Fondo può 
+essere revocato solo per giusta causa, sentito il parere del Collegio Sindacale.  
+Il Responsabile svolge la propria attività in modo autonomo e indipendente, riportando direttamente 
+all’organo di amministrazione della SGR stessa. In particolare, verifica che la gestione del Fondo sia 
+svolta nell’esclusivo interesse degli aderenti e dei beneficiari e vigila sull’osservanza della normativa 
+e del Regolamento di gestione del Fondo  nonché sul rispetto delle buone pratiche e dei principi di 
+corretta amministrazione del Fondo. 
+3.13 Organismo di rappresentanza del Fondo Pensione 
+Ai sensi della normativa di riferimento (D. lgs. 252/05, art. 5, comma 5), data l’adesione collettiva al 
+Fondo di oltre 500 lavoratori appartenenti ad una singola azienda (Banca Mediolanum), la SGR ha 
+costituito un Organismo di Rappresentanza, composto da n. 2 membri, di cui n. 1 rappresentante 
+designato dalla medesima azienda e n. 1 rappresentante dei lavoratori. 
+L’Organismo di Rappresentanza è stato istituito dall’ Organo di Amministrazione della Società con 
+apposita delibera, previa verifica dei requisiti in capo ai membri designati.
+=== pagina 10 ===
+9 
+Funge da collegamento tra la collettività degli aderenti alla forma pensionistica medesima e la 
+società istitutrice della forma stessa e non svolge funzione di controllo. 
+I componenti dell’Organismo devono adempiere alle loro funzioni nel rispetto dei principî generali di 
+correttezza e buona fede e devono conservare il segreto sui fatti e sui documenti di cu i hanno 
+conoscenza in ragione del loro ufficio. 
+L’Organismo riceve dalla Società:  
+• informazioni sull’attività complessiva del Fondo (quali rendiconto annuale, comunicazione 
+periodica, nota informativa);  
+• informazioni in relazione a particolari eventi che incidono significativamente sulla gestione degli 
+investimenti e sulla caratterizzazione del Fondo. 
+L’Organismo riceve inoltre dal Responsabile copia della relazione annuale che lo stesso trasmette 
+annualmente alla COVIP, per quanto di propria competenza.  
+L’Organismo chiede al Responsabile di raccogliere dati e informazioni presso il Fondo qualora dalla 
+documentazione in suo possesso emerga l’esigenza di effettuare ulteriori analisi in relazione a 
+problemi specifici.  
+L’Organismo riferisce alla Società e al Responsabile del Fondo in ordine a problematiche relative 
+all’andamento del Fondo. 
+3.14 Previnet S.P.A. 
+Nell’ambito del processo di investimento del Fondo, la SGR ha affidato alla società Previnet S.p.A., 
+le attività di natura amministrativa del Fondo, quali: 
+• la raccolta e gestione delle informazioni riguardanti le adesioni e le contribuzioni  degli 
+aderenti al Fondo Pensione; 
+• l’elaborazione dei dati contabili ai fini della tenuta della contabilità, del libro giornale e del 
+libro degli aderenti, nonché la redazione dei rendiconti annuali del Fondo Pensione; 
+• la raccolta e gestione delle richieste di liquidazione, di anticipo del TFR o di trasferimento ad 
+altro Fondo Pensione. 
+Le attività svolte dall’outsourcer sono presidiate dall’Amministratore Delegato, che si avvale del 
+supporto del Responsabile dell’ufficio Amministrazione Fondi.  
+3.15 State Street Bank International GMBH Succursale Italia 
+State Street Bank Internatio nal GMBH Succursale Italia (nel seguito anche SSB) ha il compito di 
+effettuare le attività di calcolo mensile del valore quota2 del fondo Previgest e le attività correlate di 
+Fund Services , nonché di amministrare, in qualità di Depositario, il patrimonio e di controllare che 
+tutte le operazioni realizzate dalla SGR, nell'ambito della gestione ed amministrazione delle 
+disponibilità dei singoli comparti, siano in linea con la legge e con il regolamento dei fondi stessi. 
+Il servizio Fund Services è incaricato delle attività finalizzate alla valorizzazione del NAV delle quote 
+di ciascun comparto del Fondo Previgest in regime di outsourcing (classificazione e valorizzazione 
+degli asset, determinazione dei diritti maturati non riscossi, eventi societari, determinazione degli 
+importi commissionali e degli altri costi a carico dei fondi, posizione di liquidità, ecc.).  
+ 
+2 SSB svolge tale attività a partire dal 1 novembre 2025. In precedenza il calcolo del valore quota era effettuato da Previnet S.p.A.
+=== pagina 11 ===
+10 
+4 SISTEMA DEI CONTROLLI INTERNI 
+Il sistema dei controlli interni è costituito dall’insieme delle regole, delle procedure e delle strutture 
+organizzative che mirano ad assicurare l’efficacia ed efficien za dei processi aziendali, la 
+salvaguardia del valore del patrimonio aziendale e la buona gestione di quello detenuto per conto 
+della clientela, l’affidabilità e integrità delle informazioni contabili e gestionali, nonché la conformità 
+delle operazioni con  la legge, la normativa di vigilanza, le norme di autoregolamentazione e le 
+disposizioni interne dell’intermediario.  
+Il sistema dei controlli è sottoposto a revisione periodica, in relazione all’evoluzione dell’operatività 
+aziendale e del contesto di riferimento.  
+Esso si compone di tre ambiti distinti:  
+• controlli di linea (c.d. “controlli di primo livello”): diretti ad assicurare il corretto svolgimento 
+delle operazioni. Tali controlli sono effettuati dalle stesse strutture operative (ad es., controlli 
+di tipo gerarchico, sistematici ed a campione), anche attraverso unità dedicate 
+esclusivamente a compiti di controllo che riportano ai responsabili delle strutture operative 
+(ovvero eseguiti nell’ambito del back office) e, quando possibile, sono incorporati nelle 
+procedure informatiche. Secondo tale configurazione, le strutture operative costituiscono le 
+prime responsabili del processo di gestione dei rischi. Nel corso dell’operatività giornaliera 
+tali strutture sono chiamate, infatti, ad identificare, misurare o valutare, monitorare, attenuare 
+e riportare i rischi derivanti dall’ordinaria attività aziendale in conformità con il processo di 
+gestione dei rischi. Inoltre, tali strutture devono rispettare i limiti operativi loro assegnati 
+coerentemente con gli ob iettivi di rischio e con le procedure in cui si articola il processo di 
+gestione dei rischi;  
+• controlli sui rischi e sulla conformità (c.d. “controlli di secondo livello”): diretti ad assicurare il 
+rispetto dei limiti operativi attribuiti alle diverse funz ioni, la corretta attuazione del processo 
+di gestione dei rischi e la conformità dell’operatività aziendale alle norme, incluse quelle di 
+autoregolamentazione. Conformemente a quanto richiesto dalla normativa le funzioni 
+responsabili dei controlli di secon do livello sono distinte da quelle produttive e concorrono 
+alla definizione di governo dei rischi e del processo di gestione degli stessi. Nello specifico 
+tali funzioni sono:  
+• Funzione di controllo dei rischi (Risk Management);  
+• Funzione di conformità alle norme (Compliance);  
+• Funzione di Antiriciclaggio.  
+ 
+• revisione interna (c.d. “controlli di terzo livello”): demandata alla Funzione Internal Audit di 
+Banca Mediolanum, in virtù di apposito contratto di outsourcing. L’attività è volta a individuare 
+violazioni delle procedure e della regolamentazione nonché a valutare periodicamente la 
+completezza, l’adeguatezza, la funzionalità (in termini di efficienza ed efficacia) e l’affidabilità 
+del sistema dei controlli interni e del sistema informativo (ICT audit), con cadenza prefissata 
+in relazione alla natura e all’intensità dei rischi ed alla criticità dei servizi ICT.  
+5 SISTEMA DI GESTIONE DEI RISCHI 
+Il sistema di gestione dei rischi definisce il quadro di riferimento necessario a individuare, misurare, 
+gestire e monitorare i rischi ai quali il fondo e la Società è o potrebbe essere esposto. 
+La Società si è dotata di un sistema di gestione dei rischi, l’architettura organizzativa di supporto a 
+tale sistema è costituita da diverse entità organizzative e dalle loro interrelazioni. Gli attori coinvolti 
+nel processo di controllo e gestione del rischio sono molteplici.
+=== pagina 12 ===
+11 
+Le unità organizzative di MGF e, per effetto dei contratti di outsourcing, di Banca Mediolanum, sono 
+chiamate a vario titolo a supportare il processo di monitoraggio, controllo, gestione e mitigazione dei 
+rischi, ciascuna nei limiti della propria competenza ed in funzione del grado di esposizione ai fattori 
+di rischio e della complessità organizzativa dell’attività svolta. 
+Nell’ambito di tale sistema assume particolare rilevanza la Funzione Risk Management, che è 
+separata sotto il profilo funzionale e gerarchico dalle unità operative. 
+ 
+La Funzione Risk Management, per quanto riguarda i rischi propri del Fondo, cioè quelli al quale il 
+Fondo è o potrebbe essere esposto, monitora l’osservanza dei limiti di rischio e analizza 
+l’esposizione ai rischi di mercato dei portafogli, le performance dei comparti e il rapporto 
+rischio/rendimento. La funzione aggiorna periodicamente il Comitato Rischi e il Consiglio di 
+Amministrazione sull’esito delle analisi svolte. 
+ 
+Per quanto riguarda i rischi che la Società assume in conto proprio, sono adottate politiche di 
+mappatura atte a definire la misurazione, valutazione e gestione di tali rischi. In particolare la 
+Funzione Risk Management si occupa delle attività relative alle analisi dei rischi operativi, rischi ICT 
+e di sicurezza, dei rischi delle terze parti e reputazionali Con riferimento specifico al rischio operativo, 
+che consiste nel rischio di subire perdite economiche derivanti da carenze, malfunzionamenti, errori 
+nei sistemi tecnologici o nei processi operativi oppure frodi, la Società ha adottato un processo 
+dedicato all’identificazione, misurazione, monitoraggio e gestione del rischio, con l’obiettivo di 
+identificare e valutare il profilo di rischio operativo esistente nelle unità organizzati ve, prodotti, 
+processi, sistemi informativi e di progettare e realizzare interventi volti a ridurre, trasferire o mitigare 
+i rischi operativi. 
+6 FLUSSI INFORMATIVI 
+La Società ha previsto adeguati flussi informativi e documentali tramite i quali, su base peri odica e 
+ad evento, il Responsabile del Fondo riceve reportistica e informazioni riguardanti il Fondo, per 
+l’espletamento delle proprie attività di vigilanza sulla gestione amministrativa dello stesso, nonché 
+sulle misure di trasparenza adottate dalla SGR nei confronti degli aderenti e dei beneficiari. 
+Possono essere inoltre organizzate riunioni specifiche, nell’ambito delle quali il Responsabile 
+incontra l’outsourcer preposto alle attività amministrative del Fondo e le strutture operative della 
+SGR per l’es ame congiunto della documentazione messa a disposizione e la trattazione delle 
+tematiche di rilievo. 
+7 POLITICA DI REMUNERAZIONE DEL FONDO PENSIONE E DEI TITOLARI DELLE 
+FUNZIONI FONDAMENTALI 
+Con riferimento alla politica di remunerazione, al Responsabile del Fondo Pensione, che svolge la 
+propria attività in modo autonomo e indipendente riportando al Consiglio di Amministrazione, viene 
+riconosciuto un compenso fisso a carico del Fondo. 
+ 
+Per quanto concerne i ti tolari delle funzioni fondamentali, tali figure erano già previste 
+dall’ordinamento della SGR, pertanto si applicano le politiche di remunerazione coerenti con la sana, 
+prudente ed efficace gestione dei fondi pensione aperti e in linea, da un lato, con gli  obiettivi 
+strategici, la redditività e l’equilibrio dei fondi stessi nel lungo termine e, dall’altro, con gli interessi 
+sempre a lungo termine degli aderenti e beneficiari, disciplinate dal documento denominato 
+“Politiche retributive e relazione all’Assemblea di Mediolanum Gestione Fondi SGR p.A”, disponibile
+=== pagina 13 ===
+12 
+sul sito Internet della SGR nella sezione trasparenza, e da quanto previsto dalle politiche della 
+Capogruppo Banca Mediolanum S.p.A.

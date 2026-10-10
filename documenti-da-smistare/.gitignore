@@ -1,0 +1,4 @@
+# I PDF da smistare non si committano: "python scripts/documenti.py smista --applica" li sposta in docs/documenti/
+*
+!.gitignore
+!README.md

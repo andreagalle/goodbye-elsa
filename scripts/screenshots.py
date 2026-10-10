@@ -28,6 +28,7 @@ def attendi(pg):
 
 def main() -> int:
     subprocess.run([sys.executable, str(ROOT / "scripts" / "export_xlsx.py")], check=True)
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "documenti.py"), "indice"], check=True)
     OUT.mkdir(parents=True, exist_ok=True)
     with servi() as base, sync_playwright() as p:
         b = p.chromium.launch()
@@ -107,6 +108,11 @@ def main() -> int:
         pg.mouse.move(0, 0)
         pg.wait_for_timeout(200)
         pg.screenshot(path=OUT / "dettaglio-pensione.png")
+        # documenti ufficiali in fondo al dettaglio (data/documenti.json)
+        pg.locator("#d-body h3.d-sez", has_text="Documenti ufficiali").evaluate(
+            "e => { e.scrollIntoView({ block: 'start', behavior: 'instant' }); document.getElementById('dettaglio').scrollBy(0, -110); }")
+        pg.wait_for_timeout(200)
+        pg.screenshot(path=OUT / "documenti.png")
 
         m = b.new_page(viewport={"width": 390, "height": 844}, color_scheme="dark", device_scale_factor=1)
         m.goto(base)

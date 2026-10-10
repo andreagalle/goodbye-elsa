@@ -132,6 +132,33 @@ dettaglio. Una riga per fondo (anche senza dati); i dati vengono dai documenti u
 | U | Consultata il | data |
 | V | Note | incoerenze, limiti del confronto, documenti datati |
 
+### Registro dei documenti ufficiali — `data/documenti.csv` (fuori dal workbook)
+Fonte di verità per le **copie dei documenti dei fondi** in `docs/documenti/<fondo-id>/` (PDF + testo `.txt`), per il
+blocco *Documenti ufficiali* del dettaglio fondo e per l'elenco `docs/documenti/README.md`. Sta in un CSV, non nel
+workbook, perché descrive file (pagine, peso e SHA-256 li calcola lo script) e perché lo aggiorna anche lo script
+(`documenti.py riprova`). Una riga per documento, nell'ordine fondo → tipo:
+| Colonna | Note |
+|---|---|
+| `fondo_id` | id di `fondi.json` |
+| `tipo` | uno dei tipi di `TIPI` in `scripts/documenti.py` (`nota-informativa`, `scheda-presentazione`, `scheda-costi`, `scheda-destinatari`, `opzioni-investimento`, `soggetti-coinvolti`, `informativa-sostenibilita`, `supplemento`, `regolamento`, `documento-rendite`, `documento-anticipazioni`, `documento-regime-fiscale`, `documento-politica-investimento`, `documento-sistema-governo`, `rendiconto`, `modulo-adesione`, `metodologia-proiezioni`, `altro`), oppure `nota-fondo`: riga che contiene solo una nota sul fondo intero (testo in `titolo`) |
+| `titolo` | come compare sul sito del gestore (non corretto: es. "Circolare COVID" di Teseo resta così) |
+| `file` | nome del PDF nella cartella del fondo (il tipo, con `-2`, `-3`… se ripetuto); vuoto = non scaricato |
+| `url` | link di download (vuoto se il sito non ne espone uno, es. Teseo e Arca) |
+| `pagina` | pagina che cita il documento; vuota = la pagina informativa del fondo (Sheet1 col. B) |
+| `referenziato` | `Sì` se citato dalla pagina informativa ufficiale o dalle pagine "Documentazione" a cui rimanda; `No` se trovato altrove sul sito dello stesso gestore |
+| `note` | **obbligatoria** se `file` è vuoto: il motivo (403, solo JavaScript, sito non raggiungibile…) |
+**Perimetro** (deciso con l'utente il 9/10/2026, a partire dai documenti "specifici per fondo" su cui si basa il foglio
+`Prestazioni`): tutti i documenti informativi del fondo citati nella sua pagina — Nota informativa intera e per schede,
+Appendice sulla sostenibilità (anche per comparto), Supplemento, Regolamento e allegati, Documento sulle rendite, sulle
+anticipazioni, sul regime fiscale, sulla politica di investimento, sul sistema di governo, **ultimo** rendiconto, modulo
+di adesione, metodologia delle proiezioni, organismo di rappresentanza, informative sulle nuove prestazioni, FAQ e
+politica di impegno del fondo. **Esclusi**: modulistica operativa, privacy, materiale promozionale (brochure, schede
+marketing per comparto), politiche e informative di gruppo non specifiche del fondo (PAI, remunerazione, linee guida),
+informative periodiche SFDR e versioni precedenti. Ogni `.txt` ha un'intestazione (`# Fondo`, `# Documento`, `# Fonte`,
+`# Citato in`, `# Scaricato il`, `# SHA-256 del PDF`, `# Pagine`, eventuale `# Attenzione: …`) e poi `=== pagina N ===`
+per ogni pagina: è il testo da **consultare nei prossimi lavori** (es. `grep -n -i "coefficient" docs/documenti/*/documento-rendite.txt`)
+e da citare con file e pagina; per i numeri fa fede il PDF. I PDF non si modificano mai a mano.
+
 **Componente aggiuntivo:** il workbook contiene il collegamento a **Claude per Excel** (`xl/webextensions/*`), che openpyxl
 scarta al salvataggio. Per salvarlo da Python usare sempre `scripts/workbook_utils.py` → `salva(wb, percorso)`, che lo
 reinserisce (test in `tests/test_workbook_utils.py`).
@@ -186,6 +213,20 @@ in cache (warning se diversi o assenti). Gli hyperlink vanno letti da `cell.hype
 - Note tecniche: allianz.it e unicreditallianzvita.it rispondono 403 a curl (si scaricano con Chromium/Playwright);
   i PDF di unipol.it arrivano compressi in gzip e cifrati AES (servono `gunzip` e il pacchetto `cryptography` per pypdf);
   i siti Intesa Sanpaolo Assicurazioni usano `…/bin/openAssetInline?path=…/regolamento-e-nota-informativa/<codice prodotto>/…`.
+
+### 4.1-quinquies Documenti ufficiali dei fondi (`data/documenti.csv`, scaricati l'8–10/10/2026)
+- Fonte: le **pagine informative dei fondi** (§4.2) e le pagine "Documentazione" a cui rimandano; per Azimut, Crédit
+  Agricole Vita, Destinazione Futuro e Il Mio Domani la pagina dell'elenco non li collega e vengono dal sito del gestore
+  (`referenziato = No`): azimut.it (`/prodotti-previdenziali/…`, file in `/archives/…`), ca-vita.it, credemvita.it,
+  intesasanpaoloassicurazioni.com (`…/pensione-integrativa/il-mio-domani.html`).
+- Note tecniche per scaricarli (`scripts/documenti.py`): alcuni siti funzionano solo con curl e non con urllib (Aureo,
+  per il quale serve anche una pausa: blocca dopo 2–3 richieste ravvicinate, `riprova --pausa 25`); unipol.it manda i PDF
+  compressi gzip anche senza richiesta; alcuni PDF sono cifrati senza password (pypdf richiede `cryptography`); URL con
+  caratteri non ASCII (Vera Vita) vanno codificati; Zurich espone i link nel JSON della pagina
+  (`/api/archiviodigitale/download?guid=…&filename=…`); Amundi (Secondapensione, Core Pension) ha i titoli nel testo
+  vicino al link (`files/nuxeo/dl/<uuid>`). Da questo ambiente (Codespaces) allianz.it e unicreditallianzvita.it
+  rispondono **403 anche a Chromium** (il 9–10/10/2026): l'elenco dei loro documenti viene dalla pagina letta con un
+  fetcher esterno.
 
 ### 4.2 Pagine informative dei fondi (Sheet1 col. B) e schede Ciao Elsa (col. P)
 | Riga | Fondo | Pagina informativa | Scheda Ciao Elsa |
@@ -280,18 +321,42 @@ istituito al 15/11/1992. La voce segue il decreto e segnala la differenza in not
 un salvataggio da Python non serve più riaprire il file in Excel (§3).
 
 **Prestazioni: dati incompleti o non confrontabili (verificato l'8–9/10/2026)**
-- Dati per **26 fondi su 38**; rendita a 67 anni confrontabile per 16. Mancano (documenti sulle rendite non trovati sui siti
-  pubblici): Fideuram, Destinazione Futuro, Vittoria Formula Lavoro, Arca Previdenza, Unipol Previdenza, Vera Vita,
-  Eurorisparmio, Aureo, Azimut Previdenza, Azimut Sustainable Future, Il Melograno, Core Pension; per BIM Vita, Zurich
-  Contribution, ZED Omnifund e Teseo ci sono solo i costi (e per Teseo le basi tecniche).
+- Dati per **32 fondi su 38**; rendita a 67 anni confrontabile per 24 (aggiornato il 10/10/2026 con i documenti trovati
+  dalla sessione dei documenti ufficiali, `data/documenti.csv`). Mancano: Fideuram (documenti non pubblicati), Vittoria
+  Formula Lavoro (il sito risponde 502), Arca Previdenza (documento solo dall'app del sito), Eurorisparmio (il link non
+  restituisce il PDF), Il Melograno (sito non raggiungibile) e Azimut Sustainable Future (la sua pagina su azimut.it
+  pubblica i documenti di Azimut Previdenza: da chiarire prima di riportarli). Per Teseo ci sono solo costi e basi tecniche.
 - Coefficienti non pubblicati: Previgest Mediolanum, CNP, PensPlan Profi (sono nella convenzione con la compagnia).
-  Raiffeisen pubblica solo un esempio con rate mensili (422,10 € ogni 10.000 €). UniCredit usa coefficienti **distinti per
-  sesso** (RG48, tasso tecnico 2%): 684,6 € uomini, 575,5 € donne prima della correzione d'età, non confrontabili.
+  Raiffeisen pubblica solo un esempio con rate mensili (422,10 € ogni 10.000 €; coincide con il coefficiente mensile di
+  Aureo, stessa compagnia e stesse basi). UniCredit usa coefficienti **distinti per sesso** (RG48, tasso tecnico 2%):
+  684,6 € uomini, 575,5 € donne prima della correzione d'età; anche Azimut Previdenza pubblica coefficienti per sesso
+  (A62D, 0%): 457,44 € uomini, 395,65 € donne. Non sono confrontabili con quelli unisex.
+- Coefficienti in comune: Unipol Previdenza, BIM Vita, Vera Vita e Arti & Mestieri (A62I 40/60, 0%) danno tutti 408,18 €;
+  Core Pension e Secondapensione 443,46 € (Crédit Agricole Vita); Zurich Contribution e ZED 421,60 € (tavola e tasso
+  tecnico non indicati nel Regolamento).
   Almeglio ha coefficienti diversi per data di adesione ed è chiuso.
-- Documenti datati: Plurifonds (2021) e Crédit Agricole Vita (2022), precedenti alle nuove prestazioni; Arti & Mestieri ha
+- Documenti datati: Plurifonds (2021), Crédit Agricole Vita (2022), Vera Vita (2023) e Unipol Previdenza (2025), precedenti
+  alle nuove prestazioni o alla loro versione definitiva; Arti & Mestieri ha
   la convenzione per le rendite in scadenza il 31/12/2026.
 - I coefficienti non sono del tutto omogenei: tassi tecnici diversi (0%, 0,5%), tavole diverse (A62, AZPS62, IPS55),
   Secondapensione con rate anticipate. La dashboard lo spiega sotto la tabella.
+
+**Documenti ufficiali non scaricati (verificato il 9–10/10/2026)** — il motivo è anche in `data/documenti.csv`:
+- **Allianz Previdenza, Insieme, UniCredit**: 403 ai download automatici da questo ambiente; da riprovare da un'altra rete
+  (`python scripts/documenti.py riprova --fondo allianz-previdenza insieme unicredit`) oppure dal browser con `smista`.
+- **Teseo**: la pagina di Reale Mutua elenca 24 documenti ma li apre con JavaScript, senza link (ci sono solo i 3
+  dell'area pubblica fondoteseo.com). **Arca Previdenza**: 21 documenti nella scheda "Documentazione Fondo Pensione",
+  consegnati dall'app Salesforce del sito senza link diretti.
+- **Fondo Pensione Fideuram**: il sito pubblico ha solo una brochure. **Il Melograno**: assimoco.it non risponde da qui.
+  **Vittoria Formula Lavoro**: la pagina dell'elenco (rendimenti) non ha documenti e i vecchi link (Nota informativa del
+  2021) rispondono 502. **Eurorisparmio**: i link "SSRDisplayer" della pagina Sella non restituiscono il PDF (scaricati 4
+  su 11 da sellasgr.it).
+- Quando l'utente fornisce i PDF (in `documenti-da-smistare/`), si smistano con `documenti.py smista` (anteprima, poi
+  `--applica`), si controllano i titoli dei documenti nuovi nel registro e si rigenera l'indice.
+- **Azimut Sustainable Future**: la sua pagina su azimut.it pubblica gli stessi file di Azimut Previdenza; l'URL
+  azimutwm.it dell'elenco (§4.2, righe 28 e 40) non esiste più.
+- Documenti datati segnalati anche in `Prestazioni`: Vera Vita (Documento sulle rendite 12/2023), Crédit Agricole Vita
+  (2022), Plurifonds.
 
 **Copertura:** 15 fondi su 38 non hanno ancora una scheda né dati di dettaglio (righe 5, 8, 12–15, 25, 27, 33, 34, 36–40).
 
@@ -321,6 +386,11 @@ un salvataggio da Python non serve più riaprire il file in Excel (§3).
     tasso_tecnico, basi, costo_rendita, costi: {anticipazione, riscatto, trasferimento, rita}, scheda_costi: {titolo, url},
     nuove_prestazioni, supplemento: {titolo, url}, consultata_il, note }]`. `n_varianti` e `tasso_conversione_67` sono
     ricalcolati dall'export (come le formule H e J); costi a 0 = non previsti, `null` = non trovati.
+  - `documenti.json` (generato da `scripts/documenti.py indice`, non dall'export): `{ aggiornato_il, tipi: [{id, nome,
+    descrizione}], totali: {fondi, fondi_con_documenti, referenziati, scaricati_referenziati, scaricati, pagine, byte},
+    fondi: [{ fondo_id, referenziati, scaricati_referenziati, scaricati, nota, documenti: [{ tipo, titolo, url, pagina,
+    referenziato, file, testo, scaricato_il, pagine, byte, sha256, note }] }] }` in ordine di riga, con `file`/`testo`
+    relativi a `docs/` (es. `documenti/aureo/regolamento.pdf`). È **facoltativo** per il sito (`caricaDocumenti()`).
   - `meta.json`: versione, data di export, hash del commit, licenza (da `LICENSE`), conteggi (anche `regole`,
     `glossario`, `fondi_con_prestazioni`, `prestazioni_con_rendita_67`), flag, elenco delle fonti (quelle dei fogli `Regole` e `Glossario` e della tavola ISTAT vi si aggiungono
     **in automatico**, senza duplicati; le voci del glossario COVIP diventano una sola fonte, con `url_comune()`).
@@ -342,6 +412,11 @@ responsive, accessibile, in italiano.
    entra, il contenitore prende un'altezza massima (classe `scorre`, gestita da `aggiornaScorrimento()` in `app.js`) con
    intestazione e colonna "Fondo" fisse, perché la barra orizzontale non resti solo in fondo alle 38 righe.
 2. **Dettaglio fondo**: comparti, asset allocation (barra azioni/obbligazioni), rendimento con periodo esplicito, commissione e note.
+   In fondo, **Documenti ufficiali** (`documentiFondo()` in `app.js`, da `documenti.json`): copie scaricabili in due
+   colonne (titolo del gestore, pagine, peso, link "originale"), conteggio "scaricati X dei Y citati" e, sotto, i documenti
+   non scaricati con il motivo; la nota sul fondo se c'è. In *Qualità dei dati → Copertura* una riga con i totali
+   (`coperturaDocumenti()`) e, dopo le anomalie, la tabella **Documenti da recuperare** (`documentiDaRecuperare()`:
+   fondo, quanti mancano, perché), richiesta dall'utente per poter fornire lui i PDF che non si scaricano.
 3. **Grafico a dispersione commissione vs rendimento** per comparto, colorato per categoria, solo comparti a 10 anni
    (con un toggle per includere quelli a 3 o 5 anni, ben segnalati).
 4. **Simulatore dei costi**: versamento annuo + orizzonte + comparto → costo totale stimato (adesione + spese fisse +
@@ -425,8 +500,9 @@ responsive, accessibile, in italiano.
   3. `release`: `gh release create vX.Y.Z` con le note (sezioni per tipo di commit, link alla PR, numeri dei dati,
      link a dashboard/guida/presentazione e confronto con il tag precedente). Viene saltata se non ci sono commit nuovi.
      **Allegati** (preparati nel job `build`, passati con l'artifact `rilascio`): `fondi.json`, `comparti.json`,
-     `meta.json` della versione, `fondi-pensione-covip-vX.Y.Z.xlsx`, `sito-vX.Y.Z.zip` (il contenuto di `docs/` così
-     come pubblicato) e `SHA256SUMS.txt`. GitHub aggiunge da solo gli archivi del codice sorgente.
+     `meta.json` e `documenti.json` della versione, `fondi-pensione-covip-vX.Y.Z.xlsx`, `sito-vX.Y.Z.zip` (il contenuto
+     di `docs/` così come pubblicato, **senza `docs/documenti/`**: oltre 400 MB di PDF, che restano nel repository e sul
+     sito) e `SHA256SUMS.txt`. GitHub aggiunge da solo gli archivi del codice sorgente.
      Gli allegati stanno solo nella pagina *Releases*: la sezione *Packages* (GitHub Packages: npm, Maven, ghcr.io…)
      è un servizio diverso e resta vuota, per scelta (vedi guida).
   Si usa `push` e non `pull_request: closed` perché l'ambiente `github-pages` accetta deploy solo dal branch di default.
@@ -445,9 +521,19 @@ responsive, accessibile, in italiano.
 - **MCP** (`.mcp.json`, server di progetto per Claude Code): `@playwright/mcp@0.0.82` in Chromium headless e isolato, con
   viewport 1360×820 e output in `.playwright-mcp/` (ignorato da git). Serve a navigare il sito e a fare screenshot ad hoc;
   gli screenshot della guida si rigenerano invece con lo script riproducibile `scripts/screenshots.py`.
-- Versioni fissate: `playwright==1.63.0` e `pillow==12.3.0` (Python), `@playwright/mcp@0.0.82`, Chart.js 4.4.1,
+- Versioni fissate: `playwright==1.63.0`, `pillow==12.3.0`, `pypdf==6.19.0` e `cryptography==50.0.1` (Python), `@playwright/mcp@0.0.82`, Chart.js 4.4.1,
   reveal.js 6.0.2, marked 18.0.13, DOMPurify 3.4.15. Quando si aggiorna una versione, aggiornarla qui.
-- `.vscode/tasks.json`: *Anteprima GitHub Page*, *Anteprima veloce*, *Export dati*, *Test*, *Rigenera screenshot*, *Prossima versione*.
+- `.vscode/tasks.json`: *Anteprima GitHub Page*, *Anteprima veloce*, *Export dati* (export + indice dei documenti),
+  *Documenti: riprova i download mancanti*, *Test*, *Rigenera screenshot*, *Prossima versione*.
+- **Documenti ufficiali** (`scripts/documenti.py`): `scarica` (PDF mancanti del registro + testo), `riprova` (documenti
+  senza file: urllib → curl → `--browser`, con `--pausa`; aggiorna il registro), `smista` (PDF messi a mano
+  dall'utente in **`documenti-da-smistare/`**, cartella ignorata da git tranne README: fondo dalla sottocartella
+  `<fondo-id>/` o da nome del file e prime pagine con `CHIAVI_FONDO`, tipo dal titolo con `TITOLI_TIPO`, abbinamento al
+  documento mancante più simile del registro; senza `--applica` mostra solo l'anteprima; con `--applica` sposta, estrae
+  il testo con `# Provenienza: copia fornita a mano` e scrive nel registro la nota "Copia fornita a mano il …"; i PDF
+  con fondo dubbio restano in cartella), `indice` (senza rete: `documenti.json`
+  in `data/` e `docs/data/`, `docs/documenti/README.md`, e controlla registro, file orfani e SHA-256). `indice` gira in
+  CI dopo l'export, in `anteprima.sh`, `screenshots.py` e `post-create.sh`; i test sono in `tests/test_documenti.py`.
 
 ## 10. Documentazione per gli utenti
 ### 10.1 Guida (`docs/guida/`)
@@ -456,7 +542,7 @@ responsive, accessibile, in italiano.
 - Screenshot in `docs/guida/img/`, generati da `python scripts/screenshots.py` (fa prima l'export): `dashboard`,
   `tabella-filtri`, `suggerimento` (mouse sul filtro ESG), `dettaglio`, `grafico`, `grafico-evidenzia`, `categorie`,
   `regole`, `longevita`, `prestazioni`, `glossario`, `qualita`, `dettaglio-pensione` (blocco "Alla pensione con questo
-  fondo" di Generali Global), `mobile-scuro`. I blocchi alti si portano in cima alla finestra prima dello
+  fondo" di Generali Global), `documenti` (documenti ufficiali in fondo al dettaglio di Generali Global), `mobile-scuro`. I blocchi alti si portano in cima alla finestra prima dello
   scatto (Chromium non disegna oltre il bordo); il pulsante "Torna su" è nascosto negli scatti delle sezioni.
 - Capitolo **"Glossario"**: introduzione scritta a mano, poi la tabella **generata dall'export** dal foglio `Glossario`
   (tra i marcatori `glossario:inizio`/`glossario:fine`, da non modificare a mano).
@@ -469,18 +555,22 @@ responsive, accessibile, in italiano.
   I numeri devono coincidere con il foglio `Regole`.
 - Capitolo **"Alla pensione, fondo per fondo"**: come leggere la tabella e il blocco del dettaglio, e i limiti del confronto
   (tasso tecnico, tavole, coefficienti che cambiano, fondi mancanti).
+- Capitolo **"Documenti ufficiali dei fondi"**: cosa c'è, come si conta "scaricati X dei Y citati", cosa è escluso e perché
+  alcuni mancano; in *Per chi mantiene il progetto* i comandi di `scripts/documenti.py`.
 ### 10.2 Presentazione (`docs/presentazione/`)
 - reveal.js con navigazione **2D**: in orizzontale gli argomenti (titolo, perché, dati, dashboard, **come funziona**, come
   scegliere, manutenzione, fine), in verticale gli approfondimenti. I valori chiave delle regole (`data-regola="<titolo
   breve>"`) e la frase sulla longevità si leggono dal vivo da `regole.json` e `longevita.json`; la slide *Quanto paga la
-  rendita? Dipende dal fondo* legge l'intervallo della rendita a 67 anni da `prestazioni.json`. Riusa gli screenshot della guida e legge i numeri dal vivo da
+  rendita? Dipende dal fondo* legge l'intervallo della rendita a 67 anni da `prestazioni.json`; la slide *I documenti
+  ufficiali dei fondi* (pila "dati") legge i totali da `documenti.json`. Riusa gli screenshot della guida e legge i numeri dal vivo da
   `data/meta.json`. Tema chiaro/scuro automatico.
 ### 10.3 Anteprima locale prima del push
 - `./scripts/anteprima.sh` (export + test + server su http://localhost:8000, con le stesse pagine che verranno pubblicate),
   `--veloce` per saltare i test, `PORTA=9000` per cambiare porta. È disponibile anche come task di VS Code.
 - `tests/test_sito.py` controlla dashboard, dettaglio, mobile, guida (immagini caricate) e presentazione (pile verticali,
   navigazione ↓) senza errori JavaScript, più marchio e favicon in tutte le pagine (`test_marchio_e_favicon`: il logo
-  riporta alla dashboard, che non si ricarica). Usa `scripts/server_locale.py`.
+  riporta alla dashboard, che non si ricarica) e i documenti nel dettaglio (`test_documenti_nel_dettaglio`: il link serve
+  davvero un PDF). Usa `scripts/server_locale.py`. `tests/test_documenti.py` controlla registro, PDF, testi e indice.
 ### 10.4 Regola di allineamento (obbligatoria)
 Ogni modifica che cambia ciò che l'utente vede o fa (dashboard, dati mostrati, flusso di rilascio, comandi) va
 accompagnata **nello stesso commit/PR** da:
@@ -529,12 +619,18 @@ accompagnata **nello stesso commit/PR** da:
 - [x] Glossario con fonti (foglio `Glossario`, 49 voci dal glossario COVIP e da altre fonti ufficiali), sezione *Glossario*
   e suggerimenti al passaggio del mouse su termini, intestazioni, filtri ed etichette
 - [ ] Valutare un flag per le categorie Ciao Elsa fuori dalle soglie COVIP (§5), da decidere con l'utente
-- [x] **Approfondimento verticale per fondo sulle prestazioni**: foglio `Prestazioni` (26 fondi su 38, rendita a 67 anni
-  confrontabile per 16), sezione *Alla pensione, fondo per fondo*, blocco nel dettaglio, capitolo della guida e slide
+- [x] **Approfondimento verticale per fondo sulle prestazioni**: foglio `Prestazioni` (32 fondi su 38, rendita a 67 anni
+  confrontabile per 24), sezione *Alla pensione, fondo per fondo*, blocco nel dettaglio, capitolo della guida e slide
 - [x] Cache delle formule calcolata da `workbook_utils.salva()`: niente più "apri e salva in Excel" dopo le modifiche da Python
-- [ ] Completare `Prestazioni` per i 12 fondi senza documenti (§5) e cercare i coefficienti non pubblicati (Mediolanum,
-  CNP, PensPlan Profi, Raiffeisen con rata annuale); aggiornare Plurifonds e Crédit Agricole Vita se escono documenti nuovi
+- [ ] Completare `Prestazioni` per i 6 fondi senza documenti (§5) e cercare i coefficienti non pubblicati (Mediolanum,
+  CNP, PensPlan Profi, Raiffeisen con rata annuale, Azimut e UniCredit unisex); aggiornare Plurifonds e Crédit Agricole Vita se escono documenti nuovi
 - [ ] Valutare colonne per rivalutazione (rendimento trattenuto), durata maggiore e conversione del residuo nelle nuove forme
+- [x] **Documenti ufficiali dei fondi** scaricati nel repository (`docs/documenti/`, registro `data/documenti.csv`, testo
+  per pagina da consultare), scaricabili dal dettaglio fondo: 532 documenti per 31 fondi, 438 dei 538 citati (10/10/2026);
+  tabella *Documenti da recuperare* in Qualità dei dati e cartella `documenti-da-smistare/` con `documenti.py smista`
+- [ ] Recuperare i documenti mancanti (§5): l'utente li fornirà in `documenti-da-smistare/` (Teseo, Arca, Allianz,
+  Insieme, UniCredit, Eurorisparmio, Fideuram, Il Melograno, Vittoria); in alternativa `documenti.py riprova` da un'altra rete
+- [ ] Usare i testi dei documenti per completare `Prestazioni` e verificare le anomalie della §5 (Scheda costi)
 - [ ] Simulatore dei costi (poi aggiornare guida, presentazione e screenshot)
 - [ ] Verificare le anomalie della §5 sulle Schede costi ufficiali
 - [ ] Completare i 15 fondi senza dati

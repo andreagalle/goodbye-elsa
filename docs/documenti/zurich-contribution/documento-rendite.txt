@@ -1,0 +1,248 @@
+# Fondo: FONDO PENSIONE APERTO ZURICH CONTRIBUTION (zurich-contribution)
+# Documento: Documento sulle rendite – Zurich Contribution Documento sulle rendite 072026 prot
+# Fonte: https://www.zurich.it/api/archiviodigitale/download?guid=60B5B99F-0000-C71B-BF36-46FD29FCB19F&filename=Zurich%20Contribution_Documento%20sulle%20rendite_072026_prot.pdf
+# Citato in: https://www.zurich.it/persone/risparmio-e-investimento/previdenza/zurich-contribution
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: a178fc4f6fe7d3e11be78d7990423e7c66199904050c010b2ffa16f2405caba9
+# Pagine: 3
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Zurich Contribution 
+Documento sulle rendite 
+ 
+07.2026 Pag. 1 di 3 
+Zurich Contribution 
+Fondo Pensione Aperto  
+Iscritto all’apposito albo tenuto dalla COVIP con il n. 37 
+ 
+ 
+ 
+Documento sulle rendite 
+ 
+Il presente documento contiene le informazioni relative alle prestazioni pensionistiche in rendita vitalizia e alle Altre prestazioni 
+pensionistiche, alternative alla rendita vitalizia, previste dal 1° luglio 2026. 
+ 
+ 
+1. Prestazioni Pensionistiche in rendita vitalizia 
+A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita vitalizia immediata c alcolata in base 
+alla posizione individuale maturata, al netto della eventuale quota di prestazione da erogare sotto forma di capitale, delle eventuali somme 
+già liquidate a titolo di anticipazione o di riscatto parziale e delle imposte dovute. 
+ 
+L’aderente, in luogo della rendita vitalizia immediata, può richiedere l’erogazione delle prestazioni in una delle forme di seguito indicate: 
+• una rendita vitalizia reversibile: detta rendita è corrisposta all’Aderente finché è in vita e successivamente, in misura totale o per quota 
+scelta dall’Aderente stesso, alla persona da lui designata finché è in vita. 
+• una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi cinque anni all’Aderente o, in caso di suo decesso, 
+alla persona da lui designata. Successivamente se l’Aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia. 
+ 
+1.1 Determinazione dell’ammontare della rendita vitalizia 
+L’importo della rendita vitalizia si ottiene moltiplicando il capitale maturato alla data di accesso alla prestazione, diminuito della eventuale 
+parte di prestazione da erogare sotto forma di capitale,  delle eventuali somme già liquidate e delle imposte dovute, per il coefficiente di 
+conversione in rendita in vigore alla data di accesso alla prestazione, e dividendo il risultato così ottenuto per mille.  
+ 
+I coefficienti di conversione del capitale in rendita attualmente in vigore sono riportati nell’allegato 2 “Condizioni e modalità di erogazione 
+delle rendite” del Regolamento. Tali coefficienti possono essere variati, con le modalità indicate all’art. 12 del Regolamento. 
+I coefficienti di conversione del capitale in rendita determinano l’importo della rendita annua assicurata iniziale. 
+ 
+1.2 Erogazione della rendita vitalizia 
+La rendita è erogata annualmente e in modo posticipato. In alternativa, l’Aderente può chiedere per iscritto alla Compagnia, 
+contestualmente alla richiesta di liquidazione della prestazione pensionistica, che la rendita sia erogata con rateazione men sile, o 
+trimestrale, o semestrale.  
+ 
+1.3 Costo per il pagamento della rendita vitalizia 
+I costi applicati per la gestione ed il pagamento della rendita vitalizia,  della rendita vitalizia  reversibile o della  rendita certa e 
+successivamente vitalizia sono i seguenti: 
+• un costo dell’1,25% già ricompreso nei coefficienti di conversione;  
+• un costo in cifra fissa di 2,50 Euro prelevato da ciascuna rata di rendita pagata; 
+• una spesa di gestione pari a 0,75% prelevata dal rendimento annuo della gestione separata “Zurich Trend” come indicato al 
+successivo punto 1.4. 
+ 
+1.4 Rivalutazione della rendita vitalizia 
+In fase di erogazione della rendita annua vitalizia, della rendita vitalizia reversibile o della rendita certa e successivamente vitalizia, Zurich 
+riconosce una rivalutazione annua della prestazione assicurata derivante dalla gestione degli investimenti denominata Zurich Trend. Tale 
+gestione è separata dalle altre attività della Compagnia ed è disciplinata da apposito regolamento riportato nell’allegato 2 “Condizioni e 
+modalità di erogazione delle rendite” del Regolamento. 
+ 
+A) Misura della rivalutazione 
+ 
+Zurich, entro il mese di dicembre di ciascun anno, determina il rendimento annuo realizzato dalla gestione separata “Zurich T rend” nel 
+periodo di osservazione. Per periodo di osservazione si intende il periodo di 12 mesi che si è concluso al 30 settembre p recedente 
+(periodo di osservazione 1/10-30/09). La misura di rivalutazione è pari al rendimento realizzato nel periodo di osservazione sopra indicato, 
+al netto delle spese di gestione pari a 0,75%. La misura di rivalutazione non potrà in ogni caso essere negativa. 
+ 
+B) Modalità di calcolo della rivalutazione 
+ 
+Ad ogni anniversario della data di decorrenza, la rendita assicurata, comprensiva di eventuali precedenti rivalutazioni, viene incrementata 
+della misura di rivalutazione indicata al precedente punto A).
+=== pagina 2 ===
+Zurich Contribution 
+Documento sulle rendite 
+ 
+07.2026 Pag. 2 di 3 
+ 
+ 
+2. Altre Prestazioni Pensionistiche 
+In alternativa alla rendita vitalizia, l’Aderente può richiedere, al netto della eventuale quota di prestazione erogata sotto forma di capitale, 
+l’erogazione della prestazione pensionistica in una delle seguenti forme:  
+a) Rendita a durata definita 
+b) Prelievi liberamente determinabili 
+ 
+Le prestazioni di cui alle lett. a) e b) non sono tra loro cumulabili e non possono essere revocate una volta iniziata la liq uidazione, salvo 
+che l’Aderente opti per la conversione del montante residuo in una rendita vitalizia immediata. 
+Il montante residuo verrà investito nel comparto scelto dall’Aderente al momento della richiesta di una delle prestazioni di cui alle lettere 
+a) e b), o, in difetto di indicazioni, nella Linea  “Garantita”. Nel periodo di erogazione, l’Aderente potrà cambiare il comparto (“switch”) con 
+le modalità indicate nell'articolo 6, comma 2 del Regolamento. 
+Dal momento dell'accesso alla prestazione, l' Aderente non può esercitare le prerogative individuali tipiche della fase di accumulo 
+(trasferimenti, anticipazioni, RITA), né proseguire la contribuzione, salvo il caso in cui attivi un nuovo rapporto di lavoro  con maturazione 
+di TFR; 
+Al momento della richiesta di una delle prestazioni di cui alle lettere a) e b), l’Aderente dovrà indicare i soggetti che pos sono riscattare 
+l’eventuale capitale residuo in caso di decesso. Tale scelta potrà essere successivamente modificata dall’aderente nel corso della fase 
+di erogazione. 
+ 
+PERIODO TRANSITORIO PER LA GESTIONE DELLE NUOVE RICHIESTE DI PRESTAZIONE 
+ 
+Al fine di consentire alle forme pensionistiche complementari di adeguare in maniera ordinata i sistemi e i processi operativ i interni per 
+la gestione delle richieste e l’erogazione delle prestazioni di cui all’art. 11, comma 3 -bis, del D. lgs. 252/2005, è  previsto dalle Istruzioni 
+COVIP del 25 giugno 2026 un periodo transitorio durante il quale le forme pensionistiche sono comunque tenute ad acquisire le richieste 
+degli iscritti di accedere alle nuove prestazioni ma possono procedere alla liquidazione e al l’erogazione delle nuove prestazioni 
+successivamente all’avvenuto adeguamento (che dovrà avvenire entro il 31 dicembre 2026).  
+ 
+ 
+2.1 Rendita a durata definita:  
+La rendita a durata definita  è una prestazione erogata, in modo posticipato , per un periodo predeterminato sulla base della vita attesa 
+residua dell’Aderente, calcolata in funzione delle tavole ISTAT utilizzate per il calcolo dei coefficienti della previdenza obbligatoria.  
+L’importo di ciascuna rata non è fisso, ma viene ricalcolato a ogni scadenza dividendo il montante disponibile alla data di liquidazione per 
+il numero di rate ancora da erogare; l’importo è pertanto variabile in funzione dei risultati della gestione finanziaria. 
+In particolare, a ciascuna rata di rendita corrisponde un prefissato numero di quote e frazioni di quota del comparto in cui risulta investito 
+il montante residuo, ottenuto dividendo il numero complessivo di quote corrispondente all’importo del montante convertito in rendita per 
+il numero di rate da erogare. L’importo della rata di rendita varia in funzione del valore della quota alla data di liquidazione della stessa. 
+Al momento della richesta della prestazione, l’Aderente dovrà indicare la periodicità delle rate che potrà essere trimestrale, semestrale o 
+annuale.  
+Su ciascuna rata di rendita erogata verrà applicato un costo amministrativo in cifra fissa,  pari a 2,00 euro, trattenuto da ciascuna rata al 
+momento dell’erogazione. 
+ 
+Esempio: Rendita a durata definita 
+Ipotesi:  
+- montante disponibile alla data di richiesta della prestazione 190.000 € (1.900 quote ipotizzando un valore della quota pari 
+a 100);  
+- durata rendita 19 anni; erogazione annua posticipata;  
+ 
+Anno Controvalore 
+Montante (€) 
+valore 
+quota 
+n. quote 
+disponibile 
+Rate ancora 
+da erogare 
+n. quote 
+disinvestite 
+per rata 
+Importo 
+lordo rata 
+(€) 
+Importo 
+netto rata 
+(€) 
+n. quote 
+residuo 
+Montante 
+residuo (€) 
+0 190.000 100  1.900          1.900  190.000  
+1 171.000 90  1.900  19 100  9.000  8.998  1.800  162.000  
+2 190.800 106  1.800  18 100  10.600  10.598  1.700  180.200  
+3 176.800 104  1.700  17 100  10.400  10.398  1.600  166.400  
+ 
+Avvertenza: L’esempio sopra riportato è stato elaborato sulla base di specifiche ipotesi tecnico -attuariali adottate esclusivamente a fini 
+illustrativi. I dati riportati hanno carattere indicativo e non impegnano in alcun modo la Compagnia.
+=== pagina 3 ===
+Zurich Contribution 
+Documento sulle rendite 
+ 
+07.2026 Pag. 3 di 3 
+ 
+2.2 Prelievi liberamente determinabili 
+I prelievi liberamente determinabili costituiscono una prestazione pensionistica alternativa alla rendita vitalizia, mediante la quale 
+l'aderente può richiedere, tempo per tempo, prelievi sul montante maturato, c on libertà di scelta in ordine all'importo e alla tempistica, 
+entro i limiti di seguito indicati. 
+I prelievi liberi possono essere richiesti dall’Aderente, una volta all’anno e per un importo massimo pari alla somma delle rate, maturate e 
+non riscosse, di una rendita teorica con frazionamento annuale, immediatamente erogabile e di durata definita pari alla vita attesa residua, 
+in anni interi, dell’aderente al momento della richiesta della prestazione.  
+A partire dalla decorrenza dell’ultimo anno di durata della rendita teorica l’importo massimo prelevabile è pari al montante residuo. 
+In particolare, posto che a ciascuna rata di rendita teorica corrisponde lo stesso numero di quote e frazioni di quota del comparto in cui 
+risulta investito il montante residuo - ottenuto dividendo il numero di quote corrispondente all’importo del montante al momento iniziale 
+di richiesta della prestazione per il numero delle rate - l’importo massimo che può essere prelevato è determinato moltiplicando il valore 
+della quota alla d ata di liquidazione del prelievo per la differenza tra il numero di quote (e frazioni di quote) relative alle rate di rendita  
+maturate e il numero di quote (e frazioni di quote) già utilizzate per prelievi precedentemente erogati. 
+Su ciascun prelievo liberamente determinabile erogato verrà applicato un costo amministrativo in cifra fissa,  pari a 2,00 euro, trattenuto 
+da ciascun importo prelevato al momento dell’erogazione. 
+ 
+Esempio: Prelievi liberamente determinabili 
+Ipotesi:  
+- montante disponibile alla data di richiesta della prestazione 190.000 € (1.900 quote ipotizzando un valore della quota pari 
+a 100);  
+- durata rendita teorica 19 anni;  
+ 
+Anno 
+Controvalore 
+Montante 
+(€) 
+valore 
+quota 
+n. quote 
+disponibili 
+n. 
+quote 
+rate 
+rendita 
+teorica 
+n. quote 
+massimo 
+prelevabile 
+Importo 
+massimo 
+prelevabile 
+(€) 
+n. quote 
+prelevato 
+Importo 
+lordo 
+prelevato (€) 
+Importo 
+netto 
+prelevato 
+(€) 
+n. 
+quote 
+residuo 
+Montante 
+residuo 
+(€) 
+0 190.000 100 1.900             1.900 190.000 
+1 171.000 90 1.900 100 100 9.000 60 5.400 5.398 1.840 165.600 
+2 195.040 106 1.840 100 140 14.840 140 14.840 14.838 1.700 180.200 
+3 176.800 104 1.700 100 100 10.400 100 10.400 10.398 1.600 166.400 
+ 
+Avvertenza: L’esempio sopra riportato è stato elaborato sulla base di specifiche ipotesi tecnico -attuariali adottate esclusivamente a fini 
+illustrativi. I dati riportati hanno carattere indicativo e non impegnano in alcun modo la Compagnia. 
+ 
+ 
+3. Documentazione 
+Per richiedere l’erogazione dell e prestazioni pensionistiche  è necessario inviare una comunicazione scritta a Zurich  con le seguenti 
+modalità: 
+ 
+− a mezzo raccomandata con ricevuta di ritorno al seguente indirizzo: 
+ 
+Zurich Investments Life S.p.A. 
+Life Operations - Ufficio Pension Products Ops & Service 
+Via Benigno Crespi 23, 20159 Milano 
+ 
+oppure 
+ 
+− a mezzo PEC (Posta Elettronica Certificata) al seguente indirizzo: previdenzacomplementare@pec.zurich.it  
+ 
+ 
+Per agevolare l’invio delle richieste, sono disponibili e possono essere richiesti i fac-simile di domanda: 
+• presso Zurich Investments Life S.p.A. - Ufficio Pension Products Ops & Service - Via Benigno Crespi, 23 - 20159 Milano - Italia; 
+• sul sito internet della Compagnia www.zurich.it; 
+• presso l’intermediario.

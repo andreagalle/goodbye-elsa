@@ -1,0 +1,24 @@
+# Fondo: FONDO PENSIONE APERTO IL MIO DOMANI (il-mio-domani)
+# Documento: Metodologia delle proiezioni – Limitazione delle Metodologie e dei Dati
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/informativa-sulla-sostenibilit%C3%A0/006/Limitazione%20delle%20metodologie%20e%20dei%20dati.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/il-mio-domani.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 34c4eb1da9b9bd85b7019fd0e4a86dd5a1a328b7cdd98c9da464364606d88915
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Accessibilità per i documenti non web | Documento WORD   1  
+ 
+INFORMATIVA SULLA SOSTENIBILITÀ  
+“Il Mio Domani” 
+Data di pubblicazione 30/03/202 5 
+Limitazione delle metodologie e dei dati  
+Qualora l’info-provider non fornisca il dato relativo al rating ESG degli investimenti 
+presenti nei portafogli, il dato non è considerato ai fini del calcolo del rating ESG 
+medio di portafoglio. In ogni caso, tale limitazione non pregiudica la promozione 
+delle caratteristiche ambientali o sociali in quanto la strategia di investimento 
+prevede il mantenimento della soglia minima del rating ESG medio di portafoglio 
+pari o superiore a BBB. Inoltre, gli investimenti privi di rating risultano solo per una 
+quota ridotta del portafoglio, avendo i dati dell’info provider utilizzato una 
+copertura elevata.

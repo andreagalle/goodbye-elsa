@@ -34,6 +34,8 @@ jobs:
 
       - name: Export del workbook (fallisce se ci sono errori di schema)
         run: python scripts/export_xlsx.py
+      - name: Indice dei documenti ufficiali dei fondi (senza rete, controlla registro e file)
+        run: python scripts/documenti.py indice
       - name: Test (schema, versioni, smoke test del sito)
         run: python -m unittest discover -s tests -v
 

@@ -1,0 +1,1370 @@
+# Fondo: ARTI & MESTIERI - FONDO PENSIONE APERTO (arti-e-mestieri)
+# Documento: Documento sulla politica di investimento – il
+# Fonte: https://www.animasgr.it/d/IT/Downloads/Documents/FP_documento%20attuazione%20politica%20di%20investimento.pdf
+# Citato in: https://www.animasgr.it/IT/investitore-privato/come-investire/Pagine/documentazione-legale.aspx?areas=2
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 8ddd52e349d45f769487cb1d0d75c3c7a9ddd2b7b1372b5e10045bcc2c1975d4
+# Pagine: 25
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+ 
+Documento sul processo di attuazione del la politica di investimento del fondo 
+pensione “Arti & Mestieri”, adottato  in ottemperanza alla deliberazione della 
+Commissione di Vigilanza sui Fondi Pensione (COVIP) del 16 marzo 2012. 
+ 
+Consiglio di Amministrazione del 29 giugno 2026 
+(in vigore dal 31 luglio 2026) 
+ 
+Premessa 
+Il presente documento ha lo scopo di definire la strategia finanziaria che la forma pensionistica intende  attuare 
+per ottenere, dall’impiego delle risorse affidate, combinazioni rischio -rendimento efficienti nell’arco temporale 
+coerente con i bisogni previdenziali degli aderenti. 
+Il documento individua gli obiettivi da realizzare nella gestione finanziaria, i criteri da seguire nella sua attuazione, 
+i compiti e le responsabilità dei soggetti coinvolti nel processo ed il sistema di controllo e valutazione dei risultati 
+conseguiti. 
+Introduzione 
+ “Arti & Mestieri - Fondo pensione aperto” (di seguito “Fondo”) è finalizzato all’erogazione di trattamenti 
+pensionistici complementari del sistema previdenziale obbligatorio, ai sensi del D. Lgs. 5 dicembre 2005, n. 252 
+(di seguito “Decreto”). Il Fondo, iscritto all’Albo tenuto dalla COVIP al n. 63, gestito da Anima SGR S.p.A. (di 
+seguito “SGR”), Società di gestione del risparmio, con socio unico, appartenente al Gruppo Bancario Banco BPM 
+e soggetta ad attività di direzione e coordinamento di Banco BPM S.p.A., ha lo scopo di consentire all’aderente 
+di percepire una pensione complementare (rendita) che si aggiunge alle prestazioni attese dal sistema 
+pensionistico pubblico. Tale scopo è perseguito mediante la raccolta delle somme versate dagli aderenti 
+(contributi) e il successivo investimento in strumenti finanziari, nel  loro esclusivo interesse sulla base delle 
+opzioni di investimento dagli stessi prescelte. Il Fondo è rivolto a tutti coloro che intendono realizzare un piano 
+di previdenza complementare su base individuale. Possono inoltre aderire, su base collettiva, i lavoratori nei cui 
+confronti trovano applicazione i contratti, gli accordi o i regolamenti aziendali che prevedono l’adesione al 
+Fondo. Ai sensi dell’Art. 8 comma 7 del Decre to, l’adesione al Fondo su base collettiva può avvenire anche 
+mediante conferimento tacito del TFR maturando. 
+Arti & Mestieri è un Fondo pensione aperto, costituito in forma di patrimonio autonomo e separato da quello 
+della SGR, operante in regime di contribuzione definita. L’entità della prestazione pensionistica è determinata in 
+funzione della contribuzione effe ttuata e dei relativi rendimenti. L’adesione è libera e volontaria. La 
+partecipazione alle forme pensionistiche complementari disciplinate dal Decreto consente all’iscritto di ottenere 
+benefici fiscali sui contributi versati nel fondo e sui rendimenti conseguiti nella fase di accumulo. La tassazione 
+applicata sulle prestazioni pensionistiche erogate dal fondo risulta tanto più agevolata quanto più duratura è la 
+permanenza nel fondo. 
+La misura e la periodicità della contribuzione (mensile, trimestrale, semestrale o annuale) sono scelte liberamente 
+dall'aderente al momento dell'adesione e possono essere successivamente variate. 
+ 
+Obiettivi della Politica d’Investimento 
+L’articolazione delle opzioni d’investimento del Fondo pensione si basa su una ripartizione in sette Comparti (o 
+linee di investimento) caratterizzati da differenti profili di rischio/rendimento. 
+In conformità e nei limiti stabiliti dalla normativa vigente , il Fondo adotta per ogni Comparto  uno specifico 
+“benchmark”, ovvero un parametro oggettivo di riferimento finalizzato ad esprimere l’asset allocation strategica
+=== pagina 2 ===
+2 
+ 
+ 
+di lungo periodo del medesimo. Il “benchmark”, costituito da un singolo indice o da una composizione di indici 
+finanziari elaborati da soggetti terzi e di comune utilizzo, esprime il profilo di rischio /rendimento 
+dell’investimento e le opportunità del mercato in cui tipicamente il Comparto investe. Pertanto, tale parametro 
+oggettivo di riferimento, col quale rapportare anche l’andamento del Comparto, è coerente con i rischi connessi 
+alla gestione del Comparto stesso. 
+Il disegno delle linee di investimento è completato con la definizione delle politiche d’investimento espresse nella 
+Documentazione d’offerta, comprensiva del Regolamento approvato dal Consiglio di Amministrazione di Anima 
+SGR (di seguito anche CDA). Tale politica definisce le asset class e i limiti/vincoli di investimento previsti per i 
+diversi Comparti. 
+ 
+In merito all’analisi delle caratteristiche socio-demografiche della potenziale popolazione di riferimento, il Fondo 
+istituito e gestito da Anima SGR per sua natura e definizione non si rivolge ad una predeterminata categoria di 
+soggetti, bensì ad una popolazione indefinita di potenziali investitori, eterogenea sotto i profili della provenienza, 
+degli obiettivi di investimento, del livello di retribuzione, nonché del tasso di sostituzione atteso (rapporto atteso 
+tra l’ultimo stipendio/reddito percepito/ dichiarato dall’aderente prima di andare in pensione e la pensione 
+pubblica). 
+Per le suddette ragioni, per il fondo pensione aperto qui considerato, si ritiene che non sia possibile procedere ad 
+un’analisi delle caratteristiche socio -demografiche della popolazione di riferimento e dei suoi bisogni 
+previdenziali. Il fondo pensione aperto istituito e gestito da Anima SGR, infatti, per sua stessa natura già definisce 
+a priori la propria asset allocation declinata nei diversi comparti, con l’obiettivo di rispondere alle molteplici 
+esigenze di una popolazione estesa, indefinita ed eterogenea di potenziali aderenti.  
+ 
+Pertanto, il rendimento che il singolo aderente può attendersi dall'investimento è commisurato al livello di rischio 
+che decide di assumere  in fase di scelta del Comparto (o combinazione di Comparti) che, in base alle proprie 
+valutazioni, meglio risponde alle proprie esigenze. In termini generali, ad un minore  livello di rischio assunto, 
+possono corrispondere minori (ma tendenzialmente più stabili) rendimenti attesi nel tempo. Al contrario, livelli 
+di rischio più alti possono dar luogo a risultati di maggio re soddisfazione, ma anche ad una probabilità più alta 
+di perdita nel breve periodo. Linee di investimento più rischiose non sono, in genere, particolarmente adatte a chi 
+è prossimo al pensionamento , mentre possono rappresentare una opportunità interessante per i soggetti più 
+giovani, con obiettivi su orizzonti temporali di più lungo periodo. 
+I rendimenti passati non sono indicativi di quelli futuri  (non sussiste, infatti, alcuna certezza sul fatto che negli 
+anni a venire i risultati possano essere in linea con quelli ottenuti in precedenza) , tuttavia possono costituire un 
+valido riferimento in termini di rischiosità . Per una valutazione di massima del potenziale di crescita 
+dell’investimento nel lungo termine si può, invece, far riferimento alle analisi che seguono. 
+ 
+Nella tabella sotto riportata viene illustrato il possibile rendimento atteso medio annuo dei diversi Comparti del 
+Fondo Pensione su un orizzonte temporale di medio-lungo periodo (fatta eccezione per il comparto Garanzia 1+ 
+con orizzonte di breve periodo ), ipotizzando che le relative misure di variabilità, calcolate come media della 
+volatilità standard annualizzata sull’orizzonte temporale di riferimento, possano mantenersi costanti nel tempo. I 
+numeri ivi esposti rappresentano valori riferibili esclusivamente alle possibili dinamiche di mercato e gestionali 
+e sono espressi sia al lordo di costi, commissioni e fiscalità sia al netto di costi, commissioni  e al lordo della 
+fiscalità. Ciascun sottoscrittore potrà valutare tali risultati tenuto conto della modalità di adesione e della specifica 
+classe del proprio Comparto di riferimento (modalità di adesione collettiva , modalità di adesione individuale e 
+classe D). Tali valutazioni discendono da ipotesi formulate sui presumibili rendimenti attesi delle asset class di 
+riferimento per l’investimento, tenuto conto di un possibile scenario di crescita economica “normale” (inerziale, 
+inteso come proiezione del ciclo economico in condizioni “normali” macro-finanziarie). 
+La stima di tali rendimenti è calcolata come media tra le previsioni ottenute tramite opportuna modellistica 
+interna, le rilevazioni di consenso di mercato  e le rilevazioni prodotte da operatori professionali di mercato . 
+Ciascun valore medio viene integrato con la relativa stima del valore aggiunto derivante dall’attività di gestione.
+=== pagina 3 ===
+3 
+ 
+ 
+ 
+ SCENARIO DI CRESCITA “NORMALE” 
+ 
+RENDIMENTO 
+ANNUO 
+ATTESO ASSET 
+CLASS * 
+ALLOCAZIONE 
+   GARANZIA 1+ CONSERVAZI
+ONE 3+ 
+EQUILIBRIO 
+5+ 
+INCREMENTO 
+& GARANZIA 
+5+ 
+RIVALUTAZIO
+NE 10+ SVILUPPO 15+ CRESCITA 25+ 
+             
+AZIONARIO 
+GLOBALE 6.9%    20.0%  20.0% 20.0% 20.0% 
+AZIONARIO 
+GLOBALE (EUR-H) 6.0%  
+ 
+ 
+ 
+20.0% 40.0% 60.0% 
+AZIONARIO EURO 6.6%     20.0%     
+             
+OBBLIGAZIONARIO 
+EURO 3.2%   20.0% 40.0% 20.0% 20.0% 10.0%   
+OBBLIGAZIONARIO 
+GLOBALE 4.2%   20.0%       
+OBBLIGAZIONARIO 
+GLOBALE (EUR-H) 3.2%   10.0% 
+ 
+20.0% 10.0%  
+CORPORATE BOND 
+EURO 3.4%   20.0% 15.0% 
+10.0% 
+10.0% 10.0%  
+MONETARIO – 
+LIQUIDITÀ 2.3% 100.0% 40.0% 15.0% 50.0% 10.0% 10.0% 20.0% 
+ RENDIMENTI LORDI** 
+RENDIMENTI ANNUI ATTESI 
+PONDERATI 
+(Nominali) 
+2.3% 3.3% 4.3% 3.7% 5.0% 5.6% 6.3% 
+RENDIMENTI ANNUI ATTESI 
+PONDERATI  
+(Reali) 
+0.3% 1.3% 2.3% 1.7% 3.0% 3.6% 4.3% 
+ RENDIMENTI NETTI – ADESIONE INDIVIDUALE***  
+RENDIMENTI ANNUI ATTESI 
+PONDERATI 
+(Nominali) 
+1.5% 2.2% 3.0% 2.8% 3.3% 3.9% 4.4% 
+RENDIMENTI ANNUI ATTESI 
+PONDERATI  
+(Reali) 
+-0.5% 0.2% 1.0% 0.8% 1.3% 1.9% 2.4% 
+ RENDIMENTI NETTI – ADESIONE COLLETTIVA*** 
+RENDIMENTI ANNUI ATTESI 
+PONDERATI 
+(Nominali) 
+1.7% 2.6% 3.5% 3.0% 4.1% 4.7% 5.3% 
+RENDIMENTI ANNUI ATTESI 
+PONDERATI  
+(Reali) 
+-0.3% 0.6% 1.5% 1.0% 2.1% 2.7% 3.3% 
+ RENDIMENTI NETTI – CLASSE D*** 
+RENDIMENTI ANNUI ATTESI 
+PONDERATI 
+(Nominali) 
+2.0% 2.9% 3.8% 3.1% 4.5% 5.1% 5.7% 
+RENDIMENTI ANNUI ATTESI 
+PONDERATI  
+(Reali) 
+0.0% 0.9% 1.8% 1.1% 2.5% 3.1% 3.7% 
+  
+STIMA INFLAZIONE**** 2.0% 2.0% 2.0% 2.0% 2.0% 2.0% 2.0% 
+ 
+* Le ipotesi di rendimento utilizzate per le asset class sono al lordo di costi, commissioni e fiscalità, hanno valore puramente indicativo 
+e non costituiscono in alcun modo una garanzia o promessa di rendimento futuro . Tali ipotesi di rendimento non tengono conto della 
+stima del valore aggiunto derivante dall’attività di gestione 
+** Le ipotesi di rendimento utilizzate per i Comparti sono al lordo di costi, commissioni e fiscalità, hanno valore puramente indicativo e 
+non costituiscono in alcun modo una garanzia o promessa di rendimento futuro. Tali ipotesi di rendimento tengono conto della stima del 
+valore aggiunto derivante dall’attività di gestione 
+*** Le ipotesi di rendimento utilizzate per i Comparti sono al netto di costi, commissioni e al lordo della fiscalità, hanno valore puramente 
+indicativo e non costituiscono in alcun modo una garanzia o promessa di rendimento futuro . Tali ipotesi di rendimento tengono conto 
+della stima del valore aggiunto derivante dall’attività di gestione
+=== pagina 4 ===
+4 
+ 
+ 
+**** Stima basata su dati di Inflazione Media Annua ricavati tramite interpolazione lineare a partire dalle previsioni di inflazione annua 
+IMF Italia W.E.O. (dati a marzo 2026) 
+ 
+Ai fini di una valutazione indicativa delle potenzialità di rendimento dei diversi Comparti alla data di 
+aggiornamento del presente documento, nella tabella seguente viene riportata per ciascuno di essi la probabilità 
+di shortfall, ovvero la probabilità che il rendimento medio annuo del singolo Comparto sia inferiore a zero 
+(probabilità di rendimento nominale negativo) o, alternativamente, sia inferiore all’obiettivo d’inflazione medio 
+annuo per l’Italia previsto dal Fondo Monetario Internazionale a marzo 2026 coerente con l’orizzonte temporale 
+d’investimento di ciascun comparto (probabilità di rendimento reale negativo). Le diverse probabilità sono  
+calcolate, tramite opportune simulazioni stocastiche, sulla base dei rendimenti attesi indicati nella tabella sopra 
+riportata (scenario di crescita “normale”) in relazione all’orizzonte temporale indicato per ciascun comparto nella 
+Nota Informativa. Tali indicazioni andranno interpretate dagli iscritti alla luce della modalità di adesione e dei 
+costi applicabili alla specifica classe del proprio Comparto di riferimento. 
+ 
+ 
+ GARANZIA 
+1+ 
+CONSERVAZ
+IONE 3+ 
+EQUILIBRIO 
+5+ 
+INCREMENT
+O & 
+GARANZIA 
+5+ 
+RIVALUTAZI
+ONE 10+ 
+SVILUPPO 
+15+ 
+CRESCITA 
+25+ 
+Orizzonte Temporale (anni) 1 3 5 5 10 15 20 
+Volatilità Stimata 0.2% 2.2% 3.7% 4.0% 6.1% 9.1% 12.3% 
+Probabilità di Shortfall 
+RENDIMENTI 
+LORDI 
+Probabilità Rendimento 
+< 0% 0.0% 2.2% 1.3% 2.6% 1.0% 1.7% 2.3% 
+Probabilità Rendimento 
+inferiore all’inflazione  40.1% 20.3% 11.8% 18.5% 8.0% 9.4% 10.3% 
+RENDIMENTI 
+NETTI – 
+ADESIONE 
+INDIVIDUALE 
+Probabilità Rendimento 
+< 0% 3.4% 7.1% 5.9% 6.2% 5.5% 7.3% 8.8% 
+Probabilità Rendimento 
+inferiore all’inflazione  71.2% 43.1% 29.7% 32.4% 27.3% 23.9% 25.5% 
+RENDIMENTI 
+NETTI – 
+ADESIONE 
+COLLETTIVA 
+Probabilità Rendimento 
+< 0% 1.8% 4.8% 3.3% 5.2% 2.8% 3.9% 5.3% 
+Probabilità Rendimento 
+inferiore all’inflazione  63.6% 33.7% 21.9% 29.9% 16.7% 16.7% 17.2% 
+RENDIMENTI 
+NETTI – 
+CLASSE D 
+Probabilità Rendimento 
+< 0% 0.4% 3.1% 2.3% 4.8% 1.8% 2.8% 3.9% 
+Probabilità Rendimento 
+inferiore all’inflazione  52.7% 27.3% 17.1% 26.5% 12.2% 13.3% 14.5% 
+ 
+Si osserva che per tutti i Comparti vengono stimate probabilità elevate di conseguire rendimenti positivi sul 
+rispettivo orizzonte temporale di riferimento come risultato delle stime di rendimento interessanti sia per l’asset 
+class azionaria che obbligazionaria. Le probabilità di rendimenti reali positivi sono tendenzialmente più elevate 
+per i Comparti con orizzonte temporale di riferimento maggiore di 3 anni per effetto della maggiore quota di asset 
+class azionaria in portafoglio e delle aspettative di convergenza delle dinamiche inflattive verso l’obiettivo di 
+medio periodo del 2% annuo fissato dalla BCE. 
+Modalità di adesione al Fondo 
+ 
+Per gli aderenti al Fondo su base individuale la misura e la periodicità della contribuzione (mensile, trimestrale, 
+semestrale o annuale) sono scelte liberamente dall'aderente al momento dell'adesione e possono essere 
+successivamente variate. I lavoratori dipendenti possono contribuire destinando al fondo anche il flusso di TFR 
+maturando, versato per il tramite del datore di lavoro.  
+Per i lavoratori dipendenti che aderiscono su base collettiva, la misura della contribuzione, la decorrenza e la 
+periodicità dei versamenti sono fissate dal contratto o accordo collettivo o regolamento aziendale o accordo
+=== pagina 5 ===
+5 
+ 
+ 
+plurimo che prevede l’adesione, fatta salva la possibilità del lavoratore di determinare la contribuzione a proprio 
+carico anche in misura superiore.  
+È, altresì, consentita l’adesione di familiari fiscalmente a carico, anche minorenni.  
+ 
+L’aderente, all’atto dell’adesione, può scegliere uno o due Comparti nei quali far confluire le contribuzioni, con 
+facoltà di modificare nel tempo tale destinazione. L’aderente può inoltre riallocare la propria posizione 
+individuale tra due diversi Comparti, nel rispetto del periodo minimo di un anno dall’iscrizione ovvero dall’ultima 
+riallocazione; in questo caso i versamenti contributivi successivi sono suddivisi sulla base delle nuove percentuali 
+fissate all’atto della riallocazione, salvo diversa dispos izione dell’aderente. Il limite del periodo di permanenza 
+minimo non opera con riguardo al TFR conferito tacitamente.  
+In conseguenza a quanto sopra, l’impiego dei contributi avviene sulla base della scelta di investimento operata 
+dall’aderente tra i diversi Comparti del Fondo. 
+In particolare, ove l’aderente ritenga che le caratteristiche dei singoli Comparti prescelti non siano più adeguate 
+rispetto alle sue attuali esigenze di investimento, il Fondo consente all’aderente di ripartire tra più Comparti il 
+flusso contributivo o la posizione individuale eventualmente già maturata. In questo caso l’aderente deve porre 
+particolare attenzione alle scelte effettuate di sua iniziativa e considerare che il profilo di rischio/rendimento 
+dell'investimento prescelto non corrisponde a quello di uno specifico e singolo Comparto bensì deriva dalla 
+combinazione dei Comparti oggetto di investimento. Più in dettaglio, l’aderente ha la facoltà di ripartire la propria 
+posizione individuale maturata e/o il flusso contributivo su due Comparti, distribuendo l’investimento mediante 
+i seguenti criteri: 
+• criterio percentuale (ad esempio 30% su un Comparto e 70% su un altro); 
+• nel caso in cui la contribuzione sia composta dai seguenti elementi: TFR, contributo del dipendente e 
+contributo del datore di lavoro - se previsto - l’aderente ha la possibilità di investire la quota di TFR in 
+un Comparto ed investire il proprio contribut o e quello (eventuale) del datore di lavoro su un altro 
+Comparto.  
+L’esercizio di tale facoltà rimette al singolo aderente la definizione del profilo di rischio/rendimento, il quale, 
+pertanto, non sarà più corrispondente a quello rappresentato dai singoli Comparti. 
+Naturalmente, prima di effettuare la scelta di investimento, è importante che l’aderente stabilisca il livello di 
+rischio che è disposto a sopportare, considerando, oltre alla sua personale propensione o avversione al rischio, 
+anche altri fattori tra i quali: 
+• l'orizzonte temporale che lo separa dal pensionamento; 
+• l’eventuale esigenza di dover ricorrere in un secondo momento ad un anticipo sul capitale maturato nel 
+fondo per l’acquisto della prima casa per sé o per i figli; 
+• la ricchezza individuale; 
+• i flussi di reddito che si aspetta per il futuro e la loro variabilità. 
+L’importanza di tale scelta è cruciale dal momento che il rendimento che l’aderente può attendersi dal  proprio 
+investimento è strettamente legato al livello di rischio che decide di assumere. 
+Caratteristiche dei Comparti e criteri di attuazione della politica d’investimento  
+Il Fondo è articolato in sette Comparti, di seguito elencati: 
+ 
+- Comparto Crescita 25+; 
+- Comparto Sviluppo 15+ 
+- Comparto Rivalutazione 10+; 
+- Comparto Incremento e garanzia 5+ (riservato ad accogliere esclusivamente le adesioni tacite) 
+(il Comparto Incremento e garanzia 5+ già destinato al conferimento tacito del TFR, a far data dal 1 ° aprile 
+2013 non può più essere sottoscritto in forma esplicita da nuovi aderenti, né può essere scelto per operazioni di 
+trasferimento da altr a forma di previdenza complementare o di riallocazione del capitale maturato in altri 
+comparti del fondo o di riallocazione dei flussi futuri di contribuzione, ma è riservato esclusivamente alle 
+adesioni tacite);
+=== pagina 6 ===
+6 
+ 
+ 
+- Comparto Equilibrio 5+ 
+- Comparto Conservazione 3+; 
+- Comparto Garanzia 1+. 
+La SGR effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e condizioni stabiliti dalla normativa 
+vigente e dal Regolamento del Fondo, assumendo a riferimento l’esclusivo interesse degli aderenti. La SGR può 
+effettuare l’investimento delle ris orse in Organismi di Investimento Collettivo del Risparmio (di seguito 
+denominati “OICR”), purché i loro programmi ed i limiti di investimento siano compatibili con quelli dei 
+Comparti del Fondo che ne prevedono l’acquisizione. Si intendono per OICR gli or ganismi di investimento 
+collettivo rientranti nell’ambito di applicazione della direttiva 2009/65/CE (OICVM italiani e UE), i FIA italiani 
+aperti, FIA italiani chiusi nonché i FIA italiani immobiliari. 
+È, inoltre, ammessa la possibilità di investire in FIA mobiliari chiusi riservati, anche collegati, al fine di investire 
+in classi di attivo altrimenti non accessibili tramite OICVM che possono costituire opportunità di investimento 
+oppure sfruttare i benefici fiscali connessi. 
+Si precisa che l’investimento in FIA è ammesso: 
+- per importi limitati, come previsto dalle direttrici generali di investimento del fondo approvate dal Consiglio di 
+Amministrazione della SGR su proposta del Comitato Prodotti; 
+- qualora sia possibile assicurare una totale trasparenza sulla composizione del portafoglio del FIA, sulle strategie 
+di investimento seguite, sull’allocazione del rischio e il rispetto dei limiti di investimento previsti dalla normativa. 
+La SGR ha adottato una politica interna (“Policy ESG”), disponibile sul sito web 
+www.fondopensione.animasgr.it, finalizzata all’integrazione delle valutazioni ambientali, sociali e di governance 
+nel processo di investimento dei portafogli gestiti, inclusi i comparti del Fondo Pensione. 
+ 
+La politica di investimento dei singoli Comparti è di seguito rappresentata. 
+ 
+Comparto Crescita 25+  
+Categoria del comparto: Azionario (linea azionaria internazionale) 
+Finalità della gestione: la gestione è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo 
+un significativo incremento dei capitali investiti in un orizzonte temporale di lungo periodo. È più adatto a coloro 
+che hanno davanti a sé almeno 20 anni e oltre di attività lavorativa prima di raggiungere l’età pensionabile e che 
+sono disponibili ad accettare un grado di rischio medio/alto, ricercano le diverse opportunità di investimento ed 
+il particolare dinamismo dei mercati internazionali. 
+Orizzonte temporale d’investimento consigliato: lungo periodo (oltre 20 anni). 
+Grado di rischio: medio/alto. 
+Politica di investimento:  
+Sostenibilità: Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’art. 8 del Regolamento (UE) 
+2019/2088. 
+Strumenti finanziari  
+Investimento in strumenti finanziari di natura azionaria, nonché di natura obbligazionaria e monetaria, denominati 
+in qualsiasi valuta  e/o in parti di OICVM , specializzati nell’investimento in strumenti finanziari aventi 
+caratteristiche analoghe. La componente azionaria può variare tra 60% e 100% del patrimonio del Comparto. 
+Investimento in OICVM collegati fino al 100% del patrimonio del Comparto. È escluso l’investimento in OICVM 
+di asset manager terzi. 
+Previa delibera del Consiglio di Amministrazione, fino al 5% del patrimonio del Comparto in FIA  mobiliari 
+chiusi riservati collegati. 
+La durata media finanziaria del patrimonio del Comparto (duration) varia da 0 a 7 anni. Il Fondo utilizza strumenti 
+finanziari derivati sia per finalità di copertura dei rischi sia per finalità di efficiente gestione. 
+Categoria di emittenti e settori industriali 
+Emittenti sovrani ed assimilabili, organismi sovranazionali nonché emittenti societari. L’investimento in titoli 
+con merito di credito inferiore ad adeguato o privi di merito di credito  è limitato al 15% del patrimonio del 
+Comparto. La variazione del merito di credito degli strumenti finanziari che implichi il superamento del limite 
+indicato comporterà la dismissione degli stessi nei tempi ritenuti più opportuni nell’interesse dei Partecipanti e,
+=== pagina 7 ===
+7 
+ 
+ 
+comunque, entro il termine massimo di 12 mesi. Gli strumenti finanziari che presentino una vita residua  pari o 
+inferiore a 6 mesi potranno, comunque, essere detenuti dal fondo fino alla relativa scadenza. 
+Aree geografiche di investimento 
+Qualsiasi Mercato. Investimento nei mercati dei Paesi Emergenti fino al 10% del patrimonio del Comparto. 
+Stile di gestione  
+Lo stile di gestione è attivo. Gli investimenti sono effettuati sulla base di analisi macroeconomiche e industriali 
+per la determinazione dei pesi dei singoli Paesi e settori; analisi economico finanziarie per la selezione 
+principalmente di aziende che presentano un profilo di i nvestimento interessante in relazione a parametri di 
+valutazione ritenuti significativi. 
+Saranno privilegiati titoli di società che si contraddistinguono per un'attenzione particolare nei confronti dei 
+criteri di tipo ambientale, sociali e di governance (cd. “Environmental, Social and Corporate governance factors” 
+- ESG). A tal fine, la SGR si  avvale dei dati e delle analisi condotte dai provider terzi utilizzati per valutare il 
+posizionamento degli emittenti rispetto ai citati criteri ESG.  
+ 
+Come primo criterio di selezione degli investimenti, le limitazioni interne prevedono l’investimento:  
+• di almeno il 70% del prodotto: 
+• in emittenti con ESG Score di MSCI superiore a 1,429, su una scala da 0 a 10 (ove 10 è il massimo);  
+• in OICVM classificati come prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+ 
+Come secondo criterio di selezione degli investimenti, le limitazioni interne prevedono che al massimo il 20% 
+del prodotto sia investito in: 
+• in emittenti senza ESG Score o con ESG Score di MSCI inferiore a 1,429, su una scala da 0 a 10 (ove 10 è 
+il massimo).  
+La parte rimanente può essere detenuta in liquidità. 
+ 
+Come terzo criterio di selezione degli investimenti, le limitazioni interne prevedono la valutazione delle pratiche 
+di buona governance per tutti gli strumenti finanziari presenti nei prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+In particolare: 
+• investimenti diretti in singoli emittenti corporate: si considera la conformità al Global Compact e uno Score 
+G di MSCI superiore a 1,429. Per gli emettenti  corporate privi di Score G viene attivato un processo di 
+valutazione interna  basato su diversi indicatori afferenti al bilancio, alla struttura del management, alle 
+relazioni con la forza lavoro, alle politiche retributive, all’etica di business e alla compliance fiscale; 
+• investimenti in OICR:       
+o i fondi “art. 8 e art. 9 SFDR” sono sempre ammessi, in quanto soggetti agli obblighi di verifica della 
+buona governance; 
+o i fondi “art. 6” sono ammessi se garantiscono prassi di buona governance, ossia con G Score superiore 
+a 4,286 oppure previa verifica, da parte della SGR, che il Gestore terzo del prodotto “art. 6” in questione 
+abbia formalizzato procedure di controllo delle prassi di buona governance sugli investimenti del 
+prodotto stesso. 
+I punteggi G e l’accertamento di violazioni del Global Compact per singoli emittenti corporate e per gli OICR 
+cui si fa riferimento sono quelli prodotti dai fornitori terzi utilizzati dal Gestore. 
+Come quarto criterio di selezione degli investimenti, le limitazioni interne prevedono l’esclusione dal portafoglio 
+in titoli: 
+• degli emittenti corporate appartenenti ai settori tabacco e gioco d’azzardo, di quelli in violazione dei principi 
+UNGC o delle linee guida dell’OCSE destinati alle imprese multinazionali, di quelli coinvolti  nell’intera 
+catena del valore del carbone termico, ossia nei settori della produzione di energia, fornitura di servizi a 
+supporto dell'industria energetica ed estrazione, con una quota di fatturato che rappresenti oltre il 30% dei 
+loro ricavi e di quelli direttamente coinvolti nella produzione o commer cializzazione di armi controverse e
+=== pagina 8 ===
+8 
+ 
+ 
+nucleari, incluse quelle previste dalla Legge 220/2021 per le quali è consultabile sul sito web di Anima SGR 
+una sintesi della Policy sul divieto di investimento;  
+• delle società sanzionate da lle principali autorità internazionali di Australia, Canada, Giappone, Svizzera, 
+GB, USA, UE e ONU; 
+• degli emittenti governativi che siano sanzionati, così come disciplinato dalla Policy ESG , consultabile sul 
+sito web di Anima SGR.  
+ 
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look -through su fondi di 
+terzi e derivati su indici in portafoglio e sono determinate dal Gestore sulla base di analisi svolte da fornitori terzi 
+specializzati in campo ESG. 
+ 
+Rischio cambio 
+L’esposizione al rischio di cambio è gestita attivamente. L’esposizione valutaria è limitata al 30% del patrimonio 
+del Comparto. 
+Turnover 
+Il tasso di rotazione annua del portafoglio massimo è 2. 
+Tracking Error* 
+Il valore di tracking error annualizzato massimo è 6%. 
+Benchmark 
+20% MSCI World (Net Total Return - in Euro), 60% MSCI World (Net Total Return - Euro Hedged), 20% ICE 
+BofA Euro Treasury Bill (Gross Total Return – in Euro). 
+Sono possibili significativi scostamenti della composizione del portafoglio del Comparto rispetto al benchmark, 
+attraverso l’investimento in strumenti finanziari di emittenti non presenti nell’indice di riferimento o presenti in 
+proporzioni diverse e attraverso il differente bilanciamento delle aree geografiche e/o settoriali di investimento, 
+al fine di realizzare un migliore rendimento corretto per il rischio nel lungo periodo. 
+ 
+* Per Tracking Error  (denominato anche “Tracking Error Volatility” da Banca d’Italia) s’intende la volatilità 
+(deviazione standard) delle differenze tra il rendimento del fondo e il rendimento del suo benchmark. 
+ 
+***** 
+ 
+Comparto Sviluppo 15+ 
+Categoria del comparto: Bilanciato (linea bilanciata) 
+Finalità della gestione: la gestione è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo 
+un incremento dei capitali investiti in un orizzonte temporale di lungo periodo. È più adatto a coloro che hanno 
+davanti a sé almeno 15 anni di attività prima di arriva re all’età pensionabile e che accettano un grado di rischio 
+medio-alto, per cogliere le diverse opportunità di investimento ed il particolare dinamismo dei mercati 
+internazionali. 
+Orizzonte temporale: lungo (almeno 15 anni). 
+Grado di rischio: medio/alto. 
+Politica di investimento: 
+- Sostenibilità: il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento  
+(UE) 2019/2088. 
+- Politica di gestione: prevede una composizione bilanciata tra la componente obbligazionaria e quella azionaria, 
+quest’ultima può variare tra il 40% e il 70% del patrimonio del Comparto. La durata media finanziaria del 
+patrimonio del Comparto (duration) varia da 0 a 7 anni. 
+- Strumenti finanziari: investimento in strumenti finanziari di natura monetaria, obbligazionaria e azionaria, 
+denominati in qualsiasi valuta e/o in parti di OICVM, specializzati nell’investimento in strumenti finanziari aventi 
+caratteristiche analoghe. Investimento in OICVM collegati fino al 100% del patrimonio del Comparto. 
+È escluso l’investimento in OICVM di asset manager terzi.
+=== pagina 9 ===
+9 
+ 
+ 
+Previa delibera del Consiglio di Amministrazione, f ino al 5% del patrimonio del Comparto in FIA  mobiliari 
+chiusi riservati collegati. 
+Il Fondo utilizza strumenti finanziari derivati sia per  finalità di copertura dei rischi sia per finalità di efficiente 
+gestione. 
+- Categoria di emittenti e settori industriali: emittenti sovrani ed assimilabili, organismi sovranazionali nonché 
+emittenti societari. L’investimento in titoli con merito di credito inferiore ad adeguato o privi di merito di credito 
+è limitato al 15% del patrimonio del Comparto. La variazione del merito di credito degli strumenti 
+finanziari che implichi il superamento del limite indicato comporterà la dismissione degli stessi nei tempi ritenuti 
+più opportuni nell’interesse dei Partecipanti e, comunque, entro il termine massimo di 12 mesi. 
+Gli strumenti finanziari che presentino una vita residua pari o inferiore a 6 mesi potranno, comunque, essere 
+detenuti dal Fondo fino alla relativa scadenza. 
+- Aree geografiche di investimento: qualsiasi mercato. Investimento residuale nei mercati dei Paesi Emergenti. 
+Stile di gestione  
+Lo stile di gestione è attivo. 
+Per la parte obbligazionaria gli investimenti sono effettuati sulla base di una analisi macroeconomica delle 
+principali variabili delle maggiori economie mondiali, con particolare attenzione alle politiche monetarie messe 
+in atto dalle Banche Centrali, non ché sulla base di una analisi di bilancio e di credito delle principali società 
+emittenti sui mercati obbligazionari (ad es.: ratios patrimoniali, livelli di indebitamento, differenziali di 
+rendimento rispetto ad attività prive di rischio).  
+Per la parte azionaria gli investimenti sono effettuati sulla base di analisi macroeconomiche e industriali per la 
+determinazione dei pesi dei singoli Paesi e settori; analisi economico finanziarie per la selezione principalmente 
+di aziende che presentano un profilo di investimento interessante in relazione a parametri di valutazione ritenuti 
+significativi. 
+Saranno privilegiati titoli di società che si contraddistinguono per un'attenzione particolare nei confronti dei 
+criteri di tipo ambientale, sociali e di governance (cd. “Environmental, Social and Corporate governance factors” 
+- ESG). A tal fine, la SGR si  avvale dei dati e delle analisi condotte dai provider terzi utilizzati per valutare il 
+posizionamento degli emittenti rispetto ai citati criteri ESG.  
+ 
+Come primo criterio di selezione degli investimenti, le limitazioni interne prevedono l’investimento:  
+• di almeno il 70% del prodotto: 
+• in emittenti con ESG Score di MSCI superiore a 1,429, su una scala da 0 a 10 (ove 10 è il massimo);  
+• in OICVM classificati come prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+ 
+Come secondo criterio di selezione degli investimenti, le limitazioni interne prevedono che al massimo il 20% 
+del prodotto sia investito in: 
+• in emittenti senza ESG Score o con ESG Score di MSCI inferiore a 1 ,429, su una scala da 0 a 10 (ove 10 è il 
+massimo).  
+La parte rimanente può essere detenuta in liquidità. 
+ 
+Come terzo criterio di selezione degli investimenti, le limitazioni interne prevedono la valutazione delle pratiche 
+di buona governance per tutti gli strumenti finanziari presenti nei prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+In particolare: 
+• investimenti diretti in singoli emittenti corporate: si considera la conformità al Global Compact e uno Score 
+G di MSCI superiore a 1 ,429. Per gli emettenti corporate privi di Score G viene attivato un processo di 
+valutazione interna basato su diversi indicatori afferenti al bilancio, alla struttura del management, alle 
+relazioni con la forza lavoro, alle politiche retributive, all’etica di business e alla compliance fiscale; 
+• investimenti in OICR:       
+o i fondi “art. 8 e art. 9 SFDR” sono sempre ammessi, in quanto soggetti agli obblighi di verifica della 
+buona governance; 
+o i fondi “art. 6” sono ammessi se garantiscono prassi di buona governance, ossia con G Score superiore 
+a 4,286 oppure previa verifica, da parte della SGR, che il Gestore terzo del prodotto “art. 6” in questione
+=== pagina 10 ===
+10 
+ 
+ 
+abbia formalizzato procedure di controllo delle prassi di buona governance sugli investimenti del 
+prodotto stesso. 
+I punteggi G e l’accertamento di violazioni del Global Compact per singoli emittenti corporate e per gli OICR 
+cui si fa riferimento sono quelli prodotti dai fornitori terzi utilizzati dal Gestore. 
+Come quarto criterio di selezione degli investimenti, le limitazioni interne prevedono l’esclusione dal portafoglio 
+in titoli: 
+• degli emittenti corporate appartenenti ai settori tabacco e gioco d’azzardo, di quelli in violazione dei principi 
+UNGC o delle linee guida dell’OCSE destinati alle imprese multinazionali, di quelli coinvolti  nell’intera 
+catena del valore del carbone termico, ossia ne i settori della produzione di energia, fornitura di servizi a 
+supporto dell'industria energetica ed estrazione, con una quota di fatturato che rappresenti oltre il 30% dei 
+loro ricavi e di quelli direttamente coinvolti nella produzione o commer cializzazione di armi controverse e 
+nucleari, incluse quelle previste dalla Legge 220/2021 per le quali è consultabile sul sito web di Anima SGR 
+una sintesi della Policy sul divieto di investimento;  
+• delle società sanzionate dalle principali autorità internazionali di Australia, Canada, Giappone, Svizzera, 
+GB, USA, UE e ONU; 
+• degli emittenti governativi che siano sanzionati, così come disciplinato dalla Policy ESG cui il prodotto 
+finanziario aderisce, consultabile sul sito web di Anima SGR.  
+ 
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look -through su fondi di 
+terzi e derivati su indici in portafoglio e sono determinate dal Gestore sulla base di analisi svolte da fornitori terzi 
+specializzati in campo ESG. 
+ 
+Rischio cambio 
+L’esposizione al rischio di cambio è gestita attivamente. L’esposizione valutaria è limitata al 30% del patrimonio 
+del Comparto. 
+Turnover  
+Il tasso di rotazione annua del portafoglio massimo è 2 
+Tracking Error 
+Il valore di tracking error annualizzato massimo è 5,5%. 
+Benchmark 
+40% MSCI World (Net Total Return - Euro Hedged), 20% MSCI World (Net Total Return - Euro), 
+10% ICE BofA Euro Large Cap Corporate (Gross Total Return - in Euro), 10% JP Morgan GBI (Gross Total 
+Return - Euro Hedged), 10% JP Morgan EMU (Gross Total Return - in Euro), 10% ICE BofA Euro Treasury Bill 
+(Gross Total Return - in Euro). 
+ 
+Comparto Rivalutazione 10+  
+Categoria del comparto: Bilanciato (linea bilanciata) 
+Finalità della gestione: la gestione è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo 
+un incremento dei capitali investiti in un orizzonte temporale di medio/lungo periodo. È più adatto a coloro che 
+hanno davanti a sé almeno 10 anni di attività prima di arrivare all’età pensionabile e che accettano un grado di 
+rischio medio, per cogliere le diverse opportunità di investimento ed il particolare dinamismo dei mercati 
+internazionali. 
+Orizzonte temporale d’investimento consigliato: medio/lungo periodo (tra 10 e 15 anni). 
+Grado di rischio: medio. 
+Politica di investimento: 
+Sostenibilità: Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’art. 8 del Regolamento (UE) 
+2019/2088. 
+Strumenti finanziari 
+Investimento in strumenti finanziari di natura monetaria, obbligazionaria e azionaria, denominati in qualsiasi 
+valuta e/o in parti di OICVM, specializzati nell’investimento in strumenti finanziari aventi caratteristiche
+=== pagina 11 ===
+11 
+ 
+ 
+analoghe. La componente azionaria può variare tra 20% e 50% del patrimonio del Comparto.  Investimento in 
+OICVM collegati fino al 100% del patrimonio del Comparto. È escluso l’investimento in OICVM di asset 
+manager terzi. 
+Previa delibera del Consiglio di Amministrazione, f ino al 5% del patrimonio del Comparto in FIA  mobiliari 
+chiusi riservati collegati. 
+La durata media finanziaria del patrimonio del Comparto (duration) varia da 0 a 7 anni. Il Fondo utilizza strumenti 
+finanziari derivati sia per finalità di copertura dei rischi sia per finalità di efficiente gestione. 
+Categoria di emittenti e settori industriali 
+Emittenti sovrani ed assimilabili, organismi sovranazionali nonché emittenti societari. 
+L’investimento in titoli con merito di credito inferiore ad adeguato o privi di merito di credito è limitato al 15% 
+del patrimonio del Comparto . La variazione del merito di credito degli strumenti finanziari che implichi il 
+superamento del limite indicato comporterà la dismissione degli stessi  nei tempi ritenuti più opportuni 
+nell’interesse dei Partecipanti e, comunque, entro il termine massimo di  12 mesi. Gli strumenti finanziari che 
+presentino una vita residua  pari o inferiore a 6 mesi potranno, comunque,  essere detenuti dal fondo fino alla 
+relativa scadenza. 
+Aree geografiche di investimento 
+Qualsiasi mercato.  Investimento nei mercati dei Paesi Emergenti fino al 10% del patrimonio del Comparto. 
+Stile di gestione  
+Lo stile di gestione è attivo. 
+Per la parte obbligazionaria gli investimenti sono effettuati sulla base di una analisi macroeconomica delle 
+principali variabili delle maggiori economie mondiali, con particolare attenzione alle politiche monetarie messe 
+in atto dalle Banche Centrali, non ché sulla base di una analisi di bilancio e di credito delle principali società 
+emittenti sui mercati obbligazionari (ad es.: ratios patrimoniali, livelli di indebitamento, differenziali di 
+rendimento rispetto ad attività prive di rischio).  
+Per la parte azionaria gli investimenti sono effettuati sulla base di analisi macroeconomiche e industriali per la 
+determinazione dei pesi dei singoli Paesi e settori; analisi economico finanziarie per la selezione principalmente 
+di aziende che presentano un profilo di investimento interessante in relazione a parametri di valutazione ritenuti 
+significativi. 
+Saranno privilegiati titoli di società che si contraddistinguono per un'attenzione particolare nei confronti dei 
+criteri di tipo ambientale, sociali e di governance (cd. “Environmental, Social and Corporate governance factors” 
+- ESG). A tal fine, la SGR si  avvale dei dati e delle analisi condotte dai provider terzi utilizzati per valutare il 
+posizionamento degli emittenti rispetto ai citati criteri ESG.  
+ 
+Come primo criterio di selezione degli investimenti, le limitazioni interne prevedono l’investimento:  
+• di almeno il 70% del prodotto: 
+• in emittenti con ESG Score di MSCI superiore a 1,429, su una scala da 0 a 10 (ove 10 è il massimo);  
+• in OICVM classificati come prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+ 
+Come secondo criterio di selezione degli investimenti, le limitazioni interne prevedono che al massimo il 20% 
+del prodotto sia investito in: 
+• in emittenti senza ESG Score o con ESG Score di MSCI inferiore a 1,429, su una scala da 0 a 10 (ove 10 è 
+il massimo).   
+La parte rimanente può essere detenuta in liquidità. 
+ 
+Come terzo criterio di selezione degli investimenti, le limitazioni interne prevedono la valutazione delle pratiche 
+di buona governance per tutti gli strumenti finanziari presenti nei prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+In particolare: 
+• investimenti diretti in singoli emittenti corporate: si considera la conformità al Global Compact e uno Score 
+G di MSCI superiore a 1,429. Per gli emettenti corporate privi di Score G viene attivato un processo di
+=== pagina 12 ===
+12 
+ 
+ 
+valutazione interna basato su diversi indicatori afferenti al bilancio, alla struttura del management, alle 
+relazioni con la forza lavoro, alle politiche retributive, all’etica di business e alla compliance fiscale; 
+• investimenti in OICR:       
+o i fondi “art. 8 e art. 9 SFDR” sono sempre ammessi, in quanto soggetti agli obblighi di verifica della 
+buona governance; 
+o i fondi “art. 6” sono ammessi se garantiscono prassi di buona governance, ossia con G Score superiore 
+a 4,286 oppure previa verifica, da parte della SGR, che il Gestore terzo del prodotto “art. 6” in questione 
+abbia formalizzato procedure di controllo delle prassi di buona governance sugli investimenti del 
+prodotto stesso. 
+ 
+I punteggi G e l’accertamento di violazioni del Global Compact per singoli emittenti corporate e per gli OICR 
+cui si fa riferimento sono quelli prodotti dai fornitori terzi utilizzati dal Gestore. 
+Come quarto criterio di selezione degli investimenti, le limitazioni interne prevedono l’esclusione dal portafoglio 
+in titoli: 
+• degli emittenti corporate appartenenti ai settori tabacco e gioco d’azzardo, di quelli in violazione dei principi 
+UNGC o delle linee guida dell’OCSE destinati alle imprese multinazionali, di quelli coinvolti  nell’intera 
+catena del valore del carbone termico, ossia nei settori della produzione di energia, fornitura di servizi a 
+supporto dell'industria energetica ed estrazione, con una quota di fatturato che rappresenti oltre il  30% dei 
+loro ricavi e di quelli direttamente coinvolti nella produzione o commer cializzazione di armi controverse e 
+nucleari, incluse quelle previste dalla Legge 220/2021 per le quali è consultabile sul sito web di Anima SGR 
+una sintesi della Policy sul divieto di investimento;  
+• delle società sanzionate dalle principali autorità internazionali di Australia, Canada, Giappone, Svizzera, 
+GB, USA, UE e ONU; 
+• degli emittenti governativi che siano sanzionati, così come disciplinato dalla Policy ESG, consultabile sul 
+sito web di Anima SGR.  
+ 
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look -through su fondi di 
+terzi e derivati su indici in portafoglio e sono determinate dal Gestore sulla base di analisi svolte da fornitori terzi 
+specializzati in campo ESG. 
+ 
+Rischio cambio 
+L’esposizione al rischio di cambio è gestita attivamente. L’esposizione valutaria è limitata al 30% del patrimonio 
+del Comparto. 
+Turnover  
+Il tasso di rotazione annua del portafoglio massimo è 2. 
+Tracking Error 
+Il valore di tracking error annualizzato massimo è 5%. 
+ 
+Benchmark 
+20% MSCI World (Net Total Return – in Euro), 20% MSCI World ( Net Total Return – Euro Hedged), 20% JP 
+Morgan EMU (Gross Total Return – in Euro) , 20% JP Morgan GBI Global (Gross Total Return – Euro Hedged), 
+10% ICE BofA Euro Large Cap Corporate (Gross Total Return – in Euro), 10% ICE BofA Euro Treasury Bill 
+(Gross Total Return – in Euro). 
+Sono possibili significativi scostamenti della composizione del portafoglio del Comparto rispetto al benchmark, 
+attraverso l’investimento in strumenti finanziari di emittenti non presenti nell’indice di riferimento o presenti in 
+proporzioni diverse e attraverso il differente bilanciamento delle aree geografiche e/o settoriali di investimento, 
+al fine di realizzare un migliore rendimento corretto per il rischio nel lungo periodo. 
+ 
+***** 
+ 
+Comparto Incremento e garanzia 5+
+=== pagina 13 ===
+13 
+ 
+ 
+Categoria del comparto: Garantito (linea bilanciata obbligazionaria) 
+A questo Comparto sono destinati i flussi di TFR maturando conferiti tacitamente per gli aderenti su base 
+collettiva. A decorrere dal 1 ° aprile 2013 non è possibile aderire a tale comparto mediante iniziativa esplicita, 
+non sono possibili movimenti di switch da altri comparti né trasferimenti in ingresso da altro fondo. Per gli attuali 
+aderenti al Comparto viene mantenuta la possibilità di effettuare versamenti contributivi successivi. 
+Finalità della gestione: la gestione persegue l’obiettivo di realizzare rendimenti che siano almeno pari a quelli 
+del TFR, in un orizzonte temporale compatibile con un profilo di rischio medio/basso. È più adatto a coloro che 
+hanno davanti a sé almeno 5 anni di attività prima di arrivare all’età pensionabile o che tacitamente investono il 
+TFR e/o che hanno una propensione al rischio media, potendo cogliere le diverse opportunità di investimento ed 
+il particolare dinamismo dei mercati . La presenza di una gar anzia di capitale consente di soddisfare anche le 
+esigenze di un soggetto con una bassa propensione al rischio ed un orizzonte temporale non breve. 
+Orizzonte temporale d’investimento consigliato: medio periodo (tra 5 e 10 anni). 
+Grado di rischio: medio/basso. 
+Politica di investimento: 
+Sostenibilità: Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’art. 8 del Regolamento (UE) 
+2019/2088. 
+Strumenti finanziari 
+Investimento in strumenti finanziari di natura monetaria, obbligazionaria e azionaria, denominati in qualsiasi 
+valuta e/o in parti di OICVM, specializzati nell’investimento in strumenti finanziari aventi caratteristiche 
+analoghe. La componente azionaria può variare tra 0% e 40% del patrimonio del Comparto. Investimento in 
+OICVM collegati fino al 100% del patrimonio del Comparto.  È escluso l’investimento in OICVM di asset 
+manager terzi. 
+La durata media finanziaria del patrimonio del Comparto (duration) varia da 0 a 7 anni. 
+Il Fondo utilizza strumenti finanziari derivati sia per finalità di copertura dei rischi sia per finalità di efficiente 
+gestione. 
+Categoria di emittenti e settori industriali 
+Emittenti sovrani ed assimilabili, organismi sovranazionali nonché emittenti societari. 
+L’investimento in titoli con merito di credito inferiore ad adeguato o privi di merito di credito è limitato al 15% 
+del patrimonio del Comparto.  La variazione del merito di credito degli strumenti finanziari che implichi il 
+superamento del limite indicato comporterà la dismissione degli stessi  nei tempi ritenuti più opportuni 
+nell’interesse dei Partecipanti e, comunque, entro il termine massimo di  12 mesi. Gli strumenti finanziari che 
+presentino una vita residua  pari o inferiore a 6 mesi potranno, comunque, essere detenuti dal fondo fino alla 
+relativa scadenza. 
+Aree geografiche di investimento 
+Qualsiasi mercato.  Investimento nei mercati dei Paesi Emergenti fino al 10% del patrimonio del Comparto. 
+Stile di gestione  
+Lo stile di gestione è attivo. 
+Per la parte obbligazionaria gli investimenti sono effettuati sulla base di una analisi macroeconomica delle 
+principali variabili, delle maggiori economie mondiali, con particolare attenzione alle politiche monetarie messe 
+in atto dalle Banche Centrali, nonché sulla base di una analisi di bilancio e di credito delle principali società 
+emittenti sui mercati obbligazionari (ad es.: ratios patrimoniali, livelli di indebitamento, differenziali di 
+rendimento rispetto ad attività prive di rischio). 
+Per la parte azionaria gli investimenti sono effettuati sulla base di analisi macroeconomiche e industriali per la 
+determinazione dei pesi dei singoli Paesi e settori, analisi economico finanziarie per la selezione principalmente 
+di aziende che presentano un profilo di investimento interessante in relazione a parametri di valutazione ritenuti 
+significativi. 
+Saranno privilegiati titoli di società che si contraddistinguono per un ’attenzione particolare nei confronti dei 
+criteri di tipo ambientale, sociali e di governance (cd. “Environmental, Social and Corporate governance factors” 
+– ESG). A tal fine, la SGR si avvale dei dati e delle analisi condotte dai provider terzi utilizzati per valutare il 
+posizionamento degli emittenti rispetto ai citati criteri ESG.
+=== pagina 14 ===
+14 
+ 
+ 
+ 
+Come primo criterio di selezione degli investimenti, le limitazioni interne prevedono l’investimento:  
+• di almeno il 70% del prodotto: 
+• in emittenti in emittenti con ESG Score di MSCI superiore a 1,429, su una scala da 0 a 10 (ove 10 è il 
+massimo);  
+• in OICVM classificati come prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+ 
+Come secondo criterio di selezione degli investimenti, le limitazioni interne prevedono che al massimo il 20% 
+del prodotto sia investito in: 
+• in emittenti societari senza ESG Score di MSCI inferiore a 1,429, su una scala da 0 a 10 (ove 10 è il 
+massimo).  
+La parte rimanente può essere detenuta in liquidità. 
+ 
+Come terzo criterio di selezione degli investimenti, le limitazioni interne prevedono la valutazione delle pratiche 
+di buona governance per tutti gli strumenti finanziari presenti nei prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+In particolare: 
+• investimenti diretti in singoli emittenti corporate: si considera la conformità al Global Compact e uno Score 
+G di MSCI superiore a 1,429. Per gli emettenti corporate privi di Score G viene attivato un processo di 
+valutazione interna basato su diversi indicatori afferenti al bilancio, alla struttura del management, alle 
+relazioni con la forza lavoro, alle politiche retributive, all’etica di business e alla compliance fiscale; 
+• investimenti in OICR:       
+o i fondi “art. 8 e art. 9 SFDR” sono sempre ammessi, in quanto soggetti agli obblighi di verifica della 
+buona governance; 
+o i fondi “art. 6” sono ammessi se garantiscono prassi di buona governance, ossia con G Score superiore 
+a 4.286/10 oppure previa verifica, da parte della SGR, che il Gestore terzo del prodotto “art. 6” in 
+questione abbia formalizzato procedure di controllo delle prassi di buona governance sugli investimenti 
+del prodotto stesso. 
+I punteggi G e l’accertamento di violazioni del Global Compact per singoli emittenti corporate e per gli OICR 
+cui si fa riferimento sono quelli prodotti dai fornitori terzi utilizzati dal Gestore. 
+Come quarto criterio di selezione degli investimenti, le limitazioni interne prevedono l’esclusione dal 
+portafoglio in titoli: 
+• degli emittenti corporate appartenenti ai settori tabacco e gioco d’azzardo, di quelli in violazione dei principi 
+UNGC o delle linee guida dell’OCSE destinati alle imprese multinazionali, di quelli coinvolti  nell’intera 
+catena del valore del carbone termico, ossia nei settori della produzione di energia, fornitura di servizi a 
+supporto dell'industria energetica ed estrazione, con una quota di fatturato che rappresenti oltre il  30% dei 
+loro ricavi e di quelli direttamente coinvolti nella produzione o commer cializzazione di armi controverse e 
+nucleari incluse quelle previste dalla Legge 220/2021 per le quali è consultabile sul sito web di Anima SGR 
+una sintesi della Policy sul divieto di investimento;  
+• delle società sanzionate dalle principali autorità internazionali di Australia, Canada, Giappone, Svizzera, 
+GB, USA, UE e ONU; 
+• degli emittenti governativi che siano sanzionati, così come disciplinato dalla Policy ESG, consultabile sul 
+sito web di Anima SGR.  
+ 
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look -through su fondi di 
+terzi e derivati su indici in portafoglio e sono determinate dal Gestore sulla base di analisi svolte da fornitori terzi 
+specializzati in campo ESG. 
+ 
+Rischio cambio
+=== pagina 15 ===
+15 
+ 
+ 
+L’esposizione al rischio di cambio è gestita attivamente. L’esposizione valutaria è limitata al 10% del patrimonio 
+del Comparto. 
+Turnover 
+Il tasso di rotazione annua del portafoglio massimo è 2. 
+Tracking Error 
+Il valore di tracking error annualizzato massimo è 4%. 
+Benchmark 
+50% ICE BofA Euro Treasury Bill (Gross Total Return – in Euro), 20% JP Morgan EMU (Gross Total Return – 
+in Euro), 20% MSCI EMU (Net Total Return - in Euro), 10% ICE BofA Euro Large Cap Corporate (Gross Total 
+Return – in Euro).  
+Sono possibili significativi scostamenti della composizione del portafoglio del Comparto rispetto al benchmark, 
+attraverso l’investimento in strumenti finanziari di emittenti non presenti nell’indice di riferimento o presenti in 
+proporzioni diverse e attraverso il differente bilanciamento delle aree geografiche e/o settoriali di investimento, 
+al fine di realizzare un migliore rendimento corretto per il rischio nel lungo periodo.  
+ 
+Garanzia di capitale 
+Il Comparto Incremento e garanzia 5+ attribuisce all’aderente, al verificarsi degli eventi di cui alle previsioni 
+riportate nella Nota informativa e nel Regolamento del Fondo, il diritto alla corresponsione di un importo minimo 
+garantito almeno pari alla somma dei contributi netti versati al Comparto, inclusi gli eventuali importi derivanti 
+da trasferimenti da altro Comparto o da altra forma pensionistica e i versamenti effettuati per il reintegro delle 
+anticipazioni percepite, ridotto da eventuali riscatti  parziali e anticipazioni . Il diritto alla garanzia e l’importo 
+minimo garantito sono riconosciuti nei casi e nelle misure previsti dalla nota informativa e dal regolamento del 
+Fondo. Le caratteristiche della garanzia offerta dal Comparto possono variare nel tempo, fermo restando il livello 
+minimo richiesto dalla normativa vigente. In particolare, con decorrenza dal 1 ° agosto 2013, viene eliminato il 
+diritto alla garanzia di capitale al verificarsi dell'evento di riscatto o di trasferimento decorso un perio do di 
+permanenza nel fondo di almeno 5 anni. Qualora vengano previste condizioni diverse dalle attuali, la SGR 
+comunicherà agli iscritti interessati gli effetti conseguenti. 
+ 
+***** 
+ 
+Comparto Equilibrio 5+  
+Categoria del comparto: Bilanciato (linea bilanciata obbligazionaria) 
+Finalità della gestione: la gestione è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo 
+un moderato incremento dei capitali investiti in un orizzonte temporale di medio periodo. È più adatto a coloro 
+che non sono vicini all’accesso alla prestazione pensionistica complementare e che accettano un grado di rischio 
+medio, per cogliere le diverse opportunità di investimento ed il particolare dinamismo dei mercati internazionali.  
+Orizzonte temporale d’investimento consigliato: medio periodo (tra 5 e 10 anni). 
+Grado di rischio: medio. 
+Politica di investimento: 
+Sostenibilità: Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’art. 8 del Regolamento (UE) 
+2019/2088. 
+Strumenti finanziari 
+Investimento in strumenti finanziari di natura monetaria, obbligazionaria e azionaria, denominati in qualsiasi 
+valuta e/o in parti di OICVM, specializzati nell’investimento in strumenti finanziari aventi caratteristiche 
+analoghe.  La componente azionaria può variare tra 0% e 40% del patrimonio del Comparto. Investimento in 
+OICVM collegati fino al 100% del patrimonio del Comparto.  È escluso l’investimento in OICVM di asset 
+manager terzi.  
+La durata media finanziaria del patrimonio del Comparto (duration) varia da 0 a 7 anni. 
+Il Fondo utilizza strumenti finanziari derivati sia per finalità di copertura dei rischi sia per finalità di efficiente 
+gestione.  
+Categoria di emittenti e settori industriali 
+Emittenti sovrani ed assimilabili, organismi sovranazionali nonché emittenti societari.
+=== pagina 16 ===
+16 
+ 
+ 
+L’investimento in titoli con merito di credito inferiore ad adeguato o privi di merito di credito è limitato al 15% 
+del patrimonio del Comparto.  La variazione del merito di credito degli strumenti finanziari che implichi il 
+superamento del limite indicato comporterà la dismissione degli stessi  nei tempi ritenuti più opportuni 
+nell’interesse dei Partecipanti e, comunque, entro il termine massimo di  12 mesi. Gli strumenti finanziari che 
+presentino una vita residua  pari o inferiore a 6 mesi potranno, comunque,  essere detenuti dal fondo fino alla 
+relativa scadenza. 
+Aree geografiche di investimento 
+Qualsiasi mercato. Investimento nei mercati dei Paesi Emergenti fino al 10% del patrimonio del Comparto. 
+Stile di gestione  
+Lo stile di gestione è attivo. 
+Per la quota obbligazionaria gli investimenti sono effettuati sulla base di una analisi macroeconomica delle 
+principali variabili delle maggiori economie mondiali, con particolare attenzione alle politiche monetarie messe 
+in atto dalle Banche Centrali, non ché sulla base di una analisi di bilancio e di credito delle principali società 
+emittenti sui mercati obbligazionari (ad es.: ratios patrimoniali, livelli di indebitamento, differenziali di 
+rendimento rispetto ad attività prive di rischio).  
+Per la parte azionaria gli investimenti sono effettuati sulla base di analisi macroeconomiche e industriali per la 
+determinazione dei pesi dei singoli Paesi e settori, analisi economico finanziarie per la selezione principalmente 
+di aziende che presentano un profilo di investimento interessante in relazione a parametri di valutazione ritenuti 
+significativi. 
+Saranno privilegiati titoli di società che si contraddistinguono per un'attenzione particolare nei confronti dei 
+criteri di tipo ambientale, sociali e di governance (cd. “Environmental, Social and Corporate governance factors” 
+- ESG). A tal fine, la SGR si  avvale dei dati e delle analisi condotte dai provider terzi utilizzati per valutare il 
+posizionamento degli emittenti rispetto ai citati criteri ESG.  
+ 
+Come primo criterio di selezione degli investimenti, le limitazioni interne prevedono l’investimento:  
+• di almeno il 70% del prodotto: 
+• in emittenti con ESG Score di MSCI superiore a 1,429, su una scala da 0 a 10 (ove 10 è il massimo); 
+• in OICVM classificati come prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+ 
+Come secondo criterio di selezione degli investimenti, le limitazioni interne prevedono che al massimo il 20% 
+del prodotto sia investito in: 
+• in emittenti senza ESG Score o con ESG Score di MSCI inferiore a 1,429, su una scala da 0 a 10 (ove 10 è 
+il massimo).  
+La parte rimanente può essere detenuta in liquidità. 
+ 
+Come terzo criterio di selezione degli investimenti, le limitazioni interne prevedono la valutazione delle pratiche 
+di buona governance per tutti gli strumenti finanziari presenti nei prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+In particolare: 
+• investimenti diretti in singoli emittenti corporate: si considera la conformità al Global Compact e uno Score 
+G di MSCI superiore a 1,429. Per gli emettenti corporate privi di Score G viene attivato un processo di 
+valutazione interna basato su diversi indicatori afferenti al bilancio, alla struttura del management, alle 
+relazioni con la forza lavoro, alle politiche retributive, all’etica di business e alla compliance fiscale; 
+• investimenti in OICR:       
+o i fondi “art. 8 e art. 9 SFDR” sono sempre ammessi, in quanto soggetti agli obblighi di verifica della 
+buona governance; 
+o i fondi “art. 6” sono ammessi se garantiscono prassi di buona governance, ossia con G Score superiore 
+a 4,286 oppure previa verifica, da parte della SGR, che il Gestore terzo del prodotto “art. 6” in questione 
+abbia formalizzato procedure di controllo delle prassi di buona governance sugli investimenti del 
+prodotto stesso.
+=== pagina 17 ===
+17 
+ 
+ 
+I punteggi G e l’accertamento di violazioni del Global Compact per singoli emittenti corporate e per gli OICR 
+cui si fa riferimento sono quelli prodotti dai fornitori terzi utilizzati dal Gestore. 
+Come quarto criterio di selezione degli investimenti, le limitazioni interne prevedono l’esclusione dal portafoglio 
+in titoli: 
+• degli emittenti corporate appartenenti ai settori tabacco e gioco d’azzardo, di quelli in violazione dei principi 
+UNGC o delle linee guida dell’OCSE destinati alle imprese multinazionali, di quelli coinvolti  nell’intera 
+catena del valore del carbone termico, ossia nei settori della produzione di energia, fornitura di servizi a 
+supporto dell'industria energetica ed estrazione, con una quota di fatturato che rappresenti oltre il  30% dei 
+loro ricavi e di quelli direttamente coinvolti nella produzione o commer cializzazione di armi controverse e 
+nucleari, incluse quelle previste dalla legge 220/2021 per le quali è consultabile sul sito web di Anima SGR 
+una sintesi della Policy sul divieto di investimento; 
+• delle società sanzionate dalle principali autorità internazionali di Australia, Canada, Giappone, Svizzera, 
+GB, USA, UE e ONU;  
+• degli emittenti governativi che siano sanzionati, così come disciplinato dalla Policy ESG, consultabile sul 
+sito web di Anima SGR.  
+ 
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look -through su fondi di 
+terzi e derivati su indici in portafoglio e sono determinate dal Gestore sulla base di analisi svolte da fornitori terzi 
+specializzati in campo ESG. 
+ 
+Rischio cambio 
+L’esposizione al rischio di cambio è gestita attivamente. L’esposizione valutaria è limitata al 30% del patrimonio 
+del Comparto. 
+Turnover 
+Il tasso di rotazione annua del portafoglio massimo è 2. 
+Tracking Error 
+Il valore di tracking error annualizzato massimo è 4%. 
+Benchmark 
+40% JP Morgan EMU (Gross Total Return – in Euro), 20% MSCI World (Net Total Return – in Euro), 15% ICE 
+BofA Euro Treasury Bill (Gross Total Return – in Euro), 15% ICE BofA Euro Large Cap Corporate (Gross Total 
+Return – in Euro), 10% JP Morgan GBI Global (Gross Total Return – Euro Hedged). 
+Sono possibili significativi scostamenti della composizione del portafoglio del Comparto rispetto al benchmark, 
+attraverso l’investimento in strumenti finanziari di emittenti non presenti nell’indice di riferimento o presenti in 
+proporzioni diverse e attraverso il differente bilanciamento delle aree geografiche e/o settoriali di investimento, 
+al fine di realizzare un migliore rendimento corretto per il rischio nel lungo periodo.  
+ 
+***** 
+ 
+Comparto Conservazione 3+  
+Categoria del comparto: Obbligazionario puro (linea obbligazionaria) 
+Finalità della gestione: la gestione è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo 
+un graduale incremento dei capitali investiti in un orizzonte temporale di breve periodo. È più adatto a coloro che 
+sono vicini all’accesso alla prestazione pensionistica complementare e/o che hanno una propensione medio/bassa 
+al rischio. 
+Orizzonte temporale d’investimento consigliato: breve periodo (fino a 5 anni). 
+Grado di rischio: medio/basso. 
+Politica di investimento: 
+Sostenibilità: Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’art. 8 del Regolamento (UE) 
+2019/2088. 
+Strumenti finanziari
+=== pagina 18 ===
+18 
+ 
+ 
+Esclusivamente strumenti finanziari di natura monetaria e obbligazionaria denominati in qualsiasi valuta e/o in 
+parti di OICVM specializzati nell’investimento in strumenti finanziari aventi caratteristiche analoghe . 
+Investimento in OICVM collegati fino al 100% del patrimonio del Comparto.È escluso l’investimento in OICVM 
+di asset manager terzi.  
+La durata media finanziaria del patrimonio del Comparto (duration) varia da 0 a 7 anni. 
+Il Fondo utilizza strumenti finanziari derivati sia per finalità di copertura dei rischi sia per finalità di efficiente 
+gestione.  
+Categoria di emittenti e settori industriali 
+Emittenti sovrani ed assimilabili, organismi sovranazionali nonché emittenti societari.  
+L’investimento in titoli con merito di credito inferiore ad adeguato o privi di merito di credito è limitato al 15% 
+del patrimonio del Comparto.  La variazione del merito di credito degli strumenti finanziari che implichi il 
+superamento del limite indicato comporterà la dismissione degli stessi  nei tempi ritenuti più opportuni 
+nell’interesse dei Partecipanti e, comunque, entro il termine massimo di  12 mesi. Gli strumenti finanziari che 
+presentino una vita residua  pari o inferiore a 6 mesi potranno, comunque, essere detenuti dal fondo fino alla 
+relativa scadenza. 
+Aree geografiche di investimento 
+Qualsiasi mercato.  Investimento nei mercati dei Paesi Emergenti fino al 10% del patrimonio del Comparto. 
+Stile di gestione  
+Lo stile di gestione è attivo. 
+Gli investimenti sono effettuati sulla base di un’analisi macroeconomica delle principali variabili delle maggiori 
+economie mondiali, con particolare attenzione alle politiche monetarie messe in atto dalla Banca Centrale 
+Europea, nonché sulla base di un’an alisi di bilancio e di credito delle principali società emittenti sui mercati 
+obbligazionari (ad es.: ratios patrimoniali, livelli di indebitamento, differenziali di rendimento rispetto ad attività 
+prive di rischio). Considerazione delle opportunità di posizionamento, anche tramite arbitraggi, sulle curve dei 
+tassi dei diversi paesi considerati. 
+Saranno privilegiati titoli di società che si contraddistinguono per un ’attenzione particolare nei confronti dei 
+criteri di tipo ambientale, sociali e di governance (cd. “Environmental, Social and Corporate governance factors” 
+– ESG). A tal fine, la SGR si avvale dei dati e delle analisi condotte dai provider terzi utilizzati per valutare il 
+posizionamento degli emittenti rispetto ai citati criteri ESG.  
+ 
+Come primo criterio di selezione degli investimenti, le limitazioni interne prevedono l’investimento:  
+• di almeno il 70% del prodotto: 
+• in emittenti con ESG Score di MSCI superiore a 1,429, su una scala da 0 a 10 (ove 10 è il massimo); 
+• in OICVM classificati come prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+ 
+Come secondo criterio di selezione degli investimenti, le limitazioni interne prevedono che al massimo il 20% 
+del prodotto sia investito in: 
+• in emittenti senza ESG Score o con ESG Score di MSCI inferiore a 1,429, su una scala da 0 a 10 (ove 10 è 
+il massimo). 
+La parte rimanente può essere detenuta in liquidità. 
+ 
+Come terzo criterio di selezione degli investimenti, le limitazioni interne prevedono la valutazione delle pratiche 
+di buona governance per tutti gli strumenti finanziari presenti nei prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+In particolare: 
+• investimenti diretti in singoli emittenti corporate: si considera la conformità al Global Compact e uno Score 
+G di MSCI superiore a 1,429. Per gli emettenti corporate privi di Score G viene attivato un processo di 
+valutazione interna basato su diversi indicatori afferenti al bilancio, alla struttura del management, alle 
+relazioni con la forza lavoro, alle politiche retributive, all’etica di business e alla compliance fiscale; 
+• investimenti in OICR:
+=== pagina 19 ===
+19 
+ 
+ 
+o i fondi “art. 8 e art. 9 SFDR” sono sempre ammessi, in quanto soggetti agli obblighi di verifica della 
+buona governance; 
+o i fondi “art. 6” sono ammessi se garantiscono prassi di buona governance, ossia con G Score superiore 
+a 4,286 oppure previa verifica, da parte della SGR, che il Gestore terzo del prodotto “art. 6” in questione 
+abbia formalizzato procedure di controllo delle prassi di buona governance sugli investimenti del 
+prodotto stesso. 
+I punteggi G e l’accertamento di violazioni del Global Compact per singoli emittenti corporate e per gli OICR 
+cui si fa riferimento sono quelli prodotti dai fornitori terzi utilizzati dal Gestore. 
+Come quarto criterio di selezione degli investimenti, le limitazioni interne prevedono l’esclusione dal 
+portafoglio in titoli: 
+• degli emittenti corporate appartenenti ai settori tabacco e gioco d’azzardo, di quelli in violazione dei principi 
+UNGC o delle linee guida dell’OCSE destinati alle imprese multinazionali, di quelli coinvolti  nell’intera 
+catena del valore del carbone termico, ossia nei settori della produzione di energia, fornitura di servizi a 
+supporto dell'industria energetica ed estrazione, con una quota di fatturato che rappresenti oltre il  30% dei 
+loro ricavi e di quelli direttamente coinvolti nella produzione o commer cializzazione di armi controverse e 
+nucleari, incluse quelle previste dalla legge 220/2021 per le quali è consultabile sul sito web di Anima SGR 
+una sintesi della Policy sul divieto di investimento;  
+• delle società sanzionate dalle principali autorità internazionali di Australia, Canada, Giappone, Svizzera, 
+GB, USA, UE e ONU; 
+• degli emittenti governativi che siano sanzionati, così come disciplinato dalla Policy ESG, consultabile sul 
+sito web di Anima SGR.  
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look -through su fondi di 
+terzi e derivati su indici in portafoglio e sono determinate dal Gestore sulla base di analisi svolte da fornitori terzi 
+specializzati in campo ESG. 
+ 
+Rischio cambio 
+L’esposizione al rischio di cambio è gestita attivamente. L’esposizione valutaria è limitata al 20% del patrimonio 
+del Comparto. 
+Turnover 
+Il tasso di rotazione annua del portafoglio massimo è 2. 
+Tracking Error 
+Il valore di tracking error annualizzato massimo è 3%. 
+Benchmark 
+20% JP Morgan EMU  (Gross Total Return – in Euro), 20% JP Morgan GBI Global ( Gross Total Return - in 
+Euro), 20% ICE BofA Euro Large Cap Corporate (Gross Total Return – in Euro), 40% ICE BofA Euro Treasury 
+Bill (Gross Total Return – in Euro). 
+Sono possibili significativi scostamenti della composizione del portafoglio del Comparto rispetto al benchmark, 
+attraverso l’investimento in strumenti finanziari di emittenti non presenti nell’indice di riferimento o presenti in 
+proporzioni diverse e attraverso il differente bilanciamento delle aree geografiche e/o settoriali di investimento, 
+al fine di realizzare un migliore rendimento corretto per il rischio nel lungo periodo. 
+ 
+***** 
+Comparto Garanzia 1+  
+Categoria del comparto: Garantito (linea monetaria) 
+Finalità della gestione: la gestione è finalizzata a soddisfare le esigenze degli aderenti che hanno come obiettivo 
+un contenuto incremento dei capitali investiti in un orizzonte temporale di breve periodo. È più adatto a coloro 
+che sono prossimi all’accesso alla prestazione pensionistica complementare e/o che hanno una bassa propensione 
+al rischio. 
+Orizzonte temporale d’investimento consigliato: breve periodo (fino a 5 anni).
+=== pagina 20 ===
+20 
+ 
+ 
+Grado di rischio : basso. Quando opera la garanzia  (previsioni riportate nella Nota Informativa e nel 
+Regolamento) il profilo di rischio del Comparto è nullo. 
+Politica di investimento: 
+Sostenibilità: Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’art. 8 del Regolamento (UE) 
+2019/2088. 
+Strumenti finanziari 
+Esclusivamente strumenti finanziari di natura monetaria e obbligazionaria denominati in Euro  e/o in parti di 
+OICVM specializzati nell’investimento in strumenti finanziari aventi caratteristiche analoghe . Investimento in 
+OICVM collegati fino al 100% del patrimonio del Comparto.  È escluso l’investimento in OICVM di asset 
+manager terzi.  La durata media finanziaria del patrimonio del Comparto (duration) varia da 0 a 1,5 anni. 
+Il Fondo utilizza strumenti finanziari derivati sia per finalità di copertura dei rischi sia per finalità di efficiente 
+gestione. 
+Categoria di emittenti e settori industriali 
+Emittenti sovrani ed assimilabili, organismi sovranazionali nonché emittenti di tipo societario.  
+L’investimento in titoli con merito di credito inferiore ad adeguato o privi di merito di credito è pari a zero. La 
+variazione del merito di credito degli strumenti finanziari che implichi il superamento del limite indicato 
+comporterà la dismissione degli stessi  nei tempi ritenuti più opportuni nell’interesse dei Partecipanti e, 
+comunque, entro il termine massimo di  12 mesi. Gli strumenti finanziari che presentino una vita residua  pari o 
+inferiore a 6 mesi potranno, comunque, essere detenuti dal fondo fino alla relativa scadenza. 
+Aree geografiche di investimento 
+Qualsiasi mercato.  È escluso l’investimento nei mercati dei Paesi Emergenti. 
+Stile di gestione  
+Lo stile di gestione è attivo. 
+Gli investimenti sono effettuati sulla base di un’analisi macroeconomica delle principali variabili delle maggiori 
+economie mondiali, con particolare attenzione alle politiche monetarie messe in atto dalla Banca Centrale 
+Europea, nonché sulla base di un’an alisi di bilancio e di credito delle principali società emittenti sui mercati 
+obbligazionari (ad es.: ratios patrimoniali, livelli di indebitamento, differenziali di rendimento rispetto ad attività 
+prive di rischio). Considerazione delle opportunità di posizionamento, anche tramite arbitraggi, sulla parte a breve 
+delle curve dei tassi dei diversi paesi considerati. 
+Saranno privilegiati gli emittenti che si contraddistinguono per un'attenzione particolare nei confronti dei criteri 
+di tipo ambientale, sociali e di governance (cd. “Environmental, Social and Corporate governance factors” - 
+ESG). A tal fine, la SGR si avv ale dei dati e delle analisi condotte dai provider terzi utilizzati per valutare il 
+posizionamento degli emittenti rispetto ai citati criteri ESG. 
+ 
+Come primo criterio di selezione degli investimenti, le limitazioni interne prevedono l’investimento:  
+• di almeno il 70% del prodotto: 
+• in emittenti con ESG Score di MSCI superiore a 1,429, su una scala da 0 a 10 (ove 10 è il massimo); 
+• in OICVM classificati come prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+ 
+Come secondo criterio di selezione degli investimenti, le limitazioni interne prevedono che al massimo il 20% 
+del prodotto sia investito in: 
+• in emittenti senza ESG Score o con ESG Score di MSCI inferiore a 1,429, su una scala da 0 a 10 (ove 10 è 
+il massimo). 
+La parte rimanente può essere detenuta in liquidità. 
+ 
+Come terzo criterio di selezione degli investimenti, le limitazioni interne prevedono la valutazione delle pratiche 
+di buona governance per tutti gli strumenti finanziari presenti nei prodotti ex artt. 8 e 9 del Reg. UE 2088/2019. 
+In particolare: 
+• investimenti diretti in singoli emittenti corporate: si considera la conformità al Global Compact e uno Score 
+G di MSC I superiore a 1,429. Per gli emettenti corporate privi di Score G viene attivato un processo di
+=== pagina 21 ===
+21 
+ 
+ 
+valutazione interna basato su diversi indicatori afferenti al bilancio, alla struttura del management, alle 
+relazioni con la forza lavoro, alle politiche retributive, all’etica di business e alla compliance fiscale; 
+• investimenti in OICR:       
+o i fondi “art. 8 e art. 9 SFDR” sono sempre ammessi, in quanto soggetti agli obblighi di verifica della 
+buona governance; 
+o i fondi “art. 6” sono ammessi se garantiscono prassi di buona governance, ossia con G Score superiore 
+a 4,286 oppure previa verifica, da parte della SGR, che il Gestore terzo del prodotto “art. 6” in questione 
+abbia formalizzato procedure di controllo delle prassi di buona governance sugli investimenti del 
+prodotto stesso. 
+I punteggi G e l’accertamento di violazioni del Global Compact per singoli emittenti corporate e per gli OICR 
+cui si fa riferimento sono quelli prodotti dai fornitori terzi utilizzati dal Gestore. 
+Come quarto criterio di selezione degli investimenti, le limitazioni interne prevedono l’esclusione dal 
+portafoglio in titoli: 
+• degli emittenti corporate appartenenti ai settori tabacco e gioco d’azzardo, di quelli in violazione dei principi 
+UNGC o delle linee guida dell’OCSE destinati alle imprese multinazionali, di quelli coinvolti  nell’intera 
+catena del valore del carbone termico, ossia nei settori della produzione di energia, fornitura di servizi a 
+supporto dell'industria energetica ed estrazione, con una quota di fatturato che rappresenti oltre il  30% dei 
+loro ricavi  e di quelli direttamente coinvolti nella produzione o commercializzazione di armi controverse e 
+nucleari, incluse quelle previste dalla legge 220/2021 per le quali è consultabile sul sito web di Anima SGR 
+una sintesi della Policy sul divieto di investimento;  
+• delle società sanzionate dalle principali autorità internazionali di Australia, Canada, Giappone, Svizzera, 
+GB, USA, UE e ONU; 
+• degli emittenti governativi che siano sanzionati, così come disciplinato dalla Policy ESG, consultabile sul 
+sito web di Anima SGR. 
+ 
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look -through su fondi di 
+terzi e derivati su indici in portafoglio e sono determinate dal Gestore sulla base di analisi svolte da fornitori terzi 
+specializzati in campo ESG. 
+Rischio cambio 
+Assente 
+Turnover 
+Il tasso di rotazione annua del portafoglio massimo è 2. 
+Tracking Error 
+Il valore di tracking error annualizzato massimo è 1%. 
+Benchmark 
+100% ICE BofA Euro Treasury Bill (Gross Total Return – in Euro). 
+Sono possibili significativi scostamenti della composizione del portafoglio del Comparto rispetto al benchmark, 
+attraverso l’investimento in strumenti finanziari di emittenti non presenti nell’indice di riferimento o presenti in 
+proporzioni diverse e attraverso il differente bilanciamento delle aree geografiche e/o settoriali di investimento, 
+al fine di realizzare un migliore rendimento corretto per il rischio nel lungo periodo. 
+Garanzia di capitale 
+L’adesione al Comparto Garanzia 1+ attribuisce all’aderente, al verificarsi di eventi di cui alle previsioni riportate 
+nella nota informativa e nel regolamento del Fondo, il diritto alla corresponsione di un importo minimo garantito 
+a prescindere dai risultati di gestione. La garanzia può essere prestata alla SGR da soggetti diversi dalla stessa, a 
+ciò abilitati. Il diritto alla garanzia e l’importo minimo garantito sono riconosciuti nei casi e nelle misure previsti 
+dalla nota informativa e dal regolamento del Fondo. In particolare, è opportuno sottolineare come, in base alla 
+disciplina del Comparto “Garanzia 1+”, con decorrenza dal 1° agosto 2013 venga eliminato il diritto alla garanzia 
+di capitale al verificarsi degli eventi anticipazioni di prestazione, riscatto o trasferimento della posizione 
+individuale.
+=== pagina 22 ===
+22 
+ 
+ 
+ 
+Tutti gli indici utilizzati sono “total return” comprendendo il reinvestimento delle cedole lorde dei titoli 
+obbligazionari e il reinvestimento dei dividendi dei titoli azionari al netto della tassazione alla fonte. 
+ 
+Criteri per l’esercizio dei diritti di voto spettanti al fondo 
+ 
+Nel caso in cui il gestore decida di esercitare il diritto di voto nell’ambito della gestione del Fondo Pensione lo 
+stesso verrà esercitato in confo rmità alla policy adottata dalla società “Politica d’impegno” disponibile 
+all’indirizzo https://www.animasgr.it/IT/investitore-privato/sostenibilita/Pagine/informativa-societaria-di-
+sostenibilita.aspx 
+Sistema di controllo della gestione finanziaria  
+La Società si è dotata di apposite policy e procedure finalizzate a realizzare un sistema di controllo della gestione 
+dei portafogli gestiti. 
+ 
+Il controllo della gestione finanziaria è effettuato dalla funzione di Risk Management, che provvede al 
+monitoraggio dei rischi di mercato, di controparte, di liquidità e di sostenibilità dei portafogli gestiti. 
+ 
+Per quanto riguarda il monitoraggio dei rischi di mercato , la funzione di Risk Management verifica su base 
+giornaliera il rispetto delle limitazioni operative deliberate dal Comitato Investimenti e dal Consiglio di 
+Amministrazione in termini di indicatori di rischio e di esposizione ai principali fattori di rischio. 
+ 
+Relativamente alle limitazioni di rischio, visto che i comparti del fondo pensione sono tutti gestiti sulla base di 
+un benchmark di riferimento, l’indicatore di variabilità del rendimento medio scelto è il tracking error  
+annualizzato, ovvero un indicatore relativo. Tale indicatore misura anche la perdita massima accettabile in termini 
+relativi: in particolare, assumendo una distribuzione normale dei rendimenti, la perdita annuale contro benchmark 
+potrebbe essere superiore al limite di tracking error nel 16% circa dei casi e potrebbe essere superiore al doppio 
+del tracking error nel 3% circa dei casi. 
+ 
+I valori degli indicatori di rischio  sono stimati sulla base del modello di rischio adottato dalla società, il quale 
+utilizza la composizione corrente dei portafogli e la storia passata dei fattori di rischio che impattano 
+sull’andamento degli strumenti finanziari e delle altre attività in cui i portafogli sono investiti. 
+ 
+Il modello è implementato tramite l’applicativo RiskMetrics RiskManager, prodotto dalla società MSCI Inc., che 
+la SGR utilizza in licenza d’uso, il quale supporta modelli di tipo parametrico, Monte Carlo e delle simulazioni 
+storiche. Il modello implementato è basato sul metodo delle simulazioni storiche, con orizzonte di stima di due 
+anni ma con decadimento delle osservazioni, al fine garantire un’elevata reattività ai mutamenti del contesto di 
+mercato. 
+ 
+La funzione di Risk Management svolge inoltre periodicamente prove di stress test di mercato i cui risultati sono 
+presentati al Comitato Investimenti. Il Consiglio di Amministrazione è informato periodicamente sulle principali 
+evidenze di tali risultati, fatta salva la comunicazione alla prima occasione utile nel caso di criticità significative. 
+ 
+Per quanto riguarda il monitoraggio del rischio di controparte, è prevista innanzi tutto l’autorizzazione preventiva 
+del Consiglio di Amministrazione all’operatività con le singole controparti . L’autorizzazione è preceduta da  
+un’analisi da parte delle funzioni di gestione e dall’assegnazione di un rating interno da parte della funzione di 
+Risk Management.
+=== pagina 23 ===
+23 
+ 
+ 
+Relativamente all’operatività in strumenti finanziari derivati OTC non compensati mediante l’utilizzo di 
+controparti centrali, sono inoltre previsti limiti quantitativi prudenziali sull’esposizione al rischio controparte, 
+che si aggiungono agli eventuali limiti normativi e di regolamento. Tali limiti sono differenziati a seconda della 
+tipologia di portafoglio e del rating interno assegnato alla controparte e sono espressi in termini di esposizione 
+massima sul valore netto del portafoglio. La Società prevede inoltre alla mitigazione del rischio di controparte di 
+tali operazioni mediante la ricezione di idonee garanzie sulla base di quanto previsto dalla normativa EMIR 
+(Regolamento EU 2251/2016  e successive modificazioni ). Le policy aziendali stabiliscono i requisiti minimi 
+delle garanzie atte a ridurre il rischio controparte, in termini di tipologie di attività ricevibili, scarti di garanzia e 
+altre previsioni prudenziali a tutela dei portafogli. 
+ 
+Per quanto riguarda il monitoraggio del rischio di liquidità , la funzione di Risk Management verifica su base 
+mensile il rispetto dei limiti di liquidabilità minima dei portafogli deliberati dal Comitato Investimenti e dal 
+Consiglio di Amministrazione. Tali limiti sono espressi in termini di tempo necessario per convertire il 
+portafoglio in liquidità senza significative penalizzazioni di valore. La liquidabilità di ciascuna posizione è 
+stimata tenendo conto della natura e caratteristiche dello strumento finanziario e della dimensione della posizione. 
+Gli elementi utilizzati per la stima della liquidabilità della posizione sono diversi a seconda della tipologia di 
+strumento ed includono la media dei volumi rilevati su mercati regolamentati o sistemi alternativi di scambio, la 
+natura dell’emittente, l’ammontare in circolazione, l’ampiezza degli spread bid / ask, il merito di credito, ecc. I 
+limiti minimi sono stabiliti tenendo conto della politica di investimento del portafoglio e delle previsioni di 
+regolamento in ordine ai rimborsi, alle possibilità di indebitamento ed alle caratteristiche della clientela (ad 
+esempio concentrazione della clientela, dinamica delle sottoscrizioni e rimborsi). 
+ 
+La funzione di Risk Management svolge inoltre con frequenza mensile prove di stress test di liquidità, i cui 
+risultati sono sottoposti all’attenzione del Comitato Investimenti. Il Consiglio di Amministrazione è informato 
+periodicamente sulle principali evidenze di tali risultati, fatta salva la comunicazione alla prima occasione utile 
+nel caso di criticità significative. 
+ 
+Per quanto riguarda il monitoraggio dei rischi di sostenibilità , l ’attività è svolta principalmente attraverso 
+l’assegnazione  agli emittenti degli strumenti finanziari nei quali i portafogli gestiti sono investiti, basandosi sugli 
+score ESG e sui dati PAI (Principal Adverse Impact  o PAI) dei singoli emittenti forniti da info provider 
+specializzati. L’attività di monitoraggio tiene in considerazione, oltre agli score e al livello dei PAI, anche la 
+percentuale del portafoglio su cui è possibile calcolare il dato (analizzabile) e la percentuale di copertura del dato 
+fornito dai provider (copertura).  Il monitoraggio del rischio di sostenibilità comprende anche la valutazione 
+qualitativa di altri fattori, quali, ad esempio, l’appartenenza degli emittenti a determinati settori di attività 
+considerati più rischiosi dal punto di vista ambientale o sociale.  Il Servizio Risk Management invia su base 
+mensile al Consiglio di Amministrazione e al Comitato Investimenti una reportistica contenente l’elenco dei 
+superi dei limiti ESG deliberati dagli stessi e rilevati nel corso del mese precedente. 
+ 
+In aggiunta al monitoraggio dei rischi di mercato, di controparte, di liquidità e di sostenibilità, la funzione di Risk 
+Management provvede al monitoraggio del rispetto dei limiti di investimento normativi e di quelli previsti dal  
+regolamento di gestione del Fondo. Tale monitoraggio è svolto almeno due volte all’interno di ciascuna giornata 
+operativa. 
+ 
+La funzione di Risk Management svolge inoltre il monitoraggio della velocità di rotazione del patrimonio dei 
+comparti, attraverso la verifica dei limiti interni d el tasso di rotazione di portafoglio ( turnover) definiti per 
+ciascuno di essi. La verifica è effettuata mensilmente sulla base dei valori di turnover calcolati dalla funzione di 
+Back Office in outsourcing. 
+ 
+Gli eventuali superamenti di limiti di investimento normativi, di regolamento o interni sono comunicati 
+tempestivamente dalla funzione di Risk Management alla funzione di gestione e al relativo Responsabile, affinché 
+vengano poste in essere le necessarie azioni correttive. Gli stessi sono analizzati nell’ambito del Comitato di Risk 
+Management e sono riepilogati su base mensile al Comitato Investimenti e al Consiglio di Amministrazione.
+=== pagina 24 ===
+24 
+ 
+ 
+ 
+La funzione di Risk Management provvede infine al monitoraggio giornaliero dei rendimenti dei portafogli gestiti 
+e dei relativi benchmark ed all’analisi, su base mensile, delle cause degli scostamenti dal benchmark. 
+Quest’ultima analisi è svolta attraverso la scomposizione dei rendimenti relativi sulla base dei relativi fattori 
+determinanti ( performance attribution ) ed in particolare dei contributi derivanti  da asset allocation , stock 
+selection e currency effect, fino a giungere all’attribuzione del risulta to allo specifico strumento finanziario 
+oggetto di investimento. 
+ 
+Modifiche apportate nell’ultimo triennio 
+Con delibera del 30 aprile 2021 si è provveduto ad eliminare l e sezioni intitolate “Compiti e responsabilità dei 
+soggetti coinvolti nel processo d’investimento ” e “Soggetti coinvolti nella attività della forma pensionistica 
+complementare” poiché, ai sensi della  Deliberazione Covip del 13 gennaio 2021 , tali informazioni saranno 
+riportate nel “Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti”  
+disponibile all’indirizzo www.fondopensione.animasgr.it. È stata, inoltre, aggiornata la disclosure relativa alla 
+“Policy ESG”, che si rende disponibile sul sito dedicato al Fondo Pensione. Si è, inoltre, provveduto ad integrare 
+la denominazione degli indici che compongono il parametro di riferimento dei comparti con informazioni di 
+dettaglio. 
+Con delibera del 25 febbraio 2022 si è provveduto a fornire l’opportuna disclosure con riferimento alla qualifica 
+dei Comparti quali prodotti finanziari di cui all’art. 8 del Regolamento (UE) 2019/2088 e ai criteri di selezione e 
+di esclusione che attengono la gestione del portafoglio, in linea con i principi ESG. Successivamente all’adozione 
+di tale classificazione, l’applicazione della Policy ESG è stata estesa anche alla componente investita in OICM 
+collegati. 
+Con delibera del 31 marzo 2023 si è provveduto all’aggiornamento delle tabelle di cui al paragrafo “Obiettivi 
+della Politica d’Investimento” sulla base dei dati a marzo 2023, all’aggiornamento delle informazioni che 
+attengono alle caratteristiche ESG dei Comparti, anche a seguito dell’adeguamento delle informazioni contenute 
+nella Nota Informativa e, precisamente, nella struttura dell’Appendice “Informativa sulla sostenibilità” allo 
+Schema di cui all’Allegato II del Regolamento delegato (UE) 2022/1288, come  modificato dal Regolamento 
+delegato 2023/363, (“Modello di informativa precontrattuale per i prodotti finanziari di cui all'articolo 8, paragrafi 
+1, 2 e 2 bis, del regolamento (UE) 2019/2088”, nonché all’introduzione della descrizione dell'analisi del ris chio 
+di sostenibilità e di ulteriori affinamenti nel paragrafo relativo al “Sistema di controllo della gestione finanziaria”. 
+ 
+Con delibera del 27 marzo 2024 si è provveduto alla modifica dei pesi degli indici che compongono il benchmark 
+di riferimento del comparto Crescita 25+  e all’aggiornamento delle tabelle di cui al paragrafo “Obiettivi della 
+Politica d’Investimento” sulla base dei dati a marzo 2024, nonché ad alcune riformulazioni di carattere esplicativo 
+del paragrafo. 
+ 
+Con delibera del 26 giugno 2025 , in occasione dell’aggiornamento del Gruppo di appartenenza della SGR, si è 
+provveduto ad apportare alcune riformulazioni dei criteri di esclusione di alcuni emittenti e a precisare alcune 
+funzioni svolte dal Risk Management. 
+ 
+Con delibera del 19 dicembre 2025, il Consiglio di Amministrazione ha approvalo le modifiche volte ad 
+introdurre un nuovo comparto di investimento, denominato Comparto Sviluppo 15+, al fine di offrire una linea 
+di investimento caratterizzata da un orizzonte temporale intermedio rispetto alle opzioni attualmente proposte  e 
+ad eliminare la descrizione in termini quantitativi dell’orizzonte temporale di tutti i comparti offerti, in coerenza 
+con la formulazione adottata per il comparto di nuova istituzione. Le citate modifiche, approvate dalla Covip in 
+data 25 febbraio 2026, sono efficaci dal 31 marzo 2026.
+=== pagina 25 ===
+25 
+ 
+ 
+Con delibera del 29 giugno 2026, il Consiglio di Amministrazione ha approvato le modifiche volte ad introdurre 
+limitatamente ai Comparti “Crescita 25+”, “Sviluppo 15+” e “Rivalutazione 10+” la possibilità di investire in 
+FIA mobiliari chiusi riservati collegati. 
+ 
+ 
+Documentazione disponibile. 
+Le Informazioni Chiave per l’aderente, l’Appendice “Informativa sulla sostenibilità”, la Nota Informativa ed il 
+Regolamento del Fondo sono resi disponibili gratuitamente sul sito Internet www.fondopensione.animasgr.it, 
+presso i Soggetti incaricati del collocamento e, per i lavoratori dipendenti che possono aderire su base collettiva, 
+presso i datori di lavoro. 
+Con le stesse modalità sono resi disponibili il Documento sul regime fiscale, il Documento sulle anticipazioni e 
+ogni altra informazione generale utile all’iscritto.

@@ -1,0 +1,413 @@
+# Fondo: FONDO PENSIONE APERTO PENSPLAN PROFI (pensplan-profi)
+# Documento: Metodologia delle proiezioni – Metodologia utilizzata per l'elaborazione delle proiezioni pensionistiche
+# Fonte: https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/Metodologiacalcoloprestazioni.pdf
+# Citato in: https://www.fondopensioneprofi.com/documenti
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: f190f97e9ab205de4cf9e9ce34f91bdcded0ac08d8f8883b709155ccdb585593
+# Pagine: 11
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+In vigore dal 27/04/2026 
+ 
+ 
+Fondo Pensione Aperto 
+Iscritto all’Albo COVIP al n. 147 
+Istituito in Italia da Euregio Plus SGR S.p.A. 
+ 
+ 
+Passaggio Duomo, 15 
+39100 Bolzano (BZ) 
+ 
+Tel.: 0471 068 700 
+Fax: 0471 068 766 
+ 
+profi@euregioplus.com 
+fondoprofi@pec.it 
+ www.fondopensioneprofi.com 
+  
+METODOLOGIA UTILIZZATA PER 
+L’ELABORAZIONE DELLE PROIEZIONI 
+PENSIONISTICHE 
+ 
+ 
+ 
+ 
+ 
+EUREGIO PLUS SGR S.P.A. (di seguito, Euregio+) è responsabile della completezza e veridicità dei 
+dati e delle notizie contenuti nel presente documento.
+=== pagina 2 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 1 di 10 
+ 
+INDICE 
+ 
+1 Premessa ...................................................................................................... 2 
+2 Variabili utilizzate ....................................................................................... 3 
+3 Prospetto standardizzato .......................................................................... 7 
+4 Prospetto personalizzato .......................................................................... 7 
+5 Motore di calcolo ......................................................................................... 8
+=== pagina 3 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 2 di 10 
+ 
+1 PREMESSA 
+Il presente documento è redatto in conformità agli obblighi previsti dalle Istruzioni di vigilanza 
+in materia di trasparenza, adottate da Covip con deliberazione del 22 dicembre 2020 (di 
+seguito “Istruzioni di Vigilanza”). 
+In particolare, nella Sezione V delle Istruzioni di Vigilanza “ Disposizioni sulle proiezioni delle 
+prestazioni pensionistiche ”, l’Autorità di Vigilanza ha definito una metodologia uniforme per 
+l’elaborazione di proiezioni che le forme pensionistiche complementari e le società che 
+gestiscono fondi pensione aperti devono utilizzare per fornire, in qualunque forma e a 
+qualunque fin e, anche promozionale, indicazioni circa le prestazioni attese (di seguito 
+“Proiezioni pensionistiche”). 
+Per il Fondo Pensione Aperto PensPlan Profi (di seguito “Fondo” o “PensPlan Profi”), le Proiezioni 
+pensionistiche sono presenti: 
+• nella Parte I “Le informazioni chiave per l’aderente” della Nota informativa  (Paragrafo 
+“Quanto potresti ricevere quando andrai in pensione”), nella quale vengono fornite 
+proiezioni standardizzate prendendo a riferimento figure -tipo generiche di aderenti, volte 
+ad illustrare l’importo della prestazione attesa al momento del pensionamento ed il valore 
+della rendita corrispondente alla posizione individuale maturata;  
+• nella Sezione “Quanto potresti ricevere quando andrai in pensione” del “Prospetto delle 
+prestazioni pensionistiche – fase di accumulo”, inviata annualmente agli aderenti, nella 
+quale vengono fornite proiezioni personalizzate basate sulle caratteristiche pr oprie dei 
+singoli iscritti (posizione individuale maturata, misura delle contribuzioni, età anagrafica);  
+• nella sezione dedicata al PensPlan Profi del sito internet di Euregio Plus SGR S.p.A. (di seguito 
+“SGR”), dove è disponibile al pubblico un motore di calcolo per lo sviluppo di proiezioni 
+personalizzate.
+=== pagina 4 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 3 di 10 
+ 
+2 VARIABILI UTILIZZATE 
+Per la costruzione di Proiezioni pensionistiche si considerano le informazioni relative al singolo 
+aderente, le informazioni proprie della forma pensionistica complementare e le ipotesi definite 
+dalla COVIP in modo uniforme per tutte le forme pensionistiche complementari. Le variabili da 
+utilizzare sono le seguenti: 
+Variabili Dati relativi 
+all’aderente 
+Dati relativi 
+PensPlan Profi 
+Ipotesi 
+definite da 
+Covip 
+1. d ati anagrafici dell’aderente (età e 
+sesso) 
+X   
+2. misura della contribuzione X   
+3. tasso atteso di cre scita della 
+contribuzione / retribuzione   X 
+4. tasso annuo atteso di inflazione   X 
+5. costi connessi alla partecipazione 
+nella fase di accumulo  X  
+6. profilo di investimento X   
+7. tasso atteso di rendimento della 
+gestione   X 
+8. età prevista al pensionamento X  X 
+9. basi tecniche per il calcolo della 
+rendita  X X 
+10. costo relativo alla trasformazione 
+della posizione individuale in rendita  X X 
+1. Dati anagrafici: considerando che nelle basi demografiche utilizzate per la conversione 
+in rendita del capitale maturato dagli aderenti del  PensPlan Profi non vi è distinzione 
+per sesso, il dato anagrafico rilevante ai fini delle Proiezioni pensionistiche è solo l’età 
+dell’aderente; 
+2. Misura della contribuzione (espressa su base annuale): la misura della contribuzione 
+è quella risultante alla forma pensionistica complementare sulla base delle indicazioni 
+dell’aderente ovvero quella che risulti effettivamente versata con carattere di stabilità; 
+i versamenti sono considerati al lordo dei costi gravanti direttamente sull’aderente e, 
+per il primo anno, delle spese di adesione; come previsto dalle Istruzioni di Vigilanza , 
+per semplicità si assume che i versamenti vengano effettuati all’inizio  di ciascun anno. 
+3. Tasso atteso di crescita della contribuzione/retribuzione: la contribuzione è rivalutata 
+annualmente; la rivalutazione avviene:
+=== pagina 5 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 4 di 10 
+ 
+• qualora la contribuzione sia espressa in cifra fissa, si assume un tasso reale dell’1% 
+(oltre l’inflazione); 
+• qualora la contribuzione sia espressa in percentuale della retribuzione, si assume 
+un tasso annuo atteso di crescita della retribuzione pari all’1% in termini reali (e 
+quindi oltre l’inflazione). 
+4. Tasso annuo atteso di inflazione : il tasso annuo atteso di inflazione è posto pari al 2%  
+(ancorché depurato dai risultati esposti viene considerato in fase di calcolo).  
+5. Costi connessi alla partecipazione nella fase di accumulo : i costi relativi alla fase di 
+accumulo sono quelli effettivamente applicati all’aderente. Nel calcolo della posizione 
+individuale finale vengono considerat e le spese e gli oneri gravanti, direttamente o 
+indirettamente, sull’aderente, indicate nella scheda “I costi” della Parte I ”Le informazioni 
+chiave per l’aderente” della Nota informativa, di seguito riepilogate:  
+• Spese di adesione: € 30,00 (prelevate dalla prima contribuzione);  
+• Spese sostenute durante la fase di accumulo direttamente a carico dell’aderente 
+(prelevate annualmente dalla posizione individuale tramite disinvestimento di 
+quote): 
+Tipo spesa Commissioni annue 
+Spese amministrative  17,00 € 
+Contributo di solidarietà    3,00 € 
+Non vengono considerate le agevolazioni di costo previste: 
+▪ per gli aderenti che non hanno compiuto i 18 anni, ai quali non viene richiesto 
+il pagamento delle spese annue indicate nella tabella sopra riportata.  
+▪ per gli aderenti residenti nel Trentino -Alto Adige, per i quali le spese 
+amministrative annue ammontano ad € 5,00; 
+▪ per particolari categorie di soggetti aderenti, sulla base delle relative schede 
+“collettività”. 
+• Spese sostenute durante la fase di accumulo indirettamente a carico dell’aderente 
+(prelevate dal patrimonio di ciascun comparto): 
+Comparto Commissioni annue 
+Ethical Life High Growth 1,35% 
+Ethical Life Growth 1,10% 
+Ethical Life Balanced Growth 1,00% 
+Ethical Life Conservative 0,80% 
+Ethical Life Short Term 0,70%
+=== pagina 6 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 5 di 10 
+ 
+• Non vengono considerati costi relativi all’eventuale esercizio di prerogative individuali);  
+ 
+Per maggiori informazioni sui costi del PensPlan Profi, consultare la 
+scheda “I costi”, disponibile sul sito 
+www.fondopensioneprofi.com/documenti, sezione “Documentazione di 
+offerta” 
+6. Profilo di investimento : il profilo di investimento corrisponde al comparto scelto 
+dall’aderente. PensPlan Profi non prevede  meccanismi di  riallocazione automatica 
+della posizione individuale o dei flussi di contribuzione tra comparti in funzione dell’età 
+dell’aderente o degli anni mancanti al pensionamento. 
+7. Tasso atteso di rendimento della gestione : al fine di tenere conto delle differenti 
+caratteristiche di investimento  dei comparti, i parametri di rendimento sono definiti in 
+funzione delle diverse classi di attività (azionario o obbligazionario). Le ipotesi di 
+rendimento sono pertanto  distinte per gli investimenti azionari e per quelli 
+obbligazionari. 
+I tassi di rendimento riportati nella Tabella che segue sono espressi in termini reali (oltre 
+l’inflazione) e al lordo dei costi e della tassazione: 
+ Rendimento azionario 
+(𝑟𝐴𝑍) 
+Rendimento 
+obbligazionario (𝑟𝑂𝐵𝐵) 
+Rendimento medio annuo 4,00% 2,00% 
+Con riferimento a ciascun comparto rientrante nel profilo di  investimento scelto 
+dall’aderente, i versamenti sono rivalutati annualmente sulla base dei seguenti 
+parametri di rendimento (𝑟), calcolati secondo le formule che seguono: 
+𝑟 = ∝ 𝑟𝐴𝑍 +  𝛽𝑟𝑂𝐵𝐵 
+I coefficienti ∝ e 𝛽 rappresentano le percentuali di investimento, rispettivamente, 
+azionario e obbligazionario di ciascun comparto, corrispondenti alla composizione del  
+relativo benchmark. I coefficienti assumono pertanto valori tali per cui ( ∝ + 𝛽) = 1. 
+Considerando pertanto la composizione del benchmark dei 5 comparti del Fondo  ed i 
+valori di rendimento medio annuo ipotizzati nelle Istruzioni di Vigilanza e sopra indicati, 
+viene di seguito riportata la rivalutazione annua dei versamenti  utilizzata nella stima 
+delle Proiezioni pensionistiche: 
+Comparto ∝ 𝒓𝑨𝒁 + 𝜷𝒓𝑶𝑩𝑩 = 𝑟 
+Ethical Life High Growth 70% x 4,00% +   30% x 2,00% = 3,40% 
+Ethical Life Growth 50% x 4,00% +   50% x 2,00% = 3,00% 
+Ethical Life Balanced 
+Growth 
+30% x 4,00% +   70% x 2,00% = 2,60%
+=== pagina 7 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 6 di 10 
+ 
+Comparto ∝ 𝒓𝑨𝒁 + 𝜷𝒓𝑶𝑩𝑩 = 𝑟 
+Ethical Life Conservative 10% x 4,00% +   90% x 2,00% = 2,20% 
+Ethical Life Short Term   0% x 4,00% + 100% x 2,00% = 2,00% 
+8. Età di pensionamento : si tratta della presumibile età di pensionamento di vecchiaia, 
+individuata sulla base delle indicazioni eventualmente fornite dall’aderente oppure, in 
+assenza di tali informazioni, ricavata sulla base delle informazioni disponibili o prevista 
+per il pensionamento di vecchiaia dei lavoratori dipendenti; 
+9. Ipotesi tecniche per il calcolo della rendita: il calcolo della prima rata annua di rendita 
+è effettuato moltiplicando il premio versato dal Fondo alla Compagnia incaricata 
+dell’erogazione, al netto delle imposte  per il coefficiente di conversione indicato 
+nell’allegato 2 “Condizioni e modalità di erogazione delle Rendite” al Regolamento del 
+Fondo, e dividendo il risultato per 1.000. 
+I coefficienti di conversione del capitale maturato in rendita sono quelli in vigore al 
+momento della conversione stessa, e sono calcolati: 
+a) sulla base demografica (denominata A62D) senza distinzione per sesso, relativa 
+allo studio basato su dati ISTAT effettuato da ANIA; 
+b) sulla base di un tasso tecnico stabilito nella misura del 0%. 
+I caricamenti previsti sono  quelli indicati nel sopra citato allegato 2 del Regolamento 
+del Fondo: 
+a) caricamento di gestione dell’1,00% calcolato sul premio unico di polizza; 
+b) caricamento di erogazione dell’1,25% calcolato sull’annualità della rendita.  
+La posizione individuale relativa a ciascun anno di sviluppo della proiezione è calcolata 
+tenendo conto della contribuzione lorda relativa a ciascun anno, del tasso di rendimento 
+corrispondente al profilo di investimento dell’aderente, dei costi praticati dalla forma 
+pensionistica complementare e del prelievo fiscale sui rendimenti della gestione, secondo la 
+normativa tempo per tempo vigente. 
+La stima tiene conto della tassazione sui risultati conseguiti, ma non della tassazione sulle 
+prestazioni. Non vengono inoltre considerati i vantaggi fiscali derivanti dalla possibilità di 
+dedurre i contributi. In generale, è da tener presente che la parte cipazione alle forme di 
+previdenza complementare consente di fruire di benefici fiscali. 
+ 
+Per maggiori informazioni sul trattamento fiscale, consultare il “Documento sul 
+Regime Fiscale”, disponibile sul sito www.fondopensioneprofi.com/documenti, 
+sezione “Documentazione di offerta” 
+I valori della posizione individuale e della rata di rendita sono riportati in termini reali, e pertanto 
+sono già al netto degli effetti dell’inflazione. Per il calcolo della posizione individuale finale viene 
+applicata l'imposta sostitutiva sui rendimenti del fondo con l'aliquota fissa del 20% (senza
+=== pagina 8 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 7 di 10 
+ 
+considerare gli effetti della tassazione al 12,5% relativa ai rendimenti derivanti da titoli pubblici 
+ed equiparati), introdotta dalla Legge 190/2014 - Legge di Stabilità 2015; i rendimenti sui quali 
+viene calcolata l’imposta sostitutiva sono dati dalla di fferenza tra la somma accumulata alla 
+fine dell’anno precedente e quella prevista alla fine dell’anno di riferimento.  
+3 PROSPETTO STANDARDIZZATO 
+Nel Paragrafo ‘Quanto potresti ricevere quando andrai in pensione’, della Parte I ‘Le 
+informazioni chiave per l’aderente’, della Nota informativa, viene riportato  un prospetto di 
+simulazione contenente il valore della posizione individuale e il corrispondente valore della rata 
+annua di rendita attesa, calcolata con riferimento alle ipotesi  definite da Covip nelle Istruzioni 
+di Vigilanza, di seguito riportate. 
+Le Proiezioni pensionistiche standardizzate sono fornite per ogni comparto del Fondo Pensione 
+Aperto PensPlan Profi, avendo riferimento figure-tipo generiche con le seguenti caratteristiche: 
+• età anagrafica al momento dell’adesione di 30 e 40 anni; 
+• residenza dell’aderente al di fuori del Trentino -Alto Adige (non viene pertanto considerato 
+lo sconto previsto di € 12,00 per ogni anno di permanenza nel Fondo);  
+• contributo annuo: € 2.500 e € 5.000 (versati in unica soluzione all’inizio di ogni anno);  
+• età di pensionamento: 67 anni. 
+Gli importi sono calcolati al lordo della fiscalità e sono espressi in termini reali (e pertanto sono 
+già al netto degli effetti dell’inflazione), nell’ipotesi che l’intera prestazione sia erogata in forma 
+di rendita vitalizia immediata senza reversibilità. 
+4 PROSPETTO PERSONALIZZATO 
+Nell’ambito del ‘Prospetto delle prestazioni pensionistiche – fase di accumulo’, inviato 
+annualmente agli aderenti del Fondo, vengono fornite proiezioni pensionistiche volte a 
+consentire all’aderente una valutazione sintetica e prospettica del proprio prog ramma 
+previdenziale. Tali rappresentazioni costituiscono pertanto uno strumento di ausilio nella 
+adozione delle scelte relative alla partecipazione alla forma pensionistica complementare per 
+le variabili dipendenti da determinazioni dell’aderente medesimo. 
+In particolare, la Sezione ‘Quanto riceverai quando andrai in pensione’ contiene una proiezione 
+della posizione maturata al momento del pensionamento e della relativa rata annua di rendita 
+attesa nell’ipotesi che l’intera prestazione sia erogata in forma d i rendita vitalizia immediata 
+senza reversibilità.
+=== pagina 9 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 8 di 10 
+ 
+Inoltre, nella Sezione ‘Informazioni all’avvicinarsi del pensionamento di vecchiaia’ (che viene 
+fornita in aggiunta agli aderenti ai quali mancano tre anni o meno alla presumibile età di 
+pensionamento) viene altresì riportata una stima del valore della pos izione individuale 
+maturata e della relativa rata di rendita per ciascuna tipologia di rendita offerta (con 
+eccezione della rendita vitalizia reversibile) in corrispondenza della presumibile età di 
+pensionamento di vecchiaia e ai quattro anni successivi. 
+Il valore della posizione individuale prospettica e il corrispondente valore della rata annua di 
+rendita attesa sono rappresentati in termini reali, ossia al netto dell’effetto dell’inflazione. 
+In sede di aggiornamento annuale del documento per l’elaborazione delle proiezioni inerenti 
+al valore della posizione individuale maturata si assume quale dato iniziale la posizione 
+individuale effettivamente maturata dall’aderente alla fine dell’anno sola re precedente. 
+L’indicazione della rata di rendita è al lordo della tassazione. L’aggiornamento tiene conto delle 
+condizioni di partecipazione in vigore al momento in cui si procede alla elaborazione.  
+Qualora, per i lavoratori dipendenti, i versamenti comprendano anche il flusso di TFR, si assume 
+che gli eventuali contributi a carico del datore di lavoro e/o del lavoratore (ove non determinati 
+in cifra fissa) siano espressi in percentuale della retribuz ione utile per il calcolo del TFR, anche 
+laddove i contratti o accordi collettivi utilizzino una base di calcolo differente.  
+5 MOTORE DI CALCOLO 
+Sul sito internet di Euregio Plus, nella sezione relativa al Fondo è reso disponibile al pubblico un 
+motore di calcolo per lo sviluppo delle Proiezioni pensionistiche, in lingua italiana o tedesca. 
+ 
+Per effettuare simulazioni “personalizzate” sull’andamento futuro del programma 
+previdenziale Euregio Plus SGR S.p.A. mette a disposizione degli aderenti un motore 
+di calcolo, raggiungibile dal sito web sul proprio sito internet dal link 
+www.fondopensioneprofi.com/valore-e-rendimento  
+Per quanto attiene alla individuazione delle variabili da impiegare nelle elaborazioni, il motore 
+di calcolo consente la modificabilità delle ipotesi in materia di: 
+Dati obbligatori 
+• dati anagrafici dell’aderente: 
+• sesso; 
+• data di nascita; 
+• data inizio lavoro. 
+• reddito lordo annuo: tale dato serve sia per il calcolo del tasso di sostituzione, sia per la 
+determinazione della misura della contribuzione, nel caso di adesione collettiva;
+=== pagina 10 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 9 di 10 
+ 
+• tipo di adesione (individuale o collettiva); 
+• misura della contribuzione, e più precisamente: 
+• in caso di adesione individuale: versamento annuo al Fondo; 
+• in caso di adesione collettiva: percentuale di contribuzione a carico dell’aderente ed a 
+carico dell’azienda e percentuale di TFR destinato alla previdenza complementare ; 
+• profilo di investimento. 
+Dati opzionali 
+• data di adesione al Fondo Pensione Aperto PensPlan Profi; 
+• data prima iscrizione alla Previdenza Complementare; 
+• data prevista per il pensionamento : viene ipotizzata per default l’età di 67 anni  prevista 
+nelle Istruzioni di Vigilanza per il prospetto standardizzato, ma è possibile variare tale dato 
+(in un range tra 60 e 75 anni); 
+• importo eventualmente trasferito da altro fondo pensione a PensPlan Profi;  
+• tipo di lavoratore (dipendente privato, dipendente pubblico o libero professionista);  
+• prospettiva di crescita del reddito: sono previste tre possibilità di sviluppo del tasso annuo 
+atteso di crescita della retribuzione reale (e quindi al netto degli effetti dell’inflazione): 
+• Basso = 1,00% (ipotesi base definita nelle Istruzioni di Vigilanza); 
+• Medio = 2,00%; 
+• Alto = 3,00% (ipotesi di crescita massima definita nelle Istruzioni di Vigilanza);  
+• tipo di rendita (vitalizia, certa per i primi 5 anni oppure certa per i primi 10 anni); 
+• percentuale di erogazione della rendita (in un range dal 50% al 100%).  
+Nel calcolo della posizione individuale maturata al momento del pensionamento non si tiene 
+conto di eventuali agevolazioni commissionali previste: 
+• per gli aderenti che non hanno compiuto i 18 anni. 
+• per gli aderenti residenti nel Trentino-Alto Adige; 
+• per particolari categorie di soggetti aderenti, sulla base delle relative schede “collettività” . 
+Risultati della simulazione 
+Il motore di calcolo consente di simulare l’effetto sulla posizione individuale in maturazione e 
+sulla prestazione pensionistica attesa d elle opzioni esercitabili dall’aderente ( tipo di rendita, 
+percentuale di erogazione della rendita ), e restituisce un riepilogo dei seguenti dati, 
+evidenziando le differenze nell’ipotesi di pensione anticipata o di pensione di vecchiaia:  
+• età di pensionamento stimata; 
+• rendita stimata dalla previdenza complementare (di seguito 𝑅𝑒𝑛𝑑𝑖𝑡𝑎𝐹𝑜𝑛𝑑𝑜); 
+• importo stimato della previdenza obbligatoria di appartenenza (di seguito 
+𝑅𝑒𝑛𝑑𝑖𝑡𝑎𝑃𝑒𝑛𝑠𝑖𝑜𝑛𝑒);
+=== pagina 11 ===
+PensPlan Profi Fondo Pensione Aperto Metodologie per l’elaborazione delle proiezioni 
+pensionistiche 
+ 
+ 
+In vigore dal 27/04/2026 pagina 10 di 10 
+ 
+• importo stimato dell’ultimo reddito percepito al momento del pensionamento (di seguito 
+𝑆𝑡𝑖𝑚𝑎𝑅𝑒𝑑𝑑𝑖𝑡𝑜); 
+• tasso di sostituzione, ovvero il grado di copertura atteso dal sistema di previdenza 
+obbligatoria di appartenenza rispetto al reddito stimato al momento del pensionamento:  
+• tasso di sostituzione della previdenza obbligatoria, che si ottiene dal risultato della formula: 
+𝑅𝑒𝑛𝑑𝑖𝑡𝑎𝑃𝑒𝑛𝑠𝑖𝑜𝑛𝑒
+𝑆𝑡𝑖𝑚𝑎𝑅𝑒𝑑𝑑𝑖𝑡𝑜    
+• tasso di sostituzione dalla previdenza complementare, che si ottiene dal risultato della 
+formula: 
+𝑅𝑒𝑛𝑑𝑖𝑡𝑎𝐹𝑜𝑛𝑑𝑜
+𝑆𝑡𝑖𝑚𝑎𝑅𝑒𝑑𝑑𝑖𝑡𝑜    
+• tasso di sostituzione totale, che si ottiene dal risultato della formula:  
+𝑅𝑒𝑛𝑑𝑖𝑡𝑎𝑃𝑒𝑛𝑠𝑖𝑜𝑛𝑒 + 𝑅𝑒𝑛𝑑𝑖𝑡𝑎𝐹𝑜𝑛𝑑𝑜
+𝑆𝑡𝑖𝑚𝑎𝑅𝑒𝑑𝑑𝑖𝑡𝑜  
+Il programma consente inoltre di visualizzare: 
+• in forma grafica la composizione del tasso di sostituzione totale, evidenziando il gap 
+rispetto al reddito stimato (𝑆𝑡𝑖𝑚𝑎𝑅𝑒𝑑𝑑𝑖𝑡𝑜); 
+• in forma tabellare, il versamento annuo lordo al momento del pensionamento, i versamenti 
+lordi cumulati dal momento dell’adesione alla previdenza complementare, la posizione 
+individuale maturata al momento del pensionamento e rendita stimata dalla previden za 
+complementare (𝑅𝑒𝑛𝑑𝑖𝑡𝑎𝐹𝑜𝑛𝑑𝑜). 
+Tutti i valori della posizione individuale prospettica e della prima rata annua di rendita sono 
+rappresentati in termini di potere d’acquisto reale, ossia al netto dell’effetto dell’inflazione.

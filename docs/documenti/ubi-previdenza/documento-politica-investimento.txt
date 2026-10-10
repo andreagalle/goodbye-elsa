@@ -1,0 +1,854 @@
+# Fondo: FONDO PENSIONE APERTO UBI PREVIDENZA (ubi-previdenza)
+# Documento: Documento sulla politica di investimento – Politica di Investimento
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/altro/011-1/Politica%20di%20investimento.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/fondo-pensione-aperto-ubi-previdenza.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: b8d8cacdc6147cbe2a09dcefe3b8ae861f458a80c9a6ec45a16fe748f9d381c7
+# Pagine: 27
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UBI PREVIDENZA 
+Fondo Pensione Aperto 
+ 
+Politica di investimento
+=== pagina 2 ===
+ANAGRAFICA 
+Data di emanazione: 26/02 /2025 
+Data di applicazione: 26/02/2025 
+Versione: 3.0 
+ 
+CRONOLOGIA DEL DOCUMENTO 
+Data Autore Versione e modifiche 
+Versione 1.0  Prima edizione 
+14/12/2012 Aviva Assicurazioni Vita S.p.A. Data di prima approvazione 
+21/03/2016 Aviva Assicurazioni Vita S.p.A. 
+Aggiornamento degli indicatori 
+quantitativi dei singoli comparti. 
+Introduzione del limite di esposizione 
+valutaria extra euro al 30% ai sensi del  
+Decreto 2 settembre 2014 n. 166 . 
+Modifiche dei benchmark di 
+“Comparto Moderato”, “Comparto 
+Dinamico” e “Comparto Aggressivo”. 
+11/05/2017 Aviva Vita S.p.A. 
+Recepimento del nuovo asset 
+Societario legato alla fusione per 
+incorporazione di Aviva Assicurazioni 
+Vita S.p.A. in Aviva Vita S.p.A..  
+11/05/2017 Aviva Vita S.p.A. 
+Modifica dell'Orizzonte temporale dei 
+singoli comparti ai sensi della 
+Deliberazione Covip del 25 maggio 
+2016.  
+Modifica del limite massimo della 
+componente derivati per quanto 
+riguarda gli "Strumenti derivati per 
+copertura rischi" dal 2% al 20% per 
+tutti i comparti. 
+ 
+21/03/2018 Aviva Vita S.p.A. 
+Aggiornamento degli indicatori 
+quantitativi dei singoli comparti. 
+ 
+Aggiornamento della sezione 
+"SISTEMA Dl CONTROLLO DELLA 
+POLITICA Dl INVESTIMENTO”.
+=== pagina 3 ===
+Modificati i limiti massimi di TEV di 
+ciascun comparto. 
+26/02/2019 Aviva Vita S.p.A. 
+Per i comparti "Comparto Capitale 
+Sicuro" e "Comparto Capitale 
+Garantito" sono stati modificati: 
+ 
+- il range di duration della 
+componente obbligazionaria del 
+portafoglio; 
+- il limite massimo per la parte di 
+portafoglio investita in titoli 
+obbligazionari Corporate; 
+- il limite minimo di Rating 
+ammissibile per i titoli Corporate 
+- la tipologia di investimento 
+azionario che diventa 
+internazionale per il comparto 
+“Capitale Sicuro”; 
+- la percentuale minima di titoli 
+obbligazionari di emittenti 
+appartenenti alla zona euro, dal 
+80% al 60%  per il comparto 
+“Capitale Garantito” 
+- la composizione del benchmark 
+ 
+Inoltre è stato eliminato l'importo del 
+patrimonio del comparto per il quale 
+si ritiene ammissibile l'utilizzo di OICR, 
+prima previsto a 20 milioni di Euro 
+ed è stato introdotto il limite di costo 
+per la commissione di gestione degli 
+OICR in portafoglio, pari a 0.40%. 
+02/08/2021 
+ 
+Assicurazioni Vita S.p.A. 
+Aggiornamento triennale con 
+recepimento della modifica 
+dell’assetto societario, ruoli e 
+responsabilità dei soggetti coinvolti e 
+recepimento della  Deliberazione 
+Covip del 13 gennaio 2021
+=== pagina 4 ===
+Versione 2.0  Revisione triennale 
+18/03/2022 Risk Management 
+Aggiornamento della società che 
+gestisce la forma pensionistica a 
+seguito della fusione di Assicurazioni 
+Vita. S.p.A. in Intesa Sanpaolo Vita 
+S.p.A. 
+Aggiornamento degli indicatori 
+quantitativi dei singoli comparti e del 
+layout del Documento. 
+Adeguamento del sistema di controllo 
+e valutazione della gestione finanziaria 
+in funzione della normativa interna 
+della Società. 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+18/03/2022. 
+ 
+Versione 3.0  Revisione triennale 
+26/02 /2025 Enterprise Risk 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+26/02 /2025. 
+Aggiornamento degli indicatori 
+quantitativi dei singoli comparti e del 
+layout del Documento.
+=== pagina 5 ===
+INDICE 
+ 
+RIFERIMENTI NORMATIVI ................................ ................................ ................................ ............ 6 
+PREMESSA ................................ ................................ ................................ ................................ .... 6 
+OBIETTIVI DELLA GESTIONE FINANZIARIA ................................ ................................ ............... 7 
+1. CARATTERISTICHE................................ ................................ ................................ ................ 8 
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE ................................ ...................... 9 
+COMPARTO CAPITALE SICURO ................................ ................................ ..............................  11 
+COMPARTO GARANTITO ................................ ................................ ................................ ........ 13 
+COMPARTO PRUDENTE ................................ ................................ ................................ ........... 16 
+COMPARTO MODERATO ................................ ................................ ................................ ........ 18 
+COMPARTO DINAMICO ................................ ................................ ................................ .......... 20 
+COMPARTO AGGRESSIVO ................................ ................................ ................................ ...... 22 
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO ................................ ...............................  24 
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA ..................... 25 
+1. CONTROLLO LIMITI ................................ ................................ ................................ ........... 25 
+2. ANALISI DEI COMPARTI ................................ ................................ ................................ .... 25 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION ................................ ................................ .. 25 
+4. ATTRIBUZIONE DEL RATING ................................ ................................ ...............................  26
+=== pagina 6 ===
+RIFERIMENTI NORMATIVI 
+ 
+Decreto Legislativo n. 252 del 5 dicembre 2005. 
+Deliberazione COVIP del 16 marzo 2012. 
+Decreto del Ministero dell’Economia e delle Finanze DM 166/2014. 
+ 
+ 
+PREMESSA  
+ 
+Il presente documento disciplina la politica degli investimenti del fondo pensione UBI PREVIDENZA, 
+definendo la strategia finanziaria che si intende attuare per ottenere la combinazione 
+rischio/rendimento coerente con i bisogni previdenziali degli aderenti. Il documento è stato redatto 
+in adempimento a quanto prescritto dalla Deliberazione COVIP del 1 6 marzo 2012. Il documento 
+verrà sottoposto a revisione periodica, almeno ogni tre anni e tutte le modifiche apportate verranno 
+annotate nella tabella contenen te la cronologia del documento, indicando una sintetica 
+descrizione delle stesse e le date con cui sono state effettuate. Il documento viene trasmesso in 
+occasione di ogni sua modifica: 
+ 
+• alla COVIP, entro venti giorni dalla sua formalizzazione; 
+• ai soggetti incaricati dalla gestione; 
+• al Responsabile del Fondo.
+=== pagina 7 ===
+OBIETTIVI DELLA GESTIONE FINANZIARIA 
+ 
+Il fondo pensione aperto UBI PREVIDENZA  gestisce le risorse nel rispetto del principio della sana e 
+prudente gestione e nel migliore interesse degli aderenti e dei beneficiari. In particolare, devono 
+essere osservati i seguenti obiettivi di gestione: 
+ 
+▪ efficiente gestione del portafoglio, in modo da contemperare la massimizzazione della 
+redditività e la minimizzazione dei costi di transazione, gestione e funzionamento;  
+ 
+▪ contenimento del rischio, qualità, liquidità e redditività del portafoglio nel suo complesso;  
+ 
+▪ adeguata diversificazione del portafoglio, in modo da evitare che ci sia un’eccessiva 
+dipendenza del risultato della gestione da determinati emittenti, gruppi di imprese o attività, 
+e che nel portafoglio complessivamente considerato ci siano concentrazioni  del rischio. 
+Il Fondo Pensione Aperto UBI Previdenza è destinato sia alle adesioni individuali di tutti i soggetti  
+indistintamente sia alle adesioni dei lavoratori sulla base, ad esempio, di contratti o accordi collettivi 
+aziendali. Esso non ha quindi una popolazione di riferimento predefinita. D'altra parte, la pluralità di 
+possibili orizzonti temporali corrispondenti a diverse tipologie di iscritti rende necessario disporre di più 
+opzioni d'investimento, con facoltà concessa ai potenziali aderenti di destinare liberam ente i 
+contributi a uno o più comparti con combinazioni di rischio rendimento diversificate. Ciò rende il 
+Fondo idoneo a soddisfare le aspettative di popolazioni di riferimento ampie. ln ogni caso, per tenere 
+in considerazione le caratteristiche e i potenz iali bisogni previdenziali della popolazione di 
+riferimento, la Società monitora le caratteristiche socio-demografiche degli iscritti, l'andamento delle 
+adesioni e delle uscite nonché il livello di contribuzione media 
+ 
+Per ciascun comparto dovrà essere definito un parametro oggettivo che consenta all’aderente di 
+valutare il prodotto in termini di rischio/rendimento. A tale scopo potrà essere utilizzato un 
+benchmark, definito come un indice o una combinazione di indici finanziari, utilizzabili per 
+confrontare e valutare il prodotto in termini di rischiosità e redditività prevedibile, in relazione ai  
+mercati e settori presi in considerazione o un livello massimo di rischio atteso ed una indicazione della 
+redditività prospettica.
+=== pagina 8 ===
+1. CARATTERISTICHE 
+ 
+UBI PREVIDENZA  è rivolto a tutti coloro che intendono costruire un piano di previdenza 
+complementare su base individuale. Possono aderire, inoltre, su base collettiva, i lavoratori nei cui 
+confronti trovino applicazione i contratti, gli accordi o i regolamenti aziendali  che dispongono 
+l’adesione a UBI PREVIDENZA.  
+Lo scopo è quello di garantire prestazioni pensionistiche aggiuntive rispetto a quelle erogate dagli 
+enti previdenziali obbligatori. Gli importi versati potranno essere investiti in sei comparti, con diverse 
+caratteristiche di rischio/rendimento e conseguenti diversi orizzonti temporali.  
+ 
+Descrizione Tipologia Orizzonte temporale 
+Comparto Capitale Sicuro Fondo Pens. Aperto Breve periodo (fino a 5 anni) 
+Comparto Garantito Fondo Pens. Aperto Breve periodo (fino a 5 anni) 
+Comparto Prudente Fondo Pens. Aperto Breve periodo (fino a 5 anni) 
+Comparto Moderato Fondo Pens. Aperto Medio periodo (da 5 a 10 anni) 
+Comparto Dinamico Fondo Pens. Aperto Medio periodo (da 5 a 10 anni) 
+Comparto Aggressivo Fondo Pens. Aperto 
+Lungo Periodo (oltre 15 anni) 
+ 
+ 
+Ogni comparto è caratterizzato da diversi livelli di rischio/rendimento e prevede politiche di 
+investimento strettamente connesse alle finalità di gestione che si intendono perseguire, nei capitoli 
+successivi verranno analizzati nel dettaglio.
+=== pagina 9 ===
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE  
+ 
+I fondi pensione operano nel rispetto del principio della sana e prudente gestione, perseguendo gli 
+interessi degli aderenti, osservano il criterio di un’adeguata diversificazione del portafoglio finalizzata 
+a contenere la concentrazione del rischio, ottim izzando la combinazione rischio/rendimento. A tal 
+fine si verificano periodicamente i risultati della gestione mediante l’adozione di parametri di 
+riferimento coerenti con gli obiettivi.  
+ 
+Strumenti finanziari nei quali si intende investire 
+Le disponibilità possono essere investite in strumenti finanziari di natura monetaria, obbligazionaria e 
+azionaria nei limiti previsti dalla normativa e dalle politiche di investimento di ogni singolo comparto 
+più avanti delineate. 
+ 
+E’ prevista la possibilità di investire in quote di OICVM, la cui politica di gestione sia coerente con 
+quella stabilita per il comparto, ivi inclusi quelli istituiti da imprese del gruppo di appartenenza della 
+Società istitutrice, nel rispetto delle specifiche disposizioni in materia.  
+ 
+Le risorse non vengono investite in tipologie di strumenti finanziari e classi di attività per le quali la 
+struttura organizzativa, professionale e tecnica e il modello adottato dalla Società non consentono 
+adeguati monitoraggio e gestione del rischio.  
+ 
+Il fondo pensione aperto UBI PREVIDENZA investe in strumenti finanziari derivati esclusivamente per 
+finalità di riduzione del rischio e di efficiente gestione  delle risorse, coerentemente con il profilo di 
+rischio-rendimento del comparto e nei limiti indicati per gli attivi sottostanti. Nell’esercizio dell’attività 
+di gestione di fondi pensione, il soggetto gestore non può effettuare vendite allo scoperto, né porre 
+in essere operazioni in strumenti finanziari derivati equivalenti a vendite allo scoperto.  
+ 
+L’investimento in strumenti finanziari di uno stesso emittente non può superare il 5% del patrimonio in 
+gestione di ogni singolo Comparto e 10% in strumenti finanziari emessi da soggetti appartenenti ad 
+un unico gruppo; sono esclusi dall’applicazione di tale limite di concentrazione gli strumenti finanziari 
+emessi o garantiti da un Paese membro dell’Unione Europea, da un Paese aderente all’OCSE o da 
+organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi membri dell’Unione 
+Europea, gli OICVM e i FIA. 
+E’ infine possibile investire in FIA (OICR alternativi) secondo quanto previsto dal D.M. 166/2014.  
+ 
+Gli investimenti in strumenti finanziari di natura obbligazionaria sono orientati verso titoli con elevata 
+affidabilità creditizia ovvero nell’area dell’Investment Grade. Secondo le indicazioni fornite 
+dall’Authority di settore (COVIP) per la valutazione del merito creditizio degli investimenti di natura 
+obbligazionaria, non ci si atterrà esclusivamente ai giud izi espressi dalle agenzie di rating, ma si farà 
+riferimento alla “Credit Rating Policy” approvata dalla Società. Qualora il rating di uno strumento di 
+debito in portafoglio si riduca, dopo l’acquisto, al di sotto dei limiti sopra indicati, si provvederà a  
+vendere lo strumento in questione nel lasso di tempo ritenuto più opportuno a tutela degli interessi 
+dei partecipanti ai Fondi Pensione. 
+ 
+Le linee guida ed i relativi limiti operativi adottati per regolamentare i criteri di assunzione e gestione 
+dei rischi a cui sono esposti gli attivi finanziari, hanno lo scopo di perseguire i principi di:  
+ 
+-  diversificazione: nel senso che differenti classi di attività, diverse controparti e diversi settori 
+devono essere rappresentati nel portafoglio in modo da permettere il contenimento del credit 
+spread e del rischio di fallimento; 
+-  dispersione: nel senso che nessun singolo investimento deve essere di dimensione tale da 
+impattare in modo sensibile sul rendimento del portafoglio nel caso di fallimento della controparte 
+o di performance negativa.
+=== pagina 10 ===
+Le linee guida privilegiano l’investimento in titoli ad elevato merito creditizio e stimolano la 
+diversificazione e la dispersione del rischio. A tale scopo il Comitato Investimenti verifica il rispetto dei 
+limiti di cui sopra.
+=== pagina 11 ===
+COMPARTO CAPITALE SICURO 
+Finalità della gestione:  
+Le caratteristiche del comparto e la presenza della garanzia di restituzione del capitale, al  netto di 
+qualsiasi onere, si prestano a soddisfare gli investitori con una bassa propensione al  rischio e quindi 
+avversi a subire fluttuazioni dei mercati. 
+ 
+La politica di gestione del comparto è principalmente orientata verso strumenti finanziari di natura 
+obbligazionaria denominati in euro ed è prevista la possibilità di investire in titoli azionari. 
+La garanzia prevede la restituzione della somma dei versamenti contributivi al netto delle  spese 
+direttamente a carico dell'aderente e degli eventuali riscatti ed anticipazioni non  reintegrate, al 
+verificarsi dei seguenti eventi: 
+ 
+- esercizio del diritto alla prestazione pensionistica; 
+- decesso e conseguente riscatto; 
+- invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un  
+  terzo e conseguente riscatto; 
+- inoccupazione per un periodo superiore a 48 mesi e conseguente riscatto.  
+ 
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta. I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro 
+macroeconomico globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capitale 
+devono essere quotati su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la 
+quotazione nei suddetti mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione. 
+ 
+Benchmark:  
+5%  MSCI World 
+65%  BofA ML 1-5 Euro Government Bond 
+30%  BofA ML 1-3 Euro Cor orate Bond 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 1,88%. 
+ 
+Variabilità del rendimento atteso: 
+pari a 1,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni :  
+pari a 0% nei casi in cui opera la garanzia. 
+ 
+Limiti quantitativi e qualitativi: 
+ 
+COMPONENTE OBBLIGAZIONARIA Min Max 
+Obbligazioni Governative Emittenti Sovrani investment grade ≥ 60%   ≤ 100%  
+Obbligazioni Corporate Emittenti Corporate investment grade ≥ 0%   ≤ 50% 
+Area Geografica Area Euro ≥ 60%   ≤ 100% 
+COMPONENTE AZIONARIA Min Max 
+Azioni Società internazionali ≥ 0%   ≤ 20%
+=== pagina 12 ===
+Derivati 
+Strumenti derivati per copertura rischi 
+ 
+≥ 0%   
+ 
+≤ 20% 
+ 
+Strumenti derivati per gestione 
+efficiente 
+ 
+≥ 0%   ≤ 2% 
+ 
+Strumenti derivati con finalità 
+d'investimento 
+≥ 0%   ≤ 0% 
+ 
+ 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari con una duration del portafoglio compresa tra 1 e 5 anni.  
+ 
+Gli OICR in portafoglio avranno una commissione di gestione non superiore allo 0.40% annuo . 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio EurizonCapital SGR. 
+ 
+Livello max turnover:  
+pari a 250%. 
+ 
+Livello max tracking error volatility:  
+pari a 3%.
+=== pagina 13 ===
+COMPARTO GARANTITO 
+Finalità della gestione:  
+Le caratteristiche del comparto e la presenza della garanzia, si prestano a soddisfare le  esigenze di 
+investitori con orizzonti temporali di breve periodo, indicativamente non superiori  a 5 anni, con una 
+bassa propensione al rischio e quindi avversi a subire le fluttuazioni dei mercati. 
+ 
+La garanzia prestata garantisce un importo minimo pari alla somma, maggiorata dell'I su base  
+annua, dei contributi netti versati al comparto, inclusi gli eventuali importi derivanti da  trasferimenti 
+da altro comparto o da altra forma pensionistica e i versamenti effettuati per il  reintegro delle  
+anticipazioni percepite,  ridotto da eventuali riscatti parziali e anticipazioni.                                                             
+Il diritto alla garanzia è riconosciuto al verificarsi dei seguenti eventi: 
+ 
+- esercizio del diritto alla prestazione pensionistica 
+- decesso e conseguente riscatto; 
+- invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un 
+  terzo e conseguente; 
+- inoccupazione per un periodo superiore a 48 mesi e conseguente riscatto.  
+ 
+Composizione della gestione:  
+Il comparto investe le risorse in strumenti finanziari di natura obbligazionaria e monetaria. I criteri di 
+selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico globale e 
+sulla base dell’analisi degli utili attesi. I titoli di debito devono essere quotati su mercati regolamentati; 
+sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti mercati sia prevista entro 
+il limite di 30 giorni dall’avvenuta sottoscrizione. 
+ 
+Benchmark:  
+80%  BofA ML 1-5 Euro Government Bond 
+20%  BofA ML 1-3 Euro Cor orate Bond 
+ 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a1,58%.  
+ 
+Variabilità del rendimento atteso:  
+pari a 1,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 5 anni :  
+pari a 0% nei casi in cui opera la garanzia. 
+ 
+Limiti quantitativi e qualitativi:  
+ 
+ 
+ 
+ 
+ 
+ 
+COMPONENTE OBBLIGAZIONARIA Min Max 
+Obbligazioni Governative Emittenti Sovrani investment grade ≥ 80%   ≤ 100%  
+Obbligazioni Corporate Emittenti Corporate investment grade ≥ 0%   ≤ 30% 
+Area Geografica Area Euro ≥ 60%   ≤ 100%
+=== pagina 14 ===
+Derivati 
+Strumenti derivati per copertura rischi 
+ 
+≥ 0%   
+ 
+≤ 20% 
+ 
+Strumenti derivati per gestione 
+efficiente 
+ 
+≥ 0%   ≤ 2% 
+ 
+Strumenti derivati con finalità 
+d'investimento 
+≥ 0%   ≤ 0% 
+ 
+ 
+ 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari con una duration del portafoglio compresa tra 0 e 5 anni.  
+ 
+Gli OICR in portafoglio avranno una commissione di gestione non superiore allo 0.40% annuo .
+=== pagina 15 ===
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 250%. 
+ 
+Livello max tracking error volatility:  
+pari a 3%.
+=== pagina 16 ===
+COMPARTO PRUDENTE 
+Finalità della gestione:  
+Il comparto si presta a soddisfare l'esigenza di chi vuole investire il capitale nel breve periodo ed 
+ottenere una moderata rivalutazione del capitale investito. 
+ 
+Composizione della gestione:  
+Il comparto investe le risorse in strumenti finanziari di natura azionaria, obbligazionaria e monetaria. I 
+criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione. 
+ 
+Benchmark:  
+30% The BofA Merrill Euro Treasur Bill Index 
+10% The BofA Merrill Lynch Global Government excluding Euro (Hedged) Index  
+5% The BofA Merrill Lynch Global Government excluding Euro 
+45% The BofA Merrill Lynch Euro Large Cap Index 
+5% Euro Stoxx 
+5% MSCI Ali Country World ex EMU 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 2,26%. 
+ 
+Variabilità del rendimento atteso:  
+pari a 3,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni :  
+pari a 6,00%.
+=== pagina 17 ===
+Limiti quantitativi e qualitativi:  
+ 
+ 
+COMPONENTE OBBLIGAZIONARIA Min Max 
+Obbligazioni Governative Emittenti Sovrani con rating maggiore, 
+uguale BBB- 
+≥ 60% ≤ 100%  
+Obbligazioni Corporate Altri emittenti con rating maggiore, 
+uguale BBB- 
+≥ 0% ≤ 50% 
+Area Geografica Area Euro ≥ 0% ≤ 100% 
+ Alto ≥ 0% ≤ 50% 
+COMPONENTE AZIONARIA Min Max 
+Azioni Azionario ≥ 0% ≤ 20% 
+Area Geografica 
+Europa ≥ 0% ≤ 20% 
+Altro ≥ 0% ≤ 10% 
+Derivati 
+Strumenti derivati per copertura rischi 
+ 
+≥ 0% ≤ 20% 
+Strumenti derivati per gestione 
+efficiente 
+ 
+≥ 0% ≤ 2% 
+Strumenti derivati con finalità 
+d'investimento 
+≥ 0% ≤ 0% 
+ 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari con una duration del portafoglio compresa tra 2,5 e 6 anni.  
+Limitatamente alla componente rappresentata da quote o azioni di OICR è ammesso l'investimento 
+residuale in titoli di debito non "Investment grade". 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 200%.. 
+ 
+Livello max tracking error volatility:  
+pari a 3%.
+=== pagina 18 ===
+COMPARTO MODERATO 
+Finalità della gestione:  
+Il comparto si presta a soddisfare l'esigenza di chi vuole investire il capitale nel medio periodo ed 
+ottenere una rivalutazione del capitale investito. 
+ 
+Composizione della gestione:  
+Il comparto investe le risorse in strumenti finanziari di natura azionaria, obbligazionaria e monetaria. I 
+criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+20% The BofA Merrill Euro Treasur Bill Index 
+20% The BofA Merrill Lynch Global Government excluding Euro 
+35% The BofA Merrill Lynch Euro Large Cap Index 
+15% Euro Stoxx  
+10% MSCI Ali Country World ex EMU 
+ 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 3,08%. 
+ 
+Variabilità del rendimento atteso:  
+pari a 4,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 15 anni:  
+pari a 7,00%.
+=== pagina 19 ===
+Limiti quantitativi e qualitativi:  
+ 
+ 
+COMPONENTE OBBLIGAZIONARIA Min Max 
+Obbligazioni Governative Emittenti Sovrani con rating maggiore, 
+uguale BBB- 
+≥ 30% ≤ 100%  
+Obbligazioni Corporate Altri emittenti con rating maggiore, 
+uguale BBB- 
+≥ 0% ≤ 40% 
+Area Geografica Area Euro ≥ 20% ≤ 100% 
+ Alto ≥ 0% ≤ 50% 
+COMPONENTE AZIONARIA Min Max 
+Azioni Azionario ≥ 0% ≤ 50% 
+Area Geografica 
+Europa ≥ 0% ≤ 50% 
+Altro ≥ 0% ≤ 20% 
+Fondi mobiliari ed 
+immobiliari di tipo chiuso 
+Fondi mobiliari ed immobiliari ≥ 0% ≤ 10% 
+Derivati 
+Strumenti derivati per copertura rischi 
+ 
+≥ 0% ≤ 20% 
+Strumenti derivati per gestione 
+efficiente 
+ 
+≥ 0% ≤ 2% 
+Strumenti derivati con finalità 
+d'investimento 
+≥ 0% ≤ 0% 
+ 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari con una duration del portafoglio compresa tra 3 e 6,5 anni.  
+Limitatamente alla componente rappresentata da quote o azioni di OICR è ammesso l'investimento 
+residuale in titoli di debito non "Investment grade". 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 200%. 
+ 
+Livello max tracking error volatility:  
+pari a 5%.
+=== pagina 20 ===
+COMPARTO DINAMICO 
+Finalità della gestione:  
+Il comparto si presta a soddisfare l'esigenza di chi vuole investire il capitale nel medio periodo ed 
+ottenere una crescita del capitale investito. 
+ 
+Composizione della gestione:  
+Il comparto investe le risorse in strumenti finanziari di natura azionaria, obbligazionaria e monetaria. I 
+criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+10% The BofA Merrill Euro Treasur Bill Index 
+12% The BofA Merrill Lynch Global Government excluding Euro 
+28% The BofA Merrill Lynch Euro Large Cap Index 
+35% Euro Stoxx  
+15% MSCI Ali Country World ex EMU 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 3,39%. 
+ 
+Variabilità del rendimento atteso:  
+pari a 6,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 20 anni :  
+pari a 9,00%.
+=== pagina 21 ===
+Limiti quantitativi e qualitativi:  
+ 
+ 
+COMPONENTE OBBLIGAZIONARIA Min Max 
+Obbligazioni Governative Emittenti Sovrani con rating maggiore, 
+uguale BBB- 
+≥ 10% ≤ 70%  
+Obbligazioni Corporate Altri emittenti con rating maggiore, 
+uguale BBB- 
+≥ 0% ≤ 40% 
+Area Geografica Area Euro ≥ 10% ≤ 70% 
+ Alto ≥ 0% ≤ 50% 
+COMPONENTE AZIONARIA Min Max 
+Azioni Azionario ≥ 15% ≤ 70% 
+Area Geografica 
+Europa ≥ 15% ≤ 70% 
+Altro ≥ 15% ≤ 50% 
+Fondi mobiliari ed 
+immobiliari di tipo chiuso 
+Fondi mobiliari ed immobiliari ≥ 0% ≤ 10% 
+Derivati 
+Strumenti derivati per copertura rischi 
+ 
+≥ 0% ≤ 20% 
+Strumenti derivati per gestione 
+efficiente 
+ 
+≥ 0% ≤ 2% 
+Strumenti derivati con finalità 
+d'investimento 
+≥ 0% ≤ 0% 
+ 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari con una duration del portafoglio compresa tra 3,5 e 7 anni.  
+Limitatamente alla componente rappresentata da quote o azioni di OICR è ammesso l'investimento 
+residuale in titoli di debito non "Investment grade". 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 150%. 
+ 
+Livello max tracking error volatility:  
+pari a 5%.
+=== pagina 22 ===
+COMPARTO AGGRESSIVO 
+Finalità della gestione:  
+Il comparto si presta a soddisfare l'esigenza di chi vuole investire il capitale nel lungo periodo ed 
+ottenere un incremento del capitale investito. 
+Composizione della gestione:  
+Il comparto investe le risorse in strumenti finanziari di natura azionaria, obbligazionaria e monetaria.   
+I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+25% The BofA Merrill Lynch Euro Large Cap Index 
+50% Euro Stoxx  
+25% MSCI Ali Country World ex EMU 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 4,06%. 
+ 
+Variabilità del rendimento atteso:  
+pari a 9,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 20 anni:  
+pari a 7.00%.
+=== pagina 23 ===
+Limiti quantitativi e qualitativi:  
+ 
+ 
+COMPONENTE OBBLIGAZIONARIA Min Max 
+Obbligazioni Governative Emittenti Sovrani con rating maggiore, 
+uguale BBB- 
+≥ 10% ≤ 40%  
+Obbligazioni Corporate Altri emittenti con rating maggiore, 
+uguale BBB- 
+≥ 0% ≤ 40% 
+Area Geografica Area Euro ≥ 10% ≤ 40% 
+ Alto ≥ 0% ≤ 20% 
+COMPONENTE AZIONARIA Min Max 
+Azioni Azionario ≥ 40% ≤ 90% 
+Area Geografica 
+Europa ≥ 20% ≤ 90% 
+Altro ≥ 20% ≤ 50% 
+Fondi mobiliari ed 
+immobiliari di tipo chiuso 
+Fondi mobiliari ed immobiliari ≥ 0% ≤ 10% 
+Derivati 
+Strumenti derivati per copertura rischi 
+ 
+≥ 0% ≤ 20% 
+Strumenti derivati per gestione 
+efficiente 
+ 
+≥ 0% ≤ 2% 
+Strumenti derivati con finalità 
+d'investimento 
+≥ 0% ≤ 0% 
+ 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari con una duration del portafoglio compresa tra 4 e 8 anni.  
+Limitatamente alla componente rappresentata da quote o azioni di OICR è ammesso l'investimento 
+residuale in titoli di debito non "Investment grade". 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 150%. 
+ 
+Livello max tracking error volatility:  
+pari a 7%.
+=== pagina 24 ===
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO 
+ 
+Back Office Titoli  monitora gli eventi societari connessi agli strumenti finanziari in portafoglio. Viene 
+esercitato il diritto di intervento e di voto nelle assemblee delle società italiane, tenendo conto dei 
+costi benefici collegati alla partecipazione all’assemblea, dell’ordine del giorno, dell’utilità della 
+partecipazione agli interessi dei patrimoni gestiti e della pos sibilità di incidere sulle decisioni in 
+relazione alla quota di capitale con diritto di voto posseduta. 
+ 
+Il criterio fondamentale di partecipazione alle assemblee consiste nel giudicarle rilevanti per 
+situazioni di particolare interesse in difesa o a supporto degli aderenti, che riguardino decisioni di 
+corporate governance, bilancio, politiche di distribuzione di utili e dividendi, poli tiche di 
+remunerazione delle figure apicali. 
+ 
+Nel caso ne ricorrano i presupposti, non esercita il diritto di voto inerente alle azioni di pertinenza dei 
+patrimoni degli OICR emesse da società direttamente o indirettamente controllanti.
+=== pagina 25 ===
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA 
+ 
+Il sistema di controllo è il processo attraverso il quale si monitora la corretta implementazione, 
+coerentemente con le strategie e gli indirizzo previsti, nel rispetto dei limiti interni ed esterni e 
+l’andamento delle performance dei portafogli. Le attività di verifica prevedono il controllo dei limiti 
+normativi e dei limiti di prodotto e contrattuali (regolamento di gestione, nota informativa e mandati 
+di gestione), la verifica delle performance rispetto agli obiettivi e dei rischi dei patrimoni in gestione. 
+ 
+1. CONTROLLO LIMITI 
+La verifica del rispetto dei limiti normativi, che prevedono per ogni categoria di strumenti percentuali 
+massime e minime rispetto al patrimonio complessivo del fondo, viene svolta da parte del Risk 
+Management (controllo limiti ex post), in modo da interve nire immediatamente in caso di 
+superamenti, attivando le procedure di rientro nei limiti. Se l’attività di analisi conferma l’avvenuto 
+superamento di un limite, Risk Management e l’unità organizzativa Investimenti definiscono con il 
+gestore delegato modalità e tempistiche di rientro, Il Risk Management riepiloga mensilmente l’esito 
+dei controlli al Responsabile del Fondo.  
+ 
+2. ANALISI DEI COMPARTI 
+La funzione di Risk Management supporta l’unità organizzativa Investimenti nel monitoraggio 
+costante dell’andamento dei comparti; in particolare provvede ad elaborare i dati di performance 
+dei fondi e dei benchmark e gli indicatori di rischio, ovvero la volatilità dei comparti e del benchmark, 
+la Tracking Error Volatility (TEV), l’Information Ratio e l’Indice di Sharpe. 
+ 
+L’unità organizzativa Investimenti illustra l’analisi sull’andamento dei comparti al Comitato 
+Investimenti per la valutazione delle strategie d’investimento e dell’operato dei gestori delegati.  
+ 
+Queste informazioni vengono inoltre inviate al Responsabile del Fondo, con periodicità trimestrale.   
+ 
+Annualmente viene inoltre monitorato il Total Expense Ratio (TER) elaborato da Back Office Titoli per 
+ogni singolo comparto in modo da verificare l’incidenza dei costi effettivi rispetto al totale delle 
+risorse del comparto. 
+ 
+ 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION  
+Al fine di non limitarsi a quantificare i livelli di rischio e rendimento, vengono analizzate le componenti 
+dei risultati conseguiti dal gestore delegato. Lo svolgimento di questo tipo di indagine parte dalla 
+conoscenza delle fasi in cui si articola l'atti vità di asset management e dei criteri che guidano le 
+scelte dei soggetti competenti, allo scopo di individuare il contributo che ciascuna fase (e ciascun 
+soggetto) hanno dato alla performance ottenuta. 
+ 
+Il gestore delegato definisce il grado di specializzazione/diversificazione del portafoglio, il livello 
+strutturale di rischio/liquidità e le aree in cui il fondo dovrà investire, suddividendo il patrimonio fra 
+tipologie di titoli (azioni, obbligazioni, liquidità), aree geogr afiche e settori merceologici sulla base 
+dell'orizzonte temporale prescelto, dei rendimenti attesi, del livello di rischio e delle correlazioni tra le 
+diverse tipologie di strumenti finanziari. 
+ 
+L’unità organizzativa Investimenti provvede al monitoraggio costante della performance attribution 
+utilizzando la reportistica che il gestore delegato fornisce alla società.
+=== pagina 26 ===
+I dati relativi alla performance vengono analizzati durante il Comitato Investimenti e discussi con il 
+Responsabile del Fondo con lo scopo di valutare il contributo delle scelte del gestore nella 
+formazione del rendimento. 
+ 
+4. ATTRIBUZIONE DEL RATING 
+Per l’attribuzione del merito creditizio degli attivi presenti nei diversi comparti, oltre ai giudizi espressi 
+dalle principali agenzie di rating, viene presa in considerazione, in via prioritaria, una valutazione 
+interna effettuata dalla Compagnia stessa,  in coerenza con i modelli interni della Capogruppo 
+Intesa Sanpaolo. 
+Tale valutazione interna sarà obbligatoriamente attribuita a tutti gli emittenti per i quali vale almeno 
+una delle due seguenti condizioni: 
+• l’esposizione totale è almeno pari allo 0,5% 
+• l’esposizione in almeno uno dei comparti è maggiore del 5%. 
+Il processo di definizione dei rating interni segue il seguente iter: 
+• Ricezione del rating interno attribuito agli emittenti (Sovereign, Corporate e Banche) in 
+portafoglio della Compagnia da parte della Capogruppo Intesa Sanpaolo;  
+• Valutazione interna da parte della Funzione Risk management che procede a convalidare il 
+rating di Capogruppo per l’utilizzo interno o, sentita l’unità organizzativa Investimenti, a 
+proporre un override motivato sulla base di precisi elementi di propria conoscenza 
+dell’emittente, informando in tal caso le competenti strutture di Capogruppo. L’override, che 
+potrà avere un’ampiezza obbligatoriamente ricompresa tra il giudizio interno di Capogruppo 
+ed il rating “sintetico” delle Agenzie di Rating (cfr. oltre) è sottoposto ad approvazione del 
+Comitato Rischi della Compagnia;   
+• Apposita informativa dei rating in vigore viene predisposta per il Consiglio di Amministrazione 
+della Compagnia, che qualora non condivida un giudizio su un emittente sulla base di precisi 
+elementi informativi a disposizione dei membri, richiederà una ri -valutazione del giudizio da 
+parte della Funzione Risk Management, comunicando tali elementi. 
+Qualora non sia possibile effettuare tale valutazione interna, e si ricorra dunque ai giudizi espressi 
+dalle principali agenzie di rating, a partire da essi viene definito un valore unico di rating (cd. “rating 
+sintetico”) al fine di sintetizzare i giudizi attribuiti al merito creditizio di una singola emissione o di un 
+singolo emittente. 
+A partire dai rating disponibili per un singolo emittente o strumento finanziario, il rating sintetico viene 
+calcolato adottando il criterio di cui alla circolare Banca d’Italia n° 262 del 22/12/2005.  
+In particolare: 
+- qualora esistano 3 o più valutazioni differenti si individuano le due migliori e, fra queste, si sceglie 
+quella peggiore; 
+- qualora esistano 2 valutazioni del merito creditizio occorre fare riferimento a quella peggiore;  
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.  
+ 
+Fanno eccezione i titoli cartolarizzati per i quali il rating sintetico viene calcolato adottando il criterio 
+del “rating peggiore” tra quelli disponibili per un singolo emittente o strumento finanziario.  
+In particolare:
+=== pagina 27 ===
+- qualora esistano 2 o più valutazioni differenti si sceglie quella peggiore;  
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.

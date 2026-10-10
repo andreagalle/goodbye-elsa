@@ -1,0 +1,1940 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Documento sulla politica di investimento – Documento sulla politica di investimento
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/7b4114fd-1f4a-4f96-b7f3-984090d2d205
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/documenti-utili
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 2904d7c9bd23ea5824437aa5ff785203b73e8dd883b6a571fca1059920e7e5c5
+# Pagine: 38
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL PREVIDENZA FPA 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO  
+Redatto ai sensi della Deliberazione COVIP del 16 marzo 2012 
+ 
+Bologna, 31 dicembre 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO  
+Redatto ai sensi della Deliberazione COVIP del 16 marzo 2012 
+Bologna, 31 dicembre 2024
+=== pagina 2 ===
+Unipol Previdenza FPA 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 1 di 36 
+ 
+ 
+Sommario 
+PREMESSA .......................................................................................................................................... 2 
+OBIETTIVI DELLA POLITICA D’INVESTIMENTO ...................................................................................... 2 
+Caratteristiche dei potenziali aderenti ......................................................................................................... 3 
+Obiettivi di rendimento e di rischio .............................................................................................................. 3 
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO ................................................................ 4 
+Comparto Garantito Flex, con garanzia di capitale ....................................................................................... 5 
+Comparto obbligazionario ........................................................................................................................... 9 
+Comparto Bilanciato Etico.......................................................................................................................... 11 
+Comparto Bilanciato Prudente ................................................................................................................... 15 
+Comparto Bilanciato Equilibrato ................................................................................................................ 19 
+Comparto Bilanciato Dinamico ................................................................................................................... 23 
+Comparto Azionario................................................................................................................................... 26 
+CRITERI PER L’ESERCIZIO DEI DIRITTI DI VOTO SPETTANTI AL FONDO ................................................. 30 
+FATTORI DI SOSTENIBILITÀ (O "FATTORI ESG”) .................................................................................. 30 
+SOGGETTI COINVOLTI NEL PROCESSO, LORO COMPITI E RESPONSABILITÀ ......................................... 30 
+SISTEMA DI CONTROLLO DELLA GESTIONE FINANZIARIA ................................................................... 31 
+MODIFICHE APPORTATE NELL’ULTIMO TRIENNIO .............................................................................. 32 
+ALLEGATO 1 - RISCHI DI INVESTIMENTO ............................................................................................ 35
+=== pagina 3 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 2 di 36 
+ 
+ 
+PREMESSA 
+Il Fondo Pensione Aperto Unipol Previdenza FPA (di seguito definito anche il “Fondo” o “Unipol Previdenza FPA”) è 
+stato istituito per erogare trattamenti pensionistici complementari al sistema previdenziale obbligatorio, ai sensi 
+del d.lgs. 5 dicembre 2005, n. 252. Unipol Previdenza FPA è gestito da Unipol Assicurazioni S.p.A. (la “Società” o la 
+“Compagnia”), ed è iscritto all’albo tenuto dalla COVIP con il n. 30. 
+Unipol Previdenza FPA è rivolto a tutti coloro che intendono realizzare un piano di previdenza complementare su 
+base individuale. Possono inoltre aderire, su base collettiva, i lavoratori nei cui confronti trovano applicazione i 
+contratti, gli accordi o i regolamenti aziendali che prevedono l’adesione a Unipol Previdenza FPA. Unipol Previdenza 
+FPA è una forma pensionistica operante in regime di contribuzione definita: l’entità della prestazione pensionistica 
+è determinata in funzione della contribuzione eff ettuata e dei relativi rendimenti. Unipol Previdenza FPA è 
+costituito in forma di patrimonio separato e autonomo nell’ambito della Società.  
+Il presente documento, redatto ai sensi della delibera Covip del 16 marzo 2012, contenente le “Disposizioni sul 
+processo di attuazione della politica di investimento” (il “Documento”), ha lo scopo di definire la strategia finanziaria 
+che la Compagnia inten de attuare nella gestione del Fondo per ottenere, dall’impiego delle risorse affidate, 
+combinazioni di rischio -  rendimento efficienti nell’arco temporale e coerenti con i bisogni previdenziali degli 
+aderenti (la “Politica di Investimento”).  
+Il Documento individua: 
+a) gli obiettivi da realizzare nella gestione finanziaria; 
+b) i criteri da seguire nella sua attuazione; 
+c) i compiti e le responsabilità dei soggetti coinvolti nel processo , operando un integrale rinvio al Documento sul 
+sistema di governo del Fondo, ove sono contenute tali informazioni; 
+d) il sistema di controllo e valutazione dei risultati conseguiti. 
+Il Documento è sottoposto a revisione periodica, almeno ogni tre anni. I fattori considerati ai fini dell’eventuale 
+modifica sono riportati nella relativa delibera di approvazione del Consiglio di Amministrazione. Il Documento è 
+trasmesso in sede di prima definizione e, in seguito, in occasione di ogni sua modificazione: 
+– all’organo di controllo (Collegio Sindacale della Compagnia) e al Responsabile del Fondo; 
+– alla Banca Depositaria; 
+– alla COVIP, entro venti giorni dalla sua formalizzazione. 
+Il Documento è a disposizione degli aderenti, dei beneficiari e dei loro rappresentanti, che ne facciano richiesta per 
+iscritto ai seguenti indirizzi:  
+– posta elettronica: fondiaperti@unipol.it 
+– posta ordinaria: Unipol Assicurazioni S.p.A – Direzione Vita - Via Stalingrado, 45 – 40128 Bologna. 
+ 
+OBIETTIVI DELLA POLITICA D’INVESTIMENTO 
+Unipol Previdenza FPA  ha l’obiettivo di consentire agli aderenti di disporre, all’atto del pensionamento, di 
+prestazioni pensionistiche complementari al sistema obbligatorio. A tal fine, esso provvede alla raccolta dei 
+contributi, alla gestione delle risorse nell’esclusivo int eresse degli aderenti e all’erogazione delle prestazioni 
+secondo quanto disposto dalla normativa in materia di previdenza complementare. L’obiettivo finale della Politica 
+di Investimento di Unipol  Previdenza FPA è di massimizzare le risorse destinate alle prestazioni fornendo agli 
+aderenti opzioni d’investimento diversificate in funzione dell’orizzonte temporale, dell’aspettativa di rendimento e 
+della tolleranza ai rischi finanziari di ciascuno; tutto ciò perseguendo combinazioni di rischio - rendimento efficienti 
+in termini di rapporto tra rendimenti e volatilità dei risultati, nei diversi orizzonti temporali considerati.
+=== pagina 4 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 3 di 36 
+ 
+Caratteristiche dei potenziali aderenti 
+Unipol Previdenza FPA è destinato sia alle adesioni in forma individuale da parte di qualunque soggetto, anche non 
+avente lo status di lavoratore, che alle adesioni su base collettiva di lavoratori nei cui confronti trovino applicazione 
+i contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo.  
+La popolazione di riferimento del Fondo non è quindi predefinita ed è pertanto caratterizzata da bisogni 
+previdenziali diversificati in ragione dell’età, dell’orizzonte temporale di riferimento, della propensione al rischio, 
+etc. 
+In ogni caso, per tenere in considerazione le caratteristiche e i potenziali bisogni previdenziali della popolazione di 
+riferimento, la Società monitora le caratteristiche socio -  demografiche degli iscritti, l’andamento delle adesioni e 
+delle uscite nonché il livello di contribuzione media.   
+ 
+Obiettivi di rendimento e di rischio  
+In relazione all’ampiezza della popolazione di riferimento, la Compagnia, nell’ottica di soddisfare i bisogni 
+previdenziali di un’ampia gamma di potenziali aderenti, ha ritenuto opportuno individuare quattro orizzonti 
+temporali di riferimento ai quali associare sette rendimenti medi annui attesi e altrettante combinazioni di rischio 
+- rendimento1.  
+Orizzonte temporale: breve (fino a 5 anni). 
+Grado di rischio: basso. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,29% reale (al netto dell’inflazione europea ipotizzata 
+pari a 1,89%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 2,70%. 
+Perdita massima ritenuta accettabile nell’orizzonte temporale pari a 0,97%, calcolata con un intervallo di confidenza 
+del 99%. 
+Orizzonte temporale: medio (tra 5 e 10 anni). 
+Grado di rischio: medio basso. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 0,92% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,09%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 4,24%. 
+Perdita massima ritenuta accettabile nell’orizzonte temporale pari a 0,99%, calcolata con un intervallo di confidenza 
+del 99%. 
+Orizzonte temporale: medio (tra 5 e 10 anni). 
+Grado di rischio: medio basso. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,07% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,09%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 4,20%. 
+ 
+1 Si precisa che:   
+– tutti i rendimenti esposti sono riportati al lordo della fiscalità e degli oneri gestionali e amministrativi; 
+– l’indicazione del rendimento medio annuo atteso è un obiettivo che si intende conseguire, ma non costituisce in alcun modo un impegno 
+da parte della Società al raggiungimento dello stesso;  
+– l’inflazione è stata stimata in base ai valori impliciti nelle quotazioni degli strumenti finanziari indicizzati all’inflazio ne con scadenza 
+coerente con l’orizzonte temporale. Viene considerata l’inflazione area Euro ex tabacco. 
+I dati sotto riportati per le sette combinazioni rischio -  rendimento descritte, sono stati calcolati utilizzando i seguenti riferimenti 
+temporali per i rispettivi orizzonti: breve 3 anni, medio 8 anni, medio/lungo 13 anni e lungo 18 anni.
+=== pagina 5 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 4 di 36 
+ 
+Perdita massima ritenuta accettabile nell’orizzonte temporale pari a 0,80%, calcolata con un intervallo di confidenza 
+del 99%. 
+Orizzonte temporale: medio (tra 5 e 10 anni). 
+Grado di rischio: medio. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,40% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,09%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 4,19%. 
+Perdita massima ritenuta accettabile nell’orizzonte temporale pari a 0,47%, calcolata con un intervallo di confidenza 
+del 99%. 
+Orizzonte temporale: medio/lungo (tra 10 e 15 anni). 
+Grado di rischio: medio. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,84% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,21%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 5,83%. 
+Perdita massima ritenuta accettabile nell’orizzonte temporale pari a 0,27%, calcolata con un intervallo di confidenza 
+del 99%. 
+Orizzonte temporale: medio/lungo (tra 10 e 15 anni). 
+Grado di rischio: medio alto. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 2,54% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,21%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 8,48%. 
+Perdita massima ritenuta accettabile nell’orizzonte temporale pari a 1,51%, calcolata con un intervallo di confidenza 
+del 99%.  
+Orizzonte temporale: lungo (oltre i 15 anni). 
+Grado di rischio: alto. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 3,40% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,30%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 13,22%. 
+Perdita massima ritenuta accettabile nell’orizzonte temporale pari a 2,61%, calcolata con un intervallo di confidenza 
+del 99%. 
+ 
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+Per realizzare gli obiettivi prefissati, Unipol Previdenza FPA prevede sette Comparti con differenti gradi di rischio: 
+- Comparto Garantito Flex, con garanzia di capitale 
+- Comparto Obbligazionario 
+- Comparto Bilanciato Etico 
+- Comparto Bilanciato Prudente 
+- Comparto Bilanciato Equilibrato
+=== pagina 6 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 5 di 36 
+ 
+- Comparto Bilanciato Dinamico 
+- Comparto Azionario 
+Ai potenziali aderenti è concessa la facoltà di destinare liberamente i contributi a uno o più Comparti, o suddividerli 
+tra gli stessi secondo combinazioni liberamente scelte, fermo restando per la Compagnia l’obbligo di valutare 
+l’adeguatezza del prodotto rispetto alle esigenze previdenziali dell’aderente in conformità alla normativa di settore 
+vigente. I flussi di TFR conferiti tacitamente a Unipol Previdenza FPA sono destinati al Comparto Garantito Flex.  
+Non è previsto un meccanismo automatico di passaggio delle quote dell’aderente da un Comparto all’altro in 
+funzione degli anni mancanti all’età della pensione (meccanismo life-cycle).  
+La gestione finanziaria dei Comparti è effettuata dalla Compagnia.  
+Di seguito, per ogni Comparto, sono indicati: 
+– gli obiettivi di investimento, con riferimento all’orizzonte temporale e alla combinazione di rischio - rendimento 
+individuata2;  
+– la ripartizione strategica delle attività, ovvero la percentuale del patrimonio da investire nelle varie classi di 
+strumenti;  
+– gli strumenti finanziari nei quali si intende investire3  4;  
+– lo stile di gestione. 
+Nell’allegato 1 al Documento è riportata una descrizione dei principali rischi connessi agli strumenti finanziari nei 
+quali si intende investire. 
+Comparto Garantito Flex, con garanzia di capitale 
+Orizzonte temporale: breve (fino a 5 anni). 
+Grado di rischio: basso. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,29% reale (al netto dell’inflazione europea ipotizzata 
+pari a 1,89%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 2,70%. 
+In base ai risultati delle elaborazioni effettuate, la probabilità di ottenere rendimenti nominali negativi 
+nell’orizzonte temporale di riferimento, calcolata anche in base all’esperienza passata, è pari a 2,06%. 
+In base ai risultati delle elaborazioni effettuate la perdita massima ritenuta accettabile nell’orizzonte temporale è 
+pari a 0,97%, calcolata con un intervallo di confidenza del 99%. 
+ 
+2 Si precisa che:   
+– tutti i rendimenti esposti sono riportati al lordo della fiscalità e degli oneri gestionali e amministrativi; 
+– l’indicazione del rendimento medio annuo atteso è un obiettivo che si intende conseguire, ma non costituisce in alcun modo un 
+impegno da parte della Società al raggiungimento dello stesso.  
+– l’inflazione è stata stimata in base ai valori impliciti nelle quotazioni degli strumenti finanziari indicizzati all’inflazio ne con scadenza 
+coerente con l’orizzonte temporale. Viene considerata l’inflazione area Euro ex tabacco. 
+ 
+3 Si precisa che:  
+– con riferimento ai limiti di rating: per i derivati, per i Pronto Contro Termine e le operazioni in divisa a termine il ratin g considerato si 
+riferisce alla controparte. 
+ 
+4 Si precisa che:  
+– per OICR alternativi, con le specificità e limitazioni poste in questo Documento, si intendono gli strumenti previsti dal D.M  166/2014, 
+art. 1, comma 1, lettere p, q, r, s, t; a titolo esemplificativo, ma non esaustivo: FIA Italiani, FIA UE e FIA non UE.
+=== pagina 7 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 6 di 36 
+ 
+Il Comparto Garantito Flex prevede un approccio flessibile, senza vincoli predeterminati e senza un benchmark  di 
+riferimento. Le ipotesi sopra menzionate sono state quindi calcolate sulla base di un portafoglio teorico ritenuto 
+rappresentativo della politica di investimento.   
+Garanzia: la Compagnia garantisce, secondo le condizioni riportate nel Regolamento, una prestazione non inferiore 
+alla somma dei versamenti netti effettuati nel Comparto. 
+ 
+Finalità: Il Comparto Garantito Flex ha un profilo di rischio basso, nullo nel caso in cui operi la garanzia. L’obiettivo 
+del Comparto è il mantenimento del capitale investito e il suo graduale incremento nel tempo. La presenza di una 
+garanzia di capitale consente di soddisfare le esigenze di un soggetto con una bassa propensione al rischio o ormai 
+prossimo alla pensione.  Il Comparto è adatto ad un soggetto avverso al rischio che sceglie una gestione con le 
+suddette caratteristiche di garanzia al fine di mantenere il capitale conferito.   
+Ripartizione strategica delle attività 
+La politica di investimento è orientata principalmente verso strumenti finanziari ed OICR  di natura monetaria, 
+obbligazionaria e azionaria o assimilabili, denominati sia in Euro  che in altre valute, in proporzioni variabili, senza 
+vincoli predeterminati (stile di gestione c.d. ‘flessibile’). 
+Le principali classi di attività nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+Le aree geografiche nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+Le valute di riferimento (al netto delle coperture) nelle quali il Comparto investe, ed i rispettivi limiti minimi e 
+massimi sono i seguenti: 
+ 
+Esposizione Valutaria Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Euro 70% 85% 100% 
+Dollaro 0% 13% 30% 
+Altro 0% 2% 30% 
+ Totale    100%   
+ 
+Nel caso di investimenti in mercati esteri possono essere utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica è la seguente: 
+ 
+ 
+Classi di attività Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Liquidità 0% 20% 100% 
+Obbligazionario 0% 75% 100% 
+Azionario 0% 5% 100% 
+Aree Geografiche Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Europa 0% 72% 100% 
+U.S.A. 0% 17% 100% 
+Altri Paesi 0% 11% 100% 
+ Totale    100%
+=== pagina 8 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 7 di 36 
+ 
+ 
+ 
+In relazione all’andamento del mercato su ciascun settore sarà possibile raggiungere una percentuale elevata degli 
+investimenti fino al massimo del 5% del patrimonio del Comparto. 
+Sarà altresì possibile avere un’esposizione molto modesta o nulla su specifici settori. 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra i principali strumenti finanziari nei quali il Comparto investe e i relativi limiti:  
+ 
+Strumenti Finanziari Limite per 
+categoria 
+Limite per singolo 
+strumento Limite di Rating 
+Liquidità 100% n.a. nessuno 
+Pronti contro termine 20% 20% Investment Grade  
+Titoli di Stato ed emissioni di Enti 
+Sovranazionali 100% 20% nessuno 
+Altri titoli di debito 60% 5% nessuno 
+Titoli di capitale 100% 5% nessuno 
+OICR  75% 20% nessuno 
+Di cui OICR alternativi5 8% 2% nessuno 
+Derivati  30% 10% Investment Grade  
+Strumenti finanziari connessi a merci 5% 2% nessuno 
+Vendita Divisa a Termine per copertura 
+rischio di cambio 50% 25% Investment Grade  
+ 
+La percentuale di investimento in Altri Titoli di Debito aventi rating Sub Investment Grade sarà residuale rispetto al 
+totale del Portafoglio. 
+Nell’attività di gestione del Portafoglio, il rating, quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo.  
+La duration media ponderata del Portafoglio obbligazionario, comprensivo della liquidità, è compresa fra 0 e 5 anni.  
+ 
+ 
+5 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione. 
+Settori di attività Percentuali
+Finanziari 18%
+Industriali 17%
+Consumi Discrezionali 16%
+T ecnologia 12%
+Cosumi di B ase 8%
+Farmaceutici 7%
+Servizi di pubblica utilità 6%
+M aterie prime 6%
+Ene rgia 5%
+T elecomunicazioni 4%
+Immobiliare 1%
+To t a l e 100%
+=== pagina 9 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 8 di 36 
+ 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle strategie 
+poste in essere dal gestore e sulla struttura dei costi dello strumento; gli emittenti devono inoltre rendere 
+disponibili alla Società flussi informativi sufficienti per un’adeguata valutazione dell’investimento effettuato e per 
+la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio che per 
+una più efficiente gestione. 
+Al fine di migliorare il profilo rischio - rendimento del portafoglio nel suo complesso è consentito l’investimento in 
+OICR alternativi selezionati fra quelli non promossi o gestiti da Unipol Assicurazioni o da altre società del gruppo. 
+Nell'analisi e selezione degli OICR alternativi finalizzata ad un eventuale inserimento nel portafoglio verrà prestato 
+un particolare interesse agli OICR alternativi che investono in Real Asset.  
+Trattandosi di strumenti potenzialmente illiquidi, al momento della sottoscrizione di ogni nuovo impegno, il nuovo 
+investimento non dovrà eccedere il 2% del patrimonio del Comparto e il totale complessivo degli impegni non dovrà 
+eccedere l’8% del patrimonio. 
+L’ammontare complessivo investito dal Fondo Pensione, in un determinato OICR alternativo, non potrà superare il 
+10% del valore dello stesso OICR. 
+In caso di investimento in OICR alternativi, sul Comparto graveranno, laddove consentito dalla normativa vigente, 
+le commissioni di gestione di ciascun OICR nella misura massima del 2% e le commissioni di incentivo di ciascun 
+OICR nella misura massima del 20% della performance realizzata dall’OICR stesso.  
+Nella scelta degli OICR alternativi la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle 
+strategie poste in essere dal gestore, sulla struttura dei costi dello strumento e sugli eventuali periodi d’uscita 
+dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili alla Società flussi informativi 
+sufficienti per un’adeguata valutazione dell’investimento effettuato e per la predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+L’investimento diretto in strumenti derivati (non tramite OICR), coerentemente con il profilo di rischio - rendimento 
+del Comparto,  avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione e si rivolge 
+generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi operativi, sia i 
+rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza di tali strumenti. La 
+percentuale di investimento in eventua li strumenti derivati non quotati sarà residuale rispetto al totale del 
+Portafoglio. 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C.. 
+Il Comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati regolamentati, 
+entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore per 
+il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del Comparto. Tale obiettivo 
+è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli investimenti e il 
+contenimento dei costi di transazione, gestione e funzionamento del Comparto. 
+Il Comparto presenta un profilo di rischio basso e la Compagnia attua una politica di investimento orientata 
+principalmente verso strumenti finanziari ed OICR di natura monetaria, obbligazionaria e azionaria o assimilabili, 
+denominati sia in Euro che in altre valute, in proporzioni variabili, senza vincoli predeterminati (stile di gestione c.d. 
+‘flessibile’).  
+Gli indicatori monitorati sono il turnover  di Portafoglio e la perdita potenziale in un orizzonte temporale definito 
+(value at risk, VAR). In particolare è previsto un limite di rotazione del Portafoglio pari a 500% e un obiettivo di value 
+at risk non superiore a 6,50% (VAR a 30 giorni con un intervallo di confidenza del 99%).
+=== pagina 10 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 9 di 36 
+ 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo interesse 
+dell’aderente; il superamento di tali limiti deve essere valutato dal Comitato Investimenti Finanziari per una 
+successiva approvazione da parte del Consiglio di Amministrazione. 
+Comparto obbligazionario  
+Orizzonte temporale: medio (tra 5 e 10 anni). 
+Grado di rischio: medio basso. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 0,92% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,09%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 4,24%. 
+In base ai risultati delle elaborazioni effettuate, la probabilità di ottenere rendimenti nominali negativi 
+nell’orizzonte temporale di riferimento, calcolata anche in base all’esperienza passata, è pari a 2,26%. 
+In base ai risultati delle elaborazioni effettuate la perdita massima ritenuta accettabile nell’orizzonte temporale è 
+pari a 0,99%, calcolata con un intervallo di confidenza del 99%.  
+ 
+Il Comparto Obbligazionario prevede una strategia flessibile, senza un benchmark  di riferimento. Le ipotesi sopra 
+menzionate sono state quindi calcolate sulla base di un portafoglio teorico ritenuto rappresentativo della politica 
+di investimento. 
+ 
+Finalità: Il Comparto ha come obiettivo il graduale incremento nel medio termine del capitale investito. La gestione 
+è adatta a soddisfare le esigenze di un soggetto con propensione al rischio medio bassa e non lontano dalla pensione 
+e privilegia investimenti volti a favorire la stabilità dei risultati.    
+Ripartizione strategica delle attività 
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed OICR di natura 
+obbligazionaria. 
+La Compagnia attua una strategia di gestione flessibile che consente di modificare l’ asset allocation in funzione 
+delle condizioni del mercato, nel rispetto dei limiti definiti nel Regolamento del Fondo e nel presente Documento. 
+Le principali classi di attività nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Le aree geografiche nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+Le valute di riferimento (al netto delle coperture) nelle quali il Comparto investe, ed i rispettivi limiti minimi e 
+massimi sono i seguenti: 
+Classi di attività Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Liquidità 0% 5% 30% 
+Obbligazionario 70% 95% 100% 
+Azionario 0% 0% 5% 
+Aree Geografiche Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Europa 50% 74% 100% 
+U.S.A. 0% 17% 35% 
+Altri Paesi 0% 9% 25% 
+ Totale    100%
+=== pagina 11 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 10 di 36 
+ 
+ 
+Esposizione Valutaria Percentuale minima  Ripartizione strategica Percentuale 
+massima 
+Euro 70% 90% 100% 
+Dollaro 0% 10% 30% 
+Altro 0% 0% 20% 
+ Totale    100%   
+ 
+Nel caso di investimenti in mercati esteri possono essere utilizzate tecniche di copertura del rischio di cambio. 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra i principali strumenti finanziari nei quali il Comparto investe e i relativi limiti: 
+ 
+Strumenti Finanziari Limite per categoria Limite per singolo 
+strumento Limite di Rating 
+Liquidità 30% n.a. nessuno 
+Pronti contro termine 20% 20% Investment Grade  
+Titoli di Stato ed emissioni di Enti 
+Sovranazionali 100% 20% nessuno 
+Altri titoli di debito 60% 5% nessuno 
+Titoli di capitale 5% 2% nessuno 
+OICR  50% 20% nessuno 
+Di cui OICR alternativi6 8% 2% nessuno 
+Derivati  15% 10% Investment Grade  
+Strumenti finanziari connessi a merci  5% 2% nessuno 
+Vendita Divisa a Termine per copertura 
+rischio di cambio 50% 25% Investment Grade  
+ 
+La percentuale di investimento in Altri Titoli di Debito aventi rating Sub Investment Grade sarà residuale rispetto al 
+totale del Portafoglio. 
+Nell’attività di gestione del Portafoglio , il rating,  quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo.  
+La duration media ponderata del Portafoglio obbligazionario, comprensivo della liquidità, è compresa fra 2 e 8 anni.  
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle strategie 
+poste in essere dal gestore e sulla struttura dei costi dello strumento; gli emittenti devono inoltre rendere 
+disponibili alla Società flussi informativi sufficienti per un’adeguata valutazione dell’investimento effettuato e per 
+la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio che per 
+una più efficiente gestione.  
+Al fine di migliorare il profilo rischio - rendimento del portafoglio nel suo complesso è consentito l’investimento in 
+OICR alternativi selezionati fra quelli non promossi o gestiti da Unipol Assicurazioni o da altre società del gruppo. 
+ 
+6 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione.
+=== pagina 12 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 11 di 36 
+ 
+Nell'analisi e selezione degli OICR alternativi finalizzata ad un eventuale inserimento nel portafoglio verrà prestato 
+un particolare interesse agli OICR alternativi che investono in Real Asset.  
+Trattandosi di strumenti potenzialmente illiquidi, al momento della sottoscrizione di ogni nuovo impegno, il nuovo 
+investimento non dovrà eccedere il 2% del patrimonio del Comparto e il totale complessivo degli impegni non dovrà 
+eccedere l’8% del patrimonio.  
+ 
+L’ammontare complessivo investito dal Fondo Pensione, in un determinato OICR alternativo, non potrà superare il 
+10% del valore dello stesso OICR. 
+In caso di investimento in OICR alternativi, sul Comparto graveranno,  laddove consentito dalla normativa vigente, 
+le commissioni di gestione di ciascun OICR nella misura massima del 2% e le commissioni di incentivo di ciascun 
+OICR nella misura massima del 20% della performance realizzata dall’OICR stesso. 
+Nella scelta degli OICR alternativi la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle 
+strategie poste in essere dal gestore, sulla struttura dei costi dello strumento e sugli eventuali periodi d’uscita 
+dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili alla Società flussi informativi 
+sufficienti per un’adeguata valutazione dell’investimento effettuato e per la predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+L’investimento diretto in strumenti derivati (non tramite OICR), coerentemente con il profilo di rischio - rendimento 
+del Comparto,  avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione e si rivolge 
+generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi operativi, sia i 
+rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza di tali strumenti. La 
+percentuale di investimento in eventua li strumenti derivati non quotati sarà residuale rispetto al totale del 
+Portafoglio. 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C.. 
+Il Comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati regolamentati, 
+entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore per 
+il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del Comparto. Tale obiettivo 
+è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli investimenti e il 
+contenimento dei costi di transazione, gestione e funzionamento del Comparto. 
+Il Comparto presenta un profilo di rischio medio-basso. La politica di investimento è orientata principalmente verso 
+l’acquisizione di strumenti finanziari ed OICR di natura obbligazionaria. La Compagnia attua una strategia di gestione 
+flessibile che consente di modificare l’asset allocation in funzione delle condizioni del mercato. 
+Gli indicatori monitorati sono il turnover  di Portafoglio e la perdita potenziale in un orizzonte temporale definito 
+(value at risk, VAR). In particolare è previsto un limite di rotazione del Portafoglio pari a 500% e un obiettivo di value 
+at risk non superiore a 7,5% (VAR a 30 giorni con un intervallo di confidenza del 99%). 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo interesse 
+dell’aderente; il superamento di tali limiti deve essere valutato dal Comitato Investimenti Finanziari per una 
+successiva approvazione da parte del Consiglio di Amministrazione. 
+Comparto Bilanciato Etico  
+Orizzonte temporale: medio (tra 5 e 10 anni). 
+Grado di rischio: medio basso. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,07% reale (al netto dell’inflazione europea ipotizzata 
+pari a 2,09%).
+=== pagina 13 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 12 di 36 
+ 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 4,20%. 
+In base ai risultati delle elaborazioni effettuate, la probabilità di ottenere rendimenti nominali negativi 
+nell’orizzonte temporale di riferimento, calcolata anche in base all’esperienza passata, è pari a 1,67%. 
+In base ai risultati delle elaborazioni effettuate la perdita massima ritenuta accettabile nell’orizzonte temporale è 
+pari a 0,80%, calcolata con un intervallo di confidenza del 99%.  
+Il Comparto Bilanciato Etico prevede una strategia flessibile, senza un benchmark  di riferimento. Le ipotesi sopra 
+menzionate sono state quindi calcolate sulla base di un portafoglio teorico ritenuto rappresentativo della politica 
+di investimento.   
+Finalità: Il Comparto ha come obiettivo il graduale incremento nel medio termine del capitale investito. La gestione 
+è adatta a soddisfare le esigenze di un soggetto con propensione al rischio medio bassa e non lontano dalla pensione 
+e privilegia investimenti volti a favorire la stabilità dei risultati.  
+Ai sensi dell’Art. 8 del vigente Regolamento (UE) 2019/2088, così come successivamente modificato ed integrato, 
+il Comparto Bilanciato Etico promuove, tra le altre, caratteristiche ambientali e sociali attraverso l’integrazione dei 
+Fattori di Sostenibilità (o “fattori ESG” da Environmental = ambientali, Social = sociali, Governance = connessi alla 
+struttura di governo) nel processo decisionale degli investimenti.  
+L’universo investibile del Comparto utilizzato per soddisfare le caratteristiche ambientali e sociali è costituito da:  
+- investimenti diretti selezionati in base alla valutazione delle prestazioni di tipo sociale e ambientale e della 
+struttura di governance degli emittenti (ESG –  Environmental, Social, Governance) , secondo le modalità 
+definite dalle applicabili “Linee Guida per le attività di investimento responsabile” di Gruppo ( anche, le 
+“Linee Guida RI”). Le Linee Guida RI sono disponibili per la consultazione sul sito web della Società, anche 
+nella pagina dedicata al Fondo. 
+- OICR classificati ai sensi dell’articolo 8 (ossia “che promuovono caratteristiche ambientali e/o sociali”) o 
+dell’articolo 9 (ossia “che hanno come obiettivo investimenti sostenibili”) del Regolamento (UE) 2019/2088, 
+secondo la caratterizzazione definita e comunicata dalle rispettive Società di gestione.  
+Il rispetto di tali  caratteristiche ambientali e sociali, promosse dal Comparto, è monitorato dalla Compagnia 
+contemperando l’attivazione delle opportune misure individuate ai sensi della normativa europea con la tutela 
+imprescindibile degli interessi degli Aderenti. 
+ 
+Ripartizione strategica delle attività 
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed OICR di natura 
+obbligazionaria.  
+Gli investimenti di natura azionaria non possono superare il 10% del valore del portafoglio. 
+La Compagnia attua una strategia di gestione flessibile che consente di modificare l’asset allocation in funzione 
+delle condizioni del mercato, nel rispetto dei limiti definiti nel Regolamento del Fondo e nel presente Documento.  
+Le principali classi di attività nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Classi di attività Percentuale minima  Ripartizione strategica Percentuale massima 
+Liquidità 0% 5% 30% 
+Obbligazionario 70% 90% 100% 
+Azionario 0% 5% 10% 
+ 
+Le aree geografiche nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti:
+=== pagina 14 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 13 di 36 
+ 
+ 
+Aree Geografiche Percentuale minima  Ripartizione strategica Percentuale massima 
+Europa 50% 74% 100% 
+U.S.A. 0% 17% 35% 
+Altri Paesi 0% 9% 25% 
+ Totale   100%  
+Le valute di riferimento (al netto delle coperture) nelle quali il Comparto investe, ed i rispettivi limiti minimi e 
+massimi sono i seguenti: 
+ 
+Esposizione Valutaria Percentuale minima  Ripartizione strategica Percentuale massima 
+Euro 70% 90% 100% 
+Dollaro 0% 10% 30% 
+Altro 0% 0% 20% 
+ Totale   100%  
+Nel caso di investimenti in valuta possono essere utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica è la seguente: 
+ 
+ 
+In relazione all’andamento del mercato su ciascun settore sarà possibile raggiungere una percentuale elevata degli 
+investimenti fino al massimo del 5% del patrimonio del Comparto. 
+Sarà altresì possibile avere un’esposizione molto modesta o nulla su specifici settori. 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra i principali strumenti finanziari nei quali il Comparto investe e i relativi limiti:  
+ 
+Settori di attività Percentuali
+Finanziari 18%
+Industriali 17%
+Consumi Discrezionali 16%
+T ecnologia 12%
+Cosumi di B ase 8%
+Farmaceutici 7%
+Servizi di pubblica utilità 6%
+M aterie prime 6%
+Ene rgia 5%
+T elecomunicazioni 4%
+Immobiliare 1%
+To t a l e 100%
+=== pagina 15 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 14 di 36 
+ 
+Strumenti Finanziari Limite per 
+categoria 
+Limite per singolo 
+strumento Limite di Rating 
+Liquidità 30% n.a. nessuno 
+Pronti contro termine 20% 20% Investment Grade  
+Titoli di Stato ed emissioni di Enti 
+Sovranazionali 100% 20% nessuno 
+Altri titoli di debito 60% 5% nessuno 
+Titoli di capitale 10% 5% nessuno 
+OICR 50% 20% nessuno 
+Di cui OICR alternativi7 8% 2% nessuno 
+Derivati  15% 10% Investment Grade  
+Strumenti finanziari connessi a merci 5% 2% nessuno 
+Vendita Divisa a Termine per copertura 
+rischio di cambio 50% 25% Investment Grade  
+ 
+La percentuale di investimento in Altri Titoli di Debito aventi rating Sub Investment Grade sarà residuale rispetto al 
+totale del Portafoglio. 
+Nell’attività di gestione del Portafoglio , il rating,  quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo.  
+La duration media ponderata del Portafoglio obbligazionario, comprensivo della liquidità, è compresa fra 2 e 8 anni. 
+La quota in titoli azionari è rivolta prevalentemente a società caratterizzate da capitalizzazione medio alta. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle strategie 
+poste in essere dal gestore e sulla struttura dei costi dello strumento; gli emittenti devono inoltre rendere 
+disponibili alla Società flussi informativi sufficienti per un’adeguata valutazione dell’investimento effettuato e per 
+la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio che per 
+una più efficiente gestione. 
+Al fine di migliorare il profilo rischio - rendimento del portafoglio nel suo complesso è consentito l’investimento in 
+OICR alternativi selezionati fra quelli non promossi o gestiti da Unipol Assicurazioni o da altre società del gruppo. 
+Nell'analisi e selezione degli OICR alternativi finalizzata ad un eventuale inserimento nel portafoglio verrà prestato 
+un particolare interesse agli OICR alternativi che investono in Real Asset.  
+Trattandosi di strumenti potenzialmente illiquidi, al momento della sottoscrizione di ogni nuovo impegno, il nuovo 
+investimento non dovrà eccedere il 2% del patrimonio del Comparto e il totale complessivo degli impegni non dovrà 
+eccedere l’8% del patrimonio. 
+ 
+L’ammontare complessivo investito dal Fondo Pensione, in un determinato OICR alternativo, non potrà superare il 
+10% del valore dello stesso OICR. 
+In caso di investimento in OICR alternativi, sul Comparto graveranno,  laddove consentito dalla normativa vigente, 
+le commissioni di gestione di ciascun OICR nella misura massima del 2% e le commissioni di incentivo di ciascun 
+OICR nella misura massima del 20% della performance realizzata dall’OICR stesso. 
+ 
+7 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione.
+=== pagina 16 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 15 di 36 
+ 
+Nella scelta degli OICR alternativi la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle 
+strategie poste in essere dal gestore, sulla struttura dei costi dello strumento e sugli eventuali periodi d’uscita 
+dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili alla Società flussi informativi 
+sufficienti per un’adeguata valutazione dell’investimento effettuato e per la predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+L’investimento diretto in strumenti derivati (non tramite OICR), coerentemente con il profilo di rischio - rendimento 
+del Comparto,  avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione e si rivolge 
+generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi operativi, sia i 
+rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza di tali strumenti. La 
+percentuale di investimento in eventua li strumenti derivati non quotati sarà residuale rispetto al totale del 
+Portafoglio. 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C.. 
+Il Comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati regolamentati, 
+entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore per 
+il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del Comparto. Tale obiettivo 
+è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli investimenti e il 
+contenimento dei costi di transazione, gestione e funzionamento del Comparto. 
+Il Comparto presenta un profilo di rischio medio-basso. La politica di investimento è orientata principalmente verso 
+l’acquisizione di strumenti finanziari ed OICR di natura obbligazionaria. Gli investimenti di natura azionaria non 
+possono superare il 10% del valore del portafoglio. 
+La Compagnia attua una strategia di gestione flessibile che consente di modificare l’asset allocation in funzione 
+delle condizioni del mercato. 
+Gli indicatori monitorati sono il turnover  di Portafoglio e la perdita potenziale in un orizzonte temporale definito 
+(value at risk, VAR). In particolare è previsto un limite di rotazione del Portafoglio pari a 500% e un obiettivo di value 
+at risk non superiore a 7,5% (VAR a 30 giorni con un intervallo di confidenza del 99%). 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo interesse 
+dell’aderente; il superamento di tali limiti deve essere valutato dal Comitato Investimenti Finanziari per una 
+successiva approvazione da parte del Consiglio di Amministrazione. 
+Comparto Bilanciato Prudente 
+Orizzonte temporale: medio (tra 5 e 10 anni). 
+Grado di rischio: medio. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,40% reale (al netto dell’inflazione ipotizzata pari a 
+2,09%)  
+Variabilità attesa del rendimento (deviazione standard annualizzata): 4,19%. 
+In base ai risultati delle elaborazioni effettuate, la probabilità di ottenere rendimenti nominali negativi 
+nell’orizzonte temporale stabilito, calcolata anche in base all’esperienza passata, è pari a 0,94%. 
+In base ai risultati delle elaborazioni effettuate, la perdita massima ritenuta accettabile nell’orizzonte temporale è 
+pari a 0,47%, calcolata con un intervallo di confidenza del 99%.  
+Finalità: il Comparto Bilanciato Prudente ha come obiettivo l’incremento nel medio termine del capitale investito. 
+La gestione è adatta a soddisfare le esigenze di un soggetto con propensione al rischio media e privilegia 
+investimenti volti a favorire la stabilità dei risultati.
+=== pagina 17 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 16 di 36 
+ 
+Ripartizione strategica delle attività 
+La politica di investimento è orientata prevalentemente verso l’acquisizione di strumenti finanziari ed OICR di 
+natura obbligazionaria. 
+Gli investimenti di natura azionaria non possono superare il 30% del valore del portafoglio.  
+Le principali classi di attività nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Classi di attività Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Liquidità 0% 15% 40% 
+Obbligazionario 50% 70% 100% 
+Azionario 0% 15% 30% 
+Le aree geografiche nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Aree Geografiche Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Europa 55% 78% 100% 
+U.S.A. 0% 13% 35% 
+Altri Paesi 0% 9% 25% 
+ Totale   100%   
+Le valute di riferimento (al netto delle coperture) nelle quali il Comparto investe, ed i rispettivi limiti minimi e 
+massimi sono i seguenti: 
+ 
+Esposizione Valutaria Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Euro 70% 86% 100% 
+Dollaro 0% 9% 30% 
+Altro 0% 5% 20% 
+ Totale    100%   
+ 
+Nel caso di investimenti in valuta possono essere utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica è la seguente:
+=== pagina 18 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 17 di 36 
+ 
+ 
+ 
+In relazione all’andamento del mercato su ciascun settore sarà possibile raggiungere una percentuale elevata degli 
+investimenti fino al massimo del 10% del patrimonio del Comparto. 
+Sarà altresì possibile avere un’esposizione molto modesta o nulla su specifici settori. 
+ 
+Il benchmark è composto dai seguenti indici:  
+Indice JP Morgan EMU Investment Grade obbligazionario denominato in Euro: 40% 
+Indice JP Morgan Global Govt Bond Index (GBI Global) obbligazionario globale denominato in Dollari e convertito in 
+Euro: 10% 
+Indice JP Morgan Cash Index Euro 3M: 15% 
+Indice ICE Bofa Euro Large cap Corporate denominato in Euro: 20% 
+Indice MSCI EMU Net Return azionario denominato in Euro: 7,5% 
+Indice MSCI All Country World Net Return azionario globale denominato in Dollari e convertito in Euro: 7,5%. 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra i principali strumenti finanziari nei quali il Comparto investe e i relativi limiti:  
+ 
+ 
+Settori di attività Percentuali
+Finanziari 18%
+Industriali 17%
+Consumi Discrezionali 16%
+T ecnologia 12%
+Cosumi di B ase 8%
+Farmaceutici 7%
+Servizi di pubblica utilità 6%
+M aterie prime 6%
+Ene rgia 5%
+T elecomunicazioni 4%
+Immobiliare 1%
+To t a l e 100%
+=== pagina 19 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 18 di 36 
+ 
+Strumenti Finanziari Limite per categoria Limite per singolo 
+strumento Limite di Rating 
+Liquidità 40% n.a. nessuno 
+Pronti contro termine 20% 20% Investment Grade  
+Titoli di Stato ed emissioni di Enti 
+Sovranazionali 100% 20% nessuno 
+Altri titoli di debito 50% 5% nessuno 
+Titoli di capitale 30% 5% nessuno 
+OICR  45% 20% nessuno 
+Di cui OICR alternativi 8 8% 2% nessuno 
+Derivati  15% 10% Investment Grade  
+Strumenti finanziari connessi a merci 5% 2% nessuno 
+Vendita Divisa a Termine per copertura 
+rischio di cambio 50% 25% Investment Grade  
+ 
+La percentuale di investimento in Altri Titoli di Debito aventi rating Sub Investment Grade sarà residuale rispetto al 
+totale del Portafoglio. 
+Nell’attività di gestione del Portafoglio , il rating,  quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo. 
+La duration media ponderata del Portafoglio obbligazionario, comprensivo della liquidità, è compresa fra 2 e 10 
+anni. 
+La quota in titoli azionari è rivolta prevalentemente a società caratterizzate da capitalizzazione medio alta. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle strategie 
+poste in essere dal gestore e sulla struttura dei costi dello strumento; gli emittenti devono inoltre rendere 
+disponibili alla Società flussi informativi sufficienti per un’adeguata valutazione dell’investimento effettuato e per 
+la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio che per 
+una più efficiente gestione. 
+Al fine di migliorare il profilo rischio - rendimento del portafoglio nel suo complesso è consentito l’investimento in 
+OICR alternativi selezionati fra quelli non promossi o gestiti da Unipol Assicurazioni o da altre società del gruppo. 
+Nell'analisi e selezione degli OICR alternativi finalizzata ad un eventuale inserimento nel portafoglio verrà prestato 
+un particolare interesse agli OICR alternativi che investono in Real Asset.  
+Trattandosi di strumenti potenzialmente illiquidi, al momento della sottoscrizione di ogni nuovo impegno, il nuovo 
+investimento non dovrà eccedere il 2% del patrimonio del Comparto e il totale complessivo degli impegni non dovrà 
+eccedere l’8% del patrimonio. 
+ 
+L’ammontare complessivo investito dal Fondo Pensione, in un determinato OICR alternativo, non potrà superare il 
+10% del valore dello stesso OICR. 
+In caso di investimento in OICR alternativi, sul Comparto graveranno,  laddove consentito dalla normativa vigente, 
+le commissioni di gestione di ciascun OICR nella misura massima del 2% e le commissioni di incentivo di ciascun 
+OICR nella misura massima del 20% della performance realizzata dall’OICR stesso. 
+ 
+8 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione.
+=== pagina 20 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 19 di 36 
+ 
+Nella scelta degli OICR alternativi la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle 
+strategie poste in essere dal gestore, sulla struttura dei costi dello strumento e sugli eventuali periodi d’uscita 
+dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili alla Società flussi informativi 
+sufficienti per un’adeguata valutazione dell’investimento effettuato e per la predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+L’investimento diretto in strumenti derivati (non tramite OICR), coerentemente con il profilo di rischio - rendimento 
+del Comparto,  avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione e si rivolge 
+generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi operativi, sia i 
+rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza di tali strumenti. La 
+percentuale di investimento in eventuali strumenti derivati non quotati sarà residuale rispetto al totale del 
+Portafoglio. 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C.. 
+Il Comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati regolamentati, 
+entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore per 
+il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del Comparto. Tale obiettivo 
+è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli investimenti e il 
+contenimento dei costi di transazione, gestione e funzionamento del Comparto. 
+Lo stile di gestione è attivo rispetto al benchmark, con scostamenti anche rilevanti rispetto a tale parametro, sia per 
+quanto riguarda la componente azionaria, sia per quanto riguarda la componente obbligazionaria.  
+Si ritiene che la volatilità tipica dei mercati finanziari possa determinare situazioni temporanee di non corrette 
+valutazioni dei singoli titoli o di intere asset class . Ciò può consentire all’attività di gestione di ottenere extra  
+rendimenti rispetto al benchmark attraverso un’accurata selezione di singoli titoli temporaneamente sottovalutati 
+in base ai fondamentali e attraverso l’attività di asset allocation tattica, ovvero la scelta di sovra/sotto pesare 
+determinate asset class, aree geografiche, settori economici o specifici tratti della curva. 
+Gli indicatori monitorati sono il turnover di Portafoglio e la volatilità dei rendimenti differenziali rispetto al 
+benchmark (tracking error volatility, TEV). In particolare è previsto un limite di rotazione del Portafoglio pari a 350% 
+e un obiettivo di semi tracking error volatility annua da contenere entro il 3,0%. 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo interesse 
+dell’aderente; il superamento di tali limiti deve essere valutato dal Comitato Investimenti Finanziari per una 
+successiva approvazione da parte del Consiglio di Amministrazione. 
+Comparto Bilanciato Equilibrato 
+Orizzonte temporale: medio/lungo (tra 10 e 15 anni). 
+Grado di rischio: medio. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,84% reale (al netto dell’inflazione ipotizzata pari a 
+2,21%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 5,83%. 
+In base ai risultati delle elaborazioni effettuate, la probabilità di ottenere rendimenti negativi nell’orizzonte 
+temporale stabilito, calcolata anche in base all’esperienza passata, è pari a 0,62%. 
+In base ai risultati delle elaborazioni effettuate, la perdita massima ritenuta accettabile nell’orizzonte temporale è 
+pari a 0,27%, calcolata con un intervallo di confidenza del 99%.  
+Finalità: Il Comparto Bilanciato Equilibrato ha come obiettivo l’incremento nel medio/lungo termine del capitale 
+investito.  La gestione risponde alle esigenze di un soggetto con propensione al rischio media o che ha ancora un
+=== pagina 21 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 20 di 36 
+ 
+numero discreto di anni prima della pensione. Il Comparto è adatto a un soggetto che ricerca rendimenti nel 
+medio/lungo periodo privilegiando la continuità dei risultati ed è disposto ad accettare una esposizione al rischio 
+media.  
+Ripartizione strategica delle attività 
+La politica di investimento è orientata prevalentemente verso l’acquisizione di strumenti finanziari ed OICR di 
+natura obbligazionaria. 
+Gli investimenti di natura azionaria non possono superare il 50% del valore del portafoglio. 
+Le principali classi di attività nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Classi di attività Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Liquidità 0% 10% 40% 
+Obbligazionario 30% 60% 100% 
+Azionario 0% 30% 50% 
+ 
+Le aree geografiche nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Aree Geografiche Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Europa 50% 74% 100% 
+U.S.A. 0% 16% 35% 
+Altri Paesi 0% 10% 25% 
+ Totale   100%   
+Le valute di riferimento (al netto delle coperture) nelle quali il Comparto investe, ed i rispettivi limiti minimi e 
+massimi sono i seguenti: 
+ 
+Esposizione Valutaria Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Euro 70% 79% 100% 
+Dollaro 0% 13% 30% 
+Altro 0% 8% 20% 
+ Totale    100%   
+Nel caso di investimenti in valuta possono essere utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica è la seguente:
+=== pagina 22 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 21 di 36 
+ 
+ 
+In relazione all’andamento del mercato su ciascun settore sarà possibile raggiungere una percentuale elevata degli 
+investimenti fino al massimo del 20% del patrimonio del Comparto. 
+Sarà altresì possibile avere un’esposizione molto modesta o nulla su specifici settori. 
+Il benchmark è composto dai seguenti indici:  
+Indice JP Morgan EMU Investment Grade obbligazionario denominato in Euro: 35% 
+Indice JP Morgan Global Govt Bond Index (GBI Global) obbligazionario globale denominato in Dollari e convertito in 
+Euro: 10% 
+Indice JP Morgan Cash Index Euro 3M: 10% 
+Indice ICE Bofa Euro Large cap Corporate denominato in Euro: 15% 
+Indice MSCI EMU Net Return azionario denominato in Euro: 15% 
+Indice MSCI All Country World Net Return azionario globale denominato in Dollari e convertito in Euro: 15%. 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra i principali strumenti finanziari nei quali il Comparto investe e i relativi limiti: 
+ 
+Strumenti Finanziari Limite per 
+categoria 
+Limite per singolo 
+strumento Limite di Rating 
+Liquidità 40% n.a. nessuno 
+Pronti contro termine 20% 20% Investment Grade  
+Titoli di Stato ed emissioni di Enti 
+Sovranazionali 100% 20% nessuno 
+Altri titoli di debito 50% 5% nessuno 
+Titoli di capitale 50% 5% nessuno 
+OICR  55% 20% nessuno 
+Di cui OICR alternativi9 8% 2% nessuno 
+Derivati  20% 10% Investment Grade  
+Strumenti finanziari connessi a merci 5% 2% nessuno 
+Vendita Divisa a Termine per copertura 
+rischio di cambio 50% 25% Investment Grade  
+ 
+ 
+9 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione. 
+Settori di attività Percentuali
+Finanziari 18%
+Industriali 17%
+Consumi Discrezionali 16%
+T ecnologia 12%
+Cosumi di B ase 8%
+Farmaceutici 7%
+Servizi di pubblica utilità 6%
+M aterie prime 6%
+Ene rgia 5%
+T elecomunicazioni 4%
+Immobiliare 1%
+To t a l e 100%
+=== pagina 23 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 22 di 36 
+ 
+La percentuale di investimento in Altri Titoli di Debito aventi rating Sub Investment Grade sarà residuale rispetto al 
+totale del Portafoglio. 
+Nell’attività di gestione del Portafoglio , il rating,  quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo.  
+La duration media ponderata del Portafoglio obbligazionario, comprensivo della liquidità, è compresa fra 2 e 15 
+anni.  
+La quota in titoli azionari è rivolta prevalentemente a società caratterizzate da capitalizzazione medio alta. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle strategie 
+poste in essere dal gestore e sulla struttura dei costi dello strumento; gli emittenti devono inoltre rendere 
+disponibili alla Società flussi informativi sufficienti per un’adeguata valutazione dell’investimento effettuato e per 
+la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio che per 
+una più efficiente gestione. 
+Al fine di migliorare il profilo rischio - rendimento del portafoglio nel suo complesso è consentito l’investimento in 
+OICR alternativi selezionati fra quelli non promossi o gestiti da Unipol Assicurazioni o da altre società del gruppo. 
+Nell'analisi e selezione degli OICR alternativi finalizzata ad un eventuale inserimento nel portafoglio verrà prestato 
+un particolare interesse agli OICR alternativi che investono in Real Asset.  
+Trattandosi di strumenti potenzialmente illiquidi, al momento della sottoscrizione di ogni nuovo impegno, il nuovo 
+investimento non dovrà eccedere il 2% del patrimonio del Comparto e il totale complessivo degli impegni non dovrà 
+eccedere l’8% del patrimonio. 
+L’ammontare complessivo investito dal Fondo Pensione, in un determinato OICR alternativo, non potrà superare il 
+10% del valore dello stesso OICR. 
+In caso di investimento in OICR alternativi, sul Comparto graveranno,  laddove consentito dalla normativa vigente, 
+le commissioni di gestione di ciascun OICR nella misura massima del 2% e le commissioni di incentivo di ciascun 
+OICR nella misura massima del 20% della performance realizzata dall’OICR stesso. 
+Nella scelta degli OICR alternativi la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle 
+strategie poste in essere dal gestore, sulla struttura dei costi dello strumento e sugli eventuali periodi d’uscita 
+dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili alla Società flussi informativi 
+sufficienti per un’adeguata valutazione dell’investimento effettuato e per la predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+L’investimento diretto in strumenti derivati (non tramite OICR), coerentemente con il profilo di rischio - rendimento 
+del Comparto,  avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione e si rivolge 
+generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi operativi, sia i 
+rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza di tali strumenti. La 
+percentuale di investimento in eventua li strumenti derivati non quotati sarà residuale rispetto al totale del 
+Portafoglio. 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C.. 
+Il Comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati regolamentati, 
+entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore per 
+il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del Comparto. Tale obiettivo
+=== pagina 24 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 23 di 36 
+ 
+è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli investimenti e il 
+contenimento dei costi di transazione, gestione e funzionamento del Comparto. 
+Lo stile di gestione è attivo rispetto al benchmark, con scostamenti anche rilevanti rispetto a tale parametro, sia per 
+quanto riguarda la componente azionaria, sia per quanto riguarda la componente obbligazionaria.  
+Si ritiene che la volatilità tipica dei mercati finanziari possa determinare situazioni temporanee di non corrette 
+valutazioni dei singoli titoli o di intere asset class . Ciò può consentire all’attività di gestione di ottenere extra 
+rendimenti rispetto al benchmark attraverso un’accurata selezione di singoli titoli temporaneamente sottovalutati 
+in base ai fondamentali e attraverso l’attività di asset allocation tattica, ovvero la scelta di sovra/sotto pesare 
+determinate asset class, aree geografiche, settori economici o specifici tratti della curva. 
+Gli indicatori monitorati sono il turnover di Portafoglio e la volatilità dei rendimenti differenziali rispetto al 
+benchmark (tracking error volatility, TEV). In particolare è previsto un limite di rotazione del Portafoglio pari a 350% 
+e un obiettivo di semi tracking error volatility annua da contenere entro il 3,5%. 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo interesse 
+dell’aderente; il superamento di tali limiti deve essere valutato dal Comitato Investimenti Finanziari per una 
+successiva approvazione da parte del Consiglio di Amministrazione. 
+Comparto Bilanciato Dinamico 
+Orizzonte temporale: medio/lungo (tra 10 e 15 anni). 
+Grado di rischio: medio alto 
+Rendimento medio annuo atteso nell’orizzonte temporale: 2,54% reale (al netto dell’inflazione ipotizzata pari a 
+2,21%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 8,48%. 
+In base ai risultati delle elaborazioni effettuate, la probabilità di ottenere rendimenti negativi nell’orizzonte 
+temporale stabilito, calcolata anche in base all’esperienza passata, è pari a 2,16%. 
+In base ai risultati delle elaborazioni effettuate, la perdita massima ritenuta accettabile nell’orizzonte temporale è 
+pari a 1,51%, calcolata con un intervallo di confidenza del 99%.  
+Finalità: Il Comparto Bilanciato Dinamico ha come obiettivo l’incremento nel medio/lungo termine del capitale 
+investito. La gestione risponde alle esigenze di un soggetto con propensione al rischio medio alta o che ha ancora 
+un numero elevato di anni prima  della pensione. Il Comparto è adatto a un soggetto che ricerca rendimenti più 
+elevati nel medio lungo periodo ed è disposto ad accettare una maggiore esposizione al rischio, con la possibilità di 
+registrare discontinuità dei risultati nei singoli esercizi.  
+Ripartizione strategica delle attività 
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed OICR di natura 
+obbligazionaria ed azionaria. 
+Gli investimenti di natura azionaria non possono superare il 70% del valore del portafoglio.  
+Le principali classi di attività nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Classi di attività Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Liquidità 0% 8% 40% 
+Obbligazionario 15% 42% 65% 
+Azionario 30% 50% 70% 
+ 
+Le aree geografiche nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti:
+=== pagina 25 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 24 di 36 
+ 
+ 
+Aree Geografiche Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Europa 50% 73% 100% 
+U.S.A. 0% 18% 40% 
+Altri Paesi 0% 9% 25% 
+ Totale   100%   
+ 
+Le valute di riferimento (al netto delle coperture) nelle quali il Comparto investe, ed i rispettivi limiti minimi e 
+massimi sono i seguenti: 
+ 
+Esposizione Valutaria Percentuale minima  Ripartizione 
+strategica 
+Percentuale 
+massima 
+Euro 70% 73% 100% 
+Dollaro 0% 17% 30% 
+Altro 0% 10% 25% 
+ Totale    100%   
+ 
+Nel caso di investimenti in valuta possono essere utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica è la seguente: 
+ 
+ 
+ 
+In relazione all’andamento del mercato su ciascun settore sarà possibile raggiungere una percentuale elevata degli 
+investimenti fino al massimo del 25% del patrimonio del Comparto. 
+Sarà altresì possibile avere un’esposizione molto modesta o nulla su specifici settori. 
+Il benchmark è composto dai seguenti indici:  
+Indice JP Morgan EMU Investment Grade obbligazionario denominato in Euro: 30% 
+Indice JP Morgan Global Govt Bond Index (GBI Global) obbligazionario globale denominato in Dollari e convertito in 
+Euro: 5% 
+Indice JP Morgan Cash Index Euro 3M: 8% 
+Settori di attività Percentuali
+Finanziari 18%
+Industriali 17%
+Consumi Discrezionali 16%
+T ecnologia 12%
+Cosumi di B ase 8%
+Farmaceutici 7%
+Servizi di pubblica utilità 6%
+M aterie prime 6%
+Ene rgia 5%
+T elecomunicazioni 4%
+Immobiliare 1%
+To t a l e 100%
+=== pagina 26 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 25 di 36 
+ 
+Indice ICE Bofa Euro Large cap Corporate denominato in Euro: 7% 
+Indice MSCI EMU Net Return azionario denominato in Euro: 25% 
+Indice MSCI All Country World Net Return azionario globale denominato in Dollari e convertito in Euro: 25% 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra i principali strumenti finanziari nei quali il Comparto investe e i relativi limiti: 
+Strumenti Finanziari Limite per 
+categoria 
+Limite per singolo 
+strumento Limite di Rating 
+Liquidità 40% n.a. nessuno 
+Pronti contro termine 20% 20% Investment Grade  
+Titoli di Stato ed emissioni di Enti 
+Sovranazionali 65% 20% nessuno 
+Altri titoli di debito 30% 5% nessuno 
+Titoli di capitale 70% 5% nessuno 
+OICR  70% 20% nessuno 
+Di cui OICR alternativi10 8% 2% nessuno 
+Derivati  25% 10% Investment Grade  
+Strumenti finanziari connessi a merci 5% 2% nessuno 
+Vendita Divisa a Termine per copertura 
+rischio di cambio 50% 25% Investment Grade  
+La percentuale di investimento in Altri Titoli di Debito aventi rating Sub Investment Grade sarà residuale rispetto al 
+totale del Portafoglio. 
+Nell’attività di gestione del Portafoglio , il rating,  quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo.  
+La duration media ponderata del Portafoglio obbligazionario, comprensivo della liquidità, è compresa fra 2 e 15 
+anni.  
+La quota in titoli azionari è rivolta prevalentemente a società caratterizzate da capitalizzazione medio alta. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle strategie 
+poste in essere dal gestore e sulla struttura dei costi dello strumento; gli emittenti devono inoltre rendere 
+disponibili alla Società flussi informativi sufficienti per un’adeguata valutazione dell’investimento effettuato e per 
+la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio che per 
+una più efficiente gestione. 
+Al fine di migliorare il profilo rischio - rendimento del portafoglio nel suo complesso è consentito l’investimento in 
+OICR alternativi selezionati fra quelli non promossi o gestiti da Unipol Assicurazioni o da altre società del gruppo. 
+Nell'analisi e selezione degli OICR alternativi finalizzata ad un eventuale inserimento nel portafoglio verrà prestato 
+un particolare interesse agli OICR alternativi che investono in Real Asset.  
+Trattandosi di strumenti potenzialmente illiquidi, al momento della sottoscrizione di ogni nuovo impegno, il nuovo 
+investimento non dovrà eccedere il 2% del patrimonio del Comparto e il totale complessivo degli impegni non dovrà 
+eccedere l’8% del patrimonio. 
+ 
+ 
+10 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione.
+=== pagina 27 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 26 di 36 
+ 
+L’ammontare complessivo investito dal Fondo Pensione, in un determinato OICR alternativo, non potrà superare il 
+10% del valore dello stesso OICR. 
+In caso di investimento in OICR alternativi, sul Comparto graveranno,  laddove consentito dalla normativa vigente, 
+le commissioni di gestione di ciascun OICR nella misura massima del 2% e le commissioni di incentivo di ciascun 
+OICR nella misura massima del 20% della performance realizzata dall’OICR stesso. 
+Nella scelta degli OICR alternativi la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle 
+strategie poste in essere dal gestore, sulla struttura dei costi dello strumento e sugli eventuali periodi d’uscita 
+dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili alla Società flussi informativi 
+sufficienti per un’adeguata valutazione dell’investimento effettuato e per la predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+L’investimento diretto in strumenti derivati (non tramite OICR), coerentemente con il profilo di rischio - rendimento 
+del Comparto,  avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione e si rivolge 
+generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi operativi, sia i 
+rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza di tali strumenti. La 
+percentuale di investimento in eventua li strumenti derivati non quotati sarà residuale rispetto al totale del 
+Portafoglio. 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C.. 
+Il Comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati regolamentati, 
+entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore per 
+il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del Comparto. Tale obiettivo 
+è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli investimenti e il 
+contenimento dei costi di transazione, gestione e funzionamento del Comparto. 
+Lo stile di gestione è attivo rispetto al benchmark, con scostamenti anche rilevanti rispetto a tale parametro, sia per 
+quanto riguarda la componente azionaria, sia per quanto riguarda la componente obbligazionaria.  
+Si ritiene che la volatilità tipica dei mercati finanziari possa determinare situazioni temporanee di non corrette 
+valutazioni dei singoli titoli o di intere asset class . Ciò può consentire all’attività di gestione di ottenere extra  
+rendimenti rispetto al benchmark attraverso un’accurata selezione di singoli titoli temporaneamente sottovalutati 
+in base ai fondamentali e attraverso l’attività di asset allocation tattica, ovvero la scelta di sovra/sotto pesare 
+determinate asset class, aree geografiche, settori economici o specifici tratti della curva. 
+Gli indicatori monitorati sono il turnover di Portafoglio e la volatilità dei rendimenti differenziali rispetto al 
+benchmark (tracking error volatility, TEV). In particolare è previsto un limite di rotazione del Portafoglio pari a 350% 
+e un obiettivo di semi tracking error volatility annua da contenere entro il 4%. 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo interesse 
+dell’aderente; il superamento di tali limiti deve essere valutato dal Comitato Investimenti per una successiva 
+approvazione da parte del Consiglio di Amministrazione. 
+Comparto Azionario 
+Orizzonte temporale: lungo (oltre i 15 anni). 
+Grado di rischio: alto. 
+Rendimento medio annuo atteso nell’orizzonte temporale: 3,40% reale (al netto dell’inflazione ipotizzata pari a 
+2,30%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata): 13,22%.
+=== pagina 28 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 27 di 36 
+ 
+In base ai risultati delle elaborazioni effettuate, la probabilità di ottenere rendimenti negativi nell’orizzonte 
+temporale stabilito, calcolata anche in base all’esperienza passata, è pari a 3,38%. 
+In base ai risultati delle elaborazioni effettuate, la perdita massima ritenuta accettabile nell’orizzonte temporale è 
+pari a 2,61%, calcolata con un intervallo di confidenza del 99%.  
+Finalità: il Comparto Azionario ha come obiettivo la rivalutazione nel lungo termine del capitale investito. La 
+gestione risponde alle esigenze di un soggetto con propensione al rischio alta o che ha ancora un numero elevato 
+di anni prima della pensione. Il Comparto è adatto a un soggetto che ricerca rendimenti più elevati nel lungo periodo 
+ed è disposto ad accettare una elevata esposizione al rischio, con la possibilità di registrare discontinuità dei risultati 
+nei singoli esercizi. 
+Ripartizione strategica delle attività 
+La politica di investimento è orientata principalmente verso l’acquisizione di strumenti finanziari ed OICR di natura 
+azionaria. 
+Gli investimenti di natura azionaria possono raggiungere il 100% del valore del portafoglio. 
+ 
+Le principali classi di attività nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Classi di attività Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Liquidità 0% 5% 30% 
+Obbligazionario 0% 15% 30% 
+Azionario 70% 80% 100% 
+ 
+Le aree geografiche nelle quali il Comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+Aree Geografiche Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Europa 50% 75% 100% 
+U.S.A. 0% 17% 45% 
+Altri Paesi 0% 8% 30% 
+ Totale    100%   
+ 
+Le valute di riferimento (al netto delle coperture) nelle quali il Comparto investe, ed i rispettivi limiti minimi e 
+massimi sono i seguenti: 
+Esposizione Valutaria Percentuale 
+minima  
+Ripartizione 
+strategica 
+Percentuale 
+massima 
+Euro 70% 73% 100% 
+Dollaro 0% 17% 30% 
+Altro 0% 10% 30% 
+ Totale    100%   
+Nel caso di investimenti in valuta possono essere utilizzate tecniche di copertura del rischio di cambio.
+=== pagina 29 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 28 di 36 
+ 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica è la seguente: 
+ 
+In relazione all’andamento del mercato su ciascun settore sarà possibile raggiungere una percentuale elevata degli 
+investimenti fino al massimo del 40% del patrimonio del Comparto. 
+Sarà altresì possibile avere un’esposizione molto modesta o nulla su specifici settori. 
+Il benchmark è composto dai seguenti indici:  
+Indice JP Morgan EMU Investment Grade obbligazionario denominato in Euro: 15% 
+Indice JP Morgan Cash Index Euro 3M: 5%. 
+Indice MSCI EMU Net Return azionario denominato in Euro: 50% 
+Indice MSCI All Country World Net Return azionario globale denominato in Dollari e convertito in Euro: 30% 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra i principali strumenti finanziari nei quali il Comparto investe e i relativi limiti: 
+Strumenti Finanziari Limite per categoria Limite per singolo 
+strumento Limite di Rating 
+Liquidità 30% n.a. nessuno 
+Pronti contro termine 20% 20% Investment Grade  
+Titoli di Stato ed emissioni di Enti 
+Sovranazionali 30% 10% nessuno 
+Altri titoli di debito 20% 5% nessuno 
+Titoli di capitale 100% 5% nessuno 
+OICR 75% 20% nessuno 
+Di cui OICR alternativi11 8% 2% nessuno 
+Derivati  30% 10% Investment Grade  
+Strumenti finanziari connessi a merci 5% 2% nessuno 
+Vendita Divisa a Termine per copertura 
+rischio di cambio 50% 25% Investment Grade  
+La percentuale di investimento in Altri Titoli di Debito aventi rating Sub Investment Grade sarà residuale rispetto al 
+totale del Portafoglio. 
+ 
+11 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione. 
+Settori di attività Percentuali
+Finanziari 18%
+Industriali 17%
+Consumi Discrezionali 16%
+T ecnologia 12%
+Cosumi di B ase 8%
+Farmaceutici 7%
+Servizi di pubblica utilità 6%
+M aterie prime 6%
+Ene rgia 5%
+T elecomunicazioni 4%
+Immobiliare 1%
+To t a l e 100%
+=== pagina 30 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 29 di 36 
+ 
+Nell’attività di gestione dei Portafoglio , il rating,  quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo.  
+La duration media ponderata del Portafoglio obbligazionario, comprensivo della liquidità, è compresa fra 2 e 20 
+anni.  
+La quota in titoli azionari è rivolta prevalentemente a società caratterizzate da capitalizzazione medio alta. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle strategie 
+poste in essere dal gestore e sulla struttura dei costi dello strumento; gli emittenti devono inoltre rendere 
+disponibili alla Società flussi informativi sufficienti per un’adeguata valutazione dell’investimento effettuato e per 
+la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio che per 
+una più efficiente gestione. 
+Al fine di migliorare il profilo rischio - rendimento del portafoglio nel suo complesso è consentito l’investimento in 
+OICR alternativi selezionati fra quelli non promossi o gestiti da Unipol Assicurazioni o da altre società del gruppo. 
+Nell'analisi e selezione degli OICR alternativi finalizzata ad un eventuale inserimento nel portafoglio verrà prestato 
+un particolare interesse agli OICR alternativi che investono in Real Asset.  
+Trattandosi di strumenti potenzialmente illiquidi, al momento della sottoscrizione di ogni nuovo impegno, il nuovo 
+investimento non dovrà eccedere il 2% del patrimonio del Comparto e il totale complessivo degli impegni non dovrà 
+eccedere l’8% del patrimonio. 
+L’ammontare complessivo investito dal Fondo Pensione, in un determinato OICR alternativo, non potrà superare il 
+10% del valore dello stesso OICR. 
+In caso di investimento in OICR alternativi, sul Comparto graveranno,  laddove consentito dalla normativa vigente, 
+le commissioni di gestione di ciascun OICR nella misura massima del 2% e le commissioni di incentivo di ciascun 
+OICR nella misura massima del 20% della performance realizzata dall’OICR stesso. 
+Nella scelta degli OICR alternativi la Società si rivolge a emittenti che consentono l’accesso alle informazioni sulle 
+strategie poste in essere dal gestore, sulla struttura dei costi dello strumento e sugli eventuali periodi d’uscita 
+dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili alla Società flussi informativi 
+sufficienti per un’adeguata valutazione dell’investimento effettuato e per la predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+L’investimento diretto in strumenti derivati (non tramite OICR), coerentemente con il profilo di rischio - rendimento 
+del Comparto,  avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione e si rivolge 
+generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi operativi, sia i 
+rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza di tali strumenti. La 
+percentuale di investimento in eventua li strumenti derivati non quotati sarà residuale rispetto al totale del 
+Portafoglio. 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C.. 
+Il Comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati regolamentati, 
+entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore per 
+il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del Comparto. Tale obiettivo
+=== pagina 31 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 30 di 36 
+ 
+è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli investimenti e il 
+contenimento dei costi di transazione, gestione e funzionamento del Comparto. 
+Lo stile di gestione è attivo rispetto al benchmark, con scostamenti anche rilevanti rispetto a tale parametro, sia per 
+quanto riguarda la componente azionaria, sia per quanto riguarda la componente obbligazionaria.  
+Si ritiene che la volatilità tipica dei mercati finanziari possa determinare situazioni temporanee di non corrette 
+valutazioni dei singoli titoli o di intere asset class . Ciò può consentire all’attività di gestione di ottenere extra  
+rendimenti rispetto al benchmark attraverso un’accurata selezione di singoli titoli temporaneamente sottovalutati 
+in base ai fondamentali e attraverso l’attività di asset allocation tattica, ovvero la scelta di sovra/sotto pesare 
+determinate asset class, aree geografiche, settori economici o specifici tratti della curva. 
+Gli indicatori monitorati sono il turnover di Portafoglio e la volatilità dei rendimenti differenziali rispetto al 
+benchmark (tracking error volatility, TEV). In particolare è previsto un limite di rotazione del Portafoglio pari a 350% 
+e un obiettivo di semi tracking error volatility annua da contenere entro il 4%. 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo interesse 
+dell’aderente; il superamento di tali limiti deve essere valutato dal Comitato Investimenti Finanziari per una 
+successiva approvazione da parte del Consiglio di Amministrazione. 
+ 
+ CRITERI PER L’ESERCIZIO DEI DIRITTI DI VOTO SPETTANTI AL FONDO 
+Con riferimento ai titoli di capitale detenuti in Portafoglio è prevista la possibilità di esercitare diritti di voto spettanti 
+al Fondo. 
+L’esercizio del diritto di voto è delegato al responsabile dell’unità Pension Funds & Unit Financial Management. 
+La valutazione sull’opportunità di esercitare il diritto di voto viene valutata nell’interesse dell’aderente solo quando 
+la percentuale di azioni posseduta complessivamente da tutti i Comparti del Fondo supera lo 0,25% del capitale 
+della società esaminata;  sarà altresì possibile, nell’interesse dell’aderente, esercitare tale diritto a giudizio del 
+responsabile dell’unità Pension Funds & Unit Financial Management  anche in casi specifici in cui tale limite non 
+venisse superato. 
+FATTORI DI SOSTENIBILITÀ (O “FATTORI ESG”) 
+In considerazione dello stato dispositivo ed attuativo della normativa applicabile in relazione ai Fattori ESG, solo il 
+Comparto Bilanciato Etico è rispondente alle vigenti disposizioni del Regolamento (UE) 2088/2019, così come 
+successivamente modificato ed integrato, infatti, ai sensi dell’Art. 8 del citato Regolamento è l’unico Comparto del 
+Fondo che promuove, tra le altre, caratteristiche ambientali e sociali, attraverso l’integrazione dei Fattori ESG nel 
+processo e nei criteri di selezione e di gestione degli investimenti sia diretti che indiretti. 
+Inoltre su tutti i Comparti del Fondo, relativamente ai Fattori ESG e ai Rischi di sostenibilità connessi, viene svolto, 
+con periodicità almeno annuale,  un monitoraggio ex post degli investimenti diretti sottostanti , finalizzato a 
+verificare in che misura questi  investimenti rispettino i criteri ESG definiti dalle “Linee Guida per le attività di 
+investimento responsabile”.  
+Attualmente gli OICR non sono ricompresi nel monitoraggio ex post, che viene invece effettuato per gli investimenti 
+diretti sottostanti ai Comparti. 
+ 
+SOGGETTI COINVOLTI NEL PROCESSO, LORO COMPITI E RESPONSABILITÀ 
+Per tali informazioni si rimanda al Documento sul sistema di governo del Fondo adottato dalla Compagnia, 
+disponibile nella sezione dedicata al Fondo del sito internet della Compagnia.
+=== pagina 32 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 31 di 36 
+ 
+SISTEMA DI CONTROLLO DELLA GESTIONE FINANZIARIA 
+Tutti i limiti previsti dalla normativa di riferimento e dal Regolamento del Fondo sono inseriti nel sistema 
+informativo che supporta l’attività di gestione finanziaria, permettendo l’effettuazione sia di controlli ex -ante che 
+di controlli ex-post, anche in coerenza con quanto previsto dalle Regole Operative della Direzione Finanza. 
+La verifica dell’effettiva rispondenza della gestione dei vari comparti alla Politica di Investimento è affidata a 
+molteplici controlli, che vengono riepilogati nella tabella seguente. 
+Le modalità con cui vengono effettuati i controlli sono riepilogate nel Manuale Operativo del Fondo, approvato dal 
+Consiglio di Amministrazione della Compagnia 
+Progr. Parametri di 
+Controllo 
+Responsabile 
+Controllo Indicatori e modalità di controllo Periodicità 
+controllo 
+Periodicità 
+report CdA 
+1 Performance ALM Strategico e 
+Portfolio Analysis 
+Calcolo dei risultati conseguiti in termini di 
+rischio - rendimento, sia in assoluto che in 
+relazione all’ eventuale benchmark di 
+riferimento 
+Mensile Trimestrale 
+2 Duration titoli 
+obbligazionari 
+ALM Strategico e 
+Portfolio Analysis 
+Calcolo della modified duration e verifica che sia 
+in linea con le indicazioni del Documento Mensile Trimestrale 
+3 
+Semi Tracking error 
+volatility/Value at 
+Risk  
+ALM Strategico e 
+Portfolio Analysis 
+Calcolo semi-TEV e monitoraggio del valore; 
+calcolo VaR e monitoraggio del valore Mensile Trimestrale 
+4 Variabilità 
+rendimento medio  
+ALM Strategico e 
+Portfolio Analysis 
+Calcolo del valore effettivo e confronto con 
+quello atteso Mensile Annuale 
+5 Perdita massima 
+accettabile 
+ALM Strategico e 
+Portfolio Analysis 
+Confronto rendimento - perdita massima 
+accettabile Annuale Annuale 
+6 Performance 
+Attribution 
+ALM Strategico e 
+Portfolio Analysis 
+Esame dei risultati conseguiti e attribuzione 
+degli scostamenti rispetto al risultato atteso in 
+relazione ai diversi fattori 
+Annuale Annuale 
+7 Turnover di 
+Portafoglio 
+Back Office 
+Finanza 
+Calcolo e monitoraggio del valore rispetto al 
+limite indicato nel Documento Mensile Trimestrale 
+8 
+Limiti di 
+investimento 
+(normativi, 
+regolamento, 
+politica di 
+investimento esclusi 
+i controlli da progr.1 
+a progr.7) 
+Ex-ante: Middle 
+Office e Data 
+Quality Finanza  
+Ex-post: Back 
+Office Finanza 
+Monitoraggio segnalazioni di warning e verifica 
+eventuali sforamenti rispetto ai limiti stabiliti nel 
+Documento 
+Ex-ante: 
+giornaliera 
+ 
+Ex-post: 
+settimanale / 
+Mensile 
+Trimestrale 
+9 
+Verifica criteri ESG 
+(Comparto 
+Bilanciato Etico) 
+Middle Office e 
+Data Quality 
+Finanza  
+Verifica ex -ante che gli strumenti finanziari 
+selezionati rientrino nell’universo investibile  Giornaliera Trimestrale 
+10 
+Validazione e 
+controllo modelli e 
+metodologie di 
+calcolo 
+Area Risk  
+Validazione e controllo dei modelli e delle 
+metodologie di calcolo utilizzate per ricavare i 
+principali indicatori di performance e rischio per 
+la misurazione e il controllo dell’attività di 
+gestione 
+Annuale Annuale 
+11 
+Controllo costi di 
+gestione e di 
+negoziazione 
+Back Office 
+Finanza Controllo costi di gestione e di negoziazione 
+Giornaliera / 
+Mensile 
+(commissioni 
+negoziazione) 
+Settimanale 
+(commissioni 
+gestione) 
+Trimestrale 
+      12 Controllo costi degli 
+OICR 
+Back Office 
+Finanza 
+Controllo sulla coerenza tra costi effettivi degli 
+OICR e previsioni del Regolamento Settimanale  Trimestrale
+=== pagina 33 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 32 di 36 
+ 
+13 
+Monitoraggio 
+popolazione di 
+riferimento 
+ Innovazione e 
+Sviluppo Tecnico 
+Prodotti Vita 
+Analisi della struttura degli iscritti per età, del 
+livello medio della contribuzione e 
+dell’andamento dei flussi in entrata e uscita 
+Annuale Annuale 
+14 Data quality Back Office 
+Finanza 
+Riconciliazione per Comparto delle quantità 
+presenti nei dossier titoli e dei saldi di liquidità 
+dei conti correnti presso la banca depositaria 
+con le relative posizioni risultanti 
+nell’applicativo gestionale SOFIA 
+Titoli: 
+Trimestrale 
+Conto 
+Corrente: 
+Settimanale 
+Trimestrale 
+15 Oicr alternativi 
+Comitato 
+Investimenti 
+Finanziari 
+Valutazione della proposta di investimento e  
+verifica dei limiti specifici relativi a questa 
+categoria d’investimento. 
+Valutazione: 
+ad evento Ad evento 
+16 Controlli secondo 
+livello Area Risk  
+Controlli di secondo livello sui seguenti 
+parametri e riporto  al CdA de gli esiti di tali 
+controlli: 
+– Performance 
+– Variabilità del rendimento medio 
+– Duration titoli obbligazionari 
+– Semi Tracking error volatility 
+– Perdita massima accettabile 
+– Performance attribution 
+– Turnover di Portafoglio 
+– Limiti di investimento 
+Trimestrale / 
+Annuale 
+Trimestrale 
+/ Annuale 
+ 
+ 
+MODIFICHE APPORTATE NELL’ULTIMO TRIENNIO 
+Modifiche apportate dal Consiglio di Amministrazione del 19 dicembre 2024 connesse al Progetto di 
+razionalizzazione societaria del Gruppo Unipol e aventi efficacia dal 31 dicembre 2024 
+Nella riunione consiliare del 19 dicembre 2024, l’organo amministrativo - tenuto conto (i) della data di efficacia 
+prevista al 31 dicembre 2024 della fusione per incorporazione (di seguito, la “Fusione” e la “Data della Fusione”), 
+fra le altre, di UnipolSai S.p.A., nella Società Incorporante  Unipol Gruppo S.p.A. che  per l’effetto acquisirà le 
+autorizzazioni all’esercizio dell’attività assicurativa e riassicurativa , subentrando in tutti i rapporti giuridici attivi e 
+passivi facenti capo ad UnipolSai S.p.A. (ivi compresa l’attività di gestione del Fondo ) ed assumendo la nuova 
+denominazione di Unipol Assicurazioni S.p.A. e , in forma abbreviata, Unipol S.p.A. ; nonché (ii) delle connesse 
+modifiche deliberate al Regolamento del Fondo nella riunione consiliare dell’ 8 agosto 2024 con efficacia dalla Data 
+della Fusione, tra cui anche la nuova denominazione del Fondo stesso in “Unipol Previdenza FPA”  mantenendo 
+invariate le relative caratteristiche -  ha approvato in coerenza e, sempre con efficacia dalla Data della Fusione, una 
+nuova versione del Documento.  
+Le modifiche apportate al Documento riguardano solo le seguenti variazioni connesse alla Fusione: il recepimento 
+(i) di Unipol Assicurazioni S.p.A. in luogo di UnipolSai Assicurazioni S.p.A., (ii) della nuova denominazione del Fondo, 
+(iii) del dominio @unipol.it in sostituzione di @unipolsai.it., fermo il resto. 
+In tale riunione consiliare, unitamente al Documento e  con medesima data di efficacia,  è stato modificato  nei 
+corrispondenti riferimenti connessi alla Fusione anche il Manuale Operativo del sistema di controllo della gestione 
+finanziaria. 
+Modifiche apportate dal Consiglio di Amministrazione del 21 marzo 2024 aventi efficacia dal 27 marzo 2024 
+Nella riunione consiliare del 21 marzo 2024, l’organo amministrativo ha approvato una nuova versione del 
+Documento - con efficacia a far data dal 27 marzo 2024 - contenente le seguenti modifiche:  
+− l’aggiornamento delle metriche di rischio-rendimento dei Comparti del FPA nei rispettivi orizzonti temporali 
+e la ripartizione strategica settoriale relativa alla componente azionaria investita direttamente in titoli, così 
+come definite ad esito dell’adempimento di revisione cui è stato sottoposto il Documento;
+=== pagina 34 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 33 di 36 
+ 
+− l’allineamento dei contenuti sia (i) della Tabella riepilogativa del Sistema di controllo della gestione 
+finanziaria per tener conto dei riferimenti aggiornati ai Responsabili dei controlli e alle modalità e 
+periodicità con cui tali controlli vengono effettuati; sia (ii) dei Paragrafi dedicati allo “Stile di gestione” di 
+ciascun Comparto del Fondo, in recepimento -  in coerenza con la normativa interna e di Gruppo vigente 
+applicabile - della corrispondente descrizione delle specifiche attività svolte dal Com itato Investimenti 
+Finanziari. Si segnala inoltre che le informazioni relative ai compiti, ruoli e responsabilità dei Soggetti 
+coinvolti nel processo di investimento - contenute nel Documento sul sistema di governo del Fondo - sono 
+state altresì aggiornate, sempre nella presente riunione consiliare, con data di efficacia a decorrere dal 27 
+marzo 2024; 
+− l’opportuna sistematizzazione e riformulazione puntuale dei contenuti espositivi in tema di Fattori ESG sia 
+(i) nel Paragrafo “CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO”  in relazione al Comparto 
+Bilanciato Etico, dove gli interventi effettuati mantengono inalterate la classificazione dello stesso ai sensi 
+dell’articolo 8 del Regolamento (UE) 2019/2088 e le relative caratteristiche di rischio/rendimento  che 
+rappresentano il profilo espresso dagli Aderenti; sia (ii) nel Paragrafo “FATTORI ESG” - riassuntivo della 
+modalità di considerazione di tali Fattori nei vari Comparti di investimento del FPA -  che è stato 
+ridenominato in “ FATTORI DI SOSTENIBILITÀ (O “FATTORI ESG”)” e rivisto anche negli opportuni rimandi 
+alle vigenti Linee Guida RI, per mantenerli solo dove effettivamente possibile e coerente.  
+Questa complessiva attività di riorganizzazione dei contenuti,  ha l’obiettivo di mantenere le sole 
+informazioni precise, chiare e necessarie in rispondenza di quanto gradualmente sempre più definito dalla 
+normativa europea di riferimento nonché consentire richiami attuativi coerenti delle Linee Guida RI, in 
+ragione del relativo perimetro di applicabilità. 
+In tale riunione consiliare, unitamente al Documento è stato modificato, con medesima data di efficacia, anche il 
+Manuale Operativo del sistema di controllo della gestione finanziaria, per un opportuno allineamento ed 
+aggiornamento dei corrispondenti riferimenti di tipo terminologico, procedurale, di metodologia nonché di quelli 
+relativi alla denominazione e alle specifiche attività svolte dalle preposte Unità organizzative e dai Soggetti coinvolti 
+nel processo di investimento, in coerenza con quanto stabil ito nella presente versione del Documento, nel nuovo 
+Documento sul sistema di governo nonché nella vigente normativa interna e di Gruppo nonché esterna applicabile.   
+ 
+Modifiche apportate dal Consiglio di Amministrazione del 15 dicembre 2022 aventi efficacia dal 1° gennaio 2023 
+La normativa europea dispositiva in materia di Sostenibilità, qui di interesse per l’impatto sul Comparto Bilanciato 
+Etico del Fondo Pensione Aperto, è stata ulteriormente sviluppata, da ultimo, dal Regolamento Delegato (UE) 
+2022/1288 della Commissione del 6 aprile 2022 applicabile a far data dal 1° gennaio 2023. 
+Tale Regolamento 2022/1288, infatti, integra il Regolamento (UE) 2019/2088 per quanto riguarda le norme 
+tecniche di regolamentazione di dettaglio per la presentazione di contenuti, metodologie e informazioni in appositi 
+documenti e sui siti web, introducen do per un’adeguata comparabilità  anche specifici Modelli di riferimento da 
+adottare corrispondenti agli Allegati da I a V al Regolamento 2022/1288. Tali Allegati, ed in particolare gli Allegati I, 
+II e IV considerando il Fondo Pensione Aperto/le caratteristiche del Comparto Bilanciato Etico del Fondo, integrano 
+la documentazione precontrattuale e periodica già prevista per normativa nazionale di settore; onde l’importanza 
+di interventi di sistematizzazione dei contenuti per l’adeguata coerenza e rispondenza  informativa in tale ambito 
+richiesta tra i documenti relativi al Fondo Pensione Aperto. 
+In ragione di quanto sopra e delle opportune iniziative e interventi in tale ambito  considerati dalle competenti 
+strutture della Compagnia, l’organo amministrativo - in un’ottica sistematica di adeguamento dei profili inerenti la 
+rendicontazione di dettaglio complessivamente richiesta -  ha provveduto, in occasione della citata riunione 
+consiliare e con efficacia a far data dal 1° gennaio 2023, al rispettivo aggiornamento: 
+i) del Documento sulla Politica di Investimento, in particolare adeguando il Paragrafo contenente la 
+descrizione dell’opzione di investimento del Fondo rappresentata dal Comparto Bilanciato Etico secondo i 
+profili applicabili della regolamentazione europea attuativa di riferimento e considerando, contestualmente
+=== pagina 35 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 34 di 36 
+ 
+ed in coerenza, riferimenti e metodologia del Provider specializzato individuato in sostituzione del 
+precedente Consulente e della relativa operatività; il tutto, da un punto di vista sostanziale, nel rispetto: 
+• del criterio di selezione degli strumenti finanziari ed OICR da parte della Compagnia; che avviene 
+nell’ambito di un universo investibile selezionato in base alla valutazione della responsabilità sociale 
+e ambientale e della struttura di governance (ESG –  Environmental, Social, Governance) degli 
+emittenti; 
+• delle caratteristiche del Comparto Bilanciato Etico; quale opzione di investimento che ai sensi 
+dell’Art. 8 del vigente Regolamento 2019/2088, come successivamente integrato e modificato, 
+promuove, tra le altre caratteristiche, caratteristiche ambientali e  sociali, attraverso l’integrazione 
+dei Fattori ESG (ESG Environmental = ambientali, Social = sociali, Governance = di governo societario) 
+nel processo e nei criteri di selezione e di gestione degli investimenti sia diretti che indiretti; 
+ii) del Manuale Operativo, per l’opportuno allineamento e l’adeguata rispondenza complessiva dei connessi 
+riferimenti normativi, procedurali, di metodologia e Soggetti coinvolti, ivi altresì in coerenza presenti. 
+ 
+Modifiche apportate dal Consiglio di Amministrazione del 18 marzo 2021 
+Per effetto della Deliberazione COVIP del 13 gennaio 2021 - contenente le Istruzioni di vigilanza per le società che 
+gestiscono fondi pensione aperti, adottate ai sensi dell’art. 5 -decies, comma 1, del D.lgs n. 252/2005 -  e, in 
+particolare, di quanto disposto al Paragrafo 1. Sistema di governo, attuativo dell’art. 4-bis del richiamato Decreto, 
+dalla data di redazione dell’introdotto  “Documento sul sistema di governo societario afferente alla gestione dei 
+fondi pensione”, adottato dalla Compagnia per il Fondo, contestualmente, nella citata riunione consiliare; i compiti 
+e le responsabilità dei soggetti coinvolti nelle varie fasi del processo di investimento, non sono più da riportare nel 
+Documento sulla politica di investimento ma nell’ambito della descrizione dell’organizzazione della società rilevante 
+per il Fondo, contenuta nel  citato Documento sul sistema di governo . È stato pertanto eliminato dal presente 
+Documento il relativo paragrafo che conteneva tali informazioni mantenendo solo un rinvio per la relativa 
+consultazione.  
+Il Documento è stato altresì rivisto in un’ottica di sistematizzazione contenuti anche per il tema inerente i Fattori 
+ESG. Tali allineamenti formali, in linea con la documentazione vigente riferibile al Fondo, rispondono ad esigenze di 
+coerenza e chiarezza espositiva utili in vista degli adeguamenti documentali e adempimenti informativi, dal rilievo 
+specifico, richiesti sia dalla Direttiva IORP II, nelle previsioni già recepite nel Decreto, che dai Regolamenti (UE) 
+2019/2088 e 852/2020, e con impatto trasve rsale a livello di soggetto e di prodotto, nei termini già dispositivi 
+seppure in attesa di un quadro più definito.
+=== pagina 36 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 35 di 36 
+ 
+ALLEGATO 1 - RISCHI DI INVESTIMENTO 
+ 
+Qualsiasi attività finanziaria è caratterizzata da un profilo rischio - rendimento. In generale si può affermare che non 
+possono esserci certezze che un Comparto possa conseguire i propri obiettivi d'investimento. Sia gli strumenti 
+azionari che gli strumenti obbligazionari possono essere volatili e i prezzi possono subire variazioni sostanziali. 
+ 
+RISCHIO DI TASSO, DI CREDITO E DI MERCATO 
+Tutte le attività finanziarie sono soggette alle fluttuazioni di mercato. Tuttavia il tipo di rischio varia in relazione alle 
+caratteristiche dello strumento finanziario.  
+ 
+Gli strumenti di natura obbligazionaria sono soggetti principalmente al rischio tasso e al rischio di credito: 
+- il rischio tasso è connesso alla possibilità che il flusso cedolare dello strumento finanziario non sia più 
+adeguato ai tassi di mercato e conseguentemente il suo valore possa subire delle variazioni;  
+- il rischio credito si riferisce alla capacità di un emittente di far fronte agli interessi e al rimborso a scadenza 
+del capitale. 
+Un aumento dei tassi di interesse, a parità di altre condizioni, ridurrà il valore degli strumenti obbligazionari a tasso 
+fisso, mentre una diminuzione dei tassi di interesse determinerà un aumento del valore degli stessi. L'entità di tali 
+fluttuazioni dei prezzi sarà tanto maggiore quanto più lontana è la scadenza degli strumenti in circolazione.   
+Analogamente un aumento del rischio di credito, a parità di altre condizioni, ridurrà il valore degli strumenti 
+obbligazionari e viceversa. 
+ 
+I titoli azionari rappresentano il capitale delle società ed espongono l’investitore al rischio economico dell’impresa. 
+Pertanto l’investitore è sottoposto al rischio della perdita totale del denaro investito in questi strumenti finanziari. 
+Il prezzo dei t itoli azionari è connesso alle attese reddituali delle aziende sottostanti allo strumento stesso e 
+all’andamento dei tassi di interesse.  
+ 
+Un’adeguata attività di diversificazione degli investimenti tra Paesi, emittenti e settori di mercato può contribuire 
+a ridurre l'esposizione ai rischi di mercato di ciascun Comparto.  
+ 
+RISCHI I NATURA POLITICA E/O NORMATIVA 
+Il valore delle attività di un Comparto può essere soggetto a variazioni in relazione ad eventi incerti quali sviluppi 
+politici internazionali, cambiamenti nelle politiche governative, regime fiscale, restrizioni su investimenti esteri e 
+rimpatrio di valuta e modifiche normative. 
+ 
+RISCHIO DI DEFAULT DI EMITTENTI SOVRANI 
+Un Comparto può investire in titoli del debito sovrano di Governi di Paesi sviluppati e mercati emergenti. Gli 
+investimenti in titoli di questo tipo comportano rischi specifici: l'emittente del debito, ovvero le autorità statali che 
+controllano il rimborso  del debito, potrebbero non essere in grado o potrebbero essere contrari a rimborsare il 
+capitale (o gli interessi) alla scadenza in conformità con i termini di tale debito. Periodi di incertezza economica 
+possono determinare la volatilità dei prezzi di mercato del debito di uno Stato sovrano.  
+ 
+Sulla volontà o sulla capacità di un debitore sovrano di rimborsare il capitale e di pagare  interessi tempestivamente 
+possono incidere fattori quali, tra gli altri, la situazione del suo cash flow , il volume delle sue riserve estere, la 
+disponibilità di sufficiente valuta estera alla data di scadenza di un pagamento, il relativo volume degli oneri del 
+servizio del debito pubblico rispetto all'economia nel suo complesso, la politica del debitore sovrano nei confronti 
+dei principali finanziatori internazionali e i vincoli di natura politica a cui può essere soggetto un debitore  sovrano. 
+Tali debitori sovrani potrebbero dipendere altresì da pagamenti attesi da parte di governi esteri, agenzie 
+multilaterali e di altri enti all'estero per ridurre gli arretrati di capitale e interessi del proprio debito. L'impegno da 
+parte di questi governi, agenzie e altri enti ad effettuare tali pagamenti potrebbe essere condizionato
+=== pagina 37 ===
+Unipol Previdenza FPA 
+ 
+ 
+Documento sulla politica di investimento – mod. DPIFPA – ed. 01/2025 Pagina 36 di 36 
+ 
+dall'attuazione da parte del debitore sovrano di riforme economiche e/o dal tasso di crescita dell’economia.  
+ 
+RISCHIO VALUTARIO 
+Il valore dei Comparti del Fondo viene espresso in Euro, tuttavia gli investimenti possono essere acquisiti in altre 
+valute. Il valore degli investimenti effettuati in un’altra valuta può salire o scendere a causa delle fluttuazioni dei 
+tassi di cambio. Fluttuazioni negative dei tassi di cambio possono comportare una diminuzione del valore degli 
+investimenti in valuta e quindi del rendimento del Comparto. Gli investimenti di ciascun Comparto potranno essere 
+coperti dal rischio di cambio, tuttavia le operazi oni di copertura della valuta, se da una parte riducono 
+potenzialmente i rischi valutari, dall'altra possono implicare dei costi che potrebbero ridurre la redditività 
+dell’investimento. 
+RISCHIO DI CONTROPARTE 
+L’attività di negoziazione degli strumenti finanziari di un Comparto è soggetta al rischio di credito nei confronti delle 
+controparti con le quali si effettuano le transazioni. Tali rischi assumono un rilievo particolare nelle operazioni di 
+pronti contro termine e in alcuni contratti derivati. In caso di insolvenza, fallimento o inadempimento di una o più 
+controparti, un Comparto potrà subire o ritardi nella liquidazione dei titoli sottostanti o perdite, ivi inclusa la 
+possibile riduzione di valore dei titoli durante il periodo necessario a far valere i propri relativi diritti.   
+In relazione ai contratti futures e alle opzioni su futures, il rischio è in parte limitato dalla presenza della stanza di 
+compensazione. 
+Possono essere disposti rimedi contrattuali in caso di inadempimento ai sensi degli accordi relativi a particolari 
+operazioni. Tali rimedi potrebbero essere, tuttavia, inadeguati nella misura in cui le garanzie reali o altri beni 
+disponibili non siano sufficienti a soddisfare le obbligazioni della controparte. 
+ 
+RISCHIO LIQUIDITA’ 
+La liquidità di uno strumento finanziario consiste nella sua attitudine a trasformarsi prontamente in moneta senza 
+perdita di valore. Essa dipende in primo luogo dalle caratteristiche del mercato in cui il titolo è trattato. In generale, 
+a parità di altre condizioni, i titoli trattati su mercati regolamentati/sistemi multilaterali di negoziazione sono più 
+liquidi dei titoli non trattati su detti mercati. Questo in quanto la domanda e l’offerta di titoli viene convogliata in 
+gran parte su tali mercati e quindi i prezzi ivi rilevati sono più affidabili in quanto indicatori dell’effettivo valore degli 
+strumenti finanziari. 
+La liquidità di uno strumento finanziario è anche connessa ad altri fattori quali l’ammontare in circolazione o il 
+numero di controparti che tratta tale strumento. 
+Le condizioni di liquidità di uno strumento finanziario possono variare in relazione alla situazione dei mercati. 
+ 
+RISCHIO CONTRATTI DERIVATI 
+Ciascun Comparto potrà utilizzare derivati per finalità di copertura contro le fluttuazioni di mercato, i rischi di 
+cambio o di tasso di interesse. La capacità di un Comparto di usare queste strategie potrebbe essere limitata da 
+condizioni di mercato, vinc oli normativi e valutazioni di ordine fiscale. L'uso di tali strategie implica determinati 
+rischi specifici, fra i quali principalmente: (i) una correlazione imperfetta tra fluttuazioni dei titoli o della valuta di 
+base di un contratto futures  o di un’opzi one e le fluttuazioni dei titoli o delle valute del relativo Comparto; (ii) 
+l’assenza di un mercato liquido.   
+ 
+RISCHIO DI SOSTENIBILITÀ 
+Per rischio di sostenibilità si intende, ai sensi dell’Art. 2, n. 22) del Regolamento (UE) 2019/2088, un evento o una 
+condizione di tipo ambientale, sociale o di governance che, se si verifica, potrebbe provocare un significativo 
+impatto negativo effettivo o potenziale sul valore dell’investimento.
+=== pagina 38 ===
+

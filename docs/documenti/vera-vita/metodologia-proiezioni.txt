@@ -1,0 +1,222 @@
+# Fondo: FONDO PENSIONE APERTO VERA VITA (vera-vita)
+# Documento: Metodologia delle proiezioni – FPA VV Metodologia e ipotesi utilizzate per lelaborazione delle prestazioni pensionistiche
+# Fonte: https://www.bancobpmvita.it/media/dlm_uploads/FPA-VV-Metodologia-e-ipotesi-utilizzate-per-lelaborazione-delle-prestazioni-pensionistiche.pdf
+# Citato in: https://www.bancobpmvita.it/prodotti/previdenza/fondo-pensione-aperto-vera-vita/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 46d1460f354198d3f90b291c87d001e897bd310584fad48aa89aaa1feca635a4
+# Pagine: 8
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+GRUPPO Banco BPM – Il contenuto del presente documento è soggetto a copyright. Ogni violazione sarà perseguita ai sensi di legge. 
+ 
+ 
+ 
+ 
+Banco BPM Vita – Metodologia e ipotesi utilizzate per 
+l’elaborazione delle prestazioni pensionistiche
+=== pagina 2 ===
+Ultimo aggiornamento: 01/05/2026                        Pag.  2 
+ 
+Indice 
+PREMESSA ............................................................................................................................................... 3 
+Oggetto ................................................................................................................................................................. 3 
+Perimetro di applicazione .................................................................................................................................... 3 
+Principi Generali .................................................................................................................................................... 3 
+NORME METODOLOGICHE .................................................................................................................... 4 
+1 METODOLOGIA E IPOTESI UTILIZZATE PER IL CALCOLO DELLE PRESTAZIONI PENSIONISTICHE  ...................................................... 4 
+1.1 Proiezioni pensionistiche personalizzate ..................................................................................................... 4 
+1.2 Elaborazione delle proiezioni pensionistiche personalizzate fornite periodicamente nell’ambito del 
+“Prospetto delle prestazioni pensionistiche – fase di accumulo” ............................................................ 6 
+1.3 Elaborazione di prestazioni pensionistiche standardizzate fornite nell’ambito della Nota informativa
+ ........................................................................................................................................................................ 7
+=== pagina 3 ===
+Ultimo aggiornamento: 01/05/2026                        Pag.  3 
+ 
+Premessa 
+Oggetto  
+Il documento descrive la metodologia di calcolo e le ipotesi utilizzate per 
+l’elaborazione delle prestazioni pensionistiche. 
+Perimetro di applicazione  
+Banco BPM Vita 
+Principi Generali 
+Il manuale esplicita la metodologia utilizzata nell’ambito descritto nella Nota 
+informativa dei prodotti previdenziali della Compagnia presente nella Parte I “Le 
+informazioni chiave per l’aderente”. 
+La metodologia descrive il calcolo delle proiezioni standardizzate prendendo come 
+riferimento le seguenti caratteristiche delle figure-tipo di aderenti: 
+− l’importo della prestazione attesa al momento del pensionamento; 
+− il valore della rendita corrispondente alla posizione individuale maturata. 
+La Compagnia fornisce altresì annualmente agli aderenti le proiezioni personalizzate 
+nell’ambito del “Prospetto delle prestazioni pensionistiche – fase di accumulo”, basate 
+sulle caratteristiche proprie dell’aderente (posizione individuale maturata, misura  
+delle contribuzioni, età anagrafica). 
+Inoltre, sul sito web www. bancobpmvita.it è disponibile un motore di calcolo per lo 
+sviluppo di proiezioni personalizzate.
+=== pagina 4 ===
+Ultimo aggiornamento: 01/05/2026                        Pag.  4 
+ 
+Norme Metodologiche 
+1 Metodologia e ipotesi utilizzate per il calcolo delle prestazioni 
+pensionistiche 
+Le proiezioni vengono elaborate utilizzando una metodologia uniforme per tutte le 
+forme pensionistiche complementari definita dalla Commissione di Vigilanza sui Fondi 
+Pensione (COVIP), di seguito descritta. 
+ 
+1.1 Proiezioni pensionistiche personalizzate 
+Per la costruzione di proiezioni pensionistiche personalizzate si considerano le 
+informazioni relative al singolo aderente, le informazioni proprie della forma 
+pensionistica complementare e le ipotesi definite dalla COVIP.  
+Le variabili da utilizzare sono le seguenti: 
+− dati anagrafici: l’età e il sesso sono quelli relativi all’aderente. 
+− misura della contribuzione:  la misura della contribuzione è quella risultante alla 
+forma pensionistica complementare sulla base delle indicazioni dell’aderente 
+ovvero quella che risulti effettivamente versata con carattere di stabilità. La stessa 
+è espressa su base annuale. 
+− tasso atteso di crescita della contribuzione/retribuzione:  la contribuzione è 
+rivalutata annualmente. La rivalutazione avviene a un tasso reale dell’1%, qualora 
+la contribuzione sia espressa in cifra fissa; qualora la stessa sia invece espressa in 
+percentuale della retribuzione, si assume un tasso annuo atteso di  crescita della 
+retribuzione pari all’1% in termini reali. 
+− tasso annuo atteso di inflazione:  il tasso annuo atteso di inflazione è posto pari al 
+2%. 
+− costi connessi alla partecipazione nella fase di accumulo: i costi relativi alla fase di 
+accumulo sono quelli effettivamente applicati all’aderente e consultabili dalla 
+Scheda “I costi”. 
+− profilo di investimento:  il profilo di investimento è quello scelto dall’aderente. In 
+presenza di meccanismi di riallocazione automatica della posizione individuale o 
+dei flussi di contribuzione tra comparti (o fondi interni/OICR/gestioni interne 
+separate) o combinazioni degli stessi in funzione dell’età dell’aderente o degli anni 
+mancanti al pensionamento (life cycle style), lo sviluppo delle proiezioni ne tiene 
+conto secondo le modalità previste dalla forma pensionistica complementare. 
+− tasso atteso di rendimento della gestione : al fine di tenere conto delle differenti 
+caratteristiche di investimento dei comparti (o fondi interni/OICR/gestioni interne 
+separate), i parametri di rendimento sono definiti in funzione delle diverse classi di 
+attività (azionario o obbligazionario). Le  ipotesi di rendimento sono pertanto 
+distinte per gli investimenti azionari e per quelli obbligazionari. Il tasso di rendimento 
+della componente azionaria è pari al 4% (rAZ), mentre quello della componente
+=== pagina 5 ===
+Ultimo aggiornamento: 01/05/2026                        Pag.  5 
+ 
+obbligazionaria è pari al 2% (rOBB). Entrambi i tassi sono espressi in termini reali e al 
+lordo dei costi e della tassazione. 
+Con riferimento a ciascun comparto (o fondo interno/OICR/gestione interna 
+separata) rientrante nel profilo di investimento scelto dall’aderente, i versamenti 
+sono rivalutati annualmente sulla base dei seguenti parametri di rendimento (r), 
+calcolati secondo le formule che seguono: 
+r = 
+ rAZ + β rOBB 
+I coefficienti 
+ e β rappresentano le percentuali di investimento, rispettivamente, 
+azionario e obbligazionario di ciascun comparto (o fondo interno/OICR/gestione 
+interna separata), corrispondenti alla composizione del relativo benchmark. I 
+coefficienti assumono pertanto valori tali per cui (
+ + β) = 1.  
+Qualora il benchmark non costituisca un parametro significativo per lo stile 
+gestionale adottato, la ripartizione degli investimenti viene definita sulla base di 
+ogni informazione utile, coerentemente con la politica di investimento perseguita 
+in un orizzonte temporale di lungo periodo (composizione effettiva realizzata negli 
+esercizi precedenti, informazioni riportate nella nota informativa).  
+Laddove ciò non sia possibile, è posto per convenzione, in caso di comparti 
+caratterizzati da garanzie di risultato, 
+ = 0 e β = 1 e in tutti gli altri casi 
+ = 0,3 e β = 
+0,7. 
+− età di pensionamento:  si tratta della presumibile età di pensionamento di 
+vecchiaia (o figure-tipo nel caso di proiezioni standardizzate); 
+− ipotesi tecniche per il calcolo della rendita:  il calcolo della prima rata annua di 
+rendita è effettuato applicando i coefficienti di conversione relativi alle seguenti 
+ipotesi: 
+− basi demografiche: la tavola di mortalità è la A62, ove la forma pensionistica 
+complementare preveda una differenziazione per sesso, e, negli altri casi, la 
+A62U (A62 indifferenziata per sesso), corrispondente alla combinazione 60 per 
+cento maschi, 40 per cento femmine; 
+− basi finanziarie: il tasso tecnico è posto pari allo 0%; 
+− costo relativo alla trasformazione della posizione individuale in rendita:  1,25% 
+della posizione individuale maturata al termine della fase di accumulo. 
+Qualora i coefficienti di conversione effettivamente utilizzati dalla forma pensionistica 
+complementare al momento dell’elaborazione del documento risultino meno 
+favorevoli all’aderente rispetto a quelli sopra indicati, il calcolo della prima rata annua 
+di rendita è effettuato applicando i coefficienti propri della forma pensionistica 
+complementare. 
+Nei casi in cui sussista un impegno contrattuale al mantenimento dei coefficienti di 
+conversione in rendita, la simulazione può essere effettuata sulla base delle condizioni 
+applicate dalla forma pensionistica complementare, per le situazioni riguardate da  
+detto impegno. 
+Qualora al momento dell’elaborazione le condizioni per l’erogazione delle rendite 
+non risultino ancora definite, le ipotesi relative alle basi tecniche da impiegare sono in 
+ogni caso quelle sopra indicate.
+=== pagina 6 ===
+Ultimo aggiornamento: 01/05/2026                        Pag.  6 
+ 
+1.2 Elaborazione delle proiezioni pensionistiche personalizzate fornite 
+periodicamente nell’ambito del “Prospetto delle prestazioni pensionistiche – fase 
+di accumulo” 
+Nell’ambito del “Prospetto delle prestazioni pensionistiche – fase di accumulo” 
+vengono fornite proiezioni pensionistiche volte a consentire all’aderente una 
+valutazione sintetica e prospettica del proprio programma previdenziale.  
+Tali rappresentazioni costituiscono pertanto uno strumento di ausilio nella adozione 
+delle scelte relative alla partecipazione alla forma pensionistica complementare per 
+le variabili dipendenti da determinazioni dell’aderente medesimo. 
+In particolare, la Sezione “Quanto riceverai quando andrai in pensione” contiene una 
+proiezione della posizione maturata al momento del pensionamento e della relativa 
+rata annua di rendita attesa nell’ipotesi che l’intera prestazione sia erogata in forma 
+di rendita vitalizia immediata senza reversibilità. 
+Inoltre, nella Sezione “Informazioni all’avvicinarsi del pensionamento di vecchiaia” 
+(che viene fornita in aggiunta agli aderenti ai quali mancano tre anni o meno alla 
+presumibile età di pensionamento) viene altresì riportata una stima del valore della 
+posizione individuale maturata e della relativa rata di rendita per ciascuna tipologia 
+di rendita offerta (con eccezione della rendita vitalizia reversibile) in corrispondenza 
+della presumibile età di pensionamento di vecchiaia e ai quattro anni successivi. 
+Il valore della posizione individuale prospettica e il corrispondente valore della rata 
+annua di rendita attesa sono rappresentati in termini reali, anche qualora sia 
+necessario effettuare il relativo calcolo in termini nominali.  
+L’elaborazione delle proiezioni inerenti al valore della posizione individuale si basano 
+sulle seguenti esemplificazioni: 
+− i versamenti sono considerati al lordo dei costi gravanti direttamente sull’aderente 
+e, per il primo anno, delle spese di adesione, nonché dei costi e premi relativi a 
+eventuali prestazioni assicurative ad adesione obbligatoria. I versamenti non 
+includono invece eventuali somme destinate al finanziamento di prestazioni 
+assicurative a carattere facoltativo. 
+Per semplicità si assume che i versamenti vengano effettuati all’inizio di ciascun 
+anno. Qualora, per i lavoratori dipendenti, i versamenti comprendano anche il 
+flusso di TFR, si assume inoltre che gli eventuali contributi a carico del datore di 
+lavoro e/o  del lavoratore (ove non determinati in cifra fissa) siano espressi in 
+percentuale della retribuzione utile per il calcolo del TFR, anche laddove i contratti 
+o accordi collettivi utilizzino una base di calcolo differente. 
+− La posizione individuale relativa a ciascun anno di sviluppo della proiezione è 
+calcolata tenendo conto della contribuzione lorda relativa a ciascun anno, del 
+tasso di rendimento corrispondente al profilo di investimento dell’aderente, dei 
+costi praticati dalla forma pensionistica complementare e del prelievo fiscale sui 
+rendimenti della gestione, secondo la normativa tempo per tempo vigente. 
+In sede di aggiornamento annuale del documento per l’elaborazione delle proiezioni 
+inerenti al valore della posizione individuale maturata si assume quale dato iniziale la 
+posizione individuale effettivamente maturata dall’aderente alla fine dell’anno solare 
+precedente e, per la relativa conversione in rendita, si utilizzano i coefficienti di
+=== pagina 7 ===
+Ultimo aggiornamento: 01/05/2026                        Pag.  7 
+ 
+conversione calcolati sulla base delle ipotesi tecniche sopra riportate. L’indicazione 
+della rata di rendita è al lordo della tassazione. 
+L’aggiornamento tiene conto delle condizioni di partecipazione in vigore al momento 
+in cui si procede alla elaborazione. 
+ 
+1.3 Elaborazione di prestazioni pensionistiche standardizzate fornite nell’ambito 
+della Nota informativa 
+Nella Nota informativa sono fornite simulazioni effettuate nel rispetto delle Istruzioni 
+sopra indicate, avendo a riferimento figure-tipo aventi le seguenti caratteristiche: 
+− età anagrafica al momento dell’adesione: 30 e 40 anni; 
+− contributo annuo: 2.500 e 5.000; 
+− età di pensionamento: 67 anni. 
+In particolare, il Paragrafo “Quanto potresti ricevere quando andrai in pensione”, 
+della Parte I “Le informazioni chiave per l’aderente”, della Nota informativa, riporta il 
+valore della posizione individuale e il corrispondente valore della rata annua di rendita 
+attesa, calcolata con riferimento alle suddette ipotesi. 
+Qualora la forma pensionistica complementare adotti basi demografiche 
+differenziate per sesso, il documento in versione standardizzata riporta, per ogni figura-
+tipo, il valore della prima rata annuale di rendita distintamente per maschi e femmine. 
+L’elaborazione è compiuta per ciascun comparto (o fondo interno/OICR/gestione 
+interna separata) e/o combinazione predefinita offerti dalla forma pensionistica 
+complementare.
+=== pagina 8 ===
+

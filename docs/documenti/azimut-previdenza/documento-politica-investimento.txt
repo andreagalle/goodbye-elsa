@@ -1,0 +1,830 @@
+# Fondo: AZIMUT PREVIDENZA - FONDO PENSIONE APERTO (azimut-previdenza)
+# Documento: Documento sulla politica di investimento – 2025.10 Azimut Previdenza - Documento sulla Politica di Investimento
+# Fonte: https://www.azimut.it/archives/azimut-previdenza-documento-sulla-politica-di-investimento
+# Citato in: https://www.azimut.it/prodotti-previdenziali/azimut-previdenza
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: e240bc505b6baab15ccd14599f139655db9d365dcb041565b6119860bc3d4bf6
+# Pagine: 16
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+FONDO PENSIONE APERTO 
+“AZIMUT PREVIDENZA” 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO 
+ 
+ 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 9 ottobre 2025
+=== pagina 2 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+2  
+Ottobre 2025 
+  
+ 
+ 
+ 
+INDICE 
+ 
+1. OBIETTIVI DELLA POLITICA DI INVESTIMENTO..................................................... 4 
+1.1 RENDIMENTO MEDIO ANNUO ATTESO E SUA VARIABILITÀ NELL’ORIZZONTE 
+TEMPORALE DI RIFERIMENTO ................................................................................... 5 
+2. CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO ............................ 6 
+2.1 RIPARTIZIONE STRATEGICA DELLE ATTIVITÀ. TIPOLOGIA DI STRUMENTI 
+FINANZIARI ................................................................................................................ 6 
+3. COMPITI E RESPONSABILITA’ DEI SOGGETTI COINVOLTI NEL PROCESSO DI 
+INVESTIMENTO ........................................................................................................ 12 
+4. SISTEMA DI CONTROLLO DELLA GESTIONE FINANZIARIA .............................. 12 
+5. I FATTORI ESG E L’INTEGRAZIONE DEL RISCHIO ESG ..................................... 15 
+6. MODIFICHE APPORTATE NELL’ULTIMO TRIENNIO ........................................... 16
+=== pagina 3 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+3  
+Ottobre 2025 
+PREMESSA 
+ 
+Il Fondo Pensione Aperto “Azimut Previdenza” (di seguito anche “Fondo”) è 
+finalizzato all’erogazione di trattamenti pensionistici complementari del 
+sistema previdenziale obbligatorio, ai sensi del D.Lgs. n. 252 del 5 dicembre 
+2005. Il Fondo è stato istitui to da Azimut Società di Gestione del Risparmio  
+S.p.A., dal 1° ottobre 2013 Azimut Capital Management SGR SpA (di seguito 
+anche “Società” o “SGR”) ed è iscritto all’albo tenuto dalla COVIP con il n. 92.  
+Il Fondo è rivolto a tutti coloro che intendono realizzare un piano di previdenza 
+complementare su base individuale.  
+ 
+In merito all’analisi delle caratteristiche socio -demografiche della potenziale 
+popolazione di riferimento, il Fondo per sua natura e definizione non si rivolge 
+ad una predeterminata categoria di soggetti, bensì ad una  popolazione 
+indefinita di  potenziali aderenti. Per le suddette ragioni, ed in virtù della 
+potenziale eterogeneità delle caratteristiche socio -demografiche degli 
+aderenti al fondo pensione aperto qui considerato, al fine di tener conto dei 
+diversi bisogni previdenziali, il fondo è stato articolato su diversi comparti, tra i 
+quali gli aderenti possono scegliere. Con l’obiettivo di rispondere alle 
+molteplici esigenze di una popolazione estesa, indefinita ed eterogenea di 
+potenziali aderenti ciascuno di tali comparti si caratterizza per uno specifico 
+profilo di rischio - rendimento atteso, orizzonte temporale ed una specifica 
+definizione di asset allocation. 
+In relazione alla composizione socio -demografica degli aderenti, la SGR 
+monitora costantemente il grado di liquidabilità degli attivi del Fondo  e ne 
+verifica l’adeguatezza tenendo conto delle esigenze di cassa  che possono 
+insorgere p er far fronte all’erogazione delle prestazioni pensionistiche 
+prospettate. 
+Pertanto, il rendimento che il singolo aderente può attendersi 
+dall'investimento è commisurato al livello di rischio che decide di assumere in 
+fase di scelta del Comparto (o  combinazione di Comparti) che, in base alle 
+proprie valutazioni, meglio risponde alle proprie esigenze. 
+Possono inoltre aderire, su base collettiva, i lavoratori nei cui confronti trovano 
+applicazione i contratti e accordi collettivi, anche aziendali, che prevedono 
+l’adesione al Fondo e/o ai Fondi Pensione Aperti istituiti dalla SGR. 
+ 
+Il Fondo è una forma pensionistica operante in regime di contribuzione 
+definita: l’entità  della prestazione pensionistica è determinata in funzione 
+della contribuzione effettuata e in base al principio della capitalizzazione. 
+Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e 
+autonomo rispetto sia al patrimonio della SGR, sia a quello degli altri fondi 
+gestiti. 
+Le decisioni relative all’esercizio del diritto di voto sono assunte sulla base della 
+Politica di Impegno adottata dalla Società  e pubblicata nella sezione 
+“Politica d’impegno” del sito web della SGR, nella pagina dedicata al Fondo. 
+Le attività di valutazione in merito all’opportunità di intervento in assemblea 
+e di esercizio di diritto di voto, nonché di formalizzazione della decisione, sono 
+disciplinate in sezioni dedicate all’interno della Policy per l’esercizio dei diritti
+=== pagina 4 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+4  
+Ottobre 2025 
+di voto. L’esercizio del voto avviene in maniera informata, sulla base delle 
+informazioni pubblicate dalle società oggetto di investimento, o reperibili sui 
+canali informativi di corrente utilizzo, includendo siti web, portali specializzati, 
+organi di stampa. La S ocietà si avvale inoltre di analisi condotte da primarie 
+società di ricerca specializzate nel proxy voting.  
+ 
+Il presente Documento ha lo scopo di definire il processo di attuazione della 
+politica di  investimento che la Società intende attuare per ottenere, 
+dall’impiego delle risorse affidate in gestione al Fondo, combinazioni rischio-
+rendimento efficienti nell’arco temporale coerente con i bisogni previdenziali 
+degli aderenti e con le prestazioni da erogare. 
+Il Documento è redatto in adempimento al Decreto Legislativo n. 252/2005 e 
+alle prescrizioni contenute nella Deliberazione COVIP del 16 marzo 2012, che 
+definisce le regole di governance in materia di investimenti. 
+In particolare, il Documento stabilisce gli obiettivi della gestione finanziaria, i 
+criteri da seguire nella loro attuazione, i compiti e le responsabilità dei soggetti 
+coinvolti nel processo, nonché il sistema di controllo e di valutazione dei 
+risultati raggiunti. 
+Per il raggiungimento dell’obiettivo finale, il Fondo mette a disposizione degli 
+aderenti più di un comparto di investimento cui corrispondono diversi profili 
+di rischio-rendimento. 
+ 
+1. OBIETTIVI DELLA POLITICA DI INVESTIMENTO 
+ 
+Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del 
+pensionamento, di prestazioni pensionistiche complementari del sistema 
+obbligatorio. Tale scopo è perseguito mediante la raccolta dei contributi, la 
+gestione delle risorse nell’esclusivo  interesse degli aderenti, e l’erogazione 
+delle prestazioni secondo quanto disposto dalla  normativa in materia di  
+previdenza complementare. 
+Al fine di rappresentare la strategia di gestione della forma pensionistica 
+vengono determinati gli obiettivi di investimento per ciascun Comparto. Tali 
+obiettivi, tuttavia, non costituiscono garanzia di rendimento minimo 
+dell’investimento finanziario realizzato.
+=== pagina 5 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+5  
+Ottobre 2025 
+1.1 RENDIMENTO MEDIO ANNUO ATTESO E SUA VARIABILITÀ NELL’ORIZZONTE 
+TEMPORALE DI RIFERIMENTO 
+ 
+COMPARTO OBBLIGAZIONARIO 
+ 
+Orizzonte temporale Medio-lungo periodo, 10/15 anni 
+Rendimento medio annuo atteso 
+ 
+75% indice ISTAT (al netto di un importo 
+corrispondente all’aliquota dell’imposta 
+sostitutiva gravante sul Comparto)* + 1,00% 
+Volatilità annua nell’orizzonte temporale 
+(il dato esprime la variabilità attesa, nell’orizzonte 
+temporale, del rendimento annuo) 
+4,16% 
+Probabilità che il rendimento 
+nell’orizzonte temporale possa  essere 
+negativo 
+3,40% 
+*Ipotesi indice ISTAT 2,00% 
+ 
+ 
+ 
+COMPARTO EQUILIBRATO 
+ 
+Orizzonte temporale Medio-lungo periodo, 10/15 anni 
+Rendimento medio annuo atteso 
+ 
+75% indice ISTAT (al netto di un importo 
+corrispondente all’aliquota dell’imposta 
+sostitutiva gravante sul Comparto)*+2,00% 
+Volatilità annua nell’orizzonte temporale 
+(il dato esprime la variabilità attesa, nell’orizzonte 
+temporale, del rendimento annuo) 
+10,30% 
+Probabilità che il rendimento 
+nell’orizzonte temporale possa essere 
+negativo 
+18,27% 
+*Ipotesi indice ISTAT 2,00% 
+ 
+COMPARTO CRESCITA 
+ 
+Orizzonte temporale Lungo periodo, oltre 15 anni 
+Rendimento medio annuo atteso 
+ 
+75% indice ISTAT (al netto di un importo 
+corrispondente all’aliquota dell’imposta 
+sostitutiva gravante sul Comparto)*+2,50% 
+Volatilità annua nell’orizzonte temporale 
+(il dato esprime la variabilità attesa, nell’orizzonte 
+temporale, del rendimento annuo) 
+16,04% 
+Probabilità che il rendimento 
+nell’orizzonte temporale possa  essere 
+negativo 
+26,43% 
+*Ipotesi indice ISTAT 2,00%
+=== pagina 6 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+6  
+Ottobre 2025 
+2. CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+ 
+Le risorse del Fondo sono gestite direttamente dalla Società, nel rispetto dei 
+limiti fissati dalla legge.  
+Il Fondo è articolato in tre comparti, di seguito elencati: 
+ 
+• Comparto Obbligazionario 
+• Comparto Equilibrato 
+• Comparto Crescita 
+ 
+•  
+ 
+2.1 RIPARTIZIONE STRATEGICA DELLE ATTIVITÀ. TIPOLOGIA DI STRUMENTI 
+FINANZIARI 
+ 
+COMPARTO OBBLIGAZIONARIO 
+Il Comparto persegue l’obiettivo di una rivalutazione del capitale nel medio-
+lungo periodo. In particolare, si propone l’obiettivo - in un orizzonte temporale 
+pluriennale - di un rendimento assoluto positivo almeno in linea con “75% 
+dell’indice ISTAT 1 (al netto di  un importo corrispondente all’aliquota 
+dell’imposta sostitutiva gravante sul Comparto) maggiorato di un rendimento 
+di 1,00%” (parametro di riferimento – obiettivo di rendimento). Il Comparto è 
+adatto per coloro che hanno una propensione al rischio media. 
+ 
+Tipologia degli investimenti: per la realizzazione dell’obiettivo di cui sopra - il 
+Comparto prevede una composizione del portafoglio orientata verso 
+strumenti finanziari di natura  obbligazionaria e monetaria.  La componente 
+obbligazionaria del portafoglio ha una durata media finanziaria massima di 
+15 anni. È escluso l’investimento in strumenti finanziari di natura azionaria. 
+ 
+Strumenti finanziari: titoli di debito, parti di OICR (prevalentemente ETF o OICR 
+anche alternativi ed illiquidi prevalentemente emessi dal Gruppo per avere 
+accesso in tempo  reale alla loro composizione, e poter monitorare 
+l’andamento e la rischiosità dei comparti nel loro complesso)2, liquidità, altri 
+strumenti finanziari di natura obbligazionaria/monetaria. La Società di 
+gestione ha la facoltà di effettuare operazioni di pronti contro termine. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) 
+possono essere effettuati esclusivamente qualora sia chiaramente esplicitato 
+il livello d'accesso da parte della Società alle informazioni sulle strategie poste 
+in essere dal gesto re, sulla struttura dei costi dello strumento e sui periodi di 
+uscita dall'investimento (lock up period). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione 
+dell'investimento effettuato e alla predispos izione delle segnalazioni 
+statistiche di vigilanza. Si specifica inoltre che, ai fini dell’acquisizione di OICR 
+di terzi  e non collegati ad emittenti del Gruppo Azimut , la funzione di Risk 
+ 
+1 Indice generale dei prezzi al consumo per famiglie di operai e impiegati. 
+2 Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti 
+di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo i casi di deroga previsti dalla COVIP in 
+apposite istruzioni di carattere generale.
+=== pagina 7 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+7  
+Ottobre 2025 
+Management svolge una due diligence ex ante basata su richiesta del 
+gestore che fornisce una giustificazione gestionale sulla necessità di inserire il 
+fondo/strumento. 
+ 
+Strumenti derivati: Utilizzo per finalità di copertura dei rischi del portafoglio e/o 
+di efficiente gestione del medesimo, conformemente al DM 166/2014.  Nel 
+caso in cui la struttura o la finalità degli strumenti derivati che si intendono 
+utilizzare si discostino dalle tipologie di strumenti derivati già recepite dai 
+sistemi di front e dai sistemi di risk management, detto utilizzo sarà preceduto 
+da opport une analisi al fine di valutare l’impatto in termini di rischio -
+rendimento sulla performance dell’asset class associata al derivato nonché 
+sulla performance globale del portafoglio. 
+ 
+Categorie di emittenti: per la componente obbligazionaria/monetaria: 
+normalmente strumenti finanziari di emittenti sovrani e/o organismi 
+internazionali senza limiti di rating. L’investimento in strumenti obbligazionari di 
+tipo societario è contenuto. 
+E’ prevista la facoltà di investire – in misura residuale – in titoli privi di rating. 
+ 
+Aree geografiche:  prevalentemente mercati regolamentati dei Paesi 
+aderenti alla UE e  all’OCSE. L’eventuale investimento nei Paesi emergenti è 
+residuale. 
+ 
+Valuta: è previsto che il Comparto possa investire in strumenti finanziari 
+denominati in valute diverse dall’Euro. 
+ 
+Duration: il portafoglio ha una durata media finanziaria massima di 15 anni. 
+ 
+Rischio cambio: la Società gestisce attivamente il rischio cambio nel rispetto 
+di quanto previsto dalla normativa vigente in tema di esposizione valutaria 
+massima delle disponibilità complessive del Comparto. 
+ 
+Parametro di riferimento – obiettivo di rendimento: 75% ISTAT (al netto di un 
+importo corrispondente all’aliquota dell’imposta sostitutiva gravante sul 
+Comparto) + 1,00%. Il Comparto non prevede un benchmark rappresentativo 
+della allocazione strategica degli attivi. 
+ 
+Modalità e stile di gestione: lo stile di gestione è attivo.  
+Per la selezione degli strumenti finanziari il gestore applica le procedure 
+adottate dalla SGR in materia di processo di investimento nell’ambito del 
+servizio di previdenza complementare, anche con riferimento ai fattori ESG. 
+ 
+Livello massimo di rotazione annua del patrimonio nell’orizzonte 
+temporale* 
+200% 
+*Il turnover di portafoglio considerato è calcolato come rapporto fra il valore minimo fra 
+acquisti e vendite ed il patrimonio medio. Min (acquisti/vendite)/patrimonio medio
+=== pagina 8 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+8  
+Ottobre 2025 
+COMPARTO EQUILIBRATO 
+Il Comparto persegue l’obiettivo di una rivalutazione del capitale nel medio-
+lungo periodo. In particolare, si propone l’obiettivo - in un orizzonte temporale 
+pluriennale - di un rendimento assoluto positivo almeno in linea con il “75% 
+dell’indice ISTAT 3 (al netto di  un importo corrispondente all’aliquota 
+dell’imposta sostitutiva gravante sul Comparto) maggiorato di un rendimento 
+di 2,00%” (parametro di riferimento – obiettivo di rendimento). 
+Il Comparto è indicato per coloro che, sopportando un grado di rischio 
+medio, e avendo ancora davanti a sé alcuni anni di attività, perseguono la 
+finalità di sfruttare, oltre alle opportunità offerte dai mercati obbligazionari, le 
+opportunità offerte dai mercati azionari. 
+ 
+Tipologia degli investimenti: il Comparto - per la realizzazione dell’obiettivo di 
+cui sopra - prevede di norma una composizione del portafoglio bilanciata tra 
+strumenti finanziari di  natura obbligazionaria/monetaria anche di tipologia 
+corporate e strumenti finanziari di natura azionaria. L’investimento in strumenti 
+finanziari di natura azionaria potrà essere realizzato nel limite massimo del 70% 
+del patrimonio. 
+La Società ha tuttavia la facoltà di ridurre sensibilmente ovvero azzerare la 
+componente azionaria del portafoglio in maniera dinamica e flessibile, in 
+relazione alle opportunità offerte di volta in volta dai mercati finanziari.  Tale 
+facoltà è finalizzata alla gestione  attiva della componente di “rischio” del 
+Comparto per consentire il raggiungimento dell’obiettivo sopra esposto. 
+Il patrimonio del Comparto potrà essere investito in strumenti finanziari 
+denominati in Euro e/o in valuta estera nel rispetto di quanto previsto dalla 
+normativa vigente in tema di esposizione valutaria massima delle disponibilità 
+complessive del Comparto. 
+Il Comparto può inoltre utilizzare OICR fino al 100% del suo patrimonio. 
+Strumenti finanziari:  titoli di debito, titoli di capitale, parti di OICR 
+(prevalentemente ETF  o OICR anche alternativi, compresi gli illiquidi 
+prevalentemente emessi dal Gruppo per  avere accesso in tempo reale alla 
+loro composizione e poter monitorare l’andamento e  la rischiosità dei 
+comparti nel loro complesso) 4, liquidità,  altri strumenti finanziari di natura 
+obbligazionaria/monetaria e azionaria. La Società ha la facoltà di effettuare 
+operazioni di pronti contro termine. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) 
+possono essere effettuati esclusivamente qualora sia chiaramente esplicitato 
+il livello d'accesso da parte della Società alle informazioni sulle strategie poste 
+in essere dal gesto re, sulla struttura dei costi dello strumento e sui periodi di 
+uscita dall'investimento (lock up period). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione 
+dell'investimento effettuato e alla predispos izione delle segnalazioni 
+statistiche di vigilanza. Si specifica inoltre che, ai fini dell’acquisizione di OICR 
+ 
+3 Indice generale dei prezzi al consumo per famiglie di operai e impiegati. 
+4 Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti 
+di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo i casi di deroga previsti dalla COVIP in 
+apposite istruzioni di carattere generale.
+=== pagina 9 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+9  
+Ottobre 2025 
+di terzi  e non collegati ad emittenti del Gruppo Azimut , la funzione di Risk 
+Management svolge una due diligence ex ante basata su richiesta del 
+gestore che fornisce una giustificazione gestionale sulla necessità di inserire il 
+fondo/strumento. 
+Strumenti derivati: Utilizzo per finalità di copertura dei rischi del portafoglio e/o 
+di efficiente gestione del medesimo, conformemente al DM 166/2014 . Nel 
+caso in cui la struttura o la finalità degli strumenti derivati che si intendono 
+utilizzare si discostino dalle tipologie di strumenti derivati già recepite dai 
+sistemi di front e dai sistemi di risk management, detto utilizzo sarà preceduto 
+da opport une analisi al fine di valutare l’impatto in termini di rischio -
+rendimento sulla performance dell’asset class associata al derivato nonché 
+sulla performance globale del portafoglio. 
+ 
+Categorie di emittenti: 
+Per la componente obbligazionaria/monetaria  normalmente strumenti 
+finanziari di emittenti sovrani e/o organismi internazionali, emittenti corporate, 
+senza limiti di rating. L’esposizione verso strumenti finanziari obbligazionari 
+classificati con rating inferiore all’investment grade è contenuta. 
+Per la componente azionaria  gli investimenti saranno  di norma effettuati 
+prevalentemente in strumenti finanziari di emittenti a media/alta 
+capitalizzazione. Ciò, tuttavia, non esclude un interesse residuale anche per 
+titoli a bassa capitalizzazione. 
+Non sono previsti limiti in termini di settori di appartenenza degli emittenti. 
+ 
+Aree geografiche:  prevalentemente mercati regolamentati dei Paesi 
+aderenti alla UE e  all’OCSE. Il patrimonio del fondo sarà prevalentemente 
+investito in mercati sviluppati. L’eventuale investimento nei Paesi emergenti è 
+residuale. 
+ 
+Valuta: è previsto che il Comparto possa investire in strumenti finanziari 
+denominati in valute diverse dall’Euro. 
+ 
+Duration: il portafoglio ha una durata finanziaria massima della componente 
+obbligazionaria di 15 anni. 
+ 
+Rischio cambio: la Società gestisce attivamente il rischio cambio nel rispetto 
+di quanto previsto dalla normativa vigente in tema di esposizione valutaria 
+massima delle disponibilità complessive del Comparto. 
+ 
+Parametro di riferimento  – obiettivo di rendimento : 75% ISTAT (al netto di un 
+importo corrispondente all’aliquota  dell’imposta sostitutiva gravante sul 
+Comparto) + 2,00%. 
+Il Comparto non prevede un benchmark rappresentativo della allocazione 
+strategica degli attivi.
+=== pagina 10 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+10  
+Ottobre 2025 
+Modalità e stile di gestione: lo stile di gestione è attivo. 
+Per la selezione degli strumenti finanziari il gestore applica le procedure 
+adottate dalla SGR in materia di processo di investimento nell’ambito del 
+servizio di previdenza complementare, anche con riferimento ai fattori ESG.  
+ 
+Livello massimo di rotazione annua del patrimonio nell’orizzonte 
+temporale* 
+200% 
+*Il turnover di portafoglio considerato è calcolato come rapporto fra il valore minimo fra  
+acquisti e vendite ed il patrimonio medio. Min (acquisti/vendite)/patrimonio medio. 
+ 
+COMPARTO CRESCITA 
+Il Comparto persegue l’obiettivo di una rivalutazione del capitale nel lungo 
+periodo. In  particolare, si propone l’obiettivo - in un orizzonte temporale 
+pluriennale di un rendimento assoluto positivo almeno in linea con il “75% 
+dell’indice ISTAT5 (al netto di un importo corrispondente all’aliquota 
+dell’imposta sostitutiva gravante sul Comparto) maggiorato di un rendimento 
+di 2,50%” (parametro di riferimento – obiettivo di rendimento). 
+ Il Comparto è indirizzato a coloro che - avendo davanti a sé ancora molti 
+anni di attività - ricercano elevati tassi di crescita del capitale e sono disposti 
+ad accettare, nel breve periodo,  possibili minusvalenze in seguito alle 
+oscillazioni tipiche dei mercati azionari. 
+Il patrimonio del Comparto potrà essere investito in strumenti finanziari 
+denominati in Euro e/o in valuta estera nel rispetto di quanto previsto dalla 
+normativa vigente in tema di esposizione valutaria massima delle disponibilità 
+complessive del Comparto. 
+Il Comparto può inoltre utilizzare OICR fino al 100% del suo patrimonio. 
+ 
+Tipologia degli investimenti: il Comparto - per la realizzazione dell’obiettivo di 
+cui sopra – prevede una politica di investimento di norma principalmente 
+orientata verso strumenti finanziari di natura azionaria. 
+La Società di gestione potrà inoltre investire - nell’interesse degli aderenti e 
+tenendo conto dell’andamento dei mercati finanziari - anche in strumenti 
+finanziari di natura  obbligazionaria e monetaria. La Società ha tuttavia la 
+facoltà di ridurre sensibilmente ovvero azzerare la componente azionaria del 
+portafoglio in maniera dinamica e flessibile, in relazione alle opportunità 
+offerte di volta in volta dai mercati finanziari. 
+Tale facoltà è finalizzata alla gestione attiva della componente di “rischio” 
+del Comparto per consentire il raggiungimento dell’obiettivo sopra esposto. 
+ 
+Strumenti finanziari:  titoli di debito, titoli di capitale, parti di OICR 
+(prevalentemente ETF  o OICR, alternativi compresi gli illiquidi 
+prevalentemente emessi dal Gruppo per avere  accesso in tempo reale alla 
+loro composizione e poter monitorare l’andamento e la  rischiosità dei 
+comparti nel loro complesso) 6, liquidità, altri  strumenti finanziari di natura 
+ 
+5 Indice generale dei prezzi al consumo per famiglie di operai e impiegati. 
+6 Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti 
+di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo i casi di deroga previsti dalla COVIP in 
+apposite istruzioni di carattere generale.
+=== pagina 11 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+11  
+Ottobre 2025 
+obbligazionaria/monetaria e azionaria. La Società di gestione ha la facoltà 
+di effettuare operazioni di pronti contro termine. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) 
+possono essere effettuati esclusivamente qualora sia chiaramente esplicitato 
+il livello d'accesso da parte della Società alle informazioni sulle strategie poste 
+in essere dal gesto re, sulla struttura dei costi dello strumento e sui periodi di 
+uscita dall'investimento (lock up period). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione 
+dell'investimento effettuato e alla predispos izione delle segnalazioni 
+statistiche di vigilanza. Si specifica inoltre che, ai fini dell’acquisizione di OICR 
+di terzi  e non collegati ad emittenti del Gruppo Azimut , la funzione di Risk 
+Management svolge una due diligence ex ante basata su richiesta del 
+gestore che fornisce una giustificazione gestionale sulla necessità di inserire il 
+fondo/strumento. 
+ 
+Strumenti derivati: Utilizzo per finalità di copertura dei rischi del portafoglio e/o 
+di efficiente gestione del medesimo, conformemente al DM 166/2014 . Nel 
+caso in cui la struttura o la finalità degli strumenti derivati che si intendono 
+utilizzare si discostino dalle tipologie di strumenti derivati già recepite dai 
+sistemi di front e dai sistemi di risk management, detto utilizzo sarà preceduto 
+da opport une analisi al fine di valutare l’impatto in termini di rischio -
+rendimento sulla performance dell’asset class associata al derivato nonché 
+sulla performance globale del portafoglio. 
+ 
+Categorie di emittenti: 
+Per la componente obbligazionaria/monetaria: normalmente strumenti 
+finanziari di emittenti sovrani e/o organismi internazionali, emittenti corporate, 
+senza limiti di rating. L’esposizione verso strumenti finanziari obbligazionari 
+classificati con rating inferiore all’investment grade è contenuta. 
+Per la componente azionaria: gli investimenti saranno di norma effettuati 
+prevalentemente in strumenti finanziari di emittenti a media/alta 
+capitalizzazione. Ciò, tuttavia, non esclude un interesse residuale anche per 
+titoli a bassa capitalizzazione. 
+Non sono previsti limiti in termini di settore di appartenenza degli emittenti. 
+ 
+Aree geografiche:  prevalentemente mercati regolamentati dei Paesi 
+aderenti alla UE e  all’OCSE. L’eventuale investimento nei Paesi emergenti è 
+residuale. 
+ 
+Valuta: è previsto che il Comparto possa investire in strumenti finanziari 
+denominati in valute diverse dall’Euro. 
+ 
+Duration: il portafoglio ha una durata finanziaria massima della componente 
+obbligazionaria di 15 anni. 
+ 
+Rischio cambio: la Società gestisce attivamente il rischio cambio nel rispetto 
+di quanto previsto dalla normativa vigente in tema di esposizione valutaria 
+massima delle disponibilità complessive del Comparto.
+=== pagina 12 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+12  
+Ottobre 2025 
+Parametro di riferimento  – obiettivo di rendimento : 75% ISTAT (al netto di un 
+importo corrispondente all’aliquota  dell’imposta sostitutiva gravante sul 
+Comparto) + 2,50%. 
+Il Comparto non prevede un benchmark rappresentativo della allocazione 
+strategica degli attivi. 
+ 
+Modalità e stile di gestione: lo stile di gestione è attivo. 
+Per la selezione degli strumenti finanziari il gestore applica le procedure 
+adottate dalla SGR in materia di processo di investimento nell’ambito del 
+servizio di previdenza complementare, anche con riferimento ai fattori ESG.  
+ 
+Livello massimo di rotazione annua del patrimonio nell’orizzonte 
+temporale* 
+250% 
+*Il turnover di portafoglio considerato è calcolato come rapporto fra il valore minimo fra  acquisti e 
+vendite ed il patrimonio medio. Min (acquisti/vendite)/patrimonio medio 
+ 
+3. COMPITI E RESPONSABILITA’ DEI SOGGETTI COINVOLTI NEL PROCESSO DI 
+INVESTIMENTO 
+ 
+I compiti e responsabilità dei soggetti coinvolti nel processo di investimento 
+sono disciplinati nel “Documento sul sistema di governo societario afferente 
+alla gestione dei fondi pensione aperti ” adottato dal Consiglio di 
+Amministrazione di Azimut Capital Management SGR e pubblicato sul sito 
+web della SGR nella sezione “Documenti Correlati” della pagina relativa al 
+Fondo. 
+ 
+4. SISTEMA DI CONTROLLO DELLA GESTIONE FINANZIARIA 
+ 
+Il sistema di gestione dei rischi del Fondo include le strategie, le politiche, i 
+processi e meccanismi riguardanti l’individuazione, l’assunzione, la 
+sorveglianza, l’attenuazione dei rischi a cui è esposto o potrebbe essere 
+esposto il patrimonio del Fondo (inclusi, tra l’altro, i rischi di mercato, di credito, 
+di liquidità e operativi). 
+La Funzione Risk Management fornisce al Consiglio di Amministrazione e al 
+Comitato Investimenti le valutazioni di rischio e la reportistica con l'analisi delle 
+performance, utili alla definizione di quanto di competenza di ciascun 
+organo. 
+Inoltre, la Funzione Risk Management monitora periodicamente il rispetto 
+delle strategie fissate e degli eventuali limiti previsti, tenendo in 
+considerazione, tra gli altri, anche i Fattori di rischio ESG. 
+Nello specifico, la Funzione Risk Management ha la responsabilità di: 
+• verificare il rispetto ex -ante dei limiti normativi e regolamentari, 
+nonché i limiti interni di Asset Allocation  determinati dal Comitato 
+Investimenti e deliberati dal CdA; 
+• monitorare ex-post il rispetto delle strategie generali di investimento  
+deliberate dal Consiglio di Amministrazione.
+=== pagina 13 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+13  
+Ottobre 2025 
+Il Responsabile del Fondo vigila sulla gestione finanziaria della forma 
+pensionistica complementare, anche controllando il rispetto della normativa 
+e delle regole interne della stessa circa i limiti di investimento. 
+La Funzione Operations svolge un presidio giornaliero sulle attività di back -
+office finanziario ed in particolare ha attivato con il service  amministrativo 
+(BNP Paribas S.A., Succursale Italia), che calcola in regime di outsourcing il 
+valore del patrimonio netto dei singoli comparti del fondo pensione, un 
+modello di controllo di secondo livello in modo da costituire un meccanismo 
+di governance integrato. 
+Il Depositario - inoltre - controlla in accordo alla normativa vigente, la 
+legittimità delle operazioni effettuate dal fondo pensione, valuta la coerenza 
+tra le decisioni di investimento prese dai gestori e il Regolamento del Fondo, 
+nonché verifica che ogni singolo investimento compiuto dal gestore sia svolto 
+nel rispetto dei vincoli e limiti previsti dalla legge e dal Regolamento. 
+Per ulteriori dettagli in merito a ruoli e responsabilità delle figure e funzioni 
+aziendali coinvolte nel sistema di controllo della gestione finanziaria, si fa 
+rimando ai capitoli 4 (“Ruoli e responsabilità) e 5 (“Profili organizzativi”) del 
+Documento sul sistema di governo societario afferente alla gestione dei fondi 
+pensione aperti, adottato dal Consiglio di Amministrazione di Azimut Capital 
+Management SGR e pubblicato sul sito web del la SGR  nella sezione 
+“Documenti Correlati” della pagina relativa al Fondo. 
+I controlli inerenti  alla gestione finanziaria dei Fondi Pensione aperti sono 
+ricompresi nell’ambito delle attività disciplinate all’interno delle procedure di 
+Risk Management approvate dal Consiglio di Amministrazione e dei Contratti 
+in essere con i Service Provider sotto il presidio della Direzione Operations. 
+La verifica dell’effettiva rispondenza della gestione dei vari comparti alla 
+Politica di Investimento è affidata a molteplici controlli, che vengono 
+riepilogati nella tabella seguente: 
+ 
+ 
+Parametri di 
+controllo 
+Responsabil
+e controllo Indicatori e modalità di controllo Periodicità 
+controllo 
+Periodicità 
+report 
+CdA 
+Performance Funzione di Risk 
+Management 
+Calcolo delle performance nette 
+dei comparti. Settimanale Mensile 
+Duration 
+titoli 
+obbligazionari 
+Funzione di Risk 
+Management 
+Calcolo della modified duration e 
+verifica del rispetto dei limiti 
+rappresentati nel presente 
+documento. 
+Giornaliero Mensile 
+Value at Risk Funzione di Risk 
+Management 
+Calcolo e monitoraggio della misura 
+di VaR Ex-Ante 99% 1M. Giornaliero Mensile 
+Variabilità rendimento 
+Medio annuo atteso 
+Funzione di Risk 
+Management 
+Monitoraggio del rendimento medio 
+annuo realizzato dai comparti del 
+fondo e confronto dello stesso con 
+quello medio annuo atteso su diversi 
+orizzonti temporali. 
+Mensile Mensile 
+Turnover di 
+Portafoglio 
+Funzione di 
+Risk 
+Management 
+Calcolo del Turnover di Portafoglio 
+con Metodologia individuata da 
+COVIP, monitoraggio della misura di 
+Turnover da inizio anno e verifica del 
+rispetto dei limiti rappresentati nel 
+presente documento. 
+Mensile Mensile
+=== pagina 14 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+14  
+Ottobre 2025 
+Limiti di investimento Funzione di Risk 
+Management 
+Monitoraggio del rispetto dei limiti 
+prestabiliti dalla Normativa 
+vigente, dal Regolamento del 
+Fondo, dalla Nota Informativa e 
+dal presente documento, anche in 
+coordinamento con il Depositario 
+del Fondo. Eventuali scostamenti 
+dai limiti vengono prontamente 
+corretti al fine di riportare i valori 
+entro i limiti prestabiliti.  . 
+Ex Ante: 
+Giornaliera 
+Ex Post: 
+Settimanale 
+Mensile 
+Performance 
+contribution 
+Funzione di Risk 
+Management 
+Scomposizione della performance 
+realizzata dei comparti al fine di 
+individuare i driver che ne hanno 
+apportato il maggior contributo 
+(positivo e negativo). 
+Mensile Mensile 
+Controllo costi di 
+gestione e 
+di negoziazione 
+Direzione 
+Operations 
+Calcolo delle commissioni di 
+gestione e verifica dei valori sulle 
+evidenze contabili. 
+Rappresentazione delle evidenze 
+contabili nella rendicontazione 
+annuale. 
+Controlli condotti nell'ambito dei 
+servizi amministrativi da BNP Paribas 
+e verificati nell'ambito delle attività 
+di NAV oversight da parte della SGR. 
+Settimanale 
+Calcolo quota 
+NAV Ufficiale 
+ 
+Annuale 
+In 
+relazion
+e 
+bilancio 
+FPA 
+Monitoraggio sulla 
+corretta retrocessione 
+delle commissioni 
+applicate dagli OICR 
+in posizione 
+Direzione 
+Operations 
+Ricalcolo delle commissioni implicite 
+ed esplicite (se presenti) e 
+riconciliazione con retrocessione a 
+copertura (da Emittente o da 
+proprietà) a cura del Fund Admin 
+BNP Paribas. 
+Settimanale 
+Calcolo quota 
+NAV Ufficiale 
+ 
+Annuale 
+In relazione 
+bilancio 
+FPA 
+Limiti di investimento 
+ESG/ Verifica criteri 
+di 
+sostenibilità 
+Funzione di Risk 
+Management 
+Verifica ex-ante del rispetto dei 
+principi di esclusione definiti dalla 
+Policy ESG adottata dalla SGR.  
+Monitoraggio ex-post del Rating 
+ESG Medio del portafoglio. 
+Verifica 
+principi di 
+esclusione:  
+ex-ante, 
+giornaliera 
+Monitoraggio 
+del rating 
+ESG: ex-post, 
+settimanale 
+Mensile
+=== pagina 15 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+15  
+Ottobre 2025 
+5. I FATTORI ESG E L’INTEGRAZIONE DEL RISCHIO ESG 
+ 
+Azimut Capital Management SGR S.p.A. considera di fondamentale 
+importanza l'integrazione dei fattori ambientali, sociali e di governance (ESG) 
+nel proprio processo di investimento nella convinzione che questi elementi, 
+oltre a favorire uno sviluppo economi co e sociale sostenibile, possano 
+contribuire positivamente ai risultati finanziari dei portafogli dei clienti 
+riducendone, al contempo, i rischi.  
+Si ritiene che gli investimenti orientati su emittenti impegnati ad integrare i 
+criteri ESG all’interno della propria strategia possano generare profitti 
+sostenibili nel tempo e, conseguentemente, originare una solida prospettiva 
+di creazione di valore per  tutti gli stakeholder. Questo permette, altresì, una 
+più efficiente gestione dei rischi, anche ambientali, sociali e reputazionali.  
+La Società prevede la misurazione e la valutazione del rischio di sostenibilità 
+nelle scelte attinenti i processi di investimento e nella definizione delle 
+strategie. 
+Il rischio di sostenibilità connesso alle variabili ambientali, sociali e di 
+governance (rischio ESG), è identificato per ciascun emittente / prodotto 
+finanziario oggetto di investimento. La valutazione del rischio avviene sia 
+identificando settori di inve stimento che emittenti ad alto rischio di 
+sostenibilità. 
+Nell’ambito della Policy ESG adottata ai fini dell’integrazione dei rischi di 
+sostenibilità, la SGR ha definito principi e criteri per la valutazione e la 
+classificazione degli emittenti, in funzione di fattori ambientali, sociali e di 
+governance.  
+Il risultato di tale analisi può determinare un’eventuale esclusione, 
+dall’universo investibile, di alcuni strumenti finanziari di emittenti considerati 
+non in linea con i criteri definiti nella Policy ESG. 
+In particolare, ai fini dell’esclusione, la Policy ESG identifica specifiche soglie 
+relative alla quota di fatturato massima che gli emittenti oggetto di 
+investimento possono derivare da attività in determinati settori. Sulla base di 
+questo criterio viene redatta una lista delle esclusioni approvata dal Comitato 
+Investimenti. 
+Per un approfondimento sulla metodologia e sui criteri applicati, si rimanda 
+alla consultazione della Policy ESG di Azimut Capital Management SGR  
+pubblicata nella sezione “Informativa sulla sostenibilità” del sito web della 
+SGR.
+=== pagina 16 ===
+FONDO PENSIONE APERTO “AZIMUT PREVIDENZA” 
+ 
+16  
+Ottobre 2025 
+6. MODIFICHE APPORTATE NELL’ULTIMO TRIENNIO 
+ 
+ 
+Data 
+modifica 
+Descrizione modifica 
+10.11.2022 Inserita nota esplicativa relativa alla prossima chiusura del 
+Comparto Garantito, prevista per febbraio 2023. Integrato 
+all’interno della Premessa la specifica relativa all’analisi delle 
+caratteristiche socio-demografiche. 
+Inserita all’interno del § 4 una rappresentazione analitica (in forma 
+tabellare) dei punti di verifica inclusi nel sistema di controllo della 
+gestione finanziaria. 
+Riformulata all’interno della Premessa la parte relativa all’esercizio 
+dei diritti di voto.  
+Aggiornati i dati all’interno delle tabelle del §1.1 relativi ai comparti 
+del Fondo. Con l’aggiornamento dell’ipotesi dell’indice ISTAT sono 
+stati modificati la volatilità annua e la probabilità che il rendimento 
+nell’orizzonte temporale possa essere negativo. 
+09.10.2025 Eliminazione riferimenti al Comparto Garantito, chiuso ed 
+incorporato nel Comparto Obbligazionario. 
+Inseriti rimandi normativi all’interno del paragrafo “Premessa”. 
+Aggiornati i dati quantitativi all’interno delle tabelle dell’articolo 1.1 
+“Rendimento medio annuo atteso e sua variabilità nell’orizzonte 
+temporale di riferimento”, relativi ai Comparti del Fondo; in 
+particolare sono stati aggiornati i rendimenti medi att esi, la loro 
+volatilità e la probabilità di rendimento negativo. 
+Inserito nell’articolo 2 “Criteri di attuazione della politica di 
+investimento” l’elenco dei Comparti appartenenti al Fondo. 
+Inserita, nell’articolo 5 “I fattori ESG e l’integrazione del rischio ESG” 
+l’indicazione di reperibilità della policy ESG nel sito della SGR.

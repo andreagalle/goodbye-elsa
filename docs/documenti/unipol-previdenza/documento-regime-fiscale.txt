@@ -1,0 +1,225 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Documento sul regime fiscale – Documento sul regime fiscale
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/7b19317e-a23b-4783-b8d2-5466b173d112
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/documenti-utili
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 21c0721c194fa87b72a87765510d67ef785f63946d96d5fa6ab9913b55e2902e
+# Pagine: 6
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL PREVIDENZA FPA 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SUL REGIME FISCALE - Il presente documento è volto ad integrare le informazioni in materia di regime 
+fiscale dei contributi versati e delle somme erogabili contenute nella Nota Informativa della forma pensionistica 
+denominata UNIPOL PREVIDENZA FPA - Fondo Pensione Aperto. Se ne raccomanda la lettura congiunta oltre che con la 
+Nota informativa anche con il Regolamento.
+=== pagina 2 ===
+Unipol Previdenza FPA 
+Documento sul regime fiscale – mod. DRFiscFPA – ed. 01/2025 Pagina 1 di 3 
+ 
+DOCUMENTO SUL REGIME FISCALE 
+ 
+1. Regime fiscale della forma pensionistica complementare (fondo pensione)  
+I fondi pensione, istituiti in regime di contribuzione definita, sono soggetti ad un’imposta sostitutiva delle imposte sui re dditi 
+nella misura del 20%, sul risultato netto maturato in ciascun periodo d’imposta. I rendimenti relativi ad investimenti, anche  
+indiretti, effettuati in titoli pubblici ed equiparati concorrono alla formazione del risultato di gestione nella misura del 62,50%.  
+L’imposta è prelevata annualmente dal patrimonio del fondo pensione.  
+A decorrere dal 1° gennaio 2017, i redditi derivanti dagli investimenti qualificati (azioni o quote di imprese residenti nel 
+territorio dello Stato o in Stati membri dell’Unione Europea o in Stati aderenti all’Accordo sullo Spazio economico europeo con 
+stabile organizzazione nel territorio medesimo nonché le quote o azioni di OICR residenti nel territorio dello Stato o in Stati 
+membri dell’Unione europea o in Stati aderenti all’Accordo sullo Spazio economico europeo, che investono prevalentemente 
+in azioni e quote di imprese UE o SE) sono esenti dall’imposta sostitutiva. Gli investimenti qualificati possono essere effettuati 
+nel limite del 5% dell’attivo patrimoniale risultante dal rendiconto dell’esercizio precedente e devono essere detenuti dalla  
+forma pensionistica complementare per almeno cinque anni (art. 1, commi 92- 98 Legge n. 232/2016). 
+ 
+2. Regime fiscale dei contributi 
+I contributi versati al Fondo Pensione sono deducibili dal reddito complessivo dell’Aderente, per un importo complessivamente 
+non superiore a 5.164,57 euro annui. Se l’Aderente è un lavoratore dipendente, ai fini del raggiungimento del predetto limite, 
+si tiene conto anche dei contributi a carico del datore di lavoro. 
+Fermo restando il limite complessivamente riconosciuto quale onere deducibile, la deduzione spetta anche per i contributi 
+versati a favore di persone fiscalmente a carico ai sensi dell'art 12 del D.P.R. 22 dicembre 1986, n. 917, per la parte da qu esti 
+non dedotta. 
+Ai lavoratori di prima occupazione successiva al 1° gennaio 2007 e limitatamente ai primi cinque anni di partecipazione alle 
+forme pensionistiche complementari, è consentito, nei venti anni successivi al quinto anno di partecipazione a tali forme, 
+dedurre dal reddito complessivo contributi eccedenti il limite di 5.164,57 euro pari alla differenza positiva tra l'importo di 
+25.822,85 euro e i contributi effettivamente versati nei primi cinque anni di partecipazione alle forme pensionistiche e 
+comunque per un importo non superiore a 2.582,29 euro annui.  
+ 
+Reintegro di somme erogate a titolo di anticipazioni 
+Il trattamento tributario dei contributi è altresì applicabile alle somme che l’Aderente versa al Fondo Pensione a titolo di 
+reintegro della propria posizione individuale decurtata a seguito di erogazione di anticipazioni. Tali somme concorrono, al pari 
+dei contributi versati, a formare il limite annuo complessivamente deducibile dal reddito complessivo dell’Aderente.  
+Relativamente alle anticipazioni erogate sui montanti maturati dal 1° gennaio 2007, sulla parte del reintegro eccedente il limite 
+di deducibilità di cui al paragrafo 2., è riconosciuto al contribuente un credito d'imposta pari all'imposta pagata al moment o 
+della fruizione dell'anticipazione, proporzionalmente riferibile all'importo reintegrato.  
+ 
+Comunicazioni dell’Aderente 
+Entro il termine del 31 dicembre dell’anno successivo a quello in cui è stato effettuato il versamento contributivo al Fondo 
+Pensione ovvero, se antecedente, alla data in cui sorge il diritto alla prestazione pensionistica, l'Aderente comunica al Fon do 
+Pensione l’importo dei contributi versati che non sono stati dedotti, o che non saranno dedotti  in sede di presentazione della 
+dichiarazione dei redditi. I suddetti contributi non concorreranno a formare la base imponibile per la determinazione 
+dell’imposta dovuta in sede di erogazione della prestazione finale.  
+ 
+3. Regime fiscale delle prestazioni 
+Definizione di “parte imponibile” delle prestazioni pensionistiche complementari  
+La quota parte delle prestazioni che alla scadenza di un piano previdenziale viene assoggettata a tassazione è normalmente 
+rappresentata dall’ammontare della stessa riferibile proporzionalmente ai contributi dedotti nel corso della durata del piano . 
+La base imponibile è dunque determinata al netto dei rendimenti finanziari già assoggettati ad imposta sostitutiva presso il 
+Fondo Pensione, dei redditi esenti da imposta sostitutiva derivanti da investimenti qualificati nonché dei contributi non 
+dedotti, oggetto di comunicazione al Fondo.  Inoltre, per i lavoratori dipendenti che hanno conferito, in tutto o in parte, il 
+trattamento di fine rapporto al Fondo Pensione, la base imponibile è determinata tenendo conto anche del trattamento di fine 
+rapporto conferito. 
+I medesimi criteri si applicano anche in caso di riscatto. 
+Le prestazioni pensionistiche possono essere erogate in forma di capitale o in forma di prestazioni periodiche (rendite).  
+In via generale, in caso di prestazione in capitale, occorre aver riguardo al limite massimo del 50% del montante finale 
+accumulato. I “vecchi iscritti” (cioè coloro che alla data del 29/4/1993 risultavano già iscritti ad una forma pensionistica 
+complementare) hanno facoltà di richiedere l’intera prestazione in forma capitale.  
+Nel caso di prestazione periodica, se la rendita derivante dalla conversione di almeno il 70% del montante finale risulta inferiore 
+al 50% dell’assegno sociale di cui all’art. 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, la stessa può essere erogata
+=== pagina 3 ===
+Unipol Previdenza FPA 
+Documento sul regime fiscale – mod. DRFiscFPA – ed. 01/2025 Pagina 2 di 3 
+ 
+interamente in forma capitale. Per i vecchi iscritti, tale confronto va effettuato con riferimento al montante accumulato a 
+partire dal 1°gennaio 2007. 
+Il calcolo della tassazione è effettuato tenendo distinti il montante maturato nel periodo precedente il 2001, nel periodo 
+dall’1/1/2001 al 31/12/2006 e nel periodo decorrente dall’1/1/2007.  
+ 
+3.1. Prestazioni in capitale 
+3.1.1. Quota parte delle prestazioni fino al 31 dicembre 2006 
+La parte imponibile della prestazione pensionistica erogata in forma di capitale, è soggetta a tassazione separata.  
+ 
+Per i “nuovi iscritti”, ossia coloro che alla data del 29/4/1993 non risultavano già iscritti a forme di previdenza complementare, 
+la parte imponibile della prestazione in capitale maturata fino al 31/12/2006 è divisa per il numero di anni o frazione di an no 
+di effettiva contribuzione al fondo ed è moltiplicata per 12, al fine di individuare il reddito di riferimento sul quale è ca lcolata 
+l’aliquota media di tassazione (cosiddetta aliquota interna).  
+ 
+Per “i vecchi iscritti”, che richiedono tutta la prestazione in capitale, trova applicazione sull’intero ammontare maturato d al 1 
+gennaio 2001 alla data di spettanza della prestazione, il regime tributario vigente fino al 2006 anche per la parte di montan te 
+maturato dal 2007. In particolare: 
+- sull’importo della prestazione in capitale maturata fino al 31 dicembre 2000, al netto dei contributi lordi a carico del 
+dipendente non eccedenti il 4% della retribuzione imponibile fiscale di ogni anno, si applica la tassazione separata 
+utilizzando l’aliquota del TFR. 
+- sull’importo della prestazione in capitale maturata successivamente all’1/1/2001 e fino alla data di accesso alla 
+prestazione, si applica la tassazione separata con l’aliquota interna, in modo analogo ai nuovi iscritti, in riferimento agli  
+anni di effettiva contribuzione di tale periodo. 
+Se invece essi optano per il nuovo regime di cui al D.Lgs. 252/2005:  
+- per le prestazioni maturate dalla data d’iscrizione al 31/12/2006 valgono le regole anzidette  
+- sull'importo della prestazione in capitale maturata dall'1/1/2007, si applica la ritenuta a titolo d'imposta del 15%, come 
+meglio dettagliato nel paragrafo successivo. 
+ 
+3.1.2. Quota parte delle prestazioni dal 1°gennaio 2007 
+La parte imponibile della prestazione pensionistica erogata in forma di capitale è soggetta alla ritenuta a titolo d'imposta con 
+l'aliquota del 15%, ridotta di una quota pari a 0,30% per ogni anno eccedente il quindicesimo anno di partecipazione, con un 
+limite massimo di riduzione di 6% (9% dopo 35 anni). Se la data d’iscrizione è anteriore all’1/1/2007, gli anni d’iscrizione prima 
+del 2007 sono computati fino ad un massimo di 15. 
+ 
+3.1.3 Prestazioni assicurative accessorie 
+Le prestazioni eventualmente erogate nel corso della fase di accumulo in forza delle Coperture accessorie alla forma 
+pensionistica complementare per il caso di invalidità o di premorienza dell’Aderente sono esenti da imposizione fiscale.  
+ 
+3.1.4. Rendita Integrativa Temporanea Anticipata (RITA) 
+La parte imponibile della Rendita Integrativa Temporanea Anticipata, determinata secondo le disposizioni vigenti nei periodi 
+di maturazione della prestazione pensionistica complementare, è soggetta alla ritenuta a titolo d'imposta con l'aliquota del 
+15% ridotta di una quota pari a 0,30% per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche 
+complementari con un limite massimo di riduzione di 6%. Se la data di iscrizione alla forma di previdenza complementare è 
+anteriore al 1/1/2007, gli anni di iscrizione prima del 2007 sono computati fino a un massimo di 15.  
+Per la determinazione del relativo imponibile, le somme erogate a titolo di RITA sono imputate prioritariamente agli importi 
+della prestazione maturati fino al 31 dicembre 2000 e, per la parte eccedente, prima a quelli maturati dal 1º gennaio 2001 al  
+31 dicembre 2006 e successivamente a quelli maturati dal 1º gennaio 2007.  
+Il percettore della rendita anticipata ha facoltà di non avvalersi della tassazione sostitutiva facendolo constare espressamente 
+nella dichiarazione dei redditi; in tal caso la rendita anticipata è assoggettata a tassazione ordinaria.  
+La parte di prestazione eventualmente percepita dal lavoratore a titolo di RITA non rileva ai fini della richiesta in rendita  e in 
+capitale del montante residuo. 
+ 
+3.2. Anticipazioni 
+3.2.1. Quota parte delle anticipazioni fino al 31 dicembre 2006 
+Le anticipazioni sono assoggettate alla medesima tassazione prevista per le prestazioni pensionistiche erogate in forma di 
+capitale. Tuttavia, l’imponibile è determinato al lordo della componente finanziaria, che ha già scontato l’imposta sostituti va 
+in capo al fondo, salvo conguaglio al momento della liquidazione definitiva.
+=== pagina 4 ===
+Unipol Previdenza FPA 
+Documento sul regime fiscale – mod. DRFiscFPA – ed. 01/2025 Pagina 3 di 3 
+ 
+ 
+ 
+3.2.2. Quota parte delle anticipazioni dal 1°gennaio 2007 
+Le anticipazioni delle posizioni individuali maturate sono assoggettate alla ritenuta a titolo d’imposta, applicata sulla som ma 
+erogata al netto dei redditi già assoggettati ad imposta, pari al: 
+• 15%, ridotta di una quota dello 0,30% per ogni anno eccedente il quindicesimo anno di partecipazione a forme 
+pensionistiche complementari con un limite massimo di riduzione di 6% nel caso di richiesta di anticipazione per spese 
+sanitarie a seguito di gra vissime situazioni relative a sé, al coniuge e ai figli per terapie e interventi straordinari 
+riconosciuti dalle competenti autorità pubbliche; 
+• 23% nel caso di richiesta di anticipazione per: 
+- acquisto prima casa di abitazione per sé o per i figli; 
+- realizzazione d’interventi di cui alle lettere a), b), c) e d) del comma 1 dell’art. 3 del testo unico delle disposizioni 
+legislative e regolamentari in materia edilizia di cui al D.P.R. n. 380/01, relativamente alla prima casa di 
+abitazione; 
+- ulteriori esigenze dell’Aderente. 
+ 
+3.3. Riscatti 
+3.3.1. Quota parte dei riscatti fino al 31 dicembre 2006 
+I riscatti devono essere richiesti nel rispetto delle condizioni previste dall’art. 14, commi 2 e 3 del D.Lgs. 252/2005, illustrate al 
+paragrafo seguente. La tassazione dei riscatti imputabili a diversi periodi di maturazione avviene applicando i regimi fi scali 
+propri di ciascun periodo. 
+ 
+3.3.2. Quota parte dei riscatti dal 1°gennaio 2007 
+La parte imponibile delle somme erogate a titolo di riscatto è soggetta alla ritenuta a titolo d’imposta con aliquota del 15% , 
+ridotta di una quota pari a 0,30% per ogni anno eccedente il quindicesimo di partecipazione alle forme pensionistiche 
+complementari, con un limite massimo di riduzione di 6%, nei seguenti casi:  
+• cessazione dell'attività lavorativa che comporti l'inoccupazione per un periodo di tempo non inferiore a 12 mesi e non 
+superiore a 48 mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di mobilità, cassa integrazione 
+guadagni ordinaria o straordinaria; 
+• invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un terzo e a seguito di cessazione 
+dell'attività lavorativa che comporti l'inoccupazione per un periodo di tempo superiore a 48 mesi;  
+• morte dell'Aderente prima della maturazione del diritto alla prestazione pensionistica.  
+Le ipotesi di riscatto per cause diverse da quelle sopra indicate, sono assoggettate a ritenuta a titolo d'imposta del 23%.  
+ 
+3.4. Prestazioni in forma periodica (rendite) 
+3.4.1. Quota parte delle rendite fino al 31 dicembre 2006 
+La parte imponibile delle prestazioni pensionistiche erogate in forma di rendita è soggetta alla tassazione progressiva IRPEF, 
+quale reddito assimilato a quello di lavoro dipendente.  
+Sul rendimento finanziario contenuto in ciascuna rata di rendita erogata è applicata una imposta sostitutiva del 26%, ai sens i 
+dell’art. 26-ter, comma 2, del D.P.R. 600/73; La base imponibile è ridotta al 48,08 per i proventi riferibili ai titoli pubblici ed 
+equiparati. 
+ 
+3.4.2. Quota parte delle rendite dal 1°gennaio 2007 
+La parte imponibile della prestazione è soggetta alla ritenuta a titolo d'imposta con l'aliquota del 15%, ridotta di una quot a 
+pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione alle forme pensionistiche 
+complementari, con un limite massimo di riduzione di 6%. 
+Sul rendimento finanziario contenuto in ciascuna rata di rendita erogata è applicata l’imposta sostitutiva del 26%, ai sensi 
+dell’art. 26-ter, comma 2, del D.P.R. 600/73; la base imponibile è ridotta al 48,08% per i proventi riferibili ai titoli pubblici e d 
+equiparati. 
+ 
+4. Trasferimento della posizione individuale ad altra forma di previdenza complementare  
+Le operazioni di trasferimento delle posizioni pensionistiche sono esenti da ogni onere fiscale, a condizione che avvengano a  
+favore di forme pensionistiche disciplinate dal D.Lgs. 252/2005.  
+ 
+5. Dichiarazione di responsabilità 
+La società che ha istituito il Fondo Pensione si assume la responsabilità della completezza e della veridicità dei dati e del le 
+notizie contenuti nel presente documento.
+=== pagina 5 ===
+
+=== pagina 6 ===
+

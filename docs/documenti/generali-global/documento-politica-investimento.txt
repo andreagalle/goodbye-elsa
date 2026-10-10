@@ -1,0 +1,851 @@
+# Fondo: GENERALI GLOBAL - FONDO PENSIONE APERTO A CONTRIBUZIONE DEFINITA (generali-global)
+# Documento: Documento sulla politica di investimento – Doc. sulla politica di investimento
+# Fonte: https://www.generali.it/cmsassets/site/931ceab1-3811-465f-825f-466cd69b5a29/Generali_Global_Documento_sulla_politica_di_investimento.pdf
+# Citato in: https://www.generali.it/previdenza/generali-global-fondo-pensione-aperto/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: b3abd32edf4cf88bc396b3f5696329026b32638d8f4091c44e2caf334d2249a9
+# Pagine: 17
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+DOCUMENTI SULLE POLITICHE DI INVESTIMENTO  
+Documento sulla Politica di investimento – Generali Global 
+ 
+ 
+ 
+ 
+ 
+GENERALI GLOBAL 
+Fondo Pensione Aperto a contribuzione definita 
+(iscritto all’Albo tenuto dalla COVIP con il n. 8) 
+ 
+Documento approvato il 21/03/2025 
+ 
+ 
+ 
+1. Premessa 
+ 
+2. Obiettivi da realizzare nella gestione finanziaria 
+ 
+3. Criteri da seguire nell’attuazione della gestione 
+ 
+4. Informativa sulla sostenibilità 
+ 
+5. Modifiche apportate nell’ultimo triennio
+=== pagina 2 ===
+2 
+ 
+1. PREMESSA 
+Il Documento ha lo scopo di definire la strategia finanziaria che il Fondo Pensione Aperto Generali Global  (di seguito 
+“GENERALI GLOBAL”) intende attuare per ottenere, dall’impiego delle risorse affidate, combinazioni rischio -rendimento 
+efficienti nell’arco temporale coerente con i bisogni previdenziali degli aderenti e con le prestazioni da erogare. 
+ 
+Il Documento, redatto in conformità alla deliberazione COVIP del 16 Marzo 2012, che definisce le regole di governance in 
+materia di investimenti, indica gli obiettivi che GENERALI GLOBAL mira a realizzare con riferimento sia all’attività complessiva 
+sia a quella dei singoli comparti, appresso definiti. 
+Per il raggiungimento dell’obiettivo finale, GENERALI GLOBAL mette a disposizione degli aderenti più di un comparto di 
+investimento (cui corrispondono profili diversi di rischio-rendimento) e due percorsi del tipo life cycle. 
+ 
+Caratteristiche generali di GENERALI GLOBAL  
+“GENERALI GLOBAL - Fondo Pensione Aperto a contribuzione definita” è una forma di previdenza finalizzata all’erogazione 
+di trattamenti pensionistici complementari del sistema obbligatorio, ai sensi del Decreto Legislativo 5 dicembre 2005, n. 252  
+(di seguito “Decreto”). GENERALI GLOBAL è iscritto al n. 8 dell’Albo tenuto dalla COVIP, è stato istituito da Assicurazioni 
+Generali S.p.A. ed è gestito da Generali Italia S.p.A. (di seguito anche “Società”). Le risorse di GenerAzione Previdente sono 
+gestite, su delega della Società, da “GENERALI ASSET MANAGEMENT S.p.A. Società di gestione del risparmio”, in forma 
+abbreviata “GENERALI AM” società facente parte del Gruppo Generali.  
+ 
+La denominazione del fondo, Generali Global, deriva dalla modifica del regolamento di Previgen Global approvata dalla 
+Commissione di Vigilanza sui Fondi Pensione avente efficacia dal 01.01.2015.  
+ 
+ 
+Destinatari 
+GENERALI GLOBAL è una forma previdenziale rivolta alle adesioni su base individuale. È altresì consentita l’adesione su 
+base collettiva alle seguenti categorie di soggetti nei confronti delle quali trovino applicazione contratti, accordi o regolamenti 
+aziendali che dispongono l’adesione su base collettiva a “GENERALI GLOBAL”: 
+ 
+a) i lavoratori dipendenti, sia privati sia pubblici, anche secondo il criterio di appartenenza alla medesima impresa, ente, 
+gruppo di imprese, categoria, comparto o raggruppamento, anche territorialmente delimitato, o diversa organizzazione 
+di lavoro e produttiva, ivi compresi i lavoratori assunti in base alle tipologie contrattuali previste dal decreto legislativo 10 
+settembre 2003, n. 276; 
+b) accordi fra lavoratori autonomi o fra liberi professionisti, promossi da loro sindacati o da associazioni di rilievo almeno 
+regionale; 
+c) i soci lavoratori di cooperative, anche unitamente ai lavoratori dipendenti dalle cooperative interessate. 
+ 
+ 
+ 
+Tipologia, natura giuridica e regime previdenziale  
+“GENERALI GLOBAL” è un fondo pensione aperto, costituito in forma di patrimonio separato e autonomo all’interno di 
+Generali Italia S.p.A. e operante in regime di  contribuzione definita (l’entità della prestazione pensionistica è determinata in 
+funzione della contribuzione effettuata e dei relativi rendimenti).
+=== pagina 3 ===
+3 
+ 
+2. OBIETTIVI DA REALIZZARE NELLA GESTIONE FINANZIARIA   
+ 
+L’obiettivo complessivo della politica di investimento di GENERALI GLOBAL è quello di perseguire combinazioni rischio -
+rendimento efficienti in un determinato arco temporale, coerente con quello delle prestazioni da erogare; esse devono consentire 
+di massimizzare le risorse destinate alle prestazioni esponendo gli aderenti a un livello di rischio ritenuto accettabile. 
+ 
+GENERALI GLOBAL ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni pensionistiche 
+complementari del sistema obbligatorio. A tale fine esso provvede alla raccolta dei contributi, alla gestione delle risorse 
+nell’esclusivo interesse degli aderenti e all’erogazione delle prestazioni, secondo quanto disposto dalla normativa in materia di 
+previdenza complementare.  
+ 
+Per realizzare tali obiettivi la Società ha istituito cinque comparti di investimento: 
+ 
+Comparti Categoria Sostenibilità* Tipologia 
+Obbligazionario breve termine 
+ 
+Obbligazionario No Comparto 
+Obbligazionario 
+ 
+Obbligazionario No Comparto 
+Real Return 
+ 
+Bilanciato 
+flessibile 
+No Comparto 
+Multi Asset 
+ 
+Bilanciato 
+flessibile 
+No Comparto 
+Azionario Globale 
+ 
+Azionario No Comparto 
+ 
+(*) Comparti caratterizzati da una politica di investimento che promuove caratteristiche ambientali o sociali  ai sensi 
+dell'Reg. 2019/2088 SFDR. 
+ 
+ 
+2.1 - ANALISI DELLE CARATTERISTICHE SOCIO DEMOGRAFICHE DELLA POPOLAZIONE DI RIFERIMENTO E I SUOI 
+BISOGNI PREVIDENZIALI    
+GENERALI GLOBAL è aperto all’adesione indistinta di chiunque voglia aderirvi. Non è pertanto possibile determinare, a priori, le 
+caratteristiche socio-demografiche della popolazione del Fondo. D’altra parte, la pluralità di opzioni d’investimento previste da 
+GENERALI GLOBAL e l’ampia facoltà concessa ai potenziali aderenti di destinare liberamente i contributi a uno o più comparti 
+con combinazioni di rischio -rendimento diversificate, oltre alla proposizione di due percorsi lifecycle, rendono GENERALI 
+GLOBAL idoneo a soddisfare le aspettative di popolazioni di riferimento piuttosto ampie. In ogni caso, per tenere in considerazione 
+le caratteristiche e i potenziali bisogni previdenziali della popolazione di riferimento, la Società monitora le caratteristi che socio-
+demografiche degli iscritti, l’andamento delle adesioni e delle uscite nonché il livello di contribuzione media.  
+ 
+ 
+2. 2 - DEFINIZIONE DELLE PRESTAZIONI OBIETTIVO E DEI COMPARTI  
+GENERALI GLOBAL ha definito le seguenti opzioni di investimento, i c.d. “comparti”, ciascuno dei quali caratterizzato da una 
+propria combinazione di rischio-rendimento. 
+ 
+OBBLIGAZIONARIO BREVE TERMINE 
+Finalità della gestione in relazione ai potenziali aderenti:  
+La gestione è volta ad attuare politiche di redditività degli investimenti obbligazionari a breve termine, limitando la volat ilità del 
+portafoglio. 
+L’adesione al comparto è indicata per coloro che hanno una bassa propensione al rischio e consigliata a coloro che si avvicinano 
+al momento di accesso alla prestazione pensionistica complementare.  
+Questo comparto, in assenza di indicazioni da parte dell’iscritto, è destinato ad accogliere la porzione della posizione individuale 
+di cui si chiede il frazionamento per l’erogazione della “Rendita integrativa temporanea anticipata” (RITA).  
+Orizzonte temporale di investimento: breve periodo (fino a 5 anni). 
+ 
+Rendimento medio annuo atteso nell’orizzonte temporale: 0.6% (espresso in termini reali, cioè al netto dell’inflazione attesa, 
+ipotizzando il predetto tasso di inflazione attesa pari all’2%). 
+ 
+Volatilità annua nell’orizzonte temporale: 2,6%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale.
+=== pagina 4 ===
+4 
+ 
+ 
+ 
+Probabilità di Shortfall nell’orizzonte temporale: 34,2%. 
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia dello 0% ipotizzando, come sopr a 
+indicato, il tasso di inflazione attesa pari all’2%. 
+ 
+Politica ESG: il comparto integra aspetti ambientali e sociali.  
+ 
+ 
+OBBLIGAZIONARIO 
+Finalità della gestione in relazione ai potenziali aderenti:  
+La gestione ha come obiettivo l’accrescimento del capitale perseguendo politiche di redditività degli investimenti di tipo 
+obbligazionario. L’adesione alla linea è indicata per coloro che non sono lontani dall’accesso alla prestazione pensionistica  
+complementare e per chi ha un orizzonte temporale di medio periodo (5-10 anni). 
+ 
+Orizzonte temporale di investimento:  medio (fra 5 e 10 anni). 
+ 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1,20% (espresso in termini reali, cioè al netto dell’inflazione attesa, 
+ipotizzando il predetto tasso di inflazione attesa pari all’2.0%). 
+ 
+Volatilità annua nell’orizzonte temporale: 4,60%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale. 
+ 
+Probabilità di Shortfall nell’orizzonte temporale: 23.50%. 
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia dello 0% ipotizzando, come sopra 
+indicato, il tasso di inflazione attesa pari all’2.0%. 
+ 
+Politica ESG: il comparto integra aspetti ambientali e sociali.  
+ 
+ 
+ 
+REAL RETURN 
+Finalità della gestione in relazione ai potenziali aderenti:  
+La gestione è volta a realizzare rendimenti, in un arco di tempo di medio periodo (fra 5 e 10 anni), in grado di preservare il valore 
+in termini reali dei capitali conferiti. L’adesione al comparto è indicata per coloro che non sono lontani dall’accesso alla prestazione 
+pensionistica complementare e per chi ha un orizzonte temporale di medio periodo (5-10 anni). 
+ 
+Orizzonte temporale di investimento: medio periodo (fra 5 e 10 anni). 
+ 
+Rendimento medio annuo atteso nell’orizzonte temporale: 1.8% (espresso in termini reali, cioè al netto dell’inflazione attesa, 
+ipotizzando il tasso di inflazione attesa pari all’2.0%). 
+ 
+Volatilità annua nell’orizzonte temporale: 4.0%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale. 
+ 
+Probabilità di Shortfall nell’orizzonte temporale: 16.3%. 
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia dello 0%, ipotizzando, come sop ra 
+indicato, il tasso di inflazione attesa pari all’2.0%.  
+ 
+Politica ESG: il comparto integra aspetti ambientali e sociali.  
+ 
+ 
+MULTI ASSET 
+ 
+Finalità della gestione in relazione ai potenziali aderenti:  
+La gestione è volta ad accrescere il capitale perseguendo sia politiche di redditività degli investimenti sia di rivalutazione del 
+capitale. L’adesione al comparto è indicata per coloro che sono lontani dall’accesso alla prestazione pensionistica complementare 
+e per chi ha un orizzonte temporale di medio-lungo periodo (10-15 anni).
+=== pagina 5 ===
+5 
+ 
+ 
+Orizzonte temporale di investimento: medio-lungo periodo (da 10 anni a 15 anni). 
+ 
+Rendimento medio annuo atteso nell’orizzonte temporale: 2,6% (espresso in termini reali, cioè al netto dell’inflazione attesa, 
+ipotizzando il tasso di inflazione attesa pari all’2.0%). 
+ 
+Volatilità annua nell’orizzonte temporale: 6.0%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale. 
+ 
+Probabilità di Shortfall nell’orizzonte temporale: 6.6%. 
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia dello 0%, ipotizzando, come sop ra 
+indicato, il tasso di inflazione attesa pari all’2.0%.  
+ 
+Politica ESG: il comparto integra aspetti ambientali e sociali.  
+ 
+ 
+ 
+AZIONARIO GLOBALE 
+ 
+Finalità della gestione in relazione ai potenziali aderenti:  
+La finalità della gestione è offrire ai partecipanti un investimento diversificato nei mercati azionari internazionali, al fi ne di 
+aumentare nel tempo il valore dei capitali conferiti. L’adesione alla linea è indicata per coloro che sono lontani dall’acces so alla 
+prestazione pensionistica complementare e per chi ha un orizzonte temporale di lungo periodo (oltre 15 anni). 
+ 
+Orizzonte temporale di investimento: lungo periodo (oltre 15 anni). 
+ 
+Rendimento medio annuo atteso nell’orizzonte temporale: 6.00% (espresso in termini reali, cioè al netto dell’inflazione attesa, 
+ipotizzando il tasso di inflazione attesa pari all’2.0%). 
+ 
+Volatilità annua nell’orizzonte temporale: 13.8%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale. 
+ 
+Probabilità di Shortfall nell’orizzonte temporale: 2.5%. 
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia dello 0%, ipotizzando, come sop ra 
+indicato, il tasso di inflazione attesa pari all’2.0%.  
+ 
+Politica ESG: il comparto integra aspetti ambientali e sociali.  
+ 
+ 
+LIFE CYCLE 
+Generali Global mette a disposizione dell’Aderente un programma c.d. di Life Cycle, che prevede un percorso prestabilito di 
+investimento:  
+a. life cycle “PRUDENTE” –- rischiosità bassa;  
+b. life cycle “DINAMICO” -- rischiosità media.
+=== pagina 6 ===
+6 
+ 
+3. CRITERI DA SEGUIRE NELL’ATTUAZIONE DELLA GESTIONE FINANZIARIA 
+ 
+3. 1 - POLITICA DI INVESTIMENTO DEL COMPARTO” OBBLIGAZIONARIO BREVE TERMINE” 
+ 
+Tipologia degli strumenti finanziari:  
+ 
+I suddetti strumenti finanziari sono negoziati nei mercati ufficiali o regolamentati1, riconosciuti, regolarmente funzionanti e vigilati. 
+Il patrimonio del comparto è investito in via esclusiva in titoli di debito e liquidità.  
+La durata finanziaria (duration) del comparto verrà determinata in relazione allo scenario macro-finanziario prospettico, avendo a 
+riferimento la durata finanziaria del benchmark; tali scelte di duration rispetto al benchmark rifletteranno le aspettative d i 
+andamento dei tassi di interesse. La duration media del portafoglio obbligazionario sarà orientativamente compresa tra 0 e 4 anni 
+e comunque contenuta al di sotto di 5 anni.  
+La ripartizione strategica fra le varie classi di strumenti finanziari (titoli di debito a breve termine governativi e corpor ate) sarà 
+implementata con riferimento alla composizione del benchmark. I margini di scostamento delle percentuali delle singole classi di 
+attività in portafoglio rispetto a quelle presenti nel benchmark dovranno essere contenuti in misura tale da mantenere la volatilità 
+della differenza fra il rendimento del patrimonio e quello del benchmark entro il limite indicato.  
+Possono essere acquistate anche parti di OICR/OICVM, inclusi quelli che rientrano nella normativa PIR, aventi caratteristiche  
+coerenti con il comparto interessato. 
+In particolare, l’acquisto di OICR/OICVM avrà la finalità di migliorare l’efficienza dell’impiego rispetto all’acquisto diretto degli asset 
+sottostanti. A tal fine verranno condotte analisi sull’idoneità dello strumento a replicare l’andamento dei titoli che compon gono 
+l’indice ovvero l‘asset class di riferimento dell’OICR/OICVM, nonché sull’impatto sul rapporto rischio-rendimento del portafoglio. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) possono essere effettuati esclusivamente qualora sia 
+chiaramente esplicitato il livello d'accesso da parte della Società alle informazioni sulle strategie poste in essere dal gestore, sulla 
+struttura dei costi dello strumento e sui periodi di uscita dall'investimento ( lock up period ). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione dell'investimento effettuato e alla predispos izione delle 
+segnalazioni statistiche di vigilanza. 
+L’utilizzo di strumenti finanziari derivati è consentito ai fini di copertura del rischio di fluttuazioni avverse dei prezzi dei titoli in 
+portafoglio oppure per una gestione efficace del portafoglio. Detto utilizzo sarà preceduto da opportune analisi al f ine di valutare 
+l’impatto in termini di rischio-rendimento sulla performance dell’asset class associata al derivato nonché sulla performance globale 
+del portafoglio. 
+ 
+Categorie di emittenti e settori industriali:  
+Saranno considerati sia i titoli obbligazionari governativi sia i titoli obbligazionari di emittenti sovranazionali (ad es. W orld bank, 
+BEI, etc.), sia le obbligazioni emesse da primarie Società (titoli corporate) ed emittenti pubblici con rating elevato. I titoli dovranno 
+avere un rating minimo di almeno BBB - (secondo la classificazione Standard & Poor's) o Baa3 (secondo la classificazione 
+Moody’s). 
+Aree geografiche di investimento: 
+I titoli di debito apparterranno principalmente all’area euro. Il comparto investirà in prevalenza nei paesi inclusi nel benchmark ed 
+in maniera residuale negli altri paesi. 
+Criteri di selezione degli strumenti finanziari:  
+La strategia di gestione perseguita sarà volta, attraverso una gestione attiva del portafoglio, ad ottenere un rendimento superiore 
+rispetto al benchmark di riferimento minimizzando al tempo stesso il profilo di rischio. Le scelte dei paesi e delle valute in cui 
+investire si baseranno sull'analisi dei valori fondamentali macroeconomici, quali tassi di interesse, inflazione, debito pubblico, ecc. 
+Le strategie di gestione tenderanno a selezionare opportunamente i comparti con le migliori prospettive di apprez zamento (titoli 
+governativi, sovranazionali, corporate) al fine di aumentare il rendimento del portafoglio. 
+Aspetti sociali, etici, ambientali nella gestione delle risorse:  
+La selezione degli strumenti finanziari viene effettuata integrando aspetti ESG (Environmental, Social, Governance), cioè di 
+sostenibilità ambientale, sociale e di buon governo societario. Gli aspetti qualificanti dei criteri di integrazione ESG sono esplicitati 
+nella Sezione 6 – Integrazione e Principali effetti negativi per la sostenibilità delle decisioni di investimento. 
+ 
+ 
+1 Per mercati regolamentati si intendono quelli iscritti dalla Consob nell’elenco previsto dall’art. 63, comma 2, ovvero nell’apposita Sezione 
+prevista dall’art. 67, comma 1, del D. Lgs. n. 58/98. Oltre a questi sono da considerarsi mercati regolamentati anche quelli indicati nella lista 
+approvata dal consiglio direttivo della assogestioni pubblicata sul sito internet www.assogestioni.it.
+=== pagina 7 ===
+7 
+ 
+Benchmark 
+Gli indici che compongono il benchmark sono: 
+• 70% JPM EGBI Investment Grade 1-5Y Total Return (JNEUI1R5 Index); 
+• 30% ICE BofA ML 1-5Y Euro Corporate Index Total Return (ER0V Index). 
+ 
+Modalità e stile di gestione 
+La gestione è condotta mediante una efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai c osti 
+di negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonché alla liquidità degli strumenti finanziari 
+oggetto della gestione. La rotazione annua degli asset (turnover) avrà l’obiettivo di essere contenuta entro 2.5 volte il patrimonio. 
+Tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si troverà ad 
+operare.  
+Le strategie di gestione attiva non dovranno modificare in maniera sostanziale il profilo di rischio della gestione rispetto a quello 
+del benchmark di riferimento. La volatilità della differenza fra il rendimento del patrimonio e quello del benchmark, pur 
+rimanendo suscettibile di variazioni in dipendenza di particolari fasi di mercato, tenderà ad essere contenuta entro un livello 
+indicativo del 3% annuo. 
+ 
+Criteri per l’esercizio del diritto di voto 
+Le decisioni relative all’esercizio del diritto di voto sono assunte sulla base dei principi di voto espressi dalla  Linea Guida 
+sull'integrazione della sostenibilità negli investimenti e nell'active ownership , che comprendono temi quali: diritti degli azionisti, 
+organi societari, politica di remunerazione, bilancio, disclosure delle informazioni e trasparenza, operazioni azionarie, tem atiche 
+ambientali e sociali, disposizioni speciali per società quotate a rid otta capitalizzazione e non quotate, operazioni con parti 
+correlate, rischi sistemici e di mercato anche in relazione alle situazioni pandemiche.  
+L’approccio seguito prevede l’esercizio dei diritti di voto ogni qualvolta possibile, senza fare discriminazioni in base all’ oggetto 
+dell’attività di voto o alla dimensione della partecipazione nelle società emittenti. Le decisioni di voto sono prese in ba se ad 
+un’analisi interna fondata sui documenti resi pubblici dagli emittenti e sulle ricerche fornite dai proxy advisor. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è stata redatta in conformità ai requisiti 
+introdotti dalla Shareholder Rights Directive II in merito alla politica di impegno degli investitori istituzionali (Art. 3g della Direttiva 
+(EU) 2017/828 che modifica la Direttiva 2007/36/EC) e tiene in considerazione le best practice degli standard internazionali cui il 
+Gruppo Generali aderisce. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è a disposizione del pubblico nel sito 
+web della Compagnia. 
+ 
+ 
+3. 2 - POLITICA DI INVESTIMENTO DEL COMPARTO “OBBLIGAZIONARIO” 
+ 
+Tipologia degli strumenti finanziari:  
+I suddetti strumenti finanziari sono negoziati nei mercati ufficiali o regolamentati 2, riconosciuti, regolarmente funzionanti e vigilati. 
+Il patrimonio del comparto è investito in via esclusiva in titoli di debito e liquidità.  
+La durata finanziaria (duration) del comparto verrà determinata in relazione allo scenario macro-finanziario prospettico, avendo a 
+riferimento la durata finanziaria del benchmark; tali scelte di duration rispetto al benchmark rifletteranno le aspettative d i 
+andamento dei tassi di interesse.  
+La ripartizione strategica fra le varie classi di strumenti finanziari (titoli di debito governativi e corporate) sarà implem entata con 
+riferimento alla composizione del benchmark. I margini di scostamento delle percentuali delle singole classi di attività in portafoglio 
+rispetto a quelle presenti nel benchmark dovranno essere contenuti in misura tale da mantenere la volatilità della differenza fra il 
+rendimento del patrimonio e quello del benchmark entro il limite indicato.  
+Possono essere acquistate anche parti di OICR/OICVM, inclusi quelli che rientrano nella normativa PIR, aventi caratteristiche  
+coerenti con il comparto interessato. 
+In particolare, l’acquisto di OICR/OICVM avrà la finalità di migliorare l’efficienza dell’impiego rispetto all’acquisto diretto degli asset 
+sottostanti. A tal fine verranno condotte analisi sull’idoneità dello strumento a replicare l’andamento dei titoli che compon gono 
+l’indice ovvero l‘asset class di riferimento dell’OICR/OICVM, nonché sull’impatto sul rapporto rischio-rendimento del portafoglio. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) possono essere effettuati esclusivamente qualora sia 
+chiaramente esplicitato il livello d'accesso da parte della Società alle informazioni sulle strategie poste in essere dal gestore, sulla 
+ 
+2 Per mercati regolamentati si intendono quelli iscritti dalla Consob nell’elenco previsto dall’art. 63, comma 2, ovvero nell’apposita Sezione 
+prevista dall’art. 67, comma 1, del D. Lgs. n. 58/98. Oltre a questi sono da considerarsi mercati regolamentati anche quelli indicati nella lista 
+approvata dal consiglio direttivo della assogestioni pubblicata sul sito internet www.assogestioni.it.
+=== pagina 8 ===
+8 
+ 
+struttura dei costi dello strumento e sui periodi di uscita dall'investimento ( lock up period ). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione dell'investimento effettuato e alla predisposizione de lle 
+segnalazioni statistiche di vigilanza. 
+L’utilizzo di strumenti finanziari derivati è consentito ai fini di copertura del rischio di fluttuazioni avverse dei prezzi dei titoli in 
+portafoglio oppure per una gestione efficace del portafoglio. Detto utilizzo sarà preceduto da opportune analisi al f ine di valutare 
+l’impatto in termini di rischio-rendimento sulla performance dell’asset class associata al derivato nonché sulla performance globale 
+del portafoglio. 
+Categorie di emittenti e settori industriali:  
+Saranno considerati sia i titoli obbligazionari governativi sia i titoli obbligazionari di emittenti sovranazionali (ad es. W orld bank, 
+BEI, etc.), sia le obbligazioni emesse da primarie Società (titoli corporate) ed emittenti pubblici con rating elevato.  
+ 
+ 
+Aree geografiche di investimento:  
+I titoli di debito apparterranno prevalentemente ad emittenti dell’area dei Paesi OCSE. Il comparto investirà in prevalenza n ei 
+paesi inclusi nel benchmark ed in maniera residuale negli altri paesi. 
+ 
+Criteri di selezione degli strumenti finanziari:  
+La strategia di gestione perseguita sarà volta, attraverso una gestione attiva del portafoglio, ad ottenere un rendimento superiore 
+rispetto al benchmark di riferimento minimizzando al tempo stesso il profilo di rischio. Le scelte dei paesi e delle valute in cui 
+investire si baseranno sull'analisi dei valori fondamentali macroeconomici, quali tassi di interesse, inflazione, debito pubblico, ecc. 
+Le strategie di gestione tenderanno a selezionare opportunamente i comparti con le migliori prospettive di apprez zamento (titoli 
+governativi, sovranazionali, corporate) al fine di aumentare il rendimento del portafoglio. 
+Aspetti sociali, etici, ambientali nella gestione delle risorse:  
+La selezione degli strumenti finanziari viene effettuata integrando aspetti ESG (Environmental, Social, Governance), cioè di 
+sostenibilità ambientale, sociale e di buon governo societario. Gli aspetti qualificanti dei criteri di integrazione ESG sono esplicitati 
+nella Sezione 6 – Integrazione e Principali effetti negativi per la sostenibilità delle decisioni di investimento. 
+ 
+Benchmark 
+Gli indici che compongono il benchmark sono: 
+• 10% BofA ML US Treasury Master All Mats Total Return € hedged (G0Q0 Index); 
+• 35% JPM EMU Investment Grade All Mats Total Return (Index JPMGEMUI); 
+• 15% Bloomber Barclays Euro Govt Inflation-Linked All Markets ex-Greece Total Return (BCET1T Index); 
+• 10% BofA ML US Emerging External Sovereign IG All Mats, Total Return € hedged  (DGIG Index); 
+• 20% Bloomber Barclays Euro Aggregate Corporate Total Return (LECPTREU Index); 
+• 10% ICE BofA ML Euro High Yield Total Return (HE00 Index). 
+ 
+Modalità e stile di gestione 
+La gestione è condotta mediante una efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai c osti 
+di negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonché alla liquidità degli strumenti finanziari 
+oggetto della gestione. La rotazione annua degli asset (turnover) avrà l’obiettivo di essere contenuta entro 2 volte il patrimonio. 
+Tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si troverà ad 
+operare.  
+Le strategie di gestione attiva non dovranno modificare in maniera sostanziale il profilo di rischio della gestione rispetto a quello 
+del benchmark di riferimento. La volatilità della differenza fra il rendimento del patrimonio e quello del benchmark, pur 
+rimanendo suscettibile di variazioni in dipendenza di particolari fasi di mercato, tenderà ad essere contenuta entro un livello 
+indicativo del 3% annuo. 
+ 
+Criteri per l’esercizio del diritto di voto 
+Le decisioni relative all’esercizio del diritto di voto sono assunte sulla base dei principi di voto espressi dalla  Linea Guida 
+sull'integrazione della sostenibilità negli investimenti e nell'active ownership , che comprendono temi quali: diritti degli azionisti, 
+organi societari, politica di remunerazione, bilancio, disclosure delle informazioni e trasparenza, operazioni azionarie, tem atiche 
+ambientali e sociali, disposizioni speciali per società quotate a rid otta capitalizzazione e non quotate, operazioni con parti 
+correlate, rischi sistemici e di mercato anche in relazione alle situazioni pandemiche.  
+L’approccio seguito prevede l’esercizio dei diritti di voto ogni qualvolta possibile, senza fare discriminazioni in base all’ oggetto 
+dell’attività di voto o alla dimensione della partecipazione nelle società emittenti. Le decisioni di voto sono prese in ba se ad 
+un’analisi interna fondata sui documenti resi pubblici dagli emittenti e sulle ricerche fornite dai proxy advisor. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownershipè stata redatta in conformità ai requisiti
+=== pagina 9 ===
+9 
+ 
+introdotti dalla Shareholder Rights Directive II in merito alla politica di impegno degli investitori istituzionali (Art. 3g della Direttiva 
+(EU) 2017/828 che modifica la Direttiva 2007/36/EC) e tiene in considerazione le best practice degli standard internazionali cui il 
+Gruppo Generali aderisce. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è a disposizione del pubblico nel sito 
+web della Compagnia. 
+ 
+ 
+3. 3 - POLITICA DI INVESTIMENTO DEL COMPARTO “REAL RETURN” 
+ 
+Tipologia degli strumenti finanziari:  
+I suddetti strumenti finanziari sono negoziati nei mercati ufficiali o regolamentati3 , riconosciuti, regolarmente funzionanti e vigilati. 
+Il comparto si prefigge di conseguire l’obiettivo investendo prevalentemente in un’allocazione flessibile alle diverse classi di attivi, 
+ivi compresi, a titolo esemplificativo ma non esaustivo, azioni, titoli di Stato, obbligazioni societarie, strumenti de l mercato 
+monetario di tutto il mondo, nonché depositi vincolati. Gli investimenti del comparto possono inoltre comprendere, a titolo 
+esemplificativo ma non esaustivo, titoli correlati alle azioni, strumenti di debito di qualsiasi tipo, strumenti derivati quali, a titolo 
+esemplificativo ma non esaustivo, future su indici o su un singolo titolo, future su dividendi, opzioni su azioni.  
+Resta comunque ferma la facoltà di detenere una parte delle disponibilità in liquidità sia in euro sia in altre valute.  
+L’esposizione del comparto agli investimenti azionari non può superare il 30% del patrimonio netto. 
+La gestione, essendo di tipo flessibile, non prevede un benchmark di riferimento. Pertanto, si illustra qui di seguito la ripartizione 
+strategica degli attivi utilizzati nel comparto.  
+Il peso deve intendersi come consistenza percentuale della singola macro classe presente in media durante tutta la vita del fondo: 
+ 
+Macro classe Classe Peso 
+Investimenti obbligazionari 
+Titoli governativi euro 41,50% 
+Titoli governativi non euro 13,50% 
+Titoli corporate euro 20,00% 
+Titoli corporate non euro 10,00% 
+Investimenti azionari Azioni 15,00% 
+ 
+ 
+Possono essere acquistate anche parti di OICR/OICVM, inclusi quelli che rientrano nella normativa PIR, aventi caratteristiche 
+coerenti con il comparto interessato. 
+In particolare, l’acquisto di OICR/OICVM avrà la finalità di migliorare l’efficienza dell’impiego rispetto all’acquisto diretto degli asset 
+sottostanti. A tal fine verranno condotte analisi sull’idoneità dello strumento a replicare l’andamento dei titoli che compon gono 
+l’indice ovvero l‘asset class di riferimento dell’OICR/OICVM, nonché sull’impatto sul rapporto rischio-rendimento del portafoglio. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) possono essere effettuati esclusivamente qualora sia 
+chiaramente esplicitato il livello d'accesso da parte della Società alle informazioni sulle strategie poste in essere dal gestore, sulla 
+struttura dei costi dello strumento e sui periodi di uscita dall'investimento ( lock up period ). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione dell'investimento effettuato e alla predispos izione delle 
+segnalazioni statistiche di vigilanza. 
+L’utilizzo di strumenti finanziari derivati è consentito ai fini di copertura del rischio di fluttuazioni avverse dei prezzi dei titoli in 
+portafoglio oppure per una gestione efficace del portafoglio. Detto utilizzo sarà preceduto da opportune analisi al f ine di valutare 
+l’impatto in termini di rischio-rendimento sulla performance dell’asset class associata al derivato nonché sulla performance globale 
+del portafoglio. 
+ 
+Categorie di emittenti e settori industriali:  
+Saranno considerati sia i titoli obbligazionari governativi sia i titoli obbligazionari di emittenti sovranazionali (ad es. World bank, 
+BEI, etc.), sia le obbligazioni emesse da società industriali e finanziarie (titoli corporate) ed emittenti pubblici.  
+L’esposizione del comparto ai titoli di debito con rating inferiore a ‘investment grade’ non può superare il 20% del patrimonio 
+netto. 
+ 
+Aree geografiche di investimento:  
+I titoli, sia di capitale sia di debito, apparterranno prevalentemente ad emittenti dell’area dei paesi OCSE. 
+ 
+Criteri di selezione degli strumenti finanziari:  
+ 
+3 Per mercati regolamentati si intendono quelli iscritti dalla Consob nell’elenco previsto dall’art. 63, comma 2, ovvero nell’apposita Sezione 
+prevista dall’art. 67, comma 1, del D. Lgs. n. 58/98. Oltre a questi sono da considerarsi mercati regolamentati anche quelli indicati nella lista 
+approvata dal consiglio direttivo della assogestioni pubblicata sul sito internet www.assogestioni.it.
+=== pagina 10 ===
+10 
+ 
+La strategia di gestione perseguita sarà volta ad ottenere un rendimento tale da preservare il valore in termini reali dei versamenti, 
+minimizzando al tempo stesso il profilo di rischio. Le scelte dei paesi e delle valute in cui investire si baseranno sull 'analisi dei 
+valori fondamentali macroeconomici, quali tassi di interesse, inflazione, debito pubblico, etc. Le strategie di gestione tend eranno 
+a selezionare opportunamente i comparti con le migliori prospettive di apprezzamento al fine di aumentare il re ndimento del 
+portafoglio. Il portafoglio azionario sarà costruito investendo nei titoli quotati sui principali mercati finanziari, privile giando le 
+caratteristiche societarie quali: solidità patrimoniale e finanziaria (sulla base di valutazioni fondamental i quali il rapporto 
+prezzo/utile, prezzo/capitale netto, i dividendi erogati, etc.), rappresentatività del titolo (in termini di capitalizzazione) e liquidabilità.  
+La natura flessibile del comparto dettata dall’obiettivo di preservare il valore attraverso una politica di investimento dinamica non 
+consente di individuare uno specifico benchmark. Il comparto è soggetto ad un controllo del rischio volto a contenere la volatilità 
+realizzata su base annuale nei limiti del 4%. 
+Aspetti sociali, etici, ambientali nella gestione delle risorse:  
+La selezione degli strumenti finanziari viene effettuata integrando aspetti ESG (Environmental, Social, Governance), cioè di 
+sostenibilità ambientale, sociale e di buon governo societario. Gli aspetti qualificanti dei criteri di integrazione ESG sono esplicitati 
+nella Sezione 6 – Integrazione e Principali effetti negativi per la sostenibilità delle decisioni di investimento. 
+ 
+Benchmark 
+Il comparto non prevede benchmark. 
+ 
+Modalità e stile di gestione 
+La gestione è condotta mediante una efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai costi 
+di negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonché alla liquidità degli strumenti finanziari 
+oggetto della gestione. La rotazione annua degli asset (turnover) avrà l’obiettivo di essere contenuta entro 2 volte il patrimonio. 
+Tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si troverà ad 
+operare. 
+La politica di gestione è flessibile rispetto all’universo investibile, con un obiettivo di mantenere la volatilità del comparto al di sotto 
+del 4% annuo. 
+Al fine di conseguire l’obiettivo di volatilità, il comparto gestirà l’esposizione al rischio variando la quota di strumenti finanziari 
+aventi maggiore volatilità in rapporto agli attivi più conservativi. 
+ 
+Criteri per l’esercizio del diritto di voto 
+Le decisioni relative all’esercizio del diritto di voto sono assunte sulla base dei principi di voto espressi dalla Linea Guida 
+sull'integrazione della sostenibilità negli investimenti e nell'active ownership , che comprendono temi quali: diritti degli azionisti, 
+organi societari, politica di remunerazione, bilancio, disclosure delle informazioni e trasparenza, operazioni azionarie, tem atiche 
+ambientali e sociali, disposizioni speciali per società quotate a rid otta capitalizzazione e non quotate, operazioni con parti 
+correlate, rischi sistemici e di mercato anche in relazione alle situazioni pandemiche.  
+L’approccio seguito prevede l’esercizio dei diritti di voto ogni qualvolta possibile, senza fare discriminazioni in base all’ oggetto 
+dell’attività di voto o alla dimensione della partecipazione nelle società emittenti. Le decisioni di voto sono prese in ba se ad 
+un’analisi interna fondata sui documenti resi pubblici dagli emittenti e sulle ricerche fornite dai proxy advisor. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è stata redatta in conformità ai requisiti 
+introdotti dalla Shareholder Rights Directive II in merito alla politica di impegno degli investitori istituzionali (Art. 3g della Direttiva 
+(EU) 2017/828 che modifica la Direttiva 2007/36/EC) e tiene in considerazione le best practice degli standard internazionali cui il 
+Gruppo Generali aderisce. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è a disposizione del pubblico nel sito 
+web della Compagnia. 
+ 
+3.4 -  POLITICA DI INVESTIMENTO DEL COMPARTO “MULTI ASSET” 
+Tipologia degli strumenti finanziari:  
+I suddetti strumenti finanziari sono negoziati nei mercati ufficiali o regolamentati 4 , riconosciuti, regolarmente funzionanti e vigilati. 
+Il comparto si prefigge di conseguire l’obiettivo investendo prevalentemente in un’allocazione flessibile alle diverse classi di attivi, 
+ivi compresi, a titolo esemplificativo ma non esaustivo, azioni, titoli di Stato, obbligazioni societarie, strumenti de l mercato 
+monetario di tutto il mondo, nonché depositi vincolati. Gli investimenti del comparto possono inoltre comprendere, a titolo 
+esemplificativo ma non esaustivo, titoli correlati alle azioni, strumenti di debito di qualsiasi tipo, strumenti derivati quali, a titolo 
+esemplificativo ma non esaustivo, future su indici o su un singolo titolo, future su dividendi, opzioni su azioni.  
+ 
+4 Per mercati regolamentati si intendono quelli iscritti dalla Consob nell’elenco previsto dall’art. 63, comma 2, ovvero nell’apposita Sezione 
+prevista dall’art. 67, comma 1, del D. Lgs. n. 58/98. Oltre a questi sono da considerarsi mercati regolamentati anche quelli indicati nella lista 
+approvata dal consiglio direttivo della assogestioni pubblicata sul sito internet www.assogestioni.it.
+=== pagina 11 ===
+11 
+ 
+Resta comunque ferma la facoltà di detenere una parte delle disponibilità in liquidità sia in euro sia in altre valute.  
+L’esposizione del comparto agli investimenti azionari non può superare il 60% del patrimonio netto. 
+La gestione, essendo di tipo flessibile, non prevede un benchmark di riferimento. Pertanto, si illustra qui di seguito la ripartizione 
+strategica degli attivi utilizzati nel comparto.  
+Il peso deve intendersi come consistenza percentuale della singola macro classe presente in media durante tutta la vita del fondo: 
+Macro classe Classe Peso 
+Investimenti obbligazionari 
+Titoli governativi euro 22,50% 
+Titoli governativi non euro 15,50% 
+Titoli corporate euro 17,00% 
+Titoli corporate non euro 15,00% 
+Investimenti azionari Azioni 30,00% 
+Possono essere acquistate anche parti di OICR/OICVM, inclusi quelli che rientrano nella normativa PIR, aventi caratteristiche  
+coerenti con il comparto interessato. 
+In particolare, l’acquisto di OICR/OICVM avrà la finalità di migliorare l’efficienza dell’impiego rispetto all’acquisto diretto degli asset 
+sottostanti. A tal fine verranno condotte analisi sull’idoneità dello strumento a replicare l’andamento dei titoli che compon gono 
+l’indice ovvero l‘asset class di riferimento dell’OICR/OICVM, nonché sull’impatto sul rapporto rischio-rendimento del portafoglio. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) possono essere effettuati esclusivamente qualora sia 
+chiaramente esplicitato il livello d'accesso da parte della Società alle informazioni sulle strategie poste in essere dal gestore, sulla 
+struttura dei costi dello strumento e sui periodi di uscita dall'investimento ( lock up period ). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione dell'investimento effettuato e alla predispos izione delle 
+segnalazioni statistiche di vigilanza. 
+L’utilizzo di strumenti finanziari derivati è consentito ai fini di copertura del rischio di fluttuazioni avverse dei prezzi dei titoli in 
+portafoglio oppure per una gestione efficace del portafoglio. Detto utilizzo sarà preceduto da opportune analisi al f ine di valutare 
+l’impatto in termini di rischio-rendimento sulla performance dell’asset class associata al derivato nonché sulla performance globale 
+del portafoglio. 
+ 
+Categorie di emittenti e settori industriali:  
+Saranno considerati sia i titoli obbligazionari governativi sia i titoli obbligazionari di emittenti sovranazionali (ad es. World bank, 
+BEI, etc.), sia le obbligazioni emesse da società industriali e finanziarie (titoli corporate) ed emittenti pubblici. L’espos izione del 
+comparto ai titoli di debito con rating inferiore a ‘investment grade’ non può superare il 50% del patrimonio netto. 
+ 
+Aree geografiche di investimento:  
+I titoli, sia di capitale sia di debito, apparterranno prevalentemente ad emittenti dell’area dei paesi OCSE. 
+ 
+Criteri di selezione degli strumenti finanziari:  
+La strategia di gestione perseguita sarà volta ad accrescere il capitale perseguendo sia politiche di redditività degli inves timenti 
+sia di rivalutazione del capitale minimizzando al tempo stesso il profilo di rischio. Le scelte dei paesi e delle valute in cui investire 
+si baseranno sull'analisi dei valori fondamentali macroeconomici, quali tassi di interesse, inflazione, debito pubblico, etc.  Le 
+strategie di gestione tenderanno a selezionare opportunamente i comparti con le migliori prospettive di apprezza mento al fine di 
+aumentare il rendimento del portafoglio. Il portafoglio azionario sarà costruito investendo nei titoli quotati sui principali  mercati 
+finanziari, privilegiando le caratteristiche societarie quali: solidità patrimoniale e finanziaria (sulla base di valutazioni fondamentali 
+quali il rapporto prezzo/utile, prezzo/capitale netto, i dividendi erogati, etc.), rappresentatività del titolo (in termini d i 
+capitalizzazione) e liquidabilità. La natura flessibile del comparto dettata dall’obiettivo di generare valore attraverso una politica di 
+investimento dinamica non consente di individuare uno specifico benchmark. Il comparto è soggetto ad un controllo del rischio 
+volto a contenere la volatilità realizzata su base annuale nei limiti del 6%. 
+Aspetti sociali, etici, ambientali nella gestione delle risorse:  
+La selezione degli strumenti finanziari viene effettuata integrando aspetti ESG (Environmental, Social, Governance), cioè di 
+sostenibilità ambientale, sociale e di buon governo societario. Gli aspetti qualificanti dei criteri di integrazione ESG sono esplicitati 
+nella Sezione 6 – Integrazione e Principali effetti negativi per la sostenibilità delle decisioni di investimento. 
+ 
+Benchmark 
+Il comparto non prevede benchmark. 
+ 
+Modalità e stile di gestione
+=== pagina 12 ===
+12 
+ 
+La gestione è condotta mediante una efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai costi 
+di negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonché alla liquidità degli strumenti finanziari 
+oggetto della gestione. La rotazione annua degli asset (turnover) avrà l’obiettivo di essere co ntenuta entro 2 volte il patrimonio. 
+Tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si troverà ad 
+operare. 
+La politica di gestione è flessibile rispetto all’universo investibile, con un obiettivo di mantenere la volatilità del comparto al di sotto 
+del 6% annuo. 
+Al fine di conseguire l’obiettivo di volatilità, il comparto gestirà l’esposizione al rischio variando la quota di strumenti finanziari 
+aventi maggiore volatilità in rapporto agli attivi più conservativi. 
+ 
+Criteri per l’esercizio del diritto di voto 
+Le decisioni relative all’esercizio del diritto di voto sono assunte sulla base dei principi di voto espressi dalla  Linea Guida 
+sull'integrazione della sostenibilità negli investimenti e nell'active ownership , che comprendono temi quali: diritti degli azionisti, 
+organi societari, politica di remunerazione, bilancio, disclosure delle informazioni e trasparenza, operazioni azionarie, tem atiche 
+ambientali e sociali, disposizioni speciali per società quotate a rid otta capitalizzazione e non quotate, operazioni con parti 
+correlate, rischi sistemici e di mercato anche in relazione alle situazioni pandemiche.  
+L’approccio seguito prevede l’esercizio dei diritti di voto ogni qualvolta possibile, senza fare discriminazioni in base all’oggetto 
+dell’attività di voto o alla dimensione della partecipazione nelle società emittenti. Le decisioni di voto sono prese in base  ad 
+un’analisi interna fondata sui documenti resi pubblici dagli emittenti e sulle ricerche fornite dai proxy advisor. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è stata redatta in conformità ai requisiti 
+introdotti dalla Shareholder Rights Directive II in merito alla politica di impegno degli investitori istituzionali (Art. 3g della Direttiva 
+(EU) 2017/828 che modifica la Direttiva 2007/36/EC) e tiene in considerazione le best practice degli standard internazionali cui il 
+Gruppo Generali aderisce. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è a disposizione del pubblico nel sito 
+web della Compagnia. 
+ 
+ 
+3. 5 -  POLITICA DI INVESTIMENTO DEL COMPARTO “AZIONARIO GLOBALE” 
+Tipologia degli strumenti finanziari:  
+I suddetti strumenti finanziari sono negoziati nei mercati ufficiali o regolamentati 5, riconosciuti, regolarmente funzionanti e vigilati. 
+Il patrimonio del comparto è investito in via esclusiva in titoli di debito e liquidità.  
+La durata finanziaria (duration) del comparto verrà determinata in relazione allo scenario macro-finanziario prospettico, avendo a 
+riferimento la durata finanziaria del benchmark; tali scelte di duration rispetto al benchmark rifletteranno le aspettative d i 
+andamento dei tassi di interesse.  
+La ripartizione strategica fra le varie classi di strumenti finanziari (titoli di debito governativi e corporate) sarà implem entata con 
+riferimento alla composizione del benchmark. I margini di scostamento delle percentuali delle singole classi di attività in portafoglio 
+rispetto a quelle presenti nel benchmark dovranno essere contenuti in misura tale da mantenere la volatilità della differenza fra il 
+rendimento del patrimonio e quello del benchmark entro il limite indicato.  
+Possono essere acquistate anche parti di OICR/OICVM, inclusi quelli che rientrano nella normativa PIR, aventi caratteristiche  
+coerenti con il comparto interessato. 
+In particolare, l’acquisto di OICR/OICVM avrà la finalità di migliorare l’efficienza dell’impiego rispetto all’acquisto diretto degli asset 
+sottostanti. A tal fine verranno condotte analisi sull’idoneità dello strumento a replicare l’andamento dei titoli che compon gono 
+l’indice ovvero l‘asset class di riferimento dell’OICR/OICVM, nonché sull’impatto sul rapporto rischio-rendimento del portafoglio. 
+Gli investimenti in OICR/OICVM e in strumenti alternativi (ove ammissibili) possono essere effettuati esclusivamente qualora sia 
+chiaramente esplicitato il livello d'accesso da parte della Società alle informazioni sulle strategie poste in essere dal gestore, sulla 
+struttura dei costi dello strumento e sui periodi di uscita dall'investimento ( lock up period ). La forma pensionistica deve poter 
+disporre dei flussi informativi sufficienti ad un'adeguata valutazione dell'investimento effettuato e alla predispos izione delle 
+segnalazioni statistiche di vigilanza. 
+L’utilizzo di strumenti finanziari derivati è consentito ai fini di copertura del rischio di fluttuazioni avverse dei prezzi dei titoli in 
+portafoglio oppure per una gestione efficace del portafoglio. Detto utilizzo sarà preceduto da opportune analisi al f ine di valutare 
+l’impatto in termini di rischio-rendimento sulla performance dell’asset class associata al derivato nonché sulla performance globale 
+del portafoglio. 
+ 
+Categorie di emittenti e settori industriali:  
+Saranno considerati esclusivamente titoli azionari di qualsiasi settore industriale. 
+Aree geografiche di investimento:  
+ 
+5 Per mercati regolamentati si intendono quelli iscritti dalla Consob nell’elenco previsto dall’art. 63, comma 2, ovvero nell’apposita Sezione 
+prevista dall’art. 67, comma 1, del D. Lgs. n. 58/98. Oltre a questi sono da considerarsi mercati regolamentati anche quelli indicati nella lista 
+approvata dal consiglio direttivo della assogestioni pubblicata sul sito internet www.assogestioni.it.
+=== pagina 13 ===
+13 
+ 
+Il comparto investirà in prevalenza nei paesi inclusi nel benchmark ed in maniera residuale negli altri paesi. 
+ 
+Criteri di selezione degli strumenti finanziari:  
+La strategia di gestione perseguita sarà volta, attraverso una gestione attiva del portafoglio, ad ottenere un rendimento superiore 
+rispetto al benchmark di riferimento minimizzando al tempo stesso il profilo di rischio. Le scelte dei paesi e delle valute in cui 
+investire si baseranno sull'analisi dei valori fondamentali macroeconomici, quali tassi di interesse, inflazione, debito pubblico, etc. 
+Le strategie di gestione tenderanno a selezionare opportunamente i settori con le migliori prospettive di apprezzamento al fine di 
+aumentare il rendimento del portafoglio. Il portafoglio azionario sarà costruito investendo nei titoli quotati sui principali  mercati 
+finanziari, privilegiando le caratteristiche societarie quali: solidità patrimoniale e finanziaria (sulla base di valutazioni fondamentali 
+quali il rapporto prezzo/utile, prezzo/capitale netto, i dividendi erogati, etc.), rappresentatività del titolo (in termini d i 
+capitalizzazione) e liquidabilità. 
+Aspetti sociali, etici, ambientali nella gestione delle risorse:  
+La selezione degli strumenti finanziari viene effettuata integrando aspetti ESG (Environmental, Social, Governance), cioè di 
+sostenibilità ambientale, sociale e di buon governo societario. Gli aspetti qualificanti dei criteri di integrazione ESG sono esplicitati 
+nella Sezione 6 – Integrazione e Principali effetti negativi per la sostenibilità delle decisioni di investimento. 
+ 
+Benchmark 
+Gli indici che compongono il Benchmark sono: 
+ 
+• 50% MSCI Europe Total Return Index – hedged (MACXUIGA Index); 
+• 25% MSCI US Total Return Index – hedged (M0USHEUR Index); 
+• 25% MSCI Pacific Total Return Index – hedged (HE125097 Index). 
+ 
+Modalità e stile di gestione  
+La gestione è condotta mediante una efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai costi 
+di negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonché alla liquidità degli strumenti finanziari 
+oggetto della gestione. La rotazione annua degli asset (turnover) avrà l’obiettivo di essere contenuta entro 2 volte il patrimonio. 
+Tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si troverà ad 
+operare.  
+Le strategie di gestione attiva non dovranno modificare in maniera sostanziale il profilo di rischio della gestione rispetto a quello 
+del benchmark di riferimento. La volatilità della differenza fra il rendimento del patrimonio e quello del benchmark, pur rimanendo 
+suscettibile di variazioni in dipendenza di particolari fasi di mercato, tenderà ad essere contenuta entro un livello indicat ivo del 
+5% annuo.  
+ 
+Criteri per l’esercizio del diritto di voto 
+Le decisioni relative all’esercizio del diritto di voto sono assunte sulla base dei principi di voto espressi dalla  Linea Guida 
+sull'integrazione della sostenibilità negli investimenti e nell'active ownership , che comprendono temi quali: diritti degli azionisti, 
+organi societari, politica di remunerazione, bilancio, disclosure delle informazioni e trasparenza, operazioni azionarie, tem atiche 
+ambientali e sociali, disposizioni speciali per società quotate a rid otta capitalizzazione e non quotate, operazioni con parti 
+correlate, rischi sistemici e di mercato anche in relazione alle situazioni pandemiche.  
+L’approccio seguito prevede l’esercizio dei diritti di voto ogni qualvolta possibile, senza fare discriminazioni in base all’ oggetto 
+dell’attività di voto o alla dimensione della partecipazione nelle società emittenti. Le decisioni di voto sono prese in ba se ad 
+un’analisi interna fondata sui documenti resi pubblici dagli emittenti e sulle ricerche fornite dai proxy advisor. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è stata redatta in conformità ai requisiti 
+introdotti dalla Shareholder Rights Directive II in merito alla politica di impegno degli investitori istituzionali (Art. 3g della Direttiva 
+(EU) 2017/828 che modifica la Direttiva 2007/36/EC) e tiene in considerazione le best practice degli standard internazionali cui il 
+Gruppo Generali aderisce. 
+La Linea Guida sull'integrazione della sostenibilità negli investimenti e nell'active ownership è a disposizione del pubblico nel sito 
+web della Compagnia. 
+ 
+ 
+3.6 - PROGRAMMI “LIFE-CYCLE PRUDENTE” E “LIFE-CYCLE DINAMICO” 
+I Programmi “Life-cycle PRUDENTE” e “Life-cycle DINAMICO” prevedono la allocazione automatica delle contribuzioni periodiche 
+fra quattro comparti: Azionario Globale, Multi Asset, Real Return e Obbligazionario (fase 1).  
+ 
+Ogni contributo viene ripartito percentualmente fra quei comparti la cui combinazione è finalizzata ad ottimizzarne la redditività in 
+relazione all’orizzonte temporale dell’investimento.
+=== pagina 14 ===
+14 
+ 
+ 
+La finalità è quella di costruire un percorso che riduca il livello di rischiosità all’avvicinarsi della scadenza stabilita (pensionamento) 
+in accordo con la propensione al rischio e l’orizzonte temporale propri dell’aderente. 
+ 
+A partire dal 12° anno rimanente al pensionamento (fissato, convenzionalmente, all’età di 67 anni), vengono riallocate verso il 
+comparto “Obbligazionario Breve Termine” sia le contribuzioni future sia l’intera posizione accumulata fino a quel momento in  
+ragione di un dodicesimo per ogni anno residuo alla scadenza stabilita (fase 2), a scapito degli altri quattro comparti in proporzione 
+al loro peso nella posizione dell’aderente. 
+ 
+Il Programma  “Life-cycle Prudente  si differenzia dal Programma “ Life-cycle Dinamico ” per un minore  investimento azionario 
+durante tutto il percorso. 
+ 
+A titolo esemplificativo: 
+- per un aderente che opti per il programma “PRUDENTE” a partire dal 45° anno dall’età pensionabile, la percentuale di titoli 
+azionari investiti su tutti i comparti durante la precedente fase di accumulo, risulterà pari a circa il 24% del totale del portafoglio 
+alla soglia del 12° anno dalla pensione (in ipotesi di costanza di contributo versato e nullità dei rendimenti nel corso della fase 
+di accumulo); 
+- per un aderente che opti per il programma “DINAMICO” a partire dal 45° anno dall’età pensionabile, la percentuale di titoli 
+azionari investiti si tutti i comparti durante la precedente fase di accumulo, risulterà pari a circa il 46% del totale del portafoglio 
+alla soglia del 12° anno dalla pensio ne (in ipotesi di costanza di contributo versato e di nullità dei rendimenti nel corso della 
+fase di accumulo). 
+ 
+Poiché i singoli contributi versati dall’aderente vengono ripartiti fra i diversi comparti del Fondo Pensione Aperto in ragione di una 
+rischiosità decrescente all’avvicinarsi della pensione, non è possibile calcolare ex -ante gli indicatori di rendimento, volatil ità e 
+Shortfall poiché diversi per ogni singolo aderente e variabili in funzione del periodo residuo alla scadenza della fase di accumulo.
+=== pagina 15 ===
+15 
+ 
+4.  INFORMATIVA SULLA SOSTENIBILITA’ 
+ 
+4. 1 - INFORMAZIONI SULLE CARATTERISTICHE AMBIENTALI O SOCIALI / INVESTIMENTI SOSTENIBILI 
+ 
+Il Gruppo Generali ha preso parte a diverse iniziative volte a promuovere un’economia globale sostenibile. In particolare: 
+• 2007 - Global Compact delle Nazioni Unite 
+• 2011 - Principi delle Nazioni Unite per l'Investimento Responsabile (PRI) 
+• 2018 - Adozione dell Strategia di Gruppo per il cambiamento climatico, che definisce le azioni e gli obiettivi volti ad 
+allineare gli investimenti agli impegni di lungo termine dell'Accordo di Parigi 
+• 2020 - Net Zero Asset Owner Alliance 
+ 
+Inoltre, ogni tre anni il Gruppo Generali effettua il cd “sustainability materiality assessment” su un insieme di aspetti ESG rilevanti 
+rispetto alle attività principali esercitate, alla strategia aziendale e al contesto economico, ambientale, sociale.  
+ 
+4. 2 – INTEGRAZIONE DEI RISCHI DI SOSTENIBILITA’ 
+ 
+Per rischio di sostenibilità si intende un evento o una condizione di tipo ambientale, sociale o di governance che, se si 
+verificasse, potrebbe provocare un significativo impatto negativo effettivo o potenziale sul valore dell’investimento. 
+L'identificazione dei rischi di sostenibilità che possono avere un impatto significativo sul valore dei nostri investimenti è un dovere 
+nei confronti degli stakeholder e degli investitori del Gruppo. 
+Il Gruppo Generali ha formalizzato il proprio impegno per l'investimento responsabile nella “Investment Governance Group Policy” 
+e nella "Integration of Sustainability into Investment and Active Ownership Group Guideline" le quali includono anche la gestione 
+dei rischi di sostenibilità. 
+Il Gruppo ha definito un quadro di investimento sostenibile e adotta specifiche linee guida al fine di:  
+• tenere conto del rischio di sostenibilità derivante dalla strategia e dalle decisioni di investimento;  
+• gestire il potenziale impatto a lungo termine sui fattori di sostenibilità derivanti dalla propria strategia di investimento. 
+Il framework per gli investimenti sostenibili si compone di quattro pilastri volti a: 
+• escludere dagli investimenti emittenti, settori o attività per problematiche legate a fattori ambientali, sociali o di 
+governance non allineati a standard minimi di best practice di business o basati su norme internazionali che impattano 
+sulla loro performance finanziaria di lungo termine e/o che espongono il Gruppo a  maggiori rischi di sostenibilità e 
+reputazionali; 
+• integrare nell'analisi e nelle decisioni di investimento, tra le diverse asset class, la valutazione degli impatti di lungo 
+periodo sui fattori di sostenibilità; 
+• sviluppare programmi di investimenti tematici sostenibili che promuovano specifici obiettivi ambientali o sociali; 
+• svolgere attività di gestione degli investimenti sulle società partecipate (attraverso il voto alle assemblee generali annuali 
+e/o l’engagement) al fine di promuovere buone pratiche nel considerare i fattori di sostenibilità e il rischio nel loro piano  
+a lungo termine e nelle loro pratiche commerciali. 
+-  
+4. 3 – PRINCIPALI EFFETTI NEGATIVI PER LA SOSTENIBILITÀ DELLE DECISIONI DI INVESTIMENTO 
+ 
+Il Gruppo Generali prende in considerazione i principali effetti negativi sull’ambiente e sulla società all’interno delle proprie politiche 
+di investimento;  
+ 
+Come previsto dalle linee guida, per la parte di investimenti diretti in emittenti corporate e governativi, i principali effe tti negativi 
+tenuti in considerazione rispetto ai fattori di sostenibilità sono i seguenti:  
+ 
+• violazione dei principi del UN Global Compact;  
+ 
+• esposizione ad armi controverse (mine antiuomo, munizioni a grappolo, armi chimiche e armi biologiche);  
+ 
+• esposizione a imprese attive nel settore dei combustibili fossili.
+=== pagina 16 ===
+16 
+ 
+Tuttavia, attualmente, in relazione ai Comparti di  GENERALI GLOBAL , non vengono presi in considerazione in maniera 
+strutturale i principali effetti negativi sui fattori di sostenibilità. Per maggiori dettagli si rimanda a quanto riportato nell’informativa 
+di sostenibilità presente al seguente link: https://www.generali.it/comunicazioni -e-avvisi-legali/informativa-in-materia-di-finanza-
+etica-e-sostenibile. 
+Tuttavia, in relazione a questo Fondo, non sono presi in considerazione in maniera strutturale i principali effetti negativi sui fattori 
+di sostenibilità.
+=== pagina 17 ===
+17 
+ 
+5.  MODIFICHE APPORTATE NELL’ULTIMO TRIENNIO 
+ 
+ 
+Data Descrizione sintetica delle modifiche apportate 
+21.03.2022 • Modifica dei parametri di gestione dei comparti e del tasso di inflazione atteso, in recepimento dello 
+scenario prospettico di redditività e rischio 
+25.03.2024 • Modifica paragrafo 6, Informativa sulla Sostenibilità 
+21.03.2025 • Si recepiscono nel DPI le modifiche/aggiornamenti dei parametri di rendimento, rischio (volatilità), 
+probabilità di shortfall ed inflazione dei portafogli collegati. 
+• Si recepiscono nel DPI le modifiche/aggiornamenti dei pesi della singola classe di investimento per 
+i comparti non a benchmark Real Return e Multi Asset. 
+• Rimozione dei paragrafi 4 “Compiti e responsabilità dei soggetti coinvolti nel processo” e 5 “Sistema 
+di controllo e valutazione dei risultati conseguiti. Generali Italia, come consentito dalla Deliberazione 
+COVIP Istruzioni di vigilanza ha riportato le informazioni sul sistema di governo societario afferente 
+alla gestione di “Generali Global - Fondo Pensione Aperto a Contribuzione definita” in un’apposita 
+sezione (paragrafo B.8.2) della “Relazione sulla solvibilità e condizione finanziaria di Generali Italia 
+(SFCR)”, redatta annualmente in conformità alla normativa di settore.

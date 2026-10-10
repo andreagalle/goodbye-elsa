@@ -22,10 +22,11 @@ Per un giro veloce c'è anche la [presentazione interattiva](../presentazione/):
 6. [Regole e longevità](#regole-e-longevità)
 7. [Alla pensione, fondo per fondo](#alla-pensione-fondo-per-fondo): quanto paga la rendita, opzioni e costi delle operazioni
 8. [Qualità dei dati](#qualità-dei-dati)
-9. [Come funziona un fondo pensione](#come-funziona-un-fondo-pensione): le regole spiegate, dal TFR alla pensione e al decesso
-10. [Glossario](#glossario): le parole tecniche, anche nella dashboard e nei suggerimenti al passaggio del mouse
-11. [Come usare i dati per scegliere](#come-usare-i-dati-per-scegliere)
-12. [Per chi mantiene il progetto](#per-chi-mantiene-il-progetto)
+9. [Documenti ufficiali dei fondi](#documenti-ufficiali-dei-fondi): le copie di Nota informativa, Regolamento, Documento sulle rendite e degli altri documenti
+10. [Come funziona un fondo pensione](#come-funziona-un-fondo-pensione): le regole spiegate, dal TFR alla pensione e al decesso
+11. [Glossario](#glossario): le parole tecniche, anche nella dashboard e nei suggerimenti al passaggio del mouse
+12. [Come usare i dati per scegliere](#come-usare-i-dati-per-scegliere)
+13. [Per chi mantiene il progetto](#per-chi-mantiene-il-progetto)
 
 ## Panoramica
 
@@ -106,6 +107,8 @@ Clicca sul nome di un fondo (nella tabella, nel grafico o nelle classifiche) per
   riscatto, trasferimento e RITA, le condizioni della rendita a durata definita e dei prelievi, con i link ai documenti
   ufficiali (vedi [Alla pensione, fondo per fondo](#alla-pensione-fondo-per-fondo)).
 - **Alla pensione e in caso di decesso**: l'elenco di cosa verificare comunque nei documenti del fondo.
+- **Documenti ufficiali**: le copie dei documenti del fondo da scaricare, con il link all'originale (vedi
+  [Documenti ufficiali dei fondi](#documenti-ufficiali-dei-fondi)).
 - L'indirizzo della pagina cambia (es. `…/#fondo=aureo`): puoi copiarlo per condividere direttamente quel fondo.
 - Per chiudere: tasto **Esc**, il pulsante ✕ oppure un clic fuori dalla finestra.
 
@@ -202,14 +205,19 @@ Come leggere i numeri, e perché a volte mancano:
   più alte. Per questo una rata alta non è sempre sinonimo di fondo "migliore": conta anche la rivalutazione.
 - **Fondi senza rendita a 67 anni**: alcuni documenti non pubblicano i coefficienti (rinviano alla convenzione con la
   compagnia), altri ne pubblicano solo un esempio con rate mensili, altri ancora usano coefficienti diversi per uomini e
-  donne (UniCredit): sono riportati nelle note del fondo, ma non messi in classifica.
+  donne (UniCredit, Azimut Previdenza): sono riportati nelle note del fondo, ma non messi in classifica.
+- **Coefficienti uguali tra fondi diversi**: capita quando la rendita la paga la stessa compagnia con le stesse basi (ad
+  esempio i fondi del gruppo Unipol e Arti & Mestieri, oppure Core Pension e Secondapensione).
 - **Fondi assenti dalla tabella**: per ora non abbiamo trovato i documenti pubblici; l'elenco è in fondo alla sezione.
 
 ## Qualità dei dati
 
 ![La sezione Qualità dei dati: copertura e tabella delle anomalie](img/qualita.png)
 
-- **Copertura**: quanti fondi hanno dati di dettaglio.
+- **Copertura**: quanti fondi hanno dati di dettaglio e quanti documenti ufficiali sono stati scaricati (vedi
+  [Documenti ufficiali dei fondi](#documenti-ufficiali-dei-fondi)).
+- **Documenti da recuperare**: i fondi con documenti ufficiali che non è stato possibile scaricare in automatico, con
+  quanti ne mancano e perché. Clicca sul fondo per vedere l'elenco nel dettaglio.
 - **Anomalie aperte**: comparti con dati sospetti o non confrontabili. Le anomalie rilevate in automatico sono:
 
   | Anomalia | Cosa significa |
@@ -226,6 +234,37 @@ Come leggere i numeri, e perché a volte mancano:
 - **Fonti** usate.
 
 I dati **non vengono corretti in silenzio**: restano come nella fonte, con la segnalazione, finché qualcuno non li verifica sulla Scheda costi ufficiale.
+
+## Documenti ufficiali dei fondi
+
+Per ogni fondo il sito conserva una copia dei documenti che il gestore pubblica nella pagina informativa: la **Nota
+informativa** (intera e nelle sue schede, compresa la *Scheda "I costi"*), il **Supplemento** sulle nuove prestazioni,
+il **Regolamento**, il **Documento sulle rendite**, i documenti sulle **anticipazioni**, sul **regime fiscale**, sulla
+**politica di investimento** e sul **sistema di governo**, l'ultimo **rendiconto**, il **modulo di adesione** e le
+informative sulla sostenibilità. Li trovi in fondo al dettaglio di ogni fondo, e tutti insieme nell'[elenco su
+GitHub](https://github.com/andreagalle/goodbye-elsa/tree/master/docs/documenti).
+
+![I documenti ufficiali in fondo al dettaglio di Generali Global](img/documenti.png)
+
+- Ogni documento ha il **link alla copia** (PDF), il numero di pagine, il peso e il link **"originale"** sul sito del
+  gestore. **Fa fede l'originale**: i gestori aggiornano i documenti (di solito a fine marzo e a fine luglio) e la
+  copia porta la data in cui è stata scaricata.
+- **"Scaricati X dei Y citati"**: Y sono i documenti collegati dalla pagina informativa ufficiale del fondo (o dalle
+  pagine "Documentazione" a cui rimanda). Se la pagina non elenca documenti, le copie vengono da altre pagine dello
+  stesso gestore e sono contate a parte ("trovati in altre pagine del gestore").
+- **Cosa non c'è, per scelta**: la modulistica per le operazioni (richieste di riscatto, anticipazione, trasferimento…),
+  le informative privacy, il materiale promozionale, le politiche del gruppo non specifiche del fondo e le versioni
+  precedenti dei documenti (dei rendiconti solo l'ultimo).
+- **Perché alcuni mancano**: qualche sito rifiuta i download automatici (Allianz Previdenza, Insieme, UniCredit), apre
+  i documenti solo con un comando JavaScript (Teseo, Arca Previdenza), non li pubblica (Fondo Pensione Fideuram), non
+  risponde (Il Melograno) o ha link che non restituiscono il PDF (parte di Eurorisparmio). Il motivo è scritto accanto a
+  ogni documento non scaricato, che resta comunque raggiungibile con il link all'originale. L'elenco aggiornato è in
+  [Qualità dei dati](#qualità-dei-dati), tabella *Documenti da recuperare*: chi ha i PDF può aggiungerli a mano (vedi
+  [Aggiungere a mano i documenti che non si scaricano](#aggiungere-a-mano-i-documenti-che-non-si-scaricano)).
+- Accanto a ogni PDF c'è il **testo estratto** (`.txt`, con `=== pagina N ===` all'inizio di ogni pagina): serve a
+  cercare nei documenti e a citarli con il numero di pagina. Le tabelle possono risultare scomposte: per i numeri fa fede
+  il PDF.
+- La sezione [Qualità dei dati](#qualità-dei-dati) riporta quanti documenti ci sono in tutto.
 
 ## Come funziona un fondo pensione
 
@@ -546,6 +585,46 @@ in `Sheet1` (`=Sheet1!$A$n`). Si compilano dal Documento sulle rendite, dalla Sc
 informativa (con l'hyperlink al documento e la data di consultazione); le colonne *N. varianti* e *Tasso di
 conversione* sono formule. La rendita a 67 anni si riporta solo se è confrontabile (rata annuale, coefficienti unisex,
 nato intorno al 1959): altrimenti resta vuota e il motivo va nelle note. L'export scrive `prestazioni.json`.
+
+### Aggiornare i documenti ufficiali dei fondi
+
+Il registro è `data/documenti.csv`: una riga per documento, con fondo, tipo, titolo come compare sul sito del gestore,
+nome del file, link di download, pagina che lo cita (vuota = la pagina informativa del fondo), *citato nella pagina
+ufficiale* (Sì/No) e, se il documento non è scaricato, il motivo nelle note. Una riga di tipo `nota-fondo` contiene una
+nota sul fondo intero (es. "sito non raggiungibile").
+
+```bash
+python scripts/documenti.py scarica            # scarica i PDF del registro che mancano ed estrae il testo
+python scripts/documenti.py scarica --aggiorna # riscarica tutto (nuove edizioni)
+python scripts/documenti.py riprova            # riprova i documenti non scaricati e aggiorna il registro
+python scripts/documenti.py indice             # rigenera data/documenti.json e docs/documenti/README.md
+```
+
+- `riprova` è utile per i siti che bloccano i download automatici o limitano le richieste ravvicinate: lancialo dal tuo
+  computer (un'altra rete) o con `--browser` (Chromium), con `--pausa 20` se il sito si blocca dopo poche richieste.
+- Per aggiungere un documento: aggiungi la riga al registro con un nome di file nuovo (minuscole e trattini, `.pdf`), poi
+  `scarica` e `indice`. I test (`tests/test_documenti.py`) controllano che registro, PDF, testi e indice siano coerenti.
+- I PDF pesano oltre 400 MB: non finiscono nello zip del sito allegato alle release (c'è `documenti.json`, con gli
+  SHA-256), ma restano nel repository e sul sito.
+
+#### Aggiungere a mano i documenti che non si scaricano
+
+Per i siti che bloccano gli script o aprono i documenti solo con JavaScript (la tabella *Documenti da recuperare* in
+Qualità dei dati dice quali), scarica i PDF dal browser e mettili nella cartella `documenti-da-smistare/` del repository,
+anche con il nome che hanno. Se vuoi essere sicuro del fondo, mettili in una sottocartella con il suo id (es.
+`documenti-da-smistare/teseo/`). Poi:
+
+```bash
+python scripts/documenti.py smista            # anteprima: per ogni PDF, fondo e tipo riconosciuti e dove andrebbe
+python scripts/documenti.py smista --applica  # lo sposta in docs/documenti/<fondo>/, estrae il testo, aggiorna il registro
+python scripts/documenti.py indice
+```
+
+Lo smistamento riconosce il fondo dal nome del file e dalle prime pagine e il tipo dal titolo, e abbina il PDF al
+documento mancante più simile del registro, che risulterà "copia fornita a mano" con la data. Se il fondo non è chiaro
+(documenti comuni a più fondi dello stesso gestore, come il regime fiscale di Intesa Sanpaolo), il PDF resta nella
+cartella e va messo nella sottocartella del fondo. I file della cartella non si committano per errore: sono ignorati
+da git.
 
 ### Provare il sito prima di pubblicarlo
 

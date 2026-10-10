@@ -2,3 +2,6 @@
 -r requirements.txt
 playwright==1.63.0
 pillow==12.3.0
+# testo dei documenti ufficiali dei fondi (scripts/documenti.py scarica); cryptography per i PDF cifrati
+pypdf==6.19.0
+cryptography==50.0.1

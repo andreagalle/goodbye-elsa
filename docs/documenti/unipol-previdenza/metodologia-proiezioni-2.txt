@@ -1,0 +1,24 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Metodologia delle proiezioni – Limitazioni delle metodologie e dei dati
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/11d47148-f625-48ac-ad4d-f3b5f60bb226
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/informativa-sulla-sostenibilita
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: eae6f6ec02c3c736497944f9068675c1d6602a93709ff229e8311ad787efd163
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Mod. IS9_LMFPA – Ed. 01/2026        Pagina 1 di 1 
+ 
+ 
+FONDO PENSIONE APERTO – COMPARTO BILANCIATO ETICO 
+INFORMAZIONI SUI PRODOTTI CHE PROMUOVONO DELLE CARATTERISTICHE 
+AMBIENTALI E SOCIALI AI SENSI DELL’ARTICOLO 10, PARAGRAFO 1, DEL 
+REGOLAMENTO (UE) 2019/2088, E DEGLI ARTICOLI DA 25 A 36 DEL 
+REGOLAMENTO DELEGATO (UE) 2022/1288 
+LIMITAZIONI DELLE METODOLOGIE E DEI DATI 
+Le limitazioni delle metodologie e dei dati ESG sono rappresentate, in particolare, 
+dal grado di copertura dei dati forniti da info provider specializzati.  Unipol adotta 
+procedure volte a mitigare gli effetti derivanti da eventuali indisponibilità o 
+incompletezze dei dati al fine di non pregiudicare la promozione delle 
+caratteristiche ambientali e sociali.

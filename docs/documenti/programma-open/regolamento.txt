@@ -1,0 +1,2518 @@
+# Fondo: PROGRAMMA OPEN FONDO PENSIONE APERTO (programma-open)
+# Documento: Regolamento – Programma Open – Regolamento
+# Fonte: https://cdn.groupama.it/app/uploads/2026/07/Regolamento-Programma-Open_072026.pdf
+# Citato in: https://www.groupama.it/previdenza-integrativa/programma-open/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 4b1e84598facb2d537ca5d20aa1c38bb171db129293b5bd2244dad1852d2726e
+# Pagine: 47
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+PROGRAMMA OPEN 
+FONDO PENSIONE APERTO 
+Fondo pensione aperto– fondo pensione 
+(FPA) 
+(art. 13 del decreto legislativo 5 dicembre 2005, n. 252) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REGOLAMENTO
+=== pagina 2 ===
+Pagina 1 di 46 
+ 
+ 
+Indice 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+Art. 1. Denominazione 
+Art. 2 - Istituzione del Fondo ed esercizio dell'attività, sede e recapiti 
+Art. 3. Scopo 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITA’ DI INVESTIMENTO 
+Art. 4. Regime del fondo  
+Art. 5. Destinatari e tipologie di adesione 
+Art. 6. Scelte di investimento 
+Art. 7. Gestione degli investimenti 
+Art. 8. Spese 
+ 
+PARTE III – CONTRIBUZIONI E PRESTAZIONI 
+Art. 9. Contribuzione 
+Art. 10. Determinazione della posizione individuale 
+Art. 11. Prestazioni pensionistiche e RITA 
+Art. 12. Erogazione delle prestazioni pensionistiche 
+Art. 13. Trasferimento e riscatto della posizione individuale 
+Art. 14. Anticipazioni 
+Art. 14-bis Prestazioni assicurative accessorie 
+ 
+PARTE IV - PROFILI ORGANIZZATIVI 
+Art. 15. Separatezza patrimoniale, amministrativa e contabile 
+Art. 16. Sistema di governo 
+Art. 17. Depositario 
+Art. 18. Responsabile 
+Art. 19. Conflitti di interesse 
+Art. 20. Scritture contabili 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+Art. 21. Modalità di adesione e clausole risolutive espresse 
+Art. 22. Trasparenza nei confronti degli aderenti e dei beneficiari 
+Art. 23. Comunicazioni e reclami 
+ 
+PARTE VI – NORME FINALI 
+Art.24. Modifiche al Regolamento 
+Art.25. Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche delle 
+caratteristiche del Fondo 
+Art.26. Cessione del Fondo 
+Art.27. Operazioni di fusione 
+Art.28. Rinvio 
+ 
+Allegati: 
+Allegato n. 1. Disposizioni in materia di Responsabile 
+Allegato n. 2. Condizioni e modalità di erogazione delle rendite 
+Allegato n. 3. Condizioni delle prestazioni assicurative accessorie 
+ 
+Appendice al Regolamento
+=== pagina 3 ===
+Pagina 2 di 46 
+ 
+ 
+PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+Art. 1 - Denominazione 
+1. "Programma Open – Fondo Pensione Aperto", (di seguito definito "Fondo") è un fondo pensione aperto istituito 
+ai sensi dell'Art. 12 del decreto legislativo 5 dicembre 2005, n. 252 e successive modificazioni e integrazioni (di 
+seguito "Decreto"). 
+ 
+Art. 2 - Istituzione del Fondo ed esercizio dell'attività, sede e recapiti 
+1. Il Fondo è stato istituito da Groupama Vita S.p.A., giusta autorizzazione rilasciata dalla COVIP con 
+provvedimento del 26 maggio 1999; con il medesimo provvedimento la COVIP ha approvato il Regolamento del 
+Fondo. 
+ 
+2. L’impresa di assicurazione esercita l’attività di gestione del Fondo con effetto dalla medesima data. 
+ 
+3. Il Fondo è iscritto al n. 78 dell'Albo tenuto dalla COVIP. 
+ 
+4.L'attività relativa al Fondo è svolta in Roma, presso la sede dell’impresa di assicurazione. 
+ 
+5.L’indirizzo di posta elettronica certificata (PEC) dell’impresa di assicurazione è  
+previdenza.groupama@legalmail.it 
+ 
+Art. 3 - Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all'atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta dei contributi, 
+la gestione delle risorse nell'esclusivo interesse degli aderenti, e I'erogazione delle prestazioni secondo quanto 
+disposto dalla normativa tempo per tempo vigente. 
+ 
+ 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ DI 
+INVESTIMENTO 
+Art. 4 - Regime del fondo 
+1. Il Fondo è in regime di contribuzione definita. L'entità delle prestazioni pensionistiche del Fondo è determinata 
+in funzione della contribuzione effettuata e in base al principio della capitalizzazione. 
+ 
+Art. 5 - Destinatari e tipologie di adesione 
+1. L'adesione al Fondo è consentita in forma individuale in modalità esplicita.  
+ 
+2. È altresì consentita l’adesione su base collettiva, ai soggetti destinatari delle forme pensionistiche complementari 
+individuati all'art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, gli accordi o i 
+regolamenti aziendali che dispongono I ‘adesione al Fondo. 
+ 
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza. 
+ 
+4. Tra i destinatari sono ricompresi gli aderenti taciti (i lavoratori dipendenti del settore privato assunti 
+antecedentemente al 1° luglio 2026, che non hanno espresso alcuna volontà di adesione, nei tempi e nei modi 
+fissati dal decreto n. 252/2005 nella versione prima della riforma di cui alla legge n. 199/2025, circa il conferimento 
+del TFR maturando). 
+ 
+5. La partecipazione in modo individuale è consentita agli aderenti su base collettiva che perdono i requisiti di
+=== pagina 4 ===
+Pagina 3 di 46 
+ 
+ 
+partecipazione. 
+ 
+Art. 6 - Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio e rendimento, in modo tale da 
+assicurare agli aderenti una adeguata possibilità di scelta: 
+•  Comparto “Nuovo Obbligazionario Etico” - con garanzia del cumulo dei contributi netti versati. In questo comparto 
+è investito il TFR degli aderenti taciti che risultano iscritti al fondo; 
+•  Comparto “Bilanciato Etico” - senza garanzia di risultato; 
+•  Comparto “Prevalentemente Azionario Etico” - senza garanzia di risultato. 
+ 
+2. L'aderente, all'atto dell'adesione, sceglie uno o più comparti in cui far confluire i versamenti contributivi, con 
+facoltà di modificare nel tempo tale destinazione. L'aderente può inoltre riallocare la propria posizione individuale 
+tra i diversi comparti, nel rispetto del periodo minimo di un anno dall'iscrizione ovvero dall'ultima riallocazione. 
+In questo caso i versamenti contributivi successivi sono suddivisi sulla base delle nuove percentuali fissate all'atto 
+della riallocazione salvo diversa disposizione dell'aderente. Il limite del periodo di permanenza minimo non opera 
+con riguardo al alla prima riallocazione successiva all’adesione tacita. 
+ 
+Art. 7 - Gestione degli investimenti 
+1. L’impresa di assicurazione effettua l'investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni 
+stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo a riferimento l'esclusivo 
+interesse degli aderenti. 
+ 
+2. Ferma restando la responsabilità dell’impresa di assicurazione, essa può affidare a soggetti di cui all'art.6, 
+comma 1, lettere a), b), c), c-bis) del Decreto in possesso dei requisiti previsti dalla normativa tempo per tempo 
+vigente, l'esecuzione di specifici incarichi di gestione. 
+ 
+3. L’impresa di assicurazione verifica i risultati della gestione mediante l’adozione di parametri di riferimento 
+coerenti con gli obiettivi e i criteri della politica di investimento. 
+ 
+4. La politica di investimento dei singoli comparti è la seguente: 
+ 
+ • Comparto “ Nuovo Obbligazionario Etico ” - con garanzia 
+In questo comparto è investito il TFR degli aderenti taciti che risultano iscritti al fondo ed è adatto agli aderenti che 
+prediligono investimenti estremamente prudenti. La gestione è volta a realizzare con elevata probabilità rendimenti 
+che siano almeno pari a quelli del TFR in un orizzonte temporale pluriennale. 
+Il comparto è basato su di una gestione finanziaria fondata prevalentemente su titoli a reddito fisso, sia governativi 
+sia societari, che persegue l’ottimizzazione delle combinazioni rischio-rendimento del patrimonio gestito 
+mantenendo contenute, in relazione all’andamento dei mercati, le oscillazioni del valore dell’investimento. 
+Le scelte d’investimento sono coerenti con gli obiettivi di prudenza della strategia, che è quindi orientata in 
+prevalenza verso classi di attivi di natura monetaria ed obbligazionaria. 
+La prevalenza del portafoglio è investita in titoli obbligazionari di breve-media durata, con duration tra 0 e 6 anni. 
+Gli emittenti dei titoli di debito sono sia pubblici che privati. 
+L’esposizione azionaria è rappresentata da OICR e/o ETF. I paesi dell’Unione Europea rappresentano le principali 
+aree geografiche di investimento e sono ammessi investimenti nei principali paesi industrializzati dell’OCSE e in 
+paesi emergenti. 
+Possono inoltre essere effettuati investimenti in valori mobiliari denominati in valuta estera. 
+Possono essere effettuati investimenti in contratti derivati, in OICR inclusi i fondi chiusi. 
+ 
+Limiti: 
+L’investimento in titoli di capitale non potrà eccedere il limite del 10% del controvalore globale del portafoglio.
+=== pagina 5 ===
+Pagina 4 di 46 
+ 
+ 
+Nessun singolo emittente, né azionario, né obbligazionario, può superare, ad eccezione dei titoli emessi e/o 
+garantiti da Stati appartenenti all’OCSE, il 5% del portafoglio. E’ previsto l’utilizzo di OICR senza limiti 
+particolari sul portafoglio. 
+Il Gestore Finanziario ha facoltà di non coprire il rischio di cambio ma l’esposizione in divisa diversa da Euro, al 
+netto della copertura del rischio cambio, non può superare il 30% del portafoglio. E’ altresì consentito l’utilizzo di 
+strumenti derivati orientato a finalità di copertura del rischio, coerentemente con il profilo rischio-rendimento del 
+comparto, a patto che i contratti siano conclusi con controparti abilitate, sottoposte a vigilanza prudenziale e con 
+rating minimo BBB-. 
+L’investimento in OICR sarà limitato ai prodotti la cui politica d’investimento sia coerente con il mandato della 
+gestione. 
+È fatta salva in ogni caso la possibilità di detenere una parte del patrimonio in disponibilità liquide e, più in 
+generale, in relazione all’andamento dei mercati finanziari o ad altre specifiche situazioni congiunturali, di adottare 
+scelte gestionali più opportune per la tutela degli aderenti. 
+ 
+Lo stile di gestione è attivo, finalizzato alla compravendita di attivi in coerenza con la durata delle obbligazioni 
+per gli strumenti di debito, con scostamenti anche significativi dal benchmark. Per la quota investita in OICR e/o 
+ETF azionari vi è la possibilità di scostamenti rilevanti dal benchmark, al fine di cogliere singole opportunità di 
+investimento. 
+La selezione degli strumenti finanziari su cui investire avviene sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico i fattori di tipo ambientale, sociale e di governo societario (ESG). 
+ 
+•  Comparto “Bilanciato Etico” - senza garanzia 
+Il comparto, adatto agli Aderenti che non siano prossimi al pensionamento, è basato su di una gestione finanziaria 
+bilanciata tra strumenti di natura obbligazionaria e strumenti di natura azionaria, quotati nei principali mercati 
+regolamentati delle aree geografiche di riferimento orientati principalmente nell’area europea. 
+Le risorse finanziarie del portafoglio sono prevalentemente investite in strumenti obbligazionari. La duration 
+media della componente obbligazionaria del portafoglio può oscillare tra 0 e 10 anni. 
+L’esposizione azionaria prevede investimenti prevalentemente ad elevata capitalizzazione. L’area geografica di 
+riferimento è rappresentata dai paesi dell’Unione Europea, dai principali paesi industrializzati dell’OCSE e dai 
+paesi emergenti. 
+ 
+E’ altresì consentito l’utilizzo di strumenti derivati orientato a finalità di copertura del rischio, coerentemente con 
+il profilo rischio-rendimento del comparto, a patto che i contratti siano conclusi con controparti abilitate, sottoposte 
+a vigilanza prudenziale e con rating minimo BBB-. 
+ 
+Limiti: 
+L’allocazione azionaria è rappresentata da OICR e/o ETF e può rappresentare al massimo il 40% del portafoglio. 
+Gli emittenti dei titoli di debito sono sia pubblici che privati. 
+Circa l’opportunità di impiego di strumenti alternativi, è possibile investire in questo tipo di strumenti fino al 20% 
+del portafoglio, a patto che presentino una politica di gestione coerente con il comparto. 
+Il Gestore Finanziario ha facoltà di non coprire il rischio di cambio ma l’esposizione in divisa diversa da Euro, al 
+netto della copertura del rischio cambio, non può superare il 30% del portafoglio.. 
+Nessun singolo emittente, né azionario, né obbligazionario, può superare, ad eccezione dei titoli emessi e/o 
+garantiti da Stati appartenenti all’OCSE, il 5% del portafoglio. 
+È fatta salva in ogni caso la possibilità di detenere una parte del patrimonio in disponibilità liquide e, più in 
+generale, in relazione all’andamento dei mercati finanziari o ad altre specifiche situazioni congiunturali, di adottare 
+scelte gestionali più opportune per la tutela degli aderenti. 
+ 
+Lo stile di gestione è attivo, finalizzato alla compravendita di attivi in coerenza con la durata delle obbligazioni 
+per gli strumenti di debito, con scostamenti anche significativi dal benchmark. Per la quota investita in titoli
+=== pagina 6 ===
+Pagina 5 di 46 
+ 
+ 
+azionari vi è la possibilità di scostamenti rilevanti dal benchmark, al fine di cogliere singole opportunità di 
+investimento. 
+La selezione degli strumenti finanziari su cui investire avviene sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico i fattori di tipo ambientale, sociale e di governo societario (ESG). 
+ 
+ 
+•  Comparto “Prevalentemente azionario Etico” - senza garanzia 
+Il comparto risponde alla finalità di ottenere un sostanziale incremento dei capitali investiti al termine 
+dell’orizzonte temporale, accettando nel corso dell’orizzonte temporale oscillazioni dei risultati e potenziali 
+significative perdite del valore dell’investimento. Il comparto è orientato prevalentemente su strumenti di natura 
+azionaria, la quota residuale è investita in strumenti di natura obbligazionaria e monetaria quotati nei principali 
+mercati regolamentati delle aree geografiche di riferimento. Il patrimonio del comparto è investito sia in valori 
+mobiliari denominati in Euro, sia in valori mobiliari denominati in valuta estera. 
+. 
+L’esposizione azionaria è rappresentata da OICR e/o ETF e prevede prevalentemente emittenti ad alta 
+capitalizzazione. 
+La quota residuale investita in titoli obbligazionari ha una duration media che può oscillare tra i 0 e i 11anni. Gli 
+emittenti dei titoli di debito sono sia pubblici che privati. 
+L’area geografica di riferimento è rappresentata dai paesi dell’Unione Europea, dai principali paesi industrializzati 
+dell’OCSE e dai paesi emergenti. 
+Possono essere effettuati investimenti in contratti derivati, in OICR, inclusi i fondi chiusi. 
+ 
+Limiti: 
+L’investimento in titoli di capitale non potrà eccedere il limite del 65% del controvalore globale del portafoglio. 
+Il Gestore Finanziario ha facoltà di non coprire il rischio di cambio, ma l’esposizione in divisa diversa da Euro 
+non può superare il 30% del portafoglio, al netto della copertura del rischio cambio.. 
+Nessun singolo emittente, né azionario, né obbligazionario, può superare, ad eccezione dei titoli emessi e/o 
+garantiti da Stati appartenenti all’OCSE, il 5% del portafoglio. 
+E’ previsto l’utilizzo di OICR senza limiti particolari sul portafoglio. L’investimento in OICR sarà limitato ai 
+prodotti la cui politica d’investimento sia coerente con il mandato della gestione. E’ altresì consentito l’utilizzo di 
+strumenti derivati orientato a finalità di copertura del rischio, coerentemente con il profilo rischio-rendimento del 
+comparto, a patto che i contratti siano conclusi con controparti abilitate, sottoposte a vigilanza prudenziale e con 
+rating minimo BBB-.Circa l’opportunità di impiego di strumenti alternativi, è possibile investire in questo tipo di 
+strumenti fino al 20% del portafoglio, a patto che presentino una politica di gestione coerente con il comparto. 
+È fatta salva in ogni caso la possibilità di detenere una parte del patrimonio in disponibilità liquide e, più in 
+generale, in relazione all’andamento dei mercati finanziari o ad altre specifiche situazioni congiunturali, di adottare 
+scelte gestionali più opportune per la tutela degli aderenti. 
+ 
+Lo stile di gestione è attivo, finalizzato alla compravendita di attivi in coerenza con la durata delle obbligazioni 
+per gli strumenti di debito, con scostamenti anche significativi dal benchmark. Per la quota investita in titoli 
+azionari vi è la possibilità di scostamenti rilevanti dal benchmark, al fine di cogliere singole opportunità di 
+investimento. 
+La selezione degli strumenti finanziari su cui investire avviene sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico i fattori di tipo ambientale, sociale e di governo societario (ESG). 
+ 
+ 
+L'adesione al comparto denominato "Nuovo Obbligazionario Etico'' attribuisce all'aderente, al verificarsi degli 
+eventi di cui appresso, il diritto alla corresponsione di un importo minimo garantito a prescindere dai risultati di 
+gestione. La garanzia può essere prestata all’impresa di assicurazione da soggetti diversi dalla stessa, a ciò abilitati.
+=== pagina 7 ===
+Pagina 6 di 46 
+ 
+ 
+L'importo minimo garantito è pari alla somma dei contributi netti versati al comparto, inclusi gli eventuali importi 
+derivanti da trasferimenti da altro comparto o da altra forma pensionistica e i versamenti effettuati per il reintegro 
+delle anticipazioni percepite, ridotto da eventuali riscatti parziali e anticipazioni. 
+Per contributi netti si intendono i contributi di cui all'art.10, comma 2. 
+A seguito di operazioni di fusione riguardanti il Fondo e delle modifiche regolamentari connesse e conseguenti, 
+agli aderenti interessati dalle predette operazioni sono applicati diversi livelli di garanzia riportati in apposita 
+appendice al presente Regolamento. 
+Il diritto alla garanzia nel comparto “Nuovo Obbligazionario Etico” è riconosciuto nei seguenti casi: 
+• esercizio del diritto alle prestazioni pensionistiche di cui all’art. 11; 
+• riscatto per decesso; 
+• riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un terzo; 
+• riscatto per inoccupazione per un periodo superiore a 48 mesi. 
+ 
+6. In tali casi, qualora l'importo minimo garantito risulti superiore alla posizione individuale maturata, calcolata ai 
+sensi dell'art. 10, e con riferimento al primo giorno di valorizzazione utile successivo alla verifica delle condizioni 
+che danno diritto alla prestazione, la stessa viene integrata a tale maggior valore. L'integrazione viene corrisposta 
+dall’impresa di assicurazione. 
+ 
+7. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di rischio e 
+rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti nella Nota informativa. 
+ 
+Art. 8 – Spese 
+1. L'iscrizione al Fondo comporta le seguenti spese: 
+ 
+a) spese da sostenere all'atto dell'adesione: una commissione "una tantum" a carico dell'aderente pari a 50,00 Euro; 
+ 
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’aderente: 30,00 Euro su base annua non frazionabile pro rata temporis prelevati 
+dalla posizione individuale pro-quota da ciascun comparto ad ogni fine anno, o al momento dell’uscita dal 
+Fondo; 
+b.2) indirettamente a carico dell'aderente e che incidono sul comparto: 
+- una commissione di gestione onnicomprensiva pari allo 0,092% mensile per il comparto “Nuovo 
+  Obbligazionario Etico”, corrispondente all’1,10% su base annua; 
+- una commissione di gestione onnicomprensiva pari allo 0,108% mensile per il comparto “Bilanciato Etico”, 
+  corrispondente all’1,30% su base annua; 
+- una commissione di gestione onnicomprensiva pari allo 0,125% mensile per il comparto “Prevalentemente 
+  Azionario Etico”, corrispondente all’1,50% su base annua. 
+ 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese legali e giudiziarie 
+sostenute nell'esclusivo interesse del Fondo e gli oneri di negoziazione derivanti dall'attività di impiego delle 
+risorse, nonché il "contributo di vigilanza" dovuto annualmente alla COVIP ai sensi di legge; sono altresì a carico 
+del comparto le spese relative alla remunerazione e allo svolgimento dell'incarico del Responsabile salva diversa 
+decisione dell’impresa di assicurazione. 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso 
+delle parti di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo i casi di deroga di 
+carattere generale previsti dalla COVIP. In particolare, nel caso di investimenti in OICR collegati, dal compenso 
+dell’impresa di assicurazione sarà dedotta la remunerazione complessiva percepita dal gestore dell’OICR 
+collegato. Fanno eccezione gli investimenti in FIA diversi da quelli collegati. 
+ 
+c) spese collegate all'esercizio delle seguenti prerogative individuali, dirette alla copertura 
+dei relativi oneri amministrativi: 
+c.1) 50,00 Euro in caso di trasferimento ad altra forma pensionistica;
+=== pagina 8 ===
+Pagina 7 di 46 
+ 
+ 
+c.2) 25,00 Euro per la modifica della percentuale di allocazione dei contributi futuri tra i comparti; 
+c.3) 25,00 Euro per la riallocazione della posizione individuale tra i comparti ovvero per la modifica del profilo di 
+investimento scelto. 
+ 
+d) spese relative alla fase di erogazione delle rendite, quali riportate nell'Allegato n. 2. 
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia: 
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2), in relazione al comparto nel quale è 
+investita la posizione individuale residua. 
+d-bis.2) 15,00 Euro prelevata da ciascuna rata 
+ 
+e) spese e premi relativi alle prestazioni assicurative accessorie, quali riportate nell'Allegato n3. 
+ 
+f) spese in cifra fissa relative alla prestazione erogata in forma di “Rendita integrativa temporanea anticipata” 
+(RITA) dirette alla copertura dei relativi oneri amministrativi 
+f.1) 15,00 Euro prelevati da ciascuna rata. 
+ 
+2. L'importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di 
+convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle commissioni 
+di gestione espresse in misura percentuale sul patrimonio avviene mediante emissione di classi di quote differenti. 
+ 
+3. Sono a carico dell’impresa di assicurazione tutte le spese e oneri non individuati dalle disposizioni del presente 
+articolo. 
+ 
+ 
+PARTE III - CONTRIBUZIONE E PRESTAZIONI 
+Art. 9 - Contribuzione 
+1. La misura della contribuzione a carico dell'aderente è determinata liberamente dallo stesso. 
+ 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima e delle 
+modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali. 
+ 
+3. I lavoratori dipendenti, in caso di adesione esplicita,  possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può anche essere 
+parziale ove previsto dagli accordi collettivi. Qualora il lavoratore decida di versare la contribuzione prevista a suo 
+carico e abbia diritto, in base ad accordi collettivi, anche aziendali, a un contributo del datore di lavoro, detto 
+contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il datore di lavoro può 
+decidere, anche in assenza di accordi collettivi, di contribuire al Fondo. 
+ 
+4. L'aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i lavoratori 
+dipendenti, l'obbligo del versamento del TFR maturando eventualmente conferito. La sospensione non comporta 
+la cessazione della partecipazione al Fondo. 
+ 
+5. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà di sospendere la 
+contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo a carico del datore di 
+lavoro, fermo restando il versamento del TFR maturando al Fondo. È possibile riattivare la contribuzione in 
+qualsiasi momento. 
+ 
+6. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8 comma 12 del Decreto (c. d. 
+contribuzione da abbuoni). 
+ 
+7. L'aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell'età pensionabile
+=== pagina 9 ===
+Pagina 8 di 46 
+ 
+ 
+prevista dal regime obbligatorio di appartenenza, a condizione che alla data del pensionamento possa far valere 
+almeno un anno di contribuzione a favore delle forme di previdenza complementare. 
+ 
+Art. 10 - Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è alimentata dai 
+contributi netti versati, dagli importi derivanti da trasferimenti da altre forme pensionistiche complementari e dai 
+versamenti effettuati per il reintegro delle anticipazioni percepite, ed è ridotta da eventuali riscatti parziali e 
+anticipazioni. 
+ 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell'aderente, di cui all’art. 
+8, comma 1, lett. a, e delle eventuali somme destinate a copertura delle prestazioni accessorie previste. 
+Sul primo versamento incidono anche eventuali spese di adesione. 
+ 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di ogni singolo 
+comparto è calcolato come variazione del valore della quota dello stesso nel periodo considerato. 
+ 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono valutate 
+al valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla determinazione della posizione 
+individuale, a prescindere dal momento di effettivo realizzo. 
+ 
+5. L’impresa di assicurazione determina il valore della quota e, conseguentemente, della posizione individuale di 
+ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono trasformati in quote, e 
+frazioni di quote, sulla base del primo valore di quota successivo al giorno in cui si sono resi disponibili per la 
+valorizzazione. 
+ 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli art. 11, 13 e 14 è quello risultante al 
+primo giorno di valorizzazione utile successivo a quello in cui l’impresa di assicurazione ha verificato la 
+sussistenza delle condizioni che danno diritto alle prestazioni. 
+ 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono intangibili 
+e non possono formare oggetto di sequestro o pignoramento da parte dei creditori dell’aderente. 
+ 
+Art. 11 - Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei requisiti 
+di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell'aderente, con almeno cinque anni 
+di partecipazione alle forme pensionistiche complementari. 
+Il predetto termine è ridotto a tre anni per il lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal 
+fatto che lo stesso acquisisca il diritto a una pensione complementare e che si sposta in un altro Stato membro 
+dell’Unione europea. 
+L'aderente che decide di proseguire volontariamente la contribuzione ai sensi del comma 7 dell'Art. 9 ha la facoltà 
+di determinare autonomamente il momento di fruizione delle prestazioni pensionistiche. 
+ 
+2. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera età pensionabile quella vigente nel regime 
+obbligatorio di appartenenza. 
+ 
+3. Ai fini della determinazione dell'anzianità necessaria per la richiesta delle prestazioni pensionistiche sono 
+considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati dall'aderente per 
+i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale. 
+ 
+4. L'aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione nei regimi 
+obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche complementari di cui 
+al comma 1, ha facoltà di richiedere che le prestazioni siano erogate, in tutto o in parte, in forma di  RITA con un
+=== pagina 10 ===
+Pagina 9 di 46 
+ 
+ 
+anticipo massimo di cinque anni rispetto alla data di maturazione dell’età anagrafica prevista per la pensione di 
+vecchiaia  nel regime obbligatorio di appartenenza. 
+ 
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un periodo di 
+tempo superiore a 24 mesi e abbia maturato 5 anni di partecipazione alle forme pensionistiche complementari, ha 
+facoltà di richiedere la rendita di cui al precedente comma 4 con un anticipo massimo di 10 anni rispetto alla data 
+di maturazione dell’età anagrafica per la pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+ 
+6. La porzione della posizione individuale di cui si chiede il frazionamento ai sensi dei commi 4 o 5 verrà 
+fatta confluire, salvo diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo e indicato nella 
+Nota informativa. L’aderente può successivamente variare il comparto nel rispetto del periodo minimo di 
+permanenza. 
+ 
+7.. Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta la cessazione 
+dell’erogazione delle rate residue. 
+ 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha la facoltà di 
+richiedere, con riferimento alla sola porzione residua della posizione individuale, il riscatto e l’anticipazione di cui 
+agli artt.13 e 14, cessata l’erogazione della RITA parziale, ovvero la prestazione pensionistica. 
+ 
+9. In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende automaticamente 
+revocata e viene trasferita l’intera posizione individuale. 
+ 
+10. L'aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di capitale nel 
+limite del 50 per cento della posizione individuale maturata. Nel computo dell'importo complessivo erogabile in 
+capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. 
+Qualora l'importo che si ottiene convertendo in rendita vitalizia immediata annua senza reversibilità a favore 
+dell'aderente il 70 per cento della posizione individuale maturata risulti inferiore al 50 per cento dell'assegno 
+sociale di cui all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, l'aderente può optare per la liquidazione 
+in capitale dell'intera posizione maturata. 
+ 
+11. L'aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 aprile 1993 
+ed entro tale data iscritto a una forma pensionistica complementare istituita alla data di entrata in vigore della legge 
+23 ottobre 1992, n. 421, può richiedere la liquidazione dell'intera prestazione pensionistica complementare in 
+capitale. 
+ 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e pignorabilità in 
+vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+ 
+13. L'aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto può 
+trasferire la propria posizione individuale presso altra forma pensionistica complementare, per avvalersi delle 
+condizioni di erogazione della rendita vitalizia praticate da quest'ultima. In tal caso si applica quanto previsto 
+all'art. 13, commi 6 e 7. 
+ 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+1. A seguito dell'esercizio del diritto alla prestazione pensionistica, all'aderente è erogata una rendita vitalizia 
+immediata calcolata in base alla posizione individuale maturata, al netto della eventuale quota di prestazione da 
+erogare sotto forma di capitale. 
+ 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di rendita di seguito 
+indicate: 
+• una rendita vitalizia reversibile: detta rendita è corrisposta all'aderente finché è in vita e successivamente, in
+=== pagina 11 ===
+Pagina 10 di 46 
+ 
+ 
+misura totale o per quota scelta dall'aderente stesso, alla persona da lui designata; 
+• una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 o 10 o 15 anni all'aderente 
+o, in caso di suo decesso, alle persone da lui designate. Successivamente, se l'aderente è ancora in vita, viene 
+corrisposta allo stesso una rendita vitalizia 
+• una rendita vitalizia maggiorata in caso di non autosufficienza: detta rendita è corrisposta all’aderente finché in 
+vita, e maggiorata per un importo pari al 20% dal momento in cui sopraggiunge lo stato di non autosufficienza. 
+ 
+3. Nell'Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite 
+vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo calcolo. Tali 
+coefficienti possono essere successivamente variati, nel rispetto della normativa tempo per tempo vigente in materia 
+di stabilità delle compagnie di assicurazione in ogni caso, le modifiche dei coefficienti di trasformazione non si 
+applicano ai soggetti, già aderenti alla data di introduzione delle modifiche stesse, che esercitano il diritto alla 
+prestazione pensionistica nei tre anni successivi.  
+ 
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, laddove 
+vi sia l'impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell'Allegato n. 2 e, negli altri 
+casi, a coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base alle proiezioni 
+ufficiali disponibili sull'andamento della mortalità della popolazione italiana. 
+ 
+ 
+5. In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale quota di prestazione 
+erogata sotto forma di capitale, l’erogazione della prestazione pensionistica in una delle seguenti forme:  
+ 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della vita attesa 
+residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni obbligatorie.  
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con facoltà per lo 
+stesso di determinarne la tempistica e l’importo nel limite della somma delle rate, maturate e non riscosse, di 
+una rendita teorica con fraz ionamento annuale, immediatamente erogabile e di durata definita pari alla vita 
+attesa residua, in anni interi, dell’aderente al momento della richiesta della prestazione. 
+ 
+6. Il Fondo provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla rendita vitalizia con 
+tempestività e comunque non oltre il termine massimo di 6 mesi decorrente dalla ricezione della richiesta. Nel caso 
+in cui la domanda risulti incompleta o insufficiente, il Fondo richiede gli elementi integrativi, e il termine sopra 
+indicato è sospeso fino alla data del completamento o della regolarizzazione della pr atica. Il montante residuo è 
+mantenuto in gestione da parte del Fondo, nel comparto scelto dall’aderente, all’atto della richiesta della prestazione 
+o, in difetto di indicazioni, nel comparto individuato dal Fondo nella Nota informativa.  
+ 
+6-bis. Al fine di adeguare i sistemi e i processi operativi del fondo pensione per la gestione delle richieste e 
+l’erogazione diretta delle prestazioni, il termine di cui al comma 6 può essere derogato per un periodo transitorio, 
+che non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo il Fondo acquisisce le richieste di erogazione 
+delle prestazioni. Successivamente all’avvenuto adeguamento dei suddetti sistemi e proce ssi operativi, il Fondo 
+procede tempestivamente alla liquidazione delle richieste di erogazione delle prestazioni di cui al comma 5 
+pervenute durante il periodo transitorio.  
+ 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere revocate una 
+volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del montante residuo in una rendita 
+vitalizia immediata sulla base delle condizioni e dei crite ri indicati nella Nota informativa, ovvero trasferisca il 
+montante residuo presso un’altra forma pensionistica all’unico fine di beneficiare delle condizioni di rendita vitalizia 
+offerte da quest’ultima.  
+ 
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto ad 
+individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante residuo. Tale
+=== pagina 12 ===
+Pagina 11 di 46 
+ 
+ 
+scelta può essere successivamente modificata dall’aderente.  
+ 
+9. Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente non può richiedere 
+trasferimenti, riscatti, anticipazioni o RITA, ad eccezione della variazione del comparto/profilo di investimento, che 
+può essere richiesta nel rispetto del periodo minimo di partecipazione di cui all’art. 6, comma 2.  
+ 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore contribuzione al 
+Fondo, salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la maturazione del TFR.  
+ 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni 
+pensionistiche di cui al comma 5, lett. a) e b).  
+ 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+1. L'aderente può trasferire la posizione individuale maturata ad altra forma pensionistica complementare decorso 
+un periodo minimo di due anni di partecipazione al Fondo. 
+ 
+2. L'aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale acceda in 
+relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell'attività lavorativa che 
+comporti l'inoccupazione per un periodo di tempo non inferiore a dodici mesi e non superiore a quarantotto mesi, 
+ovvero in caso di ricorso da parte del datore di lavoro a procedure di mobilità, cassa integrazione guadagni, 
+ordinaria o straordinaria; 
+c) riscattare l'intera posizione individuale maturata, in caso di invalidità permanente che comporti la riduzione 
+della capacità di lavoro a meno di un terzo e a seguito di cessazione dell'attività lavorativa che comporti 
+l'inoccupazione per un periodo di tempo superiore a quarantotto mesi. 
+d) riscattare l'intera posizione individuale maturata, ai sensi dell'Art. 14, comma 5 del Decreto ovvero trasferirla 
+ad altra forma pensionistica complementare, qualora vengano meno i requisiti di partecipazione. 
+ 
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l'aderente, in luogo dell'esercizio dei diritti di trasferimento e 
+riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore contribuzione. 
+Tale opzione trova automatica applicazione in difetto di diversa scelta da parte dell’aderente. Nel caso in cui il 
+valore della posizione individuale maturata non sia superiore all’importo di una mensilità dell’assegno sociale di 
+cui all’art. 3, comma 6, della Legge 8 agosto 1995, n. 335, l’impresa di assicurazione informa l’aderente della 
+facoltà di trasferire la propria posizione individuale ad altra forma pensionistica complementare, ovvero di 
+chiedere il riscatto dell’intera posizione di cui al comma 2, lettera d). 
+ 
+4. In caso di decesso dell'aderente prima dell'esercizio del diritto alla prestazione pensionistica, ovvero nel corso 
+dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la posizione individuale è riscattata dai 
+soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, o in mancanza dagli eredi. In mancanza di 
+tali soggetti, la posizione individuale resta acquisita al Fondo. 
+ 
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.
+=== pagina 13 ===
+Pagina 12 di 46 
+ 
+ 
+ 
+6. L’impresa di assicurazione, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della 
+posizione con tempestività, e comunque entro il termine massimo di sei mesi dalla ricezione della richiesta. 
+Nel caso in cui la domanda risulti incompleta o insufficiente, l’impresa di assicurazione richiede gli elementi 
+integrativi e il termine sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della 
+pratica. 
+ 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della partecipazione al 
+Fondo. 
+ 
+Art. 14 - Anticipazioni 
+1. L'aderente può conseguire un'anticipazione della posizione individuale maturata nei seguenti casi e misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie conseguenti a situazioni 
+gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi straordinari riconosciuti dalle competenti 
+strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 75 per 
+cento, per l'acquisto della prima casa di abitazione, per sé o per i figli, per la realizzazione, sulla prima casa di 
+abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro e di risanamento conservativo, di 
+ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 1 dell'Art. 3 del decreto del Presidente della 
+Repubblica del 6 giugno 2001, n. 380; 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 30 per 
+cento, per la soddisfazione di ulteriori sue esigenze. 
+ 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono riportate 
+in apposito documento. 
+ 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento della 
+posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate. 
+ 
+4. Ai fini della determinazione dell'anzianità necessaria per esercitare il diritto all'anticipazione, sono considerati 
+utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati dall'aderente, per i quali lo 
+stesso non abbia esercitato il diritto di riscatto totale della posizione individuale. 
+ 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell'aderente e in qualsiasi 
+momento. 
+ 
+6. Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+L’impresa di assicurazione provvede agli adempimenti conseguenti all’esercizio delle predette facoltà da parte 
+dell’aderente con tempestività e comunque non oltre il termine massimo di 90 giorni decorrente dalla ricezione 
+della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, l’impresa di assicurazione richiede 
+gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del completamento o della 
+regolarizzazione della pratica. 
+ 
+Art. 14-bis - Prestazioni accessorie 
+1. Il Fondo prevede inoltre le prestazioni accessorie relative ai casi di invalidità e premorienza. 
+ 
+2. L’adesione alle suddette prestazioni è facoltativa e può essere espressa all'atto dell'adesione al Fondo o 
+successivamente mediante sottoscrizione di apposito modulo. 
+ 
+3. Le condizioni delle suddette prestazioni sono indicate nell'Allegato n. 3 al presente Regolamento.
+=== pagina 14 ===
+Pagina 13 di 46 
+ 
+ 
+ 
+ 
+PARTE IV - PROFILI ORGANIZZATIVI 
+ 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia al 
+patrimonio dell’impresa di assicurazione, sia a quello degli altri fondi gestiti, sia a quello degli aderenti. 
+ 
+2. Il patrimonio del Fondo è destinato all'erogazione delle prestazioni pensionistiche agli aderenti e non può essere 
+distratto da tale fine. 
+ 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori dell’impresa di assicurazione 
+o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di rappresentanti dei creditori stessi. 
+Il patrimonio del Fondo non può essere coinvolto nelle procedure concorsuali che riguardino l’impresa di 
+assicurazione. 
+ 
+4. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere per conto del Fondo rispetto al complesso delle altre operazioni svolte dall’impresa di 
+assicurazione e del patrimonio del Fondo rispetto a quello dell’impresa di assicurazione e di suoi clienti. 
+ 
+5. Ferma restando la responsabilità dell’impresa di assicurazione per l'operato del soggetto delegato, la gestione 
+amministrativa e contabile del Fondo può essere delegata a terzi. 
+ 
+6. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere in riferimento a ciascun comparto. 
+ 
+7. Il patrimonio di ciascun comparto è suddiviso in quote o in differenti classi di quote. 
+ 
+Art. 16 - Sistema di governo 
+1. L’impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla 
+complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4-bis, 5-bis, 5-ter, 5-quater, 
+5-sexies, 5-septies, 5-octies e 5nonies del Decreto in coerenza con gli assetti organizzativi del rispettivo settore di 
+riferimento. 
+ 
+Art. 17 - Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore in possesso dei requisiti 
+previsti dalle vigenti disposizioni normative (di seguito “depositario”). 
+ 
+2. L’impresa di assicurazione può revocare in ogni momento l'incarico al depositario il quale può, a sua volta, 
+rinunciare con preavviso di 6 mesi; in ogni caso, l'efficacia della revoca o della rinuncia è sospesa fino a che 
+• l’impresa di assicurazione non abbia stipulato un nuovo contratto con altro Depositario, in possesso dei requisiti 
+di legge; 
+• il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+ 
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità dell’impresa 
+di assicurazione per l’operato del soggetto delegato. 
+ 
+4. Le funzioni del depositario sono regolate dalla normativa tempo per tempo vigente.
+=== pagina 15 ===
+Pagina 14 di 46 
+ 
+ 
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità riscontrate 
+nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di cui sono venuti a 
+conoscenza nell’esercizio delle funzioni di depositario. 
+ 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono ammesse 
+azioni dei creditori del depositario, del subdepositario o nell’interesse degli stessi. 
+ 
+Art. 18 - Responsabile 
+1. L’impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2 del Decreto. 
+ 
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del Responsabile sono 
+riportate nell’Allegato n.1. 
+ 
+ 
+Art. 19 - Conflitti di interesse 
+1.   La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi della 
+normativa tempo per tempo vigente. 
+ 
+Art. 20 - Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle posizioni 
+individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+ 
+2. L’impresa di assicurazione conferisce a una società di revisione l'incarico di esprimere con apposita relazione 
+un giudizio sul rendiconto del Fondo. 
+ 
+3. Il rendiconto del Fondo è pubblicato sul sito web dell’impresa di assicurazione.
+=== pagina 16 ===
+Pagina 15 di 46 
+ 
+ 
+ 
+PARTE V - RAPPORTI CON GLI ADERENTI 
+Art. 21 - Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. 
+L’adesione è preceduta dalla consegna della documentazione informativa prevista tempo per tempo dalla 
+normativa vigente. 
+ 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite al Fondo. 
+ 
+3. Dell'avvenuta iscrizione al Fondo viene data apposita comunicazione all'aderente mediante lettera di conferma, 
+attestante la data di iscrizione e le informazioni relative all'eventuale versamento effettuato. 
+ 
+4. L’adesione al Fondo comporta l'integrale accettazione del Regolamento e delle successive modifiche, fatto salvo 
+quanto previsto in tema di trasferimento nell'art. 25. 
+ 
+5. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze dell’impresa 
+di assicurazione da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione dell’impresa di 
+assicurazione. Le adesioni su base collettiva possono essere raccolte anche presso i luoghi indicati nella Nota 
+informativa. 
+ 
+6. L’aderente può esercitare il diritto di recesso entro il termine di trenta giorni dalla conclusione del contratto. Per 
+l'esercizio del diritto di recesso l’aderente deve inviare comunicazione scritta all’impresa di assicurazione - con 
+lettera raccomandata indirizzata a: Groupama Assicurazioni – Fondo pensione aperto-Programma Open, Viale 
+Cesare Pavese 385 – 00144 Roma. Il recesso ha l'effetto di liberare l’Aderente e l’impresa di assicurazione da 
+qualsiasi obbligazione derivante dal contratto. Entro 30 giorni dal ricevimento della comunicazione di recesso, 
+l’impresa di assicurazione provvederà a rimborsare all’Aderente i versamenti contributivi da questi corrisposti. I 
+versamenti saranno diminuiti della differenza negativa o aumentati della differenza positiva tra il valore delle quote 
+determinato al secondo giorno di valorizzazione successivo alla data di ricezione della comunicazione del recesso 
+e il loro valore determinato alla data di conversione in quote del contributo. 
+L’adesione al Fondo pensione, se è effettuata fuori della sede dell’impresa di assicurazione o del soggetto incaricato 
+del collocamento - ai sensi all’art. 30, 
+comma 6 del D.Lgs. 24 febbraio 1998 n. 58 («TUF») rimane sospesa per 7 giorni calcolati dalla data della richiesta 
+di adesione. In tal caso l’esecuzione dell’operazione e il regolamento dei corrispettivi avverranno una volta 
+trascorso il periodo di sospensiva (7 giorni) durante i quali l’aderente ha la facoltà di ripensare all’investimento 
+effettuato e ottenere la restituzione dell’importo versato, senza alcuna penalità, dandone comunicazione 
+all’impresa di assicurazione o al soggetto incaricato del collocamento. 
+In caso di adesione mediante sito web, l’impresa di assicurazione deve acquisire il consenso espresso dell’aderente 
+all’utilizzo di tale strumento. L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, 
+senza costi di recesso e senza dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente invia 
+una comunicazione scritta all’impresa di assicurazione con modalità che garantiscono certezza della data di 
+ricezione. L’impresa di assicurazione entro trenta giorni dal ricevimento della comunicazione procede a rimborsare 
+le somme eventualmente pervenute, al netto delle spese di adesione, ove trattenute. L’impresa di assicurazione 
+rende previamente noti all’aderente il momento in cui l’adesione si intende conclusa, i termini, le modalità e i 
+criteri di determinazione delle somme oggetto di rimborso.
+=== pagina 17 ===
+Pagina 16 di 46 
+ 
+ 
+7. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione al Fondo. 
+In caso di inadempimento, l’impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di 
+risolvere il contratto comunicando all’aderente la propria volontà di avvalersi della clausola risolutiva espressa, 
+salvo che l’aderente non provveda a effettuare un versamento entro sessanta giorni dalla ricezione della 
+comunicazione. 
+ 
+8. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con conseguente 
+azzeramento della posizione individuale a seguito dell’applicazione delle spese annuali di gestione amministrativa, 
+l’impresa di assicurazione ha la 
+facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto comunicando la propria volontà di 
+avvalersi della clausola risolutiva espressa, salvo che l’aderente non provveda a effettuare un versamento entro 
+sessanta giorni dalla ricezione della comunicazione. 
+ 
+Art. 22 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. L’impresa di assicurazione mette a disposizione degli aderenti la documentazione inerente al Fondo secondo 
+quanto previsto dalle disposizioni COVIP in materia. Tali documenti sono disponibili sul sito internet dell’impresa 
+di assicurazione, in un'apposita sezione dedicata alle forme pensionistiche complementari e presso la sede legale 
+dell’impresa di assicurazione I documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e 
+gratuitamente anche presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni. 
+ 
+2. L’impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni 
+individuali maturate e alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per tempo vigente. 
+ 
+Art. 23 - Comunicazioni e reclami 
+L’impresa di assicurazione definisce le modalità con le quali gli aderenti e i beneficiari rappresentare le proprie 
+esigenze e presentare reclami in coerenza con le indicazioni fornite dalla COVIP, riportandole nella Nota 
+informativa. 
+ 
+PARTE VI - NORME FINALI 
+ 
+Art. 24 - Modifiche al Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP. 
+ 
+2. L’impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto conto dell'interesse degli 
+aderenti e fatto salvo quanto disposto dall'art. 25. 
+ 
+Art. 25 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche delle 
+caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l'aderente interessato dalle suddette modifiche può trasferire la posizione individuale 
+maturata ad altra forma pensionistica complementare, anche prima che siano decorsi due anni dall'iscrizione. Il 
+diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in modo sostanziale la 
+caratterizzazione del Fondo, come può avvenire in caso di variazione significativa delle politiche di investimento. 
+ 
+2. L’impresa di assicurazione comunica a ogni aderente interessato l'introduzione delle modifiche almeno 
+centoventi giorni prima della relativa data di efficacia; dal momento della comunicazione l'aderente ha novanta 
+giorni di tempo per manifestare l'eventuale scelta di trasferimento. L’impresa di assicurazione può chiedere alla 
+COVIP termini ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del Fondo e non contrasti con 
+l'interesse degli aderenti. 
+ 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese.
+=== pagina 18 ===
+Pagina 17 di 46 
+ 
+ 
+ 
+Art. 26 - Cessione del Fondo 
+1. Qualora l’impresa di assicurazione non voglia o non possa più esercitare l'attività di gestione del Fondo, questo 
+viene ceduto ad altro soggetto, previa autorizzazione all'esercizio. 
+In caso di cessione del Fondo a società diverse da quelle del Gruppo al quale appartiene l’impresa di assicurazione, 
+viene riconosciuto agli aderenti il diritto al trasferimento della posizione presso altra forma pensionistica 
+complementare ai sensi dell’art. 25 e con le modalità ivi previste. 
+ 
+Art. 27 - Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fusione con 
+un altro fondo gestito dalla medesima impresa di assicurazione, il diritto al trasferimento della posizione presso 
+altra forma pensionistica complementare viene riconosciuto qualora ricorrano le condizioni di cui all’art. 25 e con 
+le modalità ivi previste. 
+ 
+Art. 28 – Rinvio 
+Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla normativa vigente.
+=== pagina 19 ===
+Pagina 18 di 46 
+ 
+ 
+ALLEGATO N. 1 
+ 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+Art. 1 - Nomina e cessazione dall'incarico 
+1. La nomina del Responsabile spetta all'organo amministrativo di "Groupama Assicurazioni S.p.A.", di seguito 
+definita "Impresa di assicurazione". L'incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non più 
+di una volta consecutivamente. 
+ 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene nominato il nuovo 
+Responsabile. 
+ 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell'organo di controllo dell’impresa 
+di assicurazione. 
+ 
+4. Le nomine, gli eventuali rinnovi dell'incarico e le sostituzioni del Responsabile prima della scadenza del termine 
+vengono comunicati alla COVIP entro quindici giorni dalla deliberazione. 
+ 
+Art. 2 - Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile, sono previsti dalla normativa tempo per tempo vigente. 
+ 
+2. L'incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d'opera continuativa presso l’impresa di 
+assicurazione o società da questa controllate o che la controllano; 
+b) l'incarico di amministratore dell’impresa di assicurazione. 
+ 
+Art. 3 - Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incompatibilità 
+comporta la decadenza dall’incarico. 
+ 
+Art. 4 - Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall'organo di amministrazione all'atto della nomina per 
+l'intero periodo di durata dell'incarico e viene definita sulla base di una sana politica di remunerazione che tenga 
+conto dei principi previsti dalla normativa tempo per tempo vigente, fermo restando che il compenso del 
+Responsabile non può essere pattuito sotto forma di partecipazione agli utili dell’impresa di assicurazione o di 
+società controllanti o controllate, né sotto forma di diritti di acquisto o di sottoscrizione di azioni dell’impresa di 
+assicurazione o di società controllanti o controllate. 
+ 
+2. Le spese relative alla remunerazione e allo svolgimento dell'incarico di Responsabile sono poste a carico del 
+Fondo, salva diversa decisione dell’impresa di assicurazione. 
+ 
+Art. 5 - Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dall’impresa di assicurazione 
+riportando direttamente all’organo di amministrazione della stessa relativamente ai risultati dell’attività svolta. 
+ 
+2. A  tale  fine  il  Responsabile  si  avvale  della  collaborazione  delle  strutture  organizzative  dell’impresa  di 
+assicurazione, di volta in volta necessarie allo svolgimento dell'incarico e all'adempimento dei doveri di cui all’art. 
+6. L’impresa di assicurazione gli garantisce l'accesso a tutte le informazioni necessarie allo scopo.
+=== pagina 20 ===
+Pagina 19 di 46 
+ 
+ 
+3. Il Responsabile assiste alle riunioni dell'organo di amministrazione e di quello di controllo dell’impresa di 
+assicurazione, per tutte le materie inerenti al Fondo. 
+ 
+Art. 6 - Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei 
+beneficiari e vigila sull'osservanza della normativa e del Regolamento nonché sul rispetto delle buone pratiche e 
+dei principi di corretta amministrazione del Fondo. 
+ 
+2. Il Responsabile, avvalendosi delle procedure definite dall’impresa di assicurazione, organizza lo svolgimento 
+delle sue funzioni al fine di: 
+ 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe di gestione, con 
+riferimento ai controlli su: 
+i) la politica di investimento. In particolare: che la politica di investimento effettivamente seguita sia coerente con 
+quella indicata nel Regolamento e nel Documento sulla politica di investimento e che gli investimenti, ivi compresi 
+quelli effettuati in OICR, avvengano nell'esclusivo interesse degli aderenti, nel rispetto dei principi di sana e 
+prudente gestione nonché nel rispetto dei criteri e limiti previsti dalla normativa tempo per tempo vigente e dal 
+Regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investimenti effettuati siano 
+correttamente identificati, misurati e controllati e che siano coerenti con gli obiettivi perseguiti dalla politica di 
+investimento; 
+ 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di deleghe di gestione, 
+con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per conto del Fondo rispetto al 
+complesso delle altre operazioni svolte dall’impresa di assicurazione e del patrimonio del Fondo rispetto a quello 
+dell’impresa di assicurazione e di suoi clienti; 
+ii) ) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+ 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti con riferimento ai controlli su: 
+i) l'adeguatezza dell'organizzazione dedicata a soddisfare le esigenze informative degli aderenti e dei beneficiari, 
+sia al momento del collocamento del Fondo che durante il rapporto; 
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei beneficiari previste dal Regolamento 
+e le eventuali commissioni correlate ai risultati di gestione siano correttamente applicate; 
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni periodiche agli aderenti e ai 
+beneficiari e in quelle inviate in occasione di eventi particolari; 
+iv) l'adeguatezza della procedura per la gestione degli esposti nonché il trattamento riservato ai singoli reclami; 
+v) la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con riferimento ai tempi di 
+liquidazione delle somme richieste a titolo di anticipazione o riscatto e di trasferimento della posizione individuale. 
+ 
+3. Il Responsabile controlla le soluzioni adottate dall’impresa di assicurazione per identificare le situazioni di 
+conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; egli controlla 
+altresì la corretta esecuzione del contratto stipulato per il conferimento dell'incarico di depositario, nonché il 
+rispetto delle convenzioni assicurative/condizioni per l'erogazione delle rendite e, ove presenti, delle 
+convenzioni/condizioni relative alle prestazioni accessorie di invalidità e premorienza. 
+ 
+4. Delle irregolarità riscontrate nell'esercizio delle sue funzioni il Responsabile dà tempestiva comunicazione 
+all'organo di amministrazione e a quello di controllo dell’impresa di assicurazione indicando gli interventi 
+correttivi da adottare.
+=== pagina 21 ===
+Pagina 20 di 46 
+ 
+ 
+Art. 7 - Rapporti con la COVIP 
+1 . Il Responsabile: 
+a) predispone annualmente una relazione che descrive in maniera analitica l'organizzazione adottata per 
+l'adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale per l'esecuzione 
+dell'incarico, dei risultati dell'attività svolta, delle eventuali irregolarità riscontrate durante l'anno e delle iniziative 
+poste in essere per eliminarle. La relazione viene trasmessa alla COVIP entro il 31 marzo di ciascun anno. Copia 
+della relazione stessa viene trasmessa all'organo di amministrazione e a quello di controllo dell’impresa di 
+assicurazione; 
+b) vigila sul rispetto delle deliberazioni della COVlP e verifica che vengano inviate alla stessa le segnalazioni, la 
+documentazione e le relazioni richieste dalla normativa tempo per tempo vigente e dalle istruzioni emanate in 
+proposito; 
+c) comunica alla COVIP, contestualmente alla segnalazione all'organo di amministrazione e a quello di controllo 
+dell’impresa di assicurazione le irregolarità riscontrate nell'esercizio delle sue funzioni. 
+ 
+Art. 8 - Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura 
+dell'incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti di cui ha 
+conoscenza in ragione del suo ufficio, tranne che nei confronti della COVIP e delle autorità giudiziarie. 
+ 
+2. Egli risponde verso l’impresa di assicurazione e verso i singoli aderenti e beneficiari al Fondo dei danni a 
+ciascuno arrecati e derivanti dall'inosservanza di tali doveri. 
+ 
+3. All'azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391,2392, 2393, 2394, 2394-bis, 2395 
+del Codice Civile.
+=== pagina 22 ===
+Pagina 21 di 46 
+ 
+ 
+ALLEGATO N. 2 
+ 
+CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE 
+Il presente Allegato regola le condizioni per l’erogazione della rendita vitalizia, secondo le norme previste dal D.Lgs 
+n. 209 del 7 settembre 2005; detta attività rientra nella gestione assicurativa di Ramo I° di cui al comma 1 dell’art. 
+2 del sopraccitato Decreto Legislativo. 
+ 
+Art. 1 - Condizioni per l’erogazione della rendita vitalizia 
+1. E' data facoltà all’iscritto al Fondo, almeno 30 giorni dalla data in cui matura il diritto alla pensione 
+complementare di vecchiaia o di anzianità, di convertire l’ammontare relativo alla Posizione Individuale in una 
+delle seguenti rendite vitalizie a versamento unico: 
+a) rendita vitalizia rivalutabile pagabile vita natural durante dell'iscritto; 
+b) rendita vitalizia rivalutabile pagabile vita natural durante dell’Iscritto, con maggiorazione del 20% 
+dell’importo in caso di non autosufficienza; 
+c) rendita rivalutabile certa per i primi 5 o 10 anni o 15 anni (a scelta dell’iscritto) e successivamente vitalizia: 
+detta rendita per i primi 5/10/15 anni viene corrisposta all’iscritto o, in caso di suo decesso, alle persone da 
+lui designate tra i soggetti previsti dal sistema previdenziale obbligatorio; successivamente la rendita verrà 
+corrisposta all’iscritto se e finché questi sarà in vita; 
+d) rendita vitalizia rivalutabile su due teste (quella dell'iscritto e quella di un altro vitaliziando designato 
+dall’iscritto tra i soggetti previsti dal sistema previdenziale obbligatorio) reversibile totalmente o 
+parzialmente a favore del secondo vitaliziando. 
+ 
+2. L’importo iniziale della rendita vitalizia rivalutabile, viene determinato moltiplicando l’ammontare relativo alla 
+posizione individuale, al netto della eventuale quota di prestazione da erogare sotto forma di capitale, per il 
+coefficiente riportato nelle tabelle allegate, in base alla tipologia di rendita scelta dall’iscritto e l’eventuale misura 
+di reversibilità, all’anno di nascita e all’età assicurativa raggiunta dall’iscritto alla data di decorrenza della rendita 
+vitalizia e, qualora la data di iscrizione sia antecedente al 21 dicembre 2012, in base al sesso dell’iscritto. 
+ 
+3. I coefficienti per la determinazione del valore iniziale della rendita vitalizia in vigore alla conclusione del 
+contratto sono stati calcolati applicando un tasso tecnico pari allo 0,0% annuo composto posticipato ed un 
+caricamento del 2% per le spese di erogazione della rendita vitalizia ed applicando, quale base demografica: 
+- la tavola di sopravvivenza ricavata dalle proiezioni della popolazione italiana pubblicate dall’Associazione 
+nazionale fra le Imprese di Assicurazione nel 2005 per tutti coloro che si sono iscritti al Fondo in data 
+antecedente al 21 dicembre 2012; 
+- la tavola di sopravvivenza ricavata dalle proiezioni della popolazione italiana pubblicate dall’Associazione 
+nazionale fra le Imprese di Assicurazione nel 2005 ed unificata in base al sesso, per tutti coloro che si sono 
+iscritti al Fondo a partire dal 21 dicembre 2012. 
+Il costo della garanzia di non autosufficienza, è pari al 5% della posizione individuale maturata al momento della 
+conversione. 
+ 
+4. La rendita vitalizia in erogazione non potrà essere riscattata durante il periodo di suo godimento. 
+ 
+5. La rendita vitalizia, a scelta dell’iscritto, potrà essere erogata con periodicità annuale, semestrale, 
+quadrimestrale, trimestrale, bimestrale e mensile. I coefficienti di conversione consentono, in funzione della 
+periodicità richiesta, la determinazione della rendita annuale; in caso di periodicità sub-annuale, la 
+corrispondente rata della rendita si otterrà dividendo l’importo annuale della rendita per il numero della rate 
+sub-annuali. La Società esegue i pagamenti entro trenta giorni dal ricevimento di tutta la documentazione 
+necessaria ad accertare il diritto alle prestazioni. Ogni rata di rendita è corrisposta entro trenta giorni dalla data
+=== pagina 23 ===
+Pagina 22 di 46 
+ 
+ 
+di scadenza della stessa. Decorso tale termine sono dovuti gli interessi moratori, a partire dal termine stesso, a 
+favore degli aventi diritto. Ogni pagamento viene effettuato a richiesta dell’avente diritto sul conto corrente a 
+lui intestato o con assegno. 
+ 
+6. I documenti inerenti ai coefficienti di conversione relativi alle prestazioni di reversibilità e ad altre eventuali 
+tipologie di rendita, sono depositati presso la sede del Fondo. 
+ 
+7. Ad ogni ricorrenza annuale della data di inizio dell’erogazione della rendita, l’iscritto è tenuto ad inviare alla 
+Società il certificato di esistenza in vita, fermo rimanendo che la Società si riserva la facoltà di richiedere il 
+certificato di esistenza in vita anche in date non coincidenti con la ricorrenza annuale della data di erogazione 
+della rendita. 
+ 
+Art. 2 – Condizioni regolanti la garanzia di non autosufficienza (opzione b) 
+1. Il riconoscimento dello stato di non autosufficienza, comporta l’incremento del 20% dell’importo della rendita 
+vitalizia in corso di erogazione, a condizione che l’iscritto, al momento del pensionamento, abbia richiesto 
+l’opzione nella specifica tipologia di rendita vitalizia (opzione b). 
+ 
+2. La non autosufficienza viene riconosciuta all’iscritto che, per sopravvenuta malattia organica o lesione fisica 
+avvenuta dopo l’inizio di erogazione della rendita vitalizia, comunque indipendenti dalla sua volontà ed 
+oggettivamente accertabili, non sia più autosufficiente nel compimento di almeno tre dei seguenti atti di vita 
+quotidiana: 
+• assunzione di alimenti 
+• espletamento delle funzioni fisiologiche e dell’igiene personale 
+• la deambulazione 
+• l’indossare gli indumenti. 
+Si considera non autosufficiente anche l’iscritto che necessita di sorveglianza continua. 
+ 
+3. La garanzia di non autosufficienza decorre dalla data di opzione della specifica rendita vitalizia (opzione b) 
+richiesta dall’iscritto al momento del pensionamento ed a condizione che la malattia organica o lesione fisica, 
+che comporti lo stato di non autosufficienza, sia avvenuta dopo l’inizio di erogazione della rendita vitalizia. 
+È escluso dalla garanzia lo stato di non autosufficienza causato da: 
+• dolo del Beneficiario; 
+• partecipazione attiva dell’iscritto a delitti dolosi; 
+• partecipazione attiva dell’iscritto ad atti di terrorismo, rivoluzione, fatti di guerra, guerra civile, salvo che 
+non derivi da obblighi verso lo Stato Italiano; in questo caso la garanzia può essere prestata, su richiesta 
+dell’iscritto, alle condizioni stabilite dal Ministero competente; 
+• guida di veicoli e natanti a motore per i quali l’iscritto non abbia superato mai, a norma delle disposizioni 
+in vigore, gli esami di abilitazione; 
+• incidente di volo, se l’iscritto viaggia a bordo di aeromobile non autorizzato al volo o con pilota non titolare 
+di brevetto idoneo; 
+• esiti di infortuni e malattie che abbiano dato origine a sintomi, cure ed esami e che comportino, all’atto 
+della conversione in rendita vitalizia, un’alterazione delle condizioni di salute dell’iscritto, salvo che gli 
+stessi non siano stati dichiarati in modo esplicito e per iscritto all’atto della conversione; 
+• negligenza, imprudenza e imperizia nel seguire consigli medici: con ciò si intende che la prestazione di rendita 
+(maggiorazione del 20%) non viene erogata se è comprovato che l’iscritto di sua volontà non ha consultato 
+i medici o non ha seguito le indicazioni degli stessi al fine di migliorare il proprio stato di salute. 
+ 
+4. Verificatosi lo stato di non autosufficienza, l’iscritto od altra persona in sua vece deve farne denuncia alla 
+Compagnia per i necessari accertamenti facendo pervenire alla Compagnia medesima, a mezzo lettera 
+raccomandata, della seguente documentazione: 
+• relazione sanitaria del medico curante sulle cause della non autosufficienza;
+=== pagina 24 ===
+Pagina 23 di 46 
+ 
+ 
+• copia dell’eventuale cartella clinica completa di anamnesi, relativa al primo ricovero; 
+• copia dell’eventuale documentazione comprovante lo stato di non autosufficienza; 
+• qualora le circostanze della non autosufficienza siano particolari, l’ulteriore documentazione in relazione 
+al sinistro stesso, anche di carattere sanitario, eventualmente ritenuta necessaria dalla Compagnia. 
+A richiesta della Compagnia, l’iscritto e colui che ha fatto la denuncia della non autosufficienza, sono obbligati 
+a rendere, con verità ed esattezza, le dichiarazioni ed  a fornire  le  prove che 
+ 
+potessero apparire utili per l’accertamento delle cause dell’invalidità permanente e della sua gravità, a tal fine 
+sciogliendo dal segreto professionale i medici che hanno visitato o curato l’iscritto. 
+ 
+5. La Compagnia si impegna ad accertare l’esistenza dello stato di non autosufficienza entro i 60 giorni successivi 
+alla data di ricevimento della denuncia, completa di tutta la documentazione richiesta. 
+Il riconoscimento, da parte della Compagnia dello stato di non autosufficienza, comporta la liquidazione della 
+maggiorazione prevista sulla rendita vitalizia in corso di erogazione a partire dalla data di denuncia. 
+ 
+6. Nel caso di disaccordo sul riconoscimento della non autosufficienza, l’iscritto ha facoltà, entro 30 giorni dalla 
+comunicazione avutane, di promuovere, mediante lettera raccomandata indirizzata alla Compagnia, la decisione 
+di un Collegio Arbitrale, composto di tre medici, di cui uno nominato dalla Compagnia, l’altro dall’iscritto ed 
+il terzo scelto di comune accordo dalle due parti. 
+In caso di mancato accordo la scelta del terzo arbitro sarà demandata, anche ad istanza di una sola delle due 
+parti, al Presidente del Tribunale più vicino al luogo di residenza dell’iscritto. 
+Il Collegio Arbitrale decide a maggioranza, come amichevole compositore, senza formalità di procedura, con 
+parere vincolante anche se uno dei componenti rifiuta di firmare il relativo verbale, salvo i casi di violenza, 
+dolo, errore o violazione di parti contrattuali. Gli arbitri, ove lo ritengano opportuno, potranno esperire, senza 
+obbligo di sentenza, qualsiasi accertamento sanitario di carattere preliminare o incidentale (visite mediche, 
+esami di laboratorio, ecc.). Ciascuna delle parti sopporta le spese e le competenze del proprio medico e la metà 
+di quelle del terzo medico. 
+I risultati delle operazioni arbitrali devono essere raccolti in apposito verbale, da redigersi in doppio esemplare, 
+uno per ciascuna delle parti. 
+ 
+Art. 3 - Clausola di Rivalutazione 
+1. L’assicurazione di rendita vitalizia fa parte di una speciale categoria di assicurazioni sulla vita alle quali 
+Groupama Assicurazioni S.p.A. riconoscerà una rivalutazione delle prestazioni assicurate in base alle condizioni 
+appresso indicate. 
+ 
+2. A tal fine la Compagnia gestirà, secondo quanto previsto dal regolamento del Fondo VALOREPIU’, attività 
+di importo non inferiore alle relative riserve matematiche. 
+A) Misura della Rivalutazione 
+ 
+3. Entro il 31 dicembre di ciascun anno la Compagnia dichiara il rendimento annuo da attribuire agli Assicurati 
+ottenuto moltiplicando il rendimento, di cui al punto 3 del Regolamento, per l’aliquota di retrocessione fissata 
+nella misura massima del 90%, a condizione che la quota di rendimento trattenuta dalla Compagnia non deve 
+in ogni caso risultare inferiore ad un punto percentuale. 
+ 
+4. La misura annua di rivalutazione è pari al rendimento attribuito. 
+ 
+B) Rivalutazione delle prestazioni 
+5. Ad ogni ricorrenza annua della data di inizio di erogazione della rendita, la rendita vitalizia viene rivalutata 
+mediante aumento, a totale carico della Compagnia, della riserva matematica costituitasi a tale epoca. 
+ 
+6. Tale aumento viene determinato secondo la misura di rivalutazione fissata, a norma dei punti precedenti, entro
+=== pagina 25 ===
+Pagina 24 di 46 
+ 
+ 
+il 31 dicembre che precede il suddetto anniversario. 
+ 
+7. La rendita rivalutata sarà determinata moltiplicando la rendita in vigore nel periodo annuale precedente per 
+la misura di rivalutazione. 
+ 
+8. L'aumento annuale della rendita verrà di volta in volta comunicato dalla Compagnia. 
+ 
+Art. 4 - Regolamento del Fondo VALOREPIU’ 
+I riferimenti alle Condizioni di Assicurazione presenti nel Regolamento che segue, devono intendersi sostituiti in 
+riferimenti all’Allegato 2 “Condizioni e modalità di erogazione delle rendite” del presente Regolamento del Fondo 
+Pensione Aperto Programma Open, analogamente i riferimenti agli “assicurati-contraenti” devono intendersi 
+sostituiti in riferimenti all’iscritto / aderente al Fondo. 
+ 
+Viene attuata una speciale forma di gestione degli investimenti, separata da quella delle altre attività di Groupama 
+Assicurazioni S.p.A. (di seguito “Compagnia”), che viene contraddistinta con il nome “VALOREPIU’” ed indicata 
+nel seguito con la denominazione di “FONDO”. 
+La valuta di denominazione del FONDO è l’Euro.  
+Il valore delle attività gestite non sarà inferiore all’importo delle riserve matematiche costituite per i contratti a 
+prestazioni rivalutabili che prevedono una clausola di rivalutazione legata ai rendimenti realizzati dal FONDO.  
+La gestione del FONDO è conforme alle norme stabilite dall’Istituto per la Vigilanza sulle Assicurazioni (IVASS ex 
+ISVAP) con il Regolamento n. 38 del 3 giugno 2011, ed ottempererà ad eventuali successive disposizioni. 
+ 
+Articolo 1 - Obiettivi e politiche di investimento 
+La gestione del FONDO ha per obiettivo la conservazione e la crescita del suo valore, il raggiungimento dei 
+rendimenti minimi garantiti a favore degli assicurati e la stabilizzazione nel tempo dei rendimenti conseguiti, 
+nell’ottica della gestione integrata  dell’attivo e del passivo e tenuto conto delle variabili macroeconomiche e di 
+mercato che influenzano le scelte d’investimento. 
+La gestione del FONDO segue le politiche di investimento di seguito descritte, conformi alla regolamentazione in 
+vigore. 
+▪ AREE GEOGRAFICHE:  
+Gli investimenti appartengono prevalentemente alle seguenti aree geografiche: Europa – Stati Uniti – Giappone. E’ 
+ammesso l’investimento in strumenti finanziari appartenenti ad un’area geografica differente dalle tre menzionate, 
+coerentemente alla Delibera Quadro sugli Investimenti Finanziari. 
+▪ INVESTIMENTI AZIONARI, IMMOBILIARI ED ALTERNATIVI:  
+Sono ammessi investimenti in azioni e obbligazioni convertibili di società operanti in Stati membri dell’OCSE. Gli 
+investimenti immobiliari ed alternativi sono ammessi nei limiti e con la modalità prevista dalla normativa in vigore. 
+L’esposizione verso gli investimenti azionari, immobiliari e alternativi può essere altresì perseguita mediante OICR, 
+i quali devono investire prevalentemente in paesi OCSE. 
+▪ INVESTIMENTI OBBLIGAZIONARI CORPORATE: 
+Tenuto conto del rischio di credito, calcolato su tutti gli emittenti obbligazionari corporate, sono ammessi 
+investimenti obbligazionari in società operanti in Stati membri dell’OCSE. L’esposizione obbligazionaria corporate 
+è altresì rappresentata da OICR. L’investimento diretto in titoli obbligazionari corporate tiene sempre conto dei cash 
+flow attesi sul profilo delle passività del portafoglio. L’esposizione sui corporate può essere altresì perseguita 
+mediante OICR, i quali dovranno investire prevalentemente in paesi OCSE. 
+▪ INVESTIMENTI OBBLIGAZIONARI GOVERNATIVI:  
+Tenuto conto del rischio di tasso, calcolato su tutti gli emittenti obbligazionari, è consentito l’investimento in titoli 
+obbligazionari emessi e/o garantiti da Stati appartenenti all’OCSE, da emittenti internazionali a cui aderisca almeno 
+uno stato membro  dell’OCSE, da emittenti locali controllati da emittenti governativi appartenenti all’OCSE, da 
+emittenti parastatali di Stati appartenenti all’OCSE denominati in Euro ed aventi rating investment grade, a 
+condizione che nessuna agenzia di rating abbia espresso una valutazione inferiore. 
+Indipendentemente dal rating, l’adeguatezza del merito creditizio dei singoli emittenti è valutata dalla Compagnia 
+attraverso apposite procedure interne di verifica del rischio di credito.
+=== pagina 26 ===
+Pagina 25 di 46 
+ 
+ 
+L’investimento diretto in titoli obbligazionari governativi tiene sempre conto dei cash flow attesi sul profilo delle 
+passività del portafoglio.  
+L’esposizione sui governativi può essere altresì perseguita mediante OICR, i quali dovranno investire 
+prevalentemente in emittenti coerenti alle regole sopra specificate. 
+▪ STRUMENTI FINANZIARI DERIVATI: 
+Gli strumenti finanziari derivati possono essere utilizzati dall’Impresa sia con finalità di copertura del rischio presente 
+sulle attività del portafoglio titoli, sia al fine di pervenire ad una gestione efficace del portafoglio stesso. L’utilizzo 
+degli strumenti finanziari derivati è soggetto al pieno rispetto della relativa normativa di vigilanza in materia e della 
+Delibera Quadro sugli Investimenti Finanziari. 
+▪ VALUTE DI DENOMINAZIONE: 
+La valuta di denominazione degli investimenti è l’euro. E’ ammessa la presenza di investimenti in divisa diversa da 
+euro, per un ammontare marginale rispetto al totale degli investimenti del portafoglio, in coerenza con la delibera 
+quadro sugli investimenti e prevedendo opportune operazioni di copertura finalizzate a non modificare il profilo di 
+rischio della gestione.  
+Si precisa che è ammessa la possibilità di superare i limiti di esposizione sopra menzionati, per brevi periodi di tempo 
+o per effetto di deroghe approvate e validate dal Comitato di Rischio Finanziario della Compagnia. 
+ 
+Relativamente ai rapporti con le controparti di cui all’art. 5 del Regolamento IVASS (ex ISVAP) n. 25 del 27/05/2008 
+(operatività infragruppo), si precisa quanto segue: 
+▪ è ammesso l’utilizzo di OICR istituiti, distribuiti e/o gestiti da società del medesimo Gruppo di appartenenza 
+della Compagnia. In tal caso, il rendimento della gestione beneficia di eventuali utili derivanti dalla 
+retrocessione di commissioni; 
+▪ l’importo massimo di esposizione al Gruppo di appartenenza della Compagnia per operazioni d’investimento, 
+concluse con controparti di Gruppo soggette a vigilanza prudenziale, è fissato di anno in anno nell’ambito 
+della delibera quadro in materia di operati vità infragruppo approvata dall’organo amministrativo della 
+Compagnia ai sensi dell’art. 6 del Regolamento IVASS (ex ISVAP) n. 25;  
+▪ pur in presenza di conflitto d’interessi, la Compagnia opera in modo da non arrecare alcun pregiudizio agli 
+assicurati-contraenti. 
+ 
+Articolo 2 - Certificazione della gestione separata 
+La gestione del FONDO è annualmente sottoposta a certificazione da parte di una società di revisione iscritta all’albo 
+di cui al D. Lgs. 24/2/98 n. 58, la quale attesta la rispondenza del FONDO al presente regolamento.  
+In particolare sono certificati la corretta valutazione delle attività attribuite al FONDO, il rendimento annuo del 
+FONDO, quale descritto al seguente punto 3 e la adeguatezza di ammontare delle attività a fronte degli impegni 
+assunti dalla Compagnia sulla base delle riserve matematiche. 
+ 
+Articolo 3 - Determinazione del rendimento della gestione separata 
+Il tasso di rendimento medio annuo del FONDO per l’esercizio relativo alla certificazione si ottiene rapportando il 
+risultato finanziario della gestione del FONDO di competenza di quell’esercizio al valore medio del patrimonio del 
+FONDO stesso. 
+Per risultato finanziario del FONDO si devono intendere i proventi finanziari di competenza dell’esercizio – compresi 
+gli utili e le perdite di realizzo per la quota di competenza del FONDO – al lordo delle ritenute di acconto fiscali ed 
+al netto delle spese specifiche degli investimenti. 
+Gli utili e le perdite di realizzo vengono determinati con riferimento al valore di iscrizione delle corrispondenti attività 
+nel FONDO e cioè al prezzo di acquisto, per i beni di nuova acquisizione, ed al valore di mercato all’atto 
+dell’iscrizione nel FONDO, per i beni già di proprietà della Compagnia. 
+Per valore medio del FONDO si intende la somma della giacenza media annua dei depositi in numerario presso gli 
+istituti di credito, della consistenza media annua degli investimenti in titoli e della consistenza media annua di ogni 
+altra attività del FONDO. 
+La consistenza media annua dei titoli e delle altre attività viene determinata in base al valore di iscrizione nel FONDO. 
+Il rendimento della gestione separata beneficia di eventuali utili derivanti dalla retrocessione di commissioni o di altri 
+proventi ricevuti dalla Compagnia in virtù di accordi con soggetti terzi e riconducibili al patrimonio della gestione.
+=== pagina 27 ===
+Pagina 26 di 46 
+ 
+ 
+La Compagnia provvede alla determinazione dei tassi medi di rendimento relativi ai seguenti periodi annuali: 
+▪ 1 gennaio – 31 dicembre; 
+▪ 1 febbraio – 31 gennaio dell’anno successivo; 
+▪ 1 marzo – 28 febbraio (29 febbraio in caso di anno bisestile) dell’anno successivo; 
+▪ 1 aprile – 31 marzo dell’anno successivo; 
+▪ 1 maggio – 30 aprile dell’anno successivo; 
+▪ 1 giugno – 31 maggio dell’anno successivo; 
+▪ 1 luglio – 30 giugno dell’anno successivo; 
+▪ 1 agosto – 31 luglio dell’anno successivo; 
+▪ 1 settembre – 31 agosto dell’anno successivo; 
+▪ 1 ottobre – 30 settembre dell’anno successivo; 
+▪ 1 novembre – 31 ottobre dell’anno successivo; 
+▪ 1 dicembre – 30 novembre dell’anno successivo. 
+Il periodo di osservazione per la certificazione del tasso di rendimento medio annuo del FONDO decorre dal 1 ottobre 
+dell’anno precedente e termina il 30 settembre dell’anno di certificazione. 
+Il rendimento annuale applicato per la rivalutazione delle prestazioni assicurate è quello relativo al periodo di 
+osservazione adottato per la certificazione, salvo quanto previsto e disciplinato dalle Condizioni di Assicurazione.  
+ 
+Articolo 4 - Oneri a carico della gestione separata 
+Gli unici oneri che gravano sul FONDO sono rappresentati dalle spese relative all’attività di verifica contabile 
+effettuata dalla società di revisione e quelle effettivamente sostenute per l’acquisto e la vendita delle attività del 
+FONDO stesso. 
+Non sono consentite altre forme di prelievo, in qualsiasi modo effettuate. 
+ 
+Articolo 5 - Condizioni di Assicurazione 
+Il presente Regolamento è parte integrante delle Condizioni di Assicurazione. 
+ 
+Articolo 6 - Modifiche al regolamento della gestione separata 
+La Compagnia si riserva di apportare modifiche al regolamento derivanti dall’adeguamento dello stesso alla 
+normativa primaria e secondaria vigente, oppure a fronte di mutati criteri gestionali con esclusione, in tale ultimo 
+caso, di quelle meno favorevoli per gli assicurati-contraenti. 
+ 
+Articolo 7 - Operazioni straordinarie  
+La Gestione separata potrà essere oggetto di fusione o scissione con altre gestioni separate costituite dalla Società 
+aventi caratteristiche similari e politiche di investimento omogenee. La fusione o la scissione persegue in ogni caso 
+l’interesse dei contraenti e non comporta oneri aggiuntivi a carico di questi ultimi.
+=== pagina 28 ===
+Pagina 27 di 46 
+ 
+ 
+VALORI DI CONVERSIONE VALIDI PER GLI ISCRITTI CON DATA DI 
+ISCRIZIONE ANTECEDENTE AL 21 DICEMBRE 2012 
+OPZIONE A 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA IMMEDIATA (SESSO MASCHILE) 
+TASSO TECNICO 0,00% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(*) I valori si riferiscono ai nati dal 1948 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1939 al 1947 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1926 al 1938 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1925 o negli anni precedenti, l’età dovrà essere aumentata di tre anni. 
+ 
+Età (*) 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+MENSILE 
+50 27,383 27,193 27,130 27,099 27,068 27,037 
+51 28,132 27,932 27,866 27,833 27,800 27,767 
+52 28,922 28,710 28,641 28,606 28,571 28,536 
+53 29,755 29,531 29,457 29,420 29,383 29,346 
+54 30,633 30,395 30,317 30,278 30,239 30,200 
+55 31,560 31,308 31,225 31,184 31,142 31,101 
+56 32,541 32,273 32,185 32,141 32,097 32,053 
+57 33,579 33,294 33,200 33,154 33,107 33,060 
+58 34,682 34,378 34,277 34,228 34,178 34,128 
+59 35,853 35,528 35,421 35,368 35,314 35,261 
+60 37,098 36,751 36,636 36,579 36,523 36,466 
+61 38,423 38,050 37,928 37,867 37,806 37,745 
+62 39,831 39,430 39,299 39,233 39,168 39,103 
+63 41,328 40,897 40,755 40,685 40,615 40,545 
+64 42,923 42,459 42,306 42,230 42,154 42,079 
+65 44,626 44,124 43,959 43,877 43,796 43,714 
+66 46,446 45,903 45,724 45,636 45,547 45,459 
+67 48,396 47,806 47,612 47,516 47,420 47,325 
+68 50,487 49,845 49,635 49,530 49,426 49,322 
+69 52,735 52,035 51,806 51,692 51,579 51,466 
+70 55,154 54,389 54,139 54,014 53,891 53,768 
+71 57,761 56,923 56,649 56,513 56,377 56,242 
+72 60,582 59,660 59,359 59,209 59,061 58,913 
+73 63,646 62,630 62,298 62,134 61,970 61,807 
+74 66,993 65,868 65,501 65,319 65,138 64,958 
+75 70,660 69,409 69,002 68,800 68,600 68,400 
+76 74,678 73,282 72,829 72,604 72,381 72,159 
+77 79,066 77,503 76,996 76,745 76,496 76,248 
+78 83,838 82,083 81,515 81,233 80,954 80,676 
+79 88,998 87,023 86,384 86,068 85,755 85,443 
+80 94,578 92,351 91,632 91,276 90,923 90,573 
+81 100,648 98,129 97,317 96,917 96,519 96,125 
+82 107,295 104,438 103,519 103,066 102,616 102,170 
+83 114,654 111,397 110,352 109,837 109,327 108,821 
+84 122,861 119,129 117,935 117,347 116,764 116,188 
+85 131,929 127,635 126,265 125,591 124,925 124,265
+=== pagina 29 ===
+Pagina 28 di 46 
+ 
+ 
+OPZIONE B 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA IMMEDIATA CON MAGGIORAZIONE DEL 20% IN CASO DI NON AUTOSUFFICIENZA 
+(SESSO MASCHILE) 
+TASSO TECNICO 0,00% 
+ 
+ 
+Età (*) 
+ 
+ANNUALE 
+     
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+MENSILE 
+50 26,079 25,898 25,838 25,809 25,779 25,749 
+51 26,793 26,602 26,539 26,508 26,476 26,445 
+52 27,545 27,343 27,277 27,244 27,210 27,177 
+53 28,338 28,124 28,054 28,019 27,984 27,949 
+54 29,174 28,948 28,873 28,836 28,799 28,762 
+55 30,057 29,817 29,738 29,699 29,659 29,620 
+56 30,991 30,736 30,652 30,610 30,568 30,527 
+57 31,980 31,709 31,619 31,575 31,530 31,486 
+58 33,030 32,741 32,645 32,598 32,550 32,503 
+59 34,145 33,836 33,734 33,683 33,633 33,582 
+60 35,332 35,001 34,892 34,837 34,783 34,729 
+61 36,593 36,238 36,122 36,063 36,005 35,948 
+62 37,934 37,553 37,427 37,365 37,303 37,241 
+63 39,360 38,949 38,815 38,747 38,681 38,614 
+64 40,879 40,437 40,291 40,219 40,147 40,075 
+65 42,501 42,023 41,866 41,788 41,710 41,633 
+66 44,235 43,717 43,547 43,463 43,378 43,295 
+67 46,091 45,529 45,345 45,253 45,162 45,071 
+68 48,082 47,471 47,271 47,171 47,072 46,974 
+69 50,223 49,557 49,339 49,230 49,122 49,015 
+70 52,528 51,799 51,561 51,442 51,324 51,207 
+71 55,011 54,212 53,951 53,822 53,693 53,564 
+72 57,697 56,819 56,532 56,390 56,248 56,108 
+73 60,615 59,647 59,331 59,175 59,019 58,864 
+74 63,803 62,731 62,382 62,209 62,036 61,865 
+75 67,295 66,104 65,716 65,524 65,333 65,143 
+76 71,122 69,793 69,361 69,147 68,934 68,722 
+77 75,301 73,813 73,330 73,091 72,853 72,617 
+78 79,846 78,175 77,633 77,365 77,099 76,834 
+79 84,760 82,879 82,271 81,970 81,671 81,374 
+80 90,074 87,953 87,268 86,930 86,594 86,260 
+81 95,855 93,456 92,683 92,301 91,923 91,547 
+82 102,186 99,465 98,590 98,158 97,730 97,305 
+83 109,194 106,092 105,097 104,607 104,121 103,639 
+84 117,011 113,456 112,319 111,759 111,204 110,655 
+85 125,647 121,557 120,253 119,611 118,976 118,347 
+(*) I valori si riferiscono ai nati dal 1948 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1939 al 1947 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1926 al 1938 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1925 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 30 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA CERTA PER I PRIMI 5 ANNI 
+(SESSO MASCHILE) 
+TASSO TECNICO 0,00% 
+ 
+Pagina 29 di 46 
+ 
+ 
+ 
+Età (*) 
+ 
+ 
+ANNUALE 
+     
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+ 
+MENSILE 
+ 
+50 
+ 
+27,366 
+ 
+27,178 
+ 
+27,116 
+ 
+27,085 
+ 
+27,054 
+ 
+27,023 
+51 28,113 27,915 27,849 27,817 27,784 27,752 
+52 28,900 28,690 28,621 28,587 28,552 28,518 
+53 29,729 29,507 29,434 29,398 29,361 29,325 
+54 30,602 30,368 30,291 30,252 30,214 30,175 
+55 31,525 31,276 31,194 31,154 31,113 31,072 
+56 32,499 32,236 32,149 32,106 32,063 32,020 
+57 33,531 33,251 33,158 33,112 33,067 33,021 
+58 34,624 34,326 34,228 34,179 34,130 34,081 
+59 35,783 35,465 35,361 35,309 35,257 35,205 
+60 37,014 36,675 36,564 36,508 36,453 36,398 
+61 38,320 37,958 37,839 37,780 37,721 37,662 
+62 39,706 39,319 39,191 39,128 39,065 39,002 
+63 41,176 40,762 40,625 40,558 40,490 40,423 
+64 42,740 42,295 42,149 42,076 42,004 41,932 
+65 44,405 43,927 43,770 43,692 43,614 43,536 
+66 46,179 45,665 45,496 45,412 45,328 45,245 
+67 48,072 47,518 47,336 47,245 47,155 47,065 
+68 50,095 49,497 49,300 49,203 49,106 49,009 
+69 52,260 51,614 51,402 51,296 51,191 51,087 
+70 54,581 53,881 53,651 53,537 53,423 53,310 
+71 57,071 56,311 56,062 55,938 55,815 55,692 
+72 59,747 58,921 58,651 58,517 58,383 58,250 
+73 62,631 61,732 61,439 61,293 61,148 61,003 
+74 65,740 64,763 64,444 64,286 64,128 63,971 
+75 69,093 68,030 67,683 67,511 67,340 67,169 
+76 72,696 71,540 71,163 70,976 70,790 70,605 
+77 76,550 75,294 74,885 74,682 74,480 74,279 
+78 80,653 79,289 78,844 78,624 78,404 78,186 
+79 85,001 83,519 83,036 82,797 82,559 82,323 
+80 89,600 87,992 87,469 87,210 86,952 86,696 
+ 
+(*) I valori si riferiscono ai nati dal 1948 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1939 al 1947 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1926 al 1938 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1925 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 31 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA CERTA PER I PRIMI 10 ANNI 
+(SESSO MASCHILE) 
+TASSO TECNICO 0,00% 
+ 
+Pagina 30 di 46 
+ 
+ 
+Età (*) 
+ 
+ANNUALE 
+     
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+MENSILE 
+ 
+50 
+ 
+27,310 
+ 
+27,125 
+ 
+27,064 
+ 
+27,034 
+ 
+27,003 
+ 
+26,973 
+51 28,049 27,854 27,789 27,757 27,725 27,693 
+52 28,824 28,619 28,551 28,518 28,484 28,450 
+53 29,640 29,424 29,352 29,317 29,281 29,246 
+54 30,498 30,270 30,195 30,157 30,120 30,083 
+55 31,402 31,161 31,081 31,042 31,002 30,963 
+56 32,353 32,099 32,015 31,973 31,931 31,889 
+57 33,356 33,087 32,998 32,954 32,910 32,866 
+58 34,415 34,130 34,036 33,989 33,942 33,896 
+59 35,533 35,231 35,131 35,082 35,032 34,983 
+60 36,713 36,393 36,288 36,235 36,183 36,130 
+61 37,959 37,619 37,507 37,452 37,396 37,341 
+62 39,272 38,912 38,793 38,734 38,675 38,617 
+63 40,657 40,275 40,149 40,086 40,024 39,961 
+64 42,119 41,712 41,579 41,512 41,446 41,380 
+65 43,663 43,231 43,088 43,018 42,947 42,877 
+66 45,293 44,834 44,683 44,607 44,532 44,458 
+67 47,014 46,526 46,366 46,286 46,206 46,127 
+68 48,830 48,312 48,142 48,057 47,972 47,888 
+69 50,743 50,193 50,013 49,923 49,834 49,745 
+70 52,752 52,170 51,980 51,885 51,790 51,696 
+71 54,855 54,242 54,041 53,941 53,841 53,742 
+72 57,054 56,409 56,197 56,092 55,987 55,883 
+73 59,349 58,672 58,450 58,339 58,229 58,120 
+74 61,738 61,030 60,798 60,682 60,567 60,453 
+75 64,214 63,477 63,235 63,115 62,995 62,876 
+ 
+(*) I valori si riferiscono ai nati dal 1948 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1939 al 1947 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1926 al 1938 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1925 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 32 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA CERTA PER I PRIMI 15 ANNI 
+(SESSO MASCHILE) 
+TASSO TECNICO 0,00% 
+ 
+Pagina 31 di 46 
+ 
+ 
+ 
+Età (*) 
+ 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+ 
+MENSILE 
+ 
+50 
+ 
+27,190 
+ 
+27,010 
+ 
+26,951 
+ 
+26,921 
+ 
+26,892 
+ 
+26,862 
+51 27,907 27,719 27,657 27,626 27,595 27,564 
+52 28,658 28,460 28,395 28,363 28,330 28,298 
+53 29,443 29,237 29,168 29,134 29,100 29,066 
+54 30,266 30,049 29,977 29,941 29,906 29,870 
+55 31,126 30,899 30,824 30,786 30,749 30,712 
+56 32,027 31,788 31,710 31,670 31,631 31,592 
+57 32,970 32,719 32,637 32,596 32,555 32,514 
+58 33,957 33,694 33,607 33,564 33,521 33,478 
+59 34,989 34,714 34,623 34,578 34,532 34,487 
+60 36,069 35,780 35,685 35,638 35,590 35,543 
+61 37,197 36,894 36,795 36,745 36,695 36,646 
+62 38,372 38,055 37,951 37,899 37,847 37,795 
+63 39,594 39,263 39,154 39,099 39,045 38,991 
+64 40,861 40,516 40,402 40,346 40,289 40,233 
+65 42,170 41,812 41,694 41,636 41,577 41,519 
+66 43,519 43,149 43,027 42,966 42,906 42,845 
+67 44,903 44,522 44,396 44,334 44,271 44,209 
+68 46,318 45,927 45,798 45,734 45,670 45,606 
+69 47,758 47,358 47,226 47,161 47,095 47,030 
+70 49,214 48,808 48,674 48,608 48,541 48,475 
+ 
+(*) I valori si riferiscono ai nati dal 1948 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1939 al 1947 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1926 al 1938 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1925 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 33 ===
+Pagina 32 di 46 
+ 
+OPZIONE A 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA IMMEDIATA (SESSO FEMMINILE) 
+TASSO TECNICO 0,00% 
+ 
+ 
+Età (*) 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+MENSILE 
+50 24,869 24,712 24,660 24,634 24,608 24,583 
+51 25,488 25,324 25,269 25,242 25,215 25,188 
+52 26,139 25,966 25,909 25,880 25,852 25,823 
+53 26,822 26,640 26,579 26,549 26,519 26,490 
+54 27,540 27,348 27,284 27,253 27,221 27,190 
+55 28,295 28,093 28,026 27,992 27,959 27,926 
+56 29,093 28,878 28,808 28,772 28,737 28,702 
+57 29,934 29,708 29,633 29,596 29,558 29,521 
+58 30,825 30,585 30,506 30,466 30,427 30,388 
+59 31,770 31,515 31,430 31,388 31,347 31,305 
+60 32,772 32,501 32,411 32,367 32,322 32,278 
+61 33,838 33,548 33,453 33,405 33,358 33,311 
+62 34,970 34,661 34,560 34,509 34,458 34,408 
+63 36,175 35,844 35,735 35,681 35,627 35,573 
+64 37,459 37,105 36,988 36,930 36,872 36,815 
+65 38,832 38,451 38,326 38,264 38,202 38,140 
+66 40,295 39,886 39,751 39,684 39,617 39,550 
+67 41,866 41,424 41,279 41,206 41,134 41,062 
+68 43,554 43,076 42,919 42,841 42,763 42,685 
+69 45,370 44,851 44,681 44,596 44,512 44,428 
+70 47,328 46,764 46,578 46,486 46,395 46,303 
+71 49,440 48,825 48,623 48,523 48,423 48,323 
+72 51,725 51,052 50,831 50,722 50,612 50,504 
+73 54,212 53,473 53,231 53,111 52,992 52,872 
+74 56,932 56,117 55,851 55,719 55,587 55,456 
+75 59,907 59,005 58,711 58,565 58,419 58,275 
+76 63,170 62,169 61,842 61,680 61,519 61,358 
+77 66,752 65,634 65,270 65,090 64,910 64,732 
+78 70,682 69,430 69,023 68,821 68,621 68,421 
+79 74,987 73,580 73,123 72,896 72,671 72,447 
+80 79,704 78,116 77,601 77,346 77,093 76,841 
+81 84,876 83,078 82,495 82,207 81,921 81,637 
+82 90,583 88,538 87,877 87,550 87,225 86,903 
+83 96,900 94,564 93,810 93,437 93,067 92,701 
+84 103,929 101,246 100,382 99,955 99,532 99,113 
+85 111,675 108,583 107,590 107,100 106,615 106,134 
+(*) I valori si riferiscono ai nati dal 1950 al 1962. Per i nati dal 1963 al 1972 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1973 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1949 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1927 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 34 ===
+Pagina 33 di 46 
+OPZIONE B 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA IMMEDIATA CON MAGGIORAZIONE DEL 20% IN CASO DI NON AUTOSUFFICIENZA 
+ 
+ 
+TASSO TECNICO 0,00% 
+(SESSO FEMMINILE) 
+ 
+RATEAZIONE DELLA RENDITA 
+Età (*) ANNUALE SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE MENSILE 
+ 
+50 23,684 23,535 23,486 23,461 23,437 23,412 
+51 24,275 24,118 24,066 24,040 24,014 23,989 
+52 24,894 24,729 24,675 24,648 24,621 24,594 
+53 25,545 25,371 25,314 25,285 25,257 25,228 
+54 26,228 26,045 25,985 25,955 25,925 25,895 
+55 26,948 26,755 26,691 26,659 26,628 26,596 
+56 27,707 27,503 27,436 27,402 27,369 27,335 
+57 28,509 28,293 28,222 28,186 28,151 28,115 
+58 29,358 29,129 29,053 29,015 28,978 28,940 
+59 30,257 30,014 29,934 29,894 29,854 29,814 
+60 31,212 30,953 30,868 30,825 30,783 30,741 
+61 32,227 31,951 31,860 31,815 31,770 31,725 
+62 33,305 33,011 32,914 32,866 32,817 32,769 
+63 34,452 34,137 34,034 33,982 33,931 33,879 
+64 35,676 35,338 35,227 35,172 35,117 35,062 
+65 36,983 36,620 36,501 36,442 36,383 36,324 
+66 38,377 37,986 37,858 37,794 37,730 37,667 
+67 39,873 39,451 39,313 39,244 39,175 39,107 
+68 41,480 41,025 40,875 40,800 40,726 40,652 
+69 43,210 42,716 42,553 42,473 42,392 42,312 
+70 45,074 44,537 44,360 44,273 44,185 44,099 
+71 47,086 46,500 46,307 46,212 46,117 46,022 
+72 49,262 48,621 48,411 48,306 48,202 48,099 
+73 51,631 50,927 50,696 50,582 50,468 50,355 
+74 54,221 53,445 53,191 53,065 52,940 52,815 
+75 57,054 56,196 55,915 55,776 55,637 55,500 
+76 60,162 59,209 58,897 58,743 58,589 58,436 
+77 63,573 62,509 62,162 61,990 61,819 61,649 
+78 67,316 66,124 65,736 65,544 65,353 65,163 
+79 71,416 70,076 69,641 69,425 69,211 68,998 
+80 75,909 74,397 73,906 73,663 73,422 73,182 
+81 80,834 79,122 78,567 78,292 78,020 77,749 
+82 86,270 84,322 83,692 83,381 83,072 82,765 
+83 92,286 90,061 89,342 88,988 88,636 88,286 
+84 98,980 96,424 95,602 95,195 94,793 94,393 
+85 106,357 103,413 102,467 102,000 101,538 101,080 
+(*) I valori si riferiscono ai nati dal 1950 al 1962. Per i nati dal 1963 al 1972 si applica il ringiovanimento dell’età di un 
+anno, per i nati dal 1973 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1949 l’età dovrà essere aumentata 
+di un anno. Per i nati dal 1928 al 1940 l’età dovrà essere aumentata di due anni. Per i nati nel 1927 o negli anni 
+precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 35 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA CERTA PER I PRIMI 5 ANNI (SESSO FEMMINILE) 
+ 
+Pagina 34 di 46 
+TASSO TECNICO 0,00% 
+ 
+ 
+ 
+Età (*) 
+ 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+ 
+MENSILE 
+ 
+50 
+ 
+24,858 
+ 
+24,702 
+ 
+24,651 
+ 
+24,625 
+ 
+24,599 
+ 
+24,574 
+51 25,476 25,313 25,259 25,232 25,205 25,178 
+52 26,125 25,953 25,897 25,868 25,840 25,812 
+53 26,806 26,626 26,566 26,536 26,507 26,477 
+54 27,522 27,332 27,269 27,238 27,207 27,175 
+55 28,276 28,075 28,009 27,976 27,943 27,910 
+56 29,071 28,859 28,789 28,754 28,719 28,685 
+57 29,910 29,686 29,612 29,575 29,538 29,502 
+58 30,798 30,561 30,482 30,443 30,404 30,365 
+59 31,739 31,487 31,403 31,362 31,321 31,279 
+60 32,736 32,468 32,380 32,336 32,292 32,248 
+61 33,795 33,510 33,416 33,369 33,323 33,276 
+62 34,920 34,616 34,516 34,466 34,416 34,367 
+63 36,115 35,790 35,684 35,631 35,577 35,525 
+64 37,388 37,041 36,927 36,870 36,813 36,757 
+65 38,746 38,375 38,253 38,192 38,131 38,071 
+66 40,194 39,795 39,663 39,598 39,533 39,468 
+67 41,744 41,315 41,174 41,104 41,034 40,964 
+68 43,406 42,944 42,792 42,717 42,641 42,566 
+69 45,191 44,692 44,528 44,446 44,365 44,284 
+70 47,111 46,571 46,393 46,305 46,217 46,129 
+71 49,178 48,591 48,399 48,303 48,208 48,113 
+72 51,407 50,770 50,561 50,457 50,353 50,250 
+73 53,823 53,128 52,901 52,788 52,675 52,563 
+74 56,446 55,688 55,440 55,317 55,194 55,072 
+75 59,293 58,464 58,192 58,058 57,924 57,790 
+76 62,382 61,475 61,178 61,031 60,884 60,738 
+77 65,730 64,736 64,411 64,250 64,090 63,930 
+78 69,353 68,263 67,907 67,731 67,555 67,381 
+79 73,263 72,067 71,677 71,483 71,291 71,099 
+80 77,471 76,159 75,732 75,520 75,309 75,100 
+(*) I valori si riferiscono ai nati dal 1950 al 1962. Per i nati dal 1963 al 1972 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1973 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1949 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1927 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 36 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA CERTA PER I PRIMI 10 ANNI (SESSO FEMMINILE) 
+ 
+Pagina 35 di 46 
+ 
+TASSO TECNICO 0,00% 
+ 
+ 
+ 
+Età (*) 
+ 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+ 
+MENSILE 
+ 
+50 
+ 
+24,824 
+ 
+24,670 
+ 
+24,619 
+ 
+24,594 
+ 
+24,568 
+ 
+24,543 
+51 25,439 25,277 25,224 25,197 25,170 25,144 
+52 26,083 25,913 25,857 25,829 25,802 25,774 
+53 26,759 26,581 26,522 26,493 26,463 26,434 
+54 27,469 27,282 27,220 27,189 27,158 27,127 
+55 28,216 28,019 27,953 27,921 27,888 27,856 
+56 29,003 28,794 28,726 28,691 28,657 28,623 
+57 29,832 29,612 29,539 29,503 29,467 29,431 
+58 30,707 30,475 30,398 30,360 30,322 30,284 
+59 31,633 31,387 31,305 31,265 31,225 31,184 
+60 32,611 32,351 32,265 32,222 32,179 32,137 
+61 33,648 33,372 33,281 33,235 33,190 33,145 
+62 34,746 34,452 34,356 34,307 34,259 34,211 
+63 35,908 35,596 35,494 35,442 35,391 35,341 
+64 37,142 36,810 36,701 36,646 36,592 36,538 
+65 38,453 38,099 37,983 37,925 37,867 37,810 
+66 39,844 39,467 39,342 39,281 39,219 39,158 
+67 41,325 40,923 40,790 40,724 40,658 40,593 
+68 42,903 42,473 42,331 42,261 42,190 42,120 
+69 44,582 44,122 43,971 43,896 43,821 43,746 
+70 46,368 45,877 45,715 45,635 45,555 45,475 
+71 48,265 47,740 47,568 47,482 47,397 47,312 
+72 50,278 49,718 49,535 49,443 49,352 49,261 
+73 52,415 51,819 51,623 51,526 51,429 51,333 
+74 54,680 54,047 53,839 53,736 53,633 53,530 
+75 57,071 56,400 56,179 56,070 55,961 55,852 
+ 
+(*) I valori si riferiscono ai nati dal 1950 al 1962. Per i nati dal 1963 al 1972 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1973 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1949 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1927 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 37 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+ 
+Pagina 36 di 46 
+VITALIZIA CERTA PER I PRIMI 15 ANNI 
+ 
+ 
+TASSO TECNICO 0,00% 
+(SESSO FEMMINILE) 
+ 
+ 
+ 
+Età (*) 
+ 
+ 
+ANNUALE 
+     
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE QUADRIMESTRALE TRIMESTRALE  BIMESTRALE 
+ 
+ 
+MENSILE 
+ 
+50 
+ 
+24,759 
+ 
+24,608 
+ 
+24,558 
+ 
+24,533 
+ 
+24,508 
+ 
+24,483 
+51 25,365 25,207 25,155 25,128 25,102 25,076 
+52 26,000 25,834 25,779 25,752 25,724 25,697 
+53 26,665 26,490 26,433 26,404 26,376 26,347 
+54 27,361 27,178 27,118 27,088 27,058 27,028 
+55 28,092 27,900 27,836 27,805 27,773 27,742 
+56 28,859 28,657 28,590 28,557 28,524 28,491 
+57 29,665 29,452 29,382 29,347 29,313 29,278 
+58 30,512 30,289 30,215 30,178 30,142 30,105 
+59 31,404 31,169 31,091 31,053 31,014 30,976 
+60 32,343 32,095 32,013 31,973 31,932 31,891 
+61 33,331 33,070 32,984 32,941 32,898 32,856 
+62 34,371 34,096 34,005 33,960 33,915 33,870 
+63 35,465 35,175 35,079 35,032 34,984 34,937 
+64 36,614 36,309 36,208 36,158 36,108 36,058 
+65 37,821 37,500 37,394 37,341 37,289 37,236 
+66 39,083 38,746 38,635 38,579 38,524 38,469 
+67 40,403 40,050 39,934 39,876 39,818 39,761 
+68 41,781 41,412 41,290 41,230 41,169 41,109 
+69 43,213 42,829 42,702 42,639 42,576 42,513 
+70 44,695 44,296 44,165 44,100 44,034 43,969 
+ 
+(*) I valori si riferiscono ai nati dal 1950 al 1962. Per i nati dal 1963 al 1972 si applica il ringiovanimento 
+dell’età di un anno, per i nati dal 1973 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1949 l’età 
+dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l’età dovrà essere aumentata di due anni. 
+Per i nati nel 1927 o negli anni precedenti, l’età dovrà essere aumentata di tre anni.
+=== pagina 38 ===
+Pagina 37 di 46 
+VALORI DI CONVERSIONE VALIDI PER GLI ISCRITTI CON DATA DI 
+ISCRIZIONE A PARTIRE DAL 21 DICEMBRE 2012 
+ 
+OPZIONE A 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA IMMEDIATA 
+TASSO TECNICO 0,00% 
+ 
+Età (*)  
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE  UADRIMESTRAL TRIMESTRALE 
+ 
+BIMESTRALE 
+ 
+MENSILE 
+ 
+50 
+ 
+25,392 
+ 
+25,228 
+ 
+25,174 
+ 
+25,148 
+ 
+25,121 
+ 
+25,094 
+51 26,038 25,866 25,809 25,781 25,753 25,725 
+52 26,716 26,535 26,476 26,446 26,416 26,387 
+53 27,429 27,238 27,175 27,144 27,113 27,081 
+54 28,179 27,978 27,911 27,878 27,845 27,812 
+55 28,968 28,756 28,686 28,651 28,616 28,581 
+56 29,802 29,577 29,503 29,466 29,429 29,392 
+57 30,683 30,444 30,366 30,327 30,288 30,249 
+58 31,615 31,362 31,279 31,238 31,196 31,155 
+59 32,604 32,335 32,247 32,203 32,159 32,115 
+60 33,654 33,368 33,274 33,227 33,180 33,133 
+61 34,771 34,465 34,364 34,314 34,264 34,215 
+62 35,957 35,631 35,523 35,469 35,416 35,363 
+63 37,219 36,869 36,754 36,696 36,639 36,582 
+64 38,564 38,189 38,065 38,003 37,942 37,881 
+65 40,001 39,597 39,464 39,398 39,332 39,267 
+66 41,534 41,098 40,955 40,884 40,813 40,743 
+67 43,178 42,708 42,553 42,476 42,400 42,324 
+68 44,944 44,435 44,267 44,184 44,101 44,019 
+69 46,844 46,291 46,110 46,019 45,930 45,840 
+70 48,891 48,289 48,092 47,993 47,896 47,798 
+71 51,099 50,442 50,226 50,119 50,013 49,907 
+72 53,487 52,767 52,532 52,415 52,298 52,182 
+73 56,085 55,295 55,036 54,908 54,780 54,652 
+74 58,926 58,054 57,769 57,627 57,486 57,346 
+75 62,033 61,067 60,752 60,596 60,440 60,285 
+76 65,442 64,368 64,017 63,844 63,671 63,499 
+77 69,177 67,978 67,588 67,394 67,202 67,010 
+78 73,270 71,926 71,489 71,272 71,057 70,843 
+79 77,741 76,230 75,739 75,496 75,255 75,015 
+80 82,625 80,920 80,368 80,094 79,822 79,553 
+81 87,974 86,044 85,419 85,110 84,803 84,499 
+82 93,868 91,673 90,964 90,614 90,266 89,922 
+83 100,391 97,885 97,077 96,678 96,282 95,890 
+84 107,653 104,776 103,851 103,395 102,943 102,494 
+85 115,661 112,347 111,285 110,761 110,242 109,728 
+(*) I valori si riferiscono ai nati dal 1949 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell'età di un anno. Per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1948 l'età 
+dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l'età dovrà essere aumentata di 2 anni. Per i 
+nati nel 1927 o negli anni precedenti, l'età dovrà essere aumentata di 3 anni.
+=== pagina 39 ===
+Pagina 38 di 46 
+OPZIONE B 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA IMMEDIATA CON MAGGIORAZIONE DEL 20% IN CASO DI NON AUTOSUFFICIENZA 
+ 
+TASSO TECNICO 0,00% 
+ 
+ 
+Età (*) 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE  UADRIMESTRAL TRIMESTRALE 
+ 
+BIMESTRALE 
+ 
+MENSILE 
+50 24,183 24,027 23,976 23,950 23,924 23,899 
+51 24,798 24,634 24,580 24,553 24,526 24,500 
+52 25,444 25,272 25,215 25,187 25,158 25,130 
+53 26,123 25,941 25,881 25,851 25,822 25,792 
+54 26,837 26,645 26,582 26,551 26,519 26,488 
+55 27,589 27,387 27,320 27,287 27,253 27,220 
+56 28,383 28,169 28,098 28,063 28,028 27,993 
+57 29,222 28,995 28,920 28,883 28,845 28,808 
+58 30,110 29,869 29,790 29,750 29,711 29,671 
+59 31,052 30,796 30,711 30,669 30,627 30,585 
+60 32,052 31,779 31,689 31,644 31,600 31,555 
+61 33,115 32,824 32,728 32,680 32,633 32,585 
+62 34,245 33,934 33,831 33,780 33,729 33,679 
+63 35,447 35,113 35,004 34,949 34,895 34,840 
+64 36,728 36,370 36,252 36,194 36,135 36,077 
+65 38,096 37,711 37,585 37,522 37,459 37,397 
+66 39,556 39,141 39,005 38,937 38,870 38,802 
+67 41,122 40,674 40,527 40,454 40,381 40,308 
+68 42,804 42,319 42,159 42,080 42,001 41,923 
+69 44,613 44,087 43,914 43,828 43,742 43,657 
+70 46,563 45,989 45,801 45,708 45,615 45,522 
+71 48,666 48,040 47,835 47,733 47,631 47,530 
+72 50,940 50,255 50,030 49,919 49,808 49,697 
+73 53,415 52,662 52,415 52,293 52,171 52,050 
+74 56,120 55,289 55,018 54,883 54,749 54,615 
+75 59,079 58,159 57,859 57,710 57,562 57,414 
+76 62,325 61,302 60,969 60,803 60,639 60,475 
+77 65,883 64,741 64,369 64,185 64,001 63,819 
+78 69,781 68,501 68,084 67,878 67,673 67,469 
+79 74,039 72,600 72,132 71,901 71,671 71,442 
+80 78,691 77,067 76,541 76,280 76,021 75,764 
+81 83,785 81,947 81,352 81,057 80,765 80,475 
+82 89,398 87,308 86,633 86,299 85,968 85,640 
+83 95,610 93,223 92,454 92,074 91,698 91,324 
+84 102,526 99,787 98,906 98,472 98,041 97,614 
+85 110,153 106,998 105,985 105,487 104,992 104,503 
+(*) I valori si riferiscono ai nati dal 1949 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell'età di un anno. Per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1948 l'età 
+dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l'età dovrà essere aumentata di 2 anni. Per i 
+nati nel 1927 o negli anni precedenti, l'età dovrà essere aumentata di 3 anni.
+=== pagina 40 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA CERTA PER I PRIMI 5 ANNI 
+TASSO TECNICO 0,00% 
+ 
+Pagina 39 di 46 
+ 
+ 
+Età (*) 
+ 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE  UADRIMESTRAL TRIMESTRALE 
+ 
+ 
+BIMESTRALE 
+ 
+ 
+MENSILE 
+ 
+50 
+ 
+25,380 
+ 
+25,218 
+ 
+25,164 
+ 
+25,137 
+ 
+25,111 
+ 
+25,084 
+51 26,024 25,854 25,798 25,769 25,741 25,714 
+52 26,701 26,522 26,462 26,433 26,403 26,374 
+53 27,411 27,223 27,160 27,129 27,098 27,067 
+54 28,159 27,960 27,894 27,861 27,829 27,796 
+55 28,946 28,736 28,667 28,632 28,598 28,563 
+56 29,777 29,555 29,481 29,445 29,408 29,372 
+57 30,654 30,419 30,341 30,303 30,264 30,226 
+58 31,583 31,333 31,251 31,210 31,169 31,128 
+59 32,566 32,301 32,214 32,171 32,127 32,084 
+60 33,610 33,328 33,235 33,189 33,143 33,097 
+61 34,718 34,418 34,319 34,270 34,220 34,172 
+62 35,894 35,574 35,468 35,416 35,364 35,311 
+63 37,143 36,801 36,689 36,633 36,577 36,521 
+64 38,474 38,108 37,987 37,927 37,868 37,808 
+65 39,892 39,500 39,371 39,307 39,243 39,179 
+66 41,404 40,983 40,844 40,775 40,707 40,638 
+67 43,022 42,569 42,420 42,346 42,272 42,198 
+68 44,755 44,267 44,106 44,027 43,947 43,868 
+69 46,616 46,088 45,915 45,829 45,743 45,657 
+70 48,615 48,044 47,856 47,763 47,670 47,577 
+71 50,766 50,146 49,942 49,841 49,741 49,640 
+72 53,084 52,410 52,189 52,079 51,970 51,861 
+73 55,593 54,859 54,618 54,499 54,380 54,261 
+74 58,314 57,513 57,251 57,121 56,991 56,862 
+75 61,262 60,387 60,101 59,959 59,818 59,677 
+76 64,456 63,500 63,188 63,033 62,878 62,725 
+77 67,909 66,863 66,522 66,352 66,183 66,016 
+78 71,634 70,489 70,115 69,930 69,745 69,562 
+79 75,639 74,385 73,976 73,773 73,571 73,371 
+80 79,934 78,561 78,114 77,892 77,672 77,453 
+ 
+(*) I valori si riferiscono ai nati dal 1949 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell'età di un anno. Per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1948 l'età 
+dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l'età dovrà essere aumentata di 2 anni. Per i 
+nati nel 1927 o negli anni precedenti, l'età dovrà essere aumentata di 3 anni.
+=== pagina 41 ===
+OPZIONE C 
+VALORI DI CONVERSIONE PER 1.000,00 EURO DI CAPITALE LIQUIDABILE A SCADENZA IN RENDITA 
+VITALIZIA CERTA PER I PRIMI 10 ANNI 
+TASSO TECNICO 0,00% 
+ 
+Pagina 40 di 46 
+ 
+ 
+Età (*) 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE  UADRIMESTRAL TRIMESTRALE 
+ 
+BIMESTRALE 
+ 
+MENSILE 
+ 
+50 
+ 
+25,342 
+ 
+25,182 
+ 
+25,129 
+ 
+25,103 
+ 
+25,076 
+ 
+25,050 
+51 25,982 25,814 25,758 25,730 25,703 25,675 
+52 26,653 26,476 26,418 26,389 26,359 26,330 
+53 27,357 27,171 27,110 27,079 27,049 27,018 
+54 28,097 27,901 27,837 27,804 27,772 27,740 
+55 28,875 28,669 28,601 28,567 28,533 28,499 
+56 29,695 29,477 29,405 29,370 29,334 29,298 
+57 30,559 30,329 30,253 30,216 30,178 30,140 
+58 31,471 31,228 31,148 31,108 31,068 31,029 
+59 32,435 32,178 32,093 32,051 32,009 31,967 
+60 33,455 33,182 33,093 33,048 33,003 32,959 
+61 34,534 34,245 34,150 34,102 34,055 34,008 
+62 35,675 35,368 35,267 35,217 35,167 35,117 
+63 36,883 36,557 36,450 36,396 36,343 36,290 
+64 38,164 37,817 37,702 37,646 37,589 37,532 
+65 39,523 39,153 39,031 38,971 38,910 38,850 
+66 40,963 40,569 40,439 40,375 40,311 40,246 
+67 42,495 42,074 41,936 41,867 41,799 41,730 
+68 44,123 43,674 43,526 43,453 43,380 43,307 
+69 45,852 45,373 45,216 45,137 45,059 44,982 
+70 47,687 47,176 47,008 46,925 46,842 46,759 
+71 49,630 49,086 48,907 48,819 48,730 48,642 
+72 51,686 51,107 50,917 50,823 50,729 50,635 
+73 53,861 53,247 53,045 52,945 52,845 52,746 
+74 56,160 55,509 55,295 55,189 55,083 54,978 
+75 58,576 57,889 57,663 57,551 57,439 57,328 
+ 
+(*) I valori si riferiscono ai nati dal 1949 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell'età di un anno. Per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1948 
+l'età dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l'età dovrà essere aumentata di 2 anni. 
+Per i nati nel 1927 o negli anni precedenti, l'età dovrà essere aumentata di 3 anni.
+=== pagina 42 ===
+Pagina 41 di 46 
+ 
+ 
+Età (*) 
+ 
+ANNUALE 
+RATEAZIONE DELLA RENDITA 
+SEMESTRALE   UADRIMESTRAL TRIMESTRALE 
+ 
+BIMESTRALE 
+ 
+MENSILE 
+ 
+50 
+ 
+25,267 
+ 
+25,110 
+ 
+25,058 
+ 
+25,032 
+ 
+25,007 
+ 
+24,981 
+51 25,896 25,732 25,677 25,650 25,623 25,596 
+52 26,555 26,382 26,325 26,297 26,269 26,240 
+53 27,244 27,063 27,004 26,974 26,944 26,914 
+54 27,967 27,777 27,714 27,683 27,652 27,621 
+55 28,724 28,525 28,459 28,426 28,393 28,361 
+56 29,519 29,309 29,240 29,206 29,171 29,137 
+57 30,353 30,133 30,060 30,024 29,988 29,952 
+58 31,230 30,998 30,922 30,884 30,846 30,808 
+59 32,152 31,908 31,828 31,787 31,748 31,708 
+60 33,120 32,864 32,779 32,737 32,695 32,653 
+61 34,139 33,869 33,780 33,736 33,691 33,647 
+62 35,209 34,925 34,831 34,784 34,738 34,691 
+63 36,331 36,032 35,933 35,884 35,835 35,786 
+64 37,507 37,193 37,089 37,038 36,986 36,935 
+65 38,738 38,409 38,300 38,246 38,192 38,138 
+66 40,022 39,677 39,564 39,507 39,450 39,394 
+67 41,361 41,000 40,882 40,822 40,763 40,705 
+68 42,751 42,376 42,252 42,191 42,129 42,068 
+69 44,191 43,801 43,673 43,609 43,545 43,482 
+70 45,673 45,271 45,139 45,073 45,007 44,942 
+ 
+(*) I valori si riferiscono ai nati dal 1949 al 1960. Per i nati dal 1961 al 1970 si applica il ringiovanimento 
+dell'età di un anno. Per i nati dal 1971 in poi il ringiovanimento di due anni. Per i nati dal 1941 al 1948 
+l'età dovrà essere aumentata di un anno. Per i nati dal 1928 al 1940 l'età dovrà essere aumentata di 2 anni. 
+Per i nati nel 1927 o negli anni precedenti, l'età dovrà essere aumentata di 3 anni.
+=== pagina 43 ===
+Pagina 42 di 46 
+ALLEGATO N. 3 
+CONDIZIONI DELLE PRESTAZIONI ASSICURATIVE ACCESSORIE 
+Art. 1 - Prestazioni assicurate integrative 
+1. In caso di morte o di invalidità permanente dell’iscritto prima del conseguimento del diritto alla prestazione 
+pensionistica, la Compagnia liquiderà un importo pari all’ultimo contributo annuo versato al Fondo (al netto di 
+ogni onere e spesa) moltiplicato per il numero intero di anni mancanti al conseguimento del 67° anno di età. 
+2. In caso di versamento dei contributi al Fondo in rate semestrali, quadrimestrali, trimestrali o mensili, il contributo 
+annuo sarà pari all’ultimo contributo versato prima della data di decesso o di denuncia dell’invalidità permanente 
+moltiplicato per il numero delle rate sub-annuali. 
+3. In caso di sospensione della contribuzione al Fondo, le prestazioni assicurative decadono, senza diritto a capitale 
+ridotto od a valore di riscatto. 
+4. Al compimento del 67° anno di età o a maturazione del diritto alla prestazione pensionistica, senza che si sia 
+verificato il decesso o l’invalidità permanente dell’iscritto, le prestazioni assicurative integrative decadono ed i 
+contributi corrispondenti a tali prestazioni resteranno acquisiti alla Compagnia. 
+ 
+Art. 2 - Dichiarazioni dell’iscritto 
+1. Le dichiarazioni rese dall’iscritto al Fondo devono essere esatte e complete. 
+2. Trascorsi sei mesi dall’entrata in vigore delle prestazioni assicurative, l’assicurazione non è contestabile per 
+dichiarazioni inesatte o reticenti, salvo il caso in cui la verità sia stata alterata o taciuta in malafede. 
+3. L’inesatta indicazione dell’età dell’Iscritto comporta in ogni caso la rettifica, in base all’età reale, delle somme 
+dovute. 
+ 
+Art. 3 - Rischio di morte 
+1.  Il rischio di morte è coperto qualunque possa esserne la causa e senza limiti territoriali. 
+ 
+Art. 4 - Definizione dell’invalidità permanente 
+1. Si intende colpito da invalidità permanente l’iscritto che, per sopravvenuta malattia organica o lesione fisica 
+avvenuta dopo aver aderito all’assicurazione, comunque indipendenti dalla sua volontà ed oggettivamente 
+accertabili, abbia ridotto, in modo presumibilmente permanente, la propria capacità all’esercizio della sua 
+professione o mestiere e di ogni altra occupazione confacente alle sue attitudini ed abitudini, a meno di un terzo. 
+ 
+Art. 5 - Esclusioni e limitazioni alle garanzie rischio morte e invalidità permanente 
+1. Le prestazioni assicurative non trovano applicazione nel caso in cui il decesso dell’iscritto o l’invalidità 
+permanente siano causati da: 
+• dolo del Beneficiario; 
+• partecipazione attiva dell’iscritto a delitti dolosi; 
+• partecipazione attiva dell’iscritto ad atti di terrorismo, rivoluzione, fatti di guerra, guerra civile, salvo che non 
+derivi da obblighi verso lo Stato Italiano; in questo caso la garanzia può essere prestata, su richiesta dell’iscritto, 
+alle condizioni stabilite dal Ministero competente; 
+• guida di veicoli e natanti a motore per i quali l’iscritto non abbia superato mai, a norma delle disposizioni in 
+vigore, gli esami di abilitazione; 
+• incidente di volo, se l’iscritto viaggia a bordo di aeromobile non autorizzato al volo o con pilota non titolare di 
+brevetto idoneo; 
+• pratica, anche puramente ricreativa, delle seguenti attività sportive: alpinismo con scalate di roccia o con accesso 
+ai ghiacciai, arrampicata libera, speleologia, sport aerei (paracadutismo, parapendio, deltaplano, ecc.), 
+immersioni subacquee con autorespiratore o in apnea in profondità superiori a 5 metri, salti dal trampolino con 
+sci o idroscì, sci acrobatico, idroscì acrobatico, caccia grossa, equitazione (partecipazione a competizioni), 
+guidoslitta, skeleton, rafting e sport estremi in genere. E’ possibile estendere la copertura a tali attività, se 
+praticate dall’iscritto, dietro esplicita richiesta e previa corresponsione del relativo sovrappremio. In caso di 
+mancata richiesta, la Compagnia, ai sensi degli artt. 1892, 1893 e 1898 del c.c., si rivarrà riducendo la somma
+=== pagina 44 ===
+Pagina 43 di 46 
+dovuta in caso di sinistro in proporzione della differenza tra il versamento convenuto e quello che sarebbe stato 
+richiesto se si fosse conosciuto il vero stato delle cose; 
+• partecipazione a gare e corse di velocità, incluse le relative prove e allenamenti, con qualsiasi mezzo a motore. 
+Pratica delle seguenti attività sportive a livello professionale: rugby, football americano, hockey, lotta nelle sue 
+varie forme, arti marziali, pugilato, atletica pesante. E’ possibile estendere la copertura a tali attività, se praticate 
+dall’iscritto, dietro esplicita richiesta e previa corresponsione del relativo sovrappremio; 
+• esercizio delle seguenti attività lavorative: forze armate-forze di polizia, guardie giurate e vigili del fuoco (salvo 
+che l’iscritto svolga unicamente attività di impiegato in uffici interni), lavoro su piattaforme marine, lavoro su 
+tetti ed impalcature (muratore, imbianchino, idraulico, antennista, carpentiere, etc.), lavoro su imbarcazioni 
+(marinaio, pescatore, elettricista e macchinista), attività che comportano l’utilizzo di altiforni, attività che 
+comportano l’utilizzo di teleferiche, attività a contatto con sostanze nocive o tossiche, attività a contatto con 
+correnti elettriche superiori a 380 V, attività che comportano l’utilizzo di automezzi con trasporto di materiale 
+pericoloso, attività che richiede l’uso delle armi, attore e artista che svolgono attività pericolose, attività 
+subacquee, collaudatori di autoveicoli e motocicli, attività a contatto con esplosivi, lavoro nel sottosuolo 
+(speleologi, minatori o simili che lavorano nel sottosuolo), lavoro nei reparti di malattie infettive, attività di 
+radiologo e batteriologo, pilota o membro dell’equipaggio di qualsiasi aeromobile, giornalista o fotografo o 
+cameraman se svolgono missioni in zone a rischio per guerra, guerra civile o rivoluzione. E’ possibile estendere 
+la copertura a tali attività lavorative, se esercitate dall’iscritto, dietro specifica richiesta e previa corresponsione 
+del relativo sovrappremio. In caso di mancata richiesta, la Compagnia, ai sensi degli artt. 1892, 1893, 1898 e 
+1926 del c.c., si rivarrà riducendo la somma dovuta in caso di sinistro in proporzione della differenza tra il 
+versamento convenuto e quello che sarebbe stato richiesto se si fosse conosciuto il vero stato delle cose; 
+• esiti di infortuni e malattie che abbiano dato origine a sintomi, cure ed esami e che comportino, all’atto della 
+stipula del contratto, un’alterazione delle condizioni di salute dell’iscritto, salvo che gli stessi non siano stati 
+dichiarati in modo esplicito e per iscritto alla stipula del contratto; 
+• suicidio, se avviene nei primi due anni dall’entrata in vigore dell’assicurazione o, trascorso questo periodo, nei 
+primi dodici mesi dalla ripresa dei contributi al Fondo. 
+2. Le prestazioni assicurative non trovano applicazione nel caso in cui il decesso dell’iscritto o l’invalidità 
+permanente avvengano entro i primi sei mesi dall’adesione all’assicurazione o dalla ripresa dei contributi al 
+Fondo e non siano conseguenza diretta: 
+a) di una delle seguenti malattie infettive acute sopravvenute dopo l’adesione alle prestazioni assicurative 
+integrative: tifo, paratifo, difterite, scarlattina, morbillo, vaiolo, poliomielite anteriore acuta, meningite 
+cerebrospinale, polmonite, encefalite epidemica, carbonchio, febbri puerperali, tifo esantematico, epatite 
+virale A e B, leptospirosi ittero emorragica, colera, brucellosi, dissenteria bacillare, febbre gialla, febbre Q, 
+salmonellosi, botulismo, mononucleosi infettive, parotite epidemica, peste, rabbia, pertosse, rosolia, vaccinia 
+generalizzata, encefalite post vaccinica 
+b) di shock anafilattico sopravvenuto dopo l'adesione alle prestazioni assicurative integrative 
+c) di infortunio avvenuto dopo l’adesione alle prestazioni assicurative integrative, intendendo per infortunio 
+l'evento dovuto a causa fortuita, improvvisa, violenta ed esterna, che produca lesioni corporali obiettivamente 
+constatabili, le quali siano causa diretta ed esclusiva della morte. 
+3. Le prestazioni assicurative non trovano inoltre applicazione nel caso in cui il decesso dell’iscritto o l’invalidità 
+permanente avvengano entro i primi cinque anni dall’adesione all’assicurazione o dalla ripresa dei contributi al 
+Fondo e sia dovuto alla sindrome di immunodeficienza acquisita (AIDS), ovvero ad altra patologia ad essa 
+collegata. 
+ 
+Art. 6 - Denuncia in caso di decesso 
+1. Verificatosi il decesso dell’iscritto, l’interessato deve farne denuncia alla Compagnia, a mezzo lettera 
+raccomandata, inviando nel contempo la seguente documentazione: 
+• certificato di morte dell’iscritto; 
+• relazione sanitaria del medico curante sulle cause del decesso; 
+• copia dell’eventuale cartella clinica completa di anamnesi, relativa al primo ricovero; 
+• qualora le circostanze del decesso siano particolari, l’ulteriore documentazione in relazione al sinistro stesso,
+=== pagina 45 ===
+Pagina 44 di 46 
+anche di carattere sanitario, eventualmente ritenuta necessaria dalla Compagnia. 
+2. La Compagnia si impegna alla liquidazione della prestazione entro i 30 giorni successivi alla data di ricevimento 
+della documentazione completa e salvo verifica della stessa in relazione alle esclusioni e limitazioni previste agli 
+articoli precedenti. 
+ 
+Art. 7 - Denuncia in caso di invalidità permanente 
+1. Verificatasi l’invalidità permanente, l’iscritto al Fondo od altra persona in sua vece deve farne denuncia alla 
+Compagnia per i necessari accertamenti facendo pervenire alla Compagnia medesima, a mezzo lettera 
+raccomandata: 
+• la relazione sanitaria del medico curante sulle cause dell’invalidità permanente 
+• copia dell’eventuale cartella clinica completa di anamnesi, relativa al primo ricovero; 
+• copia dell’eventuale documentazione comprovante lo stato di invalidità permanente riconosciuto dall’Ente 
+preposto. 
+2. A richiesta della Compagnia, l’iscritto al Fondo e colui che ha fatto la denuncia dell’invalidità, sono obbligati a 
+rendere, con verità ed esattezza, le dichiarazioni ed a fornire le prove che potessero apparire utili per 
+l’accertamento delle cause dell’invalidità permanente e della sua gravità, a tal fine sciogliendo dal segreto 
+professionale i medici che hanno visitato o curato l’Iscritto. 
+ 
+Art. 8 - Accertamento dell’invalidità permanente 
+1. La Compagnia si impegna ad accertare l’esistenza dell’invalidità permanente entro i 60 giorni successivi alla 
+data di ricevimento della denuncia. 
+2. Il decesso dell’iscritto intervenuto prima del riconoscimento dell’invalidità permanente, comporta l'interruzione 
+della procedura accertativa e la liquidazione di quanto sarebbe spettato in caso di premorienza dell’iscritto. 
+3. La Compagnia si impegna alla liquidazione della prestazione entro i 30 giorni successivi alla data di 
+riconoscimento dell’invalidità permanente. 
+ 
+Art. 9 - Controversie sul riconoscimento dell’invalidità permanente 
+1. Nel caso di disaccordo sul riconoscimento dell’invalidità permanente, l’iscritto ha facoltà, entro 30 giorni dalla 
+comunicazione avutane, di promuovere, mediante lettera raccomandata indirizzata alla Compagnia, la decisione 
+di un Collegio Arbitrale, composto di tre medici, di cui uno nominato dalla Compagnia, l’altro dall’iscritto ed il 
+terzo scelto di comune accordo dalle due parti. 
+2. In caso di mancato accordo la scelta del terzo arbitro sarà demandata, anche ad istanza di una sola delle due 
+parti, al Presidente del Tribunale più vicino al luogo di residenza dell’iscritto. 
+3. Il Collegio Arbitrale decide  a maggioranza, come  amichevole  compositore, senza formalità di procedura, 
+con parere vincolante anche se uno dei componenti rifiuta di firmare il relativo verbale, salvo i casi di violenza, 
+dolo, errore o violazione di parti contrattuali. Gli arbitri, ove lo ritengano opportuno, potranno esperire, senza 
+obbligo di sentenza, qualsiasi accertamento sanitario di carattere preliminare o incidentale (visite mediche, esami 
+di laboratorio, ecc.). Ciascuna delle parti sopporta le spese e le competenze del proprio medico e la metà di quelle 
+del terzo medico. 
+4. I risultati delle operazioni arbitrali devono essere raccolti in apposito verbale, da redigersi in doppio esemplare, 
+uno per ciascuna delle parti. 
+ 
+Art. 10 - Costo della garanzia di invalidità permanente e del rischio morte 
+1. Il costo relativo alla garanzia di invalidità permanente ed al rischio di morte viene determinato applicando la 
+percentuale riportata nelle due tabelle seguenti, determinate in funzione dell’età raggiunta dall’iscritto 
+all’importo derivante dal prodotto dell’ultimo contributo annuo versato al Fondo, come definito al precedente 
+Art. 1, per il numero intero di anni mancanti al conseguimento del 67° anno di età. 
+ 
+Art. 11 - Tasse e imposte 
+1. Tasse e imposte relative all’assicurazione di invalidità permanente e premorienza sono a carico dell’iscritto al 
+Fondo o dei Beneficiari ed aventi diritto.
+=== pagina 46 ===
+Pagina 45 di 46 
+ASSICURAZIONE DI INVALIDITA’ PERMANENTE E DI PREMORIENZA 
+Tabella valida per tutti gli iscritti 
+Costo annuo della garanzia per  1.000 euro di prestazione assicurata (*) 
+Età raggiunta Costo annuo Età raggiunta Costo annuo 
+14 0,340 43 1,430 
+15 0,420 44 1,610 
+16 0,480 45 1,740 
+17 0,570 46 1,900 
+18 0,560 47 2,100 
+19 0,600 48 2,340 
+20 0,630 49 2,610 
+21 0,660 50 2,880 
+22 0,670 51 3,180 
+23 0,700 52 3,470 
+24 0,720 53 3,840 
+25 0,720 54 4,200 
+26 0,720 55 4,720 
+27 0,690 56 5,220 
+28 0,700 57 5,840 
+29 0,720 58 6,510 
+30 0,730 59 7,220 
+31 0,780 60 7,870 
+32 0,800 61 8,750 
+33 0,820 62 9,810 
+34 0,880 63 10,700 
+35 0,890 64 11,860 
+36 0,930 65 12,980 
+37 0,960 66 14,360 
+38 1,000   
+39 1,020   
+40 1,090   
+41 1,180   
+42 1,290   
+ 
+(*) La prestazione assicurata è pari al prodotto dell’ultimo contributo annuo per il numero di anni mancanti al 67° 
+anno di età.
+=== pagina 47 ===
+Pagina 46 di 46 
+ 
+ 
+ 
+ 
+APPENDICE AL REGOLAMENTO 
+ 
+Diversi livelli di garanzia applicati agli Aderenti iscritti al Fondo prima del 01/01/2024 
+(art. 7 del Regolamento) 
+ 
+Agli aderenti su base individuale e su base collettiva al Fondo prima del 01/01/2024 continuano ad applicarsi le 
+previgenti condizioni relative alla garanzia sui contributi netti versati antecedentemente a tale data, a condizione 
+che le posizioni individuali maturate entro tale data permangano all'interno del comparto “Nuovo Obbligazionario 
+Etico”, anche successivamente al 01/01/2024. L'importo minimo garantito è pari alla somma - per il periodo 
+intercorrente tra la data di valorizzazione dei contributi e il primo giorno di valorizzazione utile successivo alla 
+verifica delle condizioni che danno diritto alla prestazione - dei contributi netti versati ai comparti incorporati 
+(“Obbligazionario” e “Tutela”), inclusi gli eventuali importi derivanti da trasferimenti da altro comparto o da altra 
+forma pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto da eventuali 
+riscatti parziali e anticipazioni. 
+Per i soli montanti maturati nel comparto “Obbligazionario” al 31.12.2023, l’importo minimo garantito prevede 
+una maggiorazione sulla base di un tasso di garantito in ragione della data di adesione così stabilito: 
+- 2, 5% per gli aderenti al vecchio fondo Open Fund Nuova Tirrena (fondo incorporato nel presente 
+Programma Open dal 1/12/2010) fino a 31/12//2006 sui contributi versati fino a 11/2010 
+- 2% per gli aderenti al Fondo fino a 11/2014 
+- 1,5% per gli aderenti al Fondo dal 1/12/2014 fino a 06/2015 
+- 0% per gli aderenti al Fondo dal 1/7/2015 
+ 
+In caso di anticipazioni, riscatti parziali, trasferimento parziale ad altro comparto dal “Nuovo Obbligazionario 
+Etico”, si intenderanno oggetto dell’operazione prima i contributi versati in epoca più remota.

@@ -1,0 +1,743 @@
+# Fondo: CORE PENSION FONDO PENSIONE APERTO (core-pension)
+# Documento: Documento sul sistema di governo – 2026-02-27 Documento sul Sistema di Governo Societario
+# Fonte: https://www.corepension.it/files/nuxeo/dl/1461d2d3-dda3-4bbf-b797-21fa7c02ad53?inline=
+# Citato in: https://www.corepension.it/documento-sul-sistema-di-governo
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 329225e7c2a232b610d17b4b45095edcb0c94800725f21d982da03c41b57cc30
+# Pagine: 19
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul sistema di governo societario 
+afferente alla gestione dei fondi pensione aperti 
+ 
+Amundi SGR S.p.A. 
+Validità:  febbraio 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Testo approvato dal Consiglio di Amministrazione  
+con deliberazione del 25 febbraio 2026
+=== pagina 2 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 2 di 19 
+Amundi SGR  - Febbraio 2026  
+Sommario 
+ 
+Premessa ..................................................................................................................................................................... 3 
+1. Modello organizzativo .......................................................................................................................................... 4 
+Organi Sociali ..................................................................................................................................................................4 
+Funzioni fondamentali ...................................................................................................................................................6 
+Ulteriori funzioni aziendali coinvolte ...........................................................................................................................7 
+Altri attori rilevanti .........................................................................................................................................................9 
+Responsabile del Fondo .................................................................................................................................................9 
+Organismo di rappresentanza del Fondo ...................................................................................................................9 
+Organismo di vigilanza..................................................................................................................................................9 
+Processo di investimento della SGR .......................................................................................................................... 10 
+Funzioni e/o attività esternalizzate ........................................................................................................................... 11 
+2. Controlli interni .................................................................................................................................................. 13 
+3. Sistema di gestione dei rischi .......................................................................................................................... 15 
+4. Flussi informativi tra le strutture aziendali e il Responsabile del Fondo  ................................................... 17 
+5. Politica di remunerazione ................................................................................................................................. 18 
+6. Tecnologie dell’informazione e della comunicazione .................................................................................. 18
+=== pagina 3 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 3 di 19 
+Amundi SGR  - Febbraio 2026  
+ 
+Premessa 
+Amundi Società di Gestione del Risparmio S.p.A., in forma abbreviata Amundi SGR S.p.A., di seguito 
+definita “SGR” o “Società” ha sede legale e direzione generale in via Cernaia, 8/10 – 20121, Milano. 
+La Società, in virtù di provvedimento n. 1061 del 24 ottobre 2007 emanato dalla Banca d’Italia, è iscritta 
+all’Albo delle SGR (n. 40 sez. Gestori di OICVM e n. 105 sez. Gestori di FIA); con provvedimento adottato 
+dalla Banca d’Italia in data 16 ottobre 2018 c on delibera n. 522/2018 è iscritta al n. 2 della sez. Gestori 
+ELTIF del medesimo Albo. 
+La SGR ha istituito i fondi pensione aperti “SecondaPensione Fondo Pensione Aperto” e “Core Pension 
+Fondo Pensione Aperto” (di seguito definiti i “Fondi” o singolarmente il “Fondo”)  ai sensi dell’art. 12 del 
+decreto legislativo 5 dicembre 2005, n. 252 (e successive modificazioni e integrazioni). 
+La SGR esercita, inter alia, l’attività di gestione di “SecondaPensione Fondo Pensione Aperto” mentre ha 
+delegato la gestione finanziaria di “Core Pension Fondo Pensione Aperto ”1 a Fineco Asset Management 
+DAC, di seguito “Delegato”, con sede a Dublino, Irlanda, 
+La Società fa parte del gruppo Amundi, primo asset manager europeo, fra i primi 10 operatori a livello 
+mondiale. Il modello organizzativo adottato dalla SGR è teso a valorizzare i punti di forza derivanti 
+dall’essere parte di un player internazionale ricon osciuto. Socio unico della SGR è Amundi Asset 
+Management SAS che svolge attività di direzione e coordinamento.  
+Nella catena di valore del Gruppo, la SGR svolge una duplice funzione. Da un lato, nel ruolo di investment 
+hub, contribuisce al consolidamento di expertise e capacità di realizzare soluzioni di investimento per 
+soddisfare i bisogni di ogni tipologia di clientela a livello globale, valorizzando nel contempo le diversità 
+e le specificità espresse a livello locale. Dall’altro, rappresenta un qualificato canale di accesso per il 
+mercato italiano alle capacità gestorie innovative e distintive espresse dal gruppo Amundi, al contempo 
+consolidando il proprio ruolo mediante il rafforzamento della sua posizione di mercato e la 
+partecipazione alle dinamiche di sviluppo dell’industria nazionale del risparmio gestito.  
+Il presente documento è redatto allo scopo di illustrare il sistema di governo dei Fondi adottato dalla 
+SGR, in conformità con i principi normativi che disciplinano le forme pensionistiche complementari, con 
+i provvedimenti dell’Autorità di Vigilanza e nel  rispetto dei principi e criteri stabiliti dall’organo di 
+amministrazione.  
+Il presente documento è stato approvato dal Consiglio di Amministrazione di Amundi SGR è pubblicato 
+nel sito internet dei Fondi. 
+ 
+ 
+  
+ 
+1 La delega, efficace dal 4 marzo 2026, riguarda la gestione finanziaria dei seguenti comparti: Core Pension Obbligazionario 
+Misto, Core Pension Bilanciato, Core Pension Azionario e Core Pension Azionario Plus.
+=== pagina 4 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 4 di 19 
+Amundi SGR  - Febbraio 2026  
+1. Modello organizzativo 
+Di seguito sono indicati gli attori interni ed esterni  alla Società coinvolti  nella gestione de i Fondi , 
+riportando per ciascuno di essi i relativi compiti e responsabilità.  
+In linea generale, il sistema organizzativo della Società si attiene ai requisiti essenziali di chiarezza, 
+formalizzazione, comunicazione e separazione dei ruoli, in particolare per ciò che concerne l'attribuzione 
+di responsabilità, rappresentanza, definizione delle linee gerarchiche e delle attività operative.  
+ 
+Organi Sociali 
+Assemblea Generale degli Azionisti 
+L’Assemblea ordinaria e straordinaria delibera sulle materie attribuite alla propria competenza dalla 
+legge e dallo statuto. L’Assemblea ordinaria inoltre, secondo quanto previsto dalle vigenti disposizioni 
+di vigilanza applicabili: (a) stabilisce i compen si spettanti agli organi dalla stessa nominati; (b) approva 
+le politiche di remunerazione e incentivazione a favore dei componenti degli organi con funzione di 
+supervisione, gestione e controllo e del restante personale, intendendosi per tale i dipendenti e 
+collaboratori della Società e gli addetti alla sua rete distributiva, nonché i piani di remunerazione basati 
+su strumenti finanziari (es. stock option); (c) approva i criteri per la determinazione del compenso da 
+riconoscere in vista o in occasione della conclusione anticipata del rapporto di lavoro o per la cessazione 
+anticipata dalla carica (c.d. golden parachute) ivi compresi i limiti fissati a detto compenso in termini di 
+annualità della remunerazione fissa e l’ammontare massimo che deriva dalla loro applicazione. 
+Consiglio di Amministrazione  
+Il Consiglio di Amministrazione (in breve “CdA”) è l’organo a cui – ai sensi di disposizioni di legge, 
+regolamentari e statutarie - sono attribuite la funzione di supervisione strategica e la funzione di 
+gestione della Società, che esercita avvalendosi di uno o più Amministratori Delegati e dei componenti 
+della Direzione Generale.  
+Esso individua gli obiettivi e le strategie, definisce le politiche aziendali, valutandone periodicamente la 
+corretta attuazione e la coerenza con l’evoluzione dell’attività. 
+Promuove la diffusione della cultura del rischio a tutti i livelli dell’organizzazione.  
+Approva e valuta periodicamente l’adeguatezza  della struttura organizzativa, delle procedure aziendali 
+e delle funzioni di controllo nonché l’attribuzione di compiti e responsabilità alle diverse aree aziendali.  
+Verifica che il sistema di flussi informativi sia adeguato, completo e tempestivo.  
+Elabora, sottopone all’approvazione dell’assemblea e riesamina, almeno annualmente, la politica di 
+remunerazione e incentivazione ed è responsabile della sua corretta attuazione e della coerenza con le 
+strategie di lungo termine e con i livelli di rischio aziendali definiti. 
+Definisce le strategie dei portafogli gestiti ed è responsabile dell’approvazione del processo di investimento 
+e delle sue modifiche, nonché, almeno annualmente, della relativa valutazione di adeguatezza, su iniziativa 
+dell’Amministratore delegato ad effettuare le scelte d’investimento per conto dei portafogli gestiti (“CIO”), 
+sentiti i pareri dei comitati interni coinvolti (i.e.: Investment Committee e Risk Committee). 
+Presidente del CdA  
+Promuove il buon funzionamento del CdA, favorisce il confronto interno e assicura il bilanciamento dei 
+poteri, si pone come interlocutore dell’organo con funzione di controllo e, ove presenti, dei comitati 
+endo-consiliari. Favorisce in modo neutrale la dia lettica tra componenti esecutivi e non esecutivi e 
+sollecita la partecipazione attiva dei componenti non esecutivi ai lavori dell’organo.
+=== pagina 5 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 5 di 19 
+Amundi SGR  - Febbraio 2026  
+Amministratore Delegato (“CEO”) 
+Al CEO sono conferiti tutti i poteri necessari alla gestione della Società entro i limiti dell’oggetto sociale, 
+con facoltà di sub-delega e fatte salve le materie non delegabili ai sensi di legge o dello Statuto.  
+Il CEO e il Presidente del CdA sono i legali rappresentanti della Società.  
+Amministratore delegato a effettuare le scelte di investimento per conto dei portafogli gestiti (“CIO”) 
+Il CIO è responsabile della gestione dei patrimoni di OICR/fondi pensione e/o dei portafogli gestiti e 
+delegati, entro i limiti fissati dalla legge, dai regolamenti e dai contratti, in linea con le direttrici 
+strategiche d’investimento come di volta in vol ta definite ed approvate dal CdA e  fatte salve le materie 
+non delegabili ai sensi di legge o dello Statuto sociale. Presiede i lavori dei comitati di investimento 
+assumendo le decisioni esecutive ed è responsabile di stipulare, modificare, risolvere qualsi asi tipo di 
+contratto connesso all’esercizio delle attività ricomprese nell’oggetto sociale, nei limiti di quanto previsto 
+dallo Statuto sociale e dalla legge, nonché di effettuare in genere ogni operazione connessa all'esercizio 
+dei servizi e delle attività di investimento autorizzati. 
+Comitati endo-consiliari 
+La SGR non ha istituito all’interno dell’organo con funzione di supervisione strategica i comitati 
+specializzati in tema di “nomine”, “rischi” e “remunerazioni” conformemente alla deroga concessa alle 
+SGR la cui capogruppo ha sede in altro Stato membro dell’unione europea , ha istituito detti comitati, 
+tiene debitamente conto delle specificità della SGR sotto il profilo operativo e assicura il rispetto della 
+normativa in materia. Amundi S.A. ha infatti istituito e attivato i comitati specializzati in tema di nomine, 
+rischi e remunerazioni prescritti dalla normativa vigente - denominati Appointment Committee , Risk 
+Committee e Remuneration Committee - ed essi soddisfano le condizioni previste dalla stessa.  
+La SGR ha istituto in data 28 marzo 2018 il comitato degli amministratori indipendenti (Independent 
+Directors Committee) che esprime pareri sull’adeguatezza delle misure e delle procedure per la gestione 
+dei conflitti di interessi definite dal CdA e in relazione alla determinazione dei criteri generali per la scelta 
+delle controparti contrattuali afferenti alla prestazione  dei servizi di gestione o di investimento e di 
+ripartizione degli incarichi tra le stesse, nonché in relazione alle procedure di control lo del rispetto dei 
+predetti criteri. 
+Direzione Generale 
+Rappresenta il vertice della struttura interna e come tale partecipa alla funzione di gestione cui spetta 
+l’attuazione degli indirizzi deliberati nell’esercizio della funzione di supervisione strategica. È composta 
+da un Condirettore Generale e due Vice Direttori Generali. 
+Condirettore Generale e Vice Direttori Generali - ove non in carica come amministratori - partecipano alle 
+riunioni del Consiglio ove potranno esercitare la facoltà di proposta e esprimere un parere consultivo. 
+Collegio Sindacale 
+Costituisce l’organo con funzioni di controllo. Esso vigila sull’osservanza della legge e dello Statuto, sul 
+rispetto dei principi di corretta amministrazione e, in particolare, sull’adeguatezza dell’assetto 
+organizzativo, amministrativo e contabile adottato dalla Società e sul suo concreto funzionamento.
+=== pagina 6 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 6 di 19 
+Amundi SGR  - Febbraio 2026  
+Funzioni fondamentali  
+La società ha istituito la funzione di revisione interna e la funzione di gestione dei rischi. Dette funzioni 
+riportano al Consiglio di Amministrazione e al Collegio Sindacale.  
+Le funzioni fondamentali, secondo quanto previsto dal D.lgs. 252/2005, hanno le seguenti finalità 
+all’interno dell’organizzazione della Società. 
+Funzione di revisione interna 
+La funzione di revisione interna è attribuita alla struttura “Internal Audit ”, collocata in posizione di 
+autonomia gerarchica rispetto alle strutture operative della Società, con riporto diretto e gerarchico al CdA. 
+La funzione svolge la propria attività in totale autonomia e collabora con l’omologa struttura della 
+Controllante da cui recepisce la metodologia di lavoro, allineata agli Standard Internazionali dell’Internal 
+Audit, e si adopera – sulla base del piano annuale di audit – ai fini di esaminare e valutare l’adeguatezza 
+e l’efficacia di sistemi, processi, procedure e meccanismi di controllo, formulando raccomandazioni sulla 
+base dei risultati degli interventi realizzati e verificandone ex post l’implementazione . Inter alia, il piano 
+prevede che, con frequenza almeno annuale, sia oggetto di verifica la rispondenza delle prassi di 
+remunerazione della SGR alle politiche approvate e alla normativa vigente.  
+L’adeguatezza e l’efficacia di sistemi, processi, procedure e meccanismi di controllo riguardanti i fondi 
+pensione aperti istituiti dalla SGR sono oggetto di valutazione all’interno del piano pluriennale di audit, 
+definito sulla base di un approccio risk based e sottoposto all’approvazione del CdA. 
+Funzione di gestione dei rischi  
+La funzione di gestione dei rischi della SGR è assicurata dall’unità organizzativa denominata “ Risk 
+Management”, collocata nell’area Strategy, Finance & Control . La funzione di gestione dei rischi 
+costituisce una unità gerarchicamente e funzionalmente indipendente rispetto alle strutture preposte 
+alla gestione dei portafogli e allo sviluppo commerciale, rispettando pertanto il principio di separatezza 
+tra funzione produttiva e funzione di controllo.  
+La funzione concorre alla definizione della politica di gestione dei rischi e facilita l’attuazione del sistema 
+di gestione dei rischi, verificando efficienza e efficacia del sistema nel suo complesso. Essa dispone di 
+propri strumenti informativi e di analisi per misurare autonomamente il rischio dei portafogli e il rispetto 
+delle disposizioni regolamentari o contrattuali e riporta i risultati delle proprie analisi e attività al CdA.  
+Più in generale, la funzione di gestione dei rischi  locale è collocata nella Risk Business Line  del gruppo 
+Amundi e può fare leva su competenze ed expertise maturate dalle strutture specializzate del Gruppo 
+finalizzate a garantire un approccio metodologico uniforme all’analisi dei vari tipi di rischio.  
+La funzione definisce a monte e in modo sistematico un quadro dettagliato per il monitoraggio dei rischi. 
+Viene in seguito effettuato un monitoraggio permanente, lungo tutto il ciclo di vita del portafoglio, per 
+verificare che la gestione sia conforme al quadro fissato in precedenza.  
+Il processo assicura che la ricerca della performance, per un determinato livello di rischio, avvenga in 
+maniera equilibrata fra autonomia disciplinata delle decisioni di investimento e intervento delle funzioni 
+di controllo in caso di situazioni particolari.
+=== pagina 7 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 7 di 19 
+Amundi SGR  - Febbraio 2026  
+Ulteriori funzioni aziendali coinvolte 
+Funzione di controllo di conformità alle norme e antiriciclaggio 
+La struttura “Compliance & AML” – alla quale sono attribuite la funzione di controllo di conformità alle 
+norme e la funzione antiriciclaggio - è collocata in posizione di autonomia e indipendenza, anche 
+gerarchica, rispetto alle strutture operative della SGR, riportando direttamente al CdA. 
+La funzione di controllo di conformità alle norme opera come funzione di controllo di II livello con 
+l’obiettivo di prevenire e gestire il rischio di non conformità anche attraverso una attività di indirizzo 
+nonché di supporto e monitoraggio sulle materie riguardanti gli obblighi di correttezza e trasparenza e 
+le norme di condotta relative ai servizi di investimento e di gestione collettiva, supportando inoltre le 
+funzioni di business della SGR nella valutazione dei presidi a tutela degli investitori adotta ti dai 
+collocatori nella distribuzione dei prodotti offerti dalla Società. 
+Attraverso un’attività di valutazione preventiva e il monitoraggio nel continuo la funzione di controllo di 
+conformità alle norme assicura che vengano disegnati processi e procedure conformi alla normativa, 
+garantisce un continuo flusso di informazioni in materia di conformità alla normativa stessa con 
+particolare attenzione alle previsioni a tutela della correttezza e trasparenza verso gli investitori, 
+curando inoltre l’attività di formazione del personale della Società nelle materie di propria competenza. 
+Interagisce con le unità organizzative della SGR e le altre funzioni di controllo allo scopo di aggiornare le 
+proprie metodologie di gestione del rischio di non conformità in coerenza con strategie e obiettivi aziendali.  
+La funzione compliance supporta gli Organi aziendali nell’individuazione e nelle modalità di gestione dei conflitti 
+di interesse, aggiorna il registro dei conflitti di interesse includendo tutte le fattispecie relative ai servizi resi 
+dalla SGR e verifica che le misure di prevenzione e gestione dei conflitti siano adottate. In base alle informazioni 
+disponibili, monitora le esposizioni e periodicamente informa il comitato degli amministratori indipendenti 
+(Independent Directors Committee) e il Responsabile del Fondo sugli esiti del monitoraggio. 
+La funzione fornisce supporto alla funzione Human Resources per la revisione della politica e prassi di 
+remunerazione e incentivazione del personale della SGR. 
+La funzione interagisce con le Autorità di Vigilanza relativamente alle materie presidiate e redige per 
+l’Organo con funzione di supervisione strategica e per l’Organo di Controllo relazioni che illustrano le 
+attività svolte. Tali relazioni riportano le ve rifiche effettuate ed i risultati emersi, le misure adottate per 
+rimediare a eventuali carenze rilevate e la situazione complessiva dei reclami, che sono presi in debita 
+considerazione nel contesto delle attività di monitoraggio sulla corretta osservanza d elle regole di 
+condotta, anche da parte dei vari soggetti coinvolti nella gestione dei fondi pensione. La funzione 
+presenta inoltre al CdA i piani annuali delle attività di competenza, in base ad un approccio fondato sul 
+rischio e in relazione alle strategie e politiche commerciali della Società. 
+La funzione antiriciclaggio sovraintende all’applicazione normativa in materia di contrasto ai fenomeni 
+di riciclaggio e finanziamento del terrorismo. 
+Funzione investimenti 
+Sviluppa attività di ricerca macroeconomica e aggiornamento in merito a view di mercato, idee  e temi 
+di investimento a supporto dei portfolio manager.  
+Persegue gli  obiettivi di performance in coerenza con la value proposition  di ciascun prodotto, 
+assicurando il rispetto dei limiti d’investimento e la coerenza rispetto al profilo di rischio/rendimento 
+prescelto e garantendo un’applicazione coerente delle strategie d’investimento in conformità a quanto 
+previsto dal Processo di investimento approvato dal CdA descritto di seguito, al quale si rinvia.
+=== pagina 8 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 8 di 19 
+Amundi SGR  - Febbraio 2026  
+ 
+Funzione legale  
+La funzione presidia la documentazione legale dei Fondi e la c ontrattualistica con i soggetti terzi (e.g.: 
+soggetti incaricati della raccolta delle adesioni, eventuali gestori delegati, depositario, outsourcer, ecc.). 
+Fornisce supporto nell’interpretazione e applicazione dell a normativa di settore , nella gestione di 
+eventuali contenziosi, reclami e violazioni dati (GDPR data breach). 
+Svolge le attività di segreteria societaria per le riunioni degli organi sociali e gli altri soggetti rilevanti 
+ove convolti, garantendo gli adempimenti verso le aree aziendali di volta in volta coinvolte.  
+Cura gli adempimenti informativi di natura societaria verso le Autorità di Vigilanza e gli enti pubblici . 
+ 
+Funzioni commerciali 
+Per meglio soddisfare le esigenze dei clienti, le strutture commerciali della SGR sono articolate in 
+funzione della natura del cliente (istituzionale e retail). Nell’ambito di quest’ultima è collocata l’unità BU 
+Pension Saving Funds, che contribuisce alla definizione della strategia di offerta dei Fondi anche in 
+termini di servizi finalizzati ad aumentare il valore per il cliente.  
+Funzioni operative  
+Garantiscono la corretta esecuzione di processi e procedure operative, in coordinamento con le 
+strutture della controllante per assicurare l’allineamento delle funzioni operative locali con il modello 
+del Gruppo. 
+Assicurano la corretta trattazione dei reclami. 
+Gestiscono e ottimizzano l’infrastruttura tecnologica e il corretto funzionamento dei sistemi informativi. 
+Presidiano outsourcer e controparti operative. 
+Garantiscono la sicurezza informatica (inclusi Business Continuity Plan e personal data protection) e degli 
+ambienti di lavoro, conformemente alle policy di Gruppo. A tal fine, la SGR ha predisposto e sottoposto 
+alla validazione del CdA un apposito piano di business continuity.
+=== pagina 9 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 9 di 19 
+Amundi SGR  - Febbraio 2026  
+Altri attori rilevanti  
+Responsabile del Fondo 
+Per ciascun Fondo, i l  Responsabile del Fondo svolge la propria attività in modo autonomo e 
+indipendente, riportando direttamente all’organo con funzione di supervisione strategica e di gestione 
+della SGR relativamente ai risultati dell’attività svolta. 
+Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei 
+beneficiari e vigila sull’osservanza della normativa e del Regolamento di gestione del Fondo nonché sul 
+rispetto delle buone pratiche e dei principi di corretta amministrazione del Fondo.  
+ 
+In particolare vigila con le modalità e nei termini previsti dalla normativa su:  
+- gestione finanziaria, anche controllando il rispetto di normativa e regole interne del Fondo circa i limiti 
+di investimento; 
+- gestione amministrativa, in particolare controllando la separatezza amministrativa e contabile delle 
+operazioni poste in essere per conto del Fondo e del patrimonio dello stesso rispetto a quanto afferente 
+altre attività della Società e la regolare tenuta dei libri e delle scritture contabili; 
+- misure di trasparenza adottate nei confronti degli aderenti e beneficiari; 
+- adeguatezza della procedura di trattamento dei singoli reclami; 
+- tempestiva e corretta erogazione delle prestazioni; 
+- situazioni in conflitto di interesse; 
+- rispetto delle buone pratiche e dei principi di corretta amministrazione. 
+ 
+Organismo di rappresentanza del Fondo  
+Ai sensi della normativa di riferimento, alla luce dell’adesione collettiva a “SecondaPensione Fondo 
+Pensione Aperto” di oltre 500 lavoratori appartenenti ad una singola azienda, la SGR ha costituito un 
+Organismo di Rappresentanza composto da un rappresentante designato dalla medesima azienda e da 
+un rappresentante dei lavoratori. 
+L’organismo di rappresentanza svolge funzioni di collegamento tra le collettività che aderiscono al 
+Fondo, la SGR e il Responsabile.  
+Organismo di vigilanza 
+Ai sensi del decreto legislativo 231/01 la SGR ha istituito un Organismo di Vigilanza, dotato di autonomi 
+poteri di iniziativa e di controllo, cui è assegnato specificamente il compito di vigilare sul funzionamento 
+e l'osservanza del modello di organizzazi one e di gestione e di curarne il relativo aggiornamento. Le 
+funzioni dell'Organismo di Vigilanza di Amundi SGR ai sensi del D. Lgs. 8 giugno 2001, n. 231, sono state 
+attribuite al Collegio Sindacale.
+=== pagina 10 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 10 di 19 
+Amundi SGR  - Febbraio 2026  
+Processo di investimento della SGR 
+Amundi SGR, conformemente alle disposizioni normative di settore con particolare riguardo ai profili 
+organizzativi inerenti alle funzioni aziendali e l’attribuzione di responsabilità nello svolgimento 
+dell’attività di gestione riconducibile alla prestazione dei servizi di gestione collettiva e di investimento e 
+nell’esercizio dell’attività di fondi pensione aperti,  applica un articolato processo  di investimento , 
+approvato dal CdA. In termini generali, il processo è strutturato nelle seguenti fasi:  
+- determinazioni relative all’indirizzo strategico, ossia l’insieme di linee guida agli investimenti specifiche 
+per ogni portafoglio  (cd. Direttrici Generali di Investimento  - DGI)2, di competenza del Consiglio di 
+Amministrazione; 
+- definizione dei limiti interni di rischio o linee guida nella gestione del rischio applicabili ai portafogli, 
+finalizzati a garantire un soddisfacente grado di diversificazione di rischio e liquidità (cd. Risk Process), 
+di competenza del comitato rischi; 
+- definizione, poste le linee guida fissate dal Consiglio e le indicazioni di rischio definite in sede comitato 
+rischi, di budget di rischio e/o view direzionali sulle principali asset class e eventuali limiti di 
+investimento più specifici a livello di portafogli (cd. Investment Guideline – IG), di competenza del CIO 
+in seno al comitato investimenti. Il CIO si avvale delle analisi del Gruppo in merito alla dinamica attesa 
+dei principali asset in termini di rendimento/rischio atteso e riferisce periodicamente al CdA; 
+- attuazione delle decisioni di investimento da parte dei portfolio manager. 
+La fase di monitoraggio del rispetto di limiti normativi, contrattuali/regolamentari e linee 
+guida/indicazioni di investimento e di rischio sopra specificate , è svolta nel continuo dalla funzione di 
+gestione del rischio (Risk Management).  
+Le risultanze delle verifiche vengono riportate a Cda, comitato rischi e comitato investimenti, nel quale 
+si esaminano inoltre le performance dei portafogli anche delegati. 
+Il processo di investimento della SGR è oggetto di revisione almeno annualmente. 
+Le strategie e le modalità di integrazione dei fattori ESG (Environmental, Social, Governance) all’interno 
+dei processi di investimento sono definiti a livello di Gruppo e implementati nei singoli paesi in 
+considerazione delle peculiarità di prodotto e degli orientamenti dei regulator locali.  
+La Global Responsible Investment Policy, predisposta a livello di Gruppo e pubblicata sul sito web della 
+SGR, descrive i criteri adottati per la selezione degli investimenti nonché i presidi di governance adottati 
+a supporto della realizzazione di tale str ategia. Inoltre sul sito web della SGR è disponibile anche 
+l’Amundi Sustainable Finance Disclosure  Statement che descrive i criteri adottati per l’implementazione 
+della Sustainable Finance Disclosure Regulation (Regulation EU 2019/2088).  
+Attraverso l’utilizzo della metodologia sviluppata dal Gruppo, il gestore del portafoglio integra i rischi di 
+sostenibilità nelle scelte di investimento, applica le politiche di esclusione e costruisce il portafoglio 
+secondo gli indirizzi ESG previsti dalla politica di investimento del Fondo.  
+Resta inteso che il processo di investimento descritto non è interamente applicabile nel caso dei 
+comparti di “Core Pension Fondo Pensione Aperto” la cui gestione finanziaria è stata delegata. Nello 
+specifico, il CdA della SGR definisce e approva l ’indirizzo strategico ( cd. DGI) nell’ambito del qual e il 
+Delegato effettua poi l’allocazione tattica, fermi restando i presidi di controllo da parte d ella funzione 
+investimenti e della funzione di gestione del rischio della SGR.  
+ 
+ 
+ 
+2 Consistenti tipicamente in limiti massimi di tracking error/Value At Risk (“VAR”) universo d’investimento in termini di asset class, 
+aree geografiche, valute e tipologie di strumenti; bande di oscillazione (e.g.: limiti minimi e massimi di pesi di asset class, settori, 
+duration); caratteristiche ESG (Environmental, Social, Governance); altri elementi significativi.
+=== pagina 11 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 11 di 19 
+Amundi SGR  - Febbraio 2026  
+Funzioni e/o attività esternalizzate 
+La Società ha adottato una politica di esternalizzazione che, conformemente alla normativa applicabile,  
+e ai principi di Gruppo, disciplina i processi di selezione e di monitoraggio dei soggetti terzi che svolgono 
+processi, attività o servizi di cui la stessa si avvale in forza di un accordo.  
+La decisione di ricorrere all’esternalizzazione di funzioni e attività aziendali è oggetto di uno studio 
+preliminare di opportunità che include un’analisi degli impatti finanziari e dei rischi operativi connessi 
+all’esternalizzazione per la SGR e il Gruppo . In generale, l’analisi è condotta, oltre che per un’adeguata 
+due diligence del fornitore, per comprendere i principali rischi derivanti dall’esternalizzazione  e quindi 
+individuare le relative strategie per la mitigazione e gestione, nonché definire una exit strategy. 
+La struttura dedicata della SGR verifica costantemente l’adeguatezza dei servizi esternalizzati 
+conformemente a quanto definito nei Service Level Agreement (SLA) condivisi con i soggetti coinvolti, e 
+ne riporta gli esiti nella relazione di sintesi annuale che viene sottoposta all’attenzione del Risk 
+Committee e del CdA della Società. 
+In linea con le attuali disposizioni normative in merito all’esternalizzazione delle attività e delle funzioni 
+(cfr. art.5-septies del D. Lgs. 252/05), di seguito si illustrano le esternalizzazioni ad oggi adottate dalla 
+Società con riferimento alla gestione del Fondo.  
+Attività di compliance degli investimenti 
+All’interno del Gruppo, Amundi AM (SAS) svolge le attività di monitoraggio e prevenzione in materia di 
+rispetto delle sanzioni internazionali e market abuse in relazione agli ordini e transazioni in strumenti 
+finanziari eseguiti per conto dei patrimoni/portafogli gestiti.  
+In particolare, ad Amundi AM (SAS) fanno capo le seguenti attività: i) mappatura dei rischi di market 
+abuse; ii) identificazione e implementazione degli scenari, iii) gestione delle soglie per ogni scenario; iv) 
+definizione delle regole per la gestione degli alert; v) gestione degli applicativi per l’implementazione di 
+scenari di controllo; vi) coordinamento con la funzione compliance della SGR in caso siano necessarie 
+ulteriori informazioni su ordini creati da gestori della SGR stessa; viii) reporting. 
+Attività di internal audit 
+La SGR ha stipulato un accordo con la controllante Amundi AM (SAS) per l’esternalizzazione di talune 
+attività di internal audit, concordate di anno in anno e previste nel piano annuale di audit della SGR 
+predisposto ai sensi degli articoli 16, comma 4 e 48 del Regolamento Banca d’Italia del 5 dicembre 2019 
+(“Regolamento di attuazione degli articoli 4-undecies e 6, comma 1, lettere b) e c-bis) del TUF”). 
+Attività di trading e attività di trade-matching & settlement degli strumenti finanziari 
+Le attività suddette relativamente ai portafogli gestiti sono affidate a Amundi Intermédiation, società 
+specializzata del Gruppo.  
+Il modello operativo adottato dal gruppo Amundi prevede che siano affidate, in forza di specifici accordi, 
+a strutture dedicate del gruppo. Tale scelta permette di avvalersi dell’esperienza e delle risorse a 
+disposizione e ricercare la specializzazione funzionale nello svolgimento delle attività esternalizzate.  
+Attività di service amministrativo e contabile 
+Le attività di service amministrativo e contabile dei Fondi sono affidate a Previnet S.p.A., player primario 
+in tale ambito nel mercato dei fondi pensione, con sede a Preganziol (TV), in Via E. Forlanini, 24.  
+In particolare, si occupa di gestione amministrativa degli aderenti, tenuta della contabilità  dei Fondi, 
+predisposizione delle segnalazioni statistiche Covip e del call center dedicati agli aderenti/beneficiari.  
+Inoltre, Previnet svolge il servizio di calcolo del valore della quota e attività accessorie.   
+Termini e modi di svolgimento del service sono definiti nel contratto di esternalizzazione.
+=== pagina 12 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 12 di 19 
+Amundi SGR  - Febbraio 2026  
+Servizi IT e tecnologici 
+I servizi IT e tecnologici sono forniti alla SGR da Amundi Technology e da Previnet S.p.A limitatamente a 
+quanto segue. 
+Amundi Technology fornisce attività di analisi, sviluppo e mantenimento necessarie all’implementazione 
+e al buon funzionamento di specifiche business application  e soluzioni informatiche quali: operating 
+server; application production ; gestione e follow-up di file transfer, printout, database management , 
+software equipment, back up di sistema, help-desk, continuità operativa. 
+Previnet S.p.A. rende accessibile agli utenti autorizzati della SGR il sistema gestionale che consente di 
+verificare le posizioni degli aderenti ai Fondi e le procedure operative seguite. Inoltre, ad uso degli 
+aderenti dei Fondi fornisce e manutiene un’area riservata web per la consultazione della posizione  e 
+della documentazione nonché  per l’istruzione delle disposizioni. Solo per gli iscritti al Fondo 
+SecondaPensione, Previnet fornisce una app con funzioni informative e dispositive, e mette a 
+disposizione un ambiente web per la sottoscrizione online del fondo, accessibile dall’app Amundi 
+SecondaPensione Plus. 
+Servizi di proxy voting 
+La SGR, nell’esercizio dei diritti di voto inerenti agli strumenti finanziari di pertinenza dei portafogli 
+gestiti3, si attiene ai criteri individuati dalla Voting Policy di Gruppo, al fine di assicurare che tali diritti 
+siano esercitati nell’esclusivo interesse degli investitori. Sul piano operativo, sulla base di un accordo di 
+delega, le attività connesse all’esecuzi one dei diritti di voto dei portafogli gestiti sono affidate alla 
+controllante, che a sua volta si avvale della piattaforma ISS sia per l’attività di consulenza sulle singole 
+assemblee, sia per gli aspetti più operativi.  
+Sulla base della Global Responsible Investment Policy e della Voting Policy di Gruppo (disponibili nel sito 
+web della SGR) la Società ha predisposto una Politica di impegno per descrivere i comportamenti che la 
+Società adotta per stimolare il confronto con gli emittenti in cui investe, integrando il proprio impegno in 
+qualità di azionista nella strategia di investimento. Le modalità di attuazione della politica di impegno e 
+della politica di voto sono sintetizzate nei report di Gruppo disponibili nel medesimo sito web. 
+Delega della gestione finanziaria dei comparti di Core Pension Fondo Pensione Aperto 
+Come sopra anticipato, la SGR ha delegato a Fineco Asset  Management DAC la gestione finanziaria dei 
+seguenti comparti: Core Pension Obbligazionario Misto; Core Pension Bilanciato; Core Pension 
+Azionario e Core Pension Azionario Plus. 
+La delega si inquadra nel framework di regole e presidi previsti dal Gruppo volti a garantire il presidio 
+(i) della funzione investimenti, attraverso il monitoraggio dell’andamento della gestione e delle 
+performance, e (ii) della funzione di gestione del rischio come specificato nel § 3. Sistema di gestione dei 
+rischi. 
+In particolare, il Delegato , sarà periodicamente invitato a partecipare  all’Investment Committee di 
+Amundi SGR per illustrare l’andamento dei Fondi e le strategie gestionali in essere.  
+In sede di Investment Committee, anche sulla base dei report predisposti da Risk Management, saranno 
+esaminati i trend di tali portafogli e valutate eventuali azioni successive tenendo in considerazione le 
+view di Amundi. 
+  
+ 
+3  L’esercizio del diritto di voto inerente agli strumenti finanziari di Core Pension Fondo Pensione Aperto è svolto dal soggetto 
+delegato.
+=== pagina 13 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 13 di 19 
+Amundi SGR  - Febbraio 2026  
+2. Controlli interni 
+Il sistema di controllo interno della SGR è costituito dall'insieme di procedure e strutture organizzative 
+volto a garantire che la SGR operi in conformità all e norme , preservi gli asset, produca informazioni 
+finanziarie corrette e gestisca i rischi che possono compromettere gli obiettivi.   
+Nello specifico, i controlli interni mirano a: 
+- garantire il rispetto della normativa applicabile; 
+- proteggere la funzionalità del sistema gestionale e salvaguardare patrimoni, liquidità e dati sensibili 
+contro furti, frodi o uso non autorizzato; 
+- diffondere i valori di corretta amministrazione e legalità; 
+- assicurare la rispondenza alle previsioni stabilite dai regolamenti; 
+- assicurare la conformità dell’operatività del Fondo alla normativa nazionale e dell’Unione Europea. 
+Il framework si fonda su una chiara governance che definisce ruoli, responsabilità e rischi e pone al 
+vertice del sistema di controllo gli Organi Sociali della SGR e il Responsabile del Fondo, il cui ruolo è stato 
+descritto in precedenza. 
+Ciò premesso, il modello adottato da Amundi è il “three lines of defense: la prima linea è rappresentata 
+da chi svolge le attività quotidiane e applica i controlli operativi; la seconda linea da chi definisce policy, 
+monitora i rischi, svolge controlli indipendenti e produce report per il man agement (Compliance, AML, 
+Risk Management, Security); la terza linea dall’Internal Audit, che fornisce ass icurazione indipendente 
+sull’efficacia del sistema di controllo. 
+In particolare, il modello prevede i seguenti controlli: 
+- 1° livello.  Controlli operativi svolti nel continuo dalle linee di business e dalle strutture che eseguono le 
+attività di gestione dei Fondi  e che processano le operazioni o incorporati nelle procedure 
+automatizzate; 
+- 2° livello. Controlli posti a presidio del processo di gestione e monitoraggio dei rischi, svolti da : 
+▪ funzione di compliance che assicura corretta applicazione e rispetto del framework normativo di 
+riferimento e identificazione, valutazione, prevenzione e monitoraggio dei rischi complessivi di 
+conformità della Società e del Fondo; 
+▪ funzione antiriciclaggio che sovraintende all’applicazione della normativa in materia di contrasto ai 
+fenomeni di riciclaggio e finanziamento del terrorismo; 
+▪ funzione di gestione dei rischi che definisce politiche e metodologie volte a misurare e controllare i 
+rischi, nel rispetto di norme interne e esterne e regolamenti; 
+▪ funzione security che garantire riservatezza, integrità e disponibilità delle informazioni e dei sistemi 
+aziendali tramite il mantenimento di controlli efficaci integrandosi con le funzioni compliance, risk 
+management, IT e business. 
+- 3° livello. Controlli finalizzati alla valutazione e verifica periodica della completezza, funzionalità e 
+adeguatezza del sistema dei controlli interni affidati alla funzione di revisione interna 
+Il modello descritto trova applicazione anche con riferimento al monitoraggio delle esternalizzazioni 
+delle funzioni essenziali o importanti, coordinato dalla struttura dedicata. 
+Inoltre, mappatura dei processi, risk assessment  periodici, automazione dove possibile e un ciclo 
+continuo di testing e remediation mantengono i controlli efficaci nel tempo. 
+Nell’ambito dei controlli interni la SGR si avvale dei seguenti comitati societari. 
+Risk Committee 
+Secondo i principi organizzativi della risk business line , il Risk Committee system  di Amundi consta d i un 
+Group Risk Committee , attore rilevante in tema di global risk governance  di Gruppo  e dei  Local Risk 
+Committee, parte attiva in tema di risk governance di ogni entità del Gruppo.
+=== pagina 14 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 14 di 19 
+Amundi SGR  - Febbraio 2026  
+Il Risk Committee da un punto di vista funzionale, è delegato dal Group Risk Committee alla supervisione 
+dei rischi inerenti alle attività della SGR, in accordo con quanto definito dallo stesso. Le attribuzioni del 
+Risk Committee riguardano, tra l’altro:  
+- la definizione del risk framework per ogni attività di investment management svolta dalla SGR o dalla 
+stessa delegata, coerentemente con il framework generale definito dal Group Risk Committee; 
+- l’identificazione e il monitoraggio dei rischi concernenti le attività gestite dalla SGR e l’adozione delle 
+decisioni rilevanti per ridurre l’impatto di tali rischi; 
+- la verifica che le risk policy approvate a livello di Gruppo siano adottate localmente e la decisione in 
+merito a ogni modifica di regole o metodologie stabilite a livello di Gruppo e a ogni regola aggiuntiva 
+di risk monitoring applicabile. 
+ 
+Compliance Committee 
+Come previsto dalle direttive del Gruppo, il Compliance Committee si riunisce trimestralmente per la 
+supervisione delle tematiche attinenti ai rischi di non conformità nello svolgimento dei servizi prestati e 
+delle attività di investimento della SGR, includendo nell’analisi anche i profili di specifica attinenza ai 
+Fondi, alla luce delle peculiarità normative e regolamentari che li caratterizzano.  
+Le principali attribuzioni del comitato, presieduto dall’Amministratore Delegato della SGR, sono:  
+- condivisione delle analisi effettuate dalla funzione compliance sul grado di conformità della SGR 
+nell’esercizio delle sue attività, decidendo, se del caso, misure correttive;  
+- individuazione e monitoraggio dei rischi di non conformità ai quali la SGR è esposta, iniziative di 
+mitigazione del rischio, esame di eventuali criticità e follow-up dei piani di attività.  
+ 
+NAP Committee 
+Comitato prodotti, servizi e nuove attività, presieduto dall’Amministratore Delegato, che si occupa inter 
+alia di gestire e supervisionare i rischi legati al lancio di nuovi prodotti/servizi e attività, quali rischi legali, 
+di perdite finanziarie o danno all’immagine di Gruppo a seguito della mancata conformità a leggi, 
+normative, codici di condotta, norme interne e best practice vigenti.  
+ 
+Security Committee 
+Comitato che sovraintende, in coerenza con le linee guida di Gruppo, allo sviluppo e all’implementazione 
+della strategia aziendale in materia di: sicurezza informatica; sicurezza fisica; continuità operativa e GDPR 
+e in tali ambiti identifica le tematiche da sottoporre all’attenzione di Organi sociali e OdV. 
+ 
+Inoltre, partecipa al sistema di controllo interno anche la Società di Revisione.  
+La Società di Revisione, iscritta – conformemente alla normativa in vigore - in un apposito Albo tenuto 
+dalla Consob, ha il compito di verificare la regolare tenuta della contabilità sociale e la corretta 
+rilevazione dei fatti di gestione nelle scritture contabili della SGR e che il Bilancio d'esercizio rappresenti 
+in modo veritiero e corretto la situazione patrimoniale e finanziaria e il risultato economico dell'esercizio 
+e che siano conformi alle norme che li disciplinano. Analogamente, la Società di Revi sione esprime il 
+proprio giudizio professionale in merito al Rendiconto di gestione del Fondo redatto dalla SGR, affinché 
+quest’ultimo rappresenti la situazione patrimoniale -finanziaria dei comparti e la variazione dell’attivo 
+netto destinato alle prestazioni per l’esercizio in conformità al quadro normativo di riferimento.
+=== pagina 15 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 15 di 19 
+Amundi SGR  - Febbraio 2026  
+3. Sistema di gestione dei rischi 
+Il sistema di gestione dei rischi è costituito dall’insieme delle regole, delle procedure e delle strutture 
+organizzative volte a consentire l’identificazione, la misurazione, la gestione e il monitoraggio dei 
+principali rischi. Tale sistema è integrato ne i più generali assetti organizzativi e di governo societario 
+adottati dalla SGR e tiene in adeguata considerazione i modelli di riferimento e le best practice esistenti 
+in ambito nazionale e internazionale.  
+Un sistema di gestione dei rischi efficace contribuisce a una conduzione del Fondo coerente con gli 
+obiettivi definiti dal CdA, favorendo l’assunzione di decisioni consapevoli. Esso concorre ad assicurare 
+la salvaguardia del patrimonio, l’efficienza e l’ef ficacia dei processi amministrativi, l’affidabilità delle 
+informazioni fornite agli organi sociali ed agli aderenti, il rispetto di leggi e regolamenti nonché dello 
+statuto e delle procedure interne. 
+La SGR definisce, applica e mantiene: 
+- disposizioni interne, tecniche di misurazione e procedure per assicurare il corretto funzionamento 
+del sistema di gestione dei rischi e il costante rispetto dì limiti e divieti di natura regolamentare e 
+interna; 
+- un sistema documentato di limiti interni dei rischi ai quali è esposto ogni Fondo;  
+- adeguati presidi che, in caso di violazione dei limiti di rischio, consentano l’adozione tempestiva di 
+misure correttive nell’interesse di aderenti/beneficiari dei Fondi. 
+La funzione di gestione dei rischi si occupa di verificare che l’attività di investimento dei gestori si svolga 
+nel rispetto di: limiti normativi e di regolamento; linee guida/indicazioni di investimento e di rischio  
+specifiche per ogni portafoglio (cd. DGI, Risk process, IG). 
+Provvede alla misurazione e all’analisi delle performance, dell’esposizione dei portafogli con riguardo a 
+classi di attivo, aree geografiche, settori industriali e dei rischi a cui è esposto il patrimonio del Fondo 
+(inclusi, tra l’altro, i rischi di mercat o, di credito, di liquidità, di controparte e operativi 4) e p redispone 
+adeguata reportistica per Risk Committee5 e Consiglio di Amministrazione. 
+Infine, con riferimento ai rischi cui la Società è esposta in proprio, occorre distinguere tra: rischi 
+finanziari collegati all’investimento del patrimonio liquido; rischi operativi e rischi reputazionali.  
+Per quanto riguarda i rischi finanziari, si precisa che l’investimento dei mezzi propri della SGR è 
+disciplinato da una specifica procedura aziendale per quanto attiene termini, modalità e processo 
+decisionale. 
+Per quanto riguarda il rischio operativo, che consiste nel rischio di perdite derivante da processi, 
+procedure e sistemi interni inadeguati o carenti, oppure dovute a eventi esogeni, errori e frodi, la 
+Società rileva e gestisce i rischi operativi avvalendosi di metodologie, applicativi e presidi definiti a livello 
+di Gruppo. 
+Risk Management svolge un’attività di mappatura dei rischi operativi, definita Risk Mapping, sulla base 
+di un processo di analisi di tipo qualitativo che mira all’individuazione e alla valutazione dei rischi 
+operativi connessi a ciascun processo aziendale. L’individuazione dei rischi operativi è effettuata 
+utilizzando le procedure aziendali di t empo in tempo vigenti, gli eventi operativi segnalati negli anni 
+precedenti, le raccomandazioni della funzione di revisione interna e, da ultimo, le indicazioni rivenienti 
+dai process owner e dai responsabili delle strutture coinvolte. 
+Infine, il rischio reputazionale consiste nel rischio che un determinato evento alteri negativamente la 
+considerazione e l’immagine della Società (o del gruppo) all’interno del sistema economico di 
+riferimento.  
+ 
+4  Si precisa che per la valutazione del merito di credito delle attività dei Fondi, la SGR non si affida esclusivamente ai rating emessi 
+da agenzie di rating, assicurando che siano condotte adeguate e autonome analisi interne. 
+5  In riferimento alle attribuzioni del Comitato si veda quanto indicato in precedenza.
+=== pagina 16 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 16 di 19 
+Amundi SGR  - Febbraio 2026  
+In riferimento ai comparti di “Core Pension Fondo Pensione Aperto”  per i quali è stata delegata la  
+gestione finanziaria, la  configurazione dei controlli del la SGR sull’operato del Delegato segue le 
+disposizioni del Gruppo Amundi per il caso di deleghe esterne.  
+In particolare  in aggiunta ai controlli svolti  dal Delegato , i l Risk Management della SGR assicura il  
+monitoraggio giornaliero dei portafogli con riferimento a: 
+- limiti di rischio/investimento di ordine esterno (normativo e contrattuale-regolamento) ;  
+- limiti di rischio/investimento di ordine interno (cd. Risk Process e DGI riportati nel contratto di delega); 
+- performance e liquidity risk; 
+- market risk (VaR/TE) e credit risk; 
+- valorizzazioni dei portafogli. 
+ 
+Il Delegato  effettua su base giornaliera i controlli sui portafogli delegati , tiene costantemente 
+aggiornata Amundi SGR in merito a qualunque informazione rilevante e predispone la reportistica 
+periodica per la SGR  secondo quanto formalizzato nel contratto di delega.  In particolare, le funzioni di 
+controllo del Delegato (i.e.: risk management e compliance), hanno l’obbligo di informare 
+tempestivamente il Risk Management di Amundi in merito alle violazioni dei limiti di 
+rischio/investimento e agli eventuali incidenti operativi. 
+Le informazioni delle funzioni di risk management delle entità del Gruppo sono veicolate alla risk business 
+line di Amundi AM che effettua il coordinamento per tutte le entità locali dell e eventuali problematiche 
+inerenti i portafogli delegati. 
+Questo consente a lla SGR , ed in particolare alla funzione di gestione dei rischi, di avere una piena 
+contezza dell’attività svolta sui Fondi ed un effettivo controllo sull’operato del Delegato.
+=== pagina 17 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 17 di 19 
+Amundi SGR  - Febbraio 2026  
+4. Flussi informativi tra le strutture aziendali e il Responsabile del Fondo 
+La SGR ha implementato adeguati flussi informativi e documentali tramite i quali, su base periodica e 
+ad evento, il Responsabile riceve reportistica, notizie e dati riguardanti il Fondo, per l’espletamento delle 
+proprie attività di vigilanza sulla gestione  finanziaria e amministrativa, nonché sulle misure di 
+trasparenza adottate dalla SGR nei confronti degli aderenti e dei beneficiari. Sono organizzate, altresì:  
+a) riunioni periodiche nell’ambito delle quali il Responsabile incontra le principali funzioni della SGR 
+coinvolte nel processo di gestione e di controllo del Fondo, per l’esame congiunto della 
+documentazione messa a disposizione e la trattazione delle tematiche di rilievo; 
+b) riunioni “ad evento”, ogni qual volta sia necessario approfondire, mediante un confronto con le 
+suddette funzioni, specifiche tematiche o eventi di rilievo emersi nell’ambito o a valle degli incontri 
+periodici nonché nell’ambito delle attività di controllo del Responsabile.  
+La documentazione destinata al Responsabile del Fondo, integrata con le informazioni fornite dagli 
+outsourcer è raccolta in un fascicolo e trasmessa con periodicità trimestrale. A titolo esemplificativo e 
+non esaustivo, il fascicolo prodotto contiene le seguenti informazioni:  
+- dati su patrimonio e raccolta; 
+- dati sulle adesioni, informazioni sulla gestione finanziaria ( performance dei comparti, indicatori di 
+rischio, andamento dei mercati di riferimento, commenti di gestione, composizione dei portafogli);  
+- trattazione dei singoli reclami ricevuti nel periodo; 
+- posizioni in conflitto di interesse; 
+- reportistica sui tempi di liquidazione delle anticipazioni, riscatti e trasferimenti;  
+- reportistica sull’ andamento delle riconciliazioni e della valorizzazione dei contributi;  
+- reportistica sui sospesi e sugli storni.  
+La SGR rende inoltre disponibili a beneficio del Responsabile del Fondo i seguenti ulteriori documenti:  
+- segnalazioni inviate a Covip; 
+- report sulla composizione della quota; 
+- reportistica amministrativa e contabile; 
+- informazioni inerenti all’attività di monitoraggio dell’outsourcer dei servizi di gestione amministrativa 
+e contabile; 
+nonché, ove riguardanti i Fondi:  
+- delibere del CdA; 
+- corrispondenza con le Autorità di Vigilanza; 
+- estratti delle relazioni delle funzioni di controllo sottoposte al CdA; 
+- estratti dei verbali delle riunioni del Collegio Sindacale; 
+- estratti della documentazione di supporto predisposta per il Risk Committee;  
+- documentazione e relazioni richieste dalla normativa da trasmettere a Covip.  
+Delle anomalie e delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà 
+tempestiva comunicazione alla Covip, nonché a CdA e Collegio Sindacale.  
+Il Responsabile viene invitato ad assistere alle riunioni del CdA e del Collegio Sindacale che prevedano 
+la trattazione di materie inerenti ai Fondi.
+=== pagina 18 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 18 di 19 
+Amundi SGR  - Febbraio 2026  
+5. Politica di remunerazione 
+Il sistema di retribuzione e di incentivazione del management della SGR si ispira alle politiche di 
+remunerazione definite dalla controllante nel rispetto delle previsioni regolamentari dettate dalla 
+Direttiva 2014/91/EU (”UCITS V Directive”) e della Direttiva 2011/61/UE (“AIFMD”), e loro modifiche ed 
+integrazioni così come definite tempo per tempo a livello locale dalla Banca d’Italia. 
+La remunerazione dei titolari delle funzioni fondamentali di gestione dei rischi e di revisione interna è 
+prevalentemente fissa, mentre la parte variabile è coerente con il conseguimento degli obiettivi legati 
+alle relative funzioni ed è indipendente dai r isultati conseguiti dai settori della società al fine di non 
+inficiare l’autonomia di giudizio delle funzioni stesse. 
+La remunerazione del Responsabile del Fondo Pensione è stabilita in misura fissa in funzione dell’attività 
+professionale svolta per l’assolvimento dei compiti previsti dalla legge ed è posta a carico del Fondo 
+Pensione Aperto. Tale remunerazione è deliberata dal CdA di Amundi SGR ed è allineata agli standard del 
+mercato di riferimento, al fine di preservare l'obiettività, l'autonomia e l'indipendenza del Responsabile. 
+ 
+6. Tecnologie dell’informazione e della comunicazione 
+ 
+La SGR ha realizzato la app SecondaPensione Plus, per offrire contenuti informativi e di marketing su 
+temi previdenziali e di investimento finanziario. La stessa app consente l’accesso alla modalità di 
+adesione online per gli aderenti individuali e permette l’accesso, ai già aderenti, all’ambiente di 
+consultazione/disposizione Web Information System. 
+La Società si avvale dei servizi tecnologici offerti da Previnet S.p.A. per l’implementazione di tecnologie 
+informatiche finalizzate alla diffusione di documenti e di informazioni utili agli aderenti, nonché alla 
+gestione dei rapporti con gli stessi.  
+Termini e modi di svolgimento dei servizi sono definiti negli allegati operativi al contratto sottoscritto 
+tra le parti e, alla data del presente documento, si sostanziano nelle seguenti soluzioni.  
+Servizio di adesione on line 
+Procedura informatica che consente la raccolta delle adesioni on line per SecondaPensione conforme 
+alle vigenti disposizioni normative in tema di raccolta delle adesioni e di sollecitazione del risparmio.  
+La procedura di adesione si articola nelle seguenti fasi: adesione online dematerializzata; validazione 
+adesione online pending e archiviazione ottica sostitutiva. 
+L’identificazione dell’aderente avviene tramite identità digitale certificata (SPID) e tutte le attività 
+dispositive sono registrate automaticamente a livello di workflow operativo del sistema informativo di 
+gestione degli aderenti di Previnet. 
+La procedura è realizzata per raccogliere le adesioni di:  
+- aderenti individuali, previa registrazione nell’app SecondaPensione Plus, attraverso la quale 
+accedono al processo di adesione realizzato da Previnet;  
+- aderenti collettivi, dipendenti delle aziende che offrono, sulla base di un accordo aziendale, la 
+possibilità di aderire in modalità collettiva. I dipendenti accedono utilizzando  un link, differente per 
+ciascuna azienda, al processo di adesione realizzato da Previnet.  
+L’azienda convalida l’adesione nell’area riservata aziende accessibile dal sito web del fondo;  
+- aderenti intermediati da un distributore che rende disponibile l’accesso ai suoi clienti, i quali si 
+identificano tramite identità digitale certificata (SPID). 
+Il distributore convalida l’adesione nell’area riservata distributori accessibile dal sito web del fondo.
+=== pagina 19 ===
+Documento sul sistema di governo societario afferente alla gestione dei FPA Pagina 19 di 19 
+Amundi SGR  - Febbraio 2026  
+Web Information System (WIS)/App - individual client  
+Attività consultive, dispositive e informative. 
+Web Information System (WIS) - corporate client 
+La sezione del portale riservata alle aziende consente alle società convenzionate di visualizzare i 
+dipendenti che hanno aderito al Fondo, trasmettere le distinte di contribuzione periodiche tramite il 
+servizio WUS (Web Uploader System) e monitorarne lo stato di avanzamento. 
+ 
+Previcall - servizio di call center e rendicontazione periodica 
+L’utente che accede al servizio viene guidato dal sistema IVR (Interactive Voice Responder) nella scelta 
+della tipologia di assistenza richiesta. Una volta individuato il team appropriato per l’evasione della 
+risposta, l’utente viene trasferito automaticam ente sul pool di chiamate del team per essere assistito 
+dal primo operatore disponibile. 
+A supporto delle attività di monitoraggio, è previsto inoltre l’invio di tutto il traffico telefonico gestito da 
+Previnet (durata e numero) e del traffico convertito verso la gestione telefonica del Fondo oltre a una 
+reportistica di feedback per tipologia e volumi di contatti gestiti. 
+W-Psimulator: area pubblica e area riservata del sito web 
+Modulo che consente una proiezione, al pensionamento, del controvalore della posizione e della sua 
+conversione in rendita sulla base di informazioni inserite dal potenziale aderente (area pubblica) oppure 
+acquisite dalla reale situazione dell’iscritto (are a riservata). L’output generato è conforme alla tipologia 
+di proiezione riportata sui Prospetti Prestazioni Pensionistiche elaborati secondo schema Covip.  
+I pacchetti di soluzioni tecnologiche e amministrative a beneficio degli aderenti sono usufruibili su 
+piattaforma web e mobile e hanno lo scopo di ridurre le attività dispositive che prevedono l’inoltro della 
+domanda in formato cartaceo, sfruttando l’inter azione diretta dell’utente con il sistema e la completa 
+integrazione con i workflow documentali gestiti.

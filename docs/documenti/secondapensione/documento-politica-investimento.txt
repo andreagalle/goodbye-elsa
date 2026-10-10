@@ -1,0 +1,957 @@
+# Fondo: SECONDAPENSIONE FONDO PENSIONE APERTO (secondapensione)
+# Documento: Documento sulla politica di investimento – 2025-03-31 Documento sulla politica di investimento
+# Fonte: https://www.secondapensione.it/files/nuxeo/dl/020cb813-383c-4a28-bb96-4177557f68e7?inline=
+# Citato in: https://www.secondapensione.it/politica-di-impegno-e-politica-di-investimento
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 14d7bf73447663fe2c0b7ef94dbefc0cb3e500a0dd4096e720f31aa9714bf702
+# Pagine: 20
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+SecondaPensione Fondo Pensione aperto a contribuzione definita  
+(iscritto al n. 65 dell’Albo tenuto dalla Commissione di Vigilanza sui Fondi Pensione) 
+ 
+ 
+ 
+ 
+Documento sulla politica di investimento 
+Validità: dal 31 marzo 2025 
+ 
+ 
+Documento redatto da Amundi SGR secondo le indicazioni contenute nella Delibera Covip del 16 
+marzo 2012 e a disposizione degli aderenti che ne facciano richiesta al seguente recapito: 
+Amundi SGR S.p.A., via Cernaia, 8/10 - 20121 Milano 
+ 
+ 
+ 
+Testo approvato dal Consiglio di Amministrazione con deliberazione del 26 febbraio 2025
+=== pagina 2 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 2 di 20 
+ 
+SECONDAPENSIONE 
+FONDO PENSIONE APERTO 
+ 
+1. PREMESSA 
+2. OBIETTIVO DELLA POLITICA DI INVESTIMENTO 
+3. POLITICA DI INVESTIMENTO 
+4. SISTEMA DI CONTROLLO DEI RISCHI 
+5. MODIFICHE NELL’ULTIMO TRIENNIO
+=== pagina 3 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 3 di 20 
+1. PREMESSA 
+Il presente documento disciplina la politica di investimenti del fondo pensione aperto SecondaPensione, 
+definendo la strategia finanziaria che Amundi SGR intende attuare per ottenere, dall’impiego delle 
+risorse in gestione, combinazioni rischio-rendimento efficienti nell’arco temporale coerente con i 
+bisogni previdenziali degli aderenti e con le prestazioni da erogare. 
+Il documento è redatto in conformità alla deliberazione Covip del 16 Marzo 2012, non costituisce 
+documentazione contrattuale ed è soggetto a revisione periodica almeno ogni tre anni. 
+“SecondaPensione Fondo Pensione Aperto”, di seguito definito «Fondo», è un fondo pensione aperto 
+istituito ai sensi dell’art. 12 del decreto legislativo 5 dicembre 2005, n. 252 (e successive modificazioni e 
+integrazioni), di seguito definito “Decreto”. 
+Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è in 
+funzione della contribuzione effettuata ed in base al principio della capitalizzazione. 
+L’adesione al Fondo è volontaria ed è consentita in forma individuale. È altresì consentita, su base 
+collettiva, ai soggetti destinatari delle forme pensionistiche complementari individuati all’art. 2, comma 1, 
+del Decreto, nei cui confronti trovino applicazione i contratti, gli accordi o i regolamenti aziendali che 
+dispongono l’adesione al Fondo. Ai sensi dell’articolo 8 comma 7 del Decreto l’adesione al Fondo su base 
+collettiva può avvenire anche mediante conferimento tacito del TFR maturando.
+=== pagina 4 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 4 di 20 
+2. OBIETTIVO DELLA POLITICA DI INVESTIMENTO 
+SecondaPensione ha come fine l’erogazione di una pensione complementare (‘rendita’) che si aggiunga 
+alle prestazioni del sistema pensionistico obbligatorio. Tale fine è perseguito raccogliendo le somme 
+versate (contributi) e investendole professionalmente in strumenti finanziari nell’esclusivo interesse 
+dell’aderente e secondo le indicazioni di investimento che l’aderente stesso fornisce scegliendo tra i 
+comparti del Fondo. 
+L’obiettivo della politica di investimento del Fondo è perseguire combinazioni rischio-rendimento 
+efficienti in un determinato arco temporale, coerente con quello delle prestazioni da erogare; 
+consentendo di massimizzare le risorse destinate alle prestazioni esponendo gli aderenti a un livello di 
+rischio ritenuto accettabile. 
+Il Fondo, per definizione e per natura, si rivolge ad una pluralità di soggetti eterogenei sotto vari profili: 
+provenienza, categoria lavorativa di appartenenza, obbiettivi di investimento, livello di retribuzione 
+nonché tasso di sostituzione atteso. 
+Per le suddette ragioni, Amundi SGR ha definito l’asset allocation del Fondo con l’obiettivo di coprire le 
+molteplici esigenze degli aderenti e dei potenziali aderenti, che formano una popolazione estesa, 
+indefinita ed eterogenea. 
+La SGR, sulla base di quanto previsto dalla Covip, mantiene costantemente aggiornate le informazioni 
+destinate agli aderenti e potenziali aderenti del Fondo; le stesse sono trasmesse alla Covip, con le 
+modalità e le tempistiche stabilite. 
+ 
+ 
+Comparti del Fondo e Programma LifeCycle 
+SecondaPensione propone una pluralità di opzioni di investimento attraverso vari Comparti. Ciascun 
+Comparto è caratterizzato da una propria combinazione di rischio/rendimento: 
+-  SecondaPensione Prudente ESG; 
+- SecondaPensione Bilanciata ESG; 
+- SecondaPensione Sviluppo ESG; 
+-  SecondaPensione Espansione ESG; 
+- SecondaPensione Garantita ESG. 
+ 
+Per la verifica dei risultati di gestione viene indicato, per i comparti SecondaPensione Bilanciata ESG, 
+SecondaPensione Sviluppo ESG e SecondaPensione Espansione ESG, un benchmark. Il benchmark è un 
+parametro oggettivo e confrontabile, composto da indici, elaborati da soggetti terzi indipendenti, che 
+sintetizzano l’andamento dei mercati in cui è investito il patrimonio dei singoli Comparti. Per i comparti 
+SecondaPensione Prudente ESG e SecondaPensione Garantita ESG, in relazione allo stile gestionale 
+adottato, non è possibile individuare un benchmark o un indicatore di rendimento rappresentativi della 
+politica di investimento del comparto e viene specificata una diversa misura di rischio identificabile con 
+il Value at Risk, orizzonte temporale 1 mese, intervallo di confidenza 95%. 
+SecondaPensione prevede inoltre la possibilità di aderire al Programma “LifeCycle”, che consente la 
+programmazione automatica dei trasferimenti tra i vari Comparti del Fondo a scadenze predeterminate, 
+individuate in funzione del tempo mancante al compimento del 65° anno. Inoltre è prevista l’opzione 
+“Switch Salvadanaio”, che prevede lo spostamento automatico dalla linea Espansione ESG alla Linea 
+Prudente ESG dell'extra performance rispetto all'Indice generale FOI% (FOI - Indice dei prezzi al 
+consumo per le famiglie di operai e impiegati (al netto dei tabacchi da febbraio 1992).
+=== pagina 5 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 5 di 20 
+3. POLITICA DI INVESTIMENTO 
+ 
+3.1  Informazioni specifiche circa le caratteristiche di ciascun Comparto del Fondo. 
+ 
+SECONDAPENSIONE PRUDENTE ESG 
+Categoria del comparto: obbligazionario misto 
+Orizzonte temporale: breve 
+Dichiarazione di valore: la gestione è volta a perseguire una moderata crescita del capitale, mediante l'investimento 
+in strumenti finanziari selezionati anche sulla base di criteri di tipo ambientale, sociale e di governo societario 
+(“Criteri ESG”), per rispondere alle esigenze di un soggetto che ha davanti a sé ancora pochi anni di attività. 
+Criteri di valutazione dei risultati conseguiti: moderata crescita del capitale al netto di tutti i costi. 
+Grado di rischio: medio 
+Stile di gestione: Attivo 
+Per la selezione degli strumenti finanziari, il gestore applica le procedure sviluppate internamente al Gruppo di 
+appartenenza della SGR per i processi di investimento dei portafogli qualificati (ai sensi delle medesime procedure) 
+come “ESG”. Tali procedure definiscono le regole di gestione dei portafogli ESG, comprensive della metodologia di 
+valutazione degli emittenti sulla base dei criteri ESG, e i principi di esclusione degli emittenti dall’universo di 
+investimento, a cui il gestore deve attenersi. 
+In particolare, gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, 
+oltre a essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico fattori ESG, al fine di orientare, con una visione di lungo periodo, le scelte di 
+investimento a obiettivi di responsabilità sociale. 
+Gestione attiva della valuta: Sì, residuale 
+Valuta di denominazione del prodotto: euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: strumenti monetari e obbligazionari (fino a 100%) 
+- Azionari (fino al 30%) - OICR con classi no load (fino al 100%) - Titoli Strutturati (fino a 10%) - strumenti legati 
+all'andamento delle materie prime (fino a 5%) - Derivati per copertura ed efficiente gestione. 
+ 
+Principale valuta di denominazione (strumenti utilizzati): Principalmente Euro e altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30%. 
+Titoli rappresentativi del capitale di rischio/OICR di natura azionaria: esposizione azionaria: 30% 
+Titoli di debito/OICR di natura obbligazionaria/azioni/quote OICR  
+DURATION COMPONENTE OBBLIGAZIONARIA: - 
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: prevalentemente emittenti area UE 
+RATING: almeno pari a Investment grade, high yield e Not Rated (solo tramite OICR) fino al 5%. 
+Per quanto riguarda gli OICR, concorrono alla determinazione dell'esposizione complessiva in titoli di debito high 
+yield e Not Rated, gli OICR classificabili come “High Yield Bond”. 
+Eventuali OICR principalmente del Gruppo. 
+Non ammessi OICR per i quali non è possibile una retrocessione completa. 
+Azioni/quote FIA chiusi (quotati e non quotati): validazione ex-ante della funzione risk management secondo 
+quanto previsto dai Macro/Micro Risk Process pro-tempore  vigenti. Fino al 5%. Max 1,5% in un singolo FIA. Pesi 
+vincolati al momento dell'acquisto/sottoscrizione. 
+Strumenti derivati: Utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014. 
+VAR 95% 1 mese limite massimo: 2,10%.
+=== pagina 6 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 6 di 20 
+SECONDAPENSIONE BILANCIATA ESG  
+Categoria del comparto: bilanciato. 
+Orizzonte temporale: medio. 
+Dichiarazione di valore: la gestione è finalizzata alla rivalutazione del capitale investito, mediante l'investimento 
+in strumenti finanziari selezionati anche sulla base di criteri di tipo ambientale, sociale e di governo societario 
+(“Criteri ESG”), rispondendo alle esigenze di un soggetto che ha davanti a sé ancora alcuni anni di attività. 
+Criteri di valutazione dei risultati conseguiti: rendimento del comparto rispetto al benchmark gestionale al 
+netto di tutti i costi. 
+Grado di rischio: medio. 
+Stile di gestione: attivo. Per la selezione degli strumenti finanziari, il gestore applica le procedure sviluppate 
+internamente al Gruppo di appartenenza della SGR per i processi di investimento dei portafogli qualificati (ai sensi 
+delle medesime procedure) come “ESG”. Tali procedure definiscono le regole di gestione dei portafogli ESG, 
+comprensive della metodologia di valutazione degli emittenti sulla base dei Criteri ESG, e i principi di esclusione 
+degli emittenti dall’universo di investimento, a cui il gestore deve attenersi. 
+In particolare, gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, 
+oltre a essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico fattori ESG, al fine di orientare, con una visione di lungo periodo, le scelte di 
+investimento a obiettivi di responsabilità sociale. 
+Gestione attiva della valuta sì 
+Benchmark gestionale  
+60% JPM GBI Global Euro Hedged (JHUCGBIG Index) 
+10% MSCI EMU (MSDEEMUN Index) 
+20% MSCI WORLD EX EMU Euro Hedged 
+10% Barclays Capital Euro Treasury 0-6 (MLC05TREU Index) 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: Azionari (20% - 40%) - strumenti monetari e 
+obbligazionari (fino a 80%) - OICR con classi no load (fino al 100%) Titoli Strutturati (fino a 10%) - strumenti legati 
+all'andamento delle materie prime (fino a 5%) - Derivati per copertura e efficiente gestione. 
+Principale valuta di denominazione (strumenti utilizzati): principalmente Euro ed altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30%. 
+Titoli rappresentativi del capitale di rischio/OICR di natura azionaria  
+ESPOSIZIONE AZIONARIA: fino a 40% 
+CATEGORIE DI EMITTENTI: tutti 
+AREE GEOGRAFICHE: principalmente paesi OCSE 
+SETTORI MERCEOLOGICI: nessun limite 
+Titoli di debito/OICR di natura obbligazionaria  
+DURATION COMPONENTE  OBBLIGAZIONARIA: - 
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: principalmente paesi OCSE 
+RATING: almeno pari a investment grade, high yield e Not Rated (solo tramite OICR) fino al 5%. 
+Per quanto riguarda gli OICR, concorrono alla determinazione dell'esposizione complessiva in titoli di debito high 
+yield e Not Rated, gli OICR classificabili come “High Yield Bond”. 
+Azioni/quote OICR: eventuali OICR principalmente del Gruppo. Non ammessi OICR per i quali non è possibile una 
+retrocessione completa. 
+Azioni/quote FIA chiusi (quotati e non quotati): validazione ex-ante della funzione risk management  secondo 
+quanto previsto dai macro/micro risk process pro-tempor e vigenti. Fino al 5%. Max 1,5% in un singolo FIA. Pesi 
+vincolati al momento dell'acquisto/sottoscrizione. 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014. 
+Tracking error volatility limite massimo: 2,5%.
+=== pagina 7 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 7 di 20 
+SECONDAPENSIONE SVILUPPO ESG 
+Categoria del comparto: bilanciato 
+Orizzonte temporale: medio/lungo 
+Dichiarazione di valore: la gestione è finalizzata alla rivalutazione del capitale investito, mediante l'investimento 
+in strumenti finanziari selezionati anche sulla base di criteri di tipo ambientale, sociale e di governo societario 
+(“Criteri ESG”), rispondendo alle esigenze di un soggetto che ha davanti a sé ancora diversi anni di attività. 
+Criteri di valutazione dei risultati conseguiti: rendimento del comparto rispetto al benchmark gestionale al netto 
+di tutti i costi. 
+Grado di rischio: medio – alto. 
+Stile di gestione: attivo. Per la selezione degli strumenti finanziari, il gestore applica le procedure sviluppate 
+internamente al Gruppo di appartenenza della SGR per i processi di investimento dei portafogli qualificati (ai sensi 
+delle medesime procedure) come “ESG”. Tali procedure definiscono le regole di gestione dei portafogli ESG, 
+comprensive della metodologia di valutazione degli emittenti sulla base dei criteri ESG, e i principi di esclusione 
+degli emittenti dall’universo di investimento, a cui il gestore deve attenersi. 
+In particolare, gli strumenti in cui investe il comparto sono selezionati sulla base di decisioni di investimento che, 
+oltre a essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico fattori ESG, al fine di orientare, con una visione di lungo periodo, le scelte di 
+investimento a obiettivi di responsabilità sociale. 
+Gestione attiva della valuta: sì 
+Benchmark gestionale  
+40% JPM GBI Global Euro Hedged (JHUCGBIG Index) 
+20% MSCI EMU (MSDEEMUN Index) 
+30% MSCI WORLD EX EMU Euro Hedged 
+10% Barclays Capital Euro Treasury 0-6M (LC05TREU Index) 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: Azionari (35% - 65%) - strumenti monetari e 
+obbligazionari (fino al 65%) - OICR con classi no load (fino al 100%) - Titoli Strutturati (fino a 10%) - strumenti legati 
+all'andamento delle materie prime (fino a 5%) - Derivati per copertura e efficiente gestione 
+Principale valuta di denominazione (strumenti utilizzati): principalmente Euro ed altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30% 
+Titoli rappresentativi del capitale di rischio/OICR di natura azionaria 
+ESPOSIZIONE AZIONARIA: fino al 65% 
+CATEGORIE DI EMITTENTI: tutte 
+AREE GEOGRAFICHE: principalmente paesi OCSE 
+SETTORI MERCEOLOGICI: nessun limite 
+Titoli di debito/OICR di natura obbligazionaria  
+DURATION COMPONENTE  OBBLIGAZIONARIA: - 
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: principalmente paesi OCSE 
+RATING: almeno pari a Investment grade, High Yield e Not Rated (solo tramite OICR) fino al 5%. 
+Per quanto riguarda gli OICR, concorrono alla determinazione dell'esposizione complessiva in Titoli di Debito 
+High Yield e Not Rated, gli OICR classificabili come “High Yield Bond”. 
+Azioni/quote OICR: eventuali OICR principalmente del Gruppo. Non ammessi OICR per i quali non è possibile una 
+retrocessione completa. 
+Azioni/quote FIA chiusi (quotati e non quotati): validazione ex-ante della funzione risk management secondo 
+quanto previsto dai macro/micro risk process pro-tempore  vigenti. Fino al 5%. Max 1,5% in un singolo FIA. Pesi 
+vincolati al momento dell'acquisto/sottoscrizione. 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014. 
+Tracking error volatility limite massimo: 3,5%.
+=== pagina 8 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 8 di 20 
+SECONDAPENSIONE ESPANSIONE ESG 
+Categoria del comparto: azionario 
+Orizzonte temporale: lungo 
+Dichiarazione di valore: la gestione è finalizzata alla rivalutazione del capitale investito, mediante l'investimento 
+in strumenti finanziari selezionati anche sulla base di criteri di tipo ambientale, sociale e di governo societario 
+(“Criteri ESG”), rispondendo alle esigenze di un soggetto che ha davanti a sé ancora molti anni di attività. 
+Criteri di valutazione dei risultati conseguiti: rendimento del Comparto rispetto al benchmark gestionale al netto 
+di tutti i costi. 
+Grado di rischio: alto 
+Stile di gestione: attivo. Per la selezione degli strumenti finanziari, il gestore applica le procedure sviluppate 
+internamente al Gruppo di appartenenza della SGR per i processi di investimento dei portafogli qualificati (ai sensi 
+delle medesime procedure) come “ESG”. Tali procedure definiscono le regole di gestione dei portafogli ESG, 
+comprensive della metodologia di valutazione degli emittenti sulla base dei Criteri ESG, e i principi di esclusione 
+degli emittenti dall’universo di investimento, a cui il gestore deve attenersi. 
+In particolare, gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, 
+oltre a essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico fattori ESG, al fine di orientare, con una visione di lungo periodo, le scelte di 
+investimento a obiettivi di responsabilità sociale. 
+Gestione attiva della valuta: sì 
+Benchmark gestionale  
+40% MSCI EMU (MSDEEMUN Index) 
+40% MSCI WORLD EX EMU Euro Hedged 
+20% Barclays Capital Euro Treasury 0-6M (LC05TREU Index) 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: Azionari (65% - 95%) - strumenti monetari e 
+obbligazionari (fino a 20%) - OICR con classi no load (fino al 100%) - strumenti legati all'andamento delle materie 
+prime (fino a 5%) -Titoli Strutturati (fino a 10%) - Derivati per copertura e efficiente gestione. 
+Principale valuta di denominazione (strumenti utilizzati): principalmente Euro ed altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30%. 
+Titoli rappresentativi del capitale di rischio/OICR di natura azionaria  
+ESPOSIZIONE AZIONARIA: fino a 95% 
+CATEGORIE DI EMITTENTI: tutte 
+AREE GEOGRAFICHE: principalmente paesi OCSE 
+SETTORI MERCEOLOGICI: nessun limite 
+Titoli di debito/OICR di natura obbligazionaria  
+DURATION COMPONENTE OBBLIGAZIONARIA: - 
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: principalmente paesi OCSE 
+RATING: almeno pari a Investment grade, High Yield e Not Rated (solo tramite OICR) fino al 5%. 
+Per quanto riguarda gli OICR, concorrono alla determinazione dell'esposizione complessiva in Titoli di Debito 
+High Yield e Not Rated, gli OICR classificabili come “High Yield Bond”. 
+Azioni/quote OICR: eventuali OICR principalmente del Gruppo. Non ammessi OICR per i quali non è possibile una 
+retrocessione completa. 
+Azioni/quote FIA chiusi (quotati e non quotati): validazione ex-ante della funzione risk management  secondo 
+quanto previsto dai macro/micro risk process pro-tempore  vigenti. Fino al 5%. Max 1,5% in un singolo FIA. Pesi 
+vincolati al momento dell'acquisto/sottoscrizione. 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014. 
+Tracking error volatility limite massimo: 5%.
+=== pagina 9 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 9 di 20 
+SECONDAPENSIONE GARANTITA ESG 
+Categoria del comparto: garantito 
+Orizzonte temporale: breve 
+Dichiarazione di valore: il comparto punta a una rivalutazione del capitale su un orizzonte temporale di 5 anni in 
+linea con il TFR, mediante l'investimento in strumenti finanziari selezionati anche sulla base di criteri di tipo 
+ambientale, sociale e di governo societario (“Criteri ESG”); inoltre è garantito il capitale al verificarsi di determinati 
+eventi (pensionamento, decesso, invalidità permanente, inoccupazione per un periodo superiore ai 48 mesi, 
+malattia grave). 
+Criteri di valutazione dei risultati conseguiti: rendimento del comparto rispetto all’obiettivo al netto di tutti i 
+costi. Rispetto della garanzia sul capitale. 
+Grado di rischio: medio 
+Stile di gestione : attiva. Per la selezione degli strumenti finanziari, il gestore applica le procedure sviluppate 
+internamente al Gruppo di appartenenza della SGR per i processi di investimento dei portafogli qualificati (ai sensi 
+delle medesime procedure) come “ESG”. Tali procedure definiscono le regole di gestione dei portafogli ESG, 
+comprensive della metodologia di valutazione degli emittenti sulla base dei Criteri ESG, e i principi di esclusione 
+degli emittenti dall’universo di investimento, a cui il gestore deve attenersi. 
+In particolare, gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, 
+oltre a essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendono in 
+considerazione in modo sistematico fattori ESG, al fine di orientare, con una visione di lungo periodo, le scelte di 
+investimento a obiettivi di responsabilità sociale. 
+Gestione attiva della valuta: sì 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: Azionari (fino a 30%) - strumenti monetari e 
+obbligazionari (70% - 100% flessibile) - OICR no load (fino a 100%) - Titoli Strutturati (fino a 10%) - strumenti legati 
+all'andamento delle materie prime (fino a 5%) - Derivati per copertura e efficiente gestione. 
+Principale valuta di denominazione (strumenti utilizzati): principalmente Euro ed altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30% 
+Titoli rappresentativi del capitale di rischio/OICR di natura azionaria  
+ESPOSIZIONE AZIONARIA: fino a 30% 
+CATEGORIE DI EMITTENTI: tutte 
+AREE GEOGRAFICHE: Europa, America, Asia, Pacifico. 
+SETTORI MERCEOLOGICI: tutti 
+Titoli di debito/OICR di natura obbligazionaria  
+DURATION COMPONENTE OBBLIGAZIONARIA: - 
+CATEGORIE DI EMITTENTI: Stati sovrani, Organismi internazionali, Corporate 
+AREE GEOGRAFICHE: Europa, Nord America, Asia, Pacifico 
+RATING: almeno pari all’investment grade 
+Azioni/quote OICR: eventuali OICR principalmente del Gruppo. Non ammessi OICR per i quali non è possibile una 
+retrocessione completa. 
+Azioni/quote FIA chiusi (quotati e non quotati): 0%. 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014. 
+VAR 95% 1 mese limite Massimo: 1,65%.
+=== pagina 10 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 10 di 20 
+3.2  Informazioni comuni a tutti i comparti del Fondo  
+3.2.1. Criteri per l’esercizio del diritto di voto 
+La SGR, nell’esercizio dei diritti di voto inerenti agli strumenti finanziari di pertinenza dei portafogli 
+gestiti, si attiene ai criteri individuati dalla Voting policy di Gruppo, al fine di assicurare che tali diritti 
+siano esercitati nell’esclusivo interesse degli aderenti. 
+L’esercizio del diritto di voto è inoltre oggetto di procedura, approvata dal Consiglio di Amministrazione 
+della SGR, da intendersi quale parte integrante della politica di investimento del Fondo.  
+In linea di principio, il Fondo esercita, ove possibile, i diritti di voto nelle assemblee delle società nelle 
+quali detiene una partecipazione, senza limitazione geografica.  
+Amundi si riserva, tuttavia, la facoltà di non esercitare il diritto di voto nei casi in cui tale esercizio 
+potrebbe non tradursi in un vantaggio per i propri clienti, come, ad esempio, nel caso in cui: 
+- i costi amministrativi associati a tale processo siano rilevanti, anche in relazione all’ammontare 
+effettivamente detenuto e alla concreta possibilità di influenzare il voto assembleare. Per tale motivo, 
+la sostenibilità del voto è valutata anche sulla base di un’analisi costi/benefici, considerando i costi 
+economici che la procedura di voto potrebbe generare rispetto al peso marginale del voto complessivo;  
+- si renda necessario bloccare gli strumenti finanziari per un periodo di tempo prolungato, attività che 
+potrebbe impedire di approfittare di eventuali opportunità di mercato. 
+ 
+ 
+ 
+3.2.2 Investimenti in derivati 
+Gli strumenti finanziari derivati sono utilizzati con finalità di copertura del rischio e di più efficiente 
+gestione delle risorse, coerentemente con il profilo di rischio-rendimento del Comparto e nei limiti 
+indicati per gli attivi sottostanti. 
+Dal punto di vista delle tipologie di strumenti finanziari derivati utilizzati, l’insieme degli strumenti 
+ammissibili, è strettamente vincolato (oltre che dalle caratteristiche regolamentari di ogni Comparto) 
+dal sistema dei limiti interni di rischio che esplicitamente prevede le fattispecie autorizzate. 
+Allo stato attuale si tratta delle seguenti fattispecie: 
+- future quotati (su indici, nozionale obbligazionario, depositi e valute); 
+- opzioni quotate (su indici e sui contratti future sopra indicati); 
+- contratti a termine su divise. 
+L’introduzione di strumenti finanziari derivati non classificabili nelle tipologie previste dal sistema di 
+limiti di rischio interni non è ammessa. 
+Con l’eccezione dei contratti a termine su valute, tutti i derivati utilizzati sono ammessi alle negoziazioni 
+su mercati regolamentati. Dal punto di vista della valorizzazione delle posizioni non si ravvisano 
+pertanto particolari criticità stante la reperibilità dei prezzi sul relativo mercato di negoziazione. 
+Le posizioni in derivati concorrono alla determinazione dell’esposizione del portafoglio sulle classi di 
+attivo di riferimento dei rispettivi sottostanti. Per quanto riguarda le posizioni in opzioni sono previste 
+inoltre particolari limitazioni per controllare l’esposizione alla volatilità implicita dei sottostanti. 
+ 
+L’utilizzo dei derivati nell’ambito dell’attività di investimento di ciascun Comparto non ha un impatto 
+significativo sul profilo di rischio-rendimento del portafoglio tenendo presente: 
+- tipologie di strumenti finanziari derivati ammessi; 
+- presenza di precisi limiti relativi alle posizioni in opzioni; 
+- presenza di limiti di rischio che vincolano l’esposizione complessiva del portafoglio alle diverse 
+classi di attivo; 
+- presenza di limiti basati sulle misure quantitative di rischiosità dei portafogli (assoluta o relativa al 
+benchmark, cioè VaR o TeV a seconda del Comparto). 
+ 
+3.2.3. Investimenti in OICR
+=== pagina 11 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 11 di 20 
+È consentito investire in OICR, la cui politica di gestione sia coerente con quella stabilita per il relativo 
+Comparto, ivi inclusi OICR istituiti da società del gruppo di appartenenza della SGR, nel rispetto delle 
+disposizioni in materia. 
+Gli OICR sono utilizzati per ottenere un’esposizione efficiente a classi di attivo adeguatamente 
+diversificate o eventualmente per accedere a specifiche expertise e fonti di valore aggiunto. 
+È inoltre ammessa la possibilità di investire in FIA e – per importi marginali – in FIA chiusi (quotati o 
+non quotati), previa autorizzazione da parte della funzione risk management della SGR. 
+L’utilizzo di questa fattispecie è motivato dalla possibilità di investire in classi di attivo altrimenti non 
+accessibili tramite fondi armonizzati. Si tratta di opportunità di investimento che possono offrire 
+benefici in termini di de-correlazione con i comuni fattori di rischio obbligazionario e azionario e in 
+termini di rendimenti più convenienti in rapporto al rischio sopportato. Inoltre, tenuto conto 
+dell’orizzonte temporale di investimento del fondo pensione, la caratteristica illiquidità di talune asset 
+class (e.g.: private debt, private equity ) permettono al fondo di godere dei connessi premi di liquidità 
+che si traducono in rendimenti più elevati. 
+Si precisa che l’investimento in FIA è ammesso: 
+- per importi limitati come previsto dalle direttrici generali di investimento del fondo approvate dal 
+Consiglio di Amministrazione della SGR; 
+- qualora sia possibile assicurare una totale trasparenza sulla composizione del portafoglio del FIA, 
+sulle strategie di investimento seguite, sull’allocazione del rischio e sulla valorizzazione del 
+patrimonio del fondo.  
+La decisione di investimento è presa dal CIO in seno all’Investment Committee della SGR. 
+ 
+3.2.4. Integrazione dei rischi di sostenibilità e trasparenza sulle caratteristiche ambientali e sociali dei 
+Comparti ai sensi del regolamento SFDR  
+ 
+Definizioni 
+“ESG” designa gli aspetti ambientali, sociali e di governance; 
+“Fattori di Sostenibilità ” designa le problematiche ambientali, sociali e concernenti il personale, il 
+rispetto dei diritti umani e le questioni relative alla lotta alla corruzione attiva e passiva; 
+“Rischi di Sostenibilità” designa un evento o una condizione di tipo ambientale, sociale o di governance 
+che, se si verifica, potrebbe provocare un significativo impatto negativo effettivo o potenziale sul valore 
+dell’investimento, compresi, a titolo esemplificativo ma non esaustivo, i rischi derivanti dai 
+cambiamenti climatici, esaurimento delle risorse naturali, degrado ambientale, violazione dei diritti 
+umani, abuso d’ufficio e corruzione, problematiche sociali e concernenti il personale. 
+ 
+Il gestore integra i Rischi di Sostenibilità nelle scelte di investimento di ciascun comparto a livello di singolo 
+emittente.  L’integrazione dei Rischi di Sostenibilità nelle decisioni di investimento è operata, a livello di 
+singolo emittente, sulla base del processo di valutazione del rating ESG adottato dal Gruppo Amundi. Tale 
+metodologia consta dell’attribuzione di un punteggio formulato in termini quantitativi che classifica 
+l’emittente su una scala alfabetica di 7 livelli che va da “A” (punteggio più alto) a “G” (punteggio più basso). 
+Solo gli emittenti con un punteggio pari a G saranno esclusi dalle scelte di investimento del comparto. 
+Ciascun comparto è un prodotto finanziario che promuove caratteristiche ambientali, sociali e di 
+governance ai sensi dell’Articolo 8 del Regolamento (UE) 2019/2088 del Parlamento europeo e del 
+Consiglio del 27 novembre 2019. La SGR, oltre all’integrazione dei rischi di sostenibilità nelle decisioni di 
+investimento, mira ad ottenere un punteggio ESG di ciascun comparto maggiore o uguale a quello del 
+suo parametro per la misurazione della performance ESG. 
+Inoltre, a livello di portafoglio, con esclusivo riferimento agli emittenti societari, la metodologia ESG 
+applicata ha l’obiettivo di ottenere per ogni indicatore di seguito riportato risultati migliori a livello di 
+comparto rispetto al parametro rilevante per la misurazione della performance ESG: 
+-  “Investimenti effettuati in imprese che non adottano iniziative per ridurre le emissioni di carbonio ", indica
+=== pagina 12 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 12 di 20 
+la quota di investimenti nelle imprese beneficiarie degli investimenti che non adottano iniziative per 
+ridurre le emissioni di carbonio miranti all’allineamento con l’accordo di Parigi, tale indicatore deve 
+essere minore o uguale del corrispondente indicatore del parametro per la misurazione della 
+performance ESG;  
+-  "Integrazione degli aspetti sociali nella catena di fornitura ", indica la percentuale di fornitori che 
+monitorano e gestiscono il loro impatto sociale (in particolare per quanto riguarda i diritti umani e le 
+condizioni di lavoro), tale indicatore deve essere maggiore o uguale del corrispondente indicatore 
+del parametro per la misurazione della performance ESG; 
+-  "Diversità di genere nel consiglio ", indica il rapporto medio donne/uomini tra i membri del consiglio 
+delle imprese beneficiarie degli investimenti, espresso in percentuale di tutti i membri del consiglio, 
+il valore dell’indicatore per il portafoglio deve essere maggiore o uguale rispetto del corrispondente 
+indicatore del parametro per la misurazione della performance ESG.  
+ 
+Regolamento SFDR 
+Il 18 dicembre 2019, il Consiglio europeo e il Parlamento europeo hanno annunciato il raggiungimento 
+di un accordo istituzionale sul Regolamento SDFR (ossia, il Regolamento (UE) 2019/2088 del 
+Parlamento europeo e del Consiglio del 27 novembre 2019 relativo all’informativa sulla sostenibilità 
+nel settore dei servizi finanziari), attraverso il quale si stabilisce un quadro paneuropeo volto ad 
+agevolare l’Investimento Sostenibile. Il Regolamento SFDR instaura un approccio armonizzato 
+riguardo agli obblighi di trasparenza verso gli investitori in materia di sostenibilità nel settore dei 
+servizi finanziari dello Spazio Economico Europeo.  
+L’ambito di applicazione del Regolamento SFDR è molto vasto e copre un’ampia gamma di prodotti 
+finanziari (quali OICVM, Fondi di Investimento Alternativi, regimi pensionistici, ecc.) e di partecipanti ai 
+mercati finanziari (per es. gestori e consulenti di investimento europei autorizzati). 
+Il Regolamento SFDR mira a conseguire maggiore trasparenza riguardo alle modalità con cui i 
+partecipanti ai mercati finanziari integrano i Rischi di Sostenibilità nei propri processi decisionali e 
+prendono in considerazione gli effetti negativi del processo di investimento per la sostenibilità. Gli 
+obiettivi del Regolamento SFDR sono: (i) rafforzare la protezione per gli investitori in prodotti finanziari, 
+(ii) migliorare l’informativa destinata agli investitori dai partecipanti ai mercati finanziari e (iii) 
+migliorare l’informativa destinata agli investitori riguardo ai prodotti finanziari affinché, tra altre 
+finalità, gli investitori siano messi in grado di compiere decisioni di investimento informate. 
+Ai fini del Regolamento SFDR, Amundi rientra nella definizione di “partecipante ai mercati finanziari”, 
+mentre il Fondo Pensione integra i requisiti del “prodotto finanziario”. 
+ 
+Regolamento sulla Tassonomia 
+Il Regolamento Tassonomia (ossia, il Regolamento (UE) 2020/852 del Parlamento Europeo e del Consiglio 
+del 18 giugno 2020 relativo all’istituzione di un quadro che favorisce gli investimenti sostenibili e recante 
+modifica del Regolamento (UE) 2019/2088) stabilisce i criteri per determinare se un’attività economica 
+possa essere considerata sostenibile da un punto di vista ambientale (“Attività Ecosostenibile”). 
+L’articolo 9 del Regolamento Tassonomia identifica tali attività in base al contributo ai seguenti sei 
+obiettivi ambientali: a) la mitigazione dei cambiamenti climatici; b) l’adattamento ai cambiamenti 
+climatici; c) l’uso sostenibile e la protezione delle acque e delle risorse marine; d) la transizione verso 
+un’economia circolare; e) la prevenzione e la riduzione dell’inquinamento; f) la protezione e il ripristino 
+della biodiversità e degli ecosistemi. 
+Un’attività economica è considerata ecosostenibile se dà un contributo sostanziale al raggiungimento 
+di uno o più dei predetti sei obiettivi ambientali, non arreca un danno significativo a nessuno degli altri 
+cinque obiettivi ambientali (principio del “non arrecare un danno significativo”), è svolta nel rispetto 
+delle garanzie minime di salvaguardia previste all’articolo 18 del Regolamento Tassonomia ed è 
+conforme ai criteri di vaglio tecnico di cui al Regolamento Tassonomia. Il principio del “non arrecare
+=== pagina 13 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 13 di 20 
+un danno significativo” si applica solo agli investimenti sottostanti il prodotto finanziario che tengono 
+conto dei criteri dell’UE per le attività economiche ecosostenibili.  
+Gli investimenti sottostanti la parte restante di questo prodotto finanziario non tengono conto dei 
+criteri dell’Unione Europea per le attività economiche ecosostenibili. 
+I prodotti classificati ai sensi dell’articolo 8 del Regolamento SFDR nelle rispettive sezioni sugli obiettivi 
+di investimento e politiche di investimento, possono assumere o non assumere un impegno ad 
+investire in attività economiche che contribuiscono agli obiettivi ambientali individuati all’articolo 9 del 
+Regolamento Tassonomia. 
+Per maggiori informazioni sull’approccio al Regolamento Tassonomia adottato da Amundi, si rimanda 
+all’Informativa sulla sostenibilità allegata alla Nota Informativa e alla Dichiarazione SFDR di Amundi 
+(Amundi Sustainable Finance Disclosure Statement) consultabile all’indirizzo www.amundi.it. 
+ 
+Regolamento Delegato (UE) 2022/1288 della Commissione del 6 aprile 2022  
+Il 6 aprile 2022, la Commissione Europea ha pubblicato le norme tecniche di regolamentazione (“RTS”) 
+di Livello 2 ai sensi del Regolamento SFDR e del Regolamento Tassonomia. Le RTS sono corredate da 
+cinque allegati che prevedono modelli obbligatori di informativa. Le RTS sono un insieme consolidato 
+di norme tecniche che specificano il contenuto, la metodologia e la presentazione di alcuni obblighi di 
+informativa previsti dal Regolamento SFDR e dal Regolamento Tassonomia. 
+ Il Regolamento Delegato (UE) 2022/1288 che definisce le RTS è stato pubblicato il 25 luglio 2022 nella 
+Gazzetta Ufficiale dell’Unione Europea (G.U). Le RTS si applicano dal 1° gennaio 2023.  
+Ai sensi dell’art. 14, comma 2, delle RTS, le informazioni sulle caratteristiche ambientali o sociali dei 
+Comparti disciplinati dall’articolo 8 sono disponibili nell’Appendice, Informativa sulla sostenibilità, alla 
+Nota Informativa.  
+Per ulteriori informazioni sulle modalità di adeguamento dei Fondi ai requisiti previsti dal 
+Regolamento SFDR, dal Regolamento Tassonomia e dalle RTS, si rimanda alle Informative sulla 
+sostenibilità allegate alla Nota Informativa e alla Dichiarazione SFDR di Amundi SGR ( Amundi 
+Sustainable Finance Disclosure Statement) consultabili all’indirizzo www.amundi.it. 
+ 
+Approccio Amundi agli investimenti responsabili 
+Fin dalla sua costituzione, il gruppo Amundi ha considerato l’investimento responsabile e la 
+responsabilità aziendale quali pilastri fondanti alla base della propria attività, nella convinzione che gli 
+attori economici e finanziari abbiano una maggiore responsabilità nella costruzione di una società 
+sostenibile e che i principi ESG rappresentino un fattore determinante per la creazione di valore nel 
+lungo termine. 
+Amundi, nei processi decisionali in materia di investimento, al fine di effettuare una più completa 
+valutazione dei rischi e delle opportunità di investimento, prende in considerazione, oltre a criteri di natura 
+economica e finanziaria, anche gli aspetti ESG, ivi inclusi i Fattori di Sostenibilità e i Rischi di Sostenibilità. 
+ 
+Integrazione dei Rischi di Sostenibilità 
+L’approccio di Amundi all’integrazione dei Rischi di Sostenibilità si basa su una combinazione di 
+politiche di esclusione (settoriali e normative), l’integrazione del rating ESG nei processi di investimento 
+e il coinvolgimento proattivo nel dialogo con le aziende e le attività di voto. 
+Amundi applica politiche di esclusione mirate con riferimento agli emittenti che non rispettano la 
+Amundi Global Responsible Investment Policy, quali gli emittenti che violano le convenzioni 
+internazionali, le norme riconosciute dalla comunità internazionale o la legislazione nazionale.  
+Amundi ha definito il proprio approccio alla valutazione degli aspetti ESG (c.d. “rating ESG”). Tale 
+approccio mira a misurare le prestazioni in termini di sostenibilità di un emittente, quale, ad esempio, 
+la sua capacità di prevedere e gestire i Rischi di Sostenibilità e le opportunità connessi alle proprie 
+caratteristiche specifiche e al proprio settore industriale di appartenenza.
+=== pagina 14 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 14 di 20 
+Utilizzando il rating ESG, i gestori degli investimenti, tengono in considerazione i Rischi di Sostenibilità 
+nelle loro decisioni di investimento. 
+Il processo di rating ESG di Amundi si basa su un approccio di tipo c.d. “ Best-in-class”. I rating, adattati 
+in base ai vari settori di attività, mirano a valutare le dinamiche in cui operano le società. 
+La valutazione e l’analisi ESG sono svolte dal team di ricerca ESG di Amundi, il quale fornisce anche un 
+contributo indipendente e complementare al processo decisionale, come meglio descritto in seguito.  
+Il rating ESG di Amundi consiste in un punteggio quantitativo ESG tradotto in sette gradi, che vanno 
+da A (miglior punteggio) a G (punteggio più basso). Nella scala di rating ESG di Amundi i titoli che 
+rientrano nella lista di esclusione prevista dalla politica ESG di Amundi corrispondono al grado G. 
+Le prestazioni ESG degli emittenti societari sono valutate attraverso il raffronto con il rendimento 
+medio del settore di attività in cui opera tale società attraverso le tre dimensioni ESG:   
+– Ambientale: considera la capacità dell’emittente di controllare il proprio impatto ambientale, diretto 
+e indiretto, attraverso la limitazione del consumo energetico, la riduzione delle emissioni serra, la 
+lotta all’impoverimento delle risorse e la tutela della biodiversità;  
+– Sociale: considera le modalità operative dell’emittente su due piani concettuali diversi: la strategia 
+applicata dall’emittente per lo sviluppo del capitale umano e il rispetto dei diritti umani in generale;  
+– Governo societario: considera la capacità dell’emittente di assicurare le basi per un quadro efficace 
+di governo societario e di generare valore nel lungo periodo.  
+La metodologia applicata nei rating ESG di Amundi utilizza 38 criteri, sia generali (comuni a tutte le 
+società, qualunque sia il loro settore di attività) che settoriali specifici, i quali vengono ponderati per 
+settore e presi in considerazione in relazione al relativo impatto in termini di reputazione, efficienza 
+operativa e regolamentazione per ciascun emittente. 
+La metodologia di valutazione degli emittenti sovrani si basa su 50 criteri, considerati rilevanti dal team 
+di ricerca ESG di Amundi ai fini dei rischi di sostenibilità e fattori di sostenibilità. 
+Al fine di soddisfare aspettative e requisiti del gestore, nell’ambito del processo di gestione dei prodotti 
+finanziari e del monitoraggio dei vincoli associati a uno specifico obiettivo di investimento sostenibile, 
+i rating ESG di Amundi possono essere espressi sia a livello globale sulle base delle tre dimensioni E, S 
+e G, sia individualmente su uno qualsiasi dei 38 criteri sopramenzionati. 
+Per maggiori informazioni sui 38 criteri si rimanda alla Global Responsible Investment Policy  (Politica 
+globale di investimento responsabile) e alla Dichiarazione SFDR di Amundi (Amundi Sustainable Finance 
+Disclosure Statement) consultabili all’indirizzo www.amundi.it.  
+Il rating ESG di Amundi inoltre considera le potenziali conseguenze negative delle attività 
+dell’emittente sulla sostenibilità (principali conseguenze negative delle decisioni di investimento sui 
+Fattori di Sostenibilità, secondo la valutazione di Amundi) nonché sui seguenti indicatori:  
+– Emissione di gas serra e rendimento energetico (criteri su emissioni e consumo energetico); 
+– Biodiversità (rifiuti, criteri su riciclo, biodiversità e inquinamento, criteri sulla gestione responsabile 
+delle foreste); 
+– Acqua (criteri sulle risorse idriche);  
+– Rifiuti (rifiuti, criteri su riciclo, biodiversità e inquinamento)  
+– Questioni sociali e condizioni dei lavoratori (criteri su comunità locali e diritti umani, criteri sulle 
+condizioni di lavoro, criteri sulla struttura direttiva, criteri sulle relazioni industriali e criteri su salute 
+e sicurezza)  
+– Diritti umani (criteri relativi a comunità locali e diritti umani)  
+– Lotta alla corruzione attiva e passiva (criteri etici). 
+Le modalità e il grado di integrazione dell’analisi ESG nel processo di investimento, per esempio sulla 
+base di punteggi ESG, sono stabiliti separatamente per ciascun prodotto finanziario dal relativo 
+gestore degli investimenti. 
+ 
+L’attività di stewardship è parte integrante della strategia ESG di Amundi. Amundi ha sviluppato un
+=== pagina 15 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 15 di 20 
+approccio basato sulla stewardship attiva attraverso engagement e politiche di voto. 
+ 
+Impatto dei Rischi di Sostenibilità sul rendimento dei Comparti 
+Nonostante l'integrazione dei Rischi di Sostenibilità nella strategia d'investimento dei prodotti 
+finanziari, come descritto in precedenza e nella Dichiarazione SFDR di Amundi ( Amundi Sustainable 
+Finance Disclosure Statement), alcuni Rischi di Sostenibilità rimarranno non mitigati.  
+I Rischi di sostenibilità non mitigati o residui a livello di emittente possono comportare, quando si 
+materializzano, su orizzonti temporali che possono essere anche di lungo periodo, una minore 
+performance finanziaria di alcuni investimenti sottostanti i prodotti finanziari. A seconda 
+dell'esposizione dei prodotti finanziari agli investimenti interessati, l'impatto dei Rischi di Sostenibilità 
+non mitigati o residui sulla performance finanziaria del prodotto finanziario può assumere diversi livelli 
+di gravità. 
+ 
+Integrazione dell’approccio di Amundi ai Rischi di Sostenibilità a livello di comparto 
+I Comparti sottoelencati rientrano nella classificazione di cui all’articolo 8 del Regolamento SFDR e 
+mirano alla promozione di caratteristiche ambientali o sociali e all’investimento in imprese che 
+seguono prassi di buona governance. Oltre ad applicare la politica sugli investimenti responsabili, 
+questi Comparti regolati dall’articolo 8 mirano a promuovere le predette caratteristiche attraverso una 
+maggiore esposizione verso attività sostenibili conseguita cercando di ottenere un punteggio ESG 
+superiore a quello del proprio parametro per la misurazione della performance ESG. Il punteggio ESG 
+del portafoglio è dato dalla media ponderata per le attività gestite (AUM) calcolata sui punteggi ESG 
+degli emittenti assegnati in base al modello Amundi di valutazione ESG.  
+Questi Comparti ex articolo 8 cercano di ridurre i Rischi di Sostenibilità attraverso una politica di 
+esclusione mirata, l’integrazione di punteggi ESG nel processo di investimento e un approccio fondato 
+sulla stewardship. 
+-  SecondaPensione Prudente ESG; 
+- SecondaPensione Bilanciata ESG; 
+- SecondaPensione Sviluppo ESG; 
+-  SecondaPensione Espansione ESG; 
+- SecondaPensione Garantita ESG. 
+ 
+I Comparti non perseguono un obiettivo di investimento sostenibile ai sensi dell’articolo 9 del 
+Regolamento SFDR. 
+ 
+Principali Effetti Negativi 
+I principali effetti negativi (Principal Adverse Impact, “PAI”)  sono effetti negativi, rilevanti o 
+probabilmente rilevanti sui Fattori di Sostenibilità che sono causati, aggravati o direttamente collegati 
+alle decisioni di investimento dell’emittente. 
+Amundi prende in considerazione i Principali Effetti Negativi mediante una combinazione di approcci: 
+esclusioni, integrazione di rating ESG, engagement, politiche di voto, monitoraggio delle controversie. 
+Con riferimento ai prodotti classificati ai sensi dell’articolo 8 del Regolamento SFDR, le informazioni 
+relative ai PAI sono contenute nelle informative precontrattuali allegate alla Nota Informativa. 
+Informazioni sui PAI sono reperibili nel Rendiconto Annuale e nella Dichiarazione SFDR di Amundi 
+(Amundi Sustainable Finance Disclosure Statement) consultabili sul sito internet www.amundi.it.
+=== pagina 16 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 16 di 20 
+3.3 Obiettivi della politica di investimento dei Comparti 
+ 
+SecondaPensione Prudente ESG  
+Orizzonte temporale: 3 anni 
+Volatilità: 4,14% 
+Probabilità di battere l’inflazione attesa: 63,7% 
+Inflazione Attesa: 3% 
+Obiettivo medio annuo atteso (espresso in termini reali): 1,4% 
+Rendimento annualizzato atteso: 4,4% 
+VaR 99% mensile: 2,4% 
+VaR 95% mensile: 1,4% 
+Turnover limite massimo: 200% 
+ 
+SecondaPensione Bilanciata ESG  
+Orizzonte temporale: 6 anni 
+Volatilità: 5,98% 
+Probabilità di battere l’inflazione attesa: 63,6% 
+Inflazione Attesa: 2,8% 
+Obiettivo medio annuo atteso (espresso in termini reali): 2% 
+Rendimento annualizzato atteso: 4,9% 
+VaR 99% mensile: 3,6% 
+VaR 95% mensile: 2,4% 
+Turnover limite massimo: 200% 
+ 
+SecondaPensione Sviluppo ESG  
+Orizzonte temporale: 11 anni 
+Volatilità: 7,62% 
+Probabilità di battere l’inflazione attesa: 66,8% 
+Inflazione Attesa: 2,3% 
+Obiettivo medio annuo atteso (espresso in termini reali): 3,2% 
+Rendimento annualizzato atteso: 5,6% 
+VaR 99% mensile: 5,9% 
+VaR 95% mensile: 3,7% 
+Turnover limite massimo: 250% 
+ 
+SecondaPensione Espansione ESG 
+Orizzonte temporale: 16 anni 
+Volatilità: 13,28% 
+Probabilità di battere l’inflazione attesa: 63,2% 
+Inflazione Attesa: 2,1% 
+Obiettivo medio annuo atteso (espresso in termini reali): 4,4% 
+Rendimento annualizzato atteso: 6,6% 
+VaR 99% mensile: 10,2% 
+VaR 95% mensile: 5,8% 
+Turnover limite massimo: 300% 
+ 
+SecondaPensione Garantita ESG  
+Orizzonte temporale: 3 anni 
+Volatilità: 2,98% 
+Probabilità di battere l’inflazione attesa: 62,6% 
+Inflazione Attesa: 3% 
+Obiettivo medio annuo atteso (espresso in termini reali): 0,9% 
+Rendimento annualizzato atteso: 3,9% 
+VaR 99% mensile: 1,6% 
+VaR 95% mensile: 1,1% 
+Turnover limite massimo: 250%
+=== pagina 17 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 17 di 20 
+ 
+Nota esplicativa dei dati sopra riportati 
+Le aspettative sulle asset class derivano dal modello proprietario denominato Cascade Asset Simulation 
+Model (CASM). Il modello origina l’andamento futuro di prezzi delle attività nel breve, medio e lungo 
+termine sulla base dell'evoluzione attesa dei fattori macroeconomici e fondamentali. Ad ogni tipo di 
+asset corrisponde un modello che tiene conto delle specificità della variabile considerata (e.g.: modello 
+sul mercato azionario e modello sulla struttura a termine). 
+Nel generare l’andamento delle variabili, CASM combina le dinamiche di breve termine (derivanti dai 
+modelli previsivi dello  strategy team ) con i livelli di lungo termine, e le dinamiche di medio periodo, 
+guidate dalle variabili di ciclo economico. 
+I rendimenti attesi corrispondono agli scenari medi di CASM, coerentemente all’orizzonte temporale 
+dell’analisi. L’analisi si basa su relazioni fra variabili macroeconomiche e finanziarie verificate su 
+campioni storici pluriennali e valide su un orizzonte di medio-lungo periodo. La situazione attuale dei 
+mercati finanziari caratterizzata da una elevata variabilità può influenzare lo scenario finanziario nel 
+breve-medio periodo. 
+ 
+Rendimento atteso: rappresenta il rendimento medio annualizzato che in ipotesi di distribuzione normale 
+dei rendimenti (media e mediana coincidono), ha una probabilità del 50% di realizzarsi sull’orizzonte 
+considerato. I rendimenti, se non diversamente specificato, sono da intendersi lordi. I rendimenti 
+includono una stima dell’alpha derivante dalla gestione attiva se applicabile (mandati a benchmark). 
+Tasso di inflazione attesa: è la previsione del tasso di inflazione media italiana (indice FOI) derivante dal 
+modello di simulazione di Amundi. 
+VaR ( Value at Risk) : misura della massima perdita possibile in condizioni normali di mercato, su un 
+determinato orizzonte temporale e con un certo livello di confidenza.  
+VaR 95% mensile: indica la perdita potenziale su un orizzonte mensile con confidenza pari al 95% (ossia, 
+su un orizzonte mensile, nel rimanente 5% dei casi potrebbe determinarsi una perdita maggiore). 
+VaR 99% mensile: indica la perdita potenziale su un orizzonte mensile con confidenza pari al 99% (ossia, 
+sempre in un orizzonte mensile, nel rimanente 1% dei casi potrebbe determinarsi una perdita maggiore). 
+ 
+Tutte le statistiche (VaR e probabilità di battere l’inflazione attesa) sono calcolate con metodo 
+parametrico. Tale metodo ipotizza che i rendimenti abbiano una distribuzione normale. Ciò implica che 
+posti su un piano cartesiano i rendimenti/perdite potenziali alle ascisse e le rispettive frequenze alle 
+ordinate si ottenga un grafico a campana noto come curva gaussiana. Il VaR è determinato 
+moltiplicando la deviazione standard dei rendimenti per il coefficiente gaussiano corrispondente al 
+livello di confidenza desiderato. 
+Si precisa che la volatilità utilizzata nel calcolo e indicata in tabella è riferita all’orizzonte temporale 
+specifico del Comparto. Ciò significa, per esempio, che per il Comparto garantito è indicato il valore di 
+volatilità rilevato negli ultimi 3 anni. La volatilità include una stima del TEV della gestione attiva.
+=== pagina 18 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 18 di 20 
+4. SISTEMA DI CONTROLLO DEI RISCHI 
+Il sistema di gestione dei rischi del Fondo include le strategie, le politiche, i processi e i meccanismi 
+riguardanti l’individuazione, assunzione, sorveglianza, attenuazione dei rischi a cui è esposto o potrebbe 
+essere esposto il patrimonio del Fondo (inclusi, tra l’altro, i rischi di mercato, credito, liquidità, 
+controparte e operativi). 
+ 
+La SGR definisce, applica e mantiene: 
+- disposizioni interne, tecniche di misurazione e procedure per assicurare il corretto funzionamento 
+del sistema di gestione dei rischi e per verificare il costante rispetto dei limiti e dei divieti sia di natura 
+regolamentare che interna; 
+- un sistema documentato di limiti interni dei rischi ai quali è esposto ogni comparto e assicura che il 
+livello di rischio del comparto sia conforme a tali limiti; 
+- presidi adeguati che, in caso di violazione presente o prevista dei limiti di rischio, consentano 
+l’adozione tempestiva di misure correttive nell’interesse dei partecipanti al Fondo. 
+Nella definizione del sistema di gestione dei rischi, per la valutazione del merito di credito delle attività 
+del Fondo, la SGR non si affida esclusivamente o meccanicamente ai rating emessi da agenzie di rating, 
+assicurando che siano condotte adeguate e autonome analisi interne. La funzione di risk management, 
+per quanto di competenza e come specificato dalle procedure aziendali vigenti, verifica che l’attività di 
+investimento dei gestori per ogni portafoglio rispetti: 
+- limiti normativi e di regolamento; 
+- Direttrici Generali d’Investimento; 
+- Risk Process. 
+La funzione di  risk management  provvede alla misurazione e all’analisi delle performance, 
+dell’esposizione dei portafogli con riguardo alle diverse classi di attivo, aree geografiche, settori 
+industriali e dei rischi a cui è esposto il patrimonio del Fondo (inclusi, tra l’altro, i rischi di mercato, di 
+credito, di liquidità, di controparte e operativi) e produce una reportistica per CdA e Risk Committee.  
+In particolare, il Risk Committee: 
+- sovrintende ai rischi di mercato, svolge il monitoraggio delle performance dei portafogli in gestione, 
+riceve ed analizza i risultati dei controlli; 
+- assume decisioni di natura tecnica, nel rispetto di direttive emanate dal CdA, e formula 
+raccomandazioni riguardanti i rischi legati all’attività di investimento. 
+ 
+La tabella seguente riassume i principali indicatori utilizzati per analizzare il profilo di rischio e 
+rendimento dei comparti del Fondo. 
+ 
+Indicatore/Modalità di calcolo/di verifica Periodicità  Fonte dati Infoprovider 
+ Misurazione performance nette dei Comparti, in assoluto e relativo rispetto al benchmark di riferimento. 
+Performance Nette/Excess Return Netti 
+(differenziale di rendimento dei Comparti rispetto 
+al benchmark al netto della ritenuta fiscale). 
+Quindicinale Previnet (NAV Calculator)/ 
+BaseIndex1  
+Bloomberg, 
+Reuters,  
+Index Providers 
+Misurazione performance lorde dei Comparti (al lordo delle commissioni di gestione), in assoluto e relativo rispetto 
+al benchmark di riferimento. 
+Performance Lorde/Excess Return Lordi 
+(differenziale di rendimento dei Comparti rispetto 
+al benchmark). 
+Quindicinale Previnet (NAV Calculator)/ 
+BaseIndex 
+Bloomberg, 
+Reuters,  
+Index Providers 
+ 
+1 Database indici di mercato e valute del Gruppo Amundi
+=== pagina 19 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 19 di 20 
+Indicatore/Modalità di calcolo/di verifica Periodicità  Fonte dati Infoprovider 
+ Misurazione TEV/VAR ex-ante e monitoraggio dei limiti di rischio ex-ante (limite di VAR per i Comparti Garantita ESG 
+e Prudente ESG e limiti di TEV per tutti gli altri Comparti). 
+TEV Comparti Bilanciata ESG, Sviluppo ESG, 
+Espansione ESG stimato con modello 
+multifattoriale, globale, multi asset class (" Multi-
+asset Class Factor Model", ”MAC”). 
+VaR95% 1M Comparti Garantita ESG, Prudente 
+ESG, stimato con metodologia di historical 
+simulation, campione di 1 anno di rendimenti 
+giornalieri dei fattori di rischio (1Y1D) 
+ 
+Giornaliera Alto2  
+Barra One3 (per i Comparti 
+Bilanciata ESG, Sviluppo 
+ESG, Espansione ESG). 
+Risk Metrics 3 (per i 
+Comparti Prudente ESG e 
+Garantita ESG). 
+ 
+Bloomberg, 
+Reuters,  
+MSCI Barra, 
+Index Providers 
+Misurazione volatilità/TEV ex-post netti 
+Volatilità ex -post e TEV ex - post: standard 
+deviation annualizzata dei rendimenti netti del 
+fondo (Volatilità) e degli excess return netti (TEV) di 
+ogni Comparto stimati con un campione di 1 
+anno di rendimenti quindicinali di Comparti e 
+relativo benchmark. 
+Quindicinale Previnet (NAV 
+Calculator)/BaseIndex  
+Bloomberg, 
+Reuters,  
+Index Providers 
+Misurazione esposizione dei portafogli rispetto a varie dimensioni (e.g.: geografica, settoriale, tipo di strumento 
+finanziario), misurazione della duration. Monitoraggio limiti di investimento basati sui suddetti indicatori. 
+Esposizione sulle diverse asset class di ogni 
+Comparto stimato sulla base delle evidenze del 
+sistema di position keeping. Monitoraggio dei limiti 
+tramite l'applicativo in uso. 
+Giornaliera Alto 
+Gerico4:  
+Alto 
+Performance Attribution analitica "Brinson Model" per i Comparti bilanciati a benchmark (ad eccezione quindi dei 
+Compartii Garantita ESG e Prudente ESG). 
+Decomposizione del rendimento relativo rispetto 
+al benchmark su un orizzonte temporale mensile e 
+year-to-date negli effetti di asset allocation, stock 
+picking, interaction e allocazione valutaria secondo 
+il modello di Brinson. 
+Almeno 
+Annuale 
+Alto 
+BaseIndex 
+FactSet  
+Alto; 
+Bloomberg, 
+Reuters,  
+Index Providers. 
+Performance Contribution (per i Compartii Garantita ESG e Prudente ESG). 
+Decomposizione del rendimento assoluto del 
+portafoglio nei contributi derivanti da ogni 
+strumento finanziario in portafoglio su un 
+orizzonte mensile e year- to-date. 
+Almeno 
+Annuale 
+Alto 
+BaseIndex 
+FactSet 
+Alto; 
+Bloomberg, 
+Reuters,  
+Index Providers. 
+Misurazione turnover e monitoraggio del limite massimo di turnover. 
+Metodologia COVIP. Misurazione e definizione del 
+limite per anno solare. Stima preventiva mensile 
+ottenuta da Previnet sul periodo year-to-date. 
+Mensile Previnet (NAV Calculator) Previnet 
+(NAV Calculator) 
+Misurazione costi di transazione e costi di gestione. 
+Evidenze contabili di portafoglio: statement 
+contabili quindicinali; Bilancio di verifica 
+trimestrale; Rendicontazione Annuale. 
+Quindicinale Previnet (NAV Calculator) Previnet  
+(NAV Calculator) 
+Misurazione costi degli OICR componenti. 
+Evidenze contabili di portafoglio: statement 
+contabili quindicinali; Bilancio di verifica 
+trimestrale; Rendicontazione Annuale. 
+Quindicinale Previnet (NAV Calculator) Previnet 
+(NAV Calculator) 
+ 
+ 
+2 Sistema di position keeping e dati anagrafici degli strumenti finanziari in portafoglio del Gruppo. 
+3 Procedura di calcolo centralizzata del rischio ex-ante, gestita con l’omonimo applicativo 
+4 Applicativo per il monitoraggio dei limiti di rischio/investimento del Gruppo.
+=== pagina 20 ===
+SecondaPensione - Documento sulla politica di investimento 
+Amundi SGR - Febbraio 2025  Pagina 20 di 20 
+ 
+5. MODIFICHE NELL’ULTIMO TRIENNIO 
+Si descrivono di seguito le modifiche apportate al presente Documento nell’ultimo triennio. 
+ 
+Data Descrizione sintetica della modifica apportata 
+26/02/2025 Aggiornamento delle modalità con cui il gestore integra considerazioni di sostenibilità 
+nelle scelte di investimento dei comparti (“Trasparenza sulla sostenibilità ai sensi del 
+regolamento SFDR”).  
+Aggiornamento dell’approccio di Amundi SGR in relazione ai criteri ESG adottati per il 
+Fondo Pensione ai fini della promozione delle caratteristiche ambientali, sociali e di 
+governance al fine di ottenere un maggiore allineamento con le procedure interne del 
+Gruppo Amundi in materia di investimenti responsabili (“Integrazione dei Rischi di 
+Sostenibilità”). 
+22/03/2023 Con riferimento a ciascun comparto, ed in particolare agli obiettivi da realizzare nella 
+gestione finanziaria e ai criteri da seguire nella sua attuazione, aggiornamento dei valori 
+relativi a: 
+- volatilità; 
+- probabilità di battere l’inflazione attesa; 
+- inflazione attesa; 
+- obiettivo medio annuo atteso (espresso in termini reali); 
+- rendimento annualizzato atteso; 
+- VaR. 
+2/11/2022 Aggiornamento dei limiti previsti per l’investimento in azioni/quote di FIA chiusi (quotati e 
+non quotati) per tutti i comparti ad eccezione del comparto SecondaPensione Garantita 
+ESG.

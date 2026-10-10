@@ -1,0 +1,2350 @@
+# Fondo: ARTI & MESTIERI - FONDO PENSIONE APERTO (arti-e-mestieri)
+# Documento: Regolamento – Regolamento di gestione
+# Fonte: https://www.animasgr.it/d/IT/Downloads/Documents/R_ArtiMestieri.pdf
+# Citato in: https://www.animasgr.it/IT/investitore-privato/come-investire/Pagine/documentazione-legale.aspx?areas=2
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: e29df27baf3c98469164269f46ab8d7547f28ec59886a70b9dcf5e6c70c50a39
+# Pagine: 65
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Arti & Mestieri  
+Fondo Pensione Aperto
+Regolamento di gestione
+Fondo pensione istituito in forma di patrimonio separato
+(Art. 12 del Decreto Legislativo n. 252, del 5 dicembre 2005)
+Il presente documento è valido a decorrere dal 31 luglio 2026
+	z Comparto Crescita 25+ 
+	z Comparto Sviluppo 15+
+	z Comparto Rivalutazione 10+
+	z Comparto Equilibrio 5+
+	z Comparto Incremento e garanzia 5+
+	z Comparto Conservazione 3+
+	z Comparto Garanzia 1+
+=== pagina 2 ===
+
+=== pagina 3 ===
+Indice
+PARTE I - Identificazione e scopo del Fondo
+Art.  1 Denominazione
+Art.  2 Istituzione del Fondo, esercizio dell’attività, sede e recapiti
+Art.  3 Scopo
+PARTE II - Caratteristiche del Fondo e 
+modalità di investimento
+Art.  4 Regime del Fondo
+Art.  5 Destinatari e tipologie di adesione
+Art.  6 Scelte di investimento
+Art.  7 Gestione degli investimenti
+Art.  8 Spese
+PARTE III - Contribuzioni e prestazioni
+Art.  9 Contribuzione 
+Art. 10 Determinazione della posizione individuale 
+Art. 11 Prestazioni pensionistiche e RITA
+Art. 12 Erogazione delle prestazioni pensionistiche 
+Art. 13 Trasferimento e riscatto della posizione individuale 
+Art. 14 Anticipazioni
+PARTE IV - Profili organizzativi
+Art. 15 Separatezza patrimoniale, amministrativa e contabile
+Art. 16 Sistema di governo 
+Art. 17 Depositario 
+Art. 18 Responsabile
+Art. 19 Conflitti di interesse
+Art. 20 Scritture contabili 
+PARTE V - Rapporti con gli aderenti
+Art. 21 Modalità di adesione e clausole risolutive espresse
+Art. 22 Trasparenza nei confronti degli aderenti e dei beneficiari 
+Art. 23 Comunicazioni e reclami
+PARTE VI - Norme finali
+Art. 24 Modifiche del Regolamento 
+Art. 25 Trasferimento in caso di modifiche peggiorative delle condizioni economiche  
+ e di modifiche delle caratteristiche del Fondo 
+Art. 26 Cessione del Fondo 
+Art. 27 Operazioni di fusione
+Art. 28 Rinvio 
+Allegato n. 1  - Disposizioni in materia di Responsabile
+Allegato n. 2  - Condizioni e modalità di erogazione delle rendite
+=== pagina 4 ===
+
+=== pagina 5 ===
+5 di 65
+Arti & Mestieri  Regolamento
+PARTE I  
+Identificazione e scopo del Fondo 
+Art.  1 Denominaz ione 
+1. Il “FONDO PENSIONE APERTO - ARTI & MESTIERI” (di seguito “Fondo”) è un Fondo Pensione Aperto 
+istituito ai sensi dell’Art. 12 del Decreto Lgs. 5 dicembre 2005, n. 252 e successive modifiche (di seguito 
+“Decreto”).
+Art.  2 Ist ituzione del Fondo, esercizio dell’attività, sede e 
+recapiti 
+1. Il Fondo è stato istituito dalla società “ Anima SGR S.p.A.”, già BIPIEMME GESTIONI SGR S.p.A., 
+(di seguito “SGR”), giusta autorizzazione rilasciata dalla COVIP con provvedimento del 17/11/1998; con il 
+medesimo provvedimento la COVIP ha approvato il Regolamento del Fondo.
+2. La SGR esercita l’attività di gestione del Fondo con effetto dalla medesima data.
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 63.
+4. L’attività relativa al Fondo è svolta in Milano, presso la sede della SGR.
+5. L ’indirizzo di posta elettronica certificata (PEC) della SGR è: anima@pec.animasgr.it
+Art.  3 Scopo  
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta 
+dei contributi, la gestione delle risorse nell’esclusivo interesse degli aderenti e l’erogazione delle 
+prestazioni secondo quanto disposto dalla normativa tempo per tempo vigente.
+=== pagina 6 ===
+6 di 65
+Arti & Mestieri  Regolamento
+PARTE II 
+Caratteristiche del Fondo e modalità  
+di investimento
+Art. 4 Regime d el Fondo
+1. Il Fondo è in regime di contribuzione definita. 
+ L ’entità delle prestazioni pensionistiche del Fondo è determinata in funzione della contribuzione 
+effettuata e in base al principio della capitalizzazione.
+Art. 5 Dest inatari e tipologie di adesione
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita. 
+2. È altresì consentita l’adesione su base collettiva, ai soggetti destinatari delle forme pensionistiche 
+complementari individuati dall’Art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i 
+contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo. 
+3. Ai sensi dell’Art. 8, comma 7-bis, del Decreto l’adesione al Fondo su base collettiva può avvenire anche 
+in modalità automatica mediante il conferimento del TFR maturando, della contribuzione a carico del 
+datore di lavoro e del lavoratore.
+4. Tra i destinatari sono ricompresi gli aderenti taciti (i lavoratori dipendenti del settore privato assunti 
+antecedentemente al 1º luglio 2026, che non hanno espresso alcuna volontà di adesione, nei tempi e 
+nei modi fissati dal Decreto nella versione antecedente alla riforma di cui alla Legge n. 199/2025, circa 
+il conferimento del TFR maturando).
+5. L e adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza.
+Art. 6 Scelt e di investimento 
+1. Il Fondo è articolato nei seguenti Comparti, differenziati per profili di rischio-rendimento, in modo tale 
+da assicurare agli aderenti una adeguata possibilità di scelta: 
+	z Comparto Crescita 25+ ;
+	z Comparto Sviluppo 15+;
+	z Comparto Rivalutazione 10+ ;
+	z Comparto Equilibrio 5+ ;
+	z Comparto Incremento e Garanzia 5+  - questo Comparto a decorrere dal 1º aprile 2013 è destinato 
+esclusivamente agli aderenti taciti di cui al predetto Art. 5, comma 4;
+	z Comparto Conservazione 3+;
+	z Comparto Garanzia 1+ . 
+2. In via transitoria, nelle more del completamento dell’adeguamento alle istruzioni Covip in tema di 
+life cycle (che dovrà avvenire entro il termine del 30 giugno 2027) i contributi derivanti da adesioni 
+automatiche sono investiti in base all’età dell’aderente in linee di investimento caratterizzate da 
+differenti profili di rischio-rendimento nel modo che segue: 
+Comparto Crescita 25+ Fase iniziale (oltre 20 anni dalla data di pensionamento)
+Comparto Sviluppo 15+ 
+Comparto Rivalutazione 10+ 
+Comparto Equilibrio 5+
+Fase intermedia (20 - 5 anni) 
+Comparto Conservazione 3+ Fase finale (entro 5 anni dalla data di pensionamento)
+ Una volta attivato il percorso life cycle  le posizioni pregresse e future di aderenti automatici saranno 
+collocate in tale percorso previa opportuna comunicazione.
+=== pagina 7 ===
+7 di 65
+Arti & Mestieri  Regolamento
+3. L’aderente, all’atto dell’adesione, sceglie uno o due Comparti nei quali far confluire i versamenti 
+contributivi, con facoltà di modificare nel tempo tale destinazione, facendo confluire i nuovi 
+versamenti verso altri Comparti ad eccezione del Comparto Incremento e Garanzia 5+. 
+ L’aderente può inoltre riallocare la propria posizione individuale tra due diversi Comparti ad 
+eccezione del Comparto Incremento e Garanzia 5+, nel rispetto del periodo minimo di un anno 
+dall’iscrizione ovvero dall’ultima riallocazione. In questo caso i versamenti contributivi successivi 
+sono suddivisi sulla base delle nuove percentuali fissate all’atto della riallocazione, salvo diversa 
+disposizione dell’aderente. Il limite del periodo di permanenza minimo non opera con riguardo alla 
+prima riallocazione successiva all’adesione tacita o automatica. In ogni caso i versamenti contributivi 
+successivi nel Comparto Incremento e Garanzia 5+ sono consentiti esclusivamente agli aderenti che 
+già detengano quote di tale Comparto alla data del 31 marzo 2013 e nel caso di adesioni mediante 
+conferimento tacito del TFR maturando. 
+Art.  7 Gestione degli investimenti 
+1. La SGR effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni stabiliti 
+dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo a riferimento 
+l’esclusivo interesse degli aderenti.
+2. Ferma restando la responsabilità della SGR, essa può affidare a soggetti di cui all’Art. 6, comma 1, 
+lettere a), b), c), c-bis) del Decreto, in possesso dei requisiti previsti dalla normativa tempo per tempo 
+vigente, del Decreto, l’esecuzione di specifici incarichi di gestione. 
+3. La SGR verifica i risultati della gestione mediante l’adozione di parametri di riferimento coerenti con gli 
+obiettivi e i criteri della politica di investimento.
+4. La politica di investimento dei singoli Comparti è la seguente: 
+A) Comparto Crescita 25+
+ Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento (UE) 
+2019/2088. Tale Comparto persegue l’obiettivo di ottenere, in un orizzonte temporale di lungo 
+termine, una rivalutazione reale del capitale, coerente con un profilo di rischio medio-alto. 
+ Le risorse sono investite in misura prevalente in “titoli di capitale”, con facoltà di dedicare a tali 
+impieghi fino al 100% dell’attivo netto del Comparto.
+ L’investimento complessivo in valori mobiliari in valuta estera non potrà eccedere il 90% dell’attivo 
+netto del Comparto. L’esposizione valutaria del Comparto, al netto di coperture attraverso derivati, 
+è limitata al 30% delle disponibilità complessive.
+La SGR si avvale di una procedura interna (“Policy ESG”) per l’analisi, la valutazione e la 
+classificazione degli emittenti in funzione di fattori ambientali, sociali e di governance  ( c. d.  ESG  -  
+“Environmental, Social and corporate Governance factors”). Tale valutazione può determinare una 
+eventuale esclusione di strumenti finanziari di emittenti ritenuti non in linea con alcuni specifici 
+criteri individuati dalla Policy ESG, il cui estratto è disponibile sul sito della SGR.
+B) Comparto Sviluppo 15+
+ Il Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento (UE) 
+2019/2088. Tale Comparto persegue l’obiettivo di ottenere, in un orizzonte temporale di lungo 
+termine, una rivalutazione reale del capitale, coerente con un profilo di rischio medio-alto. 
+ Le risorse sono impiegate sia in “titoli di debito” che in “titoli di capitale”.
+ L’investimento della disponibilità del Comparto in “titoli di capitale” non potrà comunque eccedere 
+il 70% dell’attivo netto.
+ L’investimento complessivo in valori mobiliari in valuta estera non potrà eccedere l’80% dell’attivo 
+netto del Comparto. L’esposizione valutaria del Comparto, al netto di coperture attraverso derivati, 
+è limitata al 30% delle disponibilità complessive.
+La SGR si avvale di una procedura interna (“Policy ESG”) per l’analisi, la valutazione e la 
+classificazione degli emittenti in funzione di fattori ambientali, sociali e di governance  ( c. d.  ESG  -  
+“Environmental, Social and corporate Governance factors”). Tale valutazione può determinare una 
+eventuale esclusione di strumenti finanziari di emittenti ritenuti non in linea con alcuni specifici 
+criteri individuati dalla Policy ESG, il cui estratto è disponibile sul sito della SGR.
+=== pagina 8 ===
+8 di 65
+Arti & Mestieri  Regolamento
+C) Comparto Rivalutazione 10+
+ I l Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento (UE) 
+2019/2088. Tale Comparto persegue l’obiettivo di ottenere, in un orizzonte temporale di medio-
+lungo termine, una rivalutazione del capitale, coerente con un profilo di rischio medio. 
+ L e risorse sono impiegate sia in “titoli di debito” che in “titoli di capitale”.
+ L ’investimento della disponibilità del Comparto in “titoli di capitale” non potrà comunque eccedere 
+il 50% dell’attivo netto. L’investimento complessivo in valori mobiliari in valuta estera non potrà 
+eccedere il 60% dell’attivo netto. L’esposizione valutaria del Comparto, al netto di coperture 
+attraverso derivati, è limitata al 30% delle disponibilità complessive.
+La SGR si avvale di una procedura interna (“Policy ESG”) per l’analisi, la valutazione e la 
+classificazione degli emittenti in funzione di fattori ambientali, sociali e di governance  ( c. d.  ESG  -  
+“Environmental, Social and corporate Governance factors”). Tale valutazione può determinare una 
+eventuale esclusione di strumenti finanziari di emittenti ritenuti non in linea con alcuni specifici 
+criteri individuati dalla Policy ESG, il cui estratto è disponibile sul sito della SGR.
+D) Comparto Equilibrio 5+
+ I l Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento (UE) 
+2019/2088. Tale Comparto persegue l’obiettivo di ottenere, in un orizzonte temporale di medio 
+termine, una rivalutazione del capitale, coerente con un profilo di rischio medio. 
+ L e risorse sono impiegate sia in “titoli di debito” sia in “titoli di capitale”.
+ L ’investimento della disponibilità del Comparto in “titoli di capitale” non potrà comunque eccedere 
+il 40% dell’attivo netto. L’investimento complessivo in valori mobiliari in valuta estera non potrà 
+eccedere il 30% dell’attivo netto del Comparto.
+La SGR si avvale di una procedura interna (“Policy ESG”) per l’analisi, la valutazione e la 
+classificazione degli emittenti in funzione di fattori ambientali, sociali e di governance  ( c. d.  ESG  -  
+“Environmental, Social and corporate Governance factors”). Tale valutazione può determinare una 
+eventuale esclusione di strumenti finanziari di emittenti ritenuti non in linea con alcuni specifici 
+criteri individuati dalla Policy ESG, il cui estratto è disponibile sul sito della SGR.
+E) Comparto Incremento e Garanzia 5+
+ I l Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento (UE) 
+2019/2088. Tale Comparto persegue l’obiettivo di realizzare con elevata probabilità rendimenti 
+che siano almeno pari a quelli del TFR, in un orizzonte temporale pluriennale, compatibile con un 
+profilo di rischio medio-basso.
+ L a presenza di una garanzia di capitale consente di soddisfare le esigenze di un soggetto con una 
+bassa propensione al rischio ed un orizzonte temporale non breve.
+ L e risorse sono investite sia in “titoli di debito” che in “titoli di capitale”.
+ L ’investimento della disponibilità del Comparto in “titoli di capitale” non potrà comunque eccedere 
+il 40% dell’attivo netto. L’investimento complessivo in valori mobiliari in valuta estera non potrà 
+eccedere il 50% dell’attivo netto del Comparto.
+ Il  patrimonio del Comparto non potrà comunque essere esposto alle oscillazioni dei tassi di cambio 
+in misura superiore al 20%.
+La SGR si avvale di una procedura interna (“Policy ESG”) per l’analisi, la valutazione e la 
+classificazione degli emittenti in funzione di fattori ambientali, sociali e di governance  ( c. d.  ESG  -  
+“Environmental, Social and corporate Governance factors”). Tale valutazione può determinare una 
+eventuale esclusione di strumenti finanziari di emittenti ritenuti non in linea con alcuni specifici 
+criteri individuati dalla Policy ESG, il cui estratto è disponibile sul sito della SGR.
+ Garanzia di capitale
+ L ’adesione al Comparto Incremento e Garanzia 5+ attribuisce all’aderente, al verificarsi degli eventi 
+di cui appresso, il diritto alla corresponsione di un importo minimo garantito a prescindere dai 
+risultati di gestione. La garanzia può essere prestata alla SGR da soggetti diversi dalla stessa, a ciò 
+abilitati.
+ L ’importo minimo garantito è pari alla somma dei contributi netti versati al Comparto, inclusi gli 
+eventuali importi derivanti da trasferimenti da altro Comparto o da altra forma pensionistica e
+=== pagina 9 ===
+9 di 65
+Arti & Mestieri  Regolamento
+i versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto da eventuali riscatti 
+parziali e anticipazioni.
+ P er contributi netti si intendono i contributi di cui all’Art. 10, comma 2.
+ I l diritto alla garanzia è riconosciuto nei seguenti casi:
+a) esercizio del diritto alla prestazione pensionistica di cui all’Art. 11;
+b) riscatto per decesso;
+c) riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di 
+un terzo;
+d) riscatto per inoccupazione per un periodo superiore a 48 mesi.
+F) Comparto Conservazione 3+
+ I l Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento (UE) 
+2019/2088. Tale Comparto persegue l’obiettivo di ottenere, in un orizzonte temporale di medio 
+termine, un rendimento reale positivo del capitale, compatibile con un profilo di rischio medio-
+basso.
+ L e risorse sono investite esclusivamente in “titoli di debito”. L’investimento complessivo in valori 
+mobiliari in valuta estera non potrà eccedere il 20% dell’attivo netto del Comparto.
+La SGR si avvale di una procedura interna (“Policy ESG”) per l’analisi, la valutazione e la 
+classificazione degli emittenti in funzione di fattori ambientali, sociali e di governance  ( c. d.  ESG  -  
+“Environmental, Social and corporate Governance factors”). Tale valutazione può determinare una 
+eventuale esclusione di strumenti finanziari di emittenti ritenuti non in linea con alcuni specifici 
+criteri individuati dalla Policy ESG, il cui estratto è disponibile sul sito della SGR.
+G) Comparto Garanzia 1+
+ I l Comparto promuove caratteristiche ambientali e sociali, ai sensi dell’Art. 8 del Regolamento 
+(UE) 2019/2088. Tale Comparto persegue l’obiettivo, in un orizzonte temporale di breve termine, 
+di preservare il valore del capitale investito, compatibile con un profilo di rischio basso. La politica 
+di gestione del Comparto perseguirà una struttura del portafoglio idonea a garantire l’esecuzione 
+dell’obbligazione assunta investendo esclusivamente in “titoli di debito”.
+La SGR si avvale di una procedura interna (“Policy ESG”) per l’analisi, la valutazione e la 
+classificazione degli emittenti in funzione di fattori ambientali, sociali e di governance  ( c. d.  ESG  -  
+“Environmental, Social and corporate Governance factors”). Tale valutazione può determinare una 
+eventuale esclusione di strumenti finanziari di emittenti ritenuti non in linea con alcuni specifici 
+criteri individuati dalla Policy ESG, il cui estratto è disponibile sul sito della SGR.
+ Garanzia di capitale
+ L ’adesione al Comparto Garanzia 1+ attribuisce all’aderente, al verificarsi degli eventi di cui 
+appresso, il diritto alla corresponsione di un importo minimo garantito a prescindere dai risultati di 
+gestione. La garanzia può essere prestata alla SGR da soggetti diversi dalla stessa, a ciò abilitati.
+ L ’importo minimo garantito è almeno pari alla somma dei contributi netti versati al Comparto, 
+inclusi gli eventuali importi derivanti da trasferimenti da altro Comparto o da altra forma 
+pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto da 
+eventuali riscatti parziali e anticipazioni.
+ P er contributi netti si intendono i contributi di cui all’Art. 10, comma 2.
+ I l diritto alla garanzia è riconosciuto nei seguenti casi:
+a) esercizio del diritto alla prestazione pensionistica di cui all’Art. 11;
+b) riscatto per decesso;
+c) riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di 
+un terzo.
+Il diritto alla garanzia non è, pertanto, riconosciuto nei casi diversi da quelli sopra indicati, tra cui 
+l’erogazione della RITA (Rendita Integrativa Temporanea Anticipata).
+5. Nei casi di corresponsione di garanzia di capitale, qualora l’importo minimo garantito risulti superiore 
+alla posizione individuale maturata, calcolata ai sensi dell’Art. 10, e con riferimento al primo giorno di 
+valorizzazione utile successivo alla verifica delle condizioni che danno diritto alla prestazione, la stessa 
+viene integrata a tale maggior valore. L’integrazione viene corrisposta dalla SGR.
+=== pagina 10 ===
+10 di 65
+Arti & Mestieri  Regolamento
+6. La politica di investimento relativa a ciascun Comparto, le relative caratteristiche e i diversi profili di 
+rischio-rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti 
+nella Nota Informativa.
+Art.  8 Spese
+1. L’iscrizione al Fondo prevede le seguenti spese:
+a) Spese da sostenere all’atto dell’adesione:
+ una commissione “una tantum” a carico dell’aderente pari a 30,00 Euro; 
+b) Spese relative alla fase di accumulo:
+b.1) direttamente a carico dell’aderente
+ una commissione pari a 12,00 Euro applicata annualmente e prelevata dalla posizione 
+individuale di ciascun aderente alla fine di ciascun anno solare ovvero al momento della 
+richiesta di riscatto totale, di trasferimento ad altro fondo pensione ovvero della prestazione 
+pensionistica; 
+b.2) indirettamente a carico dell’aderente e che incidono sul Comparto:
+ una commissione di gestione, differenziata come segue: 
+	z Comparto Crescita 25+ : 1,60% del patrimonio su base annua, prelevata con cadenza 
+trimestrale;
+	z Comparto Sviluppo 15+ : 1,50% del patrimonio su base annua, prelevata con cadenza 
+trimestrale;
+	z Comparto Rivalutazione 10+ : 1,40% del patrimonio su base annua, prelevata con cadenza 
+trimestrale;
+	z Comparto Equilibrio 5+ : 1,10% del patrimonio su base annua, prelevata con cadenza 
+trimestrale;
+	z Comparto Incremento e Garanzia 5+ : 0,70% del patrimonio su base annua, prelevata con 
+cadenza trimestrale; 
+	z Comparto Conservazione 3+ : 0,90% del patrimonio su base annua, prelevata con cadenza 
+trimestrale;
+	z Comparto Garanzia 1+ : 0,60% del patrimonio su base annua, prelevata con cadenza 
+trimestrale.
+ Sono inoltre a carico del Comparto, per quanto di competenza, le imposte e tasse, le spese 
+legali e giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione 
+derivanti dall’attività di impiego delle risorse, nonché il “contributo di vigilanza” dovuto 
+annualmente alla COVIP, ai sensi di legge; sono altresì a carico del Comparto le spese relative 
+alla remunerazione e allo svolgimento dell’incarico del Responsabile, salva diversa decisione 
+della SGR. Sul Comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi 
+alla sottoscrizione e al rimborso delle parti di OICR acquistati, né le commissioni di gestione 
+applicate dall’OICR stesso, salvo i casi di deroga di carattere generale previsti dalla COVIP. 
+ In particolare, nel caso di investimenti in OICR collegati, dal compenso della SGR sarà dedotta 
+la remunerazione complessiva percepita dal gestore dell’OICR collegato. Fanno eccezione gli 
+investimenti in FIA diversi da quelli collegati.
+c) Spese collegate all’esercizio delle seguenti prerogative individuali , dirette alla copertura dei 
+relativi oneri amministrativi:
+c.1) 25,00 Euro, in caso di trasferimento ad altra forma pensionistica ai sensi dell’Art. 13; 
+c.2) 6,00 Euro, in caso di modifica della percentuale di allocazione dei contributi futuri tra due 
+Comparti, ai sensi del comma 2 dell’Art. 6;
+c.3) 6,00 Euro, in caso di riallocazione della posizione individuale tra due Comparti ai sensi del 
+comma 2 Art. 6.
+d) Spese relative alla fase di erogazione delle rendite vitalizie , quali riportate nell’Allegato n. 2.
+d-bis) Spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia:
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2, in relazione al/ai Comparto/i 
+nel/i quale/i è investita la posizione individuale residua;
+=== pagina 11 ===
+11 di 65
+Arti & Mestieri  Regolamento
+d-bis.2) 50,00 Euro da prelevare in occasione dell’attivazione nonché 2,00 Euro in occasione 
+del pagamento di ciascuna rata.
+e) Spese in cifra fissa relative alla prestazione erogata in forma di “Rendita Integrativa 
+Temporanea Anticipata” (RITA) , dirette alla copertura dei relativi oneri amministrativi: 50,00 Euro 
+da prelevare in occasione dell’attivazione della RITA.
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di 
+convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle 
+commissioni di gestione espresse in misura percentuale sul patrimonio avviene mediante emissione di 
+classi di quote differenti.
+3. Sono a carico della SGR tutte le spese e oneri non individuati dalle disposizioni del presente Articolo.
+=== pagina 12 ===
+12 di 65
+Arti & Mestieri  Regolamento
+PARTE III 
+Contribuzione e prestazioni 
+Art.  9 Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso.
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima 
+e delle modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali.
+3. I lavoratori dipendenti, in caso di adesione esplicita, possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. 
+ Nelle adesioni collettive il conferimento del TFR può anche essere parziale ove previsto dagli accordi 
+collettivi. 
+ Gli accordi possono anche stabilire la percentuale minima di TFR maturando da destinare a previdenza 
+complementare. In assenza di tale indicazione e ad eccezione dei casi previsti dalla normativa vigente, 
+il conferimento è totale. È comunque consentito al lavoratore di rivedere successivamente la scelta 
+effettuata con riguardo alla quota di TFR da destinare al Fondo. 
+ Qualora il lavoratore decida altresì di versare la contribuzione prevista a suo carico e abbia diritto, 
+in base ad accordi collettivi, anche aziendali, a un contributo del datore di lavoro, detto contributo 
+affluirà al Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il datore di lavoro può 
+decidere, anche in assenza di accordi collettivi, di contribuire al Fondo. 
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i 
+lavoratori dipendenti, l’obbligo del versamento del TFR maturando, eventualmente conferito. 
+ La sospensione non comporta la cessazione della partecipazione al Fondo.
+5. In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore di lavoro e la 
+contribuzione del lavoratore. La contribuzione a carico del lavoratore non è obbligatoria nel caso in cui 
+la retribuzione annuale lorda corrisposta dal datore di lavoro risulti inferiore al valore pari all’assegno 
+sociale di cui all’Art. 3, commi 6 e 7, della Legge 8 agosto 1995, n. 335. L’aderente può conferire il TFR 
+anche in misura parziale ove previsto dagli accordi collettivi.
+6. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà di 
+sospendere la contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo 
+a carico del datore di lavoro, fermo restando il versamento del TFR maturando al Fondo. È possibile 
+riattivare la contribuzione in qualsiasi momento.
+7. La contribuzione può essere attuata nel rispetto di quanto previsto dall’Art. 8, comma 12, del Decreto 
+(così detta “contribuzione da abbuoni”). 
+8. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che alla data del 
+pensionamento possa far valere almeno un anno di contribuzione a favore delle forme di previdenza 
+complementare. 
+9. In caso di adesione al Fondo ai sensi dell’Art. 5, comma 2, viene versato nel Comparto Incremento e 
+Garanzia 5+ esclusivamente il TFR maturando; ogni ulteriore versamento effettuato dai lavoratori che 
+abbiano aderito al Fondo ai sensi dell’Art. 5, comma 2, e/o dal datore di lavoro deve essere versato su 
+altro Comparto indicato dall’aderente al momento del primo versamento.
+Art. 10 Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è 
+alimentata dai contributi netti versati, dagli importi derivanti da trasferimenti da altre forme 
+pensionistiche complementari e dai versamenti effettuati per il reintegro delle anticipazioni percepite, 
+ed è ridotta da eventuali riscatti parziali e anticipazioni.
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, di 
+cui all’Art. 8, comma 1, lett. a), b.1). Sul primo versamento incidono anche eventuali spese di adesione.
+=== pagina 13 ===
+13 di 65
+Arti & Mestieri  Regolamento
+3. La posizione individuale viene rivalutata in base al rendimento dei Comparti. Il rendimento di 
+ogni singolo Comparto è calcolato come variazione del valore della quota dello stesso nel periodo 
+considerato.
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del Comparto 
+sono valutate al valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla 
+determinazione della posizione individuale, a prescindere dal momento di effettivo realizzo.
+5. La SGR determina il valore della quota e, conseguentemente, della posizione individuale di ciascun 
+aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono trasformati in quote e 
+frazioni di quote sulla base del primo valore di quota successivo al giorno in cui si sono resi disponibili 
+per la valorizzazione.
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli Artt. 11, 13 e 14 è quello 
+risultante al primo giorno di valorizzazione utile successivo a quello in cui la SGR ha verificato la 
+sussistenza delle condizioni che danno diritto alle prestazioni.
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono 
+intangibili e non possono formare oggetto di sequestro o pignoramento da parte dei creditori 
+dell’aderente.
+Art. 11 Prestazioni pensionistiche e RITA
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei 
+requisiti di accesso alle prestazioni stabilite nel regime obbligatorio di appartenenza dell’aderente, con 
+almeno cinque anni di partecipazione alle forme pensionistiche complementari. Il predetto termine è 
+ridotto a tre anni per il lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal fatto che 
+lo stesso acquisisca il diritto a una pensione complementare e che si sposta in un altro Stato membro 
+dell’Unione europea. L’aderente che decide di proseguire volontariamente la contribuzione ai sensi 
+del comma 8 dell’Art. 9 ha la facoltà di determinare autonomamente il momento di fruizione delle 
+prestazioni pensionistiche.
+2. Per i soggetti non titolari di reddito di lavoro o d’impresa si considera età pensionabile quella vigente 
+nel regime obbligatorio di appartenenza.
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche 
+sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari 
+maturati dall’aderente per i quali lo stesso non abbia esercitato il riscatto totale della posizione 
+individuale.
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione 
+nei regimi obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1, ha facoltà di richiedere che le prestazioni siano erogate, in tutto o 
+in parte, in forma di RITA con un anticipo massimo di cinque anni rispetto alla data di maturazione 
+dell’età anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appartenenza.
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un 
+periodo di tempo superiore a ventiquattro mesi e abbia maturato il periodo minimo di partecipazione 
+alle forme pensionistiche complementari di cui al comma 1, ha facoltà di richiedere la rendita di cui al 
+comma 4 con un anticipo massimo di dieci anni rispetto alla data di maturazione dell’età anagrafica 
+per la pensione di vecchiaia nel regime obbligatorio di appartenenza.
+6. La porzione della posizione individuale di cui si chiede il frazionamento ai sensi dei commi 4 o 5, verrà 
+fatta confluire, salvo diversa scelta dell’aderente, nel Comparto più prudente individuato dal Fondo e 
+indicato nella Nota Informativa. L’aderente può successivamente variare il Comparto nel rispetto del 
+periodo minimo di permanenza.
+7. Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta la cessazione 
+dell’erogazione delle rate residue.
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha la 
+facoltà di richiedere, con riferimento alla sola porzione residua della posizione individuale, il riscatto 
+e l’anticipazione di cui agli Artt. 13 e 14, ovvero, cessata l’erogazione della RITA parziale, la prestazione 
+pensionistica.
+=== pagina 14 ===
+14 di 65
+Arti & Mestieri  Regolamento
+ 9. In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende 
+automaticamente revocata e viene trasferita l’intera posizione individuale.
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di capitale 
+nel limite del 50 per cento della posizione individuale maturata. Nel computo dell’importo complessivo 
+erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia 
+provveduto al reintegro. Qualora l’importo, che si ottiene convertendo in rendita vitalizia immediata 
+annua senza reversibilità a favore dell’aderente il 70 per cento della posizione individuale maturata, 
+risulti inferiore al 50 per cento dell’assegno sociale di cui all’Art. 3, commi 6, 7, della Legge 8 agosto 1995, 
+n. 335, l’aderente può optare per la liquidazione in capitale dell’intera posizione maturata.
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 
+aprile 1993 ed entro tale data iscritto a una forma pensionistica complementare istituita alla data 
+di entrata in vigore della Legge 23 ottobre 1992, n. 421, può richiedere la liquidazione dell’intera 
+prestazione pensionistica complementare in capitale.
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto 
+può trasferire la propria posizione individuale presso altra forma pensionistica complementare, per 
+avvalersi delle condizioni di erogazione della rendita vitalizia praticate da quest’ultima. In tal caso si 
+applica quanto previsto dall’Art. 13, commi 6 e 7.
+Art. 12 Erogazione delle prestazioni pensionistiche
+ 1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita 
+vitalizia immediata calcolata in base alla posizione individuale maturata, al netto della eventuale quota 
+di prestazione da erogare sotto forma di capitale.
+ 2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di rendita 
+vitalizia di seguito indicate:
+	z una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’aderente stesso, alla/e persona/e da lui 
+designata/e;
+	z una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 o 10 anni 
+all’aderente o, in caso di suo decesso, alla/e persona/e da lui designata/e. Successivamente, se 
+l’aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia;
+	z una “rendita controassicurata”: rendita annua erogabile finché l’aderente assicurato è in vita e, al 
+suo decesso, il pagamento di un capitale pari alla differenza - se positiva - tra i seguenti due importi:
+ - premio versato per la posizione individuale, moltiplicato per il rapporto fra la rata di rendita in 
+vigore per l’anno in corso e quella iniziale;
+ - la rata di rendita in vigore moltiplicata per il numero delle rate già scadute;
+	z una “rendita LTC” vitalizia: rendita annua, erogabile finché l’aderente assicurato è in vita con 
+raddoppio in caso di sopravvenuta perdita di autosufficienza.
+ 3. Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite 
+vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo 
+calcolo. Tali coefficienti possono essere successivamente variati, nel rispetto della normativa tempo 
+per tempo vigente in materia di stabilità delle compagnie di assicurazione; in ogni caso, le modifiche 
+dei coefficienti di trasformazione non si applicano ai soggetti, già aderenti alla data di introduzione 
+delle modifiche stesse, che esercitano il diritto alla prestazione pensionistica nei tre anni successivi.
+ 4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, 
+laddove vi sia l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’Allegato 
+n. 2 e, negli altri casi, a coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in 
+base alle proiezioni ufficiali disponibili sull’andamento della mortalità della popolazione italiana.
+ 5. In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale quota di 
+prestazione erogata sotto forma di capitale, l’erogazione della prestazione pensionistica in una delle 
+seguenti forme:
+=== pagina 15 ===
+15 di 65
+Arti & Mestieri  Regolamento
+a) rendita a durata definita:  detta rendita è erogata per un periodo predeterminato sulla base 
+della vita attesa residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni 
+obbligatorie. Su richiesta dell’aderente la prestazione può essere erogata per un numero di anni 
+maggiore rispetto a quelli corrispondenti alla speranza di vita dello stesso. Oltre al frazionamento 
+annuale, è previsto un frazionamento mensile e trimestrale.
+b) prelievi liberamente determinabili:  detti prelievi possono essere richiesti dal beneficiario, con 
+facoltà per lo stesso di determinarne la tempistica e l’importo nel limite della somma delle rate, 
+maturate e non riscosse, di una rendita teorica con frazionamento annuale, immediatamente 
+erogabile e di durata definita pari alla vita attesa residua, in anni interi, dell’aderente al momento 
+della richiesta della prestazione.
+ 6. La SGR provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla rendita vitalizia 
+con tempestività e comunque non oltre il termine massimo di 6 mesi decorrenti dalla ricezione della 
+richiesta. 
+ Nel caso in cui la domanda risulti incompleta o insufficiente, la SGR richiede gli elementi integrativi, 
+e il termine sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della 
+pratica. Il montante residuo è mantenuto in gestione, nel Comparto/Comparti scelto/i dall’aderente, 
+all’atto della richiesta della prestazione o, in difetto di indicazioni, nel Comparto/i individuato/i nella 
+Nota informativa.
+ 6. bis Al fine di adeguare i sistemi e i processi operativi della SGR per la gestione delle richieste e 
+l’erogazione diretta delle prestazioni, il termine di cui al comma 6 può essere derogato per un periodo 
+transitorio, che non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo la SGR acquisisce 
+le richieste di erogazione delle prestazioni. Successivamente all’avvenuto adeguamento dei suddetti 
+sistemi e processi operativi, la SGR procede tempestivamente alla liquidazione delle richieste di 
+erogazione delle prestazioni pervenute durante il periodo transitorio.
+ 7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere 
+revocate una volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del 
+montante residuo in una rendita vitalizia immediata sulla base delle condizioni e dei criteri indicati 
+nella Nota informativa, ovvero trasferisca il montante residuo presso un’altra forma pensionistica 
+all’unico fine di beneficiare delle condizioni di rendita vitalizia offerte da quest’ultima.
+ 8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto 
+ad individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante 
+residuo. Tale scelta può essere successivamente modificata dall’aderente.
+ 9. Nel corso dell’erogazione delle prestazioni di cui al comma 5. lett. a) e b), l’aderente non può richiedere 
+trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione del Comparto, che può 
+essere richiesta nel rispetto del periodo minimo di partecipazione di cui all’Art. 6, comma 3.
+10. Nel corso dell’erogazione delle prestazioni pensionistiche di cui al comma 5, lett. a) e b), non può 
+essere versata ulteriore contribuzione al Fondo, salvo il caso in cui l’interessato attivi un nuovo 
+rapporto di lavoro che preveda la maturazione del TFR.
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni 
+pensionistiche di cui al comma 5, lett. a) e b).
+Art. 13 Trasferimento e riscatto della posizione individuale 
+ 1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare decorso un periodo minimo di due anni di partecipazione al Fondo. 
+ 2. L’aderente, anche prima del periodo minimo di permanenza, può:
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale 
+acceda in relazione alla nuova attività lavorativa;
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività 
+lavorativa che comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e non 
+superiore a quarantotto mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di 
+mobilità, cassa integrazione guadagni, ordinaria o straordinaria;
+=== pagina 16 ===
+16 di 65
+Arti & Mestieri  Regolamento
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti 
+la riduzione della capacità di lavoro a meno di un terzo e a seguito di cessazione dell’attività 
+lavorativa che comporti l’inoccupazione per un periodo di tempo superiore a quarantotto mesi;
+d) riscattare la posizione individuale maturata, nella misura del 50% o del 100%, ai sensi dell’Art. 
+14, comma 5 del Decreto. Il riscatto parziale può essere esercitato una sola volta nel periodo di 
+partecipazione al Fondo ovvero trasferirla ad altra forma pensionistica complementare, qualora 
+vengano meno i requisiti di partecipazione.
+3. Nei casi previsti ai punti a), c) e d) del comma 2, l’aderente, in luogo dell’esercizio dei diritti di 
+trasferimento e riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore 
+contribuzione. Tale opzione trova automatica applicazione in difetto di diversa scelta da parte 
+dell’aderente. Nel caso in cui il valore della posizione individuale maturata non sia superiore 
+all’importo di una mensilità dell’assegno sociale di cui all’Art. 3, comma 6, della Legge 8 agosto 1995, n. 
+335, la SGR informa l’aderente della facoltà di trasferire la propria posizione individuale ad altra forma 
+pensionistica complementare, ovvero di chiedere il riscatto dell’intera posizione di cui al comma 2, 
+lettera d).
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero 
+nel corso dell’erogazione della “Rendita Integrativa Temporanea Anticipata” (RITA), la posizione 
+individuale è riscattata dai soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, 
+o in mancanza dagli eredi. In mancanza di tali soggetti, la posizione individuale resta acquisita al 
+Fondo.
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.
+6. La SGR, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della posizione 
+con tempestività e comunque non oltre il termine massimo di sei mesi decorrente dalla ricezione della 
+richiesta. 
+ Nel caso in cui la domanda risulti incompleta o insufficiente, la SGR richiede gli elementi integrativi 
+e il termine sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della 
+pratica.
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della 
+partecipazione al Fondo.
+Art. 14 Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e 
+misure:
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie 
+conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi 
+straordinari riconosciuti dalle competenti strutture pubbliche;
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non 
+superiore al 75 per cento, per l’acquisto della prima casa di abitazione per sé o per i figli, o 
+per la realizzazione, sulla prima casa di abitazione, degli interventi di manutenzione ordinaria, 
+straordinaria, di restauro e di risanamento conservativo, di ristrutturazione edilizia di cui alle 
+lettere a), b), c) e d) del comma 1, dell’Art. 3, del Decreto del Presidente della Repubblica del 6 
+giugno 2001, n. 380;
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non 
+superiore al 30 per cento, per la soddisfazione di ulteriori sue esigenze.
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono 
+riportate in apposito documento.
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento 
+della posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate.
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono 
+considerati utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati 
+dall’aderente, per i quali lo stesso non abbia esercitato il diritto di riscatto totale della posizione 
+individuale.
+=== pagina 17 ===
+17 di 65
+Arti & Mestieri  Regolamento
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in 
+qualsiasi momento.
+6. Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, 
+sequestrabilità e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza 
+obbligatoria. 
+7. La SGR provvede agli adempimenti conseguenti all’esercizio delle predette facoltà da parte 
+dell’aderente con tempestività e comunque non oltre il termine massimo di 90 giorni decorrente dalla 
+ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, la SGR richiede 
+gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del completamento o della 
+regolarizzazione della pratica.
+=== pagina 18 ===
+18 di 65
+Arti & Mestieri  Regolamento
+PARTE IV 
+Profili organizzativi 
+Art. 15 Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia 
+al patrimonio della SGR sia a quello degli altri fondi gestiti, sia a quello degli aderenti.
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non 
+può essere distratto da tale fine.
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori della SGR o di 
+rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di rappresentanti dei 
+creditori stessi. Il patrimonio del Fondo non può essere coinvolto nelle procedure concorsuali che 
+riguardino la SGR.
+4. La SGR è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere per conto del Fondo rispetto al complesso delle altre operazioni svolte dalla 
+SGR e del patrimonio del Fondo rispetto a quello della SGR e di suoi clienti.
+5. Ferma restando la responsabilità della SGR per l’operato del soggetto delegato, la gestione 
+amministrativa e contabile del Fondo può essere delegata a terzi.
+6. La SGR è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere in riferimento a ciascun Comparto.
+7. Il patrimonio di ciascun Comparto è suddiviso in quote o in differenti classi di quote.
+Art. 16 Sistema di governo 
+1. La SGR assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla complessità 
+delle attività del Fondo, l’assolvimento degli obblighi previsti dagli Artt. 4- bis, 5- bis, 5- ter, 5- quater, 
+5-sexies, 5-septies, 5- octies e 5- nonies del Decreto in coerenza con gli assetti organizzativi del rispettivo 
+settore di riferimento.
+Art. 17 Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei 
+requisiti previsti dalle vigenti disposizioni normative (di seguito “Depositario”).
+2. La SGR può revocare in ogni momento l’incarico al Depositario, il quale può, a sua volta, rinunciare con 
+preavviso di almeno 6 mesi, in ogni caso l’efficacia della revoca o della rinuncia è sospesa fino a che:
+	z la SGR non abbia stipulato un nuovo contratto con altro Depositario, in possesso dei requisiti di legge;
+	z il patrimonio del Fondo non sia stato trasferito presso il nuovo Depositario.
+3. Il calcolo del valore della quota può essere delegato al Depositario, ferma restando la responsabilità 
+della SGR per l’operato del soggetto delegato.
+4. Le funzioni di Depositario sono regolate dalla normativa tempo per tempo vigente.
+5. Gli amministratori e i sindaci del Depositario riferiscono senza ritardo alla COVIP sulle irregolarità 
+riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di 
+cui sono venuti a conoscenza nell’esercizio delle funzioni di Depositario.
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il Depositario non sono 
+ammesse azioni dei creditori del Depositario, del subdepositario o nell’interesse degli stessi.
+Art. 18 Responsabile 
+1. La SGR nomina un Responsabile del Fondo, ai sensi dell’Art. 5, comma 2, del Decreto.
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del Responsabile 
+sono riportate nell’Allegato n. 1.
+=== pagina 19 ===
+19 di 65
+Arti & Mestieri  Regolamento
+Art. 19 Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi 
+della normativa tempo per tempo vigente.
+Art. 20 Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle 
+posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP.
+2. La SGR conferisce a una società di revisione l’incarico di esprimere con apposita relazione un giudizio 
+sul rendiconto del Fondo.
+3. Il rendiconto del Fondo è pubblicato sul sito web della SGR.
+=== pagina 20 ===
+20 di 65
+Arti & Mestieri  Regolamento
+PARTE V 
+Rapporti con gli aderenti 
+Art. 21 Modalità di adesione e clausole risolutive espresse
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. 
+L’adesione è preceduta dalla consegna della documentazione informativa prevista tempo per tempo 
+dalla normativa vigente.
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite alla SGR.
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera 
+di conferma, attestante la data di iscrizione e le informazioni relative all’eventuale versamento 
+effettuato.
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, dei relativi allegati e delle 
+successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’Art. 25. 
+5. In caso di adesione automatica il Fondo, sulla base dei dati forniti dal datore di lavoro, comunica 
+all’aderente l’avvenuta adesione, il profilo di tipo life cycle  nel quale sono investiti i contributi, 
+nonché le informazioni necessarie al fine di consentire a quest’ultimo l’esercizio delle scelte di sua 
+competenza.
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze 
+della SGR da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione della SGR. 
+Le adesioni su base collettiva possono essere raccolte anche presso i luoghi indicati nella Nota 
+Informativa.
+7. L’efficacia dei contratti di collocamento conclusi fuori sede è sospesa per la durata di sette giorni 
+decorrenti dalla data della prima sottoscrizione da parte dell’aderente. Tale data coincide con la data 
+di conclusione del contratto. 
+ Entro detto termine l’aderente può comunicare al Soggetto incaricato del collocamento o al 
+Consulente Finanziario abilitato all’offerta fuori sede il proprio recesso senza spese né corrispettivo. 
+ In caso di adesione mediante sito web, la SGR deve acquisire il consenso espresso dell’aderente all’utilizzo 
+di tale strumento. L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, 
+senza costi di recesso e senza dover indicare il motivo dello stesso. 
+ Per l’esercizio di tale diritto, l’aderente invia una comunicazione scritta alla SGR con modalità che 
+garantiscono certezza della data di ricezione. 
+ La SGR, entro trenta giorni dal ricevimento della comunicazione, procede a rimborsare le somme 
+eventualmente pervenute, al netto delle spese di adesione, ove trattenute. 
+ La SGR rende previamente noti all’aderente il momento in cui l’adesione si intende conclusa, i termini, le 
+modalità e i criteri di determinazione delle somme oggetto di rimborso.
+8. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione al 
+Fondo. In caso di inadempimento, la SGR ha facoltà, ai sensi dell’Art. 1456 del Codice Civile, di risolvere 
+il contratto comunicando all’aderente, la propria volontà di avvalersi della clausola risolutiva espressa, 
+salvo che l’aderente non provveda a effettuare un versamento entro sessanta giorni dalla ricezione 
+della comunicazione. 
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con 
+conseguente azzeramento della posizione individuale a seguito dell’applicazione delle spese annuali 
+di gestione amministrativa, la SGR ha facoltà, ai sensi dell’Art. 1456 del Codice Civile, di risolvere il 
+contratto comunicando, la propria volontà di avvalersi della clausola risolutiva espressa, salvo che 
+l’aderente non provveda ad effettuare un versamento entro sessanta giorni dalla ricezione della 
+comunicazione.
+=== pagina 21 ===
+21 di 65
+Arti & Mestieri  Regolamento
+Art. 22 Trasparenza nei confronti degli aderenti  
+e dei beneficiari
+1. La SGR mette a disposizione degli aderenti la documentazione inerente al Fondo e tutte le altre 
+informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. 
+ Tali documenti sono disponibili sul sito web della SGR, in un’apposita sezione dedicata alle forme 
+pensionistiche complementari e presso la sede legale della SGR. 
+ I documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e gratuitamente 
+anche presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni.
+2. La SGR fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni individuali maturate 
+e alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per tempo vigente.
+Art. 23 Comunicazioni e reclami 
+1. La SGR definisce le modalità con le quali gli aderenti e i beneficiari possono rappresentare le proprie 
+esigenze e presentare reclami in coerenza con le indicazioni fornite dalla COVIP, riportandole nella 
+Nota Informativa.
+=== pagina 22 ===
+22 di 65
+Arti & Mestieri  Regolamento
+PARTE VI 
+Norme finali 
+Art. 24 Modifiche del Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP.
+2. La SGR stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse degli aderenti e 
+fatto salvo quanto disposto all’Art. 25.
+Art. 25 Trasferimento in caso di modifiche peggiorative 
+delle condizioni economiche e di modifiche delle 
+caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione 
+individuale maturata ad altra forma pensionistica complementare, anche prima che siano decorsi due 
+anni dall’iscrizione. Il diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in 
+modo sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione significativa 
+delle politiche di investimento.
+2. La SGR comunica a ogni aderente interessato l’introduzione delle modifiche almeno centoventi giorni 
+prima della relativa data di efficacia; dal momento della comunicazione l’aderente ha novanta giorni 
+di tempo per manifestare l’eventuale scelta di trasferimento. La SGR può chiedere alla COVIP termini 
+ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del Fondo e non contrasti con 
+l’interesse degli aderenti.
+3. Per le operazioni di trasferimento di cui al presente Articolo non sono previste spese.
+Art. 26 Cessione del Fondo 
+1. Qualora la SGR non voglia o non possa più esercitare l’attività di gestione del Fondo, questo viene ceduto 
+ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione del Fondo a società diverse da 
+quelle del Gruppo al quale appartiene la SGR viene riconosciuto agli aderenti il diritto al trasferimento 
+della posizione presso altra forma pensionistica complementare ai sensi dell’Art. 25 e con le modalità ivi 
+previste.
+Art. 27 Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua 
+fusione con un altro fondo gestito dalla medesima SGR, il diritto al trasferimento della posizione 
+presso altra forma pensionistica complementare viene riconosciuto qualora ricorrano le condizioni di 
+cui all’Art. 25 e con le modalità ivi previste. 
+Art. 28 Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla 
+normativa tempo per tempo vigente.
+Allegato n. 1  - Disposizioni in materia di Responsabile
+Allegato n. 2  - Condizioni e modalità di erogazione delle rendite
+=== pagina 23 ===
+23 di 65
+Arti & Mestieri  Regolamento
+ALLEGATO N. 1 
+Disposizioni in materia di Responsabile 
+Art. 1 Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione della SGR che esercita l’attività del 
+Fondo. L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non più di una volta 
+consecutivamente.
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene 
+nominato un nuovo Responsabile.
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di controllo della 
+SGR.
+4. Le nomine, gli eventuali rinnovi dell’incarico, le sostituzioni del Responsabile prima della scadenza del 
+termine vengono comunicati alla COVIP entro quindici giorni dalla deliberazione.
+Art. 2 Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile sono previsti dalla normativa tempo per tempo 
+vigente.
+2. L’incarico di Responsabile è inoltre incompatibile con:
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa presso la SGR 
+o società da questa controllate o che la controllano;
+b) l’incarico di amministratore della SGR.
+Art. 3 Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incompatibilità 
+comporta la decadenza dall’incarico.
+Art. 4 Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’atto della 
+nomina per l’intero periodo di durata dell’incarico e viene definita sulla base di una sana politica di 
+remunerazione che tenga conto dei principi previsti dalla normativa tempo per tempo vigente, fermo 
+restando che il compenso del Responsabile non può essere pattuito sotto forma di partecipazione 
+agli utili della SGR o di società controllanti o controllate, né sotto forma di diritti di acquisto o di 
+sottoscrizione di azioni della SGR o di società controllanti o controllate.
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a 
+carico del Fondo, salva diversa decisione della SGR.
+Art. 5 Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dalla SGR riportando 
+direttamente all’organo di amministrazione della stessa relativamente ai risultati dell’attività svolta.
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative della SGR, di volta 
+in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri di cui all’Art. 6. La SGR 
+gli garantisce l’accesso a tutte le informazioni necessarie allo scopo.
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo della SGR, 
+per tutte le materie inerenti al Fondo.
+=== pagina 24 ===
+24 di 65
+Arti & Mestieri  Regolamento
+Art. 6 Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei 
+beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle buone 
+pratiche e dei principi di corretta amministrazione del Fondo.
+2. Il Responsabile, avvalendosi delle procedure definite dalla SGR, organizza lo svolgimento delle sue 
+funzioni al fine di:
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe di 
+gestione, con riferimento ai controlli su:
+i) la politica di investimento. In particolare: che la politica di investimento effettivamente seguita 
+sia coerente con quella indicata nel Regolamento e nel Documento sulla politica di investimento 
+e che gli investimenti, ivi compresi quelli effettuati in OICR, avvengano nell’esclusivo interesse 
+degli aderenti, nel rispetto dei principi di sana e prudente gestione nonché nel rispetto dei 
+criteri e limiti previsti dalla normativa tempo per tempo vigente e dal Regolamento;
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investimenti 
+effettuati siano correttamente identificati, misurati e controllati e che siano coerenti con gli 
+obiettivi perseguiti dalla politica di investimento.
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di 
+deleghe di gestione, con riferimento ai controlli su:
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per conto del 
+Fondo rispetto al complesso delle altre operazioni svolte dalla SGR e del patrimonio del Fondo 
+rispetto a quello della SGR e di suoi clienti;
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo.
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei beneficiari con 
+riferimento ai controlli su:
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli aderenti e 
+dei beneficiari, sia al momento del collocamento del Fondo che durante il rapporto;
+ii) gli oneri di gestione. In particolare che le spese a carico degli aderenti e dei beneficiari 
+previste dal Regolamento e le eventuali commissioni correlate ai risultati di gestione siano 
+correttamente applicate;
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni periodiche agli 
+aderenti e ai beneficiari e in quelle inviate in occasione di eventi particolari;
+iv) l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento riservato ai 
+singoli reclami;
+v) la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con riferimento 
+ai tempi di liquidazione delle somme richieste a titolo di anticipazione o riscatto e di 
+trasferimento della posizione individuale.
+3. Il Responsabile controlla le soluzioni adottate dalla SGR per identificare le situazioni di conflitti di 
+interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; egli controlla 
+altresì la corretta esecuzione del contratto stipulato per il conferimento dell’incarico di Depositario, 
+nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle rendite e, ove 
+presenti, delle convenzioni/condizioni relative alle prestazioni accessorie.
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva 
+comunicazione all’organo di amministrazione e a quello di controllo della SGR indicando gli interventi 
+correttivi da adottare.
+Art. 7 Rapporti con la COVIP 
+1. Il Responsabile:
+	z predispone annualmente una relazione che descrive in maniera analitica l’organizzazione adottata 
+per l’adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale 
+per l’esecuzione dell’incarico, dei risultati dell’attività svolta, delle eventuali irregolarità riscontrate 
+durante l’anno e delle iniziative poste in essere per eliminarle.
+=== pagina 25 ===
+25 di 65
+Arti & Mestieri  Regolamento
+La relazione viene trasmessa alla COVIP entro il 31 marzo di ciascun anno. Copia della relazione 
+stessa viene trasmessa all’organo di amministrazione e a quello di controllo della SGR;
+	z vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa le 
+segnalazioni, la documentazione e le relazioni richieste dalla normativa tempo per tempo vigente e 
+dalle istruzioni emanate in proposito;
+	z comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione e a quello di 
+controllo della SGR, le irregolarità riscontrate nell’esercizio delle sue funzioni.
+Art. 8 Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura 
+dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti 
+di cui ha conoscenza in ragione del suo ufficio, tranne che nei confronti della COVIP e delle autorità 
+giudiziarie.
+2. Egli risponde verso la SGR e verso i singoli aderenti e beneficiari del Fondo dei danni a ciascuno 
+arrecati e derivanti dall’inosservanza di tali doveri.
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli Artt. 2391, 2392, 2393, 2394, 
+2394bis, 2395 del Codice Civile.
+=== pagina 26 ===
+26 di 65
+Arti & Mestieri  Regolamento
+ALLEGATO N. 2 
+Condizioni e modalità di erogazione  
+delle rendite 
+Assicurazione delle prestazioni pensionistiche complementari 
+in forma di rendita vitalizia
+tra
+la società BIPIEMME GESTIONI SGR S.p.A. (ora Anima SGR S.p.A.), con sede in Milano, Galleria de 
+Cristoforis n. 7, codice fiscale e partita I.V.A. n. 07507200157 (di seguito definita FONDO PENSIONE o 
+CONTRAENTE), la quale interviene nella sua qualità di soggetto istitutore e gestore del Fondo Pensione 
+Aperto denominato “ARTI & MESTIERI - FONDO PENSIONE APERTO” (di seguito definito “FONDO 
+PENSIONE”), nella persona del Direttore Generale pro tempore dott. Pietro Cirenei, nato a Roma il 
+17.08.1959, C.F. CRN PTR 59M17 H501K con domicilio per la carica in Milano, Galleria De Cristoforis, 7
+e
+l’impresa di Assicurazione FONDIARIA - SAI S.p.A. (di seguito definita SOCIETÀ), con sede in Firenze, Piazza 
+della Libertà 6, nella persona del legale rappresentante per il presente atto dott. Fabio Magherini, nato a 
+Firenze, il 24.10.1950, C.F. MGH FBA 50R24 D612Y
+Premesso che:
+A) Il FONDO PENSIONE, costituito in forma di patrimonio di destinazione separato ed autonomo, è 
+autorizzato all’esercizio dell’attività ed è iscritto all’albo istituito presso la Commissione di Vigilanza sui 
+Fondi Pensione, in data 10 marzo 1999, con il n. 63;
+B) la SOCIETÀ è autorizzata all’esercizio dell’attività di assicurazione sulla durata della vita umana ed è 
+in possesso dei requisiti fissati dall’ISVAP ai sensi dell’Art. 6, co. 7, del Decreto Legislativo 5 dicembre 
+2005,n. 252 (di seguito definito “Decreto”), e successive modificazioni e integrazioni;
+C) il FONDO PENSIONE intende stipulare la Convenzione di cui all’Art. 6, co. 3, del Decreto citato;
+convengono e stipulano quanto segue.
+Il rapporto Assicurativo è regolato dalle norme di cui alla presente Convenzione, nonché dalle Condizioni 
+di Assicurazione contenute nel Fascicolo Informativo mod. n. 1.11455.9F ed. 04/2008, che il FONDO 
+PENSIONE dichiara di conoscere e accettare, per quanto non derogate dalla Convenzione stessa, e 
+disponibili presso il FONDO PENSIONE e la SOCIETÀ.
+Art. 1 Oggetto della Convenzione. Prestazioni assicurate 
+1. La Convenzione ha per oggetto l’assicurazione di rendita annua vitalizia immediata rivalutabile ed 
+erogabile in via posticipata sulla testa degli aderenti al FONDO PENSIONE (di seguito indicati come 
+“Assicurati”) che, avendo maturato i requisiti di accesso alle prestazioni pensionistiche complementari 
+previste dal Regolamento del FONDO PENSIONE, siano inseriti in assicurazione su indicazione del 
+FONDO PENSIONE stesso.
+1 bis. Il FONDO PENSIONE può richiedere, in relazione al singolo Assicurato che, in luogo della rendita 
+di cui al precedente comma 1, sia erogata una delle seguenti altre rendite di cui all’Art. 1 delle 
+Condizioni di Assicurazione, ivi richiamate quali opzioni B), C), D), E).
+ Inoltre al medesimo Art. 1 delle Condizioni di Assicurazione viene aggiunta la seguente ulteriore 
+modalità alternativa di erogazione della rendita che il FONDO PENSIONE può richiedere:
+ opzione F): rendita annua erogabile finché l’Assicurato è in vita con raddoppio in caso di 
+sopravvenuta perdita di autosufficienza, le cui condizioni sono riportate nell’Allegato 1 della 
+presente Convenzione.
+=== pagina 27 ===
+27 di 65
+Arti & Mestieri  Regolamento
+ Pertanto, il FONDO PENSIONE potrà richiedere alternativamente, in relazione a ciascun 
+Assicurato, ai sensi dell’Art. 1 delle Condizioni di Assicurazione come di seguito modificate, 
+l’erogazione di una delle seguenti tipologie di rendite:
+Opzione A “rendita vitalizia immediata”: rendita annua erogabile finché l’Assicurato è in vita;
+Opzione B “rendita certa 5 anni”: rendita annua erogabile finché l’Assicurato è in vita, ovvero 
+fino al quinto anniversario della decorrenza della posizione individuale se si verifica 
+il decesso dell’Assicurato prima di tale anniversario;
+Opzione C “rendita certa 10 anni”: rendita annua erogabile finché l’Assicurato è in vita, ovvero 
+fino al decimo anniversario della decorrenza della posizione individuale se si 
+verifica il decesso dell’Assicurato prima di tale anniversario;
+Opzione D “rendita reversibile”: rendita annua erogabile finché l’Assicurato e la persona 
+preventivamente designata nella scheda di polizza quale secondo Assicurato sono 
+entrambi in vita e, successivamente al decesso dell’Assicurato, nelle percentuali di 
+reversibilità sottoindicate, finché l’Assicurato superstite è in vita.
+ La percentuale di reversibilità è stabilita come segue:
+	z se il superstite è l’Assicurato, la misura di reversibilità è pari al 100% della rendita 
+stessa; 
+	z se il superstite è il secondo Assicurato, la misura di reversibilità è pari ad una 
+percentuale, comunicata dall’Assicurato per il tramite del Contraente e indicata 
+nella scheda di polizza, compresa tra 50% e 100% della rendita stessa.
+ Inoltre, il reversionario indicato dall’Assicurato deve aver compiuto, al tempo della 
+designazione in scheda di polizza, il 40° anno di età; 
+Opzione E “rendita controassicurata”: rendita annua erogabile finché l’Assicurato è in vita e, 
+al suo decesso, il pagamento di un capitale pari alla differenza - se positiva - fra i 
+seguenti due importi:
+	z il premio versato dal Contraente per la posizione individuale, moltiplicato per il 
+rapporto fra la rata di rendita in vigore per l’anno in corso e quella iniziale;
+	z la rata di rendita in vigore moltiplicata per il numero delle rate già scadute.
+Opzione F “rendita LTC”: rendita annua erogabile finché l’Assicurato è in vita, con raddoppio 
+in caso di sopravvenuta perdita di autosufficienza, le cui condizioni sono riportate 
+nell’Allegato 1 alla presente Convenzione.
+ L’Assicurato, in relazione alle Opzioni B), C) ed E), comunica in via contestuale all’esercizio 
+dell’opzione al FONDO PENSIONE il rispettivo avente diritto da individuare tra gli eredi ovvero 
+tra diversi soggetti, siano essi persone fisiche o giuridiche.
+ L’Assicurato, in relazione all’Opzione D), comunica in via contestuale all’esercizio dell’opzione 
+al FONDO PENSIONE il rispettivo avente diritto da individuare tra gli eredi ovvero fra diversi 
+soggetti, purché persone fisiche.
+2. L’importo annuo di ciascuna rendita si ottiene moltiplicando il premio versato alla SOCIETÀ, al netto 
+delle imposte ove previste, per i coefficienti indicati nelle Tabelle A), B), C), D), E), F) allegate alla 
+presente Convenzione, con i criteri ivi previsti, in funzione dell’opzione di rendita scelta.
+ In ciascuna delle Tabelle sopraelencate è riportato il dettaglio del meccanismo di age shifting da utilizzare.
+ In considerazione del fatto che l’ammontare della rendita vitalizia reversibile di cui alla sopracitata 
+Opzione D) dipende dall’età e dal sesso dell’Assicurato principale e del reversionario, nonché dalla 
+percentuale di reversibilità, nell’Allegato n. 1 alla presente Convenzione - Tabella D) sono esposti i 
+coefficienti da utilizzare in relazione solo ad alcune posizioni tipiche ed in funzione dei parametri esposti 
+nello stesso Allegato n. 1 - Tabella D), fermo restando il fatto che, per diverse combinazioni dei parametri 
+di riferimento, il conteggio avverrà secondo criteri attuariali utilizzando basi tecniche identiche.
+2 bis. La rata di rendita in pagamento, come quantificata al precedente comma 2, viene 
+periodicamente rivalutata secondo quanto previsto all’Art. 5 delle Condizioni di Assicurazione, 
+con misura annua di rivalutazione ottenuta in base al rendimento attribuito, di cui al citato Art. 5.
+3. A scelta dell’aderente, da esercitarsi per il tramite del FONDO PENSIONE, le rendite di cui al 
+precedente comma 1bis, potranno essere erogate in rate posticipate mensili, trimestrali, semestrali, 
+ovvero in un unico importo complessivo annuo posticipato.
+=== pagina 28 ===
+28 di 65
+Arti & Mestieri  Regolamento
+ Limitatamente alla rendita di cui alla precedente lettera F), la rateazione può essere esclusivamente 
+mensile.
+4. Le età in anni e mesi interi dell’Assicurato e dell’eventuale reversionario sono calcolate alla data di 
+decorrenza della rendita, considerando come unità la frazione di mese uguale o superiore a 16 giorni. 
+Di conseguenza, il relativo coefficiente da utilizzare viene calcolato mediante interpolazione lineare dei 
+coefficienti di cui all’Art. 1, comma 2, della presente Convenzione.
+5. I coefficienti di conversione in rendita di cui sopra sono adottati dalla SOCIETÀ relativamente al 
+periodo di durata della Convenzione. 
+Art. 2 Premio di assicurazione 
+1. La SOCIETÀ si impegna a corrispondere agli aventi diritto le rendite oggetto della presente 
+Convenzione a fronte del pagamento di un premio unico anticipato per ciascuna rendita assicurata.
+2. I premi saranno pagati con le seguenti modalità e termini. 
+ Il FONDO PENSIONE esegue il pagamento del premio unico relativo alla posizione individuale, per 
+la quale richiede l’ingresso in assicurazione, al momento della trasmissione alla SOCIETÀ delle 
+informazioni di cui al successivo Art. 6. Il versamento del premio avviene per mezzo di bonifico 
+bancario su conto corrente intestato alla SOCIETÀ. La data di versamento coincide con la data di 
+effettivo accredito sul conto corrente intestato alla SOCIETÀ.
+3. La SOCIETÀ, a condizione che siano pervenuti tutti i documenti ed i dati necessari per l’attivazione 
+della copertura assicurativa sull’aderente, giusto quanto previsto al successivo Art. 6, ed a fronte del 
+pagamento di ciascun premio, rilascerà una scheda di polizza, riportante l’indicazione degli estremi 
+identificativi dell’Assicurato e l’importo della prestazione assicurata, avente altresì natura di quietanza.
+Art. 3 Caricamenti e spese di erogazione 
+1. Le prestazioni pattuite saranno corrisposte a fronte dell’applicazione di un caricamento frontale 
+pari allo 0,75% del premio versato. Per quanto riguarda inoltre l’Opzione F), il caricamento presente 
+nel premio di tariffa, a fronte della sola componente relativa alla copertura assicurativa per non 
+autosufficienza per l’intera vita dell’Assicurato, è pari al 5% del rispettivo premio unico. 
+2. Per le spese di erogazione delle rendite, la SOCIETÀ applica, indipendentemente dalla rateazione 
+prescelta dall’Assicurato, un caricamento pari all’1,25% del valore capitale della rendita.
+Art. 4 Basi demografiche 
+La SOCIETÀ, per l’elaborazione dei coefficienti di conversione in rendita di cui al comma 1bis del 
+precedente Art. 1, ha adottato le seguenti tavole di mortalità:
+	z IPS55 per impegni differiti distinta per sesso per le rendite di cui alle lettere A), B), C) e D) ed in relazione 
+alla garanzia di rendita vitalizia immediata rivalutabile di cui alla lettera F);
+	z IPS55 per impegni immediati distinta per sesso per la rendita di cui alla lettera E);
+	z relativamente alla garanzia legata alla perdita dell’autosufficienza (LTC), di cui alla lettera F), sono 
+utilizzate basi tecniche fornite dal mercato riassicurativo aventi origine da due studi condotti in Germania 
+nel corso dei primi anni novanta ed opportunamente adattate al caso italiano mediante utilizzo della 
+tavola di mortalità della popolazione generale italiana S.I. 1992 elaborata dall’ISTAT ed ottenuta con i dati 
+del censimento del 1992, distinta per sesso.
+Art. 5 Beneficiari 
+1. Beneficiario delle prestazioni della presente Convenzione è l’Assicurato. 
+2. Nel caso di esercizio dell’Opzione D), se il superstite è il secondo Assicurato, beneficiario è il secondo 
+Assicurato stesso.
+3. Nel caso di esercizio delle Opzioni B), C) o E), beneficiari delle prestazioni in caso di morte 
+dell’Assicurato sono gli aventi diritto individuati dall’Assicurato stesso di cui al comma 1bis del 
+precedente Art. 1.
+=== pagina 29 ===
+29 di 65
+Arti & Mestieri  Regolamento
+Art. 6 Obblighi di comunicazione 
+1. Il FONDO PENSIONE, all’atto dell’inserimento di ciascun aderente in Convenzione, oltre a fornire il 
+relativo certificato di nascita relativo sia all’aderente che all’eventuale testa reversionaria, si impegna a 
+comunicare alla SOCIETÀ i seguenti dati relativi agli aderenti stessi e alla eventuale testa reversionaria: 
+	z cognome, nome, sesso, data di nascita, indirizzo e codice fiscale;
+	z forma di rendita prescelta;
+	z eventuale numero di annualità di rendita certa;
+	z gli eventuali aventi diritto delle forme di cui alle lettere B), C) ed E) del comma 1bis del precedente  
+Art. 1;
+	z cognome, nome, sesso, data di nascita, indirizzo e codice fiscale dell’eventuale reversionario;
+	z percentuale di reversibilità relativa al secondo Assicurato;
+	z importo di premio;
+	z ammontare del montante contributivo da convertire in rendita e relativa scomposizione utile ai fini 
+della determinazione delle ritenute fiscali previste dalla normativa tempo per tempo vigente.
+2. Nel solo caso di esercizio dell’Opzione F) di cui al comma 1bis del precedente Art. 1, il FONDO 
+PENSIONE, all’atto dell’inserimento di ciascun aderente in Convenzione, fornirà inoltre un rapporto di 
+visita medica redatto dal Medico Curante dell’aderente su modello fornito dalla SOCIETÀ.
+3. Le dichiarazioni del FONDO PENSIONE devono essere esatte e complete; l’inesatta indicazione dei dati 
+dell’aderente o della testa reversionaria comporta la rettifica dell’importo della rendita.
+4. Il FONDO PENSIONE si impegna a fornire, all’ingresso in assicurazione della posizione individuale, i 
+certificati di esistenza in vita degli Assicurati e degli eventuali reversionari.
+Art. 7 Pagamento della rendita 
+1. Ad integrazione di quanto indicato all’Art. 3, primo comma, delle Condizioni di Assicurazione resta 
+pattuito che la data di decorrenza indicata nella scheda di polizza viene stabilita nel primo giorno del 
+mese successivo alla data di versamento del premio unico e la rendita sarà erogata in via posticipata 
+secondo la rateazione richiesta, come previsto dal comma 3 dell’Art. 1 della Convenzione.
+2. L’erogazione della rendita cesserà con l’ultima scadenza di rata precedente la morte dell’Assicurato. 
+Nel caso in cui la rendita erogata sia pagabile in modo certo per i primi 5 o 10 anni, l’erogazione 
+della rendita cesserà con l’ultima scadenza di rata precedente il decesso dell’Assicurato se questo si 
+verifica successivamente rispettivamente alla quinta o decima ricorrenza annuale; in caso contrario 
+cesserà con l’ultima scadenza di rata coincidente con la quinta o decima ricorrenza annuale. È fatto 
+salvo quanto previsto in caso di scelta delle opzioni di cui alle lettere D) ed E) del comma 1 bis del 
+precedente Art. 1.
+3. Le prestazioni oggetto della presente Convenzione sono erogate agli aventi diritto.
+Art. 8 Pagamenti della Società 
+Ad integrazione di quanto previsto dall’Art. 7 delle Condizioni di Assicurazione:
+1. La SOCIETÀ, ad ogni scadenza delle rate di rendita, bonificherà agli aventi diritto il relativo importo al 
+netto delle ritenute fiscali di legge.
+2. Il vitaliziato dovrà fornire con frequenza annuale il certificato di esistenza in vita.
+3. Eventuali rate di rendita pagate e non dovute, dovranno essere restituite dagli eredi del vitaliziato alla 
+SOCIETÀ.
+Art. 9 Valore di riscatto 
+Le rendite oggetto della presente Convenzione non ammettono valore di riscatto.
+Art. 10 Decorrenza e durata 
+1. La presente Convenzione ha decorrenza dal 13/12/2008 e avrà durata quinquennale.
+=== pagina 30 ===
+30 di 65
+Arti & Mestieri  Regolamento
+2. Le Parti avranno facoltà di recedere nei termini e con le modalità previste dall’Art. 11 della 
+Convenzione.
+Art. 11 Recesso 
+1. Le Parti hanno facoltà di recedere anticipatamente dalla presente Convenzione con preavviso 
+di almeno sei mesi, che dovrà essere comunicato tramite lettera raccomandata con avviso di 
+ricevimento.
+2. La SOCIETÀ potrà inoltre recedere dalla presente Convenzione in qualunque momento, nel caso in cui i 
+presupposti in base ai quali essa è stata stipulata sono venuti meno, oppure qualora l’equilibrio tecnico 
+dell’assicurazione risulti alterato in maniera tale da non poter essere ripristinato con una rettifica del 
+tasso di premio. In tal caso, il recesso dovrà essere esercitato per lettera raccomandata con avviso di 
+ricevimento ed avrà efficacia dopo che siano trascorsi tre mesi dalla comunicazione.
+3. Il recesso non ha effetto sulle rendite in corso di erogazione, che restano in vigore alle condizioni 
+previste dalla presente Convenzione.
+Art. 12 Tasse, bolli ed imposte 
+Tutte le spese per tasse, bolli ed imposte dovute in base a leggi presenti e future, sia sul premio unico 
+versato, sia sulla rendita convenuta, sono a carico del FONDO PENSIONE/aventi diritto.
+La SOCIETÀ provvederà, al momento dell’erogazione della rendita, ad effettuare le ritenute previste dalla 
+vigente normativa ed a fornire annualmente all’aderente la certificazione relativa alla rendita dallo stesso 
+percepita.
+Art. 13 Tasso massimo di interesse garantito 
+Le eventuali modifiche del tasso massimo di interesse garantito, determinato dall’ISVAP, ai sensi dell’Art. 
+33 del Decreto Legislativo 7 settembre 2005, n. 209 e successive modifiche ed integrazioni, sono 
+applicabili alle tariffe oggetto della presente Convenzione, relativamente agli aderenti non ancora inseriti 
+nella presente Convenzione.
+Art. 14 Riservatezza e segretezza 
+1. Nello svolgimento delle attività oggetto della Convenzione, ciascuna delle Parti (per tali intendendosi 
+il FONDO PENSIONE e la SOCIETÀ) potrebbe avere accesso ad informazioni dell’altra Parte (in forma 
+cartacea od elettronica) - relative ad attività passate, presenti o future - riguardanti l’impresa, la 
+ricerca, lo sviluppo, i prodotti, i servizi e le conoscenze tecniche - incluso il know-how; tali informazioni 
+dovranno intendersi come riservate (di seguito: “informazioni riservate”) e ad esse si applicheranno le 
+disposizioni del presente Articolo.
+2. Le informazioni riservate della Parte che le rivela possono essere utilizzate dall’altra Parte solo in 
+relazione all’esecuzione della presente Convenzione. Ciascuna Parte si impegna a proteggere la 
+riservatezza delle informazioni riservate dell’altra Parte con la stessa cura con la quale protegge la 
+riservatezza di quelle proprie e, comunque, in nessun caso le Parti useranno meno della ragionevole 
+diligenza nel proteggerle. 
+ L’accesso alle informazioni riservate sarà limitato a - ed esse saranno utilizzate solo da - incaricati della 
+SOCIETÀ e del FONDO PENSIONE, per l’uso consentito ai sensi della presente Convenzione.
+3. Salvo gli obblighi derivanti da disposizioni di legge e/o dell’autorità di controllo, nonché da ordini della 
+pubblica autorità, le Parti non riveleranno né trasferiranno le informazioni a terzi e non consentiranno 
+che questi ne prendano conoscenza. L’obbligo di riservatezza non concerne i dati e le informazioni di 
+pubblico dominio.
+4. Gli obblighi di riservatezza di cui ai precedenti commi continueranno a trovare applicazione anche 
+dopo il venir meno, per qualsiasi causa, dell’efficacia della presente Convenzione.
+=== pagina 31 ===
+31 di 65
+Arti & Mestieri  Regolamento
+Art. 15 Protezione dei dati personali 
+1. Il FONDO PENSIONE e la SOCIETÀ trattano i reciproci dati e i dati relativi agli Iscritti in qualità di 
+Titolari.
+2. La SOCIETÀ e il FONDO PENSIONE rivestono il ruolo - come definito dall’Art. 4 comma 1 lettera f) del  
+D. Lgs. 196/2003 - di autonomi Titolari del trattamento dei dati personali di interessati, i cui dati siano 
+trattati in dipendenza della presente Convenzione.
+3. Ciascuna Parte si impegna, nell’adempimento dei propri obblighi contrattuali verso l’altra e nello 
+svolgimento delle conseguenti operazioni di trattamento di dati personali, ad osservare le disposizioni 
+del D. Lgs. n. 196/2003.
+4. Preso atto dell’informativa di cui all’Art. 13 del D. Lgs. 196/2003, le Parti forniscono il consenso al 
+trattamento dei propri dati personali per le finalità ivi descritte e il FONDO PENSIONE si impegna 
+altresì a fornire agli interessati, i cui dati siano trattati in dipendenza della presente Convenzione, 
+l’informativa predisposta e fornita dalla SOCIETÀ stessa, a raccoglierne il consenso, ove previsto, ed a 
+trasmettere la relativa documentazione cartacea secondo le procedure concordate tra le Parti.
+Art. 16 Foro competente 
+Per le controversie relative al Contratto, il Foro competente è esclusivamente quello della sede legale del 
+FONDO PENSIONE.
+Fatta e firmata in duplice esemplare ad un solo effetto, ad uso delle Parti contraenti.
+Lì, Firenze 4.12.2008
+Allegati
+1. Tabelle A, A-bis, A-ter, A-quater, B, B-bis, B-ter, B-quater, C, C-bis, C-ter, C-quater, D, D-bis, D-ter, 
+D-quater, E, E-bis, E-ter, E-quater, F, F-bis, F-ter, F-quater: Coefficienti di conversione in rendita 
+2. Condizioni Integrative che disciplinano l’Opzione F
+3. Modalità di rivalutazione delle prestazioni
+4. Regolamento della “FONDICOLL UnipolSai” (in breve “FONDICOLL”).
+=== pagina 32 ===
+32 di 65
+Arti & Mestieri  Regolamento
+Le Appendici n. 9275 del 03/05/2010, n. 101881 del 28/11/2012, n. 102685 del 12/12/2013 e n. 102702 
+del 19/12/2013 non vengono riportate in quanto superate dall’Appendice (n. 1236310 del 19/12/2016) di 
+seguito riportata.
+Le stesse sono comunque a disposizione su richiesta dell’aderente unitamente ai fascicoli informativi di 
+seguito richiamati. 
+Appendice 1
+(rif. n. 1236310 del 19/12/2016)
+Con la presente Appendice, che forma parte integrante della Convenzione n. 85011.19 del 04/12/2008 e 
+successive Appendici n. 9275 del 03/05/2010, n. 101881 del 28/11/2012, n. 102685 del 12/12/2013 e n. 102702 
+del 19/12/2013 (di seguito la “Convenzione”), le Parti prendono reciprocamente atto che, a decorrere dal 
+01/01/2017:
+1. Il rapporto assicurativo è regolato dalle norme della Convenzione nonché dalle Condizioni di 
+Assicurazione contenute nel Fascicolo Informativo mod. n. 1.11786.3 ed. 12/2016 e dalle Condizioni 
+Integrative che disciplinano l’opzione F riportate in allegato 1 al sopracitato Fascicolo Informativo, che 
+il Contraente dichiara di conoscere ed accettare, per quanto non derogato dalla Convenzione stessa e 
+relative appendici. 
+2. La descrizione dell’opzione D riportata al comma 1 bis dell’Art. 1 “Oggetto della Convenzione. 
+Prestazioni assicurate” è annullata e sostituita dal seguente testo: 
+ “Opzione D ”rendita reversibile”: rendita annua erogabile finché l’Assicurato è in vita e successivamente, 
+nella percentuale di reversibilità stabilita (100%, 80% o 60%), finché la persona preventivamente designata 
+quale secondo Assicurato è in vita.”
+3. La descrizione dell’opzione E riportata al comma 1 bis dell’Art. 1 “Oggetto della Convenzione. 
+Prestazioni assicurate” è annullata e sostituita dal seguente testo: 
+ “Opzione E “rendita controassicurata”: rendita annua erogabile finché l’Assicurato è in vita e, al suo decesso, 
+il pagamento di un capitale pari alla differenza - se positiva - fra i seguenti due importi:
+	z il premio versato dal Contraente per la posizione individuale;
+	z la rata di rendita in vigore moltiplicata per il numero delle rate già scadute.”
+4. Il comma 2 dell’Art. 1 “Oggetto della Convenzione. Prestazioni assicurate” è annullato e sostituito dal 
+seguente testo: 
+“2. L’importo annuo di ciascuna rendita si ottiene moltiplicando il premio versato alla SOCIETÀ, al netto delle 
+imposte ove previste, per i coefficienti indicati nelle Tabelle A quater), B quater), C quater), D quater), E quater), 
+F quater) allegate alla presente Appendice, con i criteri ivi previsti, in funzione dell’opzione di rendita scelta.
+ In ciascuna delle Tabelle sopra elencate è riportato il dettaglio del meccanismo di age shifting da 
+utilizzare.
+ In considerazione del fatto che l’ammontare della rendita vitalizia reversibile di cui alla sopracitata 
+opzione D) dipende dall’età dell’Assicurato principale e del secondo Assicurato, nonché dalla percentuale 
+di reversibilità, nell’allegata Tabella D quater) sono esposti i coefficienti da utilizzare in relazione solo 
+ad alcune posizioni tipiche ed in funzione dei parametri esposti nella stessa Tabella D quater), fermo 
+restando il fatto che per diverse combinazioni dei parametri di riferimento il conteggio avverrà secondo 
+criteri attuariali utilizzando basi tecniche identiche.”
+5. Il comma 2.bis dell’Art. 1 “Oggetto della Convenzione. Prestazioni assicurate” è annullato e sostituito 
+dal seguente testo:
+=== pagina 33 ===
+33 di 65
+Arti & Mestieri  Regolamento
+ “La rata di rendita in pagamento, come quantificata al precedente comma 2, viene periodicamente 
+rivalutata secondo quanto previsto all’Art. 5 delle Condizioni di Assicurazione del Fascicolo Informativo 
+modello n. 1.11786.3 - Ed.12/2016, con misura annua di rivalutazione ottenuta in base al rendimento 
+attribuito di cui al punto a) del citato Art. 5.“
+6. L’Art. 3 “Caricamenti e spese di erogazione” è annullato e sostituito dal seguente testo:
+“1. Le prestazioni pattuite saranno corrisposte senza applicazione di alcun caricamento frontale sul premio 
+versato eccezion fatta per l’opzione F dove il caricamento presente nel premio di tariffa, a fronte 
+della sola componente relativa alla copertura assicurativa per non autosufficienza per l’intera vita 
+dell’Assicurato, è pari al 4,90% del rispettivo premio unico.
+ 2. Per le spese di erogazione delle rendite, la SOCIETÀ applica, in funzione della rateazione prescelta 
+dall’Assicurato, un caricamento pari a:
+	z 0,90% del valor capitale della rendita per la rateazione annuale;
+	z 1,00% del valor capitale della rendita per la rateazione semestrale;
+	z 1,20% del valor capitale della rendita per la rateazione trimestrale;
+	z 2,00% del valor capitale della rendita per la rateazione mensile.” 
+7. L’Art. 4 “Basi demografiche” è annullato e sostituito dal seguente testo:
+ “La SOCIETÀ, per l’elaborazione dei coefficienti di conversione in rendita di cui al comma 1 bis del 
+precedente Articolo 1, ha adottato le seguenti tavole di mortalità:
+ - A62 per impegni immediati indifferenziata per sesso (composizione 40% maschi 60% femmine) per 
+le rendite di cui alle lettere A), B), C), D), E) ed in relazione alla garanzia di rendita vitalizia immediata 
+rivalutabile di cui alla lettera F).
+ - relativamente alla garanzia legata alla perdita dell’autosufficienza (LTC), di cui alla lettera F), 
+sono utilizzate basi tecniche basate su studi condotti dal mercato riassicurativo, in particolare su 
+portafogli assicurativi del mercato francese e israeliano.” 
+8. Il comma 2 dell’Art. 6 “Obblighi di Comunicazione” viene così sostituito:
+ “Nel solo caso di esercizio dell’opzione F) di cui al comma 1 bis del precedente Art. 1, il FONDO PENSIONE, 
+all’atto dell’inserimento di ciascun aderente in Convenzione, fornirà inoltre un questionario sanitario su 
+modello fornito dalla Società compilato e sottoscritto dall’aderente stesso per valutarne l’assumibilità.”
+9. L’Art. 7 “Pagamento della rendita” è annullato e sostituito dal seguente testo:
+“1. A modifica e integrazione di quanto indicato all’Art. 3 delle Condizioni di Assicurazione contenute nel 
+Fascicolo Informativo modello n. 1.11786.3 - Ed.12/2016 resta pattuito che in ogni caso le garanzie 
+entrano in vigore alle ore 24 della data di decorrenza (decorrenza) indicata nella scheda di polizza e la 
+rendita sarà erogata in via posticipata secondo la rateazione richiesta, come previsto dal comma 3 del 
+sopracitato Articolo 1. 
+2. Le rate di rendita dovute sono quelle che scadono prima della data di decesso dell’Assicurato (o del 
+secondo Assicurato, con l’Opzione D), fermo restando il periodo minimo di corresponsione previsto 
+con le Opzioni B e C. Viene corrisposto anche il rateo di rendita maturato al momento del decesso 
+dell’Assicurato, relativo al tempo trascorso dall’ultima scadenza di rata precedente il decesso o, se non è 
+ancora scaduta la prima rata di rendita, dalla decorrenza della posizione individuale.
+3. Le prestazioni oggetto della presente Convenzione sono erogate agli aventi diritto.”
+10. Fermo il contenuto dell’Art. 8 “Pagamenti della Società”, il riferimento all’Art. 7 delle Condizioni di 
+Assicurazioni in esso contenuto deve intendersi sostituito con l’Art. 6 delle Condizioni di Assicurazione 
+del Fascicolo Informativo modello 1.11786.3 - Ed.12/2016.
+11. Il comma 1 dell’Art. 10 “Decorrenza e durata” è annullato e sostituito dal seguente paragrafo:
+ “1. La Convenzione decorre dal 12/12/2008 e scade il 31/12/2021.”
+12. L’Art. 13 “Tasso massimo di interesse garantito” è annullato e sostituito dal seguente testo:
+=== pagina 34 ===
+34 di 65
+Arti & Mestieri  Regolamento
+ “Nel corso di esecuzione del contratto verranno applicate le modifiche concernenti: (i) le basi tecniche (basi 
+demografiche e finanziarie) delle condizioni tariffarie, ivi inclusi il tasso di interesse garantito, e i coefficienti 
+di conversione e (ii) le condizioni contrattuali, in entrambi i casi solo se conseguenti a sopravvenute 
+disposizione di legge e/o ad adeguamenti a provvedimenti dell’IVASS o di altra Autorità di Controllo. Tali 
+modifiche, ove i termini di adeguamento non siano imperativamente stabiliti dalle disposizioni o dai 
+provvedimenti di cui sopra, avranno effetto e si applicheranno, relativamente agli aderenti non ancora 
+inseriti nella presente Convenzione, a partire dal secondo mese successivo alla comunicazione delle stesse, a 
+mezzo lettera raccomandata o PEC, al Contraente da parte della Società.”
+13. L’Art. 17 “Clausola transitoria” viene annullato e sostituito dal seguente Articolo:
+“1. In caso di esercizio delle prestazioni pensionistiche entro il 31 dicembre 2019 da parte degli aderenti al 
+Fondo Pensione Aperto ARTI & MESTIERI già in essere alla data del 31/12/2016, la SOCIETÀ si impegna 
+a mantenere tutte le opzioni e relativi coefficienti di conversione indicati nell’Appendice n. 102702 alla 
+Convenzione rispettivamente nelle Tabelle A ter), B ter), C ter), D ter), E ter), F ter) allegate alla stessa.”
+2. In relazione al precedente punto 1., le Parti si danno reciprocamente atto del fatto che la rivalutazione 
+delle prestazioni avverà secondo quanto previsto all’Art. 5 delle Condizioni di Assicurazione del Fascicolo 
+Informativo mod. 1.11754.9F ed. 12/2013.
+14. Salvo quanto stabilito al precedente punto 13., le Tabelle A ter), B ter), C ter), D ter), E ter), F ter) di 
+cui all’Appendice n. 102702 alla Convenzione e contenenti i coefficienti di conversione per le opzioni 
+di rendita consentite, sono annullate e sostituite dalle corrispondenti Tabelle A quater), B quater), C 
+quater), D quater), E quater), F quater) riportate in allegato 1 presente Appendice.
+Fermo il resto.
+La presente Appendice è stata emessa in Firenze il 19/12/2016 ed ha effetto a decorrere dalle ore 00:00 
+del 01/01/2017.
+Luogo e data sottoscrizione: Firenze, 19/12/2016
+ Anima SGR S.p.A. UNIPOLSAI ASSICURAZIONI S.p.A.
+=== pagina 35 ===
+35 di 65
+Arti & Mestieri  Regolamento
+Appendice 2
+(rif. n. 4311220 del 24/01/2022)
+Premesso che:
+	z il Contraente ha stipulato in data 04/12/2008 la Convenzione n. 85011.19, modificata dalle successive 
+Appendici, (di seguito la “Convenzione”) per la gestione delle rendite immediate degli aderenti al Fondo 
+Pensione Aperto Arti & Mestieri;
+	z è intendimento delle Parti modificare la suddetta Convenzione mediante la stipula della presente 
+Appendice, nelle sole parti indicate nell’Appendice medesima che costituirà parte integrante e sostanziale 
+della Convenzione,
+le Parti prendono reciprocamente atto che il comma 1 dell’Art. 10 “Decorrenza e durata” è annullato e 
+sostituito dal seguente paragrafo:
+“1. La Convenzione decorre dal 12/12/2008 e scade il 31/12/2023.”
+Fermo il resto.
+La presente Appendice è stata emessa in Firenze il 24/01/2022 ed ha effetto a decorrere dalle ore 00:00 
+del 30/12/2021.
+ Anima SGR S.p.A. UNIPOLSAI ASSICURAZIONI S.p.A.
+=== pagina 36 ===
+36 di 65
+Arti & Mestieri  Regolamento
+Appendice 3
+(rif. n. 4831484 del 22/11/2023)
+Premesso che:
+	z il Contraente ha stipulato in data 04/12/2008 la Convenzione n. 85011.19, modificata dalle successive 
+Appendici, (di seguito la “Convenzione”) per la gestione delle rendite immediate degli aderenti al Fondo 
+Pensione Aperto Arti & Mestieri;
+	z è intendimento delle Parti modificare la suddetta Convenzione mediante la stipula della presente 
+Appendice, nelle sole parti indicate nell’Appendice medesima che costituirà parte integrante e sostanziale 
+della Convenzione,
+le Parti prendono reciprocamente atto che il comma 1 dell’Art. 10 “Decorrenza e durata” è annullato e 
+sostituito dal seguente paragrafo:
+“1. La Convenzione decorre dal 12/12/2008 e scade il 31/12/2024.”
+Fermo il resto.
+La presente Appendice è stata emessa in Firenze il 22/11/2023 ed ha effetto a decorrere dalle ore 00:00 
+del 30/12/2023.
+ Anima SGR S.p.A. UNIPOLSAI ASSICURAZIONI S.p.A.
+=== pagina 37 ===
+37 di 65
+Arti & Mestieri  Regolamento
+Appendice 4
+Appendice protocollo n. 5052254 del 16/12/2024 alla Convenzione n. 85011.19
+Premesso che:
+	z il Contraente ha stipulato in data 04/12/2008 la Convenzione n. 85011.19, modificata dalle successive 
+Appendici, (di seguito la “Convenzione”) per la gestione delle rendite immediate degli aderenti al Fondo 
+Pensione Aperto Arti & Mestieri;
+	z è intendimento delle Parti modificare la suddetta Convenzione mediante la stipula della presente 
+Appendice, nelle sole parti indicate nell’Appendice medesima che costituirà parte integrante e sostanziale 
+della Convenzione,
+le Parti prendono reciprocamente atto che il comma 1 dell’Art. 10 “Decorrenza e durata” è annullato e 
+sostituito dal seguente paragrafo:
+“1. La Convenzione decorre dal 12/12/2008 e scade il 31/12/2025.”
+Fermo il resto.
+La presente Appendice è stata emessa in Firenze il 16/12/2024 ed ha effetto a decorrere dalle ore 00:00 
+del 30/12/2024.
+ Anima SGR S.p.A. UNIPOLSAI ASSICURAZIONI S.p.A.
+=== pagina 38 ===
+38 di 65
+Arti & Mestieri  Regolamento
+Appendice 5
+Appendice protocollo n. 5094234 del 06/11/2025 alla Convenzione n. 85011.19
+Premesso che:
+	z il Contraente ha stipulato in data 04/12/2008 la Convenzione n. 85011.19, modificata dalle successive 
+Appendici, (di seguito la “Convenzione”) per la gestione delle rendite immediate degli aderenti al Fondo 
+Pensione Aperto Arti & Mestieri;
+	z è intendimento delle Parti modificare la suddetta Convenzione mediante la stipula della presente 
+Appendice, nelle sole parti indicate nell’Appendice medesima che costituirà parte integrante e sostanziale 
+della Convenzione,
+le Parti prendono reciprocamente atto che:
+I. al comma 1.bis dell’Art. 1 “Oggetto della Convenzione. Prestazioni assicurate”  viene aggiunto il 
+seguente paragrafo:
+ “Possono essere inclusi in assicurazione i soggetti con età non inferiore a 50 anni (40 anni per il secondo 
+Assicurato con l’Opzione D), nonché quelli che non hanno superato gli 85 anni di età (80 per coloro che 
+optano per l’Opzione F). Il limite di 85 anni di età non si applica alle Opzioni A) e B).”
+II. il comma 1 dell’Art. 10 “Decorrenza e durata”  è annullato e sostituito dal seguente paragrafo:
+ “1. La Convenzione decorre dal 12/12/2008 e scade il 31/12/2026.”
+Fermo il resto.
+La presente Appendice è stata emessa in Firenze il 06/11/2025 ed ha effetto a decorrere dalle ore 00:00 
+del 01/10/2025.
+ Anima SGR S.p.A. UNIPOL ASSICURAZIONI S.p.A.
+=== pagina 39 ===
+39 di 65
+Arti & Mestieri  Regolamento
+Allegato 1
+Coefficienti di conversione in rendita 
+Avvertenze sulle modalità di calcolo
+L’età assicurativa  indicata nelle tabelle dei coefficienti di trasformazione in rendita si determina, all’atto 
+dell’esercizio dell’opzione, applicando all’età raggiunta dall’Assicurato la seguente correzione in funzione 
+dell’anno di nascita.
+Età assicurativa = età effettiva + detta
+anno di nascita (a) detta
+a ≤ 1907 7
+1907 < a ≤ 1917 6
+1917 < a ≤ 1921 5
+1921 < a ≤ 1926 4
+1926 < a ≤ 1938 3
+1938 < a ≤ 1947 2
+1947 < a ≤ 1957 1
+1957 < a ≤ 1966 0
+1966 < a ≤ 1977 -1
+1977 < a ≤ 1989 -2
+1989 < a ≤ 2001 -3
+2001 < a ≤ 2014 -4
+2014 < a ≤ 2020 -5
+a ≥ 2021 -6
+Se l’età assicurativa non è intera, la prestazione annua si ottiene interpolando linearmente fra i 
+coefficienti di trasformazione relativi alle due età intere che la comprendono, cioè aggiungendo al minore 
+dei due coefficienti tanti dodicesimi della differenza rispetto al maggiore, per quanti sono i mesi compiuti 
+dall’Assicurato.
+Tabella A 
+Omissis
+Tabella A-bis 
+Omissis
+=== pagina 40 ===
+40 di 65
+Arti & Mestieri  Regolamento
+Tabella A-ter 
+Opzione A
+Coefficienti di conversione in rendita annua vitalizia immediata rivalutabile  
+a premio unico, pagabile secondo la rateazione prescelta
+Tavola di mortalità: IPS55U per impegni immediati - Tasso tecnico: 1,5%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+50 34,65060 34,34916 34,20039 34,10193 50
+51 35,32059 35,00743 34,85292 34,75067 51
+52 36,02542 35,69969 35,53903 35,43272 52
+53 34,76737 36,42816 36,26088 36,15022 53
+54 37,54905 37,19533 37,02095 36,90561 54
+55 38,37372 38,00437 37,82234 37,70196 55
+56 39,24522 38,85898 38,66870 38,54288 56
+57 40,16782 39,76330 39,56409 39,43238 57
+58 41,14642 40,72205 40,51313 40,37504 58
+59 42,18590 41,73994 41,52047 41,37544 59
+60 43,29110 42,82160 42,59065 42,43806 60
+61 44,46754 43,97232 43,72882 43,56798 61
+62 45,71858 45,19526 44,93807 44,76823 62
+63 47,04978 46,49573 46,22357 46,04390 63
+64 48,46948 47,88170 47,59312 47,40266 64
+65 49,98708 49,36216 49,05552 48,85320 65
+66 51,60601 50,94022 50,61372 50,39838 66
+67 53,34387 52,63279 52,28431 52,05455 67
+68 55,21088 54,44951 54,07665 53,83089 68
+69 57,22016 56,40278 56,00278 55,73925 69
+70 59,38534 58,50540 58,07514 57,79180 70
+Tavola IPS55U per impegni immediati
+Anno di nascita 
+ 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo:
+fino al 1926 aumento di 3 anni
+dal 1927 al 1939 aumento di 2 anni
+dal 1940 al 1948 aumento di 1 anno
+dal 1949 al 1960 invariata
+dal 1961 al 1970 riduzione di 1 anno
+dal 1971 riduzione di 2 anni
+=== pagina 41 ===
+41 di 65
+Arti & Mestieri  Regolamento
+Tabella A-quater 
+Opzione A
+Coefficienti di conversione in rendita vitalizia immediata rivalutabile  
+a premio unico
+Tavola di mortalità: A62U per impegni immediati - Tasso tecnico: 0%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+45 22,01363 21,87039 21,76707 21,55678 45
+46 22,49577 22,34669 22,23978 22,02404 46
+47 22,99849 22,84319 22,73249 22,51104 47
+48 23,52311 23,36120 23,24647 23,01901 48
+49 24,07079 23,90183 23,78282 23,54906 49
+50 24,64389 24,46739 24,34384 24,10342 50
+51 25,24364 25,05908 24,93068 24,68325 51
+52 25,87176 25,67857 25,54500 25,29017 52
+53 26,53019 26,32773 26,18865 25,92599 53
+54 27,22090 27,00850 26,86352 26,59258 54
+55 27,94632 27,72321 27,57192 27,29221 55
+56 28,70974 28,47510 28,31702 28,02800 56
+57 29,51450 29,26738 29,10201 28,80306 57
+58 30,36425 30,10361 29,93036 29,62085 58
+59 31,26318 30,98785 30,80609 30,48527 59
+60 32,21513 31,92382 31,73283 31,39992 60
+61 33,22446 32,91570 32,71470 32,36881 61
+62 34,29650 33,96867 33,75678 33,39694 62
+63 35,43623 35,08751 34,86372 34,48888 63
+64 36,64897 36,27731 36,04055 35,64953 64
+65 37,94410 37,54716 37,29616 36,88761 65
+66 39,33093 38,90599 38,63931 38,21174 66
+67 40,81837 40,36237 40,07837 39,63008 67
+68 42,41713 41,92653 41,62335 41,15244 68
+69 44,13938 43,61012 43,28561 42,78992 69
+70 45,99824 45,42562 45,07733 44,55441 70
+71 48,00820 47,38681 47,01191 46,45899 71
+72 50,18589 49,50944 49,10467 48,51861 72
+73 52,54801 51,80924 51,37084 50,74807 73
+74 55,11443 54,30488 53,82852 53,16499 74
+75 57,90852 57,01829 56,49890 55,78995 75
+76 60,95748 59,97492 59,40657 58,64682 76
+77 64,29190 63,20323 62,57898 61,76222 77
+78 67,94336 66,73238 66,04408 65,16314 78
+79 71,93588 70,58386 69,82216 68,86901 79
+80 76,30201 74,78703 73,94109 72,90653 80
+=== pagina 42 ===
+42 di 65
+Arti & Mestieri  Regolamento
+Tabella B 
+Omissis
+Tabella B-bis 
+Omissis
+=== pagina 43 ===
+43 di 65
+Arti & Mestieri  Regolamento
+Tabella B-ter 
+Opzione B
+Coefficienti di conversione in rendita annua vitalizia immediata rivalutabile  
+a premio unico, pagabile in modo certo per i primi 5 anni secondo  
+la rateazione prescelta
+Tavola di mortalità: IPS55U per impegni immediati - Tasso tecnico: 1,5%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+50 34,62924 34,32998 34,18228 34,08451 50
+51 35,29664 34,98593 34,83261 34,73115 51
+52 35,99848 35,67551 35,51619 35,41077 52
+53 36,73707 36,40096 36,23520 36,12553 53
+54 37,51506 37,16482 36,99215 36,87792 54
+55 38,33565 37,97021 37,79010 37,67097 55
+56 39,20251 38,82070 38,63257 38,50816 56
+57 40,11963 39,72016 39,52339 39,39329 57
+58 41,09142 40,67288 40,46679 40,33056 58
+59 42,12235 41,68319 41,46702 41,32416 59
+60 43,21690 42,75539 42,52830 42,37825 60
+61 44,37993 43,89419 43,65529 43,49747 61
+62 45,61497 45,10291 44,85117 44,68490 62
+63 46,92739 46,38669 46,12099 45,94554 63
+64 48,32472 47,75279 47,47187 47,28642 64
+65 49,81522 49,20920 48,91168 48,71533 65
+66 51,40285 50,75959 50,44396 50,23571 66
+67 53,10205 52,41799 52,08253 51,86127 67
+68 54,92214 54,19320 53,83594 53,60037 68
+69 56,87499 56,09650 55,71519 55,46385 69
+70 58,97283 58,13959 57,73174 57,46300 70
+Tavola IPS55U per impegni immediati
+Anno di nascita 
+ 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo:
+fino al 1926 aumento di 3 anni
+dal 1927 al 1939 aumento di 2 anni
+dal 1940 al 1948 aumento di 1 anno
+dal 1949 al 1960 invariata
+dal 1961 al 1970 riduzione di 1 anno
+dal 1971 riduzione di 2 anni
+=== pagina 44 ===
+44 di 65
+Arti & Mestieri  Regolamento
+Tabella B-quater 
+Opzione B
+Coefficienti di conversione in rendita vitalizia immediata rivalutabile  
+a premio unico, pagabile in modo certo per i primi 5 anni
+Tavola di mortalità: A62U per impegni immediati - Tasso tecnico: 0%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+45 22,00724 21,86463 21,76162 21,55157 45
+46 22,48859 22,34021 22,23366 22,01820 46
+47 22,99043 22,83594 22,72563 22,50449 47
+48 23,51407 23,35306 23,23878 23,01167 48
+49 24,06068 23,89272 23,77422 23,54085 49
+50 24,63247 24,45711 24,33413 24,09415 50
+51 25,23071 25,04744 24,91969 24,67276 51
+52 25,85714 25,66540 25,53257 25,27830 52
+53 26,51368 26,31287 26,17462 25,91259 53
+54 27,20237 26,99181 26,84777 26,57753 54
+55 27,92563 27,70460 27,55434 27,27542 55
+56 28,68668 28,45435 28,29744 28,00930 56
+57 29,48874 29,24422 29,08015 28,78220 57
+58 30,33535 30,07765 29,90587 29,59748 58
+59 31,23048 30,95850 30,77841 30,45887 59
+60 32,17790 31,89042 31,70135 31,36989 60
+61 33,18191 32,87755 32,67875 32,33452 61
+62 34,24770 33,92492 33,71555 33,35763 62
+63 35,38020 35,03730 34,81643 34,44378 63
+64 36,58484 36,21990 35,98648 35,59799 64
+65 37,87032 37,48116 37,23404 36,82843 65
+66 39,24525 38,82945 38,56731 38,14316 66
+67 40,71801 40,27282 39,99419 39,54994 67
+68 42,29833 41,82068 41,52392 41,05783 68
+69 43,99702 43,48346 43,16673 42,67686 69
+70 45,82554 45,27220 44,93344 44,41764 70
+71 47,79634 47,19885 46,83575 46,29164 71
+72 49,92330 49,27675 48,88672 48,31164 72
+73 52,22000 51,51895 51,09912 50,49015 73
+74 54,70148 53,93999 53,48723 52,84120 74
+75 57,38409 56,55568 56,06660 55,38006 75
+76 60,28510 59,38279 58,85372 58,12294 76
+77 63,42148 62,43788 61,86493 61,08593 77
+78 66,80811 65,73539 65,11447 64,28302 78
+79 70,45151 69,28183 68,60879 67,72064 79
+80 74,35814 73,08416 72,35513 71,40610 80
+=== pagina 45 ===
+45 di 65
+Arti & Mestieri  Regolamento
+Tabella C 
+Omissis
+Tabella C-bis 
+Omissis
+=== pagina 46 ===
+46 di 65
+Arti & Mestieri  Regolamento
+Tabella C-ter 
+Opzione C
+Coefficienti di conversione in rendita annua vitalizia immediata rivalutabile  
+a premio unico, pagabile in modo certo per i primi 10 anni secondo  
+la rateazione prescelta
+Tavola di mortalità: IPS55U per impegni immediati - Tasso tecnico: 1,5%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+50 34,56555 34,26965 34,12360 34,02691 50
+51 35,22542 34,91849 34,76703 34,66678 51
+52 35,91863 35,59995 35,44272 35,33867 52
+53 36,64721 36,31600 36,15263 36,04453 53
+54 37,41345 37,06887 36,89895 36,78653 54
+55 38,22012 37,86126 37,68434 37,56731 55
+56 39,07021 38,69609 38,51171 38,38976 56
+57 39,96712 39,57667 39,38429 39,25707 57
+58 40,91456 40,50660 40,30566 40,17280 58
+59 41,91618 41,48945 41,27932 41,14042 59
+60 42,97551 42,52866 42,30870 42,16331 60
+61 44,09639 43,62796 43,39746 43,24514 61
+62 45,28140 44,78986 44,54807 44,38832 62
+63 46,53473 46,01834 45,76441 45,59668 63
+64 47,86218 47,31901 47,05203 46,87570 64
+65 49,26981 48,69784 48,41681 48,23124 65
+66 50,76044 50,15752 49,86140 49,66592 66
+67 52,34342 51,70739 51,39514 51,18905 67
+68 54,02310 53,35185 53,02244 52,80508 68
+69 55,80376 55,09535 54,74785 54,51860 69
+70 57,68831 56,94099 56,57455 56,33286 70
+Tavola IPS55U per impegni immediati
+Anno di nascita 
+ 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo:
+fino al 1926 aumento di 3 anni
+dal 1927 al 1939 aumento di 2 anni
+dal 1940 al 1948 aumento di 1 anno
+dal 1949 al 1960 invariata
+dal 1961 al 1970 riduzione di 1 anno
+dal 1971 riduzione di 2 anni
+=== pagina 47 ===
+47 di 65
+Arti & Mestieri  Regolamento
+Tabella C-quater 
+Opzione C
+Coefficienti di conversione in rendita vitalizia immediata rivalutabile 
+a premio unico, pagabile in modo certo per i primi 10 anni
+Tavola di mortalità: A62U per impegni immediati - Tasso tecnico: 0%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+45 21,98700 21,84542 21,74294 21,53336 45
+46 22,46587 22,31866 22,21271 21,99777 46
+47 22,96493 22,81174 22,70211 22,48156 47
+48 23,48544 23,32589 23,21237 22,98593 48
+49 24,02859 23,86228 23,74463 23,51200 49
+50 24,59650 24,42297 24,30094 24,06180 50
+51 25,19042 25,00920 24,88251 24,63651 51
+52 25,81205 25,62261 25,49096 25,23774 52
+53 26,46324 26,26500 26,12809 25,86724 53
+54 27,14590 26,93826 26,79573 26,52682 54
+55 27,86234 27,64463 27,49608 27,21866 55
+56 28,61557 28,38701 28,23204 27,94560 56
+57 29,40860 29,16838 29,00652 28,71050 57
+58 30,24471 29,99192 29,82267 29,51647 58
+59 31,12759 30,86123 30,68403 30,36699 59
+60 32,06069 31,77967 31,59392 31,26532 60
+61 33,04785 32,75098 32,55602 32,21510 61
+62 34,09357 33,77955 33,57466 33,22058 62
+63 35,20205 34,86948 34,65388 34,28575 63
+64 36,37772 36,02508 35,79794 35,41477 64
+65 37,62733 37,25299 37,01341 36,61415 65
+66 38,95732 38,55950 38,30650 37,89001 66
+67 40,37353 39,95036 39,68289 39,24795 67
+68 41,88233 41,43184 41,14882 40,69413 68
+69 43,48989 43,01013 42,71047 42,23469 69
+70 45,20170 44,69076 44,37339 43,87515 70
+71 47,02241 46,47851 46,14239 45,62034 71
+72 48,95564 48,37725 48,02148 47,47430 72
+73 51,00278 50,38866 50,01247 49,43893 73
+74 53,16348 52,51296 52,11584 51,51487 74
+75 55,43434 54,74763 54,32951 53,70034 75
+76 57,80864 57,08691 56,64819 55,99037 76
+77 60,27578 59,52122 59,06281 58,37631 77
+78 62,81790 62,03445 61,55811 60,84354 78
+79 65,40734 64,60082 64,10927 63,36802 79
+80 68,01024 67,18897 66,68619 65,92068 80
+=== pagina 48 ===
+48 di 65
+Arti & Mestieri  Regolamento
+Tabella D 
+Omissis
+Tabella D-bis 
+Omissis
+=== pagina 49 ===
+49 di 65
+Arti & Mestieri  Regolamento
+Tabella D-ter 
+Opzione D
+Rendita annua vitalizia immediata rivalutabile a premio unico pagabile 
+secondo la rateazione prescelta finché l’Assicurato e la persona 
+preventivamente designata sono entrambi in vita, e successivamente 
+reversibile in misura percentuale prestabilita sulla testa superstite
+Tavola di mortalità: IPS55U per impegni immediati - Tasso tecnico: 1,5%
+Esempi per un aderente con reversibilità su testa coetanea
+1° esempio
+Età assicurativa di entrambe le teste: 60 anni
+Reversibilità sull’Assicurato 100% 
+Reversibilità sulla seconda testa 60%
+Coefficienti di Conversione (x1000): 39,73517
+Rateazione prescelta: Annuale
+Premio unico Euro 50.000
+Rendita inizialmente assicurata su entrambe le teste Euro 1.986,76 
+2° esempio
+Età assicurativa di entrambe le teste: 65 anni
+Reversibilità sull’Assicurato 100% 
+Reversibilità sulla seconda testa 60%
+Coefficienti di Conversione (x1000): 45,26407
+Rateazione prescelta: Annuale
+Premio unico Euro 50.000
+Rendita inizialmente assicurata su entrambe le teste Euro 2.263,20 
+Tavola IPS55U per impegni immediati
+Anno di nascita 
+ 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo:
+fino al 1926 aumento di 3 anni
+dal 1927 al 1939 aumento di 2 anni
+dal 1940 al 1948 aumento di 1 anno
+dal 1949 al 1960 invariata
+dal 1961 al 1970 riduzione di 1 anno
+dal 1971 riduzione di 2 anni
+=== pagina 50 ===
+50 di 65
+Arti & Mestieri  Regolamento
+Tabella D-quater 
+Opzione D
+Rendita annua erogabile finché l’Assicurato e successivamente, nella 
+percentuale di reversibilità stabilita, finché la persona preventivamente 
+designata quale secondo Assicurato è in vita
+Tavola di mortalità: A62U per impegni immediati - Tasso tecnico: 0%
+Esempi per un aderente con reversibilità su testa coetanea, rateazione annuale
+1° esempio
+Età assicurativa di entrambe le teste: 60 anni
+Percentuale di reversibilità 100% 
+Coefficienti di Conversione (x1000): 27,74093
+Premio unico Euro 50.000
+Rendita inizialmente assicurata Euro 1.387 
+2° esempio
+Età assicurativa di entrambe le teste: 65 anni
+Percentuale di reversibilità 100% 
+Coefficienti di Conversione (x1000): 32,12811
+Premio unico Euro 50.000
+Rendita inizialmente assicurata Euro 1.606
+=== pagina 51 ===
+51 di 65
+Arti & Mestieri  Regolamento
+Tabella E 
+Omissis
+Tabella E-bis 
+Omissis
+=== pagina 52 ===
+52 di 65
+Arti & Mestieri  Regolamento
+Tabella E-ter 
+Opzione E
+Coefficienti di conversione in rendita annua vitalizia immediata rivalutabile  
+a premio unico con contrassicurazione decrescente pagabile secondo  
+la rateazione prescelta
+Tavola di mortalità: IPS55U per impegni immediati - Tasso tecnico: 1,5%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+50 33,26562 32,98714 32,84964 32,75861 50
+51 33,82011 33,53230 33,39023 33,30420 51
+52 34,40145 34,10363 33,95664 33,85935 52
+53 35,00394 34,69563 34,54351 34,45266 53
+54 35,63684 35,31724 35,15957 35,05524 54
+55 36,29284 35,96141 35,79795 35,70222 55
+56 36,98386 36,63962 36,46989 36,35760 56
+57 37,69970 37,34205 37,16576 37,04916 57
+58 38,45658 38,08433 37,90090 37,77959 58
+59 39,23906 38,85158 38,66070 38,53448 59
+60 40,06850 39,66636 39,46730 39,33570 60
+61 40,92766 40,50605 40,29849 40,16129 61
+62 41,83855 41,40369 41,18671 41,04332 62
+63 42,78523 42,32439 42,09768 41,94788 63
+64 43,78786 43,31717 43,07955 42,92257 64
+65 44,83498 44,32879 44,07995 43,91561 65
+66 45,94128 45,43159 45,17003 44,99732 66
+67 47,10446 46,54553 46,27100 46,08978 67
+68 48,32820 47,74000 47,48701 47,29595 68
+69 49,62603 49,00535 48,70080 48,49986 69
+70 50,98280 50,32791 50,00673 49,85085 70
+Tavola IPS55U per impegni immediati
+Anno di nascita 
+ 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo:
+fino al 1926 aumento di 3 anni
+dal 1927 al 1939 aumento di 2 anni
+dal 1940 al 1948 aumento di 1 anno
+dal 1949 al 1960 invariata
+dal 1961 al 1970 riduzione di 1 anno
+dal 1971 riduzione di 2 anni
+=== pagina 53 ===
+53 di 65
+Arti & Mestieri  Regolamento
+Tabella E-quater 
+Opzione E
+Coefficienti di conversione in rendita vitalizia immediata rivalutabile  
+a premio unico con contrassicurazione decrescente
+Tavola di mortalità: A62U per impegni immediati - Tasso tecnico: 0%  ( Valori per 1000)
+Rateazione della rendita
+annuale semestrale trimestrale mensile
+Età 
+assicurativa
+Età 
+assicurativa
+45 20,48111 20,35005 20,24371 20,00061 45
+46 20,87320 20,73660 20,62693 20,37684 46
+47 21,27960 21,13707 21,02390 20,76643 47
+48 21,70007 21,55219 21,43534 21,17008 48
+49 22,13620 21,98275 21,86203 21,58851 49
+50 22,58891 22,42958 22,30479 22,02251 50
+51 23,05913 22,89357 22,76450 22,47292 51
+52 23,54784 23,37569 23,24764 22,94062 52
+53 24,05612 23,87699 23,74290 23,42660 53
+54 24,58512 24,39859 24,25791 23,93189 54
+55 25,13610 24,94483 24,79383 24,45762 55
+56 25,71037 25,50860 25,35187 25,00496 56
+57 26,30914 26,09611 25,93332 25,58295 57
+58 26,93132 26,70877 26,53955 26,17543 58
+59 27,58078 27,34807 27,17204 26,79309 59
+60 28,25918 28,01564 27,83239 27,43741 60
+61 28,96834 28,71324 28,53209 28,10997 61
+62 29,71022 29,44274 29,24974 28,81245 62
+63 30,48694 30,21163 29,99994 29,54670 63
+64 31,30088 31,00588 30,78475 30,31472 64
+65 32,14993 31,83746 31,60628 31,13149 65
+66 33,03753 32,70867 32,46677 31,96793 66
+67 33,96846 33,62197 33,36866 32,84331 67
+68 34,94548 34,58004 34,32734 33,75988 68
+69 35,97159 35,59492 35,31041 34,72001 69
+70 37,05003 36,63941 36,34071 35,72621 70
+71 38,16980 37,73483 37,42101 36,79929 71
+72 39,34470 38,88423 38,55427 37,89285 72
+73 40,57900 40,09102 39,76216 39,03758 73
+74 41,87666 41,36597 40,99162 40,23623 74
+75 43,22811 42,67352 42,27924 41,52649 75
+76 44,63266 44,04377 43,62830 42,81840 76
+77 46,10631 45,48047 45,06468 44,16648 77
+78 47,65391 46,98354 46,50931 45,57335 78
+79 49,23222 48,51727 48,01747 47,07322 79
+80 50,88122 50,12096 49,63182 48,55921 80
+=== pagina 54 ===
+54 di 65
+Arti & Mestieri  Regolamento
+Tabella F 
+Omissis
+Tabella F-bis 
+Omissis
+=== pagina 55 ===
+55 di 65
+Arti & Mestieri  Regolamento
+Tabella F-ter 
+Opzione F
+Coefficienti di conversione in rendita annua vitalizia immediata rivalutabile  
+a premio unico con raddoppio per sopravvenuta non autosufficienza 
+dell’Assicurato, pagabile secondo la rateazione mensile
+Tavola di mortalità: IPS55U per impegni immediati - Tasso tecnico: 1,5%  ( Valori per 1000)
+Rateazione della rendita mensile
+Età 
+assicurativa
+Età 
+assicurativa
+50 32,56260 50
+51 33,13140 51
+52 33,72741 52
+53 34,35214 53
+54 35,00728 54
+55 35,69529 55
+56 36,41889 56
+57 37,18101 57
+58 37,98506 58
+59 38,83442 59
+60 39,73206 60
+61 40,68177 61
+62 41,68535 62
+63 42,74603 63
+64 43,86944 64
+65 45,06145 65
+66 46,32274 66
+67 47,66545 67
+68 49,09562 68
+69 50,62111 69
+70 52,24932 70
+Tavola IPS55U per impegni immediati
+Anno di nascita 
+ 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo:
+fino al 1926 aumento di 3 anni
+dal 1927 al 1939 aumento di 2 anni
+dal 1940 al 1948 aumento di 1 anno
+dal 1949 al 1960 invariata
+dal 1961 al 1970 riduzione di 1 anno
+dal 1971 riduzione di 2 anni
+=== pagina 56 ===
+56 di 65
+Arti & Mestieri  Regolamento
+Tabella F-quater 
+Opzione F
+Coefficienti di conversione in rendita vitalizia immediata rivalutabile  
+a premio unico con raddoppio per sopravvenuta non autosufficienza 
+dell’Assicurato
+Tavola di mortalità: A62U per impegni immediati - Tasso tecnico: 0%  ( Valori per 1000)
+Rateazione della rendita mensile
+Età 
+assicurativa
+Età 
+assicurativa
+45 20,47304 45
+46 20,89417 46
+47 21,33203 47
+48 21,78761 48
+49 22,26178 49
+50 22,75637 50
+51 23,27224 51
+52 23,81063 52
+53 24,37290 53
+54 24,96038 54
+55 25,57495 55
+56 26,21903 56
+57 26,89497 57
+58 27,60534 58
+59 28,35320 59
+60 29,14101 60
+61 29,97194 61
+62 30,84979 62
+63 31,77772 63
+64 32,75934 64
+65 33,80101 65
+66 34,90878 66
+67 36,08834 67
+68 37,34673 68
+69 38,69185 69
+70 40,13154 70
+71 41,67453 71
+72 43,33094 72
+73 45,10986 73
+74 47,02292 74
+75 49,08339 75
+76 51,30659 76
+77 53,70924 77
+78 56,30861 78
+79 59,11383 79
+80 62,14186 80
+=== pagina 57 ===
+57 di 65
+Arti & Mestieri  Regolamento
+Allegato 2
+Condizioni integrative che disciplinano l’Opzione F 
+Art.  1 Prestazioni assicurate 
+In relazione a ciascuna posizione individuale, per la quale il FONDO PENSIONE abbia esercitato l’Opzione 
+F) e la SOCIETÀ non abbia rifiutato il relativo rischio, la SOCIETÀ stessa si impegna a corrispondere, 
+finché l’Assicurato è in vita, la rendita annua vitalizia immediata erogabile in rate mensili posticipate 
+al Beneficiario designato a norma della Convenzione. Inoltre, nel caso si verifichi lo stato di non 
+autosufficienza dell’Assicurato (come definito al successivo Art. 2), la SOCIETÀ garantisce - insieme alla 
+suddetta rendita principale e con le stesse modalità di erogazione - la corresponsione della Rendita LTC, di 
+importo uguale a quello della rendita principale.
+Le rate di rendita dovute sono quelle che scadono prima della data di decesso dell’Assicurato.
+La rendita annua inizialmente assicurata risulta esclusivamente dalla scheda di polizza emessa dalla 
+SOCIETÀ a fronte del premio versato.
+La rendita annua assicurata si rivaluta annualmente, come stabilito all’Art. 5 delle Condizioni di 
+Assicurazione, e non è riscattabile.
+Art.  2 Definizione dello stato di non autosufficienza 
+Lo stato di non autosufficienza è determinato dall’incapacità - accertata ai sensi del successivo Art. 6 - 
+totale e permanente, sia fisica sia conseguente a malattia di Alzheimer o similari demenze invalidanti, 
+di svolgere autonomamente, cioè senza la necessità di assistenza di un’altra persona, almeno 4 delle 6 
+attività elementari della vita quotidiana di seguito definite.
+Muoversi: capacità di spostarsi dal letto alla sedia e viceversa.
+Lavarsi: capacità di lavarsi in modo da mantenere l’igiene personale.
+Vestirsi e svestirsi: capacità di indossare e togliere correttamente gli abiti e le eventuali protesi.
+Nutrirsi: capacità di consumare cibo già cucinato e reso disponibile.
+Usare i servizi igienici: capacità di usare correttamente i servizi igienici.
+Mantenere la continenza: capacità di controllare le funzioni corporali (vescica e intestino), eventualmente 
+ricorrendo ad appositi indumenti protettivi.
+Art.  3 Esclusioni 
+È escluso dalla garanzia lo stato di non autosufficienza derivante direttamente o indirettamente da:
+	z i seguenti eventi preesistenti: malattia, condizione patologica o infortunio (inteso come un trauma 
+prodotto all’organismo da causa fortuita, improvvisa, violenta ed esterna che produca lesioni 
+obiettivamente constatabili), se non dichiarati prima dell’ingresso in assicurazione della posizione 
+individuale; qualora l’Assicurato fornisca anteriormente all’ingresso in assicurazione dichiarazioni in 
+merito ai predetti eventi, la SOCIETÀ, per decidere se accettare il rischio, si riserva la facoltà di chiedere 
+ulteriori accertamenti sanitari;
+	z dolo del FONDO PENSIONE o del Beneficiario;
+	z partecipazione attiva dell’Assicurato a delitti dolosi;
+	z atti di guerra, operazioni militari, partecipazione attiva dell’Assicurato a insurrezioni, sommosse e tumulti 
+popolari;
+	z contaminazioni chimiche o batteriologiche, trasformazioni o assestamenti energetici dell’atomo, 
+provocati, accelerazioni di particelle atomiche ed esposizione a particelle ionizzanti;
+	z uso di stupefacenti o di allucinogeni e abuso continuativo di alcolici o di farmaci, comprovati da 
+documentazione sanitaria;
+	z malattie psichiatriche, così come definite nel DSM (Diagnostic and Statistical Manual of Mental Disorders), 
+pubblicato dall’American Psychiatric Association, in vigore al verificarsi dello stato di non autosufficienza;
+	z sindrome da immunodeficienza acquisita (AIDS) od altra patologia ad essa collegata, nel caso in cui lo
+=== pagina 58 ===
+58 di 65
+Arti & Mestieri  Regolamento
+stato di non autosufficienza si manifesti nei primi sette anni successivi all’ingresso in assicurazione della 
+posizione individuale;
+	z partecipazione a corse di velocità e relativi allenamenti, con qualsiasi mezzo a motore;
+	z pratica di sport pericolosi (ad esempio paracadutismo e sport aerei in genere, pugilato, salto dal 
+trampolino con sci o idrosci, sci acrobatico in tutte le sue forme, bob, speleologia, alpinismo con scalata 
+di roccia o accesso a ghiacciai, arrampicata libera, canoa fluviale, sport subacquei in genere);
+	z incidente di volo, se l’Assicurato viaggia a bordo di aeromobile non autorizzato al volo o con pilota non 
+titolare di brevetto idoneo e, in ogni caso, se viaggia in qualità di membro dell’equipaggio.
+Se lo stato di non autosufficienza dell’Assicurato è determinato da una di tali cause escluse dalla garanzia, 
+la SOCIETÀ non corrisponde la Rendita LTC.
+Art.  4 Limitazioni 
+La garanzia per lo stato di non autosufficienza dovuto ad una causa diversa dall’infortunio (come definito 
+al precedente Art. 3) è soggetta ad un periodo di carenza di un anno dall’entrata in vigore delle garanzie 
+per la posizione individuale, periodo esteso a tre anni per i casi dovuti a malattie neurologiche.
+Qualora si verifichi lo stato di non autosufficienza dell’Assicurato determinato da una causa, diversa 
+dall’infortunio, intervenuta durante il suddetto periodo di carenza, la SOCIETÀ non corrisponde la Rendita 
+LTC.
+Art.  5 Dichiarazioni relative alle circostanze del rischio 
+Le dichiarazioni del FONDO PENSIONE e dell’Assicurato devono essere esatte e complete.
+In caso di dichiarazioni inesatte o di reticenze relative a circostanze tali che la SOCIETÀ, se avesse 
+conosciuto il vero stato delle cose, non avrebbe dato il proprio consenso all’assicurazione della posizione 
+individuale o non lo avrebbe dato alle medesime condizioni, la SOCIETÀ si riserva:
+	z di impugnare l’assicurazione stessa e quindi, in caso di sinistro, di rifiutare il pagamento della 
+prestazione, ai sensi dell’Art. 1892 c.c., quando esiste malafede o colpa grave;
+	z di recedere dall’assicurazione stessa o, in caso di sinistro, di ridurre la somma da pagare, ai sensi dell’Art. 
+1893 c.c., quando non esiste malafede o colpa grave.
+Trascorsi 180 giorni dall’entrata in vigore delle garanzie, la SOCIETÀ può agire, come previsto al 
+precedente comma, esclusivamente quando esiste malafede o colpa grave.
+L’inesatta o incompleta indicazione dei dati anagrafici dell’Assicurato, se rilevante ai fini delle prestazioni, 
+comporta la rettifica, in base ai dati reali, delle rate di rendita dovute e di quelle eventualmente già 
+corrisposte.
+Art.  6 Denuncia e accertamento dello stato di non 
+autosufficienza 
+Qualora l’Assicurato manifesti uno stato di non autosufficienza, come definito al precedente Art. 2, deve 
+esserne fatta denuncia alla SOCIETÀ entro i 90 giorni successivi, mediante raccomandata A.R. o telefax, 
+per chiedere il pagamento della Rendita LTC ai sensi dell’Art. 6 delle Condizioni di Assicurazione. La 
+data della denuncia è il giorno di ricevimento da parte della SOCIETÀ della raccomandata o del telefax 
+completi di tutta la documentazione richiesta, secondo quanto previsto dall’allegato A/LTC. Resta fermo 
+che i pagamenti vengono effettuati dalla SOCIETÀ previa consegna da parte degli aventi diritto di tutta la 
+documentazione necessaria - fatta eccezione per quella già prodotta in precedenza e ancora in corso di 
+validità - riportata nel predetto Allegato A/LTC.
+L’Assicurato e il Contraente sono tenuti a fornire in modo veritiero e completo le dichiarazioni e le prove 
+richieste dalla SOCIETÀ per l’accertamento dello stato di non autosufficienza e delle relative cause; inoltre, 
+su richiesta della SOCIETÀ, l’Assicurato ha l’obbligo di sottoporsi agli accertamenti medici necessari per 
+compiere la valutazione funzionale della propria capacità fisica, presso strutture sanitarie e da medici di 
+fiducia della stessa SOCIETÀ.
+=== pagina 59 ===
+59 di 65
+Arti & Mestieri  Regolamento
+La SOCIETÀ si impegna ad accertare lo stato di non autosufficienza entro 180 giorni dalla data della 
+denuncia o, comunque, dalla data di ricevimento dell’eventuale ulteriore documentazione richiesta ai 
+sensi del citato Art. 8, inclusa quella relativa agli eventuali accertamenti medici.
+Art.  7 Termini per la corresponsione della Rendita LTC 
+La rendita annua LTC viene corrisposta - insieme alla rendita principale - a seguito del riconoscimento da 
+parte della SOCIETÀ dello stato di non autosufficienza dell’Assicurato.
+La scadenza di pagamento della prima rata mensile di Rendita LTC (data di decorrenza della Rendita LTC) 
+è stabilita al primo giorno del mese che segue di almeno 90 giorni la data di denuncia. Se l’accertamento 
+dello stato di non autosufficienza si protrae oltre la suddetta data di decorrenza, la SOCIETÀ corrisponde 
+le rate di Rendita LTC arretrate insieme a quella in scadenza alla prima ricorrenza mensile successiva al 
+riconoscimento.
+Art.  8 Rivedibilità dello stato di non autosufficienza 
+L’Assicurato riconosciuto non autosufficiente è obbligato a sottoporsi - su richiesta della SOCIETÀ e 
+non più di una volta all’anno - alle visite e agli esami medici necessari per accertare il permanere di tale 
+stato. L’Assicurato e il FONDO PENSIONE sono inoltre tenuti a fornire in modo veritiero e completo le 
+dichiarazioni e le prove richieste dalla SOCIETÀ per il suddetto accertamento.
+Qualora non sussista più lo stato di non autosufficienza o, comunque, nel caso che l’Assicurato o il 
+FONDO PENSIONE non adempiano ai precedenti obblighi, la SOCIETÀ comunica al FONDO PENSIONE ed al 
+Beneficiario la sospensione della corresponsione della Rendita LTC, a decorrere dalla prima rata mensile 
+successiva alla data della comunicazione stessa.
+Art.  9 Controversie: arbitrato irrituale 
+Le controversie di natura medica sul riconoscimento dello stato di non autosufficienza dell’Assicurato e 
+sugli esiti del riesame di tale stato, sono demandate per iscritto ad un Collegio di tre medici, nominati uno 
+per parte ed il terzo di comune accordo o, in caso contrario, dal Consiglio dell’Ordine dei Medici avente 
+giurisdizione nel luogo dove deve riunirsi il Collegio. 
+Il Collegio Medico risiede nel Comune, sede di Istituto di Medicina Legale, più vicino al luogo di residenza 
+dell’Assicurato. Ciascuna delle parti sostiene le proprie spese e remunera il medico da essa designato, 
+contribuendo per metà alle spese e competenze per il terzo medico. 
+Le decisioni del Collegio Medico sono prese a maggioranza di voti, con dispensa da ogni formalità di legge, 
+e sono vincolanti per le parti, le quali rinunciano fin d’ora a qualsiasi impugnativa salvo i casi di violenza, 
+dolo, errore o violazione dei patti contrattuali. 
+I risultati delle operazioni arbitrali devono essere raccolti in apposito verbale, da redigersi in doppio 
+esemplare, uno per ognuna delle parti. Le decisioni del Collegio Medico sono vincolanti per le parti anche 
+qualora uno dei medici si rifiuti di firmare il relativo verbale; tale rifiuto deve essere attestato dagli altri 
+arbitri nel verbale definitivo.
+Art. 10 Richiamo alle Condizioni di assicurazione 
+Per tutto quanto non espressamente regolamentato dalle presenti Condizioni integrative si applicano - in 
+quanto compatibili - le Condizioni di assicurazione, fermo restando quanto stabilito nella Convenzione.
+=== pagina 60 ===
+60 di 65
+Arti & Mestieri  Regolamento
+Allegato A /LTC
+Documentazione da presentare alla Società in relazione alla 
+causa del pagamento 
+Documentazione per la Denuncia  
+dello Stato di Non Autosufficienza
+Denuncia, debitamente sottoscritta, relativa allo stato di Non 
+Autosufficienza dell’Assicurato, corredata dal questionario - redatto su 
+modello fornito dalla Società da compilarsi a cura del Medico curante 
+dell’Assicurato stesso - necessario ai fini dell’accertamento dello stato 
+di Non Autosufficienza e delle relative cause.
+Documentazione per il pagamento  
+della rendita
+Una volta l’anno su richiesta della Compagnia:
+	z Documento valido comprovante l’esistenza in vita dell’Assicurato o 
+autocertificazione corredata da copia di un documento d’identità in 
+corso di validità del medesimo.
+Qualora l’esame della suddetta documentazione evidenzi situazioni particolari o dubbie tali da non consentire la 
+verifica dell’obbligo di pagamento o l’individuazione degli aventi diritto o l’adempimento agli obblighi di natura 
+fiscale oppure derivanti dalla normativa antiriciclaggio, la Società richiederà tempestivamente l’ulteriore 
+documentazione necessaria in relazione alle particolari esigenze istruttorie.
+=== pagina 61 ===
+61 di 65
+Arti & Mestieri  Regolamento
+Allegato 3
+Art.  5 Modalità di rivalutazione delle prestazioni 
+L’Assicurazione è collegata al rendimento della Gestione separata “FONDICOLL UnipolSai” il cui 
+Regolamento è allegato e parte integrante del presente contratto. 
+Come stabilito dal Regolamento, la Società determina mensilmente il tasso medio di rendimento della 
+Gestione separata realizzato su un periodo di osservazione di 12 mesi. 
+Il tasso medio di rendimento così determinato costituisce la base di calcolo per la rivalutazione da 
+applicare alle posizioni individuali con data di rivalutazione che cade nel terzo mese successivo al termine 
+del periodo di osservazione considerato.
+a) Rendimento attribuito  - Il rendimento annuo da attribuire alla posizione individuale è uguale al tasso 
+medio di rendimento della Gestione separata diminuito di una commissione annua pari a 1 punto 
+percentuale.
+b) Misura di rivalutazione  - La misura annua di rivalutazione è pari al rendimento annuo attribuito, di cui 
+al precedente punto a), e non può essere negativa.
+c) Rivalutazione della rendita assicurata  - Ad ogni anniversario della decorrenza della posizione 
+individuale (data della rivalutazione annuale), la rendita da corrispondere nell’anno seguente viene 
+rivalutata in regime di capitalizzazione composta della misura annua di rivalutazione definita al 
+precedente punto b).
+=== pagina 62 ===
+62 di 65
+Arti & Mestieri  Regolamento
+Allegato 4
+Regolamento della Gestione Separata “FONDICOLL UnipolSai”  
+(in breve “FONDICOLL”) 
+Art.  1
+Viene attuata una speciale forma di gestione degli investimenti, separata da quella delle altre attività della 
+Società, contraddistinta con il nome “FONDICOLL UnipolSai” (di seguito “Gestione Separata”) e disciplinata 
+dal presente Regolamento redatto ai sensi del Regolamento ISVAP del 3 Giugno 2011, n. 38.
+Il Regolamento della Gestione Separata è parte integrante delle Condizioni contrattuali.
+Art.  2
+La valuta di denominazione della Gestione Separata è l’Euro.
+Art.  3
+L’attuazione delle politiche di investimento della Gestione Separata competono alla Società, che vi 
+provvede realizzando una gestione professionale degli attivi.
+Lo stile gestionale adottato dalla Gestione Separata è finalizzato a perseguire la sicurezza, la redditività, 
+la liquidità degli investimenti e mira ad ottimizzare il profilo di rischio-rendimento del portafoglio, tenute 
+presenti le garanzie offerte dai contratti collegati alla Gestione Separata stessa.
+La gestione finanziaria della Gestione Separata è caratterizzata principalmente da investimenti del 
+Comparto obbligazionario denominati in Euro, senza tuttavia escludere l’utilizzo di altre attività 
+ammissibili ai sensi della normativa vigente.
+Per la componente obbligazionaria, le scelte di investimento sono basate sul controllo della durata media 
+finanziaria delle obbligazioni in portafoglio, in funzione delle prospettive dei tassi di interesse e, a livello 
+dei singoli emittenti, della redditività e del rispettivo merito di credito.
+Di seguito si evidenziano le tipologie d’investimento maggiormente significative tra cui si intendono 
+investire le risorse.
+Titoli di debito
+	z Governativi (comprensivi di titoli emessi o garantiti da Stati membri dell’Unione Europea o appartenenti 
+all’OCSE ovvero emessi da enti locali o da enti pubblici di Stati membri o da organizzazioni internazionali cui 
+aderiscono uno o più Stati membri);
+	z Corporate (comprensivi di: obbligazioni od altri titoli assimilabili negoziati in un mercato regolamentato; 
+obbligazioni non negoziate in un mercato regolamentato, emesse da società o enti creditizi aventi la sede 
+legale in uno Stato membro dell’Unione Europea o appartenenti all’OCSE, il cui bilancio sia da almeno tre 
+anni certificato da parte di una società di revisione debitamente autorizzata);
+	z Fondi obbligazionari (Quote di OICR armonizzati che investono in prevalenza nel Comparto 
+obbligazionario).
+Titoli di capitale
+	z Azioni negoziate su mercati regolamentati;
+	z Fondi azionari (quote di OICR armonizzati che investono in prevalenza nel Comparto azionario).
+Investimenti monetari
+	z Depositi bancari;
+	z Pronti contro termine;
+	z Fondi monetari.
+=== pagina 63 ===
+63 di 65
+Arti & Mestieri  Regolamento
+Al fine di contenere l’esposizione al rischio mercato, nelle sue diverse configurazioni, vengono definiti i 
+seguenti limiti relativi al portafoglio titoli.
+Con riferimento alla componente obbligazionaria del portafoglio (titoli di debito) si precisa che 
+l’esposizione massima ai titoli corporate è del 65%.
+Complessivamente l’esposizione massima relativa alla componente obbligazionaria può essere pari al 
+100%.
+Al fine di contenere il rischio di concentrazione, titoli corporate  emessi da uno stesso emittente o da 
+società facenti parte di un medesimo Gruppo sono ammessi per un ammontare massimo pari al 5% del 
+portafoglio obbligazionario.
+Con riferimento alla componente azionaria del portafoglio, complessivamente riferibile ai titoli di capitale, 
+ai titoli azionari non quotati e agli investimenti alternativi, si precisa che l’esposizione non dovrà essere 
+superiore al 35% del portafoglio. 
+Gli investimenti in titoli azionari non quotati non potranno essere presenti per una percentuale superiore 
+al 10% del portafoglio.
+Per quanto concerne la possibilità di investire in investimenti alternativi (azioni o quote di OICR aperti non 
+armonizzati, azioni o quote di Fondi mobiliari chiusi non negoziate in un mercato regolamentato nonché 
+Fondi riservati e speculativi) è previsto un limite massimo del 5% del portafoglio.
+È prevista la possibilità di investire nel Comparto immobiliare nel limite massimo del 20% del portafoglio.
+La Società si riserva inoltre la possibilità di utilizzare strumenti finanziari derivati in coerenza con le 
+caratteristiche della Gestione Separata e nel rispetto delle condizioni previste dalla normativa vigente in 
+materia di attivi a copertura delle riserve tecniche con lo scopo sia di realizzare un’efficace gestione del 
+portafoglio, sia di ridurre la rischiosità delle attività finanziarie presenti nella Gestione stessa.
+La Società per assicurare la tutela dei Contraenti da possibili situazioni di conflitto di interesse si 
+impegna al rispetto dei limiti di investimento in relazione ai rapporti con le controparti di cui all’Art. 5 del 
+Regolamento ISVAP del 27 maggio 2008, n. 25 ed eventuali successive modifiche.
+Nell’ambito della politica d’investimento relativa alla Gestione Separata, non è esclusa la possibilità di 
+investire in strumenti finanziari emessi dalle suddette controparti.
+La Società si riserva comunque, a tutela degli interessi dei Contraenti, di investire in strumenti finanziari o 
+altri attivi emessi o gestiti dalle controparti di cui all’Art. 5 del Regolamento ISVAP del 27 maggio 2008, n. 
+25, nel rispetto dei limiti di seguito indicati:
+	z Organismi di investimento collettivo del risparmio (OICR): fino ad un massimo del 5%;
+	z Obbligazioni: fino ad un massimo del 2%;
+	z Partecipazioni in società immobiliari nelle quali l’impresa detenga più del 50% del capitale sociale: fino ad un 
+massimo del 2%.
+Art.  4
+Il tasso medio di rendimento viene determinato e certificato in relazione all’esercizio annuale della 
+Gestione Separata che decorre relativamente al periodo di osservazione, dal 1° ottobre di ciascun anno 
+fino al successivo 30 settembre.
+Il tasso medio di rendimento della Gestione Separata per l’esercizio relativo alla certificazione si ottiene 
+rapportando il risultato finanziario della Gestione Separata di competenza del suddetto periodo di 
+osservazione, alla giacenza media delle attività della Gestione Separata stessa.
+Per risultato finanziario della Gestione Separata si devono intendere i proventi finanziari conseguiti dalla 
+stessa Gestione Separata, comprensivi degli scarti di emissione e di negoziazione di competenza, dagli 
+utili realizzati e dalle perdite sofferte nel periodo di osservazione. Gli utili realizzati comprendono anche 
+quelli specificati al successivo Art. 7. Le plusvalenze e le minusvalenze sono prese in considerazione, nel 
+calcolo del risultato finanziario, solo se effettivamente realizzate nel periodo di osservazione. Il risultato 
+finanziario è calcolato al netto delle spese di cui al successivo Art. 6 ed al lordo delle ritenute di acconto 
+fiscali. Gli utili e le perdite da realizzo sono determinati con riferimento al valore di iscrizione delle 
+corrispondenti attività nel libro mastro della Gestione Separata e cioè al prezzo di acquisto per i beni di 
+nuova acquisizione ed al valore di mercato all’atto dell’iscrizione nella Gestione Separata per i beni già di 
+proprietà della Società.
+=== pagina 64 ===
+64 di 65
+Arti & Mestieri  Regolamento
+La giacenza media delle attività della Gestione Separata è pari alla somma della giacenza media nel 
+periodo di osservazione dei depositi in numerario, della giacenza media nel periodo di osservazione degli 
+investimenti e della giacenza media nel medesimo periodo di osservazione di ogni altra attività della 
+Gestione Separata. La giacenza media degli investimenti e delle altre attività è determinata in base al 
+valore di iscrizione nel libro mastro della Gestione Separata.
+Art.  4bis
+Inoltre, all’inizio di ogni mese viene determinato il tasso medio di rendimento della Gestione Separata 
+realizzato nel periodo di osservazione costituito dai dodici mesi immediatamente precedenti. Il tasso 
+medio di rendimento realizzato nel periodo di osservazione coincidente con l’esercizio relativo alla 
+certificazione, è quello stesso determinato ai sensi del precedente Art. 4. Il tasso medio di rendimento 
+realizzato in ciascuno degli altri periodi si determina con le medesime modalità, rapportando il risultato 
+finanziario della Gestione Separata di competenza del periodo considerato, alla giacenza media delle 
+attività della Gestione Separata stessa.
+Art.  5
+Il valore delle attività gestite non potrà essere inferiore all’importo delle riserve matematiche costituite 
+per i contratti di assicurazione e di capitalizzazione che prevedono una clausola di rivalutazione delle 
+prestazioni legata al rendimento della Gestione Separata.
+Art.  6
+Sulla Gestione Separata gravano unicamente le spese relative all’attività di verifica contabile effettuata 
+dalla società di revisione e quelle effettivamente sostenute per l’acquisto e la vendita delle attività della 
+Gestione Separata. Non sono consentite altre forme di prelievo, in qualsiasi modo effettuate.
+Art.  7
+Il rendimento della Gestione Separata beneficia di eventuali utili derivanti dalle retrocessioni di 
+commissioni o di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi e riconducibili al 
+patrimonio della Gestione Separata.
+Art.  8
+La Gestione Separata è annualmente sottoposta a verifica contabile da parte di una società di revisione, 
+iscritta all’Albo speciale previsto dalla legge, la quale attesta la rispondenza della Gestione Separata 
+stessa al presente Regolamento.
+Art.  9
+Il presente Regolamento potrà essere modificato al fine dell’adeguamento dello stesso alla normativa 
+primaria e secondaria vigente oppure a fronte di mutati criteri gestionali con esclusione, in tale ultimo 
+caso, di quelli meno favorevoli per il Contraente.
+La Società si riserva di coinvolgere la Gestione Separata in operazioni di incorporazione o fusione 
+con altre Gestioni Speciali della Società stessa, qualora le suddette operazioni risultino opportune 
+nell’interesse dei Contraenti. Almeno 60 giorni prima della data stabilita per l’operazione di 
+incorporazione o di fusione, la Società ne dà preavviso ai Contraenti fornendo i dettagli dell’operazione 
+stessa.
+=== pagina 65 ===
+Anima SGR S.p.A. - Società di gestione del risparmio
+Società appartenente al Gruppo Bancario Banco BPM  
+e soggetta all’attività di direzione e coordinamento di Banco BPM S.p.A.
+Corso Garibaldi 99 - 20121 Milano - Telefono: +39 02 80638.1 
+Appartenente al Gruppo IVA Banco BPM con Partita IVA 10537050964
+Cod. Fisc. e Reg. Imprese di Milano n. 07507200157
+Capitale Sociale Euro 23.793.000 int. vers. - R.E.A. di Milano n. 1162082 
+www.animasgr.it - Info: clienti@animasgr.it
+Numero verde: 800.388.876
+Cod. FP/Reg. e All. - 07/2026

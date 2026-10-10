@@ -152,6 +152,27 @@ class TestSito(unittest.TestCase):
         self.assertNotIn("Alla pensione con questo fondo", pg.locator("#d-body").inner_text())
         self.assertEqual(errori, [])
 
+    @unittest.skipUnless((ROOT / "docs" / "data" / "documenti.json").exists(),
+                         "manca docs/data/documenti.json: python scripts/documenti.py indice")
+    def test_documenti_nel_dettaglio(self):
+        pg, errori = self.pagina("#fondo=generali-global", viewport={"width": 1280, "height": 900})
+        pg.wait_for_selector("#dettaglio[open] ul.documenti a[href^='documenti/']")
+        self.assertIn("Documenti ufficiali", pg.inner_text("#dettaglio"))
+        # il link porta alla copia nel sito, che il server serve davvero come PDF
+        href = pg.get_attribute("#dettaglio ul.documenti a[href^='documenti/']", "href")
+        risposta = pg.request.get(self.base + href)
+        self.assertTrue(risposta.ok)
+        self.assertTrue(risposta.body().startswith(b"%PDF-"))
+        # un fondo senza documenti scaricabili mostra la nota al posto dell'elenco
+        pg.goto(self.base + "#fondo=fondo-pensione-fideuram")
+        pg.wait_for_selector("#dettaglio[open] h3.d-sez:has-text('Documenti ufficiali')")
+        self.assertIn("brochure", pg.inner_text("#dettaglio"))
+        pg.wait_for_selector("#qualita-body .apertura >> text=Documenti ufficiali")
+        # in Qualità dei dati, i fondi con documenti da recuperare (es. Teseo) aprono il dettaglio
+        tabella = pg.locator("#qualita-body table:has(caption:has-text('documenti ufficiali da recuperare'))")
+        self.assertIn("Teseo", tabella.inner_text())
+        self.assertEqual(errori, [])
+
     def test_glossario_e_suggerimenti(self):
         import json
         glossario = json.loads((ROOT / "docs" / "data" / "glossario.json").read_text(encoding="utf-8"))

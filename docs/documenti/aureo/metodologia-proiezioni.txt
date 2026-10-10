@@ -1,0 +1,115 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Metodologia delle proiezioni – Allegato2 MetodologieCalcolo ProiezioniPensionistiche
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/Allegato2-MetodologieCalcolo_ProiezioniPensionistiche.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-10
+# SHA-256 del PDF: 966c30fab9618de13c58512c3750719cd0a0cbe81969a829469c9b706495e119
+# Pagine: 3
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Metodologia di calcolo delle proiezioni pensionistiche 25/03/2021 
+1 
+Data Documento: 25 marzo 2021 
+Metodi di Calcolo usati  per le  proiezioni 
+pensionistiche  della  Previdenza  Complementare
+=== pagina 2 ===
+Metodologia di calcolo delle proiezioni pensionistiche 25/03/2021 
+2 
+MODELLO DI CALCOLO PER LA CAPITALIZZAZIONE DELLA CONTRIBUZIONE A 
+FAVORE DEI FONDI PENSIONE 
+Per il calcolo del montante alla data prevista di pensionamento si scompone tutto il periodo di contribu-
+zione nelle singole rate di versamento in funzione della periodicità prevista dal fondo (mensile, trimestra-
+le, annuale, ecc.). Ogni contributo è pertanto definito da un tempo ti di versamento, un tempo tp corri-
+spondente alla data di pensione, dall’importo iniziale ci (calcolato in proporzione al reddito o in cifra fissa, 
+depurato dei caricamenti diretti, in funzione della caratteristica del fondo) e dai parametri di redditività 
+del comparto o dei comparti in cui è investito. Pertanto il montante maturato alla data di pensione sarà 
+determinato da: 
+
+
+
+p
+i
+piip ttcM
+0
+),,(
+La funzione  è la formula di capitalizzazione composta continua del contributo unitario che tiene conto 
+dei caricamenti indiretti k in misura percentuale e della aliquota di tassazione sostitutiva q applicata per 
+competenza: 
+  qqec kr
+ittc
+ip tt
+pii  
+
+1)(),,(
+)(
+
+La formula utilizza la capitalizzazione continua per i rendimenti finanziari e per i costi di gestione che 
+vengono solitamente calcolati giornalmente sul NAV, mentre per la tassazione dei rendimenti, che ha ca-
+denza annuale, è necessario capitalizzare in modo discreto.  
+Tenendo presente che le proiezioni prevedono una contribuzione crescente in proporzione all’andamento 
+del reddito, per le quali le indicazioni COVIP prescrivono  crescita annuale reale pari al 1% e  inflazione 
+attesa annuale pari al 2%, il calcolo del contributo è dato dalla seguente (sempre discretizzata in base 
+annua): 
+ 
+it
+i cc )1()1(0  
+Per la precisione alla ci così calcolata va dedotto il costo diretto, che in funzione del fondo può essere 
+previsto in cifra fissa, in percentuale sul valore del contributo, oppure anche in proporzione al reddito di 
+riferimento. La periodicità dei costi diretti può essere annuale o per ogni singolo versamento. 
+Per versatilità di impostazione, in tutto il calcolo l’unità minima temporale utilizzata per le discretizzazioni 
+dei momenti contributivi è il mese.  
+Si fa inoltre presente che, per l’adozione della capitalizzazione continua, r e k si desumono dai rispettivi 
+valori nominali annuali ra e ka forniti dall’authority e dal regolamento del fondo applicando il logaritmo 
+naturale: 
+)1ln(
+)1ln(
+a
+a
+kk
+rr
+
+
+In merito al rendimento del comparto, dato w il peso specifico,  il rendimento atteso reale del bench-
+mark azionario e  il rendimento atteso reale dell’obbligazionario, si ha:
+=== pagina 3 ===
+Metodologia di calcolo delle proiezioni pensionistiche 25/03/2021 
+3 
+wwra  )1()1()1()1()1( 
+Per il calcolo del montante a fine anno, replicato per tutti gli anni di accumulo, si applica la medesima 
+procedura sostituendo alla data di pensione la data di verifica pari al 31 dicembre dell’anno in esame. 
+Nel caso in cui la contribuzione venga distribuita su n comparti contemporaneamente, si procede ad un 
+calcolo separato per ogni comparto in funzione del peso specifico pj scelto per ogni comparto. Pertanto la 
+formula iniziale si trasforma in: 
+
+ 
+
+p
+i
+pijij
+n
+j
+p ttpcM
+0 0
+),,(
+MODELLO DI CALCOLO PER LA CONVERSIONE IN RENDITA 
+All’età prevista per il pensionamento, il montante maturato viene trasformato in rendita moltiplicandolo 
+per il coefficiente di trasformazione comunicato dal fondo pensione e già comprensivo di tutti i caricamen-
+ti impliciti. Il coefficiente è quello corrispondente all’età e, per le rendite differenziate, al sesso del sog-
+getto per cui si effettua l’analisi considerando eventuali correzioni dovute al meccanismo dell’age-shifting. 
+Laddove sia prevista l’applicazione della tavola di conversione standard indicata dalla Covip, il calcolo se-
+gue le medesime modalità applicando però coefficienti calcolati sulla base delle condizioni stabilite 
+dall’Autorità di Vigilanza. 
+ESPOSIZIONE FINALE DEI RISULTATI 
+A valle dei conteggi tutti gli importi sono riportati a valore della data di riferimento dell’analisi depurando 
+l’inflazione su base annuale. Indicando con refy  l’anno della data di riferimento della proiezione (la data 
+del primo versamento per le nuove adesioni, oppure la data dell’ultimo accertamento per le adesioni in 
+essere) e con y l’anno di valorizzazione del contributo, del montante o della rendita stimata nomX , si ha: 
+)(
+)1(
+yy
+nomreal
+ref
+XX
+
+ 

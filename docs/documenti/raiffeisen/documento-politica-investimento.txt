@@ -1,0 +1,790 @@
+# Fondo: RAIFFEISEN FONDO PENSIONE APERTO (raiffeisen)
+# Documento: Documento sulla politica di investimento – Documento sulla politica di investimento
+# Fonte: https://www.raiffeisenpensionsfonds.it/fileadmin/RGO/Pensionsfonds/Allgemeine_Unterlagen/IT/8_Documento_sulla_politica_di_investimento.pdf
+# Citato in: https://www.raiffeisenpensionsfonds.it/it/il-raiffeisen-fondo-pensione/documentazione.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: bd21fba1b4f3d35b2541af51a65d32f081c72c5f51d31beedcb6ba59f77be7bd
+# Pagine: 18
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Raiffeisen Fondo 
+Pensione Aperto 
+Documento sulla  
+politica di investimento  
+ 
+Approvato dal Consiglio di Amministrazione di  
+Cassa Centrale Raiffeisen dell’Alto Adige SpA  
+il 23.02.2026 
+In vigore dal 01.03.2026 
+ 
+     
+     
+     
+         
+         
+         
+         
+    
+www.fondopensione raiffeisen.it
+=== pagina 2 ===
+Documento sulla politica di investimento  Pagina 2/18  
+ 
+ 
+ 
+ 
+INDICE 
+1. Premessa ....................................... ................................................... ................................... 3 
+2. Obiettivi da realizzare nella gestione finanziar ia ................................................................... 4 
+3. Criteri da seguire nell’attuazione della gestion e finanziaria ................................................... 7 
+4. Sistema di controllo e valutazione dei risultati  conseguiti .................................................... 14 
+5. Modifiche apportate nell'ultimo triennio ....... ................................................... ..................... 18
+=== pagina 3 ===
+Documento sulla politica di investimento  Pagina 3/18  
+ 
+ 
+1. Premessa 
+Il Raiffeisen Fondo Pensione Aperto (di seguito anc he “Fondo Pensione”), iscritto all’albo tenuto dall a COVIP 
+con il n. 149, è gestito dalla Cassa Centrale Raiffeisen dell’Alto Adige SpA (di seguito anche “Cassa Centrale 
+Raiffeisen”), iscritta nell'albo delle banche della  Banca d'Italia con il n. 4747.  
+Il Fondo Pensione è un fondo pensione aperto in reg ime di contribuzione definita istituito ai sensi de ll’art. 12 
+del d.lgs. n. 252/2005, che ha lo scopo di consenti re agli aderenti di disporre, all’atto del pensiona mento, di 
+prestazioni pensionistiche complementari del sistem a obbligatorio. Tale scopo è perseguito mediante la  
+raccolta dei contributi, la gestione delle risorse nell’esclusivo interesse degli aderenti e l’erogazi one delle 
+prestazioni secondo quanto disposto dalla normativa in materia di previdenza complementare. 
+Gli strumenti finanziari e i valori del Fondo Pensi one costituiscono patrimonio separato e autonomo ri spetto 
+sia al patrimonio della Cassa Centrale Raiffeisen, sia a quello degli altri fondi gestiti, sia a quello degli aderenti. 
+Il patrimonio del Fondo Pensione è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non 
+può essere distratto da tale fine. L’entità delle prestazioni pensionistiche del Fondo Pensione è determinata in 
+funzione della contribuzione effettuata e in base al principio della capitalizzazione. 
+Il presente “Documento sulla politica di investimen to” (di seguito anche “Documento”),  redatto ai sensi della 
+Delibera COVIP del 16.03.2012, ha lo scopo di definire la strategia finanziaria che la Cassa Centrale Raiffeisen 
+intende attuare per ottenere, dall’impiego delle ri sorse del Fondo Pensione, combinazioni rischio-rend imento 
+efficienti nell’arco temporale coerente con i bisogni previdenziali degli aderenti.  
+Il Documento è sottoposto a revisione almeno ogni tre anni e viene trasmesso, in sede di prima definizione e, 
+in seguito, in occasione di ogni sua modificazione:  
+ agli organi di controllo e al Responsabile del Fondo Pensione; 
+ ai soggetti incaricati della gestione finanziaria e al Depositario; 
+ alla COVIP entro venti giorni dalla sua formalizzaz ione. 
+Il Documento non costituisce parte integrante della  documentazione contrattuale da consegnare all’ader ente 
+all’atto dell’adesione e nel corso del rapporto di partecipazione. Il Documento è pubblicato sul sito web del 
+Fondo Pensione e messo a disposizione degli aderent i e dei beneficiari e dei loro rappresentanti che n e 
+facciano esplicita richiesta.
+=== pagina 4 ===
+Documento sulla politica di investimento  Pagina 4/18  
+ 
+ 
+2. Obiettivi da realizzare nella gestione finanziar ia 
+Il Raiffeisen Fondo Pensione Aperto è rivolto a tut ti coloro che intendono realizzare un piano di prev idenza 
+complementare, beneficiando di un trattamento fiscale di favore sui contributi versati, sui rendimenti conseguiti 
+e sulle prestazioni percepite. L’adesione è volonta ria ed è consentita in forma individuale, nonché su  base 
+collettiva, anche mediante conferimento tacito del TFR maturando, da parte di lavoratori dipendenti ne i cui 
+confronti trovino applicazione i contratti, gli acc ordi o i regolamenti aziendali che dispongono l’ade sione al 
+Fondo Pensione. Il TFR e la quota contributiva del lavoratore dipendente possono essere indirizzati al  Fondo 
+Pensione anche in assenza di previsioni di contratti, accordi o regolamenti aziendali.  
+Il Fondo Pensione, data la natura di fondo pensione aperto, non ha una popolazione di riferimento predefinita, 
+se non focalizzata sul territorio, ma può accoglier e una popolazione di aderenti molto eterogenea (lav oratori 
+dipendenti, autonomi, liberi professionisti e titol ari di altre fonti di reddito, ma anche casalinghe e familiari 
+fiscalmente a carico). Al fine di riflettere, nella  maniera più adeguata, le attese e i bisogni previd enziali degli 
+aderenti del Fondo Pensione, vengono comunque anali zzate periodicamente le caratteristiche 
+sociodemografiche e i bisogni previdenziali della popolazione di riferimento, l’andamento delle adesioni e delle 
+uscite, oltre che altri indicatori utili come il livello di contribuzione media. 
+Considerata la popolazione di riferimento, il Fondo  Pensione offre più soluzioni di investimento (comp arti di 
+investimento) tarate sugli aderenti, sulle loro asp ettative e sulle loro esigenze di rischio/rendiment o che 
+possono modificarsi ed evolversi durante il loro pe rcorso previdenziale. A tal fine, nel corso del rap porto di 
+partecipazione l’aderente può modificare la propria  scelta di investimento (“riallocazione”), valutand o con 
+attenzione tale scelta e tendendo in debita conside razione l’orizzonte temporale consigliato per ciasc un 
+comparto di destinazione. 
+Ogni comparto di investimento, caratterizzato per d ifferenti livelli di combinazione rischio-rendiment o e per la 
+specifica politica d’investimento, si prefigge un o biettivo di rendimento, coerentemente con il profil o di rischio 
+del comparto stesso. Il rendimento che l’aderente p uò attendersi dall’investimento, infatti, è stretta mente 
+correlato al livello di rischio che lo stesso decid e di assumere. In via generale, minore è il livello  di rischio 
+assunto, minori (ma tendenzialmente più stabili) sa ranno i rendimenti attesi nel tempo. Al contrario, livelli di 
+rischio più alti possono dare luogo a risultati di maggiore soddisfazione, ma anche ad una probabilità  più alta 
+di perdere parte di quanto investito. In tale ottic a va tenuto in considerazione come comparti di inve stimento 
+più rischiosi non siano, in linea generale, consigl iati a chi è prossimo al pensionamento mentre posso no 
+rappresentare un’opportunità d’investimento interessante per i più giovani.  
+Le differenti soluzioni d’investimento si rivolgono  quindi tanto ai soggetti caratterizzati da bassi t assi di 
+sostituzione che possono compensare gli stessi con una pensione complementare più robusta, quanto ai 
+soggetti caratterizzati da tassi di sostituzione più elevati che possono scegliere un comparto caratterizzato da 
+una volatilità più bassa. 
+L’obiettivo finale della politica di investimento di ciascun comparto di investimento è di perseguire combinazioni 
+di rischio-rendimento efficienti ed efficaci in ter mini di rapporto tra rendimenti e volatilità dei ri sultati, in un 
+determinato arco temporale coerente con quello dell e prestazioni da erogare. L’impegno, anche con l’au silio 
+di soggetti specializzati, in possesso dei requisit i di legge, a cui affidare l’esecuzione di specific i incarichi di 
+gestione, è rivolto a massimizzare le risorse desti nate alle prestazioni, fornendo agli aderenti l’opp ortunità di 
+investimento diversificate in funzione delle divers e aspettative di rendimento e di tolleranza ai risc hi di natura 
+finanziaria.  
+Con riferimento a tutti i comparti di investimento offerti, in funzione della riduzione del grado di r ischio, 
+corrisponde mediamente una modifica dell’asset allo cation volta alla diminuzione della percentuale inv estita 
+nella componente azionaria a favore di quella obbli gazionaria. Anche l’orizzonte temporale può essere 
+conseguentemente modificato, in diminuzione in corrispondenza di un aumento degli asset investiti all’interno 
+della componente obbligazionaria. 
+La pluralità di opzioni di investimento offerta, os sia i quattro comparti di investimento  “Guaranty ”, “ Safe ”, 
+“Activity ” e “ Dynamic ”, conferma l’idoneità del Raiffeisen Fondo Pension e Aperto a soddisfare le diverse 
+aspettative ed esigenze dei propri aderenti.
+=== pagina 5 ===
+Documento sulla politica di investimento  Pagina 5/18  
+ 
+ 
+Obiettivi del singolo comparto di investimento 
+ 
+Comparto Guaranty 
+Finalità della gestione:  la gestione è volta a conseguire un rendimento in linea con i tassi a breve termine e 
+di proteggere il capitale dal rischio di oscillazioni. La garanzia di capitale consente di soddisfare le esigenze di 
+un soggetto con una bassa propensione al rischio o prossimo alla pensione. 
+Caratteristiche della garanzia:  restituzione del capitale versato nel comparto nei  casi previsti dal 
+Regolamento (pensionamento, decesso, invalidità per manente, inoccupazione superiore a 48 mesi). 
+Categoria garantito 
+Orizzonte temporale breve (fino a 5 anni) 
+Grado di rischio basso 
+Rendimento nominale medio annuo atteso 
+(in termini reali 0,60%) 
+2,70% 
+Inflazione media annua attesa 
+ 
+2,10% 
+Variabilità del rendimento medio annuo attesa (vola tilità) 
+ 
+1,90% 
+Probabilità che il rendimento risulti inferiore all’inflazione 28,40% 
+ 
+Comparto Safe 
+Finalità della gestione:  la gestione risponde alle esigenze di un soggetto che privilegia investimenti volti a 
+favorire la stabilità del capitale e dei risultati o si sta avvicinando al pensionamento, accettando un’esposizione 
+ad un rischio medio-basso. 
+Categoria obbligazionario puro 
+Orizzonte temporale medio (tra 5 e 10 anni) 
+Grado di rischio medio-basso 
+Rendimento nominale medio annuo atteso 
+(in termini reali 1,20%)  
+3,30% 
+Inflazione media annua attesa 
+ 
+2,10% 
+Variabilità del rendimento medio annuo attesa (vola tilità) 
+ 
+3,70% 
+Probabilità che il rendimento risulti inferiore all’inflazione 11,50%
+=== pagina 6 ===
+Documento sulla politica di investimento  Pagina 6/18  
+ 
+ 
+ 
+Comparto Activity 
+Finalità della gestione: la gestione risponde alle esigenze di un soggetto c he privilegia la continuità dei 
+risultati nei singoli esercizi, comunque accettando  un’esposizione al rischio medio-alto, o che non è prossimo 
+al pensionamento. 
+Categoria bilanciato 
+Orizzonte temporale medio-lungo (tra 10 e 15 anni) 
+Grado di rischio medio-alto 
+Rendimento nominale medio annuo atteso 
+(in termini reali 2,50%)  
+4,60% 
+Inflazione media annua attesa 
+ 
+2,10% 
+Variabilità del rendimento medio annuo attesa (vola tilità) 
+ 
+5,10% 
+Probabilità che il rendimento risulti inferiore all’inflazione 2,80% 
+ 
+Comparto Dynamic 
+Finalità della gestione:  la gestione risponde alle esigenze di un soggetto che ricerca rendimenti più elevati 
+nel lungo periodo ed è disposto ad accettare un’esposizione ad un rischio alto, con una certa discontinuità dei 
+risultati nei singoli esercizi, o è molto distante dal pensionamento. 
+Categoria bilanciato 
+Orizzonte temporale medio-lungo (oltre 15 anni) 
+Grado di rischio alto 
+Rendimento nominale medio annuo atteso 
+(in termini reali 3,60%)  
+5,70% 
+Inflazione media annua attesa 
+ 
+2,10% 
+Variabilità del rendimento medio annuo attesa (vola tilità) 
+ 
+9,80% 
+Probabilità che il rendimento risulti inferiore all’inflazione 7,10%
+=== pagina 7 ===
+Documento sulla politica di investimento  Pagina 7/18  
+ 
+ 
+3. Criteri da seguire nell’attuazione della gestion e finanziaria 
+I criteri di attuazione della politica di investimento variano da comparto a comparto e si prefiggono, in coerenza 
+con i profili di rischio di ciascun comparto, un ob iettivo identificabile tra un graduale accresciment o del valore 
+del capitale investito in un orizzonte temporale congruo e la protezione del capitale stesso.  
+Le risorse del Fondo Pensione vengono investite pre valentemente in titoli di debito, titoli di capital e e OICR 
+(quote di fondi comuni di investimento, ETF). È inoltre prevista la possibilità di ricorrere a strumenti derivati.  
+Per ogni comparto di investimento è stato adottato un parametro oggettivo e confrontabile per la valut azione 
+dei risultati di gestione. La gestione finanziaria è attuata in conformità e nei limiti stabiliti dalla normativa vigente 
+e, in particolare, in conformità al d.lgs. n. 252/2005 e al D.M. n. 166/2014. 
+ 
+Criteri relativi al singolo comparto di investimento 
+ 
+Comparto Guaranty 
+Politica di gestione:  prevalentemente orientata verso titoli di debito d i breve durata; è possibile una 
+componente residuale in strumenti finanziari di natura azionaria (comunque non superiore al 10%); la gestione 
+si pone l’ulteriore obiettivo di controllare il ris chio attraverso la riduzione dell’esposizione in at tività di natura 
+azionaria nelle fasi di mercato negative. 
+Asset Allocation  
+Strategica 
+60% 
+Obbligazioni 
+governative       
+area Euro 
+35% 
+Titoli corporate   
+area Euro 
+5% 
+Azioni 
+0% 
+Liquidità 
+Tattica 
+0 - 100% 
+Obbligazioni 
+governative 
+0 - 70% 
+Titoli corporate 
+0 - 10% 
+Azioni 
+0 - 30% 
+Liquidità 
+ 
+Strumenti finanziari:  prevalentemente titoli di debito e strumenti finan ziari azionari; fondi comuni di 
+investimento (OICR); strumenti derivati.. L'investimento in OICR, ivi inclusi quelli istituiti da imprese del gruppo 
+di appartenenza del gestore, è consentito fatta sal va la completa retrocessione delle commissioni grav anti 
+sugli stessi e a condizione che essi siano utilizza ti al fine di assicurare una efficiente gestione de l portafoglio 
+tramite una adeguata diversificazione del rischio, che le politiche di investimento siano compatibili con quelle 
+della politica di investimento del comparto e che l ’investimento in OICR non generi una concentrazione  del 
+rischio incompatibile con quella prevista per il comparto. 
+Categorie di emittenti e settori industriali:  la politica di investimento utilizzata per i mercati azionari privilegia 
+i titoli di larga capitalizzazione. Per quanto attiene alla qualità delle emissioni di debito utilizzate, la gestione è 
+indirizzata al rispetto di un rating minimo pari a BBB- secondo la scala di valutazione Standard & Poo r’s o 
+analogo livello secondo le scale di valutazione Moody’s o Fitch. 
+Aree geografiche di investimento:  prevalentemente area euro. 
+Aspetti etici, sociali e ambientali: non promuove caratteristiche ambientali o sociali e non ha come obiettivo 
+investimenti sostenibili. Nei processi decisionali sono integrati i rischi di sostenibilità. 
+Durata media finanziaria ( duration ) della componente obbligazionaria: 3,26 anni (al 31.12.2025)
+=== pagina 8 ===
+Documento sulla politica di investimento  Pagina 8/18  
+ 
+ 
+Rischio cambio:  tendenzialmente non coperto. 
+Benchmark:  60% ICE BofA 1-5 Year Euro Government Index, 35% I CE BofA 1-5 Year Euro Corporate, 5% 
+MSCI World TR Net Div conv. in Euro al cambio WM Re uters. 
+Modalità di gestione:  gestito dalla Cassa Centrale Raiffeisen mediante delega a gestori autorizzati. 
+Stile di gestione:  attivo, coerentemente con gli obiettivi del compar to in termini di rendimento e rischio. Gli 
+indicatori monitorati sono: 
+ Turnover di portafoglio: riferibile a condizioni ordinarie di mercato e di operatività, non è da intendersi come 
+vincolo assoluto, ma quale parametro per la valutaz ione della gestione; ove venga rilevato un tasso di  
+turnover superiore rispetto al livello prestabilito, si procede a verifica e al gestore possono essere richieste 
+le motivazioni che hanno portato a tale scostamento.  
+ Tracking Error Volatility (TEV) ex-post: viene utilizzato per verificare l’assunzione del rischio attivo da parte 
+del gestore su uno specifico orizzonte temporale. 
+Stile di gestione Livello massimo 
+TURNOVER (annuo)  100% 
+TEV ex-post (espresso su base annua e calcolato su 1 anno di 
+osservazioni giornaliere degli extra rendimenti, rispetto al benchmark)  3,50% 
+ 
+Comparto Safe 
+Politica di gestione:  la gestione attua una politica di investimento vol ta a perseguire una composizione del 
+portafoglio esclusivamente orientata verso titoli o bbligazionari di emittenti internazionali denominat i in Euro o 
+in altra valuta. 
+Asset Allocation  
+Strategica 
+60% 
+Obbligazioni 
+governative       
+40% 
+Obbligazioni 
+corporate 
+0% 
+Azioni 
+0% 
+Liquidità 
+Tattica 
+30 - 100% 
+Obbligazioni 
+governative 
+0 - 50% 
+Obbligazioni 
+corporate 
+0% 
+Azioni 
+0 - 20% 
+Liquidità 
+ 
+ 
+Strumenti finanziari:  prevalentemente titoli di debito, anche convertibili; fondi comuni di investimento (OICR); 
+strumenti derivati. L'investimento in OICR, ivi inc lusi quelli istituiti da imprese del gruppo di appa rtenenza del 
+gestore, è consentito fatta salva la completa retro cessione delle commissioni gravanti sugli stessi e a 
+condizione che essi siano utilizzati al fine di ass icurare una efficiente gestione del portafoglio tra mite una 
+adeguata diversificazione del rischio, che le politiche di investimento siano compatibili con quelle della politica 
+di investimento del comparto e che l’investimento i n OICR non generi una concentrazione del rischio 
+incompatibile con quella prevista per il comparto. 
+Categorie di emittenti e settori industriali:  la gestione è indirizzata esclusivamente verso titoli obbligazionari 
+di emittenti internazionali denominati in Euro o in altra valuta. Per quanto attiene alla qualità delle emissioni di
+=== pagina 9 ===
+Documento sulla politica di investimento  Pagina 9/18  
+ 
+ 
+debito utilizzate, la gestione è indirizzata al ris petto di un rating minimo pari a BBB- secondo la sc ala di 
+valutazione Standard & Poor’s o analogo livello sec ondo le scale di valutazione Moody’s o Fitch. L’inc idenza 
+massima dei titoli obbligazionari con rating pari a  BBB- secondo la scala di valutazione di Standard &  Poor’s 
+o analogo livello secondo le scale di valutazione M oody’s o Fitch dovrà essere inferiore od uguale al 5% 
+dell’intero portafoglio. Tuttavia, il gestore si im pegna ad adottare, conformemente a quanto stabilito  dalla 
+normativa di riferimento e dalle disposizioni della COVIP in merito all’utilizzo dei giudizi delle agenzie di rating 
+da parte delle forme pensionistiche complementari, opportune misure che limitano l’utilizzo esclusivo o 
+meccanicistico dei giudizi di rating, elaborati dal le agenzie specializzate, nelle decisioni di invest imento e 
+disinvestimento, e utilizzerà quindi i rating come uno dei fattori utili per la valutazione del merito creditizio degli 
+emittenti i titoli di debito, non escludendo, se rilevanti, altre informazioni disponibili. 
+Aree geografiche di investimento:  Gli investimenti sono diversificati a livello globale. 
+Aspetti etici, sociali e ambientali:  non promuove caratteristiche ambientali o sociali e non ha come obiettivo 
+investimenti sostenibili. Nei processi decisionali sono integrati i rischi di sostenibilità. 
+Durata media finanziaria ( duration ) della componente obbligazionaria: 6,11 anni (al 31.12.2025) 
+Rischio cambio:  tendenzialmente coperto. 
+Benchmark:  30% ICE BofA Euro Government Index, 20% ICE Bofa U S Treasuries Index Euro Hedged, 
+10% ICE BofA Euro Inflation-Linked Government Index , 20% ICE BofA Euro Corporate Index, 20% ICE BofA 
+US Corporate Index Euro Hedged. 
+ 
+Modalità di gestione:  gestito dalla Cassa Centrale Raiffeisen mediante delega a gestori autorizzati. 
+Stile di gestione:  attivo, coerentemente con gli obiettivi del compar to in termini di rendimento e rischio. Gli 
+indicatori monitorati sono: 
+ Turnover di portafoglio: riferibile a condizioni ordinarie di mercato e di operatività, non è da intendersi come 
+vincolo assoluto, ma quale parametro per la valutaz ione della gestione; ove venga rilevato un tasso di  
+turnover superiore rispetto al livello prestabilito, si procede a verifica e al gestore possono essere richieste 
+le motivazioni che hanno portato a tale scostamento.  
+ Tracking Error Volatility (TEV) ex-post: viene utilizzato per verificare l’assunzione del rischio attivo da parte 
+del gestore su uno specifico orizzonte temporale. 
+Stile di gestione Livello massimo 
+TURNOVER (annuo)  180% 
+TEV ex-post (espresso su base annua e calcolato su 1 anno di 
+osservazioni giornaliere degli extra rendimenti, rispetto al benchmark)  3,50%
+=== pagina 10 ===
+Documento sulla politica di investimento  Pagina 10/18  
+ 
+ 
+Comparto Activity 
+Politica di gestione:  la gestione è rivolta, per un massimo del 40% del portafoglio, verso l’acquisizione di titoli 
+rappresentativi di capitale di rischio di emittenti  internazionali, nonché, per la restante parte, di titoli di debito 
+di emittenti governativi o privati, denominati anche in valuta estera. 
+Asset Allocation  
+Strategica 
+50% 
+Obbligazioni 
+governative       
+20% 
+Obbligazioni 
+corporate 
+30% 
+Azioni 
+0% 
+Liquidità 
+Tattica 
+30 - 90% 
+Obbligazioni 
+governative 
+0 - 30% 
+Obbligazioni 
+corporate 
+10 - 40% 
+Azioni 
+0 - 20% 
+Liquidità 
+ 
+ 
+Strumenti finanziari:  prevalentemente strumenti finanziari azionari e ti toli di debito; fondi comuni di 
+investimento (OICR); strumenti derivati. L'investimento in OICR, ivi inclusi quelli istituiti da imprese del gruppo 
+di appartenenza del gestore, è consentito fatta sal va la completa retrocessione delle commissioni grav anti 
+sugli stessi e a condizione che essi siano utilizza ti al fine di assicurare una efficiente gestione de l portafoglio 
+tramite una adeguata diversificazione del rischio, che le politiche di investimento siano compatibili con quelle 
+della politica di investimento del comparto e che l ’investimento in OICR non generi una concentrazione  del 
+rischio incompatibile con quella prevista per il comparto.  
+Categorie di emittenti e settori industriali : La politica di investimento utilizzata per i merc ati azionari 
+privilegia i titoli di larga capitalizzazione. Per la parte rimanente possono essere effettuati invest imenti in titoli 
+obbligazionari denominati in Euro o in altra valuta . Per quanto attiene alla qualità delle emissioni d i debito 
+utilizzate, la gestione è indirizzata al rispetto d i un rating minimo pari a BBB- secondo la scala di valutazione 
+Standard & Poor’s o analogo livello secondo le scale di valutazione Moody’s o Fitch. L’incidenza massima dei 
+titoli obbligazionari con rating pari a BBB- second o la scala di valutazione di Standard & Poor’s o an alogo 
+livello secondo le scale di valutazione Moody’s o F itch dovrà essere inferiore od uguale al 5% dell’in tero 
+portafoglio. Tuttavia, il gestore si impegna ad ado ttare, conformemente a quanto stabilito dalla norma tiva di 
+riferimento e dalle disposizioni della COVIP in merito all’utilizzo dei giudizi delle agenzie di rating da parte delle 
+forme pensionistiche complementari, opportune misur e che limitano l’utilizzo esclusivo o meccanicistic o dei 
+giudizi di rating, elaborati dalle agenzie speciali zzate, nelle decisioni di investimento e disinvesti mento, e che 
+utilizzerà quindi i rating come uno dei fattori uti li per la valutazione del merito creditizio degli e mittenti i titoli di 
+debito, non escludendo, se rilevanti, altre informazioni disponibili. 
+Aree geografiche di investimento:  Gli investimenti sono diversificati a livello globale. 
+Aspetti etici, sociali e ambientali:  non promuove caratteristiche ambientali o sociali e non ha come obiettivo 
+investimenti sostenibili. Nei processi decisionali sono integrati i rischi di sostenibilità. 
+Durata media finanziaria ( duration ) della componente obbligazionaria: 7,16 anni (al 31.12.2025) 
+Rischio cambio:  parzialmente coperto. 
+Benchmark:  28% ICE BofA Euro Government Index, 15% ICE Bofa U S Treasuries Index Euro Hedged, 7% 
+ICE BofA Euro Inflation-Linked Government Index, 10% ICE BofA Euro Corporate Index, 10% ICE BofA US 
+Corporate Index Euro Hedged, 5% MSCI EMU Index, 25%  MSCI World ex EMU Index. 
+Modalità di gestione:  gestito dalla Cassa Centrale Raiffeisen mediante delega a gestori autorizzati. 
+Stile di gestione:  attivo, coerentemente con gli obiettivi del compar to in termini di rendimento e rischio. Gli 
+indicatori monitorati sono:
+=== pagina 11 ===
+Documento sulla politica di investimento  Pagina 11/18  
+ 
+ 
+ Turnover di portafoglio: riferibile a condizioni ordinarie di mercato e di operatività, non è da intendersi come 
+vincolo assoluto, ma quale parametro per la valutaz ione della gestione; ove venga rilevato un tasso di  
+turnover superiore rispetto al livello prestabilito, si procede a verifica e al gestore possono essere richieste 
+le motivazioni che hanno portato a tale scostamento.  
+ Tracking Error Volatility (TEV) ex-post: viene utilizzato per verificare l’assunzione del rischio attivo da parte 
+del gestore su uno specifico orizzonte temporale. 
+Stile di gestione Livello massimo 
+TURNOVER (annuo)  200% 
+TEV ex-post (espresso su base annua e calcolato su 1 anno di 
+osservazioni giornaliere degli extra rendimenti, rispetto al benchmark)  4,00% 
+ 
+ 
+Comparto Dynamic 
+Politica di gestione:  la gestione è rivolta per un minimo del 40% e per un massimo dell’80% del portafoglio, 
+verso l’acquisizione di titoli rappresentativi di c apitale di rischio di emittenti internazionali, non ché, per la 
+restante parte, di titoli di debito di emittenti governativi o privati, denominati anche in valuta estera. 
+Asset Allocation  
+Strategica 
+30% 
+Obbligazioni 
+governative       
+0% 
+Obbligazioni 
+corporate 
+70% 
+Azioni 
+0% 
+Liquidità 
+Tattica 
+0 - 60% 
+Obbligazioni 
+governative 
+0 - 10% 
+Obbligazioni 
+corporate 
+40 - 80% 
+Azioni 
+0 - 20% 
+Liquidità 
+ 
+ 
+Strumenti finanziari:  prevalentemente strumenti finanziari azionari e ti toli di debito; fondi comuni di 
+investimento (OICR); strumenti derivati. L'investimento in OICR, ivi inclusi quelli istituiti da imprese del gruppo 
+di appartenenza del gestore, è consentito fatta sal va la completa retrocessione delle commissioni grav anti 
+sugli stessi e a condizione che essi siano utilizza ti al fine di assicurare una efficiente gestione de l portafoglio 
+tramite una adeguata diversificazione del rischio, che le politiche di investimento siano compatibili con quelle 
+della politica di investimento del comparto e che l ’investimento in OICR non generi una concentrazione  del 
+rischio incompatibile con quella prevista per il comparto. 
+Categorie di emittenti e settori industriali:  La politica di investimento utilizzata per i merca ti azionari 
+privilegia i titoli di larga capitalizzazione. Per la parte rimanente possono essere effettuati invest imenti in titoli 
+obbligazionari denominati in Euro o in altra valuta . Per quanto attiene alla qualità delle emissioni d i debito 
+utilizzate, la gestione è indirizzata al rispetto d i un rating minimo pari a BBB- secondo la scala di valutazione 
+Standard & Poor’s o analogo livello secondo le scale di valutazione Moody’s o Fitch. L’incidenza massima dei 
+titoli obbligazionari con rating inferiore a BBB- s econdo la scala di valutazione Standard & Poor’s o analogo 
+livello secondo le scale di valutazione Moody’s o Fitch o privi di rating dovrà essere inferiore od ug uale al 5% 
+dell’intero portafoglio. Tuttavia, il gestore si im pegna ad adottare, conformemente a quanto stabilito  dalla 
+normativa di riferimento e dalle disposizioni della COVIP in merito all’utilizzo dei giudizi delle agenzie di rating
+=== pagina 12 ===
+Documento sulla politica di investimento  Pagina 12/18  
+ 
+ 
+da parte delle forme pensionistiche complementari, opportune misure che limitano l’utilizzo esclusivo o 
+meccanicistico dei giudizi di rating, elaborati dal le agenzie specializzate, nelle decisioni di invest imento e 
+disinvestimento, e che utilizzerà quindi i rating come uno dei fattori utili per la valutazione del merito creditizio 
+degli emittenti i titoli di debito, non escludendo, se rilevanti, altre informazioni disponibili. 
+Aree geografiche di investimento:  Gli investimenti sono diversificati a livello globale. 
+Aspetti etici, sociali e ambientali:  non promuove caratteristiche ambientali o sociali e non ha come obiettivo 
+investimenti sostenibili. Nei processi decisionali sono integrati i rischi di sostenibilità. 
+Durata media finanziaria ( duration ) della componente obbligazionaria:  7,59 anni (al 31.12.2025) 
+Rischio cambio:  parzialmente coperto. 
+Benchmark:  22% ICE BofA Euro Government Index, 8% ICE Bofa US  Treasuries Index Euro Hedged, 10% 
+MSCI EMU Index, 35% MSCI World ex EMU Index Euro He dged, 20% MSCI World ex EMU Index, 5% 
+MSCI Emerging Markets Index. 
+Modalità di gestione:  gestito dalla Cassa Centrale Raiffeisen mediante delega a gestori autorizzati. 
+Stile di gestione:  attivo, coerentemente con gli obiettivi del compar to in termini di rendimento e rischio. Gli 
+indicatori monitorati sono: 
+ Turnover di portafoglio: riferibile a condizioni ordinarie di mercato e di operatività, non è da intendersi come 
+vincolo assoluto, ma quale parametro per la valutaz ione della gestione; ove venga rilevato un tasso di  
+turnover superiore rispetto al livello prestabilito, si procede a verifica e al gestore possono essere richieste 
+le motivazioni che hanno portato a tale scostamento.  
+ Tracking Error Volatility (TEV) ex-post: viene utilizzato per verificare l’assunzione del rischio attivo da parte 
+del gestore su uno specifico orizzonte temporale. 
+Stile di gestione Livello massimo 
+TURNOVER (annuo)  350% 
+TEV ex-post (espresso su base annua e calcolato su 1 anno di 
+osservazioni giornaliere degli extra rendimenti, rispetto al benchmark)  5,00% 
+ 
+Criteri relativi a tutti i comparti di investimento 
+ 
+ESG 
+Gli emittenti in cui vengono investite le risorse d el Fondo Pensione sono oggetto di attenta analisi e  
+valutazione, sia in fase di selezione che in fase di partecipazione, con riguardo alle pratiche ESG.   
+L’approccio agli investimenti sostenibili e responsabili è di triplice natura: 
+ “esclusione mirata”: vengono “escluse” ex-ante dall ’universo investibile emittenti che non rispettano 
+determinati standard di comportamento dal punto di vista ambientale, sociale e di governance; 
+ “valutazione del grado di coerenza con i criteri ESG e Best in class”: le decisioni di investimento si basano 
+su una valutazione ex-ante di tipo “quantitativa” e  di tipo “qualitativa” della corrispondenza ai crit eri ESG 
+da parte delle emittenti rientranti nell’universo i nvestibile e vengono successivamente monitorate e 
+valutate rispetto alle modifiche e allo sviluppo della rispettiva corrispondenza;  
+ “azionariato attivo”: gli emittenti in portafoglio vengono monitorate sotto l’aspetto ESG, affinché, in caso di 
+criticità o opportunità rilevate, il Fondo Pensione  possa intervenire con attività di engagement secon do 
+quanto anche stabilito dalla direttiva (UE) 2017/828 (c.d. Shareholder Rights Directive II).
+=== pagina 13 ===
+Documento sulla politica di investimento  Pagina 13/18  
+ 
+ 
+Tale approccio permette di esaminare il comportamen to delle emittenti nelle aree ambiente, sociale e 
+governance, di valutare la relativa esposizione a rischi e di monitorare la gestione delle connesse opportunità 
+e criticità.  
+Esercizio dei diritti di voto 
+La titolarità del diritto di voto inerente ai valor i mobiliari oggetto della gestione spetta alla Cass a Centrale 
+Raiffeisen. Le modalità e i criteri per l’esercizio  del diritto di voto sono riportati nel documento r elativo alla 
+politica di impegno pubblicato sul sito del Fondo Pensione. 
+Deleghe di gestione 
+La Cassa Centrale Raiffeisen affida a gestori autor izzati l’incarico di effettuare le specifiche scelt e di 
+investimento riguardanti i singoli comparti di investimento, con riferimento ai mercati e alle tipologie di strumenti 
+finanziari consentiti dal Regolamento del Fondo Pen sione. L’incarico è svolto dai gestori nel rigoroso  rispetto 
+dei criteri di allocazione definiti di tempo in tem po dalla Cassa Centrale Raiffeisen in coerenza con la politica 
+di investimento dei comparti di investimento e dei limiti previsti dal d.lgs. n. 252/2005 e dal D.M. n . 166/2014. 
+Le deleghe non comportano alcun esonero o limitazio ne di responsabilità della Cassa Centrale Raiffeise n e 
+sono revocabili in qualunque momento. La struttura commissionale è fissa e non prevede alcun incentivo . 
+La Cassa Centrale Raiffeisen, opera un costante con trollo sulla rispondenza dell’esecuzione delle atti vità 
+delegate alle istruzioni periodicamente impartite.
+=== pagina 14 ===
+Documento sulla politica di investimento  Pagina 14/18  
+ 
+ 
+4. Sistema di controllo e valutazione dei risultati  conseguiti 
+La Funzione Finanza e il Risk management della Cass a Centrale Raiffeisen adottano una serie di process i, 
+definiti nell’insieme delle procedure aziendali, al fine di verificare che le azioni poste in essere dai vari soggetti 
+coinvolti nel processo risultino in grado di assicu rare gli obiettivi finanziari stabiliti. I controll i vengono svolti 
+periodicamente dalla Funzione Finanza e dal Risk ma nagement anche sulla base di report che analizzino la 
+rischiosità dei portafogli elaborati da professionisti del settore. 
+Il sistema di controllo della gestione finanziaria implementato risulta nel suo complesso articolato e strutturato 
+e fa riferimento innanzitutto alle soglie di rischi osità ed ai principali parametri di gestione. In pa rticolare, il 
+Fondo Pensione è gestito in funzione di un parametro di riferimento (benchmark). Il monitoraggio del rischio e 
+del rendimento avviene quindi in relazione al parametro di riferimento scelto. 
+ 
+Rischi oggetto di controllo 
+ 
+Rischio di Mercato 
+Il software dedicato all’analisi del rischio di mercato adotta un modello di simulazione storica, mapp ando ogni 
+strumento su specifici fattori di rischio e utilizz ando il repricing degli strumenti finanziari più co mplessi. 
+L’obiettivo del modello è creare delle distribuzioni discrete di rendimenti attesi futuri per tutti gli asset finanziari 
+e le combinazioni degli stessi (portafogli) sulle q uali poi calcolare le misure di rischio. Le distrib uzioni dei 
+rendimenti attesi vengono stimate dal modello utilizzando delle serie storiche dei fattori di rischio di 2 anni. 
+Il modello fornisce un’ampia gamma di indicatori di  rischio, basati sia su stime di rischio ex-ante ch e ex-post, 
+sia a livello del singolo titolo che di portafoglio . Tra gli indicatori per misurare il rischio di mer cato si hanno: 
+VaR, Expected Shortfall, volatilità attesa, tracking error, etc. Gli indicatori di rischio sono calcolati considerando 
+un intervallo di confidenza del 95% e con orizzonte temporale di un anno. 
+Rischio di Mercato – Stress test 
+Gli stress test simulano movimenti estremi nei fatt ori di rischio al fine di misurare la “vulnerabilit à” del 
+portafoglio finanziario del Comparto in funzione de l verificarsi di tali eventi. Gli stress test posso no essere 
+utilizzati come complemento dell’analisi del VaR, garantendo così un’analisi più completa del grado di rischio 
+del Comparto. Nel caso specifico, si possono distinguere: 
+ scenari storici: si simulano gli effetti sul patrimonio del comparto nel caso di riproposizione di eventi/shock 
+passati. In questo caso la simulazione prende in co nsiderazione le variabili di tutti i fattori di ris chio 
+avvenute durante l’evento (es: crisi del credito del 2007 crisi del debito sovrano 2010, etc.); 
+ scenari di mercato: nel caso in cui si voglia valut are gli effetti sul patrimonio del comparto nel cas o di 
+verificarsi di specifiche e particolari condizioni di mercato (ad esempio, l’effetto di un aumento /diminuzione 
+dei tassi d’interesse, tenendo ferme tutte le altre variabili). 
+Rischio di Liquidità 
+Viene effettuta alla data di valutazione un’analisi  del rischio di liquidità a cui ciascun comparto de l Fondo 
+Pensione è esposto, fornendo separatamente il dettaglio per asset class.  
+Vengono esclusi da questo tipo di analisi le posizi oni non negoziate sui mercati regolamentati (curren cy 
+forwards) per le quali non sono disponibili dati di  mercato e la cui dinamica è da attribuirsi alla sp ecifica 
+contrattazione tra le parti.  
+Per ogni comparto viene stimato il costo medio impl icito di liquidazione, calcolato come media pondera ta dei 
+bid-ask spreads degli strumenti finanziari nei quali si concentra l’investimento in termini di punti base.  
+Una misura più contenuta indica un minore costo atteso necessario per la liquidazione delle posizioni.
+=== pagina 15 ===
+Documento sulla politica di investimento  Pagina 15/18  
+ 
+ 
+Viene altresì effettuata una stima per comparto e per asset class del “Liquidity Score”, inteso come p unteggio 
+relativo da 0 a 100 dove 0 indica una liquidità estremamente limitata e 100 il maggior grado possibile di liquidità 
+(paragonabile alla detenzione di strumenti di mercato monetario).  
+Di seguito è presente il dettaglio dei tre indicatori utilizzati per misurare il rischio di liquidità. 
+1) Liquidity Score 
+Il punteggio di liquidità è un indicatore basato sulla metodologia della liquidità di proprietà del software adottato. 
+Esso è misurato su una scala da 1 a 100 (ove 100 è il più liquido) e riassume la liquidità relativa di  uno 
+strumento nell’universo in questione. In tal senso la liquidità consiste nella capacità di vendere un titolo al 
+prezzo più basso per un range paragonabile di volumi. 
+Il punteggio di liquidità confronta i titoli in bas e alla loro liquidità relativa piuttosto che a metr iche assolute. 
+Questo punteggio normalizzato confronta il costo di  liquidazione medio atteso per un intervallo di vol umi, 
+ipotizzando un orizzonte di liquidazione di un giorno. 
+Questo indicatore riflette il grado centile del titolo all'interno di un gruppo di titoli equiparabili ed è rappresentato 
+con un valore compreso tra 1 e 100. Un punteggio di 100 indica il titolo più liquido, riflettendo il costo medio di 
+liquidazione più basso per un intervallo di volumi. 
+Poiché il punteggio di liquidità è una misura relat iva, i titoli devono essere confrontati su base omo genea 
+affinché tale punteggio sia significativo. Il probl ema è vincolato sia in termini di tempo che di volu me per 
+raggiungere questo obiettivo. Viene scelto un orizz onte temporale di un giorno, con un intervallo di v olume 
+fisso per asset class. Il tempo è fisso, e ciò cons ente di ridurre la superficie di liquidità (compost a da tre 
+dimensioni: tempo, volume e costo) in una curva (composta da due dimensioni: volume e costo). 
+2) Bid-ask spread 
+È la differenza tra il prezzo bid (denaro) e il prezzo ask (lettera) praticato da un dealer. 
+Il prezzo bid è il prezzo al quale il dealer è disp osto ad acquistare uno strumento finanziario; al co ntrario, il 
+prezzo ask è quello al quale il dealer è disposto a vendere tale strumento. 
+Il prezzo ask è superiore al prezzo bid. Dal lato d ell’investitore, il bid-ask spread rappresenta il c osto di 
+transazione implicito (che si differenzia dal principale costo di transazione esplicito, ovvero dalla commissione 
+effettivamente pagata). 
+Relazione tra bid-ask spread e liquidità 
+La dimensione dello spread bid-ask da un’attività a ll’altra differisce principalmente a causa della differenza di 
+liquidità di ciascuna attività. Lo spread bid-ask è  la misura de facto della liquidità del mercato. Al cuni mercati 
+sono più liquidi di altri e ciò dovrebbe rifletters i nei loro spread inferiori. In sostanza, i promoto ri di transazioni 
+(price taker) richiedono liquidità mentre le controparti (market maker) forniscono liquidità. 
+La valuta è considerata l’asset più liquido di tutti e lo spread bid-ask nel mercato valutario è uno dei più piccoli. 
+D’altra parte, le attività meno liquide, come le az ioni a bassa capitalizzazione, possono avere spread  anche 
+superiori all’1% del prezzo richiesto più basso dell’asset.  
+3) Costo medio di liquidazione 
+Viene stimato come la media ponderata dei Bid- Ask Spread percentuali di ogni strumento presente in 
+portafoglio. Il Bid-Ask Spread percentuale indica q uale costo bisognerebbe sostenere per liquidare lo 
+strumento. Un valore più piccolo di questa misura indica un minore costo necessario per la liquidazione. 
+Rischio ESG (ambientali, sociali e di governance): 
+Il software dedicato all’analisi del rischio di mer cato consente di replicare le analisi di rischio e performance 
+attribution rispetto ai fattori ESG.  
+I dati ESG  sono il risultato di una metodologia che si basa esclusivamente su informazioni pubbliche da parte 
+di aziende, data providers e media. Il modello di v alutazione ESG effettua una duplice classificazione  con 
+l’obiettivo di tradurre i dati qualitativi in indicatori quantitativi, assegnando a ciascun titolo un rating e uno score.
+=== pagina 16 ===
+Documento sulla politica di investimento  Pagina 16/18  
+ 
+ 
+Lo score ha un livello di granularità maggiore rispetto alla classe di rating, fattore che permette di identificare, 
+anche all’interno della classe, le eventuali tendenze positive o negative. 
+Il rating ESG prevede una metrica che parte dalla c lasse di rating più alta, A+, fino ad arrivare alla  classe di 
+rating più bassa, C. Di seguito la descrizione qualitativa delle diverse classi di rating: 
+Classe di rating Definizione 
+A+, A La società dimostra un’attitudine strategica orient ata al lungo periodo e all’innovazione, una 
+struttura di gestione operativa robusta e coerente e un contributo alla creazione di valore sociale 
+e ambientale.  
+B+ La società dimostra un'attitudine strategica chiara  e orientata anche al lungo periodo, una 
+struttura di gestione operativa definita e uno sforzo per contribuire alla creazione di valore sociale 
+e ambientale.  
+B, C+ La società dimostra un'attitudine strategica poco o rientata al lungo periodo, una struttura di 
+gestione operativa in linea con lo standard regolamentare e un modesto contributo alla creazione 
+di valore sociale e ambientale.  
+C La società dimostra un'attitudine strategica non or ientata al lungo periodo, una struttura di 
+gestione operativa debole e nessun contributo alla creazione di valore sociale e ambientale. 
+La classificazione in termini di rating e scoring viene eseguita sia a livello complessivo ESG, sia per ogni fattore 
+che lo compone: Environment, Social and Governance.  
+La valutazione dei singoli titoli permette a livell o aggregato di fornire un rating e uno scoring anch e dell’intero 
+portafoglio ed il confronto con il riferimento, per mette di osservare la distribuzione per classi all’ interno di 
+portafogli e benchmark.  
+ 
+Obiettivi e criteri oggetto di analisi e valutazione 
+ 
+Asset Allocation 
+Periodicamente, per quanto riguarda l’asset allocat ion strategica, si verifica la coerenza delle sogli e di 
+rischiosità con l’obiettivo finanziario e con la strategia posta in essere.  
+Con frequenza triennale viene effettua un’analisi d emografica a supporto delle scelte di asset allocat ion e al 
+fine di valutare la sua adeguatezza rispetto alle esigenze dei membri e ai loro obiettivi di rischio/rendimento.  
+Performance attribution 
+Il sistema di controllo della gestione finanziaria prevede meccanismi di regolare monitoraggio del rap porto 
+rischio-rendimento. 
+L’analisi di performance attribution è uno strument o particolarmente utile per il monitoraggio, il con trollo e la 
+valutazione delle attività di gestione di un portaf oglio. Oltre a evidenziare da dove deriva la perfor mance del 
+portafoglio e del benchmark, si pone l’obiettivo di spiegare e attribuire le differenze tra il rendimento raggiunto 
+dal portafoglio e quello del benchmark ai diversi effetti che la compongono (allocazione, selezione, valutario), 
+scomponendo il rendimento in base alla struttura caratterizzante il portafoglio. 
+L’analisi di performance attribution è strutturata su diversi livelli in base alla natura del portafog lio: per un 
+portafoglio azionario può essere rilevante l’analisi per settore, piuttosto che per paese o per valuta, mentre per 
+un portafoglio obbligazionario è più indicata una scomposizione per duration, piuttosto che per tipo cedola, per 
+rating, per paese o per valuta. La flessibilità del  software permette di analizzare il portafoglio in profondità, 
+individuando le dinamiche che hanno concorso a produrre la performance del portafoglio da più punti di vista.  
+Il modello di performance attribution utilizzato co nsente di ottenere una scomposizione dell’extra-ren dimento 
+in singole componenti distintamente identificabili nel processo di gestione considerando gli effetti allocazione, 
+selezione/interazione e valutario.  
+L’effetto allocazione misura l’abilità del gestore nell’efficace posizionamento degli assets di portafoglio nei vari 
+segmenti quali ad esempio le diverse asset class o i segmenti più articolati come l’area geografica, la valuta o
+=== pagina 17 ===
+Documento sulla politica di investimento  Pagina 17/18  
+ 
+ 
+il settore economico. Determina se il sovrappeso o il sottopeso di un segmento rispetto al peso dello stesso 
+nel benchmark sia stato una scelta positiva o negativa di allocazione nel portafoglio. 
+L’effetto selezione misura la capacità del gestore nella selezione dei titoli (stock / bond picking) a ll’interno del 
+basket di titoli contenuti in un segmento del benchmark. La sovra o sotto performance del portafoglio è pesata 
+per il peso del benchmark e quindi l’effetto selezi one non è inficiato dall’allocazione del gestore in  quel 
+segmento. 
+L’effetto interazione misura l’impatto combinato delle decisioni di selezione dei titoli e di allocazione all’interno 
+di un segmento. L’effetto interazione è considerato  congiuntamente con l’effetto selezione nel modulo di 
+calcolo della performance. 
+L’effetto valutario riflette la qualità della strat egia di allocazione valutaria rispetto all’allocazi one valutaria del 
+benchmark di riferimento. 
+Modalità e periodicità dei controlli 
+ 
+Controlli ex-ante 
+Parametro Modalità di verifica Periodicità  
+Volatilità attesa  Calcolo del valore del comparto e confronto con il  benchmark Mensile 
+VaR  Calcolo del valore del comparto e confronto con il  benchmark Mensile 
+Expected Shortfall  Calcolo del valore del comparto e confronto con il  benchmark Mensile 
+Tracking Error Volatility  Controllo sul valore di TEV ex-ante calcolato sull’esposizione corrente 
+del portafoglio Mensile 
+Rischio ESG  Calcolo delle esposizioni di portafoglio e dei contributi al rischio 
+assoluto e relativo (confronto con il benchmark) Mensile 
+ 
+Controlli ex-post 
+Parametro Modalità di verifica Periodicità  
+Duration  Calcolo del valore del Comparto e confronto con il  benchmark Mensile 
+Tracking Error Volatility 
+ 
+Controllo sul valore di TEV ex-post per verificare l’assunzione del 
+rischio attivo da parte del gestore su uno specifico orizzonte temporale  Mensile 
+Performance Attribution  Attribuzione dei risultati conseguiti in termini di rischio e rendimento a 
+diversi fattori  Mensile 
+Limiti di investimento  Verifica di eventuali sforamenti rispetto ai limit i prestabiliti Mensile 
+Turnover di portafoglio Calcolo e monitoraggio del valore Annuale 
+Applicazione e attuazione 
+politica di investimento  
+Verifica delle procedure adottate per l’impostazione e l’attuazione 
+della politica di investimento  Annuale 
+Popolazione di Riferimento Analisi della struttura aderenti per età, sesso, livello medio di 
+contribuzione e dell’ andamento nuove adesioni  Triennale 
+ESG Attribuzione dei risultati di rischio - rendimento assoluti e relativi 
+(versus benchmark) del portafoglio  Mensile
+=== pagina 18 ===
+Documento sulla politica di investimento  Pagina 18/18  
+ 
+ 
+5. Modifiche apportate nell'ultimo triennio 
+01.10.2018 
+Aggiornamento a seguito dell’introduzione del compa rto di investimento “Guaranty”. Aggiornamento dei d ati 
+relativi alla volatilità stimata dei singoli compar ti di investimento e della probabilità che il rendi mento possa 
+risultare inferiore all’inflazione. 
+ 
+21.06.2021 
+Revisione periodica ai sensi della Deliberazione della COVIP del 16.03.2012 e aggiornamento, anche in base 
+alle deliberazioni del COVIP del 29.07.2020 e del 13.01.2021, derivanti in particolare dalle norme di attuazione 
+della direttiva (UE) 2016/2341 (IORP II). Eliminata  la sezione “Compiti e responsabilità dei soggetti coinvolti 
+nel processo di investimento”, ora riportata nel “Documento sul sistema di governo societario”, in ottemperanza 
+alle istruzioni della COVIP. 
+Aggiornamento dell’analisi delle caratteristiche socio-demografiche della popolazione di riferimento e dei suoi 
+bisogni previdenziali, ai fini della verifica della  rispondenza degli obiettivi e dei criteri della po litica di 
+investimento di ciascun comparto di investimento ag li interessi degli aderenti. Aggiornamento dei dati  relativi 
+ai rendimenti attesi e ai limiti per ciascun compar to di investimento e integrazione di informazioni r elative ai 
+fattori ESG. 
+ 
+16.08.2022 
+Aggiornamento a seguito della variazione del benchmark dei comparti di investimento Activity e Dynamic con 
+decorrenza 01.10.2022. Aggiornamento, con riguardo a i quattro comparti di investimento Guaranty, Safe, Activity 
+e Dynamic, del rendimento medio annuo atteso, della variabilità del rendimento medio annuo attesa (volatilità 
+annualizzata), della probabilità che il rendimento risulti inferiore all’inflazione e della durata med ia finanziaria 
+(duration) della componente obbligazionaria.  
+ 
+24.06.2024 
+Revisione periodica ai sensi della Deliberazione de lla COVIP del 16.03.2012. 
+Aggiornamento dei contenuti anche in base alla nuov a analisi delle caratteristiche socio-demografiche della 
+popolazione di riferimento e dei suoi bisogni previdenziali, ai fini della verifica della rispondenza degli obiettivi 
+e dei criteri della politica di investimento di cia scun comparto di investimento agli interessi degli aderenti. 
+Aggiornamento dei rischi oggetto di controllo e delle modalità e periodicità dei controlli degli stessi.  
+ 
+23.02.2026 
+Aggiornamento a seguito della variazione del benchmark dei comparti di investimento Guaranty, Safe, Activity e 
+Dynamic con decorrenza 01.03.2026. Aggiornamento, con riguardo a i quattro comparti di investimento Guaranty, 
+Safe, Activity e Dynamic, del rendimento medio annu o atteso, della variabilità del rendimento medio an nuo 
+attesa (volatilità annualizzata), della probabilità  che il rendimento risulti inferiore all’inflazione  e della durata 
+media finanziaria (duration) della componente obbli gazionaria. Modifica del livello massimo assumibile  di 
+Tracking Error Volatility (TEV) ex-post dei comparti di investimento Activity e Dynamic.

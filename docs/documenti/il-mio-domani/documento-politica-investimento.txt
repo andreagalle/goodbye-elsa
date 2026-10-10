@@ -1,0 +1,1002 @@
+# Fondo: FONDO PENSIONE APERTO IL MIO DOMANI (il-mio-domani)
+# Documento: Documento sulla politica di investimento – Politica di Investimento
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/altro/006/Politica%20di%20Investimento.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/il-mio-domani.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 73ae0e56215deebcc342dcb84ff1dc67f99969527f78ac1448c51a378ccf1a55
+# Pagine: 26
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+IL MIO DOMANI 
+Fondo Pensione Aperto 
+ 
+Politica di investimento
+=== pagina 2 ===
+2 
+ANAGRAFICA 
+Data di emanazione: 26/02/2025 
+Data di applicazione: 26/02/2025 
+Versione:5.0  
+   
+    
+CRONOLOGIA DEL DOCUMENTO 
+ 
+Data Autore Versione e modifiche 
+Versione 1.0  Prima edizione 
+14/12/2012 Intesa Sanpaolo Previdenza SIM S.p.A. 
+Data di prima approvazione del 
+Consiglio di Amministrazione di Intesa 
+Sanpaolo Previdenza SIM S.p.A. 
+30/10/2014 Intesa Sanpaolo Previdenza SIM S.p.A. 
+Aggiornamento del documento che 
+recepisce la metodologia di 
+valutazione del rischio di credito 
+(“Credit Rating Policy”) 
+Approvato dal Consiglio di 
+Amministrazione di Intesa Sanpaolo 
+Previdenza SIM S.p.A. il 30/10/2014. 
+18/12/2014 
+Risk Management 
+Intesa Sanpaolo Vita 
+Edizione redatta in seguito 
+all’acquisizione del fondo da Intesa 
+Sanpaolo Previdenza.   
+Approvato dal Consiglio di 
+Amministrazione di Intesa Sanpaolo 
+Vita S.p.A. il 18/12/2014. 
+03/11/2015 
+Risk Management 
+Intesa Sanpaolo Vita 
+Modifica documento in seguito alla 
+fusione dei FPA Intesa Mia 
+Previdenza, Sanpaolo Previdenza e 
+Sanpaolo Previdenza Aziende 
+Approvato dal Consiglio di 
+Amministrazione di Intesa Sanpaolo 
+Vita S.p.A. il 03/11/2015. 
+Versione 2.0  Revisione triennale 
+1/1/2016 
+Risk Management 
+Intesa Sanpaolo Vita 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+17/12/2015. 
+14/3/2016 
+Risk Management 
+Intesa Sanpaolo Vita 
+Modifica documento in seguito 
+all’adeguamento al decreto del 
+Ministero dell’Economia e delle 
+Finanze DM 166/2014.
+=== pagina 3 ===
+3 
+ 
+ 
+  
+Approvato del Consiglio di 
+Amministrazione di Intesa Sanpaolo 
+Vita S.p.A. in data 14/3/2016. 
+19/12/2017 
+Risk Management 
+Intesa Sanpaolo Vita 
+Aggiornamento dell’orizzonte 
+temporale dei comparti “Linea Lungo 
+Termine” e “Linea Medio Termine” per 
+formale adeguamento alle definizioni 
+degli orizzonti temporali della 
+Deliberazione COVIP del 25 maggio 
+2016, che ha modificato lo “Schema 
+di Nota informativa delle forme 
+pensionistiche complementari” 
+approvato con Delibera COVIP del 
+31 ottobre 2006 
+Aggiornamento della struttura 
+organizzativa  
+Approvato dal Consiglio di 
+Amministrazione di Intesa Sanpaolo 
+Vita S.p.A. il 19/12/2017 
+Versione 3.0  Revisione triennale 
+14/10/2019 
+Risk Management 
+Intesa Sanpaolo Vita 
+Strutturazioni di tre nuovi comparti e 
+descrizione dei connotati ESG. 
+Aggiornamento degli indicatori quali-
+quantitativi dei singoli comparti. 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+14/10/2019 
+07/04/2021 
+Risk Management 
+Intesa Sanpaolo Vita 
+Eliminazione del Capitolo “Compiti e 
+responsabilità dei soggetti coinvolti” a 
+seguito della Delibera Covip del 13 
+Gennaio 2021
+=== pagina 4 ===
+4 
+ 
+Versione 4.0  Revisione triennale 
+13/10/2022 
+Risk Management 
+Intesa Sanpaolo Vita 
+Modifica del benchmark dei tre 
+comparti di investimento ESG con 
+efficacia 1/1/2023. 
+ 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+13/10/2022 ed aggiornamento degli 
+indicatori quali-quantitativi dei singoli 
+comparti. 
+ 
+ 
+31/10/2024 Enterprise Risk 
+Aggiornamento della denominazione 
+degli indici “Barclays” diventati 
+“Bloomberg”. 
+ 
+Versione 5.0  Revisione triennale 
+26/02/2025 Enterprise Risk 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+26/02/2025 ed aggiornamento degli 
+indicatori quali-quantitativi dei singoli 
+comparti.
+=== pagina 5 ===
+5 
+INDICE 
+ 
+RIFERIMENTI NORMATIVI ................................ ................................ ................................ ............ 6 
+PREMESSA ................................ ................................ ................................ ................................ .... 6 
+OBIETTIVI DELLA GESTIONE FINANZIARIA ................................ ................................ ............... 7 
+1. CARATTERISTICHE................................ ................................ ................................ ................ 8 
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE ................................ .................... 11 
+LINEA LUNGO TERMINE ................................ ................................ ................................ . 13 
+LINEA MEDIO TERMINE ................................ ................................ ................................ .. 14 
+LINEA BREVE TERMINE ................................ ................................ ................................ ... 15 
+LINEA LUNGO TERMINE ESG ................................ ................................ ......................... 16 
+LINEA MEDIO TERMINE ESG ................................ ................................ .......................... 18 
+LINEA BREVE TERMINE ESG ................................ ................................ ............................ 20 
+LINEA TFR ................................ ................................ ................................ ....................... 22 
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO ................................ ...............................  23 
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA ..................... 24 
+1. CONTROLLO LIMITI ................................ ................................ ................................ ........... 24 
+2. ANALISI DEI COMPARTI ................................ ................................ ................................ .... 24 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION ................................ ................................ .. 24 
+4. ATTRIBUZIONE DEL RATING ................................ ................................ ...............................  25
+=== pagina 6 ===
+6 
+ RIFERIMENTI NORMATIVI 
+ 
+Decreto Legislativo n. 252 del 5 dicembre 2005. 
+Deliberazione COVIP del 16 marzo 2012. 
+Decreto del Ministero dell’Economia e delle Finanze DM 166/2014. 
+ 
+ 
+ 
+PREMESSA  
+ 
+Il presente documento disciplina la politica degli investimenti del fondo pensione aperto IL MIO 
+DOMANI, definendo la strategia finanziaria che si intende attuare per ottenere la combinazione 
+rischio/rendimento coerente con i bisogni previdenziali degli aderenti. Il documento è stato redatto 
+in adempimento a quanto prescritto dalla Deliberazione COVIP del 16 marzo 2012. Il documento 
+verrà sottoposto a revisione periodica, almeno ogni tre anni e tutte le modifiche apportate verranno 
+annotate nella tabella contenente la cronologia del documento, indicando una sintetica 
+descrizione delle stesse e le date con cui sono state effettuate. Il documento viene trasmesso in 
+occasione di ogni sua modifica: 
+ 
+• alla COVIP, entro venti giorni dalla sua formalizzazione; 
+• ai soggetti incaricati dalla gestione; 
+• al Responsabile del Fondo.
+=== pagina 7 ===
+7 
+ 
+ OBIETTIVI DELLA GESTIONE FINANZIARIA 
+ 
+Il fondo pensione aperto IL MIO DOMANI  gestisce le risorse nel rispetto del principio della sana e 
+prudente gestione e nel migliore interesse degli aderenti e dei beneficiari. In particolare, devono 
+essere osservati i seguenti obiettivi di gestione: 
+ 
+▪ efficiente gestione del portafoglio, in modo da contemperare la massimizzazione della 
+redditività e la minimizzazione dei costi di transazione, gestione e funzionamento;  
+ 
+▪ contenimento del rischio, qualità, liquidità e redditività del portafoglio nel suo complesso;  
+ 
+▪ adeguata diversificazione del portafoglio, in modo da evitare che ci sia un’eccessiva 
+dipendenza del risultato della gestione da determinati emittenti, gruppi di imprese o attività, 
+e che nel portafoglio complessivamente considerato ci siano concentrazioni del rischio. 
+ 
+Nel perseguire questi obiettivi si dovrà tener conto delle esigenze di tipo previdenziale degli aderenti 
+considerando il lasso di tempo che li separa dal pensionamento ed in relazione alle caratteristiche 
+personali quali anzianità lavorativa, percorso di carriera e tipologia del nucleo famigliare. 
+ 
+Per ciascun comparto dovrà essere definito un parametro oggettivo che consenta all’aderente di 
+valutare il prodotto in termini di rischio/rendimento. A tale scopo potrà essere utilizzato un 
+benchmark, definito come un indice o una combinazione di indici finanziari, utilizzabili per 
+confrontare e valutare il prodotto in termini di rischiosità e redditività prevedibile, in relazione ai 
+mercati e settori presi in considerazione o un livello massimo di rischio atteso ed una indicazione della 
+redditività prospettica. 
+ 
+La popolazione di riferimento che aderisce alle proposte di investimento è decisamente diversificata; 
+vengono analizzate con frequenza annuale le caratteristiche socio demografiche della popolazione 
+di riferimento, classificando gli aderenti sulla base dell’ età, dell’anzianità contributiva, dell’attività 
+lavorativa svolta e del sesso al fine di prevedere  se le proposte di investimento del fondo pensione 
+siano adatte alle molteplici esigenze in termini di profili di rischio  - rendimento atteso.
+=== pagina 8 ===
+8 
+1. CARATTERISTICHE 
+ 
+IL MIO DOMANI  è rivolto a tutti coloro che intendono costruire un piano di previdenza 
+complementare su base individuale. Possono aderire, inoltre, su base collettiva, i lavoratori nei cui 
+confronti trovino applicazione i contratti, gli accordi o i regolamenti aziendali  che dispongono 
+l’adesione a IL MIO DOMANI.  
+Lo scopo è quello di garantire prestazioni pensionistiche aggiuntive rispetto a quelle erogate dagli 
+enti previdenziali obbligatori. Gli importi versati potranno essere investiti in sette comparti, con diverse 
+caratteristiche di rischio/rendimento e conseguenti diversi orizzonti temporali.  
+ 
+Descrizione Tipologia Orizzonte temporale 
+Linea Lungo Termine Fondo Pens. Aperto Medio Lungo periodo (da 10 anni a 15 anni) 
+Linea Medio Termine Fondo Pens. Aperto Medio periodo (da 5 a 10 anni) 
+Linea Breve Termine Fondo Pens. Aperto Breve periodo (fino a 5 anni) 
+Linea Lungo Termine ESG Fondo Pens. Aperto Medio Lungo periodo (da 10 anni a 15 anni) 
+Linea Medio Termine ESG Fondo Pens. Aperto Medio periodo (da 5 a 10 anni) 
+Linea Breve Termine ESG Fondo Pens. Aperto Breve periodo (fino a 5 anni) 
+Linea TFR Fondo Pens. Aperto Medio periodo (da 5 anni a 10 anni) 
+ 
+ 
+Ogni comparto è caratterizzato da diversi livelli di rischio/rendimento e prevede politiche  di 
+investimento strettamente connesse alle finalità di gestione che si intendono perseguire, nei capitoli 
+successivi verranno analizzati nel dettaglio. 
+All’interno del fondo pensione sono previsti tre comparti caratterizzati da  una strategia 
+d’investimento che, oltre alla valutazione reddituale delle imprese, tenga in considerazione anche 
+gli aspetti che possono essere ricompresi nell’acronimo di uso comune ESG – Environmental, Social 
+and Governance. 
+All’adesione, l’iscritto potrà selezionare la combinazione di comparti, fino ad un massimo di sei, a cui 
+aderire in funzione della propria attitudine al rischio, dell’obiettivo di rendimento e d ell’orizzonte 
+temporale dell’investimento. 
+E’ prevista anche la possibilità di optare per due differenti meccanismi di Life Cycle: 
+- “Percorso L ife Cycle”  composto dalle tre linee flessibil i (Lungo Termine, Medio Termine, Breve 
+Termine); 
+- “Progetto Life Cycle  ESG” composto dalle tre linee a benchmark  (Lungo Termine ESG, Medio 
+Termine ESG, Breve Termine ESG). 
+Con Life Cycle si intende un meccanismo “automatico” di allocazione delle risorse nel tempo in base 
+agli anni mancanti al pensionamento  in modo da permettere un a riduzione  dei rischi 
+dell’investimento. Successivamente, nel rispetto del periodo di permanenza minima di un anno, 
+l’aderente può decidere di passare dalla libera scelta dei comparti a d uno dei due meccanismi di 
+Life Cycle o viceversa. Nel passaggio da uno dei due profili Life Cycle alla scelta libera dei comparti 
+l’aderente rinuncia al meccanismo di ribilanciamenti automatici e pertanto ha la facoltà di ripartire 
+la propria posizione individuale maturata e/o il flusso contributivo anche tra più comparti fino ad un 
+massimo di sei. L’aderente ha anche la possibilità di switchare da un percorso Life Cycle all’altro.
+=== pagina 9 ===
+9 
+LIFE CYCLE 
+ 
+Il Life-Cycle si presenta come un meccanismo automatico che mira a ridurre il rischio 
+dell’investimento all’avvicinarsi dell’età pensionabile, tramite riallocazioni automatiche della 
+posizione dell’iscritto da comparti con maggior grado di rischio a comparti con grado di rischio 
+minore.  
+Tale meccanismo consente quindi sia di trarre vantaggio dai più elevati rendimenti attesi delle azioni 
+nel lungo periodo, sia di proteggere l’investimento nelle fasi finali del piano di accumulo.  
+La logica alla base del Life-Cycle si basa sulle evidenze che mostrano come i rendimenti attesi 
+dall’investimento sui mercati azionari, su un orizzonte temporale di medio -lungo periodo, siano più 
+elevati di quelli che si otterrebbero investendo sul mercato del reddito fisso. Può essere  dunque 
+ragionevole destinare a tale asset class una parte importante del portafoglio previdenziale, in 
+particolare negli anni iniziali della fase di accumulo, quando la vita residua dell’investimento è più 
+ampia.  
+All’approssimarsi del momento del pensionamento tale quota andrà a ridursi, di pari passo con la 
+riduzione dell’extra rendimento atteso della quota di portafoglio investita in azioni rispetto a quella 
+in obbligazioni; in questo modo diminuirà anche la volatilità dei rendimenti futuri attesi. 
+Questa caratteristica del meccanismo Life-Cycle serve a preservare il valore dell’investimento 
+nell’ultimo periodo prima del pensionamento, quando il capitale accumulato è più cospicuo e il 
+tempo a disposizione per “recuperare” un’eventuale perdita dovuta all’investimento su una asset 
+class più volatile è ridotto. 
+Nella selezione del percorso Life Cycle, la posizione sarà interamente investita nel comparto di 
+designazione in funzione degli anni mancanti al pensionamento. 
+L’aderente può scegliere tra due profili di investimento denominati “Percorso Life-Cycle” e “Progetto 
+Life-Cycle ESG” declinati come rappresentato nelle seguenti tabelle. 
+ 
+ 
+Tabella “Percorso Life-Cycle” 
+Anni Mancanti al 
+pensionamento 
+Più di 14  Da 14 a 5 Meno di 5 
+Comparto Linea Lungo Termine Linea Medio Termine Linea Breve Termine
+=== pagina 10 ===
+10 
+Tabella “Progetto Life-Cycle ESG” 
+Anni Mancanti al 
+pensionamento 
+Più di 14  Da 14 a 5 Meno di 5 
+Comparto Linea Lungo Termine 
+ESG 
+Linea Medio Termine 
+ESG 
+Linea Breve Termine 
+ESG 
+ 
+Successivamente sono previsti ribilanciamenti automatici della posizione, in funzione degli anni 
+mancanti alla pensione. 
+In entrambi i profili Life -Cycle la riallocazione automatica della posizione individuale non avviene in 
+un’unica soluzione, ma gradualmente attraverso riallocazioni parziali come rappresentato nelle 
+seguenti tabelle, distinte per profilo, al fine di diminuire l’impatto del rischio finanziario sulla posizione 
+individuale complessiva. 
+ 
+Tabella “Percorso Life-Cycle” 
+Aderenti coinvolti Anni Mancanti 
+alla pensione 
+Ribilanciamento Durata 
+ribilanciamento 
+Periodicità 
+Aderenti a 
+Linea Lungo Termine 10 
+Da Linea Lungo Termine 
+a  
+Linea Medio Termine 
+2 anni Trimestrale 
+Aderenti a 
+Linea Medio Termine 3 
+Da Linea Medio Termine 
+a 
+Linea Breve Termine 
+1 anno Mensile 
+ 
+Tabella “Progetto Life-Cycle ESG” 
+Aderenti coinvolti Anni Mancanti 
+alla pensione 
+Ribilanciamento Durata 
+ribilanciamento 
+Periodicità 
+Aderenti a 
+Linea Lungo Termine 
+ESG 
+10 
+Da Linea Lungo Termine ESG 
+ a 
+Linea Medio Termine ESG 
+2 anni Trimestrale 
+Aderenti a 
+Linea Medio Termine 
+ESG 
+3 
+Da Linea Medio Termine ESG 
+a 
+Linea Breve Termine ESG 
+1 anno Mensile
+=== pagina 11 ===
+11 
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE  
+ 
+I fondi pensione operano nel rispetto del principio della sana e prudente gestione, perseguendo gli 
+interessi degli aderenti, osservano il criterio di un’adeguata diversificazione del portafoglio finalizzata 
+a contenere la concentrazione del rischio, ottimizzando la combinazione rischio/rendimento. A tal 
+fine si verifica no periodicamente i risultati della gestione mediante l’adozione di parametri di 
+riferimento coerenti con gli obiettivi.  
+ 
+Strumenti finanziari nei quali si intende investire 
+Le disponibilità possono essere investite in strumenti finanziari di natura monetaria, obbligazionaria e 
+azionaria nei limiti previsti dalla normativa e dalle politiche di investimento di ogni singolo comparto 
+più avanti delineate. 
+E’ prevista la possibilità di investire in quote di OICVM, la cui politica di gestione sia coerente con 
+quella stabilita per il comparto, ivi inclusi quelli istituiti da imprese del gruppo di appartenenza della 
+Società istitutrice, nel rispetto delle specifiche disposizioni in materia. 
+È inoltre possibile investire in fondi PIR compliant, nella forma di FIA o di OICVM, gestiti nel rispetto 
+degli indirizzi e dei limiti della legge 11 dicembre 2016 n. 232. 
+E’ possibile investire in FIA (OICR alternativi) secondo quanto previsto dal D.M. 166/2014. 
+ 
+Le risorse non vengono investite in tipologie di strumenti finanziari e classi di attività per le quali la 
+struttura organizzativa, professionale e tecnica e il modello adottato dalla Società non consentono 
+adeguati monitoraggio e gestione del rischio.  
+L’esposizione valutaria è contenuta, al netto delle coperture attraverso strumenti derivati, entro il 30% 
+delle disponibilità complessive del relativo comparto. 
+Il fondo pensione  aperto IL MIO DOMANI  investe in strumenti finanziari derivati esclusivamente per 
+finalità di riduzione del rischio e di efficiente gestione  delle risorse, coerentemente con il profilo di 
+rischio-rendimento del comparto e nei limiti indicati per gli attivi sottostanti. Nell’esercizio dell’attività 
+di gestione di fondi pensione, il soggetto gestore non può effettuare vendite allo scoperto, né porre 
+in essere operazioni in strumenti finanziari derivati equivalenti a vendite allo scoperto.  
+L’investimento in strumenti finanziari di uno stesso emittente non può superare il 5% del patrimonio in 
+gestione di ogni singolo Comparto e 10% in strumenti finanziari emessi da soggetti appartenenti ad 
+un unico gruppo; sono esclusi dall’applicazione di tale limite di concentrazione gli strumenti finanziari 
+emessi o garantiti da un Paese membro dell’Unione Europea, da un Paese aderente all’OCSE o da 
+organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi membri dell’Unione 
+Europea, gli OICVM e i FIA. 
+Gli investimenti in strumenti finanziari di natura obbligazionaria sono orientati verso titoli con elevata 
+affidabilità creditizia ovvero nell’area dell’Investment Grade.  Secondo le indicazioni fornite 
+dall’Authority di settore (COVIP) per la valutazione del merito creditizio degli investimenti di natura 
+obbligazionaria, non ci si atterrà esclusivamente ai giudizi espressi dalle agenzie di rating, ma si farà 
+riferimento alla “Credit Rating Policy*” approvata dalla Società. Qualora il rating di uno strumento di 
+debito in portafoglio si riduca, dopo l’acquisto, al di sotto dei limiti sopra indicati, si provvederà a 
+vendere lo strumento in questione nel lasso di tempo ritenuto più opportuno a tutela degli interessi 
+dei partecipanti ai Fondi Pensione. 
+Ogni emissione obbligazionaria detenuta in ogni singolo comparto  non potrà avere un nominale 
+emesso inferiore o equivalente a € 250 milioni.  
+  
+ 
+* Per i dettagli relativi alla modalità di attribuzione del rating si veda il successivo paragrafo
+=== pagina 12 ===
+12 
+Le linee guida ed i relativi limiti operativi adottati per regolamentare i criteri di assunzione e gestione 
+dei rischi a cui sono esposti gli attivi finanziari, hanno lo scopo di perseguire i principi di:  
+- diversificazione: nel senso che differenti classi di attività, diverse controparti e diversi settori 
+devono essere rappresentati nel portafoglio in modo da permettere il contenimento del credit 
+spread e del rischio di fallimento; 
+- dispersione: nel senso che nessun singolo investimento deve essere di dimensione tale da 
+impattare in modo sensibile sul rendimento del portafoglio nel caso di fallimento della 
+controparte o di performance negativa. 
+Le linee guida privilegiano l’investimento in titoli ad elevato merito creditizio e stimolano la 
+diversificazione e la dispersione del rischio. A tale scopo il Comitato Investimenti verifica il rispetto dei 
+limiti di cui sopra.
+=== pagina 13 ===
+13 
+LINEA LUNGO TERMINE 
+Finalità della gestione: 
+Il comparto si pone come obiettivo la rivalutazione del capitale investito cogliendo le opportunità 
+offerte dai mercati azionari, obbligazionari e monetari, con un orizzonte temporale di medio-lungo 
+periodo. 
+ 
+Composizione della gestione: 
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionari a denominati in euro  ed in 
+valuta, in proporzioni variabili (stile di gestione “flessibile”). 
+I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi.  I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Obiettivo di rendimento:  
+Lo stile di gestione è di tipo flessibile con un obiettivo di rendimento assoluto, soggetto ad un budget 
+di rischio. L’obiettivo di rendimento del comparto è pari al rendimento dell’indice Bloomberg Euro 
+Treasury Bills maggiorato del 4,25% annuo. 
+ 
+Rendimento annuo medio atteso in termini reali: 
+pari a 4,83%. 
+ 
+Variabilità del rendimento atteso: 
+pari a 7,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 15 anni: 
+pari a 7,00%. 
+ 
+Limiti quantitativi e qualitativi: 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 0 e 3 anni.  
+ 
+La quota da destinare agli investimenti azionari può variare dallo 0% al 100% del patrimonio.  
+ 
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 20% del patrimonio del comparto. 
+ 
+Modalità di gestione: 
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Epsilon SGR. 
+ 
+Livello max turnover: 
+pari a 500%. 
+ 
+Livello max volatilità annua: 
+pari a 25%.
+=== pagina 14 ===
+14 
+LINEA MEDIO TERMINE 
+Finalità della gestione: 
+Il comparto si pone come obiettivo la rivalutazione del capitale investito cogliendo le opportunità 
+offerte dai mercati azionari, obbligazionari e monetari, con un orizzonte temporale di medio periodo. 
+ 
+Composizione della gestione: 
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta, in proporzioni variabili (stile di gestione “flessibile”). 
+I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi.  I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Obiettivo di rendimento: 
+Lo stile di gestione è di tipo flessibile con un obiettivo di rendimento assoluto, soggetto ad un budget 
+di rischio. L’obiettivo di rendimento del comparto è pari al rendimento dell’indice Bloomberg Euro 
+Treasury Bills maggiorato del 1,75% annuo. 
+ 
+Rendimento annuo medio atteso in termini reali: 
+pari a 2,64%. 
+ 
+Variabilità del rendimento atteso: 
+pari a 4,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni: 
+pari a 7,00%. 
+ 
+Limiti quantitativi e qualitativi: 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 3 mesi e 5 anni. 
+ 
+La quota da destinare agli investimenti azionari può variare dallo 0% al 75% del patrimonio.  
+ 
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 10% del patrimonio del comparto. 
+ 
+Modalità di gestione: 
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Epsilon SGR. 
+ 
+Livello max turnover: 
+pari a 500%. 
+ 
+Livello max volatilità annua: 
+pari a 10%.
+=== pagina 15 ===
+15 
+LINEA BREVE TERMINE 
+Finalità della gestione: 
+Il comparto si pone come obiettivo la rivalutazione del capitale investito in linea con l’andamento 
+del mercato monetario, con un orizzonte temporale di breve periodo. 
+ 
+Ulteriori specificità: 
+Questo comparto, salvo diversa indicazione dell’aderente, viene inoltre utilizzato per smobilizzare la 
+porzione di posizione individuale destinata a RITA. 
+ 
+Composizione della gestione: 
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta, in proporzioni variabili (stile di gestione “flessibile”). 
+I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi.  I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Obiettivo di rendimento:  
+Lo stile di gestione è di tipo flessibile con un obiettivo di rendimento assoluto, soggetto ad un budget 
+di rischio. L’obiettivo di rendimento del comparto è pari al rendimento dell’indice Bloomberg Euro 
+Treasury Bills maggiorato del 0,25% annuo. 
+ 
+Rendimento annuo medio atteso in termini reali: 
+pari a 0,70%.  
+ 
+Variabilità del rendimento atteso: 
+pari a 1,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 5 anni: 
+minore di 0.5%. 
+ 
+Limiti quantitativi e qualitativi:  
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 3 mesi e 3 anni. 
+ 
+La quota da destinare agli investimenti azionari può variare dallo 0% al 10% del patrimonio.  
+ 
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 5% del patrimonio del comparto. 
+ 
+Modalità di gestione: 
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Epsilon SGR. 
+ 
+Livello max turnover: 
+pari a 350%. 
+ 
+Livello max volatilità annua: 
+pari a 1,5%.
+=== pagina 16 ===
+16 
+LINEA LUNGO TERMINE ESG 
+Finalità della gestione: 
+Il comparto si pone come obiettivo la rivalutazione del capitale investito cogliendo le opportunità 
+offerte dai mercati azionari, obbligazionari e monetari, con un orizzonte temporale di medio-
+lungo periodo.  Nell’investimento delle risorse verranno presi in considerazione criteri basati su 
+impatti ambientali, sociali e di governance (ESG - Environmental, Social, Governance). 
+ 
+Composizione della gestione: 
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta. Lo stile di gestione è a benchmark. 
+I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark: 
+10% Bloomberg  MSCI Euro Tsy 1-3 years ESG Weighted Customized TR Unhedged EUR 
+10% Bloomberg MSCI Global Treasury Custom Country Exclusions Sustainability Index   
+10% Bloomberg MSCI Euro Corporate Sustainability and SRI Select Index 
+30% MSCI Europe ESG Leaders 100% Hedged to EUR 
+40% MSCI World ex Europe ESG Leaders 100% Hedged to EUR. 
+Tutti gli indici del benchmark sono in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali: 
+pari a 4,15%. 
+ 
+Variabilità del rendimento atteso: 
+pari a 9,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 15 anni: 
+minore di 10,00% 
+ 
+Limiti quantitativi e qualitativi: 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 0 .5 e 3 anni. 
+La componente obbligazionaria (sia governativa che corporate) del comparto potrà essere 
+investita in titoli i cui emittenti sono presenti nel benchmark: il gestore potrà scegliere, tra i titoli emessi 
+da un certo emittente, quello che presenta il profilo rischio/rendimento migliore per il comparto. 
+ 
+La quota da destinare agli investimenti azionari può variare dal 50% all’85% del patrimonio.  
+Per la componente azionaria, il gestore potrà investire anche in titoli non presenti nel benchmark 
+purché rispettino i seguenti requisiti: 
+- appartenenza all’indice MSCI World; 
+- rating ESG calcolato da MSCI superiore o uguale ad A: MSCI assegna i rating ESG con una scala 
+che va da CCC a AAA, più alto è il rating migliore è il giudizio ESG;  
+- giudizio su controversie calcolato da MSCI superiore a 3: MSCI assegna periodicamente un 
+giudizio su scala crescente da 0 a 10 sulla gravità delle controversie esistenti di una società: a 
+punteggi più elevati corrisponde una minor gravità della controversia pendente; 
+- superamento degli screening MSCI riguardanti l’incidenza sul fatturato aziendale di alcuni settori 
+come ad esempio alcol, tabacco, scommesse o armi. 
+E’ possibile investire in OICR le cui politiche d’investimento siano compatibili con quelle del 
+comparto e prendano in considerazione specifici criteri basati su impatti Ambientali, Sociali e di 
+Governance.
+=== pagina 17 ===
+17 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. Lo stile di gestione rispetto al benchmark è attivo. 
+ 
+Livello max turnover: 
+pari a 200%. 
+ 
+Livello max tracking error volatility (TEV): 
+pari a 7%.
+=== pagina 18 ===
+18 
+LINEA MEDIO TERMINE ESG 
+Finalità della gestione: 
+Il comparto si pone come obiettivo la rivalutazione del capitale investito cogliendo le opportunità 
+offerte dai mercati azionari, obbligazionari e monetari, con un orizzonte temporale di medio periodo. 
+Nell’investimento delle risorse verranno presi in considerazione criteri basati su impatti ambientali, 
+sociali e di governance (ESG - Environmental, Social, Governance). 
+  
+Composizione della gestione: 
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta. Lo stile di gestione è a benchmark. 
+I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi.  I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark: 
+20% Bloomberg MSCI Euro Tsy 1-3 years ESG Weighted Customized TR Unhedged EUR 
+15% Bloomberg MSCI Global Treasury Custom Country Exclusions Sustainability Index  
+20% Bloomberg MSCI Euro Corporate Sustainability and SRI Select Index 
+20% MSCI Europe ESG Leaders 100% Hedged to EUR 
+25% MSCI World ex Europe ESG Leaders 100% Hedged to EUR. 
+Tutti gli indici del benchmark sono in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali: 
+pari a 2,78%.  
+ 
+Variabilità del rendimento atteso: 
+pari a 6,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni: 
+pari a 9,00%. 
+ 
+Limiti quantitativi e qualitativi: 
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 1.5 e 4.5 anni.  
+La componente obbligazionaria (sia governativa che corporate) del comparto potrà essere 
+investita in titoli i cui emittenti sono presenti nel benchmark: il gestore potrà scegliere, tra i titoli emessi 
+da un certo emittente, quello che presenta il profilo rischio/rendimento migliore per il comparto. 
+ 
+La quota da destinare agli investimenti azionari può variare dal 30% al 55% del patrimonio.  
+Per la componente azionaria, il gestore potrà investire anche in titoli non presenti nel benchmark 
+purché rispettino i seguenti requisiti: 
+- appartenenza all’indice MSCI World; 
+- rating ESG calcolato da MSCI superiore o uguale ad A: MSCI assegna i rating ESG con una scala 
+che va da CCC a AAA, più alto è il rating migliore è il giudizio ESG;  
+- giudizio su controversie calcolato da MSCI superiore a 3: MSCI assegna periodicamente un giudizio 
+su scala crescente da 0 a 10 sulla gravità delle controversie esistenti di una società: a punteggi più 
+elevati corrisponde una minor gravità della controversia pendente; 
+- superamento degli screening MSCI riguardanti l’incidenza sul fatturato aziendale di alcuni settori 
+come ad esempio alcol, tabacco, scommesse o armi. 
+E’ possibile investire in OICR le cui politiche d’investimento siano compatibili con quelle del 
+comparto e prendano in considerazione specifici criteri basati su impatti Ambientali, Sociali e di 
+Governance.
+=== pagina 19 ===
+19 
+ 
+ 
+Modalità di gestione: 
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. Lo stile di gestione rispetto al benchmark è attivo. 
+ 
+Livello max turnover: 
+pari a 200%. 
+ 
+Livello max tracking error volatility (TEV): 
+pari a 5%.
+=== pagina 20 ===
+20 
+LINEA BREVE TERMINE ESG 
+Finalità della gestione: 
+Il comparto si pone come obiettivo la rivalutazione del capitale investito cogliendo le opportunità 
+offerte dai mercati azionari, obbligazionari e monetari, con un orizzonte temporale di breve periodo. 
+Nell’investimento delle risorse verranno presi in considerazione criteri basati su impatti ambientali, 
+sociali e di governance (ESG - Environmental, Social, Governance). 
+ 
+Composizione della gestione: 
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta. Lo stile di gestione è a benchmark. 
+I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi.  I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark: 
+50% Bloomberg MSCI Euro Tsy 1-3 years ESG Weighted Customized TR Unhedged EUR 
+30% Bloomberg MSCI Global Treasury Custom Country Exclusions Sustainability Index  
+10% Bloomberg MSCI Euro Corporate Sustainability and SRI Select Index 
+5% MSCI Europe ESG Leaders 100% Hedged to EUR 
+5% MSCI World ex Europe ESG Leaders 100% Hedged to EUR. 
+Tutti gli indici del benchmark sono in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali: 
+pari a 2,08%.  
+ 
+Variabilità del rendimento atteso: 
+pari a 3,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 5 anni: 
+pari a 4,00%. 
+ 
+Limiti quantitativi e qualitativi:  
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 2 e 6 anni.  
+La componente obbligazionaria (sia governativa che corporate) del comparto potrà essere 
+investita in titoli i cui emittenti sono presenti nel benchmark: il gestore potrà scegliere, tra i titoli emessi 
+da un certo emittente, quello che presenta il profilo rischio/rendimento migliore per il comparto.  
+ 
+La quota da destinare agli investimenti azionari può variare dal 0% al 15% del patrimonio.  
+Per la componente azionaria, il gestore potrà investire anche in titoli non presenti nel benchmark 
+purché rispettino i seguenti requisiti: 
+- appartenenza all’indice MSCI World; 
+- rating ESG calcolato da MSCI superiore o uguale ad A: MSCI assegna i rating ESG con una scala 
+che va da CCC a AAA, più alto è il rating migliore è il giudizio ESG;  
+- giudizio su controversie calcolato da MSCI superiore a 3: MSCI assegna periodicamente un giudizio 
+su scala crescente da 0 a 10 sulla gravità delle controversie esistenti di una società: a punteggi più 
+elevati corrisponde una minor gravità della controversia pendente; 
+- superamento degli screening MSCI riguardanti l’incidenza sul fatturato aziendale di alcuni settori 
+come ad esempio alcol, tabacco, scommesse o armi. 
+E’ possibile investire in OICR le cui politiche d’investimento siano compatibili con quelle del 
+comparto e prendano in considerazione specifici criteri basati su impatti Ambientali, Sociali e di 
+Governance.
+=== pagina 21 ===
+21 
+Modalità di gestione: 
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. Lo stile di gestione rispetto al benchmark è attivo. 
+ 
+Livello max turnover: 
+pari a 250%. 
+ 
+Livello max tracking error volatility (TEV): 
+pari a 3%.
+=== pagina 22 ===
+22 
+LINEA TFR 
+Finalità della gestione: 
+La gestione è volta a realizzare con elevata probabilità rendimenti che siano pari o superiori a quelli 
+del TFR in un orizzonte temporale di 5 anni, investendo le risorse in strumenti finanziari di natura 
+monetaria, obbligazionaria e azionaria, denominati in euro e in valuta, in proporzioni variabili. La 
+partecipazione al comparto prevede una garanzia  di restituzione del capitale . In particolare, 
+l’aderente ha il diritto alla corresponsione di un importo minimo garantito, a prescindere dai risultati 
+di gestione, pari alla somma dei contributi versati al comparto, al netto delle spese direttamente a 
+carico dell’aderente, al verifica rsi degli eventi previsti dai documenti contrattuali.  Limitatamente ai 
+contributi che, per effetto della fusione del fondo pensione Sanpaolo Previdenza Aziende con il 
+presente fondo, sono stati trasferiti dal comparto Linea Garantita al comparto Linea TFR, e fino a 
+quando tali contributi restano investiti nel comparto Linea TFR, l’importo minimo garantito è pari alla 
+somma dei contributi versati al comparto, al netto delle spese direttamente a carico dell’aderente, 
+al verificarsi degli eventi previsti dai d ocumenti contrattuali, maggiorata del  2% annuo per gli 
+aderenti fino al 1° febbraio 2015 oppure dell’1,5% annuo per gli aderenti dal 2 febbraio 2015. 
+   
+Composizione della gestione: 
+Considerato l’obiettivo di rendimento del comparto, la politica di gestione si basa su una 
+metodologia quantitativa che determina la migliore ripartizione delle attività tra investimenti azionari 
+e investimenti monetari ed obbligazionari.  I titoli di debito e di capitale devono essere quotati su 
+mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione. 
+ 
+Obiettivo di rendimento:  
+Lo stile di gestione è di tipo flessibile con un obiettivo di rendimento assoluto, soggetto ad un 
+budget di rischio. L’obiettivo di rendimento del comparto è pari alla rivalutazione del TFR.  
+ 
+Rendimento annuo medio atteso in termini reali: 
+pari a 1,75%. 
+ 
+Variabilità del rendimento atteso: 
+pari a 2,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni: 
+la probabilità di rendimenti negativi è nulla nei casi in cui opera la garanzia . 
+ 
+Limiti quantitativi e qualitativi:  
+Gli investimenti in strumenti finanziari di natura azionaria non possono essere superiori al 40% del 
+patrimonio del comparto.  
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 3 mesi e 5 anni.  
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 7% del patrimonio del comparto. 
+ 
+Modalità di gestione: 
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Epsilon SGR. 
+ 
+Livello max turnover: 
+pari a 350%. 
+ 
+Livello max volatilità annua: 
+pari a 5%.
+=== pagina 23 ===
+23 
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO 
+ 
+Amministrazione Portafoglio Titoli e Tesoreria monitora  gli eventi societari connessi agli strumenti 
+finanziari in portafoglio. Viene esercitato il diritto di intervento e di voto nelle assemblee delle società 
+italiane, tenendo conto dei costi benefici collegati alla partecipazione all’assemblea, dell’ordine del 
+giorno, dell’utilità della partecipazione agli interessi dei patrimoni gestiti e della possibilità di incidere 
+sulle decisioni in relazione alla quota di capitale con diritto di voto posseduta.  
+ 
+Il criterio fondamentale di partecipazione alle assemblee consiste nel giudicarle rilevanti per 
+situazioni di particolare interesse in difesa o a supporto degli aderenti, che riguardino decisioni di 
+corporate governance, bilancio, politiche di distribuzione di utili e dividendi, poli tiche di 
+remunerazione delle figure apicali. 
+ 
+Nel caso ne ricorrano i presupposti, non esercita il diritto di voto inerente alle azioni di pertinenza dei 
+patrimoni degli OICR emesse da società direttamente o indirettamente controllanti.
+=== pagina 24 ===
+24 
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA 
+ 
+Il sistema di controllo è il processo attraverso il quale si monitora la corretta implementazione, 
+coerentemente con le strategie e gli indirizzo previsti, nel rispetto dei limiti interni ed esterni e 
+l’andamento delle performance dei portafogli. Le attivi tà di verifica prevedono il controllo dei limiti 
+normativi e dei limiti di prodotto e contrattuali (regolamento di gestione, nota informativa e mandati 
+di gestione), la verifica delle performance rispetto agli obiettivi e dei rischi dei patrimoni in gestio ne. 
+ 
+1. CONTROLLO LIMITI 
+La verifica del rispetto dei limiti normativi, che prevedono per ogni categoria di strumenti percentuali 
+massime e minime rispetto al patrimonio complessivo del fondo, viene svolta con frequenza 
+settimanale da parte del Risk Management (controllo limiti ex post),  in modo da intervenire 
+immediatamente in caso di superamenti, attivando le procedure di rientro nei limiti. Se l’attività di 
+analisi conferma l’avvenuto superamento di un limite, Risk Management e  l’unità organizzativa  
+Investimenti definiscono con il gestore delegato modalità e tempistiche di rientro . Il Risk 
+Management riepiloga mensilmente l’esito dei controlli al Responsabile del Fondo.  
+ 
+2. ANALISI DEI COMPARTI 
+La funzione di Risk Management supporta l’unità organizzativa  Investimenti nel monitoraggio 
+costante dell’andamento dei comparti; in particolare provvede ad elaborare i dati di performance 
+dei fondi e dei benchmark e gli indicatori di rischio, ovvero la volatilità dei comparti e del benchmark, 
+la Tracking Error Volatility (TEV), l’Information Ratio e l’Indice di Sharpe. 
+ 
+L’unità organizzativa Investimenti illustra l’analisi sull’andamento dei comparti al Comitato 
+Investimenti per la valutazione delle strategie d’investimento e dell’operato dei gestori delegati.  
+ 
+Queste informazioni vengono inoltre inviate ai Responsabili dei Fondi con periodicità trimestrale.  
+ 
+Annualmente viene anche monitorato il Total Expense Ratio (TER) elaborato da Amministrazione 
+Portafoglio Titoli e Tesoreria per ogni singolo comparto in modo da verificare l’incidenza dei costi 
+effettivi rispetto al totale delle risorse del comparto. 
+ 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION 
+Al fine di non limitarsi a quantificare i livelli di rischio e rendimento, vengono analizzate le componenti 
+dei risultati conseguiti dal gestore delegato. Lo svolgimento di questo tipo di indagine parte dalla 
+conoscenza delle fasi in cui si articola l'atti vità di asset management e dei criteri che guidano le 
+scelte dei soggetti competenti, allo scopo di individuare il contributo che ciascuna fase (e ciascun 
+soggetto) hanno dato alla performance ottenuta. 
+ 
+Il gestore delegato definisce il grado di specializzazione/diversificazione del portafoglio, il livello 
+strutturale di rischio/liquidità e le aree in cui il fondo dovrà investire, suddividendo il patrimonio fra 
+tipologie di titoli (azioni, obbligazioni, li quidità), aree geografiche e settori merceologici sulla base 
+dell'orizzonte temporale prescelto, dei rendimenti attesi, del livello di rischio e delle correlazioni tra le 
+diverse tipologie di strumenti finanziari. 
+ 
+L’unità organizzativa Investimenti provvede al monitoraggio costante della performance attribution 
+utilizzando la reportistica che il gestore delegato fornisce alla società.
+=== pagina 25 ===
+25 
+I dati relativi alla performance vengono analizzati durante il Comitato Investimenti  e discussi con il 
+Responsabile del Fondo  con lo scopo di valutare il contributo delle scelte del gestore nella 
+formazione del rendimento. 
+ 
+4. ATTRIBUZIONE DEL RATING 
+Per l’attribuzione del merito creditizio degli attivi presenti nei diversi comparti, oltre ai giudizi espressi 
+dalle principali agenzie di rating, viene presa in considerazione, in via prioritaria, una valutazione 
+interna effettuata dalla Compagnia stessa, in coerenza con i modelli interni della Capogruppo 
+Intesa Sanpaolo. 
+Tale valutazione interna sarà obbligatoriamente attribuita a tutti gli emittenti per i quali vale almeno 
+una delle due seguenti condizioni: 
+• l’esposizione totale è almeno pari allo 0,5% 
+• l’esposizione in almeno uno dei comparti è maggiore del 5%. 
+Il processo di definizione dei rating interni segue il seguente iter: 
+• Ricezione del rating interno attribuito agli emittenti (Sovereign, Corporate e Banche) in 
+portafoglio della Compagnia da parte della Capogruppo Intesa Sanpaolo;  
+• Valutazione interna da parte della Funzione Risk management che procede a convalidare il 
+rating di Capogruppo per l’utilizzo interno o, sentita  l’unità organizzativa Investimenti, a 
+proporre un override motivato sulla base di precisi elementi di propria conoscenza 
+dell’emittente,  informando in tal caso le competenti strutture di Capogruppo. L’ override, 
+che potrà avere un’ampiezza obbligatoriamente ricompresa tra il giudizio interno di 
+Capogruppo ed il rating  “sintetico” delle Agenzie di Rating (cfr. oltre ) è sottoposto ad 
+approvazione del Comitato Rischi della Compagnia;   
+• Apposita informativa dei rating in vigore viene predisposta per il Consiglio di Amministrazione 
+della Compagnia, che qualora non condivida un giudizio su un emittente sulla base di precisi 
+elementi informativi a disposizione dei membri, richiederà una ri -valutazione del giudizio da 
+parte della Funzione Risk Management, comunicando tali elementi. 
+Qualora non sia possibile effettuare tale valutazione interna, e si ricorra dunque ai giudizi espressi 
+dalle principali agenzie di rating, a partire da essi viene definito un valore unico di rating (cd. “rating 
+sintetico”) al fine di sintetizzare i giudizi attribuiti al merito creditizio di una singola emissione o di un 
+singolo emittente. 
+A partire dai rating disponibili per un singolo emittente o strumento finanziario, il rating sintetico viene 
+calcolato adottando il criterio di cui alla circolare Banca d’Italia n° 262 del 22/12/2005.  
+In particolare: 
+- qualora esistano 3 o più valutazioni differenti si individuano le due migliori e, fra queste, si sceglie 
+quella peggiore. 
+- qualora esistano 2 valutazioni del merito creditizio occorre fare riferimento a quella peggiore.  
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.
+=== pagina 26 ===
+26 
+Fanno eccezione i titoli cartolarizzati per i quali il rating sintetico viene calcolato adottando il criterio 
+del “rating peggiore” tra quelli disponibili per un singolo emittente o strumento finanziario.  
+In particolare: 
+- qualora esistano 2 o più valutazioni differenti si sceglie quella peggiore.  
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.  
+ 
+ 
+Blended index: The blended returns are calculated by Intesa Sanpaolo Assicurazioni using end of day index level values licensed from MSCI 
+(“MSCI Data”). For the avoidance of doubt, MSCI is not the benchmark “administrator” for, or a “contributor”, “submitter” or “supervised 
+contributor” to, the blended returns, and the MSCI Data is not considered a “contribution” or “submission” in relation to the blended returns, as 
+those terms may be defined in any rules, laws, regulations, legislation or international standards. MSCI Data is provided “AS IS” without 
+warranty or liability and no copying or distribution is permitted. MSCI does not make any representation regarding the advisa bility of any 
+investment or strategy and does not sponsor, promote, issue, sell or otherwise recom mend or endorse any investment or strategy, including 
+any financial products or strategies based on, tracking or otherwise utilizing any MSCI Data, models, analytics or other mate rials or information. 
+TRADUZIONE 
+Blended index: I rendimenti misti sono calcolati da Intesa Sanpaolo Assicurazionisulla base dei valori di fine giornata degli indici concessi in 
+licenza da MSCI [“Dati MSCI”]. Per chiarezza, MSCI non è l’“amministratore” dell’indice di riferimento, né un “contributore”,  “presentatore” o 
+“contributore  sottoposto a vigilanza” dei rendimenti misti, e i Dati MSCI non sono considerati un “contributo” relativamente ai rendimenti misti, 
+a seconda della definizione di tali termini nelle normative, regolamenti, leg gi o standard internazionali. I Dati MSCI sono forniti “così come 
+sono”, senza alcuna garanzia o responsabilità, e non è consentito effettuarne copie o distribuirli. MSCI non rilascia alcuna dichiarazione 
+sull’opportunità di un investimento o strategia, e non sponsorizza, promuove, emette, vende o altrimenti raccomanda o patrocina alcun 
+investimento o strategia, incluso qualunque prodotto finanziario o strategia basato su, o che segua o altrimenti utilizzi qua lsiasi Dato MSCI, 
+modelli, analisi o altri materiali o informazioni. 
+Custom index: Source: MSCI. The MSCI data is comprised of a custom index calculated by MSCI for, and as requested by Intesa 
+SanpaoloAssicurazione. The MSCI data is for internal use only and may not be redistributed or used in connection with creating or offering any 
+securities, financial products or indices. Neither MSCI nor any other third party involved in or related to compiling, comput ing or creating the 
+MSCI data (the “MSCI Parties’) makes any express or implied warranties or representations with respect to such data (or the r esults to be 
+obtained by the use thereof), and the MSCI Parties hereby expressly disclaim all warranties of originality,  accuracy, completeness, 
+merchantability or fitness for a particular purpose with respect to such data. Without limiting any of the foregoing, in no e vent shall any of the 
+MSCI Parties have any liability for any direct, indirect, special, punitive, consequ ential or any other damages (including lost profits) even if 
+notified of the possibility of such damages. 
+TRADUZIONE 
+Custom index: Fonte: MSCI. I Dati MSCI sono composti da un indice su misura calcolato da MSCI per il, e in base alle richieste di Intesa 
+SanpaoloAssicurazioni. I dati MSCI sono ad esclusivo uso interno e non possono essere distribuiti o impiegati in relazione alla creazione o 
+all’offerta di titoli, prodotti finanziari o indici. Né MSCI né terzi coinvolti nella o collegati alla compilazione, calcolo o creazione dei dati MSCI 
+(le “Parti MSCI”) rilasciano alcuna garanzia o dichiarazione espressa o implicita re lativamente a tali dati (o ai risultati conseguibili attraverso il 
+loro utilizzo) e le Parti MSCI qui declinano espressamente tutte le garanzie di originalità, accuratezza, completezza, commer ciabilità o 
+idoneità a una particolare finalità rispetto a tali dati. Ferma restando la validità di quanto sopra, in nessun caso una parte di MSCI sarà 
+responsabile di qualsiasi danno diretto, indiretto, speciale, punitivo, accessorio o di qualsiasi altra natura (inclusa la pe rdita di profitti), anche 
+se informata della possibilità di tali danni.  
+Source: Bloomberg MSCI ESG Fixed Income Indices, Copyright 201_: Bloomberg Index Services Limited (“Bloomberg”) and MSCI ESG Research 
+LLC. Neither Bloomberg, MSCI ESG Research nor any other party involved in or related to compiling, computing or creating t he data makes 
+any express or implied warranties or representations with respect to such data (or the results to be obtained by the thereof) , and all such 
+parties hereby expressly disclaim all warranties of originality, accuracy, completeness, merchantabili ty or fitness for a particular purpose with 
+respect to any of such data. Without limiting any of the foregoing, in no event shall Bloomberg, MSCI ESG Research, any of th eir affiliates or 
+any third party involved in or related to compiling, computing or cre ating the data have any liability for any direct, indirect, special, punitive, 
+consequential or any other damages (including lost profits) even if notified of the possibility of such damages. No further d istribution or 
+dissemination of the data is permitted.) 
+TRADUZIONE 
+Fonte: Bloomberg MSCI ESG Income Indices. Copyright 201_: Bloomberg Index Services Limited (“Bloomberg”) e MSCI ESG Research LLC. Né 
+Bloomberg, MSCI ESG Research né alcun’altra parte coinvolta nella o associata alla compilazione, calcolo o creazione dei dati , rilasciano 
+alcuna garanzia o dichiarazione esplicita o implicita    relativamente a tali dati (o ai risultati derivanti dal lo ro utilizzo),  e tutte le parti suddette 
+qui declinano espressamente tutte le garanzie di originalità, accuratezza, completezza, commerciabilità o idoneità a qualsivo glia scopo 
+particolare rispetto a uno qualsiasi di tali dati.  Fermo restando quanto precede, in nessun caso Bloomberg, MSCI ESG Researc h, qualunque 
+delle loro controllate o terze parti coinvolte nella o associate alla compilazione, calcolo o creazione dei dati saranno in alcun modo responsabili 
+di qualsivoglia danno diretto, indiretto, speciale, punitivo, consequenziale o di altra natura (inclusa perdita di profitti), anche qualora siano stati 
+informati della possibilità di tali danni. Non è consentita alcun a ulteriore distribuzione o diffusione.

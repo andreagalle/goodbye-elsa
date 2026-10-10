@@ -314,26 +314,57 @@ function coperturaDocumenti() {
     href="https://github.com/andreagalle/goodbye-elsa/tree/master/docs/documenti" rel="noopener" target="_blank">elenco completo ↗</a>.</p>`;
 }
 
+// Fondi con documenti ufficiali non scaricati (o senza documenti): chi ha i PDF può aggiungerli a mano (vedi guida)
+function documentiDaRecuperare() {
+  const D = STATO.documenti;
+  if (!D) return "";
+  const righe = D.fondi.filter((d) => d.scaricati === 0 || d.documenti.some((x) => !x.file)).map((d) => {
+    const f = STATO.perId.get(d.fondo_id);
+    const mancanti = d.documenti.filter((x) => !x.file);
+    const quanti = d.referenziati
+      ? `${d.referenziati - d.scaricati_referenziati} di ${d.referenziati}`
+      : mancanti.length ? String(mancanti.length) : "tutti";
+    const motivi = [d.nota, ...new Set(mancanti.map((x) => x.note).filter(Boolean))].filter(Boolean);
+    return `<tr><th scope="row"><button type="button" class="linkish" data-fondo="${esc(d.fondo_id)}">${esc(f?.nome_breve ?? d.fondo_id)}</button></th>
+      <td class="num">${quanti}</td><td class="cell-note">${esc(motivi.join(" "))}</td></tr>`;
+  });
+  if (!righe.length) return "";
+  return `<div class="apertura">
+      <h3>Documenti da recuperare (${righe.length} fondi)</h3>
+      <p class="hint">Documenti ufficiali citati dalla pagina del fondo che non è stato possibile scaricare in automatico. Chi ha i PDF
+        può aggiungerli a mano: vedi la <a href="guida/#documenti-ufficiali-dei-fondi">guida</a>.</p>
+    </div>
+    <div class="table-scroll"><table class="data">
+      <caption class="sr-only">Fondi con documenti ufficiali da recuperare</caption>
+      <thead><tr><th scope="col">Fondo</th><th scope="col" class="num">Mancanti</th><th scope="col">Perché</th></tr></thead>
+      <tbody>${righe.join("")}</tbody>
+    </table></div>`;
+}
+
 // Copie dei PDF scaricate dal sito del gestore, con il link all'originale (fa fede quello)
 function documentiFondo(f) {
   const d = STATO.documenti?.perFondo.get(f.id);
-  if (!d?.documenti.length) return "";
-  const date = d.documenti.map((x) => x.scaricato_il).filter(Boolean).sort();
+  if (!d || (!d.documenti.length && !d.nota)) return "";
+  const scaricati = d.documenti.filter((x) => x.file);
+  const mancanti = d.documenti.filter((x) => !x.file);
+  const date = scaricati.map((x) => x.scaricato_il).filter(Boolean).sort();
   const quando = date.length ? ` il ${dataIt(date[date.length - 1])}` : "";
   const conteggio = d.referenziati
     ? `Scaricati ${d.scaricati_referenziati} dei ${d.referenziati} documenti citati nella pagina informativa del fondo${d.scaricati > d.scaricati_referenziati ? `, più ${d.scaricati - d.scaricati_referenziati} trovati in altre pagine del gestore` : ""}.`
-    : "La pagina informativa del fondo non elenca documenti: queste copie vengono da altre pagine del gestore.";
-  const voci = d.documenti.map((x) => {
-    const tipo = STATO.documenti.tipi.get(x.tipo);
-    const originale = x.url ? `<a href="${esc(x.url)}" rel="noopener" target="_blank" data-spiega="Il documento sul sito del gestore: se è stato aggiornato, fa fede questo.">originale ↗</a>` : "";
-    if (!x.file) return `<li><span data-spiega="${esc(tipo?.descrizione ?? "")}">${esc(x.titolo)}</span> <span class="doc-meta">· non scaricato: ${esc(x.note ?? "")}${originale ? ` · ${originale}` : ""}</span></li>`;
-    return `<li><a href="${esc(x.file)}" target="_blank" rel="noopener" data-spiega="${esc(tipo?.descrizione ?? "")}">${esc(x.titolo)}</a>
-      <span class="doc-meta">· PDF, ${x.pagine ?? "?"} pag., ${dimensione(x.byte)} · ${originale}</span></li>`;
-  }).join("");
+    : d.scaricati ? "La pagina informativa del fondo non elenca documenti: queste copie vengono da altre pagine del gestore." : "";
+  const originale = (x) => (x.url ? `<a href="${esc(x.url)}" rel="noopener" target="_blank" data-spiega="Il documento sul sito del gestore: se è stato aggiornato, fa fede questo.">originale ↗</a>` : "");
+  const spiega = (x) => esc(STATO.documenti.tipi.get(x.tipo)?.descrizione ?? "");
+  const voci = scaricati.map((x) => `<li><a href="${esc(x.file)}" target="_blank" rel="noopener" data-spiega="${spiega(x)}">${esc(x.titolo)}</a>
+      <span class="doc-meta">· PDF, ${x.pagine ?? "?"} pag., ${dimensione(x.byte)} · ${originale(x)}</span></li>`).join("");
+  const motivi = [...new Set(mancanti.map((x) => x.note).filter(Boolean))];
+  const nonScaricati = mancanti.length ? `<p class="hint">Non scaricati (${mancanti.length}): ${esc(motivi.join(" "))}</p>
+    <ul class="documenti">${mancanti.map((x) => `<li><span data-spiega="${spiega(x)}">${esc(x.titolo)}</span>${x.url ? ` <span class="doc-meta">· ${originale(x)}</span>` : ""}</li>`).join("")}</ul>` : "";
   return `<h3 class="d-sez">Documenti ufficiali (${d.scaricati})</h3>
-    <p class="hint">Copie scaricate dal sito del gestore${esc(quando)}, per consultarle anche qui. ${esc(conteggio)} Fa fede la versione
+    ${d.nota ? `<p class="hint">${esc(d.nota)}</p>` : ""}
+    ${scaricati.length ? `<p class="hint">Copie scaricate dal sito del gestore${esc(quando)}, per consultarle anche qui. ${esc(conteggio)} Fa fede la versione
       pubblicata dal gestore (link “originale”).</p>
-    <ul class="documenti">${voci}</ul>`;
+    <ul class="documenti">${voci}</ul>` : ""}
+    ${nonScaricati}`;
 }
 
 function initDettaglio() {
@@ -682,9 +713,13 @@ function initPrestazioni() {
   let kpiHtml = kpi(`${righe.length} su ${c.fondi}`, `fondi con i dati sulle prestazioni, presi dai ${termine("documento-rendite", "documenti ufficiali")}`);
   if (conRendita.length > 1) {
     const min = conRendita[0][1].rendita_67, max = conRendita[conRendita.length - 1][1].rendita_67;
-    const nomi = (v) => conRendita.filter(([, p]) => p.rendita_67 === v).map(([f]) => esc(f.nome_breve)).join(" e ");
+    // elenco leggibile dei fondi a pari merito: "A, B e C"
+    const nomi = (v) => {
+      const n = conRendita.filter(([, p]) => p.rendita_67 === v).map(([f]) => esc(f.nome_breve)).sort((x, y) => x.localeCompare(y, "it"));
+      return n.length > 1 ? `${n.slice(0, -1).join(", ")} e ${n[n.length - 1]}` : n[0];
+    };
     kpiHtml +=
-      kpi(`${euroRendita(min)} – ${euroRendita(max)}`, `la ${termine("rendita-vitalizia", "rendita")} annua a 67 anni ogni 10.000 €, da ${nomi(min)} a ${nomi(max)} (${conRendita.length} fondi confrontabili)`) +
+      kpi(`${euroRendita(min)} – ${euroRendita(max)}`, `la ${termine("rendita-vitalizia", "rendita")} annua a 67 anni ogni 10.000 € (${conRendita.length} fondi confrontabili). La più bassa: ${nomi(min)}. La più alta: ${nomi(max)}`) +
       kpi(euroRendita((max - min) * 10), "l'anno di differenza tra il fondo che paga di più e quello che paga di meno, con 100.000 € di capitale");
   }
   document.getElementById("p-kpi").innerHTML = kpiHtml;
@@ -909,6 +944,8 @@ function renderQualita() {
       <thead><tr><th scope="col">Fondo</th><th scope="col">Comparto</th><th scope="col">Anomalia</th><th scope="col">Nota</th></tr></thead>
       <tbody>${righeAnomalie || `<tr><td colspan="4">Nessuna anomalia rilevata.</td></tr>`}</tbody>
     </table></div>
+
+    ${documentiDaRecuperare()}
 
     <div class="q-grid">
       <div>

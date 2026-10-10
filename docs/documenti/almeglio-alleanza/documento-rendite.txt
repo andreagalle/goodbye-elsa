@@ -1,0 +1,515 @@
+# Fondo: ALMEGLIO - FONDO PENSIONE APERTO ALLEANZA A CONTRIBUZIONE DEFINITA (almeglio-alleanza)
+# Documento: Documento sulle rendite – Documento sulle rendite
+# Fonte: https://cdn.alleanza.it/-/media/alleanza/assets/documenti/live0030_documento-sulle-rendite-almeglio_pdf.pdf?la=it-it&rev=8c45d056ed794871be7d72b53bf381c4&hash=59E6143CD3B27D0566DBF04ACACD6BF9
+# Citato in: https://www.alleanza.it/previdenza-complementare/almeglio/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: ca1893c162735af94115ebd99704ea93c10dcf7af48c1b4b6556f944922c6a38
+# Pagine: 13
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+LIVE0030 - Ed. Luglio 2026
+1 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+DOCUMENTO SULLE RENDITE 
+Rendita vitalizia - Rendita a durata definita -  
+Prelievi liberamente determinabili - Erogazione frazionata
+(Ed. 07/26)
+Alleanza Assicurazioni S.p.A. in qualità di soggetto che ha istituito e gestisce AlMeglio si assume la 
+responsabilità della veridicità e completezza dei dati e delle notizie contenuti nel presente documento.
+Il presente documento è valido a decorrere dal 01/07/2026.
+AVVERTENZA: COVIP al fine di consentire alle forme pensionistiche complementari di 
+adeguare alle novità i sistemi e i processi operativi per la gestione delle richieste e l’erogazione 
+delle nuove prestazioni, ha previsto un periodo transitorio che non può protrarsi oltre il 31 
+dicembre 2026: durante tale periodo l’Aderente può comunque richiedere l’accesso alle 
+nuove prestazioni, ma la forma pensionistica complementare procederà alla liquidazione e 
+all’erogazione delle nuove prestazioni  solo successivamente all’adeguamento.  
+Prima che la forma pensionistica complementare proceda alla liquidazione del primo importo 
+l’Aderente potrà revocare la scelta.
+Una volta adeguati i sistemi e i processi operativi, la forma pensionistica informerà gli 
+interessati dell’avvenuto adeguamento e procederà all’erogazione delle prestazioni che 
+sono state richieste durante il periodo transitorio.
+L’Aderente, dal momento della maturazione dei requisiti di accesso alle prestazioni pensionistiche 
+stabilite nel regime obbligatorio di appartenenza e del periodo minimo di permanenza, può esercitare il 
+diritto alla prestazione pensionistica complementare, scegliendo in alternativa tra:
+- Rendite vitalizie
+- Altre modalità di fruizione del montante accumulato.
+Piazza Tre Torri, 1
+20145 Milano
++39 02.40824111
+tutelaclienti@alleanza.it
+alleanza@pec.alleanza.it
+www.alleanza.it
+FONDO PENSIONE APERTO
+ALLEANZA ASSICURAZIONI (GRUPPO GENERALI) 
+Iscritto all’Albo tenuto dalla COVIP con il n. 6 
+Istituito in Italia
+=== pagina 2 ===
+LIVE0030 - Ed. Luglio 2026
+2 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Rendite vitalizie
+Rendita vitalizia
+A seguito dell’esercizio del diritto alla prestazione pensionistica, all’iscritto è erogata una rendita vitalizia 
+calcolata in base alla posizione individuale maturata, al netto della eventuale quota di prestazione da 
+erogare sotto forma di capitale. 
+L’iscritto, in luogo della rendita vitalizia, può richiedere l’erogazione delle prestazioni in forma di rendita 
+vitalizia reversibile: detta rendita è corrisposta all’iscritto finché è in vita e successivamente, in misura 
+totale o per quota scelta dall’iscritto stesso, alla persona da lui designata.
+Determinazione dell’ammontare della rendita vitalizia
+L’importo della prima rata della prestazione pensionistica in forma di rendita vitalizia si determina 
+dividendo il capitale costitutivo della rendita per il coefficiente di conversione in vigore al momento della 
+richiesta della prestazione, individuato in base all’età dell’iscritto, alla rateazione prescelta e al tipo di 
+rendita. Pertanto, i coefficienti, riportati nell’Allegato 1, sono validi per tutti gli iscritti che facciano richiesta 
+della prestazione prima della eventuale sostituzione dei coefficienti medesimi.
+Erogazione della rendita vitalizia
+La rendita vitalizia viene erogata in via posticipata; conseguentemente, la prima rata di rendita 
+viene corrisposta al termine del periodo di rateazione prescelto. L’erogazione della rendita cessa 
+con l’ultima scadenza di rata precedente la morte dell’iscritto. La rendita non può essere riscattata. 
+Il pagamento della rendita vitalizia viene eseguito mediante bonifico bancario alla scadenza delle rate 
+convenute. L’iscritto dovrà dare comunicazione al Fondo Pensione del c/ c bancario e delle coordinate 
+bancarie (IBAN) sul quale accreditare gli importi. In caso di variazione del c/ c bancario l’iscritto dovrà 
+darne comunicazione al Fondo Pensione con tre mesi di anticipo rispetto alla data di corresponsione 
+della rata. Per i bonifici eseguiti all’estero saranno addebitate le relative spese bancarie.
+Per tutti i pagamenti del Fondo Pensione devono essere preventivamente consegnati allo stesso i 
+documenti necessari a verificare l’effettiva esistenza dell’obbligo di pagamento e a individuare gli aventi 
+diritto, mentre il Fondo Pensione si riserva di richiedere, con lettera raccomandata, il certificato di nascita 
+dell’iscritto entro un anno dall’esercizio del diritto.
+Rivalutazione della rendita vitalizia
+La Società riconosce una rivalutazione annua delle prestazioni in base alle condizioni che seguono. La 
+Società gestisce le attività a copertura degli impegni assunti (riserva matematica) nei confronti degli 
+iscritti al Fondo Pensione nella Gestione Separata “AlleRendita” con le modalità e i criteri previsti dal 
+Regolamento della Gestione Separata riportata nell’Allegato 2.
+La Società dichiara, entro il 31 dicembre di ciascun anno, il rendimento da attribuire agli iscritti, ottenuto 
+sottraendo 1,2 punti percentuali dal rendimento della Gestione Separata di AlleRendita. La misura di 
+rivalutazione delle prestazioni si ottiene scontando per il periodo di un anno al tasso di interesse tecnico 
+indicato nell’Allegato 1 - già conteggiato nel calcolo del coefficiente di conversione - la differenza, se 
+positiva, tra il rendimento attribuito ed il suddetto tasso di interesse. 
+A ogni anniversario della data di decorrenza della rendita, la rendita in vigore nel periodo annuale 
+precedente viene aumentata della misura di rivalutazione fissata.
+=== pagina 3 ===
+LIVE0030 - Ed. Luglio 2026
+3 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Altre modalità di fruizione del montante accumulato
+A far data dal 01/07/2026 l’Aderente può scegliere alternativamente tra:
+Rendita a durata definita
+Ciascuna rata annuale si determina dividendo il montante accumulato per il numero di anni relativo alla 
+speranza di vita residua attesa dell’iscritto, così come determinata sulla base delle tavole di mortalità ISTAT 
+utilizzate per il calcolo della pensione obbligatoria.
+Esempio: montante €100.000 e vita residua 20 anni, si liquidano €5.000 l’anno (salvo oscillazioni 
+dell’investimento).
+Prelievi liberamente determinabili
+L’Aderente può richiedere, di volta in volta, la liquidazione dell’importo desiderato entro il limite massimo 
+annuo determinato dividendo il montante per gli anni di vita residua attesa; tale limite opera in misura 
+progressiva e corrisponde alla somma delle rate della rendita a durata definita maturate e non ancora 
+riscosse.
+Esempio:  con montante pari a €100.000 e vita residua attesa di 20 anni, il limite annuo è di €5.000. 
+L’Aderente può quindi richiedere fino a €5.000 nel primo anno; fino a €10.000 complessivi 
+entro il secondo anno, al netto di quanto eventualmente già percepito nel primo; fino a €15.000 
+complessivi entro il terzo anno, al netto di quanto già percepito nei primi due, e così via.
+Durante la fase di erogazione il montante resta investito pertanto l’importo delle singole rate può variare 
+in base all’andamento dell’investimento. 
+Tali modalità di fruizione non sono tra loro combinabili e una volta che ne sia iniziata la liquidazione 
+non possono essere revocate, salvo che il beneficiario scelga di convertire il montante residuo in una 
+delle rendite vitalizie. L’opzione per la rendita vitalizia è eventualmente esercitabile anche presso un’altra 
+forma pensionistica complementare a cui trasferire il montante residuo al solo scopo di accedere alle 
+condizioni di rendita vitalizia offerte da quest’ultima. In caso di decesso dell’Aderente che è anche 
+il beneficiario di tale prestazione, il montante residuo è riscattato dai soggetti dallo stesso indicati al 
+momento dell’esercizio dell’opzione o eventualmente successivamente modificati.
+Documentazione
+Per richiedere l’erogazione delle prestazioni pensionistiche è necessario compilare e sottoscrivere 
+l’apposito modulo riportato nell’Allegato 3 e inviarlo, insieme ai documenti in esso indicati, con lettera 
+raccomandata con ricevuta di ritorno, al seguente indirizzo: 
+Alleanza Assicurazioni S.p.A., Piazza Tre Torri 1, 20145 Milano.
+Per i casi particolari o per intervenute modifiche legislative in materia, la Società si riserva di richiedere agli 
+interessati ulteriore documentazione in considerazione di specifiche esigenze istruttorie.
+Allegati
+Allegato 1 - Tabelle dei coefficienti di conversione
+Allegato 2 - Regolamento della Gestione Separata “AlleRendita”
+Allegato 3 - Modulo di richiesta
+=== pagina 4 ===
+LIVE0030 - Ed. Luglio 2026
+4 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+ALLEGATO 1
+TABELLE DEI COEFFICIENTI DI CONVERSIONE DEL 
+CAPITALE IN RENDITA VITALIZIA
+Condizioni applicate alle adesioni fino al 9 dicembre 2012
+Tabella dei coefficienti di conversione del capitale  
+in rendita vitalizia al tasso tecnico del 2,5%
+MASCHI
+Età 
+al Pensionamento
+Rateazione rendita
+annuale trimestrale bimestrale mensile
+50 22,08045 22,46295 22,50545 22,54795
+51 21,65681 22,03931 22,08180 22,12431
+52 21,22421 21,60671 21,64920 21,69171
+53 20,78276 21,13526 21,20775 21,25025
+54 20,33266 20,71516 20,75766 20,80016
+55 19,87414 20,25664 20,29914 20,31164
+56 19,40811 19,79061 19,83310 19,87561
+57 18,93507 19,31757 19,36006 19,40257
+58 18,45483 18,83733 18,87982 18,92233
+59 17,96680 18,34930 18,39180 18,43430
+60 17,46970 17,85220 17,89469 17,93719
+61 16,96473 17,34723 17,38973 17,43223
+62 16,45267 16,83517 16,87766 16,92017
+63 15,93392 16,31642 16,35891 16,40141
+64 15,40905 15,79155 15,83404 15,87655
+65 14,87857 15,26107 15,30356 15,34606
+66 14,34302 14,72552 14,76801 14,81051
+67 13,80300 14,18550 14,22799 14,27049
+68 13,25931 13,64181 13,68430 13,72681
+69 12,71297 13,09547 13,13797 13,18047
+70 12,16510 12,54760 12,59009 12,63259
+71 11,61692 11,99942 12,04192 12,08442
+72 11,06977 11,45227 11,49476 11,53727
+73 10,52513 10,90763 10,95013 10,99263
+74 9,98472 10,36722 10,40972 10,45222
+75 9,45026 9,83276 9,87525 9,91775
+76 8,92418 9,30668 9,34917 9,39168
+77 8,40837 8,79087 8,83337 8,87587
+78 7,90376 8,28626 8,32876 8,37126
+79 7,41087 7,79337 7,83586 7,87837
+80 6,92975 7,31225 7,35475 7,39725
+81 6,46158 6,84408 6,88657 6,92908
+82 6,00864 6,39114 6,43363 6,47614
+83 5,57230 5,95480 5,99730 6,03980
+84 5,15401 5,53651 5,57901 5,62151
+85 4,75531 5,13781 5,18030 5,22281
+=== pagina 5 ===
+LIVE0030 - Ed. Luglio 2026
+5 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+FEMMINE
+Età 
+al Pensionamento
+Rateazione rendita
+annuale trimestrale bimestrale mensile
+50 24,35902 24,74152 24,78401 24,82651
+51 23,97371 24,35621 24,39870 24,44121
+52 23,57899 23,96149 24,00399 24,04649
+53 23,17469 23,55719 23,59968 23,64219
+54 22,76065 23,14315 23,18564 23,22815
+55 22,33663 22,71913 22,76162 22,80412
+56 21,90246 22,28496 22,32745 22,36996
+57 21,45798 21,84048 21,88297 21,92547
+58 21,00302 21,38552 21,42801 21,47052
+59 20,53754 20,92004 20,96253 21,00504
+60 20,06132 20,44382 20,48631 20,52881
+61 19,57475 19,95725 19,99974 20,04224
+62 19,07776 19,46026 19,50275 19,54526
+63 18,58036 18,98286 18,99536 19,03786
+64 18,05265 18,43515 18,47765 18,52015
+65 17,52473 17,90723 17,94972 17,99222
+66 16,98676 17,36926 17,41175 17,45426
+67 16,43895 16,82145 16,86395 16,90645
+68 15,88124 16,26374 16,30624 16,34874
+69 15,31380 15,69630 15,73880 15,78130
+70 14,73704 15,11954 15,16203 15,20454
+71 14,15166 14,53416 14,57665 14,61915
+72 13,55849 13,94099 13,98348 14,02599
+73 12,95854 13,34104 13,38353 13,42603
+74 12,35296 12,73546 12,77795 12,82045
+75 11,74315 12,12565 12,16814 12,21064
+76 11,13071 11,51321 11,55570 11,59820
+77 10,51756 10,90006 10,94256 10,98506
+78 9,90574 10,28824 10,33074 10,37324
+79 9,29730 9,67980 9,72230 9,76480
+80 8,69429 9,07679 9,11929 9,16179
+81 8,09887 8,48137 8,52387 8,56637
+82 7,51421 7,89671 7,93920 7,98170
+83 6,94367 7,32617 7,36866 7,41117
+84 6,39086 6,77336 6,81585 6,85836
+85 5,85936 6,24186 6,28436 6,32686
+=== pagina 6 ===
+LIVE0030 - Ed. Luglio 2026
+6 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Basi tecniche e caricamenti
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico del 2,5%) 
+è stata adottata la tavola di sopravvivenza RG48 alla quale va applicata la correzione in funzione 
+dell’anno di nascita dell’Assicurato come da tabella sottostante. Il caricamento applicato è pari 
+al 2%.
+MASCHI FEMMINE
+Generazione dei nati Correzione dell’età Generazione dei nati Correzione dell’età
+fino al 1941    1 fino al 1943    1
+dal 1942 al 1951    0 dal 1944 al 1950    0
+dal 1952 al 1965 – 1 dal 1951 al 1964 – 1
+oltre il 1966 – 2 oltre il 1965 – 2
+=== pagina 7 ===
+LIVE0030 - Ed. Luglio 2026
+7 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Condizioni applicate alle adesioni a partire dal 10 dicembre 2012 fino al 29 novembre 2014
+Tabella dei coefficienti di conversione del capitale  
+in rendita vitalizia al tasso tecnico del 2,0%
+Età 
+al Pensionamento
+Rateazione rendita
+annuale trimestrale bimestrale mensile
+50 26,89386 27,27636 27,31886 27,36136
+51 26,44113 26,82363 26,86612 26,90863
+52 25,98082 26,36332 26,40581 26,44832
+53 25,51309 25,89559 25,93808 25,98058
+54 25,03798 25,42048 25,46298 25,50548
+55 24,55524 24,93774 24,98023 25,02273
+56 24,06457 24,44707 24,48956 24,53206
+57 23,56563 23,94813 23,99062 24,03313
+58 23,05810 23,44060 23,48309 23,52559
+59 22,54193 22,92443 22,96693 23,00943
+60 22,01742 22,39992 22,44241 22,48492
+61 21,48489 21,86739 21,90988 21,95238
+62 20,94583 21,32833 21,37082 21,41332
+63 20,40111 20,78361 20,82610 20,86861
+64 19,85053 20,23303 20,27552 20,31802
+65 19,29374 19,67624 19,71873 19,76124
+66 18,73432 19,11682 19,15931 19,20181
+67 18,16821 18,55071 18,59321 18,63571
+68 17,59680 17,97930 18,02179 18,06429
+69 17,02063 17,40313 17,44562 17,48812
+70 16,44063 16,82313 16,86562 16,90813
+71 15,85805 16,24055 16,28304 16,32554
+72 15,27265 15,65515 15,69764 15,74014
+73 14,68204 15,06454 15,10704 15,14954
+74 14,08558 14,46808 14,51058 14,55308
+75 13,48568 13,86818 13,91068 13,95318
+76 12,88293 13,26543 13,30793 13,35043
+77 12,28064 12,66314 12,70564 12,74814
+78 11,68163 12,06413 12,10663 12,14913
+79 11,08989 11,47239 11,51488 11,55738
+80 10,50775 10,89025 10,93274 10,97525
+81 9,93599 10,31849 10,36098 10,40349
+82 9,37404 9,75654 9,79903 9,84154
+83 8,82218 9,20468 9,24717 9,28968
+84 8,27995 8,66245 8,70495 8,74745
+85 7,75552 8,13802 8,18051 8,22301
+=== pagina 8 ===
+LIVE0030 - Ed. Luglio 2026
+8 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Condizioni applicate alle adesioni a partire dal 30 novembre 2014
+Tabella dei coefficienti di conversione del capitale  
+in rendita vitalizia al tasso tecnico del 1,75%
+Età 
+al Pensionamento
+Rateazione rendita
+annuale trimestrale bimestrale mensile
+50 28,12647 28,50897 28,55146 28,59397
+51 27,62934 28,01184 28,05433 28,09684
+52 27,12503 27,50753 27,55002 27,59252
+53 26,61373 26,99623 27,03872 27,08123
+54 26,09550 26,47800 26,52049 26,56300
+55 25,57012 25,95262 25,99512 26,03762
+56 25,03730 25,41980 25,46229 25,50480
+57 24,49673 24,87923 24,92172 24,96423
+58 23,94810 24,33060 24,37309 24,41559
+59 23,39141 23,77391 23,81640 23,85891
+60 22,82698 23,20948 23,25197 23,29447
+61 22,25518 22,63768 22,68018 22,72268
+62 21,67759 22,06009 22,10259 22,14509
+63 21,09514 21,47764 21,52013 21,56263
+64 20,50763 20,89013 20,93263 20,97513
+65 19,91474 20,29724 20,33974 20,38224
+66 19,32017 19,70267 19,74516 19,78766
+67 18,71976 19,10226 19,14475 19,18725
+68 18,11495 18,49745 18,53994 18,58244
+69 17,50633 17,88883 17,93132 17,97383
+70 16,89487 17,27737 17,31986 17,36237
+71 16,28186 16,66436 16,70685 16,74936
+72 15,66707 16,04957 16,09207 16,13457
+73 15,04808 15,43058 15,47307 15,51558
+74 14,42424 14,80674 14,84923 14,89174
+75 13,79803 14,18053 14,22302 14,26553
+76 13,17008 13,55258 13,59507 13,63758
+77 12,54377 12,92627 12,96877 13,01127
+78 11,92198 12,30448 12,34697 12,38948
+79 11,30876 11,69126 11,73375 11,77625
+80 10,70644 11,08894 11,13144 11,17394
+81 10,11580 10,49830 10,54080 10,58330
+82 9,53621 9,91871 9,96120 10,00371
+83 8,96791 9,35041 9,39290 9,43540
+84 8,41040 8,79290 8,83539 8,87790
+85 7,87192 8,25442 8,29691 8,33942
+=== pagina 9 ===
+LIVE0030 - Ed. Luglio 2026
+9 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Basi tecniche e caricamenti
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico dell’1,75%) è stata 
+adottata la tavola di sopravvivenza IPS55U alla quale va applicata la correzione in funzione dell’anno di 
+nascita dell’Assicurato come da tabella sottostante. Il caricamento applicato è pari al 2%.
+Anno di nascita Correzione da apportare all'età al 
+momento di accesso alle prestazioni
+Fino al 1927 3
+Dal 1928 al 1939 2
+Dal 1940 al 1948 1
+Dal 1949 al 1960 0
+Dal 1961 al 1970 -1
+Oltre il 1970 -2
+=== pagina 10 ===
+LIVE0030 - Ed. Luglio 2026
+10 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Basi tecniche e caricamenti
+Per l’elaborazione dei coefficienti (annualità vitalizie posticipate lorde al tasso tecnico del 2,0%) è stata 
+adottata la tavola di sopravvivenza IPS55U alla quale va applicata la correzione in funzione dell’anno di 
+nascita dell’Assicurato come da tabella sottostante. Il caricamento applicato è pari al 2%.
+Anno di nascita Correzione da apportare all'età al 
+momento di accesso alle prestazioni
+Fino al 1927 3
+Dal 1928 al 1939 2
+Dal 1940 al 1948 1
+Dal 1949 al 1960 0
+Dal 1961 al 1970 -1
+Oltre il 1970 -2
+=== pagina 11 ===
+LIVE0030 - Ed. Luglio 2026
+11 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+Allegato 2
+REGOLAMENTO DELLA GESTIONE SEPARATA 
+“ALLERENDITA”
+1. Il presente Regolamento disciplina il portafoglio di investimenti, gestito separatamente dagli altri attivi 
+detenuti dalla Società, denominato ALLERENDITA (la Gestione Separata).
+2. La Gestione Separata è denominata in Euro.
+3. Il periodo di osservazione per la determinazione del tasso medio di rendimento decorre dal 1° 
+novembre al 31 ottobre di ogni anno.
+4. La Società, nella gestione del portafoglio, attua una politica d’investimento prudente orientata verso 
+titoli mobiliari di tipo obbligazionario che mira a massimizzare il rendimento nel medio e lungo 
+termine mantenendo costantemente un basso livello di rischiosità del portafoglio e perseguendo la 
+stabilità dei rendimenti nel corso del tempo. La scelta degli investimenti è determinata sulla base della 
+struttura degli impegni assunti nell’ambito dei contratti assicurativi collegati alla gestione e dall’analisi 
+degli scenari economici e dei mercati di investimento. Nel breve termine, e nel rispetto di tali criteri, è 
+comunque possibile cogliere eventuali opportunità di rendimento.
+ Le principali tipologie di investimento in cui vengono investite le risorse sono: obbligazionario, 
+immobiliare e azionario, come di seguito specificato; l’investimento potrà anche essere indiretto 
+attraverso l’utilizzo di OICR armonizzati. 
+ Investimenti obbligazionari
+ L’investimento in strumenti obbligazionari, prevalentemente con rating investment grade, punta ad 
+una diversificazione per settori, emittenti, scadenze, e a garantire un adeguato grado di liquidabilità.
+ In questo ambito sono ricompresi anche strumenti di breve e brevissimo termine quali depositi 
+bancari, pronti contro termine o fondi monetari.
+ Investimenti immobiliari
+ La gestione degli investimenti potrà comprendere attività del comparto immobiliare, inclusi i fondi 
+comuni di investimento, le azioni e le quote di società del medesimo settore.
+ Investimenti azionari
+ Gli investimenti in strumenti finanziari di tipo azionario sono effettuati prevalentemente in titoli quotati 
+nei mercati ufficiali o regolamentati, riconosciuti e regolarmente funzionanti. La selezione dei singoli 
+titoli azionari è basata sia sull’analisi di dati macroeconomici (tra i quali ciclo economico, andamento 
+dei tassi di interesse e delle valute, politiche monetarie e fiscali) sia sullo studio dei fondamentali delle 
+singole società (dati reddituali, potenzialità di crescita e posizionamento nel mercato).
+ Vi è anche la possibilità di investire in altri strumenti finanziari.
+ Nella gestione degli investimenti, la Società si attiene ai seguenti limiti:
+Investimenti obbligazionari massimo 100%
+Investimenti immobiliari massimo 40%
+Investimenti azionari massimo 35%
+Investimenti altri strumenti finanziari massimo 10%
+ Possono essere effettuati, inoltre, investimenti in strumenti finanziari derivati nel rispetto di quanto 
+previsto dalla vigente normativa di settore.
+=== pagina 12 ===
+LIVE0030 - Ed. Luglio 2026
+12 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+ Possono infine essere effettuati investimenti in attivi emessi dalle controparti di cui all’art. 5 del 
+Regolamento ISVAP 27 maggio 2008, n. 25 nel limite complessivo massimo del 20% dell’attivo della 
+Gestione Separata. In tale limite non rientrano gli investimenti in strumenti collettivi di investimento mobiliare 
+o immobiliare istituiti, promossi o gestiti dalle controparti sopra citate per i quali la normativa di riferimento 
+o i relativi regolamenti di gestione non consentano di effettuare operazioni potenzialmente suscettibili di 
+generare conflitti di interesse con società del gruppo di appartenenza della SGR oltre il limite del 20% del 
+patrimonio dell’OICR.
+ L’Euro è la principale valuta dei titoli presenti nella Gestione Separata. Nel rispetto dei criteri previsti 
+dalla normativa di settore è possibile l’utilizzo di titoli in altre valute, mantenendo un basso livello di 
+rischiosità.
+5. Il valore delle attività della Gestione Separata non potrà essere inferiore alle riserve matematiche 
+costituite per i contratti  a prestazioni rivalutabili in base ai rendimenti realizzati dalla Gestione stessa.
+6. Sulla Gestione Separata possono gravare unicamente le spese relative all’attività di verifica contabile 
+effettuata dalla società di revisione e quelle effettivamente sostenute per l’acquisto e la vendita delle 
+attività della Gestione Separata.
+7. Il rendimento della Gestione Separata beneficia di eventuali utili derivanti dalla retrocessione di 
+commissioni o di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi riconducibili 
+al patrimonio della Gestione Separata.
+8. Il tasso medio di rendimento della Gestione Separata, relativo al periodo di osservazione annuale, 
+è determinato rapportando il risultato finanziario della Gestione Separata alla giacenza media delle 
+attività della Gestione Separata stessa.   
+ Il risultato finanziario della Gestione Separata è costituito dai proventi finanziari di competenza 
+conseguiti dalla Gestione stessa, comprensivi degli scarti di emissione e di negoziazione di 
+competenza, dagli utili realizzati e dalle perdite sofferte nel periodo di osservazione, oltre che dagli 
+utili e dai proventi di cui al precedente paragrafo 7. Il risultato finanziario è calcolato al netto delle 
+spese di cui al precedente paragrafo 6 effettivamente sostenute ed al lordo delle ritenute di acconto 
+fiscale. Gli utili e le perdite da realizzo sono determinati con riferimento al valore di iscrizione delle 
+corrispondenti attività nel libro mastro della Gestione Separata. Il valore di iscrizione nel libro mastro 
+di una attività di nuova acquisizione è pari al prezzo di acquisto.
+ La giacenza media delle attività della Gestione Separata è pari alla somma della giacenza media 
+nel periodo di osservazione dei depositi in numerario, degli investimenti e di ogni altra attività della 
+Gestione Separata. La giacenza media è determinata in base al valore di iscrizione delle attività nel 
+libro mastro della Gestione Separata.
+9. La Gestione Separata è annualmente sottoposta a certificazione da parte di una società di revisione 
+iscritta nell’apposito registro previsto dalla normativa vigente.
+10.  Il presente Regolamento potrà essere modificato per essere adeguato alla normativa primaria e 
+secondaria vigente oppure a fronte di mutati criteri gestionali con esclusione, in tale ultimo caso, di 
+modifiche meno favorevoli per il contraente.
+11. La Gestione Separata potrà essere oggetto di fusione o scissione con altre gestioni separate costituite 
+dalla Società aventi caratteristiche similari e politiche di investimento omogenee. La eventuale fusione 
+o la scissione perseguirà in ogni caso l’interesse dei Contraenti e non comporterà oneri aggiuntivi a 
+carico di questi ultimi.
+12. Il presente Regolamento è parte integrante delle Condizioni di assicurazione.
+=== pagina 13 ===
+LIVE0030 - Ed. Luglio 2026
+13 di 13
+ALMEGLIO DI ALLEANZA - Documento sulle rendite
+LIVE0042 (ex 39/05) - 07/2026 - Pagina 1 di 9
+1. DATI DELL’ADERENTE
+Adesione N° _____________________    Cognome e Nome ___________________________________     M   F   Data di nascita 
+Comune di nascita (o Stato estero) ___________________________________   Prov.     Codice Fiscale 
+Residenza: Indirizzo _____________________________________________________________________________________________   N° Civico __________     
+C.A.P.    Comune ____________________________________________________________________________________________   Prov.     
+Paese (se diverso da Italia) ___________________________________________________________________   Presso (facoltativo) ___________________________
+ Cell. ____________________________________  N° tel. _____________________  email ________________________________________________________
+Domicilio (da indicare se diverso dalla residenza e valido anche per l’inoltro della corrispondenza):   
+Indirizzo _____________________________________________________________________________________________________  N° Civico __________   
+C.A.P.    Comune _________________________________________________________________________________________  Prov.     
+Paese (se diverso da Italia) ______________________________________________________________   Presso (facoltativo) ______________________________
+Desidero ricevere la corrispondenza in:        Formato elettronico via mail      Formato cartaceo all’indirizzo di recapito
+Persona politicamente esposta:        No     Sì      
+Ricopre cariche pubbliche diverse da PEP?        No       Sì
+Se Si, indicare la carica ricoperta: 
+ Amministratore locale  Ruolo apicale in pubblica amministrazione  Ruolo apicale in consorzi pubblici
+ Ruolo apicale in associazione di natura pubblicistica       Altro (specificare) _______________________________________________________________
+Paese Sede Legale Ente (da compilare se carica ricoperta diversa da Altro) ____________________________________________________________________
+Professione:   (Inserire codici)                 Tipo:      Dipendente      Autonomo      Altro                 Settore:      Privato      Pubblico      Altro
+Data 1a Occupazione           Data 1a Iscrizione a previdenza complementare  
+Stato civile  (Inserire codici)       Numero componenti nucleo familiare    di cui a carico         
+Titolo di studio:    Scuola dell’obbligo    Scuola superiore   Laurea
+Documento:        Carta d’identità        Passaporto        Patente        Altro       Numero _______________________________________________________
+Data di rilascio       Scadenza   
+Ente di rilascio _________________________________________________________   Luogo di rilascio _____________________________________________
+DICHIARAZIONI U.S. PERSON/RESIDENZA FISCALE FUORI DALL’ITALIA (COMMON REPORTING STANDARD)
+U.S. Person:        No        Sì (compilare modulo W-9)                CRS:        No        Sì
+Codice GIIN (Codice Fiscale Identificativo estero) se disponibile:                                           
+In caso di CRS Sì, indicare:
+Nazione  Cod. id. fiscale  
+Data inizio effetto     Data fine effetto 
+Nazione  Cod. id. fiscale  
+Data inizio effetto     Data fine effetto 
+Nazione  Cod. id. fiscale  
+Data inizio effetto   Data fine effetto 
+MODULO RICHIESTA RISCATTO, PRESTAZIONE PREVIDENZIALE  
+E PRESTAZIONI ACCESSORIE
+(Valido per Pip Alleata Previdenza - Fip Alleata - Fondo Pensione Aperto AlMeglio)
+AGENZIA GENERALE DI          /  /
+ (in lettere)                                                        (in codice) (Ispettorato Agenziale) (Settore) (Zona)
+ALLEANZA ASSICURAZIONI S.p.A. - Sede Legale: Piazza Tre Torri, 1 - 20145 Milano - Tel. +39 02 40824111 - www.alleanza.it
+Capitale Sociale Euro 210.000.000,00 i.v. - Codice Fiscale e iscrizione Registro Imprese di Milano Monza Brianza Lodi n. 10908160012
+Partita IVA n. 01333550323 - Pec: alleanza@pec.alleanza.it - Società iscritta all’Albo Imprese IVASS n. 1.00178, soggetta all’attività di direzione  
+e coordinamento di Assicurazioni Generali S.p.A. ed appartenente al Gruppo Generali, iscritto al n. 026 dell’Albo dei gruppi assicurativi
+ALLEANZA  ASSICURAZIONI  S.p.A.
+- M I L A N O  -
+AGENZIA
+DELLE ENTRATE
+UFFICIO
+REGISTRO 
+MILANO
+Allegato 3

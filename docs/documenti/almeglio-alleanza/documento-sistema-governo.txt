@@ -1,0 +1,546 @@
+# Fondo: ALMEGLIO - FONDO PENSIONE APERTO ALLEANZA A CONTRIBUZIONE DEFINITA (almeglio-alleanza)
+# Documento: Documento sul sistema di governo – Documento sistema di governo
+# Fonte: https://cdn.alleanza.it/-/media/alleanza/assets/prodotti/almeglio/almeglio_documento-sul-sistema-di-governo-societario.pdf?la=it-it&rev=418fda8896bd4727b88f8ebec3d2c6b0&hash=2DCFFACCD025AB4E23FD64CD82239EBE
+# Citato in: https://www.alleanza.it/previdenza-complementare/almeglio/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5e3b0efedf6c3e1b0d3266d02933aa4bbac7f310b66a9ee513e60102f66d04ad
+# Pagine: 19
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Fondo Pensione AlMeglio 
+FONDO PENSIONE APERTO ALLEANZA 
+A CONTRIBUZIONE DEFINITA 
+ 
+Iscritto all’Albo tenuto dalla Covip con il n. 6 
+ 
+Piazza Tre Torri, 1 – Milano 
+www.alleanza.it/almeglio 
+ 
+ 
+ 
+ 
+DOCUMENTO SUL SISTEMA DI GOVERNO SOCIETARIO 
+(approvato dal Consiglio di Amministrazione di Alleanza Assicurazioni S.p.A. del 16 aprile 2021)
+=== pagina 2 ===
+Indice 
+Premessa .............................................................................................................................................. 3 
+a) Organizzazione della Compagnia .................................................................................................... 5 
+1. Profili gestionali inerenti al fondo pensione AlMeglio ........................................................... 5 
+2. Organi e strutture della Compagnia coinvolti nel processo di investimento del patrimonio 
+separato del fondo pensione aperto .............................................................................................. 9 
+3. Funzioni e/o attività esternalizzate ....................................................................................... 12 
+b) Il sistema di controllo interno ...................................................................................................... 13 
+c) Il sistema di gestione dei rischi ..................................................................................................... 15 
+d) Flussi informativi tra le strutture aziendali e il Responsabile del Fondo .................................... 17 
+e) Politica di remunerazione ............................................................................................................. 19 
+1. Responsabile del fondo pensione aperto .............................................................................. 19 
+2. Titolari delle funzioni fondamentali di gestione dei rischi e di revisione interna ............... 19
+=== pagina 3 ===
+Premessa 
+ 
+Con il decreto legislativo 13 dicembre 2018, n. 147, pubblicato nella Gazzetta Ufficiale n. 14 del 17 
+gennaio 2019, è stata data attuazione alla direttiva (UE) 2016/2341, del Parlamento europeo e del 
+Consiglio, del 14 dicembre 2016, relativa alle attività e alla vigilanza degli enti pensionistici aziendali 
+o professionali. 
+ 
+Il recepimento della direttiva è stato realizzato attraverso un’ampia e articolata revisione della 
+disciplina delle forme pensionistiche complementari, contenuta nel decreto legislativo 5 dicembre 
+2005, n. 252 (di seguito, anche, “dec reto n. 252/2005”). Nell’ambito delle novità introdotte nel 
+decreto n. 252/2005, il nuovo art. 5-decies dispone che le Compagnie che gestiscono fondi pensione 
+costituiti nella forma di patrimoni separati ai sensi dell’art. 3, comma 1, lettera h) (fondi pen sione 
+aperti), assicurano, in modo proporzionato alla dimensione, alla natura, alla portata e alla 
+complessità delle attività del fondo pensione, l’assolvimento degli obblighi previsti dagli artt. 4 -bis, 
+5-bis, 5-ter, 5-quater, 5-sexies, 5-septies, 5-octies e 5-nonies, in coerenza con gli assetti organizzativi 
+del rispettivo settore di riferimento. 
+ 
+COVIP, con la Deliberazione del 13 gennaio 2021, ha definito, ai sensi dell’art. 5-decies sopra citato, 
+le modalità di coordinamento della normativa del decreto n. 252/2005 in tema di governance, con 
+gli ordinamenti di settore delle Società che gestiscono fondi pensione aperti nell’ottica di 
+salvaguardarne l’applicazione, in caso di eventuale sovrapposizione di discipline. 
+In particolare, le Istruzioni previste nella Deliberazione COVIP del 13 gennaio 2021 richiedono che il 
+sistema di governo della Società, per la parte relativa alla gestione dei fondi pensione aperti, sia 
+descritto in un apposito documento, da redigersi, con cadenza annuale, e che venga pubblicato sul 
+sito web della Società unitamente al rendiconto dei fondi stessi. 
+A tal fine Alleanza Assicurazioni S.p.A. (di seguito la “Compagnia”), che gestisce il fondo pensione 
+aperto a contribuzione definita “AlMeglio” (di seguito il “Fondo pensione”), ha redatto il presente 
+documento ai sensi delle predette Istruzioni. 
+ 
+Tale documento ha per oggetto: 
+a) l’organizzazione della Compagnia rilevante per i profili gestionali inerenti ai fondi pensione aperti, 
+ivi incluse le funzioni e/o attività che risultano esternalizzate; la sezione riporta anche i compiti e le 
+responsabilità degli organi e delle strutture della Compagnia coinvolti nel processo di investimento 
+del patrimonio separato del fondo pensione aperto;
+=== pagina 4 ===
+b) una descrizione sintetica di come sono organizzati i controlli interni rilevanti per i fondi pensione 
+aperti; 
+c) una descrizione sintetica di come è organizzato il sistema di gestione dei rischi rilevante per i fondi 
+pensione aperti; 
+d) una descrizione sintetica di come sono organizzati i flussi informativi tra le strutture aziendali e il 
+responsabile del fondo pensione aperto e viceversa; 
+e) le informazioni essenziali relative alla politica di remunerazione del responsabile del fondo 
+pensione aperto e dei titolari delle funzioni fondamentali di gestione dei rischi e di revisione interna.
+=== pagina 5 ===
+a) Organizzazione della Compagnia  
+ 
+1. Profili gestionali inerenti al fondo pensione AlMeglio 
+La Compagnia ha adottato il sistema di corporate governance tradizion ale basato sulla presenza 
+dell’Assemblea dei soci, di un Consiglio di Amministrazione – che ha delegato parte dei suoi poteri 
+ad un Amministratore Delegato e Direttore Generale - e di un Collegio Sindacale. 
+ 
+ Assemblea  
+L’Assemblea rappresenta l’universalità dei soci e le sue deliberazioni, prese in conformità alla legge 
+ed allo Statuto sociale, obbligano tutti i soci. L'Assemblea è ordinaria o straordinaria ai sensi di legge. 
+L’Assemblea Ordinaria delibera sulle materie ad essa riservate dalla legge. In particolare, 
+l’Assemblea ordinaria: 
+ approva il bilancio; 
+ nomina e revoca gli amministratori; 
+ nomina i sindaci e il presidente del Collegio Sindacale e, quando previsto, il soggetto incaricato 
+di effettuare la revisione legale dei conti; 
+ approva l e politiche di remunerazione a favore degli organi sociali e del personale rilevante, 
+inclusi gli eventuali piani di remunerazione basati su strumenti finanziari, ai sensi della normativa 
+regolamentare; 
+ delibera sulla responsabilità degli amministratori e dei sindaci; 
+ delibera sugli altri oggetti attribuiti dalla legge alla competenza dell'assemblea, nonché sulle 
+autorizzazioni eventualmente richieste dallo Statuto per il compimento di atti degli 
+amministratori, ferma in ogni caso la responsabilità di questi per gli atti compiuti; 
+ approva l'eventuale regolamento dei lavori assembleari. 
+ 
+ 
+ Consiglio di Amministrazione  
+In base allo statuto sociale, il Consiglio di Amministrazione si compone di non meno di 3 e non più 
+di 15 componenti, nominati dall’Assemblea c he ne determina il numero. I Consiglieri devono 
+soddisfare determinati requisiti di professionalità, onorabilità e indipendenza. 
+ 
+Il Consiglio ha ogni più ampio potere di gestione per il perseguimento dello scopo sociale, salvi i 
+limiti disposti dalla legge. Inoltre, ai sensi dello statuto, il Consiglio ha competenza a deliberare pure 
+in tema di fusione, nei casi consentiti dalla nor mativa vigente, d’istituzione o soppressione di sedi
+=== pagina 6 ===
+secondarie, d’indicazione di quali amministratori abbiano la rappresentanza e la firma sociale ed 
+entro quali limiti, di riduzione del capitale in caso di recesso, di adeguamento dello statuto a 
+disposizioni imperative di legge nonché di trasferimento della sede sociale nel territorio nazionale. 
+ 
+Il Consiglio è responsabile ultimo del sistema di controllo interno e gestione dei rischi, di cui valuta 
+periodicamente l’adeguatezza e l’efficacia. 
+ 
+Con specifi co riferimento al Fondo Pensione Aperto, il Consiglio di Amministrazione della 
+Compagnia: 
+ approva il Regolamento del Fondo; 
+ approva il Rendiconto annuale del Fondo; 
+ nomina il Responsabile del Fondo, previa verifica del possesso dei requisiti previsti dalla  
+normativa applicabile; 
+ approva la Politica di remunerazione e determina la remunerazione del Responsabile del Fondo 
+in accordo con la Politica stessa; 
+ approva le ulteriori Politiche del Fondo previste dalla normativa applicabile (Politica degli 
+investimenti) e le rivede con cadenza almeno triennale; 
+ effettua periodicamente la valutazione interna del rischio; 
+ definisce i compiti della Funzione di Risk Management e della Funzione di Internal Audit della 
+Compagnia anche con riferimento alle attività svolte con riguardo ai fondi pensione aperti gestiti 
+dalla stessa; 
+ approva il Documento di governo societario del Fondo. 
+ 
+ 
+ Alta Direzione 
+Il Consiglio di Amministrazione nomina l’Amministratore Delegato e Direttore Generale 
+definendone il mandato e le responsabilità. 
+L’Amministratore Delegato e Direttore Generale è responsabile dell’attuazione, del mantenimento 
+e del monitoraggio del sistema di controllo interno e di gestione dei rischi, incluso il rischio di 
+compliance, in conformità con le direttive dettate dal Consiglio di Amministrazione. 
+In particolare, l’Amministratore Delegato e Direttore Generale, con il supporto di tutti gli altri 
+componenti dell’Alta Direzione: 
+ definisce nel dettaglio l’assetto organizzativo della Compagnia, i compiti e le responsabilità delle 
+strutture organizzative e dei relativi addetti, nonché definisce i processi decisionali in coerenza 
+con le direttive impartite dal Consiglio di Amministrazione; in tale ambito attua l’appropriata
+=== pagina 7 ===
+separazione di compiti sia tra singoli sogg etti che tra funzioni in modo da evitare, per quanto 
+possibile, l’insorgere di conflitti di interesse; 
+ attua le politiche relative alla valutazione, anche prospettica, e alla gestione dei rischi così come 
+stabilito dal Consiglio di Amministrazione, assicur ando la definizione di limiti operativi e la 
+tempestiva verifica degli stessi, nonché il monitoraggio delle esposizioni ai rischi e il rispetto dei 
+livelli di tolleranza; 
+ attua le politiche di governance, ivi incluse le politiche di controllo interno e di gestione dei 
+rischi; 
+ sovrintende al mantenimento della funzionalità e dell'adeguatezza complessiva dell'assetto 
+organizzativo e del Sistema di Governance; 
+ assicura che il Consiglio di Amministrazione sia periodicamente informato sull'efficacia e 
+sull'adeguatezza del Sistema di Governance e tempestivamente informato ogniqualvolta siano 
+riscontrate criticità significative; 
+ attua le istruzioni del Consiglio di Amministrazione in merito alle misure da adottare per 
+correggere le anomalie riscontrate e migliorare  il sistema di controllo interno e di gestione dei 
+rischi; 
+ propone al Consiglio di Amministrazione iniziative volte ad adeguare e rafforzare il Sistema di 
+Governance. 
+ 
+ Collegio Sindacale 
+Il Collegio Sindacale si compone di tre Sindaci effettivi e due supplenti, rieleggibili nella carica, le cui 
+attribuzioni, i doveri e i termini di durata in carica sono quelli stabiliti dalla legge. Almeno un 
+membro effettivo ed uno supplente debbono essere iscritti nel Registro dei Revisori Contabili; i 
+rimanenti devono es sere scelti fra gli iscritti agli albi professionali individuati dalla normativa 
+vigente. 
+Il Collegio è stato nominato dall’Assemblea degli Azionisti del 15 aprile 2019 per gli esercizi 2019 – 
+2020 – 2021, e dunque fino alla data dell'Assemblea di approvazione del bilancio che si chiuderà al 
+31 dicembre 2021. La medesima Assemblea ne ha designato il Presidente e ha determinato il 
+compenso annuale del Collegio, ripartendolo tra Presidente e Sindaci effettivi. 
+ 
+ Comitato Rischi 
+L’Amministratore Delegato e Direttore Generale di Alleanza Assicurazioni si avvale del supporto di 
+Comitati manageriali per attuare una più efficiente e coordinata gestione della Compagnia. I 
+compiti, la composizione e la frequenza con cui si radunano ques ti Comitati sono definiti con
+=== pagina 8 ===
+risoluzione dell’Amministratore Delegato e Direttore Generale, nell’ambito dei suoi poteri, con 
+apposito Ordine di Servizio. 
+ 
+Tra questi rientra il Comitato Rischi, che  ha il compito di supportare l’Amministratore Delegato e 
+Direttore Generale nell’attuazione, mantenimento e monitoraggio del sistema di controllo interno 
+e di gestione dei rischi. Tra le sue principali attribuzioni rientrano:  
+ Promuovere e monitorare l’effettiva implementazione del sistema di gestione dei rischi, in linea 
+con i requisiti della Direttiva Solvency II e con le direttive del Gruppo; 
+ Promuovere e verificare l’effettiva implementazione del Modello Interno, verificarne la 
+coerenza con le specificità locali, prendendo atto anche delle risultanze delle att ività di 
+validazione; 
+ Definire e proporre aggiornamenti al sistema di gestione dei rischi e al Modello Interno, in 
+coerenza con le specificità locali e con gli eventuali aggiornamenti a livello di Gruppo; 
+ Supportare la predisposizione della proposta dell’o biettivo di solvibilità della Compagnia, da 
+sottoporre al Consiglio di Amministrazione, in coerenza con le politiche di Gruppo nonché i livelli 
+di tolleranza ed i limiti operativi; 
+ Supportare la predisposizione della proposta delle politiche e delle linee guida di gestione dei 
+rischi, da sottoporre al Consiglio di Amministrazione; 
+ Monitorare l’applicazione delle politiche di gestione dei rischi ed il rispetto dei limiti e definire 
+le eventuali strategie correttive, individuando le azioni di mitigazione e gli interventi da porre in 
+essere; 
+ Monitorare l’evoluzione del profilo di rischio (complessivo e per ogni categoria di rischio) ed 
+esaminare le valutazioni periodiche della Compagnia, tenendo conto anche degli effetti 
+derivanti dall’andamento delle Controllate; 
+ Esaminare preventivamente gli effetti di operazioni che possono generare una significativa 
+ricaduta sul profilo di rischio e sulla posizione di solvibilità della Compagnia e delle Compagnie 
+controllate. 
+ 
+Al Comitato Rischi partecipano, oltre ai respons abili delle principali aree di rischio, i titolari delle 
+Funzioni Fondamentali mettendo a disposizione le proprie valutazioni sull’adeguatezza del sistema 
+di controllo.
+=== pagina 9 ===
+2. Organi e strutture della Compagnia coinvolti nel processo di investimento del 
+patrimonio separato del fondo pensione aperto 
+ 
+Gli organi e le strutture della Compagnia cui sono stati affidati i compiti afferenti al processo degli 
+investimenti sono i seguenti:  
+ Consiglio di Amministrazione, 
+ Alta Direzione, 
+ Area Investimenti,  
+ Area Vita e Danni, 
+ Gestore finanziario,  
+ 
+ Il Consiglio di Amministrazione della Compagnia ha i seguenti compiti: 
+ definisce e adotta la Politica d’investimento, idonea al raggiungimento degli obiettivi strategici 
+e ne verifica il rispetto; 
+ impartisce le direttiv e all’Alta Direzione in merito all’attuazione, al mantenimento e al 
+monitoraggio della Politica, anche con riguardo alle attività esternalizzate. 
+In tale ambito:  
+ esamina i rapporti sulla gestione finanziaria (“Relazione periodica” o quella a carattere 
+straordinario) e valuta le proposte formulate dall’Alta Direzione, adottando le relative 
+determinazioni; la Relazione periodica è prodotta con frequenza almeno semestrale. L a 
+Relazione a carattere straordinario è prodotta in caso di significativi cambiamenti nei livelli di 
+rendimento-rischio derivanti dall’attività di investimento o, in prospettiva, di possibili 
+superamenti delle soglie di rischiosità; 
+ impartisce le direttive  per la definizione delle procedure di controllo interno della gestione 
+finanziaria, valutando le proposte formulate dall’Alta direzione e dalle funzioni di controllo;  
+ impartisce le direttive per la strategia in materia di esercizio dei diritti di voto spettanti al fondo, 
+valutando le proposte formulate dall’Alta direzione. 
+Infine il Consiglio di Amministrazione ha il compito di revisionare periodicamente la Politica di 
+investimento, almeno ogni tre anni, provvedendo, se necessario, alla relativa modifica. 
+ 
+ l’Alta Direzione della Compagnia  ha la responsabilità dell’attuazione, del mantenimento e 
+del monitoraggio della Politica. In tale ambito, l’Alta Direzione svolge le seguenti funzioni:
+=== pagina 10 ===
+ contribuisce all’impostazione/revisione della Politica di investimento;  
+ adotta le procedure di controllo interno della gestione finanziaria, sulla base delle direttive 
+impartite dal Consiglio di Amministrazione. In particolare, definisce il contenuto e la tempistica 
+per la produzione/presentazione della reportistica sul c ontrollo della gestione finanziaria e 
+sull’attività di investimento; 
+ adotta la politica in materia di esercizio dei diritti di voto, sulla base delle direttive impartite dal 
+Consiglio di Amministrazione; 
+ presenta al Consiglio di Amministrazione la Relazion e periodica (o quella di carattere 
+straordinario), formulando le relative proposte; 
+ esercita il controllo sull’attività svolta, assumendo le relative determinazioni. 
+ 
+ L’Area Investimenti della Compagnia svolge i seguenti compiti: 
+ imposta e revisiona la Politica di investimento, formulando all’Alta Direzione le relative 
+proposte, anche con riguardo ai nuovi sviluppi dei mercati; 
+ fornisce le indicazioni al Gestore finanziario per l’attuazione delle strategie di investimento e ne 
+valuta l’op erato. In tale ambito, produce una documentazione completa dei controlli svolti 
+sull’attività di investimento di facile lettura, destinata ad essere conservata negli archivi della 
+forma pensionistica per dieci anni, al fine di consentire la ricostruzione d egli eventi che hanno 
+determinato le situazioni reddituali passate. Particolare attenzione è posta nella verifica e nella 
+valutazione degli investimenti in strumenti alternativi e derivati; 
+ verifica periodicamente il rispetto da parte dei soggetti incaricati della gestione delle indicazioni 
+date in ordine ai principi e ai criteri di investimento sostenibile e responsabile, laddove previsti 
+nell’ambito dei criteri di attuazione della politica di investimento; 
+ produce la reportistica sulla gestione finanziaria e l’attività di investimento per l’Alta Direzione; 
+in particolare produce una Relazione periodica, da indirizzare agli organi di amministrazione e 
+controllo, circa la situazione di ogni singolo comparto, corredata da una valutazione del grado 
+di rischio assunto in rapporto al rendimento realizzato. In caso di significativi cambiamenti nei 
+livelli di rendimento -rischio derivanti dall’attività di investimento o, in prospettiva, di possibili 
+superamenti delle soglie di rischiosità, predispone una Relazione a carattere straordinario; 
+ collabora con gli altri soggetti coinvolti nel processo degli investimenti, al fine di fornire il 
+supporto necessario circa gli aspetti inerenti alla strategia da attuare e i risultati degli 
+investimenti; 
+ contribuisce alla definiz ione, allo sviluppo e all’aggiornamento delle procedure interne di 
+controllo della gestione finanziaria nonché alla definizione della reportistica sul controllo della 
+gestione finanziaria e sull’attività di investimento.
+=== pagina 11 ===
+ l’Area Vita e Danni della Compagnia svolge i seguenti compiti: 
+ contribuisce all’impostazione e alla revisione della Politica di investimento, con particolare 
+riguardo alla definizione delle prestazioni obiettivo formulando, in condivisione con la Funzione 
+Investimenti, all’Alta Direzione le relative proposte; 
+ effettua il monitoraggio delle caratteristiche socio-demografiche degli iscritti, l’andamento delle 
+adesioni e delle uscite nonché il livello di contribuzione media, con l’obiettivo di identificare la 
+struttura delle liabilities della forma pensionistica.  
+ 
+ il Gestore finanziario  
+La Compagnia ha conferito delega di gestione a GIAM SGR S.p.A., con sede in Via Machiavelli, n. 4, 
+Trieste, Società specializzata, nell’ambito del Gruppo, nell’attività di gestione finanziaria. 
+GIAM SGR S.p.A. svolge, in particolare, i seguenti compiti: 
+ 
+ investe le risorse finanziarie con la finalità, nella gestione passiva, di replicare l’andamento del 
+mercato di riferimento e, nella gestione attiva, di realizzare extra rendimenti; 
+ trasmette periodicamente alla funzione - Investimenti una rendicontazione periodica sulle scelte 
+effettuate; 
+ se richiesto esercita il diritto di voto spettante a AlMeglio inerente i titoli oggetto della gestione 
+secondo le istruzioni vincolanti impartite dall’Alta Direzione. 
+ 
+GIAM SGR S.p.A. svolge inoltre i seguenti ulteriori servizi, accessori a quello di investimento: 
+ effettua i controlli sull’attività di investimento, con particolare riguardo ai parametri di gestione, 
+alle soglie di rischiosità, al rapporto rischio/rendimento; 
+ produce e invia la reportistica relativa ai controlli effettuati alla funzione -Investimenti e alla 
+Struttura del Chief Risk Officer (CRO). 
+ 
+ la Banca depositaria , a cui è affidata la custodia del patrimonio di AlMeglio è State Street 
+Bank, con sede a Milano, in Via Ferrante Aporti, n. 10. 
+La banca depositaria svolge i seguenti compiti: 
+ esegue le attività a essa affidate dalla legge; 
+ esegue le istruzioni impartite dal soggetto gestore del patrimonio del fondo, (se non sono 
+contrarie alla normativa applicabile).
+=== pagina 12 ===
+3. Funzioni e/o attività esternalizzate 
+La Compagnia ha esternalizzato presso altre Società del Gruppo Generali alcuni servizi mediante la 
+stipula di appositi contratti di esternalizzazione. 
+Con specifico riferimento ai processi rilevanti per i l Fondo Pensione Aperto  la Compagnia ha 
+esternalizzato: 
+ presso GIAM SGR S.p.A. la gestione delle linee di investimento di AlMeglio relativamente alle 
+disponibilità finanziarie ed agli strumenti finanziari comunicate dalle rispettive Banche 
+Depositarie, comprese tutte le attività e le operazioni necessarie al fine di ottimizzare il 
+rendimento del patrimonio di ciascuna linea, secondo i limiti e le condizioni presenti nel 
+contratto di esternalizzazione; 
+ presso Generali Business Solutions S.c.p. A. la gestione del portafoglio assicurativo di 
+AlMeglio (emissione nuova produzione, variazioni contrattuali, rendicontazione alla 
+clientela, gestione incassi, liquidazioni).
+=== pagina 13 ===
+b) Il sistema di controllo interno  
+ 
+Il sistema di controllo interno adottato dalla Compagnia è un sistema integrato e coinvolge l’intera 
+struttura organizzativa: tanto gli organi sociali quanto le funzioni aziendali sono chiamati a 
+contribuire, in modo coordinato e interdipendente, al mantenimento del sistema. 
+Al Consiglio di Ammin istrazione è assegnata la responsabilità ultima di garantire l’adeguatezza e 
+l’efficacia del sistema di controllo interno e gestione dei rischi; l’Alta Direzione, ed in particolare 
+l’Amministratore Delegato, è responsabile dell’attuazione, del mantenimento  e del monitoraggio 
+del sistema di controllo interno e gestione dei rischi, in conformità con le direttive dettate dal 
+Consiglio di Amministrazione. 
+Il sistema di controllo interno e gestione dei rischi adottato dalla Compagnia si caratterizza per la 
+presenza delle c.d. tre linee di difesa, cui appartengono rispettivamente: 
+ 
+ i controlli di prima linea o primo livello da parte delle funzioni operative, che hanno il compito 
+di assicurare che, nell’ambito del primo livello organizzativo, il sistema di controlli garantisca che 
+ogni significativo rischio sia identificato e controllato attraverso una verifica del funzionamento 
+dei processi aziendali. 
+ i controlli di secondo livello  da parte dell e funzioni di Risk Management, Compliance e 
+Attuariale; 
+ i controlli di terzo livello da parte dell’Internal Audit. 
+ 
+Il compito delle Funzioni Fondamentali di secondo livello è di monitorare nel continuo i rischi 
+aziendali e di supportare il Consiglio di Amministrazione e l’Alta Direzione nell’espletamento dei loro 
+compiti mentre il compito dell’Internal Audit è di valutare la complessiva efficacia ed efficienza del 
+sistema di controllo interno. 
+ 
+Per quanto concerne, in particolare, i controlli di secondo livello: 
+ Il Risk Management - assicura la corretta implementazione del si stema di gestione dei rischi 
+(diversi da quelli di conformità), supportando il Consiglio di Amministrazione e l’Alta Direzione 
+nella definizione e nel giudizio di adeguatezza delle strategie di gestione dei rischi rispetto al Risk 
+Appetite e degli strument i di identificazione, monitoraggio e misurazione degli stessi. La 
+funzione fornisce altresì, attraverso un adeguato sistema di reporting, gli elementi per la 
+valutazione delle esposizioni e della tenuta del sistema di gestione dei rischi nel suo complesso. 
+In particolare la funzione monitora l’implementazione della Politica, con specifico riguardo alle
+=== pagina 14 ===
+soglie di rischiosità definiti, riportando al Consiglio di Amministrazione, con tempestività, in 
+merito alle eventuali criticità maggiormente significative;  
+ la funzione di Compliance valuta che l’organizzazione e le procedure interne siano adeguate a 
+prevenire il rischio di non conformità. Inoltre, la funzione Compliance effettua un costante 
+monitoraggio dei presidi di gestione dei conflitti di interesse in a ttuazione della “Politica di 
+gestione dei conflitti di interesse a tutela della clientela” adottata dalla Compagnia. 
+ la Funzione Attuariale contribuisce all’effettiva implementazione del sistema di gestione dei 
+rischi, informando il Consiglio di Amministra zione e l’Alta Direzione circa l’affidabilità ed 
+adeguatezza del calcolo delle riserve tecniche, delle metodologie e relativi modelli ed ipotesi 
+attuariali utilizzati. 
+ Per quanto non sia ricompresa tra le Funzioni Fondamentali, ai sensi del Regolamento IVA SS n. 
+44/2019, all’interno della Seconda Linea di Difesa opera anche la Funzione Anti Financial Crime, 
+in quanto preposta all’attuazione del Sistema del Controllo Interno in relazione ai rischi di 
+competenza; in tale ambito la Funzione è deputata a prevenire e contrastare la realizzazione di 
+operazioni di riciclaggio e finanziamento del terrorismo 
+ 
+Per quanto concerne, invece, l’Internal Audit: 
+ supporta il Consiglio di Amministrazione nell'individuazione delle strategie e delle linee guida 
+riguardo il controllo interno e la gestione dei rischi, assicurando che siano appropriate e valide 
+nel tempo, per proteggere ed accrescere il valore dell’organizzazione; 
+ comunica al Consiglio di Amministrazione le risultanze e le raccomandazioni in relazione 
+all’attività svolta, indicando gli interventi correttivi da adottare in caso di rilevazione di anomalie 
+e criticità; 
+ segnala al Consiglio di Amministrazione e al management situazioni di significativa esposizione 
+dell’organizzazione ai rischi nonché di debolezza nei presidi di controllo (inclusi rischi di frode o 
+carenze nella governance aziendale). 
+ 
+La Compagnia ha adottato un modello organizzativo di accentramento delle Funzioni Fondamentali 
+(Internal Audit, Risk Management, Compliance e Attuariale) che sono collocate nell’ambito di 
+Generali Italia S.p.A. e svolgono l’attività in outsourcing anche per conto di Alleanza Assicurazioni 
+S.p.A., con nomina, per ciascuna funzione, di un Titolare della funzione esternalizzata interno alla 
+Compagnia.
+=== pagina 15 ===
+c) Il sistema di gestione dei rischi  
+ 
+Il sistema di gestione dei rischi deve consentire l’identificazione, la valutazione anche prospettica, 
+la gestione, il monitoraggio e la reportistica dei rischi, compresi quelli derivanti dal mancato rispetto 
+della normativa di riferimento. L a valutazione interna del rischio e della solvibilità (Own Risk and 
+Solvency Assessment, ORSA) è parte integrante del sistema di gestione dei rischi. 
+Il processo di gestione dei rischi è articolato nelle fasi di identificazione, misurazione, gestione e 
+monitoraggio e reporting (verso il Consiglio di Amministrazione, Autorità di Vigilanza e altri 
+stakeholder interni ed esterni). 
+ 
+Identificazione dei rischi 
+Il processo di identificazione dei rischi ha l’obiettivo di assicurare l’individuazione di tutti i risc hi 
+materiali a cui la Compagnia è esposta. 
+La Funzione di Risk Management interagisce con le principali Funzioni di business per identificare i 
+principali rischi, valutare la loro importanza e assicurare che vengano prese adeguate misure al fine 
+di mitigar e tali rischi, secondo un processo di governance strutturato. Nell’ambito di questo 
+processo sono presi in considerazione anche i rischi emergenti. 
+ 
+Misurazione dei Rischi 
+Il regime di solvibilità introdotto dalla Direttiva Solvency  II prevede che le compagnie di 
+assicurazione calcolino un requisito patrimoniale di solvibilità (Solvency Capital Requirement - SCR) 
+capace di riflettere il proprio profilo di rischio, considerando anche l’impatto delle possibili tecniche 
+di mitigazione nonché degli effetti di diversificazione. 
+L’SCR indica il livello di capitalizzazione necessaria affinché la Compagnia sia in grado di assorbire le 
+perdite subite nel caso in cui si manifestino i rischi identificati. 
+Dopo essere stati identificati, i rischi quantificabili vengono misurati attraverso il calcolo del capitale 
+richiesto. 
+A tal fine viene utilizzato il Modello Interno del Gruppo Generali: tale modello considera i rischi 
+Finanziari, di Credito, di sottoscrizione Vita e Danni ed i rischi Operativi.
+=== pagina 16 ===
+Controllo e gestione dei rischi 
+La responsabilità di assumere e gestire i rischi e di implementare adeguati presidi di controllo è in 
+capo ai responsabili delle singole aree operative, per i rischi di rispettiva competenza. Ad essi spetta 
+anche la responsabilità di monitorare le esposizioni ai rischi ed il rispetto dei relativi limiti. In questo 
+contesto il sistema di gestione dei rischi assume il ruolo di seconda linea di difesa, oltre ad agire 
+come business partner per una presa di rischio responsabile. 
+La gestione operativa dei rischi è sviluppata in coerenza con il RAF, sulla base di linee guida e 
+procedure operative, di Gruppo e di Compagnia, specifiche per ciascuna categoria di rischio.  
+I livelli di tolleranza al rischio ed i limiti di rischio sono costantemente monitorati al fine di verificare 
+che la strategia relativa ai rischi venga correttamente seguita e per individuare eventuali violazioni 
+ed attivare le procedure di escalation previste, che coinvolgono, a seconda dei casi, i responsabili 
+delle strutture operative ai diversi livelli, l’Alta Direzione o il Consiglio di Amministrazione, oltre che 
+la Capogruppo.  
+Nel processo di escalation è previsto il coinvolgimento della funzione di Risk Management, chiamata 
+a fornire le sue valutazioni sugli effetti dello sforamento e sulle possibili azioni di mitigazione e/o i 
+piani di rientro nei limiti poste in essere. 
+ 
+Reportistica di rischio 
+Un sistema strutturato di reporting, sia da parte delle strutture operative che da parte delle funzioni 
+fondamentali, permette di rendere consapevoli l’Alta Direzione ed il Consiglio di Amministrazione 
+dell’evoluzione del profilo di rischio e di eventuali violazioni della risk tolerance, nonché di 
+individuare le azioni di mitigazioni necessarie per ridurre l’esposizione. In linea con le disposizioni 
+normative e regolamentari, adeguata informativa viene altresì fornita all’Autorità di Vigilanza. 
+Il reporting contiene anche gli esiti del processo di Valutazione inte rna dei rischi e della Solvibilità. 
+Il principale reporting sulla solvibilità è costituito dall’ORSA Report, coordinato dalla funzione di Risk 
+Management per documentare il processo ORSA, che ha lo scopo di fornire una valutazione interna 
+dei rischi e del fabbisogno di solvibilità globale su base attuale e prospettica. Il processo di ORSA 
+garantisce la valutazione continua della posizione di solvibilità della Compagnia in linea con il 
+processo inerente la gestione del proprio piano strategico e con il piano  di gestione del capitale 
+(Capital Management Plan). Gli esiti delle valutazioni contenute nell’ORSA Report sono inviate 
+all'Autorità di Vigilanza dopo l'approvazione del Consiglio di Amministrazione.
+=== pagina 17 ===
+d) Flussi informativi tra le strutture aziendali e il Responsabile del Fondo  
+ 
+Il Responsabile del Fondo svolge la propria attività in modo autonomo e indipendente dalla 
+Compagnia. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative 
+della Compagnia, di volta in volta n ecessarie allo svolgimento dell’incarico e all’adempimento dei 
+propri doveri. La Compagnia gli garantisce l’accesso a tutte le informazioni necessarie allo scopo. 
+ 
+Il Responsabile del Fondo, avvalendosi di procedure condivise con la Compagnia, organizza lo  
+svolgimento delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe di 
+gestione, con riferimento ai controlli su: 
+i) le politiche di investimento. In particolare: che la politica d i investimento effettivamente 
+seguita sia coerente con quella indicata nel Regolamento; che gli investimenti, ivi compresi quelli 
+effettuati in OICR, avvengano nell’esclusivo interesse degli aderenti, nel rispetto dei principi di 
+sana e prudente gestione n onché nel rispetto dei criteri e limiti previsti dalla normativa e dal 
+regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investimenti 
+effettuati siano correttamente identificati, misurati e controllati e che siano coerenti con gli 
+obiettivi perseguiti dalla politica di investimento; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di deleghe 
+di gestione, con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per conto del Fondo 
+rispetto al complesso delle altre operazioni svolte dalla Compagnia e del patrimonio del Fondo 
+rispetto a quello della Compagnia e di suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti con riferimento ai 
+controlli su: 
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli aderenti, 
+sia al momento del collocamento del Fondo che durante il rapporto; 
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti previste dal 
+Regolamento e le eventuali commissioni correlate ai risultati di gestione siano correttamente 
+applicate;
+=== pagina 18 ===
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni periodiche agli 
+aderenti e in quelle inviate in occasione di eventi particolari; 
+iv) l’adeguatezza della procedura per la gestione degli esposti nonché il trattamento riservato ai 
+singoli esposti; 
+v) la tempestività della soddisfazione delle richieste degli aderenti, in particolare con riferimento 
+ai tempi di liquidazione delle somme richieste a titolo di anticipazione o riscatto e di 
+trasferimento della posizione individuale. 
+ 
+Il Responsabile controlla le soluzioni adottate dalla Compagnia per identificare le situazioni di 
+conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti; egli controlla 
+altresì la corretta esecuzione del contratto stip ulato per il conferimento dell’incarico di banca 
+depositaria, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle 
+rendite e, ove presenti, delle convenzioni/condizioni relative alle prestazioni di invalidità e 
+premorienza. 
+ 
+Tali attività sono svolte da parte del Responsabile attraverso specifiche richieste effettuate 
+attraverso il canale di posta elettronica ovvero verbalmente durante specifici incontri organizzati 
+presso gli uffici della Compagnia e con modalità a distanza ai quali hanno partecipato i principali vari 
+esponenti dell’organizzazione.  
+ 
+Inoltre, il Responsabile fornisce tempestiva comunicazione all’organo di amministrazione e a quello 
+di controllo della Compagnia delle eventuali anomalie e irregolarità riscontrat e nell’esercizio delle 
+sue funzioni e si attiva perché vengano adottati gli opportuni provvedimenti. 
+ 
+Infine, il Responsabile predispone annualmente una relazione circa le procedure di controllo 
+adottate, la sua organizzazione, i risultati dell’attività sv olta, le anomalie riscontrate e le iniziative 
+poste in essere per eliminarle. La relazione è inviata alla COVIP e all’organo di amministrazione e 
+controllo della Compagnia.
+=== pagina 19 ===
+e) Politica di remunerazione 
+ 
+1. Responsabile del fondo pensione aperto 
+La retribuzione annuale del Responsabile del fondo pensione è stata determinata dal Consiglio di 
+Amministrazione della Compagnia all’atto della nomina per l’intero periodo di durata dell’incarico. 
+ 
+Il compenso del Responsabile non può essere pattuito sotto fo rma di partecipazione agli utili della 
+Compagnia, o di Società controllanti o controllate, né sotto forma di diritti di acquisto o di 
+sottoscrizione di azioni della Compagnia o di Società controllanti o controllate. 
+ 
+Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a 
+carico del Fondo, salva diversa decisione della Compagnia. 
+ 
+2. Titolari delle funzioni fondamentali di gestione dei rischi e di revisione interna 
+Per le informazioni relative alla politica di remunerazione dei titolari delle funzioni fondamentali di 
+gestione di rischi e di revisione interna si rinvia alla “Relazione sulla solvibilità e condizione 
+finanziaria” pubblicata sul sito internet della Compagnia.

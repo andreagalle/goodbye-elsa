@@ -1,0 +1,704 @@
+# Fondo: AZIONE DI PREVIDENZA - FONDO PENSIONE APERTO (azione-di-previdenza)
+# Documento: Nota informativa – Appendice Informativa sulla sostenibilità – Informativa sulla sostenibilità
+# Fonte: https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/altri-documenti/Informativa_sulla_sostenibilita_Fondo_Pensione_Aperto_v1.1.pdf
+# Citato in: https://www.hdiassicurazioni.it/it/privati/previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: db27573089cbcdf17e504c457d2f6a4fe6eff0d6e43e527f898e15317a128019
+# Pagine: 18
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+INFORMATIVA SULLA SOSTENIBILITÀ:  
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO  
+Sommario 
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Garantita   ....................................................................... 3 
+Sintesi ....................................................................................................................................................................... 3 
+Nessun obiettivo di investimento sostenibile .......................................................................................................... 3 
+Caratteristiche ambientali o sociali del prodotto finanziario   ................................................................................... 3 
+Strategia d’investimento .......................................................................................................................................... 3 
+Quota degli investimenti .......................................................................................................................................... 4 
+Monitoraggio delle caratteristiche ambientali o sociali ........................................................................................... 4 
+Metodologie relative alle caratteristiche ambientali o sociali ................................................................................. 4 
+Fonti e trattamento dei dati ..................................................................................................................................... 5 
+Limitazioni delle metodologie e dei dati .................................................................................................................. 5 
+Dovuta Diligenza ....................................................................................................................................................... 6 
+Politiche d’impegno .................................................................................................................................................. 6 
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Prudente ....................................................................... 7 
+Sintesi ....................................................................................................................................................................... 7 
+Nessun obiettivo di investimento sostenibile .......................................................................................................... 7 
+Caratteristiche ambientali o sociali del prodotto finanziario   ................................................................................... 7 
+Strategia d’investimento .......................................................................................................................................... 7 
+Quota degli investimenti .......................................................................................................................................... 8 
+Monitoraggio delle caratteristiche ambientali o sociali ........................................................................................... 8 
+Metodologie relative alle caratteristiche ambientali o sociali ................................................................................. 8 
+Fonti e trattamento dei dati ..................................................................................................................................... 9 
+Limitazioni delle metodologie e dei dati .................................................................................................................. 9 
+Dovuta Diligenza ..................................................................................................................................................... 10 
+Politiche d’impegno ................................................................................................................................................ 10 
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Equilibrata   ................................................................... 11 
+Sintesi ..................................................................................................................................................................... 11 
+Nessun obiettivo di investimento sostenibile ........................................................................................................ 11 
+Caratteristiche ambientali o sociali del prodotto finanziario   ................................................................................. 11 
+Strategia d’investimento ........................................................................................................................................ 11 
+Quota degli investimenti ........................................................................................................................................ 12 
+Monitoraggio delle caratteristiche ambientali o sociali ......................................................................................... 12 
+Metodologie relative alle caratteristiche ambientali o sociali ............................................................................... 12 
+Fonti e trattamento dei dati ................................................................................................................................... 13 
+Limitazioni delle metodologie e dei dati ................................................................................................................ 13
+=== pagina 2 ===
+Dovuta Diligenza ..................................................................................................................................................... 14 
+Politiche d’impegno ................................................................................................................................................ 14 
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Dinamica ..................................................................... 15 
+Sintesi ..................................................................................................................................................................... 15 
+Nessun obiettivo di investimento sostenibile ........................................................................................................ 15 
+Caratteristiche ambientali o sociali del prodotto finanziario   ................................................................................. 15 
+Strategia d’investimento ........................................................................................................................................ 15 
+Quota degli investimenti ........................................................................................................................................ 16 
+Monitoraggio delle caratteristiche ambientali o sociali   ......................................................................................... 16 
+Metodologie relative alle caratteristiche ambientali o sociali ............................................................................... 16 
+Fonti e trattamento dei dati ................................................................................................................................... 17 
+Limitazioni delle metodologie e dei dati ................................................................................................................ 17 
+Dovuta Diligenza ..................................................................................................................................................... 18 
+Politiche d’impegno ................................................................................................................................................ 18
+=== pagina 3 ===
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Garantita 
+Sintesi 
+In linea con i valori e con la strategia d’investimento adottati della Compagnia, il Fondo Pensione Aperto con 
+riferimento alla Linea Garantita (di seguito anche il “prodotto”) promuove caratteristiche di sostenibilità ambientali 
+e sociali. Grazie ad un’analisi ESG integrata svolta col supporto di un provider esterno, il prodotto è allineato ad 
+alcuni degli Obiettivi di Sviluppo Sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti SDGs – Sustainable 
+Development Goals). L’obiettivo degli SDGs è definire dei target misurabili finalizzati a verificare le performance di 
+17 obiettivi di sostenibilità col fine affrontare un'ampia gamma di tematiche legate allo sviluppo economico, sociale 
+e ambientale. Lo scopo di questi obiettivi è, quindi, riconoscere lo stretto legame tra il benessere umano, la salute 
+dei sistemi naturali e la presenza di sfide comuni, promuovendo azioni e iniziative volte a incoraggiarne e stimolarne 
+la salvaguardia. Eventuali limitazioni presenti nella metodologia utilizzata dal provider esterno sono segnalate nella 
+sezione dedita. Nel seguente documento vengono forniti ulteriori dettagli rispetto alla strategia di investimento, il 
+monitoraggio, le politiche di impegno e la dovuta diligenza adottate dalla Compagnia, al fine di garantire la corretta 
+promozione delle caratteristiche ambientali e sociali del prodotto e rispondere alle richieste normative del 
+Regolamento Delegato 2022/1288.   
+ 
+Nessun obiettivo di investimento sostenibile  
+Questo prodotto finanziario promuove caratteristiche ambientali o sociali, ma non ha come obiettivo un 
+investimento sostenibile. 
+ 
+Caratteristiche ambientali o sociali del prodotto finanziario 
+ll prodotto possiede caratteristiche ambientali e sociali che sono identificate attraverso l'allineamento agli obiettivi 
+di sviluppo sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti "SDGs"). Gli SDGs a cui il prodotto si allinea 
+sono: 
+• Energia pulita e accessibile (SDG 7) 
+• Lavoro dignitoso e crescita economica (SDG 8) 
+• Imprese, innovazione e infrastrutture (SDG 9) 
+• Pace, giustizia e istituzioni solide (SDG 16) 
+• Partnership per gli obiettivi (SDG 17) 
+ 
+Strategia d’investimento 
+La Compagnia adotta un processo decisionale autonomo, definendo il proprio universo investibile. Periodicamente, 
+il Comitato Finanza, ALM e Sostenibilità di Gruppo esamina, valuta ed aggiorna: 
+• i criteri per la definizione dei profili ESG; 
+• la lista di emittenti da escludere dall’universo investibile. 
+Tale processo si concretizza attraverso: 
+1) lo screening negativo tramite criteri di esclusione che non consentono l’investimento in emittenti che 
+operano in alcuni settori industriali, quali: Tabacco, Alcolici, Armi, Pornografia, Gioco e Lotterie. La 
+Compagnia si è impegnata inoltre ad intraprendere un percorso di progressiva decarbonizzazione del 
+portafoglio, con riferimento ai nuovi investimenti.  
+2) l’integrazione fattori ESG attraverso una valutazione dell’investimento finanziario dal punto di vista ESG 
+mediante analisi di informazioni extra-finanziarie, quali ad esempio rating o punteggi ESG. Le scelte di 
+investimento sostenibili vengono inoltre valutate e approvate dal Comitato Finanza, ALM e Sostenibilità di 
+Gruppo della Compagnia in accordo con il CEO.
+=== pagina 4 ===
+3) la promozione di investimenti in strumenti finanziari SRI, quali ad esempio “Green/Social/Sustainability 
+bonds”, fondi “Best in Class”, ovvero fondi con all’interno le migliori holdings per settore industriale, 
+selezionate dal gestore per il loro profilo sostenibile, e fondi “tematici”, ovvero fondi con all’interno 
+emittenti appartenenti a settori legati all’innovazione, alla transizione energetica o alla tutela e 
+salvaguardia dell’ambiente; 
+4) l’obiettivo di avere un profilo di impatto, integrando il portafoglio con strumenti di investimento alternativo 
+che prevedano al proprio interno anche strategie di Impact Investing. 
+In merito alla politica di investimento adottata dalla Compagnia ai fini della valutazione delle prassi di buona 
+governance delle imprese beneficiarie degli investimenti, HDI, grazie alle valutazioni ESG effettuate da un provider 
+esterno, è anche in grado di determinare le performance dei seguenti fattori:  
+1) Corporate Governance Structure  
+2) Shareholder Relations  
+3) Accounting Standards  
+4) Business Ethics 
+In aggiunta, il provider utilizza KPI specifici quantitativi per la valutazione del profilo dell'azienda, tra cui: la 
+Percentuale di donne nel consiglio e la Percentuale di donne dirigenti.  
+Si valutano anche gli emittenti sotto il profilo delle controversie, rispetto alle possibili violazioni del Global Compact. 
+Insieme a Talanx Group, HDI ha sottoscritto i 6 principi di Investimento Responsabile stabiliti dalle Nazioni Unite. 
+ 
+Quota degli investimenti  
+In relazione al presente prodotto, la Compagnia investe in strumenti di tipo azionario diretto, oltre che in 
+obbligazioni dirette e indirette.  
+La quota minima degli investimenti del prodotto finanziario utilizzata per soddisfare le caratteristiche ambientali e 
+sociali rappresenta almeno il 50% degli investimenti che supera la soglia minima di score ESG determinata nella 
+metodologia utilizzata dal provider esterno. 
+Per quanto riguarda la quota rimanente degli investimenti, la Compagnia si impegna a selezionare nuovi 
+investimenti con uno score ESG che soddisfi i criteri definiti dalla metodologia del provider esterno. Tale approccio 
+ha l'obiettivo di migliorare il profilo ESG del portafoglio, mantenendone le medesime performance finanziarie. 
+Inoltre, la Compagnia si impegna ad eliminare entro un tempo ragionevole (entro massimo 18 mesi) le posizioni 
+“controverse” in portafoglio. 
+ 
+Monitoraggio delle caratteristiche ambientali o sociali  
+Il monitoraggio delle caratteristiche ambientali o sociali e dei relativi indicatori ESG viene garantito grazie a 
+meccanismi di controllo interni ed esterni. A tal fine, la Compagnia monitora periodicamente le caratteristiche 
+promosse dai propri investimenti grazie alle segnalazioni effettuate dal provider a seguito delle valutazioni ESG 
+degli emittenti, riassunte in un certificato rilasciato semestralmente. A supporto di ciò, il provider svolge un’analisi 
+volta ad identificare eventuali controversie che possono comportare rischi commerciali o di reputazione. Tale 
+sistema consente ad HDI di individuare nuovi emittenti da escludere dall’universo investibile, poiché diventati 
+rischiosi in termini ESG, o al contrario, di includere nuovi emittenti che hanno migliorato la propria performance 
+ESG. 
+ 
+Metodologie relative alle caratteristiche ambientali o sociali  
+La Compagnia si avvale del supporto di provider esterno per la stesura di una relazione ESG periodica sui portafogli, 
+basata su un sistema di punteggio ESG proprietario che tiene conto di vari fattori di sostenibilità per calcolare un
+=== pagina 5 ===
+punteggio ESG per ciascun emittente target. Nello specifico, le analisi effettuate per misurare il perseguimento delle 
+caratteristiche ambientali e sociali del prodotto si basano su una duplice visione:  
+1. ANALISI OLISTICA: questa prima valutazione del provider si fonda su un approccio integrato finalizzato a 
+valutare diversi aspetti della sostenibilità. I criteri di analisi sono principalmente tre:  
+a. Valutazione della società di gestione patrimoniale nel suo complesso: tale analisi rivela la credibilità 
+dell'azienda andando a valutarne la strategia, le risorse dedicate al fondo e l'approccio alla 
+sostenibilità in generale; 
+b. Valutazione della strategia del fondo: tale analisi indaga la missione di investimento sostenibile del 
+fondo, il modo in cui viene determinato l'universo ammissibile e in che misura la sostenibilità svolge 
+un ruolo nella selezione dei titoli; 
+c. Analisi di portafoglio: tale analisi verifica il livello di sostenibilità del portafoglio nel suo complesso. 
+Nello specifico, vengono valutati i seguenti fattori: la consistenza delle partecipazioni presenti in 
+portafoglio con gli obiettivi di sostenibilità del fondo, il profilo complessivo di sostenibilità del 
+portafoglio e l'esistenza di partecipazioni coinvolte in controversie rilevanti.  
+ 
+2. ANALISI DEGLI SDGs: quest’ultima valutazione è volta a verificare l’allineamento dell’azienda beneficiaria 
+dell’investimento con gli Obiettivi di Sviluppo Sostenibile delle Nazioni Unite, esaminando l’impegno 
+dell’azienda oggetto di analisi, tramite: 
+a. le decisioni gestionali e le attività operative dell'azienda;  
+b. i prodotti e/o i servizi offerti dall'azienda; 
+c. il comportamento e il coinvolgimento dell'azienda nelle controversie. 
+ 
+Fonti e trattamento dei dati  
+La Compagnia, grazie alle analisi effettuate dal provider esterno, utilizza metodologie differenti per valutare il livello 
+di sostenibilità del proprio universo investibile, avvalendosi di un approccio duplice capace di ottenere una visione 
+integrata sul tema della sostenibilità. Inoltre, Il provider esterno si avvale dell'attività di ricerca interna, integrata 
+da ricerche e dati esterni forniti da rinomati fornitori di dati ESG o direttamente dagli emittenti. In particolare, le 
+analisi si basano su:  
+- un modello di rating ESG aziendale che consente di calcolare la performance ESG delle entità aziendali;  
+- un modello ESG Paese che consente di valutare la performance ESG degli emittenti sovrani; 
+- valutazioni dei comportamenti controversi degli emittenti aziendali; 
+- esposizioni alle attività controverse degli emittenti aziendali. 
+Il provider esterno può effettuare stime ragionevoli in mancanza di dati. Inoltre, i fornitori terzi di dati ESG possono 
+utilizzare stime. La percentuale di dati stimati dal provider esterno è indicata come bassa, tenuto conto della natura 
+degli investimenti target del comparto. 
+ 
+Limitazioni delle metodologie e dei dati  
+Grazie alla valutazione di diversi aspetti quali la gestione patrimoniale, la strategia del fondo, l’analisi di portafoglio 
+e l’allineamento agli SDGs, l’approccio olistico utilizzato dal provider esterno limita il più possibile il margine di 
+errore nello svolgimento delle analisi. Con riferimento ai dati grezzi sottostanti, provenienti direttamente dagli 
+emittenti target e da fornitori esterni specializzati, il provider esterno assicura la qualità dei dati, affrontando i 
+problemi comuni associati ai dati ESG, come l'affidabilità, la soggettività o la mancanza di una copertura sufficiente, 
+verificando regolarmente la completezza, l'accuratezza e la coerenza dei dati forniti, utilizzando più fonti di dati, 
+pulendo e normalizzando i dati forniti.
+=== pagina 6 ===
+Dovuta Diligenza   
+La Compagnia effettua controlli sia interni che esterni di dovuta diligenza esercitata sugli attivi sottostanti, al fine 
+di verificare la corretta applicazione delle Politiche di riferimento e delle relative Linee Guida. Nello specifico, un 
+primo controllo esterno viene effettuato dal provider di riferimento il quale, tramite l’analisi delle controversie, 
+identifica quegli emittenti a rischio di potenziali violazioni di tipo ambientale, sociale o di governance.   
+Analogamente, in termini di controllo interno vi è un duplice presidio:  
+- Talanx Group AG ha delineato una lista di emittenti da escludere a priori dal proprio portafoglio. 
+Periodicamente, la Casa Madre effettua, quindi, delle verifiche sul portafoglio di HDI, al fine di controllare 
+il rispetto di tali esclusioni.  
+- La Compagnia ha internamente delle funzioni dedicate al controllo della corretta applicazione della Politica 
+di Investimento. Tale verifica viene effettuata costantemente dalla Funzione del Risk che controlla se la 
+procedura viene rispettata nel suo complesso sia in termini qualitativi, che a livello quantitativo. Inoltre, 
+per un maggior livello di presidio, la funzione dell’Internal Audit effettua controlli a richiesta sulla corretta 
+esecuzione del processo e delle relative procedure.  
+ 
+Politiche d’impegno   
+Per HDI Assicurazioni la sostenibilità è un impegno e rappresenta sempre di più un tratto distintivo dell’identità di 
+impresa che si traduce in azioni concrete volte a garantire un benessere diffuso che duri nel tempo e capace di 
+creare valore condiviso. In linea con tali impegni volti a promuovere una cultura sostenibile, HDI Assicurazioni ha 
+da tempo intrapreso una politica di gestione degli investimenti ispirata a criteri di sostenibilità, adottando una 
+specifica “policy ESG” a ciò dedicata. Inoltre, lo sviluppo di un Codice Etico, quale parte integrante di un Modello di 
+Organizzazione, Gestione e Controllo in linea con le norme vigenti (ex D.lgs. 231/01), è finalizzato a predisporre 
+sistemi di controllo idonei e garantire l’integrità e la buona reputazione della Società. Infine, tramite attività di 
+Stakeholder Engagement la Compagnia intende avvia un dialogo costruttivo con quelle imprese che necessitano di 
+stimoli per seguire un percorso virtuoso verso buone pratiche legate ai principi ESG.
+=== pagina 7 ===
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Prudente 
+Sintesi 
+In linea con i valori e con la strategia d’investimento adottati della Compagnia, il Fondo Pensione Aperto con 
+riferimento alla Linea Prudente (di seguito anche il “prodotto”) promuove caratteristiche di sostenibilità ambientali 
+e sociali. Grazie ad un’analisi ESG integrata svolta col supporto di un provider esterno, il prodotto è allineato ad 
+alcuni degli Obiettivi di Sviluppo Sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti SDGs – Sustainable 
+Development Goals). L’obiettivo degli SDGs è definire dei target misurabili finalizzati a verificare le performance di 
+17 obiettivi di sostenibilità col fine affrontare un'ampia gamma di tematiche legate allo sviluppo economico, sociale 
+e ambientale. Lo scopo di questi obiettivi è, quindi, riconoscere lo stretto legame tra il benessere umano, la salute 
+dei sistemi naturali e la presenza di sfide comuni, promuovendo azioni e iniziative volte a incoraggiarne e stimolarne 
+la salvaguardia. Eventuali limitazioni presenti nella metodologia utilizzata dal provider esterno sono segnalate nella 
+sezione dedita. Nel seguente documento vengono forniti ulteriori dettagli rispetto alla strategia di investimento, il 
+monitoraggio, le politiche di impegno e la dovuta diligenza adottate dalla Compagnia, al fine di garantire la corretta 
+promozione delle caratteristiche ambientali e sociali del prodotto e rispondere alle richieste normative del 
+Regolamento Delegato 2022/1288.   
+ 
+Nessun obiettivo di investimento sostenibile  
+Questo prodotto finanziario promuove caratteristiche ambientali o sociali, ma non ha come obiettivo un 
+investimento sostenibile. 
+ 
+Caratteristiche ambientali o sociali del prodotto finanziario 
+ll prodotto possiede caratteristiche ambientali e sociali che sono identificate attraverso l'allineamento agli obiettivi 
+di sviluppo sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti "SDGs"). Gli SDGs a cui il prodotto si allinea 
+sono: 
+• Energia pulita e accessibile (SDG 7) 
+• Lavoro dignitoso e crescita economica (SDG 8) 
+• Imprese, innovazione e infrastrutture (SDG 9) 
+• Pace, giustizia e istituzioni solide (SDG 16) 
+• Partnership per gli obiettivi (SDG 17) 
+ 
+Strategia d’investimento 
+La Compagnia adotta un processo decisionale autonomo, definendo il proprio universo investibile. Periodicamente, 
+il Comitato Finanza, ALM e Sostenibilità di Gruppo esamina, valuta ed aggiorna: 
+• i criteri per la definizione dei profili ESG; 
+• la lista di emittenti da escludere dall’universo investibile. 
+Tale processo si concretizza attraverso: 
+1) lo screening negativo tramite criteri di esclusione che non consentono l’investimento in emittenti che 
+operano in alcuni settori industriali, quali: Tabacco, Alcolici, Armi, Pornografia, Gioco e Lotterie. La 
+Compagnia si è impegnata inoltre ad intraprendere un percorso di progressiva decarbonizzazione del 
+portafoglio, con riferimento ai nuovi investimenti.  
+2) l’integrazione fattori ESG attraverso una valutazione dell’investimento finanziario dal punto di vista ESG 
+mediante analisi di informazioni extra-finanziarie, quali ad esempio rating o punteggi ESG. Le scelte di 
+investimento sostenibili vengono inoltre valutate e approvate dal Comitato Finanza, ALM e Sostenibilità di 
+Gruppo della Compagnia in accordo con il CEO.
+=== pagina 8 ===
+3) la promozione di investimenti in strumenti finanziari SRI, quali ad esempio “Green/Social/Sustainability 
+bonds”, fondi “Best in Class”, ovvero fondi con all’interno le migliori holdings per settore industriale, 
+selezionate dal gestore per il loro profilo sostenibile, e fondi “tematici”, ovvero fondi con all’interno 
+emittenti appartenenti a settori legati all’innovazione, alla transizione energetica o alla tutela e 
+salvaguardia dell’ambiente; 
+4) l’obiettivo di avere un profilo di impatto, integrando il portafoglio con strumenti di investimento alternativo 
+che prevedano al proprio interno anche strategie di Impact Investing. 
+In merito alla politica di investimento adottata dalla Compagnia ai fini della valutazione delle prassi di buona 
+governance delle imprese beneficiarie degli investimenti, HDI, grazie alle valutazioni ESG effettuate da un provider 
+esterno, è anche in grado di determinare le performance dei seguenti fattori:  
+1) Corporate Governance Structure  
+2) Shareholder Relations  
+3) Accounting Standards  
+4) Business Ethics 
+In aggiunta, il provider utilizza KPI specifici quantitativi per la valutazione del profilo dell'azienda, tra cui: la 
+Percentuale di donne nel consiglio e la Percentuale di donne dirigenti.  
+Si valutano anche gli emittenti sotto il profilo delle controversie, rispetto alle possibili violazioni del Global Compact. 
+Insieme a Talanx Group, HDI ha sottoscritto i 6 principi di Investimento Responsabile stabiliti dalle Nazioni Unite. 
+ 
+Quota degli investimenti  
+In relazione al presente prodotto, la Compagnia investe in strumenti di tipo obbligazionario diretto e indiretto.  
+La quota minima degli investimenti del prodotto finanziario utilizzata per soddisfare le caratteristiche ambientali e 
+sociali rappresenta almeno il 50% degli investimenti che supera la soglia minima di score ESG determinata nella 
+metodologia utilizzata dal provider esterno. 
+Per quanto riguarda la quota rimanente degli investimenti, la Compagnia si impegna a selezionare nuovi 
+investimenti con uno score ESG che soddisfi i criteri definiti dalla metodologia del provider esterno. Tale approccio 
+ha l'obiettivo di migliorare il profilo ESG del portafoglio, mantenendone le medesime performance finanziarie. 
+Inoltre, la Compagnia si impegna ad eliminare entro un tempo ragionevole (entro massimo 18 mesi) le posizioni 
+“controverse” in portafoglio. 
+ 
+Monitoraggio delle caratteristiche ambientali o sociali  
+Il monitoraggio delle caratteristiche ambientali o sociali e dei relativi indicatori ESG viene garantito grazie a 
+meccanismi di controllo interni ed esterni. A tal fine, la Compagnia monitora periodicamente le caratteristiche 
+promosse dai propri investimenti grazie alle segnalazioni effettuate dal provider a seguito delle valutazioni ESG 
+degli emittenti, riassunte in un certificato rilasciato semestralmente. A supporto di ciò, il provider svolge un’analisi 
+volta ad identificare eventuali controversie che possono comportare rischi commerciali o di reputazione. Tale 
+sistema consente ad HDI di individuare nuovi emittenti da escludere dall’universo investibile, poiché diventati 
+rischiosi in termini ESG, o al contrario, di includere nuovi emittenti che hanno migliorato la propria performance 
+ESG. 
+ 
+Metodologie relative alle caratteristiche ambientali o sociali  
+La Compagnia si avvale del supporto di provider esterno per la stesura di una relazione ESG periodica sui portafogli, 
+basata su un sistema di punteggio ESG proprietario che tiene conto di vari fattori di sostenibilità per calcolare un
+=== pagina 9 ===
+punteggio ESG per ciascun emittente target. Nello specifico, le analisi effettuate per misurare il perseguimento delle 
+caratteristiche ambientali e sociali del prodotto si basano su una duplice visione:  
+1. ANALISI OLISTICA: questa prima valutazione del provider si fonda su un approccio integrato finalizzato a 
+valutare diversi aspetti della sostenibilità. I criteri di analisi sono principalmente tre:  
+a. Valutazione della società di gestione patrimoniale nel suo complesso: tale analisi rivela la credibilità 
+dell'azienda andando a valutarne la strategia, le risorse dedicate al fondo e l'approccio alla 
+sostenibilità in generale; 
+b. Valutazione della strategia del fondo: tale analisi indaga la missione di investimento sostenibile del 
+fondo, il modo in cui viene determinato l'universo ammissibile e in che misura la sostenibilità svolge 
+un ruolo nella selezione dei titoli; 
+c. Analisi di portafoglio: tale analisi verifica il livello di sostenibilità del portafoglio nel suo complesso. 
+Nello specifico, vengono valutati i seguenti fattori: la consistenza delle partecipazioni presenti in 
+portafoglio con gli obiettivi di sostenibilità del fondo, il profilo complessivo di sostenibilità del 
+portafoglio e l'esistenza di partecipazioni coinvolte in controversie rilevanti.  
+ 
+2. ANALISI DEGLI SDGs: quest’ultima valutazione è volta a verificare l’allineamento dell’azienda beneficiaria 
+dell’investimento con gli Obiettivi di Sviluppo Sostenibile delle Nazioni Unite, esaminando l’impegno 
+dell’azienda oggetto di analisi, tramite: 
+a. le decisioni gestionali e le attività operative dell'azienda;  
+b. i prodotti e/o i servizi offerti dall'azienda; 
+c. il comportamento e il coinvolgimento dell'azienda nelle controversie. 
+ 
+Fonti e trattamento dei dati  
+La Compagnia, grazie alle analisi effettuate dal provider esterno, utilizza metodologie differenti per valutare il livello 
+di sostenibilità del proprio universo investibile, avvalendosi di un approccio duplice capace di ottenere una visione 
+integrata sul tema della sostenibilità. Inoltre, Il provider esterno si avvale dell'attività di ricerca interna, integrata 
+da ricerche e dati esterni forniti da rinomati fornitori di dati ESG o direttamente dagli emittenti. In particolare, le 
+analisi si basano su:  
+- un modello di rating ESG aziendale che consente di calcolare la performance ESG delle entità aziendali;  
+- un modello ESG Paese che consente di valutare la performance ESG degli emittenti sovrani; 
+- valutazioni dei comportamenti controversi degli emittenti aziendali; 
+- esposizioni alle attività controverse degli emittenti aziendali. 
+Il provider esterno può effettuare stime ragionevoli in mancanza di dati. Inoltre, i fornitori terzi di dati ESG possono 
+utilizzare stime. La percentuale di dati stimati dal provider esterno è indicata come bassa, tenuto conto della natura 
+degli investimenti target del comparto. 
+ 
+Limitazioni delle metodologie e dei dati  
+Grazie alla valutazione di diversi aspetti quali la gestione patrimoniale, la strategia del fondo, l’analisi di portafoglio 
+e l’allineamento agli SDGs, l’approccio olistico utilizzato dal provider esterno limita il più possibile il margine di 
+errore nello svolgimento delle analisi. Con riferimento ai dati grezzi sottostanti, provenienti direttamente dagli 
+emittenti target e da fornitori esterni specializzati, il provider esterno assicura la qualità dei dati, affrontando i 
+problemi comuni associati ai dati ESG, come l'affidabilità, la soggettività o la mancanza di una copertura sufficiente, 
+verificando regolarmente la completezza, l'accuratezza e la coerenza dei dati forniti, utilizzando più fonti di dati, 
+pulendo e normalizzando i dati forniti.
+=== pagina 10 ===
+Dovuta Diligenza   
+La Compagnia effettua controlli sia interni che esterni di dovuta diligenza esercitata sugli attivi sottostanti, al fine 
+di verificare la corretta applicazione delle Politiche di riferimento e delle relative Linee Guida. Nello specifico, un 
+primo controllo esterno viene effettuato dal provider di riferimento il quale, tramite l’analisi delle controversie, 
+identifica quegli emittenti a rischio di potenziali violazioni di tipo ambientale, sociale o di governance.   
+Analogamente, in termini di controllo interno vi è un duplice presidio:  
+- Talanx Group AG ha delineato una lista di emittenti da escludere a priori dal proprio portafoglio. 
+Periodicamente, la Casa Madre effettua, quindi, delle verifiche sul portafoglio di HDI, al fine di controllare 
+il rispetto di tali esclusioni.  
+- La Compagnia ha internamente delle funzioni dedicate al controllo della corretta applicazione della Politica 
+di Investimento. Tale verifica viene effettuata costantemente dalla Funzione del Risk che controlla se la 
+procedura viene rispettata nel suo complesso sia in termini qualitativi, che a livello quantitativo. Inoltre, 
+per un maggior livello di presidio, la funzione dell’Internal Audit effettua controlli a richiesta sulla corretta 
+esecuzione del processo e delle relative procedure.  
+ 
+Politiche d’impegno   
+Per HDI Assicurazioni la sostenibilità è un impegno e rappresenta sempre di più un tratto distintivo dell’identità di 
+impresa che si traduce in azioni concrete volte a garantire un benessere diffuso che duri nel tempo e capace di 
+creare valore condiviso. In linea con tali impegni volti a promuovere una cultura sostenibile, HDI Assicurazioni ha 
+da tempo intrapreso una politica di gestione degli investimenti ispirata a criteri di sostenibilità, adottando una 
+specifica “policy ESG” a ciò dedicata. Inoltre, lo sviluppo di un Codice Etico, quale parte integrante di un Modello di 
+Organizzazione, Gestione e Controllo in linea con le norme vigenti (ex D.lgs. 231/01), è finalizzato a predisporre 
+sistemi di controllo idonei e garantire l’integrità e la buona reputazione della Società. Infine, tramite attività di 
+Stakeholder Engagement la Compagnia intende avvia un dialogo costruttivo con quelle imprese che necessitano di 
+stimoli per seguire un percorso virtuoso verso buone pratiche legate ai principi ESG.
+=== pagina 11 ===
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Equilibrata 
+Sintesi 
+In linea con i valori e con la strategia d’investimento adottati della Compagnia, il Fondo Pensione Aperto con 
+riferimento alla Linea Equilibrata (di seguito anche il “prodotto”) promuove caratteristiche di sostenibilità 
+ambientali e sociali. Grazie ad un’analisi ESG integrata svolta col supporto di un provider esterno, il prodotto è 
+allineato ad alcuni degli Obiettivi di Sviluppo Sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti SDGs – 
+Sustainable Development Goals). L’obiettivo degli SDGs è definire dei target misurabili finalizzati a verificare le 
+performance di 17 obiettivi di sostenibilità col fine affrontare un'ampia gamma di tematiche legate allo sviluppo 
+economico, sociale e ambientale. Lo scopo di questi obiettivi è, quindi, riconoscere lo stretto legame tra il benessere 
+umano, la salute dei sistemi naturali e la presenza di sfide comuni, promuovendo azioni e iniziative volte a 
+incoraggiarne e stimolarne la salvaguardia. Eventuali limitazioni presenti nella metodologia utilizzata dal provider 
+esterno sono segnalate nella sezione dedita. Nel seguente documento vengono forniti ulteriori dettagli rispetto alla 
+strategia di investimento, il monitoraggio, le politiche di impegno e la dovuta diligenza adottate dalla Compagnia, 
+al fine di garantire la corretta promozione delle caratteristiche ambientali e sociali del prodotto e rispondere alle 
+richieste normative del Regolamento Delegato 2022/1288.   
+ 
+Nessun obiettivo di investimento sostenibile  
+Questo prodotto finanziario promuove caratteristiche ambientali o sociali, ma non ha come obiettivo un 
+investimento sostenibile. 
+ 
+Caratteristiche ambientali o sociali del prodotto finanziario 
+ll prodotto possiede caratteristiche ambientali e sociali che sono identificate attraverso l'allineamento agli obiettivi 
+di sviluppo sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti "SDGs"). Gli SDGs a cui il prodotto si allinea 
+sono: 
+• Istruzione di qualità (SDG 4) 
+• Lavoro dignitoso e crescita economica (SDG 8) 
+• Imprese, innovazione e infrastrutture (SDG 9) 
+• La vita sulla terra (SDG 15) 
+• Pace, giustizia e istituzioni solide (SDG 16) 
+ 
+Strategia d’investimento 
+La Compagnia adotta un processo decisionale autonomo, definendo il proprio universo investibile. Periodicamente, 
+il Comitato Finanza, ALM e Sostenibilità di Gruppo esamina, valuta ed aggiorna: 
+• i criteri per la definizione dei profili ESG; 
+• la lista di emittenti da escludere dall’universo investibile. 
+Tale processo si concretizza attraverso: 
+1) lo screening negativo tramite criteri di esclusione che non consentono l’investimento in emittenti che 
+operano in alcuni settori industriali, quali: Tabacco, Alcolici, Armi, Pornografia, Gioco e Lotterie. La 
+Compagnia si è impegnata inoltre ad intraprendere un percorso di progressiva decarbonizzazione del 
+portafoglio, con riferimento ai nuovi investimenti.  
+2) l’integrazione fattori ESG attraverso una valutazione dell’investimento finanziario dal punto di vista ESG 
+mediante analisi di informazioni extra-finanziarie, quali ad esempio rating o punteggi ESG. Le scelte di 
+investimento sostenibili vengono inoltre valutate e approvate dal Comitato Finanza, ALM e Sostenibilità di 
+Gruppo della Compagnia in accordo con il CEO.
+=== pagina 12 ===
+3) la promozione di investimenti in strumenti finanziari SRI, quali ad esempio “Green/Social/Sustainability 
+bonds”, fondi “Best in Class”, ovvero fondi con all’interno le migliori holdings per settore industriale, 
+selezionate dal gestore per il loro profilo sostenibile, e fondi “tematici”, ovvero fondi con all’interno 
+emittenti appartenenti a settori legati all’innovazione, alla transizione energetica o alla tutela e 
+salvaguardia dell’ambiente; 
+4) l’obiettivo di avere un profilo di impatto, integrando il portafoglio con strumenti di investimento alternativo 
+che prevedano al proprio interno anche strategie di Impact Investing. 
+In merito alla politica di investimento adottata dalla Compagnia ai fini della valutazione delle prassi di buona 
+governance delle imprese beneficiarie degli investimenti, HDI, grazie alle valutazioni ESG effettuate da un provider 
+esterno, è anche in grado di determinare le performance dei seguenti fattori:  
+1) Corporate Governance Structure  
+2) Shareholder Relations  
+3) Accounting Standards  
+4) Business Ethics 
+In aggiunta, il provider utilizza KPI specifici quantitativi per la valutazione del profilo dell'azienda, tra cui: la 
+Percentuale di donne nel consiglio e la Percentuale di donne dirigenti.  
+Si valutano anche gli emittenti sotto il profilo delle controversie, rispetto alle possibili violazioni del Global Compact. 
+Insieme a Talanx Group, HDI ha sottoscritto i 6 principi di Investimento Responsabile stabiliti dalle Nazioni Unite. 
+ 
+Quota degli investimenti  
+In relazione al presente prodotto, la Compagnia investe in strumenti di tipo obbligazionario e azionario diretto e 
+indiretto. 
+La quota minima degli investimenti del prodotto finanziario utilizzata per soddisfare le caratteristiche ambientali e 
+sociali rappresenta almeno il 50% degli investimenti che supera la soglia minima di score ESG determinata nella 
+metodologia utilizzata dal provider esterno. 
+Per quanto riguarda la quota rimanente degli investimenti, la Compagnia si impegna a selezionare nuovi 
+investimenti con uno score ESG che soddisfi i criteri definiti dalla metodologia del provider esterno. Tale approccio 
+ha l'obiettivo di migliorare il profilo ESG del portafoglio, mantenendone le medesime performance finanziarie. 
+Inoltre, la Compagnia si impegna ad eliminare entro un tempo ragionevole (entro massimo 18 mesi) le posizioni 
+“controverse” in portafoglio. 
+ 
+Monitoraggio delle caratteristiche ambientali o sociali  
+Il monitoraggio delle caratteristiche ambientali o sociali e dei relativi indicatori ESG viene garantito grazie a 
+meccanismi di controllo interni ed esterni. A tal fine, la Compagnia monitora periodicamente le caratteristiche 
+promosse dai propri investimenti grazie alle segnalazioni effettuate dal provider a seguito delle valutazioni ESG 
+degli emittenti, riassunte in un certificato rilasciato semestralmente. A supporto di ciò, il provider svolge un’analisi 
+volta ad identificare eventuali controversie che possono comportare rischi commerciali o di reputazione. Tale 
+sistema consente ad HDI di individuare nuovi emittenti da escludere dall’universo investibile, poiché diventati 
+rischiosi in termini ESG, o al contrario, di includere nuovi emittenti che hanno migliorato la propria performance 
+ESG. 
+ 
+Metodologie relative alle caratteristiche ambientali o sociali  
+La Compagnia si avvale del supporto di provider esterno per la stesura di una relazione ESG periodica sui portafogli, 
+basata su un sistema di punteggio ESG proprietario che tiene conto di vari fattori di sostenibilità per calcolare un
+=== pagina 13 ===
+punteggio ESG per ciascun emittente target. Nello specifico, le analisi effettuate per misurare il perseguimento delle 
+caratteristiche ambientali e sociali del prodotto si basano su una duplice visione:  
+1. ANALISI OLISTICA: questa prima valutazione del provider si fonda su un approccio integrato finalizzato a 
+valutare diversi aspetti della sostenibilità. I criteri di analisi sono principalmente tre:  
+a. Valutazione della società di gestione patrimoniale nel suo complesso: tale analisi rivela la credibilità 
+dell'azienda andando a valutarne la strategia, le risorse dedicate al fondo e l'approccio alla 
+sostenibilità in generale; 
+b. Valutazione della strategia del fondo: tale analisi indaga la missione di investimento sostenibile del 
+fondo, il modo in cui viene determinato l'universo ammissibile e in che misura la sostenibilità svolge 
+un ruolo nella selezione dei titoli; 
+c. Analisi di portafoglio: tale analisi verifica il livello di sostenibilità del portafoglio nel suo complesso. 
+Nello specifico, vengono valutati i seguenti fattori: la consistenza delle partecipazioni presenti in 
+portafoglio con gli obiettivi di sostenibilità del fondo, il profilo complessivo di sostenibilità del 
+portafoglio e l'esistenza di partecipazioni coinvolte in controversie rilevanti.  
+ 
+2. ANALISI DEGLI SDGs: quest’ultima valutazione è volta a verificare l’allineamento dell’azienda beneficiaria 
+dell’investimento con gli Obiettivi di Sviluppo Sostenibile delle Nazioni Unite, esaminando l’impegno 
+dell’azienda oggetto di analisi, tramite: 
+a. le decisioni gestionali e le attività operative dell'azienda;  
+b. i prodotti e/o i servizi offerti dall'azienda; 
+c. il comportamento e il coinvolgimento dell'azienda nelle controversie. 
+ 
+Fonti e trattamento dei dati  
+La Compagnia, grazie alle analisi effettuate dal provider esterno, utilizza metodologie differenti per valutare il livello 
+di sostenibilità del proprio universo investibile, avvalendosi di un approccio duplice capace di ottenere una visione 
+integrata sul tema della sostenibilità. Inoltre, Il provider esterno si avvale dell'attività di ricerca interna, integrata 
+da ricerche e dati esterni forniti da rinomati fornitori di dati ESG o direttamente dagli emittenti. In particolare, le 
+analisi si basano su:  
+- un modello di rating ESG aziendale che consente di calcolare la performance ESG delle entità aziendali;  
+- un modello ESG Paese che consente di valutare la performance ESG degli emittenti sovrani; 
+- valutazioni dei comportamenti controversi degli emittenti aziendali; 
+- esposizioni alle attività controverse degli emittenti aziendali. 
+Il provider esterno può effettuare stime ragionevoli in mancanza di dati. Inoltre, i fornitori terzi di dati ESG possono 
+utilizzare stime. La percentuale di dati stimati dal provider esterno è indicata come bassa, tenuto conto della natura 
+degli investimenti target del comparto. 
+ 
+Limitazioni delle metodologie e dei dati  
+Grazie alla valutazione di diversi aspetti quali la gestione patrimoniale, la strategia del fondo, l’analisi di portafoglio 
+e l’allineamento agli SDGs, l’approccio olistico utilizzato dal provider esterno limita il più possibile il margine di 
+errore nello svolgimento delle analisi. Con riferimento ai dati grezzi sottostanti, provenienti direttamente dagli 
+emittenti target e da fornitori esterni specializzati, il provider esterno assicura la qualità dei dati, affrontando i 
+problemi comuni associati ai dati ESG, come l'affidabilità, la soggettività o la mancanza di una copertura sufficiente, 
+verificando regolarmente la completezza, l'accuratezza e la coerenza dei dati forniti, utilizzando più fonti di dati, 
+pulendo e normalizzando i dati forniti.
+=== pagina 14 ===
+Dovuta Diligenza   
+La Compagnia effettua controlli sia interni che esterni di dovuta diligenza esercitata sugli attivi sottostanti, al fine 
+di verificare la corretta applicazione delle Politiche di riferimento e delle relative Linee Guida. Nello specifico, un 
+primo controllo esterno viene effettuato dal provider di riferimento il quale, tramite l’analisi delle controversie, 
+identifica quegli emittenti a rischio di potenziali violazioni di tipo ambientale, sociale o di governance.   
+Analogamente, in termini di controllo interno vi è un duplice presidio:  
+- Talanx Group AG ha delineato una lista di emittenti da escludere a priori dal proprio portafoglio. 
+Periodicamente, la Casa Madre effettua, quindi, delle verifiche sul portafoglio di HDI, al fine di controllare 
+il rispetto di tali esclusioni.  
+- La Compagnia ha internamente delle funzioni dedicate al controllo della corretta applicazione della Politica 
+di Investimento. Tale verifica viene effettuata costantemente dalla Funzione del Risk che controlla se la 
+procedura viene rispettata nel suo complesso sia in termini qualitativi, che a livello quantitativo. Inoltre, 
+per un maggior livello di presidio, la funzione dell’Internal Audit effettua controlli a richiesta sulla corretta 
+esecuzione del processo e delle relative procedure.  
+ 
+Politiche d’impegno   
+Per HDI Assicurazioni la sostenibilità è un impegno e rappresenta sempre di più un tratto distintivo dell’identità di 
+impresa che si traduce in azioni concrete volte a garantire un benessere diffuso che duri nel tempo e capace di 
+creare valore condiviso. In linea con tali impegni volti a promuovere una cultura sostenibile, HDI Assicurazioni ha 
+da tempo intrapreso una politica di gestione degli investimenti ispirata a criteri di sostenibilità, adottando una 
+specifica “policy ESG” a ciò dedicata. Inoltre, lo sviluppo di un Codice Etico, quale parte integrante di un Modello di 
+Organizzazione, Gestione e Controllo in linea con le norme vigenti (ex D.lgs. 231/01), è finalizzato a predisporre 
+sistemi di controllo idonei e garantire l’integrità e la buona reputazione della Società. Infine, tramite attività di 
+Stakeholder Engagement la Compagnia intende avvia un dialogo costruttivo con quelle imprese che necessitano di 
+stimoli per seguire un percorso virtuoso verso buone pratiche legate ai principi ESG.
+=== pagina 15 ===
+AZIONE DI PREVIDENZA – FONDO PENSIONE APERTO Linea Dinamica 
+Sintesi 
+In linea con i valori e con la strategia d’investimento adottati della Compagnia, il Fondo Pensione Aperto con 
+riferimento alla Linea Dinamica (di seguito anche il “prodotto”) promuove caratteristiche di sostenibilità ambientali 
+e sociali. Grazie ad un’analisi ESG integrata svolta col supporto di un provider esterno, il prodotto è allineato ad 
+alcuni degli Obiettivi di Sviluppo Sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti SDGs – Sustainable 
+Development Goals). L’obiettivo degli SDGs è definire dei target misurabili finalizzati a verificare le performance di 
+17 obiettivi di sostenibilità col fine affrontare un'ampia gamma di tematiche legate allo sviluppo economico, sociale 
+e ambientale. Lo scopo di questi obiettivi è, quindi, riconoscere lo stretto legame tra il benessere umano, la salute 
+dei sistemi naturali e la presenza di sfide comuni, promuovendo azioni e iniziative volte a incoraggiarne e stimolarne 
+la salvaguardia. Eventuali limitazioni presenti nella metodologia utilizzata dal provider esterno sono segnalate nella 
+sezione dedita. Nel seguente documento vengono forniti ulteriori dettagli rispetto alla strategia di investimento, il 
+monitoraggio, le politiche di impegno e la dovuta diligenza adottate dalla Compagnia, al fine di garantire la corretta 
+promozione delle caratteristiche ambientali e sociali del prodotto e rispondere alle richieste normative del 
+Regolamento Delegato 2022/1288.   
+ 
+Nessun obiettivo di investimento sostenibile  
+Questo prodotto finanziario promuove caratteristiche ambientali o sociali, ma non ha come obiettivo un 
+investimento sostenibile. 
+ 
+Caratteristiche ambientali o sociali del prodotto finanziario 
+ll prodotto possiede caratteristiche ambientali e sociali che sono identificate attraverso l'allineamento agli obiettivi 
+di sviluppo sostenibile dell'Agenda 2030 delle Nazioni Unite (anche detti "SDGs"). Gli SDGs a cui il prodotto si allinea 
+sono: 
+• Istruzione di qualità (SDG 4) 
+• Lavoro dignitoso e crescita economica (SDG 8) 
+• Imprese, innovazione e infrastrutture (SDG 9) 
+• La vita sott’acqua (SDG 14) 
+• Pace, giustizia e istituzioni solide (SDG 16) 
+ 
+Strategia d’investimento 
+La Compagnia adotta un processo decisionale autonomo, definendo il proprio universo investibile. Periodicamente, 
+il Comitato Finanza, ALM e Sostenibilità di Gruppo esamina, valuta ed aggiorna: 
+• i criteri per la definizione dei profili ESG; 
+• la lista di emittenti da escludere dall’universo investibile. 
+Tale processo si concretizza attraverso: 
+1) lo screening negativo tramite criteri di esclusione che non consentono l’investimento in emittenti che 
+operano in alcuni settori industriali, quali: Tabacco, Alcolici, Armi, Pornografia, Gioco e Lotterie. La 
+Compagnia si è impegnata inoltre ad intraprendere un percorso di progressiva decarbonizzazione del 
+portafoglio, con riferimento ai nuovi investimenti.  
+2) l’integrazione fattori ESG attraverso una valutazione dell’investimento finanziario dal punto di vista ESG 
+mediante analisi di informazioni extra-finanziarie, quali ad esempio rating o punteggi ESG. Le scelte di 
+investimento sostenibili vengono inoltre valutate e approvate dal Comitato Finanza, ALM e Sostenibilità di 
+Gruppo della Compagnia in accordo con il CEO.
+=== pagina 16 ===
+3) la promozione di investimenti in strumenti finanziari SRI, quali ad esempio “Green/Social/Sustainability 
+bonds”, fondi “Best in Class”, ovvero fondi con all’interno le migliori holdings per settore industriale, 
+selezionate dal gestore per il loro profilo sostenibile, e fondi “tematici”, ovvero fondi con all’interno 
+emittenti appartenenti a settori legati all’innovazione, alla transizione energetica o alla tutela e 
+salvaguardia dell’ambiente; 
+4) l’obiettivo di avere un profilo di impatto, integrando il portafoglio con strumenti di investimento alternativo 
+che prevedano al proprio interno anche strategie di Impact Investing. 
+In merito alla politica di investimento adottata dalla Compagnia ai fini della valutazione delle prassi di buona 
+governance delle imprese beneficiarie degli investimenti, HDI, grazie alle valutazioni ESG effettuate da un provider 
+esterno, è anche in grado di determinare le performance dei seguenti fattori:  
+1) Corporate Governance Structure  
+2) Shareholder Relations  
+3) Accounting Standards  
+4) Business Ethics 
+In aggiunta, il provider utilizza KPI specifici quantitativi per la valutazione del profilo dell'azienda, tra cui: la 
+Percentuale di donne nel consiglio e la Percentuale di donne dirigenti.  
+Si valutano anche gli emittenti sotto il profilo delle controversie, rispetto alle possibili violazioni del Global Compact. 
+Insieme a Talanx Group, HDI ha sottoscritto i 6 principi di Investimento Responsabile stabiliti dalle Nazioni Unite. 
+ 
+Quota degli investimenti  
+In relazione al presente prodotto, la Compagnia investe in strumenti di azionario diretto e indiretto. 
+La quota minima degli investimenti del prodotto finanziario utilizzata per soddisfare le caratteristiche ambientali e 
+sociali rappresenta almeno il 50% degli investimenti che supera la soglia minima di score ESG determinata nella 
+metodologia utilizzata dal provider esterno. 
+Per quanto riguarda la quota rimanente degli investimenti, la Compagnia si impegna a selezionare nuovi 
+investimenti con uno score ESG che soddisfi i criteri definiti dalla metodologia del provider esterno. Tale approccio 
+ha l'obiettivo di migliorare il profilo ESG del portafoglio, mantenendone le medesime performance finanziarie. 
+Inoltre, la Compagnia si impegna ad eliminare entro un tempo ragionevole (entro massimo 18 mesi) le posizioni 
+“controverse” in portafoglio. 
+ 
+Monitoraggio delle caratteristiche ambientali o sociali  
+Il monitoraggio delle caratteristiche ambientali o sociali e dei relativi indicatori ESG viene garantito grazie a 
+meccanismi di controllo interni ed esterni. A tal fine, la Compagnia monitora periodicamente le caratteristiche 
+promosse dai propri investimenti grazie alle segnalazioni effettuate dal provider a seguito delle valutazioni ESG 
+degli emittenti, riassunte in un certificato rilasciato semestralmente. A supporto di ciò, il provider svolge un’analisi 
+volta ad identificare eventuali controversie che possono comportare rischi commerciali o di reputazione. Tale 
+sistema consente ad HDI di individuare nuovi emittenti da escludere dall’universo investibile, poiché diventati 
+rischiosi in termini ESG, o al contrario, di includere nuovi emittenti che hanno migliorato la propria performance 
+ESG. 
+ 
+Metodologie relative alle caratteristiche ambientali o sociali  
+La Compagnia si avvale del supporto di provider esterno per la stesura di una relazione ESG periodica sui portafogli, 
+basata su un sistema di punteggio ESG proprietario che tiene conto di vari fattori di sostenibilità per calcolare un
+=== pagina 17 ===
+punteggio ESG per ciascun emittente target. Nello specifico, le analisi effettuate per misurare il perseguimento delle 
+caratteristiche ambientali e sociali del prodotto si basano su una duplice visione:  
+1. ANALISI OLISTICA: questa prima valutazione del provider si fonda su un approccio integrato finalizzato a 
+valutare diversi aspetti della sostenibilità. I criteri di analisi sono principalmente tre:  
+a. Valutazione della società di gestione patrimoniale nel suo complesso: tale analisi rivela la credibilità 
+dell'azienda andando a valutarne la strategia, le risorse dedicate al fondo e l'approccio alla 
+sostenibilità in generale; 
+b. Valutazione della strategia del fondo: tale analisi indaga la missione di investimento sostenibile del 
+fondo, il modo in cui viene determinato l'universo ammissibile e in che misura la sostenibilità svolge 
+un ruolo nella selezione dei titoli; 
+c. Analisi di portafoglio: tale analisi verifica il livello di sostenibilità del portafoglio nel suo complesso. 
+Nello specifico, vengono valutati i seguenti fattori: la consistenza delle partecipazioni presenti in 
+portafoglio con gli obiettivi di sostenibilità del fondo, il profilo complessivo di sostenibilità del 
+portafoglio e l'esistenza di partecipazioni coinvolte in controversie rilevanti.  
+ 
+2. ANALISI DEGLI SDGs: quest’ultima valutazione è volta a verificare l’allineamento dell’azienda beneficiaria 
+dell’investimento con gli Obiettivi di Sviluppo Sostenibile delle Nazioni Unite, esaminando l’impegno 
+dell’azienda oggetto di analisi, tramite: 
+a. le decisioni gestionali e le attività operative dell'azienda;  
+b. i prodotti e/o i servizi offerti dall'azienda; 
+c. il comportamento e il coinvolgimento dell'azienda nelle controversie. 
+ 
+Fonti e trattamento dei dati  
+La Compagnia, grazie alle analisi effettuate dal provider esterno, utilizza metodologie differenti per valutare il livello 
+di sostenibilità del proprio universo investibile, avvalendosi di un approccio duplice capace di ottenere una visione 
+integrata sul tema della sostenibilità. Inoltre, Il provider esterno si avvale dell'attività di ricerca interna, integrata 
+da ricerche e dati esterni forniti da rinomati fornitori di dati ESG o direttamente dagli emittenti. In particolare, le 
+analisi si basano su:  
+- un modello di rating ESG aziendale che consente di calcolare la performance ESG delle entità aziendali;  
+- un modello ESG Paese che consente di valutare la performance ESG degli emittenti sovrani; 
+- valutazioni dei comportamenti controversi degli emittenti aziendali; 
+- esposizioni alle attività controverse degli emittenti aziendali. 
+Il provider esterno può effettuare stime ragionevoli in mancanza di dati. Inoltre, i fornitori terzi di dati ESG possono 
+utilizzare stime. La percentuale di dati stimati dal provider esterno è indicata come bassa, tenuto conto della natura 
+degli investimenti target del comparto. 
+ 
+Limitazioni delle metodologie e dei dati  
+Grazie alla valutazione di diversi aspetti quali la gestione patrimoniale, la strategia del fondo, l’analisi di portafoglio 
+e l’allineamento agli SDGs, l’approccio olistico utilizzato dal provider esterno limita il più possibile il margine di 
+errore nello svolgimento delle analisi. Con riferimento ai dati grezzi sottostanti, provenienti direttamente dagli 
+emittenti target e da fornitori esterni specializzati, il provider esterno assicura la qualità dei dati, affrontando i 
+problemi comuni associati ai dati ESG, come l'affidabilità, la soggettività o la mancanza di una copertura sufficiente, 
+verificando regolarmente la completezza, l'accuratezza e la coerenza dei dati forniti, utilizzando più fonti di dati, 
+pulendo e normalizzando i dati forniti.
+=== pagina 18 ===
+Dovuta Diligenza   
+La Compagnia effettua controlli sia interni che esterni di dovuta diligenza esercitata sugli attivi sottostanti, al fine 
+di verificare la corretta applicazione delle Politiche di riferimento e delle relative Linee Guida. Nello specifico, un 
+primo controllo esterno viene effettuato dal provider di riferimento il quale, tramite l’analisi delle controversie, 
+identifica quegli emittenti a rischio di potenziali violazioni di tipo ambientale, sociale o di governance.   
+Analogamente, in termini di controllo interno vi è un duplice presidio:  
+- Talanx Group AG ha delineato una lista di emittenti da escludere a priori dal proprio portafoglio. 
+Periodicamente, la Casa Madre effettua, quindi, delle verifiche sul portafoglio di HDI, al fine di controllare 
+il rispetto di tali esclusioni.  
+- La Compagnia ha internamente delle funzioni dedicate al controllo della corretta applicazione della Politica 
+di Investimento. Tale verifica viene effettuata costantemente dalla Funzione del Risk che controlla se la 
+procedura viene rispettata nel suo complesso sia in termini qualitativi, che a livello quantitativo. Inoltre, 
+per un maggior livello di presidio, la funzione dell’Internal Audit effettua controlli a richiesta sulla corretta 
+esecuzione del processo e delle relative procedure.  
+ 
+Politiche d’impegno   
+Per HDI Assicurazioni la sostenibilità è un impegno e rappresenta sempre di più un tratto distintivo dell’identità di 
+impresa che si traduce in azioni concrete volte a garantire un benessere diffuso che duri nel tempo e capace di 
+creare valore condiviso. In linea con tali impegni volti a promuovere una cultura sostenibile, HDI Assicurazioni ha 
+da tempo intrapreso una politica di gestione degli investimenti ispirata a criteri di sostenibilità, adottando una 
+specifica “policy ESG” a ciò dedicata. Inoltre, lo sviluppo di un Codice Etico, quale parte integrante di un Modello di 
+Organizzazione, Gestione e Controllo in linea con le norme vigenti (ex D.lgs. 231/01), è finalizzato a predisporre 
+sistemi di controllo idonei e garantire l’integrità e la buona reputazione della Società. Infine, tramite attività di 
+Stakeholder Engagement la Compagnia intende avvia un dialogo costruttivo con quelle imprese che necessitano di 
+stimoli per seguire un percorso virtuoso verso buone pratiche legate ai principi ESG.

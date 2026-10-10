@@ -23,7 +23,9 @@
         "background": { "activesBegin": true, "beginsPattern": "▶ Export", "endsPattern": "▶ Anteprima su" }
       }
     },
-    { "label": "Export dati (Excel → JSON)", "type": "shell", "command": "python scripts/export_xlsx.py", "problemMatcher": [] },
+    { "label": "Export dati (Excel → JSON)", "type": "shell", "command": "python scripts/export_xlsx.py && python scripts/documenti.py indice", "problemMatcher": [] },
+    { "label": "Documenti: riprova i download mancanti", "type": "shell", "command": "python scripts/documenti.py riprova && python scripts/documenti.py indice", "problemMatcher": [] },
+    { "label": "Documenti: smista i PDF aggiunti a mano (anteprima)", "type": "shell", "command": "python scripts/documenti.py smista", "problemMatcher": [] },
     { "label": "Test", "type": "shell", "command": "python -m unittest discover -s tests -v", "group": "test", "problemMatcher": [] },
     { "label": "Rigenera screenshot della guida", "type": "shell", "command": "python scripts/screenshots.py", "problemMatcher": [] },
     { "label": "Prossima versione", "type": "shell", "command": "python scripts/versione.py prossima --json", "problemMatcher": [] }

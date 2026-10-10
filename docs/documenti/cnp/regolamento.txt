@@ -1,0 +1,2084 @@
+# Fondo: FONDO PENSIONE APERTO CNP (cnp)
+# Documento: Regolamento – Regolamento valido dal 31/07/2026
+# Fonte: https://gruppocnp.it/sites/default/files/FPA%20CNP_REGOLAMENTO_072026.pdf
+# Citato in: https://gruppocnp.it/prodotti/fondo-pensione-aperto/fondo-pensione-aperto-cnp#
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: c1a03b7a2c498068606c7338346174bc9ad88001d15a79db33e0dff9082ffce0
+# Pagine: 50
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+CNP Vita Assicura S.p.A
+Società del Gruppo CNP Assurances
+Previdenza 
+Complementare
+=== pagina 2 ===
+Fondo pensione aperto CNP – Regolamento - 1 di 48 
+ 
+INDICE 
+ 
+ 
+ 
+INDICE .................................................................................................................................................................................................................................... 1 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO .............................................................................................................................. 3 
+Art. 1 - Denominazione .............................................................................................................................................................................................. 3 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti ........................................................................................ 3 
+Art. 3 - Scopo ................................................................................................................................................................................................................... 3 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITA’  DI INVESTIMENTO  ................................................................. 4 
+Art. 4 - Regime del Fondo ...................................................................................................................................................................................... 4 
+Art. 5 – Destinatari e tipologie di adesione ................................................................................................................................................. 4 
+Art. 6 - Scelte di investimento ............................................................................................................................................................................. 4 
+Art. 7 - Gestione degli investimenti .................................................................................................................................................................. 5 
+Art. 8 – Spese ................................................................................................................................................................................................................... 7 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI ............................................................................................................................................ 9 
+Art. 9 - Contribuzione ................................................................................................................................................................................................. 9 
+Art. 10 - Determinazione della posizione individuale ......................................................................................................................... 9 
+Art. 11 - Prestazioni pensionistiche e RITA ............................................................................................................................................... 10 
+Art. 12 - Erogazione delle prestazioni pensionistiche ........................................................................................................................ 11 
+Art. 13 - Trasferimento e riscatto della posizione individuale ..................................................................................................... 12 
+Art. 14 - Anticipazioni ................................................................................................................................................................................................ 13 
+PARTE IV – PROFILI ORGANIZZATIVI ............................................................................................................................................................... 14 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile ................................................................................................ 14 
+Art. 16 - Sistema di governo ................................................................................................................................................................................ 14 
+Art. 17 - Depositario .................................................................................................................................................................................................... 14 
+Art. 18 - Responsabile .............................................................................................................................................................................................. 15 
+Art. 19 - Conflitti di interesse ............................................................................................................................................................................... 15 
+Art. 20 - Scritture contabili ................................................................................................................................................................................... 15 
+PARTE V – RAPPORTI CON GLI ADERENTI .................................................................................................................................................. 16 
+Art. 21 - Modalità di adesione e clausole risolutive espresse ..................................................................................................... 16 
+Art. 22 - Trasparenza nei confronti degli aderenti e dei beneficiari ....................................................................................... 17 
+Art. 23 - Comunicazioni e reclami ................................................................................................................................................................... 17 
+PARTE VI – NORME FINALI ...................................................................................................................................................................................... 18 
+Art. 24 - Modifiche del Regolamento ........................................................................................................................................................... 18 
+Art. 25 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo ......................................................................................................................................................................... 18 
+Art. 26 - Cessione del Fondo .............................................................................................................................................................................. 18
+=== pagina 3 ===
+Fondo pensione aperto CNP – Regolamento - 2 di 48 
+ 
+Art. 27 - Operazioni di fusione ............................................................................................................................................................................ 18 
+Art. 28 - Rinvio ............................................................................................................................................................................................................... 18 
+ALLEGATO N. 1 .................................................................................................................................................................................................................. 19 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE ......................................................................................................................................... 19 
+ALLEGATO N. 2 ................................................................................................................................................................................................................. 22 
+CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE VITALIZIE ............................................................................. 22
+=== pagina 4 ===
+Fondo pensione aperto CNP – Regolamento - 3 di 48 
+ 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+ 
+ 
+Art. 1 - Denominazione 
+1. Il “Fondo Pensione Aperto CNP” (di seguito “Fondo”) è un fondo pensione aperto istituito ai sensi dell’art. 
+12 del Decreto lgs. 5 dicembre 2005, n. 252 (di seguito “Decreto”). 
+ 
+ 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito da AVIVA S.p.A., oggi CNP VITA ASSICURA S.p.A. , giusta autorizzazione 
+rilasciata dalla COVIP con provvedimento del 11 ottobre 2000; con il medesimo provvedimento la 
+COVIP ha approvato il Regolamento del Fondo. 
+2. CNP VITA ASSICURA S.p.A. (di seguito “impresa di assicurazione ”) esercita l’attività di gestione del 
+Fondo con effetto dalle ore 23:59 del 31/12/2023. 
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 115. 
+4. L’attività relativa al Fondo è svolta in Milano, presso la sede dell’impresa di assicurazione. 
+5. L’indirizzo di posta elettronica certificata (PEC) dell ’impresa di assicurazione  è 
+cnpvita_assicura@legalmail.it.  
+ 
+ 
+Art. 3 - Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta 
+dei contributi, la gestione delle risorse nell’esclusivo interesse degli aderenti, e l’erogazione delle 
+prestazioni secondo quanto disposto dalla normativa tempo per tempo vigente.
+=== pagina 5 ===
+Fondo pensione aperto CNP – Regolamento - 4 di 48 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITA’  
+DI INVESTIMENTO 
+ 
+ 
+ 
+Art. 4 - Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è 
+determinata in funzione della contribuzione effettuata e in base al principio della capitalizzazione.  
+ 
+ 
+Art. 5 – Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita. 
+2. È altresì consentita  l’adesione su base collettiva ai soggetti destinatari delle forme pensionistiche 
+complementari individuati dall’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i 
+contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo . 
+Ai sensi dell’art. 8, comma 7 -bis, del Decreto l’adesione al Fondo su base collettiva può avvenire 
+anche in modalità automatica  mediante il conferimento del TFR maturando , della contribuzione a 
+carico del datore di lavoro e del lavoratore. 
+3. Tra i destinatari sono ricompresi gli aderenti taciti , ossia i lavoratori dipendenti del settore privato 
+assunti antecedentemente al 1° luglio 2026, che non hanno espresso alcuna volontà di adesione, nei 
+tempi e nei modi fissati dal D. Lgs. n. 252/2005 nella versione antecedente alla riforma di cui alla 
+Legge n. 199/2025, circa il conferimento del TFR maturando. 
+4. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza. 
+ 
+ 
+Art. 6 - Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio-rendimento, in modo tale 
+da assicurare agli aderenti una adeguata possibilità di scelta: 
+• Comparto Azionario 
+• Comparto Bilanciato 
+• Comparto Obbligazionario 
+• Comparto con Garanzia di restituzione del capitale. Questo comparto è destinato ad accogliere 
+il conferimento tacito del TFR a partire dall’1.10.2020 
+• Comparto con Garanzia di rendimento minimo prestabilito (comparto destinato ad accogliere il 
+conferimento tacito del TFR per adesioni fino al 30.09.2020 e chiuso a nuove adesioni a 
+partire dall’1.10.2020; dall’1.10.2020 il comparto può essere alimentato solo da contributi 
+relativi agli aderenti già allocati nello stesso. Il disinvestimento totale dal “ Comparto con 
+Garanzia di rendimento minimo prestabilito” determina l’impossibilità di successiva 
+riattivazione dello stesso). 
+Il TFR maturando e i contributi del datore di lavoro e del lavoratore pervenuti a seguito di adesioni 
+automatiche vengono allocati secondo i seguenti profili di life cycle di cui all’art. 8, comma 9 del 
+Decreto: 
+- per aderenti con età anagrafica fino a 50 anni: Comparto Azionario 
+- per aderenti con età anagrafica da 51 anni a 59 anni: Comparto Bilanciato  
+- per aderenti con età anagrafica da 60 anni: Comparto con Garanzia di Restituzione del 
+Capitale. 
+Le modalità di investimento del TFR maturando e i contributi del datore di lavoro e del lavoratore 
+pervenuti a seguito di adesioni automatiche nelle modalità indicate al periodo precedente sono 
+transitorie e trovano applicazione sino all’attivazione del meccanismo di life cycle.
+=== pagina 6 ===
+Fondo pensione aperto CNP – Regolamento - 5 di 48 
+ 
+Da tale momento, infatti, il TFR maturando e i contributi del datore di lavoro e del lavoratore pervenuti 
+a seguito di adesioni automatiche saranno investiti in linee di investimento caratterizzate da differenti 
+profili di rischio -rendimento, tenendo conto dell’orizzonte temporale dell’investimento e dell’età 
+anagrafica dell’aderente, attraverso un meccanismo di combinazione di comparti, ai s ensi dell’art. 8, 
+comma 9 del D. Lgs. 252/2005 e della Deliberazione COVIP del 23 giugno 2026.  
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti in cui far confluire i versamenti 
+contributivi, con facoltà di modificare nel tempo tale destinazione. L’aderente può inoltre  riallocare 
+la propria posizione individuale tra i diversi comparti, nel rispetto del periodo minimo di un anno 
+dall’iscrizione ovvero dall’ultima riallocazione.  
+In questo caso, i versamenti contributivi successivi sono suddivisi sulla base delle nuove percentuali 
+fissate all’atto della riallocazione salvo diversa disposizione dell’aderente. Il limite del periodo di 
+permanenza minimo non opera con riguardo alla prima riallocazione successiva all’adesione tacita o 
+automatica. 
+ 
+ 
+Art. 7 - Gestione degli investimenti 
+1. L’impresa di assicurazione effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle 
+condizioni stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, 
+assumendo a riferimento l’esclusivo interesse degli aderenti. 
+2. Ferma restando la responsabilità dell ’impresa di assicurazione, essa può affidare a soggetti di cui 
+all’art. 6, comma 1, lettere a), b), c), c-bis) del Decreto, in possesso dei requisiti previsti dalla normativa 
+tempo per tempo vigente, l’esecuzione di specifici incarichi di gestione.  
+3. L’impresa di assicurazione verifica i risultati della gestione mediante l’adozione di parametri di 
+riferimento coerenti con gli obiettivi e i criteri della politica di investimento.  
+4. La politica di investimento dei singoli comparti è la seguente: 
+• Comparto Azionario 
+Il comparto è rivolto preferibilmente ad investitori che hanno un orizzonte temporale di 
+riferimento di lungo periodo. 
+La gestione del comparto è finalizzata alla crescita del capitale investito, offrendo ai partecipanti 
+un investimento in strumenti finanziari opportunamente diversificati e selezionati al fine di 
+rispondere alle esigenze di coloro che hanno un’elevata prop ensione al rischio ed è consigliata 
+a coloro che sono lontani dall’accesso alla prestazione pensionistica complementare e che 
+intendono permanere nel comparto per molti anni. 
+Questo comparto attua una politica di investimento orientata prevalentemente verso strumenti 
+finanziari di natura azionar ia quotati e non quotati ed effettua investimenti in mercati di paesi 
+aderenti all’OCSE.  
+Il patrimonio del comparto può essere investito fino  al 95%  in titoli di capitale . Il portafoglio 
+risulterà diversificato da un pu nto di vista valutario. A livello di portafoglio complessivo, resta 
+ferma la possibilità di detenere una parte del patrimonio del comparto in titoli obbligazionari. 
+Resta inoltre ferma la possibilità, in particolari situazioni di mercato e comunque in misura non 
+superiore al 10% del totale, di detenere una parte del patrimonio del comparto in disponibilità 
+liquide. 
+ 
+• Comparto Bilanciato 
+Il comparto è rivolto preferibilmente ad investitori aventi un orizzonte temporale di riferimento 
+di medio-lungo periodo. 
+Il Comparto Bilanciato persegue l’obiettivo di incrementare il capitale investito in valori mobiliari 
+opportunamente diversificati e selezionati, sfruttando le opportunità offerte dai mercati 
+internazionali, al fine di rispondere alle esigenze di coloro che hanno una propensione al rischio 
+media e di coloro a cui manchino più di dieci anni all’accesso alla prestazione pensionistica 
+complementare.
+=== pagina 7 ===
+Fondo pensione aperto CNP – Regolamento - 6 di 48 
+ 
+Questo comparto si propone di attuare una politica di investimento tendente ad una 
+composizione del portafoglio diversificata dal punto di vista valutario e bilanciata attraverso una 
+combinazione di investimenti in strumenti finanziari di natura azionaria e obblig azionaria. Il 
+patrimonio del comparto può essere investito in titoli di capitale nel limite massimo del 40%.  
+Resta ferma la possibilità che una parte del portafoglio del comparto risulti investito, in particolari 
+condizioni di mercato ed in misura non superiore al 10% del totale, in disponibilità liquide.  
+ 
+• Comparto Obbligazionario 
+Il comparto è rivolto preferibilmente ad investitori aventi un orizzonte temporale di riferimento 
+di medio periodo. Il Comparto Obbligazionario ha l’obiettivo di conseguire un rendimento in linea 
+con l’andamento dei tassi del mercato obbligazionario nel medio periodo al fine di rispondere 
+alle esigenze di coloro che hanno una propensione al rischio contenuta e di coloro ai quali 
+manchino meno di dieci anni all’accesso alla prestazione pensionistica complementare.  
+Viene attuata una politica di investimento volta a perseguire una composizione del portafoglio 
+leggermente diversificata da un punto di vista valutario ed orientata prevalentemente verso 
+strumenti finanziari di natura obbligazionaria. 
+Il patrimonio del comparto potrà essere investito in titoli di capitale nel limite massimo del 20%.  
+ 
+• Comparto con Garanzia di restituzione del capitale 
+Questo comparto è destinato ad accogliere il conferimento tacito del TFR relativo alle “adesioni” 
+successive al 30.09.2020  e fino al 30.06.2026 . Il comparto è idoneo a realizzare, con elevata 
+probabilità, rendimenti pari o superiori a quelli del TFR in un orizzonte temporale pluriennale.  
+Il Comparto con Garanzia di restituzione del capitale offre una garanzia - al verificarsi degli eventi 
+di seguito specificati e a prescindere dai risultati di gestione - di restituzione della somma dei 
+versamenti contributivi netti effettuati nel comparto medesimo. 
+Il comparto è rivolto preferibilmente ad investitori aventi una bassa propensione al rischio e a 
+coloro che si avvicinano al momento di accesso alla prestazione pensionistica complementare.  
+Questo comparto attua una politica orientata prevalentemente verso strumenti finanziari di 
+natura obbligazionaria denominati in euro, con possibilità di attuare una diversificazione degli 
+investimenti attraverso titoli obbligazionari e di capitale dell’area OCSE.  
+L’adesione al comparto denominato “Comparto con Garanzia di restituzione del capitale” 
+attribuisce all’aderente, al verificarsi degli eventi di cui appresso, il diritto alla corresponsione di 
+un importo minimo garantito a prescindere dai risultati di gestione. La garanzia può essere 
+prestata all’impresa di assicurazione da soggetti diversi dalla stessa, a ciò abilitati. 
+L’importo minimo garantito è pari alla somma dei contributi netti versati al comparto, inclusi gli 
+eventuali importi derivanti da trasferimenti da altro comparto o da altra forma pensionistica e i 
+versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto da eventuali riscatti 
+parziali e anticipazioni.  
+Per contributi netti si intendono i contributi di cui all’art. 10 comma 2. 
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+• esercizio del diritto alla prestazione pensionistica di cui all’art. 11, comma 1; 
+• riscatto per decesso; 
+• riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno 
+di un terzo; 
+• riscatto per inoccupazione per un periodo superiore a quarantotto mesi. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata 
+calcolata, ai sensi dell’Art.10 , con riferimento al primo  giorno di valorizzazione utile successivo 
+alla verifica delle condizioni che danno diritto alla prestazione, la  stessa viene integrata a tale 
+maggior valore. L’integrazione viene corrisposta dall’impresa di assicurazione. 
+ 
+• Comparto con Garanzia di rendimento minimo prestabilito
+=== pagina 8 ===
+Fondo pensione aperto CNP – Regolamento - 7 di 48 
+ 
+Questo comparto è destinato ad accogliere il conferimento tacito del TFR relativo alle “adesioni” 
+antecedenti l’1.10.2020. 
+Il comparto è idoneo a realizzare, con elevata probabilità, rendimenti pari o superiori a quelli del 
+TFR in un orizzonte temporale pluriennale. 
+Il “Comparto con Garanzia di rendimento minimo prestabilito” offre una garanzia – al verificarsi 
+degli eventi di seguito specificati e a prescindere dai risultati di gestione – di restituzione dei 
+contributi netti versati maggiorati dal rendimento minimo garantito. 
+Il comparto è rivolto preferibilmente ad investitori aventi una bassa propensione al rischio e a 
+coloro che si avvicinano al momento di accesso alla prestazione pensionistica complementare.  
+Questo comparto attua una politica orientata prevalentemente verso strumenti finanziari di 
+natura obbligazionaria denominati in euro, con possibilità di attuare una diversificazione degli 
+investimenti attraverso titoli obbligazionari e di capitale dell’area OCSE. 
+L’adesione al comparto denominato “Comparto con Garanzia di rendimento minimo prestabilito” 
+attribuisce all’aderente, al verificarsi degli eventi di cui appresso, il diritto alla corresponsione di 
+un importo minimo garantito a prescindere dai risultati di gestione. La garanzia può essere 
+prestata all’impresa di assicurazione da soggetti diversi dalla stessa, a ciò abilitati. 
+L’importo minimo garantito è pari alla somma, maggiorata del 2% su base annua, dei contributi 
+netti versati al comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro comparto 
+o da altra forma pensionistica e i versamenti effettuati per  il reintegro delle anticipazioni 
+percepite, ridotto da eventuali riscatti parziali e anticipazioni.  
+Per contributi netti si intendono i contributi di cui all’art. 10, comma 2. 
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+• esercizio del diritto alla prestazione pensionistica di cui all’art. 11, comma 1; 
+• riscatto per decesso; 
+• riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno 
+di un terzo; 
+• riscatto per inoccupazione per un periodo superiore a quarantotto mesi. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata 
+calcolata, ai sensi dell’ art. 10, con riferimento al primo giorno di valorizzazione utile successivo 
+alla verifica delle condizioni che danno diritto alla prestazione, la stessa viene integrata a tale 
+maggior valore. L’integrazione viene corrisposta dall’impresa di assicurazione.  
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di 
+rischio-rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti 
+nella Nota informativa. La Nota informativa descrive, inoltre, le caratteristiche della combinazione 
+predefinita dall’impresa di assicurazione del profilo di life cycle. 
+ 
+ 
+Art. 8 – Spese    
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a) spese relative alla fase di accumulo: 
+a.1) direttamente a carico dell’aderente : una commissione pari a 25 euro, applicata 
+annualmente 
+a.2) indirettamente a carico dell’aderente e che incidono sul comparto:  
+i) una commissione di gestione  pari alle seguenti percentuali del patrimonio di ciascun 
+comparto, su base annua, prelevata con cadenza mensile: 
+• Comparto Azionario       1,20% 
+• Comparto Bilanciato       1,00% 
+• Comparto Obbligazionario      0,90% 
+• Comparto con Garanzia di restituzione del capitale   1,10% 
+• Comparto con Garanzia di rendimento minimo prestabilito  
+ 1,30%
+=== pagina 9 ===
+Fondo pensione aperto CNP – Regolamento - 8 di 48 
+ 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese 
+legali e giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione 
+derivanti dall’attività di impiego delle risorse, nonché il “contributo  di vigilanza” dovuto 
+annualmente alla COVIP ai sensi di legge; sono altresì a carico del comparto le spese relative 
+alla remunerazione e allo svolgimento dell’incarico del Responsabile salva diversa decisione 
+dell’impresa di assicurazione. 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla 
+sottoscrizione e al rimborso delle parti di OICR acquistati, né le commissioni di gestione 
+applicate dall’OICR stesso, salvo i casi di deroga di carattere generale pre visti dalla COVIP. In 
+particolare, nel caso di investimenti in OICR collegati, dal compenso dell ’impresa di 
+assicurazione sarà dedotta la remunerazione complessiva percepita dal gestore dell’OICR 
+collegato. Fanno eccezione gli investimenti in FIA diversi da quelli collegati.  
+b) spese collegate all’esercizio delle seguenti prerogative individuali, dirette alla copertura dei 
+relativi oneri amministrativi: 
+b.1) 20,00 euro , a partire dalla seconda operazione , per la riallocazione della posizione 
+individuale tra i comparti ovvero per la modifica del profilo di investimento scelto;  
+c)       spese relative alla fase di erogazione delle rendite, quali riportate nell’Allegato n. 2. 
+c-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia:  
+ c-bis.1)  spese per la gestione finanziaria di cui alla lettera a.2., in relazione ai comparti in cui è 
+investita la posizione individuale residua; 
+c-bis.2) in cifra fissa: da ogni rata/prelievo erogato verrà trattenuto un importo pari a 6,00 euro 
+a titolo di spese amministrative.  
+d) spese in cifra fissa relative alla prestazione erogata in forma di “Rendita integrativa 
+temporanea anticipata” (RITA) dirette alla copertura dei relativi oneri amministrativi 
+d.1) da ogni rata di rendita integrativa temporanea anticipata verrà trattenuto un importo pari a 
+euro 5,00 a titolo di spese amministrative. 
+2. L’importo delle spese sopra indicate  al punto a.1)  può essere ridotto nei casi di adesione su base 
+collettiva e di convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti.  
+3. Sono a carico dell’impresa di assicurazione tutte le spese e oneri non individuati dalle disposizioni del 
+presente articolo.
+=== pagina 10 ===
+Fondo pensione aperto CNP – Regolamento - 9 di 48 
+ 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+ 
+ 
+ 
+Art. 9 - Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso.  
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima 
+e delle modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali.  
+3. I lavoratori dipendenti, in caso di adesione esplicita, possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può 
+anche essere parziale ove previsto dagli accordi collettivi. Qualora il lavoratore decida altresì di 
+versare la contribuzione prevista a suo carico e abbia diritto, in base ad accordi collettivi, anche 
+aziendali, a un contributo del datore di lavoro, detto contributo affluirà al Fondo nei limiti e alle 
+condizioni stabilite nei predetti  accordi. Il datore di lavoro può decidere, anche in assenza di accordi 
+collettivi di contribuire al Fondo. 
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i 
+lavoratori dipendenti, l’obbligo del versamento del TFR maturando eventualmente conferito. La 
+sospensione non comporta la cessazione della partecipazione al Fondo. 
+5. In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore di lavoro e la 
+contribuzione del lavoratore. La contribuzione a carico del lavoratore non è obbligatoria nel caso in 
+cui la retribuzione annuale lorda corrisposta dal datore di lavoro risulti inferiore al valore pari 
+all’assegno sociale di cui all’art. 3, commi 6 e 7, della legge 8 agosto 1995, n. 335. L’aderente può 
+conferire il TFR anche in misura parziale ove previsto dagli accordi collettivi . 
+6. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà di 
+sospendere la contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo 
+a carico del datore di lavoro, fermo restando il versamento del TFR maturando al Fondo. È possibile 
+riattivare la contribuzione in qualsiasi momento. 
+7. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 12, del Decreto 
+(c.d. contribuzione da abbuoni). 
+8. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che alla data del 
+pensionamento possa far valere almeno un anno di contribuzione a favore delle forme di previdenza 
+complementare. 
+ 
+ 
+Art. 10 - Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è 
+alimentata dai contributi netti versati, dagli importi derivanti da trasferimenti da altre forme 
+pensionistiche complementari e dai versamenti effettuati per il reintegro delle anticipazioni 
+percepite, ed è ridotta da eventuali riscatti parziali e anticipazioni. 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, 
+di cui all’art. 8, comma 1, lettere a.1). Sul primo versamento incidono anche eventuali spese di 
+adesione. 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di ogni 
+singolo comparto è calcolato come variazione del valore della quota dello stesso nel periodo 
+considerato. 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono 
+valutate al valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla  
+determinazione della posizione individuale, a prescindere dal momento di effettivo realizzo.  
+5. L’impresa di assicurazione determina il valore della quota e, conseguentemente, della posizione 
+individuale di ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti
+=== pagina 11 ===
+Fondo pensione aperto CNP – Regolamento - 10 di 48 
+ 
+sono trasformati in quote e frazioni di quote, sulla base del primo valore di quota successivo al giorno 
+in cui si sono resi disponibili per la valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello 
+risultante al primo giorno di valorizzazione utile successivo a quello in cui l ’impresa di assicurazione 
+ha verificato la sussistenza delle condizioni che danno diritto alle prestazioni.  
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono 
+intangibili e non possono formare oggetto di sequestro o pignoramento da parte dei creditori 
+dell’aderente. 
+ 
+ 
+Art. 11 - Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione 
+dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, 
+con almeno cinque anni di partecipazione alle form e pensionistiche complementari. Il predetto 
+termine è ridotto a tre anni per il lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal 
+fatto che lo stesso acquisisca il diritto a una pensione complementare e che si sposta in un altro Stato 
+membro dell’Unione europea. L’aderente che decide di proseguire volontariamente la contribuzione 
+ai sensi del comma 8 dell’art. 9 ha la facoltà di determinare autonomamente il momento di fruizione 
+delle prestazioni pensionistiche. 
+2. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera età pensionabile quella vigente 
+nel regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche 
+sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari 
+maturati dall’aderente per i quali lo stesso non abbia  esercitato il riscatto totale della posizione 
+individuale. 
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione 
+nei regimi obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1, ha facoltà di ri chiedere che le prestazioni siano erogate, in tutto o 
+in parte, in forma di RITA con un anticipo massimo di cinque anni rispetto alla data di maturazione 
+dell’età anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appartenenza.  
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un 
+periodo di tempo superiore a ventiquattro mesi e abbia maturato il periodo minimo di partecipazione 
+alle forme pensionistiche complementari di cui al comma 1 , ha facoltà di richiedere la rendita di cui 
+al comma 4 con un anticipo massimo di dieci anni rispetto alla data di maturazione dell’età anagrafica 
+per la pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei commi 4 o 5, verrà 
+fatta confluire, salvo diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo 
+e indicato nella Nota informativa. L’aderente può successivamente variare il comparto nel rispetto 
+del periodo minimo di permanenza. 
+7. Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta la cessazione 
+dell’erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha la 
+facoltà di richiedere, con riferimento alla sola porzione residua della posizione individuale, il riscatto 
+e l’anticipazione di cui agli artt. 13 e 14, cessata l’erogazione della RITA parziale, ovvero la prestazione 
+pensionistica. 
+9. In caso di trasferimento ad altra forma pensionistica complementare la  RITA si intende 
+automaticamente revocata e viene trasferita l’intera posizione individuale.  
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di 
+capitale nel limite del 50 per cento della posizione individuale maturata. Nel computo dell’importo 
+complessivo erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le 
+quali non si sia provveduto al reintegro. Qualora l’importo che si ottiene convertendo in rendita
+=== pagina 12 ===
+Fondo pensione aperto CNP – Regolamento - 11 di 48 
+ 
+vitalizia immediata annua senza reversibilità a favore dell’aderente il 70 per cento della posizione 
+individuale maturata risulti inferiore al 50 per cento dell’assegno sociale di cui all’art. 3, commi 6, 7, 
+della Legge 8 agosto 1995, n. 335, l’aderente pu ò optare per la liquidazione in capitale dell’intera 
+posizione maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 
+aprile 1993 ed entro tale data iscritto a una forma pensionistica complementare istituita alla data di 
+entrata in vigore della Legge 23 ottobre 1992, n. 421, p uò richiedere la liquidazione dell’intera 
+prestazione pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche  sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.  
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto 
+può trasferire la propria posizione individuale presso altra forma pensionistica complementare, per 
+avvalersi delle condizioni di erogazione della ren dita vitalizia praticate da quest’ultima. In tal caso si 
+applica quanto previsto dall’art. 13, commi 6 e 7. 
+ 
+ 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita 
+vitalizia immediata calcolata in base alla posizione individuale maturata, al netto della eventuale 
+quota di prestazione da erogare sotto forma di capitale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di rendita 
+vitalizia di seguito indicate: 
+- una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’aderente stesso, alla/e persona/e da 
+lui designata/e; 
+- una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi cinque o dieci 
+anni all’aderente o, in caso di suo decesso, alla/e persona/e da lui designata/e. 
+Successivamente, se l’aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia. 
+3. Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite 
+vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo 
+calcolo. Tali coefficienti possono essere successivamente variati, nel rispetto della normativa tempo 
+per tempo vigente in materia di stabilità delle compagnie di assicurazione; in ogni caso, le modifiche 
+dei coefficienti di trasformazione non si applicano ai soggetti, già aderenti alla data di intro duzione 
+delle modifiche stesse, che esercitano il diritto alla prestazione pensionistica nei tre anni successivi.  
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, 
+laddove vi sia l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’Allegato 
+n. 2 e, negli altri casi, a coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in 
+base alle proiezioni ufficiali disponibili sull’andamento della mortalità della popolazione italiana.  
+5. In alternativa alla rendita vitalizia, l’aderente può richiedere , al netto della eventuale quota di 
+prestazione erogata sotto forma di capitale, l’erogazione della prestazione pensionistica in una delle 
+seguenti forme: 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della 
+vita attesa residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni 
+obbligatorie.  
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con 
+facoltà per lo stesso di determinarne la tempistica e l’importo nel limite della somma delle rate, 
+maturate e non riscosse, di una rendita teorica con frazion amento annuale, immediatamente 
+erogabile e di durata definita pari alla vita attesa residua, in anni interi, dell’aderente al momento 
+della richiesta della prestazione.  
+6. L’impresa di assicurazione  provvede ad erogare direttamente le prestazioni pensionistiche diverse 
+dalla rendita vitalizia con tempestività e comunque non oltre il termine massimo di 6 mesi decorrente
+=== pagina 13 ===
+Fondo pensione aperto CNP – Regolamento - 12 di 48 
+ 
+dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente,  l’impresa 
+di assicurazione richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data 
+del completamento o della regolarizzazione della pratica. Il montante residuo è mantenuto in 
+gestione da parte del Fondo, nel comparto scelto dall’aderente, all’atto d ella richiesta della 
+prestazione o, in difetto di indicazioni, nel comparto individuato nella Nota informativa.  
+6-bis.   Al fine di adeguare i sistemi e i processi operativi dell’impresa di assicurazione per la gestione delle 
+richieste e l’erogazione diretta delle prestazioni, il termine di cui al comma 6. può essere derogato per un 
+periodo transitorio, che non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo l’impresa di 
+assicurazione acquisisce le richieste di erogazione delle prestazioni. Successivamente all’avvenuto 
+adeguamento dei suddetti sistemi e processi operativi, l’impresa di assicurazione procede 
+tempestivamente alla liquidazione delle richieste di erogazione delle prestazioni pervenute durante il 
+periodo transitorio. 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere 
+revocate una volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del 
+montante residuo in una rendita vitalizia immediata sulla base delle condizioni e dei crite ri indicati 
+nella Nota informativa, ovvero trasferisca il montante residuo presso un’altra forma pensionistica 
+all’unico fine di beneficiare delle condizioni di rendita vitalizia offerte da quest’ultima.  
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto 
+ad individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante 
+residuo. Tale scelta può essere successivamente modificata dall’aderente.  
+9. Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente non può 
+richiedere trasferimenti, riscatti, anticipazioni o la RITA , ad eccezione della variazione del 
+comparto/profilo di investimento, che può essere richiesta nel rispetto del periodo minimo di 
+partecipazione di cui all’art. 6, comma 2. 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore 
+contribuzione al Fondo, salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda 
+la maturazione del TFR. 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni 
+pensionistiche di cui al comma 5, lett. a) e b). 
+ 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare decorso un periodo minimo di due anni di partecipazione al Fondo.  
+2. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a. trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla 
+quale acceda in relazione alla nuova attività lavorativa; 
+b. riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività 
+lavorativa che comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e 
+non superiore a quarantotto mesi, ovvero in caso di ricorso d a parte del datore di lavoro a 
+procedure di mobilità, cassa integrazione guadagni, ordinaria o straordinaria;  
+c. riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la 
+riduzione della capacità di lavoro a meno di un terzo e a seguito di cessazione dell’attività 
+lavorativa che comporti l’inoccupazione per un periodo di tempo superiore a quarantotto mesi; 
+d. riscattare l’intera posizione individuale maturata, ai sensi dell’art.14, comma 5, del Decreto ovvero 
+trasferirla ad altra forma pensionistica complementare, qualora vengano meno i requisiti di 
+partecipazione.
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di 
+trasferimento e riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore 
+contribuzione. Tale opzione trova automatica applicazio ne in difetto di diversa scelta da parte 
+dell’aderente. Nel caso in cui il valore della posizione individuale maturata non sia superiore 
+all’importo di una mensilità dell’assegno sociale di cui all’art. 3, comma 6, della Legge 8 agosto 1995,
+=== pagina 14 ===
+Fondo pensione aperto CNP – Regolamento - 13 di 48 
+ 
+n. 335, l ’impresa di assicurazione informa l’aderente della facoltà di trasferire la propria posizione 
+individuale ad altra forma pensionistica complementare, ovvero di chiedere il riscatto dell’intera 
+posizione di cui al comma 2, lettera d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero 
+nel corso dell’erogazione della “Rendita integrativa temporanea anticipata (RITA), la posizione 
+individuale è riscattata dai soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, o in 
+mancanza dagli eredi. In mancanza di tali soggetti, la posizione individuale resta acquisita al Fondo.  
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.  
+6. L’impresa di assicurazione, accertata la sussistenza dei requisiti, provvede al trasferimento o al 
+riscatto della posizione con tempestività, e comunque non oltre il termine massimo di sei mesi  
+decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, 
+l’impresa di assicurazione richiede gli elementi integrativi e il termine sopra indicato è sospeso fino 
+alla data del completamento o della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della 
+partecipazione al Fondo. 
+ 
+ 
+Art. 14 - Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e 
+misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie 
+conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi 
+straordinari riconosciuti dalle competenti strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore 
+al 75 per cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, o per la realizzazione, 
+sulla prima casa di abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro 
+e di risanamento conservativo, di ristrutturazione edilizia, di cui alle lettere a), b), c) e d) del comma 
+1, dell’art. 3, del Decreto del Presidente della Repubblica del 6 giugno 2001, n. 380; 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non 
+superiore al 30 per cento, per la soddisfazione di ulteriori sue esigenze. 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono 
+riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75  per 
+cento della posizione individuale maturata, incrementata delle anticipazioni percepite e non 
+reintegrate. 
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono 
+considerati utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati 
+dall’aderente, per i quali lo stesso non abbia eserci tato il diritto di riscatto totale della posizione 
+individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in 
+qualsiasi momento. 
+6. Le anticipazioni di cui al comma 1, lettera a), sono sottoposte agli stessi limiti di cedibilità, 
+sequestrabilità e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza 
+obbligatoria. 
+7. L’impresa di assicurazione provvede agli adempimenti conseguenti all’esercizio delle predette 
+facoltà da parte dell’aderente con tempestività e comunque non oltre il termine massimo di sei mesi 
+decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, 
+l’impresa di assicurazione richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino 
+alla data del completamento o della regolarizzazione della pratica. Nel rispetto del termine massimo, 
+l’anticipazione sarà comunque erogata dall’Impresa di assicurazione entro sessanta giorni dal 
+ricevimento della documentazione completa.
+=== pagina 15 ===
+Fondo pensione aperto CNP – Regolamento - 14 di 48 
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+ 
+ 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia 
+al patrimonio dell ’impresa di assicurazione, sia a quello degli altri fondi gestiti, sia a quello degli 
+aderenti. 
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non 
+può essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori dell ’impresa di 
+assicurazione o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di 
+rappresentanti dei creditori stessi. Il patrimonio del Fondo non può essere coinvolto nelle procedure 
+concorsuali che riguardino l’impresa di assicurazione. 
+4. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e 
+contabile delle operazioni poste in essere per conto del Fondo rispetto al complesso delle altre 
+operazioni svolte dall ’impresa di assicurazione e del patrimonio del Fondo rispetto a quello 
+dell’impresa di assicurazione e di suoi clienti. 
+5. Ferma restando la responsabilità dell ’impresa di assicurazione per l’operato del soggetto delegato, 
+la gestione amministrativa e contabile del Fondo può essere delegata a terzi. 
+6. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e 
+contabile delle operazioni poste in essere in riferimento a ciascun comparto.  
+7. Il patrimonio di ciascun comparto è suddiviso in quote. 
+ 
+ 
+Art. 16 - Sistema di governo 
+1. L’impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla portata e 
+alla complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4 -bis, 5-bis, 
+5-ter, 5 -quater, 5 -sexies, 5 -septies, 5 -octies e 5 -nonies del Decreto in coerenza con gli assetti 
+organizzativi del rispettivo settore di riferimento. 
+ 
+ 
+Art. 17 - Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei 
+requisiti previsti dalle vigenti disposizioni normative (di seguito “depositario”).  
+2. L’impresa di assicurazione può revocare in ogni momento l’incarico al depositario il quale può, a sua 
+volta, rinunciare con preavviso non inferiore ai sei mesi; in ogni caso, l’efficacia della revoca o della 
+rinuncia è sospesa fino a che: 
+a) l’impresa di assicurazione non abbia stipulato un nuovo contratto con altro depositario, in 
+possesso dei requisiti di legge; 
+b) il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità 
+dell’impresa di assicurazione per l’operato del soggetto delegato. 
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente.  
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità 
+riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti 
+di cui sono venuti a conoscenza nell’esercizio delle funzioni di depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono 
+ammesse azioni dei creditori del depositario, del subdepositario o nell’interesse degli stessi.
+=== pagina 16 ===
+Fondo pensione aperto CNP – Regolamento - 15 di 48 
+ 
+Art. 18 - Responsabile 
+1. L’impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2, del 
+Decreto. 
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del Responsabile 
+sono riportate nell’Allegato n. 1. 
+ 
+ 
+Art. 19 - Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi 
+della normativa tempo per tempo vigente. 
+ 
+ 
+Art. 20 - Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle 
+posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+2. L’impresa di assicurazione conferisce a una società di revisione l’incarico di esprimere, con apposita 
+relazione, un giudizio sul rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web dell’impresa di assicurazione.
+=== pagina 17 ===
+Fondo pensione aperto CNP – Regolamento - 16 di 48 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+ 
+ 
+ 
+Art. 21 - Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. 
+L’adesione è preceduta dalla consegna della documentazione informativa prevista tempo per tempo 
+dalla normativa vigente. 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite  all’impresa di 
+assicurazione. 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera 
+di conferma, attestante la data di iscrizione e le informazioni relative all’eventuale versamento 
+effettuato. 
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi allegati, e delle 
+successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’art. 25. 
+5. In caso di adesione  automatica, il Fondo, sulla base dei dati forniti dal datore di lavoro,  comunica 
+all’aderente l’avvenuta adesione , il profilo di tipo Life Cycle nel quale sono investiti i contributi, 
+nonché le informazioni necessarie al fine di consentire a quest’ultimo l’esercizio delle scelte di sua 
+competenza. 
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze 
+dell’impresa di assicurazione da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione 
+dell’impresa di assicurazione. Le adesioni su base collettiva possono essere raccolte anche presso i 
+luoghi indicati nella Nota informativa. 
+7. L’aderente ha la facoltà di esercitare il diritto di recesso entro trenta giorni dal momento della 
+sottoscrizione del Modulo di Adesione e contestuale versamento del relativo contributo.  
+8. Per esercitare il diritto di recesso l’aderente deve rivolgersi  direttamente al Soggetto incaricato del 
+collocamento e/o  inviare al Fondo una comunicazione contenente gli elementi identificativi della 
+posizione individuale.  
+Entro trenta giorni dal ricevimento della richiesta il Fondo  rimborsa l’importo dovuto  calcolato a 
+norma di contratto. In caso di adesione mediante sito web, l ’impresa di assicurazione deve acquisire 
+il consenso espresso dell’aderente all’utilizzo di tale strumento.  
+L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di 
+recesso e senza dover indicare il motivo dello stesso.  
+Per l’esercizio di tale diritto, l’aderente invia una comunicazione scritta all ’impresa di assicurazione  
+con modalità che garantiscono certezza della data di ricezione. L ’impresa di assicurazione, entro 
+trenta giorni dal ricevimento della comunicazione, procede a rimborsare le somme eventualmente 
+pervenute, al netto delle spese di adesione, ove trattenute.  
+L’impresa di assicurazione rende previamente noti all’aderente il momento in cui l’adesione si intende 
+conclusa, i termini, le modalità e i criteri di determinazione delle somme oggetto di rimborso.  
+9. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione 
+al Fondo. In caso di inadempimento, l ’impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del 
+Codice Civile, di risolvere il contratto comunicando all’aderente la propria volontà di avvalersi della 
+clausola risolutiva espressa, salvo che l’aderente non provveda a effettuare un versame nto entro 
+sessanta giorni dalla ricezione della comunicazione. 
+10. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con 
+conseguente azzeramento della posizione individuale a seguito dell’applicazione delle spese annuali 
+di gestione amministrativa, l’impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del Codice Civile, 
+di risolvere il contratto comunicando la propria volontà di avvalersi della clausola risolutiva espressa, 
+salvo che l’aderente non provveda a effettuare u n versamento entro sessanta giorni dalla ricezione 
+della comunicazione.
+=== pagina 18 ===
+Fondo pensione aperto CNP – Regolamento - 17 di 48 
+ 
+ 
+Art. 22 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. L’impresa di assicurazione mette a disposizione degli aderenti la documentazione inerente al Fondo 
+e tutte le altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali 
+documenti sono disponibili sul sito web dell’impresa di assicurazione, in un’apposita sezione dedicata 
+alle forme pensionistiche complementari e presso la sede legale dell ’impresa di assicurazione. I 
+documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e gratuitamente 
+anche presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni.  
+2. L’impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni 
+individuali maturate e alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per 
+tempo vigente. 
+ 
+ 
+Art. 23 - Comunicazioni e reclami 
+1. L’impresa di assicurazione definisce le modalità con le quali gli aderenti e i beneficiari possono 
+rappresentare le proprie esigenze e presentare reclami in coerenza con le indicazioni fornite dalla 
+COVIP, riportandole nella Nota informativa.
+=== pagina 19 ===
+Fondo pensione aperto CNP – Regolamento - 18 di 48 
+ 
+PARTE VI – NORME FINALI 
+ 
+ 
+ 
+Art. 24 - Modifiche del Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP.  
+2. L’impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse 
+degli aderenti e fatto salvo quanto disposto dall’art. 25. 
+ 
+ 
+Art. 25 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione 
+individuale maturata ad altra forma pensionistica complementare, anche prima che siano decorsi due 
+anni dall’iscrizione. Il diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in 
+modo sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione significativa 
+delle politiche di investimento. 
+2. L’impresa di assicurazione  comunica a ogni aderente interessato l’introduzione delle modifiche 
+almeno centoventi giorni prima della relativa data di efficacia; dal momento della comunicazione 
+l’aderente ha novanta giorni di tempo per manifestare l’eventuale scelta di trasferimento. L’impresa 
+di assicurazione può chiedere alla COVIP termini ridotti di efficacia nei casi in cui ciò sia utile al buon 
+funzionamento del Fondo e non contrasti con l’interesse degli aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese.  
+ 
+ 
+Art. 26 - Cessione del Fondo 
+1. Qualora l ’impresa di assicurazione non voglia o non possa più esercitare l’attività di gestione del 
+Fondo, questo viene ceduto ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione 
+del Fondo a società diverse da quelle del Gruppo al quale appartiene l’impresa di assicurazione viene 
+riconosciuto agli aderenti il diritto al trasferimento della posizione presso altra forma pensionistica 
+complementare ai sensi dell’art. 25 e con le modalità ivi previste. 
+ 
+ 
+Art. 27 - Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua 
+fusione con un altro fondo gestito dalla medesima  impresa di assicurazione, il diritto al trasferimento 
+della posizione presso altra forma pensionistica complementare viene riconosciuto qualora ricorrano 
+le condizioni di cui all’art. 25 e con le modalità ivi previste. 
+ 
+ 
+Art. 28 - Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla 
+normativa tempo per tempo vigente.
+=== pagina 20 ===
+Fondo pensione aperto CNP – Regolamento - 19 di 48 
+ 
+ALLEGATO N. 1 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+ 
+ 
+ 
+Art. 1 - Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione dell ’impresa di assicurazione  che 
+esercita l’attività del Fondo. L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per 
+non più di una volta consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene 
+nominato il nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di controllo 
+dell’impresa di assicurazione. 
+4. Le nomine, gli eventuali rinnovi dell’incarico e le sostituzioni del Responsabile prima della scadenza 
+del termine vengono comunicati alla COVIP entro quindici giorni dalla deliberazione. 
+ 
+ 
+Art. 2 - Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile, sono previsti dalla normativa tempo per 
+tempo vigente. 
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa presso 
+l’impresa di assicurazione o società da questa controllate o che la controllano; 
+b) l’incarico di amministratore dell’impresa di assicurazione.  
+ 
+ 
+Art. 3 - Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incompatibilità 
+comporta la decadenza dall’incarico. 
+ 
+ 
+Art. 4 - Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’atto della 
+nomina per l’intero periodo di durata dell’incarico e viene definita sulla base di una sana politica di 
+remunerazione che tenga conto dei principi previsti dalla normativa tempo per tempo vigente, fermo 
+restando che il compenso del Responsabile non può essere pattuito sotto forma di partecipazione 
+agli utili dell’impresa di assicurazione, o di società controllanti o controllate, né sotto forma di diritti di 
+acquisto o di sottoscrizione di azioni dell ’impresa di assicurazione o di società controllanti o 
+controllate. 
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a 
+carico del Fondo, salva diversa decisione dell’impresa di assicurazione. 
+ 
+ 
+Art. 5 - Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dall ’impresa di 
+assicurazione, riportando direttamente all’organo di amministrazione della stessa relativamente ai 
+risultati dell’attività svolta. 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative dell ’impresa di 
+assicurazione, di volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri 
+di cui all’art. 6. L ’impresa di assicurazione gli garantisce l’accesso a tutte le informazioni necessarie 
+allo scopo.
+=== pagina 21 ===
+Fondo pensione aperto CNP – Regolamento - 20 di 48 
+ 
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo 
+dell’impresa di assicurazione, per tutte le materie inerenti al Fondo. 
+ 
+ 
+Art. 6 - Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e 
+dei beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle 
+buone pratiche e dei principi di corretta amministrazione del Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dall ’impresa di assicurazione, organizza lo 
+svolgimento delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di 
+deleghe di gestione, con riferimento ai controlli su: 
+i. la politica di investimento. In particolare: che la politica di investimento effettivamente 
+seguita sia coerente con quella indicata nel Regolamento e nel Documento sulla 
+politica di investimento e che gli investimenti, ivi compresi quelli effettuati in OI CR, 
+avvengano nell’esclusivo interesse degli aderenti, nel rispetto dei principi di sana e 
+prudente gestione nonché nel rispetto dei criteri e limiti previsti dalla normativa 
+tempo per tempo vigente e dal Regolamento; 
+ii. la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli 
+investimenti effettuati siano correttamente identificati, misurati e controllati e che  
+siano coerenti con gli obiettivi perseguiti dalla politica di investimento;  
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di 
+deleghe di gestione, con riferimento ai controlli su: 
+i. la separatezza amministrativa e contabile delle operazioni poste in essere  per conto 
+del Fondo rispetto al complesso delle altre operazioni svolte dall ’impresa di 
+assicurazione e del patrimonio del Fondo rispetto a quello dell ’impresa di 
+assicurazione e di suoi clienti; 
+ii. la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei beneficiari 
+con riferimento ai controlli su: 
+i. l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli 
+aderenti e dei beneficiari, sia al momento del collocamento del Fondo che durante il 
+rapporto; 
+ii. gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei 
+beneficiari previste dal Regolamento e le eventuali commissioni correlate ai risultati 
+di gestione siano correttamente applicate; 
+iii. la completezza ed esaustività delle informazioni contenute nelle comunicazioni 
+periodiche agli aderenti e ai beneficiari e in quelle inviate in occasione di eventi 
+particolari; 
+iv. l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento 
+riservato ai singoli reclami; 
+v. la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con 
+riferimento ai tempi di liquidazione delle somme richieste a titolo di anticipazione o 
+riscatto e di trasferimento della posizione individuale. 
+3. Il Responsabile controlla le soluzioni adottate dall ’impresa di assicurazione per identificare le 
+situazioni di conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai 
+beneficiari; egli controlla altresì la corretta esecuzione del contratto stipulato per il conferimento 
+dell’incarico di depositario, nonché il rispetto delle convenzioni assicurative/condizioni per 
+l’erogazione delle rendite e, ove presenti, delle co nvenzioni/condizioni relative alle prestazioni 
+accessorie.
+=== pagina 22 ===
+Fondo pensione aperto CNP – Regolamento - 21 di 48 
+ 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva 
+comunicazione all’organo di amministrazione e a quello di controllo dell ’impresa di assicurazione 
+indicando gli interventi correttivi da adottare. 
+ 
+ 
+Art. 7 - Rapporti con la COVIP  
+1. Il Responsabile: 
+a) predispone annualmente una relazione che descrive in maniera analitica l’organizzazione adottata 
+per l’adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale 
+per l’esecuzione dell’incarico, dei risultati dell’attività svolta, delle eventuali irregolarità riscontrate 
+durante l’anno e delle iniziative poste in essere per eliminarle. La relazione viene trasmessa alla 
+COVIP entro il 31 marzo di ciascun anno. Copia della relazione stessa viene trasmessa all’organo di 
+amministrazione e a quello di controllo dell’impresa di assicurazione; 
+b) vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa le 
+segnalazioni, la documentazione e le relazioni richieste dalla normativa tempo per tempo 
+vigente e dalle istruzioni emanate in proposito; 
+c) comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione e a 
+quello di controllo dell’impresa di assicurazione, le irregolarità riscontrate nell’esercizio delle sue 
+funzioni. 
+ 
+ 
+Art. 8 - Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura 
+dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti 
+di cui ha conoscenza in ragione del suo ufficio,  tranne che nei confronti della COVIP e delle autorità 
+giudiziarie. 
+2. Egli risponde verso l ’impresa di assicurazione e verso i singoli aderenti e beneficiari del Fondo dei 
+danni a ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391, 2392, 2393, 2394, 2394 -
+bis e 2395 del Codice Civile.
+=== pagina 23 ===
+Fondo pensione aperto CNP – Regolamento - 22 di 48 
+ 
+ALLEGATO N. 2 
+CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE VITALIZIE 
+ 
+Art. 1 – Determinazione dell’ammontare della rendita vitalizia 
+1. La posizione individuale dell’aderente maturata nel Fondo pensione, dedotta l’eventuale liquidazione 
+in forma di capitale, viene impiegata in un premio unico quale corrispettivo della prestazione di 
+rendita. L’ammontare della prima annualità di rendita annua vitalizia immediata rivalutabile si ottiene 
+dividendo il valore  destinato a costituire la rendita di cui all’Art. 10 “D eterminazione della posizione 
+individuale”, comma 1 del Regolamento del Fondo, per il coefficiente di conversione in vigore al 
+momento della richiesta della prestazione e individuato in base: 
+• all’età dell’aderente all’epoca della conversione, 
+• alla generazione di appartenenza, 
+• alla rateazione prescelta, 
+• e, limitatamente alle adesioni collettive ricadenti nell’ambito di applicazione dell’Art. 30 -bis del 
+Decreto Legislativo 11 Aprile 2006, n° 198, e alle adesioni precedenti alla data del 21/12/2012,  al 
+sesso dell’Assicurato stesso. 
+2. L’Aderente ha la possibilità di chiedere al Fondo che la rendita annua vitalizia immediata rivalutabile 
+venga corrisposta in un’unica soluzione annuale o in rate posticipate semestrali, trimestrali o mensili ; 
+nel corso dell’erogazione della rendita non è possibile modificare la rateazione inizialmente scelta.  
+3. Qualora la rendita venga erogata in rate semestrali, trimestrali o mensili, i coefficienti della tabella 
+riportati nell’allegato 2.1 che segue dovranno essere ridotti rispettivamente del 1%, 1,5% o del 2%.  
+4. Come indicato all’Art. 12 “ Erogazione della rendita ” del Regolamento del Fondo,  l’Aderente, al 
+momento dell’esercizio del suo diritto alla prestazione pensionistica, può richiedere che  l’erogazione 
+delle prestazioni sia effettuata in una delle seguenti forme: 
+• una rendita annua vitalizia immediata rivalutabile; 
+• una rendita vitalizia reversibile: detta rendita è corrisposta all’ aderente finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’ aderente stesso, alla persona da lui 
+designata; 
+• una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 o 10 anni 
+all’aderente o, in caso di suo decesso, alla persona da lui designata. Successivamente, se 
+l’aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia. 
+Indipendentemente dalla forma prescelta, la rendita non è riscattabile. 
+Su richiesta dell’ aderente il Fondo comunica l’importo delle diverse forme di rendita indicate. I 
+documenti inerenti ai coefficienti di conversione relativi a tali forme di rendite sono depositati presso 
+la sede del Fondo. 
+ 
+ 
+Art. 2 – Coefficienti di conversione 
+1. L’ammontare della rendita annua vitalizia iniziale si ottiene moltiplicando il capitale maturato destinato 
+a costituire la rendita per i coefficienti di conversione come indicato all’Art. 1 “ Determinazione 
+dell’ammontare della rendita” di questa sezione. 
+• I coefficienti di conversione sono determinati tenendo conto: 
+• della speranza di vita residua dell’Aderente, in base alle proiezioni demografiche adottate;  
+• di un rendimento atteso annuo (tasso tecnico), implicito nei coefficienti di conversione in rendita, 
+degli investimenti operati dall’impresa; 
+• di un caricamento sul valore capitale della rendita, per le spese sostenute dall’impresa in fase di 
+erogazione della rendita. 
+2. Conseguentemente a tali ipotesi, la rendita è determinata sin dall’inizio con la garanzia di un 
+rendimento minimo pari al tasso tecnico. 
+3. Come indicato all’Art. 12 “ Erogazione della rendita ” del Regolamento del Fondo,  i coefficienti di 
+conversione possono essere periodicamente rideterminati sulla base delle rilevazioni  (osservazioni
+=== pagina 24 ===
+Fondo pensione aperto CNP – Regolamento - 23 di 48 
+ 
+sugli andamenti) demografiche e - relativamente alle condizioni finanziarie – nel rispetto della 
+normativa tempo per tempo vigente in materia di stabilità delle compagnie di assicurazione . Tale 
+rideterminazione dei coefficienti non avrà effetto sulle rendite già in corso di erogazione e sugli  
+aderenti che esercitano il diritto alla prestazione pensionistica nei tre anni successivi. 
+4. Nell’allegato 2.1 che segue vengono riportati i coefficienti di conversione, per 10.000,00 euro di 
+capitale maturato destinato a costituire la rendita. 
+ 
+ 
+Art. 3 – Erogazione della rendita 
+1. La rendita viene erogata in via posticipata; conseguentemente, la prima rata di rendita viene 
+corrisposta al termine del periodo di rateazione prescelto. L’erogazione della rendita cessa con 
+l’ultima scadenza di  rata precedente la morte dell’ aderente. Non è possibile riscattare la rendita in 
+corso di pagamento. 
+2. Il pagamento della rendita viene eseguito mediante bonifico bancario alla scadenza delle rate 
+convenute. L’aderente dovrà dare comunicazione al Fondo della denominazione dell’Istituto 
+Bancario, del c/c  bancario e relative coordinate (codice IBAN) sul quale accreditare gli importi. In 
+caso di variazione del  c/c bancario l’aderente dovrà darne comunicazione al Fondo con tre mesi di 
+anticipo rispetto alla data di corresponsione della rata. 
+3. Il pagamento della rendita da parte dell’impresa deve essere precedut o dalla consegna, da parte  
+dell’aderente, di tutta la documentazione necessaria alla verifica dell’effettiva esistenza  dell’obbligo 
+di pagamento.   
+4. In relazione a tutte le tipologie liquidative, l ’impresa mette a disposizione dell’ aderente/assicurato 
+apposita modulistica predisposta per richiedere le operazioni eseguibili in dipendenza delle 
+prestazioni assicurate. 
+ 
+ 
+Art. 4 – Rivalutazione delle rendite 
+1. L’impresa riconosce una rivalutazione annua delle prestazioni in base alle condizioni che seguono.  
+L’impresa gestisce le attività a copertura degli impegni assunti (Riserve Matematiche) nei confronti  
+degli aderenti al Fondo, attraverso la Gestione interna separata  denominata “Gestione Forme 
+Individuali GEFIN” (di seguito GEFIN) con le modalità e i criteri previsti dal Regolamento della Gestione. 
+Il Regolamento della Gestione è illustrato nell’allegato 2.2 che segue e costituisce parte integrante 
+del Regolamento del Fondo Pensione Aperto CNP. 
+2. Entro il 31 marzo di ciascun anno l’impresa dichiara il rendimento annuo da attribuire agli Aderenti che 
+percepiscono la rendita annua vitalizia immediata rivalutabile.  Tale rendimento annuo si ottiene 
+moltiplicando il rendimento di cui all’art. 5 del Regolamento della Gestione Speciale GEFIN (riportato 
+all’allegato 2.2), per l’aliquota di partecipazione di volta in volta fissata  e comunque non inferiore al 
+90%. 
+In ogni caso il rendimento annuo attribuito non può risultare superiore al rendimento della Gestione  
+interna separata GEFIN diminuito di 1 punto percentuale (1%).  
+La misura annua di rivalutazione si ottiene scontando, per il periodo di un anno al tasso tecnico già  
+conteggiato nel calcolo del coefficiente di conversione, la differenza - se positiva - fra il rendimento 
+finanziario attribuito ed il tasso tecnico stesso. 
+3. Ad ogni scadenza annuale della data di decorrenza della rendita annua vitalizia immediata rivalutabile, 
+la rendita in vigore nell’anno precedente viene rivalutata mediante aumento, a totale carico 
+dell’impresa, della Riserva Matematica costituitasi a tale epoca. Tale aumento viene determinato 
+secondo la misura della rivalutazione fissata, a norma del comma 2., entro il 31 marzo che precede la 
+suddetta scadenza. 
+Da tale scadenza la rendita viene aumentata nella stessa misura e quindi la rendita stessa si considera 
+come determinata sin dall’origine per il nuovo importo assicurato.
+=== pagina 25 ===
+Fondo pensione aperto CNP – Regolamento - 24 di 48 
+ 
+Segue, in particolare, che ciascuna rivalutazione viene applicata alle garanzie in essere, comprensive 
+di quelle derivanti da eventuali precedenti rivalutazioni. 
+Le nuove prestazioni vengono comunicate annualmente all’aderente. 
+ 
+ 
+Art. 5 – Basi demografiche e finanziarie 
+1. I coefficienti di conversione attualmente in vigore e le relative basi demografiche e finanziarie 
+utilizzate nell’elaborazione degli stessi sono riportati nella Sezione 1 (coefficienti indifferenziati) e nella 
+Sezione 2 (coefficienti differenziati in base al sesso) del successivo Allegato 2.1. 
+2. La tariffa di rendita annua vitalizia immediata rivalutabile è depositata presso la sede del Fondo.
+=== pagina 26 ===
+Fondo pensione aperto CNP – Regolamento - 25 di 48 
+ 
+ALLEGATO N. 2.1 
+ALL’ALLEGATO 2 AL REGOLAMENTO 
+SEZIONE 1 
+ 
+Di seguito vengono riportate le Tabelle dei coefficienti indifferenziati di conversione in rendita pagabile in 
+rate annuali posticipate espressi per euro 10.000,00 di capitale accumulato al momento della richiesta 
+della prestazione pensionistica. 
+ 
+Si precisa che qualora la rendita venga erogata in rate semestrali, trimestrali o mensili, i coefficienti delle 
+tabelle dovranno essere ridotti rispettivamente del 1%, del 1,5% o del 2%.  
+ 
+TABELLE DEI COEFFICIENTI INDIFFERENZIATI DI CONVERSIONE RELATIVI ALLE ADESIONI 
+SUCCESSIVE AL 31 MAGGIO 2017 NON RICADENTI NELL’AMBITO DI APPLICAZIONE DELL’ART. 30 -BIS 
+DEL DECRETO LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità tra uomo e donna, 
+a norma dell’articolo 6 della Legge 28 novembre 2005, n. 246). 
+Età alla conversione (*) Rendita vitalizia Rendita certa 5 anni Rendita certa 10 anni 
+ 
+45 251,95 251,87 251,61  
+46 257,02 256,92 256,64  
+47 262,31 262,20 261,88  
+48 267,83 267,72 267,36  
+49 273,61 273,48 273,08  
+50 279,67 279,52 279,07  
+51 286,02 285,85 285,34  
+52 292,67 292,49 291,91  
+53 299,66 299,45 298,81  
+54 307,00 306,77 306,04  
+55 314,73 314,46 313,63  
+56 322,87 322,57 321,62  
+57 331,46 331,12 330,04  
+58 340,53 340,15 338,91  
+59 350,14 349,70 348,28  
+60 360,33 359,82 358,18  
+61 371,14 370,55 368,64  
+62 382,63 381,94 379,72  
+63 394,84 394,03 391,46  
+64 407,84 406,90 403,89  
+65 421,70 420,60 417,07  
+66 436,52 435,25 431,07  
+67 452,42 450,92 445,96  
+68 469,51 467,74 461,80  
+69 487,93 485,81 478,64  
+70 507,80 505,25 496,54  
+71 529,29 526,18 515,54  
+72 552,57 548,76 535,68  
+73 577,82 573,12 556,96  
+74 605,25 599,41 579,38
+=== pagina 27 ===
+Fondo pensione aperto CNP – Regolamento - 26 di 48 
+ 
+75 635,10 627,81 602,93  
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell ’anno di nascita dell’assicurato, in base alla 
+seguente tabella: 
+ 
+Anno di nascita Modifiche dell'età 
+da a   
+fino al 1907 + 7 anni 
+1908 1917 + 6 anni 
+1918 1922 + 5 anni 
+1923 1927 + 4 anni 
+1928 1939 + 3 anni 
+1940 1948 + 2 anni 
+1949 1957 + 1 anni 
+1958 1966 - 
+1967 1977 - 1 anni 
+1978 1988 - 2 anni 
+1989 2000 - 3 anni 
+2001 2013 - 4 anni 
+2014 2020 - 5 anni 
+dal 2021 - 6 anni 
+ 
+Ipotesi demografica: 
+- Tavola ANIA A62D (Impegni differiti) ponderata 40% maschi e 60% femmine 
+Ipotesi finanziaria: 
+- Tasso tecnico 0,50% composto.
+=== pagina 28 ===
+Fondo pensione aperto CNP – Regolamento - 27 di 48 
+ 
+TABELLE DEI COEFFICIENTI INDIFFERENZIATI DI CONVERSIONE RELATIVI ALLE ADESIONI COMPRESE 
+TRA IL 21 DICEMBRE 2012 E IL 31 MAGGIO 2017 NON RICADENTI NELL’AMBITO DI APPLICAZIONE 
+DELL’ART. 30-BIS DEL DECRETO LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità 
+tra uomo e donna, a norma dell’articolo 6 della Legge 28 novembre 2005, n. 246). 
+ 
+Età alla conversione (*) Rendita vitalizia Rendita certa 5 anni Rendita certa 10 anni 
+45 309,96 309,86 309,58 
+46 314,91 314,81 314,49 
+47 320,10 319,98 319,63 
+48 325,52 325,39 325,00 
+49 331,21 331,07 330,63 
+50 337,18 337,01 336,53 
+51 343,44 343,26 342,71 
+52 350,02 349,81 349,20 
+53 356,94 356,71 356,02 
+54 364,22 363,96 363,18 
+55 371,89 371,60 370,70 
+56 379,99 379,66 378,63 
+57 388,55 388,18 386,98 
+58 397,61 397,18 395,78 
+59 407,21 406,72 405,08 
+60 417,40 416,82 414,89 
+61 428,22 427,53 425,26 
+62 439,70 438,88 436,19 
+63 451,89 450,92 447,74 
+64 464,85 463,70 459,95 
+65 478,67 477,29 472,87 
+66 493,36 491,73 486,52 
+67 509,07 507,13 500,98 
+68 525,89 523,58 516,30 
+69 543,92 541,15 532,51 
+70 563,26 559,96 549,65 
+71 584,02 580,10 567,73 
+72 606,38 601,72 586,79 
+73 630,59 625,00 606,89 
+74 656,90 650,11 628,08 
+75 685,54 677,17 650,31 
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell ’anno di nascita dell’assicurato, in base alla 
+seguente tabella:
+=== pagina 29 ===
+Fondo pensione aperto CNP – Regolamento - 28 di 48 
+ 
+Anno di nascita Modifiche dell'età 
+da a   
+fino al 1926 + 3 anni 
+1927 1939 + 2 anni 
+1940 1948 + 1 anni 
+1949 1960 - 
+1961 1970 - 1 anni 
+1971 2002 - 2 anni 
+ 
+Ipotesi demografica: 
+- Tavole di sopravvivenza IPS55U Impegni differiti, aggravata del 22% e ponderata 40% maschi e 60% 
+femmine 
+Ipotesi finanziaria: 
+- Tasso tecnico di interesse composto dell’1,50%
+=== pagina 30 ===
+Fondo pensione aperto CNP – Regolamento - 29 di 48 
+ 
+SEZIONE 2 
+ 
+Di seguito vengono riportate le Tabelle dei coefficienti di conversione in rendita pagabile in rate annuali 
+posticipate espressi per euro 10.000,00 di capitale accumulato al momento della richiesta della 
+prestazione pensionistica differenziati sulla base del sesso dell’aderente. 
+ 
+Si precisa che qualora la rendita venga erogata in rate semestrali, trimestrali o mensili, i coefficienti delle 
+tabelle dovranno essere ridotti rispettivamente del 1%, del 1,5% o del 2%.  
+ 
+TABELLE DEI COEFFICIENTI DI CONVERSIONE RELATIVI ALLE ADESIONI COLLETTIVE SUCCESSIVE AL 
+31 MAGGIO 2017 RICADENTI NELL’AMBITO DI APPLICAZIONE DELL’ART. 30 -BIS DEL DECRETO 
+LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità tra uomo e donna, a norma 
+dell’articolo 6 della Legge 28 novembre 2005, n. 246). 
+ 
+Età alla 
+conversione 
+(*) 
+Maschi Femmine 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 anni 
+Rendita 
+certa 10 
+anni 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 
+anni 
+Rendita 
+certa 10 
+anni 
+45 263,44 263,33 263,00 243,65 243,58 243,37 
+46 269,01 268,89 268,52 248,37 248,29 248,06 
+47 274,83 274,70 274,29 253,29 253,20 252,94 
+48 280,94 280,79 280,33 258,42 258,32 258,03 
+49 287,33 287,17 286,65 263,77 263,66 263,33 
+50 294,06 293,87 293,28 269,36 269,24 268,88 
+51 301,13 300,92 300,24 275,22 275,08 274,67 
+52 308,56 308,32 307,55 281,34 281,19 280,73 
+53 316,38 316,11 315,23 287,76 287,59 287,08 
+54 324,62 324,30 323,29 294,50 294,31 293,74 
+55 333,30 332,94 331,77 301,57 301,36 300,73 
+56 342,47 342,06 340,70 309,02 308,78 308,08 
+57 352,16 351,69 350,11 316,86 316,60 315,81 
+58 362,43 361,88 360,03 325,14 324,85 323,96 
+59 373,33 372,69 370,52 333,89 333,56 332,56 
+60 384,91 384,15 381,62 343,15 342,78 341,64 
+61 397,23 396,32 393,35 352,96 352,55 351,24 
+62 410,32 409,23 405,77 363,38 362,91 361,40 
+63 424,23 422,95 418,89 374,46 373,92 372,18 
+64 439,04 437,53 432,77 386,26 385,63 383,61 
+65 454,83 453,07 447,46 398,85 398,12 395,75 
+66 471,73 469,68 463,04 412,30 411,46 408,66 
+67 489,92 487,51 479,59 426,70 425,71 422,39 
+68 509,53 506,66 497,16 442,15 440,98 437,01 
+69 530,73 527,29 515,78 458,76 457,36 452,59 
+70 553,68 549,51 535,50 476,65 474,96 469,19 
+71 578,58 573,47 556,31 495,95 493,91 486,88 
+72 605,62 599,32 578,21 516,82 514,34 505,69 
+73 635,00 627,17 601,17 539,45 536,40 525,69 
+74 666,94 657,17 625,13 564,01 560,26 546,89 
+75 701,74 689,46 650,01 590,75 586,08 569,31
+=== pagina 31 ===
+Fondo pensione aperto CNP – Regolamento - 30 di 48 
+ 
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell’anno di nascita dell’assicurato, in base alla seguente 
+tabella: 
+ 
+ 
+Maschi Femmine 
+Anno di nascita Modifiche dell'età Anno di nascita Modifiche dell'età 
+da a   da a   
+fino al 1907 + 7 anni fino al 1908 + 7 anni 
+1908 1917 + 6 anni 1909 1917 + 6 anni 
+1918 1919 + 5 anni 1918 1922 + 5 anni 
+1920 1925 + 4 anni 1923 1929 + 4 anni 
+1926 1938 + 3 anni 1930 1940 + 3 anni 
+1939 1947 + 2 anni 1941 1949 + 2 anni 
+1948 1957 + 1 anni 1950 1957 + 1 anni 
+1958 1966 - 1958 1966 - 
+1967 1978 - 1 anni 1967 1976 - 1 anni 
+1979 1992 - 2 anni 1977 1986 - 2 anni 
+1993 2006 - 3 anni 1987 1996 - 3 anni 
+2007 2020 - 4 anni 1997 2007 - 4 anni 
+dal 2021 - 5 anni 2008 2018 - 5anni 
+   2019 2020 - 6anni 
+   dal 2021 - 7 anni 
+ 
+ 
+Ipotesi demografica: 
+- Tavola ANIA A62D (Impegni differiti) distinta per sesso 
+Ipotesi finanziaria: 
+- Tasso tecnico 0,50% composto.
+=== pagina 32 ===
+Fondo pensione aperto CNP – Regolamento - 31 di 48 
+ 
+TABELLE DEI COEFFICIENTI DI CONVERSIONE RELATIVI ALLE ADESIONI COLLETTIVE  FINO AL 31 
+MAGGIO 2017 RICADENTI NELL’AMBITO DI APPLICAZIONE DELL’ART. 30 -BIS DEL DECRETO 
+LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità tra uomo e donna, a norma 
+dell’articolo 6 della Legge 28 novembre 2005, n. 246) E ALLE ADESIONI PRECEDENTI ALLA DATA DEL 
+21 DICEMBRE 2012 
+ 
+Età alla 
+conversione 
+(*) 
+Maschi Femmine 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 
+anni 
+Rendita 
+certa 10 
+anni 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 anni 
+Rendita 
+certa 10 
+anni 
+45 364,64 364,45 363,91 343,90 343,76 343,37 
+46 370,56 370,36 369,75 348,80 348,65 348,22 
+47 376,79 376,57 375,89 353,93 353,76 353,29 
+48 383,35 383,09 382,33 359,30 359,12 358,60 
+49 390,25 389,96 389,09 364,93 364,73 364,16 
+50 397,52 397,20 396,21 370,85 370,62 369,99 
+51 405,20 404,83 403,70 377,06 376,81 376,12 
+52 413,30 412,88 411,59 383,60 383,32 382,56 
+53 421,86 421,38 419,89 390,48 390,17 389,33 
+54 430,91 430,36 428,63 397,72 397,39 396,46 
+55 440,48 439,85 437,83 405,37 405,00 403,97 
+56 450,62 449,89 447,54 413,45 413,05 411,89 
+57 461,38 460,53 457,77 422,01 421,57 420,25 
+58 472,82 471,83 468,57 431,09 430,60 429,10 
+59 485,00 483,82 479,98 440,74 440,18 438,47 
+60 497,97 496,57 492,02 451,01 450,37 448,39 
+61 511,78 510,10 504,72 461,95 461,21 458,91 
+62 526,46 524,45 518,10 473,60 472,74 470,06 
+63 542,08 539,68 532,19 486,01 485,01 481,88 
+64 558,74 555,88 547,05 499,26 498,09 494,42 
+65 576,51 573,11 562,72 513,45 512,07 507,76 
+66 595,52 591,47 579,25 528,58 526,97 521,92 
+67 615,87 611,04 596,69 544,86 542,95 537,00 
+68 637,72 631,96 615,05 562,37 560,09 553,05 
+69 661,21 654,34 634,35 581,23 578,52 570,13 
+70 686,49 678,32 654,57 601,59 598,36 588,29 
+71 713,73 704,02 675,69 623,57 619,72 607,54 
+72 743,19 731,64 697,71 647,36 642,78 627,94 
+73 775,24 761,37 720,61 673,30 667,77 649,56 
+74 810,26 793,41 744,40 701,71 694,92 672,44 
+75 848,69 827,90 768,97 732,83 724,37 696,52 
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell ’anno di nascita dell’assicurato, in base alla 
+seguente tabella:
+=== pagina 33 ===
+Fondo pensione aperto CNP – Regolamento - 32 di 48 
+ 
+Maschi Femmine 
+Anno di nascita Modifiche dell'età Anno di nascita 
+Modifiche 
+dell'età 
+  
+da a  da a   
+fino al 1925 + 3 anni fino al 1927 + 3 anni 
+1926 1938 + 2 anni 1928 1940 + 2 anni 
+1939 1947 + 1 anni 1941 1949 + 1 anni 
+1948 1960 - 1950 1962 - 
+1961 1970 - 1 anni 1963 1972 - 1 anni 
+1971 2002 - 2 anni 1973 2002 - 2 anni 
+Ipotesi demografica: 
+- Tavole di sopravvivenza IPS55U distinta per sesso 
+Ipotesi finanziaria: 
+- Tasso tecnico di interesse composto del 2,0%.
+=== pagina 34 ===
+Fondo pensione aperto CNP – Regolamento - 33 di 48 
+ 
+ALLEGATO N. 2.2 
+ALL’ALLEGATO 2 AL REGOLAMENTO 
+ 
+REGOLAMENTO DELLA GESTIONE INTERNA SEPARATA “GESTIONE FORME INDIVIDUALI – GEFIN” 
+ 
+ 
+ART.1 ISTITUZIONE E DENOMINAZIONE DELLA GESTIONE SEPARATA “GESTIONE FORME 
+INDIVIDUALI – GEFIN” 
+L’Impresa di assicurazione ha istituito e gestisce, secondo le modalità previste dal presente Regolamento, 
+un portafoglio di investimenti gestito separatamente dagli altri attivi dalla stessa detenuti , denominato 
+GESTIONE FORME INDIVIDUALI - GEFIN, di seguito GEFIN, in funzione del cui rendimento si rivalutano le 
+prestazioni dei contratti ad esso collegati. 
+ 
+Il valore delle attività della Gestione separata non può essere inferiore all’importo delle riserve 
+matematiche costituite dall’Impresa di Assicurazione per i contratti a prestazioni rivalutabili in base ai 
+rendimenti realizzati dalla Gestione stessa. 
+ 
+L’Impresa di assicurazione, qualora ne ravvisasse l’opportunità in un’ottica di ricerca di maggiore efficienza 
+anche in termini di costi di gestione, senza addurre danno alcuno al Contraente, potrà procedere alla 
+fusione della gestione separata con altre Gestioni Separate aventi analoghe caratteristiche. 
+Qualora l’Impresa di assicurazione intenda dar corso all’operazione di fusione dovrà inviare una 
+comunicazione al Contraente. Tale operazione è comunque soggetta alla preventiva autorizzazione 
+dell’IVASS. 
+La valuta di denominazione della Gestione Separata è l’Euro. 
+Il presente Regolamento costituisce parte integrante delle Condizioni di Assicurazione.  
+ 
+ART.2  PARTECIPANTI ALLA GESTIONE SEPARATA 
+Nella Gestione GEFIN confluiranno le attività relative ai contratti di assicurazione sulla vita che prevedono 
+la rivalutazione annua delle prestazioni. 
+ 
+Alla Gestione separata possono partecipare sia le persone fisiche che le persone giuridiche, mediante la 
+sottoscrizione di un contratto a prestazioni rivalutabili. 
+ 
+ART.3  OBIETTIVI E POLITICHE DI INVESTIMENTO 
+La Gestione GEFIN ha come obiettivo l’ottenimento di un rendimento lordo coerente con l’andamento dei 
+tassi di interesse obbligazionari area Euro, in un’ottica di medio periodo nel rispetto dell’equilibrio tecnico 
+tra remunerazione minima garantita agli as sicurati e redditività degli attivi, tenendo in considerazione la 
+durata media delle passività e degli investimenti della gestione. 
+ 
+Il portafoglio della Gestione Separata può essere investito principalmente nelle seguenti attività con i limiti 
+quantitativi di cui alla Tabella riportata nell’Articolo 4 ed i limiti qualitativi di seguito indicati:  
+- Titoli obbligazionari di emittenti governativi. 
+- Altri titoli obbligazionari diversi dai titoli di stato, quali a titolo esemplificativo le obbligazioni societarie, 
+cartolarizzazioni e strutturati di credito, depositi bancari vincolati e certificati di deposito.  
+ 
+Gli investimenti in titoli obbligazionari governativi e corporate non Investment Grade sono ammessi in 
+misura contenuta. 
+- Titoli azionari negoziati nei principali mercati internazionali. L’acquisto di titoli azionari illiquidi è 
+ammesso in misura residuale.
+=== pagina 35 ===
+Fondo pensione aperto CNP – Regolamento - 34 di 48 
+ 
+- Investimenti in altri strumenti finanziari: 
+i) Fondi Alternativi: si intendono gli investimenti in OICR non armonizzati, fondi mobiliari chiusi non 
+negoziati in un mercato regolamentato, fondi riservati e speculativi. 
+ii) Fondi immobiliari e Immobili: per investimenti immobiliari si intendono le partecipazioni in società 
+immobiliari, quote di OICR immobiliari o immobili. 
+Nella Gestione potranno essere utilizzati strumenti finanziari derivati sia con finalità di copertura del rischio 
+su titoli in portafoglio, sia al fine di pervenire ad una gestione efficace del portafoglio stesso nel rispetto 
+comunque delle disposizioni normative vigenti in materia. L’utilizzo di strumenti derivati non deve 
+comportare la violazione di eventuali limiti di investimento previsti per gli attivi sottostanti.  
+ 
+Le attività della gestione separata sono prevalentemente denominate in euro oppure, se espresse in 
+divisa diversa dall’Euro, deve essere effettuata la copertura del rischio di cambio.  
+Sono tuttavia ammessi investimenti in strumenti finanziari denominati in divisa diversa dall’euro senza la 
+copertura del rischio di cambio per una Quota residuale del portafoglio. 
+ 
+Non è esclusa la possibilità di investire in parti di OICR o in altri strumenti finanziari emessi da controparti 
+di cui all’art. 5 del Regolamento IVASS n. 25, in misura non superiore al 10% dell’ammontare delle riserve 
+tecniche della gestione separata alla chiusura dell’esercizio precedente. 
+ 
+Tali investimenti sono comunque effettuati alle stesse condizioni di mercato applicate da controparti terze 
+sugli stessi mercati. 
+ 
+ART.4  CRITERI DI INVESTIMENTO NELLA GESTIONE SEPARATA 
+L’Impresa di assicurazione investe le attività della Gestione Separata secondo quanto indicato nella 
+seguente tabella: 
+ 
+Limiti di investimento Limiti 
+Obbligazionario governativo (*) 
+Titoli di Stato e Supranational area EU e 
+altri titoli di Stato rating ≥ AA- 
+ 
+Altri titoli di stato 
+≥ 30% 
+ 
+ 
+≥ 0% 
+≤ 100% 
+ 
+ 
+≤ 40% 
+Obbligazionario Corporate (*) Tioli Corporate ≥ 0% ≤ 60% 
+Azionario (*) Azionario ≥ 0% ≤ 10% 
+Altri Investimenti Investimenti alternativi Immobiliari ≥ 0% 
+≥ 0% 
+≤ 6% 
+≤ 6% 
+Derivati e strutturati Strumenti derivati per gestione efficace ≥ 0% ≤ 10% 
+Liquidità Disponibilità di cassa ≥ 0% ≤ 10% 
+(*) L’investimento indicato si realizza attraverso investimenti diretti o attraverso l’acquisto di OICR 
+armonizzati. 
+ 
+ART.5 PERIODO DI OSSERVAZIONE E TASSO MEDIO DI RENDIMENTO 
+Il periodo di osservazione per la determinazione del tasso medio di Rendimento della Gestione separata 
+è annuale. 
+ 
+Il tasso medio di Rendimento della Gestione separata, relativo al periodo di osservazione di cui sopra, è 
+calcolato con periodicità mensile ed è uguale al rapporto tra il risultato finanziario della gestione e la 
+giacenza media delle attività della gestione stessa. 
+ 
+Il risultato finanziario della Gestione è costituito dai proventi finanziari della gestione, comprensivi degli 
+scarti di emissione e di negoziazione, nonché dagli utili e dalle perdite effettivamente realizzate nel
+=== pagina 36 ===
+Fondo pensione aperto CNP – Regolamento - 35 di 48 
+ 
+periodo di osservazione, al netto delle spese sostenute per l’acquisto e la vendita delle attività della 
+Gestione e per l’attività di verifica contabile ed al lordo delle ritenute di acconto fiscale.  
+ 
+Gli utili realizzati comprendono anche quelli eventualmente derivanti dalla retrocessione di commissioni 
+o di altri proventi ricevuti dall’Impresa di assicurazione in virtù di accordi con soggetti terzi e riconducibili 
+al patrimonio della Gestione separata. 
+ 
+Gli utili e le perdite da realizzo sono determinati con riferimento al valore di iscrizione delle corrispondenti 
+attività nel libro mastro della Gestione e cioè al prezzo di acquisto per le attività di nuova acquisizione.  
+Il trasferimento di attività dal patrimonio dell’Impresa di assicurazione alla gestione separata avviene al 
+valore di mercato rilevato alla data di immissione delle attività nella gestione separata.  
+ 
+La giacenza media delle attività della Gestione Separata è pari alla somma delle giacenze medie nel 
+periodo di osservazione dei depositi in numerario, degli investimenti e di ogni altra attività della Gestione, 
+ed è determinata in base al valore di iscrizione nel libro mastro della Gestione. 
+ 
+ART.6 SPESE GRAVANTI SULLA GESTIONE SEPARATA 
+Le spese a carico della Gestione Separata sono rappresentate unicamente da:  
+a) le spese effettivamente sostenute per l’acquisto e la vendita delle attività della Gestione Separata;  
+b) i compensi dovuti alla Società di Revisione di cui all’Art. 7 “REVISIONE CONTABILE”.  
+Non sono consentite altre forme di prelievo, in qualsiasi modo effettuate.  
+ 
+ART.7 REVISIONE CONTABILE 
+La Gestione separata GEFIN è sottoposta alla verifica da parte di una Società di Revisione iscritta 
+nell’apposito registro previsto dalla normativa vigente. 
+In particolare, la Società di Revisione dichiara, con apposita relazione, di ave verificato:  
+- la consistenza delle attività, la conformità delle stesse e dei loro criteri di valutazione alla normativa 
+vigente ed al presente regolamento; 
+- la correttezza del risultato finanziario e del conseguente tasso medio di Rendimento relativo al 
+periodo di osservazione; 
+- l’adeguatezza delle attività assegnate alla Gestione Separata alla fine del periodo di osservazione 
+rispetto alle riserve matematiche dell’Impresa di assicurazione; 
+- la conformità del rendiconto e del prospetto della composizione della Gestione Separata alla 
+normativa vigente. 
+ 
+ART.8 MODIFICHE DEL REGOLAMENTO DELLA GESTIONE SEPARATA 
+Il presente Regolamento della Gestione separata può subire modifiche derivanti dall’adeguamento dello 
+stesso alla normativa primaria e secondaria vigente oppure a fronte di mutati criteri gestionali, con 
+l’esclusione di quelli meno favorevoli per il Contraente. 
+Come indicato al precedente Art. 1 del presente Regolamento, è inoltre ammessa la possibilità di fusione 
+della Gestione separata con altra Gestione separata dell’Impresa di assicurazione avente caratteristiche 
+del tutto similari. 
+In tal caso, l’Impresa di Assicurazione provvederà ad inviare una comunicazione al Contraente contenente 
+le motivazioni che hanno determinato la scelta di fusione e le relative conseguenze anche in termini 
+economici, la data di effetto della fusione, le ca ratteristiche e la composizione delle Gestioni separate 
+interessate dall’operazione, l’indicazione delle commissioni gravanti sulla nuova Gestione separata, i 
+criteri di liquidazione degli attivi della Gestione separata oggetto di fusione e di reinvestimento nella nuova 
+Gestione Separata nonché le modalità di adesione o meno all’operazione di  
+fusione. 
+L’Impresa di assicurazione provvederà a trasferire, senza alcun onere o spese per il Contraente, tutte le 
+attività finanziarie relative alla Gestione Separata originariamente collegata al Contratto presso la Gestione
+=== pagina 37 ===
+Fondo pensione aperto CNP – Regolamento - 36 di 48 
+ 
+derivante dalla fusione. Indipendentemente dalle modalità di fusione, tale operazione non potrà 
+comportare alcun aggravio economico per il Contraente. Tale operazione è comunque soggetta alla 
+preventiva autorizzazione dell’IVASS.
+=== pagina 38 ===
+Fondo pensione aperto CNP – Regolamento - 37 di 48 
+ 
+ALLEGATO N. 2.1 
+ALL’ALLEGATO 2 AL REGOLAMENTO 
+SEZIONE 1 
+ 
+Di seguito vengono riportate le Tabelle dei coefficienti indifferenziati di conversione in rendita pagabile in 
+rate annuali posticipate espressi per euro 10.000,00 di capitale accumulato al momento della richiesta 
+della prestazione pensionistica. 
+ 
+Si precisa che qualora la rendita venga erogata in rate semestrali, trimestrali o mensili, i coefficienti delle 
+tabelle dovranno essere ridotti rispettivamente del 1%, del 1,5% o del 2%.  
+ 
+TABELLE DEI COEFFICIENTI INDIFFERENZIATI DI CONVERSIONE RELATIVI ALLE ADESIONI 
+SUCCESSIVE AL 31 MAGGIO 2017 NON RICADENTI NELL’AMBITO DI APPLICAZIONE DELL’ART. 30 -BIS 
+DEL DECRETO LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità tra uomo e donna, 
+a norma dell’articolo 6 della Legge 28 novembre 2005, n. 246). 
+Età alla conversione (*) Rendita vitalizia Rendita certa 5 anni Rendita certa 10 anni 
+ 
+45 251,95 251,87 251,61  
+46 257,02 256,92 256,64  
+47 262,31 262,20 261,88  
+48 267,83 267,72 267,36  
+49 273,61 273,48 273,08  
+50 279,67 279,52 279,07  
+51 286,02 285,85 285,34  
+52 292,67 292,49 291,91  
+53 299,66 299,45 298,81  
+54 307,00 306,77 306,04  
+55 314,73 314,46 313,63  
+56 322,87 322,57 321,62  
+57 331,46 331,12 330,04  
+58 340,53 340,15 338,91  
+59 350,14 349,70 348,28  
+60 360,33 359,82 358,18  
+61 371,14 370,55 368,64  
+62 382,63 381,94 379,72  
+63 394,84 394,03 391,46  
+64 407,84 406,90 403,89  
+65 421,70 420,60 417,07  
+66 436,52 435,25 431,07  
+67 452,42 450,92 445,96  
+68 469,51 467,74 461,80  
+69 487,93 485,81 478,64  
+70 507,80 505,25 496,54  
+71 529,29 526,18 515,54  
+72 552,57 548,76 535,68  
+73 577,82 573,12 556,96  
+74 605,25 599,41 579,38  
+75 635,10 627,81 602,93
+=== pagina 39 ===
+Fondo pensione aperto CNP – Regolamento - 38 di 48 
+ 
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell ’anno di nascita dell’assicurato, in base alla 
+seguente tabella: 
+ 
+Anno di nascita Modifiche dell'età 
+da a   
+fino al 1907 + 7 anni 
+1908 1917 + 6 anni 
+1918 1922 + 5 anni 
+1923 1927 + 4 anni 
+1928 1939 + 3 anni 
+1940 1948 + 2 anni 
+1949 1957 + 1 anni 
+1958 1966 - 
+1967 1977 - 1 anni 
+1978 1988 - 2 anni 
+1989 2000 - 3 anni 
+2001 2013 - 4 anni 
+2014 2020 - 5 anni 
+dal 2021 - 6 anni 
+ 
+Ipotesi demografica: 
+- Tavola ANIA A62D (Impegni differiti) ponderata 40% maschi e 60% femmine 
+Ipotesi finanziaria: 
+- Tasso tecnico 0,50% composto.
+=== pagina 40 ===
+Fondo pensione aperto CNP – Regolamento - 39 di 48 
+ 
+TABELLE DEI COEFFICIENTI INDIFFERENZIATI DI CONVERSIONE RELATIVI ALLE ADESIONI COMPRESE 
+TRA IL 21 DICEMBRE 2012 E IL 31 MAGGIO 2017 NON RICADENTI NELL’AMBITO DI APPLICAZIONE 
+DELL’ART. 30-BIS DEL DECRETO LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità 
+tra uomo e donna, a norma dell’articolo 6 della Legge 28 novembre 2005, n. 246). 
+ 
+Età alla conversione (*) Rendita vitalizia Rendita certa 5 anni Rendita certa 10 anni 
+45 309,96 309,86 309,58 
+46 314,91 314,81 314,49 
+47 320,10 319,98 319,63 
+48 325,52 325,39 325,00 
+49 331,21 331,07 330,63 
+50 337,18 337,01 336,53 
+51 343,44 343,26 342,71 
+52 350,02 349,81 349,20 
+53 356,94 356,71 356,02 
+54 364,22 363,96 363,18 
+55 371,89 371,60 370,70 
+56 379,99 379,66 378,63 
+57 388,55 388,18 386,98 
+58 397,61 397,18 395,78 
+59 407,21 406,72 405,08 
+60 417,40 416,82 414,89 
+61 428,22 427,53 425,26 
+62 439,70 438,88 436,19 
+63 451,89 450,92 447,74 
+64 464,85 463,70 459,95 
+65 478,67 477,29 472,87 
+66 493,36 491,73 486,52 
+67 509,07 507,13 500,98 
+68 525,89 523,58 516,30 
+69 543,92 541,15 532,51 
+70 563,26 559,96 549,65 
+71 584,02 580,10 567,73 
+72 606,38 601,72 586,79 
+73 630,59 625,00 606,89 
+74 656,90 650,11 628,08 
+75 685,54 677,17 650,31 
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell ’anno di nascita dell’assicurato, in base alla 
+seguente tabella:
+=== pagina 41 ===
+Fondo pensione aperto CNP – Regolamento - 40 di 48 
+ 
+Anno di nascita Modifiche dell'età 
+da a   
+fino al 1926 + 3 anni 
+1927 1939 + 2 anni 
+1940 1948 + 1 anni 
+1949 1960 - 
+1961 1970 - 1 anni 
+1971 2002 - 2 anni 
+ 
+Ipotesi demografica: 
+- Tavole di sopravvivenza IPS55U Impegni differiti, aggravata del 22% e ponderata 40% maschi e 60% 
+femmine 
+Ipotesi finanziaria: 
+- Tasso tecnico di interesse composto dell’1,50%
+=== pagina 42 ===
+Fondo pensione aperto CNP – Regolamento - 41 di 48 
+ 
+SEZIONE 2 
+ 
+Di seguito vengono riportate le Tabelle dei coefficienti di conversione in rendita pagabile in rate annuali 
+posticipate espressi per euro 10.000,00 di capitale accumulato al momento della richiesta della 
+prestazione pensionistica differenziati sulla base del sesso dell’aderente. 
+ 
+Si precisa che qualora la rendita venga erogata in rate semestrali, trimestrali o mensili, i coefficienti delle 
+tabelle dovranno essere ridotti rispettivamente del 1%, del 1,5% o del 2%.  
+ 
+TABELLE DEI COEFFICIENTI DI CONVERSIONE RELATIVI ALLE ADESIONI COLLETTIVE SUCCESSIVE AL 
+31 MAGGIO 2017 RICADENTI NELL’AMBITO DI APPLICAZIONE DELL’ART. 30 -BIS DEL DECRETO 
+LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità tra uomo e donna, a norma 
+dell’articolo 6 della Legge 28 novembre 2005, n. 246). 
+ 
+Età alla 
+conversione 
+(*) 
+Maschi Femmine 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 anni 
+Rendita 
+certa 10 
+anni 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 
+anni 
+Rendita 
+certa 10 
+anni 
+45 263,44 263,33 263,00 243,65 243,58 243,37 
+46 269,01 268,89 268,52 248,37 248,29 248,06 
+47 274,83 274,70 274,29 253,29 253,20 252,94 
+48 280,94 280,79 280,33 258,42 258,32 258,03 
+49 287,33 287,17 286,65 263,77 263,66 263,33 
+50 294,06 293,87 293,28 269,36 269,24 268,88 
+51 301,13 300,92 300,24 275,22 275,08 274,67 
+52 308,56 308,32 307,55 281,34 281,19 280,73 
+53 316,38 316,11 315,23 287,76 287,59 287,08 
+54 324,62 324,30 323,29 294,50 294,31 293,74 
+55 333,30 332,94 331,77 301,57 301,36 300,73 
+56 342,47 342,06 340,70 309,02 308,78 308,08 
+57 352,16 351,69 350,11 316,86 316,60 315,81 
+58 362,43 361,88 360,03 325,14 324,85 323,96 
+59 373,33 372,69 370,52 333,89 333,56 332,56 
+60 384,91 384,15 381,62 343,15 342,78 341,64 
+61 397,23 396,32 393,35 352,96 352,55 351,24 
+62 410,32 409,23 405,77 363,38 362,91 361,40 
+63 424,23 422,95 418,89 374,46 373,92 372,18 
+64 439,04 437,53 432,77 386,26 385,63 383,61 
+65 454,83 453,07 447,46 398,85 398,12 395,75 
+66 471,73 469,68 463,04 412,30 411,46 408,66 
+67 489,92 487,51 479,59 426,70 425,71 422,39 
+68 509,53 506,66 497,16 442,15 440,98 437,01 
+69 530,73 527,29 515,78 458,76 457,36 452,59 
+70 553,68 549,51 535,50 476,65 474,96 469,19 
+71 578,58 573,47 556,31 495,95 493,91 486,88 
+72 605,62 599,32 578,21 516,82 514,34 505,69 
+73 635,00 627,17 601,17 539,45 536,40 525,69 
+74 666,94 657,17 625,13 564,01 560,26 546,89 
+75 701,74 689,46 650,01 590,75 586,08 569,31
+=== pagina 43 ===
+Fondo pensione aperto CNP – Regolamento - 42 di 48 
+ 
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell’anno di nascita dell’assicurato, in base alla seguente 
+tabella: 
+ 
+ 
+Maschi Femmine 
+Anno di nascita Modifiche dell'età Anno di nascita Modifiche dell'età 
+da a   da a   
+fino al 1907 + 7 anni fino al 1908 + 7 anni 
+1908 1917 + 6 anni 1909 1917 + 6 anni 
+1918 1919 + 5 anni 1918 1922 + 5 anni 
+1920 1925 + 4 anni 1923 1929 + 4 anni 
+1926 1938 + 3 anni 1930 1940 + 3 anni 
+1939 1947 + 2 anni 1941 1949 + 2 anni 
+1948 1957 + 1 anni 1950 1957 + 1 anni 
+1958 1966 - 1958 1966 - 
+1967 1978 - 1 anni 1967 1976 - 1 anni 
+1979 1992 - 2 anni 1977 1986 - 2 anni 
+1993 2006 - 3 anni 1987 1996 - 3 anni 
+2007 2020 - 4 anni 1997 2007 - 4 anni 
+dal 2021 - 5 anni 2008 2018 - 5anni 
+   2019 2020 - 6anni 
+   dal 2021 - 7 anni 
+ 
+ 
+Ipotesi demografica: 
+- Tavola ANIA A62D (Impegni differiti) distinta per sesso 
+Ipotesi finanziaria: 
+- Tasso tecnico 0,50% composto.
+=== pagina 44 ===
+Fondo pensione aperto CNP – Regolamento - 43 di 48 
+ 
+TABELLE DEI COEFFICIENTI DI CONVERSIONE RELATIVI ALLE ADESIONI COLLETTIVE  FINO AL 31 
+MAGGIO 2017 RICADENTI NELL’AMBITO DI APPLICAZIONE DELL’ART. 30 -BIS DEL DECRETO 
+LEGISLATIVO 11 APRILE 2006, N. 198 (Codice delle pari opportunità tra uomo e donna, a norma 
+dell’articolo 6 della Legge 28 novembre 2005, n. 246) E ALLE ADESIONI PRECEDENTI ALLA DATA DEL 
+21 DICEMBRE 2012 
+ 
+Età alla 
+conversione 
+(*) 
+Maschi Femmine 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 
+anni 
+Rendita 
+certa 10 
+anni 
+Rendita 
+vitalizia 
+Rendita 
+certa 5 anni 
+Rendita 
+certa 10 
+anni 
+45 364,64 364,45 363,91 343,90 343,76 343,37 
+46 370,56 370,36 369,75 348,80 348,65 348,22 
+47 376,79 376,57 375,89 353,93 353,76 353,29 
+48 383,35 383,09 382,33 359,30 359,12 358,60 
+49 390,25 389,96 389,09 364,93 364,73 364,16 
+50 397,52 397,20 396,21 370,85 370,62 369,99 
+51 405,20 404,83 403,70 377,06 376,81 376,12 
+52 413,30 412,88 411,59 383,60 383,32 382,56 
+53 421,86 421,38 419,89 390,48 390,17 389,33 
+54 430,91 430,36 428,63 397,72 397,39 396,46 
+55 440,48 439,85 437,83 405,37 405,00 403,97 
+56 450,62 449,89 447,54 413,45 413,05 411,89 
+57 461,38 460,53 457,77 422,01 421,57 420,25 
+58 472,82 471,83 468,57 431,09 430,60 429,10 
+59 485,00 483,82 479,98 440,74 440,18 438,47 
+60 497,97 496,57 492,02 451,01 450,37 448,39 
+61 511,78 510,10 504,72 461,95 461,21 458,91 
+62 526,46 524,45 518,10 473,60 472,74 470,06 
+63 542,08 539,68 532,19 486,01 485,01 481,88 
+64 558,74 555,88 547,05 499,26 498,09 494,42 
+65 576,51 573,11 562,72 513,45 512,07 507,76 
+66 595,52 591,47 579,25 528,58 526,97 521,92 
+67 615,87 611,04 596,69 544,86 542,95 537,00 
+68 637,72 631,96 615,05 562,37 560,09 553,05 
+69 661,21 654,34 634,35 581,23 578,52 570,13 
+70 686,49 678,32 654,57 601,59 598,36 588,29 
+71 713,73 704,02 675,69 623,57 619,72 607,54 
+72 743,19 731,64 697,71 647,36 642,78 627,94 
+73 775,24 761,37 720,61 673,30 667,77 649,56 
+74 810,26 793,41 744,40 701,71 694,92 672,44 
+75 848,69 827,90 768,97 732,83 724,37 696,52 
+ 
+(*) Età dell’assicurato al momento della conversione determinata per anni interi, trascurando la frazione 
+d’anno inferiore ai sei mesi e computando come anno intero la frazione uguale o superiore ai sei mesi. 
+Tale età dovrà essere modificata in dipendenza dell ’anno di nascita dell’assicurato, in base alla 
+seguente tabella:
+=== pagina 45 ===
+Fondo pensione aperto CNP – Regolamento - 44 di 48 
+ 
+Maschi Femmine 
+Anno di nascita Modifiche dell'età Anno di nascita 
+Modifiche 
+dell'età 
+  
+da a  da a   
+fino al 1925 + 3 anni fino al 1927 + 3 anni 
+1926 1938 + 2 anni 1928 1940 + 2 anni 
+1939 1947 + 1 anni 1941 1949 + 1 anni 
+1948 1960 - 1950 1962 - 
+1961 1970 - 1 anni 1963 1972 - 1 anni 
+1971 2002 - 2 anni 1973 2002 - 2 anni 
+ 
+ 
+Ipotesi demografica: 
+- Tavole di sopravvivenza IPS55U distinta per sesso 
+Ipotesi finanziaria: 
+- Tasso tecnico di interesse composto del 2,0%.
+=== pagina 46 ===
+Fondo pensione aperto CNP – Regolamento - 45 di 48 
+ 
+ALLEGATO N. 2.2 
+ALL’ALLEGATO 2 AL REGOLAMENTO 
+ 
+REGOLAMENTO DELLA GESTIONE INTERNA SEPARATA “GESTIONE FORME INDIVIDUALI – GEFIN” 
+ 
+ 
+ART.9 ISTITUZIONE E DENOMINAZIONE DELLA GESTIONE SEPARATA “GESTIONE FORME 
+INDIVIDUALI – GEFIN” 
+L’Impresa di assicurazione ha istituito e gestisce, secondo le modalità previste dal presente Regolamento, 
+un portafoglio di investimenti gestito separatamente dagli altri attivi dalla stessa detenuti , denominato 
+GESTIONE FORME INDIVIDUALI - GEFIN, di seguito GEFIN, in funzione del cui rendimento si rivalutano le 
+prestazioni dei contratti ad esso collegati. 
+ 
+Il valore delle attività della Gestione separata non può essere inferiore all’importo delle riserve 
+matematiche costituite dall’Impresa di Assicurazione per i contratti a prestazioni rivalutabili in base ai 
+rendimenti realizzati dalla Gestione stessa. 
+ 
+L’Impresa di assicurazione, qualora ne ravvisasse l’opportunità in un’ottica di ricerca di maggiore efficienza 
+anche in termini di costi di gestione, senza addurre danno alcuno al Contraente, potrà procedere alla 
+fusione della gestione separata con altre Gestioni Separate aventi analoghe caratteristiche. 
+Qualora l’Impresa di assicurazione intenda dar corso all’operazione di fusione dovrà inviare una 
+comunicazione al Contraente. Tale operazione è comunque soggetta alla preventiva autorizzazione 
+dell’IVASS. 
+La valuta di denominazione della Gestione Separata è l’Euro. 
+Il presente Regolamento costituisce parte integrante delle Condizioni di Assicurazione.  
+ 
+ART.10  PARTECIPANTI ALLA GESTIONE SEPARATA 
+Nella Gestione GEFIN confluiranno le attività relative ai contratti di assicurazione sulla vita che prevedono 
+la rivalutazione annua delle prestazioni. 
+ 
+Alla Gestione separata possono partecipare sia le persone fisiche che le persone giuridiche, mediante la 
+sottoscrizione di un contratto a prestazioni rivalutabili. 
+ 
+ART.11  OBIETTIVI E POLITICHE DI INVESTIMENTO 
+La Gestione GEFIN ha come obiettivo l’ottenimento di un rendimento lordo coerente con l’andamento dei 
+tassi di interesse obbligazionari area Euro, in un’ottica di medio periodo nel rispetto dell’equilibrio tecnico 
+tra remunerazione minima garantita agli as sicurati e redditività degli attivi, tenendo in considerazione la 
+durata media delle passività e degli investimenti della gestione. 
+ 
+Il portafoglio della Gestione Separata può essere investito principalmente nelle seguenti attività con i limiti 
+quantitativi di cui alla Tabella riportata nell’Articolo 4 ed i limiti qualitativi di seguito indicati:  
+- Titoli obbligazionari di emittenti governativi. 
+- Altri titoli obbligazionari diversi dai titoli di stato, quali a titolo esemplificativo le obbligazioni societarie, 
+cartolarizzazioni e strutturati di credito, depositi bancari vincolati e certificati di deposito.  
+ 
+Gli investimenti in titoli obbligazionari governativi e corporate non Investment Grade sono ammessi in 
+misura contenuta. 
+- Titoli azionari negoziati nei principali mercati internazionali. L’acquisto di titoli azionari illiquidi è 
+ammesso in misura residuale.
+=== pagina 47 ===
+Fondo pensione aperto CNP – Regolamento - 46 di 48 
+ 
+- Investimenti in altri strumenti finanziari: 
+iii) Fondi Alternativi: si intendono gli investimenti in OICR non armonizzati, fondi mobiliari chiusi non 
+negoziati in un mercato regolamentato, fondi riservati e speculativi. 
+iv) Fondi immobiliari e Immobili: per investimenti immobiliari si intendono le partecipazioni in società 
+immobiliari, quote di OICR immobiliari o immobili. 
+Nella Gestione potranno essere utilizzati strumenti finanziari derivati sia con finalità di copertura del rischio 
+su titoli in portafoglio, sia al fine di pervenire ad una gestione efficace del portafoglio stesso nel rispetto 
+comunque delle disposizioni normative vigenti in materia. L’utilizzo di strumenti derivati non deve 
+comportare la violazione di eventuali limiti di investimento previsti per gli attivi sottostanti.  
+ 
+Le attività della gestione separata sono prevalentemente denominate in euro oppure, se espresse in 
+divisa diversa dall’Euro, deve essere effettuata la copertura del rischio di cambio.  
+Sono tuttavia ammessi investimenti in strumenti finanziari denominati in divisa diversa dall’euro senza la 
+copertura del rischio di cambio per una Quota residuale del portafoglio. 
+ 
+Non è esclusa la possibilità di investire in parti di OICR o in altri strumenti finanziari emessi da controparti 
+di cui all’art. 5 del Regolamento IVASS n. 25, in misura non superiore al 10% dell’ammontare delle riserve 
+tecniche della gestione separata alla chiusura dell’esercizio precedente. 
+ 
+Tali investimenti sono comunque effettuati alle stesse condizioni di mercato applicate da controparti terze 
+sugli stessi mercati. 
+ 
+ART.12  CRITERI DI INVESTIMENTO NELLA GESTIONE SEPARATA 
+L’Impresa di assicurazione investe le attività della Gestione Separata secondo quanto indicato nella 
+seguente tabella: 
+ 
+Limiti di investimento Limiti 
+Obbligazionario governativo (*) 
+Titoli di Stato e Supranational area EU e 
+altri titoli di Stato rating ≥ AA- 
+ 
+Altri titoli di stato 
+≥ 30% 
+ 
+ 
+≥ 0% 
+≤ 100% 
+ 
+ 
+≤ 40% 
+Obbligazionario Corporate (*) Tioli Corporate ≥ 0% ≤ 60% 
+Azionario (*) Azionario ≥ 0% ≤ 10% 
+Altri Investimenti Investimenti alternativi Immobiliari ≥ 0% 
+≥ 0% 
+≤ 6% 
+≤ 6% 
+Derivati e strutturati Strumenti derivati per gestione efficace ≥ 0% ≤ 10% 
+Liquidità Disponibilità di cassa ≥ 0% ≤ 10% 
+(*) L’investimento indicato si realizza attraverso investimenti diretti o attraverso l’acquisto di OICR 
+armonizzati. 
+ 
+ART.13 PERIODO DI OSSERVAZIONE E TASSO MEDIO DI RENDIMENTO 
+Il periodo di osservazione per la determinazione del tasso medio di Rendimento della Gestione separata 
+è annuale. 
+ 
+Il tasso medio di Rendimento della Gestione separata, relativo al periodo di osservazione di cui sopra, è 
+calcolato con periodicità mensile ed è uguale al rapporto tra il risultato finanziario della gestione e la 
+giacenza media delle attività della gestione stessa. 
+ 
+Il risultato finanziario della Gestione è costituito dai proventi finanziari della gestione, comprensivi degli 
+scarti di emissione e di negoziazione, nonché dagli utili e dalle perdite effettivamente realizzate nel
+=== pagina 48 ===
+Fondo pensione aperto CNP – Regolamento - 47 di 48 
+ 
+periodo di osservazione, al netto delle spese sostenute per l’acquisto e la vendita delle attività della 
+Gestione e per l’attività di verifica contabile ed al lordo delle ritenute di acconto fiscale.  
+ 
+Gli utili realizzati comprendono anche quelli eventualmente derivanti dalla retrocessione di commissioni 
+o di altri proventi ricevuti dall’Impresa di assicurazione in virtù di accordi con soggetti terzi e riconducibili 
+al patrimonio della Gestione separata. 
+ 
+Gli utili e le perdite da realizzo sono determinati con riferimento al valore di iscrizione delle corrispondenti 
+attività nel libro mastro della Gestione e cioè al prezzo di acquisto per le attività di nuova acquisizione.  
+Il trasferimento di attività dal patrimonio dell’Impresa di assicurazione alla gestione separata avviene al 
+valore di mercato rilevato alla data di immissione delle attività nella gestione separata.  
+ 
+La giacenza media delle attività della Gestione Separata è pari alla somma delle giacenze medie nel 
+periodo di osservazione dei depositi in numerario, degli investimenti e di ogni altra attività della Gestione, 
+ed è determinata in base al valore di iscrizione nel libro mastro della Gestione. 
+ 
+ART.14 SPESE GRAVANTI SULLA GESTIONE SEPARATA 
+Le spese a carico della Gestione Separata sono rappresentate unicamente da:  
+c) le spese effettivamente sostenute per l’acquisto e la vendita delle attività della Gestione Separata;  
+d) i compensi dovuti alla Società di Revisione di cui all’Art. 7 “REVISIONE CONTABILE”.  
+Non sono consentite altre forme di prelievo, in qualsiasi modo effettuate.  
+ 
+ART.15 REVISIONE CONTABILE 
+La Gestione separata GEFIN è sottoposta alla verifica da parte di una Società di Revisione iscritta 
+nell’apposito registro previsto dalla normativa vigente. 
+In particolare, la Società di Revisione dichiara, con apposita relazione, di ave verificato:  
+- la consistenza delle attività, la conformità delle stesse e dei loro criteri di valutazione alla normativa 
+vigente ed al presente regolamento; 
+- la correttezza del risultato finanziario e del conseguente tasso medio di Rendimento relativo al 
+periodo di osservazione; 
+- l’adeguatezza delle attività assegnate alla Gestione Separata alla fine del periodo di osservazione 
+rispetto alle riserve matematiche dell’Impresa di assicurazione; 
+- la conformità del rendiconto e del prospetto della composizione della Gestione Separata alla 
+normativa vigente. 
+ 
+ART.16 MODIFICHE DEL REGOLAMENTO DELLA GESTIONE SEPARATA 
+Il presente Regolamento della Gestione separata può subire modifiche derivanti dall’adeguamento dello 
+stesso alla normativa primaria e secondaria vigente oppure a fronte di mutati criteri gestionali, con 
+l’esclusione di quelli meno favorevoli per il Contraente. 
+Come indicato al precedente Art. 1 del presente Regolamento, è inoltre ammessa la possibilità di fusione 
+della Gestione separata con altra Gestione separata dell’Impresa di assicurazione avente caratteristiche 
+del tutto similari. 
+In tal caso, l’Impresa di Assicurazione provvederà ad inviare una comunicazione al Contraente contenente 
+le motivazioni che hanno determinato la scelta di fusione e le relative conseguenze anche in termini 
+economici, la data di effetto della fusione, le ca ratteristiche e la composizione delle Gestioni separate 
+interessate dall’operazione, l’indicazione delle commissioni gravanti sulla nuova Gestione separata, i 
+criteri di liquidazione degli attivi della Gestione separata oggetto di fusione e di reinvestimento nella nuova 
+Gestione Separata nonché le modalità di adesione o meno all’operazione di  
+fusione. 
+L’Impresa di assicurazione provvederà a trasferire, senza alcun onere o spese per il Contraente, tutte le 
+attività finanziarie relative alla Gestione Separata originariamente collegata al Contratto presso la Gestione
+=== pagina 49 ===
+Fondo pensione aperto CNP – Regolamento - 48 di 48 
+ 
+derivante dalla fusione. Indipendentemente dalle modalità di fusione, tale operazione non potrà 
+comportare alcun aggravio economico per il Contraente. Tale operazione è comunque soggetta alla 
+preventiva autorizzazione dell’IVASS.
+=== pagina 50 ===
+CNP Vita Assicura S.p.A.
+via Arbe, 49 - 20125 Milano
+www.gruppocnp.it
+Pec cnpvita_assicura@legalmail.it
+Società soggetta a direzione e coordinamento di CNP Assurances S.A. - Sede 
+Legale: via Arbe, 49 - 20125 Milano - Impresa autorizzata all’esercizio delle 
+assicurazioni con decreto del Min. dell’Industria, del Commercio e dell’Artigianato 
+n. 18240 del 28/07/1989 pubblicato sulla G.U. n. 186 del 10/08/1989 - Capitale 
+sociale Euro 247.000.000,00 i.v. - Reg. delle Imprese di Milano, C. Fiscale e
+P. IVA 09269930153 - Iscr. all’Albo delle imprese di assicurazione e riassicurazione 
+al n. 1.00081 - Pec cnpvita_ assicura@legalmail.it - www.gruppocnp.it
+MOD. 99284 - PDF - Ed. 07/2026

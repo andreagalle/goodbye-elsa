@@ -1,0 +1,24 @@
+# Fondo: FONDO PENSIONE APERTO GIUSTINIANO (giustiniano)
+# Documento: Metodologia delle proiezioni – Limitazione delle Metodologie e dei Dati
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/informativa-sulla-sostenibilit%C3%A0/005/Limitazione%20delle%20metodologie%20e%20dei%20dati.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/giustiniano.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 426433a260e3083f0ec05a0e2bbdeab9234b7d40dc7ea85f8de19d7995139ddf
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Accessibilità per i documenti non web | Documento WORD   1  
+ 
+INFORMATIVA SULLA SOSTENIBILITÀ  
+“Giustiniano” 
+Data di pubblicazione 30/03/202 5 
+Limitazione delle metodologie e dei dati  
+Qualora l’info-provider non fornisca il dato relativo al rating ESG degli investimenti 
+presenti nei portafogli, il dato non è considerato ai fini del calcolo del rating ESG 
+medio di portafoglio. In ogni caso, tale limitazione non pregiudica la promozione 
+delle caratteristiche ambientali o sociali in quanto la strategia di investimento 
+prevede il mantenimento della soglia minima del rating ESG medio di portafoglio 
+pari o superiore a BBB. Inoltre, gli investimenti privi di rating risultano solo per una 
+quota ridotta del portafoglio, avendo i dati dell’info provider utilizzato una 
+copertura elevata.

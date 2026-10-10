@@ -1,0 +1,81 @@
+# Fondo: FONDO PENSIONE APERTO SOLUZIONE PREVIDENTE (soluzione-previdente)
+# Documento: Documento sul regime fiscale – Dichiarazione deduzione contributi Sogg. Fiscalmente a carico
+# Fonte: https://www.helvetia.com/content/dam/os/it/web/it/prodotti-e-servizi/prodotti_dedicati_alla_previdenza_complementare/previdenza-complementare/fpa-soluzione-previdente/102022/FPA_DichiarazioneDeduzioneContributi_Fiscalmente.pdf
+# Citato in: https://www.helvetia.com/it/web/it/prodotti-e-servizi/prodotti-dedicati-alla-previdenza-complementare/previdenza_complementare/fpa-soluzione-previdente.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 1fcb3e087f96d0be6ce6aac9eb8230c780f3daa196126935132c3e5437c9fe36
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+MOD. DEDUZIONE FPA FISC. ED. 09/2022  C OPIA PER ________________ 
+ 
+ 
+     
+    Spett.le  
+    Helvetia Vita S.p.A. 
+    Gestione Operativa - Previdenza 
+    Via G. B. Cassinis, 21 
+    20139 Milano (MI) 
+ 
+1. DATI DELL’ADERENTE (da compilare sempre) 
+Cognome: ______________________________________________ Nome: __________________________________________ 
+C o d i c e  F i s c a l e :                  S e s s o :   M     F Data di nascita: ___________________ 
+Comune di nascita  Prov.  Tel. _________________________ 
+Indirizzo di residenza  CAP _____ E-mail:  
+Comune di residenza  Prov.  Adesione N. _______________________ 
+2. SOGGETTO MAGGIORENNE FISCALMENTE A CARICO (da compilare solo se rilevante) 
+Il sottoscritto sotto la propria responsabilità e consapevole delle sanzioni penali e civili previste dalle vigenti 
+disposizioni di legge in materia di dichiarazioni false e mendaci 
+ 
+DICHIARA CHE 
+ 
+ non è stato/non sarà portato in deduzione l’intero importo dei contributi versati nell'anno ________ a favore  
+ del FPA in oggetto pari ad € _______,___ (Euro _________________________________). 
+Dichiara altresì che il totale dei contributi versati e non dedotti, non è stato/non sarà portato in deduzione 
+neanche dal soggetto di cui è fiscalmente a carico. 
+ non è stata/non sarà portata in deduzione una parte dei contributi versati a favore del suddetto FPA. 
+ In particolare, i contributi corrisposti ma non dedotti ammontano ad € _______________,_____ (Euro 
+_____________________________________) nell'anno _________. 
+Dichiara altresì che la quota dei contributi versati e non dedotti, non è stata/non sarà portata in deduzione 
+neanche dal soggetto di cui è fiscalmente a carico. 
+ 
+ 
+Luogo e data: _____________                                               Firma ____________________________________ 
+ 
+3. SOGGETTO MINORENNE FISCALMENTE A CARICO (da compilare solo se rilevante) 
+DATI SOGGETTO A CUI L'ADERENTE MINORENNE RISULTA FISCALMENTE A CARICO 
+Cognome: ______________________________________________ Nome: __________________________________________ 
+C o d i c e  F i s c a l e :                  S e s s o :   M     F Data di nascita: ___________________ 
+Il sottoscritto in qualità di soggetto verso cui l'aderente al FPA Soluzione Previdente minorenne risulta fiscalmente a 
+carico sotto la propria responsabilità e consapevole delle sanzioni penali e civili previste dalle vigenti disposizioni di 
+legge in materia di dichiarazioni false e mendaci 
+ 
+DICHIARA CHE 
+ 
+ non è stato/non sarà portato in deduzione l’intero importo dei contributi versati nell'anno ________ a favore  
+ del FPA in oggetto pari ad € _______,___ (Euro __________________________________) 
+ non è stata/non sarà portata in deduzione una parte dei contributi versati a favore del suddetto FPA. 
+ In particolare, i contributi corrisposti ma non dedotti ammontano ad € _______________,_____ (Euro 
+_____________________________________) nell'anno _________ 
+ 
+ 
+Luogo e data: _____________                                               Firma ____________________________________ 
+ 
+ISTRUZIONI PER LA COMPILAZIONE 
+Ai sensi dell’art. 8, comma 4, del D. Lgs. n. 252/2005, entro il 31 dicembre dell’anno successivo a quello in cui è stato effettuato il 
+versamento, è necessario comunicare alla Compagnia istitutrice del FPA l’importo dei contributi versati che non sono stati dedo tti 
+in sede di dichiarazione dei redditi, in quanto eccedenti la quota di deducibilità massima prevista dalla normativa vigente. 
+Qualora l’iscritto maturi il diritto alla prestazione prima del 31 dicembre, la comunicazione deve essere resa alla data di 
+maturazione del diritto stesso. 
+Per i lavoratori dipendenti, l’importo da indicare non deve comprendere la quota di contribuzione riferibile al TFR.  
+IL MODULO NON DEVE ESSERE COMPILATO SE I CONTRIBUTI VERSATI SONO STATI INTEGRALMENTE DEDOTTI. 
+ 
+Il presente modulo deve essere inviato alla Compagnia in originale, debitamente compilato in ogni sua parte e corredato da copi a 
+di un documento di identità valido del soggetto che effettua la dichiarazione tramite raccomandata A/R o tramite la filiale di 
+competenza dell'Intermediario Collocatore. 
+ 
+FPA SOLUZIONE PREVIDENTE 
+ 
+MODULO PER LA COMUNICAZIONE DEI CONTRIBUTI NON DEDOTTI 
+SOGGETTI FISCALMENTE A CARICO

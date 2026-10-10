@@ -1,0 +1,1424 @@
+# Fondo: AZIONE DI PREVIDENZA - FONDO PENSIONE APERTO (azione-di-previdenza)
+# Documento: Regolamento – Regolamento
+# Fonte: https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/Azione_di_Previdenza_Regolamento_07-2026_def.pdf
+# Citato in: https://www.hdiassicurazioni.it/it/privati/previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 15d2da7f478a6673a3cce5302b9eef981630593f137ea8bb851f2410678dfc2a
+# Pagine: 29
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Edizione 07/2026 
+ 
+        
+        
+ 
+ 
+HDI ASSICURAZIONI S.p.A. 
+ 
+SOCIETÀ CAPOGRUPPO DEL GRUPPO ASSICURATIVO 
+“HDI ASSICURAZIONI” ISCRITTO ALL’ALBO DEI GRUPPI ASSICURATIVI AL N. 015 
+ 
+ 
+ 
+AZIONE DI PREVIDENZA 
+Fondo Pensione Aperto 
+ 
+(art. 12 del Decreto legislativo n. 252, del 5 dicembre 2005) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REGOLAMENTO
+=== pagina 2 ===
+Regolamento 
+ 
+ 2 
+INDICE 
+ 
+PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO 
+Art. 1 - Denominazione 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+Art. 3 - Scopo 
+ 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art. 4 - Regime del Fondo 
+Art. 5 - Destinatari e tipologie di adesione 
+Art. 6 - Scelte di investimento  
+Art. 7 - Gestione degli investimenti  
+Art. 8 - Spese  
+ 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI  
+Art. 9 - Contribuzione  
+Art. 10 - Determinazione della posizione individuale  
+Art. 11 - Prestazioni pensionistiche e RITA 
+Art. 12 - Erogazione delle prestazioni pensionistiche  
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+Art. 14 - Anticipazioni  
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+Art. 16 - Sistema di governo  
+Art. 17 - Depositario  
+Art. 18 - Responsabile 
+Art. 19 - Organismo di rappresentanza 
+Art. 20 - Conflitti di interesse  
+Art. 21 - Scritture contabili 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI  
+Art. 22 - Modalità di adesione e clausole risolutive espresse 
+Art. 23 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+Art. 24 - Comunicazioni e reclami 
+ 
+PARTE VI – NORME FINALI  
+Art. 25 - Modifiche del Regolamento  
+Art. 26 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di 
+modifiche delle caratteristiche del Fondo 
+Art. 27 - Cessione del Fondo 
+Art. 28 - Operazioni di fusione  
+Art. 29 - Rinvio 
+ 
+ 
+Allegati 
+Allegato n. 1  Disposizioni in materia di Responsabile 
+Allegato n. 2 Condizioni e modalità di erogazione delle rendite
+=== pagina 3 ===
+Regolamento 
+ 
+ 3 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+Art. 1 - Denominazione 
+1.  “Azione di Previdenza - Fondo pensione aperto” (di seguito “Fondo”), è un fondo 
+pensione aperto istituito ai sensi dell’art. 12 del Decreto lgs. 5 dicembre 2005, n. 252 
+(di seguito “Decreto”). 
+ 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito dalla società “HDI Assicurazioni S.p.A” (di seguito impresa di 
+assicurazione) giusta autorizzazione rilasciata dalla COVIP con provvedimento del 26 
+aprile 2000; con il medesimo provvedimento la COVIP ha approvato il Regolamento 
+del Fondo.  
+2. L’impresa di assicurazione esercita l’attività di gestione del Fondo con effetto dalla 
+medesima data.  
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 111. 
+4. L’attività relativa al Fondo è svolta in Roma, presso la sede dell’impresa di 
+assicurazione. 
+5. L’indirizzo di posta elettronica certificata (PEC) dell’impresa di assicurazione è 
+hdi.assicurazioni@pec.hdia.it.   
+ 
+Art. 3 - Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, 
+di prestazioni pensionistiche complementari del sistema obbligatorio. Tale scopo è 
+perseguito mediante la raccolta dei contributi, la gestione delle risorse nell’esclusivo 
+interesse degli aderenti, e l’erogazione delle prestazioni secondo quanto disposto 
+dalla normativa tempo per tempo vigente. 
+ 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ  
+DI INVESTIMENTO 
+ 
+Art. 4 - Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche 
+del Fondo è determinata in funzione della contribuzione effettuata e in base al 
+principio della capitalizzazione. 
+ 
+Art. 5 - Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita.  
+2. È altresì consentita l’adesione su base collettiva ai soggetti destinatari delle forme 
+pensionistiche complementari individuati dall’art. 2, comma 1, del Decreto, nei cui 
+confronti trovino applicazione i contratti, gli accordi o i regolamenti aziendali che 
+dispongono l’adesione al Fondo. Ai sensi dell’art. 8, comma 7-bis, del Decreto 
+l’adesione al Fondo su base collettiva può avvenire anche in modalità automatica 
+mediante il conferimento tacito del TFR maturando, della contribuzione a carico del 
+datore di lavoro e del lavoratore. 
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al 
+compimento dell’età pensionabile prevista dal regime obbligatorio di appartenenza.
+=== pagina 4 ===
+Regolamento 
+ 
+ 4 
+4. Tra i destinatari sono ricompresi gli aderenti taciti, ovvero i lavoratori dipendenti del 
+settore privato assunti antecedentemente al 1° luglio 2026, che non hanno espresso 
+alcuna volontà di adesione, nei tempi e nei modi fissati dal Decreto nella versione 
+antecedente alla riforma di cui alla Legge n. 199/2025, circa il conferimento del TFR 
+maturando. 
+ 
+Art. 6 - Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti e nel profilo life cycle, differenziati per profili 
+di rischio-rendimento, in modo tale da assicurare agli aderenti una adeguata possibilità 
+di scelta: 
+− Linea Prudente 
+− Linea Equilibrata 
+− Linea Dinamica 
+− Linea Garantita. Questo comparto è destinato ad accogliere il conferimento tacito 
+del TFR.  
+− HDI Life Cycle. Questo profilo è destinato ad accogliere il TFR maturando e i 
+contributi del datore di lavoro e del lavoratore pervenuti a seguito di adesioni 
+automatiche. 
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti ovvero il profilo life cycle 
+in cui far confluire i versamenti contributivi, con facoltà di modificare nel tempo tale 
+destinazione. L’aderente può inoltre riallocare la propria posizione individuale tra i 
+diversi comparti o nel profilo life cycle, nel rispetto del periodo minimo di un anno 
+dall’iscrizione ovvero dall’ultima riallocazione. In questo caso i versamenti contributivi 
+successivi sono suddivisi sulla base delle nuove percentuali fissate all’atto della 
+riallocazione salvo diversa disposizione dell’aderente. Il limite del periodo di 
+permanenza minimo non opera con riguardo alla prima riallocazione successiva 
+all’adesione tacita o automatica. 
+3.   È prevista la possibilità di aderire al seguente profilo life cycle: “HDI Life Cycle”. Tale 
+profilo prevede una allocazione automatica dei versamenti finalizzata a ridurre 
+l’esposizione al rischio finanziario, in coerenza con l’orizzonte temporale dell’aderente. 
+In particolare, i versamenti vengono ripartiti progressivamente in comparti con 
+rischiosità decrescente, fino anche alla Linea Garantita, in funzione degli anni 
+mancanti al pensionamento.   
+Inoltre, a partire dall’undicesimo anno prima del compimento dell’età pensionabile 
+prevista dal regime obbligatorio di appartenenza, anche la posizione individuale 
+accumulata viene progressivamente riallocata, con cadenza annuale, verso i comparti 
+con un profilo di rischio via via inferiore. 
+L’attivazione del profilo life cycle può avvenire sia in fase di adesione al Fondo, sia 
+successivamente durante la fase di accumulo. L’aderente può modificare la propria 
+scelta e passare dal profilo life cycle all’investimento libero nei comparti, o viceversa, 
+nel rispetto del periodo di permanenza minimo di un anno dall’adesione o dall’ultima 
+riallocazione. La scelta riguarda i versamenti contributivi e l’intera posizione 
+individuale. In caso di attivazione del profilo life cycle durante la fase di accumulo, la 
+posizione individuale accumulata resta nei comparti di origine e sarà riallocata 
+secondo le regole previste dal profilo life cycle. 
+Il profilo life cycle cessa in automatico in caso di richiesta della prestazione in forma di 
+“Rendita integrativa temporanea anticipata” (RITA).
+=== pagina 5 ===
+Regolamento 
+ 
+ 5 
+Art. 7 - Gestione degli investimenti 
+1. L’impresa di assicurazione effettua l’investimento delle risorse del Fondo nel rispetto 
+dei limiti e delle condizioni stabiliti dalla normativa tempo per tempo vigente e dal 
+presente Regolamento, assumendo a riferimento l’esclusivo interesse degli aderenti.  
+2. Ferma restando la responsabilità dell’impresa di assicurazione, essa può affidare a 
+soggetti di cui all’art. 6, comma 1, lettere a), b), c), c-bis) del Decreto, in possesso dei 
+requisiti previsti dalla normativa tempo per tempo vigente, l’esecuzione di specifici 
+incarichi di gestione. 
+3.  L’impresa di assicurazione verifica i risultati della gestione mediante l’adozione di 
+parametri di riferimento coerenti con gli obiettivi e i criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+a)    Linea Prudente : la politica d’investimento è diretta ad assicura re una 
+composizione del portafoglio orientata prevalentemente verso titoli di debito, con 
+l’esclusione di titoli di capitale e di titoli obbligazionari recanti opzioni su azioni. Il 
+patrimonio è investito esclusivamente in strumenti finanziari denominati in euro o 
+in strumenti finanziari denominati in valuta estera con un rating non inferiore a A+ 
+(S&P’s) e/o A1 (Moody’s). 
+b)    Linea Equilibrata : la politica d’investimento è diretta ad assicurare una 
+composizione del portafoglio bilanciata tra titoli di debito e titoli di capitale. 
+L’investimento in titoli di capitale non può superare il 50% del patrimonio. Il 
+patrimonio è investito sia in strumenti finanziari denominati in euro sia in strumenti 
+finanziari denominati in valuta estera. L’esposizione valutaria complessiva non può 
+superare il 65% del patrimonio.  
+c)    Linea Dinamica: la politica di investimento è diretta ad assic urare una 
+composizione del portafoglio ampiamente diversificata con una prevalenza di titoli 
+di capitale. Il patrimonio è investito sia in strumenti finanziari denominati in euro, 
+sia in strumenti finanziari denominati in valuta estera. L’esposizione valutaria non 
+può superare il 65% del patrimonio.  
+d)    Linea Garantita : la politica di investimento è diretta ad assic urare una 
+composizione del portafoglio ampiamente diversificata con una prevalenza di titoli 
+di debito denominati in euro, nell’intesa che gli investimenti in titoli di capitale 
+potranno essere presenti per un valore non superiore al 15% del portafoglio 
+comprendendo quote di OICR e di fondi chiusi.  
+La politica di investimento è ritenuta idonea, tenendo presente la garanzia di 
+restituzione del capitale, a realizzare con elevata probabilità rendimenti che siano 
+pari o superiori a quelli del TFR, quantomeno in un arco temporale pluriennale.  
+e)   HDI Life Cycle: la politica di investimento dei diversi comparti tiene conto 
+dell’eventuale esercizio dell’opzione life cycle da parte degli aderenti, in coerenza 
+con le caratteristiche e le finalità proprie di ciascun comparto. L’attivazione di tale 
+opzione comporta il trasferimento progressivo della posizione individuale tra 
+comparti secondo criteri predefiniti, con conseguenti effetti sulla composizione 
+delle masse gestite e sulla dinamica dei flussi in entrata e in uscita. Tali 
+movimentazioni sono considerate nell’ambito della gestione finanziaria, al fine di 
+assicurare la coerente attuazione degli obiettivi di investimento, dei limiti operativi, 
+dei profili di rischio e dei criteri di diversificazione previsti per ciascun comparto. La 
+gestione tiene pertanto conto dell’impatto potenziale dei trasferimenti collegati al 
+percorso life cycle, anche ai fini dell’efficiente allocazione delle risorse e della 
+continuità della politica di investimento.
+=== pagina 6 ===
+Regolamento 
+ 
+ 6 
+L’adesione al comparto denominato “Linea Garantita” attribuisce all’aderente, al 
+verificarsi degli eventi di cui appresso, il diritto alla corresponsione di un importo 
+minimo garantito a prescindere dai risultati di gestione. La garanzia può essere 
+prestata all’impresa di assicurazione da soggetti diversi dalla stessa, a ciò abilitati. 
+L’importo minimo garantito è pari alla somma dei contributi netti versati al comparto, 
+inclusi gli eventuali importi derivanti da trasferimenti da altro comparto o da altra forma 
+pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, 
+ridotto da eventuali riscatti parziali e anticipazioni. 
+Per contributi netti si intendono i contributi di cui all’art. 10, comma 2. 
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+−   esercizio del diritto alla prestazione pensionistica di cui all’art. 11; 
+−   riscatto per decesso; 
+−   riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro 
+a meno di un terzo; 
+−   riscatto per inoccupazione per un periodo superiore a quarantotto mesi. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione 
+individuale maturata calcolata, ai sensi dell’art. 10, con riferimento al primo giorno di 
+valorizzazione utile successivo alla verifica delle condizioni che danno diritto alla 
+prestazione, la stessa viene integrata a tale maggior valore. L’integrazione viene 
+corrisposta dall’impresa di assicurazione. 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i 
+diversi profili di rischio-rendimento, in coerenza con gli obiettivi e i criteri riportati nel 
+Regolamento, sono descritti nella Nota informativa. La Nota informativa descrive, 
+inoltre, le caratteristiche del profilo life cycle. 
+ 
+Art. 8 - Spese 
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a)   spese da sostenere all’atto dell’adesione: una commissione "una tantum" a 
+carico dell'aderente pari a euro 20,00. 
+b)   spese relative alla fase di accumulo: 
+b.1)  direttamente a carico dell’aderente: una commissione pari a 20,00 euro, 
+applicata annualmente; 
+b.2) indirettamente a carico dell’aderente e che incidono sul comparto:  
+i) una commissione di gestione pari alle seguenti percentuali del patrimonio 
+su base annua, prelevata con cadenza mensile: 
+− 1,20% per il comparto “Linea Garantita”; 
+− 1,00% per il comparto “Linea Prudente”; 
+− 1,40% per il comparto “Linea Equilibrata” 
+− 1,80% per il comparto “Linea Dinamica”.  
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le 
+spese legali e giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di 
+negoziazione derivanti dall’attività di impiego delle risorse, nonché il “contributo di 
+vigilanza” dovuto annualmente alla COVIP ai sensi di legge; sono altresì a carico del 
+comparto le spese relative alla remunerazione e allo svolgimento dell’incarico del 
+Responsabile salva diversa decisione dell’impresa di assicurazione.
+=== pagina 7 ===
+Regolamento 
+ 
+ 7 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla 
+sottoscrizione e al rimborso delle parti di OICR acquistati, né le commissioni di 
+gestione applicate dall’OICR stesso, salvo i casi di deroga di carattere generale 
+previsti dalla COVIP. In particolare, nel caso di investimenti in OICR collegati, dal 
+compenso dell’impresa di assicurazione sarà dedotta la remunerazione complessiva 
+percepita dal gestore dell’OICR collegato. Fanno eccezione gli investimenti in FIA 
+diversi da quelli collegati. 
+c)   spese collegate all’esercizio delle seguenti prerogative individuali, dirette alla 
+copertura dei relativi oneri amministrativi: 
+c.1) 15,00 euro in caso di trasferimento ad altra forma pensionistica; 
+c.2) 15,00 euro per la riallocazione della posizione individuale tra i 
+comparti/profilo life cycle; 
+d)   spese relative alla fase di erogazione delle rendite, quali riportate nell’Allegato 
+n. 2; 
+d-bis) spese relative alle prestazioni pensionistiche diverse della rendita vitalizia: 
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2, in relazione al 
+comparto nel quale è investita la posizione individuale residua; 
+d-bis.2) 25,00 euro. 
+e)   spese in cifra fissa relative alla prestazione erogata in forma di “Rendita 
+integrativa temporanea anticipata” (RITA) dirette alla copertura dei relativi oneri 
+amministrativi: 
+e.1) 20,00 euro per l’attivazione della rendita addebitati al momento del 
+perfezionamento della richiesta; 
+e.2)  5,00 euro per l’erogazione di ogni rata addebitati in corrispondenza della rata 
+stessa. 
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base 
+collettiva e di convenzionamenti con associazioni di lavoratori autonomi e liberi 
+professionisti. La riduzione delle commissioni di gestione espresse in misura 
+percentuale sul patrimonio avviene mediante emissione di classi di quote differenti. 
+3.  Sono a carico dell’impresa di assicurazione tutte le spese e oneri non individuati dalle 
+disposizioni del presente articolo. 
+ 
+ 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+ 
+Art. 9 - Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo 
+stesso. 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della 
+misura minima e delle modalità stabilite dai contratti e dagli accordi collettivi, anche 
+aziendali. 
+3. I lavoratori dipendenti, in caso di adesione esplicita, possono contribuire al Fondo 
+conferendo, anche esclusivamente, i flussi di TFR in maturazione. Nelle adesioni 
+collettive il conferimento del TFR può anche essere parziale ove previsto dagli accordi 
+collettivi. Qualora il lavoratore decida altresì di versare la contribuzione prevista a suo 
+carico e abbia diritto, in base ad accordi collettivi, anche aziendali, a un contributo del 
+datore di lavoro, detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei
+=== pagina 8 ===
+Regolamento 
+ 
+ 8 
+predetti accordi. Il datore di lavoro può decidere, anche in assenza di accordi collettivi, 
+di contribuire al Fondo.  
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo 
+restando, per i lavoratori dipendenti, l’obbligo del versamento del TFR maturando 
+eventualmente conferito. La sospensione non comporta la cessazione della 
+partecipazione al Fondo. 
+5.  In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore 
+di lavoro e la contribuzione del lavoratore. La contribuzione a carico del lavoratore non 
+è obbligatoria nel caso in cui la retribuzione annuale lorda corrisposta dal datore di 
+lavoro risulti inferiore al valore pari all’assegno sociale di cui all’art. 3, commi 6 e 7, 
+della Legge 8 agosto 1995, n. 335. L’aderente può conferire il TFR anche in misura 
+parziale ove previsto dagli accordi collettivi. 
+6. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha 
+facoltà di sospendere la contribuzione a proprio carico, con conseguente sospensione 
+dell’obbligo contributivo a carico del datore di lavoro, fermo restando il versamento del 
+TFR maturando al Fondo. È possibile riattivare la contribuzione in qualsiasi momento. 
+7. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 
+12, del Decreto (c.d. contribuzione da abbuoni). 
+8. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il 
+raggiungimento dell’età pensionabile prevista dal regime obbligatorio di appartenenza, 
+a condizione che alla data del pensionamento possa far valere almeno un anno di 
+contribuzione a favore delle forme di previdenza complementare. 
+ 
+Art. 10 - Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun 
+aderente, è alimentata dai contributi netti versati, dagli importi derivanti da 
+trasferimenti da altre forme pensionistiche complementari e dai versamenti effettuati 
+per il reintegro delle anticipazioni percepite, ed è ridotta da eventuali riscatti parziali e 
+anticipazioni. 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico 
+dell’aderente, di cui all’art. 8, comma 1, lett. a) e b.1). Sul primo versamento incidono 
+anche eventuali spese di adesione. 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il 
+rendimento di ogni singolo comparto è calcolato come variazione del valore della 
+quota dello stesso nel periodo considerato. 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del 
+comparto sono valutate al valore di mercato; le plusvalenze e le minusvalenze 
+maturate concorrono alla determinazione della posizione individuale, a prescindere dal 
+momento di effettivo realizzo. 
+5. L’impresa di assicurazione determina il valore della quota e, conseguentemente, della 
+posizione individuale di ciascun aderente con cadenza almeno mensile, alla fine di 
+ogni mese. I versamenti sono trasformati in quote e frazioni di quote, sulla base del 
+primo valore di quota successivo al giorno in cui si sono resi disponibili per la 
+valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 
+è quello risultante al primo giorno di valorizzazione utile successivo a quello in cui 
+l’impresa di assicurazione ha verificato la sussistenza delle condizioni che danno 
+diritto alle prestazioni.
+=== pagina 9 ===
+Regolamento 
+ 
+ 9 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il 
+Fondo sono intangibili e non possono formare oggetto di sequestro o pignoramento da 
+parte dei creditori dell’aderente. 
+ 
+Art. 11 - Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della 
+maturazione dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di 
+appartenenza dell’aderente, con almeno cinque anni di partecipazione alle forme 
+pensionistiche complementari. Il predetto termine è ridotto a tre anni per il lavoratore 
+che cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo stesso 
+acquisisca il diritto a una pensione complementare e che si sposta in un altro Stato 
+membro dell’Unione europea. L’aderente che decide di proseguire volontariamente la 
+contribuzione ai sensi del comma 8 dell’art. 9 ha la facoltà di determinare 
+autonomamente il momento di fruizione delle prestazioni pensionistiche. 
+2. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera età pensionabile 
+quella vigente nel regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni 
+pensionistiche sono considerati utili tutti i periodi di partecipazione alle forme 
+pensionistiche complementari maturati dall’aderente per i quali lo stesso non abbia 
+esercitato il riscatto totale della posizione individuale. 
+4.   L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni 
+di contribuzione nei regimi obbligatori di appartenenza e il periodo minimo di 
+partecipazione alle forme pensionistiche complementari di cui al comma 1, ha facoltà 
+di richiedere che le prestazioni siano erogate, in tutto o in parte, in forma di RITA con 
+un anticipo massimo di cinque anni rispetto alla data di maturazione dell’età 
+anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di 
+appartenenza. 
+5.  L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente 
+inoccupato per un periodo di tempo superiore a ventiquattro mesi e abbia maturato il 
+periodo minimo di partecipazione alle forme pensionistiche complementari di cui al 
+comma 1, ha facoltà di richiedere la rendita di cui al comma 4 con un anticipo 
+massimo di dieci anni rispetto alla data di maturazione dell’età anagrafica per la 
+pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei 
+commi 4 o 5, verrà fatta confluire, salvo diversa scelta dell’aderente, nel comparto più 
+prudente individuato dal Fondo e indicato nella Nota informativa. L’aderente può 
+successivamente variare il comparto nel rispetto del periodo minimo di permanenza. 
+7.  Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò 
+comporta la cessazione dell’erogazione delle rate residue. 
+8.  Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, 
+l’aderente ha la facoltà di richiedere, con riferimento alla sola porzione residua della 
+posizione individuale, il riscatto e l’anticipazione di cui agli artt. 13 e 14, cessata 
+l’erogazione della RITA parziale, ovvero la prestazione pensionistica. 
+9.  In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende 
+automaticamente revocata e viene trasferita l’intera posizione individuale. 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto 
+forma di capitale nel limite del 50 per cento della posizione individuale maturata. Nel 
+computo dell’importo complessivo erogabile in capitale sono detratte le somme 
+erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. Qualora
+=== pagina 10 ===
+Regolamento 
+ 
+ 10 
+l’importo che si ottiene convertendo in rendita vitalizia immediata annua senza 
+reversibilità a favore dell’aderente il 70 per cento della posizione individuale maturata 
+risulti inferiore al 50 per cento dell’assegno sociale di cui all’art. 3, commi 6, 7, della 
+Legge 8 agosto 1995, n. 335, l’aderente può optare per la liquidazione in capitale 
+dell’intera posizione maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto 
+antecedentemente al 29 aprile 1993 ed entro tale data iscritto a una forma 
+pensionistica complementare istituita alla data di entrata in vigore della Legge 23 
+ottobre 1992, n. 421, può richiedere la liquidazione dell’intera prestazione 
+pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, 
+sequestrabilità e pignorabilità in vigore per le pensioni a carico degli istituti di 
+previdenza obbligatoria. 
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda 
+esercitare tale diritto può trasferire la propria posizione individuale presso altra forma 
+pensionistica complementare, per avvalersi delle condizioni di erogazione della rendita 
+vitalizia praticate da quest’ultima. In tal caso si applica quanto previsto dall’art. 13, 
+commi 6 e 7. 
+ 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata 
+una rendita vitalizia immediata calcolata in base alla posizione individuale maturata, al 
+netto della eventuale quota di prestazione da erogare sotto forma di capitale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie 
+di rendita vitalizia di seguito indicate:  
+−   una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in 
+vita e successivamente, in misura totale o per quota scelta dall’aderente stesso, 
+alla/e persona/e da lui designata/e; 
+−   una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i 
+primi 5 o 10 anni all’aderente o, in caso di suo decesso, alla/e persona/e da lui 
+designata/e. Successivamente, se l’aderente è ancora in vita, viene corrisposta 
+allo stesso una rendita vitalizia; 
+− una rendita vitalizia con controassicurazione: detta rendita è corrisposta all’aderente 
+finché in vita; in caso di suo decesso, il montante residuale è corrisposto alla/e 
+persona/e da lui designata/e. 
+3. Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione 
+delle rendite vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) 
+da utilizzare per il relativo calcolo. Tali coefficienti possono essere successivamente 
+variati, nel rispetto della normativa tempo per tempo vigente in materia di stabilità delle 
+compagnie di assicurazione; in ogni caso, le modifiche dei coefficienti di 
+trasformazione non si applicano ai soggetti, già aderenti alla data di introduzione delle 
+modifiche stesse, che esercitano il diritto alla prestazione pensionistica nei tre anni 
+successivi.  
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo 
+riferimento, laddove vi sia l’impegno a non modificare i coefficienti di trasformazione, a 
+quelli indicati nell’Allegato n. 2 e, negli altri casi, a coefficienti individuati dalla COVIP, 
+in modo omogeneo per tutte le forme, in base alle proiezioni ufficiali disponibili 
+sull’andamento della mortalità della popolazione italiana.
+=== pagina 11 ===
+Regolamento 
+ 
+ 11 
+5.  In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale 
+quota di prestazione erogata sotto forma di capitale, l’erogazione della prestazione 
+pensionistica in una delle seguenti forme:  
+a)  rendita a durata definita: detta rendita è erogata per un periodo predeterminato 
+sulla base della vita attesa residua del beneficiario, come determinata dall’ISTAT 
+per il calcolo delle pensioni obbligatorie.  
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal 
+beneficiario, con facoltà per lo stesso di determinarne la tempistica e l’importo nel 
+limite della somma delle rate, maturate e non riscosse, di una rendita teorica con 
+frazionamento annuale, immediatamente erogabile e di durata definita pari alla 
+vita attesa residua, in anni interi, dell’aderente al momento della richiesta della 
+prestazione. 
+6. L’impresa di assicurazione provvede ad erogare direttamente le prestazioni 
+pensionistiche diverse dalla rendita vitalizia con tempestività e comunque non oltre il 
+termine massimo di novanta giorni decorrente dalla ricezione della richiesta. Nel caso 
+in cui la domanda risulti incompleta o insufficiente, l’impresa di assicurazione richiede 
+gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. Il montante residuo è mantenuto 
+in gestione, nel comparto scelto dall’aderente, all’atto della richiesta della prestazione 
+o, in difetto di indicazioni, nel comparto individuato nella Nota informativa. 
+6-bis. Al fine di adeguare i sistemi e i processi operativi dell’impresa di assicurazione per 
+la gestione delle richieste e l’erogazione diretta delle prestazioni, il termine di cui al 
+comma 6 può essere derogato per un periodo transitorio, che non potrà protrarsi oltre 
+il 31 dicembre 2026. Durante tale periodo l’impresa di assicurazione acquisisce le 
+richieste di erogazione delle prestazioni. Successivamente all’avvenuto adeguamento 
+dei suddetti sistemi e processi operativi, l’impresa di assicurazione procede 
+tempestivamente alla liquidazione delle richieste di erogazione delle prestazioni 
+pervenute durante il periodo transitorio. 
+7.  Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non 
+possono essere revocate una volta iniziata la liquidazione, salvo che il beneficiario opti 
+per la conversione del montante residuo in una rendita vitalizia immediata sulla base 
+delle condizioni e dei criteri indicati nella Nota informativa, ovvero trasferisca il 
+montante residuo presso un’altra forma pensionistica all’unico fine di beneficiare delle 
+condizioni di rendita vitalizia offerte da quest’ultima.  
+8.   L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. 
+a) e b) è tenuto ad individuare i soggetti che, in caso di morte del beneficiario, hanno 
+diritto di riscattare il montante residuo. Tale scelta può essere successivamente 
+modificata dall’aderente. 
+9.  Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente 
+non può richiedere trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della 
+variazione del comparto, che può essere richiesta nel rispetto del periodo minimo di 
+partecipazione di cui all’art. 6, comma 2. 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata 
+ulteriore contribuzione al Fondo, salvo il caso in cui l’interessato attivi un nuovo 
+rapporto di lavoro che preveda la maturazione del TFR. 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento 
+delle prestazioni pensionistiche di cui al comma 5, lett. a) e b).
+=== pagina 12 ===
+Regolamento 
+ 
+ 12 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare decorso un periodo minimo di due anni di partecipazione al Fondo. 
+2. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a)   trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare, alla quale acceda in relazione alla nuova attività lavorativa; 
+b)   riscattare il 50 per cento della posizione individuale maturata, in caso di 
+cessazione dell’attività lavorativa che comporti l’inoccupazione per un periodo di 
+tempo non inferiore a dodici mesi e non superiore a quarantotto mesi, ovvero in 
+caso di ricorso da parte del datore di lavoro a procedure di mobilità, cassa 
+integrazione guadagni, ordinaria o straordinaria; 
+c)   riscattare l’intera posizione individuale maturata, in caso di invalidità permanente 
+che comporti la riduzione della capacità di lavoro a meno di un terzo e a seguito di 
+cessazione dell’attività lavorativa che comporti l’inoccupazione per un periodo di 
+tempo superiore a quarantotto mesi.  
+d)   riscattare l’intera posizione individuale maturata, ai sensi dell’art. 14, comma 5 del 
+Decreto ovvero trasferirla ad altra forma pensionistica complementare, qualora 
+vengano meno i requisiti di partecipazione. 
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei 
+diritti di trasferimento e riscatto, può proseguire la partecipazione al Fondo, anche in 
+assenza di ulteriore contribuzione. Tale opzione trova automatica applicazione in 
+difetto di diversa scelta da parte dell’aderente. Nel caso in cui il valore della posizione 
+individuale maturata non sia superiore all’importo di una mensilità dell’assegno sociale 
+di cui all’art. 3, comma 6, della Legge 8 agosto 1995, n. 335, l’impresa di 
+assicurazione informa l’aderente della facoltà di trasferire la propria posizione 
+individuale ad altra forma pensionistica complementare, ovvero di chiedere il riscatto 
+dell’intera posizione di cui al comma 2, lettera d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione 
+pensionistica, ovvero nel corso dell’erogazione della “Rendita integrativa temporanea 
+anticipata” (RITA), la posizione individuale è riscattata dai soggetti designati dallo 
+stesso, siano essi persone fisiche o giuridiche, o in mancanza dagli eredi. In 
+mancanza di tali soggetti, la posizione individuale resta acquisita al Fondo.  
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione. 
+6. L’impresa di assicurazione, accertata la sussistenza dei requisiti, provvede al 
+trasferimento o al riscatto della posizione con tempestività, e comunque non oltre il 
+termine massimo di sessanta giorni decorrente dalla ricezione della richiesta. Nel caso 
+in cui la domanda risulti incompleta o insufficiente, l’impresa di assicurazione richiede 
+gli elementi integrativi e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione 
+della partecipazione al Fondo. 
+ 
+Art. 14 - Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei 
+seguenti casi e misure: 
+a)   in qualsiasi momento, per un importo non superiore al 75 per cento, per spese 
+sanitarie conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per 
+terapie e interventi straordinari riconosciuti dalle competenti strutture pubbliche;
+=== pagina 13 ===
+Regolamento 
+ 
+ 13 
+b)   decorsi otto anni di iscrizione a forme pensionistiche complementari, per un 
+importo non superiore al 75 per cento, per l’acquisto della prima casa di 
+abitazione, per sé o per i figli, o per la realizzazione, sulla prima casa di 
+abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro e 
+di risanamento conservativo, di ristrutturazione edilizia, di cui alle lettere a), b), c) 
+e d) del comma 1, dell’art. 3, del Decreto del Presidente della Repubblica del 6 
+giugno 2001, n. 380;  
+c)   decorsi otto anni di iscrizione a forme pensionistiche complementari, per un 
+importo non superiore al 30 per cento, per la soddisfazione di ulteriori sue 
+esigenze.  
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di 
+anticipazioni sono riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono 
+eccedere il 75 per cento della posizione individuale maturata, incrementata delle 
+anticipazioni percepite e non reintegrate. 
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto 
+all’anticipazione, sono considerati utili tutti i periodi di partecipazione a forme 
+pensionistiche complementari maturati dall’aderente, per i quali lo stesso non abbia 
+esercitato il diritto di riscatto totale della posizione individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta 
+dell’aderente e in qualsiasi momento. 
+6. Le anticipazioni di cui al comma 1 lettera a), sono sottoposte agli stessi limiti di 
+cedibilità, sequestrabilità e pignorabilità, in vigore per le pensioni a carico degli istituti 
+di previdenza obbligatoria. 
+7. L’impresa di assicurazione provvede agli adempimenti conseguenti all’esercizio delle 
+predette facoltà da parte dell’aderente con tempestività e comunque non oltre il 
+termine massimo di sessanta giorni decorrente dalla ricezione della richiesta. Nel caso 
+in cui la domanda risulti incompleta o insufficiente, l’impresa di assicurazione richiede 
+gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. 
+ 
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+ 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e 
+autonomo rispetto sia al patrimonio dell’impresa di assicurazione, sia a quello degli 
+altri fondi gestiti, sia a quello degli aderenti. 
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli 
+aderenti e non può essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori 
+dell’impresa di assicurazione o di rappresentanti dei creditori stessi, né da parte dei 
+creditori degli aderenti o di rappresentanti dei creditori stessi. Il patrimonio del Fondo 
+non può essere coinvolto nelle procedure concorsuali che riguardino l’impresa di 
+assicurazione. 
+4. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza 
+amministrativa e contabile delle operazioni poste in essere per conto del Fondo 
+rispetto al complesso delle altre operazioni svolte dall’impresa di assicurazione e del 
+patrimonio del Fondo rispetto a quello dell’impresa di assicurazione e di suoi clienti.
+=== pagina 14 ===
+Regolamento 
+ 
+ 14 
+5. Ferma restando la responsabilità dell’impresa di assicurazione per l’operato del 
+soggetto delegato, la gestione amministrativa e contabile del Fondo può essere 
+delegata a terzi.  
+6. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza 
+amministrativa e contabile delle operazioni poste in essere in riferimento a ciascun 
+comparto. 
+7. Il patrimonio di ciascun comparto è suddiviso in quote.  
+ 
+Art. 16 - Sistema di governo 
+1.  L’impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla 
+natura, alla portata e alla complessità delle attività del Fondo, l’assolvimento degli 
+obblighi previsti dagli artt. 4-bis, 5-bis, 5-ter, 5-quater, 5-sexies, 5-septies, 5-octies e 5- 
+nonies del Decreto in coerenza con gli assetti organizzativi del rispettivo settore di 
+riferimento. 
+ 
+Art. 17 - Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in 
+possesso dei requisiti previsti dalle vigenti disposizioni normative (di seguito 
+“depositario”).  
+2. L’impresa di assicurazione può revocare in ogni momento l’incarico al depositario il 
+quale può, a sua volta, rinunciare con preavviso di sei mesi; in ogni caso, l’efficacia 
+della revoca o della rinuncia è sospesa fino a che: 
+−   l’impresa di assicurazione non abbia stipulato un nuovo contratto con altro 
+depositario, in possesso dei requisiti di legge; 
+−   il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente. 
+4. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle 
+irregolarità riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP 
+informazioni su atti o fatti di cui sono venuti a conoscenza nell’esercizio delle funzioni 
+di depositario. 
+5. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il 
+depositario non sono ammesse azioni dei creditori del depositario, del subdepositario 
+o nell’interesse degli stessi. 
+ 
+Art. 18 - Responsabile 
+1. L’impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’art. 5, 
+comma 2 del Decreto. 
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del 
+Responsabile sono riportate nell’Allegato n. 1. 
+ 
+Art. 19 – Organismo di rappresentanza 
+1.  È istituito un Organismo di rappresentanza (di seguito “Organismo”), ai sensi dell’art. 
+5, comma 5, del Decreto. 
+2.  Le disposizioni che regolano la nomina, la composizione e il funzionamento 
+dell’Organismo sono riportate in un apposito documento denominato “Disposizioni in 
+materia di Organismo di rappresentanza”.
+=== pagina 15 ===
+Regolamento 
+ 
+ 15 
+3.  L’impresa di assicurazione individua il numero complessivo dei componenti 
+dell’Organismo in modo tale da garantire la rappresentatività degli iscritti per adesioni 
+collettive e la funzionalità dell’Organismo. 
+4.  Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle 
+che alla fine del mese precedente alla designazione hanno almeno 500 lavoratori 
+iscritti al fondo pensione. 
+5.  I componenti dell’Organismo restano in carica tre anni e possono svolgere più 
+mandati. I componenti nominati in sostituzione di quelli cessati in corso di mandato 
+scadono insieme a quelli in carica all’atto della loro nomina. 
+6.  Le spese di funzionamento dell’Organismo e gli eventuali compensi riconosciuti ai suoi 
+componenti, non possono gravare sul fondo né sull’impresa di assicurazione. 
+7.  L’Organismo svolge funzioni di collegamento tra le collettività che aderiscono al 
+Fondo, l’impresa di assicurazione e il Responsabile. L’Organismo non svolge funzioni 
+di controllo. 
+8.  I componenti dell’Organismo devono adempiere le loro funzioni nel rispetto dei principi 
+generali di correttezza e buona fede e devono conservare il segreto sui fatti e sui 
+documenti di cui hanno conoscenza in ragione del loro ufficio. 
+ 
+Art. 20 - Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento 
+redatto ai sensi della normativa tempo per tempo vigente. 
+ 
+Art. 21 - Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del 
+patrimonio e delle posizioni individuali sono effettuate sulla base delle disposizioni 
+emanate dalla COVIP. 
+2. L’impresa di assicurazione conferisce a una società di revisione l’incarico di 
+esprimere, con apposita relazione, un giudizio sul rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web dell’impresa di assicurazione. 
+ 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+ 
+Art. 22 - Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di 
+adesione. L’adesione è preceduta dalla consegna della documentazione informativa 
+prevista tempo per tempo dalla normativa vigente.  
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite 
+all’impresa di assicurazione. 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente 
+mediante lettera di conferma, attestante la data di iscrizione e le informazioni relative 
+all’eventuale versamento effettuato. 
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi 
+allegati, e delle successive modifiche, fatto salvo quanto previsto in tema di 
+trasferimento nell’art. 26. 
+5. In caso di adesione automatica, il Fondo, sulla base dei dati forniti dal datore di lavoro, 
+comunica all’aderente l’avvenuta adesione, il profilo di tipo life cycle nel quale sono
+=== pagina 16 ===
+Regolamento 
+ 
+ 16 
+investiti i contributi, nonché le informazioni necessarie al fine di consentire a 
+quest’ultimo l’esercizio delle scelte di sua competenza. 
+6.  La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o 
+delle dipendenze dell’impresa di assicurazione da parte di addetti a ciò incaricati 
+ovvero tramite la rete di distribuzione dell’impresa di assicurazione. Le adesioni su 
+base collettiva possono essere raccolte anche presso i luoghi indicati nella Nota 
+informativa. 
+7. In caso di adesione mediante le modalità di cui al comma 6, l’aderente ha il diritto di 
+recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di recesso e 
+senza dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente 
+invia una comunicazione scritta all’impresa di assicurazione con modalità che 
+garantiscono certezza della data di ricezione. L’impresa di assicurazione, entro trenta 
+giorni dal ricevimento della comunicazione, procede a rimborsare le somme 
+eventualmente pervenute. 
+In caso di adesione mediante sito web, l’impresa di assicurazione deve acquisire il 
+consenso espresso dell’aderente all’utilizzo di tale strumento. L’aderente ha il diritto di 
+recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di recesso e 
+senza dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente 
+invia una comunicazione scritta all’impresa di assicurazione con modalità che 
+garantiscono certezza della data di ricezione. L’impresa di assicurazione, entro trenta 
+giorni dal ricevimento della comunicazione, procede a rimborsare le somme 
+eventualmente pervenute, al netto delle spese di adesione, ove trattenute.  
+L’impresa di assicurazione rende previamente noti all’aderente il momento in cui 
+l’adesione si intende conclusa, i termini, le modalità e i criteri di determinazione delle 
+somme oggetto di rimborso. 
+8. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi 
+dall’adesione al Fondo. In caso di inadempimento, l’impresa di assicurazione ha 
+facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto comunicando 
+all’aderente la propria volontà di avvalersi della clausola risolutiva espressa, salvo che 
+l’aderente non provveda a effettuare un versamento entro sessanta giorni dalla 
+ricezione della comunicazione. 
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso 
+contributivo con conseguente azzeramento della posizione individuale a seguito 
+dell’applicazione delle spese annuali di gestione amministrativa, l’impresa di 
+assicurazione ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il 
+contratto comunicando la propria volontà di avvalersi della clausola risolutiva 
+espressa, salvo che l’aderente non provveda a effettuare un versamento entro 
+sessanta giorni dalla ricezione della comunicazione. 
+ 
+Art. 23 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. L’impresa di assicurazione mette a disposizione degli aderenti la documentazione 
+inerente al Fondo e tutte le altre informazioni utili, secondo quanto previsto dalle 
+disposizioni COVIP in materia. Tali documenti sono disponibili sul sito web 
+dell’impresa di assicurazione, in un’apposita sezione dedicata alle forme 
+pensionistiche complementari e presso la sede legale dell’impresa di assicurazione. I 
+documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e 
+gratuitamente anche presso le sedi dei soggetti che effettuano l’attività di raccolta 
+delle adesioni.
+=== pagina 17 ===
+Regolamento 
+ 
+ 17 
+2. L’impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative 
+alle posizioni individuali maturate e alle prestazioni erogate, secondo quanto previsto 
+dalla normativa tempo per tempo vigente. 
+ 
+Art. 24 - Comunicazioni e reclami 
+1. L’impresa di assicurazione definisce le modalità con le quali gli aderenti e i beneficiari 
+possono rappresentare le proprie esigenze e presentare reclami in coerenza con le 
+indicazioni fornite dalla COVIP, riportandole nella Nota informativa. 
+ 
+ 
+PARTE VI – NORME FINALI 
+ 
+Art. 25 - Modifiche al Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP. 
+2. L’impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto 
+conto dell’interesse degli aderenti e fatto salvo quanto disposto all’Art. 26. 
+ 
+Art. 26 - Trasferimento in caso di modifiche peggiorative delle condizioni 
+economiche e di modifiche delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante 
+delle condizioni economiche del Fondo, l’aderente interessato dalle suddette 
+modifiche può trasferire la posizione individuale maturata ad altra forma pensionistica 
+complementare, anche prima che siano decorsi due anni dall’iscrizione. Il diritto di 
+trasferimento è altresì riconosciuto quando le modifiche interessano in modo 
+sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione 
+significativa delle politiche di investimento. 
+2. L’impresa di assicurazione comunica a ogni aderente interessato l’introduzione delle 
+modifiche almeno centoventi giorni prima della relativa data di efficacia; dal momento 
+della comunicazione l’aderente ha novanta giorni di tempo per manifestare l’eventuale 
+scelta di trasferimento. L’impresa di assicurazione può chiedere alla COVIP termini 
+ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del Fondo e non 
+contrasti con l’interesse degli aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese. 
+ 
+Art. 27 - Cessione del Fondo 
+1. Qualora l’impresa di assicurazione non voglia o non possa più esercitare l’attività di 
+gestione del Fondo, questo viene ceduto ad altro soggetto, previa autorizzazione 
+all’esercizio. In caso di cessione del Fondo a società diverse da quelle del Gruppo al 
+quale appartiene l’impresa di assicurazione viene riconosciuto agli aderenti il diritto al 
+trasferimento della posizione presso altra forma pensionistica complementare ai sensi 
+dell’art. 26 e con le modalità ivi previste. 
+ 
+Art. 28 - Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che 
+determinano la sua fusione con un altro fondo gestito dalla medesima impresa di 
+assicurazione, il diritto al trasferimento della posizione presso altra forma pensionistica 
+complementare viene riconosciuto qualora ricorrano le condizioni di cui all’art. 26 e 
+con le modalità ivi previste.
+=== pagina 18 ===
+Regolamento 
+ 
+ 18 
+ 
+Art. 29 - Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa 
+riferimento alla normativa tempo per tempo vigente.
+=== pagina 19 ===
+Regolamento 
+ 
+ 19 
+ALLEGATO N. 1 
+ 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+ 
+Art. 1 -  Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione dell’impresa di 
+assicurazione che esercita l’attività del Fondo. L’incarico ha durata triennale ed è 
+rinnovabile, anche tacitamente, per non più di una volta consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in 
+cui viene nominato il nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere 
+dell’organo di controllo dell’impresa di assicurazione. 
+4. Le nomine, gli eventuali rinnovi dell’incarico e le sostituzioni del Responsabile prima 
+della scadenza del termine vengono comunicati alla COVIP entro quindici giorni dalla 
+deliberazione. 
+ 
+Art. 2 -  Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile, sono previsti dalla normativa 
+tempo per tempo vigente. 
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a)   lo svolgimento di attività di lavoro subordinato e di prestazione d’opera 
+continuativa presso l’impresa di assicurazione o società da questa controllate o 
+che la controllano; 
+b)   l’incarico di amministratore dell’impresa di assicurazione. 
+ 
+Art. 3 -  Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di 
+incompatibilità comporta la decadenza dall’incarico. 
+ 
+Art. 4 -  Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di 
+amministrazione all’atto della nomina per l’intero periodo di durata dell’incarico e viene 
+definita sulla base di una sana politica di remunerazione che tenga conto dei principi 
+previsti dalla normativa tempo per tempo vigente, fermo restando che il compenso del 
+Responsabile non può essere pattuito sotto forma di partecipazione agli utili 
+dell’impresa di assicurazione, o di società controllanti o controllate, né sotto forma di 
+diritti di acquisto o di sottoscrizione di azioni dell’impresa di assicurazione o di società 
+controllanti o controllate. 
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile 
+sono poste a carico del Fondo, salva diversa decisione dell’impresa di assicurazione. 
+ 
+Art. 5 -  Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente 
+dall’impresa di assicurazione, riportando direttamente all’organo di amministrazione 
+della stessa relativamente ai risultati dell’attività svolta.
+=== pagina 20 ===
+Regolamento 
+ 
+ 20 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative 
+dell’impresa di assicurazione, di volta in volta necessarie allo svolgimento dell’incarico 
+e all’adempimento dei doveri di cui all’art. 6. L’impresa di assicurazione gli garantisce 
+l’accesso a tutte le informazioni necessarie allo scopo. 
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di 
+controllo dell’impresa di assicurazione, per tutte le materie inerenti al Fondo.  
+ 
+Art. 6 -  Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse 
+degli aderenti e dei beneficiari e vigila sull’osservanza della normativa e del 
+Regolamento nonché sul rispetto delle buone pratiche e dei principi di corretta 
+amministrazione del Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dall’impresa di assicurazione, 
+organizza lo svolgimento delle sue funzioni al fine di: 
+a)   vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento 
+a terzi di deleghe di gestione, con riferimento ai controlli su: 
+i) la politica di investimento. In particolare: che la politica di investimento 
+effettivamente seguita sia coerente con quella indicata nel Regolamento e nel 
+Documento sulla politica di investimento e che gli investimenti, ivi compresi 
+quelli effettuati in OICR, avvengano nell’esclusivo interesse degli aderenti, nel 
+rispetto dei principi di sana e prudente gestione nonché nel rispetto dei criteri 
+e limiti previsti dalla normativa tempo per tempo vigente e dal Regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con 
+gli investimenti effettuati siano correttamente identificati, misurati e controllati e 
+che siano coerenti con gli obiettivi perseguiti dalla politica di investimento; 
+b)   vigilare sulla gestione amministrativa del Fondo, anche nel caso di 
+conferimento a terzi di deleghe di gestione, con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per 
+conto del Fondo rispetto al complesso delle altre operazioni svolte 
+dall’impresa di assicurazione e del patrimonio del Fondo rispetto a quello 
+dell’impresa di assicurazione e di suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei 
+beneficiari con riferimento ai controlli su: 
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze 
+informative degli aderenti e dei beneficiari, sia al momento del collocamento 
+del Fondo che durante il rapporto; 
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei 
+beneficiari previste dal Regolamento e le eventuali commissioni correlate ai 
+risultati di gestione siano correttamente applicate; 
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni 
+periodiche agli aderenti e ai beneficiari e in quelle inviate in occasione di 
+eventi particolari; 
+iv) l’adeguatezza della procedura per la gestione dei reclami nonché il 
+trattamento riservato ai singoli reclami; 
+v) la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare 
+con riferimento ai tempi di liquidazione delle somme richieste a titolo di 
+anticipazione o riscatto e di trasferimento della posizione individuale.
+=== pagina 21 ===
+Regolamento 
+ 
+ 21 
+3. Il Responsabile controlla le soluzioni adottate dall’impresa di assicurazione per 
+identificare le situazioni di conflitti di interesse e per evitare che le stesse arrechino 
+pregiudizio agli aderenti e ai beneficiari; egli controlla altresì la corretta esecuzione del 
+contratto stipulato per il conferimento dell’incarico di depositario, nonché il rispetto 
+delle convenzioni assicurative/condizioni per l’erogazione delle rendite e, ove presenti, 
+delle convenzioni/condizioni relative alle prestazioni accessorie. 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà 
+tempestiva comunicazione all’organo di amministrazione e a quello di controllo 
+dell’impresa di assicurazione indicando gli interventi correttivi da adottare. 
+ 
+Art. 7 -  Rapporti con la COVIP 
+1. Il Responsabile: 
+a)   predispone annualmente una relazione che descrive in maniera analitica 
+l’organizzazione adottata per l’adempimento dei suoi doveri e che dà conto della 
+congruità delle procedure di cui si avvale per l’esecuzione dell’incarico, dei risultati 
+dell’attività svolta, delle eventuali irregolarità riscontrate durante l’anno e delle 
+iniziative poste in essere per eliminarle. La relazione viene trasmessa alla COVIP 
+entro il 31 marzo di ciascun anno. Copia della relazione stessa viene trasmessa 
+all’organo di amministrazione e a quello di controllo dell’impresa di assicurazione; 
+b)   vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate 
+alla stessa le segnalazioni, la documentazione e le relazioni richieste dalla 
+normativa tempo per tempo vigente e dalle istruzioni emanate in proposito; 
+c)   comunica alla COVIP, contestualmente alla segnalazione all’organo di 
+amministrazione e a quello di controllo dell’impresa di assicurazione, le irregolarità 
+riscontrate nell’esercizio delle sue funzioni. 
+ 
+Art. 8 -  Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza 
+richieste dalla natura dell’incarico e dalla sua specifica competenza e deve conservare 
+il segreto sui fatti e sui documenti di cui ha conoscenza in ragione del suo ufficio, 
+tranne che nei confronti della COVIP e delle autorità giudiziarie. 
+2. Egli risponde verso l’impresa di assicurazione e verso i singoli aderenti e beneficiari 
+del Fondo dei danni a ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391, 2392, 
+2393, 2394, 2394-bis e 2395 del Codice Civile.
+=== pagina 22 ===
+Regolamento 
+ 
+ 22 
+ALLEGATO N. 2 
+ 
+CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE 
+ 
+1.1 Ammontare della rendita 
+L’importo della rendita annua vitalizia si ottiene dividendo il valore della posizione 
+individuale destinato a costituire la rendita di cui all’art. 12, comma 1, del Regolamento, 
+per il coefficiente, individuato in base all’età dell’Iscritto e alla rateizzazione prescelta, in 
+vigore al momento della richiesta della prestazione. 
+Nel caso di rateizzazione della rendita nel corso dell’anno, il valore della singola rata è 
+calcolato dividendo l’importo della rendita annua vitalizia, come sopra determinato, per il 
+numero delle rate previste. 
+I coefficienti per la trasformazione in rendita, riportati nella allegata tabella A, sono validi 
+per tutti gli Iscritti che facciano richiesta della prestazione di rendita prima della eventuale 
+sostituzione dei medesimi coefficienti. 
+L’Iscritto può richiedere, in luogo della rendita annua vitalizia, che la prestazione 
+pensionistica venga erogata in una delle seguenti forme: 
+a) una rendita vitalizia reversibile: detta rendita è corrisposta all’Iscritto finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’Iscritto stesso, alla persona 
+da lui designata tra i soggetti previsti dal sistema previdenziale obbligatorio; 
+b) una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 
+anni all’Iscritto stesso o, in caso di suo decesso, alla persona o alle persone da lui 
+designate tra i soggetti previsti dal sistema previdenziale obbligatorio e, 
+successivamente, all’Iscritto finché è in vita; 
+c) una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 10 
+anni all’Iscritto stesso o, in caso di suo decesso, alla persona o alle persone da lui 
+designate tra i soggetti previsti dal sistema previdenziale obbligatorio e, 
+successivamente, all’Iscritto finché è in vita; 
+d) una rendita vitalizia con controassicurazione: detta rendita è corrisposta all’aderente 
+finché in vita; in caso di suo decesso, il montante residuo è corrisposto alla/e 
+persona/e da lui designata/e. 
+I coefficienti per la conversione in rendita certa a 5 o 10 anni e in rendita vitalizia con 
+controassicurazione sono contenuti rispettivamente nelle successive tabelle B, C e D, 
+mentre la documentazione contenente i coefficienti per la determinazione delle prestazioni 
+di reversibilità sono depositati presso la sede del Fondo. 
+ 
+1.2 Erogazione della rendita 
+Gli importi delle rate di rendita vengono erogati in via posticipata e la rateazione è scelta 
+dall’Iscritto. Di conseguenza la prima rata di rendita viene corrisposta al termine del 
+periodo di rateazione prescelta dall’Iscritto. L’ultima rata di rendita verrà erogata all’epoca 
+dell’ultima scadenza di rata che precede la morte dell’Iscritto assicurato. La rateazione non 
+è modificabile nel corso dell’erogazione della rendita. 
+Non è consentito il riscatto della rendita.  
+Per i pagamenti debbono essere preventivamente consegnati al Fondo i documenti 
+necessari a verificare l'effettiva esistenza dell'obbligo di pagamento e ad individuare gli 
+aventi diritto mentre il Fondo si riserva la facoltà di accertare l’esistenza in vita attraverso 
+opportuna certificazione.
+=== pagina 23 ===
+Regolamento 
+ 
+ 23 
+Il pagamento della rendita viene eseguito mediante bonifico bancario alla scadenza delle 
+rate convenute. L’Iscritto dovrà dare comunicazione al Fondo pensione del c/c bancario e 
+delle coordinate bancarie (IBAN) sul quale accreditare gli importi. In caso di variazione del 
+c/c bancario l’Iscritto dovrà darne comunicazione al Fondo pensione con tre mesi di 
+anticipo rispetto alla data di corresponsione della rata. 
+ 
+1.3 Caricamento, basi demografiche e finanziarie 
+La base demografica utilizzata nel calcolo dei coefficienti indifferenziati per sesso è la 
+tavola A62D (impegni differiti) con combinazione 70% maschi e 30% femmine, mentre il 
+tasso tecnico è pari a 0,00%. 
+Il costo dell’erogazione della rendita è fissato in misura pari a 1,25% della rendita annua 
+stessa, maggiorato di tante volte lo 0,125% per quante sono le rate di rendita dovute 
+nell’anno, diminuite di uno. Tali spese sono considerate nella determinazione dei 
+coefficienti di conversione. 
+Come indicato nel Regolamento, i coefficienti di conversione possono essere 
+periodicamente rideterminati nel rispetto della normativa in materia di stabilità delle 
+compagnie di assicurazione e delle relative disposizioni applicative emanate dall’ISVAP: in 
+ogni caso, le modifiche dei coefficienti di trasformazione non avranno effetto sulle rendite 
+già in corso di erogazione e non si applicano ai soggetti già aderenti alla data di 
+introduzione delle modifiche stesse che esercitano il diritto alla prestazione pensionistica 
+nei tre anni successivi. 
+ 
+1.4 Rivalutazione della rendita 
+La Società gestisce le attività a copertura degli impegni assunti (riserva matematica) nella 
+Gestione Speciale “ALFIERE” con le modalità e i criteri previsti nel relativo regolamento 
+allegato. 
+L’importo della rendita viene rivalutato ad ogni anniversario della data di inizio della 
+corresponsione della rendita nella misura e con le modalità di seguito indicate. 
+A) Misura annua di rivalutazione 
+La Società dichiara, entro il 31 dicembre di ciascun anno, il rendimento annuo da attribuire 
+pari al rendimento di cui all’art. 6 del Regolamento di ALFIERE al netto di una percentuale 
+trattenuta pari a 1,00%.  
+Il rendimento così attribuito costituisce la misura annua di rivalutazione. La Società 
+garantisce una misura annua minima di rivalutazione pari a 0,00%. 
+B) Rivalutazione della rendita 
+Ad ogni anniversario della data di inizio della corresponsione della rendita, essa viene 
+rivalutata mediante aumento, a totale carico della Società, della riserva matematica 
+costituitasi a tale epoca. Tale aumento viene determinato secondo la misura annua di 
+rivalutazione sopra indicata, entro il 31 dicembre che precede la suddetta ricorrenza. 
+Da tale ricorrenza la rendita assicurata viene aumentata della stessa misura e quindi la 
+rendita stessa si considera come determinata sin dall’origine per il nuovo importo 
+assicurato. Segue che ciascuna rivalutazione viene applicata alle somme in essere, 
+comprensive di quelle derivanti da precedenti rivalutazioni.
+=== pagina 24 ===
+Regolamento 
+ 
+ 24 
+Tabella A- Rendita vitalizia - Coefficienti di conversione 
+ 
+Assicurati di sesso maschile e femminile 
+Età (*) Annuale Semestrale Trimestrale Mensile 
+50         38,6003          38,8535          38,9800          39,0644  
+51         37,6345          37,8876          38,0142          38,0985  
+52         36,6709          36,9240          37,0506          37,1350  
+53         35,7099          35,9630          36,0896          36,1740  
+54         34,7521          35,0052          35,1318          35,2162  
+55         33,7976          34,0507          34,1773          34,2616  
+56         32,8463          33,0994          33,2260          33,3104  
+57         31,8981          32,1512          32,2778          32,3622  
+58         30,9528          31,2059          31,3325          31,4168  
+59         30,0101          30,2632          30,3898          30,4741  
+60         29,0706          29,3237          29,4502          29,5346  
+61         28,1350          28,3881          28,5147          28,5990  
+62         27,2048          27,4579          27,5845          27,6689  
+63         26,2810          26,5341          26,6607          26,7450  
+64         25,3644          25,6175          25,7441          25,8285  
+65         24,4551          24,7082          24,8348          24,9191  
+66         23,5514          23,8046          23,9311          24,0155  
+67         22,6524          22,9055          23,0321          23,1165  
+68         21,7585          22,0116          22,1382          22,2225  
+69         20,8699          21,1230          21,2496          21,3340  
+70         19,9876          20,2408          20,3673          20,4517  
+71         19,1128          19,3659          19,4925          19,5769  
+72         18,2465          18,4997          18,6262          18,7106  
+73         17,3912          17,6443          17,7708          17,8552  
+74         16,5481          16,8012          16,9277          17,0121  
+75         15,7184          15,9715          16,0981          16,1825  
+76         14,9030          15,1561          15,2826          15,3670  
+77         14,1027          14,3558          14,4824          14,5667  
+78         13,3198          13,5729          13,6995          13,7839  
+79         12,5587          12,8118          12,9384          13,0228  
+80         11,8206          12,0737          12,2003          12,2847  
+ 
+Tabella B - Rendita certa 5 anni e successivamente vitalizia - Coefficienti di conversione 
+ 
+Assicurati di sesso maschile e femminile 
+Età (*) Annuale Semestrale Trimestrale Mensile 
+50         38,6207          38,8738          39,0004          39,0848  
+51         37,6565          37,9097          38,0362          38,1206  
+52         36,6949          36,9480          37,0745          37,1589  
+53         35,7359          35,9890          36,1156          36,2000  
+54         34,7803          35,0334          35,1599          35,2443  
+55         33,8279          34,0811          34,2076          34,2920  
+56         32,8790          33,1322          33,2587          33,3431  
+57         31,9334          32,1865          32,3131          32,3975  
+58         30,9911          31,2442          31,3707          31,4551  
+59         30,0520          30,3051          30,4317          30,5161  
+60         29,1169          29,3700          29,4965          29,5809  
+61         28,1864          28,4395          28,5661          28,6504  
+62         27,2618          27,5149          27,6415          27,7259  
+63         26,3439          26,5970          26,7236          26,8079  
+64         25,4333          25,6864          25,8129          25,8973  
+65         24,5300          24,7831          24,9097          24,9940  
+66         23,6329          23,8860          24,0126          24,0969  
+67         22,7413          22,9945          23,1210          23,2054  
+68         21,8562          22,1093          22,2358          22,3202  
+69         20,9780          21,2311          21,3577          21,4421  
+70         20,1082          20,3613          20,4879          20,5722  
+71         19,2480          19,5012          19,6277          19,7121  
+72         18,3991          18,6522          18,7788          18,8631  
+73         17,5636          17,8168          17,9433          18,0277  
+74         16,7437          16,9968          17,1233          17,2077  
+75         15,9409          16,1941          16,3206          16,4050  
+76         15,1571          15,4102          15,5368          15,6212  
+77         14,3938          14,6470          14,7735          14,8579  
+78         13,6536          13,9067          14,0333          14,1177  
+79         12,9400          13,1932          13,3197          13,4041  
+80         12,2549          12,5080          12,6345          12,7189
+=== pagina 25 ===
+Regolamento 
+ 
+ 25 
+Tabella C - Rendita certa 10 anni e successivamente vitalizia - Coefficienti di conversione 
+ 
+Assicurati di sesso maschile e femminile 
+Età (*) Annuale Semestrale Trimestrale Mensile 
+50         38,6867          38,9399          39,0664          39,1508  
+51         37,7279          37,9810          38,1076          38,1919  
+52         36,7720          37,0252          37,1517          37,2361  
+53         35,8196          36,0727          36,1992          36,2836  
+54         34,8711          35,1242          35,2508          35,3352  
+55         33,9269          34,1800          34,3066          34,3910  
+56         32,9872          33,2403          33,3669          33,4512  
+57         32,0518          32,3050          32,4315          32,5159  
+58         31,1210          31,3741          31,5007          31,5851  
+59         30,1947          30,4478          30,5744          30,6587  
+60         29,2735          29,5266          29,6532          29,7376  
+61         28,3582          28,6114          28,7379          28,8223  
+62         27,4502          27,7034          27,8299          27,9143  
+63         26,5504          26,8035          26,9301          27,0145  
+64         25,6599          25,9130          26,0396          26,1239  
+65         24,7791          25,0322          25,1588          25,2432  
+66         23,9079          24,1611          24,2876          24,3720  
+67         23,0466          23,2998          23,4263          23,5107  
+68         22,1967          22,4498          22,5763          22,6607  
+69         21,3597          21,6128          21,7393          21,8237  
+70         20,5378          20,7910          20,9175          21,0019  
+71         19,7336          19,9868          20,1133          20,1977  
+72         18,9494          19,2025          19,3291          19,4135  
+73         18,1881          18,4412          18,5678          18,6521  
+74         17,4521          17,7052          17,8318          17,9162  
+75         16,7441          16,9972          17,1238          17,2081  
+76         16,0664          16,3196          16,4461          16,5305  
+77         15,4217          15,6748          15,8014          15,8858  
+78         14,8130          15,0662          15,1927          15,2771  
+79         14,2446          14,4977          14,6243          14,7086  
+80         13,7195          13,9726          14,0992          14,1836  
+ 
+Tabella D - Rendita con controassicurazione - Coefficienti di conversione 
+ 
+Assicurati di sesso maschile e femminile 
+Età (*) Annuale Semestrale Trimestrale Mensile 
+50 44,6091 44,9176 45,1555 45,6853 
+51 43,5987 43,9060 44,1413 44,6611 
+52 42,5884 42,8944 43,1272 43,6371 
+53 41,5783 41,8831 42,1134 42,6133 
+54 40,5684 40,8719 41,0998 41,5897 
+55 39,5587 39,8610 40,0863 40,5663 
+56 38,5493 38,8503 39,0732 39,5432 
+57 37,5401 37,8399 38,0603 38,5203 
+58 36,5312 36,8297 37,0476 37,9029 
+59 35,5225 35,8198 36,4367 36,8808 
+60 34,5141 34,8101 35,4249 35,8590 
+61 33,5060 34,2021 34,4134 34,8376 
+62 32,4984 33,1936 33,4025 33,8167 
+63 31,4913 32,1857 32,3921 32,7963 
+64 30,8869 31,1785 31,3824 31,7767 
+65 29,8816 30,1720 30,3734 30,7578 
+66 28,8770 29,1661 29,3651 29,7395 
+67 27,8730 28,1609 28,3573 28,7219 
+68 26,8697 27,1563 27,3503 27,7050 
+69 25,8671 26,1525 26,3440 27,1155 
+70 24,8655 25,1496 25,7622 26,1012 
+71 23,8648 24,5713 24,7589 25,0881 
+72 23,2896 23,5718 23,7570 24,0763 
+73 22,2931 22,5740 22,7567 23,0662 
+74 21,2984 21,5781 21,7584 22,0580 
+75 20,3059 20,5844 20,7622 21,0520 
+76 19,3158 19,5931 20,2108 20,4952 
+77 18,3284 19,0484 19,2224 19,4971 
+78 17,7906 18,0660 18,2376 18,5026 
+79 16,8137 17,0879 17,2570 17,5124 
+80 15,8415 16,1145 16,7264 16,9765
+=== pagina 26 ===
+Regolamento 
+ 
+ 26 
+(*) Si intende per età quella raggiunta al momento dell’erogazione della rendita rettificata secondo 
+i valori “shift” indicati nelle seguenti tabelle e dipendenti dall’anno di generazione: 
+ 
+Assicurati di sesso maschile e femminile 
+GENERAZIONE   
+Da Fino a Correzione età 
+  1907 7 
+1908 1917 6 
+1918 1921 5 
+1922 1925 4 
+1926 1937 3 
+1938 1947 2 
+1948 1957 1 
+1958 1966 0 
+1967 1978 -1 
+1979 1990 -2 
+1991 2003 -3 
+2004 2017 -4 
+2018 2020 -5 
+2021   -6
+=== pagina 27 ===
+Regolamento 
+ 
+ 27 
+ 
+REGOLAMENTO DELLA GESTIONE SEPARATA “ALFIERE” 
+ 
+Articolo 1 – Denominazione della Gestione Separata. Periodo di osservazione e 
+valuta della Gestione Separata. Ammontare minimo delle attività della Gestione 
+Separata 
+La Società gestisce, con le modalità stabilite dal presente Regolamento che costituisce 
+parte integrante delle Condizioni Contrattuali ed è redatto ai sensi del Regolamento ISVAP 
+n. 38 del 3 giugno 2011, un portafoglio di valori mobiliari - di sua esclusiva proprietà ma 
+amministrato separatamente dalle altre attività della Società - denominato "ALFIERE" (di 
+seguito “Gestione Separata”). 
+Il periodo di osservazione della Gestione Separata decorre dal 1° gennaio e termina il 31 
+dicembre di ciascun anno. La Gestione Separata è denominata in euro. 
+Il valore delle attività della Gestione Separata sarà non inferiore all'importo delle riserve 
+matematiche costituite per i contratti le cui prestazioni si rivalutano in base ai rendimenti 
+realizzati dalla Gestione Separata stessa. 
+Articolo 2 – Obiettivi e politiche di investimento della Gestione Separata 
+La finalità della gestione è quella di ottimizzare il profilo di rischio-rendimento del 
+portafoglio gestito, in un orizzonte temporale di medio/lungo periodo, tenendo presenti le 
+garanzie offerte dai contratti collegati alla gestione stessa. 
+La Gestione Separata investe le proprie risorse nei seguenti strumenti finanziari, 
+principalmente denominati in Euro: 
+▪ Titoli Obbligazionari Governativi, ossia emessi o garantiti da Stati membri dell'Unione 
+Europea o appartenenti all'OCSE, ovvero emessi da enti locali o da enti pubblici di 
+Stati membri o da organizzazioni internazionali cui aderiscono uno o più di detti Stati 
+membri; 
+▪ Titoli Obbligazionari Corporate, ossia obbligazioni od altri titoli assimilabili negoziati in 
+un mercato regolamentato o, se non negoziati in un mercato regolamentato, emessi 
+da società o enti creditizi aventi la sede legale in uno Stato membro dell'Unione 
+Europea o appartenenti all'OCSE, il cui bilancio sia da almeno 3 anni certificato da 
+parte di una società di revisione debitamente autorizzata; 
+▪ Quote di OICR; 
+▪ Azioni negoziate in un mercato regolamentato; 
+▪ In via residuale, altri investimenti ammissibili secondo la normativa vigente in materia 
+di attivi a copertura delle riserve tecniche. 
+Non è inoltre esclusa la presenza di una componente di liquidità, costituita da depositi 
+bancari e pronti contro termine, nel limite massimo del 20%. 
+L’investimento nel comparto azionario, per il tramite di azioni quotate o di quote di OICR 
+azionari, non supera il 25% del patrimonio della Gestione Separata. 
+L’investimento in OICR, indipendentemente dalla categoria di appartenenza, non supera il 
+30% del patrimonio della Gestione Separata. 
+L’investimento in Titoli Obbligazionari Governativi emessi dallo Stato Italiano o da altri 
+Stati membri dell'Unione Europea, purché questi ultimi siano classificati di “elevata qualità 
+creditizia” sulla base del sistema interno di valutazione del merito di credito adottato dalla 
+Società, può rappresentare il 100% del patrimonio della Gestione Separata. 
+L’investimento in Titoli Obbligazionari Corporate, opportunamente ripartiti tra finanziari e 
+non, di emittenti classificati di “buona qualità creditizia” sulla base del suddetto sistema
+=== pagina 28 ===
+Regolamento 
+ 
+ 28 
+interno di valutazione, può rappresentare fino al 75% del patrimonio della Gestione 
+Separata. 
+Il sistema interno di valutazione del merito di credito può prendere in considerazione, tra 
+gli altri elementi di carattere qualitativo e quantitativo, i giudizi espressi da una o più delle 
+principali agenzie di rating del credito, senza tuttavia fare meccanicamente affidamento su 
+di essi. 
+Le posizioni di portafoglio non rilevanti possono essere classificate di “buona qualità 
+creditizia” se hanno ricevuto l’assegnazione di un rating almeno pari ad “A-“da parte di 
+almeno una delle citate agenzie di rating e di “elevata qualità creditizia” se il rating 
+assegnato è almeno pari a “AA-“. 
+Al fine di contenere il rischio di concentrazione, i titoli corporate emessi da uno stesso 
+emittente o da Società appartenenti allo stesso Gruppo, con esclusione di quelli 
+riconducibili al Gruppo di appartenenza della Società, non possono superare il 5% del 
+patrimonio della Gestione Separata. 
+In coerenza con principi di una sana e prudente gestione delle risorse dalla Gestione 
+Separata e nel rispetto delle condizioni previste dalla normativa vigente in materia di attivi 
+a copertura delle riserve tecniche, non è escluso l’utilizzo di strumenti finanziari derivati, 
+aventi come sottostante tassi di interesse, cambi, azioni o indici connessi alle precedenti 
+categorie di attivi e credito, con lo scopo sia di realizzare un’efficace gestione del 
+portafoglio, sia di ridurre la rischiosità delle attività finanziarie presenti nella Gestione 
+stessa. 
+Nell’ambito della politica di investimento della Gestione Separata, non è esclusa la 
+possibilità di investire in strumenti finanziari e in quote di OICR emessi o gestiti da Società 
+controparti di HDI Assicurazioni S.p.A. ai sensi dell’articolo 5 del Regolamento ISVAP n. 25 
+del 27 maggio 2008. Per assicurare la tutela dei Contraenti da possibili situazioni di conflitto 
+di interesse, tali investimenti non potranno comunque eccedere il 30% del patrimonio totale 
+della Gestione. 
+ 
+ 
+Articolo 3 – Rendimento della Gestione Separata 
+3.a. Il rendimento annuo della Gestione Separata, relativo al periodo di osservazione 
+indicato al precedente punto 1., è determinato rapportando il risultato finanziario della 
+Gestione Separata di competenza di quel periodo alla giacenza media delle attività 
+della Gestione stessa nello stesso periodo. 
+Il risultato finanziario della Gestione Separata è costituito dai proventi finanziari di 
+competenza conseguiti dalla Gestione stessa, comprensivi degli scarti di emissione e 
+di negoziazione di competenza, dagli utili realizzati e dalle perdite sofferte nello stesso 
+periodo. Gli utili e le perdite da realizzo sono determinati con riferimento al valore di 
+iscrizione delle corrispondenti attività nel libro mastro della Gestione Separata e cioè 
+al prezzo di acquisto per i beni di nuova acquisizione ed al valore di mercato all'atto 
+dell'iscrizione nella Gestione Separata per i beni già di proprietà della Compagnia. Gli 
+utili realizzati comprendono anche quelli derivanti dalla retrocessione di commissioni o 
+di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi e riconducibili 
+al patrimonio della Gestione Separata. Il risultato finanziario è calcolato al netto delle 
+spese indicate al successivo Articolo 4. di competenza del periodo ed al lordo delle 
+ritenute di acconto fiscale. 
+La giacenza media delle attività della Gestione Separata è pari alla somma delle 
+giacenze medie nel periodo di osservazione dei depositi in numerario, degli 
+investimenti e di ogni altra attività della Gestione Separata. La giacenza media nel
+=== pagina 29 ===
+Regolamento 
+ 
+29 
+ 
+ 
+periodo di osservazione degli investimenti e delle altre attività è determinata in base al 
+valore di iscrizione nel libro mastro della Gestione Separata. 
+3.b. Nel corso del periodo di osservazione, vengono inoltre determinati i rendimenti annui 
+della Gestione Separata riferiti a ciascuno degli 11 periodi di dodici mesi che si 
+chiudono nel suddetto periodo di osservazione. 
+Il rendimento annuo realizzato in ciascun di tali periodi si determina con le medesime 
+modalità indicate alla precedente lettera 3.a., rapportando il risultato finanziario della 
+Gestione Separata di competenza del periodo considerato, alla giacenza media delle 
+attività della Gestione Separata nello stesso periodo. 
+Articolo 4 – Spese a carico della Gestione Separata 
+Gravano sulla Gestione Separata unicamente le spese relative all’attività di verifica 
+contabile effettuata dalla società di revisione e quelle effettivamente sostenute per 
+l’acquisto e la vendita delle attività della gestione separata. Non sono previste altre forme 
+di prelievo, in qualsiasi modo effettuate. 
+Articolo 5 – Certificazione della Gestione Separata 
+La Gestione Separata è annualmente sottoposta a verifica da parte di una Società di 
+revisione iscritta nell’apposito registro previsto dalla normativa vigente. 
+ 
+Articolo 6 – Modifiche al Regolamento. Incorporazione o fusione con altre Gestioni 
+Separate della Compagnia 
+Al presente Regolamento possono essere apportate le modifiche che si rendessero 
+necessarie per il suo adeguamento alla normativa primaria e secondaria vigente. Il 
+presente Regolamento potrà essere inoltre modificato nel caso di mutamento dei criteri 
+gestionali, a condizione che il mutamento stesso non sia sfavorevole per i Contraenti. 
+La Società si riserva la facoltà di coinvolgere la Gestione Separata in operazioni di 
+incorporazione o fusione con altre Gestioni Separate della Società stessa, aventi 
+caratteristiche analoghe ed omogenee politiche di investimento, qualora le suddette 
+operazioni risultino opportune nell'interesse dei Contraenti. Almeno 60 giorni prima della 
+data stabilita per l'operazione di incorporazione o di fusione, la Compagnia ne dà 
+preavviso ai Contraenti fornendo i dettagli dell'operazione stessa.

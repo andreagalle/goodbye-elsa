@@ -1,10 +1,10 @@
 {
-  "versione": "be7006f-dirty (sviluppo)",
-  "generato_il": "2026-10-09T05:28:00+00:00",
+  "versione": "7f6ec23-dirty (sviluppo)",
+  "generato_il": "2026-10-10T10:03:11+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
-  "workbook_modificato_il": "2026-10-09T05:28:00",
-  "workbook_sha256": "05431116d108336ba6bc744df458f109d14c1bbd24eb4096ab96c0cc6b7af4c6",
-  "commit": "be7006f78b294c5972e06c4b28d33e6753985374",
+  "workbook_modificato_il": "2026-10-10T09:36:04",
+  "workbook_sha256": "226614f84cd0bd759e08fea9ba8f8daa93ca012a4441e5841d9413c9ccb50650",
+  "commit": "7f6ec23f3581b5725f85dc1369fb80444dc5de2e",
   "licenza": {
     "nome": "The Unlicense",
     "spdx": "Unlicense",
@@ -19,8 +19,8 @@
     "fondi_con_anomalie": 19,
     "regole": 32,
     "glossario": 49,
-    "fondi_con_prestazioni": 26,
-    "prestazioni_con_rendita_67": 16
+    "fondi_con_prestazioni": 32,
+    "prestazioni_con_rendita_67": 24
   },
   "flag": {
     "comparti": {

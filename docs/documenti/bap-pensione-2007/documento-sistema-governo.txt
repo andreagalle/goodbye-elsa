@@ -1,0 +1,889 @@
+# Fondo: BAP PENSIONE 2007 FONDO PENSIONE APERTO (bap-pensione-2007)
+# Documento: Documento sul sistema di governo – Documento sul sistema di governo
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/altro/012/ISPA_PGG005%202026%20Direttive%20Governo%20Societario_acc%202.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/bappensione-2007.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 892867dfa744340f4d09151e9202512deefb4cc3f76cce63c1a64e7f10593c4f
+# Pagine: 25
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Direttive in materia di sistema di 
+governo societario di Intesa 
+Sanpaolo Assicurazioni S.p.A. 
+Approvata dal CdA del 25/02/2026
+=== pagina 2 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 2 
+INDICE 
+INDICE ................................................................................................................................... 2 
+PREMESSA ............................................................................................................................. 3 
+1. AUTOVALUTAZIONE SUL SISTEMA DI GOVERNO SOCIETARIO DI INTESA SANPAOLO 
+ASSICURAZIONI .................................................................................................................... 5 
+2. IL MODELLO ORGANIZZATIVO DI INTESA SANPAOLO ASSICURAZIONI ........................ 6 
+3. IL SISTEMA DI TRASMISSIONE DELLE INFORMAZIONI DI INTESA SANPAOLO 
+ASSICURAZIONI .................................................................................................................. 13 
+4. IL SISTEMA DI GESTIONE DEI RISCHI DI INTESA SANPAOLO ASSICURAZIONI .............. 14 
+5. IL SISTEMA DI CONTROLLO INTERNO DI INTESA SANPAOLO ASSICURAZIONI ............ 14 
+6. REQUISITI DI IDONEITÀ ALLA CARICA PER INTESA SANPAOLO ASSICURAZIONI ........ 15 
+7. LE FUNZIONI FONDAMENTALI DI INTESA SANPAOLO ASSICURAZIONI ....................... 16 
+8. RISPETTO DELLE DISPOSIZIONI NORMATIVE IN MERITO AL GOVERNO SOCIETARIO DI 
+INTESA SANPAOLO ASSICURAZIONI ................................................................................. 17 
+9. FONDI PENSIONE APERTI ISTITUITI DA INTESA SANPAOLO ASSICURAZIONI ................ 19 
+9.1. Autovalutazione sul sistema di governo societario di Intesa Sanpaolo Assicurazioni 
+per i Fondi Pensione ......................................................................................................... 19 
+9.2. Modello organizzativo di Intesa Sanpaolo Assicurazioni per i Fondi Pensione 
+Aperti……………………………………………………………………………………………….21 
+9.3. Sistema di trasmissione delle informazioni di Intesa Sanpaolo Assicurazioni per i 
+Fondi Pensione Aperti ...................................................................................................... 23 
+9.4 Il sistema di gestione dei rischi di Intesa Sanpaolo Assicurazioni per i Fondi Pensione 
+Aperti ................................................................................................................................. 24 
+9.5 Il sistema di controllo interno di Intesa Sanpaolo Assicurazioni per i Fondi Pensione 
+Aperti ................................................................................................................................. 24 
+9.6. Requisiti di idoneità alla carica ................................................................................ 25 
+9.7 Funzioni Fondamentali di Intesa Sanpaolo Assicurazioni per i Fondi Pensione 
+Aperti……………………………………………………………………………………………….25 
+9.8. Rispetto delle disposizioni normative in merito al governo societario di Intesa 
+Sanpaolo Assicurazioni per i Fondi Pensione Aperti ..................................................... 25
+=== pagina 3 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 3 
+PREMESSA 
+Principi Generali 
+Intesa Sanpaolo Assicurazioni S.p.A. (di seguito anche solo “Società”, “ ISPA”), Ultima 
+Società Controllante Italiana (nel seguito “ USCI”) del Gruppo Intesa Sanpaolo 
+Assicurazioni (di seguito anche solo “Gruppo ISPA” o “Gruppo”) definisce un sistema di 
+governo societario basato sui seguenti principi generali: 
+- la chiara distinzione dei ruoli e delle responsabilità;  
+- l’appropriato bilanciamento dei poteri;  
+- l’equilibrata composizione degli Organi Sociali;  
+- il presidio di tutti i rischi aziendali;  
+- l’efficacia del sistema dei controlli interni;  
+- l’adeguatezza dei flussi informativi. 
+I principi generali su cui i basa il sistema di governo societario sono coerenti con i principi 
+OCSE sulla Corporate Governane  che riguardano Diritti e pari trattamento degli 
+azionisti, Investitori istituzionali, mercati azionari e altri intermediari, Disclosure e 
+trasparenza, Responsabilità del Board, Sostenibilità e Resilienza. 
+Il rispetto di tali principi consente di assicurare che l’attività della Società sia in linea con 
+l’attività del Gruppo e con le strategie e le Politiche aziendali e sia improntata a canoni 
+di sana e prudente gestione. 
+Obiettivi del documento 
+Il presente documento , redatto in coerenza con le Direttive in materia di sistema di 
+governo societario del Gruppo ISPA (di seguito anche solo “Direttive del Gruppo ”), è 
+finalizzato ad illustrare le logiche di funzionamento del sistema di governo societario di 
+ISPA, applicabili in base alle vigenti normative anche alla sua sede secondaria in Irlanda 
+Intesa Sanpaolo Assicurazioni Dublin Branch (di seguito anche “ISPADB”). 
+Tali logiche vengono definite dal Consiglio di Amministrazione della Società (di seguito 
+anche solo il “Consiglio di Amministrazione”)  che, attraverso il presente  documento 
+direttivo, le trasmett e all’ Alta Direzione, al Collegio Sindacale, alle Funzioni 
+Fondamentali e di Controllo e a tutte le unità organizzative aziendali. 
+Attraverso il presente documento, il Consiglio di Amministrazione delinea i principi 
+generali del sistema di governo societario della Società attraverso: 
+- la declinazione del modello organizzativo; 
+- l’organizzazione di un efficace sistema di trasmissione delle informazioni;
+=== pagina 4 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 4 
+- la costituzione di un idoneo sistema di gestione dei rischi; 
+- la definizione di un efficace sistema di controllo interno; 
+- l’individuazione dei requisiti di idoneità alla carica  di coloro che svolgono 
+funzioni di amministrazione, direzione e controllo , dei titolari e di coloro che 
+svolgono funzioni fondamentali e dell’ulteriore personale in grado di incidere sul 
+profilo di rischio; 
+- la definizione del ruolo centrale delle Funzioni Fondamentali e di controllo; 
+- la predisposizione di meccanismi idonei a garantire il rispetto delle disposizioni 
+normative in merito al governo societario. 
+Il presente documento è redatto in conformità con quanto previsto dall’art. 5 c. 2 lett. 
+d) del Regolamento IVASS n. 38/2018 e s.m.i. recante disposizioni in materia di sistema 
+di governo societario per le imprese assicurative (di seguito anche solo il “Regolamento 
+38”). 
+Il Documento è sottoposto a revisione al verificarsi di circostanze rilevanti che ne 
+richiedano una modifica e/o integrazione, anche per tenere conto dei cambiamenti 
+del contesto normativo e/o dell’assetto organizzativo della Società , nonché di 
+modifiche apportate alle Direttive del Gruppo. 
+È comunque prevista una revisione interna almeno annuale come richiesto dall’ art. 30 
+comma 3 del D. Lgs. n. 209/2005, e successive integrazioni.  
+Il capitolo  del documento relativ o ai Fondi Pensione Aperti istituiti dalla Società (nel 
+seguito “Fondi Pensione”) è redatta in conformità alla Delibera COVIP 13 gennaio 2021 
+che dà attuazione, per quanto attiene alle società che hanno istituito Fondi Pensione 
+Aperti, a quanto previsto dall’articolo 5 -decies del Decreto Legislativo n. 252/2005  (di 
+seguito il “Decreto”) in forza del quale la Società deve assicurare, in modo 
+proporzionato alla dimensione, alla natura, alla portata e alla complessità delle attività 
+del fondo pensione, l’assolvimento degli obblighi previsti dagli artt. 4 -bis, 5-bis, 5-ter, 5-
+quater, 5-sexies, 5-septies, 5-octies e 5 -nonies del Decreto, in coerenza con gli assetti 
+organizzativi del rispettivo settore di riferimento. Il presente documento rappresenta, 
+pertanto, anche il “Documento sul sistema di governo societario afferente alla gestione 
+dei Fondi Pensione Aperti” previsto dalla normativa COVIP citata.
+=== pagina 5 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 5 
+1. AUTOVALUTAZIONE SUL SISTEMA DI GOVERNO SOCIETARIO DI INTESA SANPAOLO 
+ASSICURAZIONI 
+Sulla base degli orientamenti dell’Autorità di Vigilanza sull'applicazione del principio di 
+proporzionalità nel sistema di governo societario delle imprese di assicurazione e 
+riassicurazione e dei gruppi, il Consiglio di Amministrazione di ISPA stabilisce che già con 
+l’applicazione del mero parametro quantitativo la Società ricade nel regime 
+“rafforzato”, a prescindere quindi dalla ricorrenza di ulteriori parametri qualitativi.  
+In particolare, l’adozione di un sistema di governo societario “rafforzato” comporta per 
+Intesa Sanpaolo Assicurazioni:  
+I) che il Presidente dell'organo amministrativo abbia un ruolo non esecutivo e non 
+svolga funzioni gestionali; 
+II) la costituzione di un Comitato endo consiliare per il Controllo Interno, i Rischi e la 
+Sostenibilità composto da amministratori non esecutivi, in maggioranza 
+indipendenti ai sensi dell’art. 11 comma 5 dello Statuto, al quale affidare funzioni 
+consultive e propositive in materia di monitoraggio dei rischi; 
+III) la costituzione di un Comitato endoconsiliare per le Remunerazioni composto da 
+amministratori non esecutivi, in maggioranza indipendenti ai sensi dell’art. 11 
+comma 5 dello Statuto per un’efficace definizione e monitoraggio delle politiche 
+di remunerazione; 
+IV) con riferimento alle Funzioni Fondamentali  (Audit, Compliance, Funzione 
+Attuariale e Risk Management):  
+- che siano costituite in forma di specifica unità organizzativa, assegnando 
+distintamente a ciascuna unità una sola delle quattro funzioni secondo le 
+specializzazioni richieste; 
+- che venga comunque garantita la separatezza delle Funzioni Fondamentali 
+dalle funzioni operative, al fine di assicurarne l’indipendenza, l’autonomia e 
+l’obiettività di giudizio; 
+V) con riferimento ai Titolari delle Funzioni Fondamentali, che siano distinti soggetti 
+adeguatamente competenti e idonei all’incarico, non coincidenti con un 
+membro dell'organo amministrativo; 
+VI) con riguardo alla remunerazione , fermi restando i vincoli dell’art 275 degli Atti 
+Delegati del Regolamento UE 35/2015 , concernenti il bilanciamento delle 
+componenti fisse e variabili della remunerazione e in caso di superamento di 
+una soglia predefinita:  
+- che la componente variabile preveda una quota pari ad almeno il 50% 
+costituita da azioni o strumenti a esse collegati (o, se del caso, altri strumenti 
+non monetari) o da strumenti che riflettono la capacità di creazione di valore
+=== pagina 6 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 6 
+a lungo termine, la consistenza patrimoniale e le prospettive reddituali; al fine 
+di allineare gli incentivi con gli interessi di lungo periodo dell’impresa, i premi 
+in azioni o strumenti ad esse collegati o, in ogni caso, gli strumenti finanziari in 
+oggetto dovranno essere soggetti a un’adeguata politica di conservazione 
+(come tali, soggetti a un divieto di vendita o a un periodo di mantenimento 
+adeguati, individuati e formalizzati nella politica di remunerazione, dove si 
+dovrà dare altresì evidenza dei cr iteri utilizzati per l’individuazione 
+dell’adeguatezza di tale periodo); 
+- che, al fine di allineare gli incentivi con gli interessi di lungo termine della 
+Società: 
+a) la componente variabile sia soggetta, per una quota almeno pari al 40%, a 
+sistemi di pagamento differito e il differimento sia definito per un periodo di 
+tempo non inferiore a 3-5 anni; 
+b) qualora la componente variabile rappresenti un importo particolarmente 
+elevato della remunerazione complessiva, la percentuale da differire non 
+sia inferiore al 60% e sia differita per almeno 5 anni. 
+Si rimanda per ulteriori dettagli alla Politica di remunerazione e incentivazione  e alle 
+Regole per l’individuazione del personale rilevante.  
+2. IL MODELLO ORGANIZZATIVO DI INTESA SANPAOLO ASSICURAZIONI 
+Il Consiglio di Amministrazione definisce l’assetto organizzativo di Intesa Sanpaolo 
+Assicurazioni, anche nella sua articolazione di Intesa Sanpaolo Assicurazioni Dublin 
+Branch, e conferma la puntuale differenziazione tra Funzioni F ondamentali e di 
+Controllo (funzione Antiriciclaggio), Unità Organizzative di staff e a presidio del business, 
+in coerenza con quanto stabilito a livello di Gruppo.  La struttura presenta una chiara 
+ripartizione ed un’appropriata separazione delle responsabilità degli organi e del le 
+funzioni/Unità Organizzative , come rappresentato dall’organigramma e dal 
+funzionigramma della Società a cui si rimanda. 
+La Società ha adottato il modello di amministrazione e controllo tradizionale, basato 
+sulla presenza di un Consiglio di Amministrazione e di un Collegio Sindacale, in linea con 
+quanto stabilito dagli artt. 2380 e ss. Codice Civile. 
+La struttura organizzativa è definita in modo da garantire un'allocazione chiara e 
+appropriata di compiti e responsabilità. Ogni modifica significativa alla struttura e le 
+relative motivazioni sono comunicate all’Autorità di Vigilanza.
+=== pagina 7 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 7 
+In particolare, il Consiglio di Amministrazione della Società  stabilisce che il  modello 
+organizzativo debba prevedere che: 
+- Il Consiglio di Amministrazione, il Collegio Sindacale, i Comitati Endoconsiliari, i Comitati 
+Manageriali e l’Alta Direzione abbiano un ruolo centrale nel sistema di governo 
+societario. In particolare, come esplicitato nel Regolamento della Società: 
+i) Il Consiglio di Amministrazione ha la responsabilità ultima di definire le 
+strategie e gli indirizzi in materia di gestione dei rischi e di controllo interno 
+e di garantirne l’adeguatezza e la tenuta nel tempo, in termini di 
+completezza, funzionalità ed efficacia, in coerenza con le dimensioni e la 
+specificità operativa della Società oltre che con la natura e l’intensità dei 
+rischi aziendali. Viene inoltre stabilito che il Presidente del Consiglio di 
+Amministrazione abbia un ruolo non esecutivo e non svolga funzioni 
+gestionali; 
+ii) Il Collegio Sindacale verifica l’adeguatezza dell’assetto organizzativo, 
+amministrativo e contabile adottato dalla Società e il suo concreto 
+funzionamento ai fini della normativa applicabile. La Società, sulla base di 
+quanto disposto dal comma 4 bis dell’articolo 6 del D. Lgs. 231/2001, ha 
+ritenuto di affidare le funzioni di Organismo di Vigilanza al Collegio 
+Sindacale; 
+iii) Il Comitato per il Controllo Interno, i Rischi e la Sostenibilità assiste il Consiglio 
+di Amministrazione nella determinazione delle linee di indirizzo del sistema 
+di controllo interno e gestione dei rischi, anche sul piano della Sostenibilità, 
+nella verifica periodica della sua adeguatezza e del suo effettivo 
+funzionamento, e nell’identificazione e gestione dei principali rischi 
+aziendali. Presidia il profilo di rischio specifico della Società; 
+iv) Il Comitato per le Remunerazioni è titolare di funzioni consultive e 
+propositive nei confronti del Consiglio di Amministrazione rispetto alla 
+definizione delle politiche di remunerazione a favore degli organi sociali e 
+del personale della Società, anche in relazione alla coerenza 
+sull’integrazione dei rischi di sostenibilità connessi alle remunerazioni e ai 
+sistemi incentivanti, anche ai fini della sana e prudente gestione della 
+Società, coerente con la propensione al rischio e i relativi limiti di tolleranza, 
+così come definito dall’art. 39 e seg. del Regolamento 38.  
+v) Il Comitato di Coordinamento  (sessione Intesa Sanpaolo Assicurazioni) ha 
+l’obiettivo di condividere le proposte di definizione delle strategie aziendali 
+e di monitorare gli andamenti economici della Società, nonché di definire, 
+prioritizzare e verificare l’andamento delle pr incipali iniziative progettuali ;
+=== pagina 8 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 8 
+supporta l’Amministratore Delegato e Direttore Generale 
+nell’approvazione del piano prodotti e delle sue variazioni sostanziali. 
+vii) Il Comitato Coordinamento Controlli e ICT risk ha l’obiettivo di rafforzare il 
+coordinamento e i meccanismi di cooperazione interfunzionale 
+nell’ambito del sistema dei controlli interni della Società; nella sessione ICT 
+risk supporta gli Organi Societari nell’ambito del sistema dei controlli interni 
+in relazione all’esposizione al rischio ICT e di sicurezza informatica. 
+viii) Il Comitato Investimenti (sessione ALM e Investimenti  e Sessione Rami III e 
+VI) contribuisce a tracciare le strategie di investimento realizzate attraverso 
+scelte operative e tattiche discusse;  imposta le strategie d'investimento e 
+le politiche finanziarie relative ai portafogli in gestione. Monitora 
+l’andamento dei portafogli di investimento collegati ai prodotti di ramo III 
+e di ramo VI, proponendo agli organi preposti eventuali modifiche delle  
+strategie di investimento. 
+ix) Il Comitato Investimenti Alternativi ha l’obiettivo di supportare il Consiglio 
+di Amministrazione nella formulazione delle linee guida in materia di 
+investimenti alternativi e identificare i relativi strumenti di monitoraggio. 
+Effettua una valutazione preliminare delle proposte di investimenti 
+alternativi ed e samina gli esiti della due diligence, collaborando nella  
+decisione di investimento; 
+x) L’Alta Direzione è responsabile della complessiva attuazione, del 
+mantenimento e monitoraggio del sistema di governo societario, 
+coerentemente con le direttive del Consiglio di Amministrazione e nel 
+rispetto dei ruoli e dei compiti ad essa attribuiti. 
+- Le Funzioni Fondamentali siano istituite  separate dal punto di vista organizzativo  e 
+rispondano direttamente al Consiglio di Amministrazione. 
+- In particolare, il Consiglio di Amministrazione dell’Ultima Società Controllante Italiana, 
+in coerenza con quanto previsto dalla Lettera al mercato IVASS del 5 luglio 2018,  
+stabilisce che il modello organizzativo debba prevedere la Funzione Antiriciclaggio 
+svolta dall’Unità Anti Financial Crime pure rispondente direttamente al Consiglio di 
+Amministrazione, definita quale funzione di controllo; 
+- Le Unità Organizzative di linea a presidio del business e le Unità di staff a presidio dei 
+processi di supporto al business riportino all’Amministratore Delegato  e Direttore 
+Generale e forniscano, per competenza e coerentemente con quanto previsto a livello 
+di gruppo ISPA, linee guida, metodologie e istruzioni specifiche per la fornitura dei dati 
+necessari alle valutazioni gestionali della Società con la finalità di rendere più effica ce 
+il sistema dei controlli e di gestione dei rischi.
+=== pagina 9 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 9 
+- Il sistema delle deleghe di poteri e responsabilità sia strutturato avendo cura di evitare 
+l’eccessiva concentrazione di poteri in un singolo soggetto e ponendo in essere 
+strumenti di verifica sull’ esercizio dei poteri delegati. A norma di Statuto, il Consiglio di 
+Amministrazione è investito di tutti i poteri per l’ordinaria e straordinaria amministrazione 
+della Società e ha delegato parte delle proprie attribuzioni all’Amministratore Delegato 
+e Direttore Generale , determinandone i relativi poteri. Inoltre , l’Amministratore 
+Delegato e Direttore Generale  ha definito l’ambito dei poteri conferiti al 
+Rappresentante Generale di Intesa Sanpaolo Assicurazioni Dublin Branch, ai 
+Responsabili e ad altro personale delle Unità Organizzative, in coerenza con le 
+responsabilità organizzative e gestionali attribuite. È previsto che i soggetti delegati 
+riferiscano all’Amministratore Delegato e Direttore Generale in merito all’esercizio delle 
+deleghe attribuite. Pertanto , i principali processi decisionali ed attuativi riguardanti 
+l’operatività della Società sono codificati, monitorabili e conoscibili da tutta la struttura 
+organizzativa aziendale. 
+Nel funzionigramma di Intesa Sanpaolo Assicurazioni si dà evidenza in  particolare dei 
+seguenti ruoli e responsabilità - relativi anche a Intesa Sanpaolo Assicurazioni Dublin 
+Branch secondo quanto di volta in volta esplicitato - attribuiti al le aree di business 
+principali, di seguito descritte. 
+- L’Unità Offerta Vita cura le relazioni con i canali distributivi italiani, raccordandosi 
+tramite l’Area di coordinamento ramo Vita, con Intesa Sanpaolo Assicurazioni Dublin 
+Branch, e sviluppa le politiche commerciali di ISPA, provvedendo alla formulazione e 
+all’aggiornamento degli accordi distributivi. Elabora il piano prodotti e presidia le 
+attività previste dalle linee guida di Product Oversight Governance. Idea e segue lo 
+sviluppo completo dei nuovi prodotti, della documentazione contrattuale e 
+l’evoluzione della gamma esistente. Promuove l’innovazione dei prodotti e 
+l’adozione di nuovi modelli di servizio e tecnologie. Progetta le attività di formazione 
+ed assistenza alle reti distributive e gestisce le attività di supporto commerciale alle 
+stesse. Presidia le attività relative alle campagne di comunicazione e di marketing in 
+collaborazione con le reti distributive . Verifica l’adeguatezza della formazione e 
+dell’aggiornamento professionale degli intermediari e l ’osservanza delle regole di 
+comportamento previste dalla normativa di Vigilanza. Implementa i controlli sulle reti 
+distributive. Sviluppa l’offerta tramite canali diretti o alternativi attraverso prodotti e 
+modelli di servizio ad hoc. Coordina le attività relative alla partecipazione a gare e a 
+bandi. Assicura la corretta attuazione, il monitoraggio e l’adeguatezza delle politiche 
+di organizzazione, gestione e controllo della distribuzione. Verifica la sostenibilità 
+finanziaria dei prodotti sia in fase di definizione degli stessi sia nel periodo di 
+collocamento. Mantiene i rap porti con gli organismi di rappresentanza e con i
+=== pagina 10 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 10 
+Responsabili delle forme pensionistiche complementari. Sovraintende al corretto 
+svolgimento delle attività tecnico attuariali con riferimento sia al processo di 
+determinazione di nuove tariffe che di modifica di tariffe esistenti.  Partecipa e 
+contribuisce a progetti strategici e innovativi in ambito di prodotto, anche a seguito 
+di evoluzioni normative o tecnologiche. Provvede all’analisi degli investimenti della 
+clientela individuando possibili aree di miglioramento della qualità dei prodotti offerti. 
+Coadiuva la Compliance e il Collegio Sindacale nella predisposizione delle Relazioni 
+periodiche sulla distribuzione ver so le Autorità di Vigilanza in base alla normativa 
+tempo per tempo vigente, fornendo gli esiti dei controlli di competenza. 
+- L’Area Finanza e Sostenibilità ha l’obiettivo di favorire la generazione del valore 
+e l’ottimizzazione dinamica dell’equilibrio tra attivi e passivi, dell’allocazione del 
+capitale disponibile e del profilo rischio/rendimento. Contribuisce a stabilizzare e 
+massimizzare il risultato economico formulando proposte di ottimizzazione 
+dell’ALM, della posizione di liquidità  e del capitale. Gestisce i mezzi propri e i 
+portafogli di attivi della Società, guidando il processo di definizione dell’asset 
+allocation strategica e realizzando le opportune scelte d’investimento nel rispetto 
+dei vincoli regolamentari e di legge, delle delibere , degli indirizzi in ambito 
+Environmental, Social, Governance (ESG) e delle linee guida del Consiglio di 
+Amministrazione, degli indirizzi della Controllante Intesa Sanpaolo e delle 
+indicazioni del Gestore Delegato. Definisce e indirizza lo sviluppo della strategia 
+ESG di Intesa Sanpaolo Assicurazioni e l’evoluzione del framework ESG in termini 
+di governance e strategie di business . Predispone programmi e strategie di 
+copertura dei rischi finanziari e altri interventi ordinari e straordinari in materia di 
+ALM e Capital Management. Predispone il Piano di Gestione del Capitale e 
+Medio Lungo Termine, supportando il Consiglio di Amministrazione nel 
+monitoraggio del medesimo. Definisce e applica le strategie di investimento , 
+anche ESG, integrandole con le strategie basate sulle metriche ‘tradizionali’ di 
+gestione dei portafogli. Gestisce l’operatività degli strumenti finanziari detenuti 
+relativamente agli adempimenti intercorrenti tra gli ordini e prima della 
+contabilizzazione e le attività di tesoreria. Gestisce le attività di investimento del 
+patrimonio separato del Fondo Pensione Aperto, anche tramite gestore 
+delegato.  
+- La struttura del Chief Financial Officer  elabora il piano di sviluppo, coordina i 
+processi di pianificazione, budgeting e controllo di gestione, presidia gli 
+andamenti gestionali per quanto riguarda gli aspetti commerciali, reddituali, di 
+efficienza economica e tecnica, di rischio, nonché lo svi luppo del conto 
+economico e della performance risk -adjusted ed individua le possibili azioni 
+correttive finalizzate al raggiungimento degli obiettivi. Monitora lo stato di
+=== pagina 11 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 11 
+avanzamento del Piano Industriale. Gestisce l’informativa finanziaria e gli 
+adempimenti legati al rating della Società e r edige il bilancio individuale e 
+consolidato gestendo i relativi adempimenti nonché quelli di vigilanza ivi 
+comprese le attività per la gestione amministrativa del portafoglio investimenti 
+nel suo complesso e le attività volte alla corretta determinazione delle riserve 
+tecniche secondo i principi civilistici e passività IFRS, sia in sede preventiva che 
+consuntiva. Redige il Market Value B alance Sheet secondo i principi della 
+direttiva “Solvency II” predisponendo la reportistica alle Autorità di Vigilanza.  
+Rileva e contabilizza le partite tecniche assicurative in riferimento a premi, 
+provvigioni e prestazioni assicurative, ai fini economici e patrimoniali. Effettua il 
+calcolo a consuntivo e prospettico delle riserve tecniche per le finalità previste 
+dalla normativa Solvency II e il calcolo a consuntivo dei Fulfilment Cash Flow 
+IFRS17. Mantiene i modelli di proiezione del portafoglio attivo e  passivo. 
+Contribuisce alla modellizzazione dei rischi sottesa al calcolo dei requisiti 
+patrimoniali. Garantisce la puntuale amministrazione del portafoglio titoli, il 
+calcolo periodico del Net Asset Value dei Fondi Interni Unit Linked e delle linee 
+Fondi Pensione Aperti, nonché il calcolo dei rendimenti delle Gestioni Separate. 
+Coordina e gestisce la fiscalità d’impresa e di prodotto  e verifica l’adeguatezza 
+e l’effettività del sistema di controllo adottato per la gestione del rischio fiscale . 
+Presidia i processi di Governance Amministrativa e Finanziaria, l’evoluzione della 
+normativa contabile di settore e la gestione, l’evoluzione e il monitoraggio del 
+sistema di Data Governance.  Gestisce le attività e gli adempimenti relativi agli 
+acquisti in coordinamento con le omologhe strutture di Intesa Sanpaolo. Assicura 
+un adeguato presidio e monitoraggio dei costi e degli investimenti. Infine, 
+analizza lo scenario settoriale, il potenziale di mercato e il contesto competitivo, 
+anche in relazione ai nuovi mercati. Assicura il coordinamento dell’applicazione 
+di soluzioni avanzate nella lavorazione dei dati (attraverso tecniche di Advanced 
+Analytics, Machine Learning e Artificial Intelligence) e funge da motore e 
+abilitatore di iniziative di innovazione in collaborazione con le competenti 
+strutture di Intesa Sanpaolo. 
+- L’Area Operations e Sistemi Informativi gestisce le operazioni inerenti il portafoglio 
+dei contratti in essere, espletando tutti gli adempimenti connessi al ciclo di vita 
+del prodotto . Ottimizza i processi della Gestione Tecnica  con l’obiettivo di 
+assicurare a clienti esterni e interni adeguati livelli di servizio, qualità nei dati gestiti 
+e certezza nei tempi di risposta, coniugando il tutto con il raggiungimento dei 
+necessari livelli di efficienza. Cura l’assistenza ai clienti dei prodotti assicurativi e 
+la relazione con i clienti e il supporto operativo alle reti distributive . All’interno di 
+questa struttura vengono svolte le attività gestionali di post vendita attinenti ai
+=== pagina 12 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 12 
+fondi pensione aperti. Assicura (anche per il Gruppo) la definizione della Strategia 
+ICT e della strategia Resilienza Operativa Digitale (DOR), delle politiche e dei 
+modelli in materia di ICT, inclusi gli standard architetturali, metodologici e 
+tecnologici, garantendone il presidio e l’attuazione. Presidia la componente IT 
+nell’ambito del rilascio degli strumenti e il coordinamento progettuale delle 
+attività IT, indirizzando alle competenti strutture la valutazione dei rischi emergenti 
+derivanti dall’introd uzione di nuove tecnologie. Gestisce i sistemi informativi, 
+assicurando l’evoluzione tecnologica e l’efficienza operativa e garantendo la 
+sostenibilità nel medio lungo termine. Gestisce gli aspetti normativi, di analisi delle 
+minacce e degli incidenti informatici e l’introduzione e gestione di misure e 
+soluzioni di sicurezza informatica e continuità operativa. Coordina, pianifica, 
+monitora e supporta le fasi di test delle manutenzioni evolutive, attraverso 
+l’ingaggio delle unità di business  Ingaggia e supporta le unità di business delle 
+Società per l’esecuzione dei test di competenza, monitorandone l’andamento 
+per istruire le proposte di GO/NO GO in funzione delle risultanze emergenti.  
+Inoltre, in Intesa Sanpaolo Assicurazioni, in qualità di USCI, sono costituite due Unità 
+Organizzative a riporto dell’Amministratore Delegato e Direttore General e: l’ Area di 
+Coordinamento Ramo Vita  e l’ Unità Società Ramo Danni  che sovraintend ono e 
+coordinano le attività delle società e delle Unità Organizzative nel perimetro di 
+competenza in termini di risultato, conformemente alle politiche di Gruppo. 
+In particolare, a riporto dell’Area di coordinamento Ramo Vita è collocata Intesa 
+Sanpaolo Assicurazioni Dublin Branch, sede secondaria di Intesa Sanpaolo 
+Assicurazioni, principalmente preposta a governare lo sviluppo dei prodotti  e la 
+gestione degli attivi e del portafoglio polizze italiano e estero propri della stessa Branch, 
+nonché alla gestione di talune attività di natura amministrativa, fiscale e commerciale. 
+Tutte le strutture identificate p residiano gli adempimenti in materia di protezione dei 
+dati personali e lo svolgimento dei compiti previsti dal ruolo di Data Owner per gli ambiti 
+di competenza. 
+Il sistema di governo della Società - per i profili relativi alla gestione dei Fondi Pensione 
+Aperti - risponde alla prioritaria esigenza, attuale e prospettica, di tutela degli aderenti 
+e dei beneficiari dei fondi stessi e di salvaguardia della piena separazione patrimoniale 
+tra il patrimonio di ciascun fondo pensione aperto e il patrimonio della Società e dei 
+clienti. 
+Il modello organizzativo di Intesa Sanpaolo Assicurazioni prevede inoltre 
+l’esternalizzazione, presso altre Società del Gruppo ISPA o Intesa Sanpaolo e/o terzi 
+fornitori anche esterni al Gruppo, di attività aziendali o parti di esse. L’affidamento in
+=== pagina 13 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 13 
+outsourcing delle attività è formalizzato attraverso la stipula di specifici contratti ed è 
+realizzato in conformità alle prescrizioni delle competenti Autorità di Vigilanza e alla 
+normativa interna di riferimento  nonché alla Politica in materia di esternalizzazione e 
+per la scelta dei fornitori della Società. 
+3. IL SISTEMA DI TRASMISSIONE DELLE INFORMAZIONI DI INTESA SANPAOLO 
+ASSICURAZIONI 
+Il sistema di trasmissione delle informazioni assicura l’ordinata, completa e tempestiva 
+circolazione delle informazioni rilevanti tra tutti i soggetti coinvolti in tale attività, nonché 
+la tempestiva segnalazione delle eventuali disfunzioni e violazioni r iscontrate al 
+soggetto o organo competente ad attivare le misure correttive. 
+Il sistema di trasmissione delle informazioni normato da l Regolamento di Intesa 
+Sanpaolo Assicurazioni (che include ISPADB) e dalle guide operative interne attiene ai 
+flussi tra le Funzioni Fondamentali  e le Funzioni che svolgono attività di controllo , i 
+Comitati endoconsiliari e gli organi sociali, tra tutte le Unità organizzative nonché i flussi 
+verso il Responsabile delle forme pensionistiche complementari. 
+Il Consiglio di Amministrazione di Intesa Sanpaolo Assicurazioni in particolare stabilisce 
+che siano in essere: 
+- flussi informativi volti ad assicurare che sussista un’idonea e continua interazione 
+tra gli organi deputati all’amministrazione, al controllo nonché alla gestione della 
+Società. In questo modo l’esercizio delle mansioni attribuite agli organi suddetti 
+nell’ambito del sistema di controllo interno e di gestione dei rischi può essere 
+espletato con efficacia ed efficienza; 
+- flussi informativi delle Funzioni Fondamentali e di Controllo volti ad assicurare 
+un’adeguata informativa agli Organi Sociali e all’Alta Direzione , sull’efficacia e 
+sull’adeguatezza del sistema di controllo interno e di gestione dei rischi ed una 
+tempestiva segnalazione delle criticità più significative, e alla Società di revisione; 
+- flussi informativi di raccordo e collaborazione tra le Funzioni Fondamentali  e di 
+Controllo, definiti al fine di sviluppare sinergie ed evitare inefficienze e 
+sovrapposizioni nello svolgimento delle attività di controllo; 
+- flussi informativi tra tutte le Unità Organizzative di Intesa Sanpaolo Assicurazioni e 
+delle Società del Gruppo ISPA che svolgono attività in outsourcing per Intesa 
+Sanpaolo Assicurazioni.
+=== pagina 14 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 14 
+4. IL SISTEMA DI GESTIONE DEI RISCHI DI INTESA SANPAOLO ASSICURAZIONI 
+Il Consiglio di Amministrazione di Intesa Sanpaolo Assicurazioni definisce un sistema di 
+gestione dei rischi coerente con le logiche definite a livello di Gruppo. 
+In particolare, il processo di gestione dei rischi della Società è regolato in coerenza con 
+l’autovalutazione del proprio profilo di rischio e la propensione al rischio della stessa 
+(Risk Appetite Framework o RAF).  
+Nel processo di gestione dei rischi dell’impresa si delineano quattro macro fasi: 
+1) identificazione e valutazione dei rischi 
+2) gestione dei rischi  
+3) monitoraggio dell’esposizione al rischio 
+4) reporting. 
+Nell’ambito di ciascuna fase, ogni Funzione di primo, secondo e terzo livello ricopre 
+specifiche responsabilità. I documenti “Politica in materia di sistema gestione dei rischi”, 
+“Politica in materia di gestione dei rischi”, le Politiche in materia di rischi specifici e,  più 
+in generale, le guide operative interne descrivono tali responsabilità con riferimento a 
+tutti gli ambiti di rischio e/o fattispecie operative, nel rispetto di quanto definito nelle 
+presenti Direttive e nel Regolamento della Società 
+La Società concorre alla definizione a livello di Gruppo del Piano di emergenza 
+rafforzato che è parte integrante del sistema di gestione dei rischi del Gruppo. 
+Nell’ambito della propensione al rischio definita dal Consiglio di Amministrazione, la 
+Società individua inoltre un obiettivo di solvibilità espresso come rapporto tra fondi 
+propri ammissibili e Requisito Patrimoniale di solvibilità, sull’orizzonte tempora le di un 
+anno. Tale obiettivo rappresenta uno dei cardini del sistema di gestione dei rischi.  
+Il sistema di gestione dei rischi della Società del Gruppo è definito in coerenza con il 
+sistema di gestione dei rischi di Gruppo. 
+5. IL SISTEMA DI CONTROLLO INTERNO DI INTESA SANPAOLO ASSICURAZIONI 
+Il sistema di controllo interno coinvolge tutte le strutture dell a società e ogni risorsa, 
+ciascuna per il proprio ambito di competenza e responsabilità, nell’intento di garantire 
+un costante ed efficace presidio dei rischi , il rispetto delle regole, la funzionalità del 
+sistema gestionale e la diffusione di valori di corretta amministrazione e legalità, anche 
+con riferimento al comparto previdenziale.
+=== pagina 15 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 15 
+Il Consiglio di Amministrazione fornisce mandato all’Alta Direzione affinché garantisca 
+che il personale sia messo a conoscenza del proprio ruolo e delle proprie responsabilità, 
+in modo da essere effettivamente impegnato nello svolgimento dei controlli, in tesi 
+quale parte integrante della propria attività.  
+A tal fine, l’Alta Direzione deve assicurare la formalizzazione e l’adeguata diffusione tra 
+il personale del sistema delle deleghe e delle procedure che regolano l’attribuzione di 
+compiti, i processi operativi ed i canali di reporting.  
+Il sistema di controllo interno della Società, coerentemente con quello definito a livello 
+di Gruppo, è articolato secondo tre livelli (di linea, monitoraggio rischi e di revisione 
+interna) i cui attori sono tutte le Unità Organizzative direttamente operanti sul business, 
+quelle di supporto al business, le Funzioni Fondamentali e di Controllo come esplicitato 
+nella Politica sul sistema di controllo interno di Intesa Sanpaolo Assicurazioni a cui si 
+rimanda per i dettagli. 
+La Società ha adottato il Codice Etico ai sensi dell’art 11, comma 4 del Regolamento  
+n. 38/2018 di IVASS e recepito il Codice Etico d el Gruppo ISPA, riconoscendo 
+l’importanza di promuovere la correttezza operativa e il rispetto dell’integrità e dei 
+valori etici, nonché la prevenzione di condotte devianti in ottemperanza del D. Lgs. 8 
+giugno 2001, n 231; a tal fine le Società devono definire delle regole comportamentali, 
+disciplinando le situazioni di potenziali conflitti di interesse e prevedendo azioni 
+correttive adeguate anche al fine di garantire valore a lungo termine per tutti gli 
+stakeholder e mirando a orientare comportamenti coerenti con i più alti standard etici 
+internazionali e nazionali nello svolgimento delle proprie attività e nella gestione 
+d’impresa. 
+ Ha, inoltre, recepito il Codice Interno di Comportamento del Gruppo Intesa Sanpaolo 
+che definisce le norme essenziali di comportamento cui devono attenersi i componenti 
+degli Organi sociali di amministrazione e controllo, i dipendenti, i consulenti finanziari 
+non dipendenti, gli agenti e i collaboratori esterni, richiamando il complesso dei valori 
+e dei principi del Codice Etico, integrandosi con le fonti normative esterne ed interne. 
+6. REQUISITI DI IDONEITÀ ALLA CARICA PER INTESA SANPAOLO ASSICURAZIONI 
+Il Consiglio di Amministrazione di Intesa Sanpaolo Assicurazioni adotta la Politica per 
+l’identificazione e la  valutazione del possesso dei requisiti di idoneità alle cariche, 
+redatta in ossequio a quanto specificatamen te disciplinato dall’articolo 5 comma 2 
+lettera n) del Regolamento 38, i cui obiettivi sono:
+=== pagina 16 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 16 
+I) l’identificazione dei requisiti di idoneità alla carica dei seguenti soggetti: 
+- preposti alle funzioni di amministrazione  (tra cui il Consigliere Responsabile 
+per l’Antiriciclaggio), direzione e controllo;  
+- membri dei Comitati Endoconsiliari; 
+- componenti dell’Organismo di Vigilanza ai sensi del D. Lgs n. 231/2001; 
+- Rappresentante Generale/Preposto alla sede secondaria presso altro Stato 
+membro;   
+- Titolari delle Funzioni Fondamentali (Audit, Risk Management, Compliance, 
+e Funzione Attuariale) di ISPA e del Gruppo;  
+- Titolare della Funzione Antiriciclaggio , suo sostituto  e Responsabile per le 
+segnalazioni delle Operazioni Sospette;  
+- Personale che svolge Funzioni Fondamentali in ISPA anche a livello di Gruppo 
+ISPA;  
+- Data Protection Officer (DPO); 
+- Responsabile della distribuzione, ove nominato;  
+- ulteriore personale rilevante di ISPA eventualmente individuato; 
+- Responsabili delle forme pensionistiche; 
+- Organismo di rappresentanza dei fondi pensione aperti ad adesione 
+collettiva. 
+ii) la declinazione della procedura di istruttoria e valutazione dei requisiti; 
+iii) la definizione dei criteri di verifica dell’adeguatezza della composizione collettiva del 
+Consiglio di Amministrazione, del Collegio Sindacale e dei Comitati Endoconsiliari. 
+7. LE FUNZIONI FONDAMENTALI DI INTESA SANPAOLO ASSICURAZIONI 
+Il Consiglio di Amministrazione della Società ha istituito le Funzioni Fondamentali (Audit, 
+Risk Management, Compliance, Funzione Attuariale) che sono tra loro separate sotto 
+un profilo organizzativo  (fatta eccezione per la Funzione Attuariale collocata 
+nell’ambito della struttura del Chief Risk Officer) e rispondono direttamente al Consiglio 
+di Amministrazione. 
+Nel funzionigramma della Società è fatto esplicito riferimento alla circostanza che i 
+compiti svolti dalle Funzioni Fondamentali attengono anche ai Fondi Pensione istituiti 
+dalla Società. 
+I Titolari delle Funzioni Fondamentali: 
+ - sono collocati in posizione gerarchico-funzionale adeguata;
+=== pagina 17 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 17 
+- sono nominati e revocati dal Consiglio di Amministrazione, (sentito il Collegio 
+Sindacale e il Comitato per il Controllo Interno, i Rischi e la Sostenibilità per il 
+Titolare della Funzione Audit), secondo le modalità e nel rispetto dei requisiti di 
+idoneità alla carica previsti dalle normative, anche di autoregolamentazione, 
+applicabili in relazione al settore di appartenenza, assicurando che gli stessi: 
+i) siano dotati delle risorse adeguate all’espletamento delle proprie 
+responsabilità; 
+ii) siano dotati dell’autorità necessaria a garantire l’indipendenza della 
+funzione; 
+iii) non abbiano responsabilità diretta di aree operative sottoposte a controllo. 
+Al fine di permettere lo svolgimento delle rispettive verifiche di competenza, il personale 
+delle Funzioni Fondamentali di Intesa Sanpaolo Assicurazioni: 
+- ha accesso ai dati aziendali e a quelli esterni necessari per svolgere in modo 
+appropriato i propri compiti; 
+- è adeguato per numero, competenze tecnico -professionali, aggiornamento, 
+anche attraverso l’inserimento di programmi di formazione nel continuo. 
+I criteri di remunerazione del personale allocato nelle Funzioni Fondamentali, in linea 
+con le  politiche di remunerazione adottate, non ne compromettono l’obiettività, e 
+concorrono a creare un sistema di incentivi coerente con le finalità della funzione 
+svolta. 
+Si rimanda alle specifiche Politiche e al funzionigramma per una trattazione completa 
+dei ruoli e responsabilità delle Funzioni Fondamentali. 
+Alle Funzioni Fondamentali si aggiunge quale Funzione di Controllo la Funzione 
+Antiriciclaggio. Quest’ultima opera in analogia alle Funzioni Fondamentali .8. RISPETTO 
+DELLE DISPOSIZIONI NORMATIVE IN MERITO AL GOVERNO SOCIETARIO DI INTESA 
+SANPAOLO ASSICURAZIONI 
+Il Consiglio di Amministrazione della Società ha la responsabilità ultima del si stema di 
+governo s ocietario del quale definisce gli indirizzi strategici e ne garantisce la 
+complessiva coerenza curandone l’adeguatezza nel tempo. 
+Il Consiglio di Amministrazione assicur a l’adeguamento del sistema di governo 
+societario all ’evoluzione dell’operatività aziendale e delle condizioni esterne, 
+rivedendo almeno una volta all’anno le presenti Direttive, anche coerentemente alla 
+revisione delle Direttive del Gruppo ISPA.
+=== pagina 18 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 18 
+Al fine di garantire il rispetto delle disposizioni normative, l’Organo Amministrativo: 
+a) assicura che il sistema di governo societario sia soggetto a riesame interno 
+periodico; nella determinazione dell’ambito e della frequenza del riesame, tiene 
+conto della natura, portata e complessità dei rischi inerenti all’attività aziendale e 
+della struttura organizzativa; le risultanze del riesame sono adeguatamente 
+documentate e trasmesse all’Organo A mministrativo, con evidenza delle misure 
+correttive intraprese; 
+b) verifica che il sistema di governo societario sia coerente con gli obiettivi strategici 
+della Società, con la propensione al rischio e con i limiti di tolleranza al rischio, e sia 
+in grado di cogliere l’evoluzione dei rischi aziendali e l’interazione tra gli stessi; 
+c) definisce, approva e rivede le politiche di indirizzo almeno una volta all’anno e ne 
+cura l’adeguamento alla evoluzione dell’ operatività aziendale , della struttura 
+organizzativa della Società e delle condizioni esterne; 
+d) assicura che le politiche, parte del sistema di governo societario, siano coerenti tra 
+loro e con la strategia dell’impresa e con le politiche del Gruppo ISPA; 
+e) struttura presidi relativi al sistema di governo societario che coprono ogni tipologia 
+di rischio aziendale, ivi inclusi quelli di natura ambientale e sociale, generati o subiti, 
+anche secondo una visione prospettica ed in considerazione del fabbisogno 
+complessivo di solvibilità dell’impresa; 
+f) assicura la tutela degli aderenti e dei beneficiari dei fondi pensione aperti e 
+salvaguarda la piena separazione patrimoniale tra il patrimonio di ciascun fondo 
+pensione aperto e il patrimonio della società e degli altri clienti. 
+Il Consiglio di Amministrazione di Intesa Sanpaolo Assicurazioni cura, inoltre,  
+l’adeguatezza nel tempo della struttura organizzativa della Società, in modo da poterla 
+adattare tempestivamente ai mutamenti degli obiettivi strategici, dell’operatività e del 
+contesto di riferimento in cui la stessa opera. 
+Inoltre, la Società predispone e aggiorna periodicamente e ad evento la normativa 
+operativa (guide e schede operative) che, in conformità alle disposizioni normative 
+vigenti, definisce in modo chiaro le attività, il riparto delle funzioni, le responsabilit à, i 
+sistemi a supporto per l’operatività dei processi aziendali, compresi quelli attinenti alla 
+gestione dei Fondi Pensione da essa istituiti.
+=== pagina 19 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 19 
+9. FONDI PENSIONE APERTI ISTITUITI DA INTESA SANPAOLO ASSICURAZIONI 
+Il presente capitolo integra, ove necessario, le disposizioni de gli altri capitoli  del 
+documento con le disposizioni che trovano applicazione specificatamente ai Fondi 
+Pensione Aperti istituiti dalla Società e ha per oggetto: 
+- l’organizzazione della Società  rilevante per i profili gestionali inerenti ai Fondi 
+Pensione, ivi incluse le funzioni e/o attività che risultano esternalizzate; 
+- una descrizione sintetica di come sono organizzati  i controlli interni rilevanti per i 
+Fondi Pensione Aperti; 
+- una descrizione sintetica di come è organizzato il sistema di gestione dei rischi  
+rilevante per i Fondi Pensione; 
+- una descrizione sintetica di come sono organizzati i flussi informativi tra le strutture 
+aziendali e i responsabili dei Fondi Pensione Aperti e viceversa; 
+- le informazioni essenziali relative alla Politica di remunerazione dei Responsabili 
+dei Fondi Pensione Aperti e dei Titolari delle Funzioni Fondamentali di gestione dei 
+rischi e di revisione interna della Società. 
+9.1. Autovalutazione sul sistema di governo societario di Intesa Sanpaolo Assicurazioni per i 
+Fondi Pensione 
+Oltre a quanto previsto nei capitoli da 1 a 8, a integrazione di quanto ivi indicato, con 
+riguardo alla  remunerazione dei rispettivi Responsabili dei Fondi Pensione Aperti , si 
+prevede che gli emolumenti (nei quali si ravvisa unicamente una componente fissa e 
+l’assenza della componente variabile , nonché di alcuna forma di partecipazione agli 
+utili della Società, o di società controllanti o controllate, né sotto forma di diritti di 
+acquisto o di sottoscrizione di azioni della Società o di società controllanti o controllate) 
+siano a carico del Fondo Pensione per il quale è svolto l’incarico, come in dettaglio 
+descritto nella “Politica di remunerazione dei Responsabili dei Fondi Pensione Aperti” 
+della Società. 
+In aggiunta a quanto sopra, Intesa Sanpaolo Assicurazioni individua il Personale 
+Rilevante (come definito nell’art. 2, c. 1, lett. m) del Regolamento 38 “i Direttori Generali, 
+i dirigenti con compiti strategici, i titolari e il personale di livello più elevato delle Funzioni 
+Fondamentali e le altre categorie del personale  la cui attività può avere un impatto 
+significativo sul profilo di rischio dell’impresa  identificato, in base a scelte motivate ed 
+adeguatamente formalizzate, nel documento di cui all’artic olo 5, comma 2, lettera i), 
+punto i)”) all’interno delle “Regole per l’individuazione del Personale Rilevante di Intesa 
+Sanpaolo Assicurazioni” definite in coerenza con l’omologo documento redatto a
+=== pagina 20 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 20 
+livello di Gruppo ISPA. Gli esiti del processo di individuazione del Personale rilevante sono 
+periodicamente rivisti, resi noti, motivati e formalizzati anche nella “Relazione sulla 
+Remunerazioni di Intesa Sanpaolo Assicurazioni” presentata annualmente 
+all’Assemblea. 
+Nell’ambito del Personale Rilevante rientrano i Titolari delle Funzioni Fondamentali , cui 
+spetta una retribuzione articolata in componente fissa e componente variabile. 
+Le Funzioni Fondamentali sono istituite dall’ordinamento di appartenenza della Società 
+presso la quale è istituito o gestito il Fondo e le loro politiche di remunerazione e 
+incentivazione sono ricomprese nella Relazione sulle remunerazioni approvata 
+dall’Assemblea della Società. 
+In particolare, per tali figure  è prevista un’indennità di ruolo  che incide sulla 
+componente fissa della remunerazione,  la cui ratio risiede nella necessità di garantire 
+un adeguato livello in termini di remunerazione complessiva, considerato che il 
+rapporto tra remunerazione variabile e remunerazione fissa è stato per questi soggetti 
+limitato al 33% (cap). 
+Tale indennità di ruolo si configura come remunerazione fissa in quanto: 
+- assegnata ai Titolari delle Funzioni Fondamentali e al personale più elevato delle 
+Funzioni Fondamentali appartenenti a predeterminate fasce di Global 
+Banding1; 
+- non collegata ad alcun tipo di indicatore di performance; 
+- definita in modo univoco in percentuale della retribuzione annua lorda e 
+differenziata in funzione della fascia di Global Banding di appartenenza; 
+- comunicata agli interessati tramite lettera individuale; 
+- riconosciuta fintanto che la persona risiede nel ruolo identificato come Titolare 
+appartenente alle Funzioni Fondamentali e al personale più elevato delle 
+Funzioni Fondamentali (di primo riporto e solo per la Società) e alle predefinite 
+fasce di Global Banding. 
+Si ribadisce, in ultimo, quanto già illustrato nell’ambito del Capitolo 1 riguardo ciò che 
+comporta l’adozione di un sistema di governo societario “rafforzato” in ambito 
+remunerazioni per Intesa Sanpaolo Assicurazioni.   
+ 
+1 Il Sistema di Global Banding adottato da Intesa Sanpaolo Assicurazioni, in linea con quanto previsto dal 
+Gruppo Assicurativo e dal Gruppo Intesa Sanpaolo, si basa sul raggruppamento in fasce omogenee di 
+posizioni manageriali assimilabili per livelli di complessità/responsabilità gestiti, misurati mediante la 
+metodologia internazionale di valutazione dei ruoli IPE (International Posi tion Evaluation).
+=== pagina 21 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 21 
+9.2. Modello organizzativo di Intesa Sanpaolo Assicurazioni per i Fondi Pensione Aperti 
+A integrazione di quanto indicato nel Capitolo 2, si illustrano di seguito gli organi e le 
+strutture con competenze dedicate per i Fondi pensione o le competenze specifiche 
+in materia di Fondi Pensione Aperti degli organi già ivi descritti. 
+Consiglio di Amministrazione : ha il compito di definire e adottare le linee guida in 
+materia di investimenti dei Fondi Pensione Aperti. A tal fine esamina ed eventualmente 
+approva le proposte di operatività strategica formulate dall’unità organizzativa 
+Investimenti ed analizza le raccomandazioni del Comitato Investimenti. Quando 
+eventualmente richiesto dal Comitato Investimenti, delibera l’affidamento e la revoca 
+dei mandati di gestione a soggetti professionali abilitati (Banche, Sgr, Sim, Compagnie 
+di Assicurazione). Ha il compito di rivedere ed eventualmente modificare, con cadenza 
+almeno triennale, le linee guida in materia di investimenti contenute nelle Politiche di 
+investimento dei Fondi , di valutare e disciplinare gli eventuali conflitti di interesse e 
+l'adozione di eventuali codici etici. Esercita un costante controllo sulla gestione 
+finanziaria e dei singoli mandati, avvalendosi delle attività e della reportistica periodica 
+prodotta da  parte dell’unità organizzativa Investimenti ed approva le procedure 
+interne di controllo della gestione stessa. Definisce la strategia in materia di diritti di voto 
+spettanti al Fondo. 
+Comitato Investimenti (nella sessione Rami III e VI): ha il compito di impostare e definire 
+le strategie di investimento, formulando le raccomandazioni per il Consiglio di 
+Amministrazione e valutando le proposte formulate dall’unità organizzativa Investimenti 
+e, laddove applicabile, d all’Organismo di rappresentanza. Propone al Consiglio di 
+Amministrazione l’affidamento e la revoca dei mandati di gestione a soggetti 
+professionali abilitati (Banche, Sgr, Sim, Compagnie di Assicurazione), chiedendo, in 
+caso di necessità, il suo intervento. 
+Comitato per le Remunerazioni: formula pareri e proposte in merito alla definizione delle 
+politiche di remunerazione, anche con riguardo ai Responsabili dei Fondi Pensione 
+Aperti istituiti o gestiti dalla Società. 
+Depositario: controlla come vengono effettuati gli investimenti da parte dei gestori 
+delegati finanziari. In particolare, valuta la coerenza tra le decisioni di investimento 
+prese dai gestori e il Regolamento dei Fondi Pensione  e verifica che ogni singolo 
+investimento compiuto dal gestore sia svolto nel rispetto dei vincoli e limiti previsti dalla 
+legge e dei vincoli e limiti previsti dai Regolamenti. Il depositario provvede alla verifica 
+dei limiti previsti dalla normativa e di  quelli previsti dalle singole linee di investimento 
+(controllo limiti ex post). Ricalcola i NAV sia a fini di controllo limiti sia per verificare che 
+sia stato calcolato correttamente dai soggetti incaricati della gestione.
+=== pagina 22 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 22 
+Investimenti: l’unità organizzativa svolge l’attività di istruttoria per la selezione dei gestori 
+finanziari e sottopone al Comitato Investimenti le proposte di affidamento in gestione. 
+Illustra al Comitato Investimenti o al Consiglio di Amministrazione i nuovi sviluppi dei 
+mercati e propone le eventuali modifiche alla politica di investimento. Collabora con i 
+soggetti coinvolti nel processo di investimento al fine di fornire il supporto necessario 
+circa gli aspetti inerenti alla strategia da attuare e i ri sultati degli investimenti. Verifica, 
+attraverso la stesura di una relazione periodica, almeno semestrale, che può 
+demandare al soggetto incaricato della gestione, l’andamento di ogni singolo 
+comparto, compresi gli investimenti effettuati e ne illustra l’a ttività ai Responsabili dei 
+Fondi Pensione e al Consiglio di Amministrazione, valutando che il grado di rischio -
+rendimento sia coerente con quanto previsto. Verifica insieme alla Funzione Risk 
+Management che le attività di ogni singolo comparto si svolgano  nel rispetto 
+dell’ordinamento interno che recepisce le regole stabilite dalla normativa di settore. 
+Controlla il rispetto degli eventuali codici etici adottati ed approvati dal Consiglio di 
+Amministrazione. Propone al Comitato Investimenti e al Consiglio di Amministrazione 
+eventuali modifiche alla politica di investimento in relazione all’andamento dei mercati 
+finanziari, anche a fronte di cambiamenti negli scenari attesi. Cura insieme alla 
+Funzione Risk Management l’aggiornamento delle politiche di invest imento da 
+proporre al Comitato per il Controllo Interno, i Rischi e la Sostenibilità e al Consiglio di 
+Amministrazione. 
+Soggetti incaricati della gestione: Il  gestore delegato provvede, nell’ambito della 
+propria attività, a definire il portafoglio strategico in coerenza con gli indirizzi generali di 
+investimento e con le indicazioni operative definite nel mandato di gestione. In seguito 
+a questa attività indivi dua le operazioni da effettuare sui vari portafogli. Il gestore 
+delegato periodicamente rendiconta all’unità organizzativa Investimenti ed al 
+Comitato Investimenti l’attività di gestione svolta, illustrando il contenuto dei por tafogli 
+ed i loro rendimenti. Il gestore delegato provvede alla verifica dei limiti di legge e di 
+quelli specifici delle singole linee prima ancora di eseguire gli ordini (controllo limiti ex 
+ante). Se richiesto, esercita il diritto di voto spettante al so ggetto istitutore del Fondo 
+inerente i titoli oggetto della gestione, secondo le istruzioni vincolanti impartite dal 
+Consiglio di Amministrazione. 
+Middle Office Titoli: è l’unità che ha il compito di verificare il rispetto degli standard 
+qualitativi e quantitativi stabiliti nell’ambito delle convenzioni sottoscritte e, in special 
+modo, nei mandati di gestione.  
+Amministrazione Titoli: provvede al calcolo del rendimento delle Gestioni Separate, al 
+calcolo della quota, dividendo il valore complessivo netto di ciascun comparto per il 
+numero complessivo delle quote in possesso degli iscritti.  Riconcilia le posizioni dei titoli
+=== pagina 23 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 23 
+e provvede alla predisposizione della copertura delle riserve tecniche come previsto 
+dalla normativa di riferimento.  
+Funzione Risk Management: controlla il rispetto dei limiti operativi deliberati (controllo 
+limiti ex post), propone strumenti e metodologie idonei per la valutazione e la gestione 
+dei rischi finanziari, propone interventi volti a migliorare il profilo di rischio e svolge 
+un’attenta attività di analisi e di monitoraggio dei rischi connessi all’attività di 
+investimento. Predispone, insieme all’unità organizzativa Investimenti, le modifiche 
+periodiche alle Politiche di investimento dei Fondi, in conformità con  la politica di 
+investimento generale. 
+Responsabili dei Fondi Pensione: vigilano sull’osservanza della normativa e dei rispettivi 
+Regolamenti nonché sul rispetto delle buone pratiche e dei principi di corretta 
+amministrazione del Fondo Pensione nell’esclusivo interesse degli aderenti e dei 
+beneficiari, sulla gestione finanziaria, anche nel caso di conferimento a terzi di deleghe 
+di gestione, con riferimento ai controlli sulle politiche di investimento. Vigila no inoltre 
+che i rischi assunti con gli investimenti effettuati siano correttamente identificati, misurati 
+e controllati e che siano coerenti con gli obiettivi perseguiti dalla politica di 
+investimento. Analizzano, con il supporto delle unità organizzative coinvolte, eventuali 
+proposte di cambiamento della strategia finanziaria. Presentano al Consiglio di 
+Amministrazione del Fondo la relazione semestrale e quella annuale per COVIP che 
+illustra le attività svolte. 
+9.3. Sistema di trasmissione delle informazioni di Intesa Sanpaolo Assicurazioni per i Fondi 
+Pensione Aperti 
+Fermo quanto previsto al Capitolo 3 e a integrazione di quanto ivi indicato, si 
+rappresenta che il Consiglio di Amministrazione della Società  stabilisce che siano in 
+essere, ciascuno in ragione della propria competenza, i flussi informativi periodici verso 
+i Responsabili dei Fondi Pensione provenienti dalle unità organizzative Legale e 
+Societario Vita, Contabilità tecnica  Vita e Danni , Group Financial Reporting  e 
+Amministrazione Titoli, Gestione tecnica, Gestione Reclami e Qualità del Servizio e dalle 
+Funzioni Risk Management e Compliance, volti a garantire l’attendibilità e l’integrità dei 
+dati e delle informazioni, anche contabili, inerenti ai profili gestionali dei fondi pensione, 
+per una sana e prudente gestione ed un controllo trasparente dei Fondi Pensione.  
+La Funzione Audit invia ai Responsabili dei Fondi Pensione la propria relazione sulle 
+attività svolte, per la parte relativa alla gestione dei fondi stessi.
+=== pagina 24 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 24 
+9.4 Il sistema di gestione dei rischi di Intesa Sanpaolo Assicurazioni per i Fondi Pensione Aperti 
+Il processo di gestione dei rischi descritto nel Capitolo 4 si applica anche con riferimento 
+ai Fondi Pensione. 
+9.5 Il sistema di controllo interno di Intesa Sanpaolo Assicurazioni per i Fondi Pensione Aperti 
+Fermo quanto previsto dal Capitolo 5 e  a integrazione di quanto ivi indicato, con 
+riferimento ai Fondi Pensione si precisa che la Società ha provveduto a nominare per 
+ciascun Fondo Pensione un Responsabile (di seguito solo “Responsabile”) che svolge la 
+sua attività in modo autonomo e indipendente, avvalendosi della collaborazione delle 
+strutture organizzative della Società stessa.  
+La Società mantiene i rapporti con il Responsabile, inviando i flussi informativi ricorrenti 
+e rispondendo alle richieste informative non ricorrenti al Responsabile. Il Responsabile 
+può assistere alle riunioni dell’organo amministrativo e di quello di cont rollo della 
+Società per le materie inerenti ai Fondi Pensione Aperti per il quale svolge il suo incarico. 
+Il Responsabile del Fondo Pensione Aperto vigila: 
+- sulla gestione finanziaria del Fondo Pensione Aperto anche nel caso di 
+conferimento a terzi di deleghe di gestione; 
+- sulla gestione amministrativa, anche nel caso di conferimento a terzi di 
+deleghe di gestione; 
+- sulle misure di trasparenza adottate nei confronti degli aderenti; 
+- sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla 
+stessa le segnalazioni, la documentazione e le relazioni richieste dalla 
+normativa e dalle istruzioni emanate in proposito;  
+- sull’adeguatezza della procedura di gestione dei reclami; 
+e verifica: 
+- le soluzioni adottate dalla Società per identificare le situazioni di conflitti di 
+interesse e per evitare che le stesse arrechino pregiudizio agli aderenti;  
+- la corretta esecuzione del contratto per il conferimento dell'incarico di 
+depositario; 
+- le condizioni per l'erogazione delle rendite e, ove presenti, delle condizioni 
+relative alle prestazioni di invalidità e premorienza; 
+Inoltre, predispone la relazione annua per la COVIP e, se presente, per l’Organismo di 
+Rappresentanza.
+=== pagina 25 ===
+Direttive in materia di sistema di governo societario di Intesa Sanpaolo Assicurazioni S.p.A. 
+ 25 
+9.6. Requisiti di idoneità alla carica 
+La Società adotta una Politica per l’identificazione e la valutazione del possesso dei 
+requisiti di idoneità alle cariche tra i cui obiettivi, come sopra anticipato, rientrano la 
+definizione dei soggetti di cui la Società valuta i requisiti (compresi il Responsabile delle 
+forme pensionistiche complementari e l’Organismo di Rappresentanza), la 
+declinazione dei requisiti da verificare e la modalità di verifica dei requisiti stessi. 
+9.7 Funzioni Fondamentali di Intesa Sanpaolo Assicurazioni per i Fondi Pensione Aperti 
+Le Funzioni Audit  e Risk Management svolgono le attività di propria competenza nel 
+rispetto della normativa di vigilanza e nei termini indicati al Capitolo 7, anche con 
+riferimento ai Fondi Pensione. 
+La Società si è strutturata in modo da assicurare il presidio del rischio di non conformità. 
+In tale accezione, la Funzione Compliance - istituita presso la Società ai sensi del 
+Regolamento 38 - svolge un presidio con riferimento al rischio di non conformità. 
+9.8. Rispetto delle disposizioni normative in merito al governo societario di Intesa Sanpaolo 
+Assicurazioni per i Fondi Pensione Aperti 
+Anche per i Fondi Pensione Aperti trovano applicazione le disposizioni di cui al Capitolo 
+8.

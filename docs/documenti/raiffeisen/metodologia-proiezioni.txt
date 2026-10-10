@@ -1,0 +1,61 @@
+# Fondo: RAIFFEISEN FONDO PENSIONE APERTO (raiffeisen)
+# Documento: Metodologia delle proiezioni – Metodologia calcolo proiezione rendita
+# Fonte: https://www.raiffeisenpensionsfonds.it/fileadmin/RGO/Pensionsfonds/Allgemeine_Unterlagen/IT/10_Metodologia_calcolo_proiezione_rendita.pdf
+# Citato in: https://www.raiffeisenpensionsfonds.it/it/il-raiffeisen-fondo-pensione/documentazione.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: e9678d71d98554edc8f97395e6a3779d3101889fa0ba038a05b177dc0f416b91
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+pagina 1 di 1 05/2021 
+METODOLOGIA E IPOTESI UTILIZZATE PER L’ELABORAZIONE DI PROIEZIONI 
+RELATIVE ALLE PRESTAZIONI PENSIONISTICHE ATTESE 
+ 
+Il presente documento  spiega la metodologia e le ipotesi utilizzate per elaborare le proiezioni relative al le 
+prestazioni attese al momento del pensionamento, secondo le istruzioni della COVIP. 
+La finalità delle proiezioni delle  prestazioni pensionistiche  è di fornire all’aderente uno strumento per  valutare i l 
+proprio programma previdenziale e  assumere eventuali scelte relative alla partecipazi one al Raiffeisen Fondo 
+Pensione Aperto, come ad esempio il livello di contribuzione. 
+ 
+Avvertenza: Gli importi riportati nelle proiezioni sono fondati su ipotesi di calcolo definite dalla COVIP e potrebbero 
+risultare differenti da quelli effettivamente mat urati al momento del pensionamento. Le indicazioni fornite non 
+impegnano pertanto in alcun modo né Cassa Centrale Raiffeisen dell’Alto Adige S.p. A. né la COVIP. Tieni inoltre in 
+considerazione che la posizione individuale è soggetta a variazioni in consegu enza della variabilità dei rendimenti 
+effettivamente conseguiti dalla gestione e che le prestazioni pensionistiche sono soggette a tassazione.  
+Ipotesi tecniche COVIP generali 
+Tasso atteso di crescita della contribuzione/retribuzione: 1% tasso reale annuo. 
+Tasso annuo atteso di inflazione: 2%. 
+Costi nella fase di accumulo: quelli effettivamente applicati e consultabili nella Scheda ‘I costi’. 
+Tasso atteso di rendimento della gestione : calcolato sulla base della composizione (azionaria/obbligazionaria) del 
+benchmark di riferimento di ciascun  comparto di investimento , attribuendo un rendimento medio annuo alla 
+componente obbligazionaria del 2,00% e alla componente azionaria del 4,00%  (espressi in termini reali e al lordo 
+dei costi e della tassazione). 
+Calcolo della rendita: applicando coefficienti di conversione unisex sulla base delle seguenti ipotesi: 
+• basi demografiche A62U; 
+• tasso tecnico 0%; 
+• costo trasformazione in rendita 1,25% della posizione individuale maturata al momento del pensionamento. 
+Importi delle proiezioni: il valore della posizione individuale al momento del pensionamento e della prima rata di 
+rendita sono calcolati al lordo della fiscalità e sono espressi in termini reali (al netto dell’inflazione).  
+Ipotesi specifiche proiezione pensionistica standardizzata 
+La proiezione pensionistica standardizzata  è riportata n ella Nota informativa, Parte I ‘Le info rmazioni chiave per 
+l’aderente’, Paragrafo ‘Quanto potresti ricevere quando andrai in pensione’. 
+ 
+La relativa elaborazione avviene sulla base delle seguenti figure-tipo di aderenti definite dalla COVIP: 
+• età anagrafica al momento dell’adesione 30 e 40 anni; 
+• età di pensionamento di vecchiaia 67 anni; 
+• contribuzione annua 2.500 e 5.000 euro; 
+• rendita vitalizia immediata senza reversibilità con rata annuale. 
+Ipotesi specifiche proiezione pensionistica personalizzata 
+Le proiezioni personalizzate sono riportate nel ‘Prospetto delle prestazioni pensionistiche – fase di accumulo’ 
+inviato annualmente agli aderenti, nella S ezione ‘Quanto riceverai quando andrai in  pensione’ e nella Sezione 
+‘Informazioni all’avvicinarsi del pensionamento di vecchiaia’ (sezione presente solo  se all’aderente mancano tre 
+anni o meno alla presumibile età di pensionamento). 
+L’aderente può inoltre elaborare proiezioni personalizzate tramite il motore di calcolo disponibile sul sito web. 
+ 
+La personalizzazione delle proiezioni pensionistiche avviene sulla base dei seguenti dati dell’aderente: 
+• età;  
+• misura della contribuzione indicata o effettivamente versata con carattere di stabilità; 
+• profilo/comparto di investimento; 
+• età di pensionamento di vecchiaia indicata o rilevata, altrimenti 67 anni. 
+Il motore di calcolo permette inoltre di scegliere la tipologia di rendita.

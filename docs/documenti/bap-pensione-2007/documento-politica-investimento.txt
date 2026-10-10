@@ -1,0 +1,445 @@
+# Fondo: BAP PENSIONE 2007 FONDO PENSIONE APERTO (bap-pensione-2007)
+# Documento: Documento sulla politica di investimento – Politica di Investimento
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/altro/012/Politica%20di%20investimento.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/bappensione-2007.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: d4ffc84cee22ecfe3c38171d3a96ae0ab81f3906756f56e2f4c887fef5132a6c
+# Pagine: 15
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+BAPpensione 2007 
+Fondo Pensione Aperto 
+ 
+Politica di investimento
+=== pagina 2 ===
+ANAGRAFICA 
+Data di emanazione:  26/02/2025 
+Data di applicazione:  26/02/2025 
+Versione:  3.0 
+ 
+CRONOLOGIA DEL DOCUMENTO 
+ 
+Data Autore Versione e modifiche 
+Versione 1.0  Prima edizione 
+17/12/2013  Prima stesura 
+26/5/2016  Seconda versione 
+3/11/2016  Terza versione 
+27/7/2017  Quarta versione 
+25/7/2019  Quinta versione 
+12/3/2021  Sesta versione 
+Versione 2.0  Revisione triennale 
+18/03/2022 Risk Management 
+Aggiornamento della società che 
+gestisce la forma pensionistica a 
+seguito della fusione di 
+BancAssurancePopolari S.p.A. in     
+Intesa Sanpaolo Vita S.p.A. 
+Aggiornamento degli indicatori 
+quantitativi dei singoli comparti e del 
+layout del documento. 
+Adeguamento del sistema di 
+controllo e valutazione della gestione 
+finanziaria in funzione della normativa 
+interna della Società. 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+18/03/2022.
+=== pagina 3 ===
+INDICE 
+ 
+RIFERIMENTI NORMATIVI ................................ ................................ ................................ ............ 4 
+PREMESSA ................................ ................................ ................................ ................................ .... 4 
+OBIETTIVI DELLA GESTIONE FINANZIARIA ................................ ................................ ............... 5 
+1. CARATTERISTICHE................................ ................................ ................................ ................ 6 
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE ................................ ...................... 7 
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO ................................ ...............................  12 
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA ..................... 13 
+1. CONTROLLO LIMITI ................................ ................................ ................................ ........... 13 
+2. ANALISI DEI COMPARTI ................................ ................................ ................................ .... 13 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION ................................ ................................ .. 13 
+4. ATTRIBUZIONE DEL RATING ................................ ................................ ...............................  14 
+Versione 3.0  Revisione triennale 
+26/02/2025 Enterprise Risk 
+Revisione triennale approvata dal 
+Consiglio d’Amministrazione in data 
+26/02/2025. 
+Aggiornamento degli indicatori 
+quantitativi dei singoli comparti.
+=== pagina 4 ===
+RIFERIMENTI NORMATIVI 
+ 
+Decreto Legislativo n. 252 del 5 dicembre 2005. 
+Deliberazione COVIP del 16 marzo 2012. 
+Decreto del Ministero dell’Economia e delle Finanze DM 166/2014. 
+ 
+ 
+PREMESSA  
+ 
+Il presente documento disciplina la politica degli investimenti del fondo pensione BAPpensione 2007, 
+definendo la strategia finanziaria che si intende attuare per ottenere la combinazione 
+rischio/rendimento coerente con i bisogni previdenziali degli aderenti. Il documento è stato redatto 
+in adempimento a quanto prescritto dalla Deliberazione COVIP del 1 6 marzo 2012. Il documento 
+verrà sottoposto a revisione periodica, almeno ogni tre anni e tutte le modifiche apportate verranno 
+annotate nella tabella conten ente la cronologia del documento, indicando una sintetica 
+descrizione delle stesse e le date con cui sono state effettuate. Il documento viene trasmesso in 
+occasione di ogni sua modifica: 
+ 
+• alla COVIP, entro venti giorni dalla sua formalizzazione; 
+• ai soggetti incaricati dalla gestione; 
+• al Responsabile del Fondo.
+=== pagina 5 ===
+OBIETTIVI DELLA GESTIONE FINANZIARIA 
+ 
+Il fondo pensione aperto BAPpensione 2007 gestisce le risorse nel rispetto del principio della sana e 
+prudente gestione e nel migliore interesse degli aderenti e dei beneficiari. In particolare, devono 
+essere osservati i seguenti obiettivi di gestione: 
+ 
+▪ efficiente gestione del portafoglio, in modo da contemperare la massimizzazione della 
+redditività e la minimizzazione dei costi di transazione, gestione e funzionamento;  
+ 
+▪ contenimento del rischio, qualità, liquidità e redditività del portafoglio nel suo complesso;  
+ 
+▪ adeguata diversificazione del portafoglio, in modo da evitare che ci sia un’eccessiva 
+dipendenza del risultato della gestione da determinati emittenti, gruppi di imprese o attività, 
+e che nel portafoglio complessivamente considerato ci siano concentrazioni  del rischio. 
+ 
+Nel perseguire questi obiettivi si dovrà tener conto delle esigenze di tipo previdenziale degli aderenti 
+considerando il lasso di tempo che li separa dal pensionamento ed in relazione alle caratteristiche 
+personali quali anzianità lavorativa, percorso di carriera e tipologia del nucleo famigliare. 
+ 
+Per ciascun comparto dovrà essere definito un parametro oggettivo che consenta all’aderente di 
+valutare il prodotto in termini di rischio/rendimento. A tale scopo potrà essere utilizzato un 
+benchmark, definito come un indice o una combinazione di indici fi nanziari, utilizzabili per 
+confrontare e valutare il prodotto in termini di rischiosità e redditività prevedibile, in relazione ai 
+mercati e settori presi in considerazione o un livello massimo di rischio atteso ed una indicazione della 
+redditività prospettica.
+=== pagina 6 ===
+1. CARATTERISTICHE 
+ 
+BAPpensione 2007  è rivolto a tutti coloro che intendono costruire un piano di previdenza 
+complementare su base individuale. Possono aderire, inoltre, su base collettiva, i lavoratori nei cui 
+confronti trovino applicazione i contratti, gli accordi o i regolamenti aziendali  che dispongono 
+l’adesione a BAPpensione 2007.  
+Lo scopo è quello di garantire prestazioni pensionistiche aggiuntive rispetto a quelle erogate dagli 
+enti previdenziali obbligatori. Gli importi versati potranno essere investiti in  tre comparti, con diverse 
+caratteristiche di rischio/rendimento e conseguenti diversi orizzonti temporali.  
+ 
+Descrizione Tipologia Orizzonte temporale 
+TFR Fondo interno 2-5 anni 
+EQUILIBRIO Fondo interno 5-10 anni 
+INVESTIMENTO Fondo interno 10-15 anni 
+ 
+Ogni comparto è caratterizzato da diversi livelli di rischio/rendimento e prevede politiche di 
+investimento strettamente connesse alle finalità di gestione che si intendono perseguire, nei capitoli 
+successivi verranno analizzati nel dettaglio.
+=== pagina 7 ===
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE  
+ 
+I fondi pensione operano nel rispetto del principio della sana e prudente gestione, perseguendo gli 
+interessi degli aderenti, osservano il criterio di un’adeguata diversificazione del portafoglio finalizzata 
+a contenere la concentrazione del rischio, ottim izzando la combinazione rischio/rendimento. A tal 
+fine si verificano periodicamente i risultati della gestione mediante l’adozione di parametri di 
+riferimento coerenti con gli obiettivi.  
+ 
+Strumenti finanziari nei quali si intende investire 
+Le disponibilità possono essere investite in strumenti finanziari di natura monetaria, obbligazionaria e 
+azionaria nei limiti previsti dalla normativa e dalle politiche di investimento di ogni singolo comparto 
+più avanti delineate. 
+ 
+E’ prevista la possibilità di investire in quote di OICVM, la cui politica di gestione sia coerente con 
+quella stabilita per il comparto, ivi inclusi quelli istituiti da imprese del gruppo di appartenenza della 
+Società istitutrice, nel rispetto delle specifiche disposizioni in materia.  
+ 
+Le risorse non vengono investite in tipologie di strumenti finanziari e classi di attività per le quali la 
+struttura organizzativa, professionale e tecnica e il modello adottato dalla Società non consentono 
+adeguati monitoraggio e gestione del rischio.  
+ 
+Il fondo pensione aperto BAPpensione 2007 investe in strumenti finanziari derivati esclusivamente per 
+finalità di riduzione del rischio e di efficiente gestione  delle risorse, coerentemente con il profilo di 
+rischio-rendimento del comparto e nei limiti indicati per gli attivi sottostanti. Nell’esercizio dell’attività 
+di gestione di fondi pensione, il soggetto gestore non può effettuare vendite allo scoperto, né po rre 
+in essere operazioni in strumenti finanziari derivati equivalenti a vendite allo scoperto.  
+ 
+L’investimento in strumenti finanziari di uno stesso emittente non può superare il 5% del patrimonio in 
+gestione di ogni singolo Comparto e 10% in strumenti finanziari emessi da soggetti appartenenti ad 
+un unico gruppo; sono esclusi dall’applicazione di tale limite di concentrazione gli strumenti finanziari 
+emessi o garantiti da un Paese membro dell’Unione Europea, da un Paese aderente all’OCSE o da 
+organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi membri dell’Unione 
+Europea, gli OICVM e i FIA. 
+ 
+Gli investimenti in strumenti finanziari di natura obbligazionaria sono orientati verso titoli con elevata 
+affidabilità creditizia ovvero nell’area dell’Investment Grade. Secondo le indicazioni fornite 
+dall’Authority di settore (COVIP) per la valutazione d el merito creditizio degli investimenti di natura 
+obbligazionaria, non ci si atterrà esclusivamente ai giudizi espressi dalle agenzie di rating, ma si farà 
+riferimento alla “Credit Rating Policy” approvata dalla Società. Qualora il rating di uno strumento di 
+debito in portafoglio si riduca, dopo l’acquisto, al di sotto dei limiti sopra indicati, si provvederà a 
+vendere lo strumento in questione nel lasso di tempo ritenuto più opportuno a tutela degli interessi 
+dei partecipanti ai Fondi Pensione. 
+ 
+Le linee guida ed i relativi limiti operativi adottati per regolamentare i criteri di assunzione e gestione 
+dei rischi a cui sono esposti gli attivi finanziari, hanno lo scopo di perseguire i principi di:  
+ 
+-  diversificazione: nel senso che differenti classi di attività, diverse controparti e diversi settori 
+devono essere rappresentati nel portafoglio in modo da permettere il contenimento del credit 
+spread e del rischio di fallimento; 
+-  dispersione: nel senso che nessun singolo investimento deve essere di dimensione tale da 
+impattare in modo sensibile sul rendimento del portafoglio nel caso di fallimento della controparte 
+o di performance negativa.
+=== pagina 8 ===
+Le linee guida privilegiano l’investimento in titoli ad elevato merito creditizio e stimolano la 
+diversificazione e la dispersione del rischio. A tale scopo il Comitato Investimenti verifica il rispetto dei 
+limiti di cui sopra.
+=== pagina 9 ===
+TFR 
+Finalità della gestione:  
+La politica di gestione del comparto ha l’obiettivo di realizzare con elevata probabilità rendimenti 
+che siano almeno pari a quelli del TFR, in un orizzonte di tempo pluriennale. La strategia di 
+investimento adottata, per il conseguimento di tale obiettivo, prevede una presenza di investimenti 
+obbligazionari, diversificati p er area geografica e duration media coerente con l’orizzonte 
+temporale della gestione ed in parte di investimenti azionari. 
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta. I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro 
+macroeconomico globale e sulla base dell’analisi degli utili attes i. I titoli di debito e di capitale 
+devono essere quotati su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la 
+quotazione nei suddetti mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+45%  EGB0   BOFA ML euro treasury bill 
+45%  JPMG  EMLC JPM GBI EMU 
+10%  NDDLEMU MSCI EMU 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a1,27%. 
+ 
+Variabilità del rendimento atteso: 
+pari a2,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni :  
+pari a 0% (la probabilità di rendimenti negativi è nulla nei casi in cui opera la garanzia).  
+ 
+Limiti quantitativi e qualitativi: 
+A livello di asset allocation gli investimenti in strumenti azionari devono essere compresi tra lo 0% ed 
+il 10% del portafoglio. La strategia di investimento adottata prevede una presenza di investimenti 
+obbligazionari diversificati per area geografica e duration media coerente con l’orizzonte temporale 
+della gestione. L’esposizione valutaria complessiva non può superare il 10% del valore del comparto.  
+Sono consentiti investimenti in titoli obbligazionari con rating minimo inferiore a “BB” ovvero “not 
+rated”, nei limiti del 5% del valore corrente del comparto 
+È previsto un limite di tolleranza pari al 10% dei limiti stessi 
+ 
+Modalità di gestione:  
+Indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio EurizonCapital SGR. 
+ 
+Livello max turnover:  
+pari a 100%. 
+ 
+Livello max tracking error volatility:  
+pari a 2.4%.
+=== pagina 10 ===
+EQUILIBRIO 
+Finalità della gestione:  
+Il comparto si presta a soddisfare l'esigenza di chi vuole investire il capitale nel medio periodo ed 
+ottenere una rivalutazione del capitale investito. 
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura monetaria, obbligazionaria ed azionaria denominati in euro ed in 
+valuta. I criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro 
+macroeconomico globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capi tale 
+devono essere quotati su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la 
+quotazione nei suddetti mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+33% EGB0   BOFA ML euro treasury bill  
+35%  JPMGEMLC  JPM GBI EMU 
+22%  NDDLEMU  MSCI EMU 
+10%  NDDUWXEU  MSCI World ex EMU USD 
+ 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a2,24%.  
+ 
+Variabilità del rendimento atteso:  
+pari a 4,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 5 anni :  
+pari a5,00%. 
+ 
+Limiti quantitativi e qualitativi:  
+A livello di asset allocation gli investimenti in strumenti azionari devono essere compresi tra lo 0% ed 
+il 32% del portafoglio. La strategia di investimento adottata prevede una presenza di investimenti 
+obbligazionari diversificati per area geografica e duration media coerente con l’orizzonte temporale 
+della gestione. L’esposizione valutaria complessiva non può superare il 10% del valore del comparto.  
+Sono consentiti investimenti in titoli obbligazionari con rating minimo inferiore a “BB” ovvero “not 
+rated”, nei limiti del 5% del valore corrente del comparto 
+È previsto un limite di tolleranza pari al 10% dei limiti stessi 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 100%. 
+ 
+Livello max tracking error volatility:  
+pari a 3.9%.
+=== pagina 11 ===
+INVESTIMENTO 
+Finalità della gestione:  
+Il comparto si presta a soddisfare l'esigenza di chi vuole investire il capitale nel lungo periodo ed 
+ottenere un incremento del capitale investito. 
+ 
+Composizione della gestione:  
+Il comparto investe le risorse in strumenti finanziari di natura azionaria, obbligazionaria e monetaria. I 
+criteri di selezione degli strumenti finanziari sono basati sull’analisi del quadro macroeconomico 
+globale e sulla base dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati 
+su mercati regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti 
+mercati sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+10% EGB0   BOFA ML euro treasury bill  
+20%  JPMGEMLC  JPM GBI EMU 
+50%  NDDLEMU  MSCI EMU 
+20%  NDDUWXEU  MSCI World ex EMU USD 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a4,05%.  
+ 
+Variabilità del rendimento atteso:  
+pari a9,00%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni :  
+<0,50%. 
+ 
+Limiti quantitativi e qualitativi:  
+L’asset allocation prevede investimenti principalmente azionari mentre la componente 
+obbligazionaria devono essere compres a tra lo 0% ed il 3 0% del portafoglio. La strategia di 
+investimento adottata prevede una presenza di investimenti obbligazionari diversificati per area 
+geografica e duration media coerente con l’orizzonte temporale della gestione. L’esposizione 
+valutaria complessiva non può superare il 20% del valore del comparto.  
+Sono consentiti investimenti in titoli obbligazionari con rating minimo inferiore a “BB” ovvero “not 
+rated”, nei limiti del 5% del valore corrente del comparto 
+È previsto un limite di tolleranza pari al 10% dei limiti stessi 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 100%.. 
+ 
+Livello max tracking error volatility:  
+pari a 10.6%.
+=== pagina 12 ===
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO 
+ 
+Back Office Titoli  monitora gli eventi societari connessi agli strumenti finanziari in portafoglio. Viene 
+esercitato il diritto di intervento e di voto nelle assemblee delle società italiane, tenendo conto dei 
+costi benefici collegati alla partecipazione all’assemblea, dell ’ordine del giorno, dell’utilità della 
+partecipazione agli interessi dei patrimoni gestiti e della possibilità di incidere sulle decisioni in 
+relazione alla quota di capitale con diritto di voto posseduta. 
+ 
+Il criterio fondamentale di partecipazione alle assemblee consiste nel giudicarle rilevanti per 
+situazioni di particolare interesse in difesa o a supporto degli aderenti, che riguardino decisioni di 
+corporate governance, bilancio, politiche di distribuzione di utili e dividendi, politiche di 
+remunerazione delle figure apicali. 
+ 
+Nel caso ne ricorrano i presupposti, non esercita il diritto di voto inerente alle azioni di pertinenza dei 
+patrimoni degli OICR emesse da società direttamente o indirettamente controllanti.
+=== pagina 13 ===
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA 
+ 
+Il sistema di controllo è il processo attraverso il quale si monitora la corretta implementazione, 
+coerentemente con le strategie e gli indirizzo previsti, nel rispetto dei limiti interni ed esterni e 
+l’andamento delle performance dei portafogli. Le attivi tà di verifica prevedono il controllo dei limiti 
+normativi e dei limiti di prodotto e contrattuali (regolamento di gestione, nota informativa e mandati 
+di gestione), la verifica delle performance rispetto agli obiettivi e dei rischi dei patrimoni in gestio ne. 
+ 
+1. CONTROLLO LIMITI 
+La verifica del rispetto dei limiti normativi, che prevedono per ogni categoria di strumenti percentuali 
+massime e minime rispetto al patrimonio complessivo del fondo, viene svolta da parte del Risk 
+Management (controllo limiti ex post), in modo da interve nire immediatamente in caso di 
+superamenti, attivando le procedure di rientro nei limiti. Se l’attività di analisi conferma l’avvenuto 
+superamento di un limite, Risk Management e l’unità organizzativa Investimenti definiscono con il 
+gestore delegato modalità e tempistiche di rientro, Il Risk Management riepiloga mensilmente l’esito 
+dei controlli al Responsabile del Fondo.  
+ 
+2. ANALISI DEI COMPARTI 
+La funzione di Risk Management supporta l’unità organizzativa Investimenti nel monitoraggio 
+costante dell’andamento dei comparti; in particolare provvede ad elaborare i dati di performance 
+dei fondi e dei benchmark e gli indicatori di rischio, ovvero la volatilità dei comparti e del benchmark, 
+la Tracking Error Volatility (TEV), l’Information Ratio e l’Indice di Sharpe. 
+ 
+L’unità organizzativa Investimenti illustra l’analisi sull’andamento dei comparti al Comitato 
+Investimenti per la valutazione delle strategie d’investimento e dell’operato dei gestori delegati.  
+ 
+Queste informazioni vengono inoltre inviate al Responsabile del Fondo, con periodicità trimestrale.   
+ 
+Annualmente viene inoltre monitorato il Total Expense Ratio (TER) elaborato da Back Office Titoli per 
+ogni singolo comparto in modo da verificare l’incidenza dei costi effettivi rispetto al totale delle 
+risorse del comparto. 
+ 
+ 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION  
+Al fine di non limitarsi a quantificare i livelli di rischio e rendimento, vengono analizzate le componenti 
+dei risultati conseguiti dal gestore delegato. Lo svolgimento di questo tipo di indagine parte dalla 
+conoscenza delle fasi in cui si articola l'atti vità di asset management e dei criteri che guidano le 
+scelte dei soggetti competenti, allo scopo di individuare il contributo che ciascuna fase (e ciascun 
+soggetto) hanno dato alla performance ottenuta. 
+ 
+Il gestore delegato definisce il grado di specializzazione/diversificazione del portafoglio, il livello 
+strutturale di rischio/liquidità e le aree in cui il fondo dovrà investire, suddividendo il patrimonio fra 
+tipologie di titoli (azioni, obbligazioni, li quidità), aree geografiche e settori merceologici sulla base 
+dell'orizzonte temporale prescelto, dei rendimenti attesi, del livello di rischio e delle correlazioni tra le 
+diverse tipologie di strumenti finanziari. 
+ 
+L’unità organizzativa Investimenti provvede al monitoraggio costante della performance attribution 
+utilizzando la reportistica che il gestore delegato fornisce alla società.
+=== pagina 14 ===
+I dati relativi alla performance vengono analizzati durante il Comitato Investimenti e discussi con il 
+Responsabile del Fondo con lo scopo di valutare il contributo delle scelte del gestore nella 
+formazione del rendimento. 
+ 
+4. ATTRIBUZIONE DEL RATING 
+Per l’attribuzione del merito creditizio degli attivi presenti nei diversi comparti, oltre ai giudizi espressi 
+dalle principali agenzie di rating, viene presa in considerazione, in via prioritaria, una valutazione 
+interna effettuata dalla Compagnia stessa, in coerenza con i modelli interni della Capogruppo 
+Intesa Sanpaolo. 
+Tale valutazione interna sarà obbligatoriamente attribuita a tutti gli emittenti per i quali vale almeno 
+una delle due seguenti condizioni: 
+• l’esposizione totale è almeno pari allo 0,5% 
+• l’esposizione in almeno uno dei comparti è maggiore del 5%. 
+Il processo di definizione dei rating interni segue il seguente iter: 
+• Ricezione del rating interno attribuito agli emittenti (Sovereign, Corporate e Banche) in 
+portafoglio della Compagnia da parte della Capogruppo Intesa Sanpaolo; 
+• Valutazione interna da parte della Funzione Risk management che procede a convalidare il 
+rating di Capogruppo per l’utilizzo interno o, sentita l’unità organizzativa Investimenti, a 
+proporre un override motivato sulla base di precisi elementi di propria conoscenza 
+dell’emittente, informando in tal caso le competenti strutture di Capogruppo. L’override, che 
+potrà avere un’ampiezza obbligatoriamente ricompresa tra il giudizio interno di Capogruppo 
+ed il rating “sintetico” delle Agenzie di Rating (cfr. oltre) è sottoposto ad approvazione del 
+Comitato Rischi della Compagnia;   
+• Apposita informativa dei rating in vigore viene predisposta per il Consiglio di Amministrazione 
+della Compagnia, che qualora non condivida un giudizio su un emittente sulla base di precisi 
+elementi informativi a disposizione dei membri, richiederà una ri -valutazione del giudizio da 
+parte della Funzione Risk Management, comunicando tali elementi. 
+Qualora non sia possibile effettuare tale valutazione interna, e si ricorra dunque ai giudizi espressi 
+dalle principali agenzie di rating, a partire da essi viene definito un valore unico di rating (cd. “rating 
+sintetico”) al fine di sintetizzare i giudizi attribuiti al merito creditizio di una singola emissione o di un 
+singolo emittente. 
+A partire dai rating disponibili per un singolo emittente o strumento finanziario, il rating sintetico viene 
+calcolato adottando il criterio di cui alla circolare Banca d’Italia n° 262 del 22/12/2005.  
+In particolare: 
+- qualora esistano 3 o più valutazioni differenti si individuano le due migliori e, fra queste, si sceglie 
+quella peggiore; 
+- qualora esistano 2 valutazioni del merito creditizio occorre fare riferimento a quella peggiore;  
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.  
+ 
+Fanno eccezione i titoli cartolarizzati per i quali il rating sintetico viene calcolato adottando il criterio 
+del “rating peggiore” tra quelli disponibili per un singolo emittente o strumento finanziario.  
+In particolare:
+=== pagina 15 ===
+- qualora esistano 2 o più valutazioni differenti si sceglie quella peggiore;  
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.

@@ -1,0 +1,105 @@
+# Fondo: PROGRAMMA OPEN FONDO PENSIONE APERTO (programma-open)
+# Documento: Metodologia delle proiezioni – Programma Open – Nota metodologica per l’elaborazione delle prestazioni pensionistiche
+# Fonte: https://www.groupama.it/app/uploads/2021/09/Nota-metodologica-per-lelaborazione-delle-proiezioni-pensionistiche-Programma-Open.pdf
+# Citato in: https://www.groupama.it/previdenza-integrativa/programma-open/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: ba3088c00f654b27a7f346f6cd635c37b6b746ee3dbec3ac168cbe784250c37f
+# Pagine: 3
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+INFORMAZIONI SULLA METODOLOGIA UTILIZZATA PER L’ELABORAZIONE 
+DELLE PROIEZIONI PENSIONISTICHE  
+Il presente documento illustra le ipotesi impiegate e la metodologia di calcolo utilizzata per 
+l’elaborazione delle proiezioni pensionistiche, sia standardizzate che personalizzate, 
+relativamente a Programma Open – Fondo Pensione Aperto, secondo quanto previsto dalla 
+Sezione V “Disposizioni sulle proiezioni pensionistiche” della Deliberazione Covip del 22 dicembre 
+2020 – Istruzioni di vigilanza in materia di trasparenza. 
+Proiezioni pensionistiche standardizzate 
+Il paragrafo “Quanto potresti ricevere quando andrai in pensione” della Nota Informativa di 
+Programma Open – Fondo pensione aperto riporta, sulla base di figure-tipo, le simulazioni del 
+valore della posizione individuale e il corrispondente valore della rata annua di rendita attesa, 
+calcolati con riferimento alle ipotesi definite dalla Covip per tutte le forme pensionistiche 
+complementari.  
+Di seguito le caratteristiche delle figure-tipo definite dall’Autorità di Vigilanza: 
+ Età anagrafica al momento dell’adesione: 30 e 40 anni 
+ Contributo annuo: 2.500 e 5.000 
+ Età di pensionamento: 67 anni 
+L’elaborazione è compiuta per ciascun comparto (o fondo interno/OICR/gestione interna 
+separata). 
+Il valore della posizione individuale prospettica e quello della prima rata di rendita attesa sono 
+rappresentati in termini reali e, pertanto, già al netto degli effetti dell’inflazione. Il valore della 
+rata di rendita fa riferimento a una rendita vitalizia immediata. 
+Nel calcolo dell’evoluzione della posizione individuale si tiene conto soltanto delle imposte 
+gravanti sui rendimenti. Le variabili per la costruzione delle proiezioni pensionistiche 
+standardizzate sono le seguenti: 
+ Dati anagrafici: quelli definiti per le figure-tipo (vedi sopra) 
+ Misura della contribuzione: quella definita per le figure-tipo (vedi sopra) 
+ Tasso atteso di crescita della contribuzione/retribuzione: la contribuzione è rivalutata 
+annualmente. La rivalutazione avviene a un tasso reale dell’1% qualora la contribuzione 
+sia espressa in cifra fissa; qualora la stessa sia invece espressa in percentuale della 
+retribuzione, si assume un tasso annuo atteso di crescita della retribuzione pari all’1% in 
+termini reali 
+ Tasso annuo atteso di inflazione: 2% 
+ Costi connessi alla partecipazione nella fase di accumulo: quelli effettivamente applicati 
+e consultabili nella Scheda “I Costi” della Nota Informativa di Programma Open – Fondo 
+Pensione Aperto 
+ Profilo di Investimento: le proiezioni pensionistiche standardizzate sono effettuate per 
+tutti i comparti previsti da Programma Open – Fondo Pensione Aperto 
+ Tasso atteso di rendimento della gestione: definito in funzione della composizione 
+azionaria e obbligazionaria del comparto. Viene attribuito un rendimento medio annuo
+=== pagina 2 ===
+obbligazionario del 2,00% ed un rendimento medio annuo azionario del 4,00%. I tassi di 
+rendimento sono espressi in termini reali e al lordo dei costi e della tassazione 
+ Età prevista al pensionamento: quella definita per le figure tipo (vedi sopra) 
+ Ipotesi tecniche per il calcolo della rendita definite dalla Covip: 
+o Basi demografiche: la tavola di mortalità è la A62U (A62 indifferenziata per sesso), 
+corrispondente alla combinazione 60 per cento maschi, 40 per cento femmine 
+o Basi finanziarie: tasso tecnico dello 0% 
+o Costo relativo alla trasformazione della posizione individuale in rendita: 1,25% 
+della posizione individuale maturata al termine della fase di accumulo   
+Qualora i coefficienti di conversione effettivamente utilizzati dalla forma pensionistica 
+complementare alla data di elaborazione del documento risultino meno favorevoli all’aderente 
+rispetto a quelli sopra indicati, il calcolo della prima rata annua di rendita è effettuato applicando 
+i coefficienti propri della forma pensionistica complementare. 
+Proiezioni pensionistiche personalizzate 
+Le variabili per la costruzione delle proiezioni pensionistiche personalizzate si basano sulle 
+informazioni relative al singolo aderente, sulle informazioni proprie della forma pensionistica 
+complementare e sulle ipotesi definite dalla Covip nella Sezione suddetta.  
+Il valore della posizione individuale prospettica e quello della rata di rendita attesa sono 
+rappresentati in termini reali e, pertanto, già al netto degli effetti dell’inflazione. Il valore della 
+rata di rendita fa riferimento a una rendita vitalizia immediata. 
+Nel calcolo dell’evoluzione della posizione individuale si tiene conto soltanto delle imposte 
+gravanti sui rendimenti. 
+ 
+Di seguito le variabili di riferimento: 
+ Dati anagrafici: l’età e il sesso sono quelli relativi all’aderente 
+ Misura della contribuzione: quella risultante alla forma pensionistica complementare sulla 
+base delle indicazioni dell’aderente ovvero quella effettivamente versata dall’aderente con 
+carattere di stabilità; la stessa è espressa su base annuale 
+ Tasso atteso di crescita della contribuzione/retribuzione: la contribuzione è rivalutata 
+annualmente. La rivalutazione avviene a un tasso reale dell’1% qualora la contribuzione 
+sia espressa in cifra fissa; qualora la stessa sia invece espressa in percentuale della 
+retribuzione, si assume un tasso annuo atteso di crescita della retribuzione pari all’1% in 
+termini reali 
+ Tasso annuo atteso di inflazione: 2% 
+ Costi connessi alla partecipazione nella fase di accumulo: quelli effettivamente applicati 
+e consultabili nella Scheda “I Costi” della Nota Informativa di Programma Open – Fondo 
+Pensione Aperto 
+ Profilo di Investimento: è quello scelto dall’aderente 
+ Tasso atteso di rendimento della gestione: definito in funzione della composizione 
+azionaria e obbligazionaria del comparto. Viene attribuito un rendimento medio annuo 
+obbligazionario del 2,00% ed un rendimento medio annuo azionario del 4,00%. I tassi di 
+rendimento sono espressi in termini reali e al lordo dei costi e della tassazione 
+ Età prevista al pensionamento: età di pensionamento di vecchiaia dell’aderente 
+ Ipotesi tecniche per il calcolo della rendita definite dalla Covip:
+=== pagina 3 ===
+o Basi demografiche: la tavola di mortalità è la A62U (A62 indifferenziata per sesso), 
+corrispondente alla combinazione 60 per cento maschi, 40 per cento femmine 
+o Basi finanziarie: tasso tecnico dello 0% 
+o Costo relativo alla trasformazione della posizione individuale in rendita: 1,25% 
+della posizione individuale maturata al termine della fase di accumulo   
+Si precisa che sul sito dell’INPS è comunque disponibile il servizio “La mia pensione” che 
+permette di simulare quella che sarà presumibilmente la prestazione di base che un lavoratore 
+iscritto al Fondo pensione lavoratori dipendenti o ad altri fondi o gestioni amministrati dall’INPS 
+riceverà al termine dell’attività lavorativa.

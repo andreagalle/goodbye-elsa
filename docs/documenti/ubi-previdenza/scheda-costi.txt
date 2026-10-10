@@ -1,0 +1,174 @@
+# Fondo: FONDO PENSIONE APERTO UBI PREVIDENZA (ubi-previdenza)
+# Documento: Nota informativa – Scheda I costi – Scheda I Costi
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/011/UBIPrev_Scheda_I_Costi_03_2026_UA.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/fondo-pensione-aperto-ubi-previdenza.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: b9fdb1de7635ecdfa56935f8749a7b2064f47409406d12c7d49dee40168c620d
+# Pagine: 4
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Via San Francesco d’Assisi, 10 - 10122 Torino 
+(sede legale) 
+Via Melchiorre Gioia, 22 - 20124 Milano
+(sede operativa)
+Numero Verde: 800.124.124
+comunicazioni@pec.intesasanpaoloassicurazioni.com
+servizioclienti@pec.intesasanpaoloassicurazioni.com
+www.intesasanpaoloassicurazioni.com
+Fondo Pensione Aperto
+UBI Previdenza 
+Iscritto all’Albo tenuto dalla COVIP con il n. 153 
+Istituito in Italia
+Soggetto gestore: Intesa Sanpaolo Assicurazioni S.p.A. 
+(Gruppo Intesa Sanpaolo)
+Nota Informativa  
+depositata presso la COVIP il 31/03/2026
+Modello ISPA-UBIPNI - Ed. 03/2026
+Parte I 
+‘Le informazioni chiave  
+per l’aderente’
+Intesa Sanpaolo Assicurazioni S.p.A. (di seguito Intesa Sanpaolo Assicurazioni)  
+è responsabile della completezza e veridicità dei dati e delle notizie contenuti  
+nella presente Nota Informativa.
+Scheda ‘I costi’  
+(in vigore dal 31/03/2026)
+=== pagina 2 ===
+FPA UBI Previdenza - Nota Informativa - Parte I ‘Le informazioni chiave per l’aderente’ 
+Scheda ‘I costi’
+2 di 4
+La presenza di costi comporta una diminuzione della posizione individuale e quindi della prestazione 
+pensionistica . Pertanto, prima di aderire al Fondo Pensione Aperto UBI Previdenza, è importante 
+confrontare i costi del Fondo con quelli previsti dalle altre forme pensionistiche. Analoghe considerazioni 
+valgono in caso di trasferimento ad altra forma pensionistica complementare (*).
+I costi nella fase di accumulo (1)
+Tipologia di costo Importo e caratteristiche
+Spese di adesione € 12,50 Commissione “una tantum” prelevata al primo versamento
+Spese da sostenere durante la fase di accumulo: 
+Direttamente a carico 
+dell’aderente 
+€  9,00 Commissione di gestione di importo fisso applicata annualmente sulla singola 
+posizione individuale e prelevata dal primo versamento di ogni anno, oppure, 
+in mancanza di versamenti, l’ultimo giorno disponibile di ogni anno solare a 
+valere sulla posizione individuale
+Indirettamente a carico 
+dell’aderente  
+(calcolate e prelevate 
+mensilmente) (1):
+• Capitale Sicuro 0,69% dal patrimonio su base annua
+• Garantito (chiuso alle nuove adesioni) 0,99% dal patrimonio su base annua
+• Prudente - Classe I 0,72% dal patrimonio su base annua
+• Moderato - Classe I 0,90% dal patrimonio su base annua
+• Dinamico - Classe I 1,20% dal patrimonio su base annua
+• Aggressivo - Classe I 1,44% dal patrimonio su base annua
+Spese per l’esercizio di prerogative individuali (prelevate dalla posizione individuale al momento dell’operazione):
+Anticipazione Non previste
+Trasferimento € 25,00
+Riscatto Non previste
+Riallocazione  
+della posizione individuale
+Non previste
+Riallocazione  
+del flusso contributivo
+Non previste
+Rendita integrativa 
+temporanea anticipata 
+(RITA) (2)
+€  5,00 prelevati da ogni rata erogata
+(1) Oltre alle commissioni indicate, sul patrimonio dei Comparti possono gravare le seguenti altre spese: spese legali e giudiziarie, imposte e tasse, 
+oneri di negoziazione, contributo di vigilanza, compenso del Responsabile del Fondo, per la parte di competenza del Comparto.
+(2) Sulla posizione individuale destinata alla RITA ancora in gestione non vengono applicate le spese direttamente a carico dell’aderente in fase di 
+accumulo mentre continuano ad essere applicate le spese indirettamente a carico dell’aderente.
+(*) Le spese indicate devono intendersi come massime applicabili. Le condizioni economiche praticate in caso di adesione collettiva sono riportate nelle 
+apposite Scheda ‘I costi’ - Adesioni Collettive.
+L’Indicatore Sintetico dei Costi (ISC)
+Al fine di fornire un’indicazione sintetica dell’onerosità dei Comparti del Fondo Pensione Aperto UBI 
+Previdenza è riportato, per ciascun Comparto, l’Indicatore Sintetico dei Costi (ISC) che esprime il costo 
+annuo, in percentuale della posizione individuale maturata, stimato facendo riferimento a un aderente-tipo che 
+versa un contributo annuo di 2.500 euro e ipotizzando un tasso di rendimento annuo del 4% e diversi periodi 
+di partecipazione nella forma pensionistica complementare (2, 5, 10 e 35 anni). 
+In caso di diritto alle condizioni agevolate previste i valori che assume l’Indicatore Sintetico dei Costi sono 
+riportati nell’apposita Scheda ‘I costi’ - Adesioni Collettive.
+L’ISC viene calcolato da tutti i Fondi Pensione utilizzando la stessa metodologia stabilita dalla COVIP.
+ Per saperne di più, consulta il riquadro ‘L’Indicatore Sintetico dei Costi’ della Guida introduttiva alla 
+previdenza complementare, disponibile sul sito web della COVIP (www.covip.it).
+ AVVERTENZA: è importante prestare attenzione all’ISC che caratterizza ciascun Comparto. Un ISC 
+del 2% invece che dell’1% può ridurre il capitale accumulato dopo 35 anni di partecipazione di circa 
+il 18% (ad esempio, lo riduce da 100.000 euro a 82.000 euro).
+=== pagina 3 ===
+FPA UBI Previdenza - Nota Informativa - Parte I ‘Le informazioni chiave per l’aderente’ 
+Scheda ‘I costi’
+3 di 4
+Indicatore Sintetico dei Costi
+Comparti Anni di permanenza
+2 anni 5 anni 10 anni 35 anni
+Capitale Sicuro 1,46% 0,93% 0,81% 0,73%
+Garantito 1,77% 1,24% 1,12% 1,04%
+Prudente - Classe I 1,49% 0,97% 0,84% 0,77%
+Moderato - Classe I 1,68% 1,15% 1,02% 0,95%
+Dinamico - Classe I 1,99% 1,46% 1,33% 1,26%
+Aggressivo - Classe I 2,23% 1,71% 1,58% 1,51%
+ A VVERTENZA:  per condizioni differenti rispetto a quelle considerate, ovvero nei casi in cui non si 
+verifichino le ipotesi previste, tale Indicatore ha una valenza meramente orientativa.
+Per consentirti di comprendere dei Comparti, nel grafico seguente l’ISC di ciascun Comparto del Fondo 
+Pensione Aperto UBI Previdenza è confrontato con l’ISC medio dei Comparti della stessa categoria offerti 
+dalle altre forme pensionistiche complementari presenti sul mercato. I valori degli ISC medi di settore sono 
+rilevati dalla COVIP con riferimento alla fine di ciascun anno solare.
+L’onerosità del Fondo Pensione Aperto UBI Previdenza è evidenziata con un punto; i trattini indicano i valori 
+medi, rispettivamente, dei Fondi Pensione Negoziali (FPN), dei Fondi Pensione Aperti (FPA) e dei Piani 
+Individuali Pensionistici di tipo assicurativo (PIP). Il grafico indica l’ISC minimo e massimo dei Comparti dei 
+FPN, dei FPA e dei PIP complessivamente considerati e appartenenti alla medesima categoria di 
+investimento.
+Il confronto prende a riferimento i valori di ISC riferiti ad un periodo di permanenza, nella forma pensionistica, 
+di 10 anni.
+Onerosità di “FPA UBI Previdenza” rispetto alle altre forme pensionistiche (periodo di permanenza 10 anni)
+ ISC medio FPN  ISC medio FPA  ISC medio PIP ISC FPA UBI Previdenza
+ Comparti
+Garantiti
+ Comparti
+Garantiti
+ Comparti
+Obbligazionari
+ Comparti
+Bilanciati
+ Comparti
+Bilanciati
+ Comparti
+Bilanciati
+Capitale Sicuro Garantito Prudente ModeratoD inamico Aggressivo
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+4,5
+0,81
+1,12
+0,84
+1,02 1,33
+1,58
+ L a COVIP mette a disposizione sul proprio sito il Comparatore dei costi delle forme 
+pensionistiche complementari per valutarne l’onerosità (www.covip.it).
+=== pagina 4 ===
+FPA UBI Previdenza - Nota Informativa - Parte I ‘Le informazioni chiave per l’aderente’ 
+Scheda ‘I costi’
+4 di 4
+I costi nella fase di erogazione
+Al momento dell’accesso al pensionamento ti verrà pagata una rata di rendita calcolata sulla base di un 
+coefficiente di conversione che incorpora un caricamento per spese di pagamento rendita; tale caricamento si 
+differenzia in base alla periodicità da te scelta, come di seguito indicato: 
+- 1,00% della rendita annua (periodicità annuale)
+- 1,15% della rendita annua (periodicità semestrale)
+- 1,45% della rendita annua (periodicità trimestrale)
+- 1,75% della rendita annua (periodicità bimestrale)
+A tali costi vanno aggiunti euro 2,58 come caricamento fisso per ogni rata di rendita.
+La rendita viene rivalutata a ogni ricorrenza annuale della data di decorrenza della stessa.
+La misura annua di rivalutazione attribuita è gravata unicamente dalle spese effettivamente sostenute per 
+l’acquisto e la vendita delle attività della Gestione Separata “Fondo Base Solida” e dai compensi alla Società 
+di revisione.
+ Per saperne di più, consul ta il Documento sulle rendite, disponibile sul sito web di Intesa Sanpaolo 
+Assicurazioni (www.intesasanpaoloassicurazioni.com).

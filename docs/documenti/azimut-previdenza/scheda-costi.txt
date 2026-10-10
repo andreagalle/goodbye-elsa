@@ -1,0 +1,161 @@
+# Fondo: AZIMUT PREVIDENZA - FONDO PENSIONE APERTO (azimut-previdenza)
+# Documento: Nota informativa – Scheda I costi – 2026.04 AZIMUT PREVIDENZA - NOTA INFORMATIVA - Parte I Scheda I Costi - adesione individuale
+# Fonte: https://www.azimut.it/archives/2026-04-azimut-previdenza-nota-informativa-parte-i-scheda-i-costi-adesione-individuale
+# Citato in: https://www.azimut.it/prodotti-previdenziali/azimut-previdenza
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: fa88831b8a4ad28208f45ec571da587a83b4722357aeb528c476b490bfc4f20c
+# Pagine: 3
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Nota Informativa – Parte I “Le informazioni chiave per l’aderente”. Scheda “I costi”. Pag. 1 di 3 
+AZIMUT PREVIDENZA 
+Fondo pensione aperto 
+iscritto all’Albo tenuto dalla COVIP con il n. 92 
+Istituito in Italia 
+Via Cusani, 4 – 20121 Milano 
++39 02/88981
+info@azimutprevidenza.it 
+azimutprevidenza@legalmail.it 
+www.azimutprevidenza.it 
+NOTA INFORMATIVA 
+(depositata presso la COVIP il 17/04/2026)
+PARTE I – “Le informazioni chiave per l’aderente” 
+La società AZIMUT CAPITAL MANAGEMENT SGR S.p.A. (di seguito, AZIMUT SGR) è responsabile della completezza e veridicità dei dati 
+e delle notizie contenuti nella presente Nota Informativa. 
+Scheda “I costi” (in vigore dal 20/04/2026)
+La presenza di costi comporta una diminuzione della posizione individuale e quindi della prestazione pensionistica . Pertanto, 
+prima di aderire  ad  AZIMUT  PREVIDENZA,  è  importante  confrontare  i costi  del  fondo  con  quelli  previsti  dalle  altre  forme 
+pensionistiche. Analoghe considerazioni valgono in caso di trasferimento ad altra forma pensionistica complementare. 
+I COSTI NELLA FASE DI ACCUMULO(1) 
+Tipologia di costo Importo e caratteristiche
+Spese di adesione 10 Euro, da versare in unica soluzione all’atto dell’adesione. 
+Spese da sostenere durante la fase di accumulo: 
+  Direttamente a carico dell’aderente Commissione amministrativa ricorrente annua pari a 30,00 Euro, prelevata in unica 
+soluzione dalla posizione individuale il primo giorno lavorativo di ciascun anno solare. 
+  Indirettamente a carico dell’aderente(2): 
+COMMISSIONE DI GESTIONE  
+(calcolata quotidianamente e prelevata dal patrimonio di ciascun Comparto il 1° giorno lavorativo del mese successivo) 
+COMPARTO OBBLIGAZIONARIO 1,00% del patrimonio su base annua 
+COMPARTO EQUILIBRATO 1,50% del patrimonio su base annua 
+COMPARTO CRESCITA 1,80% del patrimonio su base annua 
+EVENTUALE PROVVIGIONE DI INCENTIVO 
+le cui condizioni di applicabilità, i parametri, l’aliquota di prelievo e il meccanismo di calcolo sono di seguito illustrati. 
+CONDIZIONI DI APPLICABILITÀ E PARAMETRI 
+La provvigione di incentivo viene applicata: 
+1) se la variazione del valore della quota del singolo comparto - nell’orizzonte temporale di riferimento - è superiore (overperformance) al 
+75% dell’indice ISTAT(*) (al netto degli oneri fiscali applicabili al Comparto) maggiorato di un rendimento di seguito riportato: 
+COMPARTO OBBLIGAZIONARIO 1,00% 
+COMPARTO EQUILIBRATO 2,00% 
+COMPARTO CRESCITA 2,50% 
+2) se la variazione del valore della quota del Comparto è positiva nell’orizzonte temporale di riferimento.
+(*) variazione percentuale annua “dell’Indice Nazionale Generale dei prezzi al consumo per le famiglie di operai e impiegati” relativo all’ultimo 
+giorno lavorativo dell’anno solare precedente l’orizzonte temporale di riferimento. 
+ALIQUOTA DI PRELIEVO 
+L’aliquota di prelievo, applicata come descritto nel meccanismo di calcolo, è pari a: 
+25% dell’overperformance per il Comparto Obbligazionario 
+20% dell’overperformance per il Comparto Equilibrato 
+15% dell’overperformance per il Comparto Crescita 
+MECCANISMO DI CALCOLO 
+Premesso quanto segue: 
+a) Orizzonte temporale di riferimento: anno solare;
+b) Frequenza di calcolo: giornaliera;
+c) Periodicità del prelievo: annuale;
+d) Momento del prelievo: la provvigione di incentivo di competenza di ciascun “orizzonte temporale di riferimento” viene prel evata
+dalle disponibilità liquide del singolo Comparto il 1° giorno lavorativo dell’anno solare successivo a quello di riferimento.
+In dettaglio, per l’applicazione delle commissioni di incentivo, si procede nel modo seguente :
+=== pagina 2 ===
+Nota Informativa – Parte I “Le informazioni chiave per l’aderente”. Scheda “I costi”.   Pag. 2 di 3 
+Il calcolo della commissione è eseguito con cadenza giornaliera, accantonando un rateo che fa riferimento all’overperformance  maturata 
+rispetto all’ultimo giorno dell’anno solare precedente. Ogni giorno, ai fini del calcolo del valore complessivo del Compa rto, la SGR accredita 
+al singolo Comparto l’accantonamento del giorno precedente e addebita quello del giorno cui si riferisce il calcolo.  
+La provvigione di incentivo viene calcolata sul minore ammontare tra il valore complessivo netto del Comparto nel giorno di c alcolo e il 
+valore complessivo netto medio, nel periodo cui si riferisce la performance.  
+Spese per l’esercizio di prerogative individuali (prelevate dalla posizione individuale al momento dell’operazione): 
+Anticipazione non previste 
+Trasferimento 50,00 Euro 
+Riscatto non previste 
+Riallocazione della posizione individuale  50,00 Euro 
+Riallocazione del flusso contributivo non previste 
+Spese relative alla prestazione erogata in forma di “Rendita 
+integrativa temporanea anticipata” (RITA) dirette alla copertura 
+degli oneri amministrativi 
+30,00 Euro (prelevate dalla posizione individuale all'apertura della 
+pratica) 
+Spese e premi per le prestazioni accessorie  non sono previste prestazioni accessorie 
+(1) In caso di adesioni su base collettiva, di convenzionamenti con associazioni di lavoratori autonomi o liberi professionis ti, di dipendenti 
+delle Società del Gruppo Azimut, di componenti dell’Organo Amministrativo delle Società del Gruppo Azimut, nonché di famigliari fiscalmente 
+a carico degli aderenti sopra elencati, gli importi indicati devono intendersi come importi massimi applicabili. Maggiori inf ormazioni sulla 
+tipologia e sulla misura delle agevolazioni previste sono disponibili sul sito web del F ondo nella Scheda “I costi” - Adesioni su base di accordi 
+collettivi. 
+AZIMUT PREVIDENZA offre inoltre agevolazioni finanziarie a particolari categorie di soggetti aderenti: ai consulenti finanziari delle società del 
+gruppo Azimut non verranno applicate le spese di adesione e la commissione amministrativa ricorrente annua; ai nuovi aderenti che rientrano 
+in una fascia di età da 0 a 18 anni non compiuti non verrà applicata la commissione amministrativa ricorrente annua sino all’anno solare in cui 
+l’aderente compie il 18° anno di età.  
+(2) Oltre alle commissioni indicate, sul patrimonio dei comparti possono gravare unicamente le seguenti altre spese: spese legali e giudiziarie, 
+imposte e tasse, oneri di negoziazione, contributo di vigilanza, compenso del responsabile del fondo, per la pa rte di competenza del singolo 
+comparto. In caso di investimento in OICR alternativi  (FIA – Fondi Investimento Alternativi)  diversi da quelli collegati, sul patrimonio dei 
+comparti graveranno inoltre indirettamente le commissioni di gestione e gli oneri a carico del patrimonio di tali OICR. La misura massima delle 
+commissioni di gestione di tali OICR non può essere superiore a l 2, 50%; le eventuali commissioni di incentivo di tali OICR non possono 
+viceversa essere quantificate a priori data la loro natura. L’investimento in OICR alternativi sarà su base residuale e nel p ieno rispetto della 
+politica di investimento dei singoli Comparti, tenuto conto della finalità previdenziale di Azimut Previdenza. 
+ 
+L’INDICATORE SINTETICO DEI COSTI (ISC) 
+Al fine di fornire un’indicazione sintetica dell’onerosità dei comparti di AZIMUT PREVIDENZA, è riportato, per ciascun comparto, 
+l’indicatore sintetico dei costi (ISC),  che esprime il costo annuo, in percentuale della posizione individuale maturata, stimato 
+facendo riferimento a un aderente -tipo che versa un contributo annuo di 2.500 Euro e ipotizzando un tasso di rendimento annuo 
+del 4% e diversi periodi di partecipazione nella forma pensionistica complementare (2, 5, 10 e 35 anni) .  
+L’ISC viene calcolato da tutti i fondi pensione utilizzando la stessa metodologia stabilita dalla COVIP.  
+Per le adesioni su base collettiva, la misura dell’indicatore è riportata nella apposita Scheda collettività.   
+ 
+Per saperne di più, consulta il riquadro “L’indicatore sintetico dei costi ” della Guida introduttiva alla previdenza complementare , 
+disponibile sul sito web della COVIP (www.covip.it). 
+ 
+AVVERTENZA: É importante prestare attenzione all’ISC che caratterizza ciascun comparto. Un ISC del 2% invece che dell’1% può ridurre 
+il capitale accumulato dopo 35 anni di partecipazione di circa il 18% (ad esempio, lo riduce da 100.000 Euro a 82.000 Euro). 
+  
+ ANNI DI PERMANENZA 
+COMPARTI 2 anni 5 anni 10 anni 35 anni 
+COMPARTO OBBLIGAZIONARIO 2,66% 1,60% 1,30% 1,10% 
+COMPARTO EQUILIBRATO 3,18% 2,12% 1,82% 1,62% 
+COMPARTO CRESCITA 3,49% 2,43% 2,13% 1,93% 
+AVVERTENZA: Per condizioni differenti rispetto a quelle considerate, ovvero nei casi in cui non si verifichino le ipotesi previste, tale 
+indicatore ha una valenza meramente orientativa.   
+Per consentirti di comprendere l’onerosità dei comparti, nel grafico seguente l’ISC di ciascun comparto di AZIMUT PREVIDENZA è 
+confrontato con l’ISC medio dei comparti della medesima categoria offerti dalle altre forme pensionistiche complementari. I v alori 
+degli ISC medi di settore sono rilevati dalla COVIP con riferimento alla fine di ciascun anno solare.  
+ 
+L’onerosità di AZIMUT PREVIDENZA è evidenziata con un punto; i trattini indicano i valori medi, rispettivamente, dei fondi pensione 
+negoziali (FPN), dei fondi pensione aperti (FPA) e dei piani individuali pensionistici di tipo assicurativo (PIP). Il grafico  indica l’ISC 
+minimo e massimo dei comparti dei FPN, dei FPA e dei PIP complessivamente considerati e appartenenti alla stessa categoria di 
+investimento. 
+Il confronto prende a riferimento i valori di ISC riferiti a un periodo di permanenza nella forma pensionistica di 10 anni.
+=== pagina 3 ===
+Nota Informativa – Parte I “Le informazioni chiave per l’aderente”. Scheda “I costi”.   Pag. 3 di 3 
+ 
+ 
+La COVIP mette a disposizione sul proprio sito il Comparatore dei costi delle forme pensionistiche complementari  per valutarne 
+l’onerosità (www.covip.it). 
+ 
+I COSTI NELLA FASE DI EROGAZIONE 
+Al momento dell’accesso al pensionamento ti verrà pagata una rata di rendita calcolata sulla base di un coefficiente di conve rsione 
+che incorpora un caricamento implicito pari allo 0,50% del premio. 
+Inoltre, è previsto un caricamento per spese di pagamento rendita come sotto specificato: 
+• 1,25% della rendita annua per le rendite: vitalizia, certa, reversibile e con controassicurazione; 
+• 1,50% della rendita annua per le rendite con maggiorazione in caso di non autosufficienza.  
+ 
+Il pagamento della rata di rendita può essere rateizzato con frequenza mensile, trimestrale, semestrale o annuale.  
+ 
+Nella fase di erogazione la rendita si rivaluta annualmente  in base al rendimento della Gestione Separata RENDIGEN di Generali 
+Italia S.p.A.. 
+ 
+Generali Italia dichiara, entro la fine di ogni mese, il tasso medio di rendimento realizzato dalla gestione separata nei 12  mesi 
+precedenti. L’anno preso a base per il calcolo del rendimento è dato dai 12 mesi che precedono il secondo mese anteriore a quello  
+della ricorrenza annuale della posizione individuale. 
+La misura annua di rivalutazione si ottiene sottraendo al rendimento realizzato dalla gestione separata,  il valore minimo trattenuto 
+dell’1,00%. 
+La rivalutazione attribuita alla rendita non può in ogni caso essere negativa.  
+ 
+ 
+ 
+Per saperne di più, consulta il Documento sulle rendite, disponibile sul sito web di AZIMUT PREVIDENZA (www.azimutprevidenza.it).

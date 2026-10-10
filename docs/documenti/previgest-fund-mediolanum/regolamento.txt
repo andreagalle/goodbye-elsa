@@ -1,0 +1,565 @@
+# Fondo: FONDO PENSIONE APERTO PREVIGEST FUND MEDIOLANUM (previgest-fund-mediolanum)
+# Documento: Regolamento – File
+# Fonte: https://www.mediolanumgestionefondi.it/static-assets/documenti/file/it/2026/07/31//Regolamento_MPF.pdf
+# Citato in: https://www.mediolanumgestionefondi.it/fondi-pensione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 2c81b5cc19daa6fa45109435793bb3e00eb56c719286691154164ca20ce4e378
+# Pagine: 16
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+REGOLAMENTO 
+Fondo pensione aperto 
+Previgest Fund 
+Mediolanum 
+È un prodotto di
+=== pagina 2 ===
+1 di 14 | Previgest Fund Mediolanum 
+INDICE 
+PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO ................................................................................... 3 
+Art. 1 - Denominazione ................................................................................................................................. 3 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti ....................................................... 3 
+Art. 3 - Scopo ............................................................................................................................................... 3 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO ........................................... 4 
+Art. 4 - Regime del Fondo............................................................................................................................ 4 
+Art. 5 – Destinatari e tipologie di adesione ................................................................................................ 4 
+Art. 6 - Scelte di investimento ..................................................................................................................... 4 
+Art. 7 - Gestione degli investimenti ............................................................................................................. 4 
+Art. 8 - Spese ............................................................................................................................................... 5 
+PARTE III - CONTRIBUZIONE E PRESTAZIONI ............................................................................................ 6 
+Art. 9 - Contribuzione ................................................................................................................................. 6 
+Art. 10 - Determinazione della posizione individuale ............................................................................... 6 
+Art. 11 - Prestazioni pensionistiche e RITA .................................................................................................. 6 
+Art. 12 - Erogazione delle prestazioni pensionistiche ................................................................................. 7 
+Art. 13 - Trasferimento e riscatto della posizione individuale .................................................................. 9 
+Art. 14 - Anticipazioni .................................................................................................................................. 9 
+PARTE IV - PROFILI ORGANIZZATIVI .......................................................................................................... 11 
+Art. 15 - Separatezza patrimoniale amministrativa e contabile .............................................................. 11 
+Art. 16 - Sistema di governo ....................................................................................................................... 11 
+Art. 17 - Depositario .................................................................................................................................... 11 
+Art. 18 - Responsabile .................................................................................................................................. 11 
+Art. 19 - Organismo di rappresentanza ..................................................................................................... 11 
+Art. 20 - Conflitti di interesse .................................................................................................................... 12 
+Art. 21 - Scritture contabili ......................................................................................................................... 12 
+PARTE V - RAPPORTI CON GLI ADERENTI ................................................................................................. 13
+=== pagina 3 ===
+2 di 14 | Previgest Fund Mediolanum 
+Art. 22 - Modalità di adesione e clausole risolutive espresse ................................................................. 13 
+Art. 23 - Trasparenza nei confronti degli aderenti e dei beneficiari ....................................................... 13 
+Art. 24 - Comunicazioni e reclami ............................................................................................................. 13 
+PARTE VI – NORME FINALI ..........................................................................................................................14 
+Art. 25 - Modifiche del Regolamento .........................................................................................................14 
+Art. 26 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo ...................................................................................................................14 
+Art. 27 - Cessione del fondo .......................................................................................................................14 
+Art. 28 - Operazioni di fusione ...................................................................................................................14 
+Art. 29 - Rinvio .............................................................................................................................................14 
+ALLEGATI 
+Allegato n. 1 Disposizioni in materiale di Responsabile 
+Allegato n. 2 Condizioni e modalità di erogazione delle rendite
+=== pagina 4 ===
+3 di 14 | Previgest Fund Mediolanum 
+PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO 
+Art. 1 - Denominazione 
+1. Il “Fondo Pensione aperto Previgest Fund Mediolanum”, di seguito “Fondo”, è un Fondo pensione aperto istituito ai 
+sensi dell’art. 12 del Decreto lgs. 5 dicembre 2005, n. 252 (di seguito “Decreto”).  
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito dalla società “Mediolanum Gestione Fondi SGR p.A.” (di seguito “s.g.r.”) giusta 
+autorizzazione rilasciata dalla COVIP con provvedimento del 23 settembre 1998; con il medesimo provvedimento 
+la COVIP ha approvato il Regolamento del Fondo. 
+2. La s.g.r esercita l’attività di gestione del Fondo con effetto dalla medesima data.  
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 34. 
+4. L’attività relativa al Fondo è svolta in Basiglio - Milano 3 (MI), presso la sede della s.g.r. 
+5. L’indirizzo di posta elettronica certificata (PEC) della s.g.r. è mgf@pec.mediolanum.it.  
+Art. 3 - Scopo 
+1. Il Fondo ha lo scopo di consentire agli Aderenti di disporre, all’atto del pensionamento, di prestazioni pensionistiche 
+complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta dei contributi, la gestione 
+delle risorse nell’esclusivo interesse degli aderenti e l’erogazione delle prestazioni, secondo quanto disposto dalla 
+normativa tempo per tempo vigente.
+=== pagina 5 ===
+4 di 14 | Previgest Fund Mediolanum 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art. 4 - Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è determinata in 
+funzione della contribuzione effettuata e in base al principio della capitalizzazione. 
+Art. 5 – Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita 
+2. È altresì consentita  l’adesione, su base collettiva, ai soggetti destinatari delle forme pensionistiche complementari 
+individuati dall’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, gli accordi o i 
+regolamenti aziendali che dispongono l’adesione al Fondo.  
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età pensionabile 
+prevista dal regime obbligatorio di appartenenza. 
+Art. 6 - Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio - rendimento, in modo tale da assicurare 
+agli aderenti una adeguata possibilità di scelta: 
+COMPARTO OBBLIGAZIONARIO 
+COMPARTO BILANCIATO 
+COMPARTO AZIONARIO 
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti in cui far confluire i versamenti contributivi, con facoltà 
+di modificare nel tempo tale destinazione. L’aderente può inoltre riallocare la propria posizione individuale tra i 
+diversi comparti, nel rispetto del periodo minimo di un anno dall’iscrizione ovvero dall’ultima riallocazione. In questo 
+caso i versamenti contributivi successivi sono suddivisi sulla base delle nuove percentuali fissate all’atto della 
+riallocazione salvo diversa disposizione dell’aderente. 
+Art. 7 - Gestione degli investimenti 
+1. La s.g.r. effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni stabiliti dalla normativa 
+tempo per tempo vigente e dal presente Regolamento, assumendo a riferimento l’esclusivo interesse degli aderenti. 
+2. Ferma restando la responsabilità della s.g.r., essa può affidare a soggetti di cui all’art. 6, comma 1, lettere a), b), c), 
+c-bis) del Decreto, in possesso dei requisiti previsti dalla normativa tempo per tempo vigente, l’esecuzione di specifici 
+incarichi di gestione1. 
+3. La s.g.r. verifica i risultati della gestione mediante l’adozione di parametri di riferimento coerenti con gli obiettivi e i 
+criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+COMPARTO OBBLIGAZIONARIO: la politica di investimento attuata è volta a perseguire una composizione del 
+portafoglio prevalentemente orientata verso valori mobiliari di natura obbligazionaria; gli investimenti azionari 
+potranno essere presenti nel portafoglio per un valore non superiore al 20% del patrimonio netto del Comparto.  
+COMPARTO BILANCIATO: la politica di investimento attuata è volta a perseguire una composizione del portafoglio 
+opportunamente diversificata tra titoli di natura obbligazionaria e azionaria. La componente del portafoglio 
+costituita da valori mobiliari rappresentativi del capitale di rischio (quali, ad esempio, azioni, futures, opzioni su azioni 
+o indici, OICR di tipo azionario) non potrà eccedere il limite massimo del 60% del patrimonio netto del Comparto.  
+COMPARTO AZIONARIO: la politica di investimento attuata è volta a perseguire una composizione del portafoglio 
+orientata prevalentemente verso titoli azionari; rimane comunque ferma la facoltà di detenere le necessarie 
+disponibilità liquide e di investire una quota del patrimonio in altri valori mobiliari ai sensi delle norme e delle istruzioni 
+di vigilanza. In ogni caso rispetto al patrimonio netto del Comparto, la quota costituita da valori mobiliari 
+rappresentativi del capitale di rischio (quali, ad esemp io, azioni, futures, opzioni su azioni o indici, OICR di tipo 
+ 
+1 Il contratto di delega deve prevedere che la s.g.r. e il Responsabile del Fondo debbano poter verificare le procedure adottate dal soggetto delegato 
+per l’esecuzione del contratto e le operazioni poste in essere per conto del Fondo.
+=== pagina 6 ===
+5 di 14 | Previgest Fund Mediolanum 
+azionario) potrà raggiungere il 100% del patrimonio stesso. Nel determinare la ripartizione degli investimenti tra i 
+diversi mercati mondiali, il gestore considererà in prima istanza dimensioni, liquidità del mercato dei capitali, 
+condizioni e potenziale economico del Paese nel contesto internazionale e potrà variare nel tempo la struttura del 
+portafoglio per area geografica e tipologia di strumenti finanziari in funzione della relativa redditività globale 
+prevedibile. 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di rischio -
+rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti nella Nota informativa.  
+Art. 8 - Spese 
+1. La partecipazione al Fondo prevede le seguenti spese: 
+a) spese da sostenere all’atto dell’adesione: non previste; 
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’Aderente : una commissione pari a 20,00 euro, applicata annualmente 
+che si azzera per adesioni su base collettiva; 
+b.2) indirettamente a carico dell’Aderente e che incidono sul comparto: 
+i) una commissione di gestione prelevata con cadenza mensile pari al: 
+1,50% del patrimonio su base annua, per il Comparto obbligazionario; 
+1,74% del patrimonio su base annua, per il Comparto bilanciato; 
+2,00% del patrimonio su base annua, per il Comparto azionario. 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese legali e giudiziarie 
+sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione derivanti dall’attività di impiego delle 
+risorse, nonché il “contributo  di vigilanza” dovuto annualmente alla COVIP ai sensi di legge; sono altresì a 
+carico del comparto le spese relative alla remunerazione e allo svolgimento dell’incarico del Responsabile 
+salva diversa decisione della s.g.r.. 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al 
+rimborso delle parti di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo i casi 
+di deroga di carattere generale previsti dalla COVIP. In particolare, nel caso di investimenti in OICR collegati, 
+dal compenso della s.g.r. sarà dedotta la remunerazione complessiva percepita dal gestore dell’OICR 
+collegato. Fanno eccezione gli investimenti in FIA diversi da quelli collegati2. 
+c) spese collegate all’esercizio delle seguenti prerogative individuali, dirette alla copertura dei relativi oneri 
+amministrativi: non previste. 
+d) spese relative alla fase di erogazione delle rendite, quali riportate nell’Allegato n. 2.  
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia: 
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2), in relazione al/ai comparto/i nel/i quale/i 
+è investita la posizione individuale residua: previste. 
+e) spese in cifra fissa relative alla prestazione erogata in forma di “Rendita integrativa temporanea anticipata” 
+(RITA) dirette alla copertura dei relativi oneri amministrativi: non previste.  
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di convenzionamenti 
+con associazioni di lavoratori autonomi e liberi professionisti . La riduzione delle commissioni di gestione espresse in 
+misura percentuale sul patrimonio avviene mediante emissione di classi di quote differenti.  
+3. Sono a carico della s.g.r. tutte le spese e oneri non individuati dalle disposizioni del presente articolo.   
+ 
+2 Nel caso di investimenti in FIA diversi da quelli collegati sul comparto potranno gravare commissioni di gestione (ed eventuali commissioni di incentivo) 
+a condizione che venga resa agli aderenti adeguata informativa circa la misura massima delle commissioni applicabili nell’ambito della Nota 
+informativa. Per FIA collegati si intendono quelli promossi o gestiti dalla società che gestisce le risorse del Fondo o da al tre società del medesimo 
+gruppo di appartenenza.
+=== pagina 7 ===
+6 di 14 | Previgest Fund Mediolanum 
+PARTE III - CONTRIBUZIONE E PRESTAZIONI  
+Art. 9 - Contribuzione 
+1. La misura della contribuzione è determinata liberamente dall’aderente. 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima e delle 
+modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali.  
+3. I lavoratori dipendenti , in caso di adesione esplicita,  possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può anche essere 
+parziale ove previsto dagli accordi collettivi. È comunque consentito al lavoratore di rivedere successivamente la 
+scelta effettuata con riguardo alla quota di TFR da destinare al Fondo. Qualora il lavoratore decida altresì di versare 
+la contribuzione prevista a suo carico e abbia diritto, in base ad accordi collettivi, anche aziendali, a un contributo 
+del datore di lavoro, detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il 
+datore di lavoro può decidere, anche in assenza di accordi collettivi di contribuire al Fondo. 
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i lavoratori 
+dipendenti, l’obbligo del versamento del TFR maturando eventualmente conferito. La sospensione non comporta la 
+cessazione della partecipazione al Fondo. 
+5. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà di sospendere la 
+contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo a carico del datore di lavoro, 
+fermo restando il versamento del TFR maturando al Fondo. È possibile riattivare la contribuzione in qualsiasi 
+momento.  
+6. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8 comma 12, del Decreto (c.d. 
+contribuzione da abbuoni). 
+7. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età pensionabile 
+prevista dal regime obbligatorio di appartenenza, a condizione che, alla data del pensionamento, possa far valere 
+almeno un anno di contribuzione a favore delle forme di previdenza complementare. 
+Art. 10 - Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente; è alimentata dai 
+contributi netti versati, dagli eventuali importi derivanti da trasferimenti da altre forme pensionistiche complementari 
+e dai versamenti effettuati per il reintegro delle anticipazioni percepite, ed è ridotta da eventuali riscatti parziali e 
+anticipazioni. 
+2. Per contributi netti si intendono i contributi al netto delle spese direttamente a carico dell’aderente di cui all’art. 8 
+comma 1 lettera b.1). 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. ll rendimento di ogni singolo comparto 
+è calcolato come variazione del valore di quota dello stesso nel periodo considerato.  
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono valutate al 
+valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla determinazione della posizione 
+individuale, a prescindere dal momento di effettivo realizzo. 
+5. La s.g.r. determina il valore della quota e, conseguentemente, della posizione individuale di ciascun aderente con 
+cadenza almeno mensile, alla fine di ogni mese. I versamenti sono trasformati in quote e frazioni di quote, sulla base 
+del primo valore di quota successivo al giorno in cui si sono resi disponibili per la valorizzazione.  
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello risultante al primo 
+giorno di valorizzazione utile successivo a quello in cui la s.g.r. ha verificato la sussistenza delle condizioni che danno 
+diritto alle prestazioni. 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono intangibili e non 
+possono formare oggetto di sequestro o pignoramento da parte dei creditori dell’aderente.  
+Art. 11 - Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei requisiti di 
+accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, con almeno cinque anni di 
+partecipazione alle forme pensionistiche complementari. Il predetto termine è ridotto a tre anni per il lavoratore che 
+cessa il rapporto di lavoro in corso per motivi indipendenti dal fatto che lo stesso acquisisca il diritto a una pensione
+=== pagina 8 ===
+7 di 14 | Previgest Fund Mediolanum 
+complementare e che si sposta tra stati membri dell’Unione europea. L’aderente che decide di proseguire 
+volontariamente la contribuzione ai sensi del comma 7 dell’art. 9 ha la facoltà di determinare autonomamente il 
+momento di fruizione delle prestazioni pensionistiche. 
+2. Per i soggetti non titolari di reddito di lavoro o d’impresa si considera età pensionabile quella vigente nel regime 
+obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche sono considerati 
+utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati dall’aderente per i quali lo 
+stesso non abbia esercitato il riscatto totale della posizione individuale. 
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione nei regimi 
+obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche complementari di cui al 
+comma 1, ha facoltà di richiedere che le prestazioni siano erogate, in tutto o in parte, in forma di RITA con un anticipo 
+massimo di cinque anni rispetto alla data di maturazione dell’età anagrafica prevista per la pensione di vecchiaia 
+nel regime obbligatorio di appartenenza. 
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un periodo di tempo 
+superiore a ventiquattro mesi e abbia maturato il periodo minimo di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1 , ha facoltà di richiedere la rendita di cui al comma 4 con un anticipo massimo di 
+dieci anni rispetto alla data di maturazione dell’età anagrafica per la pensione di vecchiaia nel regime obbligatorio 
+di appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei commi 4 o 5, verrà fatta confluire, 
+salvo diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo e indicato nella Nota 
+informativa. L’aderente può successivamente variare il comparto nel rispetto del periodo minimo di permanenza.  
+7. Nel corso dell’erogazione della RITA l’Aderente può richiederne la revoca; ciò comporta la cessazione 
+dell’erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha la facoltà di richiedere, 
+con riferimento alla sola porzione residua della posizione individuale, il riscatto e l’anticipazione di cui ai successivi 
+artt. 13 e 14 ovvero, cessata l’erogazione della RITA parziale, la prestazione pensionistica. 
+9. In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende automaticamente revocata 
+e viene trasferita l’intera posizione individuale. 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di capitale nel limite 
+del 50 per cento della posizione individuale maturata. Nel computo dell’importo complessivo erogabile in capitale 
+sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. Qualora 
+l’importo che si ottiene convertendo in rendita vitalizia immediata annua senza reversibilità a favore dell’Aderente il 
+70 per cento della posizione individuale matu rata risulti inferiore al 50 per cento dell’assegno sociale di cui all’Art. 
+3, commi 6 e 7, della legge 8 agosto 1995, n. 335, l’aderente può optare per la liquidazione in capitale dell’intera 
+posizione maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 aprile 1993 ed 
+entro tale data iscritto ad una forma pensionistica complementare istituita alla data di entrata in vigore della Legge 
+23 ottobre 1992, n. 421, può richiedere la liquidazione dell’intera prestazione pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e pignorabilità in vigore per 
+le pensioni a carico degli istituti di previdenza obbligatoria. 
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto può trasferire 
+la propria posizione individuale presso altra forma pensionistica complementare, per avvalersi delle condizioni di 
+erogazione della rendita vitalizia praticate da quest’ultima. In tal caso si applica quanto previsto all’Art. 13, commi 6 
+e 7. 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita vitalizia 
+immediata calcolata in base alla posizione individuale maturata, al netto della eventuale quota di prestazione da 
+erogare sotto forma di capitale. 
+2. L’Aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di rendita vitalizia di seguito 
+indicate:
+=== pagina 9 ===
+8 di 14 | Previgest Fund Mediolanum 
+- una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e successivamente, in 
+misura totale o per quota scelta dall’aderente stesso, alla/e persona/e da lui designata/e;  
+- una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 o 10 anni all’aderente o, 
+in caso di suo decesso, alla/e persona/e da lui designata/e. Successivamente, se l’aderente è ancora in vita, 
+viene corrisposta allo stesso u na rendita vitalizia. In ogni caso l’importo della rata di rendita vitalizia non sarà 
+mai inferiore a quello della rendita certa; 
+- una rendita vitalizia differita: detta rendita è corrisposta all’aderente al raggiungimento di una certa età 
+successiva all’esercizio del diritto alla prestazione. 
+3. Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite vitalizie e i 
+coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo calcolo. Tali coefficienti 
+possono essere successivamente variati, nel rispetto della normativa tempo per tempo vigente in materia di stabilità 
+delle compagnie di assicurazione; in ogni caso, le modifiche dei coefficienti di trasformazione non si applicano ai 
+soggetti, già aderenti alla data di intro duzione delle modifiche stesse, che esercitano il diritto alla prestazione 
+pensionistica nei tre anni successivi. Nell’Allegato n. 2 al Regolamento sono riportate altresì le modalità di erogazione 
+e di determinazione delle altre prestazioni pensionistiche offerte. 
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, laddove vi sia 
+l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’Allegato n. 2 e, negli altri casi, a 
+coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base alle proiezioni ufficiali disponibili 
+sull’andamento della mortalità della popolazione italiana. 
+5. In alternativa alla rendita vitalizia, l’aderente può richiede re, al netto della eventuale quota di prestaz ione erogata 
+sotto forma di capitale, l’erogazione della prestazione pensionistica in una delle seguenti forme: 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della vita 
+attesa residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni obbligatorie. 
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con facoltà 
+per lo stesso di determinarne la tempistica e l’importo nel limite della somma delle rate, maturate e 
+non riscosse, di una rendita teorica con frazion amento annuale, immediatamente erogabile e di 
+durata definita pari alla vita attesa residua, in anni interi, dell’aderente al momento della richiesta 
+della prestazione. 
+6. La s.g.r. provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla rendita vitalizia con 
+tempestività e comunque non oltre il termine massimo di 6 mesi decorrente dalla ricezione della richiesta. Nel caso 
+in cui la domanda risulti incompleta o insufficiente, la s.g.r. richiede gli elementi integrativi, e il termine sopra indicato 
+è sospeso fino alla data del completamento o della regolarizzazione della pratica. Il montante residuo è mantenuto 
+in gestione, nel/i comparto/i scelto/i dall’aderente, all’atto della richiesta della prestazione o, in difetto di indicazioni, 
+nel/i comparto/i individuato/i nella Nota informativa. 
+6 -bis. Al fine di adeguare i sistemi e i processi operativi della s.g.r. per la gestione delle richieste e l’erogazione diretta 
+delle prestazioni, il termine di cui al comma 6 può essere derogato per un periodo transitorio, che non potrà protrarsi 
+oltre il 31 dicembre 2026. Durante tale periodo la s.g.r. acquisisce le richieste di erogazione delle prestazioni. 
+Successivamente all’avvenuto adeguamento dei suddetti sistemi e processi operativi, la s.g.r. procede 
+tempestivamente alla liquidazione delle richie ste di erogazione delle prestazioni pervenute durante il periodo 
+transitorio. 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere revocate una volta 
+iniziata la liquidazione, salvo che il beneficiario opti per la conversione del montante residuo in una rendita vitalizia 
+immediata ovvero differita sulla base delle condi zioni e dei criteri indicati nella Nota informativa, ovvero trasferisca 
+il montante residuo presso un’altra forma pensionistica all’unico fine di beneficiare delle condizioni di rendita vitalizia 
+offerte da quest’ultima. 
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto ad individuare 
+i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante residuo. Tale scelta può essere 
+successivamente modificata dall’aderente.
+=== pagina 10 ===
+9 di 14 | Previgest Fund Mediolanum 
+9. Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente non può richiedere trasferimenti, 
+riscatti, anticipazioni o la RITA, ad eccezione della variazione del comparto di investimento, che può essere richiesta 
+nel rispetto del periodo minimo di partecipazione di cui all’art. 6, comma  2. 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore contribuzione al Fondo, 
+salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la maturazione del TFR.  
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni pensionistiche 
+di cui al comma 5, lett. a) e b). 
+Art. 13 - Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica complementare decorso un 
+periodo minimo di due anni di partecipazione al Fondo. 
+2. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale acceda in 
+relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività lavorativa che 
+comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e non superiore a quarantotto 
+mesi, ovvero in caso di ricorso d a parte del datore di lavoro a procedure di mobilità, cassa integrazione 
+guadagni, ordinaria o straordinaria; 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la riduzione 
+della capacità di lavoro a meno di un terzo o a seguito di cessazione dell’attività lavorativa che comporti 
+l’inoccupazione per un periodo di tempo superiore a quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi dell’art. 14, comma 5 del Decreto ovvero trasferirla ad 
+altra forma pensionistica complementare, qualora vengano meno i requisiti di partecipazione.  
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di trasferimento e di 
+riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore contribuzione. Tale opzione trova 
+automatica applicazione in difetto di diversa scelta da parte dell’aderente. Nel caso in cui il valore della posizione 
+individuale maturata non sia superiore all’importo di una mensilità dell’assegno sociale di cui all’art. 3, comma 6, 
+della Legge 8 agosto 1995, n. 335 la s.g.r. informa l’aderente della facoltà di trasferire la propria posizione individuale 
+ad altra forma pensionistica complementare, ovvero di chiedere il riscatto dell’intera posizione di cui al comma 2, 
+lettera d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero nel corso 
+dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la posizione individuale è riscattata dai 
+soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, o in mancanza dagli eredi. In mancanza di tali 
+soggetti, la posizione individuale resta acquisita al Fondo. 
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.  
+6. La s.g.r., accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della posizione con tempestività 
+e comunque non oltre il termine massimo di 6 mesi decorrenti dalla ricezione della richiesta. Nel caso in cui la 
+domanda risulti incompleta o insufficiente, la s.g.r. richiede gli elementi integrativi e il termine sopra indicato è 
+sospeso fino alla data del completamento o della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della partecipazione al 
+Fondo. 
+Art. 14 - Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e misure:  
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie conseguenti a situazioni 
+gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi straordinari riconosciuti dalle competenti 
+strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 75 per 
+cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, o per la realizzazione, sulla prima casa 
+di abitazione, degli intervent i di manutenzione ordinaria, straordinaria, di restauro e di risanamento 
+conservativo, di ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 1 dell’art. 3 del Decreto del 
+Presidente della Repubblica 6 giugno 2001, n. 380;
+=== pagina 11 ===
+10 di 14 | Previgest Fund Mediolanum 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 30 per 
+cento, per la soddisfazione di ulteriori sue esigenze. 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono riportate in 
+apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento della 
+posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate.  
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono considerati utili 
+tutti i periodi di partecipazione a forme pensionistiche complementari maturati dall’aderente, per i quali lo stesso 
+non abbia esercitato il diritto di riscatto totale della posizione individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in qualsiasi 
+momento. 
+6. Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.  
+7. La s.g.r. provvede agli adempimenti conseguenti all’esercizio delle predette facoltà da parte dell’aderente con 
+tempestività e comunque non oltre il termine massimo di 6 mesi decorrente dalla ricezione della richiesta.  Nel caso 
+in cui la domanda risulti incompleta o insufficiente, la s.g.r. richiede gli elementi integrativi, e il termine sopra indicato 
+è sospeso fino alla data del completamento o della regolarizzazione della pratica.
+=== pagina 12 ===
+11 di 14 | Previgest Fund Mediolanum 
+PARTE IV - PROFILI ORGANIZZATIVI 
+Art. 15 - Separatezza patrimoniale amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia al patrimonio 
+della s.g.r., sia a quello degli altri fondi gestiti, sia a quello degli aderenti.  
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche e non può essere distratto da tale 
+fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori della s.g.r. o di rappresentanti 
+dei creditori stessi, né da parte dei creditori degli aderenti o di rappresentanti dei creditori stessi. Il patrimonio del 
+Fondo non può essere coinvolto nelle procedure concorsuali che riguardino la s.g.r..  
+4. La s.g.r. è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle operazioni poste in 
+essere per conto del Fondo rispetto al complesso delle altre operazioni svolte dalla s.g.r. e del patrimonio del Fondo 
+rispetto a quello della s.g.r. e di suoi clienti. 
+5. Ferma restando la responsabilità della s.g.r. per l’operato del soggetto delegato, la gestione amministrativa e 
+contabile del Fondo può essere delegata a terzi. 
+6. La s.g.r. è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle operazioni poste in 
+essere in riferimento a ciascun comparto. 
+7. Il patrimonio di ciascun comparto è suddiviso in quote o in differenti classi di quote.  
+Art. 16 - Sistema di governo 
+1. La s.g.r. assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla complessità delle attività 
+del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4-bis, 5-bis, 5-ter, 5-quater, 5-sexies, 5-septies, 5-octies 
+e 5- nonies del Decreto in coerenza con gli assetti organizzativi del rispettivo settore di riferimento.  
+Art. 17 - Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei requisiti previsti 
+dalle vigenti disposizioni normative (di seguito “depositario”). 
+2. La s.g.r. può revocare in ogni momento l’incarico al depositario il quale può, a sua volta, rinunciare con preavviso 
+di 6 mesi3; in ogni caso, l’efficacia della revoca o della rinuncia è sospesa fino a che:  
+- la s.g.r. non abbia stipulato un nuovo contratto con altro depositario, in possesso dei requisiti di legge;  
+- il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità della s.g.r. 
+per l’operato del soggetto delegato. 
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente.  
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità riscontrate nella 
+gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di cui sono venuti a conoscenza 
+nell’esercizio delle funzioni di depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono ammesse 
+azioni dei creditori del depositario, del subdepositario o nell’interesse degli stessi.  
+Art. 18 - Responsabile 
+1. La s.g.r. nomina un Responsabile del Fondo, ai sensi dell’art. 5 comma 2 del Decreto.  
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del Responsabile sono riportate 
+nell’Allegato n. 1. 
+Art. 19 - Organismo di rappresentanza 
+1. È istituito un Organismo di rappresentanza (di seguito “Organismo”), ai sensi dell’art. 5, comma 5, del Decreto.  
+2. Le disposizioni che regolano la nomina, la composizione e il funzionamento dell’Organismo sono riportate in un 
+apposito documento denominato “Disposizioni in materia di Organismo di rappresentanza”.  
+ 
+3 Il preavviso non può essere inferiore a sei mesi.
+=== pagina 13 ===
+12 di 14 | Previgest Fund Mediolanum 
+3. La s.g.r. individua il numero complessivo dei componenti dell’Organismo in modo tale da garantire la 
+rappresentatività degli iscritti per adesioni collettive e la funzionalità dell’Organismo.  
+4. Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle che alla fine del mese 
+precedente alla designazione hanno almeno 500 lavoratori iscritti al fondo pensione 4. 
+5. I componenti dell’Organismo restano in carica tre anni e possono svolgere più mandati. I componenti nominati in 
+sostituzione di quelli cessati in corso di mandato scadono insieme a quelli in carica all’atto della loro nomina.  
+6. Le spese di funzionamento dell’Organismo e gli eventuali compensi riconosciuti ai suoi componenti, non possono 
+gravare sul fondo né sulla s.g.r. 
+7. L’Organismo svolge funzioni di collegamento tra le collettività che aderiscono al Fondo, la s.g.r. e il Responsabile. 
+L’Organismo non svolge funzioni di controllo. 
+8. I componenti dell’Organismo devono adempiere le loro funzioni nel rispetto dei principi generali di correttezza e 
+buona fede e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza in ragione del loro 
+ufficio. 
+Art. 20 - Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi della normativa 
+tempo per tempo vigente. 
+Art. 21 - Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle posizioni 
+individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+2. La s.g.r. conferisce a una società di revisione l’incarico di esprimere, con apposita relazione, un giudizio sul 
+rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web della s.g.r..  
+ 
+4 Nel caso in cui il numero di aziende o gruppi di cui al comma 4 comporta il superamento del limite massimo di componenti, le collettività tenute alla 
+designazione sono individuate in base alla numerosità degli aderenti al Fondo. La s.g.r. può individuare u lteriori criteri di selezione delle aziende. Se 
+invece il numero di aziende o gruppi di cui al comma 4 non comporta il raggiungimento del limite massimo di componenti, la s.g.r. può invitare altre 
+aziende o gruppi, individuati sulla base di un criterio di selezione delle aziende (quale, ad esempio, la numerosità degli aderenti al Fondo), a 
+comunicare i nominativi dei rappresentanti propri e dei propri lavoratori.
+=== pagina 14 ===
+13 di 14 | Previgest Fund Mediolanum 
+PARTE V - RAPPORTI CON GLI ADERENTI 
+Art. 22 - Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. L’adesione è 
+preceduta dalla consegna della documentazione informativa prevista dalla normativa tempo per tempo vigente.  
+2. L’Aderente è responsabile della completezza e veridicità delle informazioni fornite alla s.g.r..  
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera di conferma, 
+attestante la data di iscrizione e le informazioni relative all’eventuale versamento effettuato.  
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, dei relativi allegati e delle successive 
+modifiche, fatto salvo quanto previsto in tema di trasferimento nell’art. 26.  
+5. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze della s.g.r. 
+da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione della s.g.r.. Le adesioni su base collettiva 
+possono essere raccolte anche presso i luoghi indicati nella Nota informativa. 
+6. In caso di adesione mediante sito web, l’impresa deve acquisire il consenso espresso dell’aderente all’utilizzo di 
+tale strumento. 
+L’aderente ha il diritto di esercitare il diritto di ripensamento nei termini definiti dalla normativa applicabile, ovvero 
+entro 7 giorni dalla data di sottoscrizione. Entro tale termine l’Aderente può comunicare per iscritto il proprio 
+recesso senza spese né corrispettivo al soggetto incaricato della raccolta delle adesioni oppure direttamente alla 
+SGR: Mediolanum Gestione Fondi SGR p.A., Palazzo Meucci, Via Ennio Doris - 20079 Basiglio - Milano 3 (MI). Alle 
+operazioni relative ai versamenti successivi non si applica la sospensiva prevista per un eventuale ripensamento da 
+parte dell’aderente. 
+7. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione al Fondo. In 
+caso di inadempimento, la s.g.r. ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto 
+comunicando all’aderente la  propria volontà di avvalersi della clausola risolutiva espressa, salvo che l’aderente 
+non provveda a effettuare un versamento entro sessanta giorni dalla ricezione della comunicazione.  
+8. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo e del conseguente 
+azzeramento della posizione individuale a seguito dell’applicazione delle eventuali spese annuali di gestione 
+amministrativa, la s.g.r. ha facolt à, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto comunicando la 
+propria volontà di avvalersi della clausola risolutiva espressa, salvo che l’aderente non provveda a effettuare 
+versamento entro sessanta giorni dalla ricezione della comunicazione. 
+Art. 23 - Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. La s.g.r. mette a disposizione degli aderenti la documentazione inerente al Fondo e tutte le altre informazioni utili, 
+secondo quanto previsto dalle disposizioni della COVIP in materia. Tali documenti sono disponibili sul sito web della 
+s.g.r., in un’apposita sezione dedicata alle forme pensionistiche complementari e presso la sede legale della s.g.r.. 
+I documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e gratuitamente anche presso i 
+soggetti che effettuano l’attività di raccolta delle adesioni.  
+2. La s.g.r. fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni individuali maturate e alle 
+prestazioni erogate, secondo quanto previsto dalla normativa tempo per tempo vigente.  
+Art. 24 - Comunicazioni e reclami 
+1. La s.g.r. definisce le modalità con le quali gli aderenti e i beneficiari possono rappresentare le proprie esigenze e 
+presentare reclami in coerenza con le indicazioni fornite dalla COVIP, riportandole nella Nota Informativa.
+=== pagina 15 ===
+14 di 14 | Previgest Fund Mediolanum 
+PARTE VI – NORME FINALI 
+Art. 25 - Modifiche del Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP.  
+2. La s.g.r. stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse degli aderenti e fatto salvo 
+quanto disposto all’art. 26. 
+Art. 26 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche delle 
+caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni economiche 
+del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione individuale maturata ad altra 
+forma pensionistica complementare anche prima che siano decorsi due anni dall’iscrizione. Il diritto di trasferimento 
+è altresì riconosciuto quando le modifiche interessano in modo sostanziale la caratterizzazione del Fondo, come 
+può avvenire in caso di variazione significativa delle politiche di investimento. 
+2. La s.g.r. comunica a ogni aderente interessato l’introduzione delle modifiche almeno centoventi giorni prima della 
+relativa data di efficacia; dal momento della comunicazione l’aderente ha novanta giorni di tempo per manifestare 
+l’eventuale scelta di trasferimento. La s.g.r. può chiedere alla COVIP termini ridotti di efficacia nei casi in cui ciò sia 
+utile al buon funzionamento del Fondo e non contrasti con l’interesse degli aderenti.  
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese.  
+Art. 27 - Cessione del fondo 
+1. Qualora la s.g.r. non voglia o non possa più esercitare l’attività di gestione del Fondo, questo viene ceduto ad altro 
+soggetto, previa autorizzazione all’esercizio. In caso di cessione del Fondo a società diverse da quelle del Gruppo 
+al quale appartiene l a s.g.r. viene riconosciuto agli aderenti il diritto al trasferimento della posizione presso altra 
+forma pensionistica complementare ai sensi dell’art. 26 e con le modalità ivi previste.  
+Art. 28 - Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fusione con un 
+altro Fondo gestito dalla medesima s.g.r., il diritto al trasferimento della posizione presso altra forma pensionistica 
+complementare viene riconosciuto qualora ricorrano le condizioni di cui all’art. 26 e con le modalità ivi previste.  
+Art. 29 - Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla normativa tempo per 
+tempo vigente.
+=== pagina 16 ===
+Sede Legale: Palazzo Meucci - Via Ennio Doris  
+20079 Basiglio (MI) - T +39 02 9049.1 
+Mediolanum Gestione Fondi SGR p.A. 
+Capitale sociale euro 5.164.600,00 i.v. - Codice Fiscale - Iscr. 
+Registro Imprese Milano n. 06611990158 - P. IVA 10540610960 del 
+Gruppo IVA Banca Mediolanum - Società appartenente al Gruppo 
+Bancario Mediolanum - Società iscritta all’Albo delle SGR di cui 
+all’Art. 35 del D. Lgs. 58/1998 al numero 6 della Sezione “Gestori di 
+OICVM” e al numero 4 della Sezione “Gestori di FIA” - Aderente al 
+Fondo Nazionale di Garanzia - Società soggetta all’attività di 
+direzione e coordinamento di Banca Mediolanum S.p.A. –  
+Società con unico Socio 
+mgf@pec.mediolanum.it 
+www.mediolanumgestionefondi.it 
+PFM 31/07/2026 
+È un prodotto di

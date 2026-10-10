@@ -1,0 +1,373 @@
+# Fondo: FONDO PENSIONE APERTO PENSPLAN PROFI (pensplan-profi)
+# Documento: Documento sulle rendite – Documento sulle rendite
+# Fonte: https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/DocumentoRendite.pdf
+# Citato in: https://www.fondopensioneprofi.com/documenti
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: c52a8ecf64e9dd5048ed0f988c41b92beecf2e4f226dc8420045911802740322
+# Pagine: 10
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Fondo Pensione Aperto 
+Iscritto all’Albo COVIP al n. 147 
+Istituito in Italia da Euregio Plus SGR S.p.A. 
+ 
+ 
+Passaggio Duomo, 15 
+39100 Bolzano (BZ) 
+ 
+Tel.: 0471 068 700 
+Fax: 0471 068 766 
+ 
+profi@euregioplus.com 
+fondoprofi@pec.it 
+ www.fondopensioneprofi.com 
+  
+DOCUMENTO SULLE RENDITE 
+(depositato presso la COVIP il 01/07/2026) 
+ 
+ 
+ 
+ 
+ 
+ 
+Il presente documento non è soggetto a preventiva approvazione da parte della COVIP 
+medesima. EUREGIO PLUS SGR S.P.A. SI ASSUME LA RESPONSABILITÀ DELLA COMPLETEZZA E 
+VERIDICITÀ dei dati e delle notizie contenuti nel presente documento.
+=== pagina 2 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 1 di 9 
+ 
+INDICE 
+ 
+1 Premessa ...................................................................................................... 2 
+2 Accesso alla rendita e modalità di erogazione .................................... 2 
+3 Prestazioni erogate direttamente dal Fondo ........................................ 3 
+3.1 Rendita a durata definita ..................................................................................................................................... 4 
+3.2 Prelievi liberamente determinabili ................................................................................................................ 5 
+3.3 Erogazione frazionata del montante accumulato (dal 31 ottobre 2026) ............................................ 6 
+4 Prestazioni erogate dalla compagnia assicurativa ............................ 6 
+4.1 Rendita vitalizia ............................................................................................................................................................ 6 
+4.1.1 Tipologia di rendita............................................................................................................................................ 7 
+4.1.2 Decorrenza e periodicità della rendita ......................................................................................... 8 
+4.1.3 Importo della rendita ................................................................................................................................. 8 
+4.1.4 Basi tecniche, caricamenti e spese ................................................................................................ 8
+=== pagina 3 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 2 di 9 
+ 
+1 PREMESSA 
+Il presente documento disciplina le prestazioni pensionistiche in forma di rendita di PENSPLAN 
+PROFI FONDO PENSIONE APERTO. 
+Per tutto quanto non sia puntualmente previsto si rimanda al Regolamento del Fondo, nonché 
+all’art. 11 del D.Lgs. 5 dicembre 2005, n. 252. 
+PENSPLAN PROFI FONDO PENSIONE APERTO si riserva la possibilità di regolare autonomamente 
+ogni ulteriore dettaglio che non sia previsto dal Decreto o dalla normativa secondaria 
+emanata dalla Commissione di vigilanza sui fondi pensione (COVIP).  
+Per l’erogazione della prestazione pensionistica complementare in forma di rendita il Fondo ha 
+stipulato una convenzione assicurativa con Itas Vita S.p.A. (di seguito, “Itas Vita” o la “Società” 
+o la “Compagnia”). 
+2 ACCESSO ALLA RENDITA E MODALITÀ DI EROGAZIONE 
+Il diritto alla prestazione pensionistica si acquisisce al momento della maturazione dei requisiti 
+di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza, con almeno 
+cinque anni di partecipazione a forme pensionistiche complementari.  
+Ai fini della determinazione dell'anzianità necessaria per la richiesta delle prestazioni 
+pensionistiche sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche 
+complementari maturati dall'aderente per i quali lo stesso non abbia  esercitato il riscatto 
+totale della posizione individuale. 
+All’aderente in possesso dei requisiti previsti dallo Statuto del Fondo e dalla normativa vigente 
+viene erogata una pensione complementare (rendita), cioè sarà pagata periodicamente una 
+somma calcolata in base al montante accumulato sulla posizione individ uale del Fondo e 
+destinato quale premio unico alla Compagnia, all’età e alla tipologia di rendita prescelta. La 
+“conversione” del capitale in una rendita avviene applicando dei coefficienti che tengono 
+conto dell’andamento demografico della popolazione ita liana e sono differenziati per età, 
+tipologia di rendita e rateazione.  
+L’iscritto può scegliere di percepire la prestazione pensionistica tra le seguenti modalità: 
+Prestazioni erogate direttamente dal Fondo: 
+1) in Rendita a durata definita 
+2) in Prelievi liberamente determinabili 
+3) in Erogazione frazionata del montante accumulato (a partire dal 31 ottobre 2026) 
+Prestazione erogata dalla Compagnia assicurativa convenzionata con il Fondo: 
+4) in Rendita vitalizia 
+Mista:
+=== pagina 4 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 3 di 9 
+ 
+5) parte in capitale ( fino a un massimo del 50% della posizione maturata) e parte in  
+una delle precedenti alternative. 
+La prestazione pensionistica può essere richiesta dall’iscritto interamente in capitale, nel caso 
+in cui la rendita derivante dalla conversione di almeno il 70% del montante finale sia inferiore 
+al 50% dell'assegno sociale. 
+L’aderente richiede la prestazione pensionistica in rendita, così come quella in capitale, 
+presentando al Fondo l’apposito modulo. 
+Il diritto alla prestazione pensionistica si acquisisce al momento della maturazione dei requisiti 
+di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza, con almeno 
+cinque anni di partecipazione a forme pensionistiche complementari.  
+Ai fini della determinazione dell'anzianità necessaria per la richiesta delle prestazioni 
+pensionistiche sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche 
+complementari maturati dall'aderente per i quali lo stesso non abbia  esercitato il riscatto 
+totale della posizione individuale. 
+Per quanto riguarda le informazioni di natura fiscale è disponibile il Documento sul regime 
+fiscale. 
+ 
+Per saperne di più, consulta il Documento sul regime fiscale, disponibile sul sito web di Euregio+ 
+(www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/Docum
+entoRegimeFiscale.pdf) 
+3 PRESTAZIONI EROGATE DIRETTAMENTE DAL FONDO 
+Le tipologie di prestazioni in “Rendita a durata definita”, in “Prelievi liberamente determinabili” 
+e in “Erogazione frazionata  del montante accumulato ” (opzioni 1, 2 e 3) sono da considerarsi 
+alternative alla rendita vitalizia  (opzione 4), non sono tra loro combinabili e una volta iniziata 
+la liquidazione non posso no essere revocate, salvo che il beneficiario opti per convertire il 
+montante residuo in una rendita vitalizia  immediata. L’opzione per la  rendita vitalizia è 
+esercitabile successivamente sia presso il Fondo sia presso un’altra forma pensionistica 
+complementare a cui trasferire il montante residuo al solo scopo di accedere alle condizioni 
+di rendita vitalizia offerte da quest’ultima. 
+Durante la fase di erogazione,  il beneficiario non può più esercitare le prerogative individuali 
+tipiche della fase di  accumulo (ad es. trasferimenti, anticipazioni, Rendita Integrativa 
+Temporanea Anticipata - RITA), con eccezione dello switch di comparto, nel  rispetto del 
+periodo minimo  fissato nel regolamento del Fondo. N on è, inoltre, cumulabile con la RITA  
+eventualmente già in corso di liquidazione.
+=== pagina 5 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 4 di 9 
+ 
+L’erogazione di una prestazione pensionistica complementare n on consente inoltre di versare 
+ulteriore contribuzione alla forma pensionistica, salvo il caso in cui l’interessato attivi un nuovo 
+rapporto di lavoro che preveda la maturazione del TFR. 
+In caso di morte del beneficiario di una delle prestazioni erogate direttamente dal Fondo il 
+montante residuo è riscattato dal/dai soggetto/soggetti dallo stesso indicato/indicati al 
+momento dell’esercizio dell’opzione. 
+Per tali Prestazioni, il montante residuo è mantenuto in gestione fino al completamento della 
+fase di erogazione. Tale montante è investito  nel comparto scelto dall’aderente all’atto della 
+richiesta della prestazione o, in difetto di indicazioni, nella linea di investimento con il profilo di 
+rischio meno elevato, ossia il comparto Ethical Life Short Term. Per tale ragione l’importo della 
+rata di rendita varia in funzione del valore della quota  alla data di erogazione della stessa  la 
+quale subisce gli effetti dei risultati finanziari della gestione. 
+Non è possibile prevedere una cadenza della rateazione inferiore al trimestre né superiore 
+all’anno. 
+Il Fondo provvede all’erogazione delle prestazioni entro e non oltre 6 mesi. 
+Per l’attivazione e la gestione  operativa delle prestazioni erogate direttamente dal Fondo non 
+è previsto alcun addebito di costi o spese amministrative. 
+Vengono applicate le spese previste per la fase di accumulo. 
+ 
+Per saperne di più, consulta la scheda “I costi” , disponibile sul sito web d el Fondo  
+(https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/
+Icosti.pdf) 
+3.1 RENDITA A DURATA DEFINITA 
+È una rendita erogata per un numero di anni pari alla vita attesa  residua, con rata annuale 
+determinata rapportando il montante accumulato alla data di erogazione di  ciascuna rata 
+annuale al predetto numero di anni residui . Si tratta quindi di una rendita una prestazione 
+pensionistica erogata per un periodo predeterminato  sulla base della vita attesa residua , 
+come determinata dall’ISTAT (numero anni derivante dalla tabella A  allegata alla legge 8 
+agosto 1995, n. 335 arrotondato per difetto), del beneficiario. 
+È consentito all’aderente, su richiesta, di prevedere che tale prestazione sia erogata per un 
+numero di anni maggiore rispetto a quelli corrispondenti alla speranza di vita dello stesso 
+all’età di esercizio dell’opzione. 
+Esempio: 
+L’aderente ha un montante accumulato di 100.000 euro e richiede la prestazione a 67 anni. 
+La vita attesa ipotizzata ai fini di questo esempio, determinata secondo le tabelle 
+applicabili, è pari a 86 anni; la durata della prestazione è quindi pari a 19 anni.
+=== pagina 6 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 5 di 9 
+ 
+La rata annuale è determinata dividendo il montante disponibile alla data di erogazione 
+per il numero di annualità ancora da corrispondere (100.000 / 19 = 5.263 € per ogni anno). 
+L’importo delle rate è erogato al netto della fiscalità applicabile e può variare nel tempo in 
+funzione dei risultati finanziari della gestione. 
+• Caso A — decesso a 71 anni: la prestazione è stata erogata per 4 anni. Il montante residuo 
+(78.947 € senza considerare l’effetto dell’andamento dei mercati ) ancora presente 
+presso il Fondo viene riscattato dai soggetti indicati dall’aderente. 
+• Caso B — decesso a 96 anni , ovvero vita oltre il periodo di erogazione : la prestazione 
+viene erogata per 19 anni, fino all’esaurimento del montante disponibile. Se il beneficiario 
+vive oltre tale periodo, non sono previste ulteriori erogazioni. 
+3.2 PRELIEVI LIBERAMENTE DETERMINABILI 
+Si intende una prestazione costituita da prelievi che possono essere, tempo per tempo, richiesti 
+nel limite della somma delle rate, maturate e non riscosse,  della suddetta rendita a durata 
+definita. 
+A tale fine, si prende a riferimento una rendita teorica di durata definita pari alla vita attesa 
+residua, in anni interi, dell’aderente al momento della richiesta della prestazione, 
+immediatamente erogabile e con frazionamento annuale. Tale rendita è da intendersi come 
+rendita figurativa che rileva  esclusivamente per il calcolo delle suddette rate.  Si assume, 
+quindi, come importo massimo prelevabile in ogni momento  e con facoltà  dell’aderente di 
+sceglierne l’importo e la tempistica , la differenza tra l’ammontare  delle rate di rendita teorica 
+maturate e l’ammontare dei prelievi già effettuati. 
+Esempio: 
+L’aderente ha un montante accumulato di 100.000 euro e richiede la prestazione a 67 anni. 
+La vita attesa  ipotizzata ai fini di questo esempio , determinata secondo le tabelle 
+applicabili, è pari a 86 anni; la rendita teorica di riferimento ha quindi durata pari a 19 anni. 
+L’importo massimo prelevabile è determinato in base alle rate teoriche maturate e non 
+riscosse della rendita a durata definita, al netto dei prelievi già effettuati. I prelievi sono 
+erogati al netto della fiscalità applicabile; ogni prelievo riduce il mont ante residuo, che 
+continua a essere investito e può variare in funzione dei risultati finanziari della gestione.  
+• Caso A — nessun prelievo nei primi anni: se, dopo 6 anni dalla richiesta della prestazione, 
+l’aderente non  ha ancora  effettuato nessun  prelievo, potrà richiedere un importo 
+corrispondente all a somma dell e rate teoriche maturate e non riscosse fino a quel 
+momento (fino al limite massimo di 31.579 € - senza considerare l’effetto 
+dell’andamento dei mercati - corrispondente alle 5 rate non riscosse e alla sesta rata 
+maturata);
+=== pagina 7 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 6 di 9 
+ 
+• Caso B — ulteriori prelievi successivi: se incassa la rata relativa al primo anno (5.263 € 
+senza considerare l’effetto dell’andamento dei mercati), ma poi sceglie di non 
+richiedere somme per un periodo di 6 anni; al settimo anno potrà richiedere un importo 
+corrispondente alla somma delle rate teoriche maturate e non riscosse negli anni 
+precedenti (fino a un limite massimo di 36.842 € - senza considerare l’effetto 
+dell’andamento dei mercati - corrispondente alle 6 rate non riscosse e alla  ottava rata 
+teorica appena maturata). Il montante residuo sarà ridotto dei prelievi già effettuati. 
+3.3 EROGAZIONE FRAZIONATA DEL MONTANTE ACCUMULATO                    
+(DAL 31 OTTOBRE 2026) 
+Si tratta di un’erogazione rateizzata del montante accumulato, per un periodo predeterminato, 
+non inferiore a cinque anni.  Questa prestazione n on è collegata alla vita attesa residua del 
+beneficiario ma la durata del periodo di erogazione è scelta dall’aderente. 
+Esempio: 
+L’aderente ha un montante accumulato di 100.000 euro e richiede la prestazione a 67 anni 
+e sceglie di ricevere il montante in rate annuali per 5 anni, durata minima prevista per 
+questa tipologia  (100.000 / 5 = 20.000 € per ogni anno senza considerare l’effetto 
+dell’andamento dei mercati). 
+Le rate sono erogate al netto della fiscalità applicabile e sono determinate in funzione del 
+montante residuo, della durata prescelta, della periodicità richiesta e del valore tempo per 
+tempo attribuito alla posizione. 
+• Caso A — decesso a 71 anni: la prestazione è stata erogata per 4 anni  (20.000 € per ogni 
+anno, senza considerare l’effetto dell’andamento dei mercati) . Il montante residuo 
+ancora presente presso il Fondo (20.000 € senza considerare l’effetto dell’andamento dei 
+mercati) viene riscattato dai soggetti indicati dall’aderente; 
+• Caso B — decesso aderente a 96 anni, ovvero vita oltre il periodo di erogazione : la 
+prestazione viene erogata per 5 anni (20.000 € per ogni anno, senza considerare l’effetto 
+dell’andamento dei mercati) , fino all’esaurimento del montante disponibile. Se il 
+beneficiario vive oltre tale periodo, non sono previste ulteriori erogazioni.  
+4 PRESTAZIONI EROGATE DALLA COMPAGNIA ASSICURATIVA 
+ 
+4.1 RENDITA VITALIZIA 
+All’aderente in possesso dei requisiti previsti dallo Statuto del Fondo e dalla normativa vigente 
+viene erogata una pensione complementare (rendita), cioè sarà pagata periodicamente una 
+somma calcolata in base al montante accumulato sulla posizione individ uale del Fondo e
+=== pagina 8 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 7 di 9 
+ 
+destinato quale premio unico alla Compagnia, all’età e alla tipologia di rendita prescelta. La 
+“conversione” del capitale in una rendita avviene applicando dei coefficienti che tengono 
+conto dell’andamento demografico della popolazione italiana e sono diff erenziati per età, 
+tipologia di rendita e rateazione. 
+Il Fondo versa quindi alla Compagnia il valore della posizione individuale, al netto 
+dell’eventuale parte di prestazione da erogare in capitale, quale premio unico per l’attivazione 
+del contratto di assicurazione.  
+La Compagnia trasforma il premio unico nella rendita scelta dall’aderente applicando i 
+coefficienti di conversione previsti dalla Convenzione e la eroga direttamente all’aderente 
+mediante bonifico bancario. 
+ 
+AVVERTENZA: Le condizioni che saranno effettivamente applicate dipenderanno dalle 
+previsioni della convenzione in vigore al momento della richiesta della rendita al Fondo. 
+ 
+ Per ulteriori informazioni sulle modalità di calcolo ed erogazione della rendita 
+consultare la “Convenzione” (Allegato 2 del Regolamento del Fondo). 
+ 
+4.1.1 TIPOLOGIA DI RENDITA 
+La Convenzione prevede la possibilità di scegliere una delle seguenti tipologie di rendita:  
+Vitalizia immediata La rendita è corrisposta all’aderente finché è in vita. Questa 
+tipologia è adatta per chi desidera avere l’importo di rendita 
+più elevato rispetto alla somma maturata.  
+Es.: prima rata erogata a età di 67 anni, decesso a 87 anni, 
+rendita corrisposta per 20 anni. 
+Certa per i primi 5 o 
+10 e in seguito 
+vitalizia 
+La rendita è corrisposta per una durata certa (i primi 5 o 10 
+anni) all’aderente o, in caso di suo decesso, alla persona da lui 
+designata come beneficiario. Dopo tale periodo certo la 
+rendita è corrisposta esclusivamente all’aderente – se 
+sopravvivente – finché è in vita. Questa tipologia è adatta per 
+chi vuole proteggere determinate persone (es. i figli), per un 
+periodo di tempo certo, dalla perdita di una fonte di reddito in 
+caso di decesso, senza intaccare in modo significativo 
+l’importo della rendita. L a persona designata come 
+beneficiario può essere modificata anche dopo l’avvio 
+dell’erogazione della rendita.  
+Es. rendita certa per 10 anni con prima rata erogata a età di 67 
+anni:  
+CASO A) decesso aderente a 71 anni: rendita erogata per 10 
+anni, di cui 4 anni all’aderente e 6 anni al beneficiario.  
+CASO B) decesso aderente a 87 anni: rendita erogata 
+all’aderente per 20 anni.
+=== pagina 9 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 8 di 9 
+ 
+Vitalizia reversibile 
+totalmente o  
+parzialmente 
+La rendita è corrisposta all’aderente fino al suo decesso. In 
+seguito, è corrisposta (in misura totale o parziale) alla persona 
+scelta dall’aderente come reversionario, se sopravvivente, fino 
+a che tale persona è in vita. Questa tipologia è adatta per chi 
+vuole proteggere una persona (es. il coniuge), per tutta la vita 
+della stessa, dall’eventuale perdita di una fonte di reddito in 
+caso di decesso. Il reversionario non può essere modificato 
+dopo l’avvio dell’erogazione della rendita, in quanto la stessa 
+rendita è quantificata anche in base all’età del reversionario 
+stesso.  
+Es.: prima rata erogata a aderente di 67 anni, che ha indicato 
+come reversionario il coniuge di 57 anni; entrambi decedono 
+a distanza di 10 anni uno dall’altro all’età di 87 anni, pertanto , 
+la rendita viene erogata per 30 anni, i primi 20 all’aderente e 
+gli ultimi 10 al coniuge reversionario. 
+4.1.2 DECORRENZA E PERIODICITÀ DELLA RENDITA 
+La rendita ha decorrenza dal primo giorno del mese successivo alla data di pagamento del 
+premio e di consegna della necessaria documentazione alla Compagnia. A scelta 
+dell’aderente la rendita viene erogata in rate mensili, semestrali o in unica rata annual e. 
+L’erogazione della rendita cessa con l’ultima scadenza di rata precedente il decesso 
+dell’aderente o del reversionario / beneficiario secondo le regole della tipologia di rendita 
+scelta. La Compagnia si riserva di richiedere con periodicità non inferiore all’anno all’aderente 
+ed eventualmente al reversionario / beneficiario la documentazione comprovante l’esistenza 
+in vita. 
+4.1.3 IMPORTO DELLA RENDITA 
+L’importo della rendita è calcolato applicando al premio unico versato alla Compagnia i 
+“coefficienti di conversione” elencati nelle apposite tabelle per tipologia di rendita contenute 
+nella Convenzione. L’età va rettificata sommando algebricamente alla st essa il fattore 
+correttivo in corrispondenza dell’anno di nascita riportato nella “tabella di age shifting”. Il valore 
+della rendita iniziale si ottiene quindi moltiplicando il premio unico per il coefficiente 
+individuato rispetto alla tipologia di rendita scelta, all’età dell’aderente (e per la rendita 
+reversibile all’età del reversionario), alla periodicità della rata scelta (annuale, semestrale o 
+mensile) e dividendo per 1.000 il risultato.  
+4.1.4 BASI TECNICHE, CARICAMENTI E SPESE 
+I coefficienti di conversione previsti dalla Convenzione e raggruppati in apposite tabelle per 
+tipologia di rendita, per età e per rateazione, sono determinati da stime e calcoli attuariali che 
+prendono in considerazione molteplici elementi, fra i quali fattori demografici (la durata della 
+vita) e finanziari (i rendimenti di medio-lungo termine).
+=== pagina 10 ===
+PensPlan Profi Fondo Pensione Aperto Documento sulle rendite 
+ 
+ 
+In vigore dal 01/07/2026 pagina 9 di 9 
+ 
+Le basi demografiche utilizzate sono costituite dalle tavole A62D. Il tasso tecnico applicato è 
+dello 0% annuo. 
+La rendita erogata dalla Compagnia è soggetta a rivalutazione annuale in base ai rendimenti 
+conseguiti dalla gestione separata denominata “FOREVER”. Per gestione separata è inteso un 
+portafoglio di investimenti gestito separatamente dagli altri attivi detenuti dalla Compagnia. 
+Per tutte le tipologie di rendita vengono applicati dei “caricamenti”, cioè dei costi per far fronte 
+alle spese di acquisizione e di gestione delle polizze da parte della Compagnia:  
+• Caricamento premio unico 1,00%; 
+• Caricamento per spese di erogazione della rendita 1,25%. 
+Le spese per tasse, bolli ed imposte dovute in base a leggi presenti e future, sia sul premio 
+unico versato, sia sulla rendita convenuta, sono a carico dell’aderente.

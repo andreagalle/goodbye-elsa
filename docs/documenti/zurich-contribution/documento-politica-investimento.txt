@@ -1,0 +1,534 @@
+# Fondo: FONDO PENSIONE APERTO ZURICH CONTRIBUTION (zurich-contribution)
+# Documento: Documento sulla politica di investimento – DPI FPA Zurich Contribution
+# Fonte: https://www.zurich.it/api/archiviodigitale/download?guid=C5BF433D-5AA2-4950-AB74-044960F4AF62&filename=DPI%20FPA%20Zurich%20Contribution.pdf
+# Citato in: https://www.zurich.it/persone/risparmio-e-investimento/previdenza/zurich-contribution
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: c57c2482def98136ed4d83dd76a3b14f2bfe84d003b9f2ab34cf18e34d3d0e11
+# Pagine: 12
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sulla politica di investimento  
+ai sensi della delibera COVIP del 16 marzo 2012 
+ 
+Fondo Pensione Aperto Zurich Contribution 
+Iscritto all’albo tenuto dalla COVIP con il n. 37 
+ 
+ 
+ 
+ 
+Owner politica: Chief Investment Officer 
+ 
+Zurich Investments Life S.p.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Novembre 2024 
+Versione 2.2
+=== pagina 2 ===
+
+=== pagina 3 ===
+Documento sulla politica di investimento Novembre 2024 3 
+Documento sulla politica di investimento  
+Fondo Pensione Aperto Zurich Contribution 
+ 
+ 
+1. Introduzione 
+ 
+1.1 Scopo 
+La presente politica (di seguito “Policy” o “documento”) è predisposta in ottemperanza ai requisiti previsti dal Decreto Legislativo n° 252 del 5 
+dicembre 2005 e alle prescrizioni contenute nella Deliberazione  Covip del 16 marzo 2012  e nella Deliberazione Covip del 13 gennaio 2021 , al 
+fine di definire il processo di attuazione della politica di investimento che la Società istitutrice del Fondo pensione aperto Zurich Contribution 
+(diseguito “Fondo” o “Forma pensionistica”), intende attuare per ottenere, dall’impiego delle risorse affidate in gestione, combinazioni di rischio-
+rendimento efficienti nell’arco temporale coerente con i bisogni previdenziali dell’aderente. 
+La policy è approvata dal Consiglio di Amministrazione della Società istitutrice del Fondo (di seguito “Compagnia” o “Zurich Investments Life 
+S.p.A.”) ed è coerente con le indicazioni riportate nel Regolamento e nella Nota Inform ativa della Forma pensionistica nonché con le previsioni 
+contrattuali che regolano i rapporti tra i soggetti coinvolti nel processo di investimento.  
+ 
+1.2 Riferimenti normativi 
+Riferimenti normativi esterni 
+• Decreto Legislativo n°252 del 5 dicembre 2005 e s.m.i. - Disciplina delle forme pensionistiche complementari; 
+• Deliberazione COVIP del 16 marzo 2012 - Disposizioni sul processo di attuazione della politica di investimento; 
+• Decreto MEF 2 settembre 2014, n. 166 – Regolamento di attuazione dell’articolo 6, comma 5-bis del decreto legislativo 5 dicembre 
+2005, n. 252, recante norme sui criteri e limiti di investimento delle risorse dei fondi pensione e sulle regole in materia d i conflitti 
+di interesse (in vigore dal 28 novembre 2014); 
+• Regolamento IVASS n°24 del 26 giugno 2016 - Regolamento recante disposizioni in materia di investimenti e di attivi a copertura 
+delle riserve tecniche di cui al Titolo III (esercizio dell’attività assicurativa), Capo II -bis (principi generali in materia di investimenti), 
+articolo 37-ter, e Capo III (attivi a copertura delle riserve tecniche), articolo 38 del Codice delle Assicurazioni Private – modificato 
+dal Decreto Legislativo 12 maggio 2015, n. 74 – conseguente all’impleme ntazione nazionale delle linee g uida sul sistema di 
+governo societario, con particolare riferimento al principio della persona prudente in materia di investimenti ; 
+• Deliberazione COVIP del 13 gennaio 2021 - Istruzioni di vigilanza per le società che gestiscono fondi pensione aperti, adottate ai 
+sensi dell’art. 5-decies, comma 1, del decreto legislativo 5 dicembre 2005, n. 252. 
+• Regolamento (UE) 2019/2088 del Parlamento Europeo e del Consiglio del 27 novembre 2019 relativo all’informativa sulla 
+sostenibilità nel settore dei servizi finanziari; 
+•  Provvedimento n. 131 del 10 maggio 2023 recante modifiche in materia di finanza sostenibile ai Regolamenti 24/2016, 38/2018, 
+40/2018 e 45/2020;  
+• Regolamento delegato UE 2021/1256: Modifica al regolamento delegato (UE) 2015/35 per quanto riguarda l’integrazione dei 
+rischi di sostenibilità nella governance delle imprese di assicurazione e di riassicurazione;  
+• Regolamento delegato UE 2022/1288: Informativa sulla sostenibilità nel settore dei servizi finanziari – Aggiornamento;  
+• Accordo di Parigi sui cambiamenti climatici del 4 Novembre 2016. 
+ 
+Riferimenti normativi interni 
+• Codice di Condotta Zurich 
+• Regolamento Asset Liability Management Investment Committee (ALMIC) ;  
+• Zurich Risk Policy;  
+• Local Standard “Conflitti di Interesse ed Incarichi esterni”; 
+• Politica in materia di gestione dei conflitti di interesse della Compagnia; 
+• Politica degli Investimenti ai sensi dell’Art. 5 del Regolamento IVASS n. 24/2016;
+=== pagina 4 ===
+Documento sulla politica di investimento Novembre 2024 4 
+• Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti; 
+• Politica di impegno adottata ai sensi dell’articolo 124-quinquies e 124-sexies del Decreto Legislativo 58/98; 
+• Zurich Group – Responsible Investment Whitepaper  
+• Zurich Group – Impact Measurement Framework  
+• Zurich Group – Proxy voting policy and guidelines 
+ 
+1.3 Obiettivi del Fondo 
+Il Fondo pensione aperto ha lo scopo di consentire di arrivare a percepire, al momento del pensionamento, una pensione comple mentare che si 
+aggiunge alla pensione di base e contribuisce al sostegno del tenore di vita nell’età anziana.   
+Tale fine è perseguito raccogliendo le somme versate (contributi) e investendole professionalmente nell’esclusivo interesse d egli aderenti e 
+secondo le opzioni di investimento scelte dall’aderente stesso. Dal momento del primo versamento inizia a formarsi la posizione individuale (cioè 
+il capitale messo da parte dal singolo aderente)  che tiene conto, in particolare, dei versamenti effettuati e dei rendimenti spettanti all’iscritto. 
+Durante tutta la cosiddetta “fase di accumulo” cioè il periodo che intercorr e da quando viene effettuato il primo versamento all’atto del 
+pensionamento, la posizione individuale rappresenta quindi la somma accumulata tempo per tempo. Al momento del pensionamento, la 
+posizione individuale costituirà la base per il calcolo della pensione complementare, che verrà erogata nella cosiddetta “fase di erogazione”, cioè 
+per tutto il resto della vita dell’iscritto. 
+ 
+1.4 Caratteristiche dei potenziali aderenti  
+L’adesione al Fondo è volontaria ed è consentita in forma individuale. È altresì consentita, su base collettiva, ai soggetti destinatari delle forme 
+pensionistiche complementari individuati all’art. 2, comma 1, del Decreto, nei cui confronti trovino applic azione i contratti, gli accordi o i 
+regolamenti aziendali che dispongono l’adesione al Fondo. Ai sensi dell’articolo 8 comma 7 del Decreto l’adesione al Fondo su  base collettiva 
+può avvenire anche mediante conferimento tacito del TFR maturando. 
+ 
+ 
+2. Obiettivi della politica di investimento  
+Il Fondo Pensione Aperto propone una pluralità di opzioni di investimento (comparti), ciascuna caratterizzata da una propria combinazione di 
+rischio/rendimento: 
+• “Linea Garantita”: caratterizzata da un profilo di rischio basso (questo comparto è destinato al conferimento tacito del TFR)  e alla 
+presenza di una garanzia di risultato. 
+• “Linea Conservativa”: caratterizzata da un profilo di rischio medio-basso. 
+• “Linea Dinamica”: caratterizzata da un profilo di rischio medio-alto. 
+Il Fondo: 
+a) Non prevede meccanismi di Life Cycle, 
+b) Non prevede comparti con orizzonte temporale definito, 
+c) Non prevede l’acquisto di O.I.C.R. non armonizzati, 
+d) Non prevede l’acquisto di O.I.C.R. alternativi, 
+e) Non prevede l’acquisto di strumenti finanziari non negoziati nei mercati regolamentati,  
+f) Non effettua vendita allo scoperto, 
+g) Non investe in strumenti finanziari connessi a merci, 
+h) Non investe in derivati connessi a merci. 
+ 
+I contributi versati dagli aderenti della forma pensionistica sono investiti in O.I.C.R. che hanno le seguenti caratteristiche: 
+a) Sono armonizzati, 
+b) Sono disponibili le informazioni sulle strategie di gestione del gestore dei fondi, 
+c) C’è una chiara struttura dei costi dello strumento, 
+d) Sono noti i periodi di uscita (lock up),
+=== pagina 5 ===
+Documento sulla politica di investimento Novembre 2024 5 
+e) sono ammessi gli Exchange Traded Fund (ETF) quotati sui mercati europei 
+ 
+Nella selezione degli strumenti finanziari sottostanti ogni singolo comparto del Fondo, la Compagnia adotta tutte le misure n ecessarie per 
+individuare, prevenire, gestire eventuali situazioni di conflitto di interessi nel rispetto dei requisiti indicati ne lla propria Politica in materia, e 
+tiene conto delle caratteristiche socio demografiche della popolazione di riferimento e i suoi bisogni previdenziali . 
+La Compagnia prende in considerazione le tematiche ambientali, sociali e di governance (tematiche ESG) nella gestione degli investimenti; a tal 
+fine, la Compagnia definisce l e proprie linee guida di integrazione dei rischi di sostenibilità nei processi decisionali relativi agli investimenti  
+all’interno della Politica Investimenti .  In particolare, la politica descrive come i criteri ambientali, sociali e di governance – fattori ESG - sono 
+integrati nel processo decisionale relativo agli investimenti e forni sce le linee guida per valutare come tali fattori impattano sul rendimento 
+finanziario dell’investimento/prodotto. Le linee guida e i principi definiti in tale Politica si applicano anche al Fondo. In particolare, nella selezione 
+degli OICR e delle attività finanziarie sottostanti ai comparti, Zurich considera anche i fattori di sostenibilità ambientale , sociale e di governance 
+e i rating ESG forniti da provider esterni; tuttavia, i singoli compart i non promuovono caratteristiche ambientali o sociali e non hanno obiettivi 
+specifici di sostenibilità ai sensi degli articoli 8 e 9 del Regolamento (UE) 2019/2088 1. 
+ 
+L’impegno della Compagnia per la sostenibilità, si attua anche attraverso l’adozione di una Politica di impegno del Fondo che definisce le linee 
+guida per l’esercizio dei diritti di voto, ove fossero presenti investimenti azionari diretti nei singoli comparti.  
+ 
+ 
+2.1 I comparti: obiettivi di rendimento e rischio  
+Il Fondo presenta  le seguenti opzioni di investimento, c.d . Comparti, ciascuno dei quali caratterizzato da una propria combinazione rischio -
+rendimento. 
+ 
+ 
+Comparto Linea Garantita  
+Categoria: garantito 
+Orizzonte temporale: breve periodo (fino a 5 anni) 
+Rendimento medio annuo atteso nell’orizzonte temporale: tasso garantito come da documentazione contrattuale.   
+Comparto Linea Conservativa  
+Categoria: obbligazionario puro 
+Orizzonte temporale: medio periodo (da 5 fino a 10 anni). 
+Rendimento medio annuo atteso, in termini reali, nell’orizzonte temporale, al netto dei costi: 2,56%. 
+Variabilità attesa del rendimento (scostamento positivo e negativo) nell’orizzonte temporale: 3,90% nell’orizzonte temporale di anni 8. 
+Probabilità che il rendimento nell’orizzonte temporale sia negativo: 16,41%.  
+ 
+Comparto Linea Dinamica 
+Categoria: azionario 
+Orizzonte temporale: medio/lungo periodo (da 10 a 15). 
+Rendimento medio annuo atteso, in termini reali, nell’orizzonte temporale, al netto dei costi: 3,85%. 
+Variabilità attesa del rendimento (scostamento positivo e negativo) nell’orizzonte temporale: 8,31% nell’orizzonte temporale di anni 13. 
+Probabilità che il rendimento nell’orizzonte temporale sia negativo: 25,95%.  
+ 
+Si riportano di seguito la metodologia usata per il calcolo della “variabilità del rendimento” e della “probabilità che il re ndimento realizzato sia 
+inferiore al limite”. 
+ 
+Variabilità del rendimento medio annuo atteso: la variabilità impiegata è pari alla volatilità storica effettivamente osserva ta nel quinquennio 
+precedente 
+ 
+Probabilità che il rendimento realizzato sia inferiore al limite: probabilità che un moto browniano geometrico con drift pari al rendimento medio 
+annuo atteso e con volatilità pari alla variabilità del rendimento medio annuo atteso sia inferiore al limite,  trascorso il numero di anni definito 
+come orizzonte temporale. 
+ 
+1
+ Regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio del 27 novembre 2019 relativo all’informativa sulla sosteni bilità nel 
+settore dei servizi finanziari
+=== pagina 6 ===
+Documento sulla politica di investimento Novembre 2024 6 
+ 
+3. Criteri di attuazione della politica di investimento  
+3.1 Comparto “Linea Garantita” 
+Ripartizione strategica delle attività 
+La garanzia prevede l’erogazione di un importo minimo garantito, a prescindere dai risultati di gestione, pari alla somma dei contributi versati al 
+comparto al netto delle spese direttamente a carico dell'aderente, al verificarsi dei seguenti eventi:  
+a) Esercizio del diritto alla prestazione pensionistica; 
+b) Riscatto per decesso; 
+c) Riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un terzo;  
+d) Riscatto per inoccupazione per un periodo superiore a 48 mesi; 
+e) Trasferimento della posizione individuale in caso di modifiche peggiorative alle condizioni di contratto;  
+Questo comparto è indicato per coloro per i quali è prevista una permanenza nel fondo di medio periodo per il raggiungimento dell’età 
+pensionabile o comunque per tutti coloro che hanno una media/bassa propensione al rischio. Il comparto Linea garantita si prefigge l’obiettivo 
+di realizzare, con elevata probabilità, rendimenti che siano pari o superiori a quelli del TFR.   
+Tutto il patrimonio del comparto è gestito secondo uno stile attivo. La scelta di una gestione attiva e motivata dalla capaci tà della gestione di 
+generare extra rendimenti rispetto ad una gestione passiva. La generazione di extra rendimenti della gestione attiva è motivata dal processo di 
+realizzazione delle scelte di investimento, che può essere declinata secondo l’ordine logico seguente:  
+a) Analisi di asset-liability management per la definizione della redditività minimale in linea con il profilo di rischio del Comparto; 
+b) Asset-allocation strategica di lungo periodo, coerente con l’orizzonte temporale del comparto (il cosiddetto “Beta” di portafoglio); 
+c) Asset-allocation tattica di breve periodo per sfruttare le oscillazioni dei mercati; 
+d) Analisi del quadro normativo, al fine di assicurarsi che le scelte di cui ai precedenti punti siano sempre conformi alla legislazione corrente; 
+e) Attività di gestione del portafoglio propriamente detta e di scelta dei singoli titoli (per generare il cosiddetto “Alpha”), selezionando le 
+attività finanziarie in modo da creare un portafoglio in cui prevalgono le attività sottostimate dal mercato (quind i con un maggiore 
+potenziale di crescita) rispetto a quelle sovrastimate; 
+f) Market timing: aumentare o diminuire l'esposizione del portafoglio ai diversi mercati di riferimento sulla base di previsioni  
+sull'andamento futuro dei prezzi; 
+g) Controllo ex-post dei risultati e dei rischi del portafoglio. 
+ 
+Indirizzi che si intendono conseguire per assicurare l'obiettivo stabilito  
+Il comparto persegue una strategia di investimento prevalentemente orientata verso titoli di debito di breve durata finanziar ia media residua (1-
+5 anni) denominati in euro. La politica di investimento è volta a perseguire una composizione del portafoglio c aratterizzata prevalentemente da 
+titoli di debito emessi dallo Stato Italiano. Il comparto potrà comunque acquisire titoli obbligazionari di emittenti prevalentemente pubblici (Stati 
+Sovrani, Enti garantiti dagli stessi, Organismi internazionali), residual mente privati, sia italiani che esteri, principalmente appartenenti all’area 
+europea che, se denominati in valuta estera, potranno arrivare fino al 20% del proprio attivo. Gli investimenti in strumenti di emittenti privati 
+sono da intendersi a carattere re siduale; in ogni caso, il comparto non investe più del 5% delle proprie disponibilità complessive in strumenti 
+finanziari emessi da uno stesso soggetto e non più del 10% in strumenti finanziari emessi da soggetti appartenenti ad un unico gruppo (non 
+rientrano in questo limite gli O.I.C.R e i titoli di stato). Non sono previsti investimenti nei paesi emergenti.  
+Al Comparto è associato un parametro oggettivo di riferimento, il cosiddetto benchmark. L’individuazione di tale benchmark non costituisc e 
+inoltre un indicatore di risultati attesi. Il benchmark scelto dall’Impresa ha la seguente composizione: 50% ICE BofA Euro Go vernment Index; 
+50% ICE BofA Italy Tresury Bill Index. Il benchmark è un indicatore che viene preso come riferimento per la valutazione dei r isultati del fondo 
+prescelto, e consente quindi una maggiore trasparenza tra l’Impresa e il contraente in m erito all’andamento del Comparto.
+=== pagina 7 ===
+Documento sulla politica di investimento Novembre 2024 7 
+Le decisioni di investimento e/o disinvestimento vengono prese in accordo a quanto definito nella strategia della compagnia. Dette decisioni 
+escludono meccanismi automatici di impiego e/o disimpiego degli attivi a fronte di eventi esterni di mercato (ad esempio, cambiamento di rating). 
+Resta inoltre ferma la facoltà di questo comparto di detenere una parte del patrimonio netto in disponibilità liquide e di acquisire quote di 
+O.I.C.R. (rientranti nell’ambito di applicazione della Direttiva 2009/65/CE), sempr e in coerenza con i propri obiettivi. Tale forma di investimento 
+avrà carattere prevalente nella fase di avviamento del fondo fino al raggiungimento di una massa critica idonea ad attuare un a diversificazione 
+dell’investimento. Questo comparto non prevede l’utilizzo di strumenti derivati. La politica di investimento della Compagnia non prevede la 
+sistematica copertura del rischio di cambio. L’adesione al comparto denominato “Linea Garantita” attribuisce all’aderente, al  verificarsi degli 
+eventi di cui appresso, il diritto alla corresponsione di un importo minimo garantito a prescindere dai risultati di gestione, definito dalle condizioni 
+contrattuali. 
+ 
+Stile gestionale 
+Criteri di selezione degli strumenti finanziari: la composizione del portafoglio è effettuata nel rispetto delle disposizioni  contenute nelle leggi e 
+decreti disciplinanti la materia e delle disposizioni emanate dagli Organi di vigilanza. La rotazione annu a degli asset avrà l’obiettivo di essere 
+contenuta entro 3 volte il patrimonio, tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui 
+la compagnia si troverà ad operare.  
+Relazione con il benchmark 
+Nella scelta degli investimenti il comparto non si propone di replicare passivamente la composizione degli indici, ma selezionerà i titoli sulla base 
+di proprie valutazioni, pur tenendo in considerazione il benchmark di riferimento.  
+I diritti di voto sono esercitati secondo i seguenti criteri 
+Le eventuali decisioni relative all’esercizio del diritto di voto sono assunte sulla base di un’analisi dei costi e dei benef ici che tiene conto degli 
+obiettivi e della politica di investimento della linea; tali decisioni sono altresì prese nell’esclusivo interesse della linea medesima.  Il Fondo persegue 
+una politica di votazione attiva,  evitando al massimo l’astensione ; a tal fine, è stata adottata una Politica di impegno disponibile sul sito del 
+Fondo.    
+ 
+ 
+3.2 Comparto “Linea Conservativa” 
+Ripartizione strategica delle attività 
+Questo comparto è indicato per coloro per i quali è prevista una permanenza nel fondo di medio/lungo periodo per il raggiungi mento dell’età 
+pensionabile o comunque a tutti coloro che hanno una medio/alta propensione al rischio. Il profilo di rischio del co mparto tende ad attenuarsi 
+in caso di permanenza nel comparto corrispondente a quella indicata. La linea ha per obiettivo la rivalutazione del capitale investito nel 
+medio/lungo periodo con un medio/alto profilo di rischio. 
+Tutto il patrimonio del comparto è gestito secondo uno stile attivo. La scelta di una gestione attiva e motivata dalla capaci tà della gestione di 
+generare extra rendimenti rispetto ad una gestione passiva. La generazione di extra rendimenti della gestione attiva è motivata dal processo di 
+realizzazione delle scelte di investimento, che può essere declinata secondo l’ordine logico seguente:  
+a) Analisi di asset-liability management per la definizione della redditività minimale in linea con il profilo di rischio del Comparto; 
+b) Asset-allocation strategica di lungo periodo, coerente con l’orizzonte temporale del comparto; 
+c) Asset-allocation tattica di breve periodo per sfruttare le oscillazioni dei mercati; 
+d) Analisi del quadro normativo, al fine di assicurarsi che le scelte di cui ai precedenti punti siano sempre conformi alla legislazione corrente; 
+e) Attività di gestione del portafoglio propriamente detta e di scelta dei singoli titoli (per generare il cosiddetto “Alpha”), selezionando le 
+attività finanziarie in modo da creare un portafoglio in cui prevalgono le attività sottostimate dal mercato (quind i con un maggiore 
+potenziale di crescita) rispetto a quelle sovrastimate; 
+f) Market timing: aumentare o diminuire l'esposizione del portafoglio ai diversi mercati di riferimento sulla base di previsioni  
+sull'andamento futuro dei prezzi; 
+g) Controllo ex-post dei risultati e dei rischi del portafoglio.
+=== pagina 8 ===
+Documento sulla politica di investimento Novembre 2024 8 
+Indirizzi che si intendono conseguire per assicurare l'obiettivo stabilito  
+Il comparto persegue una strategia di investimento diretta ad assicurare una composizione del portafoglio diversificata fra t itoli di debito, la cui 
+vita residua sarà in funzione delle aspettative sull’andamento dei tassi di interesse. La duration media po trà oscillare di norma fra i 3 e i 6 anni. 
+Tali titoli saranno in prevalenza emessi dallo Stato Italiano, ma il comparto potrà comunque acquisire titoli obbligazionari di emittenti 
+prevalentemente pubblici (Stati Sovrani, Enti garantiti dagli stessi, Organ ismi internazionali), residualmente privati, sia italiani che esteri, 
+principalmente appartenenti all’area europea, anche denominati in valuta estera nei limiti sottoindicati. Gli investimenti in strumenti di emittenti 
+privati sono da intendersi a carattere residuale. Il comparto non investe più del 5% delle proprie disponibilità complessive in strumenti finanziari 
+emessi da uno stesso soggetto e non più del 10% in strumenti finanziari emessi da soggetti appartenenti ad un unico gruppo (n on rientrano in 
+questo limite gli O.I.C.R e i titoli di stato). Non sono previsti investimenti nei paesi emergenti. Le decisioni di investimento  e/o disinvestimento 
+vengono prese in accordo a quanto definito nella strategia della compagnia. Dette decisioni escludono meccanis mi automatici di impiego e/o 
+disimpiego degli attivi a fronte di eventi esterni di mercato (ad esempio, cambiamento di rating). 
+Al Comparto è associato un parametro oggettivo di riferimento, il cosiddetto benchmark. L’individuazione di tale benchmark non costituisc e 
+inoltre un indicatore di risultati attesi. Il benchmark scelto dall’Impresa ha la seguente composizione: 65% ICE BofA Euro Go vernment Index; 
+25% ICE BofA Global Government; 10% ICE BofA Euro Treasury Bill. Il benchmark è un indicatore che viene preso come riferiment o per la 
+valutazione dei risultati del fondo prescelto, e consente quindi una maggiore trasparenza tra l’Impresa e il contraente in merito all’andamento 
+del Comparto. 
+L’esposizione valutaria complessiva non potrà superare il 30% del patrimonio del comparto. Tale limite rappresenta la soglia massima alla quale 
+si attesteranno effettivamente gli investimenti in valuta estera. La politica di investimento della Compagnia non prevede la sistematica copertura 
+del rischio di cambio, così come l’utilizzo di strumenti derivati avrà carattere eccezionale e motivato da particolari esigen ze di copertura. Questo 
+comparto potrà detenere una parte del proprio patrimonio netto in dispon ibilità liquide, acquisire quote di O.I.C.R. (rientranti nell’ambito di 
+applicazione della Direttiva 2009/65/CE) e di Fondi chiusi, sempre in coerenza con i propri obiettivi. L’investimento in O.I. C.R. avrà carattere 
+prevalente nella fase di avviamento del  Fondo fino al raggiungimento di una massa critica idonea ad attuare una diversificazione 
+dell’investimento. 
+Stile gestionale 
+Criteri di selezione degli strumenti finanziari: la composizione del portafoglio è effettuata nel rispetto delle disposizioni  contenute nelle leggi e 
+decreti disciplinanti la materia e delle disposizioni emanate dagli Organi di vigilanza. La rotazione annu a degli asset avrà l’obiettivo di essere 
+contenuta entro 3 volte il patrimonio, tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui 
+la compagnia si troverà ad operare.  
+Relazione con il benchmark 
+Nella scelta degli investimenti il comparto non si propone di replicare passivamente la composizione degli indici, ma selezionerà i titoli sulla base 
+di proprie valutazioni, pur tenendo in considerazione il benchmark di riferimento.  
+ 
+I diritti di voto sono esercitati secondo i seguenti criteri:  
+Le eventuali decisioni relative all’esercizio del diritto di voto sono assunte sulla base di un’analisi dei costi e dei benef ici che tiene conto degli 
+obiettivi e della politica di investimento della linea; tali decisioni sono altresì prese nell’esclusivo interesse della linea medesima. Il Fondo persegue 
+una politica di votazione attiva,  evitando al massimo l’astensione ; a tal fine, è stata adottata una Politica di impegno disponibile sul sito del 
+Fondo.    
+ 
+ 
+3.3 Comparto “Linea Dinamica” 
+Ripartizione strategica delle attività 
+Questo comparto è indicato per coloro per i quali è prevista una permanenza nel fondo di medio/lungo periodo per il raggiungi mento dell’età 
+pensionabile o comunque a tutti coloro che hanno una medio/alta propensione al rischio. Il profilo di rischio del co mparto tende ad attenuarsi 
+in caso di permanenza nel comparto corrispondente a quella indicata. La linea ha per obiettivo la rivalutazione del capitale investito nel 
+medio/lungo periodo con un medio/alto profilo di rischio. 
+Tutto il patrimonio del comparto è gestito secondo uno stile attivo. La scelta di una gestione attiva e motivata dalla capaci tà della gestione di 
+generare extra rendimenti rispetto ad una gestione passiva. La generazione di extra rendimenti della gestione attiva è motivata dal processo di 
+realizzazione delle scelte di investimento, che può essere declinata secondo l’ordine logico seguente:
+=== pagina 9 ===
+Documento sulla politica di investimento Novembre 2024 9 
+a) Analisi di asset-liability management per la definizione della redditività minimale in linea con il profilo di rischio del Comparto; 
+b) Asset-allocation strategica di lungo periodo, coerente con l’orizzonte temporale del comparto; 
+c) Asset-allocation tattica di breve periodo per sfruttare le oscillazioni dei mercati; 
+d) Analisi del quadro normativo, al fine di assicurarsi che le scelte di cui ai precedenti punti siano sempre conformi alla legislazione corrente; 
+e) Attività di gestione del portafoglio propriamente detta e di scelta dei singoli titoli (per generare il cosiddetto “Alpha”), selezionando le 
+attività finanziarie in modo da creare un portafoglio in cui prevalgono le attività sottostimate dal mercato (quind i con un maggiore 
+potenziale di crescita) rispetto a quelle sovrastimate; 
+f) Market timing: aumentare o diminuire l'esposizione del portafoglio ai diversi mercati di riferimento sulla base di previsioni  
+sull'andamento futuro dei prezzi; 
+g) Controllo ex-post dei risultati e dei rischi del portafoglio. 
+ 
+Indirizzi che si intendono conseguire per assicurare l'obiettivo stabilito  
+Il comparto persegue una strategia di investimento diretta ad assicurare una composizione del  portafoglio diversificata tra titoli di debito, la cui 
+vita residua sarà in funzione delle aspettative sull’andamento dei tassi di interesse e titoli di capitale, quotati e non, co n prevalenza dei titoli di 
+capitale. I titoli di debito saranno in prevalenz a selezionati fra quelli emessi dallo Stato Italiano, ma il comparto potrà comunque acquisire titoli 
+obbligazionari di emittenti prevalentemente pubblici (Stati sovrani, Enti garantiti dagli stessi, Organismi internazionali), residualmente privati, sia 
+italiani che esteri, principalmente appartenenti all’area europea, anche denominati in valuta estera. Gli investimenti in str umenti di emittenti 
+privati sono da intendersi a carattere residuale. Il comparto non investe più del 5% delle proprie disponibilità complessive in strumenti finanziari 
+emessi da uno stesso soggetto e non più del 10% in strumenti finanziari emessi da soggetti appartenenti ad un unico gruppo (n on rientrano in 
+questo limite gli O.I.C.R e i titoli di stato). Un eventuale investimento nei Paesi emergenti potrà avere solo carattere resi duale. Le decisioni di 
+investimento e/o disinvestimento vengono prese in accordo a quanto definito nella strategia de lla compagnia. Dette decisioni escludono 
+meccanismi automatici di impiego e/o disimpiego degli attivi a fronte di eventi esterni di mercato (ad esempio, cambiamento d i rating). 
+Al Comparto è associato un parametro oggettivo di riferimento, il cosiddetto benchmark. L’individuazione di tale benchmark non costituisce 
+inoltre un indicatore di risultati attesi. Il benchmark scelto dall’Impresa ha la seguente composizione: 50% Solactive GBS Developed Markets 
+Eurozone Large & Mid Cap Index NTR; 15% Solactive GBS Developed Markets Large & Mid Cap EUR Index NTR; 30% ICE BofA Euro Government 
+Index; 5% ICE BofA Global Government. Il benchmark è un indicatore che viene preso come riferimento per la valutazione dei risultati del fondo 
+prescelto, e consente quindi una maggiore trasparenza tra l’Impresa e il contraente in meri to all’andamento del Comparto. 
+ 
+ L’investimento in titoli di capitale, compreso fra il 50 e il 90% del patrimonio complessivo del comparto, si attesterà mediamente intorno al 60-
+70%, privilegiando gli investimenti in titoli azionari europei quotati, appartenenti all’area della moneta eur o. Il patrimonio del comparto è 
+investito in valori mobiliari denominati sia nella moneta di conto di corso legale in Italia, sia in valuta estera; in quest’ ultimo caso i titoli 
+obbligazionari ed azionari denominati in valuta estera potranno arrivare fino a un massimo complessivamente pari al 30% dell’attivo del 
+comparto. Tale limite rappresenta la soglia alla quale si attesteranno effettivamente gli investimenti in valuta estera. La p olitica di investimento 
+della Compagnia non prevede la sistematica copertura del rischio di cambio, così come l’utilizzo di strumenti derivati avrà carattere eccezionale 
+e motivato da particolari esigenze di copertura. Questa linea potrà detenere una parte del proprio patrimonio netto in dispon ibilità liquide, 
+acquisire quote di O.I.C.R. (rientranti nell’ambito di applicazione della direttiva 2009/65/CE) e di Fondi chiusi, sempre in coerenza con i pr opri 
+obiettivi. L’investimento in O.I.C.R. avrà carattere prevalente nella fase di avviamento del fondo fino al raggiungimento di una massa critica 
+idonea ad attuare una diversificazione dell’investimento. 
+Stile gestionale 
+Criteri di selezione degli strumenti finanziari: la composizione del portafoglio è effettuata nel rispetto delle disposizioni  contenute nelle leggi e 
+decreti disciplinanti la materia e delle disposizioni emanate dagli Organi di vigilanza. La composizione d el portafoglio è basata, per la parte 
+obbligazionaria, sull’analisi del rischio Paese per quanto concerne la selezione dei titoli di emittenti governativi e del rischio di credito per quanto 
+riguarda gli emittenti privati. Per la parte azionaria la composi zione del portafoglio è basata sulla selezione del singolo titolo rispetto al settore 
+con prevalenza di titoli a capitalizzazione media o medio -alta. In particolare, gli investimenti in azioni estere terranno conto anche del quadro 
+macroeconomico internazionale, delle sue probabili evoluzioni nonché dei fattori di rischio in esse impliciti. La rotazione annua degli asset avrà 
+l’obiettivo di essere contenuta entro 3 volte il patrimonio, tale obiettivo rimarrà comunque suscettibile di variazioni in di pendenza di particolari 
+fasi di mercato in cui la compagnia si troverà ad operare. 
+Relazione con il benchmark 
+Nella scelta degli investimenti il comparto non si propone di replicare passivamente la composizione degli indici, ma selezionerà i titoli sulla base 
+di proprie valutazioni, pur tenendo in considerazione il benchmark di riferimento.
+=== pagina 10 ===
+Documento sulla politica di investimento Novembre 2024 10 
+I diritti di voto sono esercitati secondo i seguenti criteri  
+Le eventuali decisioni relative all’esercizio del diritto di voto sono assunte sulla base di un’analisi dei costi e dei benef ici che tiene conto degli 
+obiettivi e della politica di investimento della linea; tali decisioni sono altresì prese nell’esclusivo interesse della linea medesima.  Il Fondo persegue 
+una politica di votazione attiva,  evitando al massimo l’astensione ; a tal fine, è stata adottata una Politica di impegno disponibile sul sito del 
+Fondo.    
+ 
+3.4 Rischi di investimento 
+Rischi generali 
+I rendimenti passati non sono indicativi di quelli futuri. Il valore degli investimenti e il reddito da essi generato possono aumentare o diminuire e 
+gli aderenti al fondo potrebbero non recuperare l’importo inizialmente investito. Quando la Valuta di un C omparto è diversa dalla valuta del 
+paese del fondo pensione oppure dalle divise dei mercati nei quali il Comparto effettua i suoi investimenti, il fondo potrebb e subire perdite 
+aggiuntive (o conseguire guadagni aggiuntivi) superiori ai normali rischi d’inv estimento. 
+Rischio connesso all’obiettivo d’investimento 
+Gli obiettivi d’investimento esprimono un risultato auspicato, ma non vi sono garanzie che detto risultato sia conseguito. Su lla base delle 
+condizioni di mercato e del contesto macroeconomico, gli obiettivi di investimento possono rivelarsi più difficili, se non addirittura impossibili da 
+raggiungere. Non vi sono garanzie implicite o esplicite in relazione alla probabilità che un Comparto consegua l’obiettivo d’ investimento. 
+Rischio di tasso d’interesse 
+Il valore delle obbligazioni e degli altri strumenti di debito può aumentare o diminuire in funzione delle oscillazioni dei t assi d’interesse. Un calo 
+dei tassi d’interesse di norma comporta un aumento del valore degli strumenti debitori esistenti, mentre un aumento dei tassi d’interesse ne 
+riduce il valore. Il rischio di tasso d’interesse è generalmente maggiore per investimenti a lunga duration o scadenza. Alcun i investimenti 
+conferiscono all’emittente la facoltà di vendere o rimborsare un investimento pr ima della data di scadenza. Qualora un emittente venda o 
+rimborsi un investimento in una fase di calo dei tassi d’interesse, il Comparto potrebbe dover reinvestire i proventi in inve stimenti che offrono 
+rendimenti inferiori e pertanto potrebbe non beneficiare di un eventuale incremento del valore derivante dalla diminuzione dei tassi d’interesse. 
+La capacità, effettiva o percepita, dell’emittente di un titolo di debito di effettuare tempestivamente i pagamenti degli int eressi e della quota 
+capitale influirà  sul valore dello strumento. È possibile che, nel periodo in cui un Comparto detiene titoli di tale emittente, la capacità 
+dell’emittente di adempiere ai propri obblighi subisca un considerevole calo o che l’emittente risulti insolvente. Un deterio ramento effettivo o 
+percepito della capacità di un emittente di adempiere ai propri obblighi avrà verosimilmente un’incidenza negativa sul valore  dei suoi titoli. 
+Rischio di credito  
+Qualora a un titolo sia stato attribuito un rating da più agenzie di rating riconosciute a livello nazionale, il Gestore degli investimenti del Comparto 
+prenderà in considerazione il più elevato tra i rating al fine di stabilire se il titolo è di tipo inve stment grade. Un Comparto non procederà 
+necessariamente alla vendita di un titolo in portafoglio se il rating di quest’ultimo scende al di sotto di investment grade, tuttavia il Gestore degli 
+investimenti del Comparto valuterà se il titolo continua ad essere un investimento idoneo per il Comparto. Il Gestore degli investimenti di ciascun 
+Comparto verifica che un titolo sia classificato come investment grade unicamente al momento dell’acquisto. Di norma il risch io di credito è 
+maggiore per investimenti emessi a un prezzo inferiore al loro valore nominale e che effettuano pagamenti di interessi unicamente alla scadenza, 
+anziché a intervalli regolari durante la vita dell’investimento. Le agenzie di rating basano i loro giudizi in larga misura s ulla situazione finanziaria 
+passata dell’emittente e sulle proprie analisi di investimento al momento dell’attribuzione del rating. Il rating assegnato a  un particolare 
+investimento non riflette necessariamente la situazione finanziaria dell’emittente in quel momento né ra ppresenta un giudizio sulla volatilità e 
+sulla liquidità dell’investimento. Sebbene in genere i titoli investment grade presentino un rischio di credito più basso ris petto agli investimenti 
+con rating inferiore a investment grade, essi possono condividere con questi ultimi alcuni rischi, inclusa la possibilità che l’emittente non sia in 
+grado di effettuare tempestivamente i pagamenti degli interessi e della quota capitale e che si riveli, di conseguenza, insol vente. Tutto ciò 
+premesso, si precisa che le decisioni di investimento/disinvestimento escludono meccanismi automatici di impiego/disimpiego degli attivi a fronte 
+di trigger esterni di mercato (es. cambiamenti di rating di credito). 
+Rischio di controparte 
+La Società effettua operazioni tramite o con intermediari, stanze di compensazione, controparti di mercato e altri operatori. La Società è soggetta 
+al rischio che una controparte non sia in grado di adempiere ai propri obblighi a causa di insolvenza, falli mento o per altre ragioni. 
+Un Comparto potrà investire in strumenti, la cui performance è collegata a un mercato o a un investimento al quale il Comparto intende assumere 
+un’esposizione. Tali strumenti sono emessi da diverse controparti e mediante tali investimenti il Comparto sarà esposto al rischio di controparte 
+dell’emittente, che si somma all’esposizione d’investimento che il Comparto intende assumere.  
+Rischio di deposito
+=== pagina 11 ===
+Documento sulla politica di investimento Novembre 2024 11 
+Le attività della Società sono custodite dalla Banca depositaria e gli Investitori sono esposti al rischio che, in caso di fallimento, la Banca depositaria 
+non sia in grado di adempiere al suo obbligo di restituire alla Società la totalità delle attività i n un breve lasso di tempo. Nei libri contabili della 
+Banca depositaria le attività della Società saranno identificate come appartenenti a quest’ultima. I titoli detenuti dalla Banca depositaria saranno 
+separati dalle attività di proprietà di quest’ultima; ciò attenua ma non esclude il rischio di mancata restituzione in caso di fallimento. Tuttavia, 
+tale separazione non si applica alla liquidità, il che aumenta il rischio di mancata restituzione in caso di fallimento. La B anca depositaria non 
+custodisce la totalità del patrimonio della Società, ma utilizza una rete di sub depositari non appartenenti al suo stesso gruppo. Gli inves titori 
+sono esposti al rischio di fallimento dei sub depositari nella stessa misura in cui lo sono al rischio di fallimento della B anca depositaria. Un 
+Comparto potrà investire in mercati in cui i sistemi di deposito e/o di regolamento non siano pienamente sviluppati. Le attiv ità del Comparto 
+negoziate in tali mercati e affidate a tali sub depositari potranno essere esposte a rischi in circostanze nelle quali alla Banca depositaria non sarà 
+attribuibile alcuna responsabilità. 
+Rischio di sostenibilità : un evento o una condizione di tipo ambientale, sociale o di governance che, se si verifica, potrebbe provocare un 
+significativo impatto negativo effettivo o potenziale sul valore dell’investimento.  
+ 
+ 
+ 
+4. Soggetti coinvolti nel processo, loro compiti e 
+responsabilità 
+ 
+ 
+I processi e l’organizzazione aziendale prevedono una separazione di ruoli e responsabilità tra le funzioni di Governance  della Compagnia, le 
+funzioni deputate a gestire il l’operatività del Fondo e la funzione incaricata di gestire gli investimenti degli attivi patrimoniali della Compagnia.  
+Ruoli e responsabilità dei soggetti coinvolti nel processo di investimento sono descritti nel “Documento sul Sistema di Governo Societario dei 
+Fondi Pensione Aperti”, disponibile sul sito istituzionale. 
+ 
+ 
+5. Sistema di controllo della gestione finanziaria 
+Il fondo pensione adotta processi e strategie di investimento adeguati alle proprie caratteristiche e per i quali sia in grad o di istituire, applicare e 
+mantenere congruenti politiche e procedure di monitoraggio, gestione e controllo del rischio  inerente agli investimenti , come descritto nel 
+“Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti. 
+Se non stabilito diversamente dal Consiglio di Amministrazione, l’attività di gestione dei portafogli è svolta sotto la respo nsabilità del Chief 
+Investment Officer (CIO), che coordina il team Investment Management, suddiviso in diversi Team.  
+I controlli, sia ex-ante sia ex-post, svolti dalla Funzione Investment Management, sono controlli di primo livello.  
+Trimestralmente, per ciascun comparto vengono calcolate le performance, le duration dei portafogli e dei benchmark, lo Sharpe  Ratio per i 
+portafogli e il benchmark, la Tracking Error Volatility e l’Information Ratio; viene effettuata la performance attribution rispetto ai principali fattori 
+che hanno contribuito a generare il risultato della gestione. Annualmente, viene calcolato l’indice di rotazione del portafoglio.  
+Con riferimento ai controlli della gestione degli investimenti:  
+- i controlli ex-ante sull’operatività dei gestori sono impostati direttamente nel tool di trading e sono volti a verificare il rispetto delle  deleghe 
+di gestione (limiti sull’operatività giornaliera per tipologia di titoli e rispetto dei limiti sulla singol a operazione attraverso un sistema di 
+autorizzazioni – four eyes principle) e i limiti operativi sulle asset class (limiti di rating, limiti di concentrazione per emittente, ecc.) fissati dal 
+Consiglio di Amministrazione della Compagnia.  
+- i controlli ex post verificano i volumi di trading per singolo broker e singola asset class e che siano rispettati i limiti s ulle asset class anche a 
+seguito dei movimenti di mercato (breach passivi). 
+- ci sono linee guida e controlli per la Best Execution delle operazioni di trading.  
+- vengono effettuati controlli per garantire il settlement corretto di ogni transazione effettuata sul mercato da parte di Inve stment 
+Management.  
+- i controlli sulla corretta valorizzazione del portafoglio di investimento seguono una procedura interna per l’attribuzione de i prezzi degli 
+strumenti finanziari in portafoglio.  
+- la banca depositaria è in contatto con Investment Management per il corretto funzionamento delle procedure di valorizzazione del 
+portafoglio e la corretta amministrazione del processo di regolamento delle transazioni titoli.
+=== pagina 12 ===
+Documento sulla politica di investimento Novembre 2024 12 
+Il CIO viene tempestivamente informato di eventuali violazioni dei limiti, al fine di poter attuare le azioni necessarie. I risultati della gestione degli 
+investimenti e le evidenze dei controlli sono presentati e discussi trimestralmente in ALMIC.  
+Il dettaglio dei controlli, le modalità di verifica, le tempistiche e la procedura di gestione di eventuali breach sono descritti in documenti e manuali 
+interni di Investment Management.  Per l’attività di controllo si utilizzano i sistemi informativi in uso a Investment Management dai quali vengono 
+estratte le informazioni e i dati utili alle verifiche e alla predisposizione della reportistica destinata ai soggetti coinvolti, a vario titolo, nella gestione 
+del Fondo Pensione.   
+ 
+ 
+6. Revisione e trasmissione documento  
+Il documento è riesaminato almeno ogni tre anni, previa verifica delle funzioni di controllo della forma pensionistica, nonché in modo tempestivo 
+dopo qualsiasi mutamento rilevante della politica di investimento . I fattori considerati ai fini dell’eventuale modifica sono riportati in apposita 
+deliberazione del Consiglio di Amministrazione della Compagnia.  
+Il Documento è trasmesso, in sede di prima definizione e, in seguito, in occasione di ogni sua modifica: 
+– al responsabile della forma pensionistica; 
+– ai soggetti incaricati della gestione finanziaria e alla banca depositaria; 
+– alla COVIP, entro venti giorni dalla sua formalizzazione. 
+Il Documento è pubblicato sul sito internet della Compagnia e reso disponibile per gli aderenti, i beneficiari e i loro rappresentanti che ne facciano 
+richiesta per iscritto, a mezzo posta elettronica o posta ordinaria, ai seguenti indirizzi:  
+Zurich Investments Life S.p.A. con Sede legale a Milano - Italia - Via Benigno Crespi n. 23, Cap 20159. 
+Recapito telefonico +39 025966.1 - Sito Internet: www.zurich.it 
+E-mail: customerlife@it.zurich.com  
+ 
+ 
+7. Modifiche apportate nell’ultimo triennio 
+ 
+Data Descrizione e causale della modifica 
+03/2023 - Allineamento riferimenti normativi interni ed esterni alla Politica di Investimento della Compagnia, 
+con particolare riferimento alle tematiche di sostenibilità 
+- Revisione dei dati quantitativi  
+- Modificato il riferimento alla Politica di integrazione dei rischi di sostenibilità nei processi decisionali 
+relativi agli investimenti, adottata ai sensi del Regolamento UE 2019/2088 in quanto incorporata 
+all’interno della Politica di Investimento della Compagnia 
+ 
+10/2024 Allineato Documento ai nuovi Benchmark dei Fondi 
+ 
+ 
+ 
+ 
+Data Documento 20 Novembre 2024 
+Approvato da:  Consiglio di Amministrazione  
+Ufficio Referente:  Investment Management 
+Prossima revisione:   Novembre 2027 
+Versione corrente: 2.2 Novembre 2024

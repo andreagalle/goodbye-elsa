@@ -1,0 +1,374 @@
+# Fondo: FONDO PENSIONE APERTO ZURICH CONTRIBUTION (zurich-contribution)
+# Documento: Documento sul sistema di governo – documento sul sistema di governo societario dei fondi pensione aperti 2023
+# Fonte: https://edge.sitecorecloud.io/zurichinsurf8c0-zwpshared-prod-d824/media/project/zurich-headless/italy/files/fondi-aperti/documento-sul-sistema-di-governo-societario-dei-fondi-pensione-aperti_2023.pdf
+# Citato in: https://www.zurich.it/persone/risparmio-e-investimento/previdenza/zurich-contribution
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 08a0dbad4a5316dd4a4bc69b42d85df6bec9822217dc621399ed6187a730358a
+# Pagine: 9
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul Sistema 
+di Governo Societario 
+dei Fondi Pensione 
+Aperti 
+ 
+Zurich Investments Life S.p.A  
+ 
+Fondo Pensione Aperto Zurich Contribution 
+(albo Covip fondi pensione n. 37) 
+Zed Omnifund - Fondo Pensione Aperto 
+(albo Covip fondi pensione n.39)
+=== pagina 2 ===
+2 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+ 
+1. Introduzione  
+Il presente d ocumento è adottato dalla Società Zurich Investments Life S.p.A. (di seguito 
+“Società” o “Compagnia”) ai sensi dell’art. 4 bis del Decreto Legislativo 5 dicembre 2005, n. 252 
+(“Requisiti generali in materia di sistema di governo” ), con riferimento ai fondi pensione aperti 
+denominati “Fondo pensione aperto Zurich Contribution” e “Zed Omnifund - Fondo Pensione 
+Aperto”.  
+Il sistema di governo della Società - per i profili relativi alla gestione dei fondi pensione aperti - 
+risponde alla prioritaria esigenza di tutela degli aderenti e dei beneficiari dei fondi stessi e di 
+salvaguardia della piena separazione patrimoniale tra il patrimonio di ciascun fondo pensione 
+aperto e il patrimonio della Società e degli altri clienti. 
+In tale ottica, assicura l’efficacia dei processi interni e di quelli esternalizzati, l’ individuazione e 
+gestione dei rischi, nonché la qualità dei dati e delle informazioni inerenti ai profili gestionali dei 
+fondi pensione aperti e lo svolgimento delle attività nel rispetto dei criteri di sana e prudente 
+gestione. 
+Le procedure operative definiscono ruoli e responsabilità tra i soggetti che sono coinvolti nella 
+operatività dei fondi pensione aperti. Il sistema assicura  la circolazione delle informazioni 
+rilevanti tra tutti i soggetti , nonché la segnalazione delle eventuali violazioni riscontrate al 
+soggetto o organo competente ad attivare le misure correttive. Le procedure interne sono 
+strutturate in modo da garantire che le segnalazioni vengano esaminate e valutate.  
+Il sistema di controllo interno adottato costituisce un presidio per garantire il rispetto delle 
+regole, la funzionalità del sistema gestionale e la diffusione di valori di corretta amministrazione 
+e legalità. Per ulteriori dettagli in merito  si rimanda al capitolo 3 “
+”.  
+Tale sistema prevede un insieme organizzato di procedure di verifica dell’operatività dei fondi 
+pensione aperti e complessivamente assicura la verifica di conformità della gestione dei fondi 
+in oggetto rispetto alla normativa nazionale e dell’Unione Europea, sia essa primaria o 
+secondaria, nonché la rispondenza alle previsioni stabilite dai regolamenti e dalle procedure 
+operative. 
+Il piano di emergenza per i fondi pensione aperti è compreso in quello di cui la Società è dotata. 
+Il presente Documento, in particolare, ha per oggetto: 
+ l’organizzazione della Società rilevante per i profili gestionali inerenti ai fondi pensione 
+aperti, ivi incluse le funzioni e/o attivit à che risultano esternalizzate, con evidenza dei 
+compiti e delle responsabilità dei soggetti, organi e strutture della Società coinvolti nel 
+processo di investimento del patrimonio separato dei fondi pensione aperti; 
+ una descrizione dell’organizzazione dei controlli interni rilevanti per i fondi pensione 
+aperti e del sistema di gestione dei rischi rilevante per i fondi pensione aperti; 
+ una descrizione dei flussi informativi tra la Società e il Responsabile dei fondi pensione 
+aperti e viceversa e le informazioni essenziali relative alla politica di remunerazione del 
+Responsabile dei fondi pensione aperti e dei titolari delle funzioni fondamentali.
+=== pagina 3 ===
+3 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+Il presente documento, approvato dal Consiglio di Amministrazione e rivisto almeno 
+annualmente, è pubblicato sul sito web dei fondi pensione aperti unitamente al rendiconto.  
+ 
+2. Organizzazione della S ocietà rilevante per i profili gestionali 
+inerenti ai fondi pensione aperti – Attività esternalizzate –  
+Compiti e responsabilità dei soggetti coinvolti nel processo di 
+investimento 
+I fondi pensione aperti sono costituiti nell’ambito della Società attraverso la formazione, con 
+apposita delibera, di un patrimonio di destinazione, separato ed autonomo, con gli effetti di cui 
+all’articolo 2117 del codice civile.  
+Agli Organi e alle funzioni contemplati dal sistema di governo adottato dalla Società sono, 
+quindi, attribuiti anche i poteri e le responsabilità relativi alla gestione dei fondi pensione aperti. 
+Ai sensi del regolamento IVASS n° 38  del 2018, la C ompagnia si è dotata di un sistema di 
+governo societario “rafforzato”, definendo ruoli, responsabilità e relazioni tra gli organi deputati 
+alla gestione e al controllo. I soggetti protagonisti del sistema di governo societario sono 
+l’Assemblea dei Soci,  il Consiglio di Amministrazione, il Comitato per il Controllo Interno e i 
+Rischi, il Comitato Remunerazioni, l’Alta Direzione, il Personale Rilevante, il Comitato di 
+Gestione, il Collegio Sindacale e gli ulteriori organi preposti a funzioni di controllo.  
+L’attività di revisione legale dei conti è svolta dalla società di revisione (organo esterno). 
+L’amministrazione della Società è affidata al Consiglio di Amministrazione, titolare dei più ampi 
+poteri di amministrazione ordinaria e straordinaria per l’attuazione e il raggiungimento degli 
+scopi sociali, esclusi quelli che la legge e lo Statuto riservano all’Assemblea dei Soci.  
+Il Consiglio di Amministrazione ha istituito al suo interno due comitati – Comitato per il Controllo 
+Interno e i Rischi ed il Comitato Remunerazioni – con funzioni propositive e consultive a 
+beneficio del Consiglio stesso.  
+Ai sensi di quanto previsto dal Codice Civile, dalle disposizioni statutarie e dal Regolamento 
+IVASS n. 38, il Collegio Sindacale vigila sull’osservanza della legge e dello Statuto, sul rispetto 
+dei principi di corretta amministrazione e, in particolare, sull’adeguatezza dell’assetto 
+organizzativo, amministrativo e contabile adottato dalla Società  e sul suo concreto 
+funzionamento. Inoltre, valuta l’efficienza e l’efficacia del sistema di governo societario della 
+stessa. 
+Il Consiglio di Amministrazione della Società ha istituito, in conformità alla normativa di settore 
+e mediante specifica delibera, le funzioni fondamentali di revisione interna (Internal Audit), 
+gestione dei rischi (Risk Management), verifica della conformità alle norme (Compliance) e 
+Attuariale, definendone responsabilità, compiti, e modalità operative anche mediante 
+l’approvazione di apposite politiche soggette a revisione almeno annuale. I piani di attività delle 
+funzioni fondamentali sono sottoposti all’approvazione del Consiglio di Amministrazione con 
+cadenza annuale. 
+La titolarità delle quattro funzioni fondamentali è assegnata a distinti soggetti, non appartenenti 
+al Consiglio di Amministrazione. Il titolare di ciascuna funzione fondamentale della Società è 
+nominato e revocato dal Consiglio di Amministrazione e soddisfa nel continuo i requisiti di 
+idoneità alla carica fissati dalla politica in materia di requisiti di onorabilità, professionalità e 
+indipendenza adottata dalla Società.
+=== pagina 4 ===
+4 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+Secondo le stesse modalità è istituita altresì la funzione Antiriciclaggio. 
+Nella declaratoria dei compiti assegnati ai titolari della funzione di Revisione Interna e di 
+Gestione dei Rischi è fatto esplicito riferimento alla circostanza che tali compiti sono svolti 
+anche con riguardo ai fondi pensione aperti gestiti dalla Società. 
+I titolari della funzione di Revisione Interna e di Gestione dei Rischi comunicano le risultanze e 
+le raccomandazioni rilevanti nel proprio ambito di responsabilità, anche per quanto riguarda i 
+fondi pensione aperti, al Consiglio di Amministrazione e al Responsabile dei fondi pensione 
+aperti. 
+Sono altresì tenuti a comunicare alla COVIP le situazioni problematiche riscontrate nello 
+svolgimento della propria attività, per quanto attiene ai fondi pensione aperti, qualora le stesse 
+non abbiano trovato soluzione all’interno della Società.  
+La revisione legale dei conti è esercitata da una società di revisione, iscritta nell’apposito 
+registro; la società di revisione è incaricata anche della revisione contabile del rendiconto dei 
+fondi pensione aperti.  
+È inoltre presente un Organismo di Vigilanza, istituito ai sensi del Decreto Legislativo 8 giugno 
+2001, n. 231, e nominato dal Consiglio di Amministrazione. 
+La Società nomina, ai sensi del comma 2 dell’art. 5 del Decreto legislativo 5 Dicembre 2005 n. 
+252, anche il Responsabile di ciascun fondo pensione aperto. 
+Il Responsabile svolge la propria attività in modo autonomo e indipendente, riportando 
+direttamente all’organo amministrativo della Società relativamente ai risultati dell’attività svolta. 
+La Società ha istituito all’interno della Direzione Life Technical Function un’unità organizzativa 
+responsabile delle operations dei fondi pensione. Con particolare riferimento ai Fondi Pensione 
+Aperti è responsabile delle attività di raccolta delle adesioni, della gestione a mministrativa e 
+delle liquidazioni, avvalendosi anche del supporto dei servizi informatici e amministrativi offerti 
+da una società specializzata nella gestione di forme previdenziali. 
+La funzione organizzativa responsabile delle operations dei fondi pensione, inoltre, gestisce i 
+rapporti con il Responsabile dei fondi pensione aperti. 
+La Società ha scelto di esternalizzare, nel rispetto della disciplina in essere, alcune attività dei 
+fondi pensione aperti relative alla gestione di servizi informatici e amministrativi. 
+L’esternalizzazione non esonera in ogni caso gli organi del fondo dalle rispettive responsabilità. 
+L’esternalizzazione non produce effetti negativi sull’attività di vigilanza della COVIP e sulla 
+qualità dei servizi resi agli aderenti e beneficiari dei fondi pensione aperti. 
+Il fornitore del servizio è tenuto a cooperare con la COVIP in relazione alla funzione o all’attività 
+esternalizzata; la Società e la COVIP hanno accesso ai dati relativi alle attività esternalizzate. 
+Il titolare della funzione di revisione interna della Società può svolgere attività di controllo (audit) 
+sull’attività del fornitore di servizi ed è legittimato ad accedere ai suoi locali. 
+In particolare, al fornitore esterno identificato sono affidati i seguenti servizi: 
+ gestione amministrativa della fase di accumulo e di quella di erogazione delle prestazioni 
+(fatta salva la fase di istruttoria delle pratiche di liquidazione e l’erogazione delle rendite 
+che sono gestite direttamente dalla Società);
+=== pagina 5 ===
+5 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+ servizi relativi al sito web (area riservata); 
+ attività relativa alla valorizzazione del patrimonio degli aderenti, la relativa 
+predisposizione delle comunicazioni verso gli stessi e la predisposizione delle 
+segnalazioni statistiche e di vigilanza a COVIP. 
+La scelta di esternalizzazione di suddette attività è stata effettuata a motivo delle competenze 
+e tecnologie specialistiche richieste allo scopo. 
+ 
+2.1. Compiti e responsabilità dei soggetti coinvolti nel processo di investimento 
+Consiglio di Amministrazione  
+Il Consiglio di Amministrazione definisce e adotta le politiche in materia di investimenti, ALM e 
+gestione del rischio di liquidità, ed è costantemente aggiornato sullo stato degli investimenti, 
+anche con riferimento al livello di rischio e performance conseguita. Ai sensi della politica degli 
+investimenti di ZIL in vigore, l’Amministratore Delegato è responsabile, sulla base delle direttive 
+impartite dal Consiglio di Amministrazione, dell’attuazione, del mantenimento e del 
+monitoraggio delle politiche connesse alla gestione degli investimenti.  
+ALMIC 
+L’Asset Liability Management e Investments Committee (ALMIC)  ha l’obiettivo di elaborare 
+proposte e fornire soluzioni su tematiche inerenti alla gestione degli investimenti finanziari, 
+anche in considerazione d el profilo delle passività. Inoltre, verifica il rispetto delle linee guida 
+della politica di investimento, l’avvenuta applicazione da parte della funzione di Investment 
+Management delle istruzioni ricevute dai precedenti comitati e dal CdA. 
+Responsabile dei fondi pensioni aperti 
+Il Responsabile dei fondi pensione aperti vigila sull’osservanza della normativa e del 
+Regolamento del Fondo nonché sul rispetto delle buone pratiche e dei principi di corretta 
+amministrazione del Fondo nell’esclusivo interesse degli aderenti; vigila, inoltre, sulla gestione 
+finanziaria del Fondo, sia con riferimento ai controlli sulle politiche di investimento che sulla 
+gestione e il monitoraggio dei rischi. 
+Funzione Investment Management (IM) 
+La funzione Investment Management investe professionalmente le somme versate (contributi) 
+nell’esclusivo interesse degli aderenti e secondo le opzioni di investimento previste dal Fondo. 
+L’attività di gestione dei portafogli (cosiddetto “asset management”) è svolta sotto la 
+responsabilità del Chief Investment Officer. 
+La funzione Investment Management ha il compito di calcolare il Net Asset Value (NAV) per 
+ciascun comparto del Fondo Pensione Aperto ed è responsabile dei controlli ex -post sui 
+risultati degli investimenti e sul rispetto dei limiti di investimento. 
+I controlli sul rispetto dei limiti sono svolti sulla base di quanto previsto dalle procedure interne, 
+al fine di monitorare il rispetto dei limiti. I controlli sui risultati e sul rispetto dei limiti sono discussi 
+all’interno di Investment Management sulla base della cadenza descritta dalle procedure 
+interne. Tali risultati sono aggregati, rielaborati e condivisi con il comitato ALMIC.
+=== pagina 6 ===
+6 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+ 
+3. Politica relativa al sistema di controllo interno 
+Il sistema di controllo interno della Compagnia vede la sua piena applicazione anche con 
+riferimento ai Fondi Pensione Aperti gestiti dalla Compagnia; questo è composto da diverse 
+funzioni articolate su tre livelli allo scopo di garantire che i rischi siano identificati e gestiti in modo 
+adeguato, ed i controlli interni in essere operino in modo efficace. 
+Questo modello, noto come “Modello delle 3 linee di difesa“, rappresenta uno dei pilastri 
+dell’approccio di gestione dei rischi aziendali, e garantisce sia l’opportuna allocazione di ruoli e 
+responsabilità tra responsabili di processo e funzioni di controllo, sia la necessaria indipendenza 
+per le funzioni di secondo e terzo livello. 
+Nello specifico, coerentemente con il D. Lgs. 252/2005, le funzioni fondamentali istituite per i 
+fondi pensione aperti sono la funzione di gestione dei rischi e la funzione di revisione interna. 
+Controlli di primo livello 
+La prima linea di difesa è rappresentata dal "Business Management", all’interno del quale sono 
+identificati i “Process Owners”. 
+I Process owners sono responsabili dei processi, sistemi, prodotti e del personale della 
+Compagnia, di conseguenza, il Sistema di controllo a tre livelli descritto sopra assegna in primis 
+a loro la responsabilità per la gestione del rischio derivante da essi. 
+La responsabilità per la gestione del rischio implica il duplice aspetto di: 
+ Svolgere attività che creano esposizione al rischio (“assunzione del rischio”), e 
+ Prendere decisioni e intraprendere azioni volte a garantire che tale esposizione al rischio 
+rientri nei limiti di tolleranza del rischio della Compagnia (“gestione dei rischi” in senso 
+stretto). 
+Questo duplice aspetto di “assumere rischi” e “gestire i rischi” può essere definito come "Risk 
+Ownership". 
+Il Risk owner assume rischi nelle normali attività di conduzione del business, e gestisce i rischi 
+derivanti da tali attività di business attraverso opportuni controlli progettati e implementati allo 
+scopo di contenere la probabilità o l’impatto potenziale di una perdita inattesa all’interno della 
+tolleranza al rischio della Compagnia. 
+Controlli di secondo livello  
+La seconda linea di difesa, caratterizzata dalla sua indipendenza rispetto al Business ha il 
+compito di supportare la prima linea attraverso:  
+ Lo sviluppo di un framework e di strumenti che aiutino i business owners ad identificare, 
+valutare e monitorare i rischi;  
+ Una consulenza specializzata al fine di supportare una migliore comprensione dei rischi 
+e lo sviluppo di opportuni controlli;  
+ L’analisi e la valutazione indipendente dei rischi e dei relativi controlli.  
+Controlli di terzo livello  
+La terza linea di difesa fornisce assurance indipendente sull’adeguatezza ed effettiva operatività 
+del Sistema di Controllo Interno. Nello specifico, valuta completezza, adeguatezza, funzionalità e 
+affidabilità del sistema dei controlli interni.
+=== pagina 7 ===
+7 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+4. Modello organizzativo della Funzione di Gestione dei Rischi 
+La Funzione di Risk Management dei Fondi Pensione Aperti gestiti dalla Compagnia è esplicata 
+dalla corrispondente funzione istituita presso la Compagnia, in linea con quanto disciplinato dal 
+Decreto Legislativo n.252/2005 e dalle Istruzioni COVIP di vigilanza per le società che 
+gestiscono fondi pensione aperti, adottate ai sensi de ll’art. 5 -decies, comma 1, del Decreto 
+legislativo 5 dicembre 2005, n. 252.  
+Il titolare della funzione è nominato e revocato dall’organo amministrativo, e soddisfa nel 
+continuo i requisiti di idoneità alla carica fissati dalla politica per l’identificazione e la valutazione 
+del possesso dei requisiti di idoneità alla carica, in termini di onorabilità, professionalità e 
+indipendenza. Il titolare non è posto a capo di aree operative, né è gerarchicamente dipendente 
+da soggetti responsabili di dette aree.  
+La funzione supporta il Consiglio di Amministrazione nelle attività di analisi, valutazione, 
+misurazione e monitoraggio dei rischi, garantendo l’allineamento con le disposizioni interne ed 
+esterne applicabili.  
+Il ruolo e le attività svolte dalla funzione, nonché la descrizione dei metodi di cui la Società si è 
+dotata per effettuare la valutazione interna del rischio con riferimento ai fondi pensione aperti, 
+sono contenuti all’interno della Politica di gestione dei rischi e, per quanto di pertinenza, della 
+Politica di gestione dei rischi operativi.  
+La valutazione interna del rischio relativo ai fondi pensione aperti è approvata, su proposta della 
+funzione di risk management, dal consiglio di amministrazione della Società almeno ogni tre 
+anni, o immediatamente dopo ogni variazione significativa del profilo di rischio dei fondi 
+pensione aperti.  
+5. Modello organizzativo della Funzione di Revisione Interna 
+La funzione di Internal Audit dei Fondi Pensione Aperti gestiti dalla Compagnia è esplicata dalla 
+corrispondente funzione istituita presso la Compagnia, in linea con quanto disciplinato dal 
+Decreto Legislativo n.252/2005 e dalle Istruzioni COVIP di vigilanza per le società che 
+gestiscono fondi pensione aperti, adottate ai sensi dell’art . 5-decies, comma 1, del Decreto 
+legislativo 5 dicembre 2005, n. 252. 
+Il titolare della funzione è nominato e revocato dall’organo amministrativo, e soddisfa nel 
+continuo i requisiti di idoneità alla carica fissati dalla politica per l’identificazione e la valutazione 
+del possesso dei requisiti di idoneità alla carica, in termini di onorabilità, professionalità e 
+indipendenza. Il titolare non è posto a capo di aree operative, né è gerarchicamente dipendente 
+da soggetti responsabili di dette aree. 
+La funzione di revisione interna è incaricata di valutare e monitorare l’efficacia, l’efficienza e 
+l’adeguatezza del sistema di controllo interno e delle ulteriori componenti del sistema di 
+governo societario e le eventuali necessità di adeguamento, anche attraverso  attività di 
+supporto e di consulenza alle altre funzioni aziendali.  Il titolare della funzione di Revisione 
+Interna comunica le risultanze delle attività svolte e le eventuali raccomandazioni al Consiglio 
+di Amministrazione e al Responsabile dei fondi pensione aperti per le attività svolte in merito 
+agli stessi.
+=== pagina 8 ===
+8 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+Nel contesto delle verifiche, la funzione tiene anche conto degli aspetti relativi alle verifiche 
+effettuate in ambito di conformità alle norme.  
+Il ruolo e le attività svolte dalla funzione sono definiti nella specifica politica della funzione di 
+revisione interna. 
+6. Responsabile dei fondi pensione aperti. Flussi informativi tra la 
+Società e il Responsabile dei fondi pensione aperti.  
+Al fine di garantire la maggiore tutela degli aderenti e dei beneficiari, il Responsabile dei fondi 
+pensione aperti verifica che la gestione degli stessi sia svolta nel loro esclusivo interesse, 
+nonché nel rispetto della normativa vigente e delle previsioni stabilite nei regolamenti e nei 
+contratti. 
+In particolare, vigila su:  
+ la gestione finanziaria, anche controllando il rispetto della normativa e delle regole 
+interne della stessa circa i limiti di investimento; 
+ la gestione amministrativa, in particolare verificando la separatezza amministrativa e 
+contabile delle operazioni poste in essere per conto dei fondi pensione aperti e del 
+patrimonio degli stessi rispetto a quanto afferente alle altre attività della Società e la 
+regolare tenuta dei libri e delle scritture contabili riguardanti i fondi pensione aperti; 
+ le misure di trasparenza adottate nei confronti degli aderenti e beneficiari; 
+ l’adeguatezza della procedura di gestione dei reclami;  
+ la tempestiva e corretta erogazione delle prestazioni;  
+ le situazioni in conflitto di interesse; 
+ il rispetto delle buone pratiche e dei principi di corretta amministrazione. 
+I compiti relativi alla gestione dei flussi informativi tra Società e Responsabile sono svolti 
+dall’unità organizzativa responsabile delle operations dei fondi pensione. 
+In particolare, l’unità incaricata dei rapporti con il Responsabile trasmette al Responsabile dei 
+fondi pensione aperti medesimo periodicamente con riferimento al periodo di osservazione o 
+su richiesta in sintesi: 
+ il dettaglio, per ciascun comparto in cui si articola il fondo pensione aperto; 
+ il report delle operazioni effettuate in conflitto di interesse, se avvenute; 
+ dati sintetici sulla movimentazione degli iscritti e contribuzioni, sia in entrata che in 
+uscita; 
+ il report dei disinvestimenti relativi ad operazioni di erogazione di prestazione o 
+trasferimento (secondo una metodologia a campione, vengono acquisite dal 
+Responsabile le comunicazioni pervenute dal beneficiario ed inviate al medesimo e 
+viene verificato il rispetto dei tempi di liquidazione); 
+ l’esemplare della comunicazione annuale agli aderenti; 
+ ciascun reclamo/esposto pervenuto e la relativa risposta; 
+ le modifiche regolamentari, quelle alla nota informativa e quelle al documento sulla 
+politica di investimento; 
+ il rendiconto annuale, con le rela tive relazioni sulla gestione, relazione della società di 
+revisione e nota integrativa.
+=== pagina 9 ===
+9 
+Documento sul Sistema di Governo Societario dei Fondi Pensione Aperti 
+Zurich Investments Life S.p.A. 
+Eventuali richieste di dati o informazioni integrative, nonchè segnalazioni di anomalie vengono 
+inviate dal Responsabile, in prima istanza, all’unità organizzativa responsabile delle operations 
+dei fondi pensionee/o alle Direzioni aziendali di volta in volta interessate.  
+Qualora i soggetti sopra indicati non procedessero con la risoluzione delle anomalie riscontrate, 
+il Responsabile dei fondi pensione aperti informa il Consiglio di amministrazione e il Collegio 
+Sindacale della Compagnia, indicando gli interventi correttivi da adottare. 
+Il R esponsabile predispone annualmente una relazione (c.d Relazione annuale all’Autorità di 
+vigilanza ) circa le procedure di controllo adottate, la sua organizzazione, i risultati dell’attività 
+svolta, le eventuali anomalie riscontrate e le iniziative poste in essere per eliminarle. 
+La relazione è inviata alla COVIP e, per opportuna presa visione, al Consiglio di Amministrazione 
+e al Collegio Sindacale della Compagnia. 
+ 
+7. Informazioni relative alla politica di remunerazione del Responsabile 
+dei fondi pensione aperti e dei titolari delle funzioni fondamentali 
+La Società ha adottato una politica di remunerazione predisposta in conformità al Regolamento 
+IVASS n. 38/2018 che è coerente con la sana e prudente gestione del rischio , ed in linea con 
+gli obiettivi strategici, la redditività e l’equilibrio della Società nel lungo termine , nonché con le 
+valutazioni di rischio, ed integra i rischi per la sostenibilità.  
+Il Responsabile dei f ondi pensione aperti è un professionista esterno alla Compagnia che 
+svolge il proprio incarico in modo autonomo e indipendente avente come unica finalità quella 
+di tutelare gli aderenti ai fondi pensione e verificare che la gestione degli stessi sia svolta nel 
+rispetto della normativa vigente. L’attività del Responsabile dei fondi pensione aperti è svolta ai 
+sensi e per gli effetti dell’art 5 commi 2, 3, 3bis del D. Lgs. 252/2005. 
+Il compenso del Responsabile dei f ondi pensione aperti viene stabilito in cifra fissa all’inizio 
+dell’incarico e resta tale per tutta la durata dello stesso; sono da escludersi remunerazioni 
+variabili o correlate al conseguimento di risultati di business. L’ammont are del compenso 
+suddetto viene deliberato dal Consiglio di Amministrazione in sede di nomina, e non può essere 
+modificato nei tre anni successivi.  
+Il trattamento economico riconosciuto al Responsabile è posto proporzionalmente a carico dei 
+comparti dei fondi pensione aperti, fermo il vincolo di non compromettere in qualunque modo il 
+rispetto del principio di sana e prudente gestione delle risorse dei fondi stessi, e gli interessi a 
+lungo termine degli aderenti e dei beneficiari. 
+Il trattamento economico dei Titolari delle Funzioni Fondamentali (Internal Audit e Risk 
+Management) è riconosciuto dalla Società  e si compone di una parte fissa ed una parte di 
+carattere variabile, quest’ultima collegata ad obiettivi connessi esclusivamente all’effic acia e 
+qualità dell’azione di controllo e svincolata dai risultati economico -finanziari delle aree 
+sottoposte a controllo.

@@ -1,0 +1,402 @@
+# Fondo: RAIFFEISEN FONDO PENSIONE APERTO (raiffeisen)
+# Documento: Documento sul sistema di governo – Documento sul sistema di governo
+# Fonte: https://www.raiffeisenpensionsfonds.it/fileadmin/RGO/Pensionsfonds/Allgemeine_Unterlagen/IT/7_Documento_sul_sistema_di_governo.pdf
+# Citato in: https://www.raiffeisenpensionsfonds.it/it/il-raiffeisen-fondo-pensione/documentazione.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 9e3ace717daa8bbd5ac643b8ed695c3920d76aa7f36078eb4335387a1ef85f0a
+# Pagine: 11
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul sistema di governo del 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fondo pensione aperto a contribuzione definita  
+istituito ai sensi dell’art. 12 del Decreto lgs. 5 dicembre 2005, n. 252 
+ 
+ 
+ 
+ 
+Il presente documento è stato approvato dal Consiglio di Amministrazione della Cassa Centrale Raiffeisen dell’Alto 
+Adige SpA del 9 marzo 2026 ed è pubblicato insieme al rendiconto del Raiffeisen Fondo Pensione Aperto sul sito 
+web www.fondopensioneraiffeisen.it. 
+La finalità di questo documento è di illustrare il sistema di governo della Cassa Centrale Raiffeisen dell’Alto Adige 
+SpA per i profili relativi alla gestione del Raiffeisen Fondo Pensione Aperto, in conformità all’art. 4-bis, richiamato 
+dall’art. 5-decies, del d.lgs. n. 252/2005 e alle “Istruzioni di vigilanza per le società che gestiscono fondi pensione 
+aperti” adottate dalla COVIP con deliberazione del 13 gennaio 2021.
+=== pagina 2 ===
+DOCUMENTO SUL SISTEMA DI GOVERNO 
+DEL RAIFFEISEN FONDO PENSIONE APERTO 
+ 
+ 
+ 
+Indice  
+ 
+PREMESSA 
+ 
+1. ORGANIZZAZIONE 
+ 
+2. ORGANIZZAZIONE DEI CONTROLLI INTERNI 
+ 
+3. ORGANIZZAZIONE DEL SISTEMA DI GESTIONE DEI RISCH I 
+ 
+4. FLUSSI INFORMATIVI TRA STRUTTURA E RESPONSABILE DEL FONDO PENSIONE 
+ 
+5. POLITICA DI REMUNERAZIONE
+=== pagina 3 ===
+PREMESSA 
+ 
+La Cassa Centrale Raiffeisen dell’Alto Adige SpA, i scritta all’Albo delle banche presso la Banca d’Ita lia con il n. 
+4747, (di seguito anche “Banca”) è il soggetto che esercita l’attività di gestione del Raiffeisen Fond o Pensione 
+Aperto, iscritto all’Albo tenuto dalla COVIP con il n. 149 (di seguito anche “Fondo Pensione”). 
+La Cassa Centrale Raiffeisen dell’Alto Adige è una società per azioni il cui capitale è posseduto pres soché 
+interamente dalle Casse Raiffeisen della provincia.  Presso la sua sede legale a Bolzano si trova anche  uno 
+sportello dedicato alla consulenza e alle operazioni bancarie. 
+Il ruolo della Banca è di competente operatore finanziario che eroga i propri servizi a clienti, privati e commerciali, 
+e alle Casse Raiffeisen che con i loro sportelli so no presenti sull’intero territorio dell’Alto Adige. Nel proprio ruolo 
+la Banca è consapevole della sua responsabilità nei confronti di tutti i citati gruppi di interesse.  
+In quest’ottica la fiducia nella Banca costituisce un presupposto imprescindibile del successo imprend itoriale e 
+della competitività di lungo termine. Al fine di ra fforzare e consolidare questa fiducia la Banca non si limita a 
+improntare la propria attività ai valori cooperativi, ma attua anche una serie di misure che costituiscono la base per 
+una cultura aziendale conforme alla legge e orientata a principi etici. 
+A questo proposito la Banca ha predisposto e adottato fin dal 2014 un Codice Etico, nel quale sono definiti valori 
+che rappresentano principi e convinzioni di fondamentale importanza al fine di preservare la propria reputazione e 
+la fiducia che i vari stakeholder ripongono nella Banca. 
+Oltre che al Codice Etico la Banca attribuisce grande importanza anche al Modello organizzativo redatto ai sensi 
+del D.lgs. 231/2001 e teso a sensibilizzare i dipendenti e gli altri soggetti legati alla Banca a comportamenti corretti 
+e trasparenti e, da ultimo, a evitare la commissione dei reati contemplati nel decreto, quali corruzione, riciclaggio 
+di denaro e finanziamento di attività illecite. 
+La finalità del presente “Documento sul sistema di governo” è di fornire una rappresentazione strettamente limitata 
+ai profili gestionali che assumono rilievo per la Banca con riferimento al Fondo Pensione. Tale sistema di governo 
+è stato disegnato dalla Banca in modo tale da rispo ndere alla prioritaria esigenza, attuale e prospettica, di tutela 
+degli aderenti e dei beneficiari del Fondo Pensione  e di salvaguardia della piena separazione patrimon iale tra il 
+relativo patrimonio e il patrimonio della Banca e degli altri clienti. 
+ 
+In particolare, questo documento riporta: 
+1. l’organizzazione della Banca rilevante per i profili gestionali inerenti al Fondo Pensione, ivi incluse le funzioni 
+e/o attività esternalizzate, i compiti e le respons abilità di soggetti, organi e strutture coinvolti n el processo di 
+investimento; 
+2. la descrizione sintetica di come sono organizzati, da parte della Banca, i controlli interni rilevanti per il Fondo 
+Pensione; 
+3. la descrizione sintetica di come è organizzato, da parte della Banca, il sistema di gestione dei rischi rilevante 
+per il Fondo Pensione;  
+4. la descrizione sintetica di come sono organizzati i flussi informativi tra le strutture della Banca e il Responsabile 
+del Fondo Pensione e viceversa;  
+5. le informazioni essenziali relative alla politica di remunerazione del Responsabile del Fondo Pensione.
+=== pagina 4 ===
+1. ORGANIZZAZIONE 
+ 
+La Banca ha adottato un modello di amministrazione e controllo tradizionale, caratterizzato dalla pres enza di 
+un’Assemblea dei Soci, un Consiglio di Amministrazione e un Collegio Sindacale. Tenuto conto delle dim ensioni 
+e della complessità operativa/organizzativa della B anca, tale modello di amministrazione e controllo è  ritenuto 
+adeguato ai fini di un’efficiente gestione aziendale.  
+In linea con le disposizioni in materia di corporate governance, il modello adottato dalla Banca delinea le principali 
+responsabilità in capo agli organi aziendali al fine di garantire la complessiva efficacia ed efficienza del sistema dei 
+controlli interni. Il complesso dei rischi aziendali e di quelli riguardanti il Fondo Pensione è presidiato nell’ambito di 
+un modello organizzativo incentrato sulla piena sep arazione delle funzioni di controllo dalle struttur e produttive, 
+che integra metodologie e presidi di controllo a di versi livelli convergenti con gli obiettivi azienda li di assicurare 
+efficienza ed efficacia dei processi operativi, sal vaguardare l’integrità del patrimonio aziendale, tu telare dalle 
+perdite, garantire l’affidabilità e l’integrità delle informazioni, verificare il corretto svolgimento dell’attività nel rispetto 
+della normativa interna ed esterna. 
+ 
+1.1 Consiglio di Amministrazione 
+È l’organo di supervisione strategica e di gestione della Banca, in cui si concentrano anche le funzioni di indirizzo 
+e di supervisione del Fondo Pensione. Oltre alle at tribuzioni a norma di legge e di vigilanza, sono ri servate 
+all’esclusiva competenza del Consiglio di Amministrazione le decisioni previste dallo statuto. Il Consiglio approva 
+i regolamenti che disciplinano la propria attività, le politiche aziendali e i comitati obbligatori e facoltativi, approva 
+gli altri procedimenti, politiche, operazioni e dec isioni attribuiti alla propria competenza dalla nor mativa vigente. 
+Approva il Regolamento e la politica di investimento del Fondo Pensione.  
+All’interno del Consiglio di Amministrazione è istituito un Comitato Esecutivo che adotta le decisioni nelle materie 
+inerenti ai poteri esecutivi conferitigli e un Comi tato Rischi che fornisce supporto e consulenza in m ateria di 
+gestione dei rischi e di sistema di controllo interno. 
+Riguardo al processo di investimento del Fondo Pensione, al Consiglio di Amministrazione sono in capo i compiti 
+e le responsabilità di seguito riportate: 
+ definizione, adozione e modifica della politica di investimento idonea al raggiungimento degli obietti vi 
+strategici del Fondo Pensione e la verifica del suo rispetto;  
+ affidamento e revoca dei mandati di gestione delle risorse; 
+ verifica almeno triennale circa la rispondenza dei contenuti del documento sulla politica di investime nto agli 
+interessi degli aderenti;  
+ controllo dell'attività svolta dai soggetti coinvol ti nel processo di investimento, anche attraverso l 'esame di 
+rapporti e la valutazione di proposte dagli stessi soggetti elaborati; 
+ verifica e approvazione delle procedure interne di controllo della gestione finanziaria; 
+ definizione della politica di impegno relativa ai diritti collegati ai titoli delle società partecipate. 
+ 
+1.2 Collegio Sindacale 
+Il Collegio Sindacale è parte del sistema dei contr olli interni e svolge la funzione di controllo e vi gilanza circa 
+l’osservanza della legge, l’adeguatezza dell’assett o organizzativo, l’efficacia e l’adeguatezza del si stema di 
+gestione e di controllo del rischio, di revisione i nterna e la funzionalità e l’adeguatezza del comple ssivo sistema 
+dei controlli interni. Ha inoltre il compito di seg nalare al Consiglio di Amministrazione le carenze e  le irregolarità 
+riscontrate, di richiedere l’adozione di idonee mis ure correttive e di verificare nel tempo la relativ a efficacia. 
+Comunica alle competenti autorità gli atti e i fatti rilevati nello svolgimento delle proprie funzioni. 
+Il Collegio Sindacale svolge anche la funzione di Organismo di vigilanza ai sensi del d.lgs. 231/2001. 
+ 
+1.3 Direzione Generale 
+Alla Direzione Generale, costituita dal direttore generale e da uno o più direttori nominati dal consi glio, è affidata 
+l’esecuzione delle deliberazioni degli organi sociali. 
+Il direttore generale è il capo dei dipendenti e de i collaboratori della Società, persegue gli obietti vi gestionali e
+=== pagina 5 ===
+sovraintende allo svolgimento delle operazioni e al funzionamento dei servizi secondo le indicazioni del Consiglio 
+di Amministrazione, assicurando la conduzione unita ria della struttura aziendale e l’efficacia del sis tema dei 
+controlli interni.  
+ 
+1.4 Reparto Fondo Pensione 
+Il Reparto Fondo Pensione, collocato nella Direzione Generale, si occupa di tutte le attività legate alla gestione del 
+Fondo Pensione e dei relativi aderenti, relazionandosi a tal fine con il service amministrativo e gli altri fornitori, con 
+i gestori finanziari e il depositario, con la struttura e con le funzioni di controllo della Banca, con il Responsabile del 
+Fondo e con i soggetti incaricati della raccolta delle adesioni. 
+L’area amministrazione del Reparto si occupa, in st retto contatto con il service amministrativo, degli  aspetti 
+operativi legati alle adesioni, alle contribuzioni e alle prestazioni, nonché agli adempimenti contabi li, fiscali e 
+COVIP, svolgendo la funzione di controllo di linea.  Gestisce inoltre le richieste dirette di potenzial i aderenti, 
+aderenti, beneficiari, datori di lavoro e consulenti del lavoro/uffici paghe e fornisce assistenza ai soggetti incaricati 
+della raccolta delle adesioni.  
+L’area finanza supporta il Consiglio di Amministrazione nella definizione della politica di investimento e svolge tutte 
+le attività necessarie per la corretta attuazione della stessa, gestendo i rapporti con il depositario, i gestori finanziari 
+e gli altri soggetti coinvolti nel processo di gest ione delle risorse del Fondo Pensione. Verifica e v aluta 
+periodicamente la gestione finanziaria analizzandone i risultati finanziari e non finanziari (applicaz ione dei criteri 
+ESG), producendo la documentazione riportante le verifiche effettuate e proponendo le modifiche della politica di 
+investimento che si rendessero necessarie, anche ri guardo ai nuovi sviluppi dei mercati. L’area finanz a svolge 
+inoltre l’attività per la selezione dei gestori finanziari proponendo al Consiglio di Amministrazione l’affidamento e la 
+revoca delle deleghe di gestione delle risorse del Fondo Pensione. L’area finanza convoca almeno mensilmente 
+la funzione di gestione dei rischi e il Responsabil e del Fondo Pensione, nonché eventuali altri sogget ti ritenuti 
+necessari (direttore generale, i gestori finanziari, advisor ecc.), al fine di analizzare lo scenario macroeconomico, 
+l’andamento dei mercati finanziari, l’andamento della gestione, anche su analisi finanziarie e non finanziarie (ESG) 
+effettuate da società esterne incaricate, e per ela borare raccomandazioni per il Consiglio di Amminist razione (in 
+breve Comitato tecnico consultivo). In caso di emergenze derivanti dall’andamento dei mercati finanziari e/o dalla 
+gestione finanziaria dei comparti, convoca tempestivamente la suddetta riunione. 
+ 
+1.5 Funzione di revisione interna 
+La Funzione di revisione interna, funzione fondamentale ai sensi del d.lgs. n. 252/2005 attribuita al Reparto Internal 
+Audit della Banca, fornisce servizi di audit indipe ndenti e oggettivi in conformità alle previsioni de lle Autorità di 
+Vigilanza e tenendo conto delle linee di indirizzo dell’Institute of Internal Auditors. Nel valutare l a completezza, 
+l'adeguatezza, la funzionalità e l'affidabilità del  sistema dei controlli interni, i servizi di audit sono finalizzati alla 
+creazione di valore aggiunto e al miglioramento dei processi aziendali. Di conseguenza, quale funzione di controllo 
+di terzo livello, l'Internal Audit, utilizzando un approccio di audit orientato al rischio, verifica p eriodicamente i 
+processi di lavoro e la struttura organizzativa del le unità esaminate, rileva scostamenti dalla norma e formula 
+proposte ai livelli dirigenziali per il miglioramento dei processi, delle linee guida e delle procedure. Effettuando dei 
+controlli a campione verifica inoltre la rettifica delle irregolarità riscontrate. Lo scopo dell’attiv ità di audit è di 
+identificare tempestivamente potenziali eventi o sviluppi indesiderati, analizzandoli e fornendo il proprio supporto 
+per la relativa rimozione e, ove possibile, elaborare adeguate proposte di intervento per la relativa regolarizzazione. 
+Al fine di poter svolgere adeguatamente la propria attività, l'Internal Audit ha accesso a tutte le in formazioni ed 
+aree a ciò necessarie, comprese quelle esternalizzate. 
+Gli scostamenti ovvero gli aspetti da migliorare rilevati nel corso delle attività di controllo svolte dall'Internal Audit 
+vengono discussi con il Reparto Fondo Pensione e pe riodicamente portati a conoscenza della Direzione, del 
+Comitato Rischi, del Consiglio di Amministrazione e del Collegio sindacale. I risultati dell'audit sono comunicati alla 
+COVIP su richiesta della stessa. Le carenze che esp ongono la Banca e/o il Fondo Pensione ad un rischio  non 
+quantificabile vengono immediatamente segnalate all a Direzione, al Comitato Rischi, al Consiglio di 
+Amministrazione, al Collegio sindacale e alla COVIP. 
+ 
+1.6 Funzione di gestione dei rischi 
+La Funzione di gestione dei rischi, funzione fondamentale ai sensi del d.lgs. n. 252/2005 attribuita al Reparto Risk 
+management della Banca che sottostà al Consiglio di  Amministrazione e svolge le proprie attività di co ntrollo in 
+modo autonomo e indipendente dalle strutture produttive, quale funzione di controllo di secondo livello si occupa 
+principalmente di monitorare, misurare e controllar e i rischi della Banca, inclusi i rischi che riguar dano il Fondo 
+Pensione e quelli che gravano su aderenti e benefic iari, e assicurare un continuo sviluppo e miglioram ento dei
+=== pagina 6 ===
+metodi di misurazione dei rischi e dei rispettivi modelli e indici.  
+L’adeguato coinvolgimento della funzione di Risk ma nagement nei vari processi aziendali costituisce un  
+presupposto fondamentale per un’efficace gestione del rischio ed è assicurato attraverso il rispetto di determinati 
+standard, quali processi aziendali ben definiti, st rumenti di misurazione e valutazione del rischio un iformi, flussi 
+d’informazione istituzionalizzati e contingenti, re porting armonizzato, diffusione di un adeguato know  how sulla 
+gestione dei rischi.  
+Comunica le risultanze e le raccomandazioni rilevan ti nel proprio ambito di responsabilità ai soggetti  e organi 
+individuati dall’ordinamento interno e in particolare al Comitato Rischi e al Consiglio di Amministrazione. Comunica 
+inoltre alla COVIP le situazioni problematiche riscontrate qualora le stesse non abbiano trovato soluzione all’interno 
+della Banca. 
+Con specifico riferimento al processo di investimento del Fondo Pensione, la funzione di Risk Management verifica 
+inoltre mensilmente il rispetto dei parametri impos ti dalla normativa o da accordi con i gestori trasm ette gli esiti 
+delle verifiche all’organo amministrativo della Banca. 
+ 
+1.7 Depositario 
+Il patrimonio del Fondo Pensione è depositato e tut ti gli strumenti finanziari sono custoditi presso i l Depositario, 
+soggetto distinto dalla Banca, che svolge le attivi tà ad esso affidate dalla legge e dal Regolamento d el Fondo 
+Pensione in modo leale, corretto, professionale e i ndipendente nonché nell’interesse degli aderenti e dei 
+beneficiari. 
+Il Depositario esegue le istruzioni impartite dal s oggetto gestore del patrimonio del Fondo Pensione, verificando 
+che non siano contrarie alla legge, alle norme regolamentari del Fondo Pensione e ai criteri stabiliti nel decreto del 
+Ministro dell’economia e delle finanze n. 166/2014 recante norme sui criteri e limiti di investimento delle risorse dei 
+fondi pensione e sulle regole in materia di conflitti di interesse. 
+ 
+1.8 Gestore finanziario 
+I gestori finanziari, su delega del Consiglio di Am ministrazione, effettuano specifiche scelte di inve stimento con 
+riferimento a tutto o parte del patrimonio dei singoli comparti di investimento del Fondo Pensione e a tutti i mercati 
+e le tipologie di strumenti finanziari consentiti dal Regolamento del Fondo Pensione, nel rigoroso rispetto dei criteri 
+di allocazione definiti di tempo in tempo in coerenza con la politica di investimento del Fondo Pensione e dei limiti 
+previsti dalla legge. La delega, revocabile in qual unque momento, non comporta alcun esonero o limitaz ione di 
+responsabilità della Banca, che opera un costante c ontrollo sulla rispondenza dell’esecuzione delle at tività 
+delegate alle istruzioni impartite. 
+ 
+1.9 Responsabile del Fondo Pensione 
+Il Responsabile del Fondo Pensione è nominato dalla  Banca e svolge la propria attività in modo autonom o e 
+indipendente. 
+Vigila sull’osservanza della normativa e del Regolamento del Fondo Pensione e sul rispetto delle buone pratiche 
+e dei principi di corretta amministrazione del Fond o Pensione nell’esclusivo interesse degli aderenti e dei 
+beneficiari. In particolare, vigila sulla gestione finanziaria e amministrativa del Fondo Pensione e s ulle misure di 
+trasparenza adottate nei confronti degli aderenti. A tal fine si avvale della collaborazione delle str utture 
+organizzative della Banca, ha accesso a tutte le in formazioni necessarie e assiste alle riunioni dell’ organo 
+amministrativo e di quello di controllo della Banca, per tutte le materie inerenti al Fondo Pensione. Comunica alla 
+COVIP, contestualmente alla segnalazione all’organo  di amministrazione e a quello di controllo della B anca, le 
+irregolarità riscontrate nell’esercizio delle sue funzioni. 
+Per ulteriori dettagli circa i doveri e le responsa bilità del Responsabile si rimanda al Regolamento d el Fondo 
+Pensione e al d.lgs. n. 252/2005. 
+ 
+1.10 Le funzioni Compliance e Antiriciclaggio 
+Le funzioni di Compliance e MIFID-Compliance, funzi oni di controllo autonome e indipendenti dalle stru tture 
+produttive, sono incaricate di individuare, valutare, gestire e monitorare i rischi riconducibili a vi olazioni di norme 
+imperative o di autoregolamentazione attinenti al Fondo Pensione. Provvedono inoltre a verificare l’adeguatezza 
+dei processi tesi alla prevenzione dei rischi legal i. Al responsabile della funzione di Compliance del la Banca è 
+attribuita anche la funzione antiriciclaggio ed ass ume altresì anche la funzione di delegato SOS. Alla  funzione
+=== pagina 7 ===
+antiriciclaggio è attribuito il compito di verificare nel continuo che i processi e le procedure aziendali siano coerenti 
+con l’obiettivo di prevenire e contrastare la violazione della normativa esterna ed interna in materia di riciclaggio di 
+denaro e tutela contro il finanziamento del terrorismo. 
+ 
+1.11 Società di revisione dei conti 
+È incaricata della revisione legale dei conti della  Banca e del rendiconto del Fondo Pensione. Comunic a senza 
+indugio alle competenti autorità gli atti e i fatti , rilevati nello svolgimento del proprio incarico, che è tenuto a 
+comunicare, assieme a ogni altro dato o documento richiesto da queste autorità. 
+ 
+1.12 Organismo di rappresentanza 
+Nel caso di adesioni collettive che comportino l’is crizione di almeno 500 lavoratori appartenenti ad u na singola 
+azienda o a un medesimo gruppo, la Banca provvede a lla costituzione di un organismo di rappresentanza,  
+composto da un rappresentante designato dalla medesima azienda o gruppo e da un rappresentante dei lavoratori, 
+per ciascuna delle predette collettività, che svolg e funzioni di collegamento tra le collettività che aderiscono al 
+Fondo Pensione e la Banca e il Responsabile del Fon do Pensione. L’organismo, che non svolge funzioni d i 
+controllo, attualmente non è istituito non essendoci i presupposti. 
+ 
+1.13 Service Amministrativo 
+La gestione contabile e parte della gestione amministrativa del Fondo Pensione è affidata in outsourcing al Service 
+Amministrativo, che svolge le proprie attività in stretta collaborazione con il Reparto Fondo Pensione della Banca. 
+Il Service Amministrativo fornisce inoltre i sistem i IT per la gestione delle posizioni individuali de gli aderenti e i 
+servizi online riservati a aderenti e datori di lav oro. L’ufficio Back Office del Service Amministrati vo si occupa 
+dell'attività amministrativa relativa alle transazioni in titoli del Fondo Pensione, provvede alla trasmissione dei flussi 
+informativi al Depositario rispetto ai singoli comparti di investimento del Fondo Pensione.
+=== pagina 8 ===
+2. ORGANIZZAZIONE DEI CONTROLLI INTERNI 
+ 
+La Banca dispone di un sistema di controllo interno , che comprende anche il Fondo Pensione, teso a gar antire 
+agli stakeholder un livello massimo di trasparenza e integrità nella gestione aziendale. Il sistema dei controlli interni 
+è destinato a prevenire e a gestire la commissione di reati (es. frode, conflitti di interesse, ricicl aggio di denaro, 
+finanziamento al terrorismo e corruzione) ed è fina lizzato al controllo dei rischi e al corretto svolg imento del 
+processo di gestione del rischio. 
+Il sistema dei controlli interni riveste un ruolo d i importanza strategica nella struttura organizzativa della Banca e 
+consiste nell'insieme di politiche, regolamenti, fu nzioni, strutture, risorse e processi che assicuran o il corretto 
+funzionamento e l'operatività della Banca e del Fon do Pensione. Tale sistema rappresenta un elemento 
+fondamentale del sistema generale di governance e assicura che le attività vengano svolte in linea con le strategie 
+e politiche aziendali e siano orientate ai valori di sana e prudente gestione.  
+Il sistema dei controlli interni non si limita alle  funzioni di controllo operativo, ma influenza l'in tera struttura 
+organizzativa (organi aziendali, strutture, livelli  gerarchici, personale) nello sviluppo e nell'imple mentazione di 
+metodi logici e sistematici per identificare, misurare, comunicare e controllare i rischi. 
+Il sistema dei controlli interni distingue i seguenti tipi di controlli:  
+ controlli di linea (o controlli di I. livello) sono eseguiti dalle unità organizzative operative nel lavoro quotidiano 
+e per alcuni processi sono anche integrati nei sistemi informatici;  
+ controlli di gestione in ambito di Riskmanagement, Compliance e Antiriciclaggio (o controlli di II. livello); 
+ controlli dell’Internal audit (o controlli di III. livello).  
+Gli attori del sistema dei controlli interni sono:  
+ gli organi della Banca (cioè il Consiglio di ammini strazione, il Consiglio di sorveglianza e i comitat i del 
+Consiglio di amministrazione);  
+ la Direzione Generale;  
+ le funzioni di controllo interno, che sono funzioni  indipendenti volte ad assicurare il corretto ed ef ficiente 
+funzionamento del sistema dei controlli interni.  
+Il sistema dei controlli interni comprende anche il Comitato per il sistema dei controlli interno. 
+Il sistema dei controlli interni è inoltre responsa bile del controllo dei rischi connessi all'esternal izzazione delle 
+attività, in particolare nel caso di esternalizzazi one di funzioni operative significative, critiche e d essenziali (c.d. 
+"funzioni operative importanti").
+=== pagina 9 ===
+3. ORGANIZZAZIONE DEL SISTEMA DI GESTIONE DEI RISCH I 
+ 
+Da anni la Banca si è posta come chiaro obiettivo il conseguimento di una adeguata cultura del rischio che include 
+anche la gestione del Fondo Pensione con tutte le sue particolarità. Per ogni area operativa e per i rischi ad essa 
+connessi sono state definite e portate a conoscenza dei collaboratori apposite disposizioni interne.  
+Il complesso dei rischi aziendali è presidiato nell ’ambito di un modello organizzativo incentrato sull a piena 
+separazione delle funzioni di controllo dalle strut ture produttive, che integra metodologie e presidi di controllo a 
+diversi livelli convergenti con gli obiettivi azien dali di assicurare efficienza ed efficacia dei proc essi operativi, 
+salvaguardare l’integrità del patrimonio della Banc a e del patrimonio separato del Fondo Pensione, gar antire 
+l’affidabilità e l’integrità delle informazioni, verificare il corretto svolgimento dell’attività nel rispetto della normativa 
+interna ed esterna.  
+Il sistema di gestione dei rischi interessa tutti i  settori e le strutture aziendali, ciascuna chiamat a, per quanto di 
+propria competenza, ad assicurare un costante e con tinuo livello di attenzione. Esso è organizzato, ne l rispetto 
+della normativa di vigilanza, su tre livelli:  
+ controlli di linea o di primo livello, attraverso attività di controllo svolte nell’ambito dei processi aziendali dalle 
+stesse strutture o anche attraverso unità dedicate esclusivamente a compiti di controllo che riportano  ai 
+responsabili delle aree operative. I controlli di p rimo livello, per buona parte dei processi aziendal i, sono 
+anche incorporati nelle procedure informatiche; 
+ controlli di secondo livello (Risk management e Com pliance) tesi all’individuazione, misurazione, 
+monitoraggio e gestione dei rischi;  
+ controlli di terzo livello (Revisione interna/Inter nal audit), volti ad individuare l’esistenza di ano malie nelle 
+procedure e a valutare il funzionamento e l’efficacia del complessivo sistema dei controlli interni.  
+ll Risk management si riferisce a tutte le attività indirizzate al trattamento sistemico dei rischi ai quali la Banca e il 
+Fondo Pensione sono esposti. L’adeguato coinvolgime nto della funzione di Risk management nei vari proc essi 
+aziendali costituisce un presupposto fondamentale per una gestione del rischio efficace ed è assicurato attraverso 
+il rispetto dei seguenti standard:  
+ implementazione di processi aziendali ben definiti e conformi alle linee guida del Risk management;  
+ perimetro dei rischi e definizioni uniformi;  
+ ricorso a un linguaggio dei rischi uniforme all’interno della Banca;  
+ strumenti di misurazione e valutazione del rischio uniformi o perlomeno armonizzati;  
+ flussi d’informazione istituzionalizzati e continge nti tra il Risk management e le altre funzioni di c ontrollo 
+interne e tra il Risk management e i vari risk taker;  
+ reporting armonizzato al fine di garantire un’uniforme comprensione dei rischi e di assicurare la comparabilità 
+delle valutazioni di rischio all’interno dell’istituto;  
+ definizione di flussi d’informazione istituzionalizzati e immediati ai vari organi aziendali;  
+ diffusione di un adeguato know how sulle tematiche di Risk management a tutti i dipendenti e in partic olare 
+ai responsabili delle principali linee di business;  
+ coordinamento della programmazione delle attività del Risk management con le attività delle altre funzioni di 
+controllo interne;  
+ informazione immediata del Risk management in merito a tutti gli avvenimenti e a tutte le tematiche rilevanti.  
+Periodicamente il Risk management sottopone agli organi societari, alla Direzione ed ai collaboratori informazioni 
+sui rischi rilevanti. La situazione di rischio vien e quindi approfondita periodicamente o in caso di n ecessità dal 
+Comitato che si occupa del sistema dei controlli interno. La Direzione della Banca attribuisce al Risk management 
+importanza strategica e promuove una cultura di aperta discussione sui rischi all’interno della Banca.  
+L’analisi e i controlli circa la rischiosità finanz iaria e non finanziaria (ESG) dei portafogli del Fo ndo Pensione è 
+inoltre supportata da un report periodico di una società esterna appositamente incaricata.
+=== pagina 10 ===
+4. FLUSSI INFORMATIVI TRA STRUTTURA E RESPONSABILE DEL FONDO 
+PENSIONE 
+ 
+Al fine di assicurare al Responsabile del Fondo Pensione il corretto svolgimento delle proprie attività nell’interesse 
+degli aderenti e beneficiari, il Responsabile del Fondo Pensione ha accesso a tutte le informazioni, si avvale della 
+collaborazione delle strutture organizzative della Banca e partecipa alle riunioni a tal fine necessar ie ovvero 
+previste dalla legge o dalla COVIP. 
+Premesso che per tutte le tematiche legate alla gestione del Fondo Pensione il Responsabile del Fondo Pensione 
+è in costante contatto con continuo scambio di informazioni con il Reparto Fondo Pensione della Banca, di seguito 
+si riportano i principali flussi informativi tra la  struttura aziendale della Banca, intesa in senso l ato, in quanto 
+comprendente anche eventuali soggetti incaricati esterni (es. Service Amministrativo, Depositario, ecc.). 
+ 
+Flussi informativi dalla struttura aziendale verso il Responsabile del Fondo Pensione 
+Per le parti, materie e questioni inerenti il Fondo Pensione, il Responsabile del Fondo Pensione: 
+ assiste alle riunioni del Consiglio di Amministrazione e del Collegio Sindacale; 
+ partecipa alle riunioni del Comitato tecnico Consultivo; 
+ riceve la relazione della funzione di revisione interna; 
+ riceve dal Depositario le comunicazioni relative alla propria attività di asseveramento del NAV e di verifica del 
+rispetto dei limiti di investimento, con finalità di gestione e verifica dei rischi; 
+ riceve copia dei Risk report; 
+ riceve il prospetto di valorizzazione; 
+ riceve i report relativi alle liquidazioni e ai trasferimenti; 
+ riceve il calcolo dell’imposta sostituiva e degli oneri di gestione; 
+ viene informato in merito alle segnalazioni e agli altri adempimenti COVIP; 
+ viene informato delle modifiche alla procedura di gestione dei reclami e sulla trattazione dei reclami; 
+ viene informato di tutte le problematiche e questioni di rilievo legate alla gestione del Fondo Pensione e degli 
+aderenti e delle relative posizioni. 
+ 
+Flussi informativi dal Responsabile del Fondo Pensione verso la struttura aziendale 
+Il Responsabile del Fondo Pensione: 
+ segnala al Consiglio di Amministrazione e al Collegio Sindacale, le irregolarità riscontrate nell’esercizio delle 
+sue funzioni, nonché contestualmente le comunica al la COVIP; 
+ trasmette al Consiglio di Amministrazione e al Coll egio Sindacale copia della propria relazione annual e, 
+nonché all’eventuale Organismo di rappresentanza per quanto di rispettiva competenza; 
+ trasmette alla struttura della Banca il registro delle attività svolte.
+=== pagina 11 ===
+5. POLITICA DI REMUNERAZIONE 
+ 
+Il sistema di remunerazione e incentivazione della Banca è adottato in conformità agli obblighi derivanti da direttive 
+dell’Unione europea, agli orientamenti su sane politiche di remunerazione dell’Autorità bancaria europea (EBA) e 
+alle disposizioni di vigilanza per le banche della Banca d'Italia. 
+Per quanto concerne la politica di remunerazione del Responsabile del Fondo Pensione, la relativa remunerazione 
+è composta esclusivamente da un importo annuo fisso . È esclusa qualsiasi tipologia di remunerazione va riabile, 
+quali bonus legati a risultati di gestione o remunerazioni basate su strumenti finanziari.  
+Le spese relative alla remunerazione e allo svolgim ento dell’incarico di Responsabile del Fondo Pensio ne sono 
+poste a carico della Banca.

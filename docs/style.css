@@ -329,6 +329,7 @@ th[aria-sort="descending"] .sort::after { content: "↓"; color: var(--accent); 
 /* sotto-aperture centrate come i titoli di sezione */
 .apertura { text-align: center; margin: 0 auto 20px; }
 .apertura + .apertura { margin-top: 48px; }
+.table-scroll + .apertura { margin-top: 48px; }
 .apertura .hint { margin-left: auto; margin-right: auto; max-width: 72ch; text-wrap: balance; }
 .apertura .cov { margin-left: auto; margin-right: auto; }
 .chips { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; padding: 0; margin: 8px 0 0; }
@@ -446,9 +447,9 @@ h1:focus { outline: none; }
 /* marchio "goodbye Elsa !!" (navigazione.js): in alto a sinistra in ogni pagina, riporta all'inizio della dashboard */
 .topnav .marchio {
   justify-self: start; display: inline-flex; align-items: center; gap: 8px;
-  padding: 2px 10px 2px 0; text-decoration: none; white-space: nowrap; border-radius: 999px;
+  padding: 2px 4px 2px 0; text-decoration: none; white-space: nowrap; border-radius: 999px;
 }
-.marchio img { width: 36px; height: 36px; flex: none; transition: transform 0.2s; }
+.marchio img { width: 48px; height: 48px; flex: none; transition: transform 0.2s; }
 .marchio .scritta { font: 400 1.45rem/1 var(--font-elsa); color: var(--elsa); letter-spacing: 0.01em; }
 /* Elsa agita il bastone */
 .marchio:hover img, .marchio:focus-visible img { transform: rotate(-10deg) scale(1.06); }
@@ -460,8 +461,8 @@ h1:focus { outline: none; }
 @media (max-width: 640px) {
   .topnav .wrap { column-gap: 6px; }
   .topnav .marchio { gap: 6px; padding-right: 0; }
-  .marchio img { width: 30px; height: 30px; }
-  .marchio .scritta { font-size: 1.1rem; }
+  .marchio img { width: 40px; height: 40px; }
+  .marchio .scritta { font-size: 1.25rem; }
 }
 @media (prefers-reduced-motion: reduce) { .marchio img { transition: none; } }
 

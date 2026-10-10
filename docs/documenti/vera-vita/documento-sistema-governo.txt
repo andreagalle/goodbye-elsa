@@ -1,0 +1,366 @@
+# Fondo: FONDO PENSIONE APERTO VERA VITA (vera-vita)
+# Documento: Documento sul sistema di governo – DOCUMENTO SISTEMA DI GOVERNO SOCIETARIO GESTIONE POST FUSIONE BBPMV 05.2026
+# Fonte: https://www.bancobpmvita.it/media/dlm_uploads/DOCUMENTO-SISTEMA-DI-GOVERNO-SOCIETARIO-GESTIONE-POST-FUSIONE-BBPMV-05.2026.pdf
+# Citato in: https://www.bancobpmvita.it/prodotti/previdenza/fondo-pensione-aperto-vera-vita/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: a4ecef8531853a4c20554037a5df7c3ccb9240e1634314eb5e905e6289f7e60f
+# Pagine: 12
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+Banco BPM Vita - Documento sul sistema di governo 
+societario afferente alla gestione dei fondi pensione 
+aperti 
+Ultimo aggiornamento: 1° maggio 2026
+=== pagina 2 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+Indice 
+1. INTRODUZIONE .................................................................................................................................................... 3 
+2. IL SISTEMA DI GOVERNO SOCIETARIO .................................................................................................................... 4 
+2.1 Esternalizzazione ...................................................................................................................................... 5 
+2.2 Politica di Investimento .............................................................................................................................. 5 
+2.3 Funzioni Fondamentali .............................................................................................................................. 7 
+3. SISTEMA DEI CONTROLLI INTERNI INTEGRATO........................................................................................................ 8 
+4. RESPONSABILE DEI FONDI PENSIONE APERTI. FLUSSI INFORMATIVI .......................................................................... 9 
+4.1 Remunerazione del responsabile dei fondi pensione aperti .................................................................... 10 
+5. ALTRI FLUSSI INFORMATIVI .................................................................................................................................. 11 
+6. POLITICA DI REMUNERAZIONE DELLE FUNZIONI FONDAMENTALI.............................................................................. 11 
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 2
+=== pagina 3 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+1. Riepilogo aggiornamenti
+Progressivo Data aggiornamento Contenuto sintetico aggiornamento 
+Prima approvazione 25/06/2024 
+1° aggiornamento 07/04/2025 Aggiornamento annuale 
+2° aggiornamento 23/03/2026 Aggiornamento annuale 
+3° aggiornamento 01/05/2026 Aggiornamento ad esito della fusione per 
+incorporazione di Vera Vita S.p.A. in Banco BPM 
+Vita S.p.A. 
+2. Introduzione
+Il presente Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+(“Documento”) è emanato ai sensi dell’art. 4 bis del Decreto Legislativo 5 dicembre 2005, n. 252 (“Requisiti 
+generali in materia di sistema di governo”), con riferimento al fondo pensione aperto gestito dalla Società 
+e denominato “Fondo pensione aperto Vera Vita” (“fondo pensione aperto”). 
+Il presente Documento, in particolare, ha per oggetto: 
+− l’organizzazione della Società rilevante per i profili gestionali inerenti al fondo pensione aperto, ivi
+incluse le funzioni e/o attività che risultano esternalizzate, con evidenza dei compiti e delle
+responsabilità dei soggetti, organi e strutture della Società coinvolti nel processo di investimento del
+patrimonio separato dei fondi pensione aperti;
+− una descrizione sintetica di come sono organizzati i controlli interni rilevanti per il fondo pensione aperto
+e una descrizione sintetica di come è organizzato il sistema di gestione dei rischi rilevante per il fondo
+pensione aperto (funzioni fondamentali)1;
+− una descrizione sintetica di come sono organizzati i flussi informativi tra la Società e il responsabile del
+fondo pensione aperto e viceversa e le informazioni essenziali relative alla politica di remunerazione
+del responsabile del fondo pensione aperto.
+Il sistema di governo della Società - per i profili relativi alla gestione del fondo pensione aperto - risponde 
+alla prioritaria esigenza, attuale e prospettica, di tutela degli aderenti e dei beneficiari dei fondi stessi e di 
+salvaguardia della piena separazione patrimoniale tra il patrimonio del fondo pensione aperto e il 
+patrimonio della Società e degli altri clienti. 
+In tale ottica, assicura l’efficienza e l’efficacia dei processi interni e di quelli esternalizzati, l’idonea 
+individuazione e gestione dei rischi, nonché l’attendibilità e l’integrità dei dati e delle informazioni, anche 
+contabili, inerenti ai profili gestionali dei fondi pensione aperti e lo svolgimento delle attività nel rispetto dei 
+criteri di sana e prudente gestione. 
+Il sistema assicura l’ordinata, completa e tempestiva circolazione delle informazioni rilevanti tra tutti i 
+soggetti coinvolti in tale attività, nonché la tempestiva segnalazione delle eventuali disfunzioni e violazioni 
+riscontrate al soggetto o organo competente ad attivare le misure correttive. I processi interni sono 
+strutturati in modo da garantire che le segnalazioni vengano prontamente esaminate e valutate.  
+1 Con riferimento ai fondi pensione aperti, per la funzione Attuariale non ricorrono le condizioni previste dall’articolo 5-
+quinquies del Decreto Legislativo 5 dicembre 2005, n. 252.
+=== pagina 4 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 3
+=== pagina 5 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+Il sistema di controllo interno adottato costituisce un presidio per garantire il rispetto delle regole, la 
+funzionalità del sistema gestionale e la diffusione di valori di corretta amministrazione e legalità. Tale 
+sistema assicura la verifica di conformità della gestione del fondo rispetto alla normativa nazionale e 
+dell’Unione europea, sia essa primaria o secondaria, nonché la rispondenza alle previsioni stabilite dai 
+regolamenti e dai processi operativi. 
+Il Responsabile della funzione di Compliance della Società assicura che i processi interni siano coerenti 
+con l’obiettivo di prevenire il rischio di incorrere in sanzioni, perdite finanziarie o danni di reputazione in 
+conseguenza di violazioni di norme legislative, regolamentari o di autoregolamentazione.  
+L’adeguatezza e l’efficienza del sistema di controllo interno dei fondi pensione aperti è oggetto di verifica 
+da parte del Responsabile della funzione di Internal Audit della Società secondo il piano di audit, in 
+coerenza con  le previsioni del Regolamento  in materia di revisione interna, che ne definisce 
+responsabilità, compiti, modalità organizzative ed operative, in conformità con la normativa del settore 
+di appartenenza della Società. 
+Per garantire la continua e regolare operatività, anche in situazioni di emergenza, è definito un piano che 
+comprende anche le attività riguardanti il fondo pensione aperto.  
+Il presente Documento è redatto con cadenza annuale ed è pubblicato sul sito web del fondo pensione 
+aperto unitamente al rendiconto. 
+Per quanto non disciplinato all’interno del presente Documento, si rimanda ai Regolamenti di Gruppo e ai 
+Regolamenti specifici di Banco BPM Vita. 
+3. Il Sistema di governo societario
+Il fondo pensione aperto è costituito nell’ambito della Società attraverso la formazione, con apposita 
+delibera, di un patrimonio di destinazione, separato ed autonomo, con gli effetti di cui all’articolo 2117 del 
+Codice Civile. Agli Organi e alle funzioni contemplati dal sistema di governo adottato dalla Società sono, 
+quindi, attribuiti anche i poteri e le responsabilità relativi alla gestione del fondo pensione aperto.  
+La Società è soggetta all’attività di direzione e coordinamento da parte di Banco BPM. 
+Il modello di governo societario della Società è conforme al sistema di amministrazione e controllo 
+tradizionale. La Società è amministrata da due organi nominati dall’Assemblea: un Consiglio di 
+Amministrazione, titolare dei più ampi poteri per l’amministrazione ordinaria e straordinaria della Società, 
+e un Collegio Sindacale con funzione di vigilanza sull’amministrazione e sull’osservanza della legge e dello 
+Statuto. La Società si è dotata di un sistema di governo societario che assicura, mediante un efficace 
+sistema di controllo interno e gestione dei rischi: 
+a) l’efficienza e l’efficacia dei processi aziendali;
+b) l’identificazione, la valutazione anche prospettica, la gestione e l’adeguato controllo dei rischi, in
+coerenza con gli indirizzi strategici e la propensione al rischio dell’impresa anche in un’ottica di medio-
+lungo periodo;
+c) la tempestività del sistema di reporting delle informazioni aziendali, nonché l’attendibilità e l’integrità
+delle informazioni contabili e gestionali;
+d) la salvaguardia del patrimonio anche in un’ottica di medio-lungo periodo;
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 4
+=== pagina 6 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+e) la conformità dell’attività dell’impresa alla normativa vigente, alle direttive e ai processi aziendali.
+La Società nomina, ai sensi del comma 2 dell’art. 5 del Decreto legislativo 5 dicembre 2005 n. 252, il 
+responsabile del fondo pensione aperto. Il responsabile svolge la propria attività in modo autonomo e 
+indipendente, riportando direttamente all’organo amministrativo della Società relativamente ai risultati 
+dell’attività svolta. 
+2.1 Esternalizzazione 
+La Società ha scelto – in alternativa allo svolgimento delle medesime attività tramite soggetti interni - di 
+esternalizzare le attività del fondo pensione aperto relative alla gestione amministrativa e alla gestione 
+finanziaria del patrimonio. 
+L’esternalizzazione non esonera in ogni caso gli organi del fondo dalle rispettive responsabilità. 
+L’esternalizzazione non produce effetti negativi sull’attività di vigilanza della COVIP e sulla qualità dei servizi 
+resi agli aderenti e beneficiari del fondo pensione aperto. 
+Per l’esternalizzazione relativa alla gestione amministrativa e per l’esternalizzazione della gestione 
+finanziaria del fondo pensione aperto, è previsto che sia data informativa alla COVIP dopo la stipula del 
+contratto, ma prima della decorrenza dell’esternalizzazione. 
+La COVIP ha il potere di richiedere informazioni sulle esternalizzazioni sia alla Società sia ai fornitori di servizi, 
+nonché quello di effettuare ispezioni presso i fornitori delle attività esternalizzate, accedendo ai relativi 
+locali, se non sono già sottoposti a vigilanza prudenziale di altra Autorità.  
+Il fornitore del servizio è tenuto a cooperare con la COVIP in relazione alla funzione o all’attività 
+esternalizzata. La Società e la COVIP hanno accesso ai dati relativi alle attività esternalizzate. La COVIP ha 
+accesso ai locali commerciali del fornitore del servizio. Anche il Responsabile della funzione di revisione 
+interna della Società può svolgere controlli (audit) sull’attività del fornitore di servizi ed è legittimato ad 
+accedere ai suoi locali. 
+In particolare, sono affidati a terzi i servizi di gestione amministrativa della fase di accumulo e di quella di 
+erogazione delle prestazioni, quelli relativi al sito web (area pubblica e area riservata), all’amministrazione 
+titoli (valorizzazione del patrimonio) e tenuta della contabilità, nonché i servizi relativi all’erogazione delle 
+rendite. 
+La scelta di esternalizzare l’attività di gestione amministrativa del fondo pensione aperto è stata effettuata 
+a motivo delle competenze e tecnologie specialistiche richieste allo scopo. 
+Inoltre, è esternalizzata a terzi anche la gestione finanziaria delle risorse del fondo pensione aperto. 
+Per maggiori dettagli in materia si rimanda al “Regolamento in materia di esternalizzazioni” approvato dal 
+Consiglio di Amministrazione di Banco BPM Vita. 
+2.2 Politica di Investimento 
+I soggetti coinvolti nel processo di attuazione della politica di investimento sono: 
+− il Consiglio di Amministrazione della Società;
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 5
+=== pagina 7 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+− la struttura Finanza;
+− il depositario;
+− il gestore delegato;
+− la Analisi Attuariali Vita.
+In particolare, ai suddetti soggetti sono attribuiti i compiti e responsabilità sinteticamente riportati di seguito. 
+Il Consiglio di Amministrazione: 
+a) definisce e adotta la politica di investimento idonea al raggiungimento degli obiettivi strategici e ne
+verifica il rispetto; a tal fine, esamina i rapporti sulla gestione finanziaria e valuta le proposte formulate
+dalla struttura Finanza;
+b) delibera l’affidamento e la revoca degli incarichi di gestione;
+c) revisiona periodicamente e modifica se necessario il Regolamento in materia di investimenti e le
+politiche connesse;
+d) esercita il controllo sull’attività svolta;
+e) vigila sulle operazioni eventualmente in conflitto di interesse e adotta, tramite apposito documento, le
+procedure da seguire, idonee a meglio tutelare gli aderenti e i beneficiari delle prestazioni. Il
+Regolamento in materia di gestione delle operazioni con soggetti in conflitto  di interesse, ed ogni sua
+modifica, è trasmesso tempestivamente al Responsabile del Fondo pensione ed alla COVIP.
+La struttura Finanza: 
+a) contribuisce alla definizione della politica di investimento in coerenza con il Regolamento in materia
+di investimenti e le politiche connesse approvate dal Consiglio di Amministrazione della Società;
+b) verifica la gestione finanziaria, esaminando i risultati conseguiti nel corso del tempo e fornendo
+adeguata informativa al Consiglio di Amministrazione, come descritto nel paragrafo 3;
+c) controlla l’attuazione delle strategie e valuta l’operato dei soggetti incaricati della gestione. In tale
+ambito produce una documentazione completa dei controlli svolti sull'attività di investimento,
+destinata a essere conservata negli archivi della forma pensionistica per dieci anni, in modo da
+consentire la ricostruzione degli eventi che hanno determinato le situazioni reddituali passate;
+particolare attenzione è posta nella verifica e nella valutazione degli eventuali investimenti in strumenti
+alternativi e in derivati;
+d) verifica periodicamente il rispetto da parte dei soggetti incaricati della gestione delle eventuali
+indicazioni date in ordine ai principi e ai criteri di investimento sostenibile e responsabile;
+e) formula proposte al Consiglio di Amministrazione riguardo ai nuovi sviluppi dei mercati e alle eventuali
+modifiche della politica di investimento;
+f) collabora con gli altri soggetti coinvolti nel processo di investimento per gli aspetti inerenti alla strategia
+da attuare e i risultati degli investimenti;
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 6
+=== pagina 8 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+g) cura la definizione, lo sviluppo e l’aggiornamento delle procedure interne di controllo della gestione
+finanziaria.
+Il depositario  esegue le attività previste dalla normativa – in particolare dal D. Lgs. 252/2005 - e dalla 
+Convenzione di depositario. 
+Il gestore delegato: 
+a) investe le risorse finanziarie con la finalità di realizzare extra rendimenti, secondo le istruzioni fornite dalla
+struttura Finanza e nel rispetto dell’incarico conferito;
+b) aggiorna periodicamente la struttura Finanza circa le scelte effettuate;
+c) adempie a quanto previsto nel mandato di gestione.
+Analisi Attuariali Vita: 
+a) analizza le caratteristiche socio -demografiche degli iscritti, l’andamento di ingressi e uscite, il livello
+medio di contribuzione e l’andamento del valore delle posizioni individuali, rendendo disponibile
+informativa alla struttura Finanza;
+b) supporta, inoltre, ove il caso, la struttura Finanza nello svolgimento dei compiti a questa attribuiti.
+2.3 Funzioni Fondamentali 
+Il Consiglio di Amministrazione della Società, in conformità alla normativa di settore, ha istituito mediante 
+specifica delibera le funzioni fondamentali di revisione interna (Internal Audit), gestione dei rischi (Risk 
+Management), verifica della conformità  (Compliance) e la funzione Attuariale, definendone 
+responsabilità, compiti, e modalità operative mediante l’elaborazione di appositi regolamenti, che 
+costituiscono elemento imprescindibile del sistema di governo societario e del sistema di controllo interno 
+e di gestione dei rischi. I regolamenti delle funzioni fondamentali stabiliscono le procedure di reporting 
+mediante le quali le funzioni fondamentali informano l’organo amministrativo,  direttivo e di controllo 
+dell’attività svolta, dei risultati delle verifiche effettuate ed eventuali raccomandazioni. 
+I Responsabili delle funzioni fondamentali della Società, nominati ai sensi dell’art. 63 comma 3 del 
+Regolamento IVASS n.38/2018, comunicano le risultanze e le raccomandazioni rilevanti nel proprio ambito 
+di responsabilità, al Consiglio di Amministrazione, al Collegio Sindacale, al Comitato Controlli Interni e i 
+Rischi nonché all’Amministratore Delegato della Società. 
+Sono altresì tenuti a comunicare alla COVIP le situazioni problematiche riscontrate nello svolgimento della 
+propria attività, per quanto attiene al fondo pensione aperto, qualora le stesse non abbiano trovato 
+soluzione all’interno della Società. 
+Si rimanda al “Regolamento Sistema dei Controlli Interni Integrato” per quanto concerne il coordinamento 
+delle funzioni di controllo tra loro e ai Regolamenti di Gruppo e ai Regolamenti specifici di Banco BPM 
+Vita in materia di gestione dei rischi. 
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 7
+=== pagina 9 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+4. Sistema dei Controlli Interni Integrato
+La struttura di controllo della Società, anche per il fondo pensione aperto, è articolata su tre livelli di presidio 
+che, rispondendo ad obiettivi di controllo specifici e differenziati, contribuiscono a garantire un buon 
+funzionamento del sistema stesso: 
+− Controlli di linea (controlli di primo livello): I controlli di linea sono effettuati dalle strutture operative che
+sono le prime responsabili del processo di gestione dei rischi. Nell’ambito della propria attività operativa
+devono identificare, misurare, monitorare, attenuare e riportare i rischi derivanti dall’ordinaria attività
+aziendale. Lo scopo di tali controlli è garantire il corretto svolgimento delle operazioni. Essi sono integrati
+nelle procedure oppure effettuati manualmente attraverso verifiche di tipo gerarchico, sistematico e
+a campione.
+− Controlli sui rischi e sulla conformità (controlli di secondo livello): I controlli di secondo livello assicurano
+l’attuazione del processo di gestione dei rischi, il rispetto dei limiti operativi assegnati alle varie funzioni
+e la conformità normativa e operativa alle norme, incluse quelle di autoregolamentazione. Le funzioni
+che svolgono i controlli di secondo livello sono distinte da quelle operative e concorrono alla
+definizione del processo di gestione dei rischi.
+− Revisione interna (controlli di terzo livello): I controlli di terzo livello hanno l’obiettivo di individuare
+violazioni delle procedure e della regolamentazione, nonché di valutare periodicamente la
+completezza, l’adeguatezza, la funzionalità (in termini di efficienza ed efficacia) e l’affidabilità del
+sistema dei controlli interni e del sistema informativo (ICT audit), con cadenza definita in relazione  alla
+natura e all’intensità dei rischi.
+La valutazione interna del rischio relativo al fondo pensione aperto è approvata dall’organo di 
+amministrazione della Società almeno ogni tre anni, o immediatamente dopo ogni variazione significativa 
+del profilo di rischio dei fondi pensione aperti, ed è adeguatamente documentata anche al fine dei 
+controlli da parte della COVIP. 
+La valutazione interna del rischio comprende la valutazione dell’efficacia del sistema di gestione dei rischi, 
+nonché una descrizione del modo in cui la valutazione dei rischi è integrata nel processo gestionale e nei 
+processi decisionali relativi al fondo pensione aperto. 
+Nella valutazione interna del rischio sono descritti i metodi adottati per individuare e valutare i rischi cui il 
+fondo pensione aperto è o potrebbe essere esposto nel breve e lungo periodo e che potrebbero avere 
+un impatto sulla capacità del fondo pensione aperto di far fronte ai propri obblighi. Gli esiti dell’attività di 
+valutazione interna del rischio sono tenuti in considerazione ai fini dell’assunzione delle decisioni 
+strategiche del fondo pensione aperto. 
+La valutazione e identificazione dei rischi a cui è esposto il fondo pensione aperto viene effettuata, 
+secondo il principio di materialità, nell’ambito del processo di valutazione e identificazione dei rischi svolti 
+dalla Società. 
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 8
+=== pagina 10 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+La descrizione dei metodi di cui la Società si è dotata per effettuare le valutazioni interne del rischio sono 
+contenute nel “Regolamento di gestione dei rischi e di valutazione attuale e prospettica dei rischi e della 
+solvibilità (ORSA)” e, con riferimento ai rischi operativi – ossia al rischio di subire perdite derivanti 
+dall’inadeguatezza o dalla disfunzione di procedure interne, risorse umane o sistemi oppure da eventi 
+esogeni –, nel “Regolamento in materia di gestione del rischio operativo” della Società.  
+5. Responsabile dei fondi pensione aperti. Flussi informativi
+Al fine di garantire la maggiore tutela degli aderenti e dei beneficiari, il responsabile del fondo pensione 
+aperto verifica che la gestione della stessa sia svolta nel loro esclusivo  interesse, nonché nel rispetto della 
+normativa vigente e delle previsioni stabilite nei regolamenti e nei contratti. In particolare, vigila su:  
+a) la gestione finanziaria, anche controllando il rispetto della normativa e delle regole interne della stessa
+circa i limiti di investimento;
+b) la gestione amministrativa, in particolare controllando la separatezza amministrativa e contabile delle
+operazioni poste in essere per conto del fondo pensione aperto e del patrimonio dello stesso rispetto
+a quanto afferente alle altre attività della società e la regolare tenuta dei libri e delle scritture contabili
+riguardanti il fondo pensione aperto;
+c) le misure di trasparenza adottate nei confronti degli aderenti e beneficiari;
+d) l’adeguatezza della procedura di gestione dei reclami;
+e) la tempestiva e corretta erogazione delle prestazioni;
+f) le situazioni di conflitto di interesse;
+g) il rispetto delle buone pratiche e dei principi di corretta amministrazione.
+I compiti relativi alla gestione dei flussi informativi tra Società e responsabile sono svolti dalla struttura 
+Operazioni. 
+In particolare, il servizio incaricato dei rapporti trasmette al responsabile del fondo, con riferimento al 
+periodo di osservazione richiesto e nel rispetto della normativa esterna 2: 
+a) il dettaglio – per ciascun comparto in cui si articola il fondo pensione aperto - degli strumenti finanziari
+in cui sono investite le risorse, con evidenza del numero di quote in essere e del valore di quota;
+b) il report delle operazioni inerenti alla gestione finanziaria;
+c) la relazione sui controlli effettuati in base a quanto previsto dal documento sulla politica di
+investimento;
+d) il report delle operazioni effettuate in conflitto di interesse;
+e) il bilancio di verifica;
+2 Covip. 
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 9
+=== pagina 11 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+f) il report del valore delle posizioni individuali, con evidenza delle singole operazioni effettuate
+relativamente a ciascuna di esse;
+g) i dati sintetici sulla movimentazione degli iscritti;
+h) il report dei disinvestimenti relativi ad operazioni di erogazione di prestazione o trasferimento
+(campionariamente, vengono acquisite dal responsabile le comunicazioni pervenute dal beneficiario
+ed inviate al medesimo e viene verificato il rispetto dei tempi di liquidazione);
+i) il format della comunicazione annuale agli aderenti;
+j) ciascun reclamo/esposto pervenuto e la relativa risposta;
+k) le modifiche regolamentari, quelle alla nota informativa e quelle al documento sulla politica di
+investimento;
+l) il rendiconto annuale, con le relative relazioni sulla gestione, della società di revisione e nota
+integrativa.
+Eventuali richieste di dati/informazioni integrative o segnalazioni di anomalie vengono inviate dal 
+responsabile, in prima istanza, alla struttura Operazioni (fatto salvo, per le anomalie, quanto di seguito 
+previsto e/o il coinvolgimento anche delle direzioni interessate ai fini della loro risoluzione).  
+Il responsabile del fondo pensione aperto comunica tempestivamente all’organo di amministrazione e a 
+quello di controllo della Società le irregolarità riscontrate, indicando gli interventi correttivi da adottare. Il 
+responsabile predispone annualmente una relazione circa le procedure di controllo adottate, la sua 
+organizzazione, i risultati dell’attività svolta, le anomalie riscontrate e le iniziative poste in essere per 
+eliminarle. La relazione è inviata alla COVIP e all’organo di amministrazione e controllo della Società.  
+4.1 Remunerazione del responsabile dei fondi pensione aperti 
+La remunerazione riconosciuta al responsabile del fondo pensione aperto per l’attività svolta è prevista in 
+una delibera del Consiglio di Amministrazione ed è determinata in sede del conferimento del relativo 
+incarico, avuto riguardo ai requisiti di professionalità e di onorabilità, a situazioni che determinano cause 
+di ineleggibilità, decadenza e incompatibilità del responsabile3 e all’offerta complessiva di altri potenziali 
+responsabili relativa all’incarico. 
+La struttura della remunerazione è determinata in base alla sola componente fissa, avuto riguardo, in 
+particolare, alla dimensione del patrimonio del Fondo. 
+Poiché il costo relativo alla remunerazione del responsabile è posto a carico del fondo pensione aperto, 
+uno degli obiettivi fondamentali considerati ai fini della selezione del soggetto al quale conferire l’incarico, 
+a beneficio degli aderenti, consiste nella minimizzazione del costo, fermo il vincolo di non compromettere 
+in qualunque modo il rispetto del principio di sana e prudente gestione delle risorse del fondo pensione 
+aperto, nonché l’obiettività, l’autonomia e l’indipendenza del soggetto incaricato – evitando ogni 
+3 Cfr. dichiarazione sostitutiva dell’atto di notorietà del responsabile del fondo. 
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 10
+=== pagina 12 ===
+GRUPPO Banco BPM – Il contenuto  del presente  documento  costituisce  materiale  riservato e soggetto  a copyright.  Ogni violazione  sarà perseguita  ai sensi di legge. 
+conflitto di interesse - e la coerenza con il profilo di rischio e gli interessi a lungo termine degli aderenti e 
+dei beneficiari. 
+Coerentemente con quanto stabilito dalla normativa, l’incarico non può essere conferito ad uno degli 
+amministratori della Società ed è incompatibile con lo svolgimento di attività di lavoro subordinato o di 
+prestazione d’opera continuativa, presso la Società ovvero presso le Società da queste controllate o che 
+le controllano. La Società pone in essere i presidi conseguenti affinché tali situazioni non si realizzino, sia 
+con riferimento agli incarichi da conferire, sia a quelli già conferiti. 
+6. Altri flussi informativi
+Sono inoltre previsti i seguenti flussi informativi, da parte della struttura Finanza rivolti al Consiglio di 
+Amministrazione: 
+a) relazione periodica circa la situazione di ogni singolo comparto, corredata da una valutazione del
+grado di rischio assunto in rapporto al rendimento realizzato;
+b) relazione a carattere straordinario, in caso di significativi cambiamenti nei livelli di rendimento -rischio
+derivanti dall'attività di investimento o, in prospettiva, di possibili superamenti delle soglie di rischiosità.
+Infine, è previsto l’invio da parte di Internal Audit al responsabile dei fondi della relazione consuntiva della 
+funzione di revisione interna, per la parte relativa alla gestione dei fondi pensione aperti.  
+7. Politica di remunerazione delle funzioni fondamentali
+Con riferimento alla remunerazione riconosciuta ai Responsabili delle funzioni fondamentali, si rimanda alle 
+“Politiche in materia di remunerazione” approvate annualmente dalla Società. 
+Banco BPM Vita - Documento sul sistema di governo societario afferente alla gestione dei fondi pensione aperti 
+Ultimo aggiornamento 1/5/2026 Pag. 11

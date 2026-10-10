@@ -1,0 +1,30 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Metodologia delle proiezioni – Metodologie
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/c2c91f91-10dd-4945-baef-5035c8c682f3
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/informativa-sulla-sostenibilita
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: a508b37da720e979a53c1904b52c0310719b749726b6860b95ba8f94874f6add
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Mod. IS7_MetCASFPA – Ed. 01/2026  Pagina 1 di 1 
+ 
+ 
+FONDO PENSIONE APERTO – COMPARTO BILANCIATO ETICO 
+INFORMAZIONI SUI PRODOTTI CHE PROMUOVONO DELLE CARATTERISTICHE AMBIENTALI E SOCIALI AI SENSI 
+DELL’ARTICOLO 10, PARAGRAFO 1, DEL REGOLAMENTO (UE) 2019/2088, E DEGLI ARTICOLI DA 25 A 36 DEL 
+REGOLAMENTO DELEGATO (UE) 2022/1288 
+METODOLOGIE RELATIVE ALLE CARATTERISTICHE AMBIENTALI O SOCIALI 
+Con riferimento agli investimenti diretti, la promozione delle caratteristiche ambientali e 
+sociali è presidiata utilizzando score e/o rating relativi alle performance ESG degli emittenti 
+forniti dal Provider. Tali indicatori contribuiscono a misurare il rispetto delle caratteristiche 
+ambientali o sociali, evidenziando l’approccio generale degli emittenti in merito ad 
+ambiente, società e governance.  
+Con riferimento agli investimenti in  OICR, il rispetto delle caratteristiche ambientali e 
+sociali è misurato utilizzando la qualificazione SFDR fornita dalle società di gestione degli 
+OICR tra quelli che sono caratterizzabili quali: 
+• strumenti finanziari che promuovono caratteristiche ambientali e sociali ai sensi 
+dell’articolo 8 del Regolamento (UE) 2019/2088; 
+• strumenti finanziari con obiettivi di sostenibilità ai sensi dell’articolo 9  del 
+Regolamento (UE) 2019/2088.

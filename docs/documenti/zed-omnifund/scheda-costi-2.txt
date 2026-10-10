@@ -1,0 +1,169 @@
+# Fondo: ZED OMNIFUND - FONDO PENSIONE APERTO (zed-omnifund)
+# Documento: Nota informativa – Scheda I costi – Zed Omnifund Nota Informativa Parte I Scheda I Costi 032026 prot
+# Fonte: https://www.zurich.it/api/archiviodigitale/download?guid=8C184BDC-3FBE-492B-822F-55E9FEBF58E9&filename=Zed%20Omnifund_Nota%20Informativa_Parte%20I%20Scheda%20I%20Costi%20032026_prot.pdf
+# Citato in: https://www.zurich.it/gruppo-zurich/zurich-italia/partner/banks-and-ifa/zed-omnifund
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 02791723187ea10e7b824dd030c4b3304ebaaa691e12bcd45052e6d11d9d7639
+# Pagine: 3
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+ZED Omnifund 
+Nota Informativa - Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘I Costi’ 
+03.2026  – 103 ZIL Pag. 1 di 3 
+ZED Omnifund Via Benigno Crespi n. 23, 20159 - 
+Milano - Italia 
+Fondo Pensione Aperto 
+Zurich Investments Life S.p.A. - Gruppo Zurich Italia 
+Iscritto all’Albo tenuto dalla COVIP con il n. 39 
+Istituito in Italia 
++39 025966.1 
+customerlife@it.zurich.com 
+previdenzacomplementare@pec.zurich.it 
+www.zurich.it 
+Nota informativa 
+ (depositata presso la COVIP il 30/03/2026) 
+Parte I ‘Le informazioni chiave per l’aderente’ 
+Zurich Investments Life S.p.A. (di seguito, Zurich) è responsabile della completezza e veridicità dei dati e delle notizie 
+contenute nella presente Nota informativa. 
+Scheda ‘I costi’ (in vigore dal 31/03/2026) 
+ 
+La presenza di costi comporta una diminuzione della posizione individuale e quindi della prestazione pensionistica. 
+Pertanto, prima di aderire a ZED Omnifund, è importante confrontare i costi del fondo con quelli previsti dalle altre forme 
+pensionistiche. Analoghe considerazioni valgono in caso di trasferimento ad altra forma pensionistica complementare. 
+Gli importi riportati devono intendersi come importi massimi applicabili. 
+I costi nella fase di accumulo 
+TIPOLOGIA DI COSTO IMPORTO E CARATTERISTICHE 
+Spese di adesione Una commissione “una tantum” a carico dell’Aderente pari a 51,65 Euro 
+prelevata da Zurich, in ragione di incasso, sul primo versamento ed in 
+caso di incapienza dello stesso, frazionatamente anche sui successivi 
+fino al raggiungimento dell’ammontare previsto. 
+Spese da sostenere durante la fase di accumulo: 
+- direttamente a carico dell’Aderente Una commissione di gestione pari a 30 Euro, prelevata da Zurich dai 
+contributi versati; in caso di sospensione del versamento dei contributi, 
+la Società preleva una volta all’anno la commissione dalla posizione 
+individuale dell’Aderente. 
+- indirettamente a carico dell’Aderente Una commissione di gestione pari ad una percentuale applicata 
+mensilmente sul patrimonio e differenziata in funzione dello specifico 
+comparto di investimento e precisamente: (1) 
+AZIONARIA 0,185% (2,22% su base annua) 
+BILANCIATA 65 0,150% (1,80% su base annua) 
+BILANCIATA 30 0,115% (1,38% su base annua) 
+OBBLIGAZIONARIA 0,075% (0,90% su base annua) 
+GARANTITA 0,150% di cui 0,045% per la garanzia di risultato (1,80% su base annua, 
+di cui 0,54% su base annua per la garanzia di risultato) 
+Tale commissione viene calcolata mensilmente, con riferimento all’ultimo giorno lavorativo del mese precedente, sul valore 
+complessivo netto di ciascun comparto, e viene prelevata da Zurich dal patrimonio di ciascun comparto con valuta del primo 
+giorno lavorativo del mese di calcolo. 
+Spese per l’esercizio di prerogative individuali (prelevate dalla posizione individuale al momento dell’operazione): 
+- Trasferimento Euro 15 
+- Riscatto Non previste 
+- Anticipazione Non previste 
+- Riallocazione (switch): Euro 15 
+- Rendita Integrativa temporanea
+anticipata (RITA)
+Costo in cifra fissa pari a 2,00€ prelevato da ciascuna rata di “RITA” 
+erogata 
+(1) Oltre alle commissioni sopra indicate, sul patrimonio dei comparti possono gravare unicamente le altre seguenti spese: spese
+legali e giudiziarie, imposte e tasse, oneri di negoziazione, contributo di vigilanza, compenso del Responsabile del fondo, per la
+parte di competenza del comparto.
+AVVERTENZA: Con riferimento alle adesioni su base collettiva e di convenzionamenti con associazioni di lavoratori 
+autonomi o liberi professionisti, gli importi indicati devono intendersi come importi massimi applicabili. Le condizioni 
+economiche praticate nei confronti delle collettività interessate sono riportate nella apposita Scheda “I Costi” disponibile 
+sul sito web del Fondo; le agevolazioni praticate si estendono anche ai familiari fiscalmente a carico degli aderenti. 
+Luogo e data Firma dell’Aderente 
+_________________________________ _________________________________
+=== pagina 2 ===
+ZED Omnifund 
+Nota Informativa - Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘I Costi’ 
+03.2026  – 103 ZIL Pag. 2 di 3 
+L’Indicatore sintetico dei costi (ISC) 
+Al fine di fornire un’indicazione sintetica dell’onerosità dei comparti  di ZED Omnifund , è riportato per ciascun  
+comparto l’Indicatore sintetico dei costi ( ISC), che esprime il costo annuo, in percentuale della posizione individuale 
+maturata, stimato facendo riferimento a d un aderente-tipo che versa un contributo annuo di 2.500 ,00 euro e 
+ipotizzando un tasso di rendimento annuo del 4% e diversi periodi di partecipazione nella forma pensionistica 
+complementare (2, 5, 10 e 35 anni).  
+L’ISC viene calcolato da tutti i fondi pensione utilizzando la stessa metodologia stabilita dalla COVIP.  
+Per saperne di più, consulta il riquadro ‘L’indicatore sintetico dei costi’ della Guida introduttiva alla previdenza
+complementare, disponibile sul sito web della COVIP (www.covip.it). 
+AVVERTENZA: É importante prestare attenzione all’ISC che caratterizza ciascun comparto. Un ISC del 2% invece 
+che dell’1% può ridurre il capitale accumulato dopo 35 anni di partecipazione di circa il 18% (ad esempio, lo riduce 
+da 100.000 euro a 82.000 euro). 
+Indicatore sintetico dei costi Anni di permanenza 
+2 anni 5 anni 10 anni 35 anni 
+Azionaria 3,96% 2,83% 2,51% 2,31% 
+Bilanciata 65 3,55% 2,41% 2,09% 1,89% 
+Bilanciata 30 3,14% 1,99% 1,67% 1,46% 
+Obbligazionaria 2,66% 1,51% 1,19% 0,98% 
+Garantita 3,55% 2,41% 2,09% 1,89% 
+AVVERTENZA: Per condizioni differenti rispetto a quelle considerate, ovvero nei casi in cui non si verifichino le ipotesi 
+previste, tale Indicatore ha una valenza meramente orientativa. 
+Pe
+r consentirti di comprendere l’onerosità dei comparti, nel grafico seguente l’ISC di ciascun comparto di ZED 
+Omnifund è confrontato con l’ISC medio dei comparti della medesima categoria offerti dalle altre forme pensionistiche 
+complementari presenti sul mercato. I valori degli ISC medi di settore sono rilevati dalla COVIP con riferimento alla 
+fine di ciascun anno solare. 
+L’onerosità di ZED Omnifund è evidenziata con un punto; i trattini indicano i valori medi, rispettivamente, dei fondi 
+pensione negoziali (FPN), dei fondi pensione aperti (FPA) e dei piani individuali pensionistici di tipo assicurativo (PIP). 
+Il grafico indica l’ISC minimo e massimo d ei comparti dei FPN, dei FPA e dei PIP complessivamente considerati e 
+appartenenti alla stessa categoria di investimento. 
+Il confronto prende a riferimento i valori dell’ISC riferiti a un periodo di permanenza nella forma pensionistica di 10 anni. 
+La COVIP mette a disposizione sul proprio sito il  Comparatore dei costi delle forme pensionistiche
+complementari per valutarne l’onerosità (www.covip.it). 
+2,51 
+2,09 
+1,67 
+1,19 
+2,09 
+ -
+ 0,50
+ 1,00
+ 1,50
+ 2,00
+ 2,50
+ 3,00
+ 3,50
+ 4,00
+ 4,50
+"Azionaria"
+(comparti
+ azionari)
+"Bilanciata 65"
+(comparti
+azionari)
+"Bilanciata 30"
+(comparti
+bilanciati)
+"Obbligazionaria"
+(comparti
+obbligazionari)
+"Garantita"
+(comparti
+garantiti)
+Onerosità di Zed Omnifund rispetto alle altre forme pensionistiche
+(periodo di permanenza 10 anni)
+ISC medio PIP
+ISC medio FPA
+ISC medio FPN
+ISC ZED Omnifund
+Luogo e data Firma dell’Aderente 
+_________________________________ _________________________________
+=== pagina 3 ===
+ZED Omnifund 
+Nota Informativa - Parte I ‘Le informazioni chiave per l’aderente’. Scheda ‘I Costi’ 
+03.2026  – 103 ZIL Pag. 3 di 3 
+I costi nella fase di erogazione 
+Al
+ momento dell’accesso al pensionamento e nel corso della fase di erogazione della rendita è previsto che l’Aderente 
+sostenga dei costi. In particolare: 
+• i coefficienti di conversione, applicati al capitale al momento della conversione in rendita, sono comprensivi di un
+caricamento per coprire le spese di erogazione della rendita pari all’1,25%;
+• su ciascuna rata di rendita viene inoltre prelevato un costo in cifra fissa pari a 2,50 euro;
+• durante la fase di erogazione, inoltre, nel determinare la misura annua di rivalutazione, viene trattenuta un’aliquota
+dello 0,75% dal rendimento realizzato dalla gestione separata .
+Si tenga comunque conto del fatto che i costi che graveranno sull’aderente nella fase di erogazione dipenderanno 
+dalle condizioni di rendita in essere al momento in cui si accederà al pensionamento. 
+Per saperne di più, consulta l’Allegato n.  2 del Regolamento - Condizioni e modalità di erogazione 
+delle rendite, disponibile sul sito web (www.zurich.it) 
+Luogo e data Firma dell’Aderente 
+_________________________________ _________________________________

@@ -1,0 +1,189 @@
+# Fondo: AZIONE DI PREVIDENZA - FONDO PENSIONE APERTO (azione-di-previdenza)
+# Documento: Documento sul regime fiscale – Documento sul Regime Fiscale
+# Fonte: https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/Azione_di_Previdenza_documento_sul_regime_fiscale_FPA_07-2026.pdf
+# Citato in: https://www.hdiassicurazioni.it/it/privati/previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: e861db7baaa77ae40e73b87ddd22cee3ed6ea64a613adf2f1b2bfe39dee3a729
+# Pagine: 4
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+HDI ASSICURAZIONI S.p.A. 
+ 
+(SOCIETÀ CAPOGRUPPO DEL GRUPPO ASSICURATIVO 
+“HDI ASSICURAZIONI” ISCRITTO ALL’ALBO DEI GRUPPI ASSICURATIVI AL N. 015) 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SUL REGIME FISCALE 
+ 
+ 
+ 
+ 
+ 
+“AZIONE DI PREVIDENZA 
+Fondo Pensione Aperto” 
+ 
+(iscritto all’Albo tenuto dalla COVIP con il n. 111) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il presente documento è valido a decorrere dal 01/08/2026
+=== pagina 2 ===
+Pagina 2 di 4 
+1) Regime fiscale del Fondo Pensione Aperto 
+ 
+I fondi pensione aperti sono soggetti ad imposta sostitutiva delle imposte sui redditi nella misura 
+del 20%, che si applica sul risultato netto maturato in ciascun periodo d'imposta. L’imposta viene 
+tuttavia di fatto ridotta ove tra gli attivi che costituiscono il patrimonio del comparto di riferimento, 
+siano compresi titoli pubblici ed equivalenti. Infatti, è riconosciuta una minore tassazione attraverso 
+la riduzione della base imponibile determinata in funzione della percentuale dell’attivo investito nei 
+suddetti titoli rispetto al totale degli attivi. 
+Il predetto risultato si determina sottraendo dal valore del patrimonio netto al termine dell’anno, al 
+lordo dell’imposta sostitutiva (rettificato per tenere conto, in aumento, delle somme erogate per il 
+pagamento delle prestazioni e delle somme trasferite ad altre forme pensionistiche e, in 
+diminuzione, dei contributi versati, delle somme ricevute da altre forme e dei redditi esenti o non 
+soggetti ad imposta) il valore del patrimonio stesso all’inizio dell’anno. Il valore del patrimonio netto 
+del Fondo all’inizio e alla fine dell’anno è desunto da un apposito prospetto di composizione del 
+patrimonio.  
+L’eventuale risultato negativo maturato nel periodo d’imposta è computato in diminuzione del 
+risultato della gestione dei periodi di imposta successivi. 
+ 
+2) Regime fiscale dei contributi 
+ 
+I contributi versati dall’aderente alle forme pensionistiche complementari di cui al D.lgs. 5 dicembre 
+2005, n. 252 sono deducibili dal reddito complessivo per un ammontare annuo non superiore a € 
+5.300,00. Se l’aderente è un lavoratore dipendente, ai fini del predetto limite, si tiene conto anche 
+dei contributi a carico del datore di lavoro.  
+Il limite annuo di € 5.300,00 comprende anche i versamenti effettuati alle forme pensionistiche 
+complementari a favore delle persone fiscalmente a carico, per l’importo da esse non dedotto.  
+L’aderente comunica alla forma pensionistica complementare entro il 31 dicembre dell’anno 
+successivo a quello in cui il versamento è effettuato – ovvero, se antecedente, alla data in cui 
+sorge il diritto alla prestazione – gli importi che non sono stati dedotti o non saranno dedotti nella 
+dichiarazione dei redditi. Tali somme verranno escluse dalla base imponibile all’atto 
+dell’erogazione della prestazione finale.  
+Il conferimento del TFR alla forma pensionistica complementare non comporta alcun onere fiscale; 
+la somma corrispondente non può, pertanto, beneficiare della deduzione dal reddito imponibile.  
+Le somme versate dall’aderente per reintegrare anticipazioni pregresse concorrono, al pari dei 
+contributi versati, a formare l’importo annuo complessivamente deducibile dal reddito complessivo 
+(nel limite di € 5.300,00). Sui reintegri eccedenti tale limite (non deducibili) è riconosciuto un credito 
+d’imposta pari all’imposta pagata all’atto della fruizione dell’anticipazione, proporzionalmente 
+riferibile all’importo reintegrato (non dedotto).  
+Al lavoratore di prima occupazione successiva al 1° gennaio 2007 che nei primi 5 anni di 
+partecipazione alle forme pensionistiche complementari abbia versato contributi di importo inferiore 
+a quello massimo deducibile (€26.500,00, che rappresenta il plafond teorico di 5 anni), è 
+consentito, nei 20 anni successivi al quinto anno di partecipazione a tali forme, di dedurre dal 
+reddito contributi eccedenti il limite di € 5.300 in misura pari complessivamente alla differenza 
+positiva fra € 26.500,00 e i contributi effettivamente versati nei primi 5 anni di partecipazione e, 
+comunque, non superiore a € 2.650 in ciascun anno.  
+ 
+3) Regime fiscale delle prestazioni 
+ 
+a) Regime fiscale delle somme corrisposte in forma di capitale e/o rendita (rendite 
+vitalizie, rendita a durata definita e prelievi liberamente determinabili) 
+Lo strumento impositivo che viene uniformemente utilizzato per le prestazioni pensionistiche è la 
+ritenuta a titolo definitivo del 15% sull’ammontare imponibile della prestazione maturata a 
+decorrere dal 1° gennaio 2007, sia essa in forma di capitale o di rendita, determinata al netto della 
+parte corrispondente ai redditi già assoggettati all’imposta sostitutiva annuale del 20% in capo alla 
+forma pensionistica e agli importi non dedotti. L’imposta viene tuttavia di fatto ridotta ove tra gli 
+attivi che costituiscono il patrimonio del comparto di riferimento, siano compresi titoli pubblici ed 
+equivalenti. Infatti, è riconosciuta una minore tassazione attraverso la riduzione della base 
+imponibile determinata in funzione della percentuale dell’attivo investito nei suddetti titoli rispetto al 
+totale degli attivi.
+=== pagina 3 ===
+Pagina 3 di 4 
+La tassazione delle prestazioni (sia in capitale che in rendita) può risultare tuttavia attenuata grazie 
+alla riduzione dell’aliquota del 15% di 0,3 punti percentuali in ragione di ogni anno successivo al 
+quindicesimo di partecipazione, fino a raggiungere un limite massimo di riduzione pari a 6 punti 
+percentuali. Per effetto di tale meccanismo, pertanto, l’aliquota potrà ridursi fino al 9% una volta 
+decorsi 35 anni di partecipazione. 
+I rendimenti finanziari di ciascuna rata di rendita erogata sono tassati con imposta sostitutiva. Tale 
+imposta viene tuttavia di fatto ridotta ove tra gli attivi a copertura delle riserve matematiche siano 
+compresi titoli pubblici ed equivalenti. Infatti, è riconosciuta una minore tassazione attraverso la 
+riduzione della base imponibile determinata in funzione della percentuale dell’attivo investito nei 
+suddetti titoli rispetto al totale dell’attivo della gestione separata. 
+Ovviamente tali rendimenti sono esclusi dalla ritenuta gravante sulla prestazione.  
+La quota della prestazione maturata fino al 31 dicembre 2006 resta invece soggetta alla previgente 
+disciplina fiscale di cui al D.lgs. 18 febbraio 2000, n. 47, caratterizzata dall’assoggettamento ad 
+IRPEF dell’ammontare imponibile delle prestazioni, secondo il regime della tassazione separata 
+per le prestazioni in capitale e della tassazione progressiva delle prestazioni in rendita.  
+Per quanto riguarda in particolare i lavoratori dipendenti assunti antecedentemente al 29 aprile 
+1993 e già iscritti a tale data a una forma pensionistica esistente alla data del 15 novembre 1992, 
+essi hanno facoltà di richiedere la liquidazione dell’intera prestazione pensionistica in forma di 
+capitale, ma con applicazione del regime tributario vigente al 31 dicembre 2006 anche 
+relativamente al montante accumulato a partire dal 1° gennaio 2007. 
+  
+b) Regime fiscale delle somme corrisposte in forma di rendita integrativa temporanea 
+anticipata (RITA) 
+La parte imponibile delle somme corrisposte in forma di rendita anticipata, determinata secondo le 
+disposizioni vigenti nei periodi di maturazione della prestazione pensionistica complementare, è 
+assoggettata alla ritenuta a titolo d’imposta con l'aliquota del 15% ridotta di 0,3 punti percentuali in 
+ragione di ogni anno successivo al quindicesimo di partecipazione, fino a raggiungere un limite 
+massimo di riduzione pari a 6 punti percentuali.  A tal fine, se la data di iscrizione alla forma di 
+previdenza complementare è anteriore al 1º gennaio 2007, gli anni di iscrizione prima del 2007 
+sono computati fino a un massimo di quindici. Il percettore della rendita anticipata ha facoltà di non 
+avvalersi della suddetta tassazione sostitutiva facendolo constare espressamente nella 
+dichiarazione dei redditi; in tal caso la rendita anticipata è assoggettata a tassazione ordinaria. 
+Le somme erogate a titolo di RITA sono imputate, ai fini della determinazione del relativo 
+imponibile, prioritariamente agli importi della prestazione medesima maturati fino al 31 dicembre 
+2000 e, per la parte eccedente, prima a quelli maturati dal 1º gennaio 2001 al 31 dicembre 2006 e 
+successivamente a quelli maturati dal 1º gennaio 2007. 
+ 
+c) Regime fiscale per anticipazioni, riscatti e trasferimenti  
+Le anticipazioni e i riscatti sono in via generale soggetti a tassazione con una ritenuta a titolo 
+d’imposta che viene applicata sul relativo ammontare imponibile nella misura del 23%.  
+Tuttavia, vi sono alcune eccezioni in relazione alle quali la normativa prevede l’applicazione della 
+ritenuta nella misura del 15% sull’ammontare imponibile maturato a decorrere dal 1° gennaio 2007, 
+eventualmente ridotta di una quota pari a 0,3 punti percentuali per ogni anno eccedente il 
+quindicesimo anno di partecipazione con un limite massimo di riduzione pari a 6 punti percentuali:  
+− anticipazioni richieste dall’aderente per spese sanitarie straordinarie per sé, il coniuge e i figli;  
+− riscatti parziali determinati dalla cessazione dell’attività lavorativa che comporti l’inoccupazione 
+per un periodo di tempo compreso fra 1 e 4 anni o dal ricorso del datore di lavoro a procedure 
+di mobilità o cassa integrazione;  
+− riscatti totali nei casi di invalidità permanente che riduca a meno di un terzo la capacità 
+lavorativa o di cessazione dell’attività lavorativa che comporti l’inoccupazione per oltre 4 anni;  
+− riscatto della posizione operato dagli eredi, o dai diversi beneficiari designati, a causa della 
+morte dell’aderente.  
+I trasferimenti delle posizioni pensionistiche sono esenti da ogni onere fiscale purché effettuati a 
+favore di altre forme pensionistiche complementari.  
+Ulteriori dettagli in merito alle richieste di anticipazione sono riportati nel Documento sulle 
+anticipazioni disponibile sul sito della Compagnia.
+=== pagina 4 ===
+Pagina 4 di 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGINA BIANCA

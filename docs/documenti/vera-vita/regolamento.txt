@@ -1,0 +1,1390 @@
+# Fondo: FONDO PENSIONE APERTO VERA VITA (vera-vita)
+# Documento: Regolamento – Regolamento FPA Vera Vita Ed. 07.2026
+# Fonte: https://www.bancobpmvita.it/media/dlm_uploads/Regolamento-FPA-Vera-Vita_Ed.-07.2026.pdf
+# Citato in: https://www.bancobpmvita.it/prodotti/previdenza/fondo-pensione-aperto-vera-vita/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: be923db37583cf3186ecb9ec2afe1037ab38e3a622126462b38d4a1cd4bf1bd9
+# Pagine: 28
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            1 di 29 
+ 
+ 
+ 
+FONDO PENSIONE APERTO 
+VERA VITA 
+ 
+(art.12 del decreto legislativo 5 dicembre 2005, n. 252) 
+FONDO PENSIONE APERTO IN REGIME DI CONTRIBUZIONE DEFINITA 
+(Iscritto nell’apposito Albo in data 16/12/1998 al n. 31) 
+ 
+ 
+ 
+ 
+ 
+REGOLAMENTO
+=== pagina 2 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            2 di 29 
+INDICE 
+ 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO  
+Art. 1 - Denominazione  
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti  
+Art. 3 – Scopo 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO  
+Art. 4 - Regime del Fondo  
+Art. 5 - Destinatari e tipologie di adesione 
+Art. 6 - Scelte di investimento  
+Art. 7 - Gestione degli investimenti  
+Art. 8 – Spese 
+ 
+PARTE III – CONTRIBUZIONI E PRESTAZIONI  
+Art. 9 - Contribuzione  
+Art. 10 - Determinazione della posizione individuale  
+Art. 11 - Prestazioni pensionistiche e RITA 
+Art. 12 - Erogazione delle prestazioni pensionistiche 
+Art. 13 - Trasferimento e riscatto della posizione individuale  
+Art. 14 - Anticipazioni  
+ 
+PARTE IV – PROFILI ORGANIZZATIVI  
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile  
+Art. 16 - Sistema di governo  
+Art. 17 - Depositario  
+Art. 18 - Responsabile  
+Art. 19 - Conflitti di interesse  
+Art. 20 - Scritture contabili  
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI  
+Art. 21 - Modalità di adesione e clausole risolutive espresse 
+Art. 22 - Trasparenza nei confronti degli aderenti e dei beneficiari  
+Art. 23 - Comunicazioni e reclami 
+ 
+PARTE VI – NORME FINALI  
+Art. 24 - Modifiche del Regolamento  
+Art. 25 - Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche delle 
+caratteristiche del Fondo  
+Art. 26 - Cessione del Fondo  
+Art. 27 - Operazioni di fusione  
+Art. 28 - Rinvio  
+ 
+Allegati:  
+Allegato n.1 Disposizioni in materia di Responsabile  
+Allegato n.2 Condizioni e modalità di erogazione delle rendite
+=== pagina 3 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            3 di 29 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+Art. 1 – Denominazione 
+Il “Fondo Pensione Aperto VERA VITA”, di seguito definito “Fondo”, è un fondo pensione aperto istituito 
+ai sensi dell’art. 12 del Decreto legislativo 5 dicembre 2005, n. 252 (di seguito “Decreto”). 
+ 
+Art. 2 – Istituzione del Fondo, esercizio delle attività, sede e recapiti 
+1. Il Fondo è stato istituito da lla società “Novara Vita S.p.A.”, giusta autorizzazione rilasciata dalla COVIP; 
+con il medesimo provvedimento la COVIP ha approvato il Regolamento del Fondo. 
+2. La società “Banco BPM Vita S.p.A.” (di seguito “impresa di assicurazione”) esercita l’attività di gestione 
+del Fondo con effetto dal 1° maggio 2026, giusta autorizzazione rilasciata dalla COVIP con provvedimento 
+del 7 agosto 1998. 
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 31. 
+4. L’attività relativa al Fondo è svolta in Milano, presso la sede dell’impresa di assicurazione. 
+5. L’indirizzo di posta elettronica certificata (PEC) dell’impresa di assicurazione è  
+comunicazioni@pec.bancobpmvita.it.  
+ 
+Art. 3 – Scopo 
+Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta dei 
+contributi, la gestione delle risorse nell’esclusivo interesse degli aderenti, e l’erogazione delle prestazioni 
+secondo quanto disposto dalla normativa tempo per tempo vigente. 
+ 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+ 
+Art. 4 – Regime della forma pensionistica 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è 
+determinata in funzione della contribuzione effettuata e in base al principio della capitalizzazione. 
+ 
+Art. 5 – Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in modalità esplicita.  
+2. È altresì consentita l’adesione su base collettiva ai soggetti destinatari delle forme pensionistiche 
+complementari individuati all’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i 
+contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo. 
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza. 
+ 
+Art. 6 – Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio -rendimento, in modo tale 
+da assicurare agli aderenti una adeguata possibilità di scelta: 
+• Comparto Popolare-Bond 
+• Comparto Popolare Gest. Questo comparto è destinato al conferimento tacito del TFR. 
+• Comparto Popolare-Mix 
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti in cui far confluire i versamenti contributivi, 
+con facoltà di modificare nel tempo tale destinazione. L’aderente può inoltre riallocare la propria posizione 
+individuale tra i diversi compar ti, nel rispetto del periodo minimo di un anno dall’iscrizione ovvero 
+dall’ultima riallocazione. In questo caso i versamenti contributivi successivi sono suddivisi sulla base delle 
+nuove percentuali fissate all’atto della riallocazione, salvo diversa dispo sizione dell’aderente. Il limite del 
+periodo di permanenza minimo non opera con riguardo  alla prima riallocazione successiva all’adesione 
+tacita.
+=== pagina 4 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            4 di 29 
+Art. 7 – Gestione degli investimenti 
+1. L’impresa di assicurazione effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle 
+condizioni stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo a 
+riferimento l’esclusivo interesse degli aderenti. 
+2. Ferma restando la responsabilità dell’impresa di assicurazione, essa può affidare a soggetti di cui all’art. 
+6, comma 1, lettere a), b), c), c-bis) del Decreto in possesso dei requisiti previsti dalla normativa tempo per 
+tempo vigente, l’esecuzione di specifici incarichi di gestione. 
+3. L’impresa di assicurazione verifica i risultati della gestione mediante l’adozione di parametri di 
+riferimento coerenti con gli obiettivi e i criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+a) Comparto Popolare-Bond 
+A. Caratteristiche di gestione  
+Lo scopo della gestione è l’investimento collettivo di capitali in valori mobiliari opportunamente selezionati 
+al fine di incrementarne il valore nel medio-lungo termine. 
+L’impresa di assicurazione persegue obbiettivi di pura redditività tenendo presente le garanzie proposte.  
+A tale fine attua una politica di investimento tendenzialmente orientata verso titoli emessi da stati o da 
+organismi internazionali e altri titoli di debito denominati in euro o in valuta.  
+Nel caso di investimenti in mercati esteri possono essere utilizzate tecniche di copertura del rischio di 
+cambio. 
+Il comparto non prevede investimenti diretti in titoli di capitale. 
+Il patrimonio dovrà essere in prevalenza investito in valori mobiliari trattati in mercati ufficiali e 
+regolamentati, regolarmente funzionanti ed aperti al pubblico, riconosciuti dalle relative Autorità di 
+Vigilanza. 
+L’impresa di assicurazione potrà infine effettuare investimenti in titoli di debito non quotati, purché emessi 
+o garantiti da paesi aderenti all’OCSE ovvero da soggetti ivi residenti.  
+B. Disciplina della garanzia 
+L’adesione al presente comparto attribuisce all’aderente, al verificarsi degli eventi di cui appresso, il diritto 
+alla corresponsione di un importo minimo garantito a prescindere dai risultati di gestione. La garanzia può 
+essere prestata all’impresa di assicurazione da soggetti diversi dalla stessa, a ciò abilitati. 
+L’importo minimo garantito è pari alla somma, maggiorata del 1,00% su base annua, dei contributi netti 
+versati al comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro comparto o da altra 
+forma pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto da 
+eventuali riscatti parziali e anticipazioni. 
+Per contributi netti si intendono i contributi di cui all’Art.10, comma 2.  
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+a) esercizio del diritto alla prestazione pensionistica di cui all’Art. 11; 
+b) riscatto per decesso; 
+c) riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un 
+terzo; 
+d) riscatto per inoccupazione per un periodo superiore a 48 mesi. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata, 
+calcolata ai sensi dell’Art. 10, e con riferimento al primo giorno di valorizzazione utile successivo alla 
+verifica delle condizioni che danno diritto alla prestazione, la stessa viene integrata a tale maggior valore. 
+L’integrazione viene corrisposta dall’impresa di assicurazione. 
+b) Comparto Popolare-Gest 
+A. Caratteristiche di gestione  
+Lo scopo della gestione è l’investimento collettivo di capitali in valori mobiliari opportunamente selezionati 
+al fine di incrementare il valore nel medio-lungo termine. 
+L’impresa di assicurazione attua una politica di investimento tendenzialmente orientata ad una 
+composizione di portafoglio ampiamente diversificata, investendo in titoli di debito denominati in euro e 
+in valuta e nell’intesa che i titoli di capitale potran no essere presenti per un valore non superiore al 50% 
+del portafoglio.
+=== pagina 5 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            5 di 29 
+Nel caso di investimenti in mercati esteri possono essere utilizzate tecniche di copertura del rischio di 
+cambio.  
+Il patrimonio dovrà essere in prevalenza investito in valori mobiliari trattati in mercati ufficiali e 
+regolamentati, regolarmente funzionanti ed aperti al pubblico, riconosciuti dalle relative Autorità di 
+Vigilanza. 
+L’impresa di assicurazione potrà infine effettuare investimenti in titoli di debito non quotati, purché emessi 
+o garantiti da paesi aderenti all’OCSE ovvero da soggetti ivi residenti.  
+Nel rispetto della politica di investimento e tenendo conto delle garanzie proposte, con questo comparto 
+l’impresa di assicurazione si prefigge di realizzare, con elevata probabilità quantomeno in un orizzonte 
+temporale pluriennale, rendimenti che siano pari o superiori a quelli del TFR. 
+B. Disciplina della garanzia 
+L’adesione al presente comparto attribuisce all’aderente, al verificarsi degli eventi di cui appresso, il diritto 
+alla corresponsione di un importo minimo garantito a prescindere dai risultati di gestione. La garanzia può 
+essere prestata all’impresa di assicurazione da soggetti diversi dalla stessa, a ciò abilitati. 
+L’importo minimo garantito è pari alla somma, maggiorata del 1,00% su base annua, dei contributi netti 
+versati al comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro comparto o da altra 
+forma pensionistica e i versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto da 
+eventuali riscatti parziali e anticipazioni. 
+Per contributi netti si intendono i contributi di cui all’Art.10, comma 2.  
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+a) esercizio del diritto alla prestazione pensionistica di cui all’Art. 11; 
+b) riscatto per decesso; 
+c) riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un 
+terzo; 
+d) riscatto per inoccupazione per un periodo superiore a 48 mesi. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata, 
+calcolata ai sensi dell’Art. 10, e con riferimento al primo giorno di valorizzazione utile successivo alla 
+verifica delle condizioni che danno diritto alla prestazione, la stessa viene integrata a tale maggior valore. 
+L’integrazione viene corrisposta dall’impresa di assicurazione. 
+c) Comparto Popolare-Mix 
+A. Caratteristiche di gestione  
+Lo scopo della gestione è l’investimento collettivo di capitali in valori mobiliari opportunamente selezionati 
+al fine di incrementarne il valore nel lungo termine, coniugando la redditività dei titoli con la rivalutabilità 
+delle attività reali. 
+L’impresa di assicurazione attua a tale fine una politica di investimento volta a perseguire una struttura 
+del portafoglio bilanciata fra titoli di debito e titoli di capitale denominati in euro o in valuta, nell’intesa 
+che gli investimenti in titoli di capitale potranno essere presenti nel portafoglio per un valore non superiore 
+al 70% del portafoglio medesimo.  
+Nel caso di investimenti in mercati esteri possono essere utilizzate tecniche di copertura del rischio di 
+cambio.  
+Il patrimonio dovrà essere in prevalenza investito in valori mobiliari trattati in mercati ufficiali e 
+regolamentati, regolarmente funzionanti ed aperti al pubblico, riconosciuti dalle relative Autorità di 
+Vigilanza. 
+L’impresa di assicurazione potrà infine effettuare investimenti in titoli di debito non quotati, purché emessi 
+o garantiti da paesi aderenti all’OCSE ovvero da soggetti ivi residenti. 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di 
+rischio-rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti nella 
+Nota informativa.  
+ 
+Art. 8 – Spese 
+1. L’iscrizione al Fondo prevede le seguenti spese: 
+a) spese da sostenere all’atto dell’adesione:  
+una commissione “una tantum” a carico dell’aderente pari a € 40,00;
+=== pagina 6 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            6 di 29 
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’aderente: non sono previste; 
+b.2) indirettamente a carico dell’aderente e che incidono sul comparto:  
+una commissione di gestione pari alle % sotto indicate del patrimonio  su base annua,  prelevata con 
+cadenza trimestrale:  
+Comparti  
+Commissione di 
+gestione 
+Trimestrale (%) 
+Commissione di 
+gestione corrispondente 
+su base annua (%) 
+Popolare-Bond 0,275 1,10 
+Popolare-Gest 0,2875 1,15 
+Popolare-Mix 0,30 1,20 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese legali e 
+giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione derivanti dall’attività 
+di impiego delle risorse, nonché il “contributo di vigilanza” dovuto annualmente alla COVIP ai sensi di 
+legge; sono altresì a carico le spese relative alla remunerazione e allo svolgimento dell’incarico del 
+Responsabile salva diversa decisione dell’impresa di assicurazione. 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e 
+al rimborso delle parti di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo 
+i casi di deroga di carattere generale previsti dalla COVIP. In particolare, nel caso di investimenti in OICR 
+collegati, dal compenso dell’impresa di assicurazione sarà dedotta la remunerazione complessiva 
+percepita dal gestore dell’OICR collegato. Fanno eccezione gli investimenti in FIA divers i da quelli 
+collegati. 
+c) Spese collegate all’esercizio di prerogative individuali , dirette alla copertura dei relativi oneri 
+amministrativi: 
+c.1) 25,00 euro in caso di trasferimento ad altra forma pensionistica; 
+c.2) 25,00 euro in caso di riscatto della posizione individuale; 
+c.3) 25,00 euro per la riallocazione della posizione individuale tra i comparti, ai sensi del comma 2 
+dell’Art.6 
+d) spese relative alla fase di erogazione delle rendite, quali riportate nell’allegato n. 2. 
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia: 
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2, in relazione ai comparti nei quali 
+è investita la posizione individuale residua; 
+d-bis.2) in cifra fissa: pari a 3,00 euro per ogni rata erogata. 
+e) spese in cifra fissa relative alla prestazione erogata in forma di “Rendita integrativa temporanea 
+anticipata” (RITA) dirette alla copertura dei relativi oneri amministrativi: pari a 3,00 euro per ogni rata 
+di rendita erogata. 
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di 
+convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle 
+commissioni di gestione espresse in misura percentu ale sul patrimonio avviene mediante emissione di 
+classi di quote differenti. 
+3. Sono a carico dell’impresa di assicurazione tutte le spese e oneri non individuati dalle disposizioni del 
+presente articolo. 
+ 
+ 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+ 
+Art. 9 – Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso. 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima e 
+delle modalità eventualmente stabilite dai contratti e dagli accordi collettivi, anche aziendali. 
+3. I lavoratori dipendenti , in caso di adesione esplicita, possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può anche 
+essere parziale ove previsto dagli accordi collettivi. Qualora il lavoratore decida di versare la contribuzione
+=== pagina 7 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            7 di 29 
+prevista a suo carico e abbia diritto, in base ad accordi collettivi, anche aziendali, a un contributo del datore 
+di lavoro, detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il datore 
+di lavoro può decidere, anche in assenza di accordi collettivi, anche aziendali, di contribuire al Fondo.  
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i 
+lavoratori dipendenti, l’obbligo del versamento del TFR maturando eventualmente conferito. La 
+sospensione non comporta la cessazione della partecipazione al Fondo. 
+5. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà di sospendere 
+la contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo a carico del 
+datore di lavoro, fermo restando l’eventuale versamento del TFR maturando al Fondo. È possibile riattivare 
+la contribuzione in qualsiasi momento. 
+6. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 12, del Decreto 
+(c.d. contribuzione da abbuoni). 
+7. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che alla data del 
+pensionamento possa far valere almeno un anno di contribuzione  a favore delle forme di previdenza 
+complementare. 
+ 
+Art. 10 – Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è alimentata 
+dai contributi netti versati, dagli importi derivanti da trasferimenti da altre forme pensionistiche 
+complementari e dai versamenti effettuati per il reintegro delle anticipazioni percepite, ed è ridotta da 
+eventuali riscatti parziali e anticipazioni. 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, 
+di cui all’art. 8, comma 1, lettera a) e lettera b1). Sul primo versamento incidono anche eventuali spese di 
+adesione. 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di ogni 
+singolo comparto è calcolato come variazione del valore della quota dello stesso nel periodo considerato. 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono 
+valutate al valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla determinazione 
+della posizione individuale, a prescindere dal momento di effettivo realizzo. 
+5. L’impresa di assicurazione determina il valore della quota e, conseguentemente, della posizione 
+individuale di ciascun 
+aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono trasformati in quote, e 
+frazioni di quote, sulla base del primo valore di quota successivo al giorno in cui si sono resi disponibili per 
+la valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello risultante 
+al primo giorno di valorizzazione utile successivo a quello in cui l’impresa di assicurazione ha verificato la 
+sussistenza delle condizioni che danno diritto alle prestazioni. 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono 
+intangibili e non possono formare oggetto di sequestro o pignoramento da parte dei creditori 
+dell’aderente.  
+ 
+Art. 11 – Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei 
+requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, con 
+almeno cinque anni di partecipazione alle f orme pensionistiche complementari. Il predetto termine è 
+ridotto a tre anni per il lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo 
+stesso acquisisca  il diritto a una pensione complementare e che si sposta in un altro Stato membro 
+dell’Unione europea. L’aderente che decide di proseguire volontariamente la contribuzione ai sensi del 
+comma 7 dell’art. 9 ha la facoltà di determinare autonomamente il momento di fruizione delle prestazioni 
+pensionistiche.
+=== pagina 8 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            8 di 29 
+2. Per i soggetti non titolari di reddito di lavoro o d’impresa si considera età pensionabile quella vigente 
+nel regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche 
+sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati 
+dall’aderente per i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale. 
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione 
+nei regimi obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1, ha facoltà di  richiedere che le prestazioni siano erogate, in tutto o in 
+parte, in forma di RITA con un anticipo massimo di cinque anni rispetto alla data di maturazione dell’età 
+anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un 
+periodo di tempo superiore a ventiquattro mesi e abbia maturato il periodo minimo di partecipazione alle 
+forme pensionistiche complementari di cui al comma 1, ha facoltà di richiedere la rendita di cui al comma 
+4 con un anticipo massimo di 10 anni rispetto alla data di maturazione dell’età anagrafica prevista per la 
+pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento , ai sensi dei commi 4 o 5, verrà 
+fatta confluire, salvo diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo e 
+indicato nella Nota informativa. L’aderente può successivamente variare il comparto nel rispetto del 
+periodo minimo di permanenza. 
+7. Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta la cessazione 
+dell’erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha la facoltà 
+di richiedere, con riferimento alla sola porzione residua della posizione individuale, il riscatto e 
+l’anticipazione di cui agli artt. 13 e 14  ovvero, cessata l’erogazione della RITA parziale,  la prestazione 
+pensionistica. 
+9. In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende 
+automaticamente revocata e viene trasferita l’intera posizione individuale. 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di 
+capitale nel limite del 50 per cento della posizione individuale maturata. Nel computo dell’importo 
+complessivo erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non 
+si sia provveduto al reintegro. Qualora l’importo che si ottiene convertendo in rendita vitalizia immediata 
+annua senza reversibilità a favore dell’aderente il 70 per cento della posizione individuale maturata risulti 
+inferiore al 50 per cento dell’assegno sociale di cui all’articolo 3, commi 6 e 7, della legge 8 agosto 1995, 
+n. 335, l’aderente può optare per la liquidazione in capitale dell’intera posizione maturata. 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 
+aprile 1993 ed entro tale data iscritto a una forma pensionistica complementare istituita alla data di 
+entrata in vigore della legge 23 ottobre 1992, n. 421, può richiedere la liquidazione dell’intera prestazione 
+pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche  sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto 
+può trasferire la propria posizione individuale presso altra forma pensionistica complementare, per 
+avvalersi delle condizioni di erogazione della rendita vitalizia praticate da quest’ultima. In tal caso si applica 
+quanto previsto all’art. 13, commi 6 e 7. 
+ 
+Art. 12 – Erogazione delle prestazioni pensionistiche  
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita 
+vitalizia immediata calcolata in base alla posizione individuale maturata, al netto della eventuale quota di 
+prestazione da erogare sotto forma di capitale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle  tipologie di rendita 
+vitalizia di seguito indicate:
+=== pagina 9 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            9 di 29 
+– una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’aderente stesso, alla persona da lui 
+designata; 
+– una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 o 10 anni 
+all’aderente o, in caso di suo decesso, alla persona da lui designata. Successivamente, se l’aderente 
+è ancora in vita, viene corrisposta allo stesso una rendita vitalizia. 
+3. Nell’allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite  
+vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo 
+calcolo. Tali coefficienti possono essere successivamente variati, nel rispetto della normativa tempo per 
+tempo vigente in materia di stabilità delle compag nie di assicurazione; in ogni caso, le modifiche dei 
+coefficienti di trasformazione non si applicano ai soggetti, già aderenti alla data di introduzione delle 
+modifiche stesse, che esercitano il diritto alla prestazione pensionistica nei tre anni successivi.  
+4. Le simulazioni relative alla rendita  vitalizia che verrà erogata sono effettuate facendo riferimento, 
+laddove vi sia l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’allegato n. 2 
+e, negli altri casi, a coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base alle 
+proiezioni ufficiali disponibili sull’andamento della mortalità della popolazione italiana. 
+5. In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale quota di 
+prestazione erogata sotto forma di capitale, l’erogazione della prestazione pensionistica in una delle 
+seguenti forme: 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della 
+vita attesa residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni 
+obbligatorie. 
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con 
+facoltà per lo stesso di determinarne la tempistica e l’importo nel limite della somma delle rate, 
+maturate e non riscosse, di una rendita teorica con frazion amento annuale, immediatamente 
+erogabile e di durata definita pari alla vita attesa residua, in anni interi, dell’aderente al momento 
+della richiesta della prestazione. 
+6.  L’impresa di assicurazione provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla 
+rendita vitalizia con tempestività e comunque non oltre il termine massimo di 6 mesi decorrente dalla 
+ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o in sufficiente, l’impresa di 
+assicurazione richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. Il montante residuo è mantenuto in gestione nel 
+comparto scelto dall’aderente, all’atto della richiesta della prestazione o, in difetto di indicazioni, nel 
+comparto individuato nella Nota informativa. 
+6-bis. Al fine di adeguare i sistemi e i processi operativi dell’impresa di assicurazione per la gestione delle 
+richieste e l’erogazione diretta delle prestazioni, il termine di cui al comma 6 può essere derogato per un 
+periodo transitorio, che non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo l’impresa di 
+assicurazione acquisisce le richieste di erogazione delle prestazioni. Successivamente all’avvenuto 
+adeguamento dei suddetti sistemi e processi operativi, l’impresa di assicurazione  procede 
+tempestivamente alla liquidazione delle richieste di erogazione delle prestazioni pervenute durante il 
+periodo transitorio. 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere revocate 
+una volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del montante residuo in 
+una rendita vitalizia immediata sull a base delle condizioni e dei criteri indicati nella Nota informativa, 
+ovvero trasferisca il montante residuo presso un’altra forma pensionistica all’unico fine di beneficiare delle 
+condizioni di rendita vitalizia offerte da quest’ultima. 
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto 
+ad individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante 
+residuo. Tale scelta può essere successivamente modificata dall’aderente. 
+9.  Nel corso dell’erogazione delle prestazioni di cui al comma 5 lett. a) e b), l’aderente non può richiedere 
+trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione del comparto di investimento, 
+che può essere richiesta nel rispetto del periodo minimo di partecipazione di cui all’art. 6, comma 2.
+=== pagina 10 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            10 di 29 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore 
+contribuzione al Fondo, salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la 
+maturazione del TFR. 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni 
+pensionistiche di cui al comma 5, lett. a) e b). 
+ 
+Art. 13 – Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica complementare 
+decorso un periodo minimo di due anni di partecipazione al Fondo. 
+2. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale 
+acceda in relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività 
+lavorativa che comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e non 
+superiore a quarantotto mesi, ovvero in caso di ricors o da parte del datore di lavoro a procedure di 
+mobilità, cassa integrazione guadagni, ordinaria o straordinaria; 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la 
+riduzione della capacità di lavoro a meno di un terzo e a seguito di cessazione dell’attività lavorativa 
+che comporti l’inoccupazione per un periodo di tempo superiore a quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi dell’art. 14, comma 5 del Decreto, ovvero 
+trasferirla ad altra forma pensionistica complementare, qualora vengano meno i requisiti di 
+partecipazione.  
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di 
+trasferimento e riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore 
+contribuzione. Tale opzione trova automatica applicazione in difetto di diversa scelta da parte 
+dell’aderente. Nel caso in cui il valore della posizione individuale maturata non sia superiore all’importo di 
+una mensilità dell’assegno sociale di cui all’art. 3, comma 6, della Legge 8 agosto 1995, n. 335, l’impresa di 
+assicurazione informa l’aderente della facoltà di trasferire la propria posizione individuale ad altra forma 
+pensionistica complementare, ovvero di chiedere il riscatto dell’intera posizione di cui al comma 2, lettera 
+d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero nel 
+corso dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la posizione individuale è 
+riscattata dai soggetti designati dal lo stesso, siano essi persone fisiche o giuridiche, o in mancanza dagli 
+eredi. In mancanza di tali soggetti, la posizione individuale resta acquisita al Fondo. 
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione. 
+6. L’impresa di assicurazione, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto 
+della posizione con tempestività, e comunque non oltre il termine massimo di sei mesi decorrente dalla 
+ricezione della richiesta. Nel caso in cui  la domanda risulti incompleta o insufficiente, l’impresa di 
+assicurazione richiede gli elementi integrativi e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della 
+partecipazione al Fondo. 
+ 
+Art. 14 – Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e 
+misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie 
+conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi 
+straordinari riconosciuti dalle competenti strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore 
+al 75 per cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, per la realizzazione, 
+sulla prima casa di abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro e
+=== pagina 11 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            11 di 29 
+di risanamento conservativo, di ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 1 
+dell’art. 3 del decreto del Presidente della Repubblica del 6 giugno 2001, n. 380; 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore 
+al 30 per cento, per la soddisfazione di ulteriori sue esigenze. 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono 
+riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento 
+della posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate. 
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono 
+considerati 
+utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati dall’aderente, per i 
+quali lo stesso non abbia esercitato il diritto di riscatto totale della posizione individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in 
+qualsiasi momento. 
+6. Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, sequestrabilità 
+e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+7. L’impresa di assicurazione provvede agli adempimenti conseguenti all’esercizio delle predette  facoltà 
+da parte dell’aderente con tempestività e comunque non oltre il termine massimo di centottanta giorni 
+decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, 
+l’impresa di assicurazione richiede gl i elementi integrativi, e il termine sopra indicato è sospeso fino alla 
+data del completamento o della regolarizzazione della pratica.  
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+ 
+Art. 15 – Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia 
+al patrimonio dell’impresa di assicurazione, sia a quello degli altri fondi gestiti, sia a quello degli aderenti. 
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non 
+può essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori dell’impresa di 
+assicurazione o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di 
+rappresentanti dei creditori stessi. Il patrimonio de l Fondo non può essere coinvolto nelle procedure 
+concorsuali che riguardino l’impresa di assicurazione. 
+4. L’impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e 
+contabile delle operazioni poste in essere per conto del Fondo rispetto al complesso delle altre operazioni 
+svolte dall’impresa di assicurazione e del patrimonio del Fondo rispetto a quello dell’impresa di 
+assicurazione e di suoi clienti. 
+5. Ferma restando la responsabilità dell’impresa di assicurazione per l’operato del soggetto delegato, la 
+gestione amministrativa e contabile del Fondo può essere delegata a terzi. 
+6. L’impresa di assicurazione è dotata di procedure organizzative atte a garantire la separatezza 
+amministrativa e contabile delle operazioni poste in essere in riferimento a ciascun comparto. 
+7. Il patrimonio di ciascun comparto è suddiviso in quote o in differenti classi di quote. 
+ 
+Art. 16 – Sistema di governo 
+1. L’impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla portata e 
+alla complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4-bis, 5-bis, 5-ter, 
+5-quater, 5-sexies, 5-septies, 5-octies e 5-nonies del Decreto in coerenza con gli assetti organizzativi del 
+rispettivo settore di riferimento.  
+ 
+Art. 17 – Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei 
+requisiti previsti dalle vigenti disposizioni normative (di seguito “depositario”).
+=== pagina 12 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            12 di 29 
+2. L’impresa di assicurazione può revocare in ogni momento l’incarico al depositario il quale può, a sua 
+volta, rinunciare con preavviso di sei mesi; in ogni caso, l’efficacia della revoca o della rinuncia è sospesa 
+fino a che: 
+–  l’impresa di assicurazione non abbia stipulato un nuovo contratto con altro depositario, in possesso 
+dei requisiti di legge; 
+– il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità 
+dell’impresa di assicurazione per l’operato del soggetto delegato. 
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente. 
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità 
+riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di cui 
+sono venuti a conoscenza nell’esercizio delle funzioni di depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono 
+ammesse azioni dei creditori del depositario, del subdepositario o nell’interesse degli stessi. 
+ 
+Art. 18 – Responsabile 
+1. L’impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2 del Decreto. 
+2. Le disposizioni che regolano la nomina, le competenze, il regime di responsabilità del Responsabile sono 
+riportate nell’allegato n. 1. 
+ 
+Art. 19 – Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi della 
+normativa tempo per tempo vigente. 
+ 
+Art. 20 – Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle 
+posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+2. L’impresa di assicurazione conferisce a una società di revisione l’incarico di esprimere, con apposita 
+relazione, un giudizio sul rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web dell’impresa di assicurazione. 
+ 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+ 
+Art. 21 – Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. 
+L’adesione è preceduta dalla consegna della documentazione informativa prevista tempo per tempo dalla 
+normativa vigente. 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite all’impresa di 
+assicurazione. 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera di 
+conferma, attestante la data di iscrizione e le informazioni relative all’eventuale versamento effettuato. 
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi allegati, e delle 
+successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’art. 26. 
+5. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze 
+dell’impresa di assicurazione da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione 
+dell’impresa di assicurazione. Le adesioni su base collettiva possono essere raccolte anche presso i luoghi 
+indicati nella Nota informativa.  
+6. L’aderente ha la facoltà di esercitare il diritto di recesso entro trenta giorni dalla sottoscrizione del 
+modulo, senza costi di recesso e senza dover indicare il motivo dello stesso. Per l’esercizio del diritto di 
+recesso l’aderente deve inviare comunicaz ione scritta all’impresa di assicurazione tramite lettera 
+raccomandata con avviso di ricevimento o PEC. L’impresa di assicurazione , entro trenta giorni dal 
+ricevimento della comunicazione, provvede:
+=== pagina 13 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            13 di 29 
+a) in caso di non valorizzazione del contributo, al rimborso del contributo versato al netto delle spese di 
+adesione; 
+b) in caso di valorizzazione del contributo, al rimborso del controvalore delle quote (già decurtato delle 
+spese di adesione) alla prima data di disinvestimento utile. 
+In caso di adesione mediante sito web, l’impresa di assicurazione deve acquisire il consenso espresso 
+dell’aderente all’utilizzo di tale strumento. 
+L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di 
+recesso e senza dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente invia una 
+comunicazione scritta all’impresa di assic urazione con modalità che garantiscono certezza della data di 
+ricezione. L’impresa di assicurazione, entro trenta giorni dal ricevimento della comunicazione, procede a 
+rimborsare le somme eventualmente pervenute, al netto delle spese di adesione, ove tratt enute. 
+L’impresa di assicurazione rende previamente noti all’aderente il momento in cui l’adesione si intende 
+conclusa, i termini, le modalità e i criteri di determinazione delle somme oggetto di rimborso.   
+7. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione al 
+Fondo. In caso di inadempimento, l’impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del Codice 
+Civile, di risolvere il contratto comunicand o all’aderente la propria volontà di avvalersi della clausola 
+risolutiva espressa, salvo che l’aderente non provveda a effettuare un versamento entro sessanta giorni 
+dalla ricezione della comunicazione.  
+8. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con 
+conseguente azzeramento della posizione individuale a seguito dell’applicazione delle spese annuali di 
+gestione amministrativa, l’impresa di assicurazione ha f acoltà, ai sensi dell’art. 1456 del Codice Civile, di 
+risolvere il contratto comunicando la propria volontà di avvalersi della clausola risolutiva espressa, salvo 
+che l’aderente non provveda a effettuare un versamento entro sessanta giorni dalla ricezione della 
+comunicazione. 
+ 
+Art. 22 – Trasparenza nei confronti degli aderenti e dei beneficiari 
+1. L’impresa di assicurazione mette a disposizione degli aderenti la documentazione inerente al Fondo e 
+tutte le altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali 
+documenti sono disponibili sul sito web dell’impresa di assicurazione in un’apposita sezione dedicata alle 
+forme pensionistiche complementari e presso la sede legale dell’impresa di assicurazione.  
+I documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e gratuitamente anche 
+presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni. 
+2. L’impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni 
+individuali maturate e alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per tempo 
+vigente. 
+ 
+Art. 23 – Comunicazioni e reclami 
+1. L’impresa di assicurazione definisce le modalità con le quali gli aderenti e i beneficiari possono 
+rappresentare le proprie esigenze e presentare reclami in coerenza con le indicazioni fornite dalla COVIP, 
+riportandole nella Nota Informativa. 
+ 
+PARTE VI – NORME FINALI 
+ 
+Art. 24 – Modifiche al regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP. 
+2. L’impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse 
+degli aderenti e fatto salvo quanto disposto all’art. 26. 
+ 
+Art. 25 – Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione 
+individuale maturata ad altra forma pensionistica complementare, anche prima che siano decorsi due anni
+=== pagina 14 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            14 di 29 
+dall’iscrizione. Il diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in modo 
+sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione significativa delle 
+politiche di investimento. 
+2. L’impresa di assicurazione comunica a ogni aderente interessato l’introduzione delle modifiche almeno 
+centoventi giorni prima della relativa data di efficacia; dal momento della comunicazione l’aderente ha 
+novanta giorni di tempo per manifestare l’event uale scelta di trasferimento. L’impresa di assicurazione 
+può chiedere alla COVIP termini ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del 
+Fondo e non contrasti con l’interesse degli aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese. 
+ 
+Art. 26 – Cessione del fondo 
+1. Qualora l’impresa di assicurazione non voglia o non possa più esercitare l’attività di gestione del Fondo, 
+questo viene ceduto ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione del Fondo a 
+società diverse da quelle del Gruppo al quale appartiene l’impresa di assicurazione viene riconosciuto agli 
+aderenti il diritto al trasferimento della posizione presso altra forma pensionistica complementare ai sensi 
+dell’art. 26 e con le modalità ivi previste. 
+ 
+Art. 27 – Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fusione 
+con un altro fondo gestito dalla medesima impresa di assicurazione, il diritto al trasferimento della 
+posizione presso altra forma pensionistica c omplementare viene riconosciuto qualora ricorrano le 
+condizioni di cui all’art. 26 e con le modalità ivi previste. 
+ 
+Art. 28 – Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla normativa 
+tempo per tempo vigente.
+=== pagina 15 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            15 di 29 
+ALLEGATO 1 – DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+ 
+Art. 1 – Nomina e cessazione dell’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione dell’impresa di assicurazione che 
+esercita l’attività del Fondo. L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non 
+più di una volta consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene nominato 
+il nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di controllo 
+dell’impresa di assicurazione. 
+4. Le nomine, gli eventuali rinnovi dell’incarico, le sostituzioni del Responsabile prima della scadenza del 
+termine vengono comunicati alla COVIP entro 15 giorni dalla deliberazione. 
+ 
+Art. 2 – Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile, sono previsti dalla normativa tempo per tempo 
+vigente.  
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa presso 
+l’impresa di assicurazione o società da questa controllate o che la controllano; 
+b) l’incarico di amministratore dell’impresa di assicurazione. 
+ 
+Art. 3 – Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incompatibilità 
+comporta la decadenza dall’incarico. 
+ 
+Art. 4 – Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’atto della 
+nomina per l’intero periodo di durata dell’incarico e viene definita sulla base di una sana politica di 
+remunerazione che tenga conto dei principi previ sti dalla normativa tempo per tempo vigente, fermo 
+restando che il compenso del Responsabile non può essere pattuito sotto forma di partecipazione agli utili 
+dell’impresa di assicurazione, o di società controllanti o controllate, né sotto forma di diritti di acquisto o 
+di sottoscrizione di azioni dell’impresa di assicurazione o di società controllanti o controllate.  
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a carico 
+del Fondo, salva diversa decisione dell’impresa di assicurazione. 
+ 
+Art. 5 – Autonomia del responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dall’impresa di 
+assicurazione, riportando direttamente all’organo di amministrazione della stessa relativamente ai risultati 
+dell’attività svolta. 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative dell’impresa di 
+assicurazione, di volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri di cui 
+all’Art.6. L’impresa di assicurazione gli garantisce l’accesso a tutte le informazioni necessarie allo scopo. 
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo dell’impresa 
+di assicurazione, per tutte le materie inerenti al Fondo. 
+ 
+Art. 6 – Doveri del responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei 
+beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle buone 
+pratiche e dei principi di corretta amministrazione del Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dall’impresa di assicurazione, organizza lo 
+svolgimento delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe di 
+gestione, con riferimento ai controlli su:
+=== pagina 16 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            16 di 29 
+i) la politica di investimento. In particolare: che la politica di investimento effettivamente seguita sia 
+coerente con quella indicata nel Regolamento e nel Documento sulla politica di investimento e che 
+gli investimenti, ivi compresi quelli effettuati in  OICR, avvengano nell’esclusivo interesse degli 
+aderenti, nel rispetto dei principi di sana e prudente gestione nonché nel rispetto dei criteri e limiti 
+previsti dalla normativa tempo per tempo vigente e dal Regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investimenti 
+effettuati siano correttamente identificati, misurati e controllati e che siano coerenti con gli obiettivi 
+perseguiti dalla politica di investimento; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di deleghe di 
+gestione, con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere  per conto del Fondo 
+rispetto al complesso delle altre operazioni svolte dall’impresa di assicurazione e del patrimonio del 
+Fondo rispetto a quello dell’impresa di assicurazione e di suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei beneficiari con 
+riferimento ai controlli su: 
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli aderenti e dei 
+beneficiari, sia al momento del collocamento del Fondo che durante il rapporto; 
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei beneficiari previste dal 
+Regolamento e le eventuali commissioni correlate ai risultati di gestione siano correttamente 
+applicate; 
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni periodiche agli 
+aderenti e ai beneficiari e in quelle inviate in occasione di eventi particolari; 
+iv) l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento riservato ai singoli 
+reclami; 
+v) la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con riferimento ai 
+tempi di liquidazione delle somme richieste a titolo di anticipazione o riscatto e di trasferimento della 
+posizione individuale. 
+3. Il Responsabile controlla le soluzioni adottate dall’impresa di assicurazione per identificare le situazioni 
+di conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; egli 
+controlla altresì la corretta e secuzione del contratto stipulato per il conferimento dell’incarico di 
+depositario, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle rendite e, 
+ove presenti, delle convenzioni/condizioni relative alle prestazioni accessorie. 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva 
+comunicazione all’organo di amministrazione e a quello di controllo dell’impresa di assicurazione 
+indicando gli interventi correttivi da adottare. 
+ 
+Art. 7 – Rapporti con la COVIP 
+1. Il Responsabile: 
+a) predispone annualmente una relazione che descrive in maniera analitica l’organizzazione adottata 
+per l’adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale per 
+l’esecuzione 
+dell’incarico, dei risultati dell’attività svolta, delle eventuali irregolarità riscontrate durante l’anno e 
+delle iniziative poste in essere  per eliminarle. La relazione viene trasmessa alla COVIP entro il 31 
+marzo di ciascun anno. Copia della relazione stessa viene trasmessa all’organo di amministrazione e 
+a quello di controllo dell’impresa di assicurazione; 
+b) vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa le 
+segnalazioni, la documentazione e le relazioni richieste dalla normativa tempo per tempo vigente e 
+dalle istruzioni emanate in proposito; 
+c) comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione e a quello 
+di controllo dell’impresa di assicurazione, le irregolarità riscontrate nell’esercizio delle sue funzioni.
+=== pagina 17 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            17 di 29 
+Art. 8 – Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura 
+dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti di cui 
+ha conoscenza in ragione del suo ufficio, tranne che nei confronti della COVIP e delle autorità giudiziarie. 
+2. Egli risponde verso l’impresa di assicurazione e verso i singoli aderenti e beneficiari del Fondo dei danni 
+a ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391, 2392, 2393, 2394, 2394-bis 
+e 2395 del Codice Civile.
+=== pagina 18 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            18 di 29 
+ALLEGATO 2 – CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE 
+ 
+a) Gamma delle prestazioni 
+Il valore della posizione individuale di pertinenza dell'iscritto all'atto del pensionamento, eventualmente 
+integrato dalla relativa garanzia di risultato, per la quota prescelta, verrà erogato sotto forma di rendita 
+vitalizia immediata annualmente rivalutabile; il valore della medesima sarà determinato dividendo 
+l'importo maturato (premio) per il tasso di premio individuato secondo quanto precisato alla successiva 
+lettera d). 
+La rendita vitalizia immediata può assumere, a scelta dell'iscritto al Fondo, le seguenti forme: 
+1. rendita vitalizia immediata corrisposta all'Assicurato finché è in vita.  
+2. rendita vitalizia immediata reversibile, all'Assicurato finché è in vita e, successivamente, in misura 
+totale o per quota scelta dall’aderente stesso, alla persona da lui designata quale assicurato -
+reversionario.  
+3. rendita immediata certa per 5 o 10 anni, a scelta dell’aderente, e successivamente vitalizia: detta 
+rendita è corrisposta all'Assicurato finché è in vita o, qualora il decesso del medesimo avvenga entro 
+il periodo prescelto, alla persona designata per il periodo rimanente del periodo prescelto. 
+Sarà cura dell'Assicurato indicare, al momento dell'inserimento in assicurazione, i dati identificativi 
+dell'eventuale reversionario con la percentuale di reversibilità o il beneficiario designato in caso di rendita 
+certa. Le imposte dovute su ciascuna rata di rendita saranno trattenute al pagamento della medesima nella 
+misura vigente a quell'epoca. 
+ 
+b) Modalità di liquidazione delle rendite vitalizie immediate 
+Le rate di rendita vitalizia immediata vengono erogate dal l’impresa di assicurazione  nel giorno di loro 
+scadenza in rate annuali posticipate.  
+È data facoltà, al momento della richiesta della prestazione, di modificare la rateazione della rendita stessa 
+in rate semestrali o mensili posticipate; in tal caso, l’importo della rata di rendita sub annuale si determina 
+dividendo l’importo maturato (premi o) per il tasso di premio individuato secondo quanto precisato alla 
+successiva lettera d) relativo alla rateazione prescelta, e dividendo il risultato ottenuto per il numero di 
+rate previsto nell’anno.  
+Fatto salvo quanto previsto per le forme di rendita di cui al punto 3. della precedente lettera a), l’impresa 
+di assicurazione, contro rilascio di regolare quietanza da parte degli aventi diritto, corrisponde:  
+- ciascuna rata di rendita, subordinatamente all’esistenza in vita dell’assicurato ad ogni rispettiva 
+scadenza; 
+- il rateo di rendita maturato al momento del decesso dell’assicurato, relativo al tempo trascorso 
+dall’ultima scadenza di rata precedente il decesso o, se non è ancora scaduta la prima rata di rendita, 
+dal termine della fase di accumulo. 
+Annualmente verrà richiesta l'esibizione di un valido documento comprovante l'esistenza in vita 
+dell'Assicurato. 
+ 
+c) Modalità di adeguamento delle rendite vitalizie immediate 
+La prestazione di rendita vitalizia immediata sarà adeguata ad ogni anniversario della data di decorrenza 
+in base alla misura annua di rivalutazione. 
+La misura annua di rivalutazione della rendita vitalizia è pari al rendimento annuo attribuito e non può 
+essere negativa. 
+Il rendimento annuo attribuito si ottiene moltiplicando il tasso medio di rendimento della Gestione 
+Separata “POPOLARE VITA” per un’aliquota di partecipazione pari al 90%. 
+In ogni caso il rendimento annuo attribuito non può risultare superiore al tasso medio di rendimento della 
+Gestione Separata “POPOLARE VITA” diminuito di 3/4 (ovvero 0,75) di punto percentuale di rendimento. 
+Si precisa che il tasso medio di rendimento della Gestione Separata “POPOLARE VITA”, determinato 
+secondo quanto precisato nel regolamento della Gestione Separata “POPOLARE VITA” di cui alla successiva 
+lettera g), costituisce la base di calcolo per la misura annua di rivalutazione da applicare alle prestazioni di 
+rendita con data di adeguamento che cade nel terzo mese successivo al periodo di osservazione di dodici 
+mesi in cui è stato realizzato il suddetto tasso medio di rendimento.
+=== pagina 19 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            19 di 29 
+L’adeguamento annuale della rendita avrà luogo applicando la misura annua di rivalutazione sulla rendita 
+in vigore nel periodo annuale precedente. 
+  
+d) Tassi di premio per la conversione del montante contributivo in rendita vitalizia immediata 
+Il tasso di premio da adottare per la determinazione dell'importo annuo della rendita immediata vitalizia 
+e certa, di cui ai punti 1 e 3 della precedente lettera a), si ricava dalle tabelle riportate negli Annessi n° 2.1 
+e n° 2.2 al presente ALLEGATO N.2 in base all'età dell’aderente raggiunta al pensionamento, alla rateazione 
+della rendita prescelta e, qualora l’aderente sia un lavoratore dipendente che aderisce al Fondo su base 
+collettiva, anche al sesso. 
+In particolare,  
+- nell’Annesso n° 2.1 sono contenute le tabelle dei tassi di premio da adottare qualora la 
+conversione in rendita derivi da adesioni al Fondo avvenute su base individuale e da adesioni su base 
+collettiva diverse da quelle di lavoratori dipendenti; 
+- nell’Annesso n° 2.2 sono contenute le tabelle dei tassi di premio da adottare qualora la 
+conversione in rendita derivi da adesioni al Fondo su base collettiva di lavoratori dipendenti. 
+In base alla tavola di sopravvivenza adottata (ved. successiva lettera f) "Basi demografiche e finanziarie 
+adottate"), l'età computabile ai fini assicurativi è corretta in base all'anno di nascita dell'Assicurato, come 
+evidenziato negli Annessi n° 2.1 e n° 2.2. 
+L'età computabile ai fini del calcolo della rendita è espressa in anni e mesi. Per le età non intere, il tasso di 
+premio si ottiene per interpolazione lineare dei tassi di premio corrispondenti alle età intere ottenute 
+approssimando rispettivamente per difetto e per eccesso l'età corretta in anni e mesi. 
+Sulla base delle rilevazioni (osservazioni sugli andamenti) demografiche e delle condizioni finanziarie, i 
+suddetti tassi di premio possono essere periodicamente rideterminati: detta rideterminazione non avrà 
+effetto sulle rendite già in corso di erogazione. 
+I tassi di premio e la relativa documentazione da utilizzare per il calcolo della rendita vitalizia immediata 
+reversibile, di cui al punto 2. della precedente lettera a), sono portati a conoscenza degli aderenti mediante 
+deposito presso la Sede del Fondo. 
+ 
+e) Caricamenti applicati (già compresi nei tassi di premio di cui alla lettera d)) e costo implicito 
+derivante dal meccanismo di adeguamento delle rendite vitalizie immediate 
+Spese per il servizio di erogazione delle rendite pari allo 0,8% della rendita annua maggiorato di tante volte 
+lo 0,1% per quante sono le rate di rendita dovute nell’anno. 
+Retrocessione all'Assicurato pari al 90% della Gestione Separata “POPOLARE VITA”, fermo restando il 
+trattenimento da parte dell’impresa di assicurazione di almeno 3/4 (ovvero 0,75) di punto percentuale di 
+rendimento.  
+ 
+f) Basi demografiche e finanziarie adottate per le rendite vitalizie immediate 
+I tassi di premio di cui alla precedente lettera d) sono stabiliti dal l’impresa di assicurazione  su basi 
+demografiche e finanziarie. Le basi demografiche riguardano la probabilità di sopravvivenza dell’aderente-
+assicurato, mentre le basi finanziarie riguardano le ipotesi formulate sugli scenari economico -finanziari e 
+sono rappresentate dai rendimenti ottenibili con gli investimenti in attività finanziarie.  
+ 
+Ferma restando la loro rivedibilità secondo quanto precisato alla precedente lettera d), ai fini della 
+determinazione dei suddetti tassi di premio sono state adottate le basi demografiche (tavole di 
+sopravvivenza) e finanziarie (sotto forma di tasso tecnic o) precisate rispettivamente negli Annessi 2.1 e 
+2.2, cui si rimanda. 
+ 
+Le eventuali modifiche del tasso massimo di interesse garantito, determinato dall'ISVAP, ai sensi dell'art. 
+33 del Decreto Legislativo 7 settembre 2005, n.209, saranno applicate relativamente agli iscritti non ancora 
+inseriti in assicurazione. 
+In tutti i casi rimarranno comunque in vigore le posizioni di rendita già in corso di pagamento.
+=== pagina 20 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            20 di 29 
+g) Regolamento della Gestione Separata “POPOLARE VITA” 
+ 
+Art 1 
+Viene attuata una speciale forma di gestione degli investimenti, separata da quella delle altre attività della 
+Società, contraddistinta con il nome Gestione Separata “POPOLARE VITA” (di seguito “Gestione Separata”) 
+e disciplinata dal presente regolamento redatto ai sensi del Regolamento Isvap del 3 Giugno 2011, n. 38. 
+Il regolamento della Gestione Separata è parte integrante delle Condizioni contrattuali. 
+ 
+Art 2 
+La valuta di denominazione della Gestione Separata è l’euro. 
+ 
+Art 3 
+L’attuazione delle politiche di investimento della Gestione Separata competono alla Società, che vi 
+provvede realizzando una gestione professionale degli attivi. 
+Lo stile gestionale adottato dalla Gestione Separata è finalizzato a perseguire la sicurezza, la redditività, la 
+liquidità degli investimenti e mira ad ottimizzare il profilo di rischio -rendimento del portafoglio, tenute 
+presenti le garanzie offerte dai contratti collegati alla Gestione Separata stessa. 
+La gestione finanziaria della Gestione Separata è caratterizzata principalmente da investimenti del 
+comparto obbligazionario denominati in euro, senza tuttavia escludere l’utilizzo di altre attività ammissibili 
+ai sensi della normativa vigente. 
+Per la componente obbligazionaria, le scelte di investimento sono basate sul controllo della durata media 
+finanziaria delle obbligazioni in portafoglio, in funzione delle prospettive dei tassi di interesse e, a livello 
+dei singoli emittenti, della redditività e del rispettivo merito di credito. 
+ 
+Di seguito si evidenziano le tipologie d’investimento maggiormente significative tra cui si intendono 
+investire le risorse. 
+Titoli di debito 
+• Governativi (comprensivi di titoli emessi o garantiti da Stati membri dell’Unione Europea o 
+appartenenti all’Ocse ovvero emessi da enti locali o da enti pubblici di Stati membri o da 
+organizzazioni internazionali cui aderiscono uno o più Stati membri); 
+• Corporate (comprensivi di: obbligazioni od altri titoli assimilabili negoziati in un mercato 
+regolamentato; obbligazioni non negoziate in un mercato regolamentato, emesse da società o enti 
+creditizi aventi la sede legale in uno Stato membro dell’Unione Europea o appartenenti all’Ocse, il 
+cui bilancio sia da almeno tre anni certificato da parte di una società di revisione debitamente 
+autorizzata); 
+• Fondi obbligazionari (Quote di OICR armonizzati che investono in prevalenza nel comparto 
+obbligazionario). 
+Titoli di capitale 
+• Azioni negoziate su mercati regolamentati; 
+• Fondi azionari (quote di OICR armonizzati che investono in prevalenza nel comparto azionario). 
+Investimenti monetari 
+• Depositi bancari; 
+• Pronti contro termine; 
+• Fondi monetari. 
+ 
+Al fine di contenere l’esposizione al rischio mercato, nelle sue diverse configurazioni, vengono definiti i 
+seguenti limiti relativi al portafoglio titoli. 
+Con riferimento alla componente obbligazionaria del portafoglio (titoli di debito) si precisa che 
+l’esposizione massima ai titoli corporate è del 65%. 
+Complessivamente l’esposizione massima relativa alla componente obbligazionaria può essere pari al 
+100%.
+=== pagina 21 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            21 di 29 
+I titoli corporate devono avere rating, assegnato da Standard & Poor’s o equivalente, superiore o uguale 
+all’investment grade; si precisa che, qualora le primarie agenzie quali Standard & Poor’s, Moody’s e Fitch 
+non abbiano attribuito un rating specifico a  singole emissioni, al fine di valutarne il grado di affidabilità è 
+possibile utilizzare il rating attribuito all’emittente degli strumenti finanziari stessi. I titoli corporate con 
+rating assegnato da Standard & Poor’s inferiore all’investment grade o ass ente, possono essere tuttavia 
+presenti fino ad una quota massima del 10% del portafoglio obbligazionario. 
+Al fine di contenere il rischio di concentrazione, titoli corporate emessi da uno stesso emittente o da 
+società facenti parte di un medesimo Gruppo sono ammessi per un ammontare massimo pari al 5% del 
+portafoglio obbligazionario. 
+Con riferimento alla componente azionaria del portafoglio, complessivamente riferibile ai titoli di capitale, 
+ai titoli azionari non quotati e agli investimenti alternativi, si precisa che l’esposizione non dovrà essere 
+superiore al 25% del portafoglio.  
+Gli investimenti in titoli azionari non quotati non potranno essere presenti per una percentuale superiore 
+al 2% del portafoglio. 
+Per quanto concerne la possibilità di investire in investimenti alternativi (azioni o quote di OICR aperti non 
+armonizzati, azioni o quote di fondi mobiliari chiusi non negoziate in un mercato regolamentato nonché 
+fondi riservati e speculativi) è previsto un limite massimo del 2% del portafoglio. 
+E’ prevista la possibilità di investire nel comparto immobiliare nel limite massimo del 10% del portafoglio. 
+La Società si riserva inoltre la possibilità di utilizzare strumenti finanziari derivati in coerenza con le 
+caratteristiche della Gestione Separata e nel rispetto delle condizioni previste dalla normativa vigente in 
+materia di attivi a copertura delle rise rve tecniche con lo scopo sia di realizzare un’efficace gestione del 
+portafoglio, sia di ridurre la rischiosità delle attività finanziarie presenti nella gestione stessa. 
+La Società per assicurare la tutela dei Contraenti da possibili situazioni di conflitto di interesse si impegna 
+al rispetto dei limiti di investimento in relazione ai rapporti con le controparti di cui all’art. 5 del 
+Regolamento ISVAP del 27 maggio 2008, n. 25 ed eventuali successive modifiche. 
+Nell’ambito della politica d’investimento relativa alla Gestione Separata, non è esclusa la possibilità di 
+investire in strumenti finanziari emessi dalle suddette controparti. 
+La Società si riserva comunque, a tutela degli interessi dei Contraenti, di investire in strumenti finanziari o 
+altri attivi emessi o gestiti dalle controparti di cui all’art. 5 del  Regolamento ISVAP del 27 maggio 2008, n. 
+25, nel rispetto dei limiti di seguito indicati: 
+• Organismi di investimento collettivo del risparmio (OICR):fino ad un massimo del 10%; 
+• Obbligazioni: fino ad un massimo del 2%; 
+• Partecipazioni in società immobiliari nelle quali l’impresa detenga più del 50% del capitale sociale: 
+fino ad un massimo del 2%. 
+  
+Art 4 
+Il valore delle attività gestite non potrà essere inferiore all’importo delle riserve matematiche costituite 
+per i contratti di assicurazione e di capitalizzazione che prevedono una clausola di rivalutazione delle 
+prestazioni legata al rendimento della Gestione Separata. 
+  
+Art 5 
+Sulla Gestione Separata gravano unicamente le spese relative all’attività di verifica contabile effettuata 
+dalla società di revisione e quelle effettivamente sostenute per l’acquisto e la vendita delle attività della 
+Gestione Separata. Non sono consentite altre forme di prelievo, in qualsiasi modo effettuate. 
+ 
+Art 6 
+Il rendimento della Gestione Separata beneficia di eventuali utili derivanti dalle retrocessioni di 
+commissioni o di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi e riconducibili al 
+patrimonio della Gestione Separata.
+=== pagina 22 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            22 di 29 
+Art 7 
+Il tasso medio di rendimento viene determinato e certificato in relazione all’esercizio annuale della 
+Gestione Separata che decorre relativamente al periodo di osservazione 1 ottobre di ciascun anno fino al 
+successivo 30 settembre. 
+Inoltre, all’inizio di ogni mese viene determinato il tasso medio di rendimento della Gestione Separata 
+realizzato nel periodo costituito dai dodici mesi immediatamente precedenti.  
+Il tasso medio di rendimento della Gestione Separata per l’esercizio relativo alla certificazione si ottiene 
+rapportando il risultato finanziario della Gestione Separata di competenza di quell’esercizio, alla giacenza 
+media delle attività della Gestione Separata stessa. 
+Il tasso medio di rendimento realizzato in ciascun altro periodo si determina con le medesime modalità.  
+Per risultato finanziario della Gestione Separata si devono intendere i proventi finanziari conseguiti dalla 
+stessa Gestione Separata, comprensivi degli scarti di emissione e di negoziazione di competenza, dagli utili 
+realizzati e dalle perdite sofferte nel periodo di osservazione. Gli utili realizzati comprendono anche quelli 
+specificati all’art. 6 che precede. Le plusvalenze e le minusvalenze sono prese in considerazione, nel calcolo 
+del risultato finanziario, solo se effettivamente realizzate nel periodo di osservazione. Il risultato finanziario 
+è calcolato al netto delle spese di cui all’art. 5 che precede ed al lordo delle ritenute di acconto fiscali. Gli 
+utili e le perdite da realizzo sono determinati con riferimento al valore di iscrizione delle corri spondenti 
+attività nel libro mastro della Gestione Separata e cioè al prezzo di acquisto per i beni di nuova acquisizione 
+ed al valore di mercato all’atto dell’iscrizione nella Gestione Separata per i beni già di proprietà della 
+Società. 
+La giacenza media delle attività della Gestione Separata è pari alla somma della giacenza media nel periodo 
+di osservazione dei depositi in numerario, della giacenza media nel periodo di osservazione degli 
+investimenti e della giacenza media nel medesimo p eriodo di osservazione di ogni altra attività della 
+Gestione Separata. La giacenza media degli investimenti e delle altre attività è determinata in base al 
+valore di iscrizione nel libro mastro della Gestione Separata. 
+ 
+Art 8 
+La Gestione Separata è annualmente sottoposta a verifica contabile da parte di una società di revisione, 
+iscritta all’Albo speciale previsto dalla legge, la quale attesta la rispondenza della Gestione Separata stessa 
+al presente regolamento. 
+ 
+Art 9 
+Il presente regolamento potrà essere modificato al fine dell’adeguamento dello stesso alla normativa 
+primaria e secondaria vigente oppure a fronte di mutati criteri gestionali con esclusione, in tale ultimo 
+caso, di quelli meno favorevoli per il Contraente. 
+La Società si riserva di coinvolgere la Gestione Separata in operazioni di incorporazione o fusione con altre 
+Gestioni Speciali della Società stessa, qualora le suddette operazioni risultino opportune nell’interesse dei 
+Contraenti. Almeno 60 giorni prima della data stabilita per l’operazione di incorporazione o di fusione, la 
+Società ne dà preavviso ai Contraenti fornendo i dettagli dell’operazione stessa.
+=== pagina 23 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            23 di 29 
+ANNESSO N° 2.1 ALL’ALLEGATO N.2 
+Da utilizzarsi per le adesioni individuali e per le adesioni su base collettiva diverse da quelle di lavoratori 
+dipendenti 
+ 
+TASSI DI PREMIO PER LA CONVERSIONE DELLA POSIZIONE INDIVIDUALE IN PRESTAZIONE PENSIONISTICA 
+I tassi di premio contenuti nelle tabelle di seguito riportate sono determinati tenendo conto della speranza 
+di vita desunta dalle Basi demografiche per rendite vitalizie elaborate dall’ANIA - Tavola A62I 
+indifferenziata per sesso (composizione: 40% maschi ; 60% femmine) e distinta per anno di nascita. I 
+suddetti tassi di premio non tengono conto di alcun tasso di interesse precontato  (cioè il tasso tecnico è 
+pari a zero). La rendita annua derivante dall’applicazione dei suddetti tassi di premio tiene già conto delle 
+spese per il servizio di erogazione della rendita, pari allo 0,8% della rendita annua stessa, maggiorato di 
+tante volte lo 0,1% per quante sono le rate di rendita dovute nell’anno. 
+ 
+Avvertenza sulle modalità di calcolo 
+L’età assicurativa indicata nelle tabelle dei tassi di premio si determina al termine della fase di accumulo 
+applicando all’età raggiunta dall’aderente -assicurato - calcolata ad anni interi e a mesi compiuti - la 
+seguente correzione in funzione dell’anno di nascita. 
+ 
+Anno di nascita: Correzione da applicare all’età al termine della fase di accumulo: 
+dal 1927 al 1938 aumento di 3 anni 
+dal 1939 al 1947 aumento di 2 anni 
+dal 1948 al 1957 aumento di 1 anno 
+dal 1958 al 1966 invariata 
+dal 1967 al 1977 riduzione di 1 anno 
+dal 1978 al 1989 riduzione di 2 anni 
+dal 1990 al 2001 riduzione di 3 anni 
+dal 2002 al 2014 riduzione di 4 anni 
+dal 2015 al 2020 riduzione di 5 anni 
+dal 2021 riduzione di 6 anni 
+ 
+Se l'età assicurativa non è intera, il tasso di premio si ottiene interpolando linearmente fra i tassi di premio 
+relativi alle due età intere che lo comprendono. 
+ 
+Esempi di calcolo 
+Esempio per un aderente-assicurato nato nel 1947 
+Età raggiunta: 67 anni e 8 mesi 
+Forma prescelta: Rendita vitalizia immediata (punto 1., lettera a), ALLEGATO n.2) 
+Rateazione prescelta: Annuale 
+Età assicurativa: 69 anni e 8 mesi 
+Tasso di premio: 22,6555 - (22,6555 – 21,7400) x 8/12 = 22,0452 
+ 
+Esempio per un aderente-assicurato nato nel 1948 
+Età raggiunta: 66 anni e 10 mesi 
+Forma prescelta: Rendita vitalizia immediata (punto 1., lettera a), ALLEGATO n.2) 
+Rateazione prescelta: Annuale 
+Età assicurativa: 67 anni e 10 mesi 
+Tasso di premio: 24,4988 - (24,4988 – 23,5754) x 10/12 = 23,7293
+=== pagina 24 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            24 di 29 
+Tassi di premio per EUR 1 di rendita annua vitalizia immediata – punto 1., lettera a), ALLEGATO N.2 
+ 
+Età assicurativa Erogazione in rate: 
+ Annuali Semestrali Mensili 
+50 40,5780 40,8707 41,4879 
+51 39,6139 39,9057 40,5133 
+52 38,6522 38,9430 39,5411 
+53 37,6929 37,9828 38,5713 
+54 36,7365 37,0254 37,6045 
+55 35,7829 36,0709 36,6405 
+56 34,8314 35,1184 35,6786 
+57 33,8817 34,1677 34,7185 
+58 32,9335 33,2186 33,7600 
+59 31,9865 32,2707 32,8027 
+60 31,0413 31,3246 31,8472 
+61 30,0983 30,3806 30,8939 
+62 29,1575 29,4389 29,9429 
+63 28,2197 28,5002 28,9949 
+64 27,2859 27,5654 28,0509 
+65 26,3546 26,6332 27,1094 
+66 25,4253 25,7030 26,1700 
+67 24,4988 24,7756 25,2334 
+68 23,5754 23,8512 24,2999 
+69 22,6555 22,9305 23,3700 
+70 21,7400 22,0140 22,4445 
+71 20,8298 21,1029 21,5244 
+72 19,9259 20,1982 20,6107 
+73 19,0302 19,3016 19,7052 
+74 18,1441 18,4146 18,8094 
+75 17,2686 17,5382 17,9244 
+ 
+ 
+Tassi di premio per EUR 1 di rendita annua immediata certa per 5 anni – punto 3., lettera a), ALLEGATO 
+N.2 
+ 
+Età assicurativa Erogazione in rate: 
+ Annuali Semestrali Mensili 
+50 40,5968 40,8879 41,5038 
+51 39,6342 39,9242 40,5305 
+52 38,6741 38,9630 39,5596 
+53 37,7164 38,0042 38,5913 
+54 36,7615 37,0483 37,6258 
+55 35,8094 36,0951 36,6630 
+56 34,8594 35,1440 35,7024 
+57 33,9113 34,1948 34,7437 
+58 32,9648 33,2473 33,7867 
+59 32,0200 32,3013 32,8312 
+60 31,0772 31,3574 31,8777 
+61 30,1369 30,4159 30,9267 
+62 29,1990 29,4769 29,9782 
+63 28,2644 28,5410 29,0328
+=== pagina 25 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            25 di 29 
+64 27,3337 27,6091 28,0915 
+65 26,4059 26,6801 27,1529 
+66 25,4808 25,7537 26,2170 
+67 24,5592 24,8306 25,2845 
+68 23,6416 23,9116 24,3559 
+69 22,7288 22,9973 23,4319 
+70 21,8219 22,0886 22,5136 
+71 20,9221 21,1870 21,6022 
+72 20,0307 20,2935 20,6989 
+73 19,1498 19,4103 19,8058 
+74 18,2810 18,5391 18,9246 
+75 17,4264 17,6817 18,0570 
+ 
+Tassi di premio per EUR 1 di rendita annua immediata certa per 10 anni – punto 3., lettera a), ALLEGATO 
+N.2 
+ 
+Età assicurativa Erogazione in rate: 
+ Annuali Semestrali Mensili 
+50 40,6562 40,9451 41,5597 
+51 39,6976 39,9853 40,5902 
+52 38,7416 39,0280 39,6232 
+53 37,7883 38,0735 38,6589 
+54 36,8380 37,1219 37,6977 
+55 35,8907 36,1734 36,7395 
+56 34,9460 35,2274 35,7838 
+57 34,0037 34,2837 34,8305 
+58 33,0636 33,3423 33,8794 
+59 32,1258 32,4031 32,9305 
+60 31,1909 31,4667 31,9843 
+61 30,2592 30,5334 31,0413 
+62 29,3310 29,6037 30,1018 
+63 28,4074 28,6784 29,1666 
+64 27,4894 27,7584 28,2368 
+65 26,5764 26,8435 27,3118 
+66 25,6691 25,9339 26,3922 
+67 24,7687 25,0311 25,4790 
+68 23,8764 24,1360 24,5736 
+69 22,9939 23,2503 23,6772 
+70 22,1231 22,3760 22,7919 
+71 21,2665 21,5153 21,9200 
+72 20,4267 20,6709 21,0640 
+73 19,6068 19,8457 20,2270 
+74 18,8099 19,0429 19,4119 
+75 18,0394 18,2656 18,6219
+=== pagina 26 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            26 di 29 
+ANNESSO N° 2.2 ALL’ALLEGATO N.2 
+Da utilizzarsi per le adesioni su base collettiva di lavoratori dipendenti 
+ 
+TASSI DI PREMIO PER LA CONVERSIONE DELLA POSIZIONE INDIVIDUALE IN PRESTAZIONE PENSIONISTICA 
+ 
+I tassi di premio contenuti nelle tabelle di seguito riportate sono determinati tenendo conto della speranza 
+di vita media desunta dalle Basi demografiche per rendite vitalizie elaborate dall’ANIA - Tavola A62I distinta 
+per sesso e per anno di nascita. I s uddetti tassi di premio non tengono conto di alcun tasso di interesse 
+precontato (cioè il tasso tecnico è pari a zero).  La rendita annua derivante dall’applicazione dei suddetti 
+tassi di premio tiene già conto delle spese per il servizio di erogazione della rendita, pari allo 0,8% della 
+rendita annua stessa, maggiorato di tante volte lo 0,1% per quante sono le rate di rendita dovute nell’anno. 
+ 
+Avvertenza sulle modalità di calcolo 
+L’età assicurativa indicata nelle tabelle dei tassi di premio si determina al termine della fase di accumulo 
+applicando all’età raggiunta dall’aderente -assicurato - calcolata ad anni interi e a mesi compiuti - la 
+seguente correzione in funzione dell’anno di nascita e del sesso. 
+ 
+MASCHI FEMMINE 
+Anno di nascita: 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo: 
+Anno di nascita: 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo: 
+dal 1926 al 1938 aumento di 3 anni dal 1930 al 1940 aumento di 3 anni 
+dal 1939 al 1947 aumento di 2 anni dal 1941 al 1949 aumento di 2 anni 
+dal 1948 al 1957 aumento di 1 anno dal 1950 al 1957 aumento di 1 anno 
+dal 1958 al 1966 invariata dal 1958 al 1966 invariata 
+dal 1967 al 1978 riduzione di 1 anno dal 1967 al 1976 riduzione di 1 anno 
+dal 1979 al 1992 riduzione di 2 anni dal 1977 al 1986 riduzione di 2 anni 
+dal 1993 al 2006 riduzione di 3 anni dal 1987 al 1996 riduzione di 3 anni 
+dal 2007 al 2020 riduzione di 4 anni dal 1997 al 2007 riduzione di 4 anni 
+dal 2021 riduzione di 5 anni dal 2008 al 2018 riduzione di 5 anni 
+- - dal 2019 al 2020 riduzione di 6 anni 
+- - dal 2021 riduzione di 7 anni 
+ 
+Se l'età assicurativa non è intera, il tasso di premio si ottiene interpolando linearmente fra i tassi di premio 
+relativi alle due età intere che lo comprendono. 
+ 
+Esempi di calcolo 
+Esempio per un aderente-assicurato di sesso maschile 
+Età raggiunta: 67 anni e 8 mesi 
+Anno di nascita: 1947 
+Forma prescelta: Rendita vitalizia immediata (punto 1., lettera a), ALLEGATO n.2) 
+Rateazione prescelta: Annuale 
+Età assicurativa: 69 anni e 8 mesi 
+Tasso di premio: 20,7549 - (20,7549 – 19,8820) x 8/12 = 20,1730 
+ 
+Esempio per un aderente-assicurato di sesso femminile 
+Età raggiunta: 64 anni e 10 mesi 
+Anno di nascita: 1950 
+Forma prescelta: Rendita vitalizia immediata (punto 1., lettera a), ALLEGATO n.2) 
+Rateazione prescelta: Annuale 
+Età assicurativa: 65 anni e 10 mesi 
+Tasso di premio: 27,9749 - (27,9749 - 27,0179) x 10/12= 27,1774
+=== pagina 27 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            27 di 29 
+Tassi di premio per EUR 1 di rendita annua vitalizia immediata – punto 1., lettera a), ALLEGATO N.2 
+ 
+ 
+Età 
+assicurativa 
+Maschi Femmine 
+Erogazione in rate: Erogazione in rate: 
+Annuali Semestrali Mensili Annuali Semestrali Mensili 
+50 38,3071 38,5976 39,1922 42,3590 42,6535 43,2883 
+51 37,3470 37,6365 38,2217 41,3921 41,6857 42,3109 
+52 36,3894 36,6779 37,2536 40,4275 40,7200 41,3357 
+53 35,4344 35,7220 36,2882 39,4651 39,7567 40,3629 
+54 34,4830 34,7697 35,3264 38,5051 38,7958 39,3924 
+55 33,5354 33,8211 34,3685 37,5472 37,8369 38,4240 
+56 32,5915 32,8763 33,4143 36,5901 36,8789 37,4565 
+57 31,6512 31,9351 32,4638 35,6335 35,9213 36,4894 
+58 30,7143 30,9972 31,5167 34,6770 34,9638 35,5225 
+59 29,7806 30,0626 30,5728 33,7201 34,0061 34,5552 
+60 28,8506 29,1317 29,6326 32,7636 33,0486 33,5883 
+61 27,9253 28,2054 28,6972 31,8073 32,0914 32,6216 
+62 27,0068 27,2861 27,7687 30,8497 31,1327 31,6535 
+63 26,0963 26,3747 26,8483 29,8912 30,1734 30,6846 
+64 25,1949 25,4724 25,9371 28,9328 29,2140 29,7157 
+65 24,2984 24,5750 25,0308 27,9749 28,2551 28,7474 
+66 23,4055 23,6812 24,1282 27,0179 27,2972 27,7799 
+67 22,5170 22,7919 23,2300 26,0622 26,3406 26,8139 
+68 21,6335 21,9074 22,3368 25,1082 25,3856 25,8494 
+69 20,7549 21,0280 21,4487 24,1566 24,4330 24,8874 
+70 19,8820 20,1542 20,5663 23,2080 23,4835 23,9285 
+71 19,0159 19,2873 19,6907 22,2637 22,5382 22,9739 
+72 18,1578 18,4283 18,8232 21,3243 21,5979 22,0242 
+73 17,3100 17,5797 17,9662 20,3912 20,6639 21,0810 
+74 16,4740 16,7428 17,1211 19,4658 19,7376 20,1455 
+75 15,6510 15,9190 16,2891 18,5492 18,8200 19,2189 
+ 
+ 
+Tassi di premio per EUR 1 di rendita annua immediata certa per 5 anni – punto 3., lettera a), ALLEGATO 
+N.2 
+ 
+ 
+Età 
+assicurativa 
+Maschi Femmine 
+Erogazione in rate: Erogazione in rate: 
+Annuali Semestrali Mensili Annuali Semestrali Mensili 
+50 38,3289 38,6175 39,2107 42,3759 42,6689 43,3026 
+51 37,3707 37,6581 38,2417 41,4102 41,7022 42,3262 
+52 36,4151 36,7014 37,2754 40,4467 40,7377 41,3521 
+53 35,4625 35,7477 36,3120 39,4855 39,7754 40,3802 
+54 34,5136 34,7976 35,3524 38,5264 38,8153 39,4106 
+55 33,5686 33,8514 34,3966 37,5692 37,8571 38,4429 
+56 32,6274 32,9091 33,4448 36,6128 36,8997 37,4759 
+57 31,6902 31,9706 32,4968 35,6568 35,9427 36,5094 
+58 30,7568 31,0360 31,5526 34,7009 34,9857 35,5429 
+59 29,8275 30,1054 30,6124 33,7447 34,0285 34,5762 
+60 28,9027 29,1792 29,6766 32,7887 33,0716 33,6097 
+61 27,9832 28,2583 28,7463 31,8330 32,1148 32,6435
+=== pagina 28 ===
+Regolamento FPA Vera Vita - Ed. 07.2026                                                                                            28 di 29 
+62 27,0708 27,3445 27,8230 30,8762 31,1570 31,6761 
+63 26,1663 26,4386 26,9077 29,9190 30,1987 30,7082 
+64 25,2704 25,5413 26,0011 28,9621 29,2408 29,7407 
+65 24,3797 24,6493 25,0998 28,0062 28,2837 28,7739 
+66 23,4935 23,7615 24,2028 27,0516 27,3280 27,8085 
+67 22,6127 22,8791 23,3111 26,0990 26,3741 26,8449 
+68 21,7380 22,0027 22,4253 25,1488 25,4226 25,8837 
+69 20,8699 21,1328 21,5459 24,2019 24,4743 24,9256 
+70 20,0096 20,2705 20,6741 23,2593 23,5302 23,9717 
+71 19,1585 19,4172 19,8111 22,3222 22,5915 23,0231 
+72 18,3181 18,5743 18,9586 21,3917 21,6592 22,0809 
+73 17,4909 17,7444 18,1189 20,4694 20,7349 21,1467 
+74 16,6789 16,9294 17,2939 19,5570 19,8204 20,2220 
+75 15,8841 16,1312 16,4856 18,6562 18,9171 19,3085 
+ 
+Tassi di premio per EUR 1 di rendita annua immediata certa per 10 anni – punto 3., lettera a), ALLEGATO 
+N.2 
+ 
+ 
+Età 
+assicurativa 
+Maschi Femmine 
+Erogazione in rate: Erogazione in rate: 
+Annuali Semestrali Mensili Annuali Semestrali Mensili 
+50 38,4002 38,6860 39,2774 42,4273 42,7185 43,3511 
+51 37,4481 37,7325 38,3142 41,4642 41,7543 42,3773 
+52 36,4993 36,7822 37,3541 40,5032 40,7922 41,4056 
+53 35,5542 35,8357 36,3977 39,5442 39,8321 40,4358 
+54 34,6138 34,8937 35,4459 38,5870 38,8739 39,4680 
+55 33,6783 33,9566 34,4990 37,6316 37,9174 38,5020 
+56 32,7477 33,0245 33,5570 36,6769 36,9616 37,5366 
+57 31,8221 32,0972 32,6199 35,7227 36,0063 36,5718 
+58 30,9015 31,1748 31,6877 34,7688 35,0514 35,6072 
+59 29,9859 30,2575 30,7605 33,8152 34,0966 34,6428 
+60 29,0759 29,3456 29,8388 32,8622 33,1424 33,6790 
+61 28,1724 28,4401 28,9234 31,9102 32,1891 32,7160 
+62 27,2769 27,5425 28,0161 30,9582 31,2359 31,7530 
+63 26,3905 26,6540 27,1176 30,0072 30,2834 30,7907 
+64 25,5143 25,7755 26,2292 29,0581 29,3328 29,8301 
+65 24,6462 24,9049 25,3486 28,1118 28,3848 28,8721 
+66 23,7863 24,0422 24,4758 27,1691 27,4402 27,9174 
+67 22,9363 23,1891 23,6124 26,2311 26,5002 26,9671 
+68 22,0975 22,3469 22,7596 25,2988 25,5656 26,0221 
+69 21,2715 21,5171 21,9190 24,3738 24,6380 25,0840 
+70 20,4608 20,7019 21,0927 23,4579 23,7192 24,1543 
+71 19,6677 19,9038 20,2833 22,5536 22,8114 23,2355 
+72 18,8947 19,1253 19,4931 21,6635 21,9173 22,3298 
+73 18,1449 18,3695 18,7252 20,7906 21,0397 21,4404 
+74 17,4212 17,6390 17,9824 19,9382 20,1820 20,5703 
+75 16,7266 16,9369 17,2676 19,1097 19,3473 19,7230
