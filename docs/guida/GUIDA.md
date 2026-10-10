@@ -643,13 +643,15 @@ inoltrata in automatico e si apre l'anteprima.
 2. Al **merge** il workflow *Deploy GitHub Page e release*:
    - calcola la nuova versione;
    - pubblica il sito su GitHub Pages;
-   - crea il tag `vX.Y.Z` e la release, con le note generate dai commit e in allegato i dati della versione
+   - crea il tag `vX.Y.Z` e la release, con le note generate dai commit (una voce per commit; se un commit ne
+     riunisce altri, anche per ogni loro titolo che nel messaggio sta a inizio riga, come `sito: …` o `dati: …`;
+     le voci di elenco `- …` restano dettagli) e in allegato i dati della versione
      (JSON), il workbook Excel, lo zip del sito pubblicato e i checksum SHA-256. Gli allegati si scaricano dalla
      pagina [Releases](https://github.com/andreagalle/goodbye-elsa/releases/latest) del repository. La sezione
      *Packages* di GitHub è un'altra cosa: un registro per pacchetti npm, Maven, immagini Docker e simili, che qui
      resta vuoto.
 3. Regole di versione:
-   - **minor** se c'è almeno un commit `sito:`, `script:` o `feat:`;
+   - **minor** se c'è almeno un commit `sito:`, `script:` o `feat:` (anche tra quelli riuniti in un altro commit);
    - **patch** per tutto il resto (`dati:`, `docs:`, `fix:`, `ci:`…);
    - la **major** non viene mai incrementata in automatico: solo con la label `release:major` sulla PR o
      con l'avvio manuale del workflow, e solo su decisione del responsabile del progetto.

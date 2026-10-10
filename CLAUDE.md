@@ -350,7 +350,9 @@ un salvataggio da Python non serve più riaprire il file in Excel (§3).
 - **Fondo Pensione Fideuram**: il sito pubblico ha solo una brochure. **Il Melograno**: assimoco.it non risponde da qui.
   **Vittoria Formula Lavoro**: la pagina dell'elenco (rendimenti) non ha documenti e i vecchi link (Nota informativa del
   2021) rispondono 502. **Eurorisparmio**: i link "SSRDisplayer" della pagina Sella non restituiscono il PDF (scaricati 4
-  su 11 da sellasgr.it).
+  su 11 da sellasgr.it). **Arti & Mestieri**: 31 su 32; manca la *Scheda sintetica per adesioni collettive*, il cui link
+  sulla pagina di animasgr.it risponde 404.
+- In tutto **10 fondi** con documenti da recuperare: sono le righe della tabella *Documenti da recuperare* della dashboard.
 - Quando l'utente fornisce i PDF (in `documenti-da-smistare/`), si smistano con `documenti.py smista` (anteprima, poi
   `--applica`), si controllano i titoli dei documenti nuovi nel registro e si rigenera l'indice.
 - **Azimut Sustainable Future**: la sua pagina su azimut.it pubblica gli stessi file di Azimut Previdenza; l'URL
@@ -491,6 +493,10 @@ responsive, accessibile, in italiano.
     `release:major` sulla PR, o avviando a mano *Deploy GitHub Page e release* con `bump = major`.
     ⚠️ **Claude non deve mai usare la major (né aggiungere la label `release:major`) senza una richiesta esplicita dell'utente.**
   - Le label `release:minor` / `release:patch` sulla PR forzano il tipo di incremento.
+  - **Commit che ne riuniscono altri** (messaggi concatenati o squash, es. `a538964`): `voci()` legge anche le righe
+    `tipo: testo` **a inizio riga** nel corpo, con un tipo di `TIPI_NEL_CORPO` in minuscolo, e le tratta come lavori a sé
+    (note di rilascio e tipo di incremento). Le voci di elenco (`- dati: …`), le righe rientrate, `Fonte:` e
+    `Co-Authored-By:` restano fuori. Quindi in un messaggio unito i titoli vanno a inizio riga e i dettagli in elenco.
 - **`ci.yml`** (solo PR verso `master` e avvio manuale; niente `push`, per non far girare due volte lo stesso job): export, test (schema, versioni, smoke test Playwright del sito)
   e, sulle PR, la versione e le note che verranno pubblicate nel *Job summary*.
 - **`pages.yml`** (push su `master`, cioè il merge di una PR, oppure avvio manuale):
@@ -524,7 +530,8 @@ responsive, accessibile, in italiano.
 - Versioni fissate: `playwright==1.63.0`, `pillow==12.3.0`, `pypdf==6.19.0` e `cryptography==50.0.1` (Python), `@playwright/mcp@0.0.82`, Chart.js 4.4.1,
   reveal.js 6.0.2, marked 18.0.13, DOMPurify 3.4.15. Quando si aggiorna una versione, aggiornarla qui.
 - `.vscode/tasks.json`: *Anteprima GitHub Page*, *Anteprima veloce*, *Export dati* (export + indice dei documenti),
-  *Documenti: riprova i download mancanti*, *Test*, *Rigenera screenshot*, *Prossima versione*.
+  *Documenti: riprova i download mancanti*, *Documenti: smista i PDF aggiunti a mano (anteprima)*, *Test*,
+  *Rigenera screenshot*, *Prossima versione*.
 - **Documenti ufficiali** (`scripts/documenti.py`): `scarica` (PDF mancanti del registro + testo), `riprova` (documenti
   senza file: urllib → curl → `--browser`, con `--pausa`; aggiorna il registro), `smista` (PDF messi a mano
   dall'utente in **`documenti-da-smistare/`**, cartella ignorata da git tranne README: fondo dalla sottocartella
@@ -628,8 +635,9 @@ accompagnata **nello stesso commit/PR** da:
 - [x] **Documenti ufficiali dei fondi** scaricati nel repository (`docs/documenti/`, registro `data/documenti.csv`, testo
   per pagina da consultare), scaricabili dal dettaglio fondo: 532 documenti per 31 fondi, 438 dei 538 citati (10/10/2026);
   tabella *Documenti da recuperare* in Qualità dei dati e cartella `documenti-da-smistare/` con `documenti.py smista`
-- [ ] Recuperare i documenti mancanti (§5): l'utente li fornirà in `documenti-da-smistare/` (Teseo, Arca, Allianz,
-  Insieme, UniCredit, Eurorisparmio, Fideuram, Il Melograno, Vittoria); in alternativa `documenti.py riprova` da un'altra rete
+- [ ] Recuperare i documenti mancanti dei 10 fondi (§5): l'utente li fornirà in `documenti-da-smistare/` (Teseo, Arca,
+  Allianz, Insieme, UniCredit, Eurorisparmio, Fideuram, Il Melograno, Vittoria, Arti & Mestieri); in alternativa
+  `documenti.py riprova` da un'altra rete
 - [ ] Usare i testi dei documenti per completare `Prestazioni` e verificare le anomalie della §5 (Scheda costi)
 - [ ] Simulatore dei costi (poi aggiornare guida, presentazione e screenshot)
 - [ ] Verificare le anomalie della §5 sulle Schede costi ufficiali

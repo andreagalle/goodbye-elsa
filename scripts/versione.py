@@ -6,6 +6,8 @@ Regole (vedi CLAUDE.md §9):
   - patch  per tutto il resto (`dati:`, `docs:`, `fix:`, `ci:`, `test:`, `chore:`, …);
   - major  MAI in automatico: solo con `--bump major` (input manuale del workflow o label `release:major`),
            su richiesta esplicita del responsabile del progetto. `BREAKING CHANGE` e `!` valgono come minor.
+Un commit che ne riunisce altri (messaggi concatenati o squash) ha i loro titoli nel corpo, come righe `sito: …`,
+`dati: …` a inizio riga: contano come lavori a sé, nelle note e nel tipo di incremento (vedi `voci()`).
 
 Uso:
   python scripts/versione.py prossima [--bump auto|patch|minor|major]   → stampa es. v0.2.0
@@ -25,6 +27,9 @@ ROOT = Path(__file__).resolve().parent.parent
 RE_TAG = re.compile(r"^v(\d+)\.(\d+)\.(\d+)$")
 RE_COMMIT = re.compile(r"^(?P<tipo>[a-zA-Z]+)(?:\((?P<ambito>[^)]+)\))?(?P<rotto>!)?:\s*(?P<testo>.+)$")
 TIPI_MINOR = {"feat", "sito", "script"}
+# Tipi che, a inizio riga nel corpo di un commit, indicano il titolo di un altro commit riunito in questo.
+# Solo minuscoli, così righe come "Fonte: …" o "Co-Authored-By: …" non contano.
+TIPI_NEL_CORPO = {"sito", "dati", "script", "feat", "fix", "docs", "ci", "test", "chore", "refactor", "perf", "build"}
 
 # Sezioni delle note di rilascio, nell'ordine in cui compaiono.
 SEZIONI = [
@@ -59,22 +64,45 @@ def commit_dal(tag: str | None) -> list[dict]:
     commits = []
     for blocco in filter(None, (b.strip() for b in out.split(fine))):
         sha, oggetto, corpo = (blocco.split(sep) + ["", ""])[:3]
-        m = RE_COMMIT.match(oggetto)
-        commits.append({
-            "sha": sha,
-            "oggetto": oggetto,
-            "tipo": m.group("tipo").lower() if m else "altro",
-            "ambito": m.group("ambito") if m else None,
-            "testo": m.group("testo") if m else oggetto,
-            "corpo": corpo.strip(),
-        })
+        commits.append(analizza(sha, oggetto, corpo.strip()))
     return commits
+
+
+def analizza(sha: str, oggetto: str, corpo: str = "") -> dict:
+    m = RE_COMMIT.match(oggetto)
+    return {
+        "sha": sha,
+        "oggetto": oggetto,
+        "tipo": m.group("tipo").lower() if m else "altro",
+        "ambito": m.group("ambito") if m else None,
+        "testo": m.group("testo") if m else oggetto,
+        "corpo": corpo,
+    }
+
+
+def voci(commits: list[dict]) -> list[dict]:
+    """Un lavoro per voce: il titolo di ogni commit e, se il corpo riunisce altri commit, anche i loro titoli.
+
+    Contano solo le righe `tipo: testo` a inizio riga con un tipo di TIPI_NEL_CORPO: le voci di elenco
+    (`- dati: …`) sono dettagli del lavoro e restano fuori. Le voci in più hanno lo SHA del commit che le contiene.
+    """
+    out = []
+    for c in commits:
+        out.append(c)
+        visti = {c["oggetto"]}
+        for riga in c.get("corpo", "").splitlines():
+            riga = riga.rstrip()
+            m = RE_COMMIT.match(riga)
+            if m and m.group("tipo") in TIPI_NEL_CORPO and riga not in visti:
+                visti.add(riga)
+                out.append(analizza(c["sha"], riga))
+    return out
 
 
 def tipo_incremento(commits: list[dict], richiesto: str = "auto") -> str:
     if richiesto in ("patch", "minor", "major"):
         return richiesto
-    return "minor" if any(c["tipo"] in TIPI_MINOR for c in commits) else "patch"
+    return "minor" if any(c["tipo"] in TIPI_MINOR for c in voci(commits)) else "patch"
 
 
 def incrementa(tag: str | None, bump: str) -> str:
@@ -97,7 +125,7 @@ def note_rilascio(versione: str, precedente: str | None, commits: list[dict], bu
     righe += [f"Incremento: `{bump}` (da {precedente or 'nessuna versione precedente'}).", ""]
 
     gruppi: dict[str, list[dict]] = {}
-    for c in commits:
+    for c in voci(commits):
         chiave = c["tipo"] if c["tipo"] in dict(SEZIONI) else "altro"
         gruppi.setdefault(chiave, []).append(c)
     if not commits:
