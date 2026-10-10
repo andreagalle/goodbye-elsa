@@ -32,6 +32,8 @@ nella UI (virgola decimale, `€` dopo l'importo, es. `25,00 €`, `1,45%`).
   capisce. Per ogni domanda Claude **spiega in chat e rende la spiegazione chiara anche nella piattaforma**; se servono
   dati nuovi o approfondimenti, **cerca online, arricchisce prima l'Excel e poi a cascata tutto il resto**, citando le
   fonti senza appesantire la grafica. Procedura nella §11.
+- Richiesta del 10/10/2026: piano per passare da GitHub Pages a Cloudflare con un accesso leggero (authn/authz) e rendere
+  privato il repository. È nella §13 ed è **da eseguire solo quando l'utente lo chiede**; fino ad allora valgono §7–§8.
 - <!-- TODO: aggiungi qui eventuali altre istruzioni della conversazione originale che non risultano dal file -->
 
 ## 3. Struttura del workbook
@@ -645,3 +647,155 @@ accompagnata **nello stesso commit/PR** da:
 - [ ] Aggiungere l'**ISC (Indicatore Sintetico dei Costi)** COVIP a 2/5/10/35 anni: è la metrica di costo ufficiale e confrontabile
 - [ ] Valutare di rinominare `Sheet1` in `Fondi` (le formule di Excel si aggiornano da sole; aggiornare lo script)
 - [x] Confermare l'URL esatto dell'elenco COVIP nella §4.1
+- [ ] **Migrazione a Cloudflare** (Workers static assets + Access con One-time PIN) e repository privato: piano nella §13,
+  da approvare con l'utente (scelte della §13.1, testo del disclaimer, licenza)
+
+## 13. Piano: da GitHub Pages a Cloudflare, con accesso riservato e repository privato (proposta del 10/10/2026)
+**Stato: proposta da approvare, non eseguita.** Finché non viene eseguita valgono le §7–§8 (GitHub Pages). Prezzi,
+limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di partire ricontrollare versioni e prezzi.
+
+### 13.1 Scelte consigliate
+| Tema | Scelta | Perché |
+|---|---|---|
+| Hosting | **Cloudflare Workers con static assets**: un Worker senza codice che serve `docs/` (variante Pages nella §13.8) | Pages resta supportato, ma le novità arrivano su Workers (Access a un clic su produzione e anteprime, anteprime delle PR); costi e limiti uguali |
+| Build e deploy | tutto resta in **GitHub Actions** (export, test, versione, release): cambia solo il passo di deploy, `wrangler deploy` | export Python e test Playwright restano dove sono; niente build su Cloudflare; l'anteprima locale (§10.3) non cambia |
+| Autenticazione | **Cloudflare Access** (Zero Trust Free) con **One-time PIN**: si scrive la propria email e arriva un codice | nessuna password da custodire, nessun codice nel sito |
+| Autorizzazione | una policy *Allow* con l'**elenco delle email** ammesse (all'inizio solo l'utente) | si aggiunge o si toglie una persona dal pannello Zero Trust, senza deploy |
+| Indirizzo | `https://goodbye-elsa.<sottodominio>.workers.dev`; dominio proprio facoltativo | gratuito |
+| IaC | **niente Terraform all'inizio**: `wrangler.jsonc` versionato + la checklist della §13.2; Terraform solo se serve (§13.7) | sono 4–5 oggetti: state, token e import costerebbero più di quanto fanno risparmiare |
+| Repository | privato su **GitHub Free** | 0 €, ma si perdono alcune funzioni (§13.5, punto 5) |
+
+### 13.2 Lato Cloudflare (una tantum, a mano)
+1. **Account** gratuito con 2FA; annotare l'**Account ID** e scegliere il sottodominio `workers.dev` dell'account.
+2. **Zero Trust**: nome del team (`<team>.cloudflareaccess.com`), piano **Free** (chiede comunque un metodo di pagamento,
+   senza addebiti) e metodo di login **One-time PIN** (di default c'è solo il login con un account Cloudflare).
+3. **API token per la CI**: serve *Account › Workers Scripts › Edit*; il modo più semplice è il modello «Edit Cloudflare
+   Workers» limitato a questo account. Con scadenza (es. 12 mesi, da segnare: scaduto il token, la CI non pubblica).
+4. **Access prima dei dati**: primo deploy di un segnaposto dal devcontainer, con il token in `CLOUDFLARE_API_TOKEN` e
+   l'Account ID in `CLOUDFLARE_ACCOUNT_ID`: `npx wrangler@4.149.0 deploy --name goodbye-elsa --assets <cartella con un
+   solo index.html> --compatibility-date 2026-10-01`. Poi *Workers & Pages › goodbye-elsa › Domains* (prima *Settings ›
+   Domains & Routes*) → **Enable Cloudflare Access** su `workers.dev` **e** sulle *Preview URLs*: crea la policy
+   `goodbye-elsa - Production` e quella condivisa *Cloudflare Workers Preview URLs*. In *Manage Cloudflare Access*:
+   email ammesse e durata della sessione (es. 1 settimana).
+5. **Verifica**: in una finestra anonima compare il login di Access;
+   `curl -sI https://goodbye-elsa.<sottodominio>.workers.dev/data/meta.json` risponde con un redirect a
+   `<team>.cloudflareaccess.com`, mai `200`.
+6. Facoltativo: **service token** `ci-goodbye-elsa` e una regola *Service Auth* nella policy di produzione, per il
+   controllo dopo il deploy (§13.4, punto 3).
+
+### 13.3 Lato GitHub: secrets e variabili
+- **Secret di repository**, non d'ambiente (con GitHub Free gli environments e i loro secret non funzionano sui
+  repository privati): `CLOUDFLARE_API_TOKEN` (`gh secret set CLOUDFLARE_API_TOKEN`).
+- **Variabili** (non sono segrete): `CLOUDFLARE_ACCOUNT_ID` e `SITO_URL` (`gh variable set <NOME> --body <valore>`).
+- Facoltativi: `CF_ACCESS_CLIENT_ID` e `CF_ACCESS_CLIENT_SECRET` (service token della §13.2, punto 6).
+- `GITHUB_TOKEN` resta quello automatico per tag e release. **Nessun secret per Terraform** finché gira in locale (§13.7).
+
+### 13.4 Modifiche al repository (una PR da `dev`)
+1. **`wrangler.jsonc`** alla radice:
+   ```jsonc
+   { "name": "goodbye-elsa", "compatibility_date": "2026-10-01", "assets": { "directory": "./docs" },
+     "workers_dev": true, "preview_urls": true }
+   ```
+   Facoltativi `docs/404.html` (con `"not_found_handling": "404-page"`) e `docs/_headers` (`X-Robots-Tag: noindex`).
+   Provato il 10/10/2026 con `wrangler deploy --dry-run`, che non chiede credenziali: legge tutto `docs/` (circa 1.100
+   file) e **blocca i file oltre 25 MiB** ("Asset too large").
+2. **`pages.yml` → `deploy.yml`** (*Deploy su Cloudflare e release*): nel job `build`, dopo export e test,
+   `cloudflare/wrangler-action@v4` (≥ 4.1.2: la 4.1.0 e la 4.1.1 sono rotte) con `apiToken`, `accountId`,
+   `wranglerVersion: "4.149.0"` e `command: deploy --tag <versione> --message "<titolo della PR>"`, al posto di
+   `upload-pages-artifact`. Il job `deploy` (environment `github-pages`, permessi `pages` e `id-token`) sparisce e
+   `release` dipende solo da `build`. Artifact `rilascio` con `retention-days: 1`: su un repository privato gli artifact
+   consumano i 500 MB inclusi. Il primo deploy carica tutti i ~450 MB, i successivi solo i file cambiati.
+3. **Controllo dopo il deploy**, nello stesso job: `curl` senza credenziali su `SITO_URL` e `SITO_URL/data/meta.json`
+   deve dare il redirect al login (se dà `200` il sito è pubblico e il job fallisce); con il service token, `meta.json`
+   deve riportare la versione appena pubblicata. Cloudflare consiglia anche di verificare il JWT di Access
+   (`Cf-Access-Jwt-Assertion`) nel Worker: servirebbe un Worker con codice, che conta nelle 100.000 richieste al giorno
+   del piano Free; per un sito statico raggiungibile solo dagli indirizzi protetti basta questo controllo.
+4. **`ci.yml`**: `wrangler deploy --dry-run` (senza secret), così un PDF troppo grande si scopre nella PR e non al merge.
+   Facoltativa l'anteprima di ogni PR con `wrangler preview` (in open beta a ottobre 2026), protetta dalla policy delle
+   anteprime e con il link nel *Job summary*.
+5. **Link e testi**: `versione.py note` prende l'indirizzo da `--sito` (`SITO_URL`) invece di costruire quello di
+   `github.io` (aggiornare `tests/test_versione.py`). I link a github.com nel sito diventano 404 per chi non è
+   collaboratore: `app.js` (licenza nel footer, "elenco completo" dei documenti), `guida/index.html` ("Sorgente su
+   GitHub"), presentazione ("💻 GitHub"), `GUIDA.md` (elenco dei documenti, Releases): puntarli a copie sul sito o
+   toglierli. README con il nuovo indirizzo; "GitHub Page" → "sito" in `.vscode/tasks.json`,
+   `.devcontainer/devcontainer.json`, `anteprima.sh` e `server_locale.py`.
+6. **Disclaimer** (§7.7: dashboard ×2, guida, presentazione ×2, README, questo file): "pubblicato su GitHub a puro scopo
+   dimostrativo" non sarà più vero. Proposta, da confermare con l'utente: *"Progetto personale, nato per uso privato e
+   consultabile solo su invito: non è un servizio rivolto al pubblico né una consulenza finanziaria."*
+7. **Licenza**: con il repository privato The Unlicense non serve più a nessuno; decidere se tenerla o togliere `LICENSE`
+   (l'export regge l'assenza del file: avviso e footer senza licenza).
+8. **Allineamento** (§10.4): guida (indirizzo, come si entra con il codice via email, deploy e release), slide di
+   manutenzione della presentazione, screenshot se cambia il footer, questo file (§1, §2, §7.8, §8, §9 con le versioni di
+   wrangler e della action, §10.3) e README.
+
+### 13.5 Ordine di esecuzione (su Cloudflare il sito non è mai pubblico)
+1. §13.2 punti 1–5 (Access attivo e verificato sul segnaposto) e §13.3.
+2. PR da `dev` con la §13.4 e CI verde; al merge il primo deploy su Cloudflare e la release.
+3. Prova completa da autenticati (tabella, dettaglio, PDF, guida, presentazione) e da anonimi (solo il login).
+4. **Spegnere GitHub Pages** (*Settings › Pages › Unpublish site*; con GitHub Free succede comunque da solo al punto 5)
+   e cancellare l'environment `github-pages`. Fino ad allora `andreagalle.github.io/goodbye-elsa/` resta pubblico; le
+   copie già in cache (motori di ricerca, Wayback Machine) non dipendono da noi.
+5. **Repository privato**: *Settings › General › Danger Zone › Change visibility*. Con GitHub Free: Pages spento, stelle e
+   watcher cancellati (oggi nessuna stella), fork pubblici staccati (oggi nessuno), environments e secret d'ambiente
+   ignorati, protezione dei branch non applicata (resta la convenzione PR → `master`).
+6. Controllare la prima esecuzione delle Actions da privato e i minuti consumati (*Settings › Billing and licensing*).
+7. **Tornare indietro**: Cloudflare conserva le versioni precedenti (`wrangler rollback` o *Deployments*); il repository
+   può tornare pubblico (environments e secret d'ambiente si riattivano) e `pages.yml` resta nella storia di git.
+
+### 13.6 Costi (ottobre 2026)
+| Voce | Piano | Costo | Limiti che contano per noi |
+|---|---|---|---|
+| Hosting (Workers static assets) | Free | 0 € | richieste ai file statici gratuite e illimitate; 20.000 file per versione, 25 MiB per file (oggi ~1.100 file, il più grande 20 MiB: `documenti/plurifonds-itas-vita/rendiconto.pdf`) |
+| Access (Zero Trust) | Free | 0 € | fino a 50 utenti; oltre, il piano a pagamento vale per tutti (~7 $ a utente al mese, da fonti secondarie) |
+| GitHub, repository privato | Free | 0 € | 2.000 minuti di Actions al mese (oggi una PR ne usa circa 5 tra CI, deploy e release), 500 MB di artifact (condivisi con Packages) |
+| Dominio proprio | facoltativo | ~10–15 € l'anno | Cloudflare Registrar non vende `.it`: si compra altrove e si delegano i DNS a Cloudflare (zona Free) |
+| GitHub Pro | facoltativo | ~4 $ al mese | riporta protezione dei branch ed environments sul repository privato |
+| Terraform | facoltativo | 0 € | state su R2 (piano gratuito da 10 GB) |
+
+**Totale: 0 € al mese**, più l'eventuale dominio.
+
+### 13.7 Terraform (solo se serve)
+- Serve se si vuole ricreare tutto in modo riproducibile o gestire più ambienti e persone. Il contenuto del sito resta
+  pubblicato da wrangler: Terraform gestirebbe solo Access ed eventuale dominio.
+- `infra/` con Terraform 1.16 e provider `cloudflare/cloudflare` 5.27 (versioni fissate). Risorse:
+  `cloudflare_zero_trust_access_identity_provider` (OTP), `cloudflare_zero_trust_access_policy` (email),
+  `cloudflare_zero_trust_access_application` (hostname `workers.dev` e anteprime), facoltativi
+  `cloudflare_zero_trust_access_service_token`, `cloudflare_workers_custom_domain` e `cloudflare_dns_record`.
+- **O "a un clic" o Terraform**, non entrambi: le app create dal pannello vanno importate (`terraform import`) o ricreate.
+- State su **R2** con il backend `s3` (endpoint `https://<account_id>.r2.cloudflarestorage.com`, `region = "auto"`,
+  `use_path_style = true`, `skip_credentials_validation`, `skip_region_validation`, `skip_requesting_account_id`,
+  `skip_metadata_api_check`, `skip_s3_checksum`), bucket privato e token R2 *Object Read & Write* solo su quel bucket.
+  **Mai lo state in git** (`.gitignore`: `.terraform/`, `*.tfstate*`).
+- Esecuzione **in locale** dal devcontainer (feature Terraform ed estensione `hashicorp.terraform`, §9) con i **secrets di
+  Codespaces**: un token Cloudflare separato da quello della CI (*Access: Apps and Policies* e *Access: Organizations,
+  Identity Providers, and Groups* in Edit) e le chiavi R2. Gli stessi valori come secrets di GitHub servirebbero solo per
+  `plan` nelle PR e `apply` al merge.
+
+### 13.8 Variante: Cloudflare Pages
+Stessi costi e limiti. `wrangler pages project create goodbye-elsa --production-branch master` crea il progetto senza
+contenuti (Access si configura prima del primo deploy); deploy con `wrangler pages deploy docs --project-name
+goodbye-elsa --branch master` (con `--branch dev` l'anteprima `dev.goodbye-elsa.pages.dev`); token *Account › Cloudflare
+Pages › Edit*. Differenza principale: *Settings › Enable access policy* protegge solo le anteprime; per proteggere anche
+`goodbye-elsa.pages.dev` serve la procedura dei *Known issues* di Pages (togliere il `*` dal sottodominio dell'app
+Access creata, poi riattivare la policy delle anteprime).
+
+### 13.9 Fonti (consultate il 10/10/2026)
+- Cloudflare: limiti di [Workers](https://developers.cloudflare.com/workers/platform/limits/) e
+  [Pages](https://developers.cloudflare.com/pages/platform/limits/),
+  [costi degli static assets](https://developers.cloudflare.com/workers/static-assets/billing-and-limitations/),
+  [migrazione da Pages](https://developers.cloudflare.com/workers/static-assets/migration-guides/migrate-from-pages/),
+  [Access a un clic](https://developers.cloudflare.com/changelog/post/2025-10-03-one-click-access-for-workers/) e
+  [policy riutilizzabili](https://developers.cloudflare.com/changelog/post/2025-12-03-reusable-access-policies/),
+  [Worker Previews](https://developers.cloudflare.com/workers/previews/),
+  [setup di Zero Trust](https://developers.cloudflare.com/cloudflare-one/setup/), Pages
+  ([anteprime](https://developers.cloudflare.com/pages/configuration/preview-deployments/),
+  [known issues](https://developers.cloudflare.com/pages/platform/known-issues/),
+  [Direct Upload in CI](https://developers.cloudflare.com/pages/how-to/use-direct-upload-with-continuous-integration/)),
+  [state Terraform su R2](https://developers.cloudflare.com/terraform/advanced-topics/remote-backend/),
+  [TLD del Registrar](https://www.cloudflare.com/tld-policies/).
+- GitHub: [piani](https://docs.github.com/en/get-started/learning-about-github/githubs-plans),
+  [costi di Actions](https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions),
+  [environments](https://docs.github.com/en/actions/reference/workflows-and-actions/deployments-and-environments),
+  [visibilità del repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
+- Versioni del 10/10/2026: wrangler 4.149.0, `cloudflare/wrangler-action` v4.1.3, provider `cloudflare/cloudflare`
+  5.27.0, Terraform 1.16.5.
