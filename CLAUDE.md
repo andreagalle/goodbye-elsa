@@ -648,49 +648,48 @@ accompagnata **nello stesso commit/PR** da:
 - [ ] Valutare di rinominare `Sheet1` in `Fondi` (le formule di Excel si aggiornano da sole; aggiornare lo script)
 - [x] Confermare l'URL esatto dell'elenco COVIP nella §4.1
 - [ ] **Migrazione a Cloudflare** (Workers static assets + Access con One-time PIN) e repository privato: piano nella §13,
-  da approvare con l'utente (scelte della §13.1, testo del disclaimer, licenza)
+  da approvare con l'utente (Access in un account dedicato o password unica della §13.8, testo del disclaimer, licenza)
 
 ## 13. Piano: da GitHub Pages a Cloudflare, con accesso riservato e repository privato (proposta del 10/10/2026)
 **Stato: proposta da approvare, non eseguita.** Finché non viene eseguita valgono le §7–§8 (GitHub Pages). Prezzi,
-limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di partire ricontrollare versioni e prezzi.
+limiti e comandi verificati il 10/10/2026 sulle fonti della §13.10: prima di partire ricontrollare versioni e prezzi.
 
 ### 13.1 Scelte consigliate
 | Tema | Scelta | Perché |
 |---|---|---|
-| Hosting | **Cloudflare Workers con static assets**: un Worker senza codice che serve `docs/` (variante Pages nella §13.8) | Pages resta supportato, ma le novità arrivano su Workers (Access a un clic, anteprime delle PR); costi e limiti uguali |
+| Hosting | **Cloudflare Workers con static assets**: un Worker senza codice che serve `docs/` (variante Pages nella §13.9) | Pages resta supportato, ma le novità arrivano su Workers (Access a un clic, anteprime delle PR); costi e limiti uguali |
 | Build e deploy | tutto resta in **GitHub Actions** (export, test, versione, release): cambia solo il passo di deploy, `wrangler deploy` | export Python e test Playwright restano dove sono; niente build su Cloudflare; l'anteprima locale (§10.3) non cambia |
-| Autenticazione | **Cloudflare Access** con **One-time PIN** (si scrive la propria email e arriva un codice), nell'organizzazione Zero Trust Free **già attiva sull'account** per un altro progetto | nessuna password da custodire, nessun codice nel sito; i 50 posti valgono per l'account e una persona ne occupa uno solo (§13.2) |
+| Autenticazione | **Cloudflare Access** con **One-time PIN** (si scrive la propria email e arriva un codice), in un **account Cloudflare dedicato** a goodbye-elsa, con la sua organizzazione Zero Trust Free; alternativa senza Zero Trust: utente e password unici (§13.8) | l'utente non vuole condividere Zero Trust con l'altro progetto (10/10/2026); nessuna password da custodire, nessun codice nel sito |
 | Autorizzazione | una policy *Allow* con l'**elenco delle email** ammesse (all'inizio solo l'utente) | si aggiunge o si toglie una persona dal pannello Zero Trust, senza deploy |
 | Indirizzo | **deciso con l'utente il 10/10/2026**: quello di default, `https://goodbye-elsa.<sottodominio>.workers.dev`, senza dominio proprio | sito per uso personale: gratuito e senza DNS da gestire |
 | IaC | **niente Terraform all'inizio**: `wrangler.jsonc` versionato + la checklist della §13.2; Terraform solo se serve (§13.7) | sono 4–5 oggetti: state, token e import costerebbero più di quanto fanno risparmiare |
 | Repository | privato su **GitHub Free** | 0 €, ma si perdono alcune funzioni (§13.5, punto 5) |
 
 ### 13.2 Lato Cloudflare (una tantum, a mano)
-1. **Account**: lo stesso dell'altro progetto, dove Zero Trust è già attivo; annotare l'**Account ID** e il sottodominio
-   `workers.dev`. In un altro account servirebbe un'altra organizzazione Zero Trust (un altro piano Free da attivare).
-2. **Zero Trust in comune con l'altro progetto, senza confusione**:
-   - **In comune** tra tutte le app dell'account: nome del team (`<team>.cloudflareaccess.com`), aspetto della pagina di
-     login, metodi di login disponibili e i **50 posti** del piano Free. Un posto si occupa al primo accesso e **una
-     persona ne occupa uno solo**, in qualunque numero di app entri; si libera togliendola da *Team & Resources › Users*.
-   - **Solo di goodbye-elsa**: la sua app Access, la sua policy (meglio con un gruppo Access `goodbye-elsa` che elenca le
-     email ammesse) e i metodi di login dell'app: solo **One-time PIN**. Se l'organizzazione non lo ha, va aggiunto in
-     *Integrations › Identity providers* (da giugno 2026 le organizzazioni nuove partono con il solo login Cloudflare).
-   - Nella policy la regola *Include* elenca le **email** (o il gruppo), mai *Everyone* né il solo metodo di login: con
-     il One-time PIN chiunque abbia un indirizzo email riceverebbe il codice.
-   - Le *Preview URLs* dei Worker hanno **una sola policy per tutto l'account** (*Cloudflare Workers Preview URLs*), in
-     comune con l'altro progetto: per questo le anteprime di goodbye-elsa restano spente (§13.4, punto 1).
+1. **Account dedicato a goodbye-elsa** (l'utente non vuole condividere Zero Trust con l'altro progetto, 10/10/2026):
+   con lo stesso login, *Accounts › Create Account* (fino a 5 account Free in più; serve un utente attivo da almeno 7
+   giorni e Super Administrator di un account esistente). Annotare l'**Account ID** e scegliere il sottodominio
+   `workers.dev` del nuovo account. Worker, Zero Trust e token stanno tutti qui: nome del team, pagina di login, metodi
+   di login e posti non hanno niente in comune con l'altro progetto.
+2. **Zero Trust del nuovo account**: nome del team (es. `goodbye-elsa` → `goodbye-elsa.cloudflareaccess.com`, se
+   libero), piano **Free** (chiede un metodo di pagamento, senza addebiti) e metodo di login **One-time PIN**, da
+   aggiungere in *Integrations › Identity providers* (da giugno 2026 le organizzazioni nuove partono con il solo login
+   Cloudflare). Facoltativo il logo di Elsa nella pagina di login. I 50 posti sono tutti per goodbye-elsa: un posto si
+   occupa al primo accesso e si libera togliendo la persona da *Team & Resources › Users*.
 3. **Worker segnaposto**: *Workers & Pages › Create*, modello *Hello World*, nome `goodbye-elsa` (una pagina innocua:
-   serve perché il token della CI, punto 5, può aggiornare solo un Worker che esiste già). Poi *goodbye-elsa › Domains*
-   (prima *Settings › Domains & Routes*) → **Enable Cloudflare Access** su `workers.dev`: crea la policy `goodbye-elsa -
-   Production`, da sistemare come al punto 2 in *Manage Cloudflare Access*, con la durata della sessione (es. 1 settimana).
+   permette di attivare Access prima che arrivino i dati, e il token del punto 5 può aggiornare solo un Worker che
+   esiste già). Poi *goodbye-elsa › Domains* (prima *Settings › Domains & Routes*) → **Enable Cloudflare Access** su
+   `workers.dev` e, in *Manage Cloudflare Access*, la policy `goodbye-elsa - Production`: regola *Include* con le
+   **email** ammesse (o un gruppo Access), mai *Everyone* né il solo metodo di login (con il One-time PIN chiunque abbia
+   un indirizzo email riceverebbe il codice); come metodo di login dell'app solo One-time PIN; sessione di 1 settimana.
 4. **Verifica**: in una finestra anonima compare il login di Access;
    `curl -sI https://goodbye-elsa.<sottodominio>.workers.dev/` risponde con un redirect a `<team>.cloudflareaccess.com`,
    mai `200`.
-5. **API token per la CI**, limitato al solo Worker: *Manage Account › Account API Tokens*, ambito *Specified Workers* →
-   `goodbye-elsa`, ruolo **Editor** (pubblica ma non cancella, e non tocca i Worker dell'altro progetto). Con scadenza
-   (es. 12 mesi, da segnare: scaduto il token, la CI non pubblica). I permessi per singolo Worker esistono dal 15/9/2026:
-   se `wrangler deploy` fallisce con questo token, ripiegare su un token di account con il ruolo Workers Admin, che però
-   può modificare anche i Worker dell'altro progetto.
+5. **API token per la CI**, nel nuovo account e limitato al solo Worker: *Manage Account › Account API Tokens*, ambito
+   *Specified Workers* → `goodbye-elsa`, ruolo **Editor** (pubblica ma non cancella). Con scadenza (es. 12 mesi, da
+   segnare: scaduto il token, la CI non pubblica). I permessi per singolo Worker esistono dal 15/9/2026: se
+   `wrangler deploy` fallisce con questo token, va bene anche un token di account con il ruolo Workers Admin, perché
+   l'account è dedicato.
 6. Facoltativo: **service token** `ci-goodbye-elsa` e una regola *Service Auth* nella policy di goodbye-elsa, per il
    controllo dopo il deploy (§13.4, punto 3).
 
@@ -703,6 +702,7 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di par
   con il proprio account, poi `gh secret set` e `gh variable set`. Possono essere creati prima o dopo il passaggio a
   privato: restano.
 - Facoltativi: `CF_ACCESS_CLIENT_ID` e `CF_ACCESS_CLIENT_SECRET` (service token della §13.2, punto 6).
+- Con l'alternativa della §13.8, al posto del service token: il secret `SITO_PASSWORD` e la variabile `SITO_UTENTE`.
 - `GITHUB_TOKEN` resta quello automatico per tag e release. **Nessun secret per Terraform** finché gira in locale (§13.7).
 - Senza nessun secret si potrebbe solo collegare il repository a Cloudflare (Workers Builds), che farebbe la build sui suoi
   server, separata da test e release in GitHub Actions: scartato.
@@ -713,9 +713,8 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di par
    { "name": "goodbye-elsa", "compatibility_date": "2026-10-01", "assets": { "directory": "./docs" },
      "workers_dev": true, "preview_urls": false }
    ```
-   Anteprime spente: basta l'anteprima locale (§10.3), e la loro policy Access sarebbe in comune con l'altro progetto
-   (§13.2, punto 2). Facoltativi `docs/404.html` (con `"not_found_handling": "404-page"`) e `docs/_headers`
-   (`X-Robots-Tag: noindex`).
+   Anteprime spente: basta l'anteprima locale (§10.3). Facoltativi `docs/404.html` (con
+   `"not_found_handling": "404-page"`) e `docs/_headers` (`X-Robots-Tag: noindex`).
    Provato il 10/10/2026 con `wrangler deploy --dry-run`, che non chiede credenziali: legge tutto `docs/` (circa 1.100
    file) e **blocca i file oltre 25 MiB** ("Asset too large").
 2. **`pages.yml` → `deploy.yml`** (*Deploy su Cloudflare e release*): nel job `build`, dopo export e test,
@@ -730,8 +729,8 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di par
    (`Cf-Access-Jwt-Assertion`) nel Worker: servirebbe un Worker con codice, che conta nelle 100.000 richieste al giorno
    del piano Free; per un sito statico raggiungibile solo dagli indirizzi protetti basta questo controllo.
 4. **`ci.yml`**: `wrangler deploy --dry-run` (senza secret), così un PDF troppo grande si scopre nella PR e non al merge.
-   Se un giorno servono le anteprime delle PR: `wrangler preview` (in open beta a ottobre 2026), protette da un'app
-   Access solo per le anteprime di goodbye-elsa (non dalla policy comune dell'account), con il link nel *Job summary*.
+   Se un giorno servono le anteprime delle PR: `wrangler preview` (in open beta a ottobre 2026), protette dalla policy
+   *Cloudflare Workers Preview URLs* dell'account (dedicato, quindi solo goodbye-elsa), con il link nel *Job summary*.
 5. **Link e testi**: `versione.py note` prende l'indirizzo da `--sito` (`SITO_URL`) invece di costruire quello di
    `github.io` (aggiornare `tests/test_versione.py`). I link a github.com nel sito diventano 404 per chi non è
    collaboratore: `app.js` (licenza nel footer, "elenco completo" dei documenti), `guida/index.html` ("Sorgente su
@@ -765,7 +764,8 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di par
 | Voce | Piano | Costo | Limiti che contano per noi |
 |---|---|---|---|
 | Hosting (Workers static assets) | Free | 0 € | richieste ai file statici gratuite e illimitate; 20.000 file per versione, 25 MiB per file (oggi ~1.100 file, il più grande 20 MiB: `documenti/plurifonds-itas-vita/rendiconto.pdf`) |
-| Access (Zero Trust) | Free, già attivo | 0 € | 50 posti per account, in comune con l'altro progetto (una persona ne occupa uno solo); oltre, il piano a pagamento vale per tutti (~7 $ a utente al mese, da fonti secondarie) |
+| Access (Zero Trust) | Free, nell'account dedicato | 0 € | 50 posti solo per goodbye-elsa; chiede un metodo di pagamento, senza addebiti; oltre 50, il piano a pagamento vale per tutti (~7 $ a utente al mese, da fonti secondarie) |
+| oppure: password unica (§13.8) | Workers Free | 0 € | niente Zero Trust né metodo di pagamento; ogni richiesta esegue il Worker: 100.000 al giorno, poi `429` |
 | GitHub, repository privato | Free | 0 € | 2.000 minuti di Actions al mese (oggi una PR ne usa circa 5 tra CI, deploy e release), 500 MB di artifact (condivisi con Packages) |
 | GitHub Pro | facoltativo | ~4 $ al mese | riporta protezione dei branch ed environments sul repository privato |
 | Terraform | facoltativo | 0 € | state su R2 (piano gratuito da 10 GB) |
@@ -774,12 +774,12 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di par
 
 ### 13.7 Terraform (solo se serve)
 - Serve se si vuole ricreare tutto in modo riproducibile o gestire più ambienti e persone. Il contenuto del sito resta
-  pubblicato da wrangler: Terraform gestirebbe solo le risorse Access di goodbye-elsa, **mai** quelle in comune con
-  l'altro progetto (metodi di login, impostazioni dell'organizzazione), che restano a mano o nel suo progetto.
+  pubblicato da wrangler: Terraform gestirebbe solo Access, compresa l'organizzazione Zero Trust dell'account dedicato
+  (che non tocca l'altro progetto).
 - `infra/` con Terraform 1.16 e provider `cloudflare/cloudflare` 5.27 (versioni fissate). Risorse:
-  `cloudflare_zero_trust_access_group` (email), `cloudflare_zero_trust_access_policy`,
-  `cloudflare_zero_trust_access_application` (hostname `workers.dev`), facoltativo
-  `cloudflare_zero_trust_access_service_token`; il One-time PIN dell'organizzazione si usa per id, senza gestirlo.
+  `cloudflare_zero_trust_access_identity_provider` (One-time PIN), `cloudflare_zero_trust_access_group` (email),
+  `cloudflare_zero_trust_access_policy`, `cloudflare_zero_trust_access_application` (hostname `workers.dev`),
+  facoltativo `cloudflare_zero_trust_access_service_token`.
 - **O "a un clic" o Terraform**, non entrambi: le app create dal pannello vanno importate (`terraform import`) o ricreate.
 - State su **R2** con il backend `s3` (endpoint `https://<account_id>.r2.cloudflarestorage.com`, `region = "auto"`,
   `use_path_style = true`, `skip_credentials_validation`, `skip_region_validation`, `skip_requesting_account_id`,
@@ -790,7 +790,35 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.9: prima di par
   Identity Providers, and Groups* in Edit) e le chiavi R2. Gli stessi valori come secrets di GitHub servirebbero solo per
   `plan` nelle PR e `apply` al merge.
 
-### 13.8 Variante: Cloudflare Pages
+### 13.8 Alternativa: utente e password unici, senza Zero Trust
+Per chi non vuole un secondo account né Zero Trust (scelta dell'utente ancora aperta il 10/10/2026). **Nessun
+database**: utente e password sono due secret del Worker, e con l'HTTP Basic il browser li ricorda e li rimanda a ogni
+richiesta.
+- **Worker** `worker/accesso.js` (~25 righe, provato il 10/10/2026 con `wrangler dev`): senza credenziali o con quelle
+  sbagliate risponde `401` con `WWW-Authenticate: Basic realm="goodbye Elsa", charset="UTF-8"` (il browser apre la sua
+  finestra di accesso); con quelle giuste passa la richiesta a `env.ASSETS.fetch(request)`. Confronto con
+  `crypto.subtle.timingSafeEqual` tra gli SHA-256 di `utente:password` ricevuti e attesi (stessa lunghezza, tempo
+  costante). **Se un secret manca deve rispondere sempre `401`**: altrimenti `undefined:undefined` aprirebbe il sito.
+- **`wrangler.jsonc`**: in più `"main": "worker/accesso.js"` e, dentro `assets`, `"binding": "ASSETS"` e
+  `"run_worker_first": true`, così il Worker controlla anche PDF e JSON.
+- **Secret**: `SITO_PASSWORD` come secret di GitHub e `SITO_UTENTE` come variabile (es. `elsa`); la action li copia nel
+  Worker a ogni deploy (input `secrets`, con i valori in `env`; il ruolo Editor del token lo permette). Si possono
+  tenere anche solo su Cloudflare (*Settings › Variables and Secrets*), ma allora il controllo dopo il deploy non può
+  provare il login. In locale `.dev.vars` (in `.gitignore`).
+- **Password lunga e casuale** (almeno 20 caratteri, solo ASCII): con un'unica password e nessun limite ai tentativi è
+  l'unica difesa contro chi prova a indovinarla.
+- **Costi e limiti**: 0 €, nessun metodo di pagamento. Ogni richiesta (anche file statici e PDF) esegue il Worker e conta
+  nelle 100.000 al giorno del piano Free (una visita fa qualche decina di richieste: migliaia di visite al giorno);
+  oltre, risposta `429`. Va bene anche nell'account dell'altro progetto, con il token limitato al solo Worker (serve
+  comunque il segnaposto della §13.2, punto 3, perché il token aggiorna solo un Worker che esiste già).
+- **Rispetto ad Access**: una password per tutti (per escludere una persona la si cambia a tutti), niente "esci" (si
+  chiude il browser), finestra di accesso del browser invece di una pagina del sito. Se servono una pagina di accesso
+  nostra e "esci": modulo e cookie firmato (HMAC con un terzo secret), sempre senza database, ~100 righe.
+- **Test**: lo stesso giro del 10/10/2026 (`wrangler dev` con `.dev.vars` e `curl`: `401` senza credenziali, con
+  password sbagliata o con un'intestazione non valida, `200` e `meta.json` con quelle giuste) e, dopo ogni deploy, lo
+  stesso controllo sul sito pubblicato (§13.4, punto 3).
+
+### 13.9 Variante: Cloudflare Pages
 Stessi costi e limiti. `wrangler pages project create goodbye-elsa --production-branch master` crea il progetto senza
 contenuti (Access si configura prima del primo deploy); deploy con `wrangler pages deploy docs --project-name
 goodbye-elsa --branch master` (con `--branch dev` l'anteprima `dev.goodbye-elsa.pages.dev`); token *Account › Cloudflare
@@ -798,7 +826,7 @@ Pages › Edit*. Differenza principale: *Settings › Enable access policy* prot
 `goodbye-elsa.pages.dev` serve la procedura dei *Known issues* di Pages (togliere il `*` dal sottodominio dell'app
 Access creata, poi riattivare la policy delle anteprime).
 
-### 13.9 Fonti (consultate il 10/10/2026)
+### 13.10 Fonti (consultate il 10/10/2026)
 - Cloudflare: limiti di [Workers](https://developers.cloudflare.com/workers/platform/limits/) e
   [Pages](https://developers.cloudflare.com/pages/platform/limits/),
   [costi degli static assets](https://developers.cloudflare.com/workers/static-assets/billing-and-limitations/),
@@ -810,7 +838,10 @@ Access creata, poi riattivare la policy delle anteprime).
   [posti di Zero Trust](https://developers.cloudflare.com/cloudflare-one/identity/users/seat-management/),
   [One-time PIN](https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/one-time-pin/),
   [token per singolo Worker](https://developers.cloudflare.com/changelog/post/2026-09-15-granular-worker-permissions/)
-  e [ruoli dei Worker](https://developers.cloudflare.com/workers/authorization/workers/), Pages
+  e [ruoli dei Worker](https://developers.cloudflare.com/workers/authorization/workers/),
+  [account Free in più](https://developers.cloudflare.com/fundamentals/account/create-account/),
+  [Worker davanti agli static assets](https://developers.cloudflare.com/workers/static-assets/binding/),
+  [wrangler-action (input `secrets`)](https://github.com/cloudflare/wrangler-action), Pages
   ([anteprime](https://developers.cloudflare.com/pages/configuration/preview-deployments/),
   [known issues](https://developers.cloudflare.com/pages/platform/known-issues/),
   [Direct Upload in CI](https://developers.cloudflare.com/pages/how-to/use-direct-upload-with-continuous-integration/)),
