@@ -1,0 +1,20 @@
+# Fondo: FONDO PENSIONE APERTO IL MIO DOMANI (il-mio-domani)
+# Documento: Metodologia delle proiezioni – Metodologie
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/informativa-sulla-sostenibilit%C3%A0/006/Metodologie.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/il-mio-domani.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 82e536367bdbc7bb7fc40fe95a7a601bb21acaa7dd0f1b294fa41e9388c80a36
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Accessibilità per i documenti non web | Documento WORD   1  
+ 
+INFORMATIVA SULLA SOSTENIBILITÀ  
+“Il Mio Domani” 
+Data di pubblicazione 30/03/202 5 
+Metodologie  
+I Comparti del Fondo utilizzano come indicatore di sostenibilità, finalizzato a 
+misurare il rispetto di ciascuna delle caratteristiche ambientali o sociali promosse, il 
+mantenimento del livello minimo del rating ESG medio di portafoglio pari o 
+superiore a BBB.

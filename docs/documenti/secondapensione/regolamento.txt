@@ -1,0 +1,924 @@
+# Fondo: SECONDAPENSIONE FONDO PENSIONE APERTO (secondapensione)
+# Documento: Regolamento – 2026-07-31 Regolamento
+# Fonte: https://www.secondapensione.it/files/nuxeo/dl/32860bda-f7be-4318-ba92-338bdaed78e9?inline=
+# Citato in: https://www.secondapensione.it/regolamento-e-nota-informativa
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 060d0d9fda17e070aaf4f2ca678b99b39f0ab77407683bbf7ccf761cf292810d
+# Pagine: 18
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+SecondaPensione Fondo pensione aperto a contribuzione definita 
+(iscritto al n. 65 dell’Albo tenuto della Commissione di Vigilanza sui Fondi Pensione) 
+Regolamento 
+(redatto ai sensi dell’art. 12, del decreto legislativo 5 dicembre 2005, n. 252)
+=== pagina 2 ===
+Testo del regolamento del Fondo in vigore dal 31 luglio 2026 
+ 
+ 
+INDICE 
+ 
+ 
+Parte I - Identificazione e scopo del Fondo  
+1. Denominazione Pag. 2 
+2. Istituzione del Fondo, esercizio dell’attività, sede e recapiti Pag. 2 
+3. Scopo Pag. 2 
+  
+Parte II - Caratteristiche del Fondo e modalità di investimento  
+4. Regime del Fondo Pag. 2 
+5. Destinatari e tipologie di adesione Pag. 2 
+6. Scelte di investimento Pag. 2 
+7. Gestione degli investimenti Pag. 3 
+8. Spese Pag. 6 
+  
+Parte III - Contribuzione e prestazioni  
+9.   Contribuzione Pag. 7 
+10. Determinazione della posizione individuale Pag. 8 
+11. Prestazioni pensionistiche e RITA Pag. 8 
+12. Erogazione delle prestazioni pensionistiche Pag. 9 
+13. Trasferimento e riscatto della posizione individuale Pag. 11 
+14. Anticipazioni                 Pag. 11 
+14-bis. Prestazioni accessorie Pag. 12 
+  
+Parte IV - Profili organizzativi  
+15. Separatezza patrimoniale, amministrativa e contabile Pag. 12 
+16. Sistema di governo Pag. 13 
+17. Depositario Pag. 13 
+18. Responsabile Pag. 13 
+19. Organismo di rappresentanza Pag. 13 
+20. Conflitti di interesse Pag. 14 
+21. Scritture contabili Pag. 14 
+  
+Parte V - Rapporti con gli aderenti  
+22. Modalità di adesione e clausole risolutive espresse Pag. 14 
+23. « U.S. Persons» Pag. 15 
+24. Trasparenza nei confronti degli aderenti e dei beneficiari Pag. 15 
+25. Comunicazioni e reclami Pag. 15 
+  
+Parte VI - Norme finali  
+26. Modifiche del Regolamento Pag. 15 
+27. Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di 
+modifiche delle caratteristiche del Fondo 
+Pag. 16 
+28. Cessione del Fondo Pag. 16 
+29. Operazioni di fusione Pag. 16 
+30. Rinvio Pag. 16 
+  
+Allegati:  
+Allegato n. 1 Disposizioni in materia di Responsabile 
+ 
+ 
+Allegato n. 2 Condizioni e modalità di erogazione delle rendite  
+Allegato n. 3 Condizioni delle prestazioni accessorie
+=== pagina 3 ===
+Regolamento - pagina 2 di 16 
+ 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+Art. 1. Denominazione 
+1. “SecondaPensione Fondo Pensione Aperto”, di seguito definito «Fondo», è un fondo pensione aperto istituito 
+ai sensi dell’art. 12 del decreto legislativo 5 dicembre 2005, n. 252 (e successive modificazioni e integrazioni), di 
+seguito definito “Decreto”. 
+ 
+Art. 2. Istituzione del Fondo ed esercizio dell’attività 
+1. Il Fondo è stato istituito da Crédit Agricole Indosuez, succursale di Milano, giusta autorizzazione rilasciata 
+dalla COVIP, d’intesa con la Banca d’Italia, con provvedimento del 13 gennaio 1999; con il medesimo 
+provvedimento la COVIP ha approvato il regolamento del Fondo. 
+ 
+2. Amundi Società di Gestione del Risparmio S.p.A., in forma abbreviata Amundi SGR S.p.A., di seguito definita 
+“S.G.R.”, esercita l’attività di gestione del Fondo con effetto dal 1° dicembre 2007, giusta autorizzazione 
+rilasciata dalla Commissione di Vigilanza sulle forme pensionistiche complementari, di seguito anche “COVIP”, 
+sentita la Banca d’Italia, con provvedimento del 15 novembre 2007. 
+ 
+3. Il Fondo è iscritto all’albo tenuto dalla COVIP con il numero 65. 
+ 
+4. L’attività relativa al Fondo è svolta in Milano, presso la sede della S.G.R. 
+ 
+5. L’indirizzo di posta elettronica certificata (PEC) della S.G.R. è secondapensione@actaliscertymail.it. 
+ 
+Art. 3. Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta dei 
+contributi, la gestione delle risorse nell’esclusivo interesse degli aderenti, e l’erogazione delle prestazioni 
+secondo quanto disposto dalla normativa tempo per tempo vigente. 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITA’ DI INVESTIMENTO 
+ 
+Art. 4. Regime del Fondo  
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è determinata 
+in funzione della contribuzione effettuata e in base al principio della capitalizzazione. 
+ 
+Art. 5. Destinatari e tipologie di adesione 
+1.  L’adesione al Fondo è consentita in forma individuale in modalità esplicita.  
+2.  È altresì consentita l’adesione su base collettiva ai soggetti destinatari delle forme pensionistiche 
+complementari individuati all’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, gli 
+accordi o i regolamenti aziendali che dispongono l’adesione al Fondo.  Ai sensi dell’articolo 8 comma 7-bis del 
+Decreto l’adesione al Fondo su base collettiva può avvenire anche in modalità automatica mediante il 
+conferimento del TFR maturando, della contribuzione a carico del datore di lavoro e del lavoratore. 
+3.  Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza. 
+4.  Tra i destinatari sono ricompresi gli aderenti taciti (i lavoratori dipendenti del settore privato assunti 
+antecedentemente al 1° luglio 2026, che non hanno espresso alcuna volontà di adesione, nei tempi e nei modi 
+fissati dal Decreto nella versione antecedente alla riforma di cui alla Legge n. 199/2025, circa il conferimento del 
+TFR maturando). 
+ 
+ 
+Art. 6. Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti (di seguito i “Comparti”) e nel profilo life cycle (di seguito il “Profilo 
+LifeCycle”), differenziati per profili di rischio-rendimento, in modo tale da assicurare agli aderenti una adeguata 
+possibilità di scelta: 
+1) SecondaPensione Prudente ESG; 
+2) SecondaPensione Bilanciata ESG;
+=== pagina 4 ===
+Regolamento - pagina 3 di 16 
+3) SecondaPensione Sviluppo ESG; 
+4) SecondaPensione Espansione ESG; 
+5) SecondaPensione Garantita ESG. In questo Comparto è investito il TFR degli aderenti taciti che 
+risultano iscritti al Fondo. In assenza di indicazioni da parte dell'aderente, questo Comparto è destinato 
+ad accogliere la porzione della posizione individuale di cui si chiede il frazionamento per l’erogazione 
+della “Rendita integrativa temporanea anticipata” (RITA). L’aderente ha la facoltà di variare 
+successivamente il comparto nel rispetto del periodo minimo di permanenza. 
+6) Profilo LifeCycle. All’atto dell’adesione, l’aderente, in alternativa all’investimento in uno o più Comparti del 
+Fondo, in conformità al successivo comma 2, può optare per un programma di trasferimenti automatici della 
+posizione individuale tra i vari Comparti a scadenze predeterminate, individuate in funzione degli anni rimanenti 
+rispetto al compimento dell’età anagrafica di 65 anni. Il Profilo LifeCycle, di cui all’art. 8, comma 9, del 
+Decreto, è destinato ad accogliere il TFR maturando e i contributi del datore di lavoro e del lavoratore 
+pervenuti a seguito di adesioni automatiche. 
+ 
+2. L’aderente, all’atto dell’adesione, sceglie il Comparto o i Comparti (in numero massimo di tre) o il Profilo 
+LifeCycle in cui far confluire i versamenti contributivi, con facoltà di modificare nel tempo tale destinazione. 
+L’aderente può inoltre riallocare la propria posizione individuale tra i diversi Comparti (in numero massimo di tre, 
+specificando le percentuali di ripartizione per multipli di cinque) o nel Profilo LifeCycle, nel rispetto del periodo 
+minimo di un anno dall’iscrizione ovvero dall’ultima riallocazione; in questo caso i versamenti contributivi 
+successivi sono suddivisi sulla base delle nuove percentuali fissate all’atto della riallocazione, salvo diversa 
+disposizione dell’aderente. Il limite del periodo di permanenza minimo non opera con riguardo alla prima 
+riallocazione successiva tacita o automatica. La posizione individuale dell’aderente, anche a seguito di 
+riallocazione, non può essere investita in più di tre Comparti. 
+ 
+ 
+Art. 7. Gestione degli investimenti 
+1. La S.G.R. effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni stabiliti dalla 
+normativa tempo per tempo vigente e dal presente Regolamento, assumendo a riferimento l’esclusivo interesse 
+degli aderenti. 
+ 
+2. Ferma restando la responsabilità della S.G.R., essa può affidare a soggetti di cui all’art. 6, comma 1, lettere 
+a), b), c), c)- bis del Decreto in possesso dei requisiti previsti dalla normativa tempo per tempo vigente 
+l’esecuzione di specifici incarichi di gestione. 
+ 
+3. La S.G.R. verifica i risultati della gestione mediante l’adozione di parametri di riferimento coerenti con gli 
+obiettivi e i criteri della politica di investimento. 
+ 
+4. La politica di investimento dei singoli comparti è la seguente: 
+ 
+SecondaPensione Prudente ESG 
+SecondaPensione Prudente ESG è un Comparto che investe con la finalità di perseguire in un orizzonte 
+temporale tendenzialmente di breve/medio periodo una crescita moderata del capitale per rispondere alle 
+esigenze di un soggetto che ha davanti a sé ancora pochi anni di attività.  
+Gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendendo in 
+considerazione in modo sistematico fattori di tipo ambientale, sociale e di governo societario (ESG), al fine di 
+orientare, con una visione di lungo periodo, le scelte di investimento a obiettivi di responsabilità sociale. 
+Il Comparto investe in proporzioni variabili in strumenti finanziari di natura monetaria, obbligazionaria ed 
+azionaria. È prevista la possibilità di investire le disponibilità del Comparto anche in via esclusiva in strumenti 
+finanziari di natura monetaria ed obbligazionaria di emittenti prevalentemente dell’Unione Europea. ll Comparto 
+può inoltre utilizzare OICR fino al 100% del suo patrimonio 
+Le disponibilità del Comparto sono inoltre investite nel rispetto dei seguenti limiti: 
+ gli strumenti finanziari di natura azionaria, con possibilità di ampie diversificazioni anche geografiche, non 
+possono superare il limite massimo del 30% del patrimonio del Comparto; 
+ gli strumenti finanziari collegati al rendimento di materie prime non possono superare il limite massimo del 
+5% del patrimonio del Comparto.
+=== pagina 5 ===
+Regolamento - pagina 4 di 16 
+SecondaPensione Bilanciata ESG 
+SecondaPensione Bilanciata ESG è un Comparto che investe con la finalità di rivalutare in un orizzonte 
+temporale tendenzialmente di medio periodo il capitale investito, per rispondere alle esigenze di un soggetto che 
+ha davanti a sé ancora alcuni anni di attività. 
+Gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendendo in 
+considerazione in modo sistematico fattori di tipo ambientale, sociale e di governo societario (ESG), al fine di 
+orientare, con una visione di lungo periodo, le scelte di investimento a obiettivi di responsabilità sociale. 
+La politica d’investimento del Comparto è volta a perseguire una composizione del portafoglio orientata ad un 
+bilanciamento tra strumenti finanziari di natura monetaria, obbligazionaria e azionaria. ll Comparto può utilizzare 
+OICR fino al 100% del suo patrimonio.  
+Le disponibilità del Comparto sono investite nel rispetto dei seguenti limiti: 
+• gli strumenti del mercato monetario ed obbligazionario, con possibilità di ampie diversificazioni anche 
+geografiche, non possono superare il limite massimo dell’80% del patrimonio del Comparto; 
+• gli strumenti finanziari di natura azionaria, con possibilità di ampie diversificazioni anche geografiche, 
+rappresentano almeno il 20% del patrimonio del Comparto e, comunque, non possono superare il limite 
+massimo del 40%; 
+• gli strumenti finanziari collegati al rendimento di materie prime non possono superare il limite massimo del 5% 
+del patrimonio del Comparto. 
+ 
+SecondaPensione Sviluppo ESG 
+SecondaPensione Sviluppo ESG è un Comparto che investe con la finalità di rivalutare in un orizzonte 
+temporale tendenzialmente di medio/medio-lungo periodo il capitale investito, rispondendo alle esigenze di un 
+soggetto che ha davanti a sé ancora diversi anni di attività. 
+Gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendendo in 
+considerazione in modo sistematico fattori di tipo ambientale, sociale e di governo societario (ESG), al fine di 
+orientare, con una visione di lungo periodo, le scelte di investimento a obiettivi di responsabilità sociale.La 
+politica d’investimento del Comparto è volta a perseguire una composizione del portafoglio orientata ad un 
+bilanciamento tra strumenti finanziari di natura monetaria, obbligazionaria e azionaria. 
+Le disponibilità del Comparto sono investite nel rispetto dei seguenti limiti: 
+• gli strumenti finanziari di natura monetaria ed obbligazionaria, con possibilità di ampie diversificazioni anche 
+geografiche, non possono superare il limite massimo del 65% del patrimonio del Comparto; 
+• gli strumenti finanziari di natura azionaria, con possibilità di ampie diversificazioni anche geografiche, 
+rappresentano almeno il 35% del patrimonio del Comparto e, comunque, non possono superare il limite 
+massimo del 65%; 
+• gli strumenti finanziari collegati al rendimento di materie prime non possono superare il limite massimo del 5% 
+del patrimonio del Comparto. 
+ll Comparto può utilizzare OICR fino al 100% del patrimonio. 
+ 
+SecondaPensione Espansione ESG 
+SecondaPensione Espansione ESG è un Comparto che investe con la finalità di rivalutare in un orizzonte 
+temporale tendenzialmente di medio-lungo/lungo periodo il capitale investito, rispondendo alle esigenze di un 
+soggetto che ha davanti a sé ancora molti anni di attività. 
+Gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendendo in 
+considerazione in modo sistematico fattori di tipo ambientale, sociale e di governo societario (ESG), al fine di 
+orientare, con una visione di lungo periodo, le scelte di investimento a obiettivi di responsabilità sociale. 
+La politica d’investimento del Comparto è orientata verso gli strumenti finanziari di natura azionaria. 
+Le disponibilità del Comparto sono investite nel rispetto dei seguenti limiti: 
+• gli strumenti finanziari di natura monetaria ed obbligazionaria, con possibilità di ampie diversificazioni anche 
+geografiche, non possono superare il limite massimo del 20% del patrimonio del Comparto; 
+• gli strumenti finanziari di natura azionaria, con possibilità di ampie diversificazioni anche geografiche, 
+rappresentano almeno il 65% del patrimonio del Comparto e non possono superare il limite massimo del 95%; 
+• gli strumenti collegati al rendimento di materie prime non possono superare il limite massimo del 5% del 
+patrimonio del Comparto. Il Comparto può utilizzare OICR fino al 100% del patrimonio.
+=== pagina 6 ===
+Regolamento - pagina 5 di 16 
+SecondaPensione Garantita ESG 
+SecondaPensione Garantita ESG è un Comparto garantito che ha come obiettivo quello di realizzare con 
+elevata probabilità rendimenti che siano almeno pari a quelli del TFR in un orizzonte temporale pluriennale. La 
+presenza della garanzia consente di soddisfare le esigenze di un soggetto con una bassa propensione al 
+rischio. 
+Gli strumenti in cui investe il Comparto sono selezionati sulla base di decisioni di investimento che, oltre a 
+essere fondate sull’analisi finanziaria, sono operate sulla base di analisi non finanziarie che prendendo in 
+considerazione in modo sistematico fattori di tipo ambientale, sociale e di governo societario (ESG), al fine di 
+orientare, con una visione di lungo periodo, le scelte di investimento a obiettivi di responsabilità sociale. 
+Il Comparto investe, in proporzioni flessibili, in strumenti finanziari di natura monetaria, obbligazionaria e 
+azionaria; l’esposizione ai mercati azionari non potrà eccedere il 30% del patrimonio del Comparto. Il Comparto 
+investe inoltre in strumenti finanziari collegati al rendimento di materie prime in misura non superiore al 5% del 
+suo patrimonio. L’adesione al comparto denominato “SecondaPensione Garantita ESG” attribuisce all’aderente, 
+al verificarsi degli eventi di cui appresso, il diritto alla corresponsione di un importo minimo garantito a 
+prescindere dai risultati di gestione. 
+La garanzia può essere prestata alla SGR da soggetti diversi dalla stessa, a ciò abilitati. 
+ 
+L’adesione al comparto denominato “SecondaPensione Garantita ESG” attribuisce all’aderente, al verificarsi 
+degli eventi di cui appresso, il diritto alla corresponsione di un importo minimo garantito a prescindere dai risultati 
+di gestione. La garanzia può essere prestata alla S.G.R. da soggetti diversi dalla stessa, a ciò abilitati. 
+ 
+L’importo minimo garantito è pari alla somma dei contributi netti versati al comparto, inclusi gli eventuali importi 
+derivanti da trasferimenti da altro comparto o da altra forma pensionistica e i versamenti effettuati per il reintegro 
+delle anticipazioni percepite, ridotto da eventuali riscatti parziali e anticipazioni. 
+Per contributi netti si intendono i contributi di cui all’Art. 10, comma 2. 
+ 
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+• esercizio del diritto alla prestazione pensionistica di cui all’Art. 11, con esclusione della prestazione in forma di 
+rendita integrativa temporanea anticipata (RITA); 
+• riscatto per decesso; 
+• riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un terzo; 
+• riscatto per inoccupazione per un periodo superiore a 48 mesi; 
+• anticipazione, di cui al successivo art. 14, comma 1, lett. a). 
+ 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata, calcolata ai 
+sensi dell’Art.10, e con riferimento al primo giorno di valorizzazione utile successivo alla verifica delle condizioni 
+che danno diritto alla prestazione, la stessa viene integrata a tale maggior valore. L’integrazione viene 
+corrisposta dalla S.G.R.. 
+ 
+Profilo LifeCycle 
+ 
+Il Profilo LifeCycle prevede il passaggio progressivo ed automatico della posizione individuale dell’iscritto dai 
+Comparti di gestione con profilo di rischio più elevato verso i Comparti di gestione con profilo di rischio 
+progressivamente decrescente in funzione del tempo mancante rispetto alla data corrispondente al compimento 
+del 65° anno di età dell’iscritto, secondo le modalità previste nella tabella seguente. 
+ 
+ 
+ Comparti di gestione ai quali viene trasferita la posizione in funzione del 
+tempo mancante rispetto alla data corrispondente al compimento del 
+65° anno di età.  
+Profilo LifeCycle 
+ “SecondaPensione Espansione ESG” fino a 10 anni (*) 
+“SecondaPensione Sviluppo ESG” fino a 7 anni (*) 
+“SecondaPensione Bilanciata ESG” fino a 3 anni (*) 
+“SecondaPensione Prudente ESG” meno di 3 anni (*) 
+(*) Anni mancanti alla data corrispondente al compimento del 65° anno di età.
+=== pagina 7 ===
+Regolamento - pagina 6 di 16 
+ 
+ 
+Per gli aderenti che optino per il Profilo LifeCycle è inoltre possibile attivare l’opzione “Switch Salvadanaio” che 
+prevede il trasferimento automatico dal Comparto “SecondaPensione Espansione ESG” al Comparto 
+“SecondaPensione Prudente ESG” di un importo calcolato secondo i seguenti criteri di calcolo: 
+ 
+ % Overperformance del semestre solare 
+di riferimento rispetto all’indice FOI (*) * 
+posizione individuale dell’aderente 
+all’ultimo giorno di quotazione  
+del semestre solare precedente 
+ 
+ 
+(*) L’indice FOI è l’indice dei prezzi al consumo per le famiglie di operai e impiegati al netto dei tabacchi. 
+ 
+Per Overperformance del semestre solare di riferimento rispetto all’indice FOI si intende: il differenziale (ove 
+positivo) tra la performance maturata dal comparto nel semestre solare di riferimento e il rendimento registrato 
+dall’indice FOI. 
+Per posizione individuale dell’aderente all’ultimo giorno di quotazione del semestre solare precedente si intende: 
+numero quote del comparto possedute dall’aderente all’ultimo giorno di quotazione del semestre solare 
+precedente moltiplicato per il valore della quota stessa, al netto degli importi eventualmente trasferiti sulla base 
+dello Switch Salvadanaio intervenuti nel periodo di riferimento. 
+L’operazione di passaggio tra comparti avviene sulla base del secondo valore quota successivo al termine del 
+semestre solare di riferimento. 
+L’opzione è attiva a partire dal primo semestre solare successivo all’adesione alla stessa. 
+L’opzione Switch Salvadanaio non opera in caso di disinvestimenti effettuati nel corso del semestre solare di 
+riferimento. 
+L’iscritto, anche successivamente all’adesione nel rispetto del periodo minimo di un anno dall’iscrizione ovvero 
+dall’ultima riallocazione, avrà facoltà di variare liberamente l’opzione di adesione al Comparto prescelta 
+(dall’investimento in singoli Comparti del Fondo all’adesione al Profilo LifeCycle e viceversa). 
+ 
+ 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di rischio-
+rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti nella Nota informativa. 
+La Nota informativa descrive, inoltre, le caratteristiche del Profilo LifeCycle. 
+ 
+Art. 8. Spese 
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a) Spese relative alla fase di accumulo: 
+a.1) direttamente a carico dell’aderente: una commissione annua pari ad Euro 15,00; 
+a.2) indirettamente a carico dell’aderente e che incidono sul Comparto: 
+i. - una commissione di gestione in percentuale del patrimonio su base annua, prelevata con 
+cadenza trimestrale. La misura della commissione di gestione per ciascun Comparto è riportata nella tabella 
+seguente: 
+ 
+ 
+Comparto Ammontare della commissione di gestione 
+SecondaPensione Prudente ESG 0,60% su base annua 
+SecondaPensione Bilanciata ESG 0,65% su base annua 
+SecondaPensione Sviluppo ESG 0,70% su base annua 
+SecondaPensione Espansione ESG 0,80% su base annua 
+SecondaPensione Garantita ESG 0,70% su base annua (comprensivo degli 
+oneri connessi alla garanzia) 
+ 
+ 
+ii. - Sono inoltre a carico di ciascun Comparto, per quanto di competenza, le imposte e tasse, le spese legali e 
+giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione derivanti dall’attività di
+=== pagina 8 ===
+Regolamento - pagina 7 di 16 
+impiego delle risorse, nonché il “contributo di vigilanza” dovuto annualmente alla COVIP ai sensi di legge; sono 
+altresì a carico del comparto le spese relative alla remunerazione e allo svolgimento dell’incarico del 
+Responsabile, salva diversa decisione della S.G.R. 
+Su ciascun Comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al 
+rimborso delle parti di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo i casi di 
+deroga di carattere generale previsti dalla COVIP. In particolare, nel caso di investimenti in OICR collegati, dal 
+compenso della S.G.R. sarà dedotta la remunerazione complessiva percepita dal gestore dell’OICR collegato. 
+Fanno eccezione gli investimenti in FIA diversi da quelli collegati. 
+ 
+b) Spese relative alla fase di erogazione delle rendite vitalizie (c.d. prestazioni assicurative) , quali riportate 
+nell’allegato n.2. 
+c) Spese e premi relativi alle prestazioni assicurative accessorie, quali riportate nell’allegato n.3. 
+d) Spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia (c.d. prestazioni 
+finanziarie): 
+   d.1) spese per la gestione finanziaria di cui alla lettera a.2), in relazione al/i comparto/i nel/i quale/i è investita 
+la posizione individuale residua; 
+   d.2) una commissione annua pari ad Euro 10,00. 
+ 
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di 
+convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle commissioni 
+di gestione espresse in misura percentuale sul patrimonio avviene mediante emissione di classi di quote 
+differenti. 
+ 
+3. Sono a carico della S.G.R. tutte le spese e gli oneri non individuati dalle disposizioni del presente articolo. 
+ 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+ 
+Art. 9. Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso. 
+ 
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima e delle 
+modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali. 
+ 
+3. I lavoratori dipendenti, in caso di adesione esplicita, possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può anche 
+essere parziale ove previsto dagli accordi collettivi. Qualora il lavoratore decida altresì di versare la 
+contribuzione prevista a suo carico e abbia diritto, in base ad accordi collettivi, anche aziendali, a un contributo 
+del datore di lavoro, detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il 
+datore di lavoro può decidere, anche in assenza di accordi collettivi, anche aziendali, di contribuire al Fondo. 
+ 
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i lavoratori 
+dipendenti, l’obbligo del versamento del TFR maturando eventualmente conferito. La sospensione non comporta 
+la cessazione della partecipazione al Fondo. 
+ 
+5.  In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore di lavoro e la 
+contribuzione del lavoratore. La contribuzione a carico del lavoratore non è obbligatoria nel caso in cui la 
+retribuzione annuale lorda corrisposta dal datore di lavoro risulti inferiore al valore pari all’assegno sociale di cui 
+all’art. 3, commi 6 e 7, della legge 8 agosto 1995, n. 335. L’aderente può conferire il TFR anche in misura 
+parziale ove previsto dagli accordi collettivi. 
+ 
+6. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà di sospendere la 
+contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo a carico del datore di 
+lavoro, fermo restando il versamento del TFR maturando al Fondo. È possibile riattivare la contribuzione in 
+qualsiasi momento. 
+ 
+7. La contribuzione può essere effettuata nel rispetto di quanto previsto dall’art. 8, comma 12, del Decreto (c.d. 
+contribuzione da abbuoni).
+=== pagina 9 ===
+Regolamento - pagina 8 di 16 
+ 
+8. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età pensionabile 
+prevista dal regime obbligatorio di appartenenza, a condizione che alla data del pensionamento possa far valere 
+almeno un anno di contribuzione a favore delle forme di previdenza complementare. 
+ 
+Art. 10. Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è alimentata dai 
+contributi netti versati, dagli importi derivanti da trasferimenti da altre forme pensionistiche complementari e dai 
+versamenti effettuati per il reintegro delle anticipazioni percepite, ed è ridotta da eventuali riscatti parziali e 
+anticipazioni. 
+ 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, di cui 
+all’Art.8, comma 1, lett. a), e delle eventuali somme destinate a copertura delle prestazioni accessorie 
+espressamente previste. Sul primo versamento incidono anche eventuali spese di adesione.  
+ 
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di ogni singolo 
+comparto è calcolato come variazione del valore della quota dello stesso nel periodo considerato. 
+ 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono valutate al 
+valore di mercato; pertanto le plusvalenze e le minusvalenze maturate concorrono alla determinazione della 
+posizione individuale, a prescindere dal momento di effettivo realizzo. 
+ 
+5. La S.G.R. determina il valore della quota e, conseguentemente, della posizione individuale di ciascun 
+aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono trasformati in quote, e frazioni 
+di quote, sulla base del primo valore di quota successivo al giorno in cui si sono resi disponibili per la 
+valorizzazione. 
+ 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello risultante al 
+primo giorno di valorizzazione utile successivo a quello in cui la S.G.R. ha verificato la sussistenza delle 
+condizioni che danno diritto alle prestazioni. 
+ 
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono intangibili e 
+non possono formare oggetto di sequestro o pignoramento da parte dei creditori dell’aderente. 
+ 
+Art. 11. Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei requisiti 
+di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, con almeno cinque 
+anni di partecipazione alle forme pensionistiche complementari. Il predetto termine è ridotto a tre anni per il 
+lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo stesso acquisisca il diritto a una 
+pensione complementare e che si sposta in un altro Stato membro dell’Unione europea. L’aderente che decide 
+di proseguire volontariamente la contribuzione ai sensi del comma 8 dell’articolo 9 ha la facoltà di determinare 
+autonomamente il momento di fruizione delle prestazioni pensionistiche. 
+ 
+2. Per i soggetti non titolari di reddito di lavoro o d’impresa si considera età pensionabile quella vigente nel 
+regime obbligatorio di appartenenza. 
+ 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche sono 
+considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati dall’aderente per 
+i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale. 
+ 
+4. L’aderente che abbia cessato l’attività lavorativa e abbia maturato almeno 20 anni di contribuzione nei regimi 
+obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche complementari di cui 
+al comma 1, ha facoltà di richiedere che le prestazioni siano erogate, in tutto o in parte, in forma di “Rendita 
+integrativa temporanea anticipata” (RITA) con un anticipo massimo di cinque anni rispetto alla data di 
+maturazione dell’età anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appartenenza.
+=== pagina 10 ===
+Regolamento - pagina 9 di 16 
+5. L'aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un periodo di 
+tempo superiore a 24 mesi e abbia maturato il periodo minimo di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1, ha facoltà di richiedere la rendita di cui al precedente comma 4 con un 
+anticipo massimo di 10 anni rispetto alla data di maturazione dell'età anagrafica per la pensione di vecchiaia nel 
+regime obbligatorio di appartenenza. 
+ 
+6. La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei commi 4 o 5, verrà fatta 
+confluire, salva diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo e indicato nella 
+Nota informativa. L’aderente può successivamente variare il comparto nel rispetto del periodo minimo di 
+permanenza. 
+ 
+7. Nel corso dell'erogazione della RITA l'aderente può richiederne la revoca; ciò comporta la cessazione 
+dell'erogazione delle rate residue. 
+ 
+8. Nel caso in cui non venga utilizzata l'intera posizione individuale a titolo di RITA, l'aderente ha la facoltà di 
+richiedere, con riferimento alla sola porzione residua della posizione individuale, il riscatto e l'anticipazione di cui 
+ai successivi artt. 13 e 14, ovvero, cessata l’erogazione della RITA parziale, la prestazione pensionistica. 
+ 
+9. In caso di trasferimento ad altra forma pensionistica complementare la RITA si intende automaticamente 
+revocata e viene trasferita l'intera posizione individuale. 
+ 
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di capitale nel 
+limite del 50 per cento della posizione individuale maturata. Nel computo dell’importo complessivo erogabile in 
+capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. 
+Qualora l’importo che si ottiene convertendo in rendita vitalizia immediata annua senza reversibilità a favore 
+dell’aderente il 70 per cento della posizione individuale maturata risulti inferiore al 50 per cento dell’assegno 
+sociale di cui all’articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, l’aderente può optare per la 
+liquidazione in capitale dell’intera posizione maturata. 
+ 
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 aprile 
+1993 ed entro tale data iscritto a una forma pensionistica complementare istituita alla data di entrata in vigore 
+della legge 23 ottobre 1992, n. 421, può richiedere la liquidazione dell’intera prestazione pensionistica 
+complementare in capitale. 
+ 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e pignorabilità in 
+vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+ 
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto può 
+trasferire la propria posizione individuale presso altra forma pensionistica complementare, per avvalersi delle 
+condizioni di erogazione della rendita vitalizia praticate da quest’ultima. In tal caso si applica quanto previsto 
+all’Art.13, commi 6 e 7. 
+ 
+Art. 12. Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita vitalizia 
+immediata calcolata in base alla posizione individuale maturata, al netto della eventuale quota di prestazione da 
+erogare sotto forma di capitale. 
+ 
+2. L’aderente può richiedere comunque l'erogazione delle prestazioni in una delle tipologie di rendita vitalizia di 
+seguito indicate: 
+a) una rendita vitalizia immediata rivalutabile pagabile in modo certo per i primi 5 anni e, successivamente, 
+fintanto che l'iscritto sia in vita; 
+b) una rendita vitalizia immediata rivalutabile pagabile in modo certo per i primi 10 anni e, successivamente, 
+fintanto che l'iscritto sia in vita; 
+c) una rendita vitalizia immediata rivalutabile pagabile fintanto che l'iscritto sia in vita e reversibile 
+successivamente a favore di altro soggetto designato, fintanto che quest'ultimo rimanga in vita; 
+d) una rendita vitalizia immediata annua posticipata con rivalutazione annua delle prestazioni e raddoppio in 
+caso di non autosufficienza incorsa durante il periodo di erogazione della stessa;
+=== pagina 11 ===
+Regolamento - pagina 10 di 16 
+e) una rendita vitalizia immediata annua posticipata con rivalutazione annua delle prestazioni e restituzione in 
+caso di morte della differenza, se positiva, tra: 
+• il “premio di contro assicurazione” rivalutato fino alla ricorrenza annuale del contratto che precede la data della 
+morte e 
+• il prodotto tra la rata della “rendita assicurata” rivalutata all'ultima ricorrenza del contratto che precede la data 
+della morte con il numero di rate effettivamente corrisposte. 
+ 
+3. Nell’allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite vitalizie e i 
+coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo calcolo. Tali coefficienti 
+possono essere successivamente variati, nel rispetto della normativa tempo per tempo vigente in materia di 
+stabilità delle compagnie di assicurazione; in ogni caso, le modifiche dei coefficienti di trasformazione non si 
+applicano ai soggetti, già aderenti alla data di introduzione delle modifiche stesse, che esercitano il diritto alla 
+prestazione pensionistica nei tre anni successivi.  
+ 
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, laddove vi 
+sia l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell'allegato n.2 e, negli altri casi, a 
+coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base alle proiezioni ufficiali 
+disponibili sull’andamento della mortalità della popolazione italiana. 
+ 
+5. In alternativa alla rendita vitalizia, l'aderente può richiedere, al netto della eventuale quota di prestazione 
+erogata sotto forma di capitale, l'erogazione della prestazione pensionistica in una delle seguenti forme: 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della vita attesa 
+residua del beneficiario, come determinata dall'ISTAT per il calcolo delle pensioni obbligatorie. 
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con facoltà per lo 
+stesso di determinarne la tempistica e l'importo nel limite della somma delle rate, maturate e non riscosse, di 
+una rendita teorica con frazionamento annuale, immediatamente erogabile e di durata definita pari alla vita 
+attesa residua, in anni interi, dell'aderente al momento della richiesta della prestazione. 
+ 
+6. La SGR provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla rendita vitalizia con 
+tempestività e comunque non oltre il termine massimo di 90 giorni decorrente dalla ricezione della richiesta. Nel 
+caso in cui la domanda risulti incompleta o insufficiente, la SGR richiede gli elementi integrativi, e il termine 
+sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. Il montante 
+residuo è mantenuto in gestione, nel/i comparto/i scelto/i dall'aderente, all'atto della richiesta della prestazione o, 
+in difetto di indicazioni, nel/i comparto/i individuato/i nella Nota informativa. 
+ 
+6-bis. Al fine di adeguare i sistemi e i processi operativi della SGR per la gestione delle richieste e l'erogazione 
+diretta delle prestazioni, il termine di cui al comma 6 può essere derogato per un periodo transitorio, che non 
+potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo la SGR acquisisce le richieste di erogazione delle 
+prestazioni. Successivamente all'avvenuto adeguamento dei suddetti sistemi e processi operativi, la SGR 
+procede tempestivamente alla liquidazione delle richieste di erogazione delle prestazioni pervenute durante il 
+periodo transitorio. 
+ 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono essere revocate una 
+volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del montante residuo in una rendita 
+vitalizia immediata sulla base delle condizioni e dei criteri indicati nella Nota informativa, ovvero trasferisca il 
+montante residuo presso un'altra forma pensionistica all'unico fine di beneficiare delle condizioni di rendita 
+vitalizia offerte da quest'ultima. 
+ 
+8. L'aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto ad 
+individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante residuo. Tale 
+scelta può essere successivamente modificata dall'aderente. 
+ 
+9. Nel corso dell'erogazione delle prestazioni di cui al comma 5, lett. a) e b), l'aderente non può richiedere 
+trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione del comparto/profilo di investimento, 
+che può essere richiesta nel rispetto del periodo minimo di partecipazione di cui all'art. 6, comma 2.
+=== pagina 12 ===
+Regolamento - pagina 11 di 16 
+10. Nel corso dell'erogazione delle prestazioni pensionistiche, non può essere versata ulteriore contribuzione al 
+Fondo, salvo il caso in cui l'interessato attivi un nuovo rapporto di lavoro che preveda la maturazione del TFR. 
+ 
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni 
+pensionistiche di cui al comma 5, lett. a) e b). 
+ 
+Art. 13. Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica complementare 
+decorso un periodo minimo di due anni di partecipazione al Fondo. 
+ 
+2. L’aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale acceda in 
+relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività lavorativa che 
+comporti l’inoccupazione per un periodo di tempo non inferiore a 12 mesi e non superiore a 48 mesi, ovvero in 
+caso di ricorso da parte del datore di lavoro a procedure di mobilità, cassa integrazione guadagni, ordinaria o 
+straordinaria; 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la riduzione 
+della capacità di lavoro a meno di un terzo o a seguito di cessazione dell’attività lavorativa che comporti 
+l’inoccupazione per un periodo di tempo superiore a 48 mesi.  
+d) riscattare fino all’intera posizione individuale maturata, ai sensi dell’art.14, comma 5 del Decreto, ovvero 
+trasferirla ad altra forma pensionistica complementare, qualora vengano meno i requisiti di partecipazione al 
+Fondo. Il riscatto parziale può essere esercitato una sola volta nel periodo di partecipazione al Fondo, qualora 
+vengano meno i requisiti di partecipazione. 
+ 
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di trasferimento e 
+riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore contribuzione. Tale opzione 
+trova automatica applicazione in difetto di diversa scelta da parte dell’aderente. Nel caso in cui il valore della 
+posizione individuale maturata non sia superiore all’importo di una mensilità dell’assegno sociale di cui all’art. 3, 
+comma 6, della Legge 8 agosto 1995, n. 335, la S.G.R. informa l’aderente della facoltà di trasferire la propria 
+posizione individuale ad altra forma pensionistica complementare, ovvero di chiedere il riscatto dell’intera 
+posizione di cui al comma 2, lettera d).  
+ 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero nel corso 
+dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la posizione individuale è riscattata dai 
+soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, o in mancanza dagli eredi. In mancanza 
+di tali soggetti, la posizione individuale resta acquisita al Fondo. 
+ 
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione. 
+ 
+6. La S.G.R., accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della posizione con 
+tempestività, e comunque non oltre il termine massimo di sei mesi decorrente dalla ricezione della richiesta. Nel 
+caso in cui la domanda risulti incompleta o insufficiente, la SGR richiede gli elementi integrativi e il termine sopra 
+indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. 
+ 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della partecipazione al 
+Fondo. 
+ 
+Art. 14. Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie conseguenti a 
+situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi straordinari riconosciuti dalle 
+competenti strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 75 per 
+cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, per la realizzazione, sulla prima casa di 
+abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro e di risanamento conservativo, di
+=== pagina 13 ===
+Regolamento - pagina 12 di 16 
+ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 1 dell’art. 3 del decreto del Presidente della 
+Repubblica 6 giugno 2001, n. 380; 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 30 per 
+cento, per la soddisfazione di ulteriori sue esigenze. 
+ 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono riportate 
+in apposito documento. 
+ 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento della 
+posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate. 
+ 
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono considerati 
+utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati dall’aderente, per i quali lo 
+stesso non abbia esercitato il diritto di riscatto totale della posizione individuale. 
+ 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in qualsiasi 
+momento. 
+ 
+6. Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+ 
+La S.G.R. provvede agli adempimenti conseguenti all’esercizio delle predette facoltà da parte dell’aderente con 
+tempestività e comunque non oltre il termine massimo di sei mesi decorrente dalla ricezione della richiesta. Nel 
+caso in cui la domanda risulti incompleta o insufficiente, la S.G.R. richiede gli elementi integrativi, e il termine 
+sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. 
+ 
+Art. 14-bis. Prestazioni accessorie 
+1. Il Fondo prevede inoltre le seguenti prestazioni assicurative accessorie: 
+a) la corresponsione di un capitale al verificarsi della morte o della invalidità totale o permanente in data 
+anteriore a quella di esercizio del diritto alla prestazione pensionistica complementare; 
+b) la corresponsione di un capitale per la condizione di non autosufficienza incorsa in data anteriore a quella di 
+esercizio del diritto alla prestazione pensionistica complementare; 
+c) la corresponsione di un capitale al verificarsi della morte in data anteriore a quella di esercizio del diritto alla 
+prestazione pensionistica complementare. 
+ 
+I capitali assicurati, per le fattispecie di cui alle lettere a) e c), sono pari, a scelta dell’aderente, ai seguenti 
+importi: 
+_ euro 75.000,00; 
+_ euro 150.000,00. 
+ 
+Il capitale assicurato, per la fattispecie di cui alla lettera b), è pari ad euro 75.000,00. 
+ 
+La copertura della prestazione assicurativa accessoria è attivata dietro versamento del premio annuo (o rateo di 
+premio nel caso di attivazione in corso d’anno) determinato sulla base dei parametri riportati nella convenzione 
+sottoscritta dal Fondo e riportata nell’Allegato 3 del Regolamento, che tengono conto dell’importo del capitale 
+assicurato e dell’età dell’aderente. 
+ 
+2. L’adesione alle suddette prestazioni è facoltativa e può essere espressa all’atto dell’adesione al Fondo o 
+successivamente mediante sottoscrizione di apposito modulo. 
+ 
+3. Le condizioni delle suddette prestazioni sono indicate nell’allegato n.3 al presente Regolamento. 
+ 
+PARTE IV – PROFILI ORGANIZZATIVI 
+ 
+Art. 15. Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia al 
+patrimonio della S.G.R., sia a quello degli altri fondi gestiti, sia a quello degli aderenti.
+=== pagina 14 ===
+Regolamento - pagina 13 di 16 
+ 
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non può 
+essere distratto da tale fine. 
+ 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori della S.G.R. o di 
+rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di rappresentanti dei creditori stessi. 
+Il patrimonio del Fondo non può essere coinvolto nelle procedure concorsuali che riguardino la S.G.R. 
+ 
+4. La S.G.R. è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle operazioni 
+poste in essere per conto del Fondo rispetto al complesso delle altre operazioni svolte dalla S.G.R. e del 
+patrimonio del Fondo rispetto a quello della S.G.R. e di suoi clienti. 
+ 
+5. Ferma restando la responsabilità della S.G.R. per l’operato del soggetto delegato, la gestione amministrativa 
+e contabile del Fondo può essere delegata a terzi. 
+ 
+6. La S.G.R. è dotata di procedure organizzative atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere in riferimento a ciascun Comparto. 
+ 
+7. Il patrimonio di ciascun Comparto è suddiviso in quote. 
+ 
+Art. 16 – Sistema di governo 
+1. La S.G.R. assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla complessità delle 
+attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4-bis, 5-bis, 5-ter, 5-quater, 5-sexies, 5-septies, 
+5-octies e 5-nonies del Decreto in coerenza con gli assetti organizzativi del rispettivo settore di riferimento. 
+ 
+Art. 17. Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei requisiti 
+previsti dalle vigenti disposizioni normative (di seguito “depositario"). La custodia del patrimonio del Fondo è 
+affidata a Société Générale Sécurities Services S.p.A., di seguito “banca depositaria”, con sede in Milano. 
+ 
+2. La S.G.R. può revocare in ogni momento l’incarico di depositario il quale può, a sua volta, rinunciare con 
+preavviso di almeno 6 mesi; in ogni caso, l’efficacia della revoca o della rinuncia è sospesa fino a che: 
+– la S.G.R. non abbia stipulato un nuovo contratto con altro depositario, in possesso dei requisiti di legge; 
+– il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+ 
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità della 
+SGR per l’operato del soggetto delegato. 
+ 
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente. 
+ 
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità riscontrate 
+nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di cui sono venuti a 
+conoscenza nell’esercizio delle funzioni di depositario. 
+ 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono 
+ammesse azioni dei creditori del depositario, del subdepositario o nell’interesse degli stessi. 
+ 
+ 
+Art. 18. Responsabile 
+1. La S.G.R. nomina un Responsabile del Fondo, ai sensi dell’art.5, comma 2 del Decreto. 
+2. Le disposizioni che regolano la nomina, le competenze, il regime di responsabilità del Responsabile sono 
+riportate nell’allegato n.1. 
+ 
+Art. 19 - Organismo di rappresentanza  
+1. È istituito un Organismo di rappresentanza (di seguito “Organismo”), ai sensi dell’art. 5, comma 5, del 
+Decreto.
+=== pagina 15 ===
+Regolamento - pagina 14 di 16 
+2. Le disposizioni che regolano la nomina, la composizione e il funzionamento dell’Organismo sono riportate in 
+un apposito documento denominato “Disposizioni in materia di Organismo di rappresentanza”.  
+3. La S.G.R. individua il numero complessivo dei componenti dell’Organismo in modo tale da garantire la 
+rappresentatività degli iscritti per adesioni collettive e la funzionalità dell’Organismo. 
+4. Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle che alla fine del mese 
+precedente alla designazione hanno almeno 500 lavoratori iscritti al fondo pensione. 
+5. I componenti dell’Organismo restano in carica tre anni e possono svolgere più mandati. I componenti nominati 
+in sostituzione di quelli cessati in corso di mandato scadono insieme a quelli in carica all’atto della loro nomina.  
+6. Le spese di funzionamento dell’Organismo e gli eventuali compensi riconosciuti ai suoi componenti, non 
+possono gravare sul fondo né sulla S.G.R.. 
+7. L’Organismo svolge funzioni di collegamento tra le collettività che aderiscono al Fondo, la S.G.R. e il 
+Responsabile. L’Organismo non svolge funzioni di controllo. 
+8. I componenti dell’Organismo devono adempiere le loro funzioni nel rispetto dei principi generali di correttezza 
+e buona fede e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza in ragione del 
+loro ufficio. 
+ 
+Art. 20. Conflitti d’interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi della 
+normativa tempo per tempo vigente. 
+ 
+Art. 21. Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle posizioni 
+individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+ 
+2. La S.G.R. conferisce a una società di revisione l’incarico di esprimere con apposita relazione un giudizio sul 
+rendiconto del Fondo. 
+ 
+3. Il rendiconto del Fondo è pubblicato sul sito web della S.G.R.. 
+ 
+ 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+ 
+Art. 22. Modalità di adesione e clausole risolutive espresse 
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. L’adesione è 
+preceduta dalla consegna della documentazione informativa prevista tempo per tempo dalla normativa vigente. 
+ 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite alla S.G.R.. 
+ 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera di 
+conferma attestante la data di iscrizione e le informazioni relative all’eventuale versamento effettuato. 
+ 
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi allegati, e delle 
+successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’Art. 27. 
+ 
+5. In caso di adesione automatica, il Fondo, sulla base dei dati forniti dal datore di lavoro, comunica all’aderente 
+l’avvenuta adesione, il profilo di tipo life cycle  nel quale sono investiti i contributi, nonché le informazioni 
+necessarie al fine di consentire a quest’ultimo l’esercizio delle scelte di sua competenza. 
+ 
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze della 
+S.G.R. da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione della S.G.R.. Le adesioni su base 
+collettiva possono essere raccolte anche presso i luoghi indicati nella Nota informativa.  
+ 
+7. L’efficacia dei contratti di adesione conclusi fuori sede è sospesa per la durata di sette giorni decorrenti dalla 
+data di prima adesione. Entro tale termine l’aderente ha il diritto di recedere senza spese né corrispettivo alla 
+SGR o ai soggetti incaricati della raccolta delle adesioni mediante raccomandata a/r. In caso di adesione 
+mediante sito web, la S.G.R. deve acquisire il consenso espresso dell’aderente all’utilizzo di tale strumento. 
+L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di recesso e
+=== pagina 16 ===
+Regolamento - pagina 15 di 16 
+senza dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente invia una comunicazione 
+scritta alla S.G.R. con modalità che garantiscono certezza della data di ricezione. La S.G.R., entro trenta giorni 
+dal ricevimento della comunicazione, procede a rimborsare le somme eventualmente pervenute, al netto delle 
+spese di adesione, ove trattenute. La S.G.R. rende previamente noti all’aderente il momento in cui l’adesione si 
+intende conclusa, i termini, le modalità e i criteri di determinazione delle somme oggetto di rimborso.  
+ 
+8. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione al Fondo. 
+In caso di inadempimento, la S.G.R. ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto 
+comunicando all’aderente la propria volontà di avvalersi della clausola risolutiva espressa, salvo che l’aderente 
+non provveda a effettuare un versamento entro sessanta giorni dalla ricezione della comunicazione.  
+ 
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con conseguente 
+azzeramento della posizione individuale a seguito dell’applicazione delle spese annuali di gestione 
+amministrativa, la S.G.R. ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto comunicando 
+la propria volontà di avvalersi della clausola risolutiva espressa, salvo che l’aderente non provveda a effettuare 
+un versamento entro sessanta giorni dalla ricezione della comunicazione. 
+ 
+Art. 23. « U.S. Persons» 
+1. Non è consentita l’adesione al Fondo da parte di qualsiasi «U.S. Person», secondo la definizione contenuta 
+nel U.S. "Regulation S" della Securities and Exchange Commission («SEC»). 
+ 
+2. A tal fine, la S.G.R. può: 
+ respingere la richiesta di adesione al Fondo da parte di una «U.S. Person»; 
+ richiedere a qualsiasi soggetto che risulti nel registro degli aderenti al Fondo, in qualunque momento, di fornire 
+per iscritto, sotto la propria responsabilità, ogni informazione ritenuta necessaria per stabilire se tale soggetto sia 
+una «U.S. Person»; nel caso in cui l’aderente risulti essere una «U.S. Person», la S.G.R. invita l’aderente a 
+manifestare la scelta di trasferire la posizione individuale maturata ad altra forma pensionistica complementare, 
+anche prima che siano decorsi due anni dall’iscrizione, ovvero di riscattare totalmente tale posizione e, in 
+mancanza dell’una o dell’altra scelta, la S.G.R. può disporre la cessazione della partecipazione al Fondo e il 
+riscatto totale della posizione individuale maturata. 
+ 
+Art. 24. Trasparenza nei confronti degli aderenti 
+1. La S.G.R. mette a disposizione degli aderenti la documentazione inerente al Fondo e tutte le altre 
+informazioni utili all’aderente, secondo quanto previsto dalle disposizioni COVIP in materia. Tali documenti sono 
+disponibili sul sito internet della S.G.R., in un’apposita sezione dedicata alle forme pensionistiche complementari 
+e presso la sede legale della S.G.R.. I documenti utilizzati in fase di adesione sono resi disponibili in formato 
+cartaceo e gratuitamente anche presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni.  
+ 
+2. La S.G.R. fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni individuali maturate e alle 
+prestazioni erogate, secondo quanto previsto dalla normativa tempo per tempo vigente. 
+ 
+Art. 25. Comunicazioni e reclami 
+1. La S.G.R. definisce le modalità con le quali gli aderenti e i beneficiari possono rappresentare le proprie 
+esigenze e presentare reclami in coerenza con le indicazioni fornite dalla COVIP, riportandole nella Nota 
+Informativa. 
+ 
+ 
+ 
+PARTE VI – NORME FINALI 
+ 
+Art. 26. Modifiche del Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP. 
+2. La S.G.R. stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse degli aderenti e fatto 
+salvo quanto disposto all’Art. 27.
+=== pagina 17 ===
+Regolamento - pagina 16 di 16 
+Art. 27. Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione individuale 
+maturata ad altra forma pensionistica complementare, anche prima che siano decorsi due anni dall’iscrizione. Il 
+diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in modo sostanziale la 
+caratterizzazione del Fondo, come può avvenire in caso di variazione significativa delle politiche di investimento. 
+ 
+2. La S.G.R. comunica a ogni aderente interessato l’introduzione delle modifiche almeno 120 giorni prima della 
+relativa data di efficacia; dal momento della comunicazione l’aderente ha 90 giorni di tempo per manifestare 
+l’eventuale scelta di trasferimento. La S.G.R. può chiedere alla COVIP termini ridotti di efficacia nei casi in cui 
+ciò sia utile al buon funzionamento del Fondo e non contrasti con l’interesse degli aderenti. 
+ 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese. 
+ 
+Art. 28. Cessione del Fondo 
+1. Qualora la S.G.R. non voglia o non possa più esercitare l’attività di gestione del Fondo, questo viene ceduto 
+ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione del Fondo a società diverse da quelle 
+del Gruppo al quale appartiene la S.G.R. viene riconosciuto agli aderenti il diritto al trasferimento della posizione 
+presso altra forma pensionistica complementare ai sensi dell’art. 27 e con le modalità ivi previste. 
+ 
+Art. 29. Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fusione con 
+un altro fondo gestito dalla medesima S.G.R., il diritto al trasferimento della posizione presso altra forma 
+pensionistica complementare viene riconosciuto qualora ricorrano le condizioni di cui all’art. 27 e con le modalità 
+ivi previste. 
+ 
+Art. 30 Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla normativa tempo 
+per tempo vigente.
+=== pagina 18 ===
+Amundi SGR S.p.A. 
+Società appartenente al Gruppo Crédit Agricole 
+Sede Sociale: via Cernaia 8/10 
+20121 - Milano 
+www.amundi.it

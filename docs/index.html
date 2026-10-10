@@ -7,10 +7,14 @@
   <meta name="description" content="Confronto dei fondi pensione aperti italiani iscritti all'Albo COVIP: costi, comparti, asset allocation, rendimenti e commissioni.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chewy&family=Inter:wght@400..800&display=swap">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="img/elsa-192.png">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
   <link rel="stylesheet" href="style.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
   <script src="app.js" defer></script>
+  <script src="navigazione.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#fondi">Vai alla tabella dei fondi</a>
@@ -18,21 +22,31 @@
   <header class="hero">
     <div class="wrap">
       <p class="eyebrow">Albo COVIP · Sezione II – Fondi pensione aperti</p>
-      <h1>Fondi pensione aperti a confronto</h1>
-      <p class="lead">Costi, comparti, asset allocation e rendimenti in un unico posto. Dati da fonti ufficiali e dalle schede
-        di Ciao Elsa (fonte secondaria): <strong>verifica sempre la Nota informativa</strong> prima di decidere.</p>
+      <h1 tabindex="-1">Fondi pensione aperti a confronto</h1>
+      <p class="lead">Costi, <span class="termine" data-glossario="comparto">comparti</span>,
+        <span class="termine" data-glossario="asset-allocation">asset allocation</span> e rendimenti in un unico posto.
+        Dati da fonti ufficiali e dalle schede di <span class="termine" data-glossario="ciao-elsa">Ciao Elsa</span>
+        (fonte secondaria): <strong>verifica sempre la <span class="termine" data-glossario="nota-informativa">Nota informativa</span></strong>
+        prima di decidere.</p>
     </div>
   </header>
 
   <nav class="topnav" aria-label="Sezioni">
     <div class="wrap">
-      <a href="#fondi">Fondi</a>
-      <a href="#grafico">Commissione e rendimento</a>
-      <a href="#categorie">Per categoria</a>
-      <a href="#qualita">Qualità dei dati</a>
-      <span class="sep" aria-hidden="true"></span>
-      <a class="extra" href="guida/">Guida</a>
-      <a class="extra" href="presentazione/">Presentazione</a>
+      <a class="marchio" href="./" data-spiega="Riporta all'inizio della dashboard, da qualunque pagina del sito.">
+        <img src="img/elsa-192.png" alt="" width="48" height="48"><span class="scritta">goodbye Elsa !!</span><span class="sr-only">: torna all'inizio della dashboard</span></a>
+      <div class="voci">
+        <a href="#fondi">Fondi</a>
+        <a href="#grafico">Commissione e rendimento</a>
+        <a href="#categorie">Per categoria</a>
+        <a href="#regole">Regole</a>
+        <a href="#prestazioni">Alla pensione</a>
+        <a href="#glossario">Glossario</a>
+        <a href="#qualita">Qualità dei dati</a>
+        <span class="sep" aria-hidden="true"></span>
+        <a class="extra" href="guida/">Guida</a>
+        <a class="extra" href="presentazione/">Presentazione</a>
+      </div>
     </div>
   </nav>
 
@@ -46,17 +60,17 @@
 
     <section id="fondi" aria-labelledby="h-fondi">
       <h2 id="h-fondi">Fondi</h2>
-      <p class="hint">Clicca sul nome di un fondo per vedere i comparti. Clicca sulle intestazioni per ordinare.
-        ⚠️&nbsp;indica note o anomalie da verificare.</p>
+      <p class="hint">Clicca sul nome di un fondo per vedere i comparti e sulle intestazioni per ordinare. ⚠️&nbsp;indica
+        note o anomalie. Passando il mouse su intestazioni, filtri, etichette e termini sottolineati compare una spiegazione.</p>
       <form class="toolbar" id="filtri" role="search" onsubmit="return false">
         <label class="search">
           <span class="sr-only">Cerca</span>
           <input type="search" id="q" placeholder="Cerca fondo o società…" autocomplete="off">
         </label>
-        <label class="chk"><input type="checkbox" id="f-dati"> Solo con dati</label>
-        <label class="chk"><input type="checkbox" id="f-esg"> ESG</label>
-        <label class="chk"><input type="checkbox" id="f-lc"> Life cycle</label>
-        <label class="chk"><input type="checkbox" id="f-online"> Sottoscrivibile online</label>
+        <label class="chk" data-spiega="Nasconde i fondi senza dati di dettaglio (costi e comparti): per quelli ci sono solo il nome e il sito."><input type="checkbox" id="f-dati"> Solo con dati</label>
+        <label class="chk" data-glossario="esg" data-spiega="Il filtro mostra i fondi con almeno una linea sostenibile, secondo Ciao Elsa."><input type="checkbox" id="f-esg"> ESG</label>
+        <label class="chk" data-glossario="life-cycle" data-spiega="Il filtro mostra i fondi che offrono un percorso life cycle, secondo Ciao Elsa."><input type="checkbox" id="f-lc"> Life cycle</label>
+        <label class="chk" data-glossario="sottoscrizione-online" data-spiega="Il filtro mostra i fondi a cui oggi si può aderire online tramite Ciao Elsa (non quelli in lista d'attesa)."><input type="checkbox" id="f-online"> Sottoscrivibile online</label>
         <output id="conteggio" aria-live="polite"></output>
       </form>
       <div class="table-scroll">
@@ -70,10 +84,10 @@
 
     <section id="grafico" aria-labelledby="h-grafico">
       <h2 id="h-grafico">Commissione di gestione e rendimento</h2>
-      <p class="hint">Ogni punto è un comparto. In alto a sinistra ci sono i comparti più economici e con il rendimento passato più alto.
+      <p class="hint">Ogni punto è un <span class="termine" data-glossario="comparto">comparto</span>. In alto a sinistra ci sono i comparti più economici e con il rendimento passato più alto.
         I rendimenti passati non garantiscono quelli futuri, e il confronto ha senso solo tra comparti con lo stesso profilo di rischio.</p>
       <div class="toolbar">
-        <label class="chk"><input type="checkbox" id="g-periodi"> Includi i rendimenti a 3 e 5 anni <span class="tag tag-warn">non confrontabili</span></label>
+        <label class="chk"><input type="checkbox" id="g-periodi"> Includi i rendimenti a 3 e 5 anni <span class="tag tag-warn" data-spiega="I rendimenti medi su 3 o 5 anni coprono un periodo di mercato diverso da quelli a 10 anni: i numeri non si possono confrontare.">non confrontabili</span></label>
         <label class="select">Evidenzia fondo
           <select id="g-fondo"><option value="">Nessuno</option></select>
         </label>
@@ -90,6 +104,66 @@
       <div class="cards" id="cat-cards"></div>
     </section>
 
+    <section id="regole" aria-labelledby="h-regole">
+      <h2 id="h-regole">Come funziona: le regole</h2>
+      <p class="hint">Le regole su versamenti, TFR, anticipazioni, pensione e decesso le fissa la legge (D.Lgs. 252/2005,
+        aggiornato alla Legge di Bilancio 2026) e valgono per tutti i fondi; dove qualcosa cambia da fondo a fondo è indicato.
+        Le spiegazioni complete sono nella <a href="guida/#come-funziona-un-fondo-pensione">guida</a>.</p>
+      <div id="r-blocco">
+        <div class="toolbar toolbar-centro">
+          <div class="pills" id="r-temi" role="group" aria-label="Filtra le regole per tema"></div>
+          <label class="chk"><input type="checkbox" id="r-varia"> Solo ciò che cambia da fondo a fondo</label>
+        </div>
+        <div class="regole" id="r-lista" aria-live="polite"></div>
+      </div>
+
+      <div id="l-blocco">
+        <div class="apertura">
+          <h3>Per quanto tempo servirà il capitale?</h3>
+          <p class="hint">Nessuno sa quanto vivrà: è il motivo per cui conta come si sceglie di ricevere la pensione.
+            Ecco quanti 67enni sono ancora in vita a ogni età secondo le <span class="termine" data-glossario="tavole-mortalita">tavole ISTAT</span> più recenti.</p>
+        </div>
+        <div class="kpis compatti" id="l-kpi"></div>
+        <div class="legend" id="l-legend" aria-label="Legenda"></div>
+        <div class="chart-box basso"><canvas id="longevita" role="img" aria-label="Percentuale di persone di 67 anni ancora in vita a ogni età, uomini e donne, dati ISTAT 2025"></canvas></div>
+        <p class="hint" id="l-nota"></p>
+      </div>
+    </section>
+
+    <section id="prestazioni" aria-labelledby="h-prestazioni">
+      <h2 id="h-prestazioni">Alla pensione, fondo per fondo</h2>
+      <p class="hint">Le regole sono uguali per tutti, le condizioni no: quanto paga la <span class="termine" data-glossario="rendita-vitalizia">rendita</span>,
+        con quali opzioni e quanto costano anticipazioni, riscatti e trasferimenti, dai documenti ufficiali di ogni fondo.
+        Clicca sul nome di un fondo per i dettagli e le fonti.</p>
+      <div class="kpis compatti" id="p-kpi"></div>
+      <div class="toolbar toolbar-centro">
+        <label class="chk" data-spiega="Nasconde i fondi per cui il coefficiente a 67 anni non è pubblicato o non è confrontabile con gli altri."><input type="checkbox" id="p-solo-rendita"> Solo con la rendita a 67 anni</label>
+        <output id="p-conteggio" aria-live="polite"></output>
+      </div>
+      <div class="table-scroll">
+        <table class="data" id="tab-prestazioni">
+          <caption class="sr-only">Condizioni alla pensione dei fondi pensione aperti</caption>
+          <thead><tr></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="hint" id="p-nota"></p>
+    </section>
+
+    <section id="glossario" aria-labelledby="h-glossario">
+      <h2 id="h-glossario">Glossario</h2>
+      <p class="hint">Le parole tecniche della dashboard spiegate in breve, con la fonte (soprattutto il glossario della COVIP).
+        Le stesse spiegazioni compaiono passando il mouse sui termini sottolineati a puntini; da telefono, toccandoli.</p>
+      <div class="toolbar toolbar-centro">
+        <label class="search">
+          <span class="sr-only">Cerca nel glossario</span>
+          <input type="search" id="gl-cerca" placeholder="Cerca un termine, es. ESG…" autocomplete="off">
+        </label>
+        <output id="gl-conteggio" aria-live="polite"></output>
+      </div>
+      <div class="glossario" id="gl-lista"></div>
+    </section>
+
     <section id="qualita" aria-labelledby="h-qualita">
       <h2 id="h-qualita">Qualità dei dati</h2>
       <div id="qualita-body"></div>
@@ -101,10 +175,11 @@
       <p><strong>Progetto personale</strong>, nato per uso privato e pubblicato su GitHub a puro scopo dimostrativo:
         non è un servizio rivolto al pubblico. Autore non affiliato a COVIP, ai gestori dei fondi o a Ciao Elsa.</p>
       <p><strong>Non è consulenza finanziaria.</strong> I dati possono essere incompleti, non aggiornati o errati.
-        Prima di aderire a un fondo consulta la Nota informativa, la Scheda costi e l'ISC (Indicatore Sintetico dei Costi) pubblicati dal fondo e da
+        Prima di aderire a un fondo consulta la Nota informativa, la <span class="termine" data-glossario="scheda-costi">Scheda costi</span>
+        e l'<span class="termine" data-glossario="isc">ISC</span> (Indicatore Sintetico dei Costi) pubblicati dal fondo e da
         <a href="https://www.covip.it" rel="noopener">COVIP</a>.</p>
       <p id="meta-footer"></p>
-      <p>Codice con licenza MIT. Fonti: COVIP, siti ufficiali dei gestori, <a href="https://www.ciaoelsa.com" rel="noopener">Ciao Elsa</a> (fonte secondaria).</p>
+      <p><span id="licenza"></span> Fonti: COVIP, siti ufficiali dei gestori, <a href="https://www.ciaoelsa.com" rel="noopener">Ciao Elsa</a> (fonte secondaria).</p>
     </div>
   </footer>
 

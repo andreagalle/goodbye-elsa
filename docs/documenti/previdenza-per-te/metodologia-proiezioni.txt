@@ -1,0 +1,50 @@
+# Fondo: PREVIDENZA PER TE - FONDO PENSIONE APERTO (previdenza-per-te)
+# Documento: Metodologia delle proiezioni – Metodologia e ipotesi per prestazioni pensionistiche standardizzate.pdf
+# Fonte: https://www.axa-mps.it/c/document_library/get_file?uuid=064500d4-86d1-7fff-07bf-b5e3ee35f8cf&groupId=715633
+# Citato in: https://www.axa-mps.it/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 0cb7fe5b4e6468fd85d5c6f1ddd8b23807588af93ad91d9bfecc0b5a64ff108c
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+METODOLOGIA E IPOTESI UTILIZZATE PER L’ELABORAZIONE DELLE 
+PRESTAZIONI PENSIONISTICHE STANDARDIZZATE   
+Il presente documento è volto a illustrare la metodologia di calcolo e le ipotesi utilizzate per l’elaborazione 
+delle prestazioni pensionistiche. 
+Il valore della posizione individuale prospettica e quello della prima rata di rendita attesa sono rappresentati in 
+termini reali e, pertanto, già al netto degli effetti dell’inflazione. 
+Nel calcolo dell’evoluzione della posizione  si tiene conto soltanto delle imposte gravanti sui 
+rendimenti. 
+Per la costruzione delle proiezioni pensionistiche si considerano  le informazioni relative al singolo aderente 
+(oppure figure-tipo nel caso  di proiezioni standardizzate), le informazioni proprie della forma pensionistica 
+complementare e le ipotesi definite dalla COVIP valevoli per tutte le forme pensionistiche complementari.  
+Per le figure tipo, la COVIP prevede di considerare le seguenti caratteristiche 
+ Età anagrafica al momento dell’adesione: 30, 40 anni
+ Contributo annuo in euro: 2.500 e 5.000
+ Età di pensionamento: 67 anni
+L’elaborazione è compiuta per ciascun comparto (o fondo interno/OICR/gestione interna separata). 
+Le variabili utilizzate nei calcoli sono le seguenti: 
+ dati anagrafici dell’aderente (oppure figure-tipo nel caso di proiezioni standardizzate);
+ misura della contribuzione effettivamente versata con carattere di stabilità (oppure figure-tipo nel caso
+di proiezioni standardizzate);
+ tasso atteso di crescita della contribuzione pari a un tasso reale dell’1%, qualora la contribuzione sia
+espressa in cifra fissa; qualora la contribuzione sia espressa in percentuale della retribuzione, si
+assume un tasso annuo atteso di crescita della retribuzione pari all’1% in termini reali. La contribuzione
+è rivalutata annualmente;
+ tasso annuo atteso di inflazione pari al 2%;
+ costi connessi alla partecipazione nella fase di accumulo pari a quelli effettivamente applicati dalla
+forma pensionistica complementare e consultabili dalla “Scheda  I Costi”;
+ tasso atteso di rendimento della gestione calcolato sulla base della composizione azionaria e
+obbligazionaria del comparto. Alla componente azionaria è attribuito un rendimento del 4,00% annuo
+e a quella obbligazionaria del 2,00% annuo. Il tasso è espresso al lordo dei costi e della tassazione;
+ età di pensionamento pari alla presumibile età di pensionamento di vecchiaia dell’aderente (o figure-
+tipo nel caso di proiezioni standardizzate);
+ ipotesi tecniche per il calcolo della prima rata di rendita definite dalla COVIP e di seguito riportate
+o basi demografiche: A62I coefficienti propri della forma pensionistica complementare
+o tasso tecnico 0%
+o costo relativo alla trasformazione della posizione in rendita: 1,25%
+Qualora i coefficienti di conversione effettivamente utilizzati dalla forma pensionistica complementare 
+alla data di elaborazione del documento risultino meno favorevoli all’aderente rispetto a quelli sopra 
+indicati, il calcolo della prima rata annnua di rendita è effettuato applicando i coefficienti propri della 
+forma pensionistica complementare.

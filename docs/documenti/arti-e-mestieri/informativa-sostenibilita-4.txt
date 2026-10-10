@@ -1,0 +1,266 @@
+# Fondo: ARTI & MESTIERI - FONDO PENSIONE APERTO (arti-e-mestieri)
+# Documento: Nota informativa – Appendice Informativa sulla sostenibilità – il
+# Fonte: https://www.animasgr.it/d/IT/Downloads/Documents/InformativaSostenibilita_ArtiMestieriCompartoCrescita25piu.pdf
+# Citato in: https://www.animasgr.it/IT/investitore-privato/come-investire/Pagine/documentazione-legale.aspx?areas=2
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 40847539085d422f3f2abf15a8c1eeef62f52e046462156683ec727bd1736424
+# Pagine: 6
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+ANIMA SGR S.p.A. - Tutti i diritti sono riservati . 
+ 
+ 
+ 
+Informativa sulla sostenibilità di cui all’art. 10 del Reg. UE 2019/2088 
+(“SFDR”) relativa al prodotto “ ARTI & MESTIERI CRESCITA 25+ ”, che 
+promuove caratteristiche ambientali o sociali ai sensi dell’art. 8 SFDR 
+ 
+ Data Descrizione 
+Prima redazione 31-03-2023 Prima redazione del documento 
+Prima revisione 22-04-2024 Riformulazione delle sezioni a) e h) 
+Seconda revisione 31-03-2025 Riformulazione delle sezioni d), g) e h 
+Terza revisione 31-03-2026 Riformulazione delle sezioni d), e), h) 
+ 
+a) Sintesi 
+ 
+1. Il prodotto in oggetto promuove le caratteristiche ambientali e sociali descritte più 
+avanti e nel contempo limita il peso degli emittenti con una bassa qualità ESG. 
+2. Anche se questo prodotto promuove caratteristiche ambientali e sociali, non ha come 
+obiettivo investimenti in emittenti sostenibili. 
+3. In particolare, il prodotto solo promuove la preservazione dell’ambiente e delle risorse 
+naturali, la democrazia, i diritti umani e sociali e condizioni di lavoro dignitose, come 
+perseguite dagli eventuali emittenti governativi. Per quello che riguarda gli  emittenti 
+corporate, esso promuove anche la lotta al cambiamento climatico, il rispetto dei diritti 
+umani, la protezione della salute umana e la protezione del benessere umano, la tutela 
+di ulteriori aspetti ambientali, sociali e di governance. Le caratte ristiche ambientali e 
+sociali sono promosse attivamente dai Portfolio Managers del Gestore. 
+4. La strategia di investimento responsabile è quella di perseguire le caratteristiche 
+ambientali e sociali descritte al punto precedente e di limitare gli investimenti in 
+emittenti a bassa qualità ESG, seguendo, inoltre, i criteri allocativi descritti al pun to 
+successivo. 
+5. Almeno il 70% degli asset del prodotto finanziario è investito in strumenti che 
+promuovono le caratteristiche ambientali e sociali sopra descritte e che sono 
+rappresentati da Fondi interni o di terzi Art. 8 e Art. 9 della SFDR o da singoli emittenti 
+oggetto di investimento diretto caratterizzati da un ESG Score superiore a 1.429/10. Fino 
+al 30% degli attivi può essere investito in strumenti di mercato monetario, o consistere 
+nei margini, collaterali o valore di mercato degli strumenti derivati utilizzati, o in un mix 
+di tali strumenti e di strumenti di emittenti sprovvisti di un ESG Score o con un ESG Score 
+inferiore a 1.429/10 o in OICVM non Art. 8 o 9 della SFDR (purchè abbiano superato il 
+test di good governance), con un vincolo del 20% per questi ultimi. 
+6. Le caratteristiche ambientali e sociali sono promosse attivamente dai Portfolio 
+Managers del Gestore, nell’ambito del loro perseguimento attivo della strategia di 
+investimento. Il team di Risk Management del Gestore controlla su base continuativa 
+l’aderenza del portafoglio alla sua strategia. 
+7. Le metodologie, usate per la valutazione delle caratteristiche ambientali e sociali dei 
+Paesi e delle aziende oggetto di investimento e per l’identificazione degli emittenti 
+soggetti ad esclusione, sono quelle sviluppate dai fornitori terzi specificatament e 
+selezionati dal Gestore.
+=== pagina 2 ===
+ANIMA SGR S.p.A. - Tutti i diritti sono riservati . 
+ 
+8. I dati sono quelli prodotti dai fornitori terzi e possono essere o quelli resi pubblici dalle 
+stesse aziende o stimati dal fornitore (vedi paragrafo h) più avanti); essi sono gestiti e 
+processati elettronicamente, via flussi informatici che connettono dire ttamente i 
+fornitori terzi con il team di Risk Management del Gestore. 
+9. Le principali limitazioni dei metodi di analisi sono rappresentate dal grado di copertura 
+degli emittenti in portafoglio da parte dei fornitori esterni, dalle possibili imprecisioni 
+derivanti dalla normalizzazione di sistemi di misurazione differenti utilizzati dai fornitori 
+e dall’utilizzo di dati da loro stimati. 
+10. La corretta applicazione delle valutazioni ESG è assicurata dalle modalità di scarico o 
+recepimento informatizzato delle stesse, nonché dalla parametrizzazione dei limiti ESG 
+nel sistema di front office e di Risk Management. 
+11. Con riferimento alle pratiche di azionariato attivo, la SGR, oltre ad aderire ai Princìpi 
+Italiani di Stewardship emessi da Assogestioni, ha predisposto una politica documentata 
+e disponibile al pubblico “ANIMA – Politica di impegno”, sintetizzata nel punt o k) più 
+avanti. 
+12. Non è stato designato un indice di riferimento per soddisfare le caratteristiche 
+ambientali e sociali promosse dal prodotto. 
+  
+b) Nessun obiettivo di investimento sostenibile 
+ 
+Questo prodotto finanziario promuove caratteristiche ambientali e sociali, ma non ha 
+come obiettivo investimenti sostenibili. 
+c) Caratteristiche ambientali o sociali del prodotto finanziario 
+ 
+Questo prodotto finanziario promuove sia la preservazione dell’ambiente e delle risorse 
+naturali, che la democrazia, i diritti umani e sociali e condizioni di lavoro dignitose, come 
+perseguite dagli eventuali emittenti governativi. Dal punto di vista degli  emittenti 
+corporate, il prodotto finanziario promuove anche: la lotta al cambiamento climatico, il 
+rispetto dei diritti umani, la protezione della salute umana e la protezione del benessere 
+umano, la tutela di ulteriori aspetti ambientali, sociali e di go vernance. La promozione 
+di tali caratteristiche è valutata dal Gestore sulla base di analisi effettuate da fornitori 
+terzi specializzati sulle tematiche ESG. 
+d) Strategia di investimento 
+ 
+La strategia ESG del prodotto finanziario si basa su due pilastri: 
+1. la promozione di alcune caratteristiche ambientali e sociali; 
+2. la limitazione degli investimenti in emittenti a bassa qualità ESG. 
+Più in dettaglio: 
+1.  Questo prodotto finanziario promuove in particolare:       
+a. sia la preservazione dell’ambiente e delle risorse naturali, che la democrazia, i 
+diritti umani e sociali e condizioni di lavoro dignitose, come perseguite dagli 
+emittenti governativi; 
+b. la lotta al cambiamento climatico, attraverso l’esclusione di emittenti corporate 
+coinvolti nell'intera catena del valore del carbone termico, ossia nei settori della 
+produzione di energia, fornitura di servizi a supporto dell'industria energetica ed
+=== pagina 3 ===
+ANIMA SGR S.p.A. - Tutti i diritti sono riservati . 
+ 
+estrazione, con una quota di fatturato che rappresenti oltre il 30% dei loro ricavi, 
+identificati tramite i dati e le analisi provenienti dal fornitore terzo; 
+c. il rispetto dei diritti umani o altre violazioni significative della normativa 
+internazionale, attraverso l’esclusione di:             
+i. emittenti corporate coinvolti in armamenti controversi, come mine anti -
+uomo, munizioni a grappolo, armi biologiche, chimiche, accecanti, 
+all’uranio impoverito, al fosforo bianco, nucleari, molte delle quali bandite 
+anche da trattati internazionali, identif icati tramite i dati e le analisi 
+provenienti dal fornitore terzo; 
+ii. emittenti governativi che siano sanzionati, così come disciplinato dalla 
+Policy ESG cui il prodotto finanziario aderisce, identificati tramite i dati e 
+le analisi provenienti dal fornitore terzo; 
+d. la protezione della salute umana, attraverso l’esclusione di emittenti corporate 
+coinvolti nel tabacco, identificati tramite la classificazione settoriale del fornitore 
+terzo; 
+e. la protezione del benessere umano, attraverso l’esclusione di emittenti corporate 
+coinvolti nel gioco d’azzardo, identificati tramite la classificazione settoriale del 
+fornitore terzo; 
+f. la tutela di ulteriori aspetti ambientali, sociali e di governance, attraverso 
+l’esclusione degli emittenti in violazione dei principi UNGC o delle linee guida 
+dell’OCSE destinati alle imprese multinazionali, identificati tramite i dati e le 
+analisi provenienti dal fornitore terzo.  
+    
+Le esclusioni di cui sopra sono determinate dal Gestore sulla base di analisi svolte da 
+fornitori terzi specializzati in campo ESG. 
+    
+Per la parte di portafoglio investita in OICVM, si considera che essi promuovano 
+caratteristiche ambientali e sociali, se coerenti con le previsioni degli Art. 8 e 9 della 
+SFDR. 
+2. La qualità ESG del prodotto finanziario è controllata in modo da evitare una 
+concentrazione elevata di emittenti a basso rating/punteggio ESG, dove la 
+concentrazione è presa in considerazione in termini assoluti (cioè rispetto agli asset del 
+prodotto finanziario) e non in termini relativi ad un indice di riferimento (cioè non in 
+relazione alla sua composizione per punteggi ESG). In particolare, gli emittenti sono 
+selezionati in modo che almeno il 70% degli asset del prodotto finanziario siano investiti 
+in aziende o Paesi con ESG Score superiori a 1.429/10 (in una scala che va da 0 a 10, ove 
+10 rappresenta il punteggio migliore) o in OICVM Art. 8 o 9 della SFDR. Fino al 30% degli 
+attivi del prodotto finanziario può essere investito in strumenti di mercato monetario, o 
+consistere nei margini, collaterali o valore di mercato degli strumenti derivati utilizzati, 
+o in un mix di tali strumenti e di strumenti di emittenti sprovvisti di un ESG Score o con 
+un ESG Score inferiore a 1.429/10 o in OICVM non Art. 8 o 9 della SFDR (purchè abbiano 
+superato il test di good governance), con un vincolo del 20% per questi ultimi. 
+Il Gestore usa punteggi ESG di fornitori terzi specializzati. 
+La qualità ESG complessiva del prodotto finanziario è monitorata su base continuativa 
+e gli emittenti sprovvisti di ESG Score o con un ESG Score non soddisfacenti sono 
+rivalutati ad ogni riunione trimestrale del Comitato ESG del Gestore. 
+Le esclusioni e le limitazioni di cui sopra non si applicano alle posizioni rivenienti da look-
+through su fondi di terzi e derivati su indici in portafoglio.
+=== pagina 4 ===
+ANIMA SGR S.p.A. - Tutti i diritti sono riservati . 
+ 
+Anima SGR si è dotata anche di una policy di azionariato attivo ( stewardship) e una 
+sull’esercizio dei diritti di voto che tengono conto dei fattori ESG. 
+e) Quota degli investimenti 
+ 
+L’allocazione degli attivi del prodotto finanziario è definita dal suo profilo di rischio -
+rendimento e attuata attraverso la modulazione dei suoi investimenti nel corso del 
+tempo. 
+Almeno il 70% degli asset del prodotto finanziario è investito in strumenti che 
+promuovono le caratteristiche ambientali e sociali descritte nei paragrafi precedenti e 
+che sono rappresentati da Fondi interni o di terzi Art. 8 e Art. 9 della SFDR o da singo li 
+emittenti oggetto di investimento diretto caratterizzati da un ESG Score superiore a 
+1.429/10, che hanno superato i criteri di esclusione descritti in precedenza. 
+Fino al 30% degli attivi del prodotto finanziario può essere investito in strumenti di 
+mercato monetario, o consistere nei margini, collaterali o valore di mercato degli 
+strumenti derivati utilizzati, o in un mix di tali strumenti e di strumenti di emitten ti 
+sprovvisti di un ESG Score o con un ESG Score inferiore a 1.429/10 o in OICVM non Art. 
+8 o 9 della SFDR (purchè abbiano superato il test di good governance), con un vincolo 
+del 20% per questi ultimi. Gli emittenti sprovvisti di un ESG Score o con un ESG  Score 
+inferiore a 1.429/10 o gli OICVM non Art. 8 e 9 della SFDR sono ritenuti di interesse da 
+un punto di vista finanziario e, date le loro caratteristiche, aiutano a completare il profilo 
+tematico, settoriale e geografico del portafoglio. Comunque, essi  rispetteranno i criteri 
+di esclusione di cui al precedente paragrafo sulla strategia di investimento. 
+Le soglie sopra menzionate del 70% e 30% del saranno rispettate a meno condizioni di 
+mercato straordinarie e sempre nell’interesse dei sottoscrittori a partire dalla fine del 
+periodo di collocamento per i fondi a scadenza e a partire dal primo giorno di qu ota 
+variabile per i fondi aperti. Il rispetto della soglia massima del 20% di cui sopra non è 
+invece soggetto a deroghe straordinarie. 
+f) Monitoraggio delle caratteristiche ambientali o sociali 
+ 
+Le caratteristiche ambientali e sociali sono promosse attivamente dai Portfolio 
+Managers del Gestore, nell’ambito del loro perseguimento attivo della strategia di 
+investimento di questo prodotto finanziario. Il team di Risk Management del Gestore 
+controlla su base continuativa l’aderenza del portafoglio a tali caratteristiche e strategia 
+di investimento, avendo sempre come riferimento i dati ESG resi disponibili dai fornitori 
+terzi utilizzati. Qualunque deviazione dalle linee di indirizzo (dovute per esempi o a 
+movimenti dei prezzi o variazioni dei punteggi ESG degli emittenti oggetto di 
+investimento) è analizzata dal Gestore, valutando eventuali interventi sul portafoglio, 
+tenendo sempre in considerazione gli interessi del prodotto e dei suoi sottoscrittori. 
+g) Metodologie 
+ 
+Le metodologie, usate per la valutazione delle caratteristiche ambientali e sociali dei 
+Paesi e delle aziende oggetto di investimento e per l’identificazione degli emittenti 
+soggetti ad esclusione, sono quelle sviluppate dai fornitori terzi utilizzati. Ult eriori 
+dettagli sono disponibili sul sito delle società, che sono tra le più conosciute sul mercato 
+e le cui competenze professionali sono la miglior garanzia sulla qualità dei loro dati ESG.
+=== pagina 5 ===
+ANIMA SGR S.p.A. - Tutti i diritti sono riservati . 
+ 
+h) Fonti e trattamento dei dati 
+ 
+I dati, usati per la valutazione delle caratteristiche ambientali e sociali dei Paesi e delle 
+aziende oggetto di investimento e per l’identificazione degli emittenti soggetti ad 
+esclusione, sono quelli prodotti dai fornitori terzi utilizzati e possono essere o quelli resi 
+pubblici dalle stesse aziende o stimati (dal fornitore). A questo proposito si evidenzia 
+che, con riferimento all’asset class corporate, il fornitore terzo utilizzato effettua stime 
+solo per valutare l’esposizione a rischi o opportunità le gati a specifiche tematiche 
+rilevanti e ai settori, nei casi in cui le aziende non forniscano dati dettagliati. In generale, 
+al massimo il 15% del rating di un’azienda può derivare da stime, con possibili variazioni 
+in funzione del settore; nella maggior p arte dei casi, tuttavia, non si fa alcun ricorso a 
+valori stimati. Per quanto riguarda l’asset class governativa, il ricorso a stime è ancora 
+più limitato, riguardando circa il 7% dei dati complessivi; anche in questo ambito, nella 
+maggior parte dei casi non si fa uso di valori stimati. Inoltre, è ragionevole ipotizzare che 
+l'uso di dati stimati diminuirà nel tempo, dato l'imminente obbligo per le società di 
+pubblicare una serie più ampia di informazioni e dati relativi alla sostenibilità. 
+Al momento il Gestore non utilizza dati ESG stimati internamente. 
+I dati sono gestiti e processati elettronicamente, via flussi informatici che connettono 
+direttamente i fornitori terzi con il team di Risk Management del Gestore. 
+i) Limitazioni delle metodologie e dei dati 
+ 
+Le principali limitazioni dei metodi di analisi sopra descritti sono rappresentate dal 
+grado di copertura degli emittenti in portafoglio da parte dei fornitori esterni e dalle 
+possibili imprecisioni derivanti dalla normalizzazione di sistemi di misurazione differenti 
+utilizzati dai fornitori e dall’utilizzo di dati da loro stimati. 
+j) Dovuta diligenza 
+ 
+La corretta applicazione delle valutazioni ESG a questo prodotto finanziario è assicurata 
+dalle modalità di scarico o recepimento informatizzato delle stesse dai provider terzi 
+utilizzati, così come svolte dalla funzione interna di Risk Management. Inoltre , gli 
+elementi vincolanti della strategia sono tradotti in limitazioni agli investimenti, che 
+vengono definite dal Comitato ESG del Gestore, approvate dal suo Comitato Prodotti e 
+portate all’attenzione del CdA. Tali restrizioni quantitative sono infine app licate al 
+sistema di controllo limiti dal team di Risk Management. 
+k) Politiche di impegno 
+ 
+Con riferimento alle pratiche di azionariato attivo, la SGR, oltre ad aderire ai Princìpi 
+Italiani di Stewardship emessi da Assogestioni sulla base dell’EFAMA Stewardship Code, 
+ha predisposto una politica documentata e disponibile al pubblico (si veda “ANI MA – 
+Politica di impegno”) in cui descrive come: 
+• monitora le società partecipate aventi azioni ammesse alla negoziazione in un 
+mercato regolamentato italiano o di un altro Stato membro dell’Unione europea 
+su questioni rilevanti, compresi la strategia, i risultati finanziari e non finanziari 
+nonché i risc hi, la struttura del capitale, l'impatto sociale e ambientale e il 
+governo societario; 
+• dialoga con le società partecipate;
+=== pagina 6 ===
+ANIMA SGR S.p.A. - Tutti i diritti sono riservati . 
+ 
+• esercita i diritti di voto e altri diritti connessi alle azioni; 
+• collabora con altri azionisti; 
+• comunica con i pertinenti portatori di interesse delle società partecipate; 
+• gestisce gli attuali e potenziali conflitti di interesse in relazione al proprio 
+impegno. 
+l) Indice di riferimento designato 
+ 
+Non è stato designato un indice di riferimento per soddisfare le caratteristiche 
+ambientali e sociali promosse da questo prodotto finanziario.

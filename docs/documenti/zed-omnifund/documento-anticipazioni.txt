@@ -1,0 +1,74 @@
+# Fondo: ZED OMNIFUND - FONDO PENSIONE APERTO (zed-omnifund)
+# Documento: Documento sulle anticipazioni – ZED Omnifund Documento Anticipazioni 032025 prot
+# Fonte: https://www.zurich.it/api/archiviodigitale/download?guid=C3891D04-D382-4ED5-9904-1349FD4873D5&filename=ZED%20Omnifund_Documento%20Anticipazioni_032025_prot.pdf.pdf
+# Citato in: https://www.zurich.it/gruppo-zurich/zurich-italia/partner/banks-and-ifa/zed-omnifund
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 02c7007ec8b5ea66f1ff534e781b7ded6bb1b8b49d43f017580a2567f64107d8
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+ZED Omnifund 
+Documento sulle anticipazioni 
+100/10 ZIL.03.25 Pa g. 1 di  1 
+Zurich Investments Life S.p.A. – Gruppo Zurich Italia 
+ZED Omnifund 
+Fondo Pensione Aperto 
+Iscritto all’apposito albo tenuto dalla COVIP con il n. 39 
+Documento sulle anticipazioni
+A
+i sensi del Decreto legislativo del 5 dicembre 2005, n. 252  gli Aderenti alle forme pensionistiche complementari 
+possono richiedere un'anticipazione della posizione individuale maturata nei termini e modi sottoindicati : 
+a) i
+n qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie a seguito di gravissim e
+s
+ituazioni relative a sé, al coniuge e ai figli per terapie e interventi straordinari riconosciuti dalle competenti
+strutture pubbliche. Sull'importo erogato, al netto dei redditi già assoggettati ad imposta, è applicata una ritenuta
+a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno
+eccedente il quindicesimo anno di partecipazione a  forme pensionistiche complementari con un limite massimo
+di riduzione di 6 punti percentuali;
+b) de
+corsi otto anni di iscrizione, per un importo non superiore al 75 per cento, per l'acquisto della prima casa di
+abitazione per sé o per i figli, documentato con atto notarile, o per la realizzazione degli interventi di cui alle lettere
+a), b), c), e d) del comma 1 dell'articolo 3 del testo unico delle disposizioni legislative e regolamentari in materia
+edilizia di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, relativamente alla prima casa di
+abitazione, documentati come previsto dalla normativa stabilita ai sensi dell'articolo 1, comma 3, della legge 27
+dicembre 1997, n. 449. Sull'importo erogato, al netto dei redditi già assoggettati ad imposta, si applica una ritenuta 
+a titolo di imposta del 23 per cento.
+Su questo punto si evidenzia quanto indicato negli orientamenti COVIP in materia di anticipazione agli iscritti ex
+a
+rt. 11, commi 7, 8 e 9, del decreto legislativo 5 dicembre 2005, n. 252, per quanto riguarda il termine per la
+presentazione della domanda di conseguimento dell’anticipazione rispetto alla data di acquisto. Tale fattispeci e
+p
+uò, ad esempio, ricorrere nel caso in cui l’immobile sia stato acquistato prima della maturazione degli 8 anni di
+permanenza presso la forma pensionistica complementare. Sul punto si ritiene che debba sussistere una stretta
+connessione tra la domanda di anticipazione e l’acquisto dell’immobile, da escludersi, nel caso di acquisto già
+avvenuto, quando il tempo decorso sia tale da interrompere ogni collegamento funzionale tra  le somme da
+erogare e l’esigenza tutelata dalla norma. Con riferimento alla concreta determinazione del termine, si reputa utile
+chiarire che è da considerarsi congruo, rispetto alle finalità sopra evidenziate, il termine di 18 mesi dalla data
+dell’acquisto. È peraltro ammissibile che le forme pensionistiche complementari prevedano termini anche più
+brevi a quello indicato;
+c) d
+ecorsi otto anni di iscrizione, per un importo non superiore al 30 per cento, per ulteriori esigenze degli aderenti .
+S
+ull'importo erogato, al netto dei redditi già assoggettati ad imposta, si applica una ritenuta a titolo di imposta del
+23 per cento.
+d) l
+e ritenute di cui alle lettere a), b) e c) sono applicate dalla forma pensionistica che eroga le anticipazioni.
+L
+e somme percepite a titolo di anticipazione non possono mai eccedere, complessivamente, il 75 per cento del totale 
+dei versamenti, comprese le quote del TFR, maggiorati delle plusvalenze tempo per tempo realizzate, effettuati alle 
+forme pensionistiche complementari a decorrere dal primo momento di iscrizione alle predette forme. Le anticipazioni 
+possono essere reintegrate, a scelta dell'aderente, in qualsiasi momento anche mediante contribuzioni annuali 
+eccedenti il limite di 5.164,57 euro. Sulle somme eccedenti il predetto limite, corrispondenti alle anticipazioni 
+reintegrate, è riconosciuto al contribuente un credito d'imposta pari all'imposta pagata al momento della fruizione 
+dell'anticipazione, proporzionalmente riferibile all'importo reintegrato. 
+A
+i fini della determinazione dell'anzianità necessaria per la richiesta delle anticipazioni e delle prestazioni 
+pensionistiche sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati 
+dall'aderente per i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale. 
+S
+i precisa infine che, così come indicato nel Regolamento, la Compagnia procederà all’erogazione dell’anticipazione 
+entro il termine massimo di 6 mesi decorrente dalla ricezione della richiesta. Nel caso in cui la domanda risulti 
+incompleta o insufficiente, la Compagnia di assicurazione richiede gli elementi integrativi, e il termine sopra indicato 
+è sospeso fino alla data del completamento o della regolarizzazione della pratica.

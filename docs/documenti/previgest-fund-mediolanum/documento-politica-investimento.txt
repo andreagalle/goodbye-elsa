@@ -1,0 +1,622 @@
+# Fondo: FONDO PENSIONE APERTO PREVIGEST FUND MEDIOLANUM (previgest-fund-mediolanum)
+# Documento: Documento sulla politica di investimento – File
+# Fonte: https://www.mediolanumgestionefondi.it/static-assets/documenti/file/it/2025/10/29//PoliticadiinvestimentodelFondoPensioneapertoPrevigestFundDef.pdf
+# Citato in: https://www.mediolanumgestionefondi.it/fondi-pensione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 30f8f50ba82ea9771d9c567431ac4a99cb6b4ca1e1f99f550d5ac018719c77c6
+# Pagine: 15
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+PREVIGEST FUND MEDIOLANUM 
+FONDO PENSIONE APERTO 
+Iscritto all’Albo tenuto dalla Covip con il n. 34 
+ 
+ 
+Documento sulla politica di investimento 
+Redatto ai sensi della Delibera Covip del 16 marzo 2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consiglio di Amministrazione di Mediolanum Gestione Fondi SGR.p.A del 26 settembre 2025
+=== pagina 2 ===
+1 
+ 
+Sommario 
+ 1 PREMESSA .............................................................................. 2 
+1.1 Principali modifiche apportate ..................................................... 3 
+2 OBIETTIVI DELLA POLITICA D’INVESTIMENTO ................................. 3 
+2.1 Caratteristiche dei potenziali aderenti ............................................ 3 
+2.2 Obiettivi di rendimento e rischio ................................................... 4 
+2.3 I Comparti .............................................................................. 4 
+3 CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO ............. 6 
+3.1 Ripartizione strategica delle attività .............................................. 6 
+3.2 Comparto Obbligazionario ........................................................... 6 
+3.3 Comparto Bilanciato .................................................................. 7 
+3.4 Comparto Azionario ................................................................... 8 
+3.5 Investimenti in OICR  ................................................................. 9 
+3.6 Modalità e stile di gestione ........................................................ 10 
+3.7 Valutazioni in ambito ESG ......................................................... 14
+=== pagina 3 ===
+2 
+ 
+1 PREMESSA 
+ 
+Il Fondo pensione aperto PREVIGEST FUND MEDIOLANUM è finalizzato all’erogazione di 
+trattamenti pensionistici complementari del sistema previdenziale obbligatorio, ai sensi del 
+d.lgs. 5 dicembre 2005, n. 252.  
+PREVIGEST FUND MEDIOLANUM (nel seguito anche so lo il “Fondo”) è stato istituito da 
+Mediolanum Gestione Fondi SGR p.A. (di seguito anche SGR o MGF), Società di Gestione 
+del Risparmio appartenente al Gruppo Mediolanum, ed è iscritto all’albo tenuto dalla COVIP 
+con il n. 34. 
+Il Fondo pensione aperto PREVIGEST FUND MEDIOLANUM  è rivolto a tutti coloro che 
+intendono realizzare un piano di previdenza complementare su base individuale . Possono 
+inoltre aderire, su base collettiva, i lavoratori nei cui confronti trovano applicazione i contratti, 
+gli accordi o i r egolamenti aziendali che prevedono l’adesione a PREVIGEST FUND 
+MEDIOLANUM.  
+Il Fondo ha istituito classi di quote differenziate per tipologia di adesione. Per le adesioni 
+collettive convenzionate si fa riferimento alla “Classe A”. 
+PREVIGEST FUND MEDIOLANUM  è una forma pensionistica operante in regime di 
+contribuzione definita: l’entità della prestazione pensionistica è determinata in funzione della 
+contribuzione effettuata e dei relativi rendimenti. Il Fondo è costituito in forma di patrimonio 
+separato e autonomo all’interno della SGR.  
+ 
+Il presente Documento ha lo scopo di definire il processo di attuazione della politica di 
+investimento che Mediolanum Gestione Fondi intende attuare per ottenere, dall’impiego 
+delle risorse gestite afferenti a PREVIGEST FUND  MEDIOLANUM, l’obiettivo finale di 
+perseguire combinazioni rischio -rendimento efficienti nell’arco temporale coerenti con i 
+bisogni previdenziali degli aderenti e con le prestazioni da erogare.  
+Tale documento è sottoposto a revisione periodica almeno trie nnale. I fattori considerati ai 
+fini dell’eventuale modifica sono riportati in apposita deliberazione. Il Documento è 
+trasmesso, in sede di prima definizione e, in seguito, in occasione di ogni sua modificazione: 
+• agli organi di controllo della forma pensionistica e al responsabile della stessa; 
+• ai soggetti incaricati della gestione finanziaria e al depositario; 
+• alla COVIP, entro venti giorni dalla sua formalizzazione. 
+Il Documento è a disposizione degli aderenti, dei beneficiari e dei loro rappresentanti sul sito 
+della SGR (www.mediolanumgestionefondi.it). 
+ 
+L’aggiornamento e la revisione del pres ente documento sono di responsabilità della 
+Divisione Investimenti Mobiliari.
+=== pagina 4 ===
+3 
+ 
+1.1 
+Principali modifiche apportate  
+ 
+ 
+L’aggiornamento del documento, approvato nella sua previgente versione dal Consiglio di 
+Amministrazione nella seduta del 22 febbraio 2024, si rende necessario principalmente per 
+esplicitare la possibilità di utilizzare strumenti derivati con finalità di copertura del rischio e 
+di più efficiente gestione delle risorse, in conformità alla normativa vigente. 
+Si è provveduto altresì ad aggiornare il rendimento medio annuo atteso e contestualmente 
+la probabilità di ottenere un rendimento inferiore ad un target definito del comparto bilanciato 
+e del comparto azionario. 
+Gli aggiornamenti apportati entreranno in vigore dal 1° novembre 2025. 
+ 
+Si descrivono di seguito gli aggiornamenti apportati al presente documento nell’ultimo 
+triennio. 
+L’aggiornamento del documento approvato dal Consiglio di Amministrazione  nella seduta 
+del 22 febbraio 2024, si era reso necessario in seguito al recepimento della variazione dei 
+parametri di riferimento del prodotto (c.d. benchmark). In particolare, con riferimento alla 
+componente obbligazionaria dei suddetti parametri  e con decorrenza 1° marzo 2024 , gli 
+indici JP Morgan sono stati sostituiti con equivalenti indici ICE BofA. 
+ 
+ 
+ 
+ 
+ 
+2 OBIETTIVI DELLA POLITICA D’INVESTIMENTO 
+ 
+PREVIGEST FUND MEDIOLANUM ha l’obiettivo di consentire agli aderenti di disporre, 
+all’atto del pensionamento, di prestazioni pensionistiche complementari del sistema 
+obbligatorio. A tal fine esso provvede alla raccolta dei contributi, alla gestione delle r isorse 
+nell’esclusivo interesse degli aderenti e all’erogazione delle prestazioni secondo quanto 
+disposto dalla normativa in materia di previdenza complementare. L’obiettivo finale della 
+politica d’investimento del Fondo è di massimizzare le risorse destin ate alle prestazioni 
+fornendo agli aderenti opzioni d’investimento diversificate in funzione delle differenti 
+aspettative di rendimento e della tolleranza ai rischi finanziari, perseguendo combinazioni di 
+rischio-rendimento efficienti in termini di rapport o tra rendimento e volatilità dei risultati, in 
+un determinato arco temporale considerato.  
+ 
+ 
+2.1 
+Caratteristiche dei potenziali aderenti 
+ 
+PREVIGEST FUND MEDIOLANUM è destinato sia alle adesioni individuali di tutti i soggetti 
+indistintamente sia alle adesioni dei lavoratori sulla base, ad esempio, di contratti o accordi 
+collettivi aziendali. Esso non ha quindi una popolazione di riferimento predefinita. La pluralità
+=== pagina 5 ===
+4 
+ 
+di opzioni di investimento previste dalla forma pensionistica e l’ampia facoltà concessa ai 
+potenziali aderenti di destinare liberamente i contributi a uno o più comparti e quindi a 
+combinazioni di rischio -rendimento diversificate, rendono il Fondo idoneo a soddisfare le 
+aspettative di popolazioni di riferimento ampie e indefinite e con qualsiasi or izzonte 
+temporale, fermo restando l’obbligo di valutare preventivamente l’adeguatezza del prodotto 
+secondo quanto previsto dalle disposizioni vigenti. 
+All’aderente è inoltre concessa la possibilità di variare nel tempo le scelte effettuate. In 
+coerenza con  quanto sopra descritto, non potendo procedere ad una analisi delle 
+caratteristiche socio-demografiche della popolazione di riferimento (aperta e indefinita) la 
+SGR mantiene aggiornate le informazioni sui propri aderenti sulla base di quanto previsto 
+dalla Covip relativamente ai contenuti inerenti le segnalazione statistiche vigenti. 
+ 
+ 
+ 
+2.2 
+Obiettivi di rendimento e rischio  
+ 
+L’obiettivo di soddisfare i bisogni previdenziali di popolazioni di riferimento ampie e indefinite 
+e con qualsiasi orizzonte temporale, comporta la necessità di offrire una pluralità di opzioni 
+di investimento in termini di combinazioni rischio -rendimento, orizzonti temporali e relativi 
+rendimenti medi annui attesi. 
+A tal fine PREVIGEST FUND MEDIOLANUM prevede tre comparti, ovvero la possibilità di 
+combinazioni degli stessi, in base alle scelte ed alle esigenze specifiche dell’aderente.  
+Il Fondo può investire in una pluralità di strumenti finanziari ed in particolare fino al 100% in 
+OICR armonizzati del Gruppo Mediolanum , ed in particolare della stessa SGR,  che 
+rispecchiano una politica di investimento e profilo di rischio coerenti con quelli previsti dai 
+singoli comparti. 
+La politica d’investimento di PRE VIGEST FUND MEDIOLANUM illustrata nel presente 
+Documento è definita in coerenza con la politica d’investimento già descritta nel materiale 
+contrattuale del Fondo. 
+Tutte le misure di rendimento contenute nel documento in quanto riferibili all’attività di 
+gestione finanziaria sono espresse al lordo degli oneri fiscali, dei costi amministrativi e di 
+gestione e costituiscono degli obiettivi che la forma pensionistica mira a realizzare e non 
+rappresentano pertanto un impegno contrattuale nei confronti degli aderenti. 
+ 
+ 
+2.3 
+I Comparti  
+ 
+Obbligazionario 
+Categoria: obbligazionario misto 
+Finalità: la gestione è volta ad offrire ai partecipanti un investimento in strumenti finanziari, 
+prevalentemente obbligazionari, opportunamente diversificati e selezionati.
+=== pagina 6 ===
+5 
+ 
+Per la sua caratteristica tale comparto è indicato per coloro che: 
+- privilegiano investimenti che favoriscono la stabilità del capitale e dei risultati; 
+- hanno un orizzonte temporale di medio periodo; 
+- hanno una moderata propensione al rischio. 
+ 
+Orizzonte temporale: da 5 a10 anni (medio periodo).  
+Rendimento medio annuo atteso nell’orizzonte temporale: 1% reale (al netto dell’inflazione). 
+Variabilità attesa del rendimento (deviazione standard annualizzata) nell’orizzonte 
+temporale: inferiore a 5%. 
+ 
+La probabilità che il rendimento reale nell’orizzonte temporale stabilito possa risultare 
+inferiore a zero è pari al 25%.   
+La sopra citata percentuale si ottiene supponendo che il comparto abbia un rendimento pari 
+al rendimento reale medio annuo atteso e una volatilità coerente con la variabilità attesa. 
+ 
+Bilanciato 
+Categoria: bilanciato 
+Finalità: la gestione è volta ad offrire ai partecipanti un investimento opportunamente 
+diversificato tra strumenti finanziari di natura obbligazionaria e azionaria. 
+Per la sua caratteristica tale comparto è indicato per coloro che: 
+- hanno un orizzonte temporale di medio-lungo periodo; 
+- accettano una propensione al rischio tipico del mix degli investimenti previsti. 
+ 
+Orizzonte temporale: da 10 a 15 anni (medio - lungo periodo).  
+Rendimento medio annuo atteso nell’orizzonte temporale: 2. 8% reale (al netto 
+dell’inflazione).   
+Variabilità attesa de l rendimento (deviazione standard annualizzata) nell’orizzonte 
+temporale: inferiore a 12%.  
+ 
+La probabilità che il rendimento reale nell’orizzonte temporale stabilito possa risultare 
+inferiore a zero è pari al 13%.   
+La sopra citata percentuale si ottiene supponendo che il comparto abbia un rendimento pari 
+al rendimento reale medio annuo atteso e una volatilità coerente con la variabilità attesa. 
+ 
+Azionario 
+Categoria: azionario 
+Finalità: la gestione è volta ad offrire ai partecipanti un investimento prevalentemente di 
+natura azionaria. Per la sua caratteristica prevalentemente azionaria tale comparto è 
+indicato per coloro che: 
+• hanno un orizzonte temporale di lungo periodo; 
+• accettano un grado di rischio anche elevato. 
+ 
+Orizzonte temporale: oltre 15 anni (lungo periodo).
+=== pagina 7 ===
+6 
+ 
+Rendimento medio annuo atteso nell’orizzonte temporale: 4.4% reale (al netto 
+dell’inflazione). 
+Variabilità attesa del rendimento (deviazione standard annualizzata) nell’orizzonte 
+temporale: inferiore a 25%. 
+ 
+La probabilità che il rendimento reale nell’orizzonte temporale stabilito possa risultare 
+inferiore a zero è pari al 9%.  
+La sopra citata percentuale si ottiene supponendo che il comparto abbia un rendimento pari 
+al rendimento reale medio annuo atteso e una volatilità coerente con la variabilità attesa. 
+ 
+ 
+3 CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+ 
+3.1 
+Ripartizione strategica delle attività  
+ 
+In funzione dei diversi obiettivi di rendimento e rischio precedentemente descritti, la strategia 
+di gestione di PREVIGEST FUND MEDIOLANUM prevede, come già specificato, tre 
+proposte di investimento (comparti): Obbligazionario, Bilanciato e Azionario.  
+ 
+Gli aderenti a PREVIGEST FUND MEDIOLANUM possono liberamente destinare i contributi 
+ad uno dei comparti o suddividerli tra gli stessi, con combinazioni scelte senza vincoli e 
+modificabili nel tempo.  
+Ogni comparto del Fondo ha propri criteri di attuazione della politica di investimento ovvero 
+la ripartizione strategica delle attività di seguito descritta. 
+ 
+ 
+ 
+3.2 
+Comparto Obbligazionario 
+ 
+Per raggiungere l’obiettivo della gestione ovvero mirare ad ottenere l’apprezzamento del 
+capitale nel medio periodo, il compart o investe prevalentemente in strumenti finanziari di 
+natura obbligazionaria  di emittenti pubblici e privati, nazionali ed esteri e classificati di 
+“adeguata qualità creditizia” (c.d.  investment grade ), sulla base del sistema interno di 
+valutazione del merito di credito adottato dalla SGR. 
+ 
+La durata finanziaria media del portafoglio è coerente con l’orizzonte temporale del 
+Comparto ed indicativamente in linea con la duration espressa dal benchmark. 
+ 
+Gli investimenti in strumenti finanzia ri di natura azionaria potranno essere presenti nel 
+portafoglio per un valore non superiore al 20% delle attività complessive del comparto, ma 
+nella norma in misura residuale.
+=== pagina 8 ===
+7 
+ 
+Gli investimenti sono prevalentemente circoscritti a strumenti finanziari di emittenti dei Paesi 
+OCSE. È previsto l’investimento residuale nei mercati dei Paesi Emergenti. 
+ 
+Strumenti finanziari nei quali si intende investire  
+ 
+Gli strumenti finanziari che compongono il comparto vengono selezionati principalmente in 
+base al criterio de lla solidità finanziaria degli enti emittenti ( adeguata qualità creditizia ) e 
+della durata finanziaria. 
+Nei limiti previsti dalla vigente normativa è consentito l’utilizzo di strumenti derivati con 
+finalità di copertura del rischio e di più efficiente gest ione delle risorse, coerentemente con 
+il profilo di rischio e rendimento del comparto. 
+ 
+Benchmark: 50% ICE BofA Euro Government Index denominato in euro , 35% ICE BofA 
+Global Government Index coperto in  euro, 10 % ICE BofA  Euro Treasury Bill Index 
+denominato in euro, 5% MSCI World Net Return Index in Usd convertito in euro. 
+  
+Il gestore non si propone di replicare la composizione del benchmark, in tal senso per effetto 
+della gestione sono possibili scostamenti dell’andamento del comparto d’investimento 
+rispetto al proprio benchmark. 
+ 
+ 
+3.3 
+Comparto Bilanciato 
+ 
+Per raggiungere l’obiettivo della gestione, ovvero mirare ad ottenere l’apprezzamento del 
+capitale nel medio lungo periodo, il comparto investe prevalentemente in strumenti finanziari 
+di natura obbligazionaria e azionaria, di emittenti pubblici e privati, nazionali ed esteri. 
+La durata finanziaria media del portafoglio è coerente con l’orizzont e temporale del 
+Comparto ed indicativamente in linea con la duration espressa dal benchmark.  
+ 
+Gli investimenti in strumenti finanziari di natura azionaria potranno essere presenti nel 
+comparto per un valore non superiore al 60% delle attività complessive del Comparto e 
+verranno ripartiti tra i diversi mercati nazionali considerando in primo luogo le dimensioni e 
+la liquidità del mercato dei capitali. 
+Tale allocazione potrà variare nel tempo, per area geografica e tipologia di strumenti, in 
+funzione della redditività globale prevedibile. 
+Gli investimenti sono prevalentemente circoscritti a strumenti finanziari di emittenti dei Paesi 
+OCSE. È previsto l’investimento residuale nei mercati dei Paesi Emergenti. 
+ 
+Strumenti finanziari nei quali si intende investire  
+ 
+Gli strumenti finanziari di tipo obbligazionario che compongono il comparto vengono 
+selezionati principalmente in base al criterio della solidità finanziaria degli enti emittenti 
+(adeguata qualità creditizia) e della durata finanziaria.
+=== pagina 9 ===
+8 
+ 
+La selezione degli strumenti finanziari di tipo azionario viene realizzata secondo il criterio 
+della diversificazione geografica mondiale, ponderata per il valore delle diverse 
+capitalizzazioni borsistiche. 
+Nei limiti previsti dalla vigente normativa è consen tito l’utilizzo di strumenti derivati con 
+finalità di copertura del rischio e di più efficiente gestione delle risorse, coerentemente con 
+il profilo di rischio e rendimento del comparto. 
+ 
+Benchmark: 30% MSCI World Net Return Index coperto in euro, 20% MSCI World Net 
+Return Index in Usd convertito in euro, 20% ICE BofA Euro Government Index denominato 
+in euro , 20% ICE BofA Global Government Index coperto in euro, 10%  ICE BofA Euro 
+Treasury Bill Index denominato in euro. 
+ 
+Il gestore non si propone di replicare la composizione del benchmark. Relativamente alla 
+componente obbligazionaria, per effetto della gestione, sono possibili scostamenti 
+dell’andamento del comparto d’investimento rispetto al proprio benchmark. 
+ 
+Riguardo alla componente azionaria sono possibili scostamenti rispetto al benchmark, 
+attraverso l’investimento in strumenti finanziari di emittenti non presenti nell’indice di 
+riferimento o presenti in proporzioni diverse, al fine di realizzare un migliore  rendimento 
+corretto per il rischio nel lungo periodo. 
+ 
+ 
+3.4 
+Comparto Azionario 
+ 
+Per raggiungere l’obiettivo della gestione ovvero mirare ad ottenere l’apprezzamento del 
+capitale nel lungo periodo, il comparto investe prevalentemente in strumenti finanziari di  
+natura azionaria, nazionali ed esteri. Rimane comunque ferma la facoltà di investire una 
+parte residuale del patrimonio in liquidità e in altri strumenti finanziari di tipo obbligazionario 
+a breve termine, con un basso profilo di rischio di tasso e di credito. 
+ 
+La composizione degli investimenti riflette la diversificazione settoriale dei principali mercati 
+azionari mondiali, privilegiando gli investimenti indirizzati ai titoli con maggiore 
+capitalizzazione (Large cap). 
+Gli investimenti sono prevalentemente circoscritti a strumenti finanziari di emittenti dei Paesi 
+OCSE. È previsto l’investimento residuale nei mercati dei Paesi Emergenti. 
+Gli investimenti in strumenti finanziari di natura azionaria potranno raggiungere il 100% delle 
+attività complessive del Comparto.  
+ 
+Strumenti finanziari nei quali si intende investire  
+ 
+La selezione degli strumenti finanziari di tipo azionario viene realizzata secondo il criterio 
+della diversificazione geografica mondiale, ponderata per il valore delle diverse 
+capitalizzazioni borsistiche.
+=== pagina 10 ===
+9 
+ 
+Nei limiti previsti dalla vigente normativa è consentito l’utilizzo di strumenti derivati con 
+finalità di copertura del rischio e di più efficiente gestione delle risorse, coerentemente con 
+il profilo di rischio e rendimento del comparto. 
+ 
+Benchmark: 65% MSCI World Net Return Index coperto in euro, 25% MSCI World Net 
+Return Index in Usd convertito in euro, 10% ICE BofA Euro Treasury Bill Index denominato 
+in euro. 
+ 
+ 
+Il gestore non si propone di replicare la composizione del benchmark. Sono possibili 
+scostamenti rispetto al benchmark, attraverso l’investimento in strumenti finanziari di 
+emittenti non presenti nell’indice di riferimento o presenti in proporzioni diverse, al fine di 
+realizzare un migliore rendimento corretto per il rischio nel lungo periodo. 
+ 
+ 
+3.5 
+Investimenti in OICR  
+ 
+All’interno dei singoli comparti di PREVIGEST FUND MEDIOLANUM l’utilizzo di fondi 
+comuni può essere anche prevalente ed arrivare fino al 100% delle masse in gestione. 
+   
+L’utilizzo di OICR armonizzati all’interno di prodotti previdenziali risponde alla filosofia di 
+investimento del Gruppo Mediolanum basata sul generale principio della “diversificazione” 
+- temporale: coerenza tra allocazioni di portafoglio ed obiettivi di investimento. 
+- tra titoli: frazionamento del rischio tra una molteplicità di titoli.  
+- geografica: aumento della sicurezza ed ampliamento delle opportunità di 
+rendimento degli investimenti. 
+- per potenziale di crescita:  bilanciamento degli investimenti con diversificazione 
+su mercati che offrono i migliori tassi di crescita.    
+- per tipologie di strumenti: favorisce, anche in presenza di fluttuazioni dei mercati, 
+una migliore stabilità nella crescita del patrimonio. 
+ 
+I fondi comuni in base alla pluriennale esperienza maturata da Mediolanum Gestione Fondi 
+risultano, grazie alla loro natura, particolarmente efficienti/ottimali per approfittare delle 
+opportunità offerte dai mercati finanziari di riferimento, offrendo un parallelo contenimento 
+della volatilità specifica (frazionamento dei rischi specifici geografici, valutari, di tasso, etc.).  
+ 
+Ciascun comparto può inoltre investire in Fondi comuni d'Investimento Alternativi (FIA) 
+promossi o gestiti sia da parte delle società del Gruppo Mediolanum sia da parte di terzi con 
+il limite del 20% delle disponibilità complessive del comparto stesso.  
+ 
+L’utilizzo prevalente di OICR del Gruppo Mediolanum fornisce adeguate garanzie in termini 
+di trasparenza circa le concrete possibilità di accesso diretto ed immediato alle informazioni 
+sia sulle strategie poste in essere dal gestore che sulla struttura dei costi; risulta facilitata
+=== pagina 11 ===
+10 
+ 
+nel contempo la gestione dei flussi informativi necessari per l'adeguata valutazione 
+dell'investimento e la predisposizione delle relative segnalazioni statistiche di vigilanza. 
+ 
+In tal senso si segnala che il Depositario degli OICR rende disponibili i dati relativi ai 
+portafogli dei fondi oggetto di eventuale investimento attraverso appositi flussi informatici, 
+utilizzati dalla Funzione Risk Management per l’elaborazione dei relativi controlli ed analisi 
+quantitative. 
+ 
+Tali elaborati consentono di valutare in modo approfondito gli effetti dell'investimento in 
+quote di OICR sull'asset allocation complessiva di ciascun Comparto. Il processo descritto 
+supporta le decisioni allocative del Fondo discusse, su base almeno mensile, nell’ambito del 
+Comitato Investimenti Mobiliari della SGR. 
+La documentazione redatta dal Comitato Investimenti Mobiliari viene mensilmente fornita al 
+Consiglio di Amministrazione (di seguito anche solo CdA) della SGR. L’investimento in FIA 
+prodotti da società terze può essere effettuato qualora sia assicurato da parte della società 
+terza l’accesso alle informazioni sulle strategie poste in essere dal gestore, sulla struttura 
+dei costi dello strumento e sui periodi di uscita dall’investimento. Prima dell’investimento la 
+SGR si assicura quindi di poter disporre di flussi informativi necessari per un’adeguata 
+valutazione dell’investimento effettuato e per predisporre le segnalazioni periodiche di 
+vigilanza.  
+ 
+Per quanto riguarda i limiti quantitativi sui singoli strumenti finanziari e quelli qualitativi per 
+ogni classe di attività si rimanda a quanto descritto nella sezione dedicata alla ripartizione 
+strategica delle attività del Fondo.  
+ 
+La SGR ha adottato un sistema interno di valutazione del merito di credito. Tale sistema può 
+prendere in considerazione, tra gli altri elementi di carattere qualitativo e quantitativo, i 
+giudizi espressi da una o più delle principali agenzie di rating del credito stabilite nell’Unione 
+Europea e registrate in conformità alla regolamentazione europea in materia di agenzie di 
+rating del credito, senza tuttavia fare meccanicamente affidamento su di essi. Le posizioni 
+di portafoglio non rilevanti possono essere classificate di “adegu ata qualità creditizia” se 
+hanno ricevuto l’assegnazione di un rating pari ad investment grade da parte di almeno una 
+delle citate agenzie di rating. 
+ 
+ 
+3.6 
+Modalità e stile di gestione   
+ 
+Alla gestione delle risorse di PREVIGEST FUND MEDIOLANUM provvede direttamente 
+Mediolanum Gestione Fondi SGR p.A. (MGF). Lo stile di gestione è attivo e  pertanto sono 
+possibili scostamenti rispetto al benchmark, attraverso l’investimento in strumenti finanziari 
+di emittenti non presenti nell’indice di riferimento o presenti in proporzioni diverse, al fine di 
+realizzare un migliore rendimento corretto per il rischio nei diversi orizzonti temporali relativi 
+ai comparti del Fondo. Nell’ambito degli strumenti finanziari “investibili” dai singoli comparti
+=== pagina 12 ===
+11 
+ 
+del Fondo, l’utilizzo di fondi comuni del Gruppo Mediolanum può riguardare anche la totalità 
+degli investimenti. 
+Gli indubbi vantaggi gestionali connessi all’utilizzo di OICR sono stati descritti nel 
+precedente paragrafo e rispondono pienamente alle esigenze di diversificazione allocativa  
+della forma previdenziale, facilitando l’attività  gestionale in termini di “replicabilità” dei 
+Benchmark internazionali  di riferimento e  contestuale rispetto  dei vincoli (s trategici)   
+assegnati  dal Consiglio di Amministrazione, dei vincoli (tattici) assegnati dal Comitato 
+Investimenti Mobiliari di MGF e comunque nel rispetto della specifica  politica  di 
+investimento dei singoli Comparti. 
+ 
+In tale senso la SGR in qualità d i Gestore svolge tutte le attività necessarie per assicurare 
+la continuativa coerenza, sempre nel rispetto delle linee strategiche definite dal C dA di 
+Mediolanum Gestione Fondi, tra gli attivi presenti nel portafoglio dei singoli comparti (inclusi 
+quelli sottostanti ai singoli OICR eventualmente utilizzati) e le caratteristiche del Fondo, 
+controllando nel contempo il pieno rispetto delle disposizioni normative e regolamentari, ivi 
+inclusa l’osservanza dei vincoli (tattici) assegnati dal Comitato Investimenti Mobiliari.  
+Coerentemente con quanto sopra esposto il Gestore monitora costantemente l’andamento 
+e la qualità degli attivi presenti in portafoglio, inclusi gli OICR ove presenti, allocando i 
+contributi periodicamente versati dagli aderenti nei tre comparti del Fondo (azionario, 
+bilanciato ed obbligazionario). 
+ 
+Con specifico riferimento al processo gestionale, il modello privilegiato è basato sul “team 
+work” ovvero sulla collaborazione e sulle analisi condotte dai componenti del Team di 
+gestione con competenze finanziarie distribuite sui diversi mercati, asset class, ar ee 
+geografiche e settori merceologici.  
+ 
+Pertanto, l’attività gestionale è affidata collettivamente all’intero team  che opera sotto la 
+supervisione del Responsabile della Divisione Investimenti Mobiliari e che, con il supporto 
+e all’interno del Comitato Investimenti Mobiliari, dà esecuzione alle indicazioni strategiche 
+ricevute dagli Organi deliberanti, collaborando pe r la traduzione di tali indicazioni in scelte 
+operative e tattiche, e verificando il rispetto dei vincoli e delle regole prestabilite. 
+ 
+Le competenze gestionali e la funzionalità del processo di investimento favoriscono la 
+massima collaborazione e lo scambio di informazioni tra i gestori, ottimizzando in tal modo 
+le allocazioni dei portafogli e l'efficienza della performance. 
+ 
+L’impostazione descritta risulta assolutamente funzionale nella gestione ottimale di prodotti 
+altamente diversificati sui mercati internazionali quali il Fondo pensione aperto.   
+Nella costruzione dei portafogli, il processo allocativo degli investimenti scaturisce, in linea 
+generale, da un insieme circolare di scelte sequenziali e condivise dal Team di gestione, 
+che partendo dall’analisi e definizione degli scenari macro, si concretizza in proposte e 
+decisioni operative che vengono successivamente implementate e monitorate (controllo ex 
+post).
+=== pagina 13 ===
+12 
+ 
+  
+Andando in maggior dettaglio, la filosofia di gestione della SGR, relativamente ai  comparti  
+che prevedono il confronto con un benchmark “di mercato”, si pone l'obiettivo di 
+massimizzare la performance relativa vs benchmark (alpha), pur mantenendosi  all’interno 
+del livello di rischio  relativo definito ex ante  (tracking error volatility)  e dei limiti sulle asset 
+class investibili, attraverso un processo d’investimento che abbia sempre a riferimento 
+l’attenzione all’orizzonte temporale, in questo caso  tipico della forma previdenziale.  
+ 
+Lo stile di gestione, attivo, è basato sulla combinazione di un approccio c.d. “top down”  che 
+partendo dall’analisi delle condizioni macroeconomiche e dalla loro influenza 
+sull’andamento dei mercati finanziari definisce le scelte gestionali di regional, currency e 
+country allocation  e di un approccio c.d. “ bottom up ” che sulla base delle condizioni 
+microeconomiche delle singole aziende emittenti titoli e dalle loro prospettive di sviluppo 
+definisce la sector allocation e le scelte di stock picking. 
+L’approccio gestionale prevede, come punto di partenza , la definizione dello scenario 
+macroeconomico mondiale di riferimento e delle aspettative sull’andamento delle più 
+importanti variabili in grado di influenzare i mercati finanziari nelle principali aree 
+geografiche. 
+ 
+Compatibilmente allo scenario vengono poi effettuate, con un approccio “top down” le scelte 
+di: 
+ 
+• Asset allocation/Duration 
+• Regional allocation 
+• Currency allocation 
+• Country allocation 
+ 
+Sulla base delle menzionate analisi elaborate direttamente dai componenti il Team di 
+gestione, integrate dalle ricerche ed analisi esterne, fornite dalle più autorevoli case di 
+brokeraggio internazionali, vengono effettuate, secondo un approccio “bottom up”, le scelte 
+di: 
+• Sector allocation 
+• Stock / Bond / Fund picking 
+ 
+A questo riguardo, occorre specificare che nella gestione del Fondo si può assistere ad una 
+prevalenza dell’approccio “ top–down” vs quello “bottom up”, in quanto le scelte allocative 
+assumono maggiore rilevanza coerentemente con le caratteristiche (e gli orizzonti 
+temporali) della forma previdenziale, orientata a cogliere opportunità di mercato non di breve 
+termine ma di ampio respiro.  
+ 
+Tale approccio si traduce tendenzialmente in una minor volatilità (rischiosità) e relativa 
+stabilità dei portafogli, la cui impostazione tattica vie ne attentamente “monitorata” e 
+rivalutata nel tempo.
+=== pagina 14 ===
+13 
+ 
+ 
+In particolare, la selezione del portafoglio titoli azionari viene effettuata, direttamente o 
+indirettamente attraverso OICR, sulla base dell’analisi dei multipli economici, reddituali e 
+patrimoniali, raffrontati a livello settoriale. 
+L’analisi e l’allocazione geografico-settoriale viene poi integrata dai risultati conseguenti agli 
+analyst meeting e agli incontri con la comunità finanziaria in genere. Le analisi di mercato 
+condotte internamente possono e ssere ulteriormente integrate con quelle fornite dalle 
+principali case d’investimento laddove il punto di vista di quest’ultime, possa rivestire un 
+interesse di carattere generale.  In ogni caso le scelte di investimento sono discusse, 
+condivise e vagliate all’interno del Team di gestione attraverso meeting periodici.  
+I portafogli proposti e selezionati sono successivamente sottoposti ad un processo di 
+controllo al fine di verificare il rispetto "ex -ante" dei vincoli di rischio assegnati al fine di 
+valutarne con continuità il contributo in termini di ritorno atteso, assoluto e relativo, rispetto 
+ai mercati di riferimento. 
+Il raggiungimento dei livelli di valutazione target, eventuali peggioramenti dei fondamentali 
+ed input da parte del Risk Managemen t della SGR , costituiscono i principali fattori che 
+possono determinare la modifica delle posizioni detenute in portafoglio. 
+Per una compiuta valutazione dell o stile di gestione vengono utilizzati i seguenti indicatori 
+per ciascun comparto: 
+ 
+Obbligazionario 
+Turnover: l’obiettivo di rotazione annua del patrimonio è  0.7  
+Tracking Error Volatility ex ante annualizzata: max 3.5%. 
+ 
+Bilanciato 
+Turnover: l’obiettivo di rotazione annua del patrimonio è 0.7 
+Tracking Error Volatility ex ante annualizzata: max 4%  
+ 
+Azionario 
+Turnover: l’obiettivo di rotazione annua del patrimonio è  0.7  
+Tracking Error Volatility ex ante annualizzata: max 6%  
+ 
+Con riferimento ai criteri per l’esercizio del diritto di voto si rimand a al documento “Politica 
+di Impegno ed esercizio dei diritti di intervento e di voto inerenti agli strumenti finanziari di 
+pertinenza del Fondo pensione e degli OICR gestiti”  nella versione vigente approvata dal 
+Consiglio di Amministrazione della SGR e disponibile sul sito della Società nella sezione  
+dedicata al fondo pensione.
+=== pagina 15 ===
+14 
+ 
+3.7 
+Valutazioni in ambito ESG  
+ 
+I comparti del Fondo non adottano una politica di investimento che promuove caratteristiche 
+ambientali o sociali o hanno obiettivi di sostenibilità. 
+ 
+In linea con quanto previsto dalla normativa in materia di finanza sostenibile, la SGR ha 
+integrato i rischi di sostenibilità nella propria strategia di investimento. In particolare, 
+nell’ambito delle scelte di investimento vengono considerate anche le informazioni di natura 
+ambientale, sociale e di governance (cd. “Environmental, Social and Governance – ESG”) 
+degli emittenti e/o OICR selezionati, in quanto elementi necessari al perseguimento di 
+performance sostenibili nel tempo, attribuendo ai tre fatto ri una diversa incidenza in 
+relazione al settore di appartenenza degli stessi. 
+In particolare, l’analisi di tali fattori avviene utilizzando le informazioni fornite da infoproviders 
+che assegnano un ESG rating o le dichiarazioni non finanziarie pubblicate sui siti internet 
+delle possibili società target. La SGR valuta inoltre eventuali notizie con potenziale impatto 
+negativo sugli investimenti target in relazione ai fattori ambientali, sociali e di governance. 
+La SGR verifica che l’esposizione complessiva verso società/OICR cui è stato attribuito un 
+basso rating ESG o senza rating sia  contenuta. L’applicazione dei suddetti criteri nonché 
+l’attenzione della SGR ad una adeguata diversificazione del portafoglio consentono di 
+minimizzare il rischio di sostenibilità rispetto ai singoli investimenti.

@@ -1,0 +1,814 @@
+# Fondo: DESTINAZIONE FUTURO - FONDO PENSIONE APERTO BY CREDEMVITA (destinazione-futuro-credemvita)
+# Documento: Documento sulla politica di investimento – Documento sulla politica di investimento
+# Fonte: https://www.credemvita.it/content/dam/credemvita/documenti/prodotti/doppi/in-collocamento/previdenza/destinazione-futuro---fondo-pensione-aperto-by-credemvita/Documento%20sulla%20Politica%20di%20Investimento%20del%20FPA%20.pdf
+# Citato in: https://www.credemvita.it/content/credemvita/it/home/persone-e-famiglia/previdenza/destinazione-futuro-fondo-pensione-aperto-by-credemvita.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 2410951f1d7576bfcc8c26029bb1ed0776d22947589119abfc2dd254056fba5c
+# Pagine: 18
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Credemprevidenza 
+Fondo Pensione Aperto 
+ 
+Iscritto all’Albo tenuto dalla Covip al n. 18 
+ 
+ 
+ 
+ 
+ 
+Documento sulla politica di investimento 
+ 
+(data approvazione 04/08/2025)
+=== pagina 2 ===
+PREMESSA 
+Il fondo pensione aperto Credemprevidenza (di seguito “Fondo”) ha lo scopo di consentire agli 
+aderenti di disporre, all’atto del pensionamento, di prestazioni pensionistiche complementari 
+al sistema obbligatorio, ai sensi del D.L gs. 5 dicembre 2005, n. 252  (di seguito “Decreto”) . 
+Credemprevidenza è stato istituito da Credemvita S.p.A. (di seguito “Società”) , impresa di 
+assicurazione iscritta all’Albo delle Imprese di Assicurazione al n. 1.00105, con unico socio  
+Credito Emiliano S.p.A., che esercita la relativa attività di direzione e coordinamento (ex art. 
+2497 bis c.c.). Credemprevidenza è iscritto all’albo tenuto dalla COVIP al n. 18. 
+ 
+L’adesione al Fondo è volontaria ed è consentita in forma individuale. È altresì consentita, su 
+base collettiva, ai soggetti destinatari delle forme pensionistiche complementari individuati 
+all’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, gli accordi 
+o i regolamenti aziendali che dispongono l’adesione al Fondo. Ai sensi dell’articolo 8 comma 7 
+del Decreto l’adesione al Fondo su base collettiva può avvenire anche mediante conferimento 
+tacito del TFR maturando. 
+ 
+Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del 
+Fondo è determinata in funzione della contribuzione effettuata e in base al principio della 
+capitalizzazione. 
+ 
+Il Fondo è costituito in forma di patrimonio separato e autonomo nell’ambito della Società. 
+ 
+Il presente Documento, approvato dal Consiglio di Amministazione di Credemvita e redatto ai 
+sensi della Deliberazione COVIP del 16 marzo 2012,  ha lo scopo di de finire la politica di 
+investimento che la Società intende attuare per ottenere, dall’impiego delle risorse gestite 
+afferenti il Fondo, quale obiettivo finale combinazioni rischio-rendimento efficienti nell’arco 
+temporale coerente con i bisogni previdenziali degli aderenti e con le prestazioni da erogare. 
+Di seguito vengono delineati: 
+1. obiettivi da realizzare nella gestione finanziaria; 
+2. criteri di attuazione della gestione finanziaria; 
+3. sistema di gestione dei rischi connessi agli investimenti; 
+4. soggetti coinvolti nel processo, loro compiti e responsabilità; 
+5. sistema di controllo e valutazione della politica di investimento. 
+Il Documento è sottoposto a revisione periodica, almeno ogni tre anni.  Alla revisione 
+partecipano il Team Finanza, il Team Prodotto e Operat ions e il Team Governance e 
+Innovazione, che sottopongono le modifiche alle valutazioni delle funzioni Risk Management e 
+la funzione di Compliance , per la successiva approvazione da parte del  Consiglio di 
+Amministrazione. 
+I fattori considerati ai fini dell ’eventuale modifica sono riportati in apposita deliberazione. Il 
+Documento è trasmesso, in sede di prima definizione e, in seguito, in occasione di ogni sua 
+modificazione: 
+– agli organi di controllo della forma pensionistica e al responsabile della stessa; 
+– ai soggetti incaricati della gestione finanziaria e alla banca depositaria; 
+– alla COVIP, entro venti giorni dalla sua formalizzazione.
+=== pagina 3 ===
+Il Documento è disponibile nell’area pubblica del sito web di Credemvita, www.credemvita.it, 
+ed è altresì  possibile per gli aderenti richiederlo a mezzo posta elettronica o posta ordinaria, 
+ai seguenti indirizzi: 
+- inviando una e -mail a Credemvita S.p.A. , all’indirizzo info@credemvita.it, o co mpilando il 
+form presente nella sezione Contatti del sito www.credemvita.it, 
+- scrivendo a Credemvita S.p.A. - Via Sani 1 – 42121 Reggio Emilia. 
+ 
+ 
+1. OBIETTIVI DA REALIZZARE NELLA GESTIONE FINANZIARIA 
+Il Fondo  ha l’ob iettivo, in particolare, di consentire agli aderenti di disporre, all’atto del 
+pensionamento, di prestazioni pensionistiche complementari al sistema obbligatorio. A tal 
+fine, esso provvede alla raccolta dei contributi, alla loro gestione nell’esclusivo int eresse 
+degli aderenti ed all’erogazione delle prestazioni secondo quanto disposto dalla normativa in 
+materia di previdenza complementare.  L’obiettivo finale d ella politica d’investimento del 
+Fondo è di fornire agli aderenti opzioni d’investimento diversificate in funzione d elle diverse 
+aspettative di rendimento e di tolleranza a l rischio finanziario, perseguendo combinazioni di 
+rischio-rendimento efficienti in termini di rapporto tra rendimenti e volatilità dei risultati, in 
+qualsiasi arco temporale conside rato al fine di massimizzare le risorse destinate alle 
+prestazioni.  
+ 
+Caratteristiche dei potenziali aderenti 
+Il Fondo  è destinato sia alle adesioni individuali di tutti i soggetti indistintamente sia alle 
+adesioni dei lavoratori sulla base, ad esempio, di  contratti o accordi collettivi aziendali. Esso 
+non ha quindi una popolazione di riferimento predefinita. D’altra parte, la pluralità di 
+possibili orizzonti temporali corrispondenti a lle diverse tipologie di iscritti rende necessario 
+disporre di più opzion i d’investimento, che consentono  ai potenziali aderenti di destinare 
+liberamente i contributi a uno o più comparti con combinazioni di rischio -rendimento 
+diversificate. Ciò rende  il Fondo  idoneo a soddisfare le aspettative di popolazioni di 
+riferimento ampie. In ogni caso, per tenere in considerazione le caratteristiche e i potenziali 
+bisogni previdenziali de gli aderenti e dei potenziali aderenti , la Società monitora le 
+caratteristiche socio -demografiche degli iscritti, l’andamento delle adesioni e delle u scite 
+nonché il livello di contribuzione media.     
+ 
+I comparti: obiettivi di rendimento e rischio  
+L’obiettivo di soddisfare i bisogni previdenziali della popolazione di riferimento comporta la 
+necessità di prevedere una pluralità di orizzonti temporali a i quali associare diversi 
+rendimenti medi annui attesi e diverse combinazioni di rischio-rendimento.  
+Per realizzare gli obiettivi prefissati, il Fondo prevede quattro opzioni di investimento 
+(comparti): Prudente Garantito, Moderato, Bilanciato e Evoluto. 
+Di seguito si riportano gli obiettivi di rendimento e rischio suddivisi per i comparti del Fondo. 
+Il “ Rendimento medio annuo atteso nell’orizzonte temporale ” è calcolato al netto 
+dell’inflazione attesa.  
+La “ Volatilità annua nell’orizzonte temporale ” dipen de dalla volatilità delle asset class 
+utilizzate per realizzare la politica di investimento  di ogni comparto, e cresce all’aumentare 
+del livello di rischio del comparto.
+=== pagina 4 ===
+La “ Probabilità di Shortfall nell’orizzonte temporale ” è calcolata al netto dell’infla zione 
+attesa e dipende da una molteplicità di fattori. Il “Rendimento medio annuo  atteso” e la 
+“Volatilità annua” sono i principali fattori determinanti la  probabilità di ottenere un 
+rendimento medio annuo reale  positivo o negativo. Inoltre , nei casi di re ndimento atteso 
+positivo, al l’aumentare dell’ orizzonte temporale dell’investimento cresce la probabilità di 
+ottenere un rendimento  positivo. Per tali motivi, alle attuali condizioni di mercato, le 
+probabilità di Shortfall sono maggiori per i comparti con m inore livello di rischio, più basso 
+rendimento atteso, e minore orizzonte temporale di investimento. 
+Comparto Prudente Garantito 
+Finalità della gestione in relazione ai potenziali aderenti : il comparto è un comparto 
+garantito, risponde alle esigenze di un soggetto con un livello di propensione al rischio medio-
+basso, e privilegia investimenti volti a realizzare con elevata probabilità rendimenti almeno 
+pari a quelli del TFR, in un orizzonte temporale pluriennale . La presenza di una garanzia di 
+risultato consente di soddisfare le esigenze di un soggetto con bassa propensione al rischio o 
+ormai prossimo alla pensione. Il grado di rischio medio-basso diventa nullo nei casi in cui 
+opera la garanzia di restituzione dei contributi netti versati e rendimento minimo  degli stessi 
+(si veda a riguardo il regolamento del Fondo). 
+Orizzonte temporale di investimento: breve periodo (fino a 5 anni).  
+Rendimento medio annuo atteso nell’orizzonte temporale : 1,50% (espresso in termini reali, 
+cioè al netto dell’inflazione attesa, ipotizzando il tasso di inflazione attesa pari al 2,00%).  
+Volatilità annua nell’orizzonte temporale: 5,51%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale.  
+Probabilità di Shortfall nell’orizzonte temporale: 27,18%.  
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia 
+dello 0%, ipotizzando, come sopra indicato, il tasso di inflazione attesa pari al 2,00%. 
+Comparto Moderato 
+Finalità della gestione in relazione ai potenzia li aderenti: Il comparto risponde alle esigenze 
+di un soggetto con un livello di propensione al rischio medio e privilegia investimenti volti a 
+favorire l’incremento del valore del capitale investito. 
+Orizzonte temporale di investimento: medio periodo (5 - 10 anni).  
+Rendimento medio annuo atteso nell’orizzonte temporale : 2,78% (espresso in termini reali, 
+cioè al netto dell’inflazione attesa, ipotizzando il tasso di inflazione attesa pari al 2,00%).  
+Volatilità annua nell’orizzonte temporale: 5,92%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale.  
+Probabilità di Shortfall nell’orizzonte temporale: 10,71%.  
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia 
+dello 0%, ipotizzando, come sopra indicato, il tasso di inflazione attesa pari al 2,00%. 
+Comparto Bilanciato 
+Finalità della gestione in relazione ai potenziali aderenti : il comparto risponde alle esigenze 
+di un soggetto con un livello di propensione al rischio medio -alto e  privilegia investimenti 
+volti a favorire l’incremento del valore del capitale investito. 
+Orizzonte temporale di investimento: medio/lungo periodo (10 – 15 anni).  
+Rendimento medio annuo atteso nell’orizzonte temporale : 4,30% (espresso in termini reali, 
+cioè al netto dell’inflazione attesa, ipotizzando il tasso di inflazione attesa pari al 2,00%).  
+Volatilità annua nell’orizzonte temporale: 7,48%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale.  
+Probabilità di Shortfall nell’orizzonte temporale: 2,33%.
+=== pagina 5 ===
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferiore alla soglia 
+dello 0%, ipotizzando, come sopra indicato, il tasso di inflazione attesa pari al 2,00%. 
+ 
+Comparto Evoluto 
+Finalità della gestione in relazione ai potenziali aderenti : il comparto risponde alle esigenze 
+di un soggetto con un livello di propensione al rischio alto e privilegia investimenti volti a 
+favorire l’incremento del valore del capitale investito. 
+Orizzonte temporale di investimento: lungo periodo (oltre 15 anni).  
+Rendimento medio annuo atteso nell’orizzonte temporale : 7,35% (espresso in termini reali, 
+cioè al netto dell’inflazione attesa, ipotizzando il tasso di inflazione attesa pari al 2,00%).  
+Volatilità annua nell’orizzonte temporale: 12,58%. 
+Il dato esprime la variabilità del rendimento medio annuo atteso nell’orizzonte temporale.  
+Probabilità di Shortfall nell’orizzonte temporale: 1,18%. 
+Il dato esprime la probabilità di avere un rendimento medio annuo reale inferi ore alla soglia 
+dello 0%, ipotizzando, come sopra indicato, il tasso di inflazione attesa pari al 2,00%. 
+ 
+ 
+2. CRITERI DI ATTUAZIONE DELLA GESTIONE FINANZIARIA 
+Gli aderenti al Fondo, all’atto dell’adesione, scelgono uno o più comparti in cui far confluire i 
+versamenti contributivi, con facoltà di modificare nel tempo tale destinazione. Gli aderenti 
+possono inoltre riallocare la propria posizione individuale tra i diversi comparti, nel rispetto 
+del periodo minimo di un anno dall’iscrizione ovvero dall’ultima riallocazione. In questo caso i 
+versamenti contributivi successivi sono suddivisi sulla base delle nuove percentuali fissate 
+all’atto della riallocazione salvo diversa disposizione dell’aderente. Il limite del periodo di 
+permanenza minimo non opera con riguardo al TFR conferito tacitamente. 
+I flussi di TFR conferiti tacitamente al Fondo sono destinati al comparto Prudente Garantito. 
+In alternativa all’investimento in uno o più comparti è prevista la possibilità di aderire ai 
+profili life cycle: Life cycle 55 e Life cycle 60. I due programmi prevedono l’attivazione di un 
+meccanismo automatico che consente gradualmente il passaggio da comparti con profilo di 
+rischio più elevato a comparti con minore rischiosità in base all’età anagrafica dell’aderente, 
+al fine di  diminuire il rischio finanziario e la volatilità dell’investimento all’avvicinarsi alla 
+maturazione dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di 
+appartenenza. 
+Ogni comparto del Fondo ha propri criteri di attuazione della politica di investimento.  
+ 
+Comparto Prudente Garantito  
+Il comparto è un comparto garantito, risponde alle esigenze di un soggetto con un livello di 
+propensione al ris chio medio-basso, e privilegia investimenti volti a  realizzare con elevata 
+probabilità rendimenti almeno pari a quelli del TFR, in un orizzonte temporale pluriennale, in 
+base a quanto previsto dalla normativa vigente . Il comparto è  destinato ad accogliere il 
+conferimento tacito del TFR.  L’investimento nel comparto garantisce che al momento 
+dell’esercizio del diritto al pensionamento la posizione individuale dell’aderente , in base alla 
+quale viene  calcolata la pre stazione, non p ossa essere inferiore alla somma dei contributi 
+versati sul comparto (inclusi eventuali importi trasferiti da altro co mparto ovvero da altra 
+forma pensionistica e i versamenti effettuati per il reintegro delle prestazioni effettuate) al 
+netto delle spese e degli oneri a carico dell’aderente , nonché delle eventuali anticipazioni
+=== pagina 6 ===
+ovvero degli eventuali riscatti, ciascuno ca pitalizzato al tasso di interesse del lo 0, 50 per 
+cento annuo composto per il periodo intercorrente fra la data di valorizzazione di ciascuno 
+dei contributi versati, ed il primo giorno di valorizzazione utile successivo alla verifica delle 
+condizioni che danno diritto alla prestazione. 
+La garanzia opera anche prima del pensionamento nei seguenti casi: 
+- riscatto della posizione individuale per decesso dell’iscritto; 
+- riscatto causa invalidità permanente che comporti la riduzione dell’attività lavorativa a 
+meno di un terzo; 
+- riscatto per inoccupazione per un periodo di tempo superiore a 48 mesi; 
+- esercizio da parte dell’iscritto della facoltà di trasferimento della posizione individuale, 
+prevista dal Regolamento del Fondo, a seguito dell’introduzione di modifiche p eggiorative 
+delle condizioni economiche che regolano la partecipazione al Fondo stesso. 
+La politica di investimento è volta a perseguire l’ottimizzazione delle combinazioni di rischio-
+rendimento del patrimonio gestito mantenendo contenute, in relazione all ’andamento dei 
+mercati, le oscillazioni del valore dell’investimento, mediante una compos izione del 
+portafoglio prevalentemente orientata verso i “titoli di debito”. 
+Nell’attuazione di tale politica d’investimento viene realizzata, nell’interesse degli isc ritti e 
+tenuto conto dell’andamento dei mercati finanziari, una struttura di portafoglio del comparto 
+in cui i “titoli di debito” siano presenti anche nella misura del 100% del patrimonio, mentre i 
+titoli di capitale possono rappresentare non più del 20% del patrimonio medesimo. 
+ 
+Politica di gestione : per la parte obbligazionaria viene posta la massima attenzione alle 
+opportunità offerte dalle curve dei tassi d’interesse a m edio/lungo termine dei diversi Paesi 
+considerati, tenuto conto degli obiettivi e deg li interventi di politica monetaria della Banca 
+Centrale Europea e della FED statunitense. Per la componente azionaria vengono considerate 
+le analisi macro -economiche nella scelta dei pesi dei Paesi degli emittenti considerati, 
+nonché analisi economiche fi nanziarie nella selezione dei singoli strumenti finanziari , nel 
+rispetto dell’obiettivo di un’elevata diversificazione settoriale degli investimenti. 
+ 
+Strumenti finanziari : forte prevalenza di strumenti finanziari obbligazionari, che possono 
+essere presenti anche nella misura del 100% del patrimonio. Gli strumenti finanziari di natura 
+azionaria hanno rilevanza secondaria e possono rappresentare non più del 20% del patrimonio. 
+È consentito l'utilizzo di strumenti derivati orientato esclusivamente a finalità di copertura 
+del rischio e di più efficiente gestione delle risorse, coerentemente con il profilo di rischio -
+rendimento del comparto. Gli investimenti in strumenti alternativi, derivati e OICR sono 
+effettuati qualora siano chiaramente esplicitati il livell o di accesso da parte della forma 
+pensionistica alle informazioni sulle strategie poste in essere dal gestore, la struttura dei 
+costi dello strumento, i periodi di uscita dall’investimento (lock up period). 
+ 
+Categorie di emittenti e settori industriali : prevalentemente emittenti sovrani e organismi 
+internazionali sovranazionali con «adeguata qualità creditizia» (c.d. investment grade), sulla 
+base del sistema interno di valutazione del merito di credito adottato dalla compagnia . La 
+componente azionaria è pre valentemente allocata su strumenti finanziari aventi 
+caratteristiche di liquidabilità e diversificazione elevate. 
+ 
+Aree geografiche di investimento : i titoli di debito sono presenti con prevalenza degli 
+emittenti “dell’area Euro” e dei titoli governativi italiani, mentre per quanto riguarda i titoli 
+di capitale sono prevalenti gli emittenti esteri rispetto a quelli italiani, con particolare 
+attenzione per i titoli quotati sui mercati di Stati Uniti, Canada, Giappone e dei Paesi
+=== pagina 7 ===
+aderenti all'Unione Europea. Eventuali investimenti in strumenti finanziari di emittenti dei 
+Paesi Emergenti hanno natura residuale. 
+ 
+Rischio cambio: Gli investimenti sono espressi in Euro e/o in valute diverse dall’Euro; in ogni 
+caso gli strumenti finanziari privi di copertura del ri schio di cambio non possono eccedere il 
+30% del patrimonio. 
+ 
+Benchmark: 35% ICE BofA Italy Government Index (G0I0) - 40% ICE BofA Euro Government 
+Index (EG00) - 15% ICE BofA Euro Corporate Index (ER00) - 7% MSCI World Net Total Return 
+EUR Index - 3% MSCI EMU Net Total Return EUR Index  
+ 
+Relazione con il benchmark : nella scelta degli investimenti il comparto non si propone di 
+replicare passivamente la composizione degli indici, ma seleziona gli strumenti finanziari sulla 
+base di proprie valutazioni al fine d i realizzare un miglior rapporto rischio/rendimento. 
+Tuttavia la limitata volatilità degli investimenti realizzati consente di prevedere contenuti 
+scostamenti del comparto rispetto al benchmark. 
+ 
+Modalità e stile di gestione : lo stile di gestione, moderata mente attivo, prevede una 
+efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai costi di 
+negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonchè alla 
+liquidità degli strumenti finanziar i oggetto della gestione. La rotazione annua degli asset 
+(turnover) ha l’obiettivo di essere contenuta entro  3 volte il patrimonio. Tale obiettivo 
+rimane suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si 
+trova ad operare.  
+Lo stile di gestione non deve modificare in maniera sostanziale il profilo di rischio del 
+comparto rispetto a quello del benchmark di riferimento. La volatilità della differenza fra il 
+rendimento del comparto e quello del benchmark (TEV o tracking error volatility) , pur 
+rimanendo suscettibile di variazioni in dipendenza di particolari fasi di mercato, tende ad 
+essere contenuta entro un livello indicativo del 2,5%.  
+ 
+La gestione finanziaria del patrimonio è delegata a Euromobiliare A.M. S.g.r. S.p. A. (di 
+seguito “Gestore”), società di gestione del risparmio appartenente allo stesso gruppo della 
+società istitutrice, in modo da perseguire benefici in termini di gestione finanziaria e 
+razionalizzazione dei costi.  
+Il rapporto contrattuale è stato perfezionato sulla scorta della vigente normativa in termini di 
+esternalizzazioni considerando pertanto anche i requisiti di professionalità, dell’onorabilità e 
+capacità finanziaria dell’outsourcer. 
+La delega di gestione ha una durata di 5 anni e prevede commis sioni di gestione pari allo 
+0,07% su base annua del patrimonio in gestione. 
+La titolarità dei diritti di voto relativi ai valori mobiliari oggetto della delega di gestione 
+spetta alla Società. La rappresentanza della Società per l’esercizio dei diritti di voto può 
+venire conferita al Gestore che la esercita in base alle istruzioni vincolanti impartite. 
+ 
+Comparto Moderato  
+Il comparto risponde alle esigenze di un soggetto con un livello di propensione al rischio 
+medio e privilegia investimenti volti a favori re l’incremento del valore del capitale investito. 
+La politica di investimento è volta a perseguire l’ottimizzazione delle combinazioni di rischio-
+=== pagina 8 ===
+rendimento del patrimonio gestito mantenendo contenute, in relazione all’andamento dei 
+mercati, le oscillazio ni del valore dell’investimento, mediante una composizione del 
+portafoglio prevalentemente orientata verso i “titoli di debito”. 
+Nell’attuazione di tale politica d’investimento viene realizzata, nell’interesse degli iscritti e 
+tenuto conto dell’andamento dei mercati finanziari, una struttura di portafoglio del comparto 
+in cui i “titoli di debito” siano presenti fino al 90% del patrimonio, mentre i titoli di capitale 
+possono rappresentare non più del 50% del patrimonio medesimo. 
+ 
+Politica di gestione : per la  parte obbligazionaria v iene posta la massima attenzione alle 
+opportunità offerte dalle curve dei tassi d’interesse a medio/lungo termine dei diversi Paesi 
+considerati, tenuto conto degli obiettivi e degli interventi di politica monetaria della Banca 
+Centrale Europea e della FED statunitense. Per la componente azionaria ve ngono considerate 
+le analisi macro -economiche nella scelta dei pesi dei Paesi degli emittenti considerati, 
+nonché analisi economiche finanziarie nella selezione dei singoli strumenti finan ziari, nel 
+rispetto dell’obiettivo di un’elevata diversificazione settoriale degli investimenti. 
+ 
+Strumenti finanziari : prevalenza di strumenti finanziari obbligazionari, che possono essere 
+presenti fino al 90 % del patrimonio. Gli strumenti finanziari di n atura azionaria possono 
+rappresentare non più del 50% del patrimonio. È  consentito l'utilizzo di strumenti derivati 
+orientato esclusivamente a finalità di copertura del rischio e di più efficiente gestione delle 
+risorse, coerentemente con il profilo di ris chio-rendimento del comparto. Gli investimenti in 
+strumenti alternativi, derivati e OICR sono effettuati qualora siano chiaramente esplicitati il 
+livello di accesso da parte della forma pensionistica alle informazioni sulle strategie poste in 
+essere dal gestore, la struttura dei costi dello strumento, i periodi di uscita dall’investimento 
+(lock up period). 
+ 
+Categorie di emittenti e settori industriali : per la componente obbligazionaria prevalenza di 
+emittenti sovrani e organismi internazionali sovranazional i con «adeguata qualità creditizia» 
+(c.d. investment grade), sulla base del sistema interno di valutazione del merito di credito 
+adottato dalla compagnia. La componente azionaria è prevalentemente allocata su strumenti 
+finanziari aventi caratteristiche di liquidabilità e diversificazione elevate, con predilezione 
+per strumenti azionari ad alto dividendo. 
+ 
+Aree geografiche di investimento : i titoli di debito sono presenti con prevalenza degli 
+emittenti “dell’area Euro” e dei titoli governativi italiani, mentre per quanto riguarda i titoli 
+di capitale sono prevalenti gli emittenti esteri rispetto a quelli italiani, con particolare 
+attenzione per i titoli quotati sui mercati di Stati Uniti, Canada, Giappone e dei Paesi 
+aderenti all'Unione Europea. Eventuali inv estimenti in strumenti finanziari di emittenti dei 
+Paesi Emergenti hanno natura residuale. 
+ 
+Rischio cambio: Gli investimenti sono espressi in Euro e/o in valute diverse dall’Euro; in ogni 
+caso gli strumenti finanziari privi di copertura del rischio di camb io non possono eccedere il 
+30% del patrimonio.  
+ 
+Benchmark: 20% MSCI World Net Total Return EUR Index - 10% MSCI EMU Net Total Return EUR 
+Index - 25% ICE BofA Italy Government Index (G0I0) - 30% ICE BofA Euro Government Index 
+(EG00) - 15% ICE BofA Euro Corporate Index (ER00) 
+ 
+Relazione con il benchmark : nella scelta degli investimenti il comparto non si propone di 
+replicare passivamente la composizione degli indici, ma seleziona gli strumenti finanziari sulla
+=== pagina 9 ===
+base di proprie valutazioni al fine di realizzar e un miglior rapporto rischio/rendimento. 
+Tuttavia la limitata volatilità degli investimenti realizzati consente di prevedere contenuti 
+scostamenti del comparto rispetto al benchmark. 
+ 
+Modalità e stile di gestione : lo stile di gestione, moderatamente attiv o, prevede una 
+efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai costi di 
+negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonchè alla 
+liquidità degli strumenti finanziari oggetto d ella gestione. La rotazione annua degli asset 
+(turnover) ha l’obiettivo di essere contenuta entro 3 volte il patrimonio. Tale obiettivo 
+rimane suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si 
+trova ad operare.  
+Lo stile di gestione non deve modificare in maniera sostanziale il profilo di rischio del 
+comparto rispetto a quello del benchmark di riferimento. La volatilità della differenza fra il 
+rendimento del comparto e quello del benchmark (TEV o tracking error vol atility), pur 
+rimanendo suscettibile di variazioni in dipendenza di particolari fasi di mercato, tende ad 
+essere contenuta entro un livello indicativo del 3%.  
+ 
+La gestione finanziaria del patrimonio è delegata a Euromobiliare A.M. S.g.r. S.p.A. (di 
+seguito “Gestore”), società di gestione del risparmio appartenente allo stesso gruppo della 
+società istitutrice, in modo da perseguire benefici in termini di gestione finanziaria e 
+razionalizzazione dei costi.  
+Il rapporto contrattuale è stato perfezionato sulla scorta della vigente normativa in termini di 
+esternalizzazioni considerando pertanto anche i requisiti di professionalità, dell’onorabilità e 
+capacità finanziaria dell’outsourcer. 
+La delega di gestione ha una durata di 5 anni e prevede commissioni di gest ione pari allo 
+0,07% su base annua del patrimonio in gestione. 
+La titolarità dei diritti di voto relativi ai valori mobiliari oggetto della delega di gestione 
+spetta alla Società. La rappresentanza della Società per l’esercizio dei diritti di voto può 
+venire conferita al Gestore che la esercita in base alle istruzioni vincolanti impartite. 
+ 
+Comparto Bilanciato 
+Il comparto risponde alle esigenze di un soggetto con un livello di propensione al rischio 
+medio-alto e privilegia investimenti volti a favorire l’in cremento del valore del capitale 
+investito. 
+La politica di investimento è volta a perseguire l’ottimizzazione delle combinazioni di rischio-
+rendimento del patrimonio gestito, accettando la variabilità dei risultati nel tempo e 
+potenziali moderate perdite d el valore dell’investimento, in relazione all’andamento dei 
+mercati, mediante una composizione del portafoglio bilanciata tra i “titoli di debito” e “titoli 
+di capitale”. 
+Nell’attuazione di tale politica d’investimento viene realizzata, nell’interesse degl i iscritti e 
+tenuto conto dell’andamento dei mercati finanziari, una struttura di portafoglio del comparto 
+in cui sia i “titoli di debito” che i “titoli di capitale” siano presenti in misura non eccedente il 
+70% del patrimonio. 
+ 
+Politica di gestione : per l a parte obbligazionaria viene posta la massima attenzione alle 
+opportunità offerte dalle curve dei tassi d’interesse a medio/lungo termine dei diversi Paesi 
+considerati, tenuto conto degli obiettivi e degli interventi di politica monetaria della Banca
+=== pagina 10 ===
+Centrale Europea, della FED statunitense e della Banca Centrale Giapponese. Per la 
+componente azionaria vengono considerate le analisi macro -economiche nella scelta dei pesi 
+dei singoli Paesi degli Emittenti considerati, nonché analisi economiche finanziarie n ella 
+selezione dei singoli strumenti finanziari, nel rispetto dell’obiettivo di un’elevata 
+diversificazione settoriale degli investimenti. 
+ 
+Strumenti finanziari : la composizione del portafoglio è tendenzialmente bilanciata tra 
+strumenti finanziari di natura obbligazionaria ed azionaria. Ciascuna delle 2 classi di attività è 
+presente in misura non superiore al 70% del patrimonio. È  consentito l'utilizzo di strumenti 
+derivati orientato esclusivamente a finalità di copertura del rischio e di più efficiente 
+gestione delle risorse, coerentemente con il profilo di rischio -rendimento del comparto. Gli 
+investimenti in strumenti alternativi, derivati e OICR sono effettuati qualora siano 
+chiaramente esplicitati il livello di accesso da parte della forma pensionistica alle 
+informazioni sulle strategie poste in essere dal gestore, la struttura dei costi dello strumento, 
+i periodi di uscita dall’investimento (lock up period). 
+ 
+Categorie di emittenti e settori industriali : per la componente obbligazionaria prevalenza di 
+emittenti sovrani, organismi internazionali sovranazionali e emittenti privati , con «adeguata 
+qualità creditizia» (c.d. investment grade), sulla base del sistema interno di valutazione del 
+merito di credito adottato dalla compagnia . Gli investimenti in titol i obbligazionari con 
+merito di credito inferiore al livello di «adeguata qualità creditizia»  non potranno eccedere il 
+5% del patrimonio.  La componente azionaria è prevalentemente allocata su strumenti 
+finanziari aventi caratteristiche di liquidabilità e di versificazione elevate, senza privilegiare 
+quindi specifici settori economici. 
+ 
+Aree geografiche di investimento : i titoli di debito sono presenti con prevalenza degli 
+emittenti “dell’area Euro” e dei titoli governativi italiani, mentre per quanto riguarda i titoli 
+di capitale sono prevalenti gli emittenti esteri rispetto a quelli italiani, con particolare 
+attenzione per i titoli quotati sui mercati di Stati Uniti, Canada, Giappone e dei Paesi 
+aderenti all'Unione Europea. Eventuali investimenti in strumenti  finanziari di emittenti dei 
+Paesi Emergenti hanno natura residuale. 
+ 
+Rischio cambio: Gli investimenti sono espressi in Euro e/o in valute diverse dall’Euro; in ogni 
+caso gli strumenti finanziari privi di copertura del rischio di cambio non possono ecceder e il 
+30% del patrimonio.  
+ 
+Benchmark: 25% MSCI World Net Total Return EUR Index - 25% MSCI EMU Net Total Return EUR 
+Index - 15% ICE BofA Italy Government Index (G0I0) - 20% ICE BofA Euro Government Index 
+(EG00) - 15% ICE BofA Euro Corporate Index (ER00)  
+ 
+Relazione con il benchmark : possibili significativi scostamenti della composizione del 
+comparto rispetto al benchmark, attraverso l’investimento in strumenti finanziari di emittenti 
+non presenti nell’indice di riferimento o presenti in proporzioni diverse e attraverso il 
+differente bilanciamento delle aree geografiche di investimento, al fine di realizzare un 
+migliore rendimento corretto per il rischio nel medio/lungo periodo. 
+ 
+Modalità e stile di gestione : lo stile di gestione, moderatamente attivo, preved e una 
+efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai costi di 
+negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonchè alla 
+liquidità degli strumenti finanziari oggetto della gest ione. La rotazione annua degli asset
+=== pagina 11 ===
+(turnover) ha l’obiettivo di essere contenuta entro 3 volte il patrimonio. Tale obiettivo 
+rimane suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si 
+trova ad operare.  
+Lo stile d i gestione non deve modificare in maniera sostanziale il profilo di rischio del 
+comparto rispetto a quello del benchmark di riferimento. La volatilità della differenza fra il 
+rendimento del comparto e quello del benchmark (TEV o tracking error volatility) , pur 
+rimanendo suscettibile di variazioni in dipendenza di particolari fasi di mercato, tende ad 
+essere contenuta entro un livello indicativo del 4%.  
+ 
+La gestione finanziaria del patrimonio è delegata a Euromobiliare A.M. S.g.r. S.p.A. (di 
+seguito “Gestore”), società di gestione del risparmio appartenente allo stesso gruppo della 
+società istitutrice, in modo da perseguire benefici in termini di gestione finanziaria e 
+razionalizzazione dei costi.  
+Il rapporto contrattuale è stato perfezionato sulla scorta della vigente normativa in termini di 
+esternalizzazioni considerando pertanto anche i requisiti di professionalità, dell’onorabilità e 
+capacità finanziaria dell’outsourcer. 
+La delega di gestione ha una durata di 5 anni e prevede commissioni di gestione pari  allo 
+0,07% su base annua del patrimonio in gestione. 
+La titolarità dei diritti di voto relativi ai valori mobiliari oggetto della delega di gestione 
+spetta alla Società. La rappresentanza della Società per l’esercizio dei diritti di voto può 
+venire conferita al Gestore che la esercita in base alle istruzioni vincolanti impartite. 
+ 
+Comparto Evoluto 
+Il comparto risponde alle esigenze di un soggetto con un livello di propensione al rischio alto e 
+privilegia investimenti volti a favorire l’incremento del valore del capitale investito. 
+La politica di investimento è volta a perseguire l’ottimizzazione delle combinazioni di rischio-
+rendimento del patrimonio gestito, accettando la variabilità dei risultati  nel tempo e 
+potenziali significative perdite del valore del l’investimento, in relazione all’andamento dei 
+mercati, mediante una composizione del portafoglio prevalentemente orientata verso i “titoli 
+di capitale”. 
+Nell’attuazione di tale politica d’investimento viene realizzata, nell’interesse degli iscritti e 
+tenuto conto dell’andamento dei mercati finanziari, una struttura di portafoglio del comparto 
+in cui i “titoli di capitale ” siano presenti anche nella misura del 100% del patrimonio, mentre 
+i “titoli di debito” possono rappresentare non più del 40% del patrimonio medesimo. 
+ 
+Politica di gestione : per la componente azionaria vengono considerate le analisi macro -
+economiche nella scelta dei pesi dei singoli Paesi degli Emittenti considerati, nonché analisi 
+economiche finanziarie nella selezione dei singoli strument i finanziari, nel rispetto 
+dell’obiettivo di un’elevata diversificazione settoriale degli investimenti. Per la parte 
+obbligazionaria, stante la natura residuale di tale componente, viene posta la necessaria 
+attenzione alle opportunità offerte dalle curve d ei tassi d’interesse a breve termine dei 
+diversi Paesi considerati, tenuto conto degli obiettivi e degli interventi di politica monetaria 
+della Banca Centrale Europea. 
+ 
+Strumenti finanziari : il portafoglio è prevalentemente allocato in strumenti finanziari  di 
+natura azionaria che possono essere presenti anche nella misura del 100% del patrimonio, 
+mentre gli strumenti finanziari obbligazionari possono rappresentare non più del 40% del
+=== pagina 12 ===
+patrimonio medesimo. È consentito l'utilizzo di strumenti derivati orienta to esclusivamente a 
+finalità di copertura del rischio e di più efficiente gestione delle risorse, coerentemente con il 
+profilo di rischio-rendimento del comparto. Gli investimenti in strumenti alternativi, derivati 
+e OICR sono effettuati qualora siano chiaramente esplicitati il livello di accesso da parte della 
+forma pensionistica alle informazioni sulle strategie poste in essere dal gestore, la struttura 
+dei costi dello strumento, i periodi di uscita dall’investimento (lock up period). 
+ 
+Categorie di emitte nti e settori industriali : la componente azionaria è prevalentemente 
+allocata su strumenti finanziari aventi caratteristiche di liquidabilità e diversificazione 
+elevate, senza privilegiare quindi specifici settori economici. Per la componente 
+obbligazionaria prevalenza di emittenti governativi e privati con «adeguata qualità creditizia» 
+(c.d. investment grade), sulla base del sistema interno di valutazione del merito di credito 
+adottato dalla compagnia. 
+ 
+Aree geografiche di investimento : i titoli di debito sono presenti con prevalenza dei 
+governativi “dell’area Euro”, mentre per quanto riguarda i titoli di capitale sono prevalenti 
+quelli quotati sui mercati esteri, con particolare attenzione per quelli dei Paesi aderenti 
+all'Unione Europea , di Stati Uniti, C anada e Giappone. Eventuali investimenti in strumenti 
+finanziari di emittenti dei Paesi Emergenti hanno natura residuale. 
+ 
+Rischio cambio: gli investimenti sono espressi in Euro e/o in valute diverse dall’Euro; in ogni 
+caso gli strumenti finanziari privi d i copertura del rischio di cambio non possono eccedere il 
+30% del patrimonio. 
+ 
+Benchmark: 30% MSCI World Net Total Return EUR Index - 60% MSCI EMU Net Total Return EUR 
+Index - 10% ICE BofA 0-1 Year Euro Government Index (EG0A)  
+ 
+Relazione con il benchmark : possibili significativi scostamenti della composizione del 
+comparto rispetto al benchmark, attraverso l’investimento in strumenti finanziari di emittenti 
+non presenti nell’indice di riferimento o presenti in proporzioni diverse e attraverso il 
+differente bilanciamento delle aree geografiche di investimento, al fine di realizzare un 
+migliore rendimento corretto per il rischio nel lungo periodo. 
+ 
+Modalità e stile di gestione : lo stile di gestione, moderatamente attivo, prevede una 
+efficiente movimentazione dei titoli, la cui adeguatezza viene valutata in relazione ai costi di 
+negoziazione, alla redditività delle operazioni poste in essere, alle fasi di mercato nonchè alla 
+liquidità degli strumenti finanziari oggetto della gestione. La rotazione annua degli as set 
+(turnover) ha l’obiettivo di essere contenuta entro  3 volte il patrimonio. Tale obiettivo 
+rimane suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si 
+trova ad operare.  
+Lo stile di gestione non deve modificare in  maniera sostanziale il profilo di rischio del 
+comparto rispetto a quello del benchmark di riferimento. La volatilità della differenza fra il 
+rendimento del comparto e quello del benchmark (TEV o tracking error volatility) , pur 
+rimanendo suscettibile di va riazioni in dipendenza di particolari fasi di mercato, tende ad 
+essere contenuta entro un livello indicativo del 6%.  
+ 
+La gestione finanziaria del patrimonio è delegata a Euromobiliare A.M. S.g.r. S.p.A. (di 
+seguito “Gestore”), società di gestione del risp armio appartenente allo stesso gruppo della
+=== pagina 13 ===
+società istitutrice, in modo da perseguire benefici in termini di gestione finanziaria e 
+razionalizzazione dei costi.  
+Il rapporto contrattuale è stato perfezionato sulla scorta della vigente normativa in termini di 
+esternalizzazioni considerando pertanto anche i requisiti di professionalità, dell’onorabilità e 
+capacità finanziaria dell’outsourcer. 
+La delega di gestione ha una durata di 5 anni e prevede commissioni di gestione pari allo 
+0,07% su base annua del patrimonio in gestione. 
+La titolarità dei diritti di voto relativi ai valori mobiliari oggetto della delega di gestione 
+spetta alla Società. La rappresentanza della Società per l’esercizio dei diritti di voto può 
+venire conferita al Gestore che la esercita in base alle istruzioni vincolanti impartite. 
+***  
+Alla data di redazione del presente documento, non vengono utilizzati in modo diretto 
+strumenti derivati nella gestione finanziaria dei comparti. Preventivamente a un eventuale 
+utilizzo di strumento derivati , il presente documento verrà aggiornato con la descrizione dei 
+relativi sistemi di governance che verranno implementati.  
+ 
+3. SISTEMA DI GESTIONE DEI RISCHI CONNESSI AGLI INVESTIMENTI 
+ 
+La Compagnia si è dotata di framework finalizzato alla gestione dei risch i, inclusivo anche 
+degli aspetti connessi al Fondo Pensione, formalizzato nella Policy di Gestione di Rischi e nei 
+relativi Regolamenti di pertinenza  per ambito di rischio. 
+Di seguito un focus specifico sui principali fattori di rischio impattanti dalla presente politica 
+degli investimenti. 
+ 
+3.1. Rischio Mercato e Concentrazione 
+1 – RISK IDENTIFICATION (Identificazione Rischi):  
+Su base almeno triennale, vengono identificati, classificati e mappati i fattori di rischio 
+mercato a cui risulta essere esposto il  Fondo Pensione (c.d. Valutazione Interna del Rischio 
+del Fondo Pensione).   
+2 – RISK ASSESSMENT (Valutazione Rischi): 
+La Funzione di RIsk Management ha definito e formalizzato le  metriche e metodologie per la 
+misurazione e valutazione dei rischi mercato: 
+- valutazione quantitativa dei rischi di mercato in termini di requisito di capitale . Viene 
+effettuata prevalentemente secondo logiche Solvency II – based ( c.d. Standard 
+Formula). La valutazione viene pertanto effettuata sia per la valutazione di ogni 
+singolo strumento di investimento sia in relazione alla necessità di poter valutare il 
+rischio mercato di ogni singolo portafoglio e di Compagnia; 
+- valutazione degli OICR sulla base della composizione interna di tali strumenti (metodo 
+del look through), al fine d i ottenere una chiara consapevolezza  dei relativi rischi di 
+mercato; 
+- valutazione di impatto derivante dall’applicazione di sensitivity, stress e scenario test 
+sui principali fattori di rischio mercato;
+=== pagina 14 ===
+- valutazione del rischio concentrazione mediante l’iden tificazione si specifici limiti di 
+concentrazione in relazione alla qualità del credito (cfr. Regolamento Investimenti 
+sezione 5.6). 
+3 – RISK RESPONSE (Gestione dei Rischi): 
+Per una gestione continuativa del rischio di mercato (cfr. Regolamento Gestione Ri schio 
+Mercato a cui si rimanda per maggiori dettagli), la Compagnia ha sviluppato: 
+- un processo di monitoraggio continuativo dei limiti operativi (c.d limiti di esposizione 
+e di concentrazione)  e dei limiti operativi di rischio (c.d. Tracking Error Volatili ty) a 
+carico del gestore;  
+- un processo di monitoraggio i limiti RAF del Fondo Pensione collegati al Risk Appetite 
+Framework (cfr. Regolamento Risk Appetite Framework), monitorati dalla Funzione di 
+Risk Management; 
+- Dedicati processi di escalation funzionali alla gestione degli sconfini (cfr. Regolamento 
+Risk Appetite Framework). 
+4 – MONITORING AND REPORTING (monitoraggio e reporting) 
+Su base mensile il Team Finanza effettua i monitoraggi dei limiti operativi, inviando gli esiti 
+di tale attività alla Funzione  di Risk Management, e segnalando al Comitato Investimenti e 
+ALM eventuali superamenti e proponendo le azioni necessarie per il rientro nei limiti stessi. 
+Il gestore delegato, con frequenza trimestrale, fornisce al  Team Finanza e alla Funzione di 
+Risk Management il parametro di Tracking Error Volatility. 
+Su base trimestrale la Funzione di Risk Management monitora i limiti RAF collegati ai rischi 
+mercato del Fondo Pensione. 
+ 
+3.2. Rischio ALM 
+1 – RISK IDENTIFICATION (Identificazione Rischi):  
+Su base almeno triennale, vengono identificati, classificati e mappati i fattori di rischio ALM a 
+cui risulta essere esposto il Fondo Pensione (c.d. Valutazione Interna del Rischio del Fondo 
+Pensione), al fine di analizzarle, monitorarle e gestirle. 
+2 – RISK ASSESSMENT (Valutazione Rischi): 
+Ad oggi il rischio ALM, in considerazione di una fase di accumulo prevalente, non è valutato 
+tra i rischi rilevanti impattanti sul Fondo Pensione ed  in considerazione del fatto che , sulla 
+linea garantita, la garanzia viene riconosciuta solo in caso di scadenza o morte, ma non di 
+riscatto. Nell’ipotesi di riscatto, viene riconosciuto il NAV legato in quel momento al mercato 
+e dunque non è presente un rischio reinvestimento/disinvestimento.  
+3 – RISK RESPONSE (Gestione dei Rischi): 
+Non sono stati identificati specifici limiti operativi o di rischio collegati al Rischio ALM, ma su 
+base triennale (sulla base del processo di Valutazione Interna del Rischio del Fondo Pensione) 
+viene effettuata una valutazione del rischio e della relativa rilevanza a  seguito del quale, 
+possono essere rivisti (coerentemente con il livello di rilevanza evidenziato) i framework 
+funzionali alla valutazione e misurazione del rischio nonché i relativi sistemi di monitoraggio. 
+4 – MONITORING AND REPORTING (monitoraggio e reporting)
+=== pagina 15 ===
+Date le caratteristiche del Fondo Pensione attualmente in collocamento, non viene rilevato e 
+di conseguenza monitorato un rischio legato a tematiche ALM.  
+ 
+3.3. Rischio Liquidità 
+1 – RISK IDENTIFICATION (Identificazione Rischi):  
+Su base almeno triennal e, vengono identificati, classificati e mappati i fattori di rischio 
+liquidità a cui risulta essere esposto il Fondo Pensione (c.d. Valutazione Interna del Rischio 
+del Fondo Pensione), al fine di analizzarli, monitorarli e gestirli. Sono quindi stati identificati, 
+classificati e mappati i fattori di rischio liquidità a cui risulta essere esposta la Compagnia (ed 
+il Fondo Pensione) e definita la categoria di High Liquid Asset  (cfr. Regolamento  Gestione 
+del Rischio Liquidità). 
+2 – RISK ASSESSMENT (Valutazione Rischi): 
+Sono definite e formalizzate le  metriche e metodologie per la misurazione e valutazione dei  
+rischi mercato: 
+- Analisi di metriche e indicatori di rischio - attività che prevede: 
+o la definizione delle metriche e dei criteri per la valutazione e il m onitoraggio del 
+liquidity risk basate sia su un approccio forward looking (secondo i dati di flusso futuri 
+attesi all’istante di valutazione) sia su base storica (secondo i dati di flusso e di stock 
+riscontrati nel corso degli ultimi esercizi)  i cui dettag li sono riportati nella Nota 
+Metodologica Rischio Mercato in allego al Regolamento di Gestione del Rischio 
+Mercato; 
+o la definizione degli indicatori di rischio i cui dettagli sono riportati nel Regolamento di 
+Risk Appetite Framework . L’utilizzo congiunto di  metriche ed indicatori di rischio è 
+finalizzato alla valutazione ed analisi dell’esposizione al rischio liquidità sui singoli 
+portafogli e quindi a prevenire problemi sulla liquidità. 
+ 
+- Sensitivity e stress test : analisi di impatto sul rischio liquidità me diante la valutazione e 
+l’attuazione di sensitivity, stress test e scenario test (cfr. allegato “ Framework 
+Sensitivity, Stress Test e Scenario Test ” al Regolamento di Valutazione Attuale e 
+Prospettica dei Rischi). Tali valutazioni hanno tra le altre cose i l fine di valutare il grado 
+di significatività dei movimenti inattesi e avversi dei rischi e prevenire problemi sulla 
+liquidità, anche in situazioni particolarmente avverse, legate sia a fattori endogeni sia 
+esogeni. 
+3 – RISK RESPONSE (Gestione dei Rischi): 
+Successivamente alla determinazione degli indicatori vengono definiti appositi limiti con cui 
+monitorare il rischio di liquidità, tenendo in considerazione il limite di tolleranza al rischio 
+definiti. I limiti rappresentano le soglie di accettabilità che  devono essere rispettate dalle 
+metriche definite. 
+In particolare, nell’ambito del processo di gestione ordinaria della liquidità, a cura di CRVFIN, 
+si ha la gestione della  liquidità a breve -medio termine allocata sui conti correnti della 
+Compagnia e la gestione dei flussi cassa in entrata e uscita giornalieri. 
+Per una gestione continuativa del rischio di liquidità (cfr. Regolamento Gestione Rischio 
+Mercato a cui si rimanda per maggiori dettagli), la Compagnia ha sviluppato:
+=== pagina 16 ===
+- un processo di monitoraggio continuativo dei limiti RAF del Fondo Pensione collegati al 
+Risk Appetite Framework (cfr. Regolamento Risk Appetite Framework); 
+- Dedicati processi di escalation funzionali alla gestione degli sconfini (c.d. Contingency 
+Funding Plan). 
+4 – MONITORING AND REPORTING (monitoraggio e reporting) 
+Su base mensile il Team Finanza effettua i monitoraggi dei limiti operativi, inviando gli esiti 
+di tale attività alla Funzione di Risk Management, e segnalando al Comitato Investimenti e 
+ALM eventuali superamenti e proponendo le azioni necessarie per il rientro nei limiti stessi. 
+Su base trimestrale la Funzione di Risk Management monitora i limiti RAF collegati ai rischi 
+liquidità del Fondo Pensione. 
+ 
+3.4. Rischio di Sostenibilità 
+Al fine di incorporare i rischi di sostenibilità nell e proprie scelte di investimento, Credemvita 
+si è dotata di linee guida per la valutazione dei fattori di rischio non solo economici ma anche 
+ambientali, sociali e di governance (ESG) e ha definito dei criteri di selezione e monitoraggio 
+degli strumenti finanziari basati su: 
+- politiche di esclusione 
+- score ESG 
+- indicatori di sostenibilità e gestione dei principali effetti negativi delle  decisioni di 
+investimento sui fattori di sostenibilità ( c.d. “PAI” - Principal Adverse Impacts Indicators) 
+per la gestione dei portafogli sostenibili.  
+Per maggiori dettagli si rimanda all’informativa sulla trasparenza delle politiche di 
+integrazione dei rischi di sostenibilità presente sul sito internet della Società. 
+Tuttavia la gestione dei comparti non promuove caratteristic he ambientali o sociali e non 
+individua specifici obiett ivi di investimento sostenibile, per i cui dettagli si rimanda 
+all’informativa sulla sostenibilità del prodotto. 
+Inoltre, la Compagnia adotta procedure volte a garantire che i rischi di sostenibilità relativi al 
+portafoglio di attività e passività siano adeguatamente identificati, valutati e gestiti. (cfr. 
+Regolamento di Gestione del Rischio ESG). 
+ 
+4. SOGGETTI COINVOLTI NEL PROCESSO, LORO COMPITI E RESPONSABILITA’ 
+Consiglio di Amministrazione 
+- definisce e adotta la politica di investimento adeguata al raggiungimento degli obiettivi 
+prefissati e ne verifica il rispetto;  
+- delibera l’affidamento e la revoca dei mandati di gestione; 
+- revisiona periodicamente e d esamina le eventuali  modifiche al la politica di investimento 
+proposte; 
+- esercita il controllo sull’attività svolta dalla Funzione Finanza, assumendo le relative 
+determinazioni; 
+- esamina i rapporti sulla gestione finanziaria; 
+- approva le procedure interne di controllo della gestione finanziaria, te nendo conto delle 
+proposte formulate dalla funzione finanza.
+=== pagina 17 ===
+Funzione Finanza 
+- contribuisce all’impostazione della politica di investimento e formula proposte al Consiglio 
+di Amministrazione riguardo alle eventuali modifiche che si rendessero necessarie; 
+- svolge l’attività istruttoria per la selezione dei gestori finanziari e sottopone al Consiglio 
+amministrazione le proposte di affidamento e di revoca dei mandati; 
+- verifica la gestione finanziaria esaminando i risultati conseguiti nel corso del tempo; 
+- controlla l’attuazione delle strategie e valuta l’operato dei soggetti incaricati della 
+gestione; 
+- cura la definizione, lo sviluppo e l’aggiornamento delle procedure interne di controllo della 
+gestione finanziaria, sottoponendole al Consiglio di amministrazione. 
+I componenti la Funzione Finanza devono possedere una preparazione professionale e un 
+livello di esperienza e conoscenza adeguati alle mansioni svolte. 
+ 
+Gestore delegato 
+- investe le risorse finanziarie con la finalità, per i comparti con un bech mark di riferimento, 
+di realizzare risultai pari o superiori a tale parametro; 
+- gestisce le risorse finanziarie nel rispetto dei limiti di investimento e dei parametri di rischio 
+prefissati; 
+- trasmette alla Funzione Finanza e al Consiglio di Amministrazi one una rendicontazione 
+periodica sulla gestione effettuata. 
+ 
+5. SISTEMA DI CONTROLLO E VALUTAZIONE DELLA POLITICA DI INVESTIMENTO 
+La Compagnia si è dotata di un sistema di controlli interni, sulla scorta della vigente 
+normativa di settore, strutturato su tre  livelli e segnatamente: controlli di primo livello  
+espletati dalle funzioni operative; controlli di secondo livello espletati dalla funzione di Risk 
+Management e della funzione di Compliance , e controlli di terzo livello  espletati dalla 
+funzione di Internal Auditing.  
+Di seguito sono indicati i principali controlli effettuati per ogni comparto e la relativa 
+periodicità. 
+Parametro Soggetto Modalità di verifica Periodicità 
+Performance dei 
+comparti 
+ 
+Team Finanza 
+Analisi dei rendimenti conseguiti, sia in 
+termini assoluti che in relazione al 
+benchmark 
+Mensile 
+Tracking error 
+volatility (TEV) Team Finanza Verifica del rispetto dei limiti 
+prestabiliti 
+Trimestrale 
+Limiti di 
+investimento 
+Team Finanza Verifica del rispetto dei limiti 
+prestabiliti 
+Mensile 
+Turnover di 
+portafoglio 
+Team Finanza Monitoraggio del valore Trimestrale 
+Limiti di 
+concentrazione Team Finanza 
+Monitoraggio dei limiti di 
+concentrazione su esposizioni Financial 
+e Corporate 
+Mensile 
+Limiti di rischio 
+portafoglio Risk Management Monitoraggio metriche ex-ante VaR ed 
+RVaR 
+Mensile
+=== pagina 18 ===
+Monitoraggio 
+indicatori di II° 
+livello liquidità 
+Team Finanza Monitoraggio degli indicatori di rischio 
+liquidità sul comparto obbligazionario 
+Mensile 
+Verifica indicatori di 
+liquidità Risk Management 
+Verifica sul monitoraggio degli 
+indicatori di rischio liquidità sul 
+comparto obbligazionario 
+Mensile 
+ 
+ 
+6. MODIFICHE APPORTATE AL DOCUMENTO 
+La prima edizione del presente Documento sulla politica di investimento del fondo pensione 
+Credemvita Fondo Pensione Aperto risale al 17/12/2012. 
+Si riportano di seguito le principali modifiche apportate nell’ultimo triennio. 
+In data 04/08/2025 sono state apportate le seguenti modifiche: 
+- aggiornamento dei nomi dei 4 comparti; 
+- modifica, per il comparto “Flessibile”, ridenominato “Moderato”, da tip ologia flessibile a 
+tipologia a benchmark; 
+- aggiornamento dei benchmark dei 4 comparti e delle relative politiche di investimento; 
+- aggiornamento dei dati relativi a obiettivi di rendimento e rischio; 
+- aggiornamento del sistema di gestione dei rischi connessi agli investimenti; 
+- formalizzazione di ruoli e responsabilità del Consiglio di Amministrazione, della Funzione 
+Finanza e del Gestore Delegato.

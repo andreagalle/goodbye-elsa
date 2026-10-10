@@ -1,0 +1,851 @@
+# Fondo: FONDO PENSIONE APERTO IL MIO DOMANI (il-mio-domani)
+# Documento: Documento sulle rendite – Documento sulle rendite
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/006/IMD_Documento%20sulle%20Rendite_07_2026.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/il-mio-domani.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: dc98e6ef83b4cf8701cb7541f43270f60a964d7037672656b20b712d9dc1dab9
+# Pagine: 15
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Il Mio Domani 
+Fondo Pensione Aperto 
+Iscritto all’Albo tenuto dalla COVIP con il n. 84 
+Istituito in Italia 
+Soggetto istitutore: Intesa Sanpaolo 
+Assicurazioni S.p.A. (Gruppo Intesa Sanpaolo) 
+ 
+ 
+ 
+Documento sulle 
+rendite 
+(Documento aggiornato a luglio 2026) 
+ 
+ 
+Via San Francesco d’Assisi, 10 - 10122 
+Torino (sede legale) 
+Via Melchiorre Gioia, 22 - 20124 Milano 
+(sede operativa) 
+ Numero Verde: 800.124.124 
+ 
+ 
+comunicazioni@pec.intesasanpaoloassicrazioni.com 
+servizioclienti@pec.intesasanpaoloassicrazioni.com 
+ www.intesasanpaoloassicrazioni.com
+=== pagina 2 ===
+Indice 
+1. Prestazioni pensionistiche  
+2. Le opzioni  
+3. Clausola di rivalutazione della rendita  
+4. Prestazioni pensionistiche alternative alla rendita vitalizia        
+4.1 Premessa 
+4.2 A chi sono rivolte e quando si può accedere alle nuove prestazioni pensionistiche 
+4.3 Designazione dei soggetti aventi titolo al riscatto in caso di decesso 
+4.4 Le nuove prestazioni pensionistiche 
+4.5 Possibilità di conversione in rendita vitalizia   
+4.6 Regime fiscale 
+4.7 Come richiedere le nuove prestazioni pensionistiche 
+Tabelle  
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 3 ===
+1. Prestazioni pensionistiche 
+Alla maturazione dei requisiti previsti dalla normativa vigente in materia di previdenza complementare, è facoltà 
+dell’Aderente richiedere alla Compagnia l’erogazione della prestazione pensionistica, il cui ammontare è in fun -
+zione di ogni singolo contributo versato. 
+Per la determinazione della prestazione la data di riferimento per il calcolo della rivalutazione del capitale matu -
+rato sulla posizione individuale coincide con la data di  accertamento dei requisiti previsti dalla normativa effettua-
+to sulla base della richiesta inviata, completa della documentazione prevista nell’apposito modulo in base al primo 
+valore quota successivo alla data di riferimento. 
+L’Aderente potrà richiedere la rendita vitalizia in rate mensili, trimestrali, semestrali o annuali posticipate; tale 
+rendita sarà dovuta dalla Compagnia all’Aderente a decorrere dal giorno successivo alla data in cui il capitale 
+oggetto di conversione è disponibile per l’investimento nella Gestione Separata “Fondo VIVAP IÙ” e fintanto che 
+egli sarà in vita. 
+La rata di rendita iniziale è determinata moltiplicando il capitale oggetto di conversione alla predetta data per il 
+coefficiente di conversione individuato secondo i criteri di seguito descritti e dividendo il risultato per 1.000. Per 
+ottenere poi la rata di rendita relativa alla periodicità desiderata, se diversa da quella annuale, occorre dividere il 
+valore così ottenuto per due (rendita semestrale), quattro (rendita trimestrale) o dodici (rendita mensile).  
+Il coefficiente di conversione è individuabile nella tabella A di seguito riportata, sia per i maschi che per le femmine, 
+ed è distinto per età (corretta in base alla relativa tabella di age-shifting) e rateazione prescelta (colonne “rateazione 
+annuale”, “rateazione semestrale”, “rateazione trimestrale”, “rateazione mensile”). 
+I coefficienti di conversione sono determinati considerando quale base demografica la tavola A62D/A distinta 
+per anno di nascita e come tasso tecnico lo 0,00%. 
+ 
+La rendita vitalizia non è riscattabile durante il periodo della sua corresponsione. 
+ 
+Nel calcolo dei coefficienti di conversione in rendita è stato considerato un caricamento per spese pagamento 
+rendita pari all’1,25%. 
+ 
+2. Opzioni  
+In alternativa, l’Aderente potrà richiedere una delle seguenti prestazioni. 
+Rendita vitalizia reversibile liquidata in rate mensili, trimestrali, semestrali o annuali posticipate. 
+ 
+Tale rendita sarà dovuta dalla Compagnia all’Aderente a decorrere dal giorno successivo alla data in cui il capitale 
+oggetto di conversione è disponibile per l’investimento nella Gestione Separata “Fondo VIVAPIÙ” e fintanto che 
+egli sarà in vita. Al decesso dell’Aderente la rendita vitalizia verrà corrisposta, secondo la misura di reversibilità 
+prescelta, alla persona designata all’epoca di scelta di questa opzione, fintanto che quest’ultima sarà in vita. La 
+percentuale di reversibilità può essere del 100% o del 50%; ciò significa che al decesso dell’Aderente la rendita 
+vitalizia corrisposta alla persona designata sarà pari al 100% o al 50% di quella percepita dall’Aderente.  
+La rendita iniziale è determinata moltiplicando il capitale oggetto di conversione a tale data per il coefficiente che 
+la Compagnia si impegna a inviare all’Aderente che ne facesse richiesta e dividendo il risultato per 1.000.  
+Il coefficiente di conversione è individuabile in funzione dell’età “corretta” e del sesso dell’Aderente e dell’età 
+“corretta” e del sesso della seconda testa assicurata (“soggetto reversionario”), nonché in funzione della rateazione 
+e della percentuale di reversibilità prescelta; di seguito (tabella C) sono riportati a titolo esemplificativo i coefficienti 
+di conversione relativi ad alcune figure tipo. 
+I coefficienti di conversione sono determinati considerando quale base demografica la tavola A62D/A, distinta anno 
+di nascita e come tasso tecnico lo 0,00%. 
+La rendita vitalizia reversibile non è riscattabile durante il periodo della sua corresponsione. 
+ 
+ 
+Rendita vitalizia con controassicurazione liquidata in rate mensili, trimestrali, semestrali o annuali posticipate. 
+Tale rendita sarà dovuta dalla Compagnia all’Aderente a decorrere dal giorno successivo alla data in cui il capitale 
+oggetto di conversione è disponibile per l’investimento nella Gestione Separata “Fondo VIVAPIÙ” e fintanto che 
+egli sarà in vita. 
+Al decesso dell’Assicurato viene corrisposto agli eredi o, se presenti, ai beneficiari dallo stesso designati, un 
+capitale pari alla differenza, se positiva, fra: 
+- l’80% del capitale maturato sulla posizione individuale in base al quale è stata calcolata la prestazione  
+ 
+ 
+pensionistica, moltiplicato per il rapporto fra la rata di rendita rivalutata e quella iniziale;  
+- la rata di rendita rivalutata moltiplicata per il numero delle rate corrisposte dalla decorrenza della stessa fino alla 
+data di decesso. 
+ 
+La rata di rendita iniziale è determinata moltiplicando il capitale oggetto di conversione alla predetta data per il 
+ 
+ 
+Il Mio Domani - Documento sulle rendite 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 4 ===
+coefficiente di conversione individuato secondo i criteri di seguito descritti e dividendo il risultato per 1.000. Per 
+ottenere poi la rata di rendita relativa alla periodicità desiderata, se diversa da quella annuale, occorre dividere il 
+valore così ottenuto per due (rendita semestrale), quattro (rendita trimestrale) o dodici (rendita mensile).  
+ 
+Per poter richiedere la prestazione pensionistica in forma di rendita vitalizia con controassicurazione è necessa -
+rio che l’età assicurativa dell’Aderente alla data di decorrenza della rendita sia al massimo di 80 anni.  
+ 
+Il coefficiente di conversione è individuabile nella tabella B di seguito riportata, sia per i maschi che per le femmine, 
+ed è distinto per età (corretta in base alla relativa tabella di age-shifting) e rateazione prescelta (colonne “rateazione 
+annuale”, “rateazione semestrale”, “rateazione trimestrale”, “rateazione mensile”). 
+I coefficienti di conversione sono determinati considerando quale base demografica la tavola A62D/A distinta per 
+anno di nascita e come tasso tecnico lo 0,00%. 
+ 
+La rendita vitalizia con controassicurazione non è riscattabile durante il periodo della sua corresponsione. 
+ 
+ 
+Capitale. 
+La Compagnia può erogare, unitamente alla rendita vitalizia, una prestazione in forma di capitale fino ad un 
+massimo del 50% oppure, qualora l’importo che si ottiene convertendo in rendita vitalizia immediata annua senza 
+reversibilità il 70% del capitale maturato sulla posizione individuale risulti inferiore al 50% dell’assegno sociale di 
+cui all’articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, l’Aderente può optare per la liquidazione in capitale 
+dell’intero capitale maturato. Nel primo caso l’importo della rendita vitalizia spettante all’Aderente viene 
+rideterminato dalla Compagnia, applicando i coefficienti di conversione alla quota parte di capitale che non sarà 
+oggetto di corresponsione all’Aderente. 
+Nel caso in cui l’Aderente attesti di essere stato iscritto alla data del 28 aprile 1993 ad una forma pensionistica 
+complementare istituita entro il 15 novembre 1992, senza avere riscattato totalmente la posizione individuale, è 
+consentito erogare l’intera posizione individuale sotto forma di capitale. 
+Il modulo per effettuare la richiesta di erogazione della prestazione pensionistica è disponibile sul sito internet della 
+Compagnia o presso i soggetti collocatori. 
+ 
+ 
+3. Clausola di rivalutazione della rendita 
+La Compagnia riconosce una rivalutazione delle prestazioni pensionistiche in base alle condizioni di seguito indi-
+cate. Ad ogni anniversario della data di decorrenza della rendita, la Compagnia rivaluta le prestazioni in base al 
+tasso annuo di rivalutazione. 
+Il tasso annuo di rivalutazione si ottiene scontando per il periodo di un anno, al tasso tecnico dell’0,00%, la 
+differenza tra il rendimento attribuito ed il tasso tecnico stesso. 
+ 
+Il rendimento annuo attribuito agli Assicurati è pari al rendimento realizzato dalla gestione separata nei dodici mesi 
+che precedono l’inizio del mese antecedente quello nel quale cade l’anniversario considerato, diminuito di una 
+commissione di gestione costituita dalla somma di due componenti: 
+ 
+COMPONENTE FISSA 
+espressa su base annua 
+(sempre applicata) 
+COMPONENTE VARIABILE 
+espressa su base annua 
+(eventuale) 
+1,20% 20% della differenza, se 
+positiva, tra il rendimento 
+lordo della Gestione 
+Separata e il 3,00% 
+ 
+Gli aumenti delle prestazioni vengono comunicati di volta in volta all’Assicurato.
+=== pagina 5 ===
+4. Prestazioni pensionistiche alternative alla rendita vitalizia 
+ 
+Rendita a Durata Definita 
+Dal 1° luglio 2026 
+Prelievi Liberamente 
+Determinabili 
+Dal 1° luglio 2026 
+ 
+4.1 Premessa 
+L’articolo 1, comma 201, della Legge 30 dicembre 2025, n. 199 (Legge di bilancio 2026) ha modificato in modo 
+significativo l’art. 11 del D.Lgs 252/2005, che disciplina le prestazioni pensionistiche, introducendo, a partire dal 
+1° luglio 2026, le seguenti n uove prestazioni pensionistiche erogabili in alternativa alle rendite vitalizie già 
+previste: 
+1) la rendita a durata definita; 
+2) prelievi liberamente determinabili; 
+ 
+Le nuove prestazioni sono espressamente qualificate dalla legge come «prestazioni pensionistiche» e sono 
+pertanto soggette al medesimo regime normativo — fiscale, previdenziale e di vigilanza — delle prestazioni già 
+disciplinate dall'art. 11 del Decreto. 
+ 
+Inoltre, le due nuove prestazioni sono: 
+• non cumulabili tra loro; 
+• irrevocabili una volta effettuata la scelta; 
+• erogate direttamente da Intesa Sanpaolo Assicurazioni che mantiene in gestione il relativo montante.  
+ 
+Per tali prestazioni si evidenzia inoltre che: 
+• l’aderente, al momento dell’esercizio di una delle suddette opzioni, entra nella fase di erogazione delle 
+prestazioni pensionistiche, con conseguente cessazione delle prerogative tipiche della fase di accumulo 
+(possibilità di effettuare versamenti1, anticipazioni, trasferimenti), ad eccezione della riallocazione del comparto 
+di investimento, riferito al montante da cui viene erogata la prestazione richiesta. Le riallocazioni possono 
+essere effettuate sempre nel rispetto del periodo minino, tra un’operazione e l’altra, previsto dalla forma 
+pensionistica. 
+• il montante mantenuto in gestione dalla forma pensionistica per l’erogazione delle prestazioni è investito in un 
+solo comparto scelto dall'aderente o, in mancanza di scelta, nel comparto più prudente.  
+• successivamente all’attivazione e fruizione di parte delle già menzionate prestazioni pensionistiche è sempre 
+possibile convertire il montante residuo in rendita vitalizia , anche trasferendo lo stesso presso un’altra 
+forma pensionistica complementare, nel caso in cui l’aderente intenda accedere alle condizioni di rendita 
+vitalizia offerte da quest’ultima. 
+ 
+Le Istruzioni della COVIP del 25 giugno 2026 forniscono le indicazioni operative per l'applicazione omogenea di tali 
+disposizioni da parte di tutti i fondi pensione a contribuzione definita. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 E’ fatto salvo il caso in cui l’aderente attivi un nuovo rapporto di lavoro che preveda la maturazione del TFR; in questo caso le 
+eventuali ulteriori contribuzioni sono da considerarsi distinte da quelle della prestazione pensionistica complementare al la quale 
+lo stesso ha acceduto. 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 6 ===
+4.2 A chi sono rivolte e quando si può accedere alle nuove prestazioni pensionistiche 
+ 
+A chi sono rivolte 
+Le nuove prestazioni sono disponibili per tutti gli aderenti ai fondi pensione a contribuzione definita soggetti al 
+D.Lgs. 252/2005. Restano esclusi i dipendenti pubblici iscritti ai fondi di comparto ad essi dedicati (soggetti ancora 
+al D.Lgs. 124/1993), che potranno tuttavia accedervi trasferendo la posizione in un'altra forma pensionistica 
+complementare. 
+ 
+Quando si può accedere 
+I requisiti di accesso sono gli stessi previsti per qualsiasi prestazione pensionistica complementare:  
+• maturazione dei requisiti pensionistici nel regime obbligatorio di appartenenza (es. raggiungimento dell'età per 
+la pensione di vecchiaia o dei requisiti per la pensione anticipata);  
+• almeno 5 anni di partecipazione a forme pensionistiche complementari (termine ridotto a 3 anni per il lavoratore 
+il cui rapporto di lavoro in corso cessa per motivi indipendenti dal fatto che lo stesso acquisisca il diritto a una 
+pensione complementare e che si sposta tra Stati membri dell'Unione europea). 
+ 
+Al fine di consentire alle forme pensionistiche complementari di adeguarsi per la gestione delle richieste e 
+l’erogazione delle nuove prestazioni, COVIP ha previsto un periodo transitorio che non può protrarsi oltre il 31 
+dicembre 2026, durante il quale il Fondo acquisirà le richieste degli aderenti ma procederà alla liquidazione e 
+all’erogazione delle nuove prestazioni solo successivamente all’adeguamento. 
+ 
+4.3 Designazione dei soggetti aventi titolo al riscatto in caso di decesso 
+In caso di decesso dell’aderente durante la fase di erogazione, il montante residuo è riscattato dai soggetti dallo 
+stesso indicati al momento dell'esercizio dell'opzione. La designazione è obbligatoria: le richieste prive di tale 
+indicazione sono considerate incomplete e non vengono lavorate. L'indicazione può consistere nella conferma dei 
+soggetti già designati per la fase di accumulo. Le scelte possono essere successivamente modificate.  
+ 
+4.4 Le nuove prestazioni pensionistiche 
+La Rendita a Durata Definita 
+ 
+La Rendita a Durata Definita è una prestazione pensionistica, alternativa alla rendita vitalizia,  
+pagata per un numero di anni predeterminato e calcolato sulla aspettativa di vita attesa residua (speranza di vita) 
+definita in base all’età dell’aderente al momento della richiesta, arrotondata per difetto e non modificabile.  
+Non è legata alla sopravvivenza effettiva: l'erogazione cesserà al termine del periodo stabilito nonostante la 
+sopravvivenza dell’aderente. 
+ 
+Calcolo della Durata  
+La durata di questa prestazione corrisponde al numero intero di anni della speranza di vita residua, alla data della 
+richiesta, ricavato dalle tavole di mortalità ISTAT utilizzate per i coefficienti di trasformazione della Legge 
+335/1995 (arrotondato per difetto). Esempio: se all'età della richiesta la speranza di vita residua è 20,7 anni, la 
+durata della rendita sarà 20 anni. 
+ 
+Come si calcola l'importo delle rate 
+L’erogazione della prestazione avviene su base libera a richiesta dell’Aderente, tramite l’apposito Modulo 
+predisposto dalla Compagnia. 
+Trattandosi di una forma di previdenza che prevede una gestione in quote, a ciascuna rata di rendita corrisponde 
+un prefissato numero di quote e frazioni di quota, ottenuto dividendo il numero complessivo di quote 
+corrispondente all’importo del montante convertito in rendita per il numero di rate.  
+L’importo della rata di rendita, varia in funzione del valore della quota alla data di erogazione della stessa, quindi 
+se il comparto ha avuto un buon rendimento, la rata sarà più alta; in caso contrario, la rata sarà più bassa.  
+ 
+ 
+ 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 7 ===
+In fase di erogazione della rendita a durata definita, l’investimento sarà allocato, con richiesta esplicita 
+dell’aderente, esclusivamente in un solo comparto. 
+Il montante residuo resta comunque investito fino al completo esaurimento dell’erogazione.  
+ 
+Periodicità di erogazione rendita 
+Si può richiedere la rendita a durata definita, scegliendo, oltre ad una porzione della posizione individuale da 
+destinare a tale tipologia di prestazione, anche la cadenza delle rate tra i seguenti frazionamenti: 
+• mensile; 
+• trimestrale; 
+• annuale.  
+Qualora la rateazione prescelta sia differente da quella annuale, è stabilito un importo minimo pari a 150 euro,  
+calcolato al momento dell’accertamento della sussistenza dei requisiti. 
+Qualunque sia la periodicità di erogazione prescelta, la data di riferimento per la determinazione del montante 
+relativo alla posizione dell’Aderente coincide con l’ultima valorizzazione disponibile alla data di accertamento dei 
+requisiti previsti dalla normativa.  
+La prima rata di rendita è erogata entro il 6° mese successivo la data di richiesta della prestazione, in base al primo 
+valore quota successivo all’accertamento dei requisiti da parte della Compagnia.  
+Le rate successive sono erogate secondo la cadenza richiesta e in base al rispettivo valore quota di riferimento.  
+ 
+Costi per l’esercizio della Prestazione pensionistica 
+I costi sono riportati nel Supplemento della Nota informativa disponibile sul sito della Compagnia.  
+ 
+Rischi da considerare 
+• Rischio di longevità: In caso di sopravvivenza per un numero di anni maggiore rispetto alla durata della 
+rendita, il capitale si esaurirà e non riceverà più alcuna erogazione dopo l’erogazione dell’ultima rata.  
+• Rischio di investimento: le rate variano con i rendimenti del comparto. Non esiste un importo garantito ad 
+eccezione dell’investimento nel comparto Linea TFR, ove è presente una garanzia di restituzione del 
+capitale, e cioè la restituzione dei contributi versati al netto delle spese direttamente a carico dell’aderente. 
+• Rischio di concentrazione temporale: le prestazioni di previdenza complementare potrebbero concentrarsi 
+eccessivamente nella fase iniziale a fronte di una minore copertura disponibile nel restante periodo di 
+pensionamento. 
+ 
+ 
+ 
+ 
+ 
+Esempio numerico illustrativo  
+Ipotesi al netto delle spese (lordo imposte):  
+• Montante destinato alla prestazione in rendita (A):   50.000,00 €  
+• Spesa una tantum applicata all’attivazione della prestazione: (B):  20,00 €  
+• Montante netto spese (C)=(A)-(B):     49.980,00 €  
+• Valore quota iniziale (D):                                                 24,50    
+• Montante netto spese espresso in n° quote (E)=(C)/(D):   2.040,00    
+• Durata della rendita (in anni*) (F):                                                20  
+• N° quote per ciascuna rata annuale (G)=(E)/(F):    102,00       
+• Spesa applicata su singola rata erogata (H):     2,00€ 
+ 
+* la durata della rendita corrisponde alla durata di vita media attes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 8 ===
+Anno 
+Montante 
+residuo 
+inizio anno 
+in numero 
+quote (E) 
+Valore 
+quota  
+(D) 
+N° quote 
+per rata 
+annuale 
+(G) 
+Importo rata € 
+(I)=(D) x (G) 
+Spesa su 
+ciascuna 
+rata € 
+(H) 
+Rata erogata 
+netto spese €  
+(L) = (I) - (H) 
+Montante 
+residuo fine 
+anno in 
+numero quote  
+(M)=(E)-(G) 
+1 2.040,00 24,50 102,00 2.499,00 2,00 2.497,00 1.938,00 
+2 1.938,00 24,00 102,00 2.448,00 2,00 2.446,00 1.836,00 
+3 1.836,00 24,60 102,00 2.509,20 2,00 2.507,20 1.734,00 
+4 1.734,00 24,50 102,00 2.499,00 2,00 2.497,00 1.632,00 
+5 1.632,00 25,00 102,00 2.550,00 2,00 2.548,00 1.530,00 
+6 1.530,00 25,10 102,00 2.560,20 2,00 2.558,20 1.428,00 
+7 1.428,00 25,00 102,00 2.550,00 2,00 2.548,00 1.326,00 
+8 1.326,00 25,60 102,00 2.611,20 2,00 2.609,20 1.224,00 
+9 1.224,00 25,90 102,00 2.641,80 2,00 2.639,80 1.122,00 
+10 1.122,00 26,00 102,00 2.652,00 2,00 2.650,00 1.020,00 
+11 1.020,00 26,30 102,00 2.682,60 2,00 2.680,60 918,00 
+12 918,00 26,30 102,00 2.682,60 2,00 2.680,60 816,00 
+13 816,00 27,00 102,00 2.754,00 2,00 2.752,00 714,00 
+14 714,00 26,80 102,00 2.733,60 2,00 2.731,60 612,00 
+15 612,00 27,00 102,00 2.754,00 2,00 2.752,00 510,00 
+16 510,00 27,20 102,00 2.774,40 2,00 2.772,40 408,00 
+17 408,00 27,50 102,00 2.805,00 2,00 2.803,00 306,00 
+18 306,00 27,70 102,00 2.825,40 2,00 2.823,40 204,00 
+19 204,00 27,50 102,00 2.805,00 2,00 2.803,00 102,00 
+20 102,00 28,00 102,00 2.856,00 2,00 2.854,00 - 
+ 
+L'importo in euro della rata erogata varia perché varia il valore della quota, non il numero di quote erogate per 
+rata. 
+ 
+Prelievi liberamente determinabili 
+I prelievi liberamente determinabili sono una prestazione pensionistica che consente all'aderente di scegliere 
+autonomamente, entro i limiti stabiliti dalla normativa, quando prelevare e quanto. 
+Possono essere richiesti nei limiti della somma delle rate, maturate e non riscosse, della rendita a durata definita 
+descritta precedentemente. Il montante residuo, non prelevato, rimane sempre investito nel comparto scelto. 
+ 
+I prelievi e le limitazioni 
+L’erogazione della prestazione avviene su base libera a richiesta dell’Aderente, tramite l’apposito Modulo 
+predisposto dalla Compagnia, per cui, oltre alla porzione di posizione individuale da destinare a tale tipologia di 
+prestazione, si può richiedere un  primo prelievo già al momento della domanda di accesso alla prestazione. 
+L’Aderente ha la facoltà di scegliere l’importo e la tempistica delle erogazioni, fermi i seguenti limiti:  
+• non si può prelevare tutto e subito; l’importo massimo prelevabile in ogni momento è pari alla differenza tra la 
+somma delle rate di rendita a durata definita fino a quel momento maturate e la somma dei prelievi liberi già 
+effettuati. Per la determinazione del calcolo della rata di rendita si rimanda a quanto descritto nella sezione 
+“Come si calcola l'importo delle rate” della precedente sezione relativa alla Rendita a durata definita; 
+• nell'ultimo anno di durata teorica, si può prelevare fino all'intero montante residuo;  
+• la data di riferimento per la determinazione del montante relativo alla posizione dell’Aderente e del limite di 
+importo annuo massimo richiedibile ai fini del primo prelievo  coincide con l’ultima valorizzazione disponibile 
+alla data di accertamento dei requisiti previsti dalla normativa; 
+• l’importo lordo minimo prelevabile è pari a 150 euro; 
+• il primo prelievo è erogato entro il 6° mese successivo la data di richiesta della prestazione, in base al primo 
+valore quota successivo all’accertamento dei requisiti da parte della Compagnia; 
+• I prelievi successivi sono erogati entro il 6° mese successivo alla data di richiesta, al primo valore quota 
+successivo la data di richiesta medesima;  
+• in fase di erogazione della rendita a durata definita, l’investimento sarà allocato, con richiesta esplicita 
+dell’aderente, esclusivamente in un solo comparto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il Mio Domani - Documento sulle rendite 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 9 ===
+Costi per l’esercizio della Prestazione pensionistica 
+I costi sono riportati nel Supplemento della Nota informativa disponibile sul sito della Compagnia.  
+ 
+Rischi da considerare 
+• Rischio di longevità: In caso di sopravvivenza per un numero di anni maggiore rispetto alla durata della 
+rendita, il capitale si esaurirà e non riceverà più alcuna erogazione dopo l’erogazione dell’ultima rata.  
+• Rischio di investimento: il valore delle quote – e quindi l'importo massimo prelevabile in euro – varia in base 
+al rendimento registrato dal comparto scelto. Non esiste un importo garantito, ad eccezione dell’investimento 
+nel comparto Linea TFR, ove è presente una garanzia di restituzione del capitale, e cioè la restituzione dei 
+contributi versati al netto delle spese direttamente a carico dell’aderente. 
+• Rischio di concentrazione temporale: le prestazioni di previdenza complementare potrebbero concentrarsi 
+eccessivamente nella fase iniziale a fronte di una minore copertura disponibile nel restante periodo di 
+pensionamento 
+ 
+Esempio numerico illustrativo  
+Ipotesi al netto delle spese (lordo imposte):  
+• Montante destinato alla prestazione (A):    50.000,00 €  
+• Spesa una tantum applicata all’attivazione della prestazione (B): 20,00 €  
+•  Montante netto spese (C)=(A)-(B):    49.980,00 €  
+• Valore quota iniziale (D):     24,50    
+• Montante netto spese espresso in n° quote (E)=(C)/(D):   2.040,00    
+• Durata della rendita teorica (in anni*) (F):   20 
+• N° quote per ciascuna rata teorica annuale (G)=(E)/(F):  102 
+• Spesa applicata su ogni prelievo (H):    2,00€ 
+ 
+Inizio 
+anno 
+Montante 
+residuo 
+inizio 
+anno  
+in quote 
+(E) 
+Valore 
+quota  
+(D) 
+N° quote 
+prelevabili inizio 
+anno 
+(G) ** 
+N° quote 
+effettivamente 
+prelevate 
+(I) 
+Importo 
+erogato €  
+(L)=(D)x(I) 
+Spesa su 
+ciascun 
+prelievo 
+€ 
+(H) 
+Importo 
+netto 
+erogato €  
+(M)=(L) - 
+(H) 
+Montante 
+residuo 
+fine anno 
+in quote 
+(N)=(E)-(I) 
+1 2.040,00 24,50 102,00 80,00 1.960,00 2,00 1.958,00 1.960,00 
+2 1.960,00 24,00 124,00 100,00 2.400,00 2,00 2.398,00 1.860,00 
+3 1.860,00 24,60 126,00 - - 2,00 - 1.860,00 
+4 1.860,00 24,50 228,00 200,00 4.900,00 2,00 4.898,00 1.660,00 
+5 1.660,00 25,00 130,00 100,00 2.500,00 2,00 2.498,00 1.560,00 
+6 1.560,00 25,10 132,00 - - 2,00 - 1.560,00 
+7 1.560,00 25,00 234,00 150,00 3.750,00 2,00 3.748,00 1.410,00 
+8 1.410,00 25,60 186,00 100,00 2.560,00 2,00 2.558,00 1.310,00 
+9 1.310,00 25,90 188,00 100,00 2.590,00 2,00 2.588,00 1.210,00 
+10 1.210,00 26,00 190,00 100,00 2.600,00 2,00 2.598,00 1.110,00 
+11 1.110,00 26,30 192,00 - - 2,00 - 1.110,00 
+12 1.110,00 26,30 294,00 200,00 5.260,00 2,00 5.258,00 910,00 
+13 910,00 27,00 196,00 100,00 2.700,00 2,00 2.698,00 810,00 
+14 810,00 26,80 198,00 100,00 2.680,00 2,00 2.678,00 710,00 
+15 710,00 27,00 200,00 - - 2,00 - 710,00 
+16 710,00 27,20 302,00 200,00 5.440,00 2,00 5.438,00 510,00 
+17 510,00 27,50 204,00 100,00 2.750,00 2,00 2.748,00 410,00 
+18 410,00 27,70 206,00 200,00 5.540,00 2,00 5.538,00 210,00 
+19 210,00 27,50 108,00 100,00 2.750,00 2,00 2.748,00 110,00 
+20 110,00 28,00 110,00 110,00 3.080,00 2,00 3.078,00 - 
+ 
+  
+ 
+ 
+ 
+        
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 10 ===
+* la durata della rendita teorica corrisponde alla durata di vita media attesa 
+**pari alla somma delle rate teoriche in quote maturate fino all’anno di riferimento cui viene detratta la somma delle 
+quote prelevate fino all’anno precedente a quello di riferimento 
+ 
+4.5 Possibilità di conversione in rendita vitalizia   
+Anche dopo aver scelto una delle nuove tipologie di prestazione, si conserva la facoltà di convertire il montante 
+residuo, ancora in gestione, in una rendita vitalizia. Questa opzione è esercitabile in qualsiasi momento durante la 
+fase di erogazione sia: 
+ 
+• presso il Fondo Pensione Il Mio Domani; 
+• trasferendo il montante residuo a un'altra forma pensionistica complementare, al solo scopo di accedere alle 
+condizioni di rendita vitalizia offerte da quest'ultima. 
+ 
+Il Fondo definisce nel proprio Regolamento le condizioni e le modalità per esercitare questa facoltà.  
+ 
+4.6 Regime fiscale 
+ 
+Le nuove tipologie di prestazione sono qualificate dalla legge come «prestazioni pensionistiche» in capitale. Il 
+regime fiscale applicabile segue pertanto le regole ordinarie previste per le prestazioni pensionistiche 
+complementari in forma di capitale.  
+Le specifiche tecniche sono dettagliate nel Documento sul regime fiscale del Fondo.  
+ 
+4.7 Come richiedere le nuove prestazioni pensionistiche 
+ 
+Per accedere alle nuove prestazioni pensionistiche, è necessario: 
+ 
+1. Verificare di aver maturato i requisiti (pensionamento nel regime obbligatorio e almeno 5/3 anni di 
+partecipazione alla previdenza complementare). 
+2. Leggere attentamente questo documento aggiornato con le nuove tipologie di prestazione pensionistica. 
+3. Compilare il modulo di richiesta “Richiesta Prestazione Pensionistica ”, disponibile presso il Distributore  e sul 
+sito web del Fondo. 
+4. Indicare obbligatoriamente il/i soggetto/i beneficiario/i del montante residuo in caso di decesso.  
+5. Attendere la conferma di presa in carico della richiesta e di accertamento dei requisiti da parte del Fondo. È 
+previsto un periodo transitorio, stabilito dalla Covip, durante il quale le richieste pervenute al Fondo 
+potranno essere sospese fino all’adeguamento dei sistemi interni (termine ultimo 31 dicembre 2026)  
+decorso il quale sarà effettuata la liquidazione delle prestazioni entro i termini previsti da Covip. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 11 ===
+TABELLE 
+Tabelle dei coefficienti di conversione in rendita vitalizia 
+ 
+ 
+ 
+Regola dell’ 
+Anno di nascita 
+age-shifting 
+Correzione dell’età 
+dal 1928 al 1938 3 
+dal 1939 al 1947 2 
+dal 1948 al 1957 1 
+dal 1958 al 1966 0 
+dal 1967 al 1977 -1 
+dal 1978 al 1989 -2 
+dal 1990 al 2001 -3 
+dal 2002 al 2014 -4 
+dal 2015 al 2020 -5 
+dal 2021 in poi -6 
+ 
+Per età assicurativa si intende l’età compiuta all’ultimo compleanno se dalla data di ultimo compleanno alla data 
+di decorrenza della rendita son trascorsi meno di sei mesi, altrimenti è quella compiuta all’ultimo compleanno 
+incrementata di uno. 
+L’età corretta indicata nelle tabelle seguenti quindi, si ottiene correggendo l’età assicurativa raggiunta dell’Aderente 
+alla data di decorrenza della rendita in base all’anno di nascita, secondo quanto indicato nella tabella dell’age -
+shifting di riferimento. 
+ 
+Nel caso di rendita reversibile, l’età del Reversionario, utilizzata per l’individuazione del coefficiente da applicare, 
+dovrà essere modificata in relazione all’anno di nascita, con il medesimo criterio sopra descritto per l’Assicurato.  
+ 
+ 
+Il Mio Domani – Documento sulle rendite 
+TABELLA DI AGE SHIFTING RIFERITA ALLA BASE DEMOGRAFICA A62D/A
+=== pagina 12 ===
+A RENDITA VITALIZIA RIVALUTABILE 
+Coefficienti da applicare per la determinazione dell’importo annuo della rendita -TAR 25IA/0 
+ 
+Età corretta 
+dell’Aderente 
+Rateazione 
+annuale 
+Rateazione 
+semestrale 
+Rateazione 
+trimestrale 
+Rateazione 
+mensile 
+45 22,63 22,50 22,44 22,39 
+46 23,14 23,01 22,94 22,90 
+47 23,68 23,53 23,46 23,42 
+48 24,23 24,09 24,01 23,96 
+49 24,82 24,66 24,58 24,53 
+50 25,43 25,27 25,18 25,13 
+51 26,07 25,90 25,81 25,76 
+52 26,74 26,56 26,47 26,41 
+53 27,45 27,26 27,17 27,10 
+54 28,19 27,99 27,89 27,83 
+55 28,97 28,76 28,66 28,59 
+56 29,80 29,57 29,46 29,39 
+57 30,66 30,43 30,31 30,23 
+58 31,58 31,33 31,21 31,13 
+59 32,56 32,29 32,16 32,07 
+60 33,59 33,30 33,16 33,07 
+61 34,68 34,38 34,23 34,13 
+62 35,84 35,52 35,36 35,26 
+63 37,08 36,74 36,57 36,45 
+64 38,40 38,03 37,84 37,72 
+65 39,80 39,40 39,21 39,08 
+66 41,30 40,87 40,66 40,52 
+67 42,91 42,45 42,22 42,07 
+68 44,64 44,14 43,90 43,74 
+69 46,51 45,97 45,70 45,52 
+70 48,52 47,93 47,64 47,45 
+71 50,70 50,06 49,74 49,53 
+72 53,06 52,36 52,01 51,79 
+73 55,62 54,85 54,47 54,22 
+74 58,40 57,55 57,14 56,86 
+75 61,43 60,49 60,03 59,73 
+76 64,74 63,69 63,19 62,85 
+77 68,35 67,19 66,63 66,25 
+78 72,32 71,02 70,38 69,97 
+79 76,65 75,19 74,48 74,01 
+80 81,38 79,74 78,94 78,42 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 13 ===
+B RENDITA VITALIZIA rivalutabile con controassicurazione all’80% 
+Coefficienti da applicare per la determinazione dell’importo annuo della rendita - TAR 25CA/0 
+ 
+ 
+Età corretta 
+dell’Aderente 
+Rateazione 
+annuale 
+Rateazione 
+semestrale 
+Rateazione 
+trimestrale 
+Rateazione 
+mensile 
+45 21,67 21,56 21,51 21,47 
+46 22,13 22,01 21,96 21,92 
+47 22,61 22,49 22,43 22,38 
+48 23,10 22,98 22,91 22,87 
+49 23,62 23,49 23,43 23,39 
+50 24,17 24,03 23,96 23,91 
+51 24,73 24,58 24,51 24,46 
+52 25,32 25,17 25,09 25,04 
+53 25,94 25,78 25,71 25,65 
+54 26,59 26,42 26,34 26,28 
+55 27,26 27,09 27,00 26,94 
+56 27,97 27,79 27,70 27,64 
+57 28,72 28,53 28,44 28,38 
+58 29,51 29,30 29,20 29,14 
+59 30,33 30,12 30,01 29,94 
+60 31,20 30,97 30,86 30,79 
+61 32,12 31,89 31,77 31,69 
+62 33,09 32,84 32,71 32,63 
+63 34,11 33,84 33,71 33,62 
+64 35,20 34,91 34,80 34,70 
+65 36,35 36,05 35,91 35,81 
+66 37,57 37,25 37,09 36,98 
+67 38,86 38,52 38,35 38,24 
+68 40,25 39,90 39,72 39,60 
+69 41,72 41,33 41,14 41,01 
+70 43,29 42,87 42,66 42,52 
+71 44,98 44,52 44,34 44,20 
+72 46,78 46,30 46,07 45,91 
+73 48,70 48,18 47,92 47,75 
+74 50,78 50,21 50,01 49,83 
+75 53,02 52,41 52,11 51,92 
+76 55,39 54,73 54,40 54,19 
+77 57,98 57,26 57,00 56,77 
+78 60,77 59,99 59,61 59,36 
+79 63,75 62,89 62,47 62,19 
+80 67,02 66,13 65,68 65,38 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 14 ===
+C RENDITA VITALIZIA REVERSIBILE - FIGURE TIPO  
+Nelle tabelle sottostanti sono riportati a titolo esemplificativo i coefficienti di conversione relativi ad alcune 
+figure tipo con riferimento a percentuali di reversibilità sia del 100% che del 50% e ad una rateazione 
+annuale e mensile della rendita. 
+ 
+ 
+Reversibilità del 100% 
+ 
+Rateazione annuale Età modificata del Reversionario  
+60 65 70 
+65 30,36 33,21 35,64 
+Età modificata dell’Assicurato    
+70 31,69 35,64 39,57 
+ 
+Rateazione mensile Età modificata del Reversionario  
+60 65 70 
+65 29,94 32,71 35,06 
+Età modificata dell’Assicurato    
+70 31,23 35,06 38,85 
+ 
+Reversibilità del 50% 
+ 
+Rateazione annuale Età modificata del Reversionario  
+60 65 70 
+65 34,45 36,21 37,60 
+Età modificata dell’Assicurato    
+70 38,34 41,09 43,59 
+ 
+Rateazione mensile Età modificata del Reversionario  
+60 65 70 
+65 33,90 35,61 36,96 
+Età modificata dell’Assicurato    
+70 37,67 40,33 42,72 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il Mio Domani - Documento sulle rendite
+=== pagina 15 ===
+Anni di speranza di vita per le nuove prestazioni alternative alla rendita 
+vitalizia richieste fino al 31.12.2026 
+ 
+Età Speranza di vita popolazione (anni interi)  Età Speranza di vita popolazione (anni interi) 
+50 34  92 3 
+51 33  93 3 
+52 32  94 3 
+53 31  95 2 
+54 30  96 2 
+55 29  97 2 
+56 28  98 2 
+57 27  99 2 
+58 26  100 1 
+59 26  101 1 
+60 25    
+61 24    
+62 23    
+63 22    
+64 21    
+65 20    
+66 20    
+67 19    
+68 18    
+69 17    
+70 16    
+71 15    
+72 15    
+73 14    
+74 13    
+75 12    
+76 12    
+77 11    
+78 10    
+79 10    
+80 9    
+81 8    
+82 8    
+83 7    
+84 7    
+85 6    
+86 6    
+87 5    
+88 5    
+89 4    
+90 4    
+91 4    
+ 
+ 
+ 
+Il Mio Domani - Documento sulle rendite

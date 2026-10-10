@@ -1,0 +1,374 @@
+# Fondo: FONDO PENSIONE APERTO CREDIT AGRICOLE VITA (credit-agricole-vita)
+# Documento: Documento sulle rendite – Documento sulle Rendite
+# Fonte: https://www.ca-vita.it/media/filer_public/2f/ef/2fef7010-3cd6-48e1-a572-4841ba4fd387/doc_rendite_fpa_2022_05.pdf
+# Citato in: https://www.ca-vita.it/fondo-pensione-e-previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: b6f261f0990e101c0e842840d4fa991f1ee965b23b1040b0a545e5cf220f5e53
+# Pagine: 7
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sulle Rendite – Fondo Pensione Aperto 
+pag. 1 di 7  
+  
+ 
+Sede legale:  
+Via Università 1, 43121 Parma 
+Sede Amministrativa:  
+Corso di Porta Vigentina, 9 
+20122 Milano 
+FONDO PENSIONE APERTO  
+Tel: 800 973015;  
+n. dall'estero 0230301025 
+CRÉDIT AGRICOLE VITA S.P.A.  SOCIETÀ APPARTENENTE AL GRUPPO CRÉDIT AGRICOLE 
+ASSURANCE S.A. e Capogruppo del “Gruppo Crédit Agricole Assurances Italia”,  
+iscritto all’Albo delle società capogruppo al n. 057 
+ 
+Iscritto all’Albo tenuto dalla COVIP con il n. 3057 
+ 
+informazioni@ca-vita.it 
+informazioni.ca-
+vita@legalmail.it 
+Istituito in Italia 
+ 
+www.ca-vita.it 
+	
+	
+	
+	
+	
+DOCUMENTO	SULLE	RENDITE		
+ 
+  CONDIZIONI E MODALITÀ DI EROGAZIONE DELLE RENDITE  
+ 
+ 
+Il presente documento illustra le condizioni e le modalità di erogazione delle rendite del 
+fondo pensione aperto “Fondo Pensione Aperto Crédit Agricole Vita” offerto da  Crédit 
+Agricole Vita S.p.A., Società Unipersonale, con sede legale in Parma, Via Università, 1, 
+iscritta presso il Registro delle Imprese di Parma, Codice Fiscale n. 09479920150 e Partita 
+IVA n.02886700349, capitale sociale di Euro 236.350.000,00 i.v., iscritta all’Albo delle 
+Imprese di Assicurazione al n. 1.00090, Capogruppo del “Gruppo Crédit Agricole 
+Assurances Italia”, iscritto all'Albo delle società capogruppo al n. 057, soggetta a direzione 
+e coordinamento di Crédit Agricole Assurances S.A., in persona dell’Amministratore 
+Delegato, Marco Di Guida, munito di idonei poteri (nel seguito la “Società” o la 
+“Compagnia”). 
+ 
+In particolare, il presente documento, reperibile nell’area pubblica del sito web del 
+Fondo Pensione Aperto , contiene informazioni ulteriori rispetto a quanto indicato 
+nel regolamento del fondo e nella nota informativa, nonch é  aggiornamenti 
+riguardanti la fase di erogazione delle rendite e i relativi costi di erogazione applicati. 
+ 
+ 
+Art. 1 Tipologia di Rendita 
+ 
+A seguito dell’esercizio del diritto alla prestazione pensionistica, al Beneficiario è erogata 
+una rendita vitalizia immediata, rivalutabile annualmente, calcolata in base alla posizione 
+individuale maturata al termine della fase di accumulo al netto della eventuale quota di 
+prestazione da erogare sotto forma di capitale. 
+La rendita può assumere, a scelta dell’Aderente al Fondo, le seguenti forme: 
+1. rendita vitalizia immediata, il cui importo è variabile in base all’età dell’Aderente ed 
+alla rateazione della rendita stessa. La rendita sarà pagata all’Aderente finché in 
+vita. 
+2. rendita vitalizia immediata su due teste reversibile, il cui importo è variabile in base 
+all’etàdell’Aderente, e all’età del Reversionario prescelto, alla misura della 
+reversibilità, ed alla rateazione della rendita stessa. La rendita sarà pagata 
+all’Aderente finché in vita e, dopo il decesso di quest’ultimo, vita natural durante 
+del sopravvivente (Reversionario) designato.  
+3. rendita certa per 5 o 10 anni, a scelta dell’Aderente, e successivamente vitalizia, il 
+cui importo è variabile in base all’età dell’Aderente ed alla rateazione della rendita 
+stessa. La rendita sarà pagata all’Aderente finché in vita. Qualora il decesso del 
+medesimo avvenga entro il termine prescelto (periodo di certezza), la rendita sarà 
+pagata alla persona da lui designata per il periodo rimanente del termine prescelto.
+=== pagina 2 ===
+Documento sulle Rendite – Fondo Pensione Aperto 
+pag. 2 di 7  
+Sarà cura dell’Aderente indicare, al momento dell’inserimento in assicurazione, i dati 
+identificativi dell’eventuale Reversionario con la percentuale di reversibilità o il beneficiario 
+designato in caso di rendita certa.  
+ 
+L’importo annuo iniziale di ciascuna rendita si ottiene dividendo quanto versato alla 
+Compagnia - al netto delle eventuali imposte - per il tasso di conversione in rendita 
+riportato nell’Allegato I “Coefficienti di conversione in rendita”), in funzione dell’età 
+dell’Aderente, opportunamente rettificata come indicato nell’allegato stesso, del 
+frazionamento scelto e della tipologia di rendita prescelta.  
+In caso di rendita reversibile, il suddetto tasso viene determinato anche con riferimento 
+all’età, opportunamente rettificata come indicato nell’allegato, della testa Revisionaria, 
+nonché alla percentuale di reversibilità della rendita stessa.  
+ 
+Le età in anni interi dell’Aderente e dell’eventuale Reversionario sono calcolate alla data 
+di decorrenza della rendita, considerando come unità la frazione d’anno di età uguale o 
+superiore a 6 mesi compiuti.  
+ 
+La periodicità dei pagamenti per ogni forma di rendita può essere liberamente scelta tra 
+annuale, semestrale, trimestrale o mensile e non può essere modificata durante il periodo 
+di erogazione della stessa.  
+ 
+La rendita iniziale sarà rivalutata a ciascuna ricorrenza annuale della rendita secondo 
+quanto previsto nella clausola di rivalutazione di cui al punto successivo. 
+ 
+ 
+Art. 2 Clausola di rivalutazione 
+Il presente contratto è collegato ad una speciale gestione finanziaria, denominata “Crédit 
+Agricole Vita”, separata dalle altre attività della Società e disciplinata da apposito          
+Regolamento reperibile sul sito : https://www.ca-vita.it/downloads/fascicoli-
+informativi/Regolamento-GS-Credit-Agricole-Vita.pdf . 
+Il risultato della gestione ed il tasso di rendimento ottenuto sono annualmente certificati 
+da una Società di Revisione Contabile iscritta all’albo cui all’Art.161 del D. Lgs 58/98. 
+ 
+A) misura della rivalutazione 
+La misura annua di rivalutazione si ottiene moltiplicando il tasso percentuale di 
+rendimento medio conseguito sulle attività assegnate alla Gestione Separata “Crédit 
+Agricole Vita”, le cui modalità di calcolo sono riportate nel regolamento della Gestione 
+Separata “Crédit Agricole Vita” relativo al terzo mese precedente la data di calcolo, per 
+un’aliquota di partecipazione pari al 90%. 
+ 
+B) rivalutazione della rendita assicurata 
+Ad ogni ricorrenza annuale della rendita, la rendita in vigore nel periodo annuale 
+precedente viene aumentata della misura di rivalutazione fissata a norma della 
+precedente lettera A). 
+ 
+Art. 3 Pagamento delle rendite 
+Le rate di rendita vengono erogate dalla Compagnia nel giorno di loro scadenza in rate 
+annualiposticipate. 
+Beneficiari delle prestazioni di rendita sono i singoli Assicurati. È data facoltà, al momento 
+della richiesta della prestazione, di modificare la rateazione della rendita stessa in rate 
+semestrali, trimestrali o mensili posticipate; in tal caso, l’importo della rata di rendita sub 
+annuale si determina dividendo l’importo maturato per il tasso relativo all’età raggiunta al 
+pensionamento e dalla rateazione prescelta, e dividendo il risultato ottenuto per il numero 
+di rate previsto nell’anno. Annualmente verrà richiesta l’esibizione di un valido documento 
+comprovante l’esistenza in vita dell’Aderente. 
+ 
+Art. 4 Tassi per la conversione del  capitale assicurato contributivo in rendita 
+I tassi da utilizzare per il calcolo della rendita vitalizia immediata e della rendita certa 
+sono riportati nelle tabelle seguenti dell’Allegato I. 
+Il tasso da applicare per la determinazione dell’importo annuo della rendita vitalizia 
+immediata e della rendita certa si ricava dalle tabelle seguenti in base all’età, all’anno di 
+nascita dell’Aderente  ed alla rateazione della rendita.
+=== pagina 3 ===
+Documento sulle Rendite – Fondo Pensione Aperto 
+pag. 3 di 7  
+In base alla tavola di mortalità adottata ( Allegato I) “Base demografica per la 
+sopravvivenza dei percettori di rendita”), l’età computabile ai fini assicurativi è corretta in 
+base all’anno di nascita dell’Aderente, come evidenziato nella tabella Age -Shifting 
+dell’Allegato I. 
+L’età computabile ai fini del calcolo della rendita è espressa in anni e mesi. Per le età 
+non intere, il tasso si ottiene per interpolazione lineare dei tassi corrispondenti alle età 
+intere ottenute approssimando rispettivamente per difetto e per eccesso l’età corretta in 
+anni e mesi. 
+ 
+Art. 5 Coefficienti di Conversione 
+I coefficienti di conversione sono determinati tenendo conto della speranza di vita 
+residua dell’Aderente e di un tasso di attualizzazione (tasso tecnico) fissato nella misura 
+dello 0%; pertanto, la rendita vitalizia è sin dall’inizio determinata con la garanzia di un 
+rendimento minimo dello 0%. 
+Sulla base delle rilevazioni (osservazioni sugli andamenti) demografiche e delle 
+condizioni finanziarie, i suddetti coefficienti di conversione possono essere 
+periodicamente rideterminati: detta rideterminazione non avrà effetto sulle rendite già in 
+corso di erogazione. 
+I tassi e la relativa documentazione da utilizzare per il calcolo d ella rendita vitalizia 
+immediata su due teste reversibile sono riportati nell’Allegato I.  
+ 
+Art. 6 Costi applicati sulla rendita 
+Spese per il servizio di erogazione delle rendite pari allo 0,8%  della rendita annua 
+maggiorato di tante volte lo 0,1% per quante sono le rate di rendita dovute nell’anno. 
+Retrocessione all’Aderente pari al 90% del rendimento annuo della Gestione Separata 
+“Crédit Agricole Vita”, fermo restando il trattenimento da parte della Compagnia di 
+almeno un punto percentuale di rendimento.
+=== pagina 4 ===
+Documento sulle Rendite – Fondo Pensione Aperto 
+pag. 4 di 7  
+ 
+ 
+ 
+ALLEGATO I 
+  Coefficienti di conversione in Rendita  
+Base demografica per la sopravvivenza dei percettori di rendita 
+La legge di sopravvivenza individuata dalla tavola demografica A62 Immediata (A62 I), 
+con age shifting riportata nelle seguenti pagine, indifferenziata per sesso, è stata 
+costruita ipotizzando una popolazione composta per il 60% da maschi e per il 40% da 
+donne. 
+ 
+Age-Shifting 
+Le tavole demografiche A62I comportano l’utilizzo dello strumento di “age-shifting”, che 
+consiste nel rettificare l’età dell’ Aderente, calcolata in anni e mesi compiuti, 
+invecchiandola o ringiovanendola sommando algebricamente lo “shift” annuo 
+corrispondente alla data di nascita contenuto nella Tabella di age-shifting (sotto 
+riportata). 
+Il coefficiente di conversione per l'età in anni e mesi, rettificata come sopra, è ottenuto 
+per interpolazione lineare dei coefficienti relativi alle età intere superiore e inferiore 
+rispetto all'età rettificata stessa. 
+ 
+ 
+Anno di nascita Age shift 
+Prima del 1907 7 
+Dal 1908 al 1917 6 
+Dal 1918 al 1927 5 
+Dal 1928 al 1938 3 
+Dal 1939 al 1947 2 
+Dal 1948 al 1957 1 
+Dal 1958 al 1966 0 
+Dal 1967 al 1977 -1 
+Dal 1978 al 1989 -2 
+Dal 1990 al 2001 -3 
+Dal 2002 al 2014 -4 
+Dal 2015 al 2020 -5 
+Dal 2021 -6
+=== pagina 5 ===
+Documento sulle Rendite – Fondo Pensione Aperto 
+pag. 5 di 7  
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA A PREMIO UNICO E  RIVALUTAZIONE ANNUA 
+DELLA RENDITA Aderente di entrambi i sessi 
+Rendita annua assicurata per ogni 1.000 Euro di posizione individuale da convertire 
+Ipotesi demografica A62I Indifferenziata per sesso - tasso tecnico 0% 
+ 
+Età di calcolo corretta 
+dell’aderente 
+Rateazione della rendita 
+Annuale Semestrale Trimestrale Mensile 
+40 20,41 20,29 20,20 20,00 
+41 20,83 20,70 20,60 20,41 
+42 21,26 21,13 21,03 20,83 
+43 21,71 21,57 21,47 21,26 
+44 22,18 22,04 21,93 21,72 
+45 22,67 22,52 22,41 22,19 
+46 23,18 23,02 22,91 22,69 
+47 23,72 23,55 23,44 23,21 
+48 24,27 24,10 23,98 23,74 
+49 24,86 24,68 24,55 24,31 
+50 25,47 25,28 25,15 24,90 
+51 26,11 25,91 25,77 25,52 
+52 26,78 26,57 26,43 26,16 
+53 27,48 27,27 27,12 26,84 
+54 28,22 28,00 27,84 27,56 
+55 29,00 28,76 28,60 28,31 
+56 29,82 29,57 29,40 29,10 
+57 30,69 30,42 30,25 29,93 
+58 31,60 31,32 31,14 30,81 
+59 32,57 32,28 32,08 31,74 
+60 33,60 33,29 33,08 32,73 
+61 34,70 34,36 34,14 33,78 
+62 35,86 35,50 35,27 34,89 
+63 37,09 36,71 36,47 36,07 
+64 38,40 38,00 37,74 37,33 
+65 39,81 39,37 39,10 38,67 
+66 41,32 40,85 40,56 40,11 
+67 42,94 42,44 42,13 41,65 
+68 44,68 44,14 43,81 43,31 
+69 46,57 45,98 45,62 45,09 
+70 48,60 47,97 47,58 47,02 
+71 50,81 50,12 49,71 49,11 
+72 53,21 52,46 52,01 51,38 
+73 55,82 54,99 54,51 53,83 
+74 58,67 57,76 57,22 56,50 
+75 61,77 60,77 60,18 59,41 
+76 65,17 64,05 63,42 62,58 
+77 68,90 67,66 66,95 66,05 
+78 73,00 71,61 70,83 69,86 
+79 77,50 75,94 75,07 74,01 
+80 82,43 80,68 79,70 78,55
+=== pagina 6 ===
+Documento sulle Rendite – Fondo Pensione Aperto 
+pag. 6 di 7  
+ASSICURAZIONE DI RENDITA CERTA PER 5 ANNI E SUCESSIVAMENTE VITALIZIA A PREMIO 
+UNICO E RIVALUTAZIONE ANNUA DELLA RENDITA PER Aderente di entrambi i sessi 
+Rendita annua assicurata per ogni 1.000 Euro di posizione individuale da convertire 
+Ipotesi demografica A62I Indifferenziata per sesso - tasso tecnico 0% 
+ 
+Età di calcolo corretta 
+dell’aderente 
+Rateazione della rendita 
+Annuale Semestrale Trimestrale Mensile 
+40 20,41 20,28 20,19 20,00 
+41 20,82 20,70 20,60 20,40 
+42 21,26 21,12 21,03 20,82 
+43 21,71 21,57 21,47 21,26 
+44 22,18 22,03 21,93 21,72 
+45 22,66 22,51 22,41 22,19 
+46 23,17 23,02 22,91 22,68 
+47 23,71 23,54 23,43 23,20 
+48 24,26 24,09 23,97 23,74 
+49 24,84 24,67 24,54 24,30 
+50 25,45 25,27 25,14 24,89 
+51 26,09 25,90 25,76 25,50 
+52 26,76 26,56 26,42 26,15 
+53 27,46 27,25 27,10 26,83 
+54 28,20 27,98 27,82 27,54 
+55 28,98 28,74 28,58 28,29 
+56 29,79 29,55 29,38 29,08 
+57 30,66 30,39 30,22 29,91 
+58 31,57 31,29 31,11 30,78 
+59 32,53 32,24 32,05 31,71 
+60 33,56 33,25 33,04 32,69 
+61 34,64 34,31 34,10 33,74 
+62 35,79 35,44 35,22 34,84 
+63 37,02 36,64 36,41 36,01 
+64 38,32 37,92 37,67 37,26 
+65 39,71 39,29 39,02 38,59 
+66 41,20 40,75 40,47 40,02 
+67 42,80 42,32 42,01 41,54 
+68 44,52 44,00 43,68 43,18 
+69 46,38 45,81 45,47 44,94 
+70 48,38 47,76 47,39 46,84 
+71 50,53 49,87 49,47 48,89 
+72 52,87 52,15 51,72 51,10 
+73 55,39 54,61 54,15 53,49 
+74 58,12 57,27 56,77 56,08 
+75 61,08 60,16 59,62 58,87 
+76 64,29 63,28 62,69 61,90 
+77 67,76 66,66 66,02 65,17 
+78 71,52 70,31 69,62 68,71 
+79 75,57 74,25 73,49 72,52 
+80 79,92 78,48 77,66 76,62
+=== pagina 7 ===
+Documento sulle Rendite – Fondo Pensione Aperto 
+pag. 7 di 7  
+ASSICURAZIONE DI RENDITA CERTA PER 10 ANNI E SUCESSIVAMENTE VITALIZIA A PREMIO 
+UNICO E RIVALUTAZIONE ANNUA DELLA RENDITA PER Aderente di entrambi i sessi 
+Rendita annua assicurata per ogni 1.000 Euro di posizione individuale da convertire 
+Ipotesi demografica A62I Indifferenziata per sesso - tasso tecnico 0% 
+ 
+Età di calcolo corretta 
+dell’aderente 
+Rateazione della rendita 
+Annuale Semestrale Trimestrale Mensile 
+40 20,40 20,27 20,18 19,99 
+41 20,81 20,68 20,59 20,39 
+42 21,24 21,11 21,01 20,81 
+43 21,69 21,55 21,45 21,24 
+44 22,16 22,01 21,91 21,70 
+45 22,64 22,49 22,39 22,17 
+46 23,15 22,99 22,88 22,66 
+47 23,68 23,52 23,40 23,17 
+48 24,23 24,06 23,94 23,71 
+49 24,81 24,63 24,51 24,27 
+50 25,41 25,23 25,10 24,85 
+51 26,05 25,85 25,72 25,46 
+52 26,71 26,51 26,37 26,10 
+53 27,40 27,19 27,05 26,78 
+54 28,13 27,91 27,76 27,48 
+55 28,90 28,67 28,51 28,22 
+56 29,71 29,46 29,30 29,00 
+57 30,56 30,30 30,13 29,82 
+58 31,46 31,18 31,00 30,68 
+59 32,40 32,12 31,93 31,60 
+60 33,41 33,10 32,91 32,56 
+61 34,47 34,15 33,94 33,58 
+62 35,59 35,25 35,04 34,66 
+63 36,79 36,43 36,20 35,81 
+64 38,05 37,67 37,43 37,02 
+65 39,40 38,99 38,73 38,31 
+66 40,83 40,40 40,13 39,68 
+67 42,36 41,90 41,61 41,15 
+68 43,98 43,49 43,19 42,71 
+69 45,72 45,20 44,87 44,37 
+70 47,57 47,01 46,67 46,14 
+71 49,53 48,94 48,58 48,02 
+72 51,62 50,99 50,61 50,02 
+73 53,83 53,16 52,75 52,14 
+74 56,16 55,45 55,02 54,38 
+75 58,61 57,86 57,41 56,74 
+76 61,17 60,38 59,91 59,21 
+77 63,82 63,00 62,51 61,77 
+78 66,55 65,70 65,18 64,42 
+79 69,31 68,44 67,91 67,12 
+80 72,08 71,20 70,66 69,84

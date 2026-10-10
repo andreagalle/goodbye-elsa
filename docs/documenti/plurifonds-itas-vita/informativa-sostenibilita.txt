@@ -1,0 +1,227 @@
+# Fondo: PLURIFONDS IL FONDO PENSIONE APERTO DI ITAS VITA (plurifonds-itas-vita)
+# Documento: Nota informativa – Appendice Informativa sulla sostenibilità – COMPARTO AEQUITAS - INFORMATIVA WEB SULLA SOSTENIBILITÀ
+# Fonte: https://www.gruppoitas.it/documents/20121/0/V.01%202023.03_ISFDR_Informativa%20Web%20-%20Art.8_Aequitas_vfin.pdf/d2a63c29-d1ef-c91a-4ff0-58cafacd3058
+# Citato in: https://www.gruppoitas.it/it/prodotti/fondo-pensione-plurifonds
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 8ce30b449f3b893393d9c4d6bc08276433b86b458dd7368e4d45fb9f41450cc3
+# Pagine: 6
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+ 
+Informativa ex Art. 10 Regolamento (UE) 2019/2088 – SFDR 
+Trasparenza della promozione delle caratteristiche ambientali o sociali sui siti web 
+V.01 – 03/2023 
+Fondo Pensione Aperto Plurifonds 
+Comparto Bilanciato AequITAS 
+ 
+A. Sintesi 
+Il comparto Bilanciato AequITAS del Fondo Pensione Aperto Plurifonds  (di seguito il 
+“comparto”) promuove caratteristiche ambientali e sociali ma non ha nessun obiettivo di 
+investimento sostenibile. La promozione di tal i caratteristiche, nonché di pratiche di buona 
+governance, lo categorizza quale prodotto ex art. 8 SFDR.  
+Le caratteristiche di cui sopra vengono classificate secondo i tre pilastri Environmental, Social 
+e Governance (di seguito “ESG”) e valutate secondo u no score ESG, fornito da un Advisor 
+specializzato (di seguito “ Advisor”) e calcolato dallo stesso secondo una metodologia 
+proprietaria, su dati forniti da provider esterni. Nello specifico, viene attribuito un punteggio 
+percentile confrontando le performance ambientali del singolo emittente oggetto di analisi con 
+quelle dell’intero universo investibile, e attribuendo lo score secondo una scala di valutazione 
+che va da 0 a 100. Tale valore percentile viene, successivamente, tradotto in uno score finale 
+che va da A a D, in base al quartile di appartenenza. 
+La metodologia prevede alcune esclusioni mirate al fine di definire l’universo investibile tramite 
+l’applicazione di criteri di esclusione maggiormente dettagliati nella sezione successiva 
+dedicata alla strategia di investimento.  
+In aggiunta, sempre ai fini della definizione dell’universo investibile, viene adottato un 
+approccio “best in class” , che privilegia gli emittenti con uno score ESG più alto all’interno 
+dell’universo investibile o della classe di attività di riferimento. 
+A tutela degli investitori e del capitale investito, sono effettuate frequenti attività di 
+monitoraggio, oltre che dall’Advisor, anche da un Provider specializzato al fine di verificare il 
+continuo allineamento rispetto alle caratteristiche ambientali, sociali e di governance 
+promosse dal comparto e la corretta applicazione della Policy Investimenti Responsabili di 
+ITAS Vita. Per maggiori dettagli in merito si rimanda alla sezione dedicata (cfr. F. Monitoraggio 
+delle caratteristiche ambientali o sociali). Inoltre, si specifica che, per garantire coerenza con 
+la documentazione prodotta dall’organizzazione e descrivere con chiarezza il processo di 
+investimento e i soggetti coinvolti, nel presente documento il termine Provider sta ad indicare 
+l’Advisor ESG a cui fa riferimento la Policy Investimenti Responsabili.  
+ITAS Vita integra le proprie scelte di business con criteri finalizzati ad un agire responsabil e 
+nei confronti dei suoi stakeholder e delle generazioni future. Questa predisposizione si traduce 
+in azioni improntate alla sostenibilità lungo tutta la catena del valore. Ciò nonostante, ad oggi, 
+non prevede un processo strutturato di due diligence dei gestori e dei fondi sottostanti.
+=== pagina 2 ===
+2 
+ 
+Il comparto prevede l’adozione di politiche di impegno dirette durante la gestione 
+dell’investimento, attraverso l’integrazione dei fattori ESG nell'analisi e nei processi 
+decisionali.  
+Infine, non è stato individuato alcun  benchmark di riferimento per determinare il 
+raggiungimento delle caratteristiche ambientali e/o sociali promosse dal comparto. 
+ 
+B. Nessun obiettivo di investimento sostenibile 
+Il comparto promuove caratteristiche ambientali o sociali, ma non ha come obiettiv o un 
+investimento sostenibile. 
+  
+C. Caratteristiche ambientali o sociali del prodotto finanziario 
+Il comparto AequITAS promuove caratteristiche ambientali e sociali in linea con i valori e la 
+strategia di investimento responsabile promossa da ITAS Vita. In ag giunta, oltre a fattori 
+ambientali e sociali, il prodotto intende promuovere pratiche di buona governance.  
+Suddette caratteristiche vengono riflesse dagli indicatori e dalle tematiche considerate al fine 
+del calcolo dello score ESG secondo la metodologia proprietaria sviluppata dall’Advisor a cui 
+si affida ITAS Vita. Di seguito viene riportata una sintesi delle caratteristiche promosse dal 
+comparto raggruppate secondo il pilastro di riferimento (i.e. Environmental, Social, e 
+Governance): 
+● tutela dell’ambiente attraverso il controllo degli impatti diretti ed indiretti che le attività 
+economiche possono avere, ad esempio, in termini di emissioni di gas a effetto serra, 
+efficienza energetica e gestione delle risorse idriche;  
+● rispetto dei diritti umani, dei dir itti e delle condizioni dei lavoratori, della diversità, dei 
+minori e tutto quanto attiene alla sfera del rispetto della persona; 
+● promozione e adozione di strutture di governance solide con un adeguato livello di 
+indipendenza dei vertici di governo, al fine di implementare una corretta strategia ESG 
+indirizzata verso lo sviluppo sostenibile e un'adeguata compliance fiscale ed etica. 
+ 
+ 
+D. Strategia di investimento 
+Il comparto ha come obiettivo l’incremento graduale del capitale investito tramite investimenti 
+in società che rispettino le caratteristiche ambientali, sociali e di governance descritte nella 
+sezione C.  
+Gli emittenti vengono selezionati all’interno dell’universo investibile, la cui definizione avviene 
+da parte dell’Advisor sulla base di dati e inform azioni fornite da provider specializzati nella 
+valutazione sostenibile degli emittenti, al fine di garantire il massimo controllo e monitoraggio 
+delle tematiche ambientali e sociali. Successivamente, l’Advisor valuta gli emittenti sulla base 
+della metodologia proprietaria, che si sostanzia nella definizione di uno score ESG finale.  
+Nello specifico, la strategia di investimento si compone delle seguenti fasi principali:
+=== pagina 3 ===
+3 
+ 
+ 
+Esclusione 
+Esclusioni settoriali e mirate 
+Sono escluse dall’universo investibile le società coinvolte in controversie o attività che non 
+permettono il rispetto delle caratteristiche ambientali e sociali sopra identificate. Altro criterio 
+di screening negativo che viene adottato prevede l’esclusione di quei paesi in cui non vengono 
+rispettati i diritti civili, politici e di libertà di espressione dei cittadini, oltre che tutti i paesi in cui 
+vige la pena di morte.  
+Per ciò che concerne le controversie causa di esclusione si trovano, tra le altre, le seguenti: 
+a) impatti negativi sulla biodiversità o sfruttamento di ecosistemi sensibili;  
+b) inquinamento del suolo o delle acque;  
+c) problemi ambientali nella catena di fornitura;  
+d) violazione dei diritti umani fondamentali, coinvolgimento in trattamenti crudeli, inumani 
+o degradanti;  
+e) discriminazione nell'occupazione, nelle condizioni di lavoro e per genere, 
+razza/etnia/nazionalità, contesto sociale, religione, orientamento sessuale, 
+responsabilità familiari (inclusa  gravidanza), disabilità, opinioni politiche, età, 
+condizioni mediche sensibili, appartenenza o attività sindacale; 
+ 
+Screening positivo basato sullo score ESG 
+Gli emittenti che hanno superato la prima fase di screening vengono, successivamente, 
+valutati rispetto alle caratteristiche ambientali e sociali definite precedentemente, sulla base 
+di cui viene attribuito loro uno score ESG e, attraverso un approccio “best in class”, selezionati 
+quelli che presentano il punteggio più alto al fine di garantire il massimo livello di sostenibilità 
+dell’universo investito. 
+ 
+Engagement 
+In aggiunta alle attività di cui sopra, è prevista la possibilità di attuare attività di engagement 
+con l’obiettivo di monitorare e sviluppare un dialogo continuo con le società incluse 
+nell’universo investibile.  
+ 
+Prassi di buona governance 
+Nell’applicazione della strategia di investimento, particolare rilievo viene attribuito alle prassi 
+di buona governance per la selezione degli emittenti, in maniera tale da assicurare 
+l’investimento del capitale in società con una solida struttura organizzativa. 
+In particolare, si considerano i seguenti elementi: 
+● struttura di governance interna;  
+● tutela dei diritti degli azionisti;
+=== pagina 4 ===
+4 
+ 
+● politiche di remunerazione dei manager e adozione di indicatori di sostenibilità;  
+● procedure e processi volti promuovere lo sviluppo sociale ed economico del contesto 
+in cui la società opera;  
+● politiche, misure e processi a tutela dei lavoratori in ambiti quali, ad esempio, la salute 
+e sicurezza, le pari opportunità e il rispetto del diritto di adesione ad associazioni 
+sindacali. 
+ 
+E. Quota degli investimenti 
+Il comparto prevede di investire il 90% del proprio capitale in investimenti che promuovono le 
+caratteristiche ambientali e sociali definite; la restante parte è relativa a investimenti in 
+liquidità. 
+ 
+F. Monitoraggio delle caratteristiche ambientali o sociali 
+Al fine di tutelare gli investitori ed il capitale investito, gli emittenti sono  soggetti ad attività di 
+monitoraggio a cura dell’ Advisor del comparto, con lo scopo di assicurare la continuità nel 
+rispetto delle caratteristiche ambientali, sociali e di buona governance promosse dal 
+comparto.  
+Inoltre, i titoli detenuti dal comparto so no oggetto di controllo da parte del Provider il quale, 
+attraverso l’applicazione della metodologia proprietaria, valuta il rispetto delle caratteristiche 
+ambientali e sociali, la presenza di controversie con particolare attenzione a quelle 
+considerate più rilevanti, e la corretta applicazione della Policy Investimenti Responsabili di 
+ITAS Vita. Al termine di suddette analisi, viene condiviso periodicamente un report con le 
+risultanze.  
+ 
+G. Metodologie 
+La valutazione dell’allineamento degli emittenti in relazi one alla promozione delle 
+caratteristiche ambientali e sociali avviene attraverso l’applicazione di uno score ESG, 
+calcolato tramite una metodologia proprietaria sviluppata dall’Advisor. 
+Nello specifico, viene attribuito un punteggio percentile confrontand o le performance 
+ambientali del singolo emittente oggetto di analisi con quelle dell’intero universo investibile, e 
+attribuendo lo score secondo una scala di valutazione che va da 0 a 100. 
+Tale valore percentile viene, successivamente, tradotto in uno score finale che va da A a D, 
+in base al quartile di appartenenza. 
+Suddetto criterio vincolante, in aggiunta ai fattori di esclusione riportati nelle sezioni precedenti, 
+guidano la strategia di investimento implementata per selezionare gli investimenti al fine di 
+rispettare le caratteristiche ambientali, sociali e di governance promosse dal comparto.  
+ 
+H. Fonti e trattamento dei dati 
+Al fine di garantire il rispetto e la promozione delle caratteristiche ambientali, sociali e di 
+governance, ITAS Vita viene supportato dall’ Advisor nella fase di definizione dell’universo 
+investibile e dal Provider per le attività di monitoraggio.
+=== pagina 5 ===
+5 
+ 
+Per quanto riguarda la prima fase, l’approccio adottato prevede la fornitura di dati già elaborati 
+da parte dell’Advisor, responsabile della qualità degli stessi, che a sua volta fa affidamento su 
+dati forniti da provider esterni. L’attività da esso condotta ha lo scopo di fornire al Gestore le 
+linee guida necessarie alla strutturazione dei portafogli modello. 
+Per quanto riguarda, invece, l’approccio adottat o nella fase di monitoraggio, il Provider, 
+responsabile della qualità delle informazioni trasmesse, fornisce periodicamente una 
+valutazione ex post delle performance di sostenibilità degli emittenti investiti al fine di garantire 
+la corretta e piena applicazione della Policy Investimenti Responsabili adottata da ITAS Vita. 
+ 
+I. Limitazioni delle metodologie e dei dati 
+Il comparto, per la misurazione delle caratteristiche ambientali e sociali promosse, basa la 
+propria strategia di sostenibilità sullo score ESG c alcolato attraverso la metodologia 
+proprietaria sviluppata dall’Advisor. 
+Inoltre, la disponibilità e l’affidabilità dei dati per la costruzione dello score ESG dipende dalla 
+collaborazione dell’Advisor con provider esterni a cui è affidata la fornitura degli indicatori da 
+elaborare ai fini del calcolo dello score ESG. Tale fornitura di dati, a sua volta, dipende 
+dall’ampiezza e disponibilità di dati pubblicati dagli emittenti e dalla fattiva collaborazione dei 
+gestori dei fondi sottostanti. Inoltre, tali da ti vengono forniti già sotto forma di portafoglio 
+modello, senza, dunque, prevedere la loro valutazione diretta e continuativa nel corso della 
+gestione degli investimenti.   
+Tali limitazioni non influiscono significativamente sul modo in cui sono soddisfat te le 
+caratteristiche ambientali e sociali promosse dal comparto in quanto la disponibilità, la 
+completezza e la correttezza dei dati viene garantita mediante accordi con l’ Advisor e, 
+indirettamente, con i provider. 
+ 
+J. Dovuta diligenza 
+Il Gruppo ITAS fonda la propria identità sulla sostenibilità del proprio operato. Guidata da 
+principi mutualistici, ITAS Vita integra le proprie scelte di business con criteri finalizzati ad un 
+agire responsabile nei confronti dei suoi stakeholder e delle generazioni future. Questa 
+predisposizione si traduce in azioni improntate alla sostenibilità lungo tutta la catena del valore. 
+Ciò nonostante, ad oggi, non prevede un processo strutturato di due diligence dei gestori e dei 
+fondi sottostanti.  
+ 
+K. Politiche di impegno 
+Il comparto prevede l’adozione di politiche di impegno dirette durante la gestione 
+dell’investimento. In particolare, il Gruppo ITAS, in quanto sottoscrittore dei “Principi per 
+l’Investimento Responsabile (PRI)” promossi dalle Nazioni Uni te, integra i fattori ESG 
+nell'analisi e nei processi decisionali attraverso l’implementazione di specifiche azioni volte a 
+promuovere l’adozione di buone pratiche e standard di investimento responsabile.
+=== pagina 6 ===
+6 
+ 
+ 
+L. Indice di riferimento designato 
+Non è stato individuato alcun benchmark di riferimento per determinare il raggiungimento delle 
+caratteristiche ambientali e/o sociali promosse dal comparto.

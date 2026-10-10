@@ -1,0 +1,1077 @@
+# Fondo: DESTINAZIONE FUTURO - FONDO PENSIONE APERTO BY CREDEMVITA (destinazione-futuro-credemvita)
+# Documento: Regolamento – Regolamento Governance “Destinazione Futuro – Fondo Pensione Aperto by Credemvita” - in vigore 01/12/2025
+# Fonte: https://www.credemvita.it/content/dam/credemvita/documenti/prodotti/doppi/in-collocamento/previdenza/destinazione-futuro---fondo-pensione-aperto-by-credemvita/Regolamento%20Governance%20FPA.pdf
+# Citato in: https://www.credemvita.it/content/credemvita/it/home/persone-e-famiglia/previdenza/destinazione-futuro-fondo-pensione-aperto-by-credemvita.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: eb69ea08d199214400a145111239eb7b665cba166e831b665eb28372a22c2f3e
+# Pagine: 23
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Credemvita SpA - Società con unico socio, soggetta ad attività di direzione e coordinamento (ex art. 2497 bis c.c.) da parte di Credito 
+Emiliano S.p.A. - Capitale interamente versato di euro 221.600.070 - REA n° 185343 presso la Camera di Commercio di Reggio Emilia 
+- Registro delle Imprese di Reggio Emilia, Codice Fiscale 01437550351 – Partita IVA 02823390352 - Iscrizione all’Albo delle Imprese 
+di Assicurazione n° 1.00105 - Sede Legale e Direzione: Via Luigi Sani, 1 42121 Reggio Emilia (Italia) - Tel: +39 0522 586000 - www.
+credemvita.it - info@credemvita.it- PEC: info@pec.credemvita.it - La Società ha adottato un Modello ai sensi del D.Lgs. 231/01, di cui 
+Parte Generale e Codice Etico sono consultabili sul sito www.credemvita.it
+Ufficio delle Entrate 
+Reggio Emilia
+CREDEMVITA 
+S.p.A.
+Regolamento Governance 
+“Destinazione Futuro – Fondo 
+Pensione Aperto by Credemvita”
+Edizione Dicembre 2025
+=== pagina 2 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+1
+Destinazione Futuro  
+Fondo Pensione Aperto by Credemvita
+REGOLAMENTO GOVERNANCE
+ Indice
+Modalità di gestione del documento 2
+Cronologia delle revisioni 2
+Elenco Funzioni e ruoli interessati 3
+Definizioni 3
+1. Oggetto 4
+2. Approvazione ed aggiornamento 4
+3. Struttura organizzativa 5
+ 3.1 Organi Sociali 5
+ 3.2 Comitato consiliare per il Controllo Interno e i Rischi 6
+ 3.3 Comitato Investimenti e ALM 6
+ 3.4 Soggetto incaricato della gestione 6
+ 3.5 Depositario 7
+ 3.6 Funzioni fondamentali 7
+ 3.7 Altre Funzioni Aziendali coinvolte 7
+4. Disciplina del processo e controlli  11
+ 4.1 Processo di investimento 11
+ 4.2 Responsabile del Fondo 11
+ 4.3 Attività esternalizzate 15
+ 4.4 Controlli interni 16
+ 4.5 Sistema gestione dei rischi 18
+ 4.6 Politiche di Remunerazione 19
+5. Flussi Informativi 20
+ 5.1 ALLEGATO 1 Flussi informativi tra le strutture aziendali 
+ e il Responsabile del Fondo 20
+=== pagina 3 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+2
+Modalità di gestione del documento
+Redatto da: Team Prodotto e Operations
+Verificato da: CRVGOV
+CRVFIN
+CRVVAL
+Risk Management
+Funzione Compliance
+Funzione Attuariale
+Responsabile del Fondo Pensione Aperto
+Approvato da: Consiglio di Amministrazione del 15.12.2025
+Cronologia delle revisioni
+Numero 
+versione
+Data 
+approvazione Principali interventi di aggiornamento
+2 15/12/2025 Il documento è stato redatto secondo le linee guida del progetto “Teal 
+Plus” finalizzato alla revisione del framework normativo della Compagnia 
+in ottica di semplificazione, chiarezza e trasparenza, garantendo il 
+rispetto della normativa assicurativa nonché dell’eventuale necessità di 
+coordinamento con la normativa del Gruppo CREDEM. 
+Il presente documento abroga il precedente ed è interessato ai seguenti 
+aggiornamenti:
+• Revisione della forma espositiva e rewording complessivo;
+• Aggiornamento della denominazione del Fondo Pensione di 
+Credemvita;
+• Indicazione della sede di pubblicazione del Documento;
+• Arricchimento e introduzione dei Team e delle Funzioni interessate;
+• Introduzione della descrizione del Processo di investimento;
+• Aggiornamento delle attività esternalizzate;
+• Introduzione delle politiche di remunerazione relative ai titolari delle 
+funzioni di controllo;
+• Introduzione della sezione relativa alla Documentazione informativa 
+verso il Responsabile del Fondo;
+• Riformattata la tabella dei flussi informativi verso Organi Aziendali e 
+Comitati Interni.
+=== pagina 4 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+3
+Elenco Funzioni e ruoli interessati
+Acronimo Struttura Organizzativa
+CA Consiglio di Amministrazione 
+CCR Comitato Consiliare per il Controllo interno e i Rischi 
+CI Comitato Investimenti e ALM
+DG Direttore Generale
+CS Collegio Sindacale 
+CRVVAL Team Governo del Valore
+CRVFIN Team Finanza
+CRVPRO Team Prodotto e Operations
+CRVGOV Team Governance e Innovazione 
+CRVINT Funzione Revisione Interna
+CRVFAT Funzione Attuariale
+COMPLY Funzione Compliance
+RKM Funzione Risk Management
+Definizioni
+ Termine Descrizione
+Compagnia Credemvita Spa
+Controllante Credito Emiliano SpA
+RAF Risk Appetite Framework
+SCI Sistema di Controllo Interno
+SGS Sistema di Governo Societario
+ERISK Servizio Enterprise Risk Management
+RFW Rischi Finanziari e Wealth
+RAS Rischi Assicurativi
+ISR Information Security and IT Risk Governance
+VAL Validazione
+RCR Rating e Controlli Credito
+PIP Piano Individuale Pensionistico “Credemvita Futura”
+FPA “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+=== pagina 5 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+4
+1. Oggetto
+Il presente Regolamento in coerenza al “Regolamento di Corporate Governance” 
+di Credemvita precisa le disposizioni che trovano applicazione specificatamente al 
+Fondo Pensione “Destinazione Futuro – Fondo Pensione Aperto by Credemvita” (di 
+seguito “FPA”), istituito dalla Compagnia ex art. 12 del D.lgs. 5/12/2005 n. 252, giusta 
+autorizzazione rilasciata da COVIP con provvedimento del 7/08/1998, n. 3685. 
+In particolare, il presente Regolamento, redatto in forza del predetto D.Lgs. 252/2005 
+e della Delibera COVIP 13/01/2021, ha per oggetto: 
+• l’organizzazione della Compagnia rilevante per i profili gestionali inerenti al FPA, ivi 
+incluse le funzioni e/o attività che risultano esternalizzate; 
+• una descrizione sintetica di come sono organizzati i controlli interni rilevanti per il 
+FPA; 
+• una descrizione sintetica di come è organizzato il sistema di gestione dei rischi 
+rilevante per il FPA; 
+• una descrizione sintetica di come sono organizzati i flussi informativi tra le strutture 
+aziendali e il Responsabile del FPA e viceversa; 
+• le informazioni essenziali relative alla politica di remunerazione del Responsabile 
+del FPA nonché dei Titolari delle Funzioni Fondamentali di gestione dei rischi e di 
+revisione interna della Compagnia. 
+Per i profili relativi alla gestione del FPA il sistema di governo della Compagnia 
+risponde alla prioritaria esigenza, attuale e prospettiva, di tutela degli aderenti e dei 
+beneficiari del fondo stesso e di salvaguardia della piena separazione patrimoniale fra 
+il patrimonio del FPA e il patrimonio della Compagnia e degli altri clienti. 
+2. Approvazione ed aggiornamento
+Il presente Regolamento è approvato dal Consiglio di Amministrazione ( CA) della 
+Compagnia.
+È competenza del CRVPRO la revisione annuale e l’eventuale aggiornamento del 
+presente documento.
+Il documento viene pubblicato sul sito ufficiale della Compagnia, all’interno della 
+sezione dedicata al FPA, tra la documentazione informativa e regolamentare a 
+disposizione degli aderenti e dei potenziali sottoscrittori.
+=== pagina 6 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+5
+3. Struttura organizzativa
+3.1 Organi Sociali
+Consiglio di Amministrazione
+Il CA definisce gli indirizzi strategici del sistema di governo societario, svolgendo 
+funzioni d’indirizzo, governo e controllo. 
+È responsabile della massimizzazione della creazione di valore, che assicura attraverso:
+• lo sviluppo delle strategie ed il presidio della loro attuazione;
+• il coordinamento delle attività dell’Alta Direzione e degli eventuali Responsabili di 
+Unità Organizzative (UO).
+In base al D.Lgs. 5 dicembre 2005, n. 252 Disciplina delle forme pensionistiche 
+complementari, il CA: 
+• approva il Regolamento delle Forme pensionistiche Complementari;
+• approva il Rendiconto annuale delle Forme pensionistiche;
+• nomina il Responsabile delle Forme pensionistiche, previa verifica del possesso dei 
+requisiti previsti dalla normativa applicabile;
+• effettua periodicamente la valutazione interna del rischio.
+Con riferimento al FPA, il Consiglio di Amministrazione: 
+• definisce e adotta il “Documento sulla politica di investimento”; 
+• delibera l’affidamento e la revoca dei mandati di gestione anche sulla scorta della 
+vigente normativa in tema di esternalizzazioni; 
+• revisiona e, se necessario, modifica la politica d’investimento; 
+• analizza i rapporti periodici sulla gestione finanziaria e valuta le proposte elaborate 
+dal Team Finanza;
+• approva le procedure di controllo della gestione finanziaria, tenendo conto delle 
+proposte formulate dal Team Finanza. 
+Collegio Sindacale
+Il Collegio Sindacale, in conformità alle disposizioni normative e statutarie, avuto 
+particolare riguardo a quanto previsto dall’art. 8 del Regolamento 38/2018 IVASS, 
+vigila sull’adeguatezza dell’assetto organizzativo, amministrativo e contabile della 
+Compagnia e sul suo concreto funzionamento. Per l’espletamento dei propri compiti il 
+Collegio Sindacale può richiedere la collaborazione di tutte le strutture aziendali che 
+svolgono compiti di controllo.
+In particolare, rispetto al FPA, il Collegio Sindacale verifica i processi operativi, le 
+numeriche e la consistenza patrimoniale del Fondo Pensione attraverso le risultanze 
+della relazione periodica del Responsabile del Fondo Pensione.
+=== pagina 7 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+6
+Direttore Generale
+In coerenza con gli indirizzi generali ed i limiti operativi definiti dal CA svolge funzioni 
+di indirizzo, governo e controllo garantendo la sistematicità e l’interazione delle diverse 
+attività aziendali. 
+Nello svolgimento di tali attività il Direttore Generale funge da tramite fra il CA, le 
+Unità Organizzative e le Funzioni Operative, le quali, nell’ambito dei poteri e delle 
+competenze attribuite loro, provvedono all’esecuzione delle delibere del CA ed alla 
+gestione degli affari correnti.
+3.2 Comitato consiliare per il Controllo Interno e i Rischi
+In ragione del Sistema di governo societario “Ordinario” , il CA ha provveduto 
+all’istituzione del Comitato consiliare per il Controllo Interno e  i Rischi, cui sono 
+attribuite funzioni consultive e propositive a supporto del CA, in ordine, rispettivamente:
+• al sistema dei controlli interni e di gestione dei rischi, al fine di garantirne 
+l’adeguatezza e la funzionalità rispetto alle caratteristiche dell’impresa, in relazione 
+all’evoluzione dell’organizzazione, dell’operatività e dei rischi inerenti, nonché del 
+contesto normativo di riferimento;
+• all’identificazione e gestione dei principali rischi aziendali, ivi inclusi quelli di natura 
+ambientale, sociale, generati o subiti, anche secondo una visione prospettica ed in 
+considerazione del fabbisogno complessivo di solvibilità dell’impresa.
+3.3 Comitato Investimenti e ALM
+Il Comitato Investimenti e ALM (di seguito, per brevità, “Comitato”) è stato istituito, ai 
+sensi del Regolamento di Corporate Governance di Credemvita, al fine di supportare il 
+Consiglio di Amministrazione (di seguito CA) per:
+• la definizione, nei limiti stabiliti dal CA, degli indirizzi e delle caratteristiche della 
+gestione dei portafogli della Compagnia, sia in ottica attuale che prospettica, 
+garantendo una gestione efficace e prudente delle risorse finanziarie e del capitale 
+della compagnia, nel rispetto degli obiettivi strategici e delle normative vigenti;
+• la determinazione, in coerenza con gli obiettivi strategici della Compagnia, con il 
+profilo di rischio/rendimento complessivo dell’impresa, e nei limiti stabiliti dal CA, 
+degli indirizzi e delle politiche in materia di ALM, di rischio liquidità e di sostenibilità;
+• il monitoraggio della corretta attuazione delle politiche connesse alla gestione degli 
+investimenti, all’ALM, al rischio liquidità e alla sostenibilità;
+• il governo della fascia di tolerance degli indicatori RAF connessi ai rischi mercato, 
+di ALM e di liquidità.
+3.4 Soggetto incaricato della gestione
+Il soggetto incaricato della gestione: 
+• realizza la politica di gestione finanziaria finalizzata a conseguire gli obietti 
+prestabiliti per ogni comparto; 
+• predispone e trasmette periodicamente al Team Finanza una rendicontazione sulla
+=== pagina 8 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+7
+politica di gestione finanziaria realizzata e sui risultati conseguiti. 
+In forza del contratto di esternalizzazione in essere, la società Euromobiliare Asset 
+Manager SGR è il soggetto incaricato della gestione del FPA.
+3.5 Depositario
+Il Depositario: 
+• realizza le attività e i controlli previsti dalla normativa vigente nonché dalla specifica 
+convenzione conclusa con la Compagnia; 
+• trasmette (o mette a disposizione) le informazioni necessarie per alimentare il 
+sistema di verifica e controllo della gestione finanziaria. 
+In forza dell’apposita convenzione in essere, il soggetto che svolge le funzioni di 
+depositario del FPA è BNP PARIBAS S.A.
+3.6 Funzioni fondamentali
+Le Funzioni di Revisione Interna, Risk Management, Compliance e Funzione Attuariale 
+svolgono le attività di propria competenza, illustrate nei paragrafi successivi, nel 
+rispetto della normativa di settore anche con riferimento al Fondo Pensione Aperto.
+Alle Funzioni Fondamentali si aggiunge la Funzione Antiriciclaggio. Quest’ultima opera 
+in analogia alle Funzioni Fondamentali.
+3.7 Altre Funzioni Aziendali coinvolte
+Team Finanza
+Il Team Finanza di Credemvita svolge le attività di seguito indicate:
+ • garantire l’attuazione della Policy Investimenti e delle strategie di investimento 
+definite dal Consiglio di Amministrazione e dal Comitato Investimenti e ALM;
+ • implementare la politica di investimento sui patrimoni gestiti, attraverso operazioni 
+di acquisto e vendita di strumenti finanziari e provvedendo alla scelta degli strumenti 
+finanziari attribuendo le operazioni ai relativi portafogli, nel rispetto della strategia 
+di investimento deliberata, dei limiti definiti dalla normativa e dal CA;
+ • assicurare una sana e prudente gestione dei portafogli titoli, l’ottimizzazione 
+reddituale e di rischio delle posizioni finanziarie e la corretta e tempestiva 
+predisposizione della reportistica prevista;
+ • assicurare che gli investimenti relativi ai prodotti della Compagnia avvengano nel 
+rispetto della normativa, delle condizioni fissate nei regolamenti delle Gestioni 
+Separate, dei Fondi Interni e del Fondo Pensione, tenuto conto delle caratteristiche 
+delle polizze sottostanti gli attivi;
+ • contribuire alla definizione delle controparti e garantirne il monitoraggio nel rispetto 
+delle politiche aziendali;
+ • effettuare periodicamente il calcolo delle performance dei portafogli e partecipare 
+al processo di valutazione dei rischi, coordinato dalla Funzione Risk Management, 
+inerente alle scelte strategiche approvate.
+=== pagina 9 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+8
+Team Governo del Valore
+Il Team Governo del Valore svolge le attività di seguito indicate:
+ • predisporre il Bilancio d’esercizio Local GAAP, il reporting package IFRS per la 
+Capogruppo, lo Stato Patrimoniale di Solvibilità (MVBS) e le situazioni contabili 
+infrannuali. Verificare il corretto afflusso in contabilità generale delle contabilità 
+sezionali e provvedere alla corretta registrazione contabile di tutti gli eventi aziendali;
+ • svolgere le attività di riconciliazione e gestione della contabilità tecnica/titoli;
+ • supportare le attività dei revisori esterni, dell’agenzia di rating e gestione rapporti e 
+verifiche svolte dal Collegio Sindacale;
+ • assicurare la tenuta dei registri obbligatori di competenza (es. attività a copertura 
+riserve tecniche);
+ • assicurare la corretta e tempestiva predisposizione della rendicontazione prevista 
+dalla normativa (es. Rendicontazione FP.) ed effettuare le segnalazioni richieste 
+dall’Autorità di Vigilanza (AdV) e dalle Associazioni di categoria;
+ • gestire le attività connesse al ciclo passivo della Compagnia nel rispetto delle 
+procedure aziendali e del sistema delle deleghe;
+ • fornire i dati e le informazioni utili alla Funzione Attuariale per i controlli di 
+competenza;
+ • garantire il corretto svolgimento delle attività di definizione, formalizzazione, 
+implementazione delle metodologie afferenti le ipotesi tecniche da utilizzare per il 
+calcolo delle riserve ivi incluso il monitoraggio periodico;
+ • realizzare le analisi finalizzate a garantire l’adeguatezza delle caratteristiche degli 
+attivi con la struttura degli impegni assunti nei confronti degli assicurati nel lungo 
+termine;
+ • svolgere l’analisi gestionale dei flussi di cassa attivi/passivi, del duration gap sia in 
+un contesto consuntivo che prospettico;
+ • nell’ambito del processo di liquidity risk management supportare il crisis team, 
+presieduto dal Risk Management, al fine di definire le azioni di escalation a fronte 
+del verificarsi di situazioni di crisi di liquidità;
+ • predisporre la reportistica per il conglomerato di rischio tasso e di rischio emittente, 
+nonché il reporting di competenza del Comitato Investimenti;
+ • supportare l’Alta Direzione e il CA nel garantire il mantenimento di un adeguato 
+livello di Fondi Propri in relazione al livello di rischio attuale e prospettico assunto 
+nell’esercizio della propria attività, agli interessi e alle aspettative degli stakeholders;
+ • supportare l’Alta Direzione nel predisporre il piano d’impresa pluriennale e i piani 
+operativi annuali (budget) e nel processo di Forecast collaborando, ove necessario, 
+con le altre funzioni interne e di Credem;
+ • garantire un efficace processo di monitoraggio e governo dei costi, sia nell’ambito 
+del processo di planning che nel monitoraggio mensile/trimestrale;
+ • predisporre il reporting in corso d’anno per il monitoraggio e il governo delle 
+grandezze commerciali, economiche, patrimoniali e di solvibilità;
+ • monitorare le performance della Compagnia ed il posizionamento strategico rispetto 
+al mercato;
+=== pagina 10 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+9
+ • presidiare l’andamento degli indicatori di monitoraggio POG e Value for Money 
+proponendo in quest’ottica eventuali azioni volte al miglioramento del posizionamento 
+prodotti;
+ • garantire, per la parte di propria competenza, la produzione dei dati e delle 
+informazioni da inviare alle Autorità di Vigilanza (COVIP, IVASS, ecc.) e all’ANIA.
+Team Governance e Innovazione
+Il Team Governance e Innovation svolge le attività di seguito indicate:
+ • presidiare il modello di governance progetti, l’innovazione e la gestione delle 
+“riunioni interfunzionali”;
+ • presidiare l’evoluzione del portafoglio progetti e delle iniziative interfunzionali in 
+coerenza con gli obiettivi della Compagnia e garantire la predisposizione della 
+relativa reportistica;
+ • svolgere le attività di project management sui progetti assegnati (strategici, 
+organizzativi, trasversali);
+ • garantire e presidiare lo sviluppo di un modello di Governance ESG e di un piano 
+sulla sostenibilità in coerenza con le evoluzioni normative e gli obiettivi strategici 
+della Compagnia;
+ • svolgere gli adempimenti in materia di gestione, controlli e rendicontazioni del rischio 
+di riciclaggio e di finanziamento al terrorismo (supporto alla Funzione Antiriciclaggio, 
+Segnalazione Operazioni Sospette, tenuta dell’archivio unico informatico “AUI”);
+ • garantire il coordinamento delle azioni necessarie per il trattamento del reclamo;
+ • provvedere alla gestione del registro reclami, controllare i tempi del trattamento e 
+predisporre la risposta;
+ • verificare la presenza delle evidenze oggettive relative all’efficacia del trattamento 
+dei reclami;
+ • archiviare il reclamo e predisporre le informazioni necessarie ai report periodici;
+ • fornire alla funzione di Revisione Interna la reportistica quantitativa e statistica sulla 
+gestione dei reclami;
+ • garantire la redazione di un piano strategico sulla tecnologia di informazione e 
+comunicazione (ITC);
+ • gestire i contratti di fornitura IT assicurando la qualità del servizio, aderenza agli 
+obiettivi (business, normativa, processi, infrastruttura) e la valutazione di costi/
+benefici;
+ • monitorare i livelli di servizio dei sistemi informativi della Compagnia (interni e degli 
+outsourcer);
+ • definire e applicare politiche di sicurezza per proteggere i dati e garantire la 
+conformità normativa;
+ • sviluppare standard e best practices per l’utilizzo delle risorse e delle tecnologie in 
+tutta l’organizzazione.
+=== pagina 11 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+10
+Team Prodotto e Operations
+Il Team Prodotto e Operations svolge le attività di seguito indicate:
+ • presidiare e governare il Piano Prodotti;
+ • effettuare le attività di benchmarking competitors e di posizionamento di mercato 
+sulla gamma prodotti;
+ • presidiare e coordinare il processo POG (Product Oversight and Governance) in 
+riferimento alle attività di sviluppo e manutenzione dei prodotti, presidiando le 
+tempistiche, i processi, l’innovazione, il servizio, la redditività ed il profilo di rischio, 
+nel rispetto delle linee guida definite dal Regolamento POG;
+ • garantire la corretta attuazione del processo di monitoraggio prodotti ai sensi della 
+POG, producendo la relativa reportistica per i comitati e il CA;
+ • assicurare l’evoluzione dei prodotti, servizi e processi in coerenza con la strategia 
+commerciale;
+ • supportare l’Alta Direzione nella gestione del Comitato di Product Governance;
+ • gestire gli obblighi normativi di manutenzione dei prodotti in portafoglio, garantendo 
+le azioni di adeguamento con il supporto delle funzioni Legale e Compliance;
+ • realizzare i contenuti di formazione destinati alla rete distributiva inerenti i prodotti 
+collocati;
+ • garantire l’adeguatezza dei contenuti sul sito internet della Compagnia in relazione 
+alla gamma prodotti;
+ • assicurare che tutte le comunicazioni previste dalla normativa verso le Autorità di 
+Vigilanza, riguardanti l’implementazione di nuovi prodotti o la loro modifica, siano 
+completate nei tempi previsti;
+ • garantire il corretto svolgimento del ciclo assuntivo e del ciclo liquidativo (esclusi i 
+sinistri), garantendo la customer satisfaction interna ed esterna, il mantenimento dei 
+livelli di servizio ed il miglioramento continuo dei livelli qualitativi;
+ • assicurare la corretta gestione delle posizioni in portafoglio, delle operazioni di 
+variazione dei contratti e dei relativi controlli;
+ • analizzare dati di portafoglio e garantire la rendicontazione periodica per la verifica 
+dell’andamento del mercato e del venduto;
+ • garantire il corretto svolgimento delle attività di salvaguardia e delle attività di 
+gestione dei prodotti di investimento collegati a fondi esterni (sottostanti RIII);
+ • garantire l’adempimento degli obblighi normativi ed informativi di prodotto, 
+predisponendo le comunicazioni da inviare alla clientela;
+ • contribuire e fornire supporto alla funzione preposta per la tempestiva gestione e 
+risoluzione dei reclami;
+ • fornire assistenza alla clientela;
+ • fornire assistenza specialistica di secondo livello alla rete distributiva;
+ • effettuare le analisi funzionali degli interventi evolutivi IT di prodotto e processo.
+=== pagina 12 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+11
+4. Disciplina del processo e controlli
+4.1 Processo di investimento
+Il processo di investimento si articola nelle seguenti macro-fasi, approfondite all’interno 
+del Regolamento degli Investimenti:
+1. Pianificazione strategica: consiste nella definizione annuale, da parte del CA, previo 
+parere del CI, degli indirizzi strategici di investimento, tramite l’approvazione della 
+proposta di Asset Allocation Target (AAT) e Rendimento Target (RT), definiti per le 
+Gestioni Separate e per il Portafoglio di Proprietà, in coerenza con le linee guida 
+sulla composizione del portafoglio definita nel Regolamento Investimenti. La 
+strategia degli investimenti è definita in coerenza al Risk Appetite Framework (RAF), 
+garantendo il perseguimento degli obiettivi strategici di adeguatezza patrimoniale, 
+stabilità degli utili, equilibrio tra gli attivi e i passivi, e gestione della liquidità, 
+la cui definizione in termini di indicatori e limiti quantitativi avviene in sede di 
+aggiornamento e approvazione del RAF.
+2. Gestione operativa: si articola nelle seguenti due sotto-fasi:
+a) Definizione degli investimenti: a seguito della definizione, da parte del CI, degli 
+indirizzi di gestione per specifico portafoglio di riferimento (anche in relazione 
+a tematiche ESG e attivi complessi), CRVFIN attua le strategie di investimento 
+all’interno dei portafogli, al fine di realizzare gli obiettivi reddituali, nel rispetto 
+dell’equilibrio dei flussi finanziari, dei vincoli di liquidità, dei limiti operativi e dei 
+livelli di rischio stabiliti nel RAF;
+b) Esecuzione delle operazioni: successivamente alla scelta degli investimenti, 
+CRVFIN implementa la fase esecutiva sul mercato, attraverso concrete scelte 
+operative.
+3. Controllo e gestione del rischio: le attività di controllo di primo e secondo livello si 
+articolano nel monitoraggio e controllo dei limiti operativi e dei limiti RAF e nella 
+valutazione degli indicatori e metriche di rischio connessi al processo di gestione 
+degli investimenti, declinati nel Regolamento degli Investimenti, nella Policy di 
+Gestione dei Rischi e nei Regolamenti connessi.
+4.2 Responsabile del Fondo
+In base a quanto previsto dall’art. 5 del D.lgs. 252 del 2005 nonché nell’allegato 1 del 
+Regolamento del FPA (disponibile sul sito della Compagnia), il Responsabile del FPA:
+• vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle 
+buone pratiche e dei principi di corretta amministrazione del Fondo nell’esclusivo 
+interesse degli aderenti e dei beneficiari;
+• avvalendosi delle procedure definite dalla Compagnia, organizza lo svolgimento 
+delle sue funzioni al fine di:
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a 
+terzi di deleghe di gestione, con riferimento ai controlli su:
+- le politiche di investimento. In particolare: che la politica di investimento 
+effettivamente seguita sia coerente con quella indicata nel Regolamento; che
+=== pagina 13 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+12
+gli investimenti, ivi compresi quelli effettuati in OICR, avvengano nell’esclusivo 
+interesse degli aderenti, nel rispetto dei principi di sana e prudente gestione 
+nonché nel rispetto dei criteri e limiti previsti dalla normativa e dal regolamento;
+- la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli 
+investimenti effettuati siano correttamente identificati, misurati e controllati e che 
+siano coerenti con gli obiettivi perseguiti dalla politica di investimento;
+b) vigilare sulla gestione amministrativa del Fondo Pensione, anche nel caso di 
+conferimento a terzi di deleghe di gestione, con riferimento ai controlli su:
+- la separatezza amministrativa e contabile delle operazioni poste in essere 
+per conto del Fondo rispetto al complesso delle altre operazioni svolte dalla 
+Compagnia e del patrimonio del Fondo rispetto a quello della Compagnia e dei 
+suoi clienti;
+- la regolare tenuta dei libri e delle scritture contabili del Fondo;
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei 
+beneficiari con riferimento ai controlli su:
+- l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative 
+degli aderenti e dei beneficiari, sia al momento del collocamento del Fondo che 
+durante il rapporto;
+- gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei 
+beneficiari previste dal Regolamento e le eventuali commissioni correlate ai 
+risultati di gestione siano correttamente applicate;
+- la completezza ed esaustività delle informazioni contenute nelle comunicazioni 
+periodiche agli aderenti e ai beneficiari in quelle inviate in occasione di eventi 
+particolari;
+- l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento 
+riservato ai singoli reclami;
+- la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con 
+riferimento ai tempi di liquidazione delle somme richieste a titolo di anticipazione 
+o riscatto e di trasferimento della posizione individuale.
+Inoltre, il Responsabile controlla le soluzioni adottate dalla Compagnia per identificare 
+le situazioni di conflitti di interesse e per evitare che le stesse arrechino pregiudizio 
+agli aderenti; egli controlla altresì la corretta esecuzione del contratto stipulato per 
+il conferimento dell’incarico di Depositario, nonché il rispetto delle convenzioni 
+assicurative/condizioni per l’erogazione delle rendite e, ove presenti, delle convenzioni/
+condizioni relative alle prestazioni di invalidità e premorienza.
+Delle anomalie e delle irregolarità riscontrate nell’esercizio delle sue funzioni il 
+Responsabile del FPA dà tempestiva comunicazione al CA e al CS della Compagnia e 
+si attiva perché vengano adottati gli opportuni provvedimenti.
+Requisiti di idoneità alla carica 
+All’atto della nomina del Responsabile del Fondo Pensione Aperto nonché dell’eventuale 
+rinnovo, la Compagnia, verifica, secondo le modalità descritte nell’Allegato 3, i requisiti 
+di idoneità alla carica nonché l’assenza di cause impeditive in base a quanto previsto 
+dal D.M. 108/2020.
+=== pagina 14 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+13
+La Compagnia comunica a COVIP: 
+• le nomine, gli eventuali rinnovi dell’incarico, le sostituzioni del Responsabile del FPA 
+prima della scadenza del termine entro 15 gg. dalla deliberazione
+• la decadenza, la sospensione e la revoca nei 5 gg successivi 
+Decadenza 
+Il difetto, anche sopravvenuto, dei requisiti di professionalità e onorabilità, nonché la 
+sussistenza delle situazioni impeditive o delle cause di ineleggibilità o incompatibilità 
+di cui al D.M. 108/2020, anche sopravvenuti, determinano la decadenza dalla carica. 
+La decadenza è dichiarata dal CA entro trenta giorni dalla nomina o dalla conoscenza 
+dell’evento sopravvenuto.  La sostituzione è comunicata a COVIP nei 5 gg. 
+successivi.
+I soggetti che, in qualsiasi momento, vengono a trovarsi in situazioni che comportano 
+la decadenza dalla carica o nei cui confronti è stata avviata l’azione penale per 
+reati che possono incidere sul possesso del requisito di onorabilità comunicano 
+tempestivamente tali circostanze al CA. A seguito della dichiarazione di decadenza 
+sono avviate le iniziative per la sostituzione del soggetto decaduto. 
+Sospensione 
+Ove sopravvengano nel corso dell’incarico, costituiscono cause di sospensione: 
+a) la condanna con sentenza non definitiva per uno dei reati di cui all’articolo 6, 
+comma 3, lettera b);
+b) l’applicazione, su richiesta delle parti, di una delle pene di cui all’articolo 6, comma 
+3, lettera c), con sentenza non definitiva;
+c) l’applicazione provvisoria di una misura di prevenzione prevista dal decreto 
+legislativo 6 settembre 2011, n. 159, e successive modificazioni;
+d) l’applicazione di una misura cautelare di tipo personale. 
+I soggetti che, in qualsiasi momento, vengono a trovarsi in situazioni che comportano 
+la sospensione della carica comunicano tempestivamente tali circostanze al CA. 
+Al ricorrere delle cause di sospensione il CA dichiara la sospensione dalla carica del 
+soggetto interessato entro trenta giorni dal momento in cui ne ha avuto conoscenza. 
+Nel caso in cui sia disposta la sospensione, il CA, entro sessanta giorni dalla data della 
+delibera di  sospensione, delibera in ordine all’eventuale revoca dalla carica del soggetto 
+interessato. Qualora non si  proceda alla revoca, il soggetto sospeso è reintegrato 
+nelle sue funzioni: il verbale fornisce puntuale e analitico riscontro delle valutazioni 
+effettuate, nonché delle motivazioni in base alle quali si è ritenuto di reintegrare il 
+soggetto interessato. Nelle ipotesi previste dalle lettere c) e d), la sospensione si 
+applica in ogni caso per l’intera durata delle misure ivi previste. 
+Le decisioni adottate relative alla sospensione/revoca sono  comunicate alla COVIP 
+entro i successivi cinque gg.
+=== pagina 15 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+14
+ 
+Verifica
+ in sede di 
+prima nomina
+Verifica in
+ sede di 
+rinnovo
+Attività delegata dal punto di vista operativo al Team Governance 
+e Innovazione e le relative determinazioni, debitamente motivate, 
+vengono assunte dal CA 
+X X 
+Le verifiche sono svolte mediante richiesta al soggetto interessato 
+della documentazione di seguito elencata:   
+autocertificazione di possesso dei requisiti e dei 
+criteri di idoneità alla carica, in termini di onorabilità, 
+correttezza, professionalità, competenza ed indipendenza 
+di professionalità e onorabilità, nonché assenza cause di 
+ineleggibilità e incompatibilità e cause impeditive 
+X X 
+Curriculum Vitae X X 
+La Compagnia si riserva la possibilità di richiedere ed acquisire i 
+certificati dei casellari giudiziari in caso di necessità X X 
+Il CA, all’atto di nomina, verifica il possesso dei requisiti di onorabilità, 
+professionalità, l’assenza cause impeditive2, l’assenza cause di 
+ineleggibilità e di incompatibilità  
+X X 
+Dal verbale redatto in occasione della nomina emerge l’assolvimento 
+della verifica dei requisiti e tutta la documentazione prodotta dal 
+soggetto sottoposto a verifica viene conservata agli atti del CA 
+medesimo 
+X X 
+Documentazione informativa verso il Responsabile del Fondo
+La seguente documentazione informativa descrive il set di informazioni e di evidenze 
+operative che la Compagnia è tenuta a trasmettere periodicamente al Responsabile 
+del Fondo Pensione, al fine di garantire un adeguato livello di trasparenza, controllo e 
+monitoraggio sulla gestione del FPA.
+=== pagina 16 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+15
+Funzione Documento Tipologia di 
+informazione Destinatario Periodicità
+Team Prodotto 
+e Operations
+Nota informativa
+Sintesi aggiornata delle 
+informazioni del FPA 
+destinata agli aderenti
+Responsabile 
+del Fondo
+Pensione
+annuale
+Modifiche alla 
+documentazione 
+precontrattuale e 
+contrattuale
+Aggiornamenti ai 
+documenti informativi e 
+contrattuali del Fondo
+ad evento
+Relazione in ordine alle 
+modifiche Regolamento 
+FPA
+Documento sulle 
+variazioni apportate al 
+Regolamento FPA
+ad evento
+Team 
+Governance e 
+Innovazione
+Estratti dei verbali CA che 
+riguardano il FPA
+Comunicazioni ufficiali 
+del CA che impattano il 
+FPA
+Responsabile 
+del Fondo
+Pensione
+ad evento
+Intercettazione normativa 
+relativa al FPA
+Aggiornamenti normativi 
+rilevanti al FPA ad evento
+Modifiche ai regolamenti 
+interni che riguardano il 
+FPA
+Aggiornamenti dei 
+regolamenti aziendali che 
+influenzano il FPA
+ad evento
+4.3 Attività esternalizzate
+Al fine di ottenere competenze più specifiche e tecnologie avanzate che portano 
+ad una maggiore efficienza ed efficacia, Credemvita affida a fornitori specializzati 
+(infragruppo o esterni), determinate attività aziendali in modo da focalizzarsi sul proprio 
+core business.
+Il Regolamento in materia di esternalizzazione di funzioni aziendali  della 
+Compagnia si applica anche al FPA. Di seguito sono riportati i contratti di 
+esternalizzazione che riguardano il FPA.
+ 
+Fornitore Servizio esternalizzato
+Infra
+/Extra Gruppo
+Essenziale
+/non Essenziale
+ICT
+/non ICT
+Credito 
+Emiliano Funzione Antiriciclaggio InfraGruppo Fondamentale non ICT
+Credito 
+Emiliano Funzione Risk Management InfraGruppo Fondamentale non ICT
+Credito 
+Emiliano Compliance InfraGruppo Fondamentale non ICT
+Euro A.M. Sgr Delega di gestione del FPA InfraGruppo Essenziale non ICT
+=== pagina 17 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+16
+Previnet S.p.A.
+Gestione amministrativa e contabile 
+(gestione ciclo attivo, segnalazione 
+statistiche COVIP) , Area Riservata 
+(soluzione tecnologica a favore degli 
+aderenti su piattaforma web)
+ExtraGruppo Essenziale ICT
+Previnet S.p.A.
+Attività di Amministrazione titoli del 
+FPA e titoli delle Unit Linked a fondi 
+interni della Società (Calcolo NAV) 
+ExtraGruppo Essenziale non ICT
+Simcorp 
+Italiana S.r.l.
+Servizio di calcolo della quota e 
+aggiornamento portafogli Unit 
+Linked, FPA e PIP
+ExtraGruppo Non Essenziale non ICT
+4.4 Controlli interni
+Funzione di Revisione Interna
+CRVINT è incaricata di valutare e monitorare l’efficacia, l’efficienza e l’adeguatezza 
+dello SCI e delle ulteriori componenti del SGS e le sue necessità di aggiornamento 
+attraverso un’attività indipendente e obiettiva di assurance e consulenza, finalizzata 
+al miglioramento dell’efficacia e dell’efficienza dell’organizzazione. Assiste 
+l’organizzazione medesima nel perseguimento dei propri obiettivi tramite un approccio 
+professionale sistematico, che genera valore aggiunto in quanto finalizzato a valutare 
+e migliorare i processi di controllo, di gestione dei rischi e di  Corporate Governance.
+CRVINT è parte integrante dello SCI della Compagnia, nell’ambito del quale realizza 
+controlli di terzo livello. La relativa mission, in linea con gli standard della professione, 
+è proteggere ed accrescere il valore dell’organizzazione, fornendo assurance obiettiva 
+e risk based, consulenza e competenza.
+L’azione della Funzione si concretizza attraverso periodiche valutazioni del SCI e delle ulteriori 
+componenti del SGS, la proposizione di interventi correttivi per rimuovere le criticità riscontrate 
+nel corso delle verifiche e il successivo monitoraggio della loro effettiva realizzazione (o 
+formalizzata accettazione del rischio residuo) tramite verifiche dedicate di follow-up.
+Per l’espletamento delle singole attività, anche di mera consulenza, CRVINT può avvalersi 
+di soggetti e professionalità esterne alla Compagnia, nell’ambito del budget assegnato 
+alla Funzione o, laddove ritenuto necessario, chiedendo un extra budget al CA.
+Nello svolgimento delle proprie attività, CRVINT utilizza la necessaria riservatezza nella 
+lavorazione dei dati, per la tutela degli interessi aziendali e nel rispetto delle specifiche 
+norme, avendo cura di documentare le informazioni atte a supportare le conclusioni e 
+i risultati delle verifiche.
+Rientrano tra le attività della Funzione tutti gli adempimenti obbligatori previsti dalla 
+normativa vigente (a titolo esemplificativo e non esaustivo: le attività di verifica circa la 
+gestione dei reclami e in materia di politiche di remunerazione).
+CRVINT, nel rispetto della propria indipendenza, mantiene idonei rapporti con tutti i 
+centri titolari di controllo interno a cui garantisce adeguata reportistica.
+=== pagina 18 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+17
+Funzione di Compliance
+La Funzione Compliance:
+• è una funzione di controllo di secondo livello e si inserisce nel contesto del sistema dei 
+controlli interni, concorrendo con le altre funzioni presenti in azienda ad assicurare 
+una sana e corretta gestione dell’impresa, coerentemente con gli obiettivi prefissati;
+• è la funzione che “presiede, secondo un approccio risk based, alla gestione del 
+rischio di non conformità con riguardo a tutta l’attività aziendale (…)” verificando 
+che le procedure interne siano adeguate a prevenire tale rischio. Sono escluse dal 
+presidio della funzione le normative già oggetto di presidio da parte dell’Organo di 
+controllo o di altre Funzioni Aziendali di Controllo/ Funzioni di Controllo a diretto 
+riporto degli organi aziendali;
+• promuove la diffusione della cultura della conformità e la correttezza dei 
+comportamenti, quale elemento indispensabile al buon funzionamento aziendale. A 
+tal fine, in ottica risk based, nell’ambito dell’offerta di prodotti assicurativi rivolta ai 
+clienti consumatori, la Funzione svolge attività di controllo tra l’altro relativamente 
+a condotte nelle quali la Società, anche operando in conformità alle norme vigenti, 
+possa porre in essere comportamenti inappropriati in quanto causanti nocumento 
+ai propri clienti e/o ai mercati nei quali opera e/o impatti negativi di natura 
+reputazionale (c.d. conduct risk).
+Funzione Attuariale
+CRVFAT valuta, monitora e gestisce i rischi tecnici e attuariali, con particolare 
+riferimento alle passività assicurative, alla tariffazione dei prodotti e alla solvibilità. La 
+finalità ultima è fornire alla Direzione e agli Organi di Controllo una visione chiara e 
+oggettiva della situazione tecnico-finanziaria, a supporto delle decisioni strategiche e 
+garantendo la protezione degli assicurati nel lungo periodo.
+Nello svolgimento delle proprie attività CRVFAT gode di un livello di autonomia e di 
+indipendenza organizzativa. In particolare CRVFAT:
+• ha libero e diretto accesso a tutte le strutture e a tutte le informazioni disponibili 
+in azienda, incluse le informazioni utili a verificare l’adeguatezza dei controlli svolti 
+dalla Compagnia sulle Funzioni/Attività esternalizzate, per gli ambiti di propria 
+competenza;
+• stabilisce adeguati collegamenti e collabora con tutte le funzioni aziendali che 
+contribuiscono ai processi di sottoscrizione, riservazione e riassicurazione.
+CRVFAT può altresì avvalersi per l’esecuzione dei processi che coordina o ai quali 
+partecipa di competenti soggetti esterni alla Compagnia, ai quali provvede a conferire 
+il relativo incarico. A tal riguardo il Titolare dispone di un budget annuale di spesa 
+deliberato dal CA.
+Funzione Antiriciclaggio
+La Funzione Antiriciclaggio è una funzione aziendale di controllo di secondo livello, 
+dedicata al presidio dei Rischi di Riciclaggio nonché dei rischi connessi alla gestione 
+delle Sanction, e si inserisce nel contesto del sistema dei controlli interni, concorrendo 
+con le altre funzioni presenti in azienda ad assicurare una sana e corretta gestione
+=== pagina 19 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+18
+dell’impresa, coerentemente con gli obiettivi prefissati.
+In generale, la Funzione Antiriciclaggio ha la responsabilità di verificare e garantire 
+che i processi interni e le procedure che li regolano siano coerenti con l’obiettivo di 
+prevenire e contrastare la realizzazione di operazioni di riciclaggio e di finanziamento 
+del terrorismo. Nello svolgimento delle sue attività, la Funzione adotta anche le idonee 
+misure correttive promosse dal CA, che ne valuta l’efficacia.
+4.5 Sistema gestione dei rischi
+Funzione di Risk Management
+In linea con la mission generale riportata all’interno del Regolamento di Corporate 
+Governance, RKM ha il compito di garantire un efficace ed efficiente sistema di 
+gestione dei rischi (anche attraverso attività di supporto e consulenza alle altre 
+funzioni aziendali) e di assicurare, in linea con gli obiettivi aziendali, la valutazione e 
+la limitazione dei rischi ad un livello coerente con l’appetito al rischio definito dal CA.
+La Funzione, nel rispetto del principio di separatezza tra funzioni operative e 
+fondamentali, non ha diretta responsabilità di aree operative né risulta essere 
+gerarchicamente subordinata ai responsabili di tali aree e risulta essere collocata alle 
+dirette dipendenze del CA.
+Dal 01/01/2016, la Funzione Risk Management è esternalizzata sulla Controllante 
+CREDEM che eroga il servizio attraverso il Servizio Enterprise Risk Management 
+(ERISK). La Funzione di Risk Management è composta da:
+• Titolare della Funzione di Risk Management (c.d. Titolare) designato dal CA e in 
+possesso dei richiesti requisiti (in coerenza i requisiti disciplinati nel Regolamento 
+di Corporate Governance Credemvita) di professionalità onorabilità e indipendenza 
+unitamente a conoscenze ed esperienze tali da consentire una valutazione critica 
+della prestazione svolta e dei risultati raggiunti dal Fornitore, che svolgerà l’incarico 
+conferito nell’ambito delle prescrizioni contemplate dalla vigente normativa;
+• Responsabile, presso il fornitore, della Funzione Esternalizzata designato dal CA e in 
+possesso dei richiesti requisiti (in coerenza con i requisiti di idoneità contenuti nella 
+Regolamento di Corporate Governance Credemvita) di professionalità, onorabilità 
+e indipendenza, che svolgerà l’incarico conferito nell’ambito delle prescrizioni 
+contemplate dalla vigente normativa. Il Responsabile della Funzione Esternalizzata 
+ha il ruolo di Responsabile del Rischi Finanziari e Wealth (RFW) di E-Risk;
+• Unità Operativa Rischi Assicurativi (RAS) nel Team Rischi Finanziari e Wealth (RFW) 
+di E-Risk. Il Team dipende gerarchicamente dal Titolare della Funzione ed è deputato 
+alla gestione dei rischi assicurativi i cui relativi addetti sono in possesso di adeguati 
+requisiti di idoneità (competenze tecnico-specialistiche adeguate) e onorabilità per 
+lo svolgimento dell’attività ed in numero proporzionale all’attività svolta;
+• Da presidi specialisti per gli ambiti di rischio il cui presidio è a livello di gruppo quali:
+- ISR per gli aspetti collegati ai rischi IT/ICT;
+- VAL per gli aspetti collegati alla validazione dei prezzi e ai modelli di fair value;
+- RCR per gli aspetti collegati alla calibrazione dei parametri ai fini IFRS9.
+=== pagina 20 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+19
+Nello specifico il Titolare della Funzione:
+• assiste, su richiesta del Presidente e in ragione delle materie trattate, alle riunioni 
+del CA;
+• assicura piena collaborazione al CS e ai Revisori Esterni;
+• presenta, una volta all’anno, al CA, previo passaggio a CCR, un programma di attività 
+in cui sono indicati gli interventi che intende eseguire, tenuto conto dei principali 
+rischi cui l’impresa è esposta. Nel caso di variazioni significative, si provvede a 
+richiedere una nuova approvazione dello stesso da parte del CA;
+• presenta, almeno una volta all’anno, una relazione al CA, previo passaggio a CCR, 
+sull’adeguatezza ed efficacia del sistema di gestione dei rischi;
+• presenta, almeno una volta ogni tre anni (o immediatamente dopo qualsiasi 
+variazione significativa del profilo di rischio del fondo pensione), una relazione al CA 
+e al Responsabile del Fondo Pensione sulla valutazione interna del rischio del Fondo 
+Pensione Aperto con riferimento a tutti i rischi rilevanti per il fondo stesso;
+• supporta il CA, previo passaggio a CCR, nell’attività valutativa volta alla definizione 
+e approvazione del RAF e delle Politiche/Regolamenti in materia di gestione dei 
+rischi;
+• formula i pareri consultivi relativamente alle operazioni rilevanti e straordinarie che 
+ricadono nella competenza diretta del CA e per le quali viene richiesto comunque il 
+parere della Funzione.
+4.6 Politiche di Remunerazione
+Le Politiche di Remunerazione e Incentivazione della Compagnia contemplano anche 
+la remunerazione del Responsabile del FPA. In particolare essa è determinata in misura 
+fissa, dal Consiglio di amministrazione al momento del conferimento dell’incarico. Non 
+è prevista l’erogazione di una componente variabile. Detto costo è a carico del FPA.
+La remunerazione dei titolari delle funzioni di controllo è prevalentemente fissa e 
+adeguata rispetto al livello di responsabilità e di impegno connesso al ruolo; mentre 
+la parte variabile è coerente con il conseguimento degli obiettivi legati alle relative 
+funzioni ed è indipendente dai risultati conseguiti dalla Compagnia al fine di non 
+inficiare l’autonomia di giudizio delle funzioni stesse.
+=== pagina 21 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+20
+5. Flussi Informativi
+5.1 ALLEGATO 1 Flussi informativi verso Organi Aziendali e 
+Comitati Interni
+Funzione Documento Tipologia di informazione Destinatario Periodicità
+Responsabile del 
+Fondo
+Pensione
+Relazione annuale del 
+Fondo
+Pensione Aperto da 
+inviare alla COVIP*
+CA annuale
+Risk Management
+Documento 
+Valutazione
+Interna del Rischio
+Documento elaborato da 
+Funzione Risk Management 
+sulla Valutazione Interna del 
+Rischio
+CA/CCR triennale
+Risk Management Monitoraggio Rischio 
+FPA CA/CCR annuale
+Responsabile del 
+Fondo
+Pensione
+Rendiconto
+Numero iscritti
+Collegio 
+Sindacale
+annuale
+Consistenza patrimoniale
+Raccolta adesioni semestrale
+Liquidazione delle prestazioni semestrale
+Valore quota mensile annuale
+Limiti di investimento annuale
+Andamento chiamate al call 
+center semestrale
+Reclami semestrale
+Posizioni non riconciliate semestrale
+Team Prodotto e 
+Operations
+Monitoraggio 
+periodico
+Raccolta dati per monitoraggio 
+periodico (Dati call center, 
+Valore Quota Mensile, Controllo 
+limiti di investimento, Flussi 
+a carico degli aderenti, 
+Numero aderenti, Consistenze 
+patrimoniali, Posizioni non 
+riconciliate, Pratiche adesioni e 
+liquidazione, Tempi di evasione 
+liquidazioni)*
+Responsabile 
+del Fondo
+Pensione
+mensile
+=== pagina 22 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+21
+Team Governance e 
+Innovazione
+Report Reclami Informazioni relative ai 
+reclami*
+Responsabile 
+del Fondo 
+Pensione
+trimestrale
+Report procedimenti 
+contenziosi e in corso 
+nei sistemi alternativi 
+di risoluzione delle 
+controversie
+Informazioni relative ai 
+procedimenti contenziosi e ai 
+procedimenti di mediazione 
+(o altri sistemi alternativi di 
+risoluzione delle controversie)*
+ad evento
+Revisione Business 
+Continuity   
+Aggiornamento sulle misure di 
+continuità operativa applicabili 
+alla gestione del FPA
+annuale
+Team Governo del 
+Valore
+Rendiconto annuale 
+del Fondo Pensione 
+Destinazione Futuro*
+Responsabile 
+del Fondo 
+Pensione
+annuale
+Report Costi
+Documento sulla corretta 
+applicazione e sull’incidenza 
+dei costi a carico dei 
+comparti del Fondo Pensione 
+Destinazione Futuro*
+annuale
+Report incidenza tassi
+Sintesi e incidenza degli 
+interessi negativi su saldi 
+attivi di conto corrente
+a carico dei comparti del 
+Fondo Pensione Destinazione 
+Futuro
+annuale
+Report contabili
+Dati relativi alla separatezza 
+contabile amministrativa (Libro 
+aderenti FPA, Libro giornale 
+FPA)*
+annuale
+Report costi Costi pubblicazione valore 
+quota fondo Sole 24 Ore annuale
+Team Finanza
+Informativa conflitti 
+d’interesse
+Elenco operazioni in conflitto 
+interessi*
+Responsabile 
+del Fondo 
+Pensione
+semestrale
+Informativa gestione 
+finanziaria
+Rapporto sulla gestione 
+finanziaria* annuale
+Informativa risultanze 
+Comitato Investimenti 
+e ALM
+Risultanze Comitato 
+investimenti e ALM 
+Credemvita (verbali)*
+ad evento
+Delegato alla
+Gestione
+(Euromobiliare 
+Asset Management 
+SGR)
+Bollettino Informativo 
+Trimestrale del FPA
+Bollettino Informativo 
+Trimestrale del FPA
+Responsabile 
+del Fondo 
+Pensione
+trimestrale
+=== pagina 23 ===
+REGOLAMENTO GOVERNANCE 
+ “Destinazione Futuro - Fondo Pensione Aperto by Credemvita”
+22
+Responsabile 
+dell’attività 
+esternalizzata
+Relazione 
+esternalizzazione
+Relazione annuale sulle attività 
+esternalizzate che riguardano 
+il FPA*
+Responsabile 
+del Fondo 
+Pensione
+annuale
+Funzione di 
+Revisione Interna
+Report Revisione 
+Interna
+Documenti elaborati da 
+Funzione di
+Revisione Interna che 
+riguardano il FPA
+Responsabile 
+del Fondo 
+Pensione
+ad evento
+Funzione Risk 
+Management
+Report Risk 
+Management
+Documenti elaborati da 
+Funzione Risk Management 
+che riguardano il FPA
+Responsabile 
+del Fondo 
+Pensione
+almeno 
+annualmente
+Documento 
+Valutazione Interna 
+del Rischio
+Documento elaborato da 
+Funzione Risk Management 
+sulla Valutazione Interna del 
+Rischio
+Responsabile 
+del Fondo 
+Pensione
+triennale
+Funzione 
+Compliance Report Compliance
+Documenti elaborati da 
+Funzione Compliance che 
+riguardano il FPA/PIP*
+Responsabile 
+del Fondo 
+Pensione
+ad evento
+Funzione 
+interessata 
+dall’interlocuzione 
+con COVIP
+COVIP / COMPAGNIA Interlocuzioni COVIP/
+COMPAGNIA*
+Responsabile 
+del fondo 
+(unitamente 
+a GOV e 
+COMPLY)
+ad evento
+* Flusso trasmesso anche dal Responsabile del PIP

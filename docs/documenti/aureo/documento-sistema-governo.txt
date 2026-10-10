@@ -1,0 +1,800 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Documento sul sistema di governo – Documento sul sistema governo societario
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/Documento%20sul%20sistema%20governo%20societario.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: a70c2468ece3d5bfbe0df410d220a65c2abfd5726ce63e11bbbb3acc711ed753
+# Pagine: 23
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Fondo Pensione Aperto Aureo 
+Documento sul sistema di governo societario 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Emittente: U.O. Organizzazione e ICT 
+Data: 27 marzo 2026
+=== pagina 2 ===
+Pag. 2 di 23 
+ 
+ 
+ 
+SOMMARIO 
+ 
+1) Premessa .............................................................................................................. 3 
+2) Organizzazione della società rilevante per i profili gestionali del fondo pensione . 4 
+2.1) Organi Sociali, dirigenti e comitati ......................................................................... 4 
+2.2) Funzioni fondamentali ........................................................................................... 8 
+2.3) Funzione Investimenti ........................................................................................... 9 
+2.4) Processo degli investimenti ................................................................................ 10 
+2.5) Altre Strutture Aziendali coinvolte ....................................................................... 12 
+2.6) Responsabile del Fondo Pensione ..................................................................... 14 
+2.7) Organismo di Rappresentanza ........................................................................... 14 
+3. Sistema dei controlli interni ................................................................................. 15 
+3.1) Funzione di controllo della Conformità (Compliance) ......................................... 15 
+3.2) Consigliere referente per il sistema dei controlli interniErrore. Il segnalibro non è 
+definito. 
+3.3) Altri soggetti coinvolti .......................................................................................... 15 
+4. Sistema di gestione dei rischi ............................................................................. 17 
+5. Flussi informativi tra le Strutture Aziendali e il Responsabile del Fondo 
+Pensione…………………………………………………………………………………….18 
+6. Politica di remunerazione .................................................................................... 22
+=== pagina 3 ===
+Pag. 3 di 23 
+ 
+ 
+1) Premessa 
+ 
+BCC Risparmio&Previdenza S.G.R.p.A. (di seguito, la “ SGR” o la “ Società”), è una 
+società di gestione del risparmio, iscritta con numero 9 alla Sezione gestori di OICVM 
+dell’Albo delle SGR, tenuto dalla Banca d’Italia ai sensi dell’articolo 35 del Decreto 
+Legislativo del 24 febbraio 1998, n. 58 (di seguito, il “ TUF”). La SGR fa parte del 
+Gruppo Bancario Cooperativo ICCREA (di seguito, il “ Gruppo”) e il relativo capitale 
+sociale è interamente detenuto dalla capogruppo ICCREA Banca S.p.A. (di seguito, 
+“ICCREA” o la “ Capogruppo”); la sede legale della SGR è a Milano, in via Esterle 
+9/11. 
+La SGR esercita, tra l’altro, l’attività di gestione del Fondo Pensione Aperto Aureo (di 
+seguito, il “ Fondo Pensione”), istituito ai sensi dell’art. 12 del Decreto Legislativo 5 
+dicembre 2005, n. 252 di seguito, il “ Decreto 252”) e iscritto con 53 all’Albo tenuto 
+dalla Covip. 
+Essa colloca i propri prodotti/servizi (ovverosia le quote dei fondi comuni 
+d’investimento dalla stessa istituiti e gestiti, la previdenza complementare ovvero il 
+Fondo Pensione Aperto Aureo e il servizio di investimento di gestione di portafogli su 
+base individuale), nonché le quote o azioni di OICR di terzi, per il tramite della rete 
+delle Banche di Credito Cooperativo (di seguito, le “ BCC”), sulla base di apposite 
+convenzioni di collocamento/distribuzione. La Società contribuisce quindi 
+all’ampliamento dei prodotti e dei servizi offerti dal Gruppo, creando valore per i clienti 
+finali delle BCC consentendo che venga ad essi offerta una gamma prodotti più ampia 
+rispetto ai tradizionali prodotti di risparmio offerti dalle BCC stesse. 
+Il presente documento è redatto allo scopo di illustrare il sistema di governo societario 
+adottato dalla SGR con riferimento all’attività di gestione del Fondo Pensione, in 
+conformità con i principi normativi che disciplinano le forme pensionistiche 
+complementari, con i provvedimenti dell’Autorità di Vigilanza competente e nel rispetto 
+dei principi e criteri stabiliti dall’Organo di Amministrazione della SGR medesima; più 
+in particolare, il presente documento è redatto in conformità e ai sensi della 
+Deliberazione del 13 gennaio 2021 della Covip recante le “Istruzioni di vigilanza per le 
+società che gestiscono fondi pensione aperti, adottate ai sensi dell’art. 5-decies, 
+comma 1, del decreto legislativo 5 dicembre 2005, n. 252 ” (la “ Delibera Covip del 
+2021”). 
+Il presente documento è stato approvato dal Consiglio di Amministrazione della SGR 
+il 27 marzo 2026 ed è pubblicato sul sito internet della SGR, sito che già ospita tutta la 
+documentazione inerente al Fondo Pensione, incluso il rendiconto di gestione annuale.
+=== pagina 4 ===
+Pag. 4 di 23 
+ 
+ 
+2) Organizzazione della società rilevante per i profili gestionali del 
+fondo pensione 
+ 
+La società è organizzata in Strutture Aziendali, ovvero le Unità Organizzative a cui 
+sono affidati i compiti e i processi finalizzati alla realizzazione delle attività aziendali e 
+le attività connesse al sistema dei controlli interni, in conformità alle deliberazioni e alle 
+direttive adottate dal Consiglio di Amministrazione  in aderenza al Regolamento di 
+Corporate Governance di Gruppo e alle Direttive e Politiche in materia di 
+organizzazione societaria emanate dalla Capogruppo.  
+Con il termine Struttura Aziendale ci si riferisce a una struttura, di qualsiasi livello, nella 
+quale lavorino più risorse coordinate da un responsabile. All’interno delle Strutture 
+Aziendali possono essere individuati specifici Ruoli Funzionali, anche trasversali a più 
+unità, che si estrinsecano in compiti e responsabilità individuali. 
+ 
+Le Unità Organizzative identificano unità primarie omogenee per contenuti tecnici ed 
+operativi idonei a garantire il perseguimento degli obiettivi quantitativi (economici, 
+patrimoniali, finanziari, ecc.) e qualitativi assegnati. A livello sovraordinato, ci sono 
+unità operative complesse che assicurano, attraverso le Strutture Aziendali che le 
+compongono, le attività della Società. Esse sono responsabili del raggiungimento degli 
+obiettivi strategici, economici e di servizio, interno ed esterno, per ciascuna fissati in 
+virtù della specifica missione e sulla base di quanto di tempo in tempo definito dalla 
+pianificazione aziendale. 
+ 
+. 
+Di seguito sono indicati gli Organi e gli Organismi, le Strutture Aziendali e i soggetti 
+coinvolti nel processo di gestione del Fondo Pensione, riportando per ciascuno di essi 
+i relativi compiti e responsabilità. 
+ 
+2.1) Organi Sociali, dirigenti e comitati 
+ 
+Consiglio di Amministrazione 
+Il Consiglio di Amministrazione della SGR è responsabile dell’attività aziendale e 
+compie tutti gli atti che ritiene necessari o strumentali al conseguimento dell’oggetto 
+sociale. 
+Il Consiglio di Amministrazione stabilisce la politica di investimento dei fondi, ivi incluso 
+il Fondo Pensione. Allo stesso è riservata la determinazione dell' asset allocation  
+strategica e tattica e dei limiti generali di rischio dei portafogli di investimento.
+=== pagina 5 ===
+Pag. 5 di 23 
+ 
+ 
+Le decisioni prese dal Consiglio di Amministrazione sono supportate dall’attività 
+preparatoria svolta dal Direttore Generale o dai Comitati. 
+Nello specifico il Consiglio di Amministrazione provvede, tra l’altro e in particolare, per 
+quanto di rilievo ai fini del presente documento, a: 
+ definire le linee strategiche aziendali; 
+ determinare gli obiettivi e le politiche di investimento dei fondi gestiti (ivi incluso 
+il Fondo Pensione) con riferimento al profilo rischio-rendimento; 
+ approvare i processi di investimento e verificarne periodicamente 
+l’adeguatezza; 
+ effettuare un’attività di controllo sulla gestione del patrimonio dei fondi gestiti (ivi 
+incluso il Fondo Pensione) al fine di verificarne la corrispondenza alle strategie 
+di investimento definite; 
+ approvare la struttura organizzativa e l’attribuzione di compiti e responsabilità 
+alle unità operative e agli addetti; 
+ definire e approvare le politiche di governo dei rischi e il processo di gestione 
+dei rischi, comprensivi dei limiti delle diverse tipologie di rischio, assicurando 
+nel continuo la coerenza con la strategia di Gruppo;  
+ adottare tempestivamente idonee misure in presenza di carenze o anomalie nel 
+funzionamento dell’organizzazione interna; 
+ approvare le strategie relative alla configurazione dei sistemi informativi in modo 
+da assicurare la tempestiva rilevazione della situazione dei patrimoni in 
+gestione, nonché il corretto e tempestivo scambio dei flussi informativi con gli 
+altri soggetti coinvolti nel processo produttivo; 
+ deliberare in merito all’introduzione di nuovi prodotti, servizi e/o nuove linee di 
+business, nonché alle modifiche ai regolamenti dei fondi, ivi incluso il Fondo 
+Pensione; 
+ nominare/revocare, previo parere del Collegio Sindacale, i Responsabili delle 
+Funzioni di Revisione interna, di Conformità, di Antiriciclaggio e di Risk 
+Management, definendone i compiti. Provvede inoltre a esaminare gli esiti delle 
+verifiche periodiche compiute dalle medesime funzioni, esprimendo le proprie 
+determinazioni in merito; 
+ nominare il Responsabile del Fondo Pensione; 
+ determinare l’ambito e l’articolazione dei poteri delegati, nonché i tempi e le 
+modalità di riporto periodico in ordine al relativo esercizio, le funzioni da 
+esternalizzare, i criteri di scelta degli outsourcer, le modalità di controllo 
+dell’attività degli stessi, nonché deliberare il conferimento dei relativi incarichi; 
+In seno al Consiglio di Amministrazione sono attualmente in carica:
+=== pagina 6 ===
+Pag. 6 di 23 
+ 
+ 
+ due amministratori indipendenti, ai quali sono attribuiti specifici compiti e 
+specifiche responsabilità in considerazione della relativa qualifica quali membri 
+indipendenti del Consiglio di Amministrazione; 
+ un amministratore con delega alle tematiche ESG; 
+ un amministratore con delega alle tematiche commerciali e di marketing. 
+ 
+Collegio Sindacale 
+Il Collegio Sindacale è l’organo della SGR con funzioni di controllo. 
+Tale organo vigila sull’osservanza della legge e dello statuto, sul rispetto dei principi di 
+corretta amministrazione e, in particolare, sull’adeguatezza dell’assetto organizzativo, 
+amministrativo e contabile adottato dalla SGR, nonché sul suo concreto 
+funzionamento. 
+Il Collegio riveste anche il ruolo dell’ODV 231 (v. infra par. 3.3). 
+ 
+Direttore Generale 
+Il Direttore Generale è il capo dell’esecutivo. Da lui dipendono, in staff o in via 
+gerarchica, a eccezione delle Funzioni di controllo, tutte le altre strutture aziendali, di 
+cui si avvale per l’espletamento delle sue funzioni e per l’esercizio dei poteri propri o 
+delegatigli; la nomina e la revoca del Direttore Generale spettano al Consiglio di 
+Amministrazione, tenuto conto delle indicazioni fornite dal Consiglio di 
+Amministrazione della Capogruppo. 
+I poteri e le attribuzioni del Direttore Generale sono determinati dallo Statuto Sociale, 
+dagli atti di delega del Consiglio, ai sensi dello Statuto, nonché da quanto previsto dal 
+Regolamento delle Funzioni Aziendali della SGR, da Direttive e Politiche della 
+Capogruppo. 
+Per quanto di maggior rilievo ai fini del presente documento, si evidenzia che il 
+Direttore Generale: 
+ supervisiona, coordina e indirizza le diverse strutture aziendali, affinché queste 
+operino nel rispetto delle linee strategiche definite dal Consiglio di 
+Amministrazione e nell’interesse dei patrimoni gestiti; 
+ comunica al Responsabile della U.O. Investimenti gli indirizzi strategici generali 
+e le politiche deliberate dal Consiglio di Amministrazione, rendendo disponibile 
+il verbale delle delibere assunte; 
+ supervisiona l’operato dei Responsabili di U.O. in merito all’attività svolta, con 
+particolare riguardo, per quanto attiene agli Investimenti, ai risultati ottenuti in 
+relazione ai livelli di rischio previsti per i portafogli gestiti;
+=== pagina 7 ===
+Pag. 7 di 23 
+ 
+ 
+ gestisce, nell’ambito delle deleghe allo stesso conferite, particolari situazioni di 
+mercato che implicano lo scostamento dagli indirizzi gestionali deliberati dal 
+Consiglio di Amministrazione, al fine di governare al meglio eventuali 
+emergenze e situazioni contingenti. 
+ 
+Vice-Direttore Generale Vicario 
+Nell’esercizio delle sue funzioni, il Direttore Generale può avvalersi di uno o più Vice 
+Direttori Generali, di cui uno può assumere il ruolo di Vicario. 
+Il Vice Direttore Generale è nominato dal Consiglio di Amministrazione della Società, 
+previa consultazione con la Capogruppo. Egli riferisce direttamente al Direttore 
+Generale e, per gli ambiti di competenza specifici allo stesso attribuiti, al Consiglio di 
+Amministrazione e alla Capogruppo.  
+La revoca del Vice Direttore Generale spetta al Consiglio di Amministrazione. Il Vice 
+Direttore Generale Vicario: 
+ 
+ sostituisce il Direttore Generale in caso di assenza o impedimento temporaneo 
+dello stesso; 
+ esercita, in tale ipotesi, le medesime funzioni operative del Direttore Generale 
+nei limiti delle deleghe e dei poteri allo stesso attribuiti, fatti salvi i poteri riservati 
+al Consiglio di Amministrazione; 
+ non assume poteri riservati al Consiglio di Amministrazione, salvo specifica 
+delega; 
+ garantisce il coordinamento con le Funzioni di Controllo assicurando il corretto 
+flusso informativo verso le stesse; 
+ riferisce tempestivamente al Consiglio di Amministrazione in merito alle attività 
+svolte e agli eventuali profili di rilievo emersi nel periodo di sostituzione del 
+Direttore Generale; 
+ sovraintende anche le politiche di Customer Engagement al fine di migliorare 
+costantemente il supporto offerto alle BCC e ai clienti; a tal riguardo il Vice-
+Direttore Generale Vicario si coordina con il Responsabile dell’Area Marketing 
+e Sviluppo della Capogruppo e il Responsabile della U.O. Commerciale & 
+Marketing della SGR per analizzare le esigenze operative e commerciali al fine 
+di ottimizzare la customer experience intercettando le esigenze della clientela e 
+predisponendo un piano strategico commerciale da sottoporre all’attenzione del 
+Direttore Generale e del Consiglio di Amministrazione. 
+ 
+In caso di assenza o impedimento contestuale sia del Direttore Generale sia del Vice 
+Direttore Generale Vicario, le funzioni di sostituzione del Direttore Generale sono 
+esercitate dal Vice Direttore Generale.
+=== pagina 8 ===
+Pag. 8 di 23 
+ 
+ 
+Comitati 
+La SGR ha istituito i seguenti sei comitati permanenti: il Comitato Rischi, il Comitato 
+Investimenti, il Comitato Sviluppo Prodotti, il Comitato Operativo, il Comitato ESG e il 
+Comitato Segnalazioni delle Violazioni.  
+Il Comitato Rischi è un comitato endoconsiliare, composto da tre membri del Consiglio 
+di Amministrazione, tutti non esecutivi e per la maggioranza indipendenti, coordinato 
+e diretto da un presidente, designato dal Consiglio di Amministrazione, e dotato di un 
+proprio regolamento interno. Il Comitato svolge funzioni propositive, consultive e 
+istruttorie in materia di governo dei rischi. In particolare, al Presidente del Comitato 
+Rischi sono attribuite facoltà e poteri tipiche di un Consigliere referente per il sistema 
+dei controlli interni.  
+Il Comitato Investimenti ha funzioni consultive e propositive nei confronti del Consiglio 
+di Amministrazione e svolge specifiche funzioni nell’ambito del processo di 
+investimento (in merito al quale, maggiori dettagli sono forniti nel prosieguo del 
+presente documento). 
+Il Comitato Sviluppo Prodotti ha funzioni consultive e di supporto alla Direzione 
+Generale e al Consiglio di Amministrazione in tema di introduzione di nuovi prodotti o 
+linee di business, ingresso in nuovi mercati, ecc. 
+Il Comitato Operativo ha funzioni consultive e di supporto alla Direzione Generale in 
+tema di supervisione delle iniziative progettuali intraprese dalla Società e di 
+monitoraggio dei servizi forniti dagli Outsourcer. 
+Il Comitato ESG ha funzioni consultive e propositive nei confronti del Consiglio di 
+Amministrazione in tema di iniziative, strategie, politiche, reportistica in materia ESG. 
+Il Comitato Segnalazioni delle Violazioni assicura il funzionamento dell’intero processo 
+di segnalazione delle violazioni (Whistleblowing). 
+Si fa presente che in linea con quanto previsto dall’ art 14 c. 2 del provvedimento di 
+Banca d’Italia del 5 dicembre 2019 “Regolamento di attuazione degli articoli 4-
+undecies e 6, comma 1, lettere b) e c-bis), del TUF” la SGR, in qualità di intermediario 
+di “maggiori” dimensioni, avrebbe dovuto istituire all’interno dell’organo con funzione 
+di supervisione strategica due Comitati specializzati in tema di “nomine” e 
+“remunerazione”. Nel caso specifico, la SGR, in qualità di Intermediario appartenente 
+ad un gruppo bancario, si è avvalsa della deroga prevista all’interno dello stesso 
+articolo al comma 5, il quale indica la non necessarietà dell’istituzione dei suddetti 
+Comitati, in presenza di corrispondenti organismi di Capogruppo.  
+ 
+2.2) Funzioni fondamentali 
+La SGR è già dotata delle funzioni fondamentali, come definite dal Decreto 252, 
+avendo istituito la funzione di gestione dei rischi e la funzione di revisione interna.
+=== pagina 9 ===
+Pag. 9 di 23 
+ 
+ 
+Funzione di gestione dei rischi (Risk Management) 
+Le attività della Funzione Risk Management della SGR sono svolte, sulla base di un 
+apposito contratto di esternalizzazione, dalla Capogruppo Iccrea Banca tramite l’Area 
+Chief Risk Officer nel cui ambito sono presenti unità organizzative con personale 
+dedicato all’espletamento del servizio di risk management esternalizzato dalle Società 
+del Perimetro Diretto. Nell’ambito di tale personale sono identificati e nominati i 
+Responsabili Risk Management di ciascuna Società. 
+La Funzione accentrata risponde funzionalmente e direttamente al Consiglio di 
+Amministrazione e al Collegio Sindacale della SGR per le attività a questa riferibili. 
+Il Servizio è eseguito in prevalenza in loco presso la SGR, applicando gli standard 
+operativi e i modelli di funzionamento sottesi ai rispettivi framework di risk management 
+e risk governance definiti dalla Capogruppo e tempo per tempo vigenti. 
+La Funzione svolge un’attività di controllo, ex ante e nel continuo, sui rischi a cui sono 
+esposti la Società e i propri prodotti e strumenti finanziari gestiti e collocati (gestioni 
+collettive e individuali), in conformità alle norme comunitarie e nazionali di settore, ivi 
+comprese le Disposizioni di Vigilanza, alla regolamentazione interna e alle Direttive e 
+Policy della Capogruppo emanate in materia. 
+Maggiori dettagli su come la Funzione di Risk management contribuisca al (e sia 
+coinvolta nel) processo di investimento sono forniti al punto 2.4 che segue. 
+Funzione di revisione interna (Internal Audit)  
+L’Area Chief Audit Executive (Area CAE) della Capogruppo Iccrea Banca, collocata a 
+diretto riporto del Consiglio di Amministrazione di quest’ultima, espleta, sulla base di 
+apposito contratto di esternalizzazione, le attività della Funzione di Revisione Interna 
+di BCC Risparmio & Previdenza SGR, tramite, in particolare, l’U.O. Audit Capogruppo 
+e Perimetro Diretto e Indiretto. 
+Il Responsabile di tale U.O. riveste il ruolo funzionale di Responsabile dell’Internal 
+Audit della SGR, dipende gerarchicamente dal CAE e risponde funzionalmente e 
+direttamente al Consiglio di Amministrazione e al Collegio Sindacale della SGR per le 
+attività a questa riferibili. 
+In particolare, l’Area CAE svolge, per il tramite delle U.O. coordinate, le attività di 
+controllo di terzo livello volte a valutare la completezza, la funzionalità e l’adeguatezza 
+del Sistema dei Controlli Interni, del sistema informativo, del processo di gestione dei 
+rischi, nonché del c.d. Risk Appetite Framework e a fornire suggerimenti e 
+raccomandazioni finalizzati al miglioramento dell’efficacia e dell’efficienza 
+dell’organizzazione e delle politiche e dei processi di gestione e controllo dei rischi del 
+Gruppo. 
+ 
+2.3) U.O. Investimenti 
+L’assetto organizzativo della U.O. Investimenti si articola in cinque Unità 
+Organizzative: l’Unità Organizzativa Portafogli d’investimento, con compiti di 
+definizione dell’ asset allocation  tattica dei portafogli gestiti e delle strategie
+=== pagina 10 ===
+Pag. 10 di 23 
+ 
+ 
+sistematiche di costruzione del portafoglio e di coordinamento delle tre Unità Fondi in 
+titoli, GP Istituzionali e Retail e Fondi di fondi e Consulenza, e l’Unità Organizzativa 
+Commerciale e Marketing. 
+Ciascuna delle cinque Unità sopra richiamate ha al vertice un soggetto responsabile; 
+è inoltre individuato un Responsabile dell’intera U.O. Investimenti che, anche per il 
+tramite del Responsabile dell’Unità Organizzativa Portafogli d’investimento, comunica 
+ai gestori le scelte di asset allocation  tattica approvate dal Consiglio di 
+Amministrazione e supervisiona l’attività di gestione affinché questa rappresenti la 
+miglior traduzione operativa di quanto disposto dal Consiglio di Amministrazione. 
+Le Unità Portafogli d’investimento, Fondi in titoli e Fondi di fondi e Consulenza, 
+contribuiscono, ciascuna per la propria area di competenza, alle attività di gestione del 
+Fondo Pensione. 
+In seno all’U.O. Commerciale e Marketing è stato istituito il ruolo funzionale di 
+“Responsabile Commerciale del Fondo Pensione Aperto Aureo” con i seguenti compiti: 
+predisposizione e manutenzione della documentazione di offerta e/o precontrattuale 
+del Fondo Pensione; coordinamento e cura dell'attività di relazione con il Responsabile 
+del Fondo Pensione e con le Funzioni di Controllo nel rispetto delle loro prerogative; 
+presidio dei contenuti e dei rapporti contrattuali con i distributori del Fondo Pensione; 
+presidio del processo POG in cui la SGR è coinvolta come produttore; promozione 
+dell’attivazione di adesioni collettive al Fondo Pensione; promozione della 
+sottoscrizione del Fondo Pensione presso i distributori anche attraverso iniziative di 
+educazione finanziaria e animazione commerciale; contribuzione allo sviluppo di 
+servizi connessi al Fondo Pensione e rivolti agli aderenti. 
+ 
+2.4) Processo degli investimenti  
+Il Processo di Investimento della SGR coinvolge principalmente quattro attori: 
+ Consiglio di Amministrazione; 
+ Consigliere delegato in ambito ESG; 
+ Comitato Investimenti; 
+ U.O. Investimenti. 
+Le scelte d’investimento poste in atto dai singoli livelli decisionali (Consiglio di 
+Amministrazione e U.O. Investimenti) avvengono nel rispetto delle proprie 
+competenze, di quanto disposto dai soggetti/organi funzionalmente superiori – ove 
+applicabile – nonché del quadro normativo di riferimento e delle previsioni 
+regolamentari. 
+Parallelamente, la Funzione di Risk Management effettua una costante attività di 
+monitoraggio e consulenza a supporto di ciascun livello.
+=== pagina 11 ===
+Pag. 11 di 23 
+ 
+ 
+Il Consiglio di Amministrazione definisce il processo di investimento e ne verifica 
+costantemente l’adeguatezza rispetto all’operatività aziendale, determina l’allocazione 
+dei poteri decisionali tra i diversi soggetti coinvolti nel processo medesimo ed individua 
+le strutture di supporto ed i sistemi informativi di ausilio alle scelte gestionali. 
+Il Consiglio di Amministrazione delibera per ciascun “prodotto gestito” (ivi incluso il 
+Fondo Pensione, naturalmente con le distinzioni proprie di ciascuno dei comparti) la 
+c.d. asset allocation strategica e, con frequenza tendenzialmente mensile, definisce, 
+su proposta del Comitato Investimenti veicolata dal Responsabile della U.O. 
+Investimenti o da un suo sostituto, la c.d. asset allocation tattica. 
+È inoltre riservata alla competenza del Consiglio di Amministrazione, su proposta della 
+U.O.  Investimenti e della Funzione di Risk Management, la deliberazione del c.d. 
+“Universo Investibile”, ovverosia della tipologia di titoli azionari, obbligazionari 
+corporate e governativi, derivati e fondi tra i quali è possibile individuare gli specifici 
+strumenti finanziari oggetto di investimento del patrimonio dei prodotti gestiti (ivi 
+incluso il Fondo Pensione), ossia i titoli oggetto dell’attività di stock/bond/fund picking. 
+L‘Universo Investibile può essere determinato sia attraverso una caratterizzazione 
+attiva (elenco dei titoli/mercati nei quali è possibile investire e/o criteri oggettivi per 
+individuarli), sia attraverso una caratterizzazione passiva (elenco dei titoli/mercati nei 
+quali non è possibile investire e/o criteri oggettivi per individuarli). 
+Il Consigliere delegato in ambito ESG propone e promuove  al Consiglio di 
+Amministrazione le iniziative in tema di sostenibilità, mediante fornitura di indirizzi ed 
+elaborazione di proposte finalizzate all’integrazione nel Piano di Sostenibilità 
+individuale delle tematiche ESG e supervisione della successiva effettiva attuazione; 
+esamina e valuta le tematiche attinenti alla sostenibilità, alla luce degli indirizzi, dei 
+principi e delle iniziative nazionali e internazionali in materia; formula, su richiesta del 
+Consiglio di Amministrazione, pareri in merito alle strategie ESG. 
+Il Comitato Investimenti è un organismo collegiale, che si riunisce con frequenza 
+tendenzialmente mensile o ridotta, se ritenuto necessario, e che ha funzioni propositive 
+e consultive nei confronti del Consiglio di Amministrazione. Al fine di supportare 
+adeguatamente il Consiglio di Amministrazione nell’elaborazione delle scelte di asset 
+allocation tattica, il Comitato Investimenti, relativamente a ciascun Prodotto gestito 
+individua la griglia di asset allocation tattica, contenente i valori minimi e massimi 
+raggiungibili per i rispettivi portafogli. Con specifico riferimento al Fondo Pensione 
+Aperto, il Comitato Investimenti formula, con periodicità almeno annuale, proposte al 
+Consiglio di Amministrazione con riguardo ai nuovi sviluppi dei mercati e alle eventuali 
+modifiche della politica di investimento. 
+La U.O. Investimenti è responsabile dell’attuazione delle linee guida definite dal 
+Consiglio di Amministrazione e dal Comitato Investimenti. In relazione alla 
+individuazione dei singoli investimenti, il processo pone l’attenzione ad una adeguata 
+diversificazione del portafoglio unita all’applicazione dei criteri di selezione, sia 
+finanziari che volti a limitare la presenza di strumenti a impatto negativo sulla società,
+=== pagina 12 ===
+Pag. 12 di 23 
+ 
+ 
+sull’ambiente e sulla governance, così da limitare il rischio di sostenibilità rispetto ai 
+singoli investimenti. 
+La Funzione di Risk Management contribuisce al processo di investimento attraverso 
+una costante attività di monitoraggio e un contributo di supporto e consulenza 
+nell’analisi finanziaria. 
+L’attività di monitoraggio si concretizza nella verifica, da parte della Funzione di Risk 
+Management, del rispetto da parte dei gestori sia dei limiti agli investimenti definiti dal 
+Consiglio di Amministrazione sia delle scelte di asset allocation tattica dallo stesso 
+deliberate. 
+La Funzione di Risk Management supporta il Consiglio di Amministrazione nell’analisi 
+delle performance dei prodotti in essere, attraverso la produzione di specifici report; 
+essa propone inoltre ulteriori elaborazioni a supporto sia delle decisioni del Consiglio 
+di Amministrazione circa l’asset allocation tattica, sia delle analisi effettuate dalla U.O. 
+Investimenti. 
+Il grafico che segue fornisce una illustrazione di sintesi del processo di investimento 
+applicato dalla SGR per la gestione dei patrimoni gestiti (ivi incluso il Fondo Pensione). 
+ 
+ 
+2.5) Altre Strutture Aziendali coinvolte 
+U.O. Governo operativo
+=== pagina 13 ===
+Pag. 13 di 23 
+ 
+ 
+La U.O. Governo Operativo è responsabile di assicurare il regolare ed efficace 
+svolgimento dei processi e dei progetti aziendali, contribuendo allo sviluppo 
+organizzativo e alla solidità amministrativa della SGR. In particolare, avvalendosi del 
+Responsabile della U.O. Contabilità e Bilancio, la struttura garantisce il presidio delle 
+attività contabili, amministrative e fiscali, anche in coordinamento con la Capogruppo, 
+e assicura la predisposizione delle segnalazioni di vigilanza e dei flussi informativi a 
+supporto della redazione del bilancio. Assicura il regolare svolgimento dei processi e 
+sviluppo dei progetti aziendali, avvalendosi, in particolare, del supporto del 
+Responsabile della U.O. Sviluppo Progetti e del Responsabile della U.O. 
+Organizzazione e ICT e/o del Comitato Operativo. Supporta la Direzione Generale 
+nelle attività di governance e nella definizione dell’assetto organizzativo e contabile, in 
+coerenza con le Linee Guida di Gruppo. Coordina inoltre la pianificazione e il 
+monitoraggio dei progetti strategici della SGR, favorendo l’allineamento con le 
+iniziative della Capogruppo, e contribuisce all’identificazione e alla gestione dei rischi 
+informatici connessi ai processi di competenza. 
+La struttura è articolata in: 
+ Contabilità e Bilancio; 
+ Organizzazione e ICT; 
+ Sviluppo Progetti 
+ 
+U.O. Contabilità e Bilancio 
+La U.O. Contabilità e Bilancio, da cui dipende l’U.O. Amministrazione, gestisce le 
+attività di contabilità, controllo di gestione, amministrazione e fiscalità per la SGR e per 
+i prodotti in gestione (ivi incluso il Fondo Pensione); gestisce e/o sovraintende alle 
+segnalazioni di vigilanza e alle segnalazioni dati ai principali info provider; esegue i 
+controlli amministrativi e i controlli di linea in materia di Antiriciclaggio. 
+A decorrere dal 1° dicembre 2025 è divenuta efficace l’operazione di scissione parziale 
+del compendio di servizi afferente alle attività di Back Office Finanza e Contact Center 
+in favore di BCC Sinergia Spa e contestuale esternalizzazione a quest’ultima delle 
+attività svolte dal compendio scisso, ivi comprese quelle relative al Fondo Pensione. 
+BCC Sinergia è pertanto subentrata alla SGR nel contratto che dal 1° gennaio 2018 
+prevede l’esternalizzazione della gestione amministrativa degli aderenti del Fondo 
+Pensione presso la Società OneWelf S.r.l. 
+. 
+ 
+U.O. Organizzazione e ICT
+=== pagina 14 ===
+Pag. 14 di 23 
+ 
+ 
+La U.O. Organizzazione e ICT svolge attività di sviluppo dell’assetto organizzativo e 
+dei meccanismi di governance, presidiando inoltre i relativi profili informatici. La U.O. 
+si articola in tre unità organizzative: Organizzazione, ICT e Outsourcer Control. 
+ 
+U.O. Sviluppo Progetti 
+La U.O. Sviluppo Progetti ha il compito di realizzare un presidio decentrato impegnato 
+nella gestione dei progetti per attività di Demand Management e PMO, con riporto 
+funzionale alla Capogruppo. 
+ 
+2.6) Responsabile del Fondo Pensione 
+La SGR ha nominato il Responsabile del Fondo Pensione, il quale svolge la propria 
+attività in modo autonomo e indipendente, riportando direttamente all’organo di 
+amministrazione della stessa SGR relativamente ai risultati dell’attività svolta. 
+Il Responsabile vigila sull’osservanza della normativa e del regolamento del Fondo 
+Pensione nonché sul rispetto delle buone pratiche e dei principi di corretta 
+amministrazione del Fondo Pensione, nell’esclusivo interesse degli aderenti. 
+Il Responsabile del Fondo Pensione vigila, in particolare: 
+ sulla gestione finanziaria del Fondo Pensione, con riferimento ai controlli sulle 
+politiche di investimento e sulla gestione e il monitoraggio dei rischi; 
+ sulla gestione amministrativa del Fondo Pensione; 
+ sulle misure di trasparenza adottate nei confronti degli aderenti. 
+Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà 
+tempestiva comunicazione all’organo di amministrazione e a quello di controllo della 
+SGR indicando gli interventi correttivi da adottare. 
+ 
+2.7) Organismo di Rappresentanza  
+Allo stato attuale non risultano essersi verificate le condizioni cui il Decreto legislativo 
+252/05 subordina la necessità di istituire un Organismo di rappresentanza e, dunque, 
+tale Organismo non è stato istituito.
+=== pagina 15 ===
+Pag. 15 di 23 
+ 
+ 
+3. Sistema dei controlli interni 
+Il Sistema di controllo interno della SGR è articolato su tre livelli. 
+I controlli di 1° livello sono effettuati dalle stesse strutture di business e/o dagli 
+outsourcer coinvolti nel processo. I controlli di 2° livello presidiano il processo di 
+gestione e di controllo dei rischi e sono affidati alla Funzione di controllo della 
+Conformità, alla Funzione di Risk Management e alla Funzione AML. I controlli di 3° 
+livello sono affidati alla Funzione di Internal Audit. 
+Il funzionamento e i compiti delle Funzioni di Risk Management e di Internal Audit sono 
+già stati descritti al punto A.2. del presente documento; nel prosieguo del presente 
+paragrafo ci si soffermerà, in particolare, sulla descrizione del funzionamento e dei 
+compiti della Funzione di controllo della Conformità. 
+ 
+3.1) Funzione di controllo della Conformità (Compliance) 
+Le attività della Funzione Compliance della SGR sono svolte, sulla base di un apposito 
+contratto di esternalizzazione, dalla Capogruppo Iccrea Banca nell’ambito dell’Area 
+Chief Compliance Officer (CCO) al cui interno sono presenti unità organizzative con 
+personale dedicato all’espletamento del servizio di Compliance esternalizzato dalle 
+Società del Perimetro Diretto. Nell’ambito di tale personale sono identificati e nominati 
+i Responsabili di Compliance di ciascuna Società segnalati Or.So. 
+La Funzione accentrata dipende gerarchicamente dall’Area CCO e risponde 
+funzionalmente e direttamente al Consiglio di Amministrazione e al Collegio Sindacale 
+della SGR per le attività a questa riferibili. 
+La Funzione di compliance costituisce il presidio del “rischio di non conformità” inteso 
+come il rischio di incorrere in sanzioni giudiziarie o amministrative, perdite finanziarie 
+rilevanti o danni reputazionali derivanti dal mancato rispetto di leggi, regolamenti, 
+codici di autoregolamentazione, procedure interne e codici di condotta applicabili 
+all’attività della Società (ivi incluse tutte le previsioni applicabili rispetto all’operatività 
+del Fondo Pensione). 
+La Funzione opera con l’intento di individuare e prevenire/mitigare tale rischio. 
+ 
+ 
+3.2) Altri soggetti coinvolti 
+In adozione dei provvedimenti previsti in ottemperanza al D.Lgs. 231/2001 e alle 
+direttive impartite in materia dalla Capogruppo, la SGR ha istituito, su delibera del 
+Consiglio di Amministrazione, un “Organismo di Vigilanza ai sensi del D.Lgs. 
+231/2001”.
+=== pagina 16 ===
+Pag. 16 di 23 
+ 
+ 
+L’Organismo sovrintende – con la collaborazione del Direttore Generale e, 
+all’occorrenza, di tutta la struttura nonché di società, consulenti ed enti esterni (quali 
+ad esempio la Società di Revisione) – a tutte le attività e processi previsti, anche 
+indirettamente, dal decreto stesso. 
+In ottemperanza ai requisiti di legge e in coerenza con le Disposizioni di Vigilanza sulle 
+Banche il Consiglio di Amministrazione della SGR ha affidato le funzioni di Organismo 
+di Vigilanza ex D.Lgs. 231/2001 al Collegio Sindacale della SGR.
+=== pagina 17 ===
+Pag. 17 di 23 
+ 
+ 
+4. Sistema di gestione dei rischi 
+ 
+Il sistema di gestione dei rischi è costituito dall’insieme delle regole, delle procedure e 
+delle strutture organizzative volte a consentire l’identificazione, la misurazione, la 
+gestione e il monitoraggio dei principali rischi. Tale sistema è integrato negli assetti 
+organizzativi adottati dalla SGR e tiene in adeguata considerazione la normativa 
+applicabile e le best practices esistenti. 
+In tale contesto un ruolo cardine è, naturalmente, attribuito alla Funzione di Risk 
+Management della Società, la quale, oltre agli specifici compiti che le sono attribuiti 
+nell’ambito del processo di investimento e che sono stati sinteticamente richiamati in 
+precedenza: 
+ contribuisce alla definizione di un sistema di limiti operativi interni con 
+particolare riguardo ai rischi di credito e di liquidità (“Universo Investibile”); 
+ esprime un proprio parere in merito, nell’individuazione delle controparti di 
+negoziazione e dei connessi limiti operativi, ai fini delle conseguenti 
+deliberazioni consiliari.; 
+ effettua attività di monitoraggio relativa alla gestione dei rischi di mercato, di 
+credito e operativi (così come definiti dalla risk policy aziendale) dei portafogli 
+gestiti (ivi incluso il Fondo Pensione); 
+ presta supporto all’attività di pricing svolta dalle altre funzioni aziendali, 
+garantendo la corretta valorizzazione degli strumenti finanziari; 
+ verifica il rispetto dei limiti definiti sull’esposizione al rischio finanziario e, 
+quando necessario, valuta gli eventuali interventi correttivi fornendo adeguato 
+supporto ai gestori; 
+ valida i flussi informativi necessari ad assicurare il tempestivo controllo delle 
+esposizioni ai rischi finanziari dei patrimoni gestiti e la rilevazione di eventuali 
+anomalie riscontrate nell’operatività; 
+ verifica la coerenza dell’attività di gestione rispetto alle strategie ed agli indirizzi 
+generali di investimento deliberati dal Consiglio di Amministrazione; 
+ verifica la coerenza dei modelli di misurazione dei rischi, effettuando prove di 
+back-testing sui modelli finanziari utilizzati e proponendo, nel caso fosse 
+opportuno, il loro adeguamento; 
+ effettua attività di controllo del rispetto dei limiti interni, normativi e 
+regolamentari, relativi ai prodotti gestiti, in modo autonomo rispetto 
+all’amministrazione e avvalendosi di proprie procedure; 
+ elabora la reportistica nei confronti dell’Organo Amministrativo, del Direttore 
+Generale, del Comitato Investimenti e dei responsabili delle strutture operative 
+a riguardo dell’evoluzione dei rischi, dell’analisi delle performance e delle 
+violazioni dei limiti operativi fissati.
+=== pagina 18 ===
+Pag. 18 di 23 
+ 
+ 
+ identifica gli eventi di rischio a cui è sottoposta la società e i relativi fattori di 
+rischio raccogliendo i dati per le valutazioni di rischio operativo; 
+ cura l’aggiornamento periodico dei database utilizzati per le proprie 
+elaborazioni. 
+Inoltre, in materia di presidi organizzativi, procedurali e metodologici per 
+l’identificazione, valutazione e gestione / mitigazione del profilo di esposizione ai rischi 
+ICT e di Sicurezza, con l’obiettivo di assicurare la dovuta protezione del patrimonio 
+informativo aziendale e delle risorse ICT da minacce che ne possono compromettere 
+o deteriorare disponibilità, integrità e riservatezza, al fine di conformarsi al 
+Regolamento (UE) 2022/2554 del parlamento europeo e del consiglio del 14 dicembre 
+2022, relativo alla “Resilienza Operativa Digitale per il settore finanziario – DORA (nel 
+seguito anche “Regolamento DORA”), è stato ampliato il Framework di ICT & Security 
+Risk Management. In particolare, il modello operativo fa perno sul ruolo della Funzione 
+Non-Financial Risk Management della Capogruppo Iccrea Banca, in qualità di 
+responsabile della supervisione e della gestione dei rischi in parola. Nello specifico, la 
+Funzione Non-Financial Risk Management, in qualità di gestore del rischio informatico 
+per il Gruppo: 
+ assicura le attività di identificazione e valutazione di tali rischi, rilevando le 
+eventuali carenze dei presidi di gestione e controllo ovvero le vulnerabilità 
+esistenti che possano incidere negativamente sul profilo di rischio in parola; 
+ identifica e indirizza ogni misura di intervento necessaria a sanare le eventuali 
+disfunzioni rilevate e a riportare il profilo di rischio al livello ritenuto accettabile 
+nel quadro di propensione al rischio definito; 
+ supervisiona la corretta e tempestiva esecuzione delle iniziative di remediation 
+identificate, monitorando l’efficacia di tali misure, nonché intervenendo al fine di 
+indirizzare tali misure se necessario; 
+ supporta, per la componente relativa ai rischi ICT e di Sicurezza, le competenti 
+strutture nella 
+ proposta di aggiornamento annuale del Risk Appetite Framework, curandone lo 
+sviluppo del sistema degli indicatori (KRI) relativi ai rischi ICT e di sicurezza; 
+ garantisce, in esito alle attività svolte, un adeguato livello di reporting 
+informativo a favore delle linee di business, della Direzione Generale, degli 
+Organi Aziendali e delle preposte Autorità di Vigilanza; 
+ identifica il perimetro del piano annuale dei test di sicurezza, dai cui esiti viene 
+identificato, oltre che monitorato nella sua attuazione, il conseguente piano di 
+trattamento delle vulnerabilità al fine di contenere / ricondurre il profilo di rischio 
+entro livelli di accettabilità; 
+ coordina, su base annuale le attività connesse all’esecuzione di Test di 
+sicurezza avanzati c.d. Threat-Led Penetration Testing (TLPT-TIBER) nonché 
+esercizi di Stress Test regolamentari in ambito cyber risk. 
+La Funzione di Risk Management della Società: 
+ collabora con la Funzione Non-Financial Risk Management di Capogruppo 
+all’identificazione e alla valutazione di eventuali rischi ICT e di Sicurezza 
+direttamente connessi all’operatività della SGR;
+=== pagina 19 ===
+Pag. 19 di 23 
+ 
+ 
+ supporta la Funzione Non-Financial Risk Management di Capogruppo nella 
+gestione dei rischi ICT e di Sicurezza, anche mediante la comunicazione alla 
+stessa di eventuali accadimenti che potrebbero impattare negativamente i livelli 
+di rischio ICT e di sicurezza.
+=== pagina 20 ===
+Pag. 20 di 23 
+ 
+ 
+5. Flussi informativi tra le strutture aziendali e il Responsabile del 
+Fondo Pensione 
+Le procedure interne della SGR prevedono adeguati flussi informativi e documentali, 
+su base periodica e ad evento, a beneficio del Responsabile del Fondo Pensione, per 
+il tramite dei quali a quest’ultimo viene garantito un adeguato set di reportistica, notizie 
+e dati riguardanti il Fondo Pensione, al fine di consentirgli di espletare le proprie attività 
+di controllo sulla gestione finanziaria e amministrativa del Fondo Pensione e sulle 
+misure di trasparenza adottate dalla SGR nei confronti degli aderenti e beneficiari. 
+I flussi destinati al Responsabile del Fondo Pensione comprendono: 
+ informazioni periodiche sull’attività complessiva del Fondo Pensione, anche 
+mediante la trasmissione dei documenti richiesti dalla Covip; 
+ informazioni periodiche sull’attività svolta; 
+ informazioni tempestive in relazione a particolari eventi che incidono 
+significativamente sulla redditività degli investimenti e sulla caratterizzazione 
+del Fondo Pensione. 
+La documentazione destinata, su base periodica, al Responsabile del Fondo 
+Pensione, è tramessa allo stesso con periodicità almeno trimestrale. A titolo 
+esemplificativo e non esaustivo il set documentale trimestrale contiene le seguenti 
+informazioni: (i) dati su patrimonio e raccolta;  (ii) dati sulle adesioni, (iii) informazioni 
+sulla gestione finanziaria (performance dei comparti, indicatori di rischio, andamento 
+dei mercati di riferimento, commenti di gestione, composizione dei portafogli dei 
+comparti), (iv) trattazione dei singoli esposti ricevuti nel periodo; (v) reportistica sui 
+tempi di liquidazione delle anticipazioni, riscatti e trasferimenti; (vi) reportistica sull’ 
+andamento delle riconciliazioni e della valorizzazione dei contributi; (vii) reportistica sui 
+sospesi e sugli storni. 
+Le procedure interne della SGR prevedono, altresì, l’organizzazione di riunioni 
+periodiche nell’ambito delle quali il Responsabile incontra le principali unità coinvolte 
+nel processo di gestione del Fondo Pensione, per l’esame congiunto della 
+documentazione messa a disposizione e la trattazione delle tematiche di rilievo. 
+Il Responsabile del Fondo Pensione deve assistere alle riunioni del Consiglio di 
+Amministrazione e del Collegio Sindacale della SGR in tutte le ipotesi in cui vi siano 
+all’ordine del giorno materie inerenti al Fondo Pensione e/o che possano avere impatto 
+sugli aderenti al Fondo Pensione. 
+Delle anomalie e delle irregolarità riscontrate nell’esercizio delle sue funzioni il 
+Responsabile del Fondo Pensione dà tempestiva comunicazione all’organo di 
+amministrazione e a quello di controllo della SGR e si attiva perché vengano adottati 
+gli opportuni provvedimenti. 
+Il Responsabile del Fondo Pensione predispone annualmente una relazione che 
+descrive in maniera analitica l’organizzazione adottata per l’adempimento dei suoi
+=== pagina 21 ===
+Pag. 21 di 23 
+ 
+ 
+doveri e che dà conto della congruità delle procedure di cui si avvale per l’esecuzione 
+dell’incarico, dei risultati dell’attività svolta, delle eventuali anomalie riscontrate durante 
+l’anno e delle iniziative poste in essere per eliminarle. La relazione viene trasmessa 
+alla COVIP entro il 31 marzo di ciascun anno. Copia della relazione stessa viene 
+trasmessa all’organo di amministrazione e a quello di controllo della SGR. 
+Il Responsabile vigila sul rispetto delle deliberazioni della COVIP e verifica che 
+vengano inviate alla stessa le segnalazioni, la documentazione e le relazioni richieste 
+dalla normativa e dalle istruzioni emanate in proposito; comunica alla COVIP, 
+contestualmente alla segnalazione all’organo di amministrazione e a quello di controllo 
+della SGR, le irregolarità riscontrate nell’esercizio delle sue funzioni.
+=== pagina 22 ===
+Pag. 22 di 23 
+ 
+ 
+6. Politica di remunerazione 
+ 
+La SGR ha adottato e applica apposite “Politiche di remunerazione e incentivazione” 
+(di seguito, le “ Politiche di remunerazione”), in conformità alle disposizioni di cui al 
+Provvedimento della Banca d’Italia del 5 dicembre 2019, recante il “ Regolamento di 
+attuazione degli articoli 4-undecies e 6, comma 1, lettere b) e c-bis), del TUF”, Allegato 
+II, (il “ Regolamento della Banca d’Italia ”) e nel rispetto delle previsioni di cui alla 
+politica di remunerazione adottata dalla Capogruppo. 
+Per quanto di rilievo ai fini del presente documento, le Politiche di remunerazione della 
+SGR prevedono che: 
+ con riguardo ai componenti del Consiglio di Amministrazione e del Collegio 
+Sindacale: 
+o detti soggetti sono destinatari di un compenso fisso e di eventuali benefit 
+stabiliti dal Consiglio di Amministrazione della Capogruppo e del 
+rimborso delle spese effettivamente sostenute per l'espletamento delle 
+loro funzioni; non sono destinatari di remunerazione variabile; 
+dispongono di una polizza assicurativa "infortuni" e di una polizza 
+assicurativa "responsabilità civile", definite dall’Assemblea o dal 
+Consiglio di Amministrazione su mandato dell’Assemblea; 
+ ai sensi dell’art. 2389 c.c., il Consiglio di Amministrazione – su proposta del 
+Comitato Remunerazioni e sentito il parere del Collegio Sindacale – stabilisce, 
+nel rispetto delle deliberazioni assunte in materia dall’Assemblea, il compenso 
+degli Amministratori investiti di particolari cariche correlando la remunerazione 
+all’impegno profuso e alla responsabilità attribuite; 
+ il Responsabile del Fondo Pensione è destinatario di un compenso fisso, che 
+viene pattuito al momento del conferimento dell’incarico in funzione dell’attività 
+professionale svolta per l’assolvimento dei compiti previsti dalla legge ed è 
+posto a carico dei singoli comparti del Fondo Pensione. Tale remunerazione è 
+deliberata dal Consiglio di Amministrazione ed è allineata agli standard del 
+mercato di riferimento; 
+ la remunerazione del personale delle Funzioni Aziendali di Controllo è 
+prevalentemente fissa e di livello adeguato alle significative responsabilità e 
+all’impegno connesso con il ruolo svolto; la remunerazione variabile, ove 
+eventualmente prevista, non è collegata ai risultati economici della Società, è 
+coerente con il conseguimento degli obiettivi legati alle relative funzioni e non 
+può in alcun caso superare il limite di un terzo della remunerazione fissa. 
+ 
+Nel rispetto di quanto disciplinato dalle Disposizioni di Vigilanza di settore, con 
+particolare riguardo alle prassi di remunerazione ed incentivazione, nell’ambito del 
+documento annuale di Politiche di Remunerazione la SGR ha formalizzato i principi e
+=== pagina 23 ===
+Pag. 23 di 23 
+ 
+ 
+le misure adottate per assicurare la neutralità di genere. Nel contesto delle attività 
+coordinate dalla Capogruppo, BCC Risparmio e Previdenza ha avviato e ottenuto la 
+certificazione sulla parità di genere. Obiettivo della certificazione è di attestare 
+l’efficacia delle politiche e delle misure organizzative messe in atto per ridurre il divario 
+di genere e per colmare i gap eventualmente esistenti, nonché per incorporare il nuovo 
+paradigma relativo alla parità di genere all’interno dell’Organizzazione per produrre un 
+cambiamento sostenibile e durevole nel tempo, anche attraverso l’attività di 
+monitoraggio di indicatori sia qualitativi sia quantitativi. 
+Con riferimento ai temi ambientali, sociali e di buon governo (c.d. “fattori ESG), BCC 
+R&P, in coerenza con le politiche di incentivazione del Gruppo, ha avviato un processo 
+di progressiva integrazione di obiettivi ESG nell’ambito dei sistemi di remunerazione 
+variabile per la popolazione aziendale. 
+Ulteriori informazioni sulle Politiche di remunerazione sono disponibili sul sito internet 
+della SGR www.bccrisparmioeprevidenza.it.

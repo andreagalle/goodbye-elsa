@@ -1,0 +1,794 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Documento sulle rendite – Documento sull'erogazione delle rendite
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/5d3f4fcc-c3b2-4aa9-93ee-be589cab8e69
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/documenti-utili
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: c81c22c979e27b789c3f712222f94eb547965bec334143fdb565e7631a9be73b
+# Pagine: 16
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL PREVIDENZA FPA 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SULL’EROGAZIONE DELLE RENDITE - Il presente documento è volto ad integrare le informazioni in 
+materia di erogazione delle prestazioni pensionistiche in forma di rendita contenute nella Nota Informativa della forma 
+pensionistica denominata UNIPOL PREVIDENZA FPA -  Fondo Pensione Aperto. Se ne raccomanda la lettura congiunta 
+oltre che con la Nota informativa anche con il Regolamento.
+=== pagina 2 ===
+Unipol Previdenza FPA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 1 di 13 
+ 
+DOCUMENTO SULL’EROGAZIONE DELLE RENDITE 
+1. Erogazione della Rendita vitalizia immediata 
+Con il contratto di rendita vitalizia immediata ( Forma A ), all’aderente è erogata una rendita vitalizia 
+immediata rivalutabile annualmente, calcolata sul montante accumulato al netto della eventuale quota di 
+prestazione da erogare sotto forma di capitale (premio unico netto corrisposto dal Fondo Aperto). 
+ 
+2. Prestazioni alternative 
+In luogo della rendita vitalizia immediata l’aderente può richiedere l’erogazione della prestazione 
+pensionistica in una delle forme sotto indicate: 
+ 
+• Forma B: una rendita certa per i primi 5 anni e successivamente vitalizia; detta rendita è corrisposta per 
+i primi 5 anni all’ aderente o, in caso di suo decesso, alla /e persona/e da lui designata /e e, 
+successivamente, all’aderente finché in vita; 
+• Forma C: una rendita certa per i primi 10 anni e successivamente vitalizia; detta rendita è corrisposta 
+per i primi 10 anni all’ aderente o, in caso di suo decesso, alla/e  persona/e da lui designata /e e, 
+successivamente, all’aderente finché in vita; 
+• Forma D: una rendita vitalizia reversibile; detta rendita è corrisposta all’ aderente finché è in vita e 
+successivamente, in misura totale o per la quota scelta dall’iscritto stesso, alla/e  persona/e da lui 
+designata/e. 
+ 
+3. Determinazione della rendita 
+I coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il calcolo della rendita alla 
+data di stampa del presente documento sono indicati negli Allegati 1 e 2 e possono essere successivamente 
+modificati, secondo quanto di seguito indicato al successivo punto 5, nel rispetto della normativa in materia 
+delle compagnie di assicurazione e delle relative disposizioni tempo per tempo vigenti. 
+I coefficienti di conversione sono determinati in funzione della data di nascita dell’aderente, dell’età alla data 
+di accesso alla prestazione pensionistica, della rateazione della rendita prescelta e del sesso nel caso delle 
+adesioni su base collettiva. 
+L’ammontare annuo di rendita vitalizia si ottiene dividendo il premio unico netto  corrisposto dal Fondo 
+Aperto per il corrispondente coefficiente di conversione di cui all’Allegato 1 (Tabelle Am, Af, Bm, Bf, Cm, Cf) 
+distinte per sesso per le adesioni su base collettiva e all’Allegato 2 (Tabelle A, B, C) per le adesioni su base 
+individuale. L’importo di ciascuna rata di rendita si ottiene dividendo l’ammontare della rendita di cui sopra 
+per il numero di rate prescelto. 
+I coefficienti di conversione in rendita delle Forme A, B e C sono conservati agli atti del Fondo Aperto. 
+L’ammontare della rendita vitalizia reversibile (Forma D) si determina dividendo il premio unico netto, 
+corrisposto dal Fondo Aperto, per un coefficiente determinato sulla base della rateazione prescelta, della 
+quota reversionaria, del sesso (nel caso delle adesioni su base collettiva) e dell’età corretta sia dell’aderente 
+che del reversionario (ovvero dei reversionari). L’importo di ciascuna rata di rendita si ottiene dividendo 
+l’ammontare della rendita di cui sopra per il numero di rate prescelto. I coefficienti della Forma D sono 
+conservati agli atti del Fondo Aperto. 
+L’età dell’aderente (e degli eventuali reversionari)  viene determinata in anni interi (età computabile) 
+computando come anno intero la frazione di anno non inferiore a sei mesi.  
+L’età corretta dell’aderente, e degli eventuali reversionari, viene determinata sommando algebricamente 
+all’età computabile il fattore correttivo corrispondente all’anno di nascita e al sesso (nel caso delle adesioni 
+su base collettiva) contenuto nelle tabelle “AGE-SHIFTING” di cui al successivo punto 5.  
+ 
+4. Spese 
+I coefficienti di conversione del capitale in rendita riportati negli Allegati 1 e 2 sono comprensivi di un 
+caricamento per spese di gestione che varia in base alla rateazione della rendita scelta. 
+Il caricamento è espresso come percentuale della rata della rendita ed è pari a: 
+0,9%, in caso di frazionamento annuale;
+=== pagina 3 ===
+Unipol Previdenza FPA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 2 di 13 
+ 
+1,0%, in caso di frazionamento semestrale;  
+1,1%, in caso di frazionamento quadrimestrale; 
+1,2%, in caso di frazionamento trimestrale;  
+1,4%, in caso di frazionamento bimestrale; 
+2,0%, in caso di frazionamento mensile. 
+ 
+Inoltre, in occasione di ogni rivalutazione annuale, l ’Impresa di Assicurazione  trattiene una parte del 
+rendimento della Gestione separata come indicato al successivo punto 7.1. 
+ 
+5. Basi demografiche e finanziarie 
+I coefficienti delle Forme A, B, C e D di cui agli Allegati 1 e 2 sono stati determinati tenendo conto della 
+speranza di vita desunta dalle Basi demografiche per rendite vitalizie elaborate dall’ANIA rispettivamente: 
+ 
+per le adesioni su base collettiva Tavola A62I distinta per sesso e per anno di 
+nascita 
+per le adesioni su base individuale 
+Tavola A62I indifferenziata per sesso 
+(composizione: 40% maschi; 60% femmine) e 
+distinta per anno di nascita 
+ 
+Il tasso di interesse tecnico è pari allo 0,0% annuo composto posticipato. Le tavole demografiche e finanziarie 
+utilizzate per la costruzione dei coefficienti sono conservate agli atti del Fondo Aperto.  
+La tavola demografiche A62I prevedono l’utilizzo della età corretta ottenuta ringiovanendo o invecchiando 
+l’età computabile dell’aderente (e degli eventuali reversionari) in funzione dell’anno di nascita come indicato 
+nelle tabelle seguenti: 
+ 
+TABELLA “AGE-SHIFTING” PER ADESIONI SU BASE COLLETTIVA 
+MASCHI FEMMINE 
+anno di nascita  fattore correttivo  anno di nascita  fattore correttivo  
+Fino al 1925 + 4 Fino al 1929 + 4 
+Dal 1926 al 1938 + 3 Dal 1930 al 1940 + 3 
+Dal 1939 al 1947 + 2 Dal 1941 al 1949 + 2 
+Dal 1948 al 1957 + 1 Dal 1950 al 1957 + 1 
+Dal 1958 al 1966 0 Dal 1958 al 1966 0 
+Dal 1967 al 1978 - 1 Dal 1967 al 1976 - 1 
+Dal 1979 al 1992 - 2 Dal 1977 al 1986 - 2 
+Dal 1993 al 2006 - 3 Dal 1987 al 1996 - 3 
+Dal 2007 al 2020 - 4 Dal 1997 al 2007 - 4 
+Dal 2021 - 5 Dal 2008 al 2018 - 5 
+  Dal 2019 al 2020 - 6 
+  Dal 2021 - 7
+=== pagina 4 ===
+Unipol Previdenza FPA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 3 di 13 
+ 
+ 
+TABELLA “AGE-SHIFTING” PER ADESIONI SU BASE INDIVIDUALE 
+MASCHI E FEMMINE 
+anno di nascita fattore correttivo 
+Fino al 1926 + 4 
+Dal 1927 al 1938 + 3 
+Dal 1939 al 1947 + 2 
+Dal 1948 al 1957 + 1 
+Dal 1958 al 1966 0 
+Dal 1967 al 1977 - 1 
+Dal 1978 al 1989 - 2 
+Dal 1990 al 2001 - 3 
+Dal 2002 al 2014 - 4 
+Dal 2015 al 2020 - 5 
+Dal 2021 - 6 
+ 
+Le tabelle dei coefficienti riportate negli Allegati 1 e 2 prevedono l’utilizzo della età corretta. 
+ 
+5.1 Modifica della base demografico-finanziaria 
+ 
+Nel corso di esecuzione del contratto, l ’Impresa di Assicurazione potrà rivedere la base demografica e 
+finanziaria in adeguamento a disposizioni normative di fonte primaria e secondaria, ovvero, nel rispetto della 
+normativa di stabilità delle compagnie di assicurazione e delle relative disposizioni applicative emanate 
+dall’IVASS tempo per tempo vigenti. 
+ 
+In ogni caso, la modifica delle basi demografico-finanziarie utilizzate per il calcolo delle rendite vitalizie 
+immediate non è applicabile agli Aderenti per i quali, alla data di effetto delle modifiche: 
+- manchino meno di tre anni alla data di accesso alle prestazioni pensionistiche; 
+- sia già iniziata l’erogazione della rendita. 
+ 
+6.  Erogazione della rendita 
+ 
+La rendita vitalizia è corrisposta in via posticipata con la rateazione (annuale, semestrale, quadrimestrale, 
+trimestrale, bimestrale, mensile) sc elta dall’aderente; la ra teazione non è modificabile in corso di 
+erogazione. 
+La rendita avrà decorrenza dal giorno del pagamento del premio.  
+Fatto salvo quanto previsto per le forme di rendita alternative di cui al precedente punto 2,  
+l’Impresa di Assicurazione corrisponde: 
+• ciascuna r ata di rendi ta, s ubordinatamente all’esistenza in v ita dell’aderente ad ogni r ispettiva 
+scadenza; 
+• il ra teo di rendi ta m aturato al m omento del decesso dell’aderente, r elativo al tempo trascorso 
+dall’ultima scadenza di rata precedente il decesso o, se non è ancora scaduta la prima rata di rendita, 
+dal termine della fase di accumulo. 
+La rendita non può essere riscattata durante il periodo di corresponsione. 
+Successivamente all’inizio dell’erogazione della rendita, l’importo corrispondente non potrà essere variato 
+a seguito di eventuali modifiche che dovessero intervenire nelle basi demografiche impiegate nei 
+coefficienti di conversione. 
+Il pagamento della rendita viene eseguito alla scadenza delle rate convenute mediante bonifico o assegno 
+bancario non trasferibile . A tal fine l ’aderente dovrà comunicare all’Impresa di Assicurazione le proprie 
+generalità complete (cognome e nome, luogo e data di nascita, residenza, codice fiscale), il conto corrente 
+e le relative coordinate bancarie (IBAN), sul quale eventualmente accreditare i pagamenti. In caso di 
+variazioni l’aderente dovrà darne tempestiva Comunicazione all’Impresa di Assicurazione.
+=== pagina 5 ===
+Unipol Previdenza FPA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 4 di 13 
+ 
+ 
+Per i bonifici eseguiti all’estero saranno addebitate le relative spese bancarie. 
+ 
+Nel caso in cui venga erogata una prestazione pensionistica in forma di rendita, la Compagnia provvede 
+ad accertare l’esistenza in vita dell’Assicurato. Nel caso in cui sia necessario ai fini della verifica 
+dell’obbligo di pagamento , la Compagnia potrà richiedere direttamente all’Assicurato documentazione 
+comprovante l’esistenza in vita dello stesso o un’autocertificazione corredata da fotocopia fronte retro 
+di un documento d’identità in corso di validità.  
+ 
+Nel caso in cui la scelta ricada sulle Forme B o C, di cui al punto 2, è necessario indicare per il caso di 
+decesso dell’aderente la persona designata (ovvero le persone designate) a percepire la rendita nel periodo 
+di corresponsione certa. Nel caso in cui la scelta ricada sulla Forma D, di cui al punto 2, è necessario 
+indicare: 
+ 
+• la misura di reversibilità; 
+ 
+• le generalità complete della persona reversionaria (o delle persone reversionarie) d a lui designata 
+(cognome e nome, luogo e data di nascita, residenza, codice fiscale). 
+ 
+7. Rivalutazione della rendita assicurata 
+Nel corso della fase di erogazione, l’ Impresa di Assicurazione riconoscerà una rivalutazione annua della 
+prestazione assicurata secondo le modalità appresso indicate; a tal fine l’Impresa di Assicurazione utilizzerà 
+i risultati conseguiti con l’apposita “GESTIONE SPECIALE VITATTIVA”. 
+Al fine di determinare la misura di rivalutazione di cui al successivo punto A), il tasso medio di rendimento 
+della Gestione separata collegata alla fase di erogazione della rendita è quello realizzato nel periodo di 
+dodici mesi che precedono l’inizio del terzo mese antecedente quello nel quale cade la data di ricorrenza 
+annuale della data di effetto della polizza. 
+ 
+7.1 Tasso di rivalutazione - Percentuale di rivalutazione 
+Ad ogni ricorrenza annuale della data di effetto della polizza, verrà determinato il tasso di rivalutazione la 
+cui misura sarà pari al prodotto del tasso medio di rendimento finanziario ottenuto dalla GESTIONE 
+SPECIALE VITATTIVA, per l’aliquota di retrocessione, stabilita di volta in volta e comunque non inferiore al 
+90%; in ogni cas o il tasso di rivalutazione riconosciuto non potrà risultare superiore al tasso annuo di 
+rendimento diminuito di 0,5 punti percentuali. 
+ 
+La percentuale di rivalutazione sarà pari al tasso di rivalutazione di cui sopra e non potrà essere negativa. 
+ 
+7.2 Modalità di rivalutazione 
+Ad ogni ricorrenza annuale della data di effetto della polizza, la rata di rendita assicurata in vigore alla 
+ricorrenza precedente è rivalutata della percentuale di rivalutazione di cui al precedente punto 7.1. 
+La prima rivalutazione avrà luogo in occasione della prima ricorrenza annuale della data di effetto, a 
+condizione che il premio dovuto sia stato regolarmente corrisposto. Nel caso in cui il premio dovuto sia stato 
+corrisposto dopo trenta giorni dalla data di effetto della polizza, la prima rivalutazione sarà  effettuata pro-
+rata temporis, in base ai giorni che intercorrono tra la data di versamento del premio e quella del primo 
+anniversario della data di effetto della polizza successivo alla data di versamento del premio. 
+ 
+8. Dichiarazione di responsabilità 
+ 
+L’Impresa di Assicurazione che ha istituito il Fondo Pensione Aperto si assume la responsabilità della 
+completezza e della veridicità dei dati e delle notizie contenuti nel presente documento.
+=== pagina 6 ===
+ALLEGATO n°1 – 
+ ADESIONI SU BASE COLLETTIVA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 5 di 13 
+ 
+Tabella Am 
+FORMA A  
+ 
+MASCHI 
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 47,9921 48,2921 48,4242 48,5143 48,6524 48,9828 
+41 47,0180 47,3171 47,4482 47,5373 47,6735 47,9981 
+42 46,0444 46,3425 46,4727 46,5608 46,6951 47,0139 
+43 45,0715 45,3686 45,4978 45,5850 45,7173 46,0303 
+44 44,0990 44,3952 44,5234 44,6096 44,7401 45,0473 
+45 43,1292 43,4245 43,5517 43,6370 43,7655 44,0669 
+46 42,1613 42,4556 42,5819 42,6662 42,7928 43,0885 
+47 41,1955 41,4889 41,6142 41,6975 41,8222 42,1121 
+48 40,2312 40,5235 40,6479 40,7303 40,8530 41,1373 
+49 39,2692 39,5606 39,6840 39,7654 39,8863 40,1648 
+50 38,3071 38,5976 38,7200 38,8005 38,9194 39,1922 
+51 37,3470 37,6365 37,7581 37,8376 37,9546 38,2217 
+52 36,3894 36,6779 36,7985 36,8771 36,9922 37,2536 
+53 35,4344 35,7220 35,8416 35,9193 36,0325 36,2882 
+54 34,4830 34,7697 34,8884 34,9650 35,0764 35,3264 
+55 33,5354 33,8211 33,9389 34,0146 34,1241 34,3685 
+56 32,5915 32,8763 32,9931 33,0679 33,1755 33,4143 
+57 31,6512 31,9351 32,0509 32,1248 32,2305 32,4638 
+58 30,7143 30,9972 31,1122 31,1851 31,2890 31,5167 
+59 29,7806 30,0626 30,1766 30,2487 30,3507 30,5728 
+60 28,8506 29,1317 29,2448 29,3159 29,4161 29,6326 
+61 27,9253 28,2054 28,3176 28,3878 28,4862 28,6972 
+62 27,0068 27,2861 27,3973 27,4666 27,5631 27,7687 
+63 26,0963 26,3747 26,4850 26,5534 26,6481 26,8483 
+64 25,1949 25,4724 25,5819 25,6493 25,7423 25,9371 
+65 24,2984 24,5750 24,6836 24,7502 24,8414 25,0308 
+66 23,4055 23,6812 23,7889 23,8546 23,9440 24,1282 
+67 22,5170 22,7919 22,8987 22,9635 23,0511 23,2300 
+68 21,6335 21,9074 22,0134 22,0773 22,1632 22,3368 
+69 20,7549 21,0280 21,1330 21,1961 21,2802 21,4487 
+70 19,8820 20,1542 20,2584 20,3206 20,4030 20,5663 
+71 19,0159 19,2873 19,3906 19,4520 19,5327 19,6907 
+72 18,1578 18,4283 18,5308 18,5913 18,6703 18,8232 
+73 17,3100 17,5797 17,6813 17,7410 17,8183 17,9662 
+74 16,4740 16,7428 16,8437 16,9025 16,9781 17,1211 
+75 15,6510 15,9190 16,0190 16,0770 16,1511 16,2891 
+76 14,8418 15,1090 15,2082 15,2654 15,3378 15,4711 
+77 14,0474 14,3138 14,4123 14,4687 14,5395 14,6681 
+78 13,2707 13,5364 13,6340 13,6897 13,7590 13,8829 
+79 12,5161 12,7810 12,8779 12,9328 13,0006 13,1201 
+80 11,7845 12,0487 12,1449 12,1991 12,2654 12,3805 
+81 11,0774 11,3409 11,4364 11,4898 11,5548 11,6657 
+82 10,3929 10,6557 10,7505 10,8033 10,8669 10,9738 
+83 9,7324 9,9945 10,0887 10,1408 10,2031 10,3060
+=== pagina 7 ===
+ALLEGATO n°1 – 
+ ADESIONI SU BASE COLLETTIVA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 6 di 13 
+ 
+Tabella Af 
+FORMA A  
+ 
+FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 52,1356 52,4397 52,5759 52,6701 52,8164 53,1715 
+41 51,1515 51,4547 51,5899 51,6831 51,8275 52,1767 
+42 50,1681 50,4703 50,6045 50,6967 50,8392 51,1825 
+43 49,1859 49,4871 49,6204 49,7116 49,8521 50,1896 
+44 48,2052 48,5055 48,6378 48,7281 48,8666 49,1983 
+45 47,2261 47,5254 47,6568 47,7461 47,8827 48,2085 
+46 46,2485 46,5468 46,6772 46,7655 46,9002 47,2202 
+47 45,2726 45,5700 45,6994 45,7867 45,9195 46,2337 
+48 44,2990 44,5955 44,7239 44,8103 44,9411 45,2495 
+49 43,3280 43,6235 43,7509 43,8363 43,9652 44,2679 
+50 42,3590 42,6535 42,7800 42,8645 42,9914 43,2883 
+51 41,3921 41,6857 41,8112 41,8947 42,0198 42,3109 
+52 40,4275 40,7200 40,8446 40,9272 41,0503 41,3357 
+53 39,4651 39,7567 39,8804 39,9620 40,0832 40,3629 
+54 38,5051 38,7958 38,9184 38,9991 39,1184 39,3924 
+55 37,5472 37,8369 37,9586 38,0383 38,1558 38,4240 
+56 36,5901 36,8789 36,9996 37,0784 37,1939 37,4565 
+57 35,6335 35,9213 36,0411 36,1189 36,2326 36,4894 
+58 34,6770 34,9638 35,0827 35,1596 35,2713 35,5225 
+59 33,7201 34,0061 34,1240 34,1999 34,3097 34,5552 
+60 32,7636 33,0486 33,1655 33,2405 33,3485 33,5883 
+61 31,8073 32,0914 32,2074 32,2814 32,3875 32,6216 
+62 30,8497 31,1327 31,2478 31,3209 31,4250 31,6535 
+63 29,8912 30,1734 30,2875 30,3596 30,4618 30,6846 
+64 28,9328 29,2140 29,3271 29,3983 29,4987 29,7157 
+65 27,9749 28,2551 28,3674 28,4376 28,5360 28,7474 
+66 27,0179 27,2972 27,4084 27,4777 27,5743 27,7799 
+67 26,0622 26,3406 26,4509 26,5192 26,6139 26,8139 
+68 25,1082 25,3856 25,4950 25,5624 25,6551 25,8494 
+69 24,1566 24,4330 24,5414 24,6079 24,6988 24,8874 
+70 23,2080 23,4835 23,5910 23,6565 23,7455 23,9285 
+71 22,2637 22,5382 22,6448 22,7094 22,7965 22,9739 
+72 21,3243 21,5979 21,7035 21,7672 21,8524 22,0242 
+73 20,3912 20,6639 20,7686 20,8313 20,9147 21,0810 
+74 19,4658 19,7376 19,8414 19,9032 19,9847 20,1455 
+75 18,5492 18,8200 18,9229 18,9838 19,0636 19,2189 
+76 17,6425 17,9125 18,0145 18,0744 18,1524 18,3023 
+77 16,7471 17,0162 17,1173 17,1764 17,2526 17,3972 
+78 15,8642 16,1325 16,2327 16,2909 16,3654 16,5047 
+79 14,9979 15,2653 15,3646 15,4220 15,4947 15,6289 
+80 14,1516 14,4181 14,5166 14,5732 14,6442 14,7734 
+81 13,3286 13,5943 13,6920 13,7477 13,8171 13,9414 
+82 12,5346 12,7995 12,8964 12,9513 13,0192 13,1387 
+83 11,7695 12,0336 12,1298 12,1839 12,2503 12,3653
+=== pagina 8 ===
+ALLEGATO n°1 – 
+ ADESIONI SU BASE COLLETTIVA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 7 di 13 
+ 
+Tabella Bm 
+FORMA B  
+ 
+MASCHI 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 5 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 48,0038 48,3029 48,4346 48,5245 48,6625 48,9928 
+41 47,0303 47,3283 47,4591 47,5480 47,6840 48,0085 
+42 46,0574 46,3544 46,4842 46,5721 46,7062 47,0249 
+43 45,0853 45,3813 45,5101 45,5970 45,7292 46,0421 
+44 44,1140 44,4089 44,5367 44,6227 44,7529 45,0600 
+45 43,1452 43,4390 43,5658 43,6509 43,7792 44,0805 
+46 42,1783 42,4711 42,5969 42,6810 42,8073 43,1029 
+47 41,2135 41,5053 41,6301 41,7132 41,8376 42,1274 
+48 40,2502 40,5410 40,6648 40,7469 40,8694 41,1535 
+49 39,2894 39,5790 39,7019 39,7830 39,9036 40,1819 
+50 38,3289 38,6175 38,7393 38,8195 38,9381 39,2107 
+51 37,3707 37,6581 37,7790 37,8581 37,9749 38,2417 
+52 36,4151 36,7014 36,8213 36,8995 37,0143 37,2754 
+53 35,4625 35,7477 35,8665 35,9437 36,0566 36,3120 
+54 34,5136 34,7976 34,9154 34,9917 35,1026 35,3524 
+55 33,5686 33,8514 33,9682 34,0435 34,1525 34,3966 
+56 32,6274 32,9091 33,0249 33,0992 33,2063 33,4448 
+57 31,6902 31,9706 32,0854 32,1587 32,2639 32,4968 
+58 30,7568 31,0360 31,1497 31,2221 31,3254 31,5526 
+59 29,8275 30,1054 30,2180 30,2894 30,3908 30,6124 
+60 28,9027 29,1792 29,2908 29,3611 29,4606 29,6766 
+61 27,9832 28,2583 28,3688 28,4382 28,5358 28,7463 
+62 27,0708 27,3445 27,4540 27,5223 27,6180 27,8230 
+63 26,1663 26,4386 26,5470 26,6144 26,7082 26,9077 
+64 25,2704 25,5413 25,6486 25,7151 25,8070 26,0011 
+65 24,3797 24,6493 24,7555 24,8210 24,9111 25,0998 
+66 23,4935 23,7615 23,8667 23,9312 24,0195 24,2028 
+67 22,6127 22,8791 22,9832 23,0467 23,1331 23,3111 
+68 21,7380 22,0027 22,1057 22,1682 22,2527 22,4253 
+69 20,8699 21,1328 21,2346 21,2960 21,3786 21,5459 
+70 20,0096 20,2705 20,3710 20,4314 20,5121 20,6741 
+71 19,1585 19,4172 19,5163 19,5757 19,6545 19,8111 
+72 18,3181 18,5743 18,6721 18,7304 18,8072 18,9586 
+73 17,4909 17,7444 17,8408 17,8979 17,9728 18,1189 
+74 16,6789 16,9294 17,0242 17,0801 17,1531 17,2939 
+75 15,8841 16,1312 16,2244 16,2790 16,3499 16,4856 
+76 15,1082 15,3515 15,4428 15,4962 15,5651 15,6956 
+77 14,3530 14,5920 14,6815 14,7336 14,8003 14,9257 
+78 13,6214 13,8558 13,9432 13,9939 14,0585 14,1789 
+79 12,9173 13,1465 13,2318 13,2810 13,3435 13,4589 
+80 12,2425 12,4661 12,5490 12,5967 12,6570 12,7675 
+81 11,5994 11,8166 11,8970 11,9431 12,0012 12,1068 
+82 10,9886 11,1988 11,2764 11,3208 11,3766 11,4774 
+83 10,4131 10,6154 10,6900 10,7326 10,7860 10,8821
+=== pagina 9 ===
+ALLEGATO n°1 – 
+ ADESIONI SU BASE COLLETTIVA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 8 di 13 
+ 
+Tabella Bf 
+FORMA B 
+ 
+FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 5 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 52,1435 52,4470 52,5829 52,6770 52,8232 53,1782 
+41 51,1600 51,4624 51,5974 51,6905 51,8347 52,1838 
+42 50,1771 50,4786 50,6125 50,7046 50,8469 51,1902 
+43 49,1956 49,4960 49,6290 49,7201 49,8605 50,1979 
+44 48,2157 48,5151 48,6471 48,7372 48,8756 49,2072 
+45 47,2375 47,5358 47,6668 47,7560 47,8924 48,2181 
+46 46,2608 46,5581 46,6881 46,7762 46,9108 47,2307 
+47 45,2860 45,5822 45,7112 45,7984 45,9310 46,2451 
+48 44,3136 44,6087 44,7367 44,8229 44,9535 45,2618 
+49 43,3437 43,6377 43,7647 43,8500 43,9786 44,2811 
+50 42,3759 42,6689 42,7949 42,8791 43,0059 43,3026 
+51 41,4102 41,7022 41,8272 41,9105 42,0353 42,3262 
+52 40,4467 40,7377 40,8617 40,9440 41,0669 41,3521 
+53 39,4855 39,7754 39,8985 39,9798 40,1008 40,3802 
+54 38,5264 38,8153 38,9374 39,0177 39,1368 39,4106 
+55 37,5692 37,8571 37,9782 38,0576 38,1748 38,4429 
+56 36,6128 36,8997 37,0198 37,0983 37,2135 37,4759 
+57 35,6568 35,9427 36,0619 36,1394 36,2527 36,5094 
+58 34,7009 34,9857 35,1040 35,1805 35,2920 35,5429 
+59 33,7447 34,0285 34,1458 34,2214 34,3309 34,5762 
+60 32,7887 33,0716 33,1878 33,2625 33,3701 33,6097 
+61 31,8330 32,1148 32,2302 32,3038 32,4096 32,6435 
+62 30,8762 31,1570 31,2714 31,3441 31,4479 31,6761 
+63 29,9190 30,1987 30,3121 30,3838 30,4857 30,7082 
+64 28,9621 29,2408 29,3531 29,4239 29,5239 29,7407 
+65 28,0062 28,2837 28,3951 28,4649 28,5629 28,7739 
+66 27,0516 27,3280 27,4383 27,5071 27,6032 27,8085 
+67 26,0990 26,3741 26,4833 26,5512 26,6453 26,8449 
+68 25,1488 25,4226 25,5308 25,5976 25,6898 25,8837 
+69 24,2019 24,4743 24,5814 24,6472 24,7374 24,9256 
+70 23,2593 23,5302 23,6362 23,7009 23,7892 23,9717 
+71 22,3222 22,5915 22,6963 22,7600 22,8463 23,0231 
+72 21,3917 21,6592 21,7628 21,8255 21,9098 22,0809 
+73 20,4694 20,7349 20,8373 20,8989 20,9812 21,1467 
+74 19,5570 19,8204 19,9214 19,9819 20,0622 20,2220 
+75 18,6562 18,9171 19,0168 19,0761 19,1544 19,3085 
+76 17,7691 18,0273 18,1254 18,1835 18,2597 18,4082 
+77 16,8982 17,1531 17,2496 17,3064 17,3805 17,5234 
+78 16,0462 16,2973 16,3920 16,4475 16,5194 16,6567 
+79 15,2173 15,4642 15,5569 15,6110 15,6806 15,8124 
+80 14,4158 14,6578 14,7483 14,8009 14,8683 14,9946 
+81 13,6453 13,8819 13,9701 14,0211 14,0862 14,2070 
+82 12,9103 13,1410 13,2267 13,2762 13,3389 13,4545 
+83 12,2116 12,4359 12,5190 12,5668 12,6272 12,7376
+=== pagina 10 ===
+ALLEGATO n°1 – 
+ ADESIONI SU BASE COLLETTIVA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 9 di 13 
+ 
+Tabella Cm 
+FORMA C 
+ 
+MASCHI 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 10 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 48,0398 48,3376 48,4689 48,5586 48,6964 49,0267 
+41 47,0685 47,3651 47,4954 47,5841 47,7200 48,0444 
+42 46,0980 46,3935 46,5227 46,6105 46,7444 47,0630 
+43 45,1285 45,4229 45,5511 45,6379 45,7698 46,0827 
+44 44,1601 44,4533 44,5805 44,6663 44,7963 45,1034 
+45 43,1945 43,4865 43,6127 43,6974 43,8255 44,1268 
+46 42,2311 42,5219 42,6470 42,7308 42,8569 43,1524 
+47 41,2701 41,5597 41,6838 41,7666 41,8907 42,1805 
+48 40,3112 40,5996 40,7226 40,8044 40,9266 41,2106 
+49 39,3552 39,6422 39,7643 39,8450 39,9653 40,2435 
+50 38,4002 38,6860 38,8069 38,8867 39,0050 39,2774 
+51 37,4481 37,7325 37,8523 37,9311 38,0474 38,3142 
+52 36,4993 36,7822 36,9010 36,9787 37,0931 37,3541 
+53 35,5542 35,8357 35,9533 36,0300 36,1424 36,3977 
+54 34,6138 34,8937 35,0102 35,0859 35,1963 35,4459 
+55 33,6783 33,9566 34,0720 34,1466 34,2551 34,4990 
+56 32,7477 33,0245 33,1387 33,2122 33,3187 33,5570 
+57 31,8221 32,0972 32,2102 32,2827 32,3873 32,6199 
+58 30,9015 31,1748 31,2867 31,3581 31,4607 31,6877 
+59 29,9859 30,2575 30,3681 30,4385 30,5391 30,7605 
+60 29,0759 29,3456 29,4550 29,5243 29,6230 29,8388 
+61 28,1724 28,4401 28,5482 28,6165 28,7132 28,9234 
+62 27,2769 27,5425 27,6494 27,7166 27,8113 28,0161 
+63 26,3905 26,6540 26,7596 26,8257 26,9184 27,1176 
+64 25,5143 25,7755 25,8797 25,9447 26,0354 26,2292 
+65 24,6462 24,9049 25,0077 25,0715 25,1603 25,3486 
+66 23,7863 24,0422 24,1436 24,2062 24,2929 24,4758 
+67 22,9363 23,1891 23,2888 23,3503 23,4350 23,6124 
+68 22,0975 22,3469 22,4449 22,5051 22,5876 22,7596 
+69 21,2715 21,5171 21,6133 21,6721 21,7525 21,9190 
+70 20,4608 20,7019 20,7961 20,8536 20,9317 21,0927 
+71 19,6677 19,9038 19,9958 20,0518 20,1277 20,2833 
+72 18,8947 19,1253 19,2150 19,2694 19,3429 19,4931 
+73 18,1449 18,3695 18,4566 18,5094 18,5805 18,7252 
+74 17,4212 17,6390 17,7234 17,7744 17,8431 17,9824 
+75 16,7266 16,9369 17,0183 17,0675 17,1336 17,2676 
+76 16,0640 16,2660 16,3442 16,3914 16,4549 16,5836 
+77 15,4368 15,6296 15,7043 15,7494 15,8102 15,9337 
+78 14,8489 15,0315 15,1024 15,1454 15,2034 15,3217 
+79 14,3041 14,4758 14,5427 14,5834 14,6386 14,7517 
+80 13,8053 13,9652 14,0279 14,0662 14,1184 14,2266 
+81 13,3549 13,5024 13,5605 13,5963 13,6457 13,7490 
+82 12,9520 13,0869 13,1405 13,1739 13,2204 13,3191 
+83 12,5942 12,7170 12,7664 12,7975 12,8412 12,9358
+=== pagina 11 ===
+ALLEGATO n°1 – 
+ ADESIONI SU BASE COLLETTIVA 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 10 di 13 
+ 
+Tabella Cf 
+FORMA C 
+ 
+FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 10 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 52,1686 52,4711 52,6068 52,7007 52,8468 53,2017 
+41 51,1870 51,4884 51,6230 51,7159 51,8601 52,2092 
+42 50,2063 50,5066 50,6402 50,7322 50,8743 51,2175 
+43 49,2272 49,5264 49,6590 49,7499 49,8901 50,2274 
+44 48,2499 48,5479 48,6794 48,7694 48,9076 49,2391 
+45 47,2744 47,5712 47,7018 47,7907 47,9270 48,2527 
+46 46,3006 46,5963 46,7258 46,8138 46,9481 47,2679 
+47 45,3288 45,6234 45,7518 45,8388 45,9712 46,2852 
+48 44,3593 44,6528 44,7802 44,8662 44,9966 45,3048 
+49 43,3923 43,6846 43,8110 43,8960 44,0245 44,3269 
+50 42,4273 42,7185 42,8439 42,9279 43,0544 43,3511 
+51 41,4642 41,7543 41,8788 41,9618 42,0864 42,3773 
+52 40,5032 40,7922 40,9157 40,9977 41,1203 41,4056 
+53 39,5442 39,8321 39,9546 40,0356 40,1564 40,4358 
+54 38,5870 38,8739 38,9953 39,0754 39,1943 39,4680 
+55 37,6316 37,9174 38,0379 38,1170 38,2339 38,5020 
+56 36,6769 36,9616 37,0811 37,1593 37,2743 37,5366 
+57 35,7227 36,0063 36,1248 36,2020 36,3151 36,5718 
+58 34,7688 35,0514 35,1689 35,2451 35,3563 35,6072 
+59 33,8152 34,0966 34,2130 34,2883 34,3975 34,6428 
+60 32,8622 33,1424 33,2579 33,3321 33,4394 33,6790 
+61 31,9102 32,1891 32,3036 32,3768 32,4822 32,7160 
+62 30,9582 31,2359 31,3492 31,4215 31,5249 31,7530 
+63 30,0072 30,2834 30,3956 30,4669 30,5683 30,7907 
+64 29,0581 29,3328 29,4438 29,5140 29,6135 29,8301 
+65 28,1118 28,3848 28,4946 28,5638 28,6612 28,8721 
+66 27,1691 27,4402 27,5489 27,6169 27,7123 27,9174 
+67 26,2311 26,5002 26,6075 26,6744 26,7678 26,9671 
+68 25,2988 25,5656 25,6716 25,7373 25,8286 26,0221 
+69 24,3738 24,6380 24,7425 24,8070 24,8962 25,0840 
+70 23,4579 23,7192 23,8221 23,8854 23,9724 24,1543 
+71 22,5536 22,8114 22,9126 22,9746 23,0594 23,2355 
+72 21,6635 21,9173 22,0165 22,0771 22,1596 22,3298 
+73 20,7906 21,0397 21,1368 21,1959 21,2760 21,4404 
+74 19,9382 20,1820 20,2767 20,3342 20,4118 20,5703 
+75 19,1097 19,3473 19,4395 19,4952 19,5704 19,7230 
+76 18,3087 18,5394 18,6286 18,6825 18,7550 18,9018 
+77 17,5384 17,7613 17,8475 17,8995 17,9692 18,1102 
+78 16,8023 17,0166 17,0994 17,1494 17,2163 17,3515 
+79 16,1052 16,3101 16,3892 16,4370 16,5011 16,6305 
+80 15,4521 15,6463 15,7215 15,7670 15,8281 15,9518 
+81 14,8468 15,0296 15,1005 15,1435 15,2016 15,3198 
+82 14,2918 14,4627 14,5293 14,5699 14,6249 14,7378 
+83 13,7854 13,9445 14,0069 14,0450 14,0971 14,2050
+=== pagina 12 ===
+ALLEGATO n°2 – 
+ ADESIONI SU BASE INDIVIDUALE 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 11 di 13 
+ 
+Tabella A 
+ 
+FORMA A  
+ 
+MASCHI E FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA IMMEDIATA 
+TASSO TECNICO 0,0%  
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 50,3165 50,6188 50,7532 50,8456 50,9883 51,3325 
+41 49,3366 49,6380 49,7714 49,8627 50,0035 50,3419 
+42 48,3572 48,6576 48,7901 48,8805 49,0193 49,3519 
+43 47,3789 47,6783 47,8098 47,8992 48,0361 48,3629 
+44 46,4016 46,7001 46,8306 46,9191 47,0541 47,3750 
+45 45,4264 45,7239 45,8534 45,9410 46,0740 46,3891 
+46 44,4528 44,7494 44,8779 44,9645 45,0956 45,4049 
+47 43,4811 43,7767 43,9043 43,9899 44,1191 44,4227 
+48 42,5114 42,8060 42,9327 43,0173 43,1446 43,4423 
+49 41,5441 41,8378 41,9635 42,0472 42,1725 42,4645 
+50 40,5780 40,8707 40,9954 41,0782 41,2016 41,4879 
+51 39,6139 39,9057 40,0295 40,1112 40,2327 40,5133 
+52 38,6522 38,9430 39,0658 39,1466 39,2662 39,5411 
+53 37,6929 37,9828 38,1046 38,1845 38,3022 38,5713 
+54 36,7365 37,0254 37,1463 37,2252 37,3410 37,6045 
+55 35,7829 36,0709 36,1908 36,2688 36,3827 36,6405 
+56 34,8314 35,1184 35,2374 35,3144 35,4265 35,6786 
+57 33,8817 34,1677 34,2858 34,3619 34,4721 34,7185 
+58 32,9335 33,2186 33,3358 33,4109 33,5192 33,7600 
+59 31,9865 32,2707 32,3869 32,4611 32,5675 32,8027 
+60 31,0413 31,3246 31,4398 31,5131 31,6176 31,8472 
+61 30,0983 30,3806 30,4950 30,5673 30,6700 30,8939 
+62 29,1575 29,4389 29,5523 29,6237 29,7245 29,9429 
+63 28,2197 28,5002 28,6126 28,6831 28,7821 28,9949 
+64 27,2859 27,5654 27,6770 27,7465 27,8436 28,0509 
+65 26,3546 26,6332 26,7438 26,8124 26,9077 27,1094 
+66 25,4253 25,7030 25,8127 25,8804 25,9738 26,1700 
+67 24,4988 24,7756 24,8843 24,9511 25,0427 25,2334 
+68 23,5754 23,8512 23,9591 24,0250 24,1147 24,2999 
+69 22,6555 22,9305 23,0374 23,1024 23,1903 23,3700 
+70 21,7400 22,0140 22,1201 22,1841 22,2702 22,4445 
+71 20,8298 21,1029 21,2081 21,2712 21,3555 21,5244 
+72 19,9259 20,1982 20,3024 20,3647 20,4472 20,6107 
+73 19,0302 19,3016 19,4049 19,4663 19,5470 19,7052 
+74 18,1441 18,4146 18,5170 18,5775 18,6565 18,8094 
+75 17,2686 17,5382 17,6398 17,6995 17,7767 17,9244 
+76 16,4049 16,6736 16,7744 16,8332 16,9087 17,0512 
+77 15,5541 15,8220 15,9219 15,9798 16,0536 16,1911 
+78 14,7181 14,9852 15,0843 15,1414 15,2136 15,3461 
+79 13,9013 14,1675 14,2658 14,3221 14,3927 14,5203 
+80 13,1058 13,3713 13,4688 13,5243 13,5933 13,7162 
+81 12,3342 12,5990 12,6957 12,7504 12,8179 12,9362 
+82 11,5889 11,8529 11,9489 12,0029 12,0689 12,1828 
+83 10,8704 11,1337 11,2290 11,2822 11,3468 11,4564
+=== pagina 13 ===
+ALLEGATO n°2 – 
+ ADESIONI SU BASE INDIVIDUALE 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 12 di 13 
+ 
+Tabella B 
+FORMA B 
+ 
+MASCHI E FEMMINE 
+ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 5 ANNI 
+TASSO TECNICO 0,0%  
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 50,3259 50,6275 50,7616 50,8538 50,9964 51,3405 
+41 49,3465 49,6471 49,7802 49,8714 50,0121 50,3504 
+42 48,3678 48,6673 48,7995 48,8897 49,0285 49,3609 
+43 47,3903 47,6887 47,8199 47,9092 48,0459 48,3725 
+44 46,4139 46,7113 46,8415 46,9298 47,0646 47,3854 
+45 45,4396 45,7360 45,8651 45,9525 46,0853 46,4003 
+46 44,4670 44,7623 44,8905 44,9768 45,1078 45,4170 
+47 43,4964 43,7906 43,9178 44,0032 44,1322 44,4356 
+48 42,5277 42,8210 42,9471 43,0315 43,1586 43,4562 
+49 41,5616 41,8538 41,9789 42,0624 42,1875 42,4794 
+50 40,5968 40,8879 41,0121 41,0945 41,2177 41,5038 
+51 39,6342 39,9242 40,0474 40,1289 40,2502 40,5305 
+52 38,6741 38,9630 39,0852 39,1657 39,2850 39,5596 
+53 37,7164 38,0042 38,1254 38,2050 38,3224 38,5913 
+54 36,7615 37,0483 37,1685 37,2471 37,3626 37,6258 
+55 35,8094 36,0951 36,2143 36,2919 36,4055 36,6630 
+56 34,8594 35,1440 35,2623 35,3389 35,4506 35,7024 
+57 33,9113 34,1948 34,3120 34,3877 34,4975 34,7437 
+58 32,9648 33,2473 33,3635 33,4383 33,5461 33,7867 
+59 32,0200 32,3013 32,4166 32,4903 32,5963 32,8312 
+60 31,0772 31,3574 31,4716 31,5444 31,6485 31,8777 
+61 30,1369 30,4159 30,5291 30,6009 30,7031 30,9267 
+62 29,1990 29,4769 29,5891 29,6599 29,7602 29,9782 
+63 28,2644 28,5410 28,6522 28,7221 28,8204 29,0328 
+64 27,3337 27,6091 27,7193 27,7882 27,8847 28,0915 
+65 26,4059 26,6801 26,7892 26,8571 26,9517 27,1529 
+66 25,4808 25,7537 25,8618 25,9287 26,0214 26,2170 
+67 24,5592 24,8306 24,9377 25,0036 25,0944 25,2845 
+68 23,6416 23,9116 24,0176 24,0825 24,1714 24,3559 
+69 22,7288 22,9973 23,1021 23,1660 23,2529 23,4319 
+70 21,8219 22,0886 22,1923 22,2551 22,3401 22,5136 
+71 20,9221 21,1870 21,2894 21,3512 21,4343 21,6022 
+72 20,0307 20,2935 20,3947 20,4555 20,5365 20,6989 
+73 19,1498 19,4103 19,5102 19,5698 19,6489 19,8058 
+74 18,2810 18,5391 18,6375 18,6961 18,7732 18,9246 
+75 17,4264 17,6817 17,7786 17,8359 17,9110 18,0570 
+76 16,5878 16,8399 16,9352 16,9913 17,0643 17,2049 
+77 15,7675 16,0159 16,1094 16,1642 16,2351 16,3704 
+78 14,9682 15,2125 15,3041 15,3576 15,4263 15,5562 
+79 14,1942 14,4338 14,5234 14,5754 14,6419 14,7665 
+80 13,4484 13,6829 13,7702 13,8207 13,8850 14,0044 
+81 12,7341 12,9627 13,0476 13,0966 13,1586 13,2728 
+82 12,0538 12,2761 12,3584 12,4058 12,4655 12,5746 
+83 11,4095 11,6247 11,7042 11,7499 11,8072 11,9114
+=== pagina 14 ===
+ALLEGATO n°2 – 
+ ADESIONI SU BASE INDIVIDUALE 
+ 
+Documento sull’erogazione delle rendite – mod. DERenFPA – ed. 06/2025 Pagina 13 di 13 
+ 
+Tabella C 
+FORMA C 
+ 
+MASCHI E FEMMINE 
+ ASSICURAZIONE DI RENDITA VITALIZIA CERTA PER 10 ANNI 
+TASSO TECNICO 0,0% 
+ 
+RATEAZIONE DELLA RENDITA 
+Età 
+corretta Annuale Semestrale Quadrimestrale Trimestrale Bimestrale Mensile 
+40 50,3554 50,6558 50,7896 50,8817 51,0241 51,3682 
+41 49,3780 49,6774 49,8101 49,9012 50,0417 50,3799 
+42 48,4016 48,6998 48,8315 48,9216 49,0602 49,3926 
+43 47,4265 47,7236 47,8543 47,9434 48,0799 48,4065 
+44 46,4528 46,7488 46,8784 46,9665 47,1012 47,4219 
+45 45,4814 45,7762 45,9048 45,9919 46,1246 46,4396 
+46 44,5120 44,8056 44,9332 45,0193 45,1500 45,4591 
+47 43,5447 43,8371 43,9637 44,0488 44,1775 44,4809 
+48 42,5796 42,8708 42,9964 43,0805 43,2073 43,5049 
+49 41,6171 41,9071 42,0317 42,1148 42,2397 42,5315 
+50 40,6562 40,9451 41,0685 41,1507 41,2736 41,5597 
+51 39,6976 39,9853 40,1077 40,1889 40,3098 40,5902 
+52 38,7416 39,0280 39,1494 39,2296 39,3486 39,6232 
+53 37,7883 38,0735 38,1938 38,2730 38,3901 38,6589 
+54 36,8380 37,1219 37,2412 37,3194 37,4345 37,6977 
+55 35,8907 36,1734 36,2917 36,3688 36,4820 36,7395 
+56 34,9460 35,2274 35,3446 35,4207 35,5320 35,7838 
+57 34,0037 34,2837 34,3998 34,4750 34,5844 34,8305 
+58 33,0636 33,3423 33,4574 33,5315 33,6390 33,8794 
+59 32,1258 32,4031 32,5171 32,5902 32,6957 32,9305 
+60 31,1909 31,4667 31,5795 31,6517 31,7552 31,9843 
+61 30,2592 30,5334 30,6452 30,7163 30,8179 31,0413 
+62 29,3310 29,6037 29,7143 29,7844 29,8840 30,1018 
+63 28,4074 28,6784 28,7878 28,8568 28,9545 29,1666 
+64 27,4894 27,7584 27,8666 27,9346 28,0302 28,2368 
+65 26,5764 26,8435 26,9504 27,0172 27,1109 27,3118 
+66 25,6691 25,9339 26,0395 26,1052 26,1969 26,3922 
+67 24,7687 25,0311 25,1352 25,1998 25,2894 25,4790 
+68 23,8764 24,1360 24,2387 24,3020 24,3895 24,5736 
+69 22,9939 23,2503 23,3513 23,4135 23,4988 23,6772 
+70 22,1231 22,3760 22,4752 22,5360 22,6192 22,7919 
+71 21,2665 21,5153 21,6126 21,6720 21,7530 21,9200 
+72 20,4267 20,6709 20,7661 20,8240 20,9026 21,0640 
+73 19,6068 19,8457 19,9386 19,9950 20,0713 20,2270 
+74 18,8099 19,0429 19,1333 19,1880 19,2618 19,4119 
+75 18,0394 18,2656 18,3532 18,4062 18,4774 18,6219 
+76 17,2985 17,5172 17,6017 17,6528 17,7214 17,8602 
+77 16,5904 16,8007 16,8821 16,9311 16,9970 17,1302 
+78 15,9190 16,1201 16,1979 16,2448 16,3079 16,4356 
+79 15,2888 15,4797 15,5536 15,5984 15,6586 15,7808 
+80 14,7037 14,8834 14,9532 14,9956 15,0529 15,1697 
+81 14,1669 14,3347 14,4001 14,4401 14,4943 14,6059 
+82 13,6794 13,8349 13,8960 13,9334 13,9847 14,0914 
+83 13,2393 13,3828 13,4396 13,4746 13,5231 13,6250
+=== pagina 15 ===
+
+=== pagina 16 ===
+

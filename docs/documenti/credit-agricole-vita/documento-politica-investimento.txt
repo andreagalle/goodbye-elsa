@@ -1,0 +1,715 @@
+# Fondo: FONDO PENSIONE APERTO CREDIT AGRICOLE VITA (credit-agricole-vita)
+# Documento: Documento sulla politica di investimento – Politica Finanziaria Fondo Pensione
+# Fonte: https://www.ca-vita.it/media/filer_public/dc/81/dc817352-6e17-4c3c-bd72-cc0f356cd643/politica_finanziaria_fpa_itl_2025.pdf
+# Citato in: https://www.ca-vita.it/fondo-pensione-e-previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 68e472dcd9c817a6fe62f896aeb4736597fcb51a66cbe9b80e6f43be0d2efb1b
+# Pagine: 14
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+Politica Finanziaria Fondo Pensione Aperto 
+di Crédit Agricole Vita 
+Milano, 16 dicembre 2025
+=== pagina 2 ===
+2  
+Premessa 
+Il presente documento descrive la Politica Finanziaria del Fondo Pensione Aperto Crédit Agricole 
+Vita ed è redatto in conformità a quanto disposto dalla Deliberazione COVIP del 16 marzo 2012. 
+Esso è sottoposto a revisione periodica almeno ogni tre anni. Il Documento è trasmesso, in sede 
+di prima definizione e, in seguito, in occasione di ogni sua modificazione: 
+– agli organi di controllo della forma pensionistica e al responsabile della stessa; 
+– ai soggetti incaricati della gestione finanziaria e alla banca depositaria; 
+– alla COVIP, entro venti giorni dalla sua formalizzazione. 
+Il Documento è a disposizione degli aderenti dei beneficiari e dei loro rappresentanti che ne 
+facciano richiesta per iscritto, a mezzo posta elettronica o posta ordinaria, ai seguenti indirizzi: 
+ 
+informazioni@ca-vita.it 
+Corso di Porta Vigentina, 9 – 20122 Milano. 
+ 
+Indice 
+1. Ambito di applicazione della politica finanziaria e definizione dei compiti e le 
+responsabilità dei soggetti coinvolti nel processo di investimento 
+2. Obiettivi della Politica di Investimento 
+3. Criteri di attuazione della Politica di Investimento 
+4. Sistema di controllo della gestione finanziaria e valutazione dei risultati conseguiti 
+5. Modifiche apportate al precedente documento di Politica Finanziaria 
+ 
+ 
+1. Ambito di applicazione della politica finanziaria e definizione dei compiti e le responsabilità 
+dei soggetti coinvolti nel processo di investimento 
+ 
+1.1 Ambito di applicazione della politica finanziaria 
+ 
+Il “Fondo pensione aperto Crédit Agricole Vita”, (di seguito “Il Fondo”), è un fondo pensione aperto 
+istituito ai sensi dell’art. 12 del decreto legislativo 5 dicembre 2005, n. 252 (e successive 
+modificazioni e integrazioni, di seguito “ Il Decreto ”). L’adesione al Fondo è volontaria ed è 
+consentita in forma individuale. 
+È altresì consentita, su base collettiva, ai soggetti destinatari delle forme pensionistiche 
+complementari individuati all’art. 2, comma 1, della summenzionata Legge, nei cui confronti trovino 
+applicazione i contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo. 
+Il Fondo è articolato in tre comparti (di seguito “I Comparti o il Comparto ”), come di seguito 
+specificati: 
+• Comparto Garantita 
+• Comparto Moderata 
+• Comparto Dinamica 
+Per ognuno dei tre comparti è stata determinata una specifica Politica di Investimento in coerenza 
+con il grado di rischio e le prospettive di rendimento implicite nelle caratteristiche dei comparti.
+=== pagina 3 ===
+3  
+Considerando che all’atto dell’adesione al Fondo, l’aderente può scegliere uno o più comparti in cui 
+far confluire i versamenti contributivi, con facoltà di modificare nel tempo tale destinazione, la 
+coerenza della politica di investimento del singolo Comparto rispetto alle esigenze previdenziali 
+degli aderenti deve essere correttamente indirizzata. T ale documento, disponibile anche agli 
+aderenti ai beneficiari e ai loro rappresentanti è volto quindi a rappresentare in modo esaustivo i 
+rischi e le prospettive di rendimento dei tre comparti in modo da poter offrire agli aderenti stessi 
+tutte le informazioni necessarie per meglio indirizzare i propri bisogni contributivi. 
+Il presente documento di Politica Finanziaria ha efficacia dal 1/1/2026 
+ 
+1.2 Compiti e responsabilità dei soggetti coinvolti nel processo di investimento 
+ 
+Il soggetto istitutore il Fondo è Crédit Agricole Vita (di seguito “ Compagnia”) che effettua 
+l’investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni stabiliti dalla normativa 
+vigente, del Regolamento del Fondo e di quanto stabilito nel presente documento di Politica 
+Finanziaria. 
+Ferma restando la piena responsabilità della Compagnia verso gli aderenti, essa si è avvalsa della 
+facoltà di delegare l’esecuzione dell’attività d’investimento delle disponibilità del Fondo ad Amundi 
+SGR (società del Gruppo Crédit Agricole, di seguito “ Gestore”), soggetto in possesso dei requisiti 
+definiti nel Decreto. 
+Tale delega conferisce ad Amundi l’incarico di eseguire operazioni finanziarie nell’esclusivo interesse 
+degli aderenti e nel rispetto di quanto stabilito nel Regolamento del Fondo oltre che delle leggi e 
+delle direttive emanate dalla COVIP in materia. 
+Come richiesto dalla Delibera COVIP 16/3/12 (di seguito “ Delibera”), il presente documento di 
+Politica Finanziaria integrerà il contratto di delega e la sua applicazione verrà costantemente 
+verificata dalla Compagnia che ha per ciò predisposto una procedura (di seguito “ Procedura”) di 
+controllo finanziario della forma pensionistica come richiesto dall’art.6 della Delibera. 
+A norma dell’art. 5 della Delibera e considerando che il Fondo non ha soggettività giuridica, sono 
+stati determinati i compiti e le responsabilità dei soggetti coinvolti nel processo di investimento 
+come di seguito riportato: 
+- l’approvazione del documento di Politica Finanziaria compete al Consiglio di 
+Amministrazione della Compagnia che delibererà su eventuali modifiche almeno ogni tre 
+anni su proposta del Comitato Finanza della Compagnia; 
+- il Comitato Finanza svolge un ruolo propositivo nella impostazione della politica strategica 
+degli investimenti in coerenza con la Politica Finanziaria e il Regolamento del Fondo. Per 
+svolgere tale incarico il Comitato Finanza si avvale del supporto dell’Area Finanza, ALM, 
+Attuariato e Sviluppo Prodotti Vita della Compagnia (di seguito “Area Finanza”); 
+- il conferimento o la revoca del mandato di gestione a soggetti terzi è responsabilità 
+dell’Amministratore Delegato della Compagnia. L’attività istruttoria per la selezione dei 
+gestori finanziari da sottoporre all’Amministratore Delegato è di competenza dell’Area 
+Finanza nel rispetto della procedura sulla selezione dei fornitori della Compagnia;
+=== pagina 4 ===
+4  
+- le attività assegnate alla “Funzione Finanza” dalla Delibera sono attribuite all’Area Finanza 
+della Compagnia. Questa è composta da soggetti dotati delle necessarie competenze e 
+professionalità per svolgere un efficace controllo  della corretta applicazione della Politica 
+Finanziaria. La descrizione delle attività svolte dall’Area Finanza sono dettagliate nella 
+Procedura; 
+- Il Responsabile del Fondo, come stabilito nel Regolamento del Fondo, vigila sulla gestione 
+finanziaria con riferimento ai controlli sulle politiche di investimento e sul monitoraggio dei 
+rischi assunti. Il Responsabile del Fondo comunica alla COVIP, contes tualmente alla 
+segnalazione all’Organo di Amministrazione e a quello di controllo della Compagnia, le 
+irregolarità riscontrate nell’esercizio delle sue funzioni. Per svolgere tale incarico, in merito 
+agli aspetti finanziari di cui al presente documento, si può avvalere dell’attività di controllo 
+sull’Area Finanza svolta dal Servizio Risk Management della Compagnia, come dettagliato 
+nella Procedura; 
+- le procedure interne sul controllo della gestione finanziaria (manuale operativo della forma 
+pensionistica) sono adottate tramite specifica procedura interna valutata dalle funzioni di 
+controllo della Compagnia e approvata da tutti i referenti della stessa; 
+- la strategia in materia dei diritti di voto è definita nel presente documento di Politica 
+Finanziaria e quindi approvato dal Consiglio di Amministrazione; 
+- il soggetto incaricato della gestione è Amundi SGR. Il Gestore trasmette almeno 
+annualmente al Consiglio di Amministrazione della Compagnia una rendicontazione sulle 
+scelte d’investimento effettuate; 
+- la banca Depositaria è CACEIS Bank che svolge le attività affidatele dalla legge. 
+ 
+ 
+2. Obiettivi della Politica di Investimento 
+ 
+La finalità del Fondo è quella di realizzare una forma di previdenza per l’erogazione di trattamenti 
+pensionistici complementari al sistema obbligatorio pubblico, secondo criteri di corrispettività 
+(l’ammontare delle prestazioni previdenziali sarà determin ata in funzione dei contributi versati), 
+mediante una gestione finanziaria a capitalizzazione dei contributi versati dagli aderenti al Fondo. 
+La politica d’investimento ha l’obiettivo di perseguire combinazioni rischio -rendimento efficienti in 
+un determinato arco temporale, coerente con quello delle prestazioni da erogare, in modo da 
+consentire di massimizzare le risorse destinate alle prestazioni esponendo gli aderenti a un livello di 
+rischio ritenuto accettabile. 
+Il Fondo è destinato sia alle adesioni individuali di tutti i soggetti indistintamente sia alle adesioni 
+dei lavoratori sulla base, ad esempio, di contratti o accordi collettivi aziendali. Esso non ha quindi 
+una popolazione di riferimento predefinita. D’altra parte, la pluralità di possibili orizzonti temporali 
+corrispondenti a diverse tipologie di iscritti rende necessario disporre di più opzioni d’investimento, 
+con facoltà concessa ai potenziali aderenti di destinare liberamente i contributi a uno o più Comparti 
+con combinazioni di rischio -rendimento diversificate. Ciò rende il Fondo idoneo a soddisfare le 
+aspettative di popolazioni di riferimento ampie in quanto gli obiettivi di rendimento e il profilo di 
+rischio dei tre comparti sono sufficientemente di versificati e, in particolare, la garanzia finanziaria 
+prestata dalla Compagnia per il Comparto Garantita permette di offrire una alternativa di impiego
+=== pagina 5 ===
+5  
+dei versamenti contributivi anche agli aderenti con bisogni previdenziali di medio termine e 
+propensione al rischio limitata. 
+In ogni caso, per tenere in considerazione le caratteristiche e i potenziali bisogni previdenziali della 
+popolazione di riferimento, la Società monitora le caratteristiche socio-demografiche degli iscritti, 
+l’andamento delle adesioni e delle uscite nonché il livello di contribuzione media. 
+Al fine di valutare le caratteristiche di rischio, rendimento e di orizzonte temporale minimo di 
+investimento consigliato, si è provveduto ad effettuare della analisi idonee a rappresentare la 
+variabilità dei rendimenti attesi a livello di singolo Comparto. I risultati di tali studi sono stati utilizzati 
+per stimare per ogni comparto: (1) i rendimenti attesi in termini reali e la loro variabilità; (2) la 
+probabilità di realizzo di un rendimento inferiore allo zero sull’orizzonte temporale consigliato. 
+Di seguito si rappresenta per ogni Comparto: la finalità perseguita dall’attività di gestione, il 
+rendimento annuo atteso e la sua variabilità nell’orizzonte temporale della gestione con indicazione 
+della probabilità che lo stesso sia inferiore a zero in termini reali. 
+ 
+Comparto Garantita 
+Finalità della gestione in relazione ai potenziali 
+aderenti 
+Questa gestione è adatta agli aderenti disposti ad 
+accettare un rischio moderato a fronte di opportunità di 
+rendimenti più elevati; la presenza della garanzia, 
+riconosciuta nei casi previsti, la rende adatta anche a chi 
+è prossimo alla pensione. Questa è p restata da Crédit 
+Agricole Vita S.p.A. ed attribuisce all’aderente, al 
+verificarsi degli eventi definiti nel Regolamento del 
+Fondo, il diritto alla corresponsione di un importo 
+minimo garantito, a prescindere dai risultati di gestione, 
+pari alla somma dei contributi netti versati al Comparto 
+(inclusi gli eventuali importi derivanti da trasferimenti da 
+altro comparto o da altra forma pensionistica e i 
+contributi versati per il reintegro delle anticipazioni 
+percepite, ridotto da eventuali riscatti parziali e 
+anticipazioni), ciascuno capitalizzato al tasso annuo 
+d’interesse composto del 1,0%. 
+Orizzonte temporale della Gestione Medio termine (5-10 anni) 
+Rendimento medio annuo atteso in termini 
+reali nell’orizzonte temporale 
+2,4% corrispondente ad un rendimento 
+nominale medio annuo di 4,6%. 
+Variabilità del Rendimento medio atteso in 
+termini reali alla fine dell’orizzonte temporale 
+della Gestione. 
+-6,3% VAR[95%] ovvero scostamento del 
+rendimento annuo atteso nel 5% dei casi peggiori. 
++7,3% VAR[5%] ovvero scostamento del 
+rendimento annuo atteso nel 5% dei casi migliori 
+Probabilità che il rendimento nell’orizzonte 
+temporale sia inferiore a zero 
+15% 
+Questa percentuale deve intendersi come probabilità 
+che il valore di quota del Comparto sia inferiore a quello 
+iniziale, al termine dell’orizzonte temporale consigliato. 
+Si evidenzia tuttavia che per il Comparto Garantita, la 
+Società presta una garanzia di rendimento minimo pari 
+al 1,0% annuo al verificarsi degli eventi di erogazione 
+della prestazione previdenziale stabiliti nel Regolamento 
+del Fondo.
+=== pagina 6 ===
+6  
+Comparto Moderata 
+Finalità della gestione in relazione ai potenziali 
+aderenti 
+La finalità della gestione è l’investimento collettivo di 
+capitali in valori mobiliari opportunamente selezionati al 
+fine di incrementarne il valore di portafoglio nel lungo 
+termine. 
+Orizzonte temporale della Gestione Medio termine (da 5 a 10 anni) 
+Rendimento medio annuo atteso in termini 
+reali nell’orizzonte temporale 
+4,1% corrispondente ad un rendimento 
+nominale medio annuo di 6,3% 
+Variabilità del Rendimento medio atteso in 
+termini reali alla fine dell’orizzonte temporale 
+della Gestione 
+-12,8% VAR[95%] ovvero scostamento del 
+rendimento annuo atteso nel 5% dei casi peggiori. 
++13,2% VAR[5%] ovvero scostamento del 
+rendimento annuo atteso nel 5% dei casi migliori 
+Probabilità che il rendimento nell’orizzonte 
+temporale sia inferiore a zero 
+7,4% 
+ 
+ 
+Comparto Dinamica 
+Finalità della gestione in relazione ai potenziali 
+aderenti 
+La finalità della gestione è l’investimento collettivo di 
+capitali in valori mobiliari opportunamente selezionati al 
+fine di incrementarne il valore di portafoglio nel lungo 
+termine. 
+Orizzonte temporale della Gestione Lungo termine (da 10 a 15 anni) 
+Rendimento medio annuo atteso in termini reali 
+nell’orizzonte temporale 
+5,1%corrispondente ad un rendimento 
+nominale medio annuo di 7,3% 
+Variabilità del Rendimento medio atteso in termini 
+reali alla fine dell’orizzonte temporale della 
+Gestione 
+-16,0% VAR[95%] ovvero il rendimento annuo 
+atteso nel 5% dei casi peggiori. 
++16,1% VAR[5%] ovvero il rendimento annuo atteso 
+nel 5% dei casi migliori. 
+Probabilità che il rendimento nell’orizzonte 
+temporale sia inferiore a zero 
+0,3% 
+ 
+ 
+3. Criteri di attuazione della Politica di Investimento 
+ 
+Per ogni Comparto del Fondo si riportano i limiti di investimento e le strategie finanziarie di 
+medio/lungo termine a cui la gestione degli attivi deve uniformarsi: 
+Comparto Garantita 
+Ripartizione strategica delle attività La ripartizione strategica degli attivi del Comparto deve essere 
+coerente secondo quanto previsto dalle tabelle di seguito indicate 
+con la composizione del benchmark di riferimento così definito: 
+85% FTSE EMU GBI 3-7Y (ex Citigroup EMU GBI 3-7 anni in Euro 
+codice Bloomberg: SBEG37EU) 
+15% Eurostoxx50 Total Return in Euro (codice Bloomberg: 
+SX5T1) 
+ 
+1 1/13, precedente indice: DJ Eurostoxx50 Price Index.
+=== pagina 7 ===
+2 In questa categoria sono da considerare anche i fondi obbligazionari e Money Market.  
+7 
+ 
+ Di seguito si riporta la composizione del Benchmark e 
+l’esposizione massima (in segno positivo e negativo) per ogni 
+macroaggregato: 
+Duration del portafoglio La duration del portafoglio deve essere coerente con il Benchmark 
+di riferimento e con l’orizzonte temporale della gestione nel 
+rispetto dell’intervallo stabilito nella tabella seguente. 
+Di seguito si riporta la Duration del Benchmark e la variazione 
+massima del portafoglio (in segno positivo e negativo). 
+Modalità gestionale per assicurare la 
+coerenza della gestione con il 
+benchmark di riferimento 
+La gestione finanziaria deve prevedere una ripartizione degli 
+investimenti in singoli strumenti finanziari (obbligazioni e azioni) 
+e in fondi comuni (compresi ETF) rappresentativi della 
+composizione del Benchmark in termini di fattori di rischio 
+associati e redditività attesa. 
+ 
+Esposizione Geografica % +/- 
+Paesi Area Euro 100% -10% 
+ 
+Esposizione per tipologia di 
+strumento finanziario 
+% +/- Limite 
+assoluto 
+Strumenti obbligazionari e 
+similari2 
+85% +15/-25% - 
+Strumenti azionari e similari 15% 15% Max 
+50% 
+ 
+Esposizione per settore % +/- 
+Parte Obbligazionaria 
+Titoli governativi 
+ 
+85% 
+ 
++15/-25% 
+ 
+ 
+Per i settori dell’indice 
+azionario, considerate le 
+basse incidenze rispetto alla 
+dimensione complessiva del 
+Comparto, si ritiene di non 
+dovere imporre limiti di 
+scostamento 
+ 
+Esposizione Valutaria % +/- 
+Euro 100% 20% 
+Dollaro 0% 10% 
+Altre valute 0% 10% 
+ 
+Duration del Benchmark 
+in anni 
+Δ - 
+3,71 +/-2
+=== pagina 8 ===
+8  
+Strumenti Finanziari nei quali si 
+intende investire e i rischi connessi 
+Non sono ammessi investimenti in strumenti alternativi, fondi 
+chiusi e derivati. 
+Sono invece ammessi investimenti in OICR (compresi ETF) 
+armonizzati conformi alla Direttiva 2009/65/CE e successive 
+modifiche e integrazioni. 
+I fondi, diversi dagli ETF, devono avere un TER (Total Expense  
+Ratio) inferiore o uguale agli ETF (se esistenti) con simile politica 
+finanziaria. Tutti i fondi selezionati devono avere una strategia 
+passiva rispetto ai rispettivi benchmark di riferimento quindi la 
+loro strategia finanziaria deve essere volta a replicare i rendimenti 
+del benchmark associato. Devono inoltre essere disponibili al 
+Gestore le composizioni analitiche degli strumenti finanziari 
+sottostanti e, su richiesta, all’Area Finanza. Il calcolo del NAV utile 
+alla valorizzazione dell’importo di riscatto della posizione deve 
+essere giornaliero. 
+Tipologia di gestione che si intende 
+adottare 
+La gestione finanziaria è di tipo attivo in riferimento al totale del 
+patrimonio gestito. Si ritiene che una strategia di investimento 
+attiva permetta nel medio periodo di ottenere extra -rendimenti 
+rispetto al benchmark di riferimento perché la gestione si può  
+avvalere del supporto di una struttura di valutazione e analisi di 
+uno dei principali asset manager internazionali. All’interno del 
+Gruppo Amundi esistono team dedicati alla strategia, all’analisi 
+economica e all’analisi dei singoli titoli. Il proces so prevede un 
+comitato che mensilmente compie scelte strategiche di 
+portafoglio con l’ausilio della ricerca prodotta internamente ed 
+esternamente al gruppo. Il team di gestori ha bande di 
+discrezionalità nelle quali muoversi rispetto alle scelte adottate 
+dal comitato. 
+Di seguito si riportano i limiti in termini di turnover di portafoglio 
+e di TEV (tracking error volatility): 
+ Turnover di portafoglio (su 
+anno solare) 
+3x  
+TEV (calcolato ex-post su dati 
+mensili) 
+0,56% 
+ 
+Comparto Moderata 
+Ripartizione strategica delle attività La ripartizione strategica degli attivi del Comparto deve essere 
+coerente secondo quanto previsto dalle tabelle di seguito indicate 
+con la composizione del benchmark di riferimento cosi definito: 
+50% JPMorgan GBI-Europe Hedged in Euro (codice Bloomberg: 
+JHECEURO) 
+20% MSCI World Free Net Total Return in Dollaro US convertito in 
+Euro3 (codice Bloomberg: NDDUWIF convertito in euro) 
+30% MSCI World Free Net Total Return Hedged in Euro (codice 
+Bloomberg MXWOHEUR) 
+ 
+ 
+3 Dal 1/1/13, precedente indice: MSCI World Free Price Index (Dollaro US convertito in Euro).
+=== pagina 9 ===
+9  
+ Di seguito si riporta la composizione del Benchmark e 
+l’esposizione massima (in segno positivo e negativo) per ogni 
+macroaggregato ricordando che i pesi rappresentati sono una 
+fotografia attuale e che si modificano con i movimenti di mercato: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(*) al 20 Novembre 2025 
+33Duration del portafoglio La duration del portafoglio deve essere coerente con il Benchmark 
+di riferimento e con l’orizzonte temporale della gestione nel 
+rispetto dell’intervallo stabilito nella tabella seguente. 
+Di seguito si riporta la Duration del Benchmark e la variazione 
+massima del portafoglio (in segno positivo e negativo). 
+ 
+ 
+ 
+4 In questa categoria sono da considerare anche i fondi obbligazionari e Money Market.  
+Esposizione Geografica (*) % +/- 
+Paesi Area Euro 43,24% 30% 
+Europe ex EMU 13,48% 10% 
+North America 38,93% 30% 
+Japan 2,70% 10% 
+Asia ex Japan e Australia 1,65% 10% 
+ 
+Esposizione per tipologia di 
+strumento finanziario 
+% +/- Limite 
+assoluto 
+Strumenti obbligazionari e 
+similari4 
+50% 30% - 
+Strumenti azionari e similari 50% 20% Max 70% 
+ 
+Esposizione per settore (*) % +/- 
+Parte Obbligazionaria   
+Titoli governativi 50% 30% 
+Parte Azionaria   
+Per i settori dell’indice 
+azionario, considerate le 
+basse incidenze rispetto 
+alla dimensione 
+complessiva del Comparto, 
+si ritiene di non dovere 
+imporre limiti di 
+scostamento 
+ 
+Esposizione Valutaria (*) % +/- 
+Euro 81,79% 30% 
+Dollaro 13,76% 20% 
+Altre valute 4,46% 15%
+=== pagina 10 ===
+10  
+  Duration del benchmark 
+in anni 
+Δ  
+3,44 +/-2 
+ 
+Modalità gestionale per assicurare la 
+coerenza della gestione con il 
+benchmark di riferimento 
+La gestione finanziaria deve prevedere una ripartizione degli 
+investimenti in singoli strumenti finanziari (obbligazioni e azioni) 
+e in fondi comuni (compresi ETF) rappresentativi della 
+composizione del Benchmark in termini di fattori di rischio 
+associati e redditività attesa. 
+Strumenti Finanziari nei quali si 
+intende investire e i rischi connessi 
+Non sono ammessi investimenti in strumenti alternativi, fondi 
+chiusi e derivati. 
+Sono invece ammessi investimenti in OICR (compresi ETF) 
+armonizzati conformi alla Direttiva 2009/65/CE e successive 
+modifiche e integrazioni. 
+I fondi, diversi dagli ETF, devono avere un TER (Total Expense 
+Ratio) inferiore o uguale agli ETF (se esistenti) con simile politica 
+finanziaria. Tutti i fondi selezionati devono avere una strategia 
+passiva rispetto ai rispettivi benchmark di riferimento q uindi la 
+loro strategia finanziaria deve essere volta a replicare i rendimenti 
+del benchmark associato. Devono inoltre essere disponibili al 
+Gestore le composizioni analitiche degli strumenti finanziari 
+sottostanti e, su richiesta, all’Area Finanza. Il calcolo del NAV utile 
+alla valorizzazione dell’importo di riscatto della posizione deve 
+essere giornaliero. 
+Tipologia di gestione che si intende 
+adottare 
+La gestione finanziaria è di tipo attivo in riferimento al totale del 
+patrimonio gestito. Si ritiene che una strategia di investimento 
+attiva permetta nel medio periodo di ottenere extra -rendimenti 
+rispetto al benchmark di riferimento perché la gestione si può 
+avvalere del supporto di una struttura di valutazione e analisi di 
+uno dei principali asset manager internazionali. All’interno del 
+Gruppo Amundi esistono team dedicati alla strategia, all’analisi 
+economica e all’analisi dei singoli titoli. Il process o prevede un 
+comitato che mensilmente compie scelte strategiche di 
+portafoglio con l’ausilio della ricerca prodotta internamente ed 
+esternamente al gruppo. Il team di gestori ha bande di 
+discrezionalità nelle quali muoversi rispetto alle scelte adottate 
+dal comitato. 
+Di seguito si riportano i limiti in termini di turnover di portafoglio 
+e di TEV (tracking error volatility): 
+ Turnover di portafoglio (su 
+anno solare) 
+3x  
+TEV (calcolato ex-post su dati 
+mensili) 
+          0,95%
+=== pagina 11 ===
+11  
+Comparto Dinamica 
+Ripartizione strategica delle attività La ripartizione strategica degli attivi del Comparto deve essere 
+coerente secondo quanto previsto dalle tabelle di seguito indicate 
+con la composizione del benchmark di riferimento cosi definito: 
+25% Boa ML Italy Treasury Bill (codice Bloomberg G0IB) 
+25% MSCI World Free Net Total Return in Dollaro US convertito 
+in Euro5 (codice Bloomberg: NDDUWIF convertito in euro) 
+50% MSCI World Free Net Total Return Hedged in Euro (codice 
+Bloomberg MXWOHEUR) 
+ 
+ 
+Di seguito si riporta la composizione del Benchmark e 
+l’esposizione massima (in segno positivo e negativo) per ogni 
+macroaggregato ricordando che i pesi rappresentati sono una 
+fotografia attuale e che si modificano con i movimenti di mercato: 
+ 
+Esposizione Geografica (*) % +/- 
+Paesi Area Euro 31,07% 30% 
+Europe ex Emu 4,01% 10% 
+North America 58,39% 35% 
+Japan 4,04% 10% 
+Asia ex Japan e Australia 2,49% 10% 
+ 
+Esposizione per tipologia di 
+strumento finanziario 
+% +/- Limite 
+assoluto 
+Strumenti obbligazionari e 
+similari6 
+25% 15% - 
+Strumenti azionari e similari 75% 25% Minimo 
+70% 
+ 
+ 
+ 
+ 
+ 
+ 
+5 Dal 1/1/13, precedente indice: MSCI World Free Price Index (Dollaro US convertito in Euro).  
+6 In questa categoria sono da considerare anche i fondi obbligazionari e Money Market.  
+ 
+ 
+15% 
+ 
+Per i settori dell’indice 
+azionario, considerate le 
+basse incidenze rispetto alla 
+dimensione complessiva del 
+Comparto, si ritiene di non 
+dovere imporre limiti di 
+scostamento 
+25% 
+Parte Obbligazionaria 
+Titoli governativi 
++/- 
+ 
+Esposizione per settore (*)
+=== pagina 12 ===
+12  
+  Esposizione Valutaria (*) % +/-  
+Euro 77,23% 30% 
+Dollaro 17,19% 35% 
+Altre valute 5,57% 20% 
+ 
+(*) al 20 Novembre 2025 
+Duration del portafoglio La duration del portafoglio deve essere coerente con il Benchmark 
+di riferimento e con l’orizzonte temporale della gestione nel 
+rispetto dell’intervallo stabilito nella tabella seguente. 
+Di seguito si riporta la Duration del Benchmark e la variazione 
+massima del portafoglio (in segno positivo e negativo). 
+Modalità gestionale per assicurare la 
+coerenza della gestione con il 
+benchmark di riferimento 
+La gestione finanziaria deve prevedere una ripartizione degli 
+investimenti in singoli strumenti finanziari (obbligazioni e azioni) 
+e in fondi comuni (compresi ETF) rappresentativi della 
+composizione del Benchmark in termini di fattori di rischio 
+associati e redditività attesa. 
+Strumenti Finanziari nei quali si 
+intende investire e i rischi connessi 
+Non sono ammessi investimenti in strumenti alternativi, fondi 
+chiusi e derivati. 
+Sono invece ammessi investimenti in OICR (compresi ETF) 
+armonizzati conformi alla Direttiva 2009/65/CE e successive 
+modifiche e integrazioni. 
+I fondi, diversi dagli ETF, devono avere un TER (Total Expense 
+Ratio) inferiore o uguale agli ETF (se esistenti) con simile politica 
+finanziaria. Tutti i fondi selezionati devono avere una strategia 
+passiva rispetto ai rispettivi benchmark di riferimento q uindi la 
+loro strategia finanziaria deve essere volta a replicare i rendimenti 
+del benchmark associato. Devono inoltre essere disponibili al 
+Gestore le composizioni analitiche degli strumenti finanziari 
+sottostanti e, su richiesta, all’Area Finanza. Il calcolo del NAV utile 
+alla valorizzazione dell’importo di riscatto della posizione deve 
+essere giornaliero. 
+Tipologia di gestione che si intende 
+adottare 
+La gestione finanziaria è di tipo attivo in riferimento al totale del 
+patrimonio gestito. Si ritiene che una strategia di investimento 
+attiva permetta nel medio periodo di ottenere extra -rendimenti 
+rispetto al benchmark di riferimento perché la gestione si può 
+avvalere del supporto di una struttura di valutazione e analisi di 
+uno dei principali asset manager internazionali. All’interno del 
+Gruppo Amundi esistono team dedicati alla strategia, all’analisi 
+economica e all’analisi dei singoli titoli. Il process o prevede un 
+comitato che mensilmente compie scelte strategiche di 
+portafoglio con l’ausilio della ricerca prodotta internamente ed 
+esternamente   al   gruppo.   Il   team   di   gestori   ha   bande   di 
+ 
+Duration del Benchmark 
+in anni 
++/-Δ 
+0,11 +/-2
+=== pagina 13 ===
+13  
+ discrezionalità nelle quali muoversi rispetto alle scelte adottate 
+dal comitato. 
+Di seguito si riportano i limiti in termini di turnover di portafoglio 
+e di TEV (tracking error volatility): 
+ Turnover di portafoglio (su 
+anno solare) 
+3x  
+TEV (calcolato ex-post su dati 
+mensili) 
+1,36% 
+ 
+Caratteristiche Comuni ai tre Comparti 
+Le caratteristiche dei mandati La gestione finanziaria del Fondo è delegata ad un'unica società 
+terza che dispone dei requisiti definiti dalla Covip. 
+La durata del contratto di delega è annuale con rinnovo tacito 
+delle parti in caso di mancato recesso. Il mandato è generalista, 
+riferito a tutto il patrimonio del Fondo e di tipo attivo (con limite 
+di TEV rispetto al benchmark di ogni Comparto). Non sono 
+previste commissioni di performance e le commissioni massime 
+pagate al gestore sul patrimonio del Comparto non possono 
+eccedere lo 0.20%. 
+Criteri per l’esercizio dei diritti di voto Considerata la limitata dimensione del patrimonio gestito dal 
+Fondo tramite investimenti diretti in società quotate e l’elevata 
+capitalizzazione delle società oggetto d’investimento, di norma il 
+Fondo Pensione non eserciterà i diritti di voto inerenti alle  
+partecipazioni in portafoglio: verrà comunque di volta in volta 
+valutata l’opportunità, ponendosi come obiettivo il miglior 
+interesse per gli aderenti, di esercitare, in casi specifici, il diritto 
+di voto. 
+Aspetti etici, sociali e ambientali cui si 
+intende dedicare attenzione nella 
+gestione delle risorse 
+La politica di investimento rispetta le linee guida che il gruppo 
+Crédit Agricole può di volta in volta impartire in merito a divieti di 
+investimento diretto in specifiche società che traggono profitto 
+da attività “non etiche” dal punto di vista ambientale e della 
+persona umana (a titolo puramente esemplificativo, società che 
+producono armamenti di distruzione di massa quali bombe a 
+grappolo).
+=== pagina 14 ===
+14  
+4. Sistema di controllo della gestione finanziaria 
+ 
+Come richiesto dalla Delibera la Compagnia ha predisposto una procedura di controllo al fine di 
+verificare la corrispondenza della politica finanziaria adottata con quanto previsto nel presente 
+documento. Il sistema dei controlli si sviluppa su tre livelli. Il primo livello riguarda il presidio delle 
+funzioni di controllo interno del Gestore (funzioni di compliance e di Risk Management) sugli 
+investimenti effettuati. L’elemento principale di tale presidio è un sistema informatico che non 
+permette al soggett o incaricato degli investimenti di eseguire operazioni in violazione dei limiti di 
+concentrazione stabiliti nella Politica Finanziaria e un sistema di “alert” nel momento in cui il rischio 
+assunto dal Gestore risulta essere eccessivo rispetto a quanto definito nel richiamato documento. A 
+tale fine il Gestore calcola una misura di TEV ex-ante che misura la massima perdita potenziale del 
+portafoglio in relazione con il benchmark ad un determinato livello di confidenza. Queste misure, 
+calcolate con frequenza giornaliera sono confrontate con un limite massimo specifico per ogni 
+comparto. Tali limiti, definiti dal Gestore, sono proporzionali a quelli ex -post definiti nel presente 
+documento tenuto conto dell’impatto della fiscalità gravante sulle quote ufficiali del prodotto (che 
+ha un impatto sulla misura di TEV ex-post ma non sulla misura ex-ante) e di un opportuno fattore di 
+rettifica atto ad assicurare la significatività statistica di eventuali esuberi delle realizzazioni dello 
+stimatore ex-post che si basa su una limitata dimensione campionaria. 
+Il secondo livello di controllo riguarda l’attività di ricalcolo mensile dei principali indicatori di 
+performance e di rischio da parte dell’Area Finanza. Inparticolare vengono ricalcolate le 
+performance realizzate dai comparti, le performance dei benchmark corrispondenti, gli scostamenti 
+di performance, e il TEV -ex post. Inoltre viene verificata, sempre a livello mensile, che la 
+composizione dei portafogli rientri nei limiti massimi definiti nella Politica Finanziaria e controllata 
+l’attribuzione della performance dei singoli c omparti in relazione ai principali fattori di rischio e di 
+rendimento che l’hanno generata (performance attribution). 
+Il terzo livello di controllo riguarda l’attività svolta dal Responsabile del Fondo che per tale attività si 
+può avvalere del supporto della funzione di Risk Management della Compagnia. L’andamento della 
+gestione finanziaria è rappresentato in relazioni periodiche prodotte dal Gestore sull’attività svolta 
+nell’ultimo periodo e in una reportistica prodotta dall’Area Finanza esplicativa dell’andamento della 
+gestione. Inoltre, annualmente, l’Area Finanza provvede a inoltrare al Responsabile del Fondo una 
+relazione sui controlli effettuati circa la situazione di ogni singolo comparto, corredata da una 
+valutazione del grado di rischio assunto in rapporto al rendimento realizzato. 
+ 
+5. Modifiche apportate al precedente documento di Politica Finanziaria 
+ 
+Rispetto al precedente documento di Politica Finanziaria approvato il 13 dicembre 2022, le 
+modifiche principali riguardano: 
+- aggiornamento dei dati esplicativi l’andamento atteso dei comparti (rendimenti annui attesi 
+e loro variabilità).

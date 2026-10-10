@@ -1,0 +1,95 @@
+# Fondo: AZIMUT PREVIDENZA - FONDO PENSIONE APERTO (azimut-previdenza)
+# Documento: Metodologia delle proiezioni – Metodologia di calcolo per l’elaborazione delle prestazioni pensionistiche
+# Fonte: https://www.azimut.it/archives/metodologia-di-calcolo-per-l-elaborazione-delle-prestazioni-pensionistiche
+# Citato in: https://www.azimut.it/prodotti-previdenziali/azimut-previdenza
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 9f9be7e5c233ff1cce6c4cb18b923618f6821489f8bc50cec412e80d87ba5354
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Azimut Capital Management SGR S.p.A. 
+Via Cusani, 4 - 20121 Milano - Tel. 02 8898 1 - Fax 02 88985 500 - PEC: azimutcm@legalmail.it - Capitale sociale: Euro 2.000.000,00 i.v. - Codice Fiscale, Partita IVA iscrizione al Registro delle 
+Imprese di Milano n. 04631200963 - REA 1762051- Società soggetta alla direzione e coordinamento dell’unico azionista Azimut Holding SpA - Iscritta all’Albo Banca d’Italia delle SGR al  
+n. 36 (Sezione gestori di OICVM) e al n. 75 (Sezione gestori di FIA) 
+AZIMUT PREVIDENZA FONDO PENSIONE APERTO 
+Iscritto all’Albo COVIP al n. 92 
+ 
+PROIEZIONI PENSIONISTICHE COMPLEMENTARI 
+ 
+Il “simulatore” risponde all’esigenza di valutare nel tempo l’evoluzione della propria 
+posizione presso il Fondo Pensione e le prestazioni finali attese. Il motore di calcolo 
+“Proiezioni Pensionistiche complementari”, è uno strumento di ausilio per l’adozione o la 
+modifica delle scelte relative all’adesione, consente lo sviluppo delle proiezioni delle 
+prestazioni pensionistiche sulla base dei dati immessi dal lavoratore ed in conformità alle 
+regole definite dall’autorità di Vigilanza. 
+ 
+Proiezioni Pensionistiche complementari “versione personalizzata” 
+ 
+Il programma consente una valutazione sintetica e prospettica del proprio programma 
+previdenziale, espressa in termini di rendita attesa al pensionamento ed evoluzione nel 
+tempo della posizione individuale, con l’opportunità di variare nei limiti consentiti le 
+modalità di contribuzione. Tutti i valori della posizione individuale prospettica e della prima 
+rata annua di rendita sono rappresentati in termini di potere d’acquisto reale, ossia al 
+netto dell’effetto dell’inflazione. Nel calcolo della evoluzione della posizione individuale si 
+tiene conto delle im poste gravanti sui rendimenti previste dal regime vigente. La 
+partecipazione alle forme pensionistiche complementari consente di fruire di benefici 
+fiscali anche sulle contribuzioni versate (deducibili dal reddito) e sulle prestazioni 
+percepite. Per maggio ri informazioni sulla deducibilità dei contributi e sulla tassazione 
+delle prestazioni si rimanda al “Documento sul regime fiscale” presente sul sito pubblico. 
+ 
+AVVERTENZA 
+ 
+Gli importi riportati nel documento “Proiezioni Pensionistiche complementari” in versione 
+personalizzata sono fondati su ipotesi di calcolo che potrebbero non trovare conferma 
+nel corso del rapporto e pertanto la posizione individuale tempo per tempo matur ata e 
+la prestazione pensionistica attesa potrebbero risultare differenti da quelle indicate. Le 
+indicazioni fornite non impegnano in alcun modo il Fondo/la Società né la COVIP. 
+ 
+Informazioni e ipotesi utilizzate nello sviluppo 
+ 
+Per l’elaborazione del documento “Proiezioni Pensionistiche complementari” si 
+considerano informazioni relative al singolo iscritto, informazioni proprie della forma 
+pensionistica complementare e ipotesi definite dalla COVIP in modo uniforme per tutte le 
+forme pensionistiche. 
+I dati anagrafici e contributivi sono impostabili e/o confermati dall’iscritto. Qualora siano 
+già presenti dei dati si richiama l’attenzione sulla necessità di verificare la corrispondenza 
+di tali informazioni a quelle effettive (ad esempio, misura della contribuzione, livello 
+retributivo ecc.). 
+I parametri propri relativi allo stile di investimento della gestione, dei costi diretti ed indiretti 
+e di que lli di trasformazione del montante accumulato  nella po sizione individuale in 
+rendita, sono specificati nel Regolamento di Gestione vigente del Fondo Pensione.
+=== pagina 2 ===
+Di seguito le ipotesi omogenee definite dalla COVIP e utilizzate per lo sviluppo della 
+prestazione pensionistica: 
+ 
+• età di pensionamento: si tratta di presumibile età di pensionamento di vecchiaia; 
+• basi demografiche: tavola di mortalità A62, differenziata per sesso; 
+• basi finanziarie: il tasso tecnico è posto pari allo 0%; 
+• tasso atteso di crescita della contribuzione/retribuzione: la rivalutazione avviene ad 
+un tasso reale dell ’1%, qualora la contribuzione sia espressa in cifr fiss a; qualora la 
+stessa sia espressa invece in percentuale della retribuzione, si assume un tasso 
+annuo atteso di crescita della retribuzione pari all’1% in termini reali; 
+• costo relativo alla trasformazione della poszione individual e in rendita: 1,25% della 
+posizione individuale maturata al termine della fase di accumulo; 
+• tasso annuo atteso di inflazione: è posto pari al 2% annuo; 
+• tasso atteso di rendimento della gestione : calcolato sulla base dello stile di 
+investimento e dei tassi di rendimento medio annuo espressi in termini reali e al lordo 
+dei costi e della tassazione: 
+- rendimento comparto obbligazionario: 2%; 
+- rendimento comparto azionario: 4%. 
+ 
+AVVERTENZA 
+ 
+L’età di possibile pensionamento dell’iscritto dipende dal relativo regime previdenziale di 
+base e dalla normativa tempo per tempo vigente. Ad età inferiori a quelle rappresentate 
+corrispondono, a parità di altre condizioni, rate di rendita più basse. 
+Nel corso del rapporto di partecipazione la posizione individuale effettivamente maturata 
+è soggetta a variazioni in conseguenza della variabilità dei rendimenti conseguiti nella 
+gestione. Tale variabilità è tanto più elevata quanto maggiore è l’investimen to azionario 
+relativo al profilo di investimento dell’Aderente. Il documento “Proiezioni Pensionistiche 
+complementari” e il motore di calcolo non tengono conto di tale variabilità. 
+Si ricorda che sul sito dell’INPS è disponibile il servizio “La mia pensione” il quale permette 
+di simulare quella che sarà presumibilmente la prestazione di base che un lavoratore 
+iscritto al Fondo pensione lavoratori dipendenti o ad altri fondi o gestioni amministrati 
+dall’INPS riceverà al termine dell’attività.

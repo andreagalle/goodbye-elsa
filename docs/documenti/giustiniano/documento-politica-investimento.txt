@@ -1,0 +1,568 @@
+# Fondo: FONDO PENSIONE APERTO GIUSTINIANO (giustiniano)
+# Documento: Documento sulla politica di investimento – Politica di Investimento
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/altro/005/GIUSTINIANO.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/giustiniano.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: b1754fe503c4a3b95651efc7553a07c9b77f2a5c031109f4b6cab66552ad6b9c
+# Pagine: 17
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+ 
+ 
+ 
+ 
+GIUSTINIANO 
+Fondo Pensione Aperto 
+ 
+Politica di investimento
+=== pagina 2 ===
+2 
+Data di emanazione:  25/2/2026 
+Data di applicazione:  25/2/2026 
+    
+Modifiche apportate nell’ultimo triennio 
+Data Autore Principali modifiche 
+27/03/2023 
+Enterprise Risk 
+ 
+Revisione triennale ed 
+aggiornamento degli indicatori quali-
+quantitativi dei singoli comparti. 
+25/2/2026 
+Enterprise Risk 
+ 
+Revisione triennale ed 
+aggiornamento degli indicatori quali-
+quantitativi dei singoli comparti.
+=== pagina 3 ===
+3 
+INDICE 
+ 
+RIFERIMENTI NORMATIVI ................................ ................................ ................................ ............... 4 
+PREMESSA ................................ ................................ ................................ ................................ ...... 4 
+OBIETTIVI DELLA GESTIONE FINANZIARIA ................................ ................................ ..................... 5 
+1. CARATTERISTICHE................................ ................................ ................................ ................ 6 
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE ................................ ...................... 7 
+GIUSTINIANO MONETARIA ................................ ................................ ................................ ........ 9 
+GIUSTINIANO OBBLIGAZIONARIA ................................ ................................ ........................... 10 
+GIUSTINIANO TFR+ ................................ ................................ ................................ ................... 11 
+GIUSTINIANO BILANCIATA ................................ ................................ ................................ ....... 12 
+GIUSTINIANO AZIONARIA ................................ ................................ ................................ ........ 13 
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO ................................ ...............................  14 
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA ...............................  15 
+1. CONTROLLO LIMITI ................................ ................................ ................................ ........... 15 
+2. ANALISI DEI COMPARTI ................................ ................................ ................................ .... 15 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION ................................ ................................ .. 15 
+4. ATTRIBUZIONE DEL RATING ................................ ................................ ...............................  16
+=== pagina 4 ===
+4 
+ RIFERIMENTI NORMATIVI 
+ 
+Decreto Legislativo n. 252 del 5 dicembre 2005. 
+Deliberazione COVIP del 16 marzo 2012. 
+Decreto del Ministero dell’Economia e delle Finanze DM 166/2014. 
+ 
+ 
+ 
+PREMESSA  
+ 
+Il presente documento disciplina la politica degli investimenti del fondo pensione GIUSTINIANO, 
+definendo la strategia finanziaria che si intende attuare per ottenere la combinazione 
+rischio/rendimento coerente con i bisogni previdenziali degli aderenti. I l documento è stato redatto 
+in adempimento a quanto prescritto dalla Deliberazione COVIP del 16 marzo 2012. Il documento 
+verrà sottoposto a revisione periodica, almeno ogni tre anni e tutte le modifiche apportate verranno 
+annotate nella tabella contenente la cronologia del documento, indicando una sintetica 
+descrizione delle stesse e le date con cui sono state effettuate. Il documento viene trasmesso in 
+occasione di ogni sua modifica: 
+• alla COVIP, entro venti giorni dalla sua formalizzazione; 
+• ai soggetti incaricati dalla gestione; 
+• al Responsabile del Fondo.
+=== pagina 5 ===
+5 
+OBIETTIVI DELLA GESTIONE FINANZIARIA 
+ 
+Il fondo pensione aperto GIUSTINIANO gestisce le risorse nel rispetto del principio della sana e  
+prudente gestione e nel migliore interesse degli aderenti e dei beneficiari. In particolare, devono 
+essere osservati i seguenti obiettivi di gestione: 
+ 
+▪ efficiente gestione del portafoglio, in modo da contemperare la massimizzazione della 
+redditività e la minimizzazione dei costi di transazione, gestione e funzionamento;  
+ 
+▪ contenimento del rischio, qualità, liquidità e redditività del portafoglio nel suo complesso;  
+ 
+▪ adeguata diversificazione del portafoglio, in modo da evitare che ci sia un’eccessiva 
+dipendenza del risultato della gestione da determinati emittenti, gruppi di imprese o attività, 
+e che nel portafoglio complessivamente considerato ci siano concentrazioni del rischio. 
+ 
+Nel perseguire questi obiettivi si dovrà tener conto delle esigenze di tipo previdenziale degli aderenti 
+considerando il lasso di tempo che li separa dal pensionamento ed in relazione alle caratteristiche 
+personali quali anzianità lavorativa, percorso di carriera e tipologia del nucleo famigliare. 
+ 
+Per ciascun comparto dovrà essere definito un parametro oggettivo che consenta all’aderente di 
+valutare il prodotto in termini di rischio/rendimento. A tale scopo potrà essere utilizzato un 
+benchmark, definito come un indice o una combinazione di indici finanziari, utilizzabili per 
+confrontare e valutare il prodotto in termini di rischiosità e redditività prevedibile, in relazione ai 
+mercati e settori presi in considerazione o un livello massimo di rischio atteso ed una indicazione della 
+redditività prospettica. 
+ 
+La popolazione di riferimento che aderisce alle proposte di investimento è decisamente diversificata; 
+vengono analizzate con frequenza annuale le caratteristiche socio demografiche della popolazione 
+di riferimento, classificando gli aderenti sulla base dell’ età, dell’anzianità contributiva, dell’attività 
+lavorativa svolta e del sesso al fine di prevedere  se le proposte di investimento del fondo pensione 
+siano adatte alle molteplici esigenze in termini di profili di rischio  - rendimento atteso.
+=== pagina 6 ===
+6 
+1. CARATTERISTICHE 
+ 
+GIUSTINIANO è rivolto a tutti coloro che intendono costruire un piano di previdenza complementare 
+su base individuale. Possono aderire, inoltre, su base collettiva, i lavoratori nei cui confronti trovino 
+applicazione i contratti, gli accordi o i regolamenti aziendali  che dispongono l’adesione a 
+GIUSTINIANO.  
+Lo scopo è quello di garantire prestazioni pensionistiche aggiuntive rispetto a quelle erogate dagli 
+enti previdenziali obbligatori. Gli importi versati potranno essere investiti in cinque comparti, con 
+diverse caratteristiche di rischio/rendimento e conseguenti diversi orizzonti temporali. 
+ 
+Descrizione Tipologia Orizzonte temporale 
+Giustiniano Monetaria Fondo Pens. Aperto Breve periodo (fino a 5 anni) 
+Giustiniano Obbligazionaria Fondo Pens. Aperto Medio periodo (da 5 a 10 anni) 
+Giustiniano TFR+ Fondo Pens. Aperto Medio periodo (da 5 a 10 anni) 
+Giustiniano Bilanciata Fondo Pens. Aperto Medio-lungo periodo (da 10 a 15 anni) 
+Giustiniano Azionaria Fondo Pens. Aperto Lungo Periodo (oltre 15 anni) 
+ 
+Ogni comparto è caratterizzato da diversi livelli di rischio/rendimento e prevede politiche di 
+investimento strettamente connesse alle finalità di gestione che si intendono perseguire, nei capitoli 
+successivi verranno analizzati nel dettaglio.
+=== pagina 7 ===
+7 
+2. POLITICA DI INVESTIMENTO E CRITERI DI ATTUAZIONE  
+ 
+I fondi pensione operano nel rispetto del principio della sana e prudente gestione, perseguendo gli 
+interessi degli aderenti, osservano il criterio di un’adeguata diversificazione del portafoglio finalizzata 
+a contenere la concentrazione del rischio, ottimizzando la combinazione rischio/rendimento. A tal 
+fine si verifica no periodicamente i risultati della gestione mediante l’adozione di parametri di 
+riferimento coerenti con gli obiettivi.  
+ 
+Strumenti finanziari nei quali si intende investire 
+Le disponibilità possono essere investite in strumenti finanziari di natura monetaria, obbligazionaria e 
+azionaria nei limiti previsti dalla normativa e dalle politiche di investimento di ogni singolo comparto 
+più avanti delineate. 
+ 
+E’ prevista la possibilità di investire in quote di OICVM, la cui politica di gestione sia coerente con 
+quella stabilita per il comparto, ivi inclusi quelli istituiti da imprese del gruppo di appartenenza della 
+Società istitutrice, nel rispetto delle specifiche disposizioni in materia.  
+È inoltre possibile investire in fondi PIR compliant, nella forma di FIA o di OICVM, gestiti nel rispetto 
+degli indirizzi e dei limiti della legge 11 dicembre 2016 n. 232. 
+E’ infine possibile investire in FIA (OICR alternativi) secondo quanto previsto dal D.M. 166/2014. 
+ 
+Le risorse non vengono investite in tipologie di strumenti finanziari e classi di attività per le quali la 
+struttura organizzativa, professionale e tecnica e il modello adottato dalla Società non consentono 
+adeguati monitoraggio e gestione del rischio. 
+ 
+Il fondo pensione  aperto GIUSTINIANO investe in strumenti finanziari derivati esclusivamente per 
+finalità di riduzione del rischio e di efficiente gestione. Nell’esercizio dell’attività di gestione di fondi 
+pensione, il soggetto gestore non può effettuare vendite allo scoperto, né porre in essere operazioni 
+in strumenti finanziari derivati equivalenti a vendite allo scoperto. 
+ 
+L’investimento in strumenti finanziari di uno stesso emittente non può superare il 5% del patrimonio in 
+gestione di ogni singolo Comparto e 10% in strumenti finanziari emessi da soggetti appartenenti ad 
+un unico gruppo; sono esclusi dall’applicazione di tale limite di concentrazione gli strumenti finanziari 
+emessi o garantiti da un Paese membro dell’Unione Europea, da un Paese aderente all’OCSE o da 
+organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi membri dell’Unione 
+Europea, gli OICVM e i FIA. 
+ 
+Gli investimenti in strumenti finanziari di natura obbligazionaria sono orientati verso titoli con elevata 
+affidabilità creditizia ovvero nell’area dell’Investment Grade. Secondo le indicazioni fornite 
+dall’Authority di settore (COVIP) per la valutazione del merito creditizio degli investimenti di natura 
+obbligazionaria, non ci si atterrà esclusivamente ai giudizi espressi dalle agenzie di r ating, ma si farà 
+riferimento alla “Credit Rating Policy” approvata dalla Società. Qualora il rating di uno strumento di 
+debito in portafoglio si riduca, dopo l’acquisto, al di sotto dei limiti sopra indicati, si provvederà a 
+vendere lo strumento in questi one nel lasso di tempo ritenuto più opportuno a tutela degli interessi 
+dei partecipanti ai Fondi Pensione. 
+ 
+Ogni emissione obbligazionaria detenuta in ogni singolo comparto  non potrà avere un nominale 
+emesso inferiore o equivalente a € 250 milioni.
+=== pagina 8 ===
+8 
+Le linee guida ed i relativi limiti operativi adottati per regolamentare i criteri di assunzione e gestione 
+dei rischi a cui sono esposti gli attivi finanziari, hanno lo scopo di perseguire i principi di:  
+ 
+-  diversificazione: nel senso che differenti classi di attività, diverse controparti e diversi settori 
+devono essere rappresentati nel portafoglio in modo da permettere il contenimento del credit 
+spread e del rischio di fallimento; 
+-  dispersione: nel senso che nessun singolo investimento deve essere di dimensione tale da 
+impattare in modo sensibile sul rendimento del portafoglio nel caso di fallimento della controparte 
+o di performance negativa. 
+ 
+Le linee guida privilegiano l’investimento in titoli ad elevato merito creditizio e stimolano la 
+diversificazione e la dispersione del rischio. A tale scopo il Comitato Investimenti verifica il rispetto dei 
+limiti di cui sopra.
+=== pagina 9 ===
+9 
+GIUSTINIANO MONETARIA 
+Finalità della gestione:  
+La gestione risponde alle esigenze di un soggetto che è avverso al rischio e privilegia investimenti 
+volti a favorire la stabilità del capitale e dei risultati nel tempo. Il comparto si pone pertanto come 
+obiettivo la rivalutazione del capitale investito cogliendo le opportunità offerte dai mercati 
+obbligazionari e monetari, con un orizzonte temporale di breve periodo. 
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura monetaria e  obbligazionaria. I criteri di selezione degli strumenti 
+finanziari sono basati sull’analisi del quadro macroeconomico globale e sulla base dell’analisi degli 
+utili attesi. I titoli di debito e di capitale devono essere quotati su mercati regolamentati; sono altresì 
+consentiti investimenti in titoli per cui la quotazione nei suddetti mercati sia prevista entro il limite di 
+30 giorni dall’avvenuta sottoscrizione. 
+ 
+Benchmark:  
+100% JP Morgan EMU Gov. Bond Traded 1-3 anni 
+L’indici del benchmark è in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 0.95%.  
+ 
+Variabilità del rendimento atteso:  
+pari a 1%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 5 anni: 
+<0.5%. 
+ 
+Limiti quantitativi e qualitativi:  
+Non è prevista la possibilità di investire in strumenti finanziari di natura azionaria.   
+La politica di gestione si orienta prevalentemente verso strumenti finanziari di breve -media durata, 
+con una duration di portafoglio compresa tra 1 e 3 anni. 
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 5% del patrimonio del comparto. 
+Gli strumenti finanziari derivati devono essere utilizzati con finalità di copertura del rischio e di più 
+efficiente gestione delle risorse, coerentemente con il profilo di rischio -rendimento del comparto e 
+nei limiti indicati per gli attivi sottostanti. 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 250%. 
+ 
+Livello max tracking error volatility:  
+pari a 2%.
+=== pagina 10 ===
+10 
+GIUSTINIANO OBBLIGAZIONARIA 
+Finalità della gestione:  
+La gestione risponde alle esigenze di un soggetto che è avverso al rischio e privilegia investimenti 
+volti a favorire la stabilità del capitale e dei risultati nel tempo. Il comparto si pone pertanto come 
+obiettivo la rivalutazione del capitale investito c ogliendo le opportunità offerte dai mercati 
+obbligazionari e monetari, con un orizzonte temporale di medio periodo. 
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura  obbligazionaria e monetaria.  I criteri di selezione degli strumenti 
+finanziari sono basati sull’analisi del quadro macroeconomico globale e sulla base dell’analisi degli 
+utili attesi. I titoli di debito e di capitale devono essere quotati su mercati regolamentati; sono altresì 
+consentiti investimenti in titoli per cui la quotazione nei suddetti mercati sia prevista entro il limite di 
+30 giorni dall’avvenuta sottoscrizione. 
+ 
+Benchmark:  
+100% JP Morgan EMU Gov. Bond Traded 
+L’indici del benchmark è in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 2.37%. 
+ 
+Variabilità del rendimento atteso:  
+pari a 5%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni:  
+pari a 0.5%. 
+ 
+Limiti quantitativi e qualitativi:  
+Non è prevista la possibilità di investire in strumenti finanziari di natura azionaria. La politica di gestione 
+si orienta prevalentemente verso strumenti finanziari di media durata, con una duration di portafoglio 
+compresa tra 6 e 11 anni.  
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 5% del patrimonio del comparto. 
+Gli strumenti finanziari derivati devono essere utilizzati con finalità di copertura del rischio e di più 
+efficiente gestione delle risorse, coerentemente con il profilo di rischio -rendimento del comparto e 
+nei limiti indicati per gli attivi sottostanti. 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 200%. 
+ 
+Livello max tracking error volatility:  
+pari a 3%.
+=== pagina 11 ===
+11 
+GIUSTINIANO TFR+ 
+Finalità della gestione:  
+La gestione è volta a realizzare rendimenti che siano pari o superiori a quelli del TFR in un orizzonte 
+temporale di 5 anni, investendo le risorse in strumenti finanziari di natura monetaria, obbligazionaria 
+e azionaria, denominati in euro e in valuta, in proporzioni variabili. La partecipazione al comparto 
+prevede una garanzia di restituzione del capitale. L’importo minimo garantito, a prescindere dai 
+risultati di gestione, è pari alla somma dei contributi versati al comparto al netto delle spese 
+direttamente a carico dell’aderente, al verificarsi degli eventi previsti dai documenti contrattuali.  
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura azionaria, obbligazionaria e monetaria.  I criteri di selezione degli 
+strumenti finanziari sono basati sull’analisi del quadro macroeconomico globale e sulla base 
+dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati su mercati 
+regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti mercati 
+sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+70% JP Morgan EMU Cash 3 mesi  
+20% JP Morgan EMU Bond 3-5 anni  
+10% Stoxx Europe 600. 
+Tutti gli indici del benchmark sono in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 1.94%.  
+ 
+Variabilità del rendimento atteso:  
+pari a 2%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 10 anni:  
+<0.5% (la probabilità di rendimenti negativi è nulla nei casi in cui opera la garanzia ). 
+ 
+Limiti quantitativi e qualitativi:  
+Gli investimenti in strumenti finanziari di natura azionaria non possono essere superiori al 40% del 
+patrimonio del comparto.  
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve durata, con una duration del portafoglio compresa tra 3 mesi e 4 anni.  
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 5% del patrimonio del comparto. 
+Gli strumenti finanziari derivati devono essere utilizzati con finalità di copertura del rischio e di più 
+efficiente gestione delle risorse, coerentemente con il profilo di rischio -rendimento del comparto e 
+nei limiti indicati per gli attivi sottostanti. 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Epsilon SGR. 
+ 
+Livello max turnover:  
+pari a 350%. 
+ 
+Livello max variabilità annua rendimenti:  
+pari a 5%.
+=== pagina 12 ===
+12 
+GIUSTINIANO BILANCIATA 
+Finalità della gestione:  
+La gestione risponde alle esigenze di un soggetto che privilegia una crescita del valore del capitale 
+conferito accettando la variabilità dei risultati nel tempo. Il comparto si pone pertanto come 
+obiettivo la rivalutazione del capitale investito cogliendo le opportunità offerte dai mercati azionari, 
+obbligazionari e monetari, con un orizzonte temporale di medio - lungo periodo. 
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura azionaria, obbligazionaria e monetaria.  I criteri di selezione degli 
+strumenti finanziari sono basati sull’analisi del quadro macroeconomico globale e sulla base 
+dell’analisi degli utili attesi.  I titoli di debito e di capitale devono essere quotati su mercati 
+regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti mercati 
+sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+50% JP Morgan EMU Gov. Bond Traded 
+30% MSCI All Country World Eur Hedged 
+20% MSCI All Country World Free 
+Tutti gli indici del benchmark sono in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 2.57%.  
+ 
+Variabilità del rendimento atteso:  
+pari a 6%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 15 anni:  
+pari a 0.5%. 
+ 
+Limiti quantitativi e qualitativi:  
+Gli investimenti in strumenti finanziari di natura azionaria non possono essere inferiori al 30% e superiori 
+al 60% del patrimonio del comparto.  
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve-media durata, con una duration di portafoglio compresa tra 3 e 6 anni.  
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 10% del patrimonio del comparto. 
+Gli strumenti finanziari derivati devono essere utilizzati con finalità di copertura del rischio e di più 
+efficiente gestione delle risorse, coerentemente con il profilo di rischio -rendimento del comparto e 
+nei limiti indicati per gli attivi sottostanti. 
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 200%. 
+ 
+Livello max tracking error volatility:  
+pari a 5%.
+=== pagina 13 ===
+13 
+GIUSTINIANO AZIONARIA 
+Finalità della gestione:  
+La gestione risponde alle esigenze di un soggetto che mira a rendimenti elevati, accettando anche 
+una forte variabilità dei risultati nel tempo.  Il comparto si pone pertanto come obiettivo la 
+rivalutazione del capitale investito cogliendo le opportunità offerte dai mercati azionari, 
+obbligazionari e monetari, con un orizzonte temporale di lungo periodo. 
+ 
+Composizione della gestione:  
+Strumenti finanziari di natura azionaria, obbligazionaria e monetaria.  I criteri di selezione degli 
+strumenti finanziari sono basati sull’analisi del quadro macroeconomico globale e sulla base 
+dell’analisi degli utili attesi. I titoli di debito e di capitale devono essere quotati su mercati 
+regolamentati; sono altresì consentiti investimenti in titoli per cui la quotazione nei suddetti mercati 
+sia prevista entro il limite di 30 giorni dall’avvenuta sottoscrizione.  
+ 
+Benchmark:  
+15% JP Morgan EMU Gov. Bond Traded 
+65% MSCI All Country World Eur Hedged 
+20% MSCI All Country World Free 
+Tutti gli indici del benchmark sono in valuta EUR. 
+ 
+Rendimento annuo medio atteso in termini reali:  
+pari a 3.17%.  
+ 
+Variabilità del rendimento atteso:  
+pari a 9%. 
+ 
+Probabilità di ottenere un rendimento negativo calcolata su un orizzonte temporale di 20 anni:  
+ pari a 2.5%. 
+ 
+Limiti quantitativi e qualitativi:   
+Gli investimenti in strumenti finanziari di natura azionaria non possono essere inferiori al 50% del 
+patrimonio del comparto.  
+Per la componente obbligazionaria, la politica di gestione si orienta prevalentemente verso strumenti 
+finanziari di breve-media durata, con una duration del portafoglio compresa tra 0 e 2 anni.  
+L’esposizione in strumenti finanziari di natura azionaria od obbligazionaria sui paesi emergenti non 
+potrà superare il 20% del patrimonio del comparto. 
+Gli strumenti finanziari derivati devono essere utilizzati con finalità di copertura del rischio e di più 
+efficiente gestione delle risorse, coerentemente con il profilo di rischio -rendimento del comparto e 
+nei limiti indicati per gli attivi sottostanti.  
+ 
+Modalità di gestione:  
+indiretta, per la gestione delle risorse sono stati affidati specifici incarichi alla Società di Gestione del 
+Risparmio Eurizon Capital SGR. 
+ 
+Livello max turnover:  
+pari a 200%. 
+ 
+Livello max tracking error volatility:  
+pari a 7%.
+=== pagina 14 ===
+14 
+3. CRITERI PER L’ESERCIZIO DEL DIRITTO DI VOTO 
+ 
+Amministrazione Portafoglio Titoli e Tesoreria monitora  gli eventi societari connessi agli strumenti 
+finanziari in portafoglio. Viene esercitato il diritto di intervento e di voto nelle assemblee delle società 
+italiane, tenendo conto dei costi benefici collegati alla partecipazione all’assemblea, dell’ordine del 
+giorno, dell’utilità della partecipazione agli interessi dei patrimoni gestiti e della possibilità di incidere 
+sulle decisioni in relazione alla quota di capitale con diritto di voto posseduta.  
+ 
+Il criterio fondamentale di partecipazione alle assemblee consiste nel giudicarle rilevanti per 
+situazioni di particolare interesse in difesa o a supporto degli aderenti, che riguardino decisioni di 
+corporate governance, bilancio, politiche di distribuzione di utili e dividendi, politiche di 
+remunerazione delle figure apicali. 
+ 
+Nel caso ne ricorrano i presupposti, non esercita il diritto di voto inerente alle azioni di pertinenza dei 
+patrimoni degli OICR emesse da società direttamente o indirettamente controllanti.
+=== pagina 15 ===
+15 
+SISTEMA DI CONTROLLO E VALUTAZIONE DELLA GESTIONE FINANZIARIA 
+ 
+Il sistema di controllo è il processo attraverso il quale si monitora la corretta implementazione, 
+coerentemente con le strategie e gli indirizzo previsti, nel rispetto dei limiti interni ed esterni e 
+l’andamento delle performance dei portafogli. Le attivi tà di verifica prevedono il controllo dei limiti 
+normativi e dei limiti di prodotto e contrattuali (regolamento di gestione, nota informativa e mandati 
+di gestione), la verifica delle performance rispetto agli obiettivi e dei rischi dei patrimoni in gestio ne. 
+ 
+1. CONTROLLO LIMITI 
+La verifica del rispetto dei limiti normativi, che prevedono per ogni categoria di strumenti percentuali 
+massime e minime rispetto al patrimonio complessivo del fondo, viene svolta con frequenza 
+settimanale da parte del Risk Management (controllo limiti ex post),  in modo da intervenire 
+immediatamente in caso di superamenti, attivando le procedure di rientro nei limiti. Se l’attività di 
+analisi conferma l’avvenuto superamento di un limite, Risk Management e  l’unità organizzativa  
+Investimenti definiscono con il gestore delegato modalità e tempistiche di rientro .  Il Risk 
+Management riepiloga mensilmente l’esito dei controlli al Responsabile del Fondo.  
+ 
+2. ANALISI DEI COMPARTI 
+La funzione di Risk Management supporta l’unità organizzativa  Investimenti nel monitoraggio 
+costante dell’andamento dei comparti; in particolare provvede ad elaborare i dati di performance 
+dei fondi e dei benchmark e gli indicatori di rischio, ovvero la volatilità dei comparti e del benchmark, 
+la Tracking Error Volatility (TEV), l’Information Ratio e l’Indice di Sharpe. 
+ 
+L’unità organizzativa Investimenti illustra l’analisi sull’andamento dei comparti al Comitato 
+Investimenti per la valutazione delle strategie d’investimento e dell’operato dei gestori delegati.  
+ 
+Queste informazioni vengono inoltre inviate al Responsabile del Fondo con periodicità trimestrale. 
+  
+Annualmente viene anche monitorato il Total Expense Ratio (TER) elaborato da Amministrazione 
+Portafoglio Titoli e Tesoreria per ogni singolo comparto in modo da verificare l’incidenza dei costi 
+effettivi rispetto al totale delle risorse del comparto. 
+ 
+ 
+3. ANALISI DELLA PERFORMANCE ATTRIBUTION  
+ 
+Al fine di non limitarsi a quantificare i livelli di rischio e rendimento, vengono analizzate le componenti 
+dei risultati conseguiti dal gestore delegato. Lo svolgimento di questo tipo di indagine parte dalla 
+conoscenza delle fasi in cui si articola l'atti vità di asset management e dei criteri che guidano le 
+scelte dei soggetti competenti, allo scopo di individuare il contributo che ciascuna fase (e ciascun 
+soggetto) hanno dato alla performance ottenuta. 
+ 
+Il gestore delegato definisce il grado di specializzazione/diversificazione del portafoglio, il livello 
+strutturale di rischio/liquidità e le aree in cui il fondo dovrà investire, suddividendo il patrimonio fra 
+tipologie di titoli (azioni, obbligazioni, li quidità), aree geografiche e settori merceologici sulla base 
+dell'orizzonte temporale prescelto, dei rendimenti attesi, del livello di rischio e delle correlazioni tra le 
+diverse tipologie di strumenti finanziari.
+=== pagina 16 ===
+16 
+L’unità organizzativa Investimenti provvede al monitoraggio costante della performance attribution 
+utilizzando la reportistica che il gestore delegato fornisce alla società.  
+ 
+I dati relativi alla performance vengono analizzati durante il Comitato Investimenti  e discussi con il 
+Responsabile del Fondo  con lo scopo di  valutare il contributo  delle scelte del gestore nella 
+formazione del rendimento. 
+ 
+4. ATTRIBUZIONE DEL RATING 
+Per l’attribuzione del merito creditizio degli attivi presenti nei diversi comparti, oltre ai giudizi espressi 
+dalle principali agenzie di rating, viene presa in considerazione, in via prioritaria, una valutazione 
+interna effettuata dalla Compagnia stessa, in coerenza con i modelli interni della Capogruppo 
+Intesa Sanpaolo. 
+Tale valutazione interna sarà obbligatoriamente attribuita a tutti gli emittenti per i quali vale almeno 
+una delle due seguenti condizioni: 
+• l’esposizione totale è almeno pari allo 0,5% 
+• l’esposizione in almeno uno dei comparti è maggiore del 5%. 
+Il processo di definizione dei rating interni segue il seguente iter: 
+• Ricezione del rating interno attribuito agli emittenti (Sovereign, Corporate e Banche) in 
+portafoglio della Compagnia da parte della Capogruppo Intesa Sanpaolo;  
+• Valutazione interna da parte della Funzione Risk management che procede a convalidare il 
+rating di Capogruppo per l’utilizzo interno o, sentita  l’unità organizzativa Investimenti, a 
+proporre un override motivato sulla base di precisi elementi di propria conoscenza 
+dell’emittente, informando in tal caso le competenti strutture di Capogruppo. L’override, che 
+potrà avere un’ampiezza obbligatoriamente ricompresa tra il giudizio interno di Capogruppo 
+ed il rating “sintetico” delle Agenzie di Rating (cfr. oltre) è sottoposto ad approvazione del 
+Comitato Rischi della Compagnia;   
+• Apposita informativa dei rating in vigore viene predisposta per il Consiglio di Amministrazione 
+della Compagnia, che qualora non condivida un giudizio su un emittente sulla base di precisi 
+elementi informativi a disposizione dei membri, richiederà una ri -valutazione del giudizio da 
+parte della Funzione Risk Management, comunicando tali elementi. 
+Qualora non sia possibile effettuare tale valutazione interna, e si ricorra dunque ai giudizi espressi 
+dalle principali agenzie di rating, a partire da essi viene definito un valore unico di rating (cd. “rating 
+sintetico”) al fine di sintetizzare i giudizi attribuiti al merito creditizio di una singola emissione o di un 
+singolo emittente. 
+A partire dai rating disponibili per un singolo emittente o strumento finanziario, il rating sintetico viene 
+calcolato adottando il criterio di cui alla circolare Banca d’Italia n° 262 del 22/12/2005.  
+In particolare: 
+- qualora esistano 3 o più valutazioni differenti si individuano le due migliori e, fra queste, si sceglie 
+quella peggiore; 
+- qualora esistano 2 valutazioni del merito creditizio occorre fare riferimento a quella peggiore ;
+=== pagina 17 ===
+17 
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.  
+ 
+Fanno eccezione i titoli cartolarizzati per i quali il rating sintetico viene calcolato adottando il criterio 
+del “rating peggiore” tra quelli disponibili per un singolo emittente o strumento finanziario.  
+In particolare: 
+- qualora esistano 2 o più valutazioni differenti si sceglie quella peggiore.  
+- qualora esista 1 valutazione del merito creditizio questa è la valutazione da considerare.

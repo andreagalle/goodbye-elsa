@@ -1,0 +1,78 @@
+# Fondo: SECONDAPENSIONE FONDO PENSIONE APERTO (secondapensione)
+# Documento: Altri documenti – 2026-07-02 Informativa nuove prestazioni pensionistiche - Deliberazione COVIP 25 giugno 2026
+# Fonte: https://www.secondapensione.it/files/nuxeo/dl/a20a1add-661c-4f88-9e9b-50b2d4672a58?inline=
+# Citato in: https://www.secondapensione.it/informative-01072026
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 1fa69884af7c2f825b5dd267f833486ebfcedddb8760d44beb00e1c3a1ea63ec
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Informativa in merito alle nuove prestazioni pensionistiche  
+ai sensi della deliberazione COVIP del 25 giugno 2026 
+(Istruzioni in tema di prestazioni pensionistiche di cui all’art. 11 del decreto legislativo 5 
+dicembre 2005, n. 252, come modificato dalla legge 30 dicembre 2025, n. 199) 
+ 
+Si rende noto che la COVIP con la deliberazione del 25 giugno 2026 ha adottato le “Istruzioni in tema di 
+prestazioni pensionistiche di cui all’art. 11 del decreto legislativo 5 dicembre 2005, n. 252, come 
+modificato dalla legge 30 dicembre 2025, n. 199” che danno attuazione alle novità introdotte dalla legge 
+di bilancio 20261 in materia di prestazioni pensionistiche complementari. In particolare, la citata legge ha 
+introdotto tre nuove tipologie di prestazioni, espressamente qualificate come “pensionistiche”, quali: la 
+“rendita a durata definita”, i “prelievi liberamente determinabili” e la “erogazione frazionata del 
+montante accumulato”. 
+Le nuove prestazioni pensionistiche sono alternative alla rendita vitalizia e sono così disciplinate:  
+- la rendita a durata definita è una rendita erogata per un numero di anni pari alla vita attesa residua, 
+con rata annuale determinata rapportando il montante accumulato alla data di erogazione di ciascuna rata 
+annuale al predetto numero di anni residui. L’importo della rata varia in relazione ai risultati finanziari 
+della gestione;  
+- per prelievi liberamente determinabili si intende una prestazione costituita da prelievi che possono 
+essere, tempo per tempo, richiesti nel limite della somma delle rate maturate e non riscosse della suddetta 
+rendita a durata definita;  
+- l’erogazione frazionata del montante accumulato è una prestazione costituita da un’erogazione 
+rateizzata del montante accumulato, per un periodo predeterminato, non inferiore a cinque anni.  
+Le nuove prestazioni si applicano a decorrere dal 1° luglio 2026, ad eccezione dell’erogazione frazionata 
+del montante accumulato, la cui entrata in vigore è stata rinviata al 31 ottobre 20262. 
+ 
+L’aderente, dal momento della maturazione dei requisiti di accesso alle prestazioni pensionistiche stabilite 
+nel regime obbligatorio di appartenenza e del periodo minimo di permanenza, può esercitare il diritto alla 
+prestazione pensionistica complementare, scegliendo tra le diverse modalità di fruizione del montante 
+finale accumulato:  
+a) capitale fino al limite massimo previsto dall’art. 11, comma 33;  
+ 
+1 Legge 30 dicembre 2025, n. 199. 
+2 Rinvio introdotto dalla legge 112/2026 di conversione del decreto-legge n. 62/2026. 
+3 Limite massimo pari al 50 per cento.
+=== pagina 2 ===
+b) rendita vitalizia;  
+c) rendita a durata definita, che potrà essere richiesta dal 1° luglio 2026;  
+d) prelievi liberamenti determinabili, che potranno essere richiesti dal 1° luglio 2026;  
+e) erogazione frazionata, che potrà essere richiesta dal 31 ottobre 2026;  
+f) capitale per l’intero ammontare, al ricorrere delle condizioni di cui all’art. 11, comma 3, ultimo periodo, 
+del decreto n. 252/2005. 
+Fermo restando che la tipologia di prestazione di cui alla lettera a) può essere abbinata a una qualsiasi 
+delle prestazioni di cui alle lettere da b) a e), si evidenzia che le tipologie di prestazioni da c) a e) sono 
+da considerarsi alternative alla rendita vitalizia , non sono tra loro combinabili  e una volta che ne sia 
+iniziata la liquidazione non possono essere revocate , salvo che il beneficiario opti per convertire il 
+montante residuo in una rendita vitalizia immediata, ovvero differita se prevista dalla forma pensionistica 
+complementare. Analogamente a quanto avviene tipicamente per le altre tipologie di prestazione, 
+l’iscritto potrà comunque revocare la scelta prima che la forma pensionistica complementare proceda alla 
+liquidazione del primo importo.  
+Dal momento in cui l’aderente esercita il diritto a una prestazione pensionistica complementare, ai sensi 
+dell’art. 11, lo stesso non può più esercitare le prerogative individuali tipiche della fase di accumulo (ad 
+es. trasferimenti, anticipazioni, RITA), con eccezione dello switch di comparto, nel rispetto del periodo 
+minimo fissato nel regolamento del fondo. L’erogazione delle nuove prestazioni pensionistiche non è, 
+inoltre, cumulabile con la RITA eventualmente già in corso di liquidazione.  
+In caso di morte del beneficiario di una delle nuove prestazioni di cui al comma 3-bis, il montante residuo 
+è riscattato dal/dai soggetto/soggetti dallo stesso indicato/indicati al momento dell’esercizio 
+dell’opzione.  
+Le prestazioni di cui all’art. 11, comma 3-bis, sono erogate direttamente dalle forme pensionistiche 
+complementari e il montante residuo è dalle stesse mantenuto in gestione. Tale montante è investito nel 
+comparto scelto dall’aderente all’atto della richiesta della prestazione o, in difetto di indicazioni, nel 
+comparto individuato dalla forma pensionistica complementare a tale fine. 
+ 
+Al fine di consentire alle forme pensionistiche complementari di adeguare in maniera ordinata i sistemi e 
+i processi operativi interni per la gestione delle richieste e l’erogazione delle prestazioni di cui all’art. 11, 
+comma 3-bis è previsto un periodo transitorio durante il quale le forme pensionistiche sono comunque 
+tenute ad acquisire le richieste degli iscritti di accedere alle nuove prestazioni, ma l’erogazione delle 
+nuove prestazioni avverrà successivamente all’avvenuto adeguamento. Il periodo transitorio non potrà 
+protrarsi oltre il 31 dicembre 2026.

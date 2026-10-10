@@ -1,0 +1,65 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Altri documenti – Strategia di Investimento
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/d8cd9a25-2360-46fc-a82e-19d685e26f6b
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/informativa-sulla-sostenibilita
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 50ecd12a0188b89b9bca06a932e06400da0a37e78bdada65cd1308cca455db06
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Mod. IS4_StrIFPA - ed. 01/2026  Pagina 1 di 2 
+ 
+ 
+ 
+FONDO PENSIONE APERTO – COMPARTO BILANCIATO ETICO 
+INFORMAZIONI SUI PRODOTTI CHE PROMUOVONO DELLE CARATTERISTICHE AMBIENTALI E SOCIALI AI SENSI 
+DELL’ARTICOLO 10, PARAGRAFO 1, DEL REGOLAMENTO (UE) 2019/2088, E DEGLI ARTICOLI DA 25 A 36 DEL 
+REGOLAMENTO DELEGATO (UE) 2022/1288 
+STRATEGIA DI INVESTIMENTO 
+Il Comparto Bilanciato Etico prevede una strategia flessibile, per la quale non è previsto 
+un benchmark rappresentativo della politica di gestione adottata, che mira ad un 
+graduale incremento nel medio termine del capitale investito perseguendo un’adeguata 
+redditività nel rispetto del profilo di rischio assegnato. 
+Nel processo di gestione e selezione degli investimenti diretti, tra gli altri, viene preso in 
+considerazione lo score e/o rating ESG attribuito a ciascun emittente dal Provider, a 
+condizione che le imprese che beneficiano di tali investimenti rispettino prassi di buona 
+governance. 
+In coerenza con le Linee Guida RI tempo per tempo vigenti, all'interno della strategia 
+d'investimento i Fattori di sostenibilità sono integrati tramite l'applicazione dei seguenti 
+criteri: 
+ Esclusione degli emittenti che non raggiungono una specifica soglia minima di 
+performance ESG in ciascuna delle tre dimensioni ambientale, sociale e di 
+governance, opportunamente pesata in base alla rilevanza della dimensione. Sono 
+inoltre esclusi gli investimenti diretti in emittenti che non adottano sufficienti 
+presidi in materia di diritti umani e dei lavoratori, impiego di risorse naturali e 
+contrasto alla corruzione e, quindi, non raggiungono una soglia minima di 
+performance in tali ambiti. 
+ Esclusione degli emittenti coinvolti in produzione di armi controverse quali 
+munizioni e submunizioni a grappolo, mine antipersona, armi chimiche e armi 
+biologiche; gioco d'azzardo (qualora il fatturato derivante da tale business sia 
+uguale o superiore al 20% del totale); estrazione di carbone, generazione di 
+energia elettrica da carbone termico, attività connesse a sabbie bituminose, gas di 
+scisto e arctic drilling (qualora il fatturato derivante rispettivamente da tali 
+business sia uguale o superiore al 30% del totale, se non dimostrano un 
+posizionamento sufficientemente ambizioso in termini di transizione del business 
+verso un'economia a basse emissioni di carbonio).  
+ Esclusione degli investimenti in titoli di Stato emessi da Paesi che non raggiungono 
+una specifica soglia minima di performance ESG o in cui si verificano gravi 
+violazioni dei diritti umani o politiche predatorie nei confronti delle risorse 
+ambientali con impatto globale. 
+ Monitoraggio e Limitazione, con eventuale dismissione, degli emittenti inclusi nella 
+"Restricted List" del Gruppo Unipol, riportante emittenti non ammissibili ai sensi 
+dei predetti criteri.
+=== pagina 2 ===
+Mod. IS4_StrIFPA - ed. 01/2026  Pagina 2 di 2 
+ 
+Con riferimento agli investimenti in OICR, per la promozione delle caratteristiche 
+ambientali e sociali sono selezionati OICR che, in base alla qualificazione SFDR fornita delle 
+rispettive case di gestione:  
+• promuovono caratteristiche ambientali e sociali ai sensi dell’articolo 8 SFDR; 
+• hanno obiettivi di investimento sostenibile ai sensi dell’articolo 9 SFDR. 
+ 
+La valutazione delle prassi di buona governance delle imprese beneficiarie degli 
+investimenti è già compresa nella strategia di investimento del prodotto, che prevede 
+esclusioni agli investimenti in imprese che non rispettano le prassi di buona governance.

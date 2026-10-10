@@ -1,0 +1,450 @@
+# Fondo: FONDO PENSIONE APERTO SOLUZIONE PREVIDENTE (soluzione-previdente)
+# Documento: Documento sul sistema di governo – Documento sul sistema di Governo
+# Fonte: https://www.helvetia.com/content/dam/os/it/web/it/prodotti-e-servizi/prodotti_dedicati_alla_previdenza_complementare/previdenza-complementare/fpa-soluzione-previdente/aggiornamento_01_04_22/GovernanceFPA_SolPrev_2021.pdf
+# Citato in: https://www.helvetia.com/it/web/it/prodotti-e-servizi/prodotti-dedicati-alla-previdenza-complementare/previdenza_complementare/fpa-soluzione-previdente.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 465495214b2db61e1973a312c46f234d83e5b1b88382b8ec84e2a3017cc9e27c
+# Pagine: 15
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+DOCUMENTO SUL SISTEMA DI GOVERNO DI HELVETIA VITA 
+S.P.A. PER I PROFILI RELATIVI ALLA GESTIONE DEL FONDO 
+PENSIONE APERTO 
+ 
+• Fondo Pensione Aperto Soluzione Previdente (n. iscrizione all'Albo dei fondi pensione Covip n. 155) 
+• Approvato dal Consiglio di Amministrazione di Helvetia Vita S.p.A. in data 24 marzo 2022
+=== pagina 2 ===
+Sommario 
+Introduzione ........................................................ 3 
+A) ORGANIZZAZIONE DELLA SOCIETÀ RILEVANTE PER I PROFILI GESTIONALI INERENTI AL 
+FONDO PENSIONE APERTO – ATTIVITÀ ESTERNALIZZATE – COMPITI E RESPONSABILITÀ DEI 
+SOGGETTI COINVOLTI NEL PROCESSO DI INVESTIMENTO .......................... 4 
+B) Funzioni fondamentali .............................................. 9 
+C) Politica sul sistema di controllo interno ................................. 10 
+Attività di controllo ............................................... 10 
+D) Il modello organizzativo della Funzione Internal Audit ....................... 11 
+E) Il modello organizzativo della Funzione Risk Management ..................... 12 
+F) Responsabile del fondo pensione aperto. Flussi informativi tra la Società e il responsabile 
+dei fondi pensione aperti. Informazioni relative alla politica di remunerazione del responsabile 
+dei fondi pensione aperti .............................................. 13
+=== pagina 3 ===
+Introduzione 
+Il presente Documento è adottato dalla Compagnia Helvetia Vita S.p.A. ai sensi dell’art. 4 bis del Decreto 
+Legislativo 5 dicembre 2005, n. 252 (“Requisiti generali in materia di sistema di governo”), con riferimento al 
+fondo pensione aperto denominato “Fondo pensione aperto Soluzione Previdente” (“fondo pensione  
+aperto”).  
+Il sistema di governo della Società - per i profili relativi alla gestione del fondo pensione aperto - risponde alla 
+prioritaria esigenza, attuale e prospettica, di tutela degli aderenti e dei beneficiari del fondo stesso e di 
+salvaguardia della piena separazione patrimoniale tra il patrimonio del fondo pensione aperto e il patrimonio 
+della Società e degli altri clienti.  
+In tale ottica, assicura l’efficienza e l’efficacia dei processi interni e di quelli esternalizzati, l’idonea 
+individuazione e gestione dei rischi, nonché l’attendibilità e l’integrità dei dati e delle informazioni, anche 
+contabili, inerenti ai profili gestionali del fondo pensione aperto e lo svolgimento delle attività nel rispetto 
+dei criteri di sana e prudente gestione.  
+Le procedure operative definiscono il riparto delle funzioni e delle responsabilità tra tutti i vari soggetti che 
+sono coinvolti nella operatività del fondo pensione aperto.  
+Il sistema assicura l’ordinata, completa e tempestiva circolazione delle informazioni rilevanti tra tutti i 
+soggetti coinvolti in tale attività, nonché la tempestiva segnalazione delle eventuali disfunzioni e violazioni 
+riscontrate al soggetto o organo competente ad attivare le misure correttive. Le procedure interne sono 
+strutturate in modo da garantire che le segnalazioni vengano prontamente esaminate e valutate.  
+Il sistema di controllo interno adottato costituisce un presidio per garantire il rispetto delle regole, la 
+funzionalità del sistema gestionale e la diffusione di valori di corretta amministrazione e legalità. Tale sistema 
+prevede un insieme organizzato di procedure di verifica dell’operatività del fondo pensione aperto e 
+complessivamente assicura la verifica di conformità della gestione del fondo rispetto alla normativa nazionale 
+e dell’Unione europea, sia essa primaria o secondaria, nonché la rispondenza alle previsioni stabilite dai 
+regolamenti e dalle procedure operative. 
+La funzione di Compliance della Società assicura che le procedure interne siano coerenti con l’obiettivo di 
+prevenire la violazione di norme e di regole al fine di evitare il rischio di incorrere in sanzioni, perdite 
+finanziarie, o danni di reputazione in conseguenza di violazioni di norme legislative, regolamentari o di 
+autoregolamentazione. 
+L’adeguatezza e l’efficienza del complessivo sistema di controllo interno è oggetto di riesame da parte della 
+funzione di revisione interna della Società. 
+Il piano di emergenza per il fondo pensione aperto – per garantire la continua e regolare operatività dei fondi 
+pensione aperti anche in situazioni di emergenza - è compreso in quello di cui la Società è già dotata. 
+Il presente Documento è redatto con cadenza annuale ed è pubblicato sul sito web della Compagnia nella 
+sezione del fondo pensione aperto unitamente al rendiconto.
+=== pagina 4 ===
+Il presente Documento, in particolare, ha per oggetto:  
+• l’organizzazione della Società rilevante per i profili gestionali inerenti al fondo pensione aperto, ivi 
+incluse le funzioni e/o attività che risultano esternalizzate, con evidenza dei compit i e delle 
+responsabilità dei soggetti, organi e strutture della Società coinvolti nel processo di investimento del 
+patrimonio separato del fondo pensione aperto; 
+• una descrizione sintetica di come sono organizzati i controlli interni rilevanti per il fondo pensione 
+aperto e una descrizione sintetica di come è organizzato il sistema di gestione dei rischi rilevante per 
+il fondo pensione aperto (funzioni fondamentali);  
+• una descrizione sintetica di come sono organizzati i flussi informativi tra la Società e il  responsabile 
+del fondo pensione aperto e viceversa e le informazioni essenziali relative alla politica di 
+remunerazione del responsabile del fondo pensione aperto. 
+La prima versione del presente Documento è deliberata nel mese di aprile 2021 invece il ren diconto per il 
+2020 è stato approvato nel corso del mese di marzo 2021. 
+ 
+A) ORGANIZZAZIONE DELLA SOCIETÀ RILEVANTE PER I PROFILI GESTIONALI INERENTI AL FONDO 
+PENSIONE APERTO – ATTIVITÀ ESTERNALIZZATE –  COMPITI E RESPONSABILITÀ DEI SOGGETTI 
+COINVOLTI NEL PROCESSO DI INVESTIMENTO 
+Il fondo pensione aperto è costituito nell’ambito della Società attraverso la formazione, con apposita 
+deliberazione, di un patrimonio di destinazione, separato ed autonomo, con gli effetti di cui all’articolo 2117 
+del codice civile. Agli Organi e alle funzioni contemplati dal sistema di governo adottato dalla Società sono, 
+quindi, attribuiti anche i poteri e le responsabilità relativi alla gestione del fondo pensione aperto. 
+La Società si è dotata di un sistema di governo societario che  assicura, mediante un efficace sistema di 
+controllo interno e gestione dei rischi: 
+a) l’efficienza e l’efficacia dei processi aziendali; 
+b) l’identificazione, la valutazione anche prospettica, la gestione e l’adeguato controllo dei rischi, in 
+coerenza con gli i ndirizzi strategici e la propensione al rischio dell’impresa anche in un’ottica di 
+medio-lungo periodo; 
+c) la tempestività del sistema di reporting delle informazioni aziendali nonché l’attendibilità e l’integrità 
+delle informazioni contabili e gestionali; 
+d) la salvaguardia del patrimonio anche in un’ottica di medio-lungo periodo; 
+e) la conformità dell’attività dell’impresa alla normativa vigente, alle direttive ed alle  procedure 
+aziendali. 
+La Società è amministrata da un Consiglio di Amministrazione, titolare dei più ampi poteri per 
+l’amministrazione ordinaria e straordinaria, all’interno del quale è costituto un Comitato per il controllo
+=== pagina 5 ===
+interno e i rischi che, pur mantenendo le tradizionali funzioni di vigilanza sull’amministrazione e 
+sull’osservanza della legge e dello statuto tipiche del Collegio Sindacale del modello tradizionale, ne consente 
+un esercizio maggiormente flessibile, in quanto svolto all’interno dello stesso Consiglio, e maggiormente 
+efficace, in quanto esercitate nel corso dello svolgimento della gestione.  
+Il Comitato per il Controllo Interno e Rischi ha funzioni propositive, consultive e istruttorie a beneficio del 
+Consiglio stesso. 
+Sono inoltre istituite le funzioni fondamentali di Revisione Interna (“ Internal Audit”), di Gestione dei Rischi 
+(“Risk Management ”), di Verifica della Conformità (“ Compliance”) e Funzione Attuariale (“ Funzione 
+Attuariale”); inoltre, è istituita la funzione Antiriciclaggio. 
+La revisione legale dei conti è esercitata da una società di revisione, iscritta nell’apposito registro; la società 
+di revisione è incaricata anche della revisione contabile del rendiconto del fondo pensione aperto. 
+È altresì presente un Organismo di Vigilanza, istituito ai sensi del Decreto Legislativo 8 giugno 2001, n. 231, e 
+nominato dal Consiglio di Amministrazione.  
+La Società nomina, ai sensi del comma 2 dell’art. 5 del Decreto legislativo 5 dicembre 2005 n. 252, anche il 
+Responsabile del fondo pensione aperto. Il Responsabile svolge la propria attività in modo autonomo e 
+indipendente, riportand o direttamente all’organo amministrativo della Società relativamente ai risultati 
+dell’attività svolta. 
+La Società ha scelto – in alternativa allo svolgimento delle medesime attività tramite soggetti interni -  di 
+esternalizzare le attività del fondo pensione aperto relative alla gestione amministrativa.  
+L’esternalizzazione non esonera in ogni caso gli organi del fondo dalle rispettive responsabilità.  
+I rischi specifici connessi all'esternalizzazione sono considerati nella politica di gestione dei rischi. 
+L’esternalizzazione non produce effetti negativi sull’attività di vigilanza della COVIP e sulla qualità dei servizi 
+resi agli aderenti e beneficiari del fondo pensione aperto. 
+Per l’esternalizzazione relativa alla gestione amministrativa del fondo pensione  aperto, è previsto che sia 
+data informativa alla COVIP dopo la stipula del contratto, ma prima della decorrenza dell’esternalizzazione e 
+che sia trasmessa copia della relativa convenzione di esternalizzazione. 
+La COVIP ha il potere di richiedere informazioni sulle esternalizzazioni sia alla Società sia ai fornitori di servizi, 
+nonché quello di effettuare ispezioni presso i fornitori delle attività esternalizzate, accedendo ai relativi locali, 
+se non sono già sottoposti a vigilanza prudenziale di altra Autorità. 
+Il fornitore del servizio è tenuto a cooperare con la COVIP in relazione alla funzione o all’attività 
+esternalizzata; la Società e la COVIP hanno accesso ai dati relativi alle attività esternalizzate; la COVIP ha 
+accesso ai locali commerciali del fornitore del servizio. Anche il titolare della funzione di revisione interna 
+della Società può svolgere controlli (audit) sull’attività del fornitore di servizi ed è legittimato ad accedere ai 
+suoi locali. 
+In particolare, a Previnet S.p.A. sono affidati i servizi di gestione amministrativa.
+=== pagina 6 ===
+Previnet S.p.A., per il numero dei fondi gestiti e per la qualità ed ampiezza dei servizi offerti, rappresenta 
+un’importante realtà del mercato italiano dei Service amministrativi per le forme di previdenza 
+complementare.  
+ I soggetti coinvolti nel processo di attuazione della politica di investimento sono: 
+• il Consiglio di Amministrazione della Società; 
+• la Direzione Finance; 
+• il Depositario; 
+• il Gestore delegato 
+• la Direzione Vita e Bancassicurazione. 
+In particolare, ai suddetti soggetti sono attribuiti i compiti e responsabilità sinteticamente riportati di seguito. 
+Il Consiglio di Amministrazione: 
+a) L’Organo Amministrativo di Helvetia Vita, è responsabile della strategia d’investimento, dei target 
+assegnati, dell’adeguatezza della struttura organizzativa e del rispetto della normativa: 
+b) definisce e adotta la politica di investimento, deliberando il Regolamento ed emanando la Nota 
+Informativa del Fondo, idonea a raggiungere gli obiettivi strategici del Fondo, verificandone l’efficacia 
+per la revisione e l’eventuale modifica; 
+c) richiede di essere informato ed esamina l’informativa relativa all’andamento del profilo 
+rischio/rendimento della gestione finanziaria; 
+d) valuta le raccomandazioni del Chief Financial Officer e le proposte elaborate dalla funzione 
+Investimenti; 
+e) garantisce che gli attori coinvolti nel processo posseggano una preparazione professionale e un livello 
+di conoscenze ed esperienza adeguati alle mansioni svolte; 
+f) analizza l’attività e le analisi svolte dalle funzioni sia operative sia di controllo e dagli organi di 
+controllo; 
+g) approva le procedure interne di controllo della gestione finanziaria;  
+h) definisce la strategia in materia di eventuale esercizio dei diritti di voto spettanti al Fondo; 
+i) approva la valutazione interna del rischio, almeno ogni tre anni o immediatamente dopo ogni 
+variazione significativa del profilo di rischio del fondo pensione. 
+La Direzione Finance: 
+Il Chief Financial Officer, nonché Consigliere di Amministrazione con deleghe in materia finance, è il 
+responsabile dell’attuazione della politica d’investimento, anche nel caso in cui le attività di asset 
+management siano esternalizzate. In particolare: 
+− contribuisce all’impostazione della politica di investimento;
+=== pagina 7 ===
+− garantisce l’attuazione, il mantenimento e il monitoraggio degli indirizzi strategici deliberati 
+dall’Organo Amministrativo formulando delle proposte riguardo ai nuovi sviluppi dei mercati; 
+− controlla nel continuo la coerenza tra la gestione finanziaria e le strategie, i piani e le politiche di 
+rischio definite, la normativa primaria, secondaria ed aziendale; 
+− analizza la reportistica sulla gestione finanziaria e formula eventuali proposte di modifica o 
+integrazione della gestione stessa, recanti: 
+ i risultati conseguiti nel tempo, per singolo comparto; 
+ il grado di rischio assunto in rapporto al rendimento realizzato;  
+− trasmette il rapporto di cui al punto precedente all’Organo Amministrativo e al Collegio Sindacale; 
+− valuta l’operato dei soggetti incaricati della gestione;  
+− se richiesto dall’Organo Amministrativo, esercita il diritto di voto inerente i titoli oggetto della 
+gestione secondo le istruzioni vincolanti ricevute; 
+− condivide le procedure interne di controllo della gestione finanziaria, tenendo conto delle proposte 
+formulate dalla Funzione Investimenti e le sottopone all’approvazione dell’Organo Amministrativo.  
+a) nello svolgimento delle attività di propria competenza si avvale della Funzione Investimenti, del quale 
+definisce in dettaglio l’assetto organizzativo, i compiti e le responsabilità e cura il mantenimento della 
+funzionalità e dell’adeguatezza complessiva dell’assetto organizzativo. 
+      Funzione Investimenti: 
+-      La funzione Investimenti: 
+- struttura i presidi utili per il monitoraggio dei flussi informativi e supervisiona gli investimenti 
+mobiliari effettuati attraverso l’analisi dei risultati conseguiti nel corso del tempo;  
+− definisce, sviluppa e aggiorna le procedure di monitoraggio della gestione finanziaria, da sottoporre, 
+per la condivisione, al Chief Financial Officer; 
+− svolge l’attività istruttoria per la selezione dei gestori finanziari, che sottopone al Chief Financial 
+Officer e all’Organo Amministrativo, cura la definizione degli SLA; 
+− formula con il Chief Financial Officer, le raccomandazioni per l’Organo Amministrativo; 
+− valuta le proposte di asset allocation tattica del Gestore e riporta Chief Financial Officer le analisi 
+effettuate; 
+− controlla l’attuazione della strategia d’investimento da parte del Gestore e valuta il suo operato, con 
+particolare attenzione agli investimenti in strumenti alternativi e in derivati, 
+− archivia la documentazione attestante il presidio e il monitoraggio nelle directory della società 
+istitutrice/ della Funzione per dieci anni in modo da consentire la ricostruzione degli eventi che hanno 
+determinato le situazioni reddituali passate;
+=== pagina 8 ===
+- trasmette al Comitato investimenti/ALM una rendicontazione sintetica trimestrale;   
+- effettua il monitoraggio di sua competenza descritto nel paragrafo 10; 
+- trasmette una reportistica trimestrale sull’attività svolta al Responsabile del Fondo. 
+ 
+Il Gestore: 
+− fornisce una valutazione sull’andamento dei mercati finanziari e la propria view di mercato; 
+− espone l’asset allocation tattica (portafoglio modello) alla riunione trimestrale con il Responsabile 
+della Funzione Investimenti, ossia le scelte d’investimento finalizzate a realizzare extra-rendimenti; 
+− investe le risorse finanziarie con la finalità di catture, attraverso una gestione attiva, le opportunità 
+di mercato; 
+− trasmette alla Funzione Investimenti una rendicontazione trimestrale sulle scelte effettuate; 
+se richiesto, esercita il diritto di voto spettante al Fondo inerente i titoli oggetto della gestione seco ndo le 
+istruzioni vincolanti impartite dall’organo amministrativo dello stesso. 
+Il Depositario: 
+a) La Banca Depositaria esegue le attività a essa affidate dalla legge; in particolare: 
+b) custodisce gli strumenti finanziari e le disponibilità liquide del Fondo; 
+c) accerta che nelle operazioni relative al Fondo le controprestazioni le siano rimesse nei termini d’uso. 
+Controlla in particolare che le negoziazioni di pertinenza del Fondo siano regolate secondo la 
+disciplina vigente nei mercati in cui le negoziazioni hanno luogo; 
+d) controlla che le istruzioni, impartite dal Gestore, non siano contrarie alla legge, al regolamento del 
+Fondo, nonché alle prescrizioni della Vigilanza; tale verifica ha per oggetto la totalità delle operazioni 
+e riguarda la legittimità di ciascun a di esse anche in relazione alla composizione complessiva degli 
+investimenti del Fondo sulla base delle operazioni di gestione disposte 
+controlla, in occasione della valorizzazione, la congruità dell’attivo netto destinato alle prestazioni. 
+La Direzione Vita e Bancassicurazione: 
+a) Presidia le attività finalizzate alla cura degli adempimenti normativi e regolamentari che impattano 
+sui prodotti previdenziali, come l'adeguamento della documentazione precontrattuale e contrattuale  
+b) definisce e presidia le attività di natura assuntiva gestionale e liquidativa 
+c) analizza le caratteristiche socio-demografiche degli iscritti, l’andamento di ingressi e uscite, il livello 
+medio di contribuzione e l’andamento del valore delle posizioni individuali, rendendo disponibile 
+apposita reportistica alla Direzione Investment Finance;  
+d) Supporta, inoltre, ove il caso, la Direzione Finance nello svolgimento dei compiti a questa attribuiti.
+=== pagina 9 ===
+B) Funzioni fondamentali 
+Il Consiglio di Amministrazione  della Società, in conformità alla normativa di settore, ha istituito mediante 
+specifica delibera le funzioni fondamentali di revisione interna (Internal Audit), gestione dei rischi (Risk 
+Management), verifica della conformità (Compliance) e Funzione Attuariale, definendone responsabilità, 
+compiti, e modalità operative mediante l’elaborazione di apposite politiche, che costituiscono elemento 
+imprescindibile del sistema di governo societario e del sistema di controllo interno e di gestione dei rischi, e 
+sono soggette a revisione almeno annuale. Le politiche delle funzioni fondamentali stabiliscono le procedure 
+di reporting mediante le quali le funzioni fondamentali informano l’organo amministrativo, direttivo e di 
+controllo dell’attività svolta, dei risultati delle verifiche effettuate ed eventuali raccomandazioni. 
+I piani di attività, elaborati tenuto conto dei principali rischi cui l’impresa è esposta e delle attività da 
+sottoporre prioritariamente a verifica, sono invece annuali e sono sottoposti all’organo  amministrativo per 
+approvazione. 
+Ai sensi della normativa di settore, le funzioni fondamentali sono costituite in forma di specifica unità 
+organizzativa distinta per ciascuna funzione, separata dalle funzioni operative al fine di garantirne 
+l’indipendenza, l’autonomia e l’obiettività di giudizio, e rispondono direttamente al Consiglio di 
+Amministrazione, in coerenza ai principi di indipendenza e separatezza dei compiti.  
+La titolarità delle quattro funzioni fondamentali è assegnata a distinti soggetti, non appartenenti al Consiglio 
+di Amministrazione. Il titolare di ciascuna funzione fondamentale della Società è nominato e revocato dal 
+Consiglio di Amministrazione e soddisfa nel continuo i requisiti di idoneità alla carica fissati dalla relativa 
+politica. Inoltre, il titolare non è posto a capo di aree operative, né è gerarchicamente dipendente da soggetti 
+responsabili di dette aree.  
+Le funzioni fondamentali collaborano reciprocamente secondo le modalità e le tempistiche descritte nelle 
+rispettive politiche. Forniscono altresì al Consiglio di Amministrazione, al Comitato per il Controllo sulla 
+Gestione e al Comitato Controllo Interno e i Rischi una visione integrata del proprio piano di attività e della 
+sua realizzazione su base annuale, a garanzia di una debita copertura dei principali processi. 
+I compiti assegnati ai titolari delle funzioni fondamentali della Società –  in particolare quelli di revisione 
+interna e di gestione dei rischi -  sono svolti anche con riguardo al fondo pensione aperto. Nella relativ a 
+declaratoria è fatto esplicito riferimento a tale circostanza. 
+La funzione Compliance, all'interno del sistema dei controlli interni della Società, svolge la propria attività 
+anche con riguardo al fondo pensione. 
+I titolari delle funzioni fondamentali co municano le risultanze e le raccomandazioni rilevanti nel proprio 
+ambito di responsabilità, anche per quanto riguarda il fondo pensione aperto, al Consiglio di Amministrazione 
+e al Responsabile del fondo pensione. Sono altresì tenuti a comunicare alla COVIP le situazioni problematiche
+=== pagina 10 ===
+riscontrate nello svolgimento della propria attività, per quanto attiene al fondo pensione aperto, qualora le 
+stesse non abbiano trovato soluzione all’interno della Società. 
+Si rimanda alle specifiche politiche delle funzioni fondamentali per i dettagli sulle rispettive responsabilità e 
+compiti, mentre si rimanda alla “Politica sul sistema di controllo interno” di cui alla presente sezione per i 
+dettagli relativi al modello organizzativo adottato dalle funzioni fondamentali. Per maggiori dettagli sui 
+sistemi di controllo interno e di gestione dei rischi si rimanda inoltre alle specifiche politiche su tali ambiti 
+predisposte.  
+C) Politica sul sistema di controllo interno 
+Attività di controllo 
+La struttura di controllo della Società, anche per il fondo pensione aperto, è articolata su tre livelli di presidio 
+che, rispondendo ad obiettivi di controllo specifici e differenziati, contribuiscono a garantire un buon 
+funzionamento del sistema stesso: 
+“Controlli di primo livello”: I controlli di primo livello (o controlli di linea) sono svolti dalle Funzioni operative 
+di business, dirette e coordinate dall’Alta Direzione e dal management di linea, che definiscono e gestiscono 
+adeguati controlli operativi a livello di processo nell’ambito delle attività quotidiane e nella normale gestione 
+del business. 
+Nel raggiungimento degli obiettivi di risultato e performance assegnati, il management, come responsabile 
+dei processi operativi, riveste il ruolo di “risk  taker” con il compito di gestire e mantenere la responsabilità 
+della gestione concreta dei rischi (identificazione, analisi ed attuazione delle misure mitigative, monitoraggio 
+e comunicazione), secondo le regole presenti nelle procedure organizzative del Gruppo. 
+Compatibilmente con la natura, portata e complessità delle operazioni poste in essere deve essere assicurata 
+all’interno delle Funzioni aziendali una separazione del personale incaricato del controllo rispetto a chi 
+esegue compiti operativi (segregation of duties). 
+Ai responsabili delle varie Funzioni aziendali è richiesto di monitorare regolarmente l’effettiva esecuzione 
+delle procedure di controllo, come prima linea di difesa per un efficace sistema dei controlli interni. 
+“Controlli di secondo livello”: I controlli di “secondo livello” sono demandati principalmente alle Funzioni di 
+Risk Management, Funzione Attuariale , Compliance  e Privacy, Antiriciclaggio e Antiterrorismo, e dal DPO, le 
+quali collaborano, ciascuna per gli aspetti di propria competenza, alla definizione di regole e policy di 
+attuazione delle strategie di controllo dei rischi ed assistono il management nel processo di individuazione, 
+valutazione, gestione e controllo dei rischi al fine di garantire la coerenza del processo agli obiettivi aziendali, 
+contribuendo in particolare al monitoraggio dei rischi in essere, ad una valutazione indipendente dei presidi 
+di controllo adottati dalla Compagnia, nonché al monitoraggio della corretta implementazione delle azioni 
+correttive proposte.
+=== pagina 11 ===
+In un’ottica di controllo e prevenzione dei rischi, controlli di “secondo livello” sono svolti anche da altre 
+strutture interne dedicate. 
+ Tutte le risorse devono avere formazione e competenza specifica consolidata da vari anni di attività nella 
+funzione e non devono essere coinvolte in compiti operativi. 
+ “Controlli di terzo livello”:  I controlli di “terzo livello” sono demandati alla Funzione di Internal Audit e 
+finalizzati alla valutazione dell’adeguatezza, efficacia ed efficienza del sistema di controllo  interno nel suo 
+complesso e delle ulteriori componenti del sistema di governo societario tramite una verifica indipendente 
+sull’attività delle diverse aree aziendali (inclusi i processi relativi al “secondo livello” di difesa). 
+ I report della funzione di  revisione interna o i risultati delle proprie verifiche, nel caso riguardino ambiti o 
+aspetti che coprono l'operatività del fondo pensione aperto e per la parte relativa alla gestione del fondo 
+pensione aperto, sono trasmessi anche al Responsabile del fondo stesso. 
+ 
+D) Il modello organizzativo della Funzione Internal Audit 
+La Funzione Internal  Audit è costituita in forma di specifica unità organizzativa e risponde direttamente al 
+Consiglio di Amministrazione a garanzia dell’indipendenza, dell’autonomia e dell’obiettività di giudizio, 
+nonché nel rispetto del principio di separatezza tra funzioni  operative e funzioni fondamentali. La Funzione 
+Internal Audit della Società è esercitata dalla medesima struttura organizzativa che adempie alla Funzione 
+Internal Audit di Gruppo, ferme le distinte competenze a livello di singola società e di Gruppo.  
+Il titolare della funzione Internal Audit è nominato e revocato dall’organo amministrativo e soddisfa nel 
+continuo i requisiti di idoneità alla carica fissati dalla politica per l’identificazione e la valutazione del possesso 
+dei requisiti di idoneità alla carica, in termini di onorabilità, professionalità e indipendenza. Il titolare non è 
+posto a capo di aree operative, né è gerarchicamente dipendente da soggetti responsabili di dette aree. In 
+conformità con la vigente normativa è esclusa l’ipotesi di individ uare il Titolare in un componente del 
+Consiglio di Amministrazione o di altra funzione fondamentale o funzione operativa.  
+La funzione Internal Audit è incaricata di valutare e monitorare l’efficacia, l’efficienza e l’adeguatezza del 
+sistema di controllo interno e delle ulteriori componenti del sistema di governo societario e le eventuali 
+necessità di adeguamento, anche attraverso attività di supporto e di consulenza alle altre funzioni aziendali. 
+La Funzione presta i servizi di assurance, vale a dire di obiettiva valutazione delle evidenze finalizzata 
+all’espressione di un giudizio indipendente in merito all'ambito delle verifiche svolte. Per lo svolgimento delle 
+attività relative al mandato, in condizioni di indipendenza dalle funzioni operative e dalle altre funzioni 
+fondamentali, la funzione Internal Audit è dotata di risorse umane e finanziarie quantitativamente e 
+qualitativamente adeguate. 
+Il ruolo e le attività svolte dalla funzione sono definiti nella specifica politica della funzione Internal Audit.
+=== pagina 12 ===
+E) Il modello organizzativo della Funzione Risk Management 
+Ai sensi della normativa di settore, la funzione Risk Management è costituita in forma di specifica unità 
+organizzativa e risponde direttamente al Consiglio di Amministrazione a garanzia dell’indipen denza, 
+dell’autonomia e dell’obiettività di giudizio, nonché nel rispetto del principio di separatezza tra funzioni 
+operative e funzioni fondamentali. La Funzione Risk Management della Società è esercitata dalla medesima 
+struttura organizzativa che adempie alla Funzione Risk Management di Gruppo, ferme le distinte competenze 
+a livello di singola società e di Gruppo. 
+Il titolare della funzione Risk Management è nominato e revocato dall’organo amministrativo e soddisfa nel 
+continuo i requisiti di idoneità alla carica fissati dalla politica per l’identificazione e la valutazione del possesso 
+dei requisiti di idoneità alla carica, in termini di onorabilità, professionalità e indipendenza. Il titolare non è 
+posto a capo di aree operative, né è gerarchicamente dipendente da soggetti responsabili di dette aree. 
+La funzione Risk Management supporta il Consiglio di Amministrazione nella definizione delle strategie di 
+gestione dei rischi, nella definizione e misurazione degli strumenti di monitoraggio e fornisce, attraverso un 
+adeguato sistema di reporting, gli elementi per la valutazione della tenuta del sistema di gestione dei rischi 
+nel suo complesso. La funzione dispone di risorse umane adeguate, in possesso di conoscenze specialistiche 
+e di cui è curato l’aggior namento professionale.  La funzione dispone altresì di risorse tecnologiche e 
+finanziarie adeguate allo svolgimento dell’attività. 
+Il ruolo e le attività svolte dalla funzione sono definiti nella specifica politica della funzione Risk Management 
+alla quale si rimanda per maggiori approfondimenti. 
+Rientra nel novero delle attività di competenza della funzione Risk Management la valutazione interna del 
+rischio relativo al fondo pensione aperto, svolta con il contributo anche delle altre funzioni di controllo (primo 
+e secondo livello) per le parti di propria competenza, approvata dall’organo di amministrazione della Società 
+almeno ogni tre anni, o immediatamente dopo ogni variazione significativa del profilo di rischio del fondo 
+pensione aperto, ed è adeguatamente documentata anche al fine dei controlli da parte della COVIP. 
+La valutazione interna del rischio comprende la valutazione dell’efficacia del sistema di gestione dei rischi, 
+nonché una descrizione del modo in cui la valutazione dei rischi è integrata nel  processo gestionale e nei 
+processi decisionali relativi al fondo pensione aperto. 
+Nella valutazione interna del rischio sono descritti i metodi di cui il fondo pensione aperto sono dotati per 
+individuare e valutare i rischi cui è o potrebbero essere espos ti nel breve e lungo periodo e che potrebbero 
+avere un impatto sulla capacità del fondo pensione aperto di far fronte ai propri obblighi. 
+Gli esiti dell’attività di valutazione interna del rischio sono tenuti in considerazione ai fini dell’assunzione delle 
+decisioni strategiche del fondo pensione aperto. 
+La descrizione dei metodi di cui la Società si è dotata per effettuare la valutazione interna del rischio con 
+riferimento al fondo pensione aperto è contenuta all’interno della più generale politica di gestione dei rischi
+=== pagina 13 ===
+della Società, anche con specifico  riguardo al rischio operativo - ossia al rischio di subire perdite derivanti 
+dall’inadeguatezza o dalla disfunzione di procedure interne, risorse umane o sistemi oppure da eventi 
+esogeni. 
+F) Responsabile del fondo pensione aperto. Flussi informativi tra la Società e il responsabile dei fondi 
+pensione aperti. Informazioni relative alla politica di remunerazione del responsabile dei fondi 
+pensione aperti  
+Al fine di garantire la maggiore tutela degli aderenti e dei beneficiari, il Responsabile del fondo pension e 
+aperto verifica che la gestione della stessa sia svolta nel loro esclusivo interesse, nonché nel rispetto della 
+normativa vigente e delle previsioni stabilite nei regolamenti e nei contratti. In particolare, vigila su:  
+a) la gestione finanziaria, anche controllando il rispetto della normativa e delle regole interne della 
+stessa circa i limiti di investimento;  
+b) la gestione amministrativa, in particolare controllando la separatezza amministrativa e contabile 
+delle operazioni poste in essere per conto dei fond i pensione aperti e del patrimonio degli stessi 
+rispetto a quanto afferente alle altre attività della società e la regolare tenuta dei libri e delle scritture 
+contabili riguardanti i fondi pensione aperti;  
+c) le misure di trasparenza adottate nei confronti degli aderenti e beneficiari;  
+d) l’adeguatezza della procedura di gestione dei reclami;  
+e) la tempestiva e corretta erogazione delle prestazioni;  
+f) le situazioni in conflitto di interesse; 
+g) il rispetto delle buone pratiche e dei principi di corretta amministrazione. 
+I compiti relativi alla gestione dei flussi informativi tra Società e Responsabile sono svolti da “Gestione 
+Operativa” - costituito all’interno della Direzione Vita e Bancassicurazione – in coerenza con quanto previsto 
+nel sistema organizzativo adottato dalla Società. 
+In particolare, Gestione Operativa trasmette al Responsabile medesimo periodicamente - relativamente a 
+ciascun trimestre o semestre dell’anno e alla fine dell’anno - con riferimento al periodo di osservazione: 
+a. il numero di aderenti complessivo; 
+b. una valutazione sulla organizzazione ed adeguatezza, sia qualitativa che quantitativa, del 
+gruppo di lavoro preposto alla gestione operativa; 
+c. il report relativo alle pratiche gestite, la loro corretta istruzione, e i tempi di liquidazione delle 
+somme richieste a vario titolo dagli aderenti; 
+d. una sintesi dell’andamento delle riconciliazioni e/o su eventuali problematiche connesse ai 
+versamenti contributivi;  
+e. informazioni sulla corretta valorizzazione dei contributi versati dagli aderenti;
+=== pagina 14 ===
+f. L'ammontare complessivo, per comparto, degli asset in gestione e l’andamento della 
+gestione finanziaria dei comparti sia riguardo al rendimento sia in rapporto al benchmark di 
+riferimento; 
+g. Evidenze sul rispetto di quanto definito nel documento sulla politica di investimento, nella 
+nota informativa e nella legge, circa i limiti e modalità di investimento, nonchè su eventuale 
+presenza di aspetti inerenti i conflitti di interesse; 
+h. un report sul numero e sulla corretta trattazione dei reclami; 
+i. evidenze sul corr etto presidio degli adempimenti previsti dalla normativa riguardo alla 
+trasparenza nei rapporti con gli aderenti ed in particolare relativi alla documentazione 
+contrattuale e suoi conseguenti aggiornamenti.  
+Eventuali richieste di dati/informazioni integrative o segnalazioni di anomalie vengono inviate dal 
+Responsabile, in prima istanza, a “Gestione Operativa” (fatto salvo, per le anomalie, quanto di seguito 
+previsto e/o il coinvolgimento anche delle direzioni interessate ai fini della loro risoluzione).  
+Il Responsabile del fondo pensione aperto comunica tempestivamente all’organo di amministrazione e a 
+quello di controllo della Società le irregolarità riscontrate, indicando gli interventi correttivi da adottare. Il 
+Responsabile predispone annualmente una R elazione circa le procedure di controllo adottate, la sua 
+organizzazione, i risultati dell’attività svolta, le anomalie riscontrate e le iniziative poste in essere per 
+eliminarle. La relazione è inviata alla COVIP e per conoscenza all’organo di amministrazione e controllo della 
+Società (nonché, ove previsto, all’organismo di rappresentanza). 
+Informazioni relative alla politica di remunerazione del responsabile dei fondi pensione aperti 
+La remunerazione riconosciuta al Responsabile del fondo pensione aperto per l’attività svolta - come meglio 
+sopra descritta - è prevista in una delibera del Consiglio di Amministrazione ed è determinata in sede del 
+conferimento del relativo incarico, avuto riguardo ai requisiti di onorabilità e professionalità del Responsabile 
+stesso. 
+La struttura della remunerazione è determinata in base alla sola componente fissa.  
+Il costo relativo alla remunerazione del Responsabile è posto a carico del patrimonio in gestione del fondo 
+pensione aperto, e uno degli obiettivi fondamentali considerati ai fini della selezione del soggetto al quale 
+conferire l’incarico, a beneficio degli aderenti, consiste nel non compromettere in qualunque modo il rispetto 
+del principio di sana e prudente gestione delle risorse del fondo pensione aperto, ( in tal senso sono anche 
+considerati aspetti inerenti gli investimenti sostenibili ) nonché l’obiettività, l’autonomia e l’indipendenza del 
+soggetto incaricato – evitando ogni conflitto di interesse - e la coerenza con il profilo di rischio e gli interessi 
+a lungo termine degli aderenti e dei beneficiari . Sotto questi profili, coerentemente a quanto stabilito dalla 
+normativa, l’incarico non può essere conferito ad uno degli amministratori della Società ed è incompatibile 
+con lo svolgimento di attività di lavoro subordinato o di prestazione d’opera continuativa, presso la Società 
+ovvero presso le Società da queste controllate o che le controllano. La Società pone in essere i presidi
+=== pagina 15 ===
+conseguenti affinché tali situazioni non si realizzino, sia con riferimento agli incarichi da conferire, sia a quelli 
+già conferiti. 
+Il compenso è determinato in un importo forfettario compreso fra un minimo pari ad euro 6 .000 ed un 
+massimo pari ad euro 40.000.

@@ -1,0 +1,1251 @@
+# Fondo: PROGRAMMA OPEN FONDO PENSIONE APERTO (programma-open)
+# Documento: Nota informativa – Appendice Informativa sulla sostenibilità – Informativa sulla sostenibilità ai sensi del Regolamento UE 2019/2088
+# Fonte: https://www.groupama.it/app/uploads/2023/08/Informativa-sulla-sostenibilita-ai-sensi-del-Reg-20192088-Groupama-Assicurazioni-SpA.pdf
+# Citato in: https://www.groupama.it/previdenza-integrativa/programma-open/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 748efddb8a26b65664def1a31b1a6e66f0056ae9544bff82ac76315c4700e260
+# Pagine: 28
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Informativa sulla sostenibilità ai sensi del 
+Regolamento UE 2019/2088 
+Attuazione del regolamento "SFDR / Disclosure" (UE) 2019/2088
+=== pagina 2 ===
+2 
+ 
+ 
+1 Presentazione Groupama Assicurazioni 4 
+1.1 Groupama Assicurazioni, società del gruppo Groupama ............................................... 4 
+1.2 Prodotti finanziari offerti da Groupama Assicurazioni ................................................... 4 
+1.2.1 Prodotti finanziari ............................................................................................................................................................. 4 
+1.2.2 Gestione delle opzioni ................................................................................................................................................... 5 
+1.3 Governance della strategia di investimento ................................................................... 5 
+1.3.1 Gestioni Separate e integrazione dei criteri ESG  .............................................................................................. 6 
+1.3.2 Governance ESG di Gruppo ......................................................................................................................................... 7 
+2 Strategia di Investimento Responsabile: integrazione criteri ESG per il controllo dei rischi 
+finanziari 9 
+2.1 Principi guida della strategia: la doppia materialità ...................................................... 9 
+2.2 Rischi di sostenibilità e PAIs ...................................................................................... 9 
+2.3 Gestione dei rischi finanziari e non finanziari ............................................................ 10 
+2.4 Implementazione della strategia ESG ....................................................................... 11 
+3 Politica di Gestione del rischio di sostenibilità 12 
+3.1 Cos’è il rischio di sostenibilità? ................................................................................ 12 
+3.2 Principi fondamentali della gestione del rischio di sostenibilità .................................... 12 
+3.2.1 Rischio Climatico ............................................................................................................................................................. 12 
+3.2.2 Rischi ESG e Resilienza ............................................................................................................................................... 13 
+3.3 Integrazione dei rischi di sostenibilità ...................................................................... 13 
+3.3.1 Politica di Gestione del rischio ................................................................................................................................. 13 
+3.3.2 Governance di Gestione del Rischio ..................................................................................................................... 14 
+3.3.3 Valutazione del rischio di sosteniblità.................................................................................................................. 15 
+3.4 Rischi di sostenibilità nel portafoglio in mandato a Groupama AM ............................... 16 
+3.4.1 Analisi ESG per Azioni e bond corporate ........................................................................................................... 16 
+3.4.2 Analisi ESG per Bond Governativi ........................................................................................................................ 17 
+3.4.3 Lista dei Grandi Rischi ESG di Groupama AM ................................................................................................ 17 
+3.4.4 L’analisi climatica nel processo di Gestione .................................................................................................... 18 
+3.4.5 Altre politiche di Esclusione ..................................................................................................................................... 19 
+3.5 Rischio Sostenibilità negli attivi illiquidi gestiti da Groupama Assicurazioni ................... 20 
+3.6 Rischi di sostenibilità nelle Unit e nel Fondo Pensione ............................................... 20 
+3.6.1 Unit ValorePiù Italia, gestito da Groupama Assicurazioni con la consulenza di Classis Capital
+ 20 
+Indice
+=== pagina 3 ===
+3 
+ 
+3.6.2 Unit la cui gestione è in mandato a Groupama AM .................................................................................... 21 
+3.6.3 Gestione Delegata art.8: una soluzione di risparmio innovativa  ......................................................... 21 
+4 Due Diligence degli Impatti negativi sui fattori di sostenibilità 22 
+4.1 Impatti negativi sui fattori di sostenibilità ................................................................. 22 
+4.2 Gestione degli impatti negativi in Groupama Assicurazioni ......................................... 22 
+4.2.1 Principi Guida .................................................................................................................................................................. 22 
+4.2.2 L’impegno di Groupama per il clima ................................................................................................................... 22 
+4.2.3 Gestione degli impatti negativi per le Gestioni Separate ......................................................................... 23 
+4.2.4 Gestione degli impatti negativi per gli attivi illiquidi................................................................................... 25 
+4.2.5 Gestione degli impatti negativi per le Unit ...................................................................................................... 26 
+5 Politica Retributiva 27 
+5.1 Contesto ............................................................................................................... 27 
+5.2 Integrazione dei rischi di sostenibilità nella politica retributiva .................................... 28
+=== pagina 4 ===
+4 
+ 
+1 Presentazione Groupama Assicurazioni 
+1.1 Groupama Assicurazioni, società del gruppo Groupama 
+Groupama Assicurazioni è la principale filiale estera di Groupama. La capacità di sviluppo della compagnia, le 
+sinergie internazionali e la professionalità della nostra rete consentono a Groupama Assicurazioni di offrire 
+soluzioni innovative per la protezione delle persone, dei beni, del patrimonio e delle attività professionali, per 
+rispondere alle esigenze più evolute con un'offerta che copre tutti gli ambiti dei bisogni personali: casa, auto, 
+salute, risparmio, protezione, previdenza e lavoro, con un'attenzione sempre maggiore alla vicinanza al cliente 
+e all'innovazione. 
+1.2 Prodotti finanziari offerti da Groupama Assicurazioni 
+1.2.1 Prodotti finanziari  
+Di seguito i prodotti al momento collocati da Groupama Assicurazioni : 
+Categoria Prodotto Opzioni 
+Prodotti di risparmio Dimensione Silver Gestione Separata Vitafin 
+Mente Serena Tutela  Gestione Separata Valore Piu 
+Dimensione Investimento Aziende Gestione Separata Valore Piu 
+Prodotti di Investimento Groupama Progetto Attivo Gestione Separata Valore Piu 
+Gestione Delegata GPA   
+Valorepiu Azionario 
+Valorepiu Bilanciato 
+Valorepiu Futuro Responsabile 
+Valorepiu Multi Asset ESG 
+Dimensione Quota Valorepiu Quota Small 
+Valorepiu Azionario 
+Valorepiu Bilanciato 
+Dimensione Multivalore Italia Gestione Separata Valore Piu 
+Valorepiu Italia 
+Prodotti di previdenza Programma Per Te Gestione Separata Valorepiu Previdenza 
+Valorepiu Azionario Previdenza 
+Programma aperto - FPA Comparto Obbligazionario1 
+Comparto Tutela2 
+Comparto Bilanciato 
+Comparto Prevalentemente Azionario 
+ 
+1 Fusione dei comparti Tutela e Obbligazionario nel 2024 
+2 Fusione dei comparti Tutela e Obbligazionario nel 2024
+=== pagina 5 ===
+5 
+ 
+ 
+1.2.2 Gestione delle opzioni 
+I prodotti offerti da Groupama Assicurazioni ai propri assicurati sono gestiti nel modo seguente, a seconda 
+della corrispondente opzione sottostante 
+Tipologia Opzione Nome Opzione Categoria 
+SFDR 
+Management 
+Fondi Unit  ValorePiù Italia Art. 6 Classis 
+ValorePiù Previdenza Art. 6 Groupama Asset Management 
+(AM) ValorePiù Azionario Art. 6 
+ValorePiù Bilanciato Art. 6 
+ValorePiù QuotaSmall Art. 6 
+ValorePiù MultiAsset ESG Art. 8 
+ValorePiù Futuro Responsabile Art. 8 
+Gestioni Separate Vitafin Art. 6 Groupama AM (attivi quotati e 
+OICR) 
+Groupama Assicurazioni (attività 
+non quotate) 
+ValorePiù Previdenza Art. 6 
+ValorePiù Art. 6 
+Groupama Valore Art. 6 
+Comparti Fondo 
+pensione 
+Comparto Obbligazionario3 Art. 6  Groupama Asset Management 
+(AM) Comparto Tutela4 Art. 6 
+Comparto Bilanciato Art. 65 
+Comparto Prevalentemente 
+Azionario 
+Art. 66  
+Gestione Delegata Gestione Delegata Art. 8 Groupama Gan Vie 
+ 
+ 
+1.3 Governance della strategia di investimento 
+Groupama Assicurazioni ha sviluppato la propria gamma di prodotti verso un'offerta sempre più incentrata 
+sull'investimento responsabile: 
+• Crescente integrazione dei criteri ESG nelle Gestioni Separate 
+• Crescente integrazione dei criteri ESG nei fondi Unit, con la proposta di tre opzioni art. 8: 
+o Profilo offensivo sostenibile 
+o Valore Piu MultiAsset ESG 
+o Valore Piu Futuro Responsabile 
+• Crescente integrazione dei criteri ESG nei  comparti del Fondo Pensione Programma Open , che 
+diventeranno art.8 a partire dal 2024. 
+ 
+3 A partire dal 1er gennaio 2024, i comparti Tutela e Obbligazionario saranno oggetto di fusione nel nuovo comparto art. 8 ai sensi dell’SFDR 
+4 A partire dal 1er gennaio 2024, i comparti Tutela e Obbligazionario saranno oggetto di fusione nel nuovo comparto art. 8 ai sensi dell’SFDR 
+5 Il comparto Bilanciato diventerà articolo 8 ai sensi dell'SFDR a partire dal 1er gennaio 2024. 
+6 Il comparto Prevalentemente Azionario diventerà articolo 8 ai sensi dell'SFDR a partire dal 1er gennaio 2024.
+=== pagina 6 ===
+6 
+ 
+1.3.1 Gestioni Separate e integrazione dei criteri ESG 
+Per quanto riguarda le Gestioni Separate, Groupama Assicurazioni delega la gestione della parte di portafoglio 
+investito in attività quotate (compresi gli OICR liquidi) a Groupama Asset Management, sotto la supervisione 
+del Dipartimento Operazioni Finanziarie e Investimenti (DOFI) di Gruppo.  
+Groupama Assicurazioni si occupa della gestione della parte di portafoglio investito in asset non quotati, FIA, 
+ovvero fondi di Private Equity, Private Debt, Real Estate e Infrastrutturali. 
+Le analisi ESG che vengono svolte riguardano:  
+• per gli asset tradizionali (obbligazioni, azioni, ETF) affidati a G roupama AM, viene applicata la 
+metodologia ESG di GAM, in linea con la politica ESG del Gruppo e quindi di Groupama Assicurazioni.  
+• per le attività investite in OICR e FIA, uno specifico questiona rio di Due Diligence ESG è stato 
+predisposto per ogni tipologia di investimento:  
+o OICR quotati 
+o FIA Infrastutturali 
+o FIA Private Debt 
+o FIA Real Estate  
+o FIA Private Equity  
+1.3.1.1 Strategia ESG di Gruppo per gli attivi tradizionali quotati in Borsa 
+Nel Gruppo Groupama, la maggior parte della gestione degli asset quotati è delegata a Groupama Asset 
+Management. Il Gruppo ha istituito un sistema di monitoraggio ESG degli investimenti affidati a Groupama 
+Asset Management, attraverso il Comitato ESG.   
+Il Com itato ESG è un organo congiunto tra Groupama Asset Management e il Dipartimento Operazioni 
+Finanziarie e Investimenti del Gruppo (DOFI) e si riunisce trimestralmente perseguendo i seguenti obiettivi:   
+1. garantire un monitoraggio attento e continuo delle liste di Esclusione , tenendo conto delle modifiche 
+del perimetro coperto e degli sviluppi metodologici.  
+2. svolgere un ruolo di monitoraggio nell'applicazione delle liste, in aggiunta al monitoraggio effettuato 
+dai vari comitati di gestione.  
+3. definire la strategia di investimento sostenibile del Gruppo .  
+Il comitato quindi definisce e monitora la strategia climatica ESG applicata agli asset finanziari di tutte le filiali 
+internazionali di Groupama attraverso il cosiddetto «Cruscotto ESG », che funge da piattaforma per gli scambi 
+tra Gestori e Analisti di Groupama Asset Management e del Gruppo.  
+Il Comitato è composto dai team di Gestione e Ricerca di Groupama AM e dai team di finanza sostenibile e di 
+asset allocation del Gruppo.   
+Groupama Asset Management  applica la Politica ESG a tutti gli attivi finanziari che hanno in gestione ; tale 
+politica è costantemente monitorata e discussa durante il Comitato rischi per la sostenibilità di Groupama 
+Asset Management, presieduto dal Direttore rischi di Groupama AM.
+=== pagina 7 ===
+7 
+ 
+1.3.1.2 Strategia ESG di Gruppo per gli attivi illiquidi 
+Il Gruppo Groupama si impegna a finanziare l'economia reale, in particolar modo sostenendo le PMI e i Progetti 
+che contribuiscono allo sviluppo sostenibile (infrastrutture per l'energia rinnovabile, infrastrutture tecnologiche, 
+ecc.). 
+Il finaziamento di questi operatori/soggetti avviene attraverso la sottoscrizione di quote di FIA ovvero fondi di 
+Private Equity/Loans, Real Estate, Infrastructure. Dal 2022, Groupama ha stanziato 800 milioni di euro di nuovi 
+investimenti in queste asset class, di cui 375 milioni di euro in infrastrutture, principalmente in Europa.   
+Nei questionari ESG di cui al par. 1.3.1 si chiedono informazioni circa: 
+• l’adesione o meno agli UN PRI,  
+• l'esistenza di uno scoring ESG per gli attivi sottostanti,  
+• la classificazione del fondo ai sensi dell’SFDR,  
+• l’esistenza di un Ufficio ESG dedicato ed eventualmente le risorse che vi lavorano, 
+• a quali SDGs contribuisce l’investimento.  
+La gestione degli asset non quotati è di diretta competenza di Groupama Assicurazioni. 
+1.3.2 Governance ESG di Gruppo 
+Per garantire che i temi della sostenibilità siano presi in considerazione a tutti i livelli, Groupama ha 
+implementato un solido sistema di governance che corrisponde alla natura e alla complessità delle sue attività.  
+In particolare, questo sistema consen te al Consiglio di amministrazione e ai diversi comitati di integrare , nei 
+loro processi decisionali, i rischi e le opportunità legate ai temi della sostenibilità, in particolare quelli legati al 
+cambiamento climatico. 
+L'attuazione operativa della strategi a di investimento sostenibile è definita come parte della strategia di 
+investimento globale del Gruppo approvata dal Consiglio di amministrazione di Groupama, composto da 15 
+amministratori. Il Consiglio di amministrazione è assistito nell'esercizio delle s ue funzioni dal Comitato di 
+revisione e di rischio, che convalida anche la politica di investimento e i relativi temi sulla sostenibilità. Anche 
+i Consigli di amministrazione di ciascuna entità francese e internazionale approvano la strategia di 
+investimento.  
+La strategia di investimento sostenibile del Gruppo, i suoi obiettivi e la sua attuazione sono inoltre presentati 
+e convalidati almeno due volte l'anno dal Comitato di Etica e Sostenibilità , un comitato che riferisce al 
+Comitato Esecutivo del Gruppo e  il cui ruolo è quello di partecipare allo sviluppo e al monitoraggio operativo 
+della strategia del Gruppo. Tale Comitato è composto da 8 membri, tutti appartenenti al Comitato esecutivo 
+del Gruppo.  
+Il Gruppo continua, inoltre, a rafforzare l'approccio ESG nella sua governance, integrando la componente CSR 
+nelle sue politiche scritte di gestione degli attivi e degli investimenti.
+=== pagina 8 ===
+8 
+ 
+Governance di Gruppo 
+ 
+ 
+ 
+ 
+ 
+Governance Groupama Assicurazioni
+=== pagina 9 ===
+9 
+ 
+2 Strategia di Investimento Responsabile: 
+integrazione criteri ESG per il controllo dei rischi 
+finanziari 
+2.1 Principi guida della strategia: la doppia materialità  
+Il Reg. SFDR 2019/2088 ha formalizzato Il concetto di doppia materialità che consiste nel prendere in 
+considerazione l'impatto delle decisioni di investimento sull'ambiente, sulla società e su terzi (" impatto sui 
+fattori di sostenibilità"), considerando anche i rischi associati a eventi ambientali, sociali o di governance 
+che potrebbero influire sul valore del business dell’azienda ("rischi di sostenibilità"). 
+Investimenti ad impatto e contributo ad obiettivi internazionali 
+Groupama Assicurazioni si inserisce nella strategia del Gruppo Groupama, che ha rafforzato nel 2022 gli 
+impegni per la lotta al riscaldamento globale fissando nuovi obiettivi: 
+• riduzione del 50% dell'intensità di carbonio (Scope 1 e 2) dei portafogli obbligazionari privati e azionari 
+quotati entro la fine del 2029 (utilizzando come benchmark la fine del 2021); 
+• finanziamento di ulteriori 1,2 miliardi di euro in investimenti sostenibili ( Real Estate , Fondi 
+Infrastrutturali, green bond) tra il 2022 e il 2024. 
+In questo contesto, Groupama ha rafforzato la sua politica di investimento responsabile e il suo impegno nella 
+transizione energetica aderendo alla Net-Zero Asset Owner Alliance , sostenuta dalle Nazioni Unite. 
+Groupama è inoltre diventata firmataria dei Principles for Responsible Investment (PRI). 
+Gestione dei rischi per la sostenibilità 
+In qualità di Compagnia Assicurativa  responsabile, Groupama Assicurazioni ancorerà i propri investimenti 
+finanziari a una visione a lungo termine incentrata sul controllo d ei rischi. La gestione del rischio è quindi al 
+centro dell'attività di Groupama; questa gestione è olistica e copre i vari fattori in un approccio globale, 
+finanziario ed extra-finanziario. 
+La responsabilità di Groupama (proteggere e valorizzare i risparmi e le riserve degli assicurati) implica 
+l'anticipazione dei rischi e delle opportunità, siano essi economici, sociali, ambientali o puramente finanziari.   
+I risultati economici e finanziari  che ne derivano sono ottenuti a beneficio dei clienti e degli assicurati di 
+Groupama Assicurazioni. 
+Per quanto riguarda l'integrazione dei cosiddetti criteri extra -finanziari nella gestione dei rischi finanziari, 
+Groupama integra le tematiche ESG (Environment, Social, Governance), con particolare attenzione al rischio 
+climatico. 
+2.2 Rischi di sostenibilità e PAIs 
+La Normativa SFDR 2019/2088 distingue i rischi di sostenibilità (rischi subiti dal portafoglio di investimento 
+a causa di eventi non finanziari) dag li impatti negativi  (PAIs -Principal Adverse Impacts) generati dal 
+portafoglio sulla sostenibilità.
+=== pagina 10 ===
+10 
+ 
+Per Groupama Assicurazioni, la gestione del rischio di sostenibilità e la strategia di contenimento degli impatti 
+negativi sulla sostenibilità sono intrinsecamente collegate. 
+Le aziende e le organizzazioni sono sempre più coinvolte nella valutazione degli impatti sociali e ambientali 
+che generano, sia per rispondere ad obblighi normativi, sia per 
+rispondere a richieste della società civile. Entità che commettono 
+gravi violazioni dei fattori di sostenibilità, rischiano non solo multe 
+economiche, ma anche danni d’immagine c on conseguente perdita 
+di fiducia e disaffezione dei consumatori.  
+Questa penalizzazione economica si ripercuote sui risultati finanziari 
+degli investitori che hanno finanziato queste società. 
+Pertanto, la gestione dei rischi di sostenibilità di un portafoglio 
+finanziario include la ricerca nel limitare gli impatti negativi generati 
+dal portafoglio che a sua volta consente di limitare l'esposizione del 
+portafoglio ai rischi non finanziari.  
+Per Groupama Assicurazioni, la sfida è duplice: 
+• gestire i rischi finanziari legati ai fattori ESG, in particolare al clima (rischi fisici e di transizione)  
+• promuovere l'impatto positivo della gestione finanziaria sui fattori di sostenibilità  contribuendo in 
+particolare a combattere il riscaldamento globale.  
+ 
+2.3 Gestione dei rischi finanziari e non finanziari 
+Per controllare nel modo più efficace possibile tutti i rischi a cui è esposto, il Gruppo ha messo in atto una 
+serie di misure e procedure di monitoraggio del rischio che vengono gestite come parte di un sistema globale. 
+Dal 2016, il sistema di gestione dei rischi si basa anche sul processo ORSA (Own Risk and Solvency Assesment), 
+evidenziato dalla redazione di una relazione annuale. 
+Il sistema di monitoraggio dei rischi è governato a livello di Gruppo da diversi organi: 
+• il Comitato Rischi di Gruppo, composto dai membri del Comitato Esecutivo di Gruppo e dal responsabile 
+del Risk Management, 
+• i diversi Comitati di rischio (assicurativo, finanziario, operativo e di compliance). 
+Il Dipartimento Rischi del Gruppo si concentra quindi sui rischi finanziari, assicurativi e di solvibilità del Gruppo. 
+Per identificare i rischi a cui il Gruppo è esposto, Groupama ha elaborato una mappa dei princi pali rischi, che 
+viene modificata una volta all'anno, dopo l'approvazione del Comitato esecutivo del Gruppo per adattarsi al 
+proprio profilo di rischio. Ogni rischio viene documentato, quantificato ed esaminato dal relativo comitato 
+specializzato, per poi essere sintetizzato e sottoposto all'esame del Comitato rischi del Gruppo e 
+all'approvazione del Comitato di revisione e rischi. 
+La necessità di tenere conto dei cambiamenti climatici e dell'erosione della biodiversità ha indotto Groupama 
+a definire la nomenclatura dei rischi nel 2023. Poiché gli impatti dei rischi di sostenibilità sono molteplici e insiti 
+nella maggior parte dei rischi assicurativi e finanziari, si è deciso di integrarli direttamente nei cosiddetti “Grandi 
+rischi del Gruppo”. L'approccio consiste nell'elencare i grandi rischi interessati dai rischi fisici e di transizione 
+all'interno della nomenclatura esistente e nel qualificare l'impatto di questi rischi climatici sul monitoraggio del 
+grande rischio. I rischi fisici e di tran sizione saranno poi pienamente integrati nei vari comitati di rischio per 
+famiglia di rischio, come descritto in precedenza. 
+Esempio: un'azienda che si trova in 
+una posizione sfavorevole in termini di 
+lotta al riscaldamento globale 
+(l'impatto negativo può essere 
+un'elevata intensità di carbonio) è 
+esposta al rischio di transizione. Tutto 
+ciò potrebbe influire negativamente 
+sul business aziendale per condizioni 
+di finanziamento più difficili, ad 
+esempio, oppure perdita di clienti, ecc.
+=== pagina 11 ===
+11 
+ 
+Inoltre, il sistema di limiti per paese è stato aggiornato per introdurre la sostenibilità attraverso l'indice ND-
+Gain7 (dettagli al paragrafo 3.3.3.1). 
+La Direzione Rischi di Gruppo definisce anche una serie di stress test finanziari e assicurativi che includono 
+dati climatici (basati, ad esempio, sul verificarsi di eventi climatici recenti su un periodo infra -annuale), il cui 
+scopo è simulare l'impatto sulla solvibilità del Gruppo. Si sta lavorando per integrare diversi scenari climatici 
+negli attuali stress test finanziari e assicurativi a medio termine e per valutare la resilienza dei portafogli ai 
+cambiamenti climatici.  
+2.4 Implementazione della strategia ESG  
+La Strategia di Investimento Responsabile viene applicate come segue: 
+Opzione Gestore Tipologia di attivo 
+Gestione del rischio di 
+sostenibilità Due diligence / impatto negativo 
+Strategia ambientale 
+Altre 
+strategie 
+ESG 
+Strategia ambientale 
+Altre 
+strategie 
+ESG 
+Analisi 
+climatica 
+Esclusioni 
+settoriali8 
+Analisi 
+climatica 
+Esclusioni 
+settoriali1 
+Finanziamento 
+della 
+transizione 
+energetica 
+Gestioni 
+Separate 
+ 
+Mandato di gestione 
+(azioni, ETF e 
+obbligazioni quotate )         
+OICR quotati attivi 
+       
+ 
+FIA Infrastrutturali  
+  
+ 
+   
+FIA Private Equity / 
+Loans  
+  
+ 
+ 
+  
+FIA Real Estate  
+  
+ 
+ 
+  
+Unit e FP 
+ 
+Articolo 6 / Unit  
+ 
+  
+ 
+  
+Articolo 8 / Comparti 
+FP      
+ 
+ 
+Altre opzioni Articolo 
+8 / Unit  
+  
+ 
+   
+ 
+Gestione Delegata 
+art.8  
+  
+ 
+   
+ 
+Gestione art 6        
+ 
+ 
+ 
+7 Il Notre Dame Global Adaptation Index (ND-GAIN) è un indice proposto dall'Università di Notre Dame negli Stati Uniti. Questo indice misura 
+l'esposizione e la sensibilità dei Paesi ai cambiamenti climatici e la loro capacità di adattamento. 
+8 Esclusioni Società coinvolte nella produzione di carbone e idrocarburi non convenzionali
+=== pagina 12 ===
+12 
+ 
+3 Politica di Gestione del rischio di sostenibilità  
+3.1 Cos’è il rischio di sostenibilità? 
+Secondo il regolamento SFDR9 , un "rischio di sostenibilità" è un evento o una situazione ambientale, sociale o 
+di governance al verificarsi del quale potrebbe avere un effetto negativo rilevante sul valore dell'investimento. 
+Esempi di "rischi di sostenibilità": 
+ 
+La gestione dei "risc hi di sostenibilità" è centrale nella gestione finanziaria dei portafogli di Groupama 
+Assicurazioni. 
+ 
+3.2 Principi fondamentali della gestione del rischio di sostenibilità 
+3.2.1 Rischio Climatico 
+La valutazione del rischio climatico si pone l’obiettivo di anticipare rischi e opportunità a protezione del valore 
+degli asset finanziari limitando i rischi associati al cambiamento climatico.  
+Nelle parole di Mark Carney, presidente del  Financial Stability Board 10, la Task -Force on Climate Related 
+Financial Disclosure (TCFD) ha definito i rischi climatici in due categorie: rischi fisici e di transizione. 
+I rischi Sottocategorie 
+di rischio Esempio 
+Rischi fisici 
+Rischi derivanti da danni 
+direttamente causati da fenomeni 
+meteorologici e climatici 
+Rischi acuti Disastri naturali: tempeste, uragani, 
+inondazioni, ecc. 
+Rischi cronici 
+Cambiamenti a lungo termine: 
+innalzamento del livello del mare, ondate di 
+calore croniche, scomparsa di alcune 
+risorse, ecc. 
+Rischi di 
+transizione 
+Rischi derivanti dagli effetti 
+dell'implementazione di un modello 
+Rischi normativi 
+e legali 
+Regolamenti più severi sui prodotti, 
+l'introduzione di un prezzo del carbonio, 
+l'aumento dei reclami e delle controversie... 
+ 
+9 Regolamento SFDR, punto 22) dell'articolo 2 
+10 Mark Carney: "La tragedia degli orizzonti", 2015 
+AMBIENTALE
+• Inquinamento e cattiva 
+gestione dei rifiuti: 
+conseguenze legali per l'azienda
+• Inadeguatezza alla lotta contro 
+il cambiamento climatico 
+(motori a combustione,uso del 
+carbone, ecc.)
+• Impianti di produzione o edifici 
+situati in aree a rischio di 
+inondazione
+SOCIALE
+• Scarso riconoscimento dei 
+diritti dei lavoratori, delle loro 
+condizioni salariali e di lavoro
+• Gravi violazioni dei diritti 
+umani: conseguenze legali e 
+commerciali
+GOVERNANCE
+•Mancanza di controlli ed 
+equilibri nella gestione 
+dell'azienda, con conseguenti 
+decisioni sbagliate.
+•Corruzione e mancanza di 
+integrità con conseguenze legali 
+(multe) per l'azienda
+=== pagina 13 ===
+13 
+ 
+I rischi Sottocategorie 
+di rischio Esempio 
+di business a basse emissioni di 
+carbonio Rischi tecnologici 
+Innovazioni e scoperte tecnologiche: nuove 
+tecnologie per le energie rinnovabili, 
+stoccaggio dell'energia, ecc. 
+Rischi di mercato 
+Variazioni dei prezzi delle materie prime a 
+seguito di cambiamenti nell'equilibrio 
+domanda/offerta, disaffezione del pubblico 
+per alcuni prodotti, ecc. 
+Rischio di 
+reputazione 
+Danneggiamento dell'immagine del 
+marchio di un'organizzazione agli occhi dei 
+clienti o degli stakeholder... 
+ 
+Quando questi rischi si concretizzano, hanno un impatto significativo sul modello economico di aziende, 
+organizzazioni e persino Governi. 
+3.2.2 Rischi ESG e Resilienza  
+Nell'analisi di società e organizzazioni, gli aspetti extra -finanziari e finanziari sono strettamente legati. 
+L'integrazione di tutte le informazioni ambientali, sociali e di governance (ESG) migliora la resilienza del 
+portafoglio, anticipando l'impatto finanziario dei criteri extra-finanziari e identificando nuove opportunità. 
+L'analisi ESG fornisce una visione a lungo termine delle società e delle organizzazioni, individuando quelle più 
+avanzate in termini di cambiamento sociale e ambientale, nonché quelle più vulnerabili, e investendo nei settori 
+con le più solide prospettive di crescita.  
+3.3 Integrazione dei rischi di sostenibilità 
+3.3.1 Politica di Gestione del rischio  
+La politica di gestione dei rischi di Groupama Assicurazioni si basa sulla politica di gestione dei rischi definita 
+a livello di Gruppo.  
+Per identificare i rischi a cui il Gru ppo è esposto, è stata elaborata una mappa dei rischi principali, che viene 
+modificata una volta all'anno, dopo l'approvazione del Comitato esecutivo del Gruppo.  
+Ogni rischio viene documentato, quantificato ed esaminato da un comitato specializzato, quind i sintetizzato 
+per essere esaminato dal Comitato Rischi di Gruppo e approvato dal Comitato di Audit e Rischi. Groupama 
+Assicurazioni dispone di una propria mappatura dei principali rischi, che incorpora gli elementi di mappatura 
+dei principali rischi del Gruppo.  
+All'inizio del 2023, il Gruppo ha provveduto ad integrare i rischi di sostenibilità.  
+L'approccio consiste nel: 
+• fare un inventario, all'interno della nomenclatura esistente, dei principali rischi fisici e di transizione,  
+• includere tali rischi nel monitoraggio generale  
+• integrare tale monitoraggio nei vari comitati rischi (assicurativo, finanziario, operativo e di compliance) 
+Gli attivi di Groupama Assicurazioni beneficiano delle politiche di gestione del rischio del Gruppo, in particolare:  
+• Utilizzo dell'indice ND-Gain (vedi capitolo 3.3.3.1). Il sistema di limiti per Paese fa parte del sistema 
+di limiti secondari introdotto per limitare le concentrazioni (emittenti, anzianità del Paese, ecc.) 
+all'interno dei portafogli.
+=== pagina 14 ===
+14 
+ 
+• Stress test fina nziari e assicurativi che includono dati climatici (basati, ad esempio, sul 
+verificarsi di eventi climatici recenti su un periodo infra -annuale), il cui obiettivo è 
+simulare l'impatto sulla solvibilità del Gruppo, compresi gli asset di Groupama 
+Assicurazioni. Sono in corso lavori per integrare diversi scenari climatici negli attuali stress test 
+finanziari e assicurativi a medio termine al fine di valutare la resilienza dei portafogli ai cambiamenti 
+climatici.  
+3.3.2 Governance di Gestione del Rischio  
+La funzione di Risk Management di Groupama Assicurazioni è responsabile del monitoraggio e della gestione 
+dei rischi di Groupama Assicurazioni. 
+Groupama Assicurazioni, al momento, dispone del seguente sistema di governance dei rischi: 
+ 
+ 
+Per quanto riguarda i rischi di sostenibilità, al momento si sta riflettendo sulla soluzione migliore da 
+implementare per il loro monitoraggio a livello della filiale, nel frattempo la filiale stessa rientra nel framework 
+predisposto dal Gruppo 
+ 
+Il Gruppo, infatti,  si è dotato di un  sistema di monitoraggio dei rischi governato da diversi organi, che 
+definiscono e aggiornano la politica, che viene poi attuata dalle filiali estere, tra cui Groupama Assicurazioni:  
+• Il Comitato Rischi di Gruppo , composto da membri del Comitato Esecutivo di Gruppo e dal 
+Responsabile del Risk Management , che si avvale del lavoro svolto dai  diversi Comitati Rischi e si 
+riunisce due volte l'anno. 
+• Comitati rischi  (assicurativi, finanziari, operativi e di compliance), c he definiscono il quadro di 
+gestione dei rischi e riferiscono al Comitato rischi di Gruppo due volte l'anno.
+=== pagina 15 ===
+15 
+ 
+ 
+Per monitorare i rischi di sostenibilità sugli asset, il Dipartimento Rischi del Gruppo si basa sulle relazioni e 
+sulle conclusioni dei vari comitati:  
+• Comitato Rischi per la sostenibilità di Groupama Asset Management 
+• Comitato d'investimento ESG della DOFI (Dipartimento Operazioni Finanziarie e Investimenti) 
+Le risultanze  di tale monitoraggio vengono presentate al Comitato di Rischi Finanziari del Gruppo per 
+evidenziare la traiettoria delle esposizioni della Compagnia  rispetto agli indicatori selezionati (i ntensità di 
+carbonio, quota verde, punteggio ND-Gain, ecc.). 
+Data comunicazione al Comitato esecutivo del Gruppo , si procede con la convalida annuale  al Comitato 
+per il controllo interno e il rischio (CCIR). 
+3.3.3 Valutazione del rischio di sostenibilità  
+3.3.3.1 Rischi fisici e transitori associati al cambiamento climatico 
+Per misurare l'esposizione delle sue attività a 
+questi rischi di so stenibilità, il Gruppo conduce 
+uno studio annuale dei vari portafogli. 
+In caso di obbligazioni sovrane, si usa l’indice ND 
+Gain.  
+ 
+ 
+ 
+ 
+ 
+ 
+3.3.3.2 Rischi fisici e transitori associati alla biodiversità 
+Il rischio fisico legato all'erosione della biodiversità si riferisce alla perdita di servizi ecosistemici su cui si basa 
+l'attività economica, come la regolazione del clima, l'impollinazione, il ciclo dell'acqua e così via.  
+Il rischio di transizione della biodiversità caratterizza il rischio associato alla transizione verso un'economia più 
+rispettosa degli ecosistemi e ai conseguenti costi associati, sia normativi che finanziari. Ad esempio, le recenti 
+normative europee sulla deforestazione stanno contribuendo a ridurre la deforestazione associata ad alcune 
+L'indice ND Gain è uno strumento di misurazione del rischio 
+paese che calcola l'esposizione e la vulnerabilità di un paese agli 
+shock climatici (punteggio di vulnerabilità) in funzione del suo 
+grado di preparazione (punteggio di adattabilità), definito 
+come la misura in cui utilizza le proprie risorse economiche, 
+sociali e di governance per ridurre i rischi associati al clima.  
+Il punteggio di vulnerabilità misura l'esposizione, la sensibilità e 
+la capacità di adattamento di un Paese all'impatto negativo dei 
+cambiamenti climatici, prendendo in considerazione la 
+vulnerabilità in sei settori vitali: cibo, acqua, salute, servizi 
+ecosistemici, habitat umano e infrastrutture. Più basso è il 
+punteggio, meglio è.  
+Il punteggio di adattabilità misura la capacità di un Paese di 
+trarre vantaggio dagli investimenti e di convertirli in misure di 
+adattamento. Più alto è il punteggio, meglio è. Viene quindi 
+determinato un punteggio complessivo.
+=== pagina 16 ===
+16 
+ 
+materie prime come il cacao e il caffè, ma stanno anche generando costi per la certificazione e la tracciabilità 
+delle materie prime. 
+Il Gruppo Groupama effettua anche un'analisi degli impatti e delle dipendenze del suo portafoglio sulla 
+biodiversità. Nell'am bito dell'analisi, gli impatti generati dal portafoglio di investimenti riguardano 
+principalmente i cambiamenti nell'uso del suolo. Questi rappresentano un rischio di transizione a cui il Gruppo 
+è attento. Tra le dipendenze molto forti del portafoglio anal izzato, le acque di superficie spiccano come 
+potenziale rischio fisico per gli emittenti (l'analisi Encore si basa su dati di settore e non su dati specifici 
+dell'emittente).   
+ 
+3.4 Rischi di sostenibilità nel portafoglio in mandato a Groupama 
+AM 
+3.4.1 Analisi ESG per Azioni e bond corporate  
+La politica di analisi dei rischi e delle opportunità ESG di Groupama Asset Management per le azioni e le 
+obbligazioni societarie si basa su 3 pilastri: 
+ 
+ 
+Questa analisi integrata consente al team di ricerca di Groupama Asset Management di emettere 
+raccomandazioni che vengono utilizzate dai Gestori della medesima società.  Gli analisti sono guidati da dati 
+quantitativi ESG forniti da due Data providers, Mood y’s ESG e Iceberg Data Lab. Questi KPI, il cui punteggio 
+varia da 0 a 100, si basano su analisi qualitative ESG.  
+L'approccio ai materiali ESG combina analisi top-down e bottom-up:  
+• Lo studio top-down parte da un'analisi macroeconomica, basata sulle tre tr ansizioni (ambientale, 
+digitale ed ecologica) identificate come fattori strutturanti, e si articola in un approccio 
+microeconomico, a livello di settore e di valore. Tale analisi permette di valutare se l'azienda sta 
+integrando i cambiamenti nel suo ecosistema e di misurare la sua capacità di adattarsi rapidamente.  
+• Lo studio bottom-up dei criteri ESG si basa sugli indicatori quantitativi di StarQube, il principale 
+strumento decisionale per la ricerca nell'analisi ESG.   
+La metodologia include anche la maggior parte dei PAI (Principal Adverse Impacts) obbligatori, direttamente 
+o tramite un indicatore equivalente. I criteri considerati sono ponderati in base alla loro materialità e rilevanza 
+per ogni settore.  
+AMBIENTALE
+• Questi criteri analizzano il 
+posizionamento delle aziende e la 
+loro capacità di adattarsi alla 
+transizione energetica ed ecologica, 
+nonché l'impatto delle loro attività 
+in termini di tutela della biodiversità, 
+gestione dei rifiuti, inquinamento, 
+gestione e qualità dell'acqua e 
+consumo di materie prime.
+SOCIALE
+• Questi criteri includono, da un lato, 
+un'analisi del capitale umano 
+dell'azienda (gestione delle 
+competenze, formazione, cultura 
+aziendale, clima lavorativo) alla luce 
+delle tre transizioni (digitale, 
+demografica ed ecologica) e, 
+dall'altro, un'analisi del suo impatto 
+sociale (relazioni esterne con clienti, 
+fornitori e comunità) e del suo 
+contributo agli Obiettivi di Sviluppo 
+Sostenibile delle Nazioni Unite.
+GOVERNANCE
+• Questi criteri riguardano il modo in 
+cui l'azienda è gestita, amministrata 
+e controllata e le relazioni che 
+intrattiene con gli azionisti, il 
+consiglio di amministrazione e il 
+management, nonché il grado di 
+integrazione di queste tematiche di 
+sviluppo sostenibile.
+• L'analisi della governance consente 
+di verificare se il management 
+esegue correttamente la propria 
+strategia e se opera nell'interesse di 
+tutti gli azionisti e gli stakeholder 
+dell'azienda.
+=== pagina 17 ===
+17 
+ 
+3.4.2 Analisi ESG per Bond Governativi 
+La valutazione del rischio paese tiene conto dei rischi e delle opportunità ESG, oltre che dei fattori economici 
+e finanziari. L'analisi ESG mira a cogliere il potenziale impatto dei fattori ambientali, sociali e societari sul 
+contesto economico di un Paese.    
+Il punteggio ESG è determinato dalla somma dei punteggi relativi alle componenti E, S e G:  
+• Il punteggio della "governance" misura la qualità delle strutture di potere di un Paese. È composto 
+da sei sottopilastri, i cui dati sono pubblicati dalla Ban ca Mondiale: libertà di espressione, qualità del 
+sistema normativo, efficacia del governo, controllo della corruzione, stabilità politica e stato di diritto.   
+• Il punteggio "sociale" misura la performance sociale e societaria, in particolare in termini di stili di 
+vita, coesione sociale, demografia e capitale umano.   
+• Infine, il punteggio " ambiente" misura le prestazioni in termini di impronta di carbonio, efficienza 
+energetica, crescita verde e, da giugno 2022, biodiversità attraverso variabili che valutan o la qualità 
+del suolo.  
+I sottopilastri "sociale" e "ambientale" sono costruiti da Groupama Asset Management a partire da una 
+selezione di dati macroeconomici disponibili.  
+La metodologia di analisi ESG è stata aggiornata nel giugno 2022 al fine di sempli ficare, standardizzare e 
+migliorare la metodologia esistente. La copertura è ora più ampia, con una distinzione tra Paesi sviluppati ed 
+emergenti. È stata mantenuta un'unica fonte di dati, che può essere automatizzata tramite Datastream.  
+3.4.3 Lista dei Grandi Rischi ESG di Groupama AM 
+Groupama AM definisce una lista di società identificate dagli analisti come particolarmente esposte a fattori 
+ambientali, sociali e di governance: la lista dei Grandi Rischi ESG. 
+Le società incluse nell'elenco dei Grandi rischi ES G sono aziende o organizzazioni per le quali i rischi ESG 
+potrebbero mettere in discussione la loro redditività economica e finanziaria o potrebbero avere un impatto 
+significativo sul valore dell'azienda o del marchio e quindi portare a una perdita significativa del valore di borsa 
+o a un declassamento significativo del rating da parte delle agenzie. Per ogni nuovo inserimento nell'elenco 
+dei principali Rischi ESG vengono stabiliti dei trigger, che vengono rivisti sistematicamente ogni sei mesi. 
+L'elenco dei Grandi rischi ESG classifica le società in due sottoinsiemi: 
+• Alto livello di controversia secondo i fornitori di dati e convalidato dal team di ricerca di GAM; 
+• Scarsa valutazione della Governance da parte degli Analisti, con il 50% dei criteri giudicati in direzione 
+negativa. 
+Nell'ambito della Politica di Impegno (vedi capitolo Errore. L'origine riferimento non è stata trovata.), 
+le società identificate nell'elenco dei "Grandi rischi  ESG" vengono sistematicamente informate della loro 
+inclusione in questo elenco e invitate a discutere le controversie che le riguardano durante gli incontri 
+organizzati. 
+Applicazione della Lista:  
+• Nei fondi aperti Articolo 8/9 gestiti da GAM, le società presenti in Lista sono di fatto escluse. Per i fondi 
+e i mandati dedicati, spetta ai clienti escludere i titoli dall'elenco. 
+• Per i fondi aperti Articolo 6 gestiti da GAM, l'elenco dei Grandi Rischi ESG è attenzionato da parte dei 
+gestori dei fondi, i quali devono giustificare l'inclusione di questi asset al momento dell'acquisto. 
+• Nei mandati di gestione del Gruppo è vietato il reinvestimento o l'investimento in società presenti 
+nell'elenco dei Grandi Rischi ESG, con l'obiettivo di disinvestire il portafoglio il prima possibile. 
+Queste regole fanno parte dei controlli pre-trade degli strumenti di gestione del portafoglio di Groupama Asset 
+Management.
+=== pagina 18 ===
+18 
+ 
+3.4.4  L’analisi climatica nel processo di Gestione 
+Dal 2017, il team di ricerca di Groupama Asset Managem ent ha sviluppato e rafforzato un'analisi dei rischi e 
+delle opportunità legate al clima per i titoli detenuti all'interno dei portafogli di Groupama Assicurazioni, 
+compresi gli OICR Dedicati. 
+L'analisi climatica si concentra sugli 8 settori a maggiore intensità di carbonio  rappresentativi del più alto  
+potenziale strategico e tecnologico per combattere il riscaldamento globale riducendo le emissioni di gas serra 
+(GHG). 
+ 
+ 
+Tutti gli emittenti di questi settori, la cui posizione complessiva detenuta è superiore a 25 milioni di euro 
+(mandati e OICR dedicati), vengono analizzati dal team di ricerca di Groupama Asset Management utilizzando 
+una metodologia di analisi che consiste di: 
+• Identificare gli emittenti i cui modelli di business sono più esposti ai rischi associati al cambiamento 
+climatico (rischio fisico e rischio di transizione). 
+• Identificare gli emittenti meglio posizionati nel contesto della transizione energetica ed ecologica 
+ 
+Groupama Asset Management utilizza un'analisi quantitativa basata su tre indicatori: 
+1. Intensità di carbonio: misura la quantità di gas a effetto serra necessaria per produrre un milione di 
+euro di fatturato. Questa intensit à di carbonio è misurata sullo scope 1 (emissioni dirette provenienti da 
+installazioni fisse o mobili situate all'interno del perimetro aziendale), sullo scope 2 (emissioni indirette 
+legate al consumo di elettricità, calore o vapore necessari alla fabbricazione del prodotto) e sullo scope 3 
+(altre emissioni indirette legate alla catena di approvvigionamento a monte della produzione)  
+2. Il NEC (Net Environmental Contribution ): indicatore calcolato dall'iniziativa NEC, che misura il 
+contributo positivo o negativo in 5 aree ambientali (c lima, biodiversità, rifiuti e risorse, qualità dell'aria, 
+gestione delle acque), consentendo agli attori economici di identificare i contributori alla transizione 
+ecologica (che presentano opportunità per la transizione) e i distruttori di capitale natural e (esposti ai 
+rischi della transizione). 
+3. Allineamento dei portafogli all’obiettivo di Parigi: l'obiettivo è di mantenere le temperature al di 
+sotto dei 2°C (Accordo di Parigi, metodo SB2A), nei settori chiave per la transizione climatica, un indicatore 
+fornito da Iceberg Data Lab.  
+ 
+L'integrazione di questi indicatori è stata arricchita nel 2022 per riflettere gli ambiziosi obiettivi climatici del 
+Gruppo sull'intensità di carbonio: oggi, infatti,  i punteggi NEC  aumentano o diminuiscono , a seconda 
+dell'intensità di carbonio dell'emittente rispetto al suo settore e della sua temperatura indotta rispetto al suo 
+settore. A ogni società oggetto dell'analisi viene quindi assegnato un punteggio complessivo e le società 
+vengono classificate in 3 categorie:  
+Oil & GAS Materie Prime
+Aziende 
+produttrici di 
+macchinari
+Trasporti Agricoltura/ 
+agroalimentare Auto Servizi per la 
+comunità Immobiliare
+=== pagina 19 ===
+19 
+ 
+Categoria 1 Categoria 2 Categoria 3 
+Emittenti posizionati in modo 
+favorevole rispetto alla transizione 
+energetica 
+Emittenti il cui posizionamento di 
+prodotto o l'implementazione di 
+politiche climatiche non convincono 
+in termini di coerenza tra obiettivi e 
+risorse, o in termini di dinamica. 
+Emittenti il cui posizionamento 
+penalizza la transizione energetica 
+I gestori possono decidere di mantenere 
+o aumentare le loro posizioni. 
+I gestori "monitorano" le attività, il che 
+significa che la posizione può essere 
+mantenuta ma non rafforzata. 
+I gestori non possono reinvestire e 
+devono ritirarsi dalla posizione nel lungo 
+periodo. Queste posizioni hanno la 
+priorità nelle operazioni di arbitraggio, 
+ad esempio. Non è prevista una data di 
+uscita definita per questi impegni (ad 
+eccezione degli emittenti che rientrano 
+nei criteri di esclusione del carbone). 
+ 
+Questa classificazione delle categorie climatiche permette di identificare gli emittenti i cui modelli di business 
+sono più esposti ai rischi associati al cambiamento climatico. Gli emittenti esclusi a causa della loro politica in 
+materia di carbone rientrano nella categoria 3, mentre quelli esclusi a causa della loro politica in materia di 
+combustibili fossili non convenzionali rientrano nella categoria 2. 
+ 
+3.4.5 Altre politiche di Esclusione 
+Le esclusioni aiutano a gestire sia i rischi di sostenibilità (ad esempio, non essere esposti a un settore il cui 
+modello di business potrebbe essere influenzato dalla transizione ecologica) sia gli impatti negativi (ad 
+esempio, non contribuire alle emissioni di gas a effetto serra attraverso i combustibili più intensivi).  
+Esclusioni Carbone termico: 
+• Il carbone svolge un ruolo centrale nel riscaldamento globale perché è la principale fonte di emissioni 
+di gas a effetto serra (GHG 11 ). L'obiettivo dell'esclusione di Groupama (e di Groupama Asset 
+Management per tutti gli asset in gestione) dal settore del carbone termico è quello di ridurre 
+l'esposizione degli investimenti al rischio climatico (rischio di transizione). 
+• La politica di e sclusione del carbone termico è stata rafforzata nel 2020 e nel 2023 (ulteriore 
+abbassamento delle soglie), con l'obiettivo di eliminare definitivamente il carbone termico entro il 2030 
+(Unione Europea e Paesi OCSE) ed entro il 2040 (resto del mondo). Sono escluse tutte le società il cui 
+fatturato o il cui mix di produzione di energia elettrica dipende per oltre il 20% dal carbone termico, 
+la cui produzione supera i 10 milioni di tonnellate o la cui capacità installata di centrali a carbone 
+supera i 5 milio ni di GW. Groupama si basa sulla Global Coal Exit List, fornita dalla ONG tedesca 
+Urgewald (https://coalexit.org/) e sulle analisi di GAM, che possono portare a conclusioni diverse 
+dall'applicazione rigorosa dei dati Urgewald. In questo caso, viene messa i n atto una strategia di 
+impegno e la strategia aziendale viene rivista almeno una volta all'anno.  
+Le linee guida sopra descritte sono  parte dei controlli pre -trade degli strumenti di gestione del portafoglio di 
+Groupama Asset Management. 
+Esclusioni relative agli idrocarburi non convenzionali: 
+• Groupama si impegna a non finanziare più direttamente le società coinvolte nello sviluppo di nuovi 
+progetti di petrolio e gas non convenzionali, ad eccezione delle esigenze di finanziamento 
+ 
+11 Il 39% dei gas serra è attribuibile al carbone, il 31% al petrolio e il 18% al gas naturale ("Chiffres clés du climat France,  Europe et Monde", 
+2020, Commissariat Général au Développement Durable).
+=== pagina 20 ===
+20 
+ 
+specificamente destinate alla transizione: ad esempio, con investimenti per un progetto dedicato alla 
+transizione ambientale, attraverso la sottoscrizione di obbligazioni green. 
+• La strategia di esclusione è integrata da impegni individuali e collettivi nei confronti delle aziende del 
+settore energetico, per incoraggiarle a ridurre le emissioni nel breve e medio termine e a indirizzare i 
+loro investimenti verso soluzioni a basse emissioni di carbonio. 
+Groupama utilizza la Global Oil and Gas Exit List (GOGEL) proposta dalla ONG Urgewald. 
+ 
+3.5 Rischio Sostenibilità negli attivi illiquidi gestiti da Groupama 
+Assicurazioni 
+I rischi di sostenibilità sono essenziali nella gestione degli asset non quotati (private equity, infrastrutture, 
+private debt, real estate) e tali criteri sono spesso incorporati dalle società di gestione specializzate, consapevoli 
+dei vantaggi che posson o apportare: miglior controllo dei rischi, potenziali risparmi, aumento del valore, 
+impegno dei dipendenti, anticipazione di grandi cambiamenti, ecc.  
+Per i fondi non gestiti da Groupama AM (sia per le attività quotate che per quelle non quotate), è stato 
+sviluppato un processo di due diligence comune a tutto il Gruppo a partire da giugno 2022. Questo processo 
+prende la forma di questionari separati per ogni classe di attività: OICR quotati, fondi infrastrutturali, Private 
+debt/equity, Real Estate.  
+Quattro temi sono comuni a tutti i questionari:  
+• Politica ESG della società di gestione 
+• Governance e gestione del rischio  
+• Politica ESG del fondo  
+• Strumenti e dati di reporting. 
+Oltre a questi temi comuni, c'è una sezione dedicata alle sfide del coinvolgimento e del dialogo con gli azionisti 
+nel caso dei fondi quotati. La sezione dedicata agli strumenti e ai dati di reporting esamina la capacità della 
+società di gestione del fondo di pubblicare informazioni relative  sulla gestione ESG , eventuale allineamento 
+agli obiettivi dell'Accordo di Parigi o alla produzione di Principali impatti negativi (PAIs).  
+I moduli e le risposte ai questionari saranno gradualmente condivisi nel corso del 2023 su una piattaforma 
+comune a tutte le entità Groupama, al fine di promuovere un'analisi armonizzata in tutto il Gruppo. 
+ 
+3.6 Rischi di sostenibilità nelle Unit e nel Fondo Pensione 
+3.6.1 Unit ValorePiù Italia, gestito da Groupama Assicurazioni con la 
+consulenza di Classis Capital  
+Il fondo interno Valorepiu Italia, gestito con la consulenza di Classis Capital, è investito principalmente in fondi 
+azionari e obbligazionari italiani a piccola capitalizzazi one, il che significa che l'universo investibile è molto 
+limitato. 
+La maggior parte di questi fondi rientra nell'articolo 6 e quindi non promuove caratteristiche ambientali e 
+sociali, ma integra il rischio di sostenibilità nel proprio processo di gestione. 
+Per questo motivo, non escludiamo in futuro, quando l'attuale mancanza di dati sarà colmata e/o il numero di 
+prodotti che rientrano negli articoli 8 e 9 e che fanno parte dell'universo investibile aumenterà, l'inclusione di 
+questi fondi come sottostanti del prodotto.
+=== pagina 21 ===
+21 
+ 
+3.6.2 Unit la cui gestione è in mandato a Groupama AM  
+Le Unit interne in delega a Groupama Asset Management sono affidate al team Multigestione. 
+Dal 2022, Groupama Asset Management utilizza un questionario di due diligence per identificare i princi pali 
+rischi e pratiche ESG delle società di gestione esterne. 
+3.5.2.1 Unit art.6 
+Le Unit appartenenti a tale tipologia utilizzano il questionario di due diligence di Groupama. Vengono escluse 
+le società di gestione che non hanno una politica di esclusione per quanto riguarda le armi controverse o il 
+carbone termico. 
+3.5.2.2 Unit art.8 – ValorePiù Futuro Responsabile e ValorePiù MultiAsset ESG 
+Oltre al vincolo relativo alle politiche di esclusione, le Unit art.8 possono investire solo in fondi classificati come 
+articolo 8 o articolo 9 ai sensi dei regolamenti SFDR. 
+3.5.2.3 Comparti Fondo Pensione Aperto 
+Ad oggi, tutti i comparti del fondo pensione sono art.6 ai sensi del Reg. SFDR. 
+A partire dal 2024, i comparti del Fondo Pensione Aperto investiranno esclusivamente in fondi ex articolo 8 o 
+9 gestiti direttamente da Groupama Asset Management. Pertanto, beneficerà delle regole di gestione del 
+rischio di sostenibilità applicabili a tutti i fondi gestiti da Groupama Asset Management:  
+• Analisi ESG 
+• Esclusione degli emittenti classificati come "ad alto rischio ESG 
+• Analisi ambientale 
+• Esclusione (Carbone, Oil&Gas, Armi). 
+Inoltre, applicheranno i processi di gestione ESG specifici dei fondi di "investimento responsabile" di Groupama 
+AM. 
+ 
+3.6.3 Gestione Delegata art.8: una soluzione di risparmio innovativa 
+Groupama Assicurazioni, tramite la propria specifica unità finanziaria, in collaborazione con Groupama Asset 
+Management e Groupama Gan Vie, definisce un catalogo di Fondi Esterni. 
+• Monitora costantemente gli investimenti, con lo scopo di verificare, se la componente Unit -Linked in 
+vigore sia ancora idonea rispetto agli obiettivi d’investimento e alla politica adottata dal Gestore e se 
+i Fondi Esterni selezionati soddisfino ancora gli standard quali/quantitativi fissati dalla Società. 
+• Rimodula, ove opportuno, la combinazione dei Fondi Esterni all’interno della quota UL, al fine di 
+ottenere il miglior risultato per il cliente, in conformità al profilo di rischio definito. 
+In questo contesto, il questionario di due diligence comune a tutti gli OICR non gestiti da Groupama Asset 
+Management è stato implementato per tutti i nuovi OICR che entrano nell'universo investibile a partire dalla 
+fine del 2022 e sarà implementato su tutto lo stock nei prossimi mesi. 
+La Gestione delegata è un art.8 ai sensi SDFR, quindi, investe esclusivamente in fondi classificati come articolo 
+8 o 9 ai sensi della normativa SFDR. Il profilo esclude le società di g estione che non hanno una politica di 
+esclusione sulle armi controverse e sul carbone termico.
+=== pagina 22 ===
+22 
+ 
+4 Due Diligence degli Impatti negativi sui fattori di 
+sostenibilità 
+4.1 Impatti negativi sui fattori di sostenibilità 
+Gli impatti negativi delle decisioni di investimento sono gli impatti generati dall'investimento sui fattori di 
+sostenibilità. Tali impatti negativi sono misurati utilizzando adeguati KPI. Esempi: 
+ 
+ 
+4.2 Gestione degli impatti negativi in Groupama Assicurazioni 
+4.2.1 Principi Guida 
+Groupama è impegnata nelle questioni ambientali e sociali ed è firmataria del Global Compact delle Nazioni 
+Unite12 e sostiene le convenzioni internazionali (OCSE 13 , OIL14 , ONU15 ). Groupama è particolarmente 
+impegnata nella lotta al riscaldamento globale, sostenendo l'Accordo di Parigi e partecipando alla Strategia 
+nazionale a basse emissioni di carbonio16 . Groupama ha inoltre aderito alla Net Zero Asset Owner Alliance17 
+nel 2022. 
+Nel dicembre 2015, in occasione della COP21, l'Accordo di Parigi è stato firmato da 195 Paesi, oltre che dalla 
+Comunità europea. Uno degli obiettivi dell'Accordo di Parigi è la mitigazione: mantenere l'aumento della 
+temperatura globale al di sotto dei 2° entro il 2100 rispetto all'era preindustriale (1890), se possibile 1,5°. 
+Per Groupama Assicurazioni, la gestione degli impatti negativi è strettamente legata alla strategia di 
+investimento volta a limitare i rischi di sostenibilità. Infatti, un'azienda o un'organizzazione che genera impatti 
+negativi significativi sulla sostenibilità è esposta al rischio di transizione: questo concetto può essere esteso a 
+tutti i rischi extra-finanziari, al di là del rischio climatico per il quale è stato originariamente definito. 
+4.2.2 L’impegno di Groupama per il clima 
+Consapevole del rischio climatico che grava sugli asset finanziari e desiderosa di riaffermare il proprio impegno 
+a sostenere la transizione ecologica ed energetica verso un'economia a minore intensità di carbonio, Groupama 
+si è impegnata a partire dalla fine del 2018 attraverso tutti i propri asset: la prima politica di esclusione delle 
+ 
+12 Il Global Compact offre un quadro di impegno semplice, universale e volontario, basato su dieci principi relativi al rispetto dei diritti umani, 
+degli standard internazionali del lavoro, dell'ambiente e della lotta alla corruzione. 
+13 "Linee guida dell'OCSE per le imprese multinazionali". 
+14 "Dichiarazione dell'Organizzazione Internazionale del Lavoro sui principi e i diritti fondamentali nel lavoro e il suo seguito, 1998, rivista nel 
+2010; Dichiarazione tripartita dell'Organizzazione Internazionale del Lavoro sulle imprese multinazionali e la politica sociale, 2017. 
+15 "Principi guida delle Nazioni Unite su imprese e diritti umani". 
+16 Introdotta dalla legge francese sulla transizione energetica per la crescita verde (LTECV), la Strategia nazionale a basse emissioni di carbonio 
+è la tabella di marcia della Francia per la lotta al cambiamento climatico. È stata adottata nel 2015 e sarà rivista nel 2018-2019. 
+17 Lanciata nel settembre 2019 sotto l'egida delle Nazioni Unite, la Net Zero Asset Owner Alliance è un gruppo internazionale di investitori che 
+si impegnano a convertire i propri portafogli d'investimento alla neutralità delle emissioni di carbonio entro il 2050. I suoi membri intendono 
+contribuire a limitare il riscaldamento globale a 1,5°C rispetto alle temperature preindustriali, in linea con l'Accordo di Parigi. 
+Contributo al 
+riscaldamento 
+globale / emissioni di 
+gas serra
+• Emissioni di carbonio 
+(tCO2)
+• Percentuale di energia 
+rinnovabile consumata 
+Impatto sulla 
+biodivesrità
+• Percentuale di aziende 
+situate in aree sensibili 
+per la biodiversità
+Gestione dei rifiuti
+• Percentuale di rifiuti 
+non riciclati
+Diritti dell'uomo
+• Percentuale di aziende 
+che non rispettano i 
+diritti umani (OCDE, 
+ONU, OIT)
+Lotta alla 
+corruzione
+• Percentuale di aziende 
+coinvolte in 
+controversie legate 
+alla corruzione
+=== pagina 23 ===
+23 
+ 
+società coinvolte nella produzione di carbone termico o di sabbie bituminose, un programma di investimenti di 
+1 miliardo di euro a favore della transizione energetica. 
+Questo impegno è stato rafforzato nel 2020 da una politica più restrittiva di eliminazione del carbone (la prima 
+del genere al mondo). 
+Nel 2022, il Gruppo Groupama ha rafforzato questi impegni e si è posto nuovi obiettivi:  
+• Decarbonizzare il portafoglio entro il 2030, in linea con gli obiettivi dell'Accordo di Parigi: 
+o Ridurre l'intensità dei gas serra (tCO2 eq/milioni di euro di vendite) del portafoglio azionario 
+e obbligazionario del Gruppo del 50% tra la fine del 20 21 e la fine del 2029. Nel 2022, le 
+emissioni del portafoglio saranno diminuite del 12,5% rispetto al livello di fine 2021. 
+• Aumentare il contributo positivo finanziando soluzioni più sostenibili con un obiettivo di investimenti 
+sostenibili aggiuntivi di 1,2 miliardi di euro tra il 2022 e il 2024, investiti principalmente in infrastrutture, 
+immobili e obbligazioni verdi. 
+• Integrare le questioni climatiche nella nostra politica di investimento attuando politiche di esclusione:  
+o Impegno a eliminare definitivamen te il carbone termico entro il 2030 per i Paesi dell'Unione 
+Europea e dell'OCSE ed entro il 2040 per il resto del mondo. 
+o Per quanto riguarda i combustibili fossili non convenzionali, Groupama si impegna a non 
+finanziare più direttamente le società coinvolte nello sviluppo di nuovi progetti di petrolio e 
+gas non convenzionali, ad eccezione delle esigenze di finanziamento specificamente destinate 
+alla transizione. In altre parole, una filiale o un progetto dedicato al finanziamento della 
+transizione e  ai green bond emessi da queste società, in cui il Gruppo può continuare a 
+investire per avere l'opportunità di contribuire pienamente al finanziamento della transizione.  
+ 
+4.2.3 Gestione degli impatti negativi per le Gestioni Separate   
+4.2.3.1 Governance 
+L'identificazione e la prioritizzazione degli impatti negativi è parte integrante della strategia di investimento, la 
+cui governance è descritta nel capitolo “Sistema di Governance” 
+4.2.3.2 Metodologia 
+Groupama Assicurazioni non ha ancora definito una metodologia per la mappatura degli impatti negativi utile 
+a misurare e limitare tali impatti nelle proprie decisioni di investimento sui fattori di sostenibilità. 
+Tale metodologia dovrebbe includere i seguenti elementi:  
+• Gravità prevista: mezzi per identificare la gravità dell'impatto negativo, se presente (impatto sul clima, 
+sui diritti umani, ecc.) e per classificare la rispettiva gravità dei diversi impatti. 
+• Probabilità di accadimento: identificazione della probabilità di accadimento in base alla presenza nei 
+portafogli gestiti. 
+• Natura irredimibile e mezzi di controllo a disposizione delle società investite 
+Groupama Assicurazioni approfondirà questi diversi punti per poter stabilizzare una mappa preliminare degli 
+impatti negativi nel medio termine. 
+ 
+4.2.3.3 Fonti Utilizzate per gli indicatori climatici 
+Indicatori calcolati da Iceberg Data Lab per Groupama: 
+• Intensità di carbonio: l'intensità di carbonio è il numero di tonnellate di CO2 necessarie per produrre 
+una determinata quantità di vendite o di PIL (per un Paese). È quindi il rapporto tra l'impronta di 
+carbonio (quantità di carbonio o carbonio equivalente) emessa dal consumo di energia e materie
+=== pagina 24 ===
+24 
+ 
+prime, espressa in tonnellate, e le vendite o il PIL, spesso espressi in M€. La misurazione dell'impronta 
+di carbonio dipende dagli "ambiti" definiti dal Protocollo sui gas serra (GHG) 
+• Il NEC, (Contributo Ambientale Netto ), si basa su una serie di indicatori che dipendono  
+dall'attività dell'azienda. Questi indicatori riguardano cinque aree: clima, biodiversità, rifiuti/risorse, 
+qualità dell'aria e acqua. 
+• Allineamento alla traiettoria dei 2° : utilizzando gli scenari IPCC 18 , Iceberg Data Lab ha 
+sviluppato la metodologia SB2A per valutare l'allineamento dei portafogli azionari e obbligazionari 
+societari alla traiettoria dei 2°. 
+ 
+Altri indicatori di impatto negativo:  
+• Violazione del Global Compact delle Nazioni Unite: utilizzo degli elenchi di paesi forniti dal World Justice 
+Project 
+• Indicatori di impatto negativo per gli asset immobiliari: forniti da società di gestione specializzate  
+• Altri indicatori di impatto negativo (ambientale, sociale, parità di genere, anticorruzione, ecc.): Moody's 
+ESG. 
+ 
+4.2.3.4 Politica di Impegno e Politica di Voto 
+Per Groupama, tale impegno riflette il desiderio di assumersi pienamente la propria responsabilità di detentore 
+di asset a lungo termine. Con il supporto di Groupama Asset Management, il Gruppo intende inoltre rafforzare 
+il dialogo con le aziende sulle questioni ESG. L'impegno è concepito, da un lato, come fonte di creazione di 
+valore e, dall'altro, come mezzo per ridurre il rischio. 
+La politica degli impegni ha tre obiettivi: 
+• Identificare e limitare i rischi ESG nelle società di nostra proprietà 
+• Migliorare la qualità dei dati ESG 
+• Identificare e condividere le migliori pratiche del settore con le società partecipate. 
+Le aree prioritarie su cui indirizzare le azioni di Groupama per limitare gli impatti negativi sono: 
+• Rischi di sostenibilità – Grandi rischi ESG e politica di decarbonizzazione 
+• Transizione energetica e ambientale – Lotta al cambiamento climatico e minimizzare impatto su 
+biodiversità e ambiente 
+• Divario salariale. 
+Questa politica di impegno si traduce in: 
+• Una politica di voto rigorosa, in vigore dal 2001, accompagnata dalla possibilità di discutere con le 
+società i progetti di risoluzione presentati alle Assemblee Generali. 
+• Dialogo diretto e ricorrente con gli emittenti tramite:  
+o Incontri con alti dirigenti di importanti aziende europee 
+o Coinvolgimento con aziende controverse 
+• Partecipazione a iniziative di collaborazione 
+o Condotto dai PRI come parte della piattaforma di coinvolgimento collaborativo 
+o Deposito di risoluzioni esterne 
+ 
+18 L'IPCC, il Gruppo intergovernativo di esperti sul cambiamento climatico, è stato istituito nel 1988 per fornire valutazioni dettagliate dello 
+stato delle conoscenze scientifiche, tecniche e socio -economiche sul cambiamento climatico, le sue cause, i potenziali impatti e le strategie di 
+mitigazione. Nei suoi rapporti di valutazione, l'IPCC propon e scenari (Representative Concentration Pathway) per modellare il futuro 
+riscaldamento globale. https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SPM_brochure_fr.pdf
+=== pagina 25 ===
+25 
+ 
+Groupama Asset Management applica una politica di voto esigente e le votazioni in assemblea generale sono 
+spesso precedute da colloqui con gli emittenti finalizzati a: comprendere meglio le motivazioni e la natura delle 
+proposte di delibera, spiegare la politica di voto. 
+La politica di voto di Groupama Asset Management e la valutazione delle azioni di politica di impegno sono 
+pubblicate sul sito web della società di gestione. 
+Groupama Assicurazioni ha pubblicato sul proprio sito interne t aziendale la sua Politica di Impegno e adotta 
+pienamente la Politica di Voto di Groupama AM perfettamente in linea con l’impegno ESG del Gruppo.  
+ 
+4.2.3.4 Riferimenti agli standard internazionali 
+La gestione dell'impatto negativo di Groupama Asset Management, di cui beneficia Groupama Assicurazioni, 
+fa riferimento a numerose iniziative e convenzioni internazionali: 
+• Nazioni Unite:  
+o Il Gruppo Groupama è firmatario del Global Compact, che propone un quadro di impegno 
+semplice, universale e volontario, basato su dieci principi relativi al rispetto dei diritti umani, 
+delle norme internazionali del lavoro, dell'ambiente e della lotta alla corruzione. 
+o Il Gruppo Groupama è firmatario dei " Principi guida delle Nazioni Unite su imprese e 
+diritti umani". 
+• Organizzazione Internazionale del Lavoro (OIL) : 
+o "Dichiarazione dell'Organizzazione Internazionale del Lavoro sui principi e i diritti fondamentali 
+nel lavoro e il suo seguito", 1998, rivista nel 2010. 
+o "Dichiarazione tripartita dell'Organizzazione In ternazionale del Lavoro sulle imprese 
+multinazionali e la politica sociale", 2017. 
+• OCSE: "Linee guida OCSE per le imprese multinazionali".  
+• Accordo di Parigi: nel dicembre 2015, in occasione della COP21, l'Accordo di Parigi è stato firmato 
+da 195 Paesi, ol tre che dalla Comunità europea. Uno degli obiettivi dell'Accordo di Parigi è la 
+mitigazione: mantenere l'aumento della temperatura globale al di sotto dei 2° entro il 2100 rispetto 
+all'era preindustriale (1890).  
+• Net Zero Asset Owner Alliance: il Gruppo Groupama è firmatario dal 2022. 
+• Scenari IPCC/IEA/TB 
+o L'IPCC, il Gruppo intergovernativo di esperti sul cambiamento climatico, è stato istituito nel 
+1988 per fornire valutazioni dettagliate dello stato delle conoscenze scientifiche, tecniche e 
+socio-economiche sul cambiamento climatico, le sue cause, i potenziali impatti e le strategie 
+di mitigazione. Nei suoi rapporti di valutazione, l'IPCC propone scenari (Representative 
+Concentration Pathway) per modellare il futuro riscaldamento globale. 
+https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SPM_brochure_fr.pdf  
+o Questi scenari sono utilizzati dall'Agenzia Internazionale dell'Energia per determinare, 
+a livello settoriale, i budget di carbonio che non devono essere superati se si vuole raggiungere 
+l'obiettivo internazionale di limitare le temperature a 2°.  
+o L'iniziativa Sciences Based Target (SBTI) sviluppa questi calcoli  del bilancio di carbonio a 
+livello di ogni azienda. 
+ 
+4.2.4 Gestione degli impatti negativi per gli attivi illiquidi 
+4.2.4.1 Governance 
+La governance della strategia di gestione degli asset non quotati in borsa è descritta nel paragrafo “Errore. 
+L'origine riferimento non è stata trovata.”
+=== pagina 26 ===
+26 
+ 
+4.2.4.2 Metodologia 
+Una parte delle Gestioni Separate offerte ai clienti di Groupama Assicurazioni è investito in attivi illiquidi 
+direttamente dall’Ufficio Finanza di Groupama Assicurazioni 
+Tali asset contribuiscono a promuovere impatti positivi sui fattori di sostenibilità, in particolare finanziando le 
+infrastrutture per le energie rinnovabili, le infrastrutture tecnologiche per l'apertura delle regioni, il 
+finanziamento di PMI e Pmi, ecc. 
+Groupama assicura l'allineamento delle società di gestione esterne alla politica di gestione degli impatti negativi 
+attraverso i questionari di due diligence ESG implementati nel 2022 per l'intero Gruppo. 
+4.2.5 Gestione degli impatti negativi per le Unit 
+4.2.5.1 Unit art 6 
+Per questi investimenti, in mandato a Groupama AM, si  verifica che i fondi selezionati (tramite il questionario 
+di due diligence predisposto per le società di gestione esterne) soddisfino almeno i seguenti criteri:  
+• La società di gestione deve avere una politica di esclusione delle armi controverse. 
+• La società di gestione deve avere una politica di esclusione per il carbone termico in linea con quella 
+di Groupama. 
+Il questionario di due diligence include punti di valutazione sulla gestione degli impatti negativi e sull'esclusione 
+degli idrocarburi non convenzionali. 
+ 
+4.2.5.2 Gestione Delegata 
+Nell'ambito del Prodotto Progetto Attivo, Groupama Assicurazioni offre ai propri clienti la possibilità di 
+selezionare l’opzione “Gestione Delegata” la quale investe in fondi esterni che integrano pienamente i criteri 
+ESG nella loro strategia di investimento.  
+Ciò può avvenire sotto forma di fondi con marchio SRI, fondi a impatto, fondi ESG tematici o fondi contenenti 
+Green Bond (finanziamento di progetti verdi). I fondi esterni devono essere di tipo Articolo 8 o Articolo 9 
+secondo il regolamento SFDR e devono tenere conto dei principali impatti negativi (PAI) nel loro processo di 
+gestione (articolo 7 del regolamento SFDR). 
+ 
+4.2.5.3 Unit art 8 
+Groupama Assicurazioni offre ai propri clienti fondi interni classificati come articolo 8, la cui gestione è delegata 
+a Groupama Asset Management. 
+Gli investimenti contenuti all’interno delle Unit devono: 
+• essere gestiti da società di gestione con una politica di esclusione di armi controverse e carbone 
+termico 
+• essere un articolo 8 o 9 ai sensi delle norme SFDR 
+• essere stati sottoposti all'analisi di due diligence ESG 
+ 
+4.2.5.4 Comparti Fondo Pensione Unit art 8 
+I comparti del Fondo Pensione Aperto gestiti da Groupama AM diventeranno, a partire dal 2024, art. 8 e quindi 
+investiti solo in diversi fondi gestiti da Groupama AM, anch'essi art. 8 o 9 secondo la normativa SFDR.  
+Questi fondi applicano la strategia di inv estimento responsabile di Groupama AM, compresa la politica di 
+gestione degli impatti negativi (integrazione degli IAP, politiche di esclusione, analisi ambientale, ecc.) .
+=== pagina 27 ===
+27 
+ 
+5 Politica Retributiva 
+ 
+5.1 Contesto  
+La politica retributiva di Groupama Assicurazioni è redatta in conformità alla normativa vigente nel settore e si 
+riferisce principalmente a: 
+Regolamenti europei 
+• Regolamento delegato (UE) 2015/35 della Commissione del 10 ottobre 2014; 
+• Regolamento delegato (UE) 2017/2359 della Commissione del 21 settembre 2017; 
+• Direttiva europea 2016/2341 (nota come IORP II). 
+Normativa italiana 
+• Regolamento IVASS n. 38/2018, recante disposizioni in materia di sistema di governo societario;  
+• Lettera dell'IVASS al mercato del 5 luglio 2018; 
+• Decreto Legislativo n. 252/2005 come modificato a seguito dell'attuazione del Decreto Legislativo n. 
+147/2018. 
+ 
+Le politiche di remunerazione adottate da Groupama Assicurazioni sono concepite e attuate in conformità alle 
+disposizioni dell'articolo 40 del regolamento IVASS n. 38, il quale prevede che: 
+"1 ... le società adottano politiche retributive in forma scritta, coerenti con una gestione sana e prudente e in 
+linea con gli obiettivi strategici, la redditività e l'equilibrio di lungo periodo della società". 
+"2. ...Le società devono evitare politiche retributive che siano esclusivamente o principalmente basate sui 
+risultati a breve termine e che incoraggino un'eccessiva esposizione al rischio o un'assunzione di ris chio che 
+superi i limiti di tolleranza al rischio stabiliti dall'organo direttivo..." 
+I sistemi retributivi di Groupama Assicurazioni assicurano il rispetto delle disposizioni legali, regolamentari e 
+statutarie, nonché degli eventuali codici etici, e promu ovono l'adozione di comportamenti conformi a tali 
+disposizioni; inoltre, le conseguenze delle violazioni delle norme o dei codici etici sono note al personale.  
+Le politiche retributive di Groupama Assicurazioni si basano sui principi di meritocrazia, equit à interna e 
+competitività esterna, riconoscimento e valorizzazione della professionalità ed equilibrio di lungo periodo. Di 
+conseguenza, la remunerazione riconosciuta prevede un adeguato equilibrio tra le sue componenti fisse e 
+variabili, a seconda del ruo lo svolto all'interno dell'azienda. Inoltre, le componenti fisse e variabili della 
+retribuzione riflettono l'esperienza professionale e le responsabilità organizzative assegnate.  
+Il riconoscimento della componente variabile è subordinato al raggiungimento di obiettivi predeterminati, 
+oggettivi e facilmente misurabili nell'arco di un periodo di tempo, o anche di diversi anni, utilizzando indicatori 
+di performance che tengono conto non solo dei criteri finanziari e dei rischi attuali e futuri, ma anche della 
+diffusione del relativo pagamento. Ove opportuno, vengono presi in considerazione anche criteri non finanziari 
+che contribuiscono alla creazione di valore per l'azienda, come la conformità alle normative esterne e interne 
+e l'efficacia della gestione del s ervizio clienti. Gli obiettivi sono assegnati in base al ruolo svolto e sono 
+adeguatamente bilanciati tra obiettivi individuali, obiettivi aziendali e, se del caso, obiettivi internazionali del 
+Gruppo. 
+In particolare, è previsto un meccanismo per collegare una componente del sistema di remunerazione variabile 
+alla misurazione del margine di solvibilità e del profilo di rischio dell'azienda.
+=== pagina 28 ===
+28 
+ 
+La politica e le pratiche retributive sono stabilite, attuate e mantenute in conformità con la strategia operativa 
+e di gestione del rischio dell'azienda, il profilo di rischio, gli obiettivi, le pratiche di gestione del rischio, gli 
+interessi a lungo termine e la performance dell'azienda nel suo complesso, e includono misure per evitare 
+conflitti di interesse. 
+Le politiche retributive sono soggette all'approvazione dell'Assemblea generale degli azionisti di Groupama 
+Assicurazioni e vengono comunicate a tutti i livelli attraverso la pubblicazione sul portale aziendale.  
+ 
+5.2 Integrazione dei rischi di sostenibilità nella politica retributiva 
+Per Groupama Assicurazioni, in linea con gli obiettivi perseguiti dal il Gruppo Groupama a livello internazionale, 
+gli impegni in materia di sostenibilità ambientale, sociale e di governance (ESG) sono un pilastro delle priorità 
+di sviluppo e di business e sono integrati nella politica retributiva e nei sistemi di incentivazione, con l'obiettivo 
+di creare opportunità di valore sostenibile a lungo termine, mantenendo una forte attenzione e un forte 
+impegno per il benessere dei clienti e delle persone che interagiscono quotidianamente con la compagnia.  
+Groupama si impegna a contribuire allo sviluppo sostenibile, come definito dagli Obiettivi di Sviluppo 
+Sostenibile (SDG), integrando le questioni ESG nel proprio modello di business per sviluppare risposte efficaci 
+e generare valore condiviso con i propri stakeholder. In quest'ottica, la strategia di sviluppo sostenibile è 
+strutturata attorno ai seguenti pilastri: 
+• Impegno per l'ambiente; 
+• Impegno per la salute; 
+• Impegno nel lavoro sociale; 
+• Impegno per un investimento responsabile; 
+• Impegno per la diversità e l'inclusione. 
+La politica retributiva di Groupama Assicurazioni è quindi conforme alle disposizioni del Regolamento UE 
+2088/2019, essendo basata su meccanismi retributivi che rispettano i criteri di sostenibilità, sono trasparenti 
+e coerenti con una sana gestione del rischio, che si concretizza in:  
+• sistemi di governance predeterminati, trasparenti e verificabili con il coinvolgimento delle funzioni di 
+controllo; 
+• l'equilibrio tra retribuzione fissa e variabile, in modo da non indurre comportamenti rischiosi e orientati 
+al breve termine; 
+• un pacchetto retributivo che includa benefit pensati per migliorare il benessere dei dipendenti;  
+• la presenza di criteri di ponderazione del rischio e il legame con risultati reali e sostenibili per il 
+pagamento della componente variabile; 
+• l'assegnazione di obiettivi, anche non finanziari, che contribuiscano alla creazione di valore per 
+l'azienda e che non siano in contraddizione con i principi ESG; 
+• il differimento e il pagamento equilibrato della retribuzione variabile su un periodo pluriennale per le 
+imprese che assumono rischi; 
+• l'introduzione di meccanismi di malus e di recupero.

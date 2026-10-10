@@ -1,0 +1,177 @@
+# Fondo: FONDO PENSIONE APERTO CREDIT AGRICOLE VITA (credit-agricole-vita)
+# Documento: Documento sul regime fiscale – Documento sul Regime Fiscale
+# Fonte: https://www.ca-vita.it/media/filer_public/3d/d0/3dd03a1a-ad30-4841-b267-44128d0c83b4/documento_sul_regime_fiscale.pdf
+# Citato in: https://www.ca-vita.it/fondo-pensione-e-previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 86f184d6615db2e52604488a33ad989f68a50ecf753caadcf59c2ee7774edfcf
+# Pagine: 4
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1/4
+DOCUMENTO SUL REGIME FISCALE
+REGIME FISCALE DEI CONTRIBUTI
+I contributi versati dall’Aderente alle forme pensionistiche complementari di cui al D.lgs. 
+5 dicembre 2005, n. 252, a decorrere dal 1° gennaio 2026 sono deducibili dal reddito 
+complessivo per un ammontare annuo non superiore a Euro 5.300. Se l’Aderente è un 
+lavoratore dipendente, ai fini del predetto limite, si tiene conto anche dei contributi a carico 
+del datore di lavoro.
+Il limite annuo di Euro 5.300 comprende anche i versamenti effettuati alle forme pensionistiche 
+complementari a favore delle persone fiscalmente a carico, per l’importo da esse non 
+dedotto.
+L’Aderente comunica alla forma pensionistica complementare entro il 31 dicembre dell’anno 
+successivo a quello in cui il versamento è effettuato - ovvero, se antecedente, alla data in 
+cui sorge il diritto alla prestazione - gli importi che non sono stati dedotti o non saranno 
+dedotti nella dichiarazione dei redditi. Tali somme verranno escluse dalla base imponibile 
+all’atto dell’erogazione della prestazione finale.
+Il conferimento del TFR alla forma pensionistica complementare non comporta alcun onere 
+fiscale; la somma corrispondente non può, pertanto, beneficiare della deduzione dal reddito 
+imponibile.
+Le somme versate dall’Aderente per reintegrare anticipazioni pregresse concorrono, 
+al pari dei contributi versati, a formare l’importo annuo complessivamente deducibile 
+dal reddito complessivo (nel limite di Euro 5.300). Sui reintegri eccedenti tale limite (non 
+deducibili) è riconosciuto un credito d’imposta pari all’imposta pagata all’atto della fruizione 
+dell’anticipazione, proporzionalmente riferibile all’importo reintegrato (non dedotto).
+Al lavoratore di prima occupazione successiva al 1° gennaio 2007 che nei primi 5 anni 
+di partecipazione alle forme pensionistiche complementari abbia versato contributi di 
+importo inferiore a quello massimo deducibile (Euro 26.500 che rappresenta il plafond 
+teorico di 5 anni), è consentito, nei 20 anni successivi al quinto anno di partecipazione 
+a tali forme, di dedurre dal reddito contributi eccedenti il limite di Euro 5.300, in misura 
+pari complessivamente alla differenza positiva fra Euro 26.500 e i contributi effettivamente 
+versati nei primi 5 anni di partecipazione e, comunque, non superiore a Euro 2.650 in 
+ciascun anno. Resta inteso che, per i lavoratori di prima occupazione che hanno aderito a 
+una forma pensionistica prima del 2026, l’ammontare complessivo dei contributi deducibili 
+ma non versati nei primi 5 anni di partecipazione alla forma verrà calcolato in conformità 
+ai limiti vigenti nei diversi periodi d’imposta (Euro 5.164,57 per gli anni fino al 2025 e in 
+ragione del nuovo limite di Euro 5.300 per gli anni decorrenti dal 2026). Il totale annuo 
+complessivamente deducibile non potrà superare 7.950 €.
+Con la Legge di Bilancio per il 2017 (Legge n. 232/2016 dell’11/12/2016), inoltre, nell’ambito 
+degli interventi di “welfare sostitutivo” è stata introdotta (si veda comma 160 dell’art.1) 
+la facoltà per i lavoratori di sostituire, anche parzialmente, il premio di produttività - nel 
+Allegato alla Nota Informativa
+=== pagina 2 ===
+2/4
+rispetto dei limiti previsti dalla normativa protempore vigente - con un versamento alle forme 
+pensionistiche complementari. La contribuzione, anche se eccedente i limiti di deducibilità 
+stabiliti dal T.U.I.R. rimane esclusa dalla tassazione, sia ordinaria, sia sostitutiva. È inoltre 
+previsto dal Legislatore, quale ulteriore misura di incentivo, che tali contributi non concorrano 
+a formare la parte imponibile delle prestazioni pensionistiche complementari di cui all’art. 
+11, comma 6 del d. lgs. 252/2005. Con la norma in esame pertanto tali versamenti sono resi 
+assolutamente esenti da imposizione fiscale.
+REGIME FISCALE
+Per quanto riguarda le forme pensionistiche individuali attuate mediante contratti di 
+assicurazione sulla vita, il risultato netto, da assoggettare ad imposta sostitutiva dell’20%, 
+si determina sottraendo dal valore attuale della rendita in via di costituzione, calcolato al 
+termine di ciascun anno, ovvero determinato alla data di accesso alla prestazione, diminuito 
+dei versamenti nell’anno ed aumentato delle eventuali anticipazioni, il valore attuale della 
+rendita all’inizio dell’anno.
+L’eventuale risultato negativo è computato in diminuzione del risultato dei periodi d’imposta 
+successivi, per l’intero importo che trova in essi capienza.
+Gli eventuali proventi derivanti dalle obbligazioni e dagli altri titoli di cui all’articolo 31 del 
+DPR 601/1973 ed equiparati e dalle obbligazioni emesse dagli Stati e relativi enti territoriali, 
+inclusi nella lista di cui al decreto emanato ai sensi dell’articolo 168-bis del DPR 917/1986, 
+sono considerati nel predetto risultato netto in base al rapporto tra l’aliquota prevista per la 
+loro tassazione dalle disposizioni vigenti e l’aliquota del 20%.
+A decorrere dal 2015, può essere riconosciuto un credito d’imposta pari al 9 per cento 
+del risultato netto maturato, assoggettato all’imposta, a condizione che un ammontare 
+corrispondente al risultato netto maturato assoggettato alla citata imposta sostitutiva 
+sia investito in attività di carattere finanziario a medio o lungo termine, individuate con 
+decreto del Ministro dell’economia e delle finanze. Il credito d’imposta, che non concorre 
+alla formazione del risultato netto maturato, ai fini della formazione delle prestazioni 
+pensionistiche, incrementa la parte corrispondente ai redditi già assoggettati ad imposta.
+REGIME FISCALE DELLE PRESTAZIONI
+Lo strumento impositivo che viene uniformemente utilizzato per le prestazioni pensionistiche 
+è la ritenuta a titolo definitivo del 15% sull’ammontare imponibile della prestazione maturata 
+a decorrere dal 1° gennaio 2007, sia essa in forma di capitale o di rendita vitalizia, determinata 
+al netto della parte corrispondente ai redditi già assoggettati all’imposta sostitutiva annuale 
+(sopra descritta) in capo alla forma pensionistica complementare e agli importi non dedotti.
+La tassazione delle prestazioni (sia in capitale che in rendita vitalizia) può risultare tuttavia 
+attenuata grazie alla riduzione dell’aliquota del 15% di 0,3 punti percentuali in ragione di ogni 
+anno successivo al quindicesimo di partecipazione a forme pensionistiche complementari, 
+fino a raggiungere un limite massimo di riduzione pari a 6 punti percentuali. Per effetto di 
+tale meccanismo, pertanto, l’aliquota potrà ridursi fino al 9% una volta decorsi 35 anni di 
+partecipazione.
+Nell’ipotesi in cui l’aderente sia iscritto a più forme pensionistiche complementari, 
+l’Agenzia delle Entrate con la Risoluzione n. 29 dell’11 aprile 2025 ha chiarito che, ai fini
+=== pagina 3 ===
+3/4
+della determinazione dell’anzianità utile per la riduzione dell’aliquota di tassazione dal 15% 
+fino al 9% (ai sensi dell’art. 11 del d. lgs. 252/2005), occorre far riferimento all’anzianità 
+maturata in relazione alla posizione, non integralmente riscattata, accesa in data anteriore. 
+I rendimenti finanziari di ciascuna rata di rendita vitalizia erogata sono tassati con imposta 
+sostitutiva del 26%, fatta salva l’eventuale riduzione dell’imponibile in funzione della quota 
+di rendimento derivante da investimenti in titoli di stato ed equiparati. Ovviamente tali 
+rendimenti sono esclusi dalla ritenuta gravante sulla prestazione.
+La quota della prestazione maturata fino al 31 dicembre 2006 resta invece soggetta 
+alla previgente disciplina fiscale di cui al D.lgs. 18 febbraio 2000, n. 47, caratterizzata 
+dall’assoggettamento ad IRPEF dell’ammontare imponibile delle prestazioni, secondo il 
+regime della tassazione separata per le prestazioni in capitale e della tassazione progressiva 
+delle prestazioni in rendita vitalizia.
+Per quanto riguarda in particolare i lavoratori dipendenti assunti antecedentemente al 29 
+aprile 1993 e già iscritti a tale data a una forma pensionistica esistente alla data del 15 
+novembre 1992, essi hanno facoltà di richiedere la liquidazione dell’intera prestazione 
+pensionistica in forma di capitale, ma con applicazione del regime tributario vigente al 31 
+dicembre 2006 anche relativamente al montante accumulato a partire dal 1° gennaio 2007.
+L’art. 1, comma 201, della legge 30 dicembre 2025, n. 199, (Legge di Bilancio 2026) 
+ha apportato rilevanti modifiche all’art. 11 del d. lgs. 252/2005, in tema di prestazioni 
+pensionistiche complementari.
+In particolare, la legge sopracitata ha introdotto tre nuove tipologie di prestazioni quali: i) la 
+rendita a durata definita, ii) i prelievi liberamente determinabili e iii) la erogazione frazionata 
+del montante accumulato.
+Le prestazioni pensionistiche in forma di rendita a durata definita e i prelievi liberamente 
+determinabili sono assoggettati, ai sensi dell’art. 11, comma 6-bis, del d. lgs. 252/2005, 
+al medesimo regime fiscale previsto per le prestazioni pensionistiche erogate in forma di 
+capitale. Pertanto, le prestazioni sono imponibili per il loro ammontare complessivo, al netto 
+della parte corrispondente ai redditi già assoggettati ad imposta, ad una ritenuta a titolo 
+d’imposta del 15%, ridotta nella misura di 0,30 punti percentuali per ogni anno eccedente il 
+quindicesimo anno di partecipazione a forme pensionistiche complementari, con un limite 
+massimo di riduzione pari a 6 punti percentuali.
+La prestazione erogata in forma frazionata (in vigore dal 31 ottobre 2026), al netto della 
+parte corrispondente ai redditi già assoggettati ad imposta, è assoggettata, ai sensi dell’art. 
+11, comma 6-ter, del d. lgs. 252/2005, ad una ritenuta a titolo d’imposta del 20%, ridotta 
+nella misura di 0,25 punti percentuali per ogni anno eccedente il quindicesimo anno di 
+partecipazione a forme pensionistiche complementari, con un limite massimo di riduzione 
+pari a 5 punti percentuali.
+ANTICIPAZIONI, RISCATTI E TRASFERIMENTI
+Le anticipazioni e i riscatti sono in via generale soggetti a tassazione con una ritenuta a 
+titolo d’imposta che viene applicata sul relativo ammontare imponibile nella misura del 
+23%.
+Tuttavia, vi sono alcune eccezioni in relazione alle quali la normativa prevede l’applicazione 
+della ritenuta nella misura del 15% sull’ammontare imponibile maturato a decorrere dal 1° 
+gennaio 2007, eventualmente ridotta di una quota pari a 0,3 punti percentuali per ogni anno 
+eccedente il quindicesimo anno di partecipazione, con un limite massimo di riduzione pari 
+a 6 punti percentuali:
+=== pagina 4 ===
+4/4
+• anticipazioni richieste dall’Aderente per spese sanitarie straordinarie per sé, il coniuge e i 
+figli;
+• riscatti parziali determinati dalla cessazione dell’attività lavorativa che comporti 
+l’inoccupazione per un periodo di tempo compreso fra 1 e 4 anni o dal ricorso del datore 
+di lavoro a procedure di mobilità o cassa integrazione;
+• riscatti totali nei casi di invalidità permanente che riduca a meno di un terzo la capacità 
+lavorativa o di cessazione dell’attività lavorativa che comporti l’inoccupazione per oltre 4 
+anni;
+• riscatto della posizione operato dagli eredi, o dai diversi beneficiari designati, a causa 
+della morte dell’Aderente;
+•  riscatto del montante residuo a causa della morte del beneficiario di una delle prestazioni 
+di cui al comma 3-bis dell’art. 11 del d. lgs. 252/2005,
+Il riscatto per la quota della prestazione maturata fino al 31 dicembre 2006 può essere 
+assoggettato a tassazione progressiva in funzione delle motivazioni per le quali è esercitato.
+I trasferimenti delle posizioni pensionistiche sono esenti da ogni onere fiscale purché 
+effettuati a favore di altre forme pensionistiche complementari.
+RENDITA INTEGRATIVA TEMPORANEA ANTICIPATA 
+(RITA)
+Le prestazioni sotto forma di “Rendita Integrativa Temporanea Anticipata” sono assoggettate 
+alla ritenuta a titolo d’imposta, con aliquota 15% ridotta di una quota pari a 0,30% per 
+ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche 
+complementari e con un limite massimo di riduzione del 6%. Qualora la data di iscrizione 
+previdenza complementare sia anteriore al 1º gennaio 2007, gli anni di iscrizione anteriori al 
+2007 sono computati fino a un massimo di quindici.
+Il percettore della rendita anticipata ha facoltà di non avvalersi della tassazione sostitutiva, 
+facendolo constare espressamente nella dichiarazione dei redditi; in tal caso la rendita 
+anticipata è assoggettata a tassazione ordinaria.
+Le somme erogate a titolo di RITA sono imputate, ai fini della determinazione del relativo 
+imponibile, prioritariamente agli importi della prestazione medesima maturati fino al 
+31dicembre 2000 e, per la parte eccedente, prima a quelli maturati dal 1º gennaio 2001 al 
+31 dicembre 2006 e successivamente a quelli maturati dal 1º gennaio 2007.
+Edizione luglio 2026

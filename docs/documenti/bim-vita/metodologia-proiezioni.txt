@@ -1,0 +1,49 @@
+# Fondo: FONDO PENSIONE APERTO BIM VITA (bim-vita)
+# Documento: Metodologia delle proiezioni – Metodologia prestazioni pensionistiche
+# Fonte: https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/mpp-fpa-bv-2026-07.pdf
+# Citato in: https://www.unipol.it/fragments/dialogs/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: aa3f619055c9ac0be4f2382e69ad17d70678588217e96c5d8d6cc30957dd3b66
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+INFORMAZIONI SULLA METODOLOGIA UTILIZZATA PER L’ELABORAZIONE DELLE PRESTAZIONI 
+PENSIONISTICHE (basate sulle istruzioni della COVIP di cui alla Deliberazione del 22-12-2020)  
+ 
+La metodologia di calcolo  
+- dell’importo della prestazione attesa al momento del pensionamento 
+- del valore della rendita corrispondente alla posizione individuale maturata 
+si basa sulle seguenti ipotesi stabilite dalla Covip: 
+• tasso annuo atteso di crescita della contribuzione pari all'1,00% reale costante1; 
+• tasso annuo atteso di inflazione pari al 2% annuo costante; 
+• tasso annuo atteso di rendimento della gestione: il tasso con cui viene rivalutata 
+annualmente la posizione individuale, è calcolato in base alle percentuali di investimenti 
+azionari e obbligazionari di ciascun profilo di investimento, sulla base dei segue nti 
+rendimenti espressi in termini reali e al lordo dei costi e della tassazione 
+o Rendimento Obbligazionario 2,00% 
+o Rendimento Azionario 4,00% 
+• il calcolo della 1° rata di rendita è effettuato applicando i coefficienti di trasformazione 
+determinati in base alle ipotesi sotto riportate, in relazione a: 
+o basi demografiche: tavola di mortalità A62I (differenziata o meno per sesso a 
+seconda della tipologia di adesione, collettiva o individuale); 
+o basi finanziarie: tasso tecnico 0,00%; 
+o costo relativo alla trasformazione della posizione individuale in rendita: 0,90%. 
+La rendita esposta è vitalizia su una sola testa e pagabile a rate annuali posticipate. 
+ 
+Nel caso delle proiezioni pensionistiche standardizzate  Covip fissa l’età anagrafica al momento 
+dell’adesione (30 e 40 anni), il contributo annuo (2.500,00 € e 5.000,00 €) e l’età di 
+pensionamento (67 anni). 
+ 
+Per quanto riguarda le proiezioni pensionistiche personalizzate mediante l’utilizzo del motore di 
+calcolo, l’aderente deve invece inserire i propri dati anagrafici (età e sesso), la misura della 
+contribuzione, la linea di investimento e l’età prevista per il pensionamento tra quelle disponibili 
+e può modificare il tasso annuo atteso di crescita della c ontribuzione inserendo una misura non 
+superiore al 3,00% reale costante. 
+ 
+Nel caso delle proiezioni pensionistiche personalizzate  nell’ambito del “Prospetto delle 
+prestazioni pensionistiche –  fase di accumulo” l’elaborazione si basa su i dati effettivi 
+dell’aderente. 
+ 
+1 Valore di default eventualmente modificabile in sede di progetto personalizzato  come indicato. 
+Mod. MPP_FPA_BV Edizione 07/2026

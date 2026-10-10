@@ -1,0 +1,2422 @@
+# Fondo: ALMEGLIO - FONDO PENSIONE APERTO ALLEANZA A CONTRIBUZIONE DEFINITA (almeglio-alleanza)
+# Documento: Rendiconto – Rendiconto
+# Fonte: https://cdn.alleanza.it/-/media/alleanza/assets/documenti/rendiconto-almeglio.pdf?la=it-it&rev=5272e4de0ed74b80aee677db869df2e2&hash=166966577D5CB024CFC1EAE724620858
+# Citato in: https://www.alleanza.it/previdenza-complementare/almeglio/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: e2587102558bcd9725a85c3b143aff511aaac2a32e4b043d9c3aca4b5f790cfd
+# Pagine: 67
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+ALMEGLIO - FONDO PENSIONE APERTO ALLEANZA A CONTRIBUZIONE DEFINITA 
+ 
+Iscritto all’Albo tenuto dalla Commissione di Vigilanza sui Fondi Pensione con il n. 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RENDICONTO AL 31 DICEMBRE 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+AlMeglio è un prodotto di Alleanza Assicurazioni S.p.a. 
+P.zza Tre Torri, 1 – 20145 Milano (MI)
+=== pagina 2 ===
+2
+=== pagina 3 ===
+3 
+CONSIGLIO DI AMMINISTRAZIONE 
+ 
+Presidente      Andrea Mencattini 
+ 
+Amministratore Delegato e Direttore Generale Davide Angelo Passero 
+ 
+Consigliere Cristina RUSTIGNOLI 
+Consigliere Barbara LUCINI 
+Consigliere Marco ODDONE 
+Consigliere Andrea RAGAINI 
+Amministratore indipendente Raffaele CUSMAI 
+Amministratore indipendente Silvia ARLANCH   
+COLLEGIO SINDACALE 
+ 
+Presidente Massimo CREMONA 
+Sindaci effettivi Maria Maddalena GNUDI 
+ Stefano GROPAIZ 
+ 
+Sindaci supplenti Valentina DORIS 
+ Marco GUERRIERI 
+ 
+Segretario del Consiglio Flavia ARTIGIANI 
+Banca Depositaria 
+ 
+State Street Bank GmbH- Succursale Italia, con sede in Milano, Via Ferrante Aporti 10 -  20125. 
+Società di Revisione 
+ 
+KPMG S.p.A. con sede in Via Giovanni Battista Pirelli 38, 20124 Milano – Italy 
+ 
+Responsabile del Fondo 
+Attilio Cupido 
+ 
+ 
+ 
+ 
+ 
+AlMeglio – Fondo Pensione Aperto Alleanza Assicurazioni a Contribuzione Definita 
+Piazza Tre Torri, 1 – 20145 Milano (MI) 
+Iscritto al n. 6 dell'Albo istituito ai sensi dell'art. 19, D.Lgs. n. 252/05
+=== pagina 4 ===
+4
+=== pagina 5 ===
+5 
+Indice   
+ 
+Relazione sulla Gestione        pag.   7 
+ 
+ 
+1 - Nota Integrativa    pag.  15 
+                                                    
+ 
+RENDICONTO DELLA FASE DI ACCUMULO DEI COMPARTI 
+ 
+ 
+1 Comparto AlMeglio Obbligazionario                                                                                                                                                           
+ 
+1.1    - Stato Patrimoniale        pag. 21 
+1.2    - Conto Economico        pag. 22 
+1.3    - Nota Integrativa        pag. 23 
+1.3.1 - Informazioni sullo Stato Patrimoniale     pag. 23 
+1.3.2 - Informazioni sul Conto Economico     pag. 30 
+ 
+2 Comparto AlMeglio Bilanciato 
+ 
+2.1    - Stato Patrimoniale        pag. 33 
+2.2    - Conto Economico        pag. 34 
+2.3    - Nota Integrativa pag. 35 
+2.3.1 - Informazioni sullo Stato Patrimoniale pag. 35 
+2.3.2 - Informazioni sul Conto Economico pag. 43 
+ 
+3 Comparto AlMeglio Azionario 
+ 
+3.1    - Stato Patrimoniale pag. 46 
+3.2    - Conto Economico pag. 47 
+3.3    - Nota Integrativa pag. 48 
+3.3.1 - Informazioni sullo Stato Patrimoniale pag. 48 
+3.3.2 - Informazioni sul Conto Economico     pag. 56
+=== pagina 6 ===
+6
+=== pagina 7 ===
+7 
+Relazione sulla gestione 
+ 
+Signori Aderenti,  
+l’esercizio chiusosi al 31 dicembre 2025 è il ventiseiesimo da quando il Fondo Pensione AlMeglio 
+ha iniziato la propria attività, in quanto la prima adesione è avvenuta l’11 febbraio 1999. 
+In questo esercizio il Fondo ha chiuso con un totale Iscritti pari a 7.713 (8.227 al 31 dicembre 2024). 
+Le adesioni hanno dato origine a contributi per un importo di € 6.332.274 (€ 6.494.657 nel 2024), 
+trasferimenti da altri fondi per € 4.694 (€ 51.607 nel 2024), chiudendo l’esercizio con un attivo netto 
+destinato alle prestazioni pari a € 131.137.651 (€ 129.655.525 nel 2024). 
+A partire dal 31 marzo 2015 il Fondo è chiuso a nuove contribuzioni. 
+Al 31 dicembre 2025 il patrimonio netto del Fondo Pensione era il seguente: 
+ 
+Linea di Investimento 31.12.2025 31.12.2024 
+ALMEGLIO Obbligazionario 14.387.313 14.977.016 
+ALMEGLIO Bilanciato 68.450.061 68.873.636 
+ALMEGLIO Azionario 48.300.277 45.804.873 
+TOTALE PATRIMONIO NETTO 131.137.651 129.655.525 
+ 
+Le politiche di gestione seguite dai comparti di investimento sopra citati riflettono i vincoli derivanti 
+dall’esiguità dei capitali e dal diverso grado di rischio. 
+ 
+Evoluzione prevedibile della gestione 
+Nel complesso, le prospettive globali per il 2026 sono caratterizzate da una crescita contenuta 
+ma resiliente, un lento calo dell’inflazione e un atteggiamento prudente da parte delle banche 
+centrali. Restano diversi rischi, tra cui in primis possibili correzioni sui mercati concentrate soprat-
+tutto nei segmenti azionari legati all’IA ma anche generate da una possibile recrudescenza delle 
+tensioni commerciali o pressioni geopolitiche. Inoltre, le tensioni sui bond  e l’interventismo statale 
+in genere (“Fiscal dominance”), in presenza di elevati debiti governativi e di attacchi all’indipen-
+denza delle politiche monetarie, potrebbero portare a vendite sui bond, specie statunitensi. Allo 
+stesso tempo, rapidi aumenti della produttività derivanti dalla diffusione dell’intelligenza artificiale 
+rappresentano un potenziale fattore positivo per le traiettorie di crescita e per l’inflazione nel medio 
+termine. 
+Nel complesso, i mercati obbligazionari nel 2025 sono stati guidati dalle frizioni commerciali e 
+geopolitiche, dal deterioramento delle sostenibilità fiscale in alcuni Paesi e dalle attese sulle poli-
+tiche monetarie. Dopo un secondo trimestre altamente volatile a causa dell’imposizione di tariffe 
+da parte degli USA, i mercati obbligazionari internazionali si sono stabilizzati nel terzo trimestre. I 
+rendimenti dei Treasury a 10 anni sono scesi nell’anno dal 4.57 al 4.16%. Il mercato obbligazio-
+nario europeo è stato caratterizzato inizialmente da volatilità elevata, con impennate dei rendi-
+menti in risposta a shock provenienti dai Treasury USA, alle tensioni fiscali tedesche e alla crisi 
+politica francese. Verso fine anno i rendimenti governativi europei si sono stabilizzati e la volatilità
+=== pagina 8 ===
+8 
+è scesa. Gli spread tra “core” e “periferici” si sono ristretti significativamente — il differenziale 
+Bund/BTP decennale è sceso da circa 117 a 66 punti base — riflettendo fondamentali più solidi 
+nei paesi periferici e minore incertezza sul fronte inflazionistico e di gestione del deficit.  
+Nel 2026 i mercati obbligazionari saranno influenzati soprattutto dal rischio di “fiscal dominance”, 
+cioè dalla pressione dei grandi disavanzi pubblici sulle politiche monetarie. Negli Stati Uniti, il 
+cambio di guida alla Fed, previsto per maggio, aumenta il rischio che i mercati percepiscano una 
+minore indipendenza della banca centrale: anche per questo i premi a termine restano elevati e i 
+rendimenti dei Treasury mostrano rischi al rialzo nel breve periodo, pur rimanendo complessiva-
+mente in un intervallo sufficientemente ristretto. Nell’area euro, gli analisti prevedono un moderato 
+aumento dei rendimenti, favorito dal forte aumento dell’offerta di titoli e dallo stimolo fiscale tede-
+sco. I rendimenti dovrebbero rimanere comunque in un range contenuto, con una volatilità in calo.  
+Pesa l’incognita Giappone dopo che la premier giapponese Takaichi ha indetto elezioni anticipate 
+per l’8 febbraio. Le preoccupazioni per l’aumento del disavanzo fiscale, in caso di un marcato 
+rafforzamento del partito di governo LDP, hanno prolungato la fase di vendite sui JGB, spingendo 
+temporaneamente i rendimenti dei titoli a 40 anni oltre il 4% per la prima volta. 
+Nel 2025 il mercato azionario USA ha registrato una performance molto robusta, con l’S&P 500 in 
+crescita del 18%, sostenuto dal settore tecnologico, dai tagli dei tassi Fed e da utili aziendali resi-
+lienti, nonostante forti oscillazioni legate ai dazi e ai dati macro ritardati. Parallelamente, l’azionario 
+degli emerging market e quello europeo hanno sovraperformato: l’indice MSCI EM ha realizzato 
+un +34%, l’Euro Stoxx ha chiuso l’anno al +22% e ha registrato nel quarto trimestre rialzi significativi 
+(+5,1%), favoriti dal calo dell’inflazione, un contesto monetario globale accomodante, valutazioni 
+inferiori e tenuta dei leading indicator delle rispettive economie.  
+Nel 2026 il mercato azionario mantiene un’impostazione costruttiva, nonostante alcune preoccu-
+pazioni sulle valutazioni del settore tecnologico dovute alle forti aspettative sui profitti legati all’in-
+telligenza artificiale. Le valutazioni di mercato possono sembrare elevate, soprattutto negli Stati 
+Uniti, ma risultano più sostenibili se rapportate alla forte crescita degli utili e alle condizioni finan-
+ziarie ancora di conforto: l’accelerazione del PIL nominale e dei profitti societari negli ultimi anni ha 
+rafforzato la redditività delle aziende, in particolare quella delle grandi società, soprattutto tecnolo-
+giche. L’enorme ondata di investimenti in tecnologia dovrebbe generare un significativo incremento 
+della produttività nei prossimi 5–10 anni, con effetti positivi sia sull’inflazione sia sui margini azien-
+dali. La diffusione dell’IA verso settori più tradizionali – come industriali, servizi finanziari, biotecno-
+logie e retail – dovrebbe contribuire a un ampliamento dei benefici in termini di utili, in diversi paesi 
+e settori, sostenendo il mercato mondiale nel suo complesso. A livello microeconomico, rimangono 
+rischi legati all’aumento della concorrenza mondiale nel settore tech, che potrebbe comprimere i 
+margini e rendere la performance più eterogenea all’interno del settore. 
+ 
+ COMPARTO “ALMEGLIO OBBLIGAZIONARIO” 
+Nei primi mesi dell’anno, il mercato dei tassi ha riprezzato al rialzo i rendimenti lungo la curva, alla 
+luce della resilienza dell’economia americana e dei dati di inflazione più elevati rispetto alle aspet-
+tative che hanno portato i mercati a rivedere più cautamente le attese di politica monetaria e di 
+taglio dei tassi. L’Europa, benché in uno scenario macroeconomico divergente e con una tendenza 
+disinflazionistica intatta, è stata trainata dal movimento americano. 
+Nel corso dei primi giorni dell’anno la duration è stata marginalmente ridotta e allineata al bench-
+mark di riferimento, preferendo le scadenze intermedie rispetto a quelle più lunghe. A partire da 
+febbraio, è stata incrementata l’esposizione ai titoli canadesi e ai Gilts britannici, preferiti ai titoli
+=== pagina 9 ===
+9 
+Treasury americani. La duration, incrementata progressivamente in questa fase alla luce di una 
+prospettiva costruttiva sull’asset class, è stata gestita tatticamente nel periodo, approfittando dei 
+movimenti al rialzo dei tassi e di livelli considerati attraenti per incrementare l’esposizione, in parti-
+colare sulle curve europee, preferite rispetto ai titoli americani su cui è stato mantenuto in questa 
+fase un posizionamento neutrale vista la maggiore resilienza dell’economia americana. 
+Nel corso della seconda parte dell’anno, il mercato dei tassi europei si è mosso al ribasso nel terzo 
+trimestre, influenzato da diversi fattori, tra cui in particolare la debolezza degli indicatori economici 
+da un lato e dall’altro i livelli di inflazione realizzata che hanno continuato a scendere; nella parte 
+finale dell’anno i tassi hanno invece nuovamente ripreso a salire influenzati dall’esito delle elezioni 
+presidenziali americane. In questo contesto, è stata mantenuta una duration marginalmente più 
+elevata rispetto al benchmark di riferimento. In termini di allocazione geografica si è continuato a 
+sottopesare il Giappone, è stato mantenuto un posizionamento neutrale sui titoli americani mentre 
+sono stati sovrappesati i titoli dei paesi europei, considerando uno scenario macroeconomico eu-
+ropeo più debole rispetto a quello statunitense. In particolare, sono stati sovrappesati i titoli dei 
+paesi periferici rispetto a quelli dei paesi core dove sono stati sottopesati in particolare i titoli fran-
+cesi alla luce della debolezza del quadro politico e fiscale. In termini di esposizione lungo le curve, 
+è stato mantenuto un sovrappeso nella parte centrale, che è stata preferita rispetto alle scadenze 
+più lunghe. 
+Si riporta di seguito il rendimento del comparto e del benchmark di riferimento: 
+ 
+ 2024 2025 
+Rendimento del comparto -0,66% 0,27% 
+Benchmark di riferimento -0,13% 1,50%
+=== pagina 10 ===
+10 
+COMPARTO “ALMEGLIO BILANCIATO” 
+Nel corso dell’anno, i mercati finanziari hanno evidenziato un andamento complessivamente favo-
+revole, sostenuto da una crescita economica globale resiliente, dal persistente interesse per le 
+opportunità legate allo sviluppo dell’intelligenza artificiale e dal proseguimento dell’orientamento 
+espansivo delle principali banche centrali. In tale contesto, i mercati azionari hanno registrato per-
+formance particolarmente positive. Nella fase iniziale abbiamo mantenuto un’impostazione costrut-
+tiva, successivamente riportata su livelli più neutrali in relazione all’aumento della volatilità indotto 
+dalle misure tariffarie. Con il progressivo miglioramento del quadro di mercato, la posizione è stata 
+mantenuta stabile fino al terzo trimestre, per poi essere incrementata nel mese di ottobre, condu-
+cendo il portafoglio verso un moderato sovrappeso fino a fine anno. La preferenza è ricaduta prin-
+cipalmente sui mercati statunitensi ed europei, mentre l’esposizione alle altre regioni, inclusa quella 
+giapponese, è rimasta più contenuta. A livello settoriale è stata confermata una sovra‑allocazione 
+al comparto bancario europeo, in particolare italiano e spagnolo, oltre a un posizionamento favo-
+revole sui metalli preziosi. Nel mese di dicembre sono state parzialmente realizzate le plusvalenze 
+dal settore della difesa, riallocando verso il comparto building & construction. 
+Sul segmento obbligazionario, i primi mesi dell’anno sono stati caratterizzati da un elevato grado 
+di volatilità lungo le curve dei rendimenti, in un contesto influenzato dalle politiche della nuova 
+amministrazione statunitense e dai programmi europei di stimolo fiscale e riarmo. Abbiamo man-
+tenuto un orientamento costruttivo verso le curve europee, preferite rispetto ai Treasury statuni-
+tensi, su cui la posizione è rimasta neutrale, e ai titoli giapponesi, sui quali è stato mantenuto un 
+sottopeso. La duration del portafoglio si è collocata mediamente al di sopra di quella del bench-
+mark, con preferenza per le scadenze intermedie e per i titoli periferici. Nella seconda metà 
+dell’anno, a seguito della fase laterale delle curve europee e della temporanea sospensione dei 
+tagli dei tassi da parte della BCE, la duration è stata gradualmente riportata verso livelli allineati al 
+benchmark. È stato mantenuto un lieve sovrappeso sui titoli governativi europei, in particolare su 
+quelli italiani e spagnoli, mentre l’esposizione ai Treasury statunitensi è rimasta invariata su livelli 
+neutrali. 
+ 
+ 2024 2025 
+Rendimento del comparto 4,81% 5,28% 
+Benchmark di riferimento 5,99% 6,14%
+=== pagina 11 ===
+11 
+COMPARTO “ALMEGLIO AZIONARIO” 
+La maggior parte degli asset finanziari ha registrato una performance soddisfacente nel 2025: in 
+particolare i listini azionari globali hanno avuto ritorni a doppia cifra. Ciò è stato determinato dalla 
+continua crescita globale, dal costante ottimismo sul potenziale dell'intelligenza artificiale e da ul-
+teriori tagli dei tassi da parte delle banche centrali.  
+Nella parte iniziale dell’anno, il portafoglio ha mantenuto una visione cautamente positiva sull'asset 
+class azionaria, alla luce di valutazioni che già prezzavano in larga misura le notizie negative sulla 
+regione europea, sui dazi e sullo stato di salute dell'economia. Considerando il forte aumento della 
+volatilità dopo l’effettiva applicazione delle tariffe commerciali e il parziale recupero successivo, in 
+aprile la view sull’asset class è stata leggermente ridotta, passando da un posizionamento più co-
+struttivo ad uno più neutrale. Nel secondo trimestre i principali listini azionari hanno proseguito il 
+trend di recupero, tornando a trattare a valutazioni non particolarmente interessanti, soprattutto gli 
+Stati Uniti, chiudendo il semestre vicino ai massimi dell’anno. Il posizionamento sulla componente 
+azionaria è rimasto neutrale fino al termine del terzo trimestre. In ottobre l’esposizione azionaria 
+del portafoglio è stata incrementata, portando la posizione a moderatamente sovrappesata e con-
+fermandola per la restante parte dell’anno.  
+Nell’ultimo trimestre sono stati privilegiati i titoli statunitensi ed europei: negli USA, pur con multipli 
+elevati, si è ritenuto che le aziende possano preservare margini interessanti anche nel prossimo 
+anno; in Europa si attendono benefici significativi derivanti dall’impulso fiscale tedesco. E’ stato 
+preferito infine un orientamento più neutrale sulle altre regioni, in particolare Giappone. Da una 
+prospettiva settoriale, è stato mantenuto una sovra-allocazione al settore bancario, prevalente-
+mente europeo, con una preferenza su Italia e Spagna. Tale scelta è motivata dal fatto che, nono-
+stante le buone performance registrate dall’inizio dell’anno corrente, le valutazioni rimangono an-
+cora interessanti. Inoltre, il margine di interesse (in particolare per gl i istituti italiani e spagnoli) 
+potrebbe tornare a crescere nel primo trimestre 2026. A ciò si aggiunge una distribuzione di cassa, 
+tramite dividendi e programmi di riacquisto di azioni proprie, che continua a collocarsi tra le più 
+generose del mercato. Un posizionamento costruttivo è stato mantenuto anche ai titoli legati ai 
+metalli preziosi, principalmente oro e argento. Alla luce delle evoluzioni geopolitiche avvenute nel 
+mese di dicembre, abbiamo infine preso parziale profitto dal settore della difesa, reinvestendo in 
+quello del building&construction. Si riporta di seguito il rendimento del comparto e del benchmark 
+di riferimento: 
+ 
+ 2024 2025 
+Rendimento del comparto 10,43% 10,44% 
+Benchmark di riferimento 12,39% 10,87% 
+ 
+Valutazione dell’andamento della gestione previdenziale  
+La gestione previdenziale nel corso dell’esercizio ha chiuso con un saldo negativo pari a              
+€ -6.623.584:
+=== pagina 12 ===
+12 
+COMPARTO OBBLIGAZIONARIO BILANCIATO AZIONARIO TOTALE 
+Contributi per le prestazioni di cui: 1.254.011 3.357.867 1.720.396 6.332.274 
+-trasferimenti in ingresso da altri fondi 4.560 - 134 4.694 
+-trasferimenti in ingresso per cambio 
+comparto 582.042 114.314 1.990 698.346 
+Anticipazioni  -200.053 -751.451 -557.767 -1.509.271 
+Trasferimenti e Riscatti  -1.259.880 -4.309.715 -2.604.535 -8.174.130 
+Trasformazioni in rendita                     - -57.365 -179.489 -236.854 
+Erogazioni in forma di capitale  -421.259 -2.138.145 -475.850 -3.035.254 
+Premi - - - - 
+Prestazioni periodiche                              - - - - 
+Altre uscite previdenziali                          -41 -534 -205 -780 
+Altre entrate previdenziali  - 117 314 431 
+SALDO GESTIONE PREVIDENZIALE -627.222 -3.899.226 -2.097.136 -6.623.584 
+ 
+Valutazione dell’andamento della gestione amministrativa 
+Si fornisce la seguente tabella che rappresenta il patrimonio netto del Fondo suddiviso per com-
+parto alla conclusione dell’esercizio, ponendo in evidenza il saldo della gestione previdenziale con-
+fluito nei differenti comparti, nonché gli oneri derivanti dalla gestione:  
+ 
+COMPARTO 
+ 
+SALDO DELLA GE-
+STIONE PREVIDENZIALE  
+ONERI DI GESTIONE 
+ 
+ATTIVO NETTO  
+DESTINATO ALLE PRE-
+STAZIONI 
+OBBLIGAZIONARIO         -627.222 -178.046 14.387.313 
+BILANCIATO               -3.899.226 -1.083.148 68.450.061 
+AZIONARIO                -2.097.136 -911.301 48.300.277 
+TOTALE -6.623.584 -2.172.495 131.137.651
+=== pagina 13 ===
+13 
+Informazioni qualitative e quantitative circa le operazioni effettuate in con-
+flitto di interesse  
+Non sono state effettuate operazioni in conflitto di interesse nel corso dell’esercizio.  
+ 
+Fatti di rilievo avvenuti dopo la chiusura dell’esercizio 
+Nel mese di gennaio 2026 i Consigli di Amministrazione di Alleanza Assicurazioni e Generali 
+Italia hanno deliberato il trasferimento da Alleanza Assicurazioni in favore di Generali Italia 
+del Fondo  Pensione Aperto e tutti i contratti, con i sottesi rapporti giuridici  in essere alla data 
+di efficacia dell’operazione e tutte le poste patrimoniali attive e passive afferenti alle posizioni 
+di cui sopra. L’operazione è previsto consegua efficacia in data 1° gennaio 2027, a seguito 
+delle autorizzazioni da parte delle Autorit à di Vigilanza coinvolte.  
+Con riferimento ai conflitti in Ucraina e Medio Oriente, si continuerà a monitorarne l’evoluzione 
+complessiva al fine di valutare i potenziali impatti nei segmenti di business , continuando a porre 
+in atto tutte le possibili misure di mitigazione dei rischi.  
+ 
+A conclusione di questa relazione, desideriamo ringraziare tutti gli Aderenti che, riponendo la loro 
+fiducia su Alleanza Assicurazioni S.p.A., vogliono assicurarsi più elevati livelli di copertura previ-
+denziale, mediante l’erogazione di trattamenti pensionistici complementari del sistema obbligatorio 
+pubblico.  
+ 
+ 
+ 
+Milano, 02 Aprile 2026  
+ 
+ 
+ Il Responsabile Per il Consiglio di Amministrazione 
+ del Fondo Pensione Aperto di Alleanza Assicurazioni S.p.A. 
+ “ALMEGLIO” L’Amministratore Delegato e Direttore Generale 
+ 
+ Attilio Cupido Davide Angelo PASSERO
+=== pagina 14 ===
+14
+=== pagina 15 ===
+15 
+NOTA INTEGRATIVA ALLO STATO PATRIMONIALE ED AL 
+CONTO ECONOMICO DELL’ESERCIZIO CHIUSO AL                   31 
+DICEMBRE 2025 
+INFORMAZIONI GENERALI 
+Premessa 
+Il presente rendiconto, redatto in osservanza al principio di chiarezza, rappresenta in modo veri-
+tiero e corretto la situazione patrimoniale e finanziaria e l’andamento dell’esercizio del Fondo, ed 
+è composto, in osservanza alle direttive impartite dalla Commissione di Vigilanza sui Fondi Pen-
+sione (COVIP) in tema di contabilità e bilancio dei fondi pensione tenuto inoltre conto dei principi 
+contabili di riferimento emanati dagli ordini professionali, dai seguenti documenti: 
+1)   Stato Patrimoniale 
+2)   Conto Economico 
+3) Nota integrativa 
+Il presente bilancio è redatto in unità di Euro. 
+I dati esposti nel Rendiconto sono comparabili con quelli dell’esercizio precedente. I criteri di pre-
+disposizione del Rendiconto sono stati applicati nel presupposto della continuità di funzionamento 
+del Fondo e non vi sono incertezze che generino dubbi nel periodo successivo di 12 mesi. 
+ 
+Caratteristiche strutturali 
+“ALMEGLIO - Fondo pensione aperto Alleanza a contribuzione definita” è stato istituito, ai sensi 
+del Decreto Legislativo 5 dicembre 2005, n. 252, al fine di assicurare più elevati livelli di copertura 
+previdenziale, secondo criteri di corrispettività ed in base al principio della capitalizzazione, me-
+diante l’erogazione di trattamenti pensionistici complementari del sistema obbligatorio pubblico.  
+Il Fondo opera in regime di contribuzione definita. 
+Alleanza Assicurazioni S.p.A., quale risultante dallo scorporo di Alleanza Toro S.p.A., esercita l’at-
+tività di gestione del Fondo con effetto dal 31 dicembre 2013. L’attività relativa al Fondo è svolta in 
+Milano presso la sede della Compagnia.  
+Il Fondo è stato istituito da Alleanza Assicurazioni S.p.A. con autorizzazione rilasciata dalla COVIP, 
+d’intesa con l’Isvap (ora Ivass), con provvedimento del 16 ottobre 1998; con il medesimo provve-
+dimento la COVIP ha approvato il Regolamento del Fondo. 
+L’adesione al Fondo è volontaria ed è consentita in forma individuale. È altresì consentita, su base 
+collettiva, ai soggetti destinatari delle forme pensionistiche complementari individuati all’Art. 2, 
+comma 1, del Decreto legislativo 5 Dicembre 2005, n. 252, nei cui confronti trovino applicazione i 
+contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo. 
+Il soggetto gestore investe le risorse del Fondo in strumenti finanziari secondo le tre diverse linee 
+di investimento previste dal Regolamento del Fondo denominate Obbligazionario, Bilanciato e 
+Azionario. Il soggetto gestore, ferma restando la propria responsabilità, può altresì conferire speci-
+fici incarichi di gestione a SIM, imprese assicurative, società di gestione del risparmio e imprese di 
+investimento comunitarie. Le caratteristiche essenziali delle singole linee di investimento sono de-
+scritte di seguito.
+=== pagina 16 ===
+16 
+ 
+Comparto “AL MEGLIO OBBLIGAZIONARIO” 
+È un comparto con garanzia che investe prevalentemente in titoli obbligazionari in misura non in-
+feriore all’80% del patrimonio ed è caratterizzato da un profilo di rischio medio-basso; resta comun-
+que ferma la facoltà di detenere una parte del patrimonio in disponibilità liquide.  
+L’importo minimo garantito è pari alla somma, maggiorata del 2,50% su base annua per chi ha 
+aderito fino al 30 luglio 2014, del 2,25% su base annua per chi ha aderito dal 31 luglio 2014, dei 
+contributi netti versati al comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro 
+comparto o da altra forma pensionistica e i versamenti effettuati per il reintegro delle anticipazioni 
+percepite, ridotto da eventuali riscatti parziali e anticipazioni. 
+Tale garanzia opera esclusivamente nei casi di esercizio del diritto alle prestazioni pensionistiche 
+complementari, riscatto per decesso, riscatto per invalidità permanente che comporti la riduzione 
+della capacità di lavoro a meno di un terzo e riscatto per inoccupazione per un periodo superiore a 
+48 mesi. 
+La gestione è improntata ad una diversificazione geografica degli investimenti, attenta a cogliere 
+le opportunità sui singoli mercati privilegiando le principali aree geografiche. 
+La strategia di gestione perseguita è volta, attraverso una gestione attiva del portafoglio, a ottenere 
+un rendimento superiore rispetto al benchmark di riferimento. 
+Il benchmark prescelto 100% JP Morgan Global G.B. (Hedged) in euro in vigore dal 1 aprile 2021. 
+Il precedente benchmark, in vigore fino al 31 marzo 2021, è il seguente: 100% JP Morgan Global 
+G.B. in valuta locale. Il gestore, nella scelta degli investimenti, non si propone di replicare la com-
+posizione dell'indice ma selezionerà i titoli in base a proprie valutazioni. 
+ 
+Comparto “AL MEGLIO BILANCIATO” 
+È un comparto di investimento con un profilo di rischio di poco superiore a quello della linea “AL 
+MEGLIO OBBLIGAZIONARIO”, per la possibilità data al gestore di investire prevalentemente in 
+titoli obbligazionari, per un massimo del 70% del patrimonio del comparto, ed in titoli azionari, che 
+non saranno inferiori al 20% del patrimonio del comparto; resta ferma la facoltà di detenere una 
+parte del patrimonio in disponibilità liquide.   
+La gestione è accompagnata dalla garanzia di restituzione del capitale e di tasso di rendimento 
+finanziario nella misura dell’1,75%. L’importo minimo garantito è pari alla somma, maggiorata 
+dell’1,75% su base annua, dei contributi netti versati al comparto, inclusi gli eventuali importi deri-
+vanti da trasferimenti da altro comparto o da altra forma pensionistica e i versamenti effettuati per 
+il reintegro delle anticipazioni percepite, ridotto da eventuali riscatti parziali e anticipazioni. 
+Tale garanzia opera esclusivamente nei casi di esercizio del diritto alle prestazioni pensionistiche 
+complementari, riscatto per decesso, riscatto per invalidità permanente che comporti la riduzione 
+della capacità di lavoro a meno di un terzo e riscatto per inoccupazione per un periodo superiore a 
+48 mesi. 
+La gestione è improntata ad una diversificazione geografica degli investimenti, attenta a cogliere 
+le opportunità sui singoli mercati privilegiando le principali aree geografiche. 
+La strategia di gestione perseguita è volta, attraverso una gestione attiva del portafoglio, a ottenere 
+un rendimento superiore rispetto al benchmark di riferimento.
+=== pagina 17 ===
+17 
+Il benchmark prescelto è il seguente: 60% JP Morgan Global G.B. (Hedged); 40% MSCI World € 
+(Net Return Hedged) in euro in vigore dal 1 aprile 2021. Il precedente benchmark, in vigore fino al 
+31 marzo 2021, è il seguente: 60% JP Morgan Global G.B. + 40% MSC World in valuta locale. Il 
+gestore, nella scelta degli investimenti non si propone di replicare la composizione dell'indice ma 
+selezionerà i titoli in base a proprie valutazioni. 
+ 
+Comparto “AL MEGLIO AZIONARIO” 
+E' un comparto con un profilo di rischio medio-alto, consigliato a coloro che da poco hanno iniziato 
+la vita lavorativa, rivolto a perseguire una struttura di portafoglio orientata prevalentemente verso 
+titoli di capitale sia di emittenti italiani che esteri. La quota azionaria non potrà essere inferiore al 
+70% del patrimonio del comparto mentre la quota obbligazionaria degli investimenti potrà variare 
+fino ad un massimo del 30% del patrimonio della linea di investimento. Resta ferma la possibilità 
+per il gestore di detenere una parte del patrimonio in disponibilità liquide. Non sono previsti parti-
+colari settori o aree geografiche in cui concentrare l'attività di investimento. 
+La gestione non è accompagnata dalla garanzia di restituzione del capitale e di tasso di rendimento 
+finanziario. Il benchmark prescelto è il seguente: 20% JP Morgan Global G.B. (Hedged); - 80% 
+MSCI World € (Net Return Hedged) in euro in vigore dal 1 aprile 2021. Il precedente benchmark, 
+in vigore fino al 31 marzo 2021, è il seguente: 20% JP Morgan Global G.B. + 80% MSC World in 
+valuta locale. Il gestore, nella scelta degli investimenti non si propone di replicare la composizione 
+dell'indice ma selezionerà i titoli in base a proprie valutazioni. 
+ 
+Erogazione delle prestazioni 
+L'erogazione delle rendite e delle prestazioni accessorie viene effettuata dalla stessa società pro-
+motrice del Fondo, Alleanza Assicurazioni S.p.A.. 
+L'aderente, al momento dell'esercizio del diritto alla prestazione pensionistica, ha facoltà di richie-
+dere la liquidazione della prestazione sotto forma di capitale nel limite massimo del cinquanta per 
+cento della posizione individuale maturata; la parte destinata a rendita sarà impiegata da Alleanza 
+Assicurazioni S.p.A. per la costituzione di una rendita vitalizia immediata rivalutabile sulla testa 
+dell'aderente al Fondo. Per quanto riguarda invece l'erogazione di prestazioni accessorie, il Rego-
+lamento del Fondo prevede, per gli aderenti che ne facciano richiesta, la corresponsione di un 
+capitale al verificarsi della morte o della invalidità totale e permanente in data anteriore a quella di 
+maturazione del diritto alla prestazione pensionistica complementare.  
+Il corrispettivo per tali coperture viene trattenuto dalle contribuzioni. L'adesione alle suddette pre-
+stazioni è facoltativa.  
+ 
+Banca Depositaria 
+La Banca Depositaria delle risorse del Fondo è State Street Bank GmbH – Succursale Italia che 
+ha sede legale in Milano, via Ferrante Aporti, 10. La Banca Depositaria, ferma restando la propria 
+responsabilità, può avvalersi di sub depositari, ivi compresi gli organismi di gestione accentrata di 
+strumenti finanziari.
+=== pagina 18 ===
+18 
+Principi contabili e criteri di valutazione 
+Al fine di ottenere una rappresentazione veritiera e corretta dei risultati di bilancio, sono stati adot-
+tati, per le voci specificate, i seguenti principi generali di valutazione: 
+Strumenti finanziari quotati: sono valutati sulla base delle quotazioni del giorno di chiusura dell’eser-
+cizio.  
+Per i titoli quotati, sia nel mercato regolamentato italiano, sia nei mercati regolamentati esteri, gior-
+nalmente vengono rilevati i prezzi di chiusura determinati dalle rispettive Borse valori e comunicati 
+per via telematica dai Provider Telekurs e Bloomberg; tali valori sono poi confrontati con quelli in 
+possesso di Banca depositaria. 
+Strumenti finanziari non quotati: sono valutati sulla base dell’andamento dei rispettivi mercati se-
+condo il loro presumibile valore di realizzo. Per eventuali titoli in portafoglio si prendono prezzi 
+indicativi da info-provider specializzati. 
+Organismi di investimento collettivo del risparmio (O.I.C.R.): sono valutati sulla base del valore 
+della quota attribuito dai relativi gestori nel giorno di chiusura dell’esercizio, e comunicati per via 
+telematica dai Provider Telekurs e Bloomberg; tali valori sono poi confrontati con quelli in possesso 
+di Banca depositaria. 
+Attività e passività in valuta: sono valutate al tasso di cambio a pronti corrente alla data di chiusura 
+dell’esercizio. 
+Operazioni a termine: sono valutate al tasso di cambio a termine corrente alla data di scadenza 
+dell’operazione. 
+Contributi: i contributi dovuti dagli aderenti vengono registrati tra le entrate, in espressa deroga al 
+principio della competenza, solo una volta che siano stati effettivamente incassati; conseguente-
+mente, sia l’attivo netto destinato alle prestazioni sia le posizioni individuali vengono incrementate 
+solo a seguito dell’incasso dei contributi. A partire dall'esercizio 2009, ai fini di una migliore rappre-
+sentazione delle attività del fondo, sono stati inclusi nei conti d'ordine delle singole linee i contributi 
+di competenza del periodo non ancora disponibili sul conto corrente della linea, ripartendoli sulla 
+base del peso percentuale dell'attivo netto destinato alle prestazioni della singola linea sull’attivo 
+netto totale del fondo alla chiusura dell'esercizio.  
+Il bilancio è redatto privilegiando la rappresentazione della sostanza sulla forma. Al fine di fornire 
+una più immediata percezione della composizione degli investimenti, per le operazioni di compra-
+vendita di strumenti finanziari le voci del bilancio sono redatte prendendo a riferimento il momento 
+della contrattazione e non quello del regolamento. Conseguentemente le voci del bilancio relative 
+agli investimenti in strumenti finanziari sono redatte includendovi le operazioni negoziate ma non 
+ancora regolate, utilizzando quale contropartita le voci residuali Altre attività/passività della ge-
+stione finanziaria. 
+Gli oneri ed i proventi, ad eccezione di quanto sopra descritto per i contributi, sono stati imputati 
+nel rispetto del principio della competenza, indipendentemente dalla data dell’incasso e del paga-
+mento. 
+ 
+Criteri di riparto dei costi comuni 
+I costi comuni ai comparti sono stati ripartiti secondo i seguenti criteri:
+=== pagina 19 ===
+19 
+- i costi per i quali è stato individuato in modo certo il comparto di pertinenza, sono stati imputati a 
+questi ultimi per l’intero importo; 
+- i costi comuni a più comparti, invece, secondo il patrimonio del singolo comparto a fine esercizio. 
+ 
+Criteri e procedure per la stima di oneri e proventi 
+I criteri e le procedure di stima utilizzati per la redazione del prospetto della composizione e del 
+valore del patrimonio del fondo pensione sono stati applicati con continuità al fine di evitare oscil-
+lazioni nel valore della quota. Si è pertanto tenuto conto degli oneri e dei proventi maturati alla data 
+di riferimento del prospetto ma non ancora liquidati o riscossi, in ottemperanza al principio della 
+competenza economica. 
+ 
+Categorie, comparti e gruppi di lavoratori e di imprese a cui il Fondo si rife-
+risce 
+Aderiscono al Fondo i lavoratori dipendenti (sia privati che pubblici), lavoratori autonomi, profes-
+sionisti e soci lavoratori di cooperative e i soggetti destinatari del D.Lgs. 16 settembre 1996 n. 565, 
+anche se non iscritti al Fondo ivi previsto, per i quali non sussistono o non operino fonti istitutive di 
+fondi pensione aziendali o di categoria. L'adesione è altresì consentita per trasferimento della po-
+sizione individuale da altro fondo pensione, qualora l'aderente abbia maturato i requisiti richiesti 
+dalle disposizioni di legge.  
+Alla data di chiusura dell’esercizio il numero complessivo degli associati è di 7.713 unità, così ri-
+partiti:
+=== pagina 20 ===
+20 
+Fase di accumulo 
+ 
+  Anno 2025 Anno 2024 
+Aderenti iscritti 7.713 8.227 
+ 
+Comparto Obbligazionario 
+Aderenti attivi: 1.345 
+ 
+Comparto Bilanciato 
+Aderenti attivi: 3.957 
+ 
+Comparto Azionario 
+Aderenti attivi: 2.419 
+La somma degli iscritti indicati per ciascun comparto differisce dal totale iscritti attivi al Fondo in 
+quanto consente ai propri aderenti di destinare la propria contribuzione su più comparti. 
+ 
+Delega di Gestione  
+La gestione finanziaria è affidata a Generali Asset Management S.p.A. società di gestione del ri-
+sparmio .  
+La gestione amministrativa è affidata a Previnet S.p.A..  
+Si riporta di seguito un riepilogo degli oneri del Responsabile del Fondo e dell’Organismo di Vigi-
+lanza: 
+ 
+  Anno 2025 Anno 2024 
+Oneri per il Responsabile del Fondo 8.450 8.449 
+Oneri per l’Organismo di Vigilanza                          -      - 
+Contributo annuale Covip  3.178 3.654 
+TOTALE 11.628 12.103 
+ 
+Comparabilità con esercizi precedenti 
+I dati sono comparabili con quelli dell’esercizio precedente, per la continuità dei criteri di valutazione 
+adottati.
+=== pagina 21 ===
+21 
+1 COMPARTO ALMEGLIO OBBLIGAZIONARIO 
+ 
+1.1 - STATO PATRIMONIALE – fase di accumulo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 14.286.372 14.608.796
+10-a) Depositi bancari 461.072 375.656
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 13.307.221 13.853.314
+10-d) Titoli di debito quotati - -
+10-e) Titoli di capitale quotati - -
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. - -
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 93.793 97.364
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 16.347 189
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward - 2.297
+10-q) Valutazione e margini su futures e opzioni 407.939 279.976
+20 Garanzie di risultato acquisite sulle posizioni individuali 4.860.184 4.988.237
+30 Crediti di imposta 131.635 412.222
+TO TALE ATTI VI TA'  FASE DI  ACCUMULO 19.278.191 20.009.255
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 12.651 26.159
+10-a) Debiti della gestione previdenziale 12.651 26.159
+20 Garanzie di risultato riconosciute sulle posizioni individuali 4.860.184 4.988.237
+30 Passivita' della gestione finanziaria 18.043 17.843
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 18.043 17.843
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta - -
+TO TALE PASSI VI TA'  FASE DI  ACCUMULO 4.890.878 5.032.239
+100 Attivo netto destinato alle prestazioni 14.387.313 14.977.016
+CONTI D'ORDINE 484.093 552.765
+ATTI VI TA' FASE DI  ACCUMULO
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 22 ===
+22 
+1.2 – CONTO ECONOMICO – fase di accumulo 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale -627.222 -488.010
+10-a) Contributi per le prestazioni 1.254.011 967.395
+10-b) Anticipazioni -200.053 -241.771
+10-c) Trasferimenti e riscatti -1.259.880 -775.464
+10-d) Trasformazioni in rendita - -
+10-e) Erogazioni in forma di capitale -421.259 -437.839
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali -41 -331
+10-i) Altre entrate previdenziali - -
+20 Risultato della gestione finanziaria 286.095 10.834
+20-a) Dividendi e interessi 375.870 360.543
+20-b) Profitti e perdite da operazioni finanziarie -89.775 -349.709
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -178.046 -183.642
+30-a) Societa' di gestione -176.662 -182.093
+30-b) Depositario - -
+30-c) Altri oneri di gestione -1.384 -1.549
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+-519.173 -660.818
+50 Imposta sostitutiva -70.530 70.388
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+-589.703 -590.430
+=== pagina 23 ===
+23 
+1.3 – Nota integrativa – fase di accumulo 
+ 
+Numero e controvalore delle quote 
+  Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 1.187.728,746  14.977.016 
+a) Quote emesse 99.039,935 1.254.011  
+b) Quote annullate -148.890,184 -1.881.233  
+c) Variazione del valore quota  37.519  
+Variazione dell’attivo netto (a+b+c)   -589.703 
+Quote in essere alla fine dell’esercizio 1.137.878,497  14.387.313 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 12,610. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 12,644. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni 
+alla chiusura dell’esercizio ed il numero di quote che lo rappresenta. Il controvalore delle quote 
+emesse e delle quote annullate, pari ad € -627.222, è pari al saldo della gestione previdenziale di 
+cui al punto 10 del conto economico. La variazione del valore quota è invece pari alla somma del 
+risultato della gestione finanziaria al netto degli oneri di gestione e dell’imposta sostitutiva di com-
+petenza dell’esercizio.  
+1.3.1 Informazioni sullo Stato Patrimoniale - fase di accumulo  
+ 
+Attività 
+10 - Investimenti in gestione   € 14.286.372 
+Le risorse del comparto sono affidate per intero a Generali Insurance Asset Management S.p.A. 
+SGR che le gestisce tramite mandato che non prevede il trasferimento della titolarità degli investi-
+menti effettuati. 
+Le disponibilità liquide del Fondo possono essere investite in titoli di debito, titoli di capitale, parti 
+di organismi di investimento collettivo rientranti nell'ambito di applicazione della direttiva 
+85/611/CEE ed in quote di fondi comuni di investimento mobiliare e immobiliare chiusi. 
+Il Gestore può effettuare l'investimento delle risorse in O.I.C.R. rientranti nell'ambito di applicazione 
+della suddetta direttiva, purché i programmi e i limiti di investimento di ogni O.I.C.R. siano compa-
+tibili con quelli delle linee di investimento del Fondo che ne prevedono l'acquisizione. 
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell’esclusivo interesse degli 
+aderenti e nel rispetto dei limiti previsti dalle singole linee di investimento descritte in precedenza. 
+ 
+a) Depositi bancari € 461.072
+=== pagina 24 ===
+24 
+ 
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso la Banca Depositaria. 
+c) Titoli emessi da Stati o da organismi internazionali  
+ 
+€ 13.307.221 
+ 
+Titoli detenuti in portafoglio 
+ 
+L’importo complessivo dei titoli in gestione ammonta a € 13.307.221 e si riferisce a titoli emessi da 
+stati o da organismi internazionali. 
+ 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività della fase di accumulo:  
+ 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+US TREASURY N/B 15/11/2027 2,25 US9128283F58 I.G - TStato Org.Int Q OCSE 1.764.470 9,15 
+US TREASURY N/B 15/05/2030 6,25 US912810FM54 I.G - TStato Org.Int Q OCSE 1.173.038 6,08 
+US TREASURY N/B 15/02/2032 1,875 US91282CDY49 I.G - TStato Org.Int Q OCSE 926.519 4,81 
+JAPAN (20 YEAR ISSUE) 20/09/2039 
+,3 JP1201701KA5 I.G - TStato Org.Int Q OCSE 807.446 4,19 
+US TREASURY N/B 15/05/2029 2,375 US9128286T26 I.G - TStato Org.Int Q OCSE 769.469 3,99 
+US TREASURY N/B 15/02/2049 3 US912810SF66 I.G - TStato Org.Int Q OCSE 647.174 3,36 
+US TREASURY N/B 15/11/2042 2,75 US912810QY73 I.G - TStato Org.Int Q OCSE 642.148 3,33 
+JAPAN (10 YEAR ISSUE) 20/03/2026 
+,1 JP1103421G35 I.G - TStato Org.Int Q OCSE 542.506 2,81 
+US TREASURY N/B 15/05/2034 4,375 US91282CKQ32 I.G - TStato Org.Int Q OCSE 513.582 2,66 
+JAPAN (10 YEAR ISSUE) 20/09/2029 
+,1 JP1103561KA2 I.G - TStato Org.Int Q OCSE 499.871 2,59 
+BUONI POLIENNALI DEL TES 
+01/05/2033 4,4 IT0005518128 I.G - TStato Org.Int Q IT 497.016 2,58 
+UNITED KINGDOM GILT 07/06/2032 
+4,25 GB0004893086 I.G - TStato Org.Int Q OCSE 393.312 2,04 
+FRANCE (GOVT OF) 25/05/2030 2,5 FR0011883966 I.G - TStato Org.Int Q UE 351.983 1,83 
+US TREASURY N/B 15/08/2026 1,5 US9128282A70 I.G - TStato Org.Int Q OCSE 327.766 1,70 
+BUONI POLIENNALI DEL TES 
+01/09/2038 2,95 IT0005321325 I.G - TStato Org.Int Q IT 304.442 1,58 
+BUNDESREPUB. DEUTSCHLAND 
+04/07/2034 4,75 DE0001135226 I.G - TStato Org.Int Q UE 299.195 1,55 
+UNITED KINGDOM GILT 22/01/2044 
+3,25 GB00B84Z9V04 I.G - TStato Org.Int Q OCSE 296.514 1,54
+=== pagina 25 ===
+25 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+BUONI POLIENNALI DEL TES 
+01/12/2028 2,8 IT0005340929 I.G - TStato Org.Int Q IT 283.226 1,47 
+BONOS Y OBLIG DEL ESTADO 
+30/07/2033 2,35 ES00000128Q6 I.G - TStato Org.Int Q UE 267.613 1,39 
+BONOS Y OBLIG DEL ESTADO 
+30/07/2030 1,95 ES00000127A2 I.G - TStato Org.Int Q UE 233.568 1,21 
+CANADIAN GOVERNMENT 
+01/06/2032 2 CA135087N597 I.G - TStato Org.Int Q OCSE 226.160 1,17 
+BUONI POLIENNALI DEL TES 
+30/04/2035 4 IT0005508590 I.G - TStato Org.Int Q IT 210.008 1,09 
+BONOS Y OBLIG DEL ESTADO 
+30/04/2035 3,15 ES0000012O67 I.G - TStato Org.Int Q UE 188.651 0,98 
+AUSTRALIAN GOVERNMENT 
+21/06/2035 2,75 AU000XCLWAM0 I.G - TStato Org.Int Q OCSE 169.284 0,88 
+FRANCE (GOVT OF) 25/05/2036 1,25 FR0013154044 I.G - TStato Org.Int Q UE 127.403 0,66 
+UNITED KINGDOM GILT 22/07/2027 
+1,25 GB00BDRHNP05 I.G - TStato Org.Int Q OCSE 110.463 0,57 
+BONOS Y OBLIG DEL ESTADO 
+31/01/2037 4,2 ES0000012932 I.G - TStato Org.Int Q UE 107.242 0,56 
+BONOS Y OBLIG DEL ESTADO 
+30/07/2026 5,9 ES00000123C7 I.G - TStato Org.Int Q UE 102.147 0,53 
+BUNDESREPUB. DEUTSCHLAND 
+15/08/2048 1,25 DE0001102432 I.G - TStato Org.Int Q UE 99.065 0,51 
+BELGIUM KINGDOM 28/03/2032 4 BE0000326356 I.G - TStato Org.Int Q UE 85.097 0,44 
+BONOS Y OBLIG DEL ESTADO 
+31/10/2048 2,7 ES0000012B47 I.G - TStato Org.Int Q UE 81.616 0,42 
+FRANCE (GOVT OF) 25/04/2041 4,5 FR0010773192 I.G - TStato Org.Int Q UE 74.143 0,38 
+UNITED KINGDOM GILT 22/07/2047 
+1,5 GB00BDCHBW80 I.G - TStato Org.Int Q OCSE 54.524 0,28 
+BUNDESREPUB. DEUTSCHLAND 
+15/08/2032 1,7 DE0001102606 I.G - TStato Org.Int Q UE 47.318 0,25 
+BELGIUM KINGDOM 22/06/2050 1,7 BE0000348574 I.G - TStato Org.Int Q UE 37.423 0,19 
+BUONI POLIENNALI DEL TES 
+01/03/2048 3,45 IT0005273013 I.G - TStato Org.Int Q IT 35.882 0,19 
+FRANCE (GOVT OF) 25/05/2026 ,5 FR0013131877 I.G - TStato Org.Int Q UE 9.937 0,05 
+  Totale portafoglio 13.307.221 69,01 
+ 
+Distribuzione territoriale degli investimenti 
+ 
+La distribuzione territoriale degli investimenti è la seguente:
+=== pagina 26 ===
+26 
+ 
+Voci/Paesi Italia Altri UE Altri OCSE Totale 
+Titoli di Stato 1.330.574 2.112.401 9.864.246 13.307.221 
+Depositi bancari 461.072 - - 461.072 
+Totale 1.791.646 2.112.401 9.864.246 13.768.293 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente: 
+ 
+Voci/Paesi Titoli di Stato Depositi bancari Totale 
+USD 6.764.167 39.208 6.803.375 
+EUR 3.442.975 312.585 3.755.560 
+JPY 1.849.823 22.267 1.872.090 
+GBP 854.812 65.562 920.374 
+CAD 226.160 10.271 236.431 
+AUD 169.284 11.179 180.463 
+Totale 13.307.221 461.072 13.768.293 
+ 
+Operazioni in titoli stipulate e non ancora regolate 
+Non si evidenziano operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio. 
+ 
+Posizioni in contratti derivati 
+Si riportano i contratti derivati detenuti alla data di chiusura dell’esercizio: 
+ 
+Tipologia con-
+tratto 
+Strumento / Indice sotto-
+stante 
+Posizione 
+Lunga / 
+Corta 
+Divisa di deno-
+minazione 
+Nozionale 
+Futures EURO FX CURR FUT  Mar26 LUNGA USD -6.767.234 
+Futures EURO/JPY FUTURE   Mar26 LUNGA JPY -1.869.296 
+Futures EURO/GBP FUTURE   Mar26 LUNGA GBP -877.707 
+Totale       -9.514.237
+=== pagina 27 ===
+27 
+ 
+Posizioni di copertura del rischio di cambio 
+ 
+Divisa Tipo posizione Nominale Cambio Valore pos. LC 
+AUD CORTA 300.900 1,7581 -171.151 
+CAD CORTA 350.000 1,6088 -217.553 
+Totale    -388.704 
+ 
+Durata media finanziaria dei titoli 
+Nella seguente tabella si riepiloga la durata media finanziaria espressa in anni (duration modificata) 
+dei titoli di debito compresi nel portafoglio, con riferimento alle loro principali tipologie: 
+ 
+Voci/Paesi Italia Altri UE Altri OCSE 
+Titoli di Stato quotati 6,789 7,222 5,741 
+L'indice misura la durata residua di un’obbligazione valutata in un’ottica puramente finanziaria; può 
+essere utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazio-
+nario. E’ ottenuta calcolando la media ponderata delle scadenze a cui saranno incassate le cedole 
+e verrà rimborsato il capitale. 
+ 
+Posizioni in conflitto di interesse 
+Non ci sono posizioni in conflitto di interesse alla data di chiusura dell’esercizio. 
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i controvalori delle transazioni di acquisto e di vendita 
+effettuate nell’anno per tipologia di strumento finanziario. 
+ 
+  Acquisti Vendite  Saldo Controvalore 
+Titoli di Stato -3.245.218 2.142.558  -1.102.660 5.387.776 
+Totale -3.245.218 2.142.558  -1.102.660 5.387.776 
+ 
+Commissioni di negoziazione
+=== pagina 28 ===
+28 
+Voci 
+Commis-
+sioni su ac-
+quisti 
+Commis-
+sioni su 
+vendite 
+Totale commis-
+sioni Controvalore 
+% sul vo-
+lume nego-
+ziato 
+Titoli di Stato - - - 5.387.776 - 
+Totale - - - 5.387.776 0,00 
+ 
+l) Ratei e risconti attivi 
+ 
+€ 93.793 
+ 
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla 
+data di chiusura del bilancio in esame. 
+ 
+n) Altre attività della gestione finanziaria € 16.347 
+  
+La voce si riferisce a crediti previdenziali che verranno regolati nei primi giorni dell’esercizio 2026 
+per 16.126 € e ad altre attività della gestione finanziaria per 221 €. 
+ 
+q) Valutazione e margini su futures e opzioni 
+ 
+€ 407.939 
+ 
+La voce si riferisce al controvalore delle posizioni su futures e opzioni maturate alla data di chiusura 
+dell’esercizio. 
+ 
+20 - Garanzie di risultato acquisite sulle posizioni individuali  € 4.860.184 
+La voce accoglie il valore delle garanzie rilasciate alle singole posizioni individuali, determinato sot-
+traendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri stabiliti nel 
+Regolamento del Fondo, il loro valore corrente. 
+ 
+30 – Crediti d’imposta             € 131.635 
+ 
+La voce evidenzia l’imposta sostitutiva a credito di competenza dell’esercizio, calcolata secondo 
+quanto previsto dalla normativa vigente. 
+ 
+Passività
+=== pagina 29 ===
+29 
+10 - Passività della gestione previdenziale € 12.651 
+  
+a) Debiti della gestione previdenziale € 12.651 
+  
+Tale importo si riferisce ai debiti verso aderenti per liquidazioni che verranno regolati nei primi giorni 
+dell’esercizio 2026. 
+20 - Garanzie di risultato acquisite sulle posizioni individuali  € 4.860.184 
+  
+La voce accoglie il valore delle garanzie rilasciate alle singole posizioni individuali, determinato 
+sottraendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri stabiliti 
+nel Regolamento del Fondo, il loro valore corrente. 
+ 
+30 - Passività della gestione finanziaria € 18.043 
+ 
+d) Altre passività della gestione finanziaria € 18.043 
+La voce è composta da debiti per commissioni di gestione per € 15.703, da altre passività della 
+gestione finanziaria per € 1.384 e da debiti derivanti da operazioni di vendita e acquisto a termine di 
+divise estere su operazioni forward pending per € 956. 
+ 
+Conti d’ordine   € 484.093 
+  
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora 
+incassati alla data di chiusura del bilancio.
+=== pagina 30 ===
+30 
+1.3.2 Informazioni sul Conto Economico - fase di accumulo  
+ 
+10 - Saldo della gestione previdenziale  € -627.222 
+  
+a) Contributi per le prestazioni  € 1.254.011 
+La voce è composta come segue: 
+ 
+Fonti di contribuzione Importo 
+Contributi 691.579 
+Di cui  
+Azienda 7.548 
+Aderente 81.420 
+TFR 602.611 
+Trasferimento da altri fondi 4.560 
+Trasferimenti in ingresso per cambio comparto 582.042 
+TFR pregresso - 
+Commissioni una tantum di iscrizione - 
+Commissioni annue di gestione -24.170 
+Totale 10 a) 1.254.011 
+ 
+b) Anticipazioni  € -200.053 
+La voce contiene quanto erogato a titolo di anticipazione agli aderenti che ne hanno fatto richiesta 
+al fondo avendone diritto secondo quanto previsto dalla normativa vigente. 
+ 
+c) Trasferimenti e riscatti  € -1.259.880 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025, 
+così ripartite: 
+Trasferimento posizione individuale in uscita -1.095.116 
+Liquidazione posizioni - Riscatto immediato -115.875 
+Liquidazione posizioni - Rata R.I.T.A. -25.347 
+Liquidazione posizioni - Riscatto totale -21.552 
+Riscatto per conversione comparto -1.990 
+Totale -1.259.880
+=== pagina 31 ===
+31 
+ 
+e) Erogazioni in forma capitale € -421.259 
+La voce contiene l’importo lordo delle liquidazioni erogate, nel corso dell’esercizio, in forma capi-
+tale. 
+h) Altre uscite previdenziali   € -41 
+La voce riporta l’importo delle operazioni di sistemazione effettuate nel corso dell’esercizio. 
+ 
+20 - Risultato della gestione finanziaria   € 286.095 
+  
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite 
+derivanti da operazioni finanziarie, come riepilogati nella tabella seguente: 
+ 
+Descrizione Dividendi e interessi Profitti e perdite da operazioni 
+finanziarie 
+Titoli di Stato 368.892 -1.085.704 
+Depositi bancari 6.978 -26.276 
+Futures - 999.577 
+Risultato della gestione cambi - 22.636 
+Altri costi - -8 
+Totale 375.870 -89.775 
+ 
+La voce altri costi si riferisce ad oneri diversi ed arrotondamenti. 
+ 
+30 - Oneri di gestione  € -178.046 
+  
+a) Società di Gestione € -176.662 
+La voce è interamente riferita alle commissioni dovute al gestore Generali Asset Management 
+S.p.A. società di gestione del risparmio .  
+ 
+ 
+c) Altri oneri di gestione € -1.384 
+La voce è composta come segue:
+=== pagina 32 ===
+32 
+ 
+ 
+  Anno 2025 Anno 2024 
+Oneri per il Responsabile del Fondo -976 -1.045 
+Contributo annuale Covip  -408 -504 
+Totale -1.384 -1.549 
+ 
+50 - Imposta sostitutiva € -70.530 
+  
+La voce evidenzia l’imposta sostitutiva calcolata secondo quanto previsto dalla normativa e dalle 
+disposizioni dell’Organismo di Vigilanza dei Fondi Pensione, Covip.
+=== pagina 33 ===
+33 
+2 COMPARTO ALMEGLIO BILANCIATO 
+ 
+2.1 - STATO PATRIMONIALE – fase di accumulo 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 69.531.872 68.661.642
+10-a) Depositi bancari 1.539.184 801.361
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 35.703.070 38.258.287
+10-d) Titoli di debito quotati - -
+10-e) Titoli di capitale quotati 29.819.741 28.103.086
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. - -
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 257.285 268.792
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 49.536 14.461
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward 20 13.332
+10-q) Valutazione e margini su futures e opzioni 2.163.036 1.202.323
+20 Garanzie di risultato acquisite sulle posizioni individuali 20.945 155.686
+30 Crediti di imposta - 506.397
+TO TALE ATTI VI TA'  FASE DI  ACCUMULO 69.552.817 69.323.725
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 192.426 188.166
+10-a) Debiti della gestione previdenziale 192.426 188.166
+20 Garanzie di risultato riconosciute sulle posizioni individuali 20.945 155.686
+30 Passivita' della gestione finanziaria 111.332 106.237
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 111.332 106.237
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 778.053 -
+TO TALE PASSI VI TA'  FASE DI  ACCUMULO 1.102.756 450.089
+100 Attivo netto destinato alle prestazioni 68.450.061 68.873.636
+CONTI D'ORDINE 2.303.153 2.541.955
+ATTI VI TA' FASE DI  ACCUMULO
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 34 ===
+34 
+2.2 – CONTO ECONOMICO – fase di accumulo 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale -3.899.226 -2.038.570
+10-a) Contributi per le prestazioni 3.357.867 3.604.163
+10-b) Anticipazioni -751.451 -837.560
+10-c) Trasferimenti e riscatti -4.309.715 -2.645.879
+10-d) Trasformazioni in rendita -57.365 -79.419
+10-e) Erogazioni in forma di capitale -2.138.145 -2.079.369
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali -534 -662
+10-i) Altre entrate previdenziali 117 156
+20 Risultato della gestione finanziaria 5.585.202 4.989.535
+20-a) Dividendi e interessi 1.252.759 1.287.755
+20-b) Profitti e perdite da operazioni finanziarie 4.332.443 3.701.780
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -1.083.148 -1.091.090
+30-a) Societa' di gestione -1.076.841 -1.084.420
+30-b) Depositario - -
+30-c) Altri oneri di gestione -6.307 -6.670
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+602.828 1.859.875
+50 Imposta sostitutiva -1.026.403 -666.090
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+-423.575 1.193.785
+=== pagina 35 ===
+35 
+2.3 - NOTA INTEGRATIVA - fase di accumulo 
+ 
+Numero e controvalore delle quote 
+ 
+  Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 3.451.298,473  68.873.636 
+a) Quote emesse 165.307,486 3.357.984 - 
+b) Quote annullate -358.664,254 -7.257.210 - 
+c) Variazione del valore quota  3.475.651 - 
+Variazione dell’attivo netto (a+b+c)   -423.575 
+Quote in essere alla fine dell’esercizio 3.257.941,705  68.450.061 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 19,956. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 21,010. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni 
+alla chiusura dell’esercizio ed il numero di quote che lo rappresenta. La differenza tra il controvalore 
+delle quote emesse e delle quote annullate, pari ad € -3.899.226, è pari al saldo della gestione 
+previdenziale di cui al punto 10 del conto economico. La variazione del valore quota è invece pari 
+alla somma del risultato della gestione finanziaria al netto degli oneri di gestione e dell’imposta 
+sostitutiva di competenza dell’esercizio.  
+ 
+2.3.1 Informazioni sullo Stato Patrimoniale - fase di accumulo  
+ 
+Attività 
+ 
+10 - Investimenti in gestione   € 69.531.872 
+  
+Le risorse del comparto sono affidate per intero a Generali Insurance Asset Management S.p.A. 
+SGR, che le gestisce tramite mandato che non prevede il trasferimento della titolarità degli investi-
+menti effettuati. 
+Le disponibilità liquide del Fondo possono essere investite in titoli di debito, titoli di capitale, parti 
+di organismi di investimento collettivo rientranti nell'ambito di applicazione della direttiva 
+85/611/CEE ed in quote di fondi comuni di investimento mobiliare e immobiliare chiusi. Il Gestore 
+può effettuare l'investimento delle risorse in O.I.C.R. rientranti nell'ambito di applicazione della sud-
+detta direttiva, purché i programmi e i limiti di investimento di ogni O.I.C.R. siano compatibili con 
+quelli delle linee di investimento del Fondo che ne prevedono l'acquisizione.
+=== pagina 36 ===
+36 
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell’esclusivo interesse degli 
+aderenti e nel rispetto dei limiti previsti dalle singole linee di investimento descritte in precedenza. 
+ 
+a) Depositi bancari    € 1.539.184 
+  
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso la Banca Depositaria. 
+ 
+c) Titoli emessi da Stati o da organismi internazionali € 35.703.070 
+ 
+e) Titoli di capitale quotati 
+ 
+€ 29.819.741 
+  
+Titoli detenuti in portafoglio 
+L’importo complessivo dei titoli in gestione ammonta a € 65.522.811. 
+ 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività della fase di accumulo:  
+ 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+US TREASURY N/B 15/05/2029 2,375 US9128286T26 I.G - TStato Org.Int Q OCSE 4.878.759 7,01 
+US TREASURY N/B 15/08/2026 1,5 US9128282A70 I.G - TStato Org.Int Q OCSE 3.529.787 5,07 
+US TREASURY N/B 15/02/2031 1,125 US91282CBL46 I.G - TStato Org.Int Q OCSE 2.570.562 3,70 
+JAPAN (10 YEAR ISSUE) 20/09/2029 ,1 JP1103561KA2 I.G - TStato Org.Int Q OCSE 2.261.836 3,25 
+US TREASURY N/B 15/02/2032 1,875 US91282CDY49 I.G - TStato Org.Int Q OCSE 2.134.031 3,07 
+BUONI POLIENNALI DEL TES 
+01/05/2033 4,4 IT0005518128 I.G - TStato Org.Int Q IT 2.063.698 2,97 
+NVIDIA CORP US67066G1040 I.G - TCapitale Q OCSE 1.845.477 2,65 
+JAPAN (20 YEAR ISSUE) 20/09/2039 ,3 JP1201701KA5 I.G - TStato Org.Int Q OCSE 1.820.206 2,62 
+APPLE INC US0378331005 I.G - TCapitale Q OCSE 1.363.927 1,96 
+US TREASURY N/B 15/02/2049 3 US912810SF66 I.G - TStato Org.Int Q OCSE 1.244.082 1,79 
+MICROSOFT CORP US5949181045 I.G - TCapitale Q OCSE 1.234.774 1,78 
+US TREASURY N/B 15/05/2034 4,375 US91282CKQ32 I.G - TStato Org.Int Q OCSE 1.201.261 1,73 
+US TREASURY N/B 15/02/2041 4,75 US912810QN19 I.G - TStato Org.Int Q OCSE 1.180.144 1,70 
+JAPAN (10 YEAR ISSUE) 20/03/2026 ,1 JP1103421G35 I.G - TStato Org.Int Q OCSE 1.085.013 1,56 
+BUONI POLIENNALI DEL TES 
+01/04/2030 1,35 IT0005383309 I.G - TStato Org.Int Q IT 1.043.031 1,50
+=== pagina 37 ===
+37 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+UNITED KINGDOM GILT 07/06/2032 
+4,25 GB0004893086 I.G - TStato Org.Int Q OCSE 1.041.119 1,50 
+BONOS Y OBLIG DEL ESTADO 
+31/01/2037 4,2 ES0000012932 I.G - TStato Org.Int Q UE 943.730 1,36 
+UNITED KINGDOM GILT 22/01/2044 
+3,25 GB00B84Z9V04 I.G - TStato Org.Int Q OCSE 844.615 1,21 
+AMAZON.COM INC US0231351067 I.G - TCapitale Q OCSE 844.310 1,21 
+BONOS Y OBLIG DEL ESTADO 
+30/07/2033 2,35 ES00000128Q6 I.G - TStato Org.Int Q UE 821.954 1,18 
+US TREASURY N/B 15/11/2042 2,75 US912810QY73 I.G - TStato Org.Int Q OCSE 805.961 1,16 
+BROADCOM INC US11135F1012 I.G - TCapitale Q OCSE 696.913 1,00 
+ALPHABET INC-CL A US02079K3059 I.G - TCapitale Q OCSE 694.727 1,00 
+FRANCE (GOVT OF) 25/05/2034 1,25 FR0013313582 I.G - TStato Org.Int Q UE 677.104 0,97 
+US TREASURY N/B 15/02/2045 2,5 US912810RK60 I.G - TStato Org.Int Q OCSE 615.934 0,89 
+CANADIAN GOVERNMENT 01/06/2032 
+2 CA135087N597 I.G - TStato Org.Int Q OCSE 579.898 0,83 
+ALPHABET INC-CL C US02079K1079 I.G - TCapitale Q OCSE 549.083 0,79 
+BUONI POLIENNALI DEL TES 
+30/04/2035 4 IT0005508590 I.G - TStato Org.Int Q IT 525.020 0,75 
+BONOS Y OBLIG DEL ESTADO 
+30/04/2035 3,15 ES0000012O67 I.G - TStato Org.Int Q UE 496.450 0,71 
+TESLA INC US88160R1014 I.G - TCapitale Q OCSE 479.956 0,69 
+AUSTRALIAN GOVERNMENT 
+21/06/2035 2,75 
+AU000XCL-
+WAM0 I.G - TStato Org.Int Q OCSE 469.160 0,67 
+JPMORGAN CHASE & CO US46625H1005 I.G - TCapitale Q OCSE 408.602 0,59 
+WHEATON PRECIOUS METALS CORP CA9628791027 I.G - TCapitale Q OCSE 398.268 0,57 
+FRANCE (GOVT OF) 25/05/2031 1,5 FR0012993103 I.G - TStato Org.Int Q UE 372.576 0,54 
+BUNDESREPUB. DEUTSCHLAND 
+15/08/2048 1,25 DE0001102432 I.G - TStato Org.Int Q UE 363.237 0,52 
+BUNDESREPUB. DEUTSCHLAND 
+04/07/2034 4,75 DE0001135226 I.G - TStato Org.Int Q UE 333.718 0,48 
+ELI LILLY & CO US5324571083 I.G - TCapitale Q OCSE 319.203 0,46 
+BUNDESREPUB. DEUTSCHLAND 
+15/08/2032 1,7 DE0001102606 I.G - TStato Org.Int Q UE 302.835 0,44 
+UNITED KINGDOM GILT 22/07/2027 
+1,25 
+GB00BDRHNP0
+5 I.G - TStato Org.Int Q OCSE 292.727 0,42 
+BERKSHIRE HATHAWAY INC-CL B US0846707026 I.G - TCapitale Q OCSE 287.473 0,41 
+BONOS Y OBLIG DEL ESTADO 
+30/07/2041 4,7 ES00000121S7 I.G - TStato Org.Int Q UE 278.863 0,40 
+BUNDESREPUB. DEUTSCHLAND 
+15/02/2029 ,25 DE0001102465 I.G - TStato Org.Int Q UE 235.295 0,34
+=== pagina 38 ===
+38 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+AGNICO EAGLE MINES LTD CA0084741085 I.G - TCapitale Q OCSE 221.615 0,32 
+VISA INC-CLASS A SHARES US92826C8394 I.G - TCapitale Q OCSE 221.470 0,32 
+MASTERCARD INC - A US57636Q1040 I.G - TCapitale Q OCSE 208.918 0,30 
+BANK OF AMERICA CORP US0605051046 I.G - TCapitale Q OCSE 199.123 0,29 
+GOLDMAN SACHS GROUP INC US38141G1040 I.G - TCapitale Q OCSE 197.494 0,28 
+APPLOVIN CORP-CLASS A US03831W1080 I.G - TCapitale Q OCSE 184.655 0,27 
+BELGIUM KINGDOM 22/06/2050 1,7 BE0000348574 I.G - TStato Org.Int Q UE 180.879 0,26 
+HOWMET AEROSPACE INC US4432011082 I.G - TCapitale Q OCSE 174.660 0,25 
+Altri     19.798.678 28,47 
+  Totale portafoglio 65.522.811 94,21 
+ 
+Distribuzione territoriale degli investimenti 
+La distribuzione territoriale degli investimenti è la seguente: 
+ 
+Voci/Paesi Italia Altri UE Altri OCSE NON 
+OCSE Totale 
+Titoli di Stato 3.895.516 5.191.878 26.615.676 - 35.703.070 
+Titoli di Capitale 
+quotati 275.042 2.920.160 26.488.348 136.191 29.819.741 
+Depositi bancari 1.539.184 - - - 1.539.184 
+Totale 5.709.742 8.112.038 53.104.024 136.191 67.061.995 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente: 
+ 
+Voci/Paesi Titoli di Stato 
+Titoli di Capitale / 
+OICVM Depositi bancari TOTALE 
+USD 18.160.520 22.101.837 239.239 40.501.596 
+EUR 9.087.394 2.377.973 784.385 12.249.752 
+JPY 5.167.055 1.676.313 66.270 6.909.638 
+GBP 2.239.043 1.011.584 189.951 3.440.578 
+CAD 579.898 808.292 31.226 1.419.416 
+AUD 469.160 539.754 52.828 1.061.742 
+CHF - 869.344 25.632 894.976
+=== pagina 39 ===
+39 
+SEK - 222.503 30.108 252.611 
+DKK - 114.665 40.949 155.614 
+HKD - 83.078 31.799 114.877 
+NOK - 14.398 46.797 61.195 
+Totale 35.703.070 29.819.741 1.539.184 67.061.995 
+ 
+Operazioni in titoli stipulate e non ancora regolate 
+Non si evidenziano operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio. 
+ 
+Posizioni in contratti derivati 
+Si riportano i contratti derivati detenuti alla data di chiusura dell’esercizio: 
+ 
+Tipologia con-
+tratto 
+Strumento / Indice sotto-
+stante 
+Posizione 
+Lunga / 
+Corta 
+Divisa                     
+di denomina-
+zione 
+Nozionale* 
+Futures EURO/CHF FUTURE   Mar26 LUNGA CHF -746.457 
+Futures EURO/JPY FUTURE   Mar26 LUNGA JPY -6.978.707 
+Futures EURO FX CURR FUT  Mar26 LUNGA USD -40.603.404 
+Futures EURO/GBP FUTURE   Mar26 LUNGA GBP -3.260.056 
+Totale       -51.588.624 
+ 
+Posizioni di copertura del rischio di cambio 
+ 
+Divisa Tipo posizione Nominale Cambio Valore pos. LC 
+AUD CORTA 1.745.900 1,7581 -993.061 
+CAD CORTA 1.968.700 1,6088 -1.223.707 
+DKK CORTA 963.200 7,4689 -128.961 
+HKD CORTA 413.700 9,1464 -45.231 
+NOK CORTA 468.200 11,8430 -39.534 
+SEK CORTA 2.029.400 10,8215 -187.534 
+Totale    -2.618.028 
+ 
+Durata media finanziaria dei titoli
+=== pagina 40 ===
+40 
+Nella seguente tabella si riepiloga la durata media finanziaria espressa in anni (duration modificata) 
+dei titoli di debito compresi nel portafoglio, con riferimento alle loro principali tipologie: 
+ 
+Voci/Paesi Italia Altri UE Altri OCSE 
+Titoli di Stato quotati 6,012 8,445 5,718 
+ 
+L'indice misura la durata residua di un’obbligazione valutata in un’ottica puramente finanziaria; può 
+essere utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazio-
+nario. È ottenuta calcolando la media ponderata delle scadenze a cui saranno incassate le cedole 
+e verrà rimborsato il capitale. 
+ 
+Posizioni in conflitto di interesse 
+Non ci sono posizioni in conflitto di interesse alla data di chiusura dell’esercizio. 
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i saldi dei volumi delle transazioni di acquisto e di vendita 
+effettuate nell’anno per tipologia di strumento finanziario. 
+ 
+  Acquisti Vendite Saldo Controvalore 
+Titoli di Stato -6.558.059 5.139.391 -1.418.668 11.697.450 
+Titoli di capitale quo-
+tati -2.374.830 2.713.292 338.462 5.088.122 
+Totale -8.932.889 7.852.683 -1.080.206 16.785.572 
+ 
+Commissioni di negoziazione 
+ 
+Voci 
+Commis-
+sioni su ac-
+quisti 
+Commis-
+sioni su 
+vendite 
+Totale com-
+missioni Controvalore 
+% sul vo-
+lume nego-
+ziato 
+Titoli di Stato - - - 11.697.450 - 
+Titoli di Capitale quo-
+tati 873 1.131 2.004 5.088.122 0,039 
+Totale 873 1.131 2.004 16.785.572 0,012
+=== pagina 41 ===
+41 
+l) Ratei e risconti attivi € 257.285 
+  
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla 
+data di chiusura del bilancio in esame. 
+ 
+n) Altre attività della gestione finanziaria € 49.536 
+  
+La voce si riferisce a dividendi maturati e non ancora incassati per € 13.243 e a crediti previdenziali 
+per € 35.355 che verranno regolati nei primi giorni dell’esercizio 2026, ad altre attività della gestione 
+finanziaria per € 532 e a crediti per penali CSDR da rimborsare per € 406. 
+ 
+p) Margini e crediti su operazioni forward/future € 20 
+  
+La voce si riferisce a crediti derivanti da operazioni di acquisto e vendita a termine di divise estere 
+su operazioni forward pending. 
+ 
+q) Valutazione e margini su futures e opzioni € 2.163.036 
+  
+La voce si riferisce al controvalore delle posizioni su futures e opzioni maturate alla data di chiusura 
+dell’esercizio. 
+ 
+20 - Garanzie di risultato acquisite sulle posizioni individuali € 20.945 
+La voce accoglie il valore delle garanzie rilasciate alle singole posizioni individuali, determinato 
+sottraendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri stabiliti 
+nel Regolamento del Fondo, il loro valore corrente. 
+ 
+Passività 
+ 
+10 - Passività della gestione previdenziale    € 192.426 
+  
+a) Debiti della gestione previdenziale € 192.426 
+  
+Tale importo si riferisce ai debiti verso aderenti per liquidazioni che verranno regolati nei primi giorni 
+dell’esercizio 2026.
+=== pagina 42 ===
+42 
+20 - Garanzie di risultato acquisite sulle posizioni individuali € 20.945 
+  
+La voce accoglie il valore delle garanzie rilasciate alle singole posizioni individuali, determinato 
+sottraendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri stabiliti 
+nel Regolamento del Fondo, il loro valore corrente. 
+ 
+30 - Passività della gestione finanziaria € 111.332 
+  
+d) Altre passività della gestione finanziaria € 111.332 
+La voce è composta come segue: per € 98.129 da debiti per commissioni di gestione, per € 6.307 
+da altre passività della gestione finanziaria e per € 6.896 da debiti derivanti da operazioni di vendita 
+e acquisto a termine di divise estere su operazioni forward pending. 
+ 
+40 – Debiti di imposta                       € 778.053 
+La voce evidenzia l’imposta sostitutiva a credito di competenza dell’esercizio, calcolata secondo 
+quanto previsto dalla normativa vigente. 
+ 
+Conti d’ordine € 2.303.153 
+ 
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora 
+incassato alla data di chiusura del bilancio.
+=== pagina 43 ===
+43 
+2.3.2 Informazioni sul Conto Economico - fase di accumulo  
+ 
+10 - Saldo della gestione previdenziale  € -3.899.226 
+  
+a) Contributi per le prestazioni  € 3.357.867 
+La voce è composta come segue: 
+ 
+Fonti di contribuzione Importo 
+Contributi 3.360.775 
+Di cui  
+Azienda 34.329 
+Aderente 204.453 
+TFR 3.121.993 
+TFR - Pregresso - 
+Trasferimento da altri fondi - 
+Trasferimenti in ingresso per cambio comparto 114.314 
+Commissioni una tantum di iscrizione  
+Commissioni annue di gestione -117.222 
+Totale 10 a) 3.357.867 
+ 
+b) Anticipazioni  € -751.451 
+  
+La voce contiene quanto erogato a titolo di anticipazione agli aderenti che ne hanno fatto richiesta 
+al fondo avendone diritto secondo quanto previsto dalla normativa vigente. 
+ 
+c) Trasferimenti e riscatti  € -4.309.715 
+  
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025, così 
+ripartite: 
+ 
+Trasferimento posizione individuale in uscita -3.446.401 
+Riscatto per conversione comparto -379.274
+=== pagina 44 ===
+44 
+Liquidazione posizioni - Riscatto immediato -301.310 
+Liquidazione posizioni - Riscatto totale -182.730 
+Totale -4.309.715 
+  
+d) Trasformazioni in rendita    € -57.365 
+La voce contiene l’importo lordo delle liquidazioni erogate, nel corso dell’esercizio, in forma di ren-
+dita. 
+ 
+e) Erogazioni in forma capitale € -2.138.145 
+La voce contiene l’importo lordo delle liquidazioni erogate, nel corso dell’esercizio, in forma capi-
+tale. 
+ 
+h) Altre uscite previdenziali € -534 
+La voce riporta l’importo delle operazioni di sistemazione effettuate nel corso dell’esercizio. 
+ 
+i) Altre entrate previdenziali € 117 
+La voce riporta l’importo delle operazioni di sistemazione effettuate nel corso dell’esercizio. 
+ 
+20 - Risultato della gestione finanziaria  € 5.585.202 
+  
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite 
+derivanti da operazioni finanziarie, come riepilogati nella tabella seguente: 
+ 
+Descrizione Dividendi e interessi Profitti e perdite da opera-
+zioni finanziarie 
+Titoli di Stato 824.601 -2.818.169 
+Titoli di Capitale quotati 415.043 2.078.044 
+Depositi bancari  13.115 -68.557 
+Futures - 5.025.732 
+Risultato della gestione cambi - 116.988 
+Commissioni di negoziazione - -2.004 
+Bonus CSDR - 24
+=== pagina 45 ===
+45 
+Altri costi - -1.207 
+Altri ricavi - 1.592 
+Totale 1.252.759 4.332.443 
+ 
+La voce altri costi si riferisce prevalentemente a bolli e sopravvenienze passive, mentre gli altri 
+ricavi si riferiscono prevalentemente a proventi diversi e sopravvenienze attive della gestione fi-
+nanziaria. 
+ 
+30 - Oneri di gestione € -1.083.148 
+  
+a) Società di Gestione € -1.076.841 
+  
+La voce è interamente riferita alle commissioni dovute al gestore Generali Asset Management 
+S.p.A. società di gestione del risparmio .  
+ 
+ 
+c) Altri oneri di gestione € -6.307 
+La voce è così composta:  
+ 
+  Anno 2025 Anno 2024 
+Oneri per il Responsabile del Fondo -4.489 -4.544 
+Contributo annuale Covip  -1.818 -2.126 
+Totale -6.307 -6.670 
+ 
+50 - Imposta sostitutiva 
+ 
+€ -1.026.403 
+ 
+La voce evidenzia l’imposta sostitutiva calcolata secondo quanto previsto dalla normativa e dalle 
+disposizioni dell’Organismo di Vigilanza dei Fondi Pensione, Covip.
+=== pagina 46 ===
+46 
+3 COMPARTO ALMEGLIO AZIONARIO 
+ 
+3.1 - STATO PATRIMONIALE - fase di accumulo 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 49.569.581 46.520.597
+10-a) Depositi bancari 1.062.583 476.632
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 6.574.305 6.953.500
+10-d) Titoli di debito quotati - -
+10-e) Titoli di capitale quotati 40.191.793 38.215.119
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. - -
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 46.040 47.867
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 72.019 19.188
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward 40 11.001
+10-q) Valutazione e margini su futures e opzioni 1.622.801 797.290
+20 Garanzie di risultato acquisite sulle posizioni individuali - -
+30 Crediti di imposta - -
+TO TALE ATTI VI TA'  FASE DI  ACCUMULO 49.569.581 46.520.597
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 12.374 160.147
+10-a) Debiti della gestione previdenziale 12.374 160.147
+20 Garanzie di risultato riconosciute sulle posizioni individuali - -
+30 Passivita' della gestione finanziaria 96.993 87.472
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 96.993 87.472
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 1.159.937 468.105
+TO TALE PASSI VI TA'  FASE DI  ACCUMULO 1.269.304 715.724
+100 Attivo netto destinato alle prestazioni 48.300.277 45.804.873
+CONTI D'ORDINE 1.625.169 1.690.544
+ATTI VI TA' FASE DI  ACCUMULO
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 47 ===
+47 
+3.2 – CONTO ECONOMICO - fase di accumulo 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale -2.097.136 -1.232.829
+10-a) Contributi per le prestazioni 1.720.396 1.923.099
+10-b) Anticipazioni -557.767 -526.885
+10-c) Trasferimenti e riscatti -2.604.535 -2.184.875
+10-d) Trasformazioni in rendita -179.489 -
+10-e) Erogazioni in forma di capitale -475.850 -437.357
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali -205 -7.080
+10-i) Altre entrate previdenziali 314 269
+20 Risultato della gestione finanziaria 6.663.778 6.389.644
+20-a) Dividendi e interessi 727.516 794.198
+20-b) Profitti e perdite da operazioni finanziarie 5.936.262 5.595.446
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -911.301 -888.047
+30-a) Societa' di gestione -907.364 -884.163
+30-b) Depositario - -
+30-c) Altri oneri di gestione -3.937 -3.884
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+3.655.341 4.268.768
+50 Imposta sostitutiva -1.159.937 -1.066.325
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+2.495.404 3.202.443
+=== pagina 48 ===
+48 
+3.3 – Nota integrativa – fase di accumulo 
+Numero e controvalore delle quote 
+ 
+  Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 1.482.162,527  45.804.873 
+a) Quote emesse 56.574,724 1.720.710  
+b) Quote annullate -123.539,325 -3.817.846  
+c) Variazione del valore quota  4.592.540  
+Variazione dell’attivo netto (a+b+c)   2.495.404 
+Quote in essere alla fine dell’esercizio 1.415.197,926  48.300.277 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 30,904. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 34,130. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni 
+alla chiusura dell’esercizio ed il numero di quote che lo rappresenta. La differenza tra il controvalore 
+delle quote emesse e delle quote annullate, pari ad € -2.097.136, è pari al saldo della gestione 
+previdenziale di cui al punto 10 del conto economico. La variazione del valore quota è invece pari 
+alla somma del risultato della gestione finanziaria al netto degli oneri di gestione e dell’imposta 
+sostitutiva di competenza dell’esercizio.  
+ 
+3.3.1 Informazioni sullo Stato Patrimoniale – fase di accumulo  
+ 
+Attività 
+ 
+10 - Investimenti in gestione   € 49.569.581 
+  
+Le risorse del comparto sono affidate per intero a Generali Insurance Asset Management S.p.A. 
+SGR, che le gestisce tramite mandato che non prevede il trasferimento della titolarità degli investi-
+menti effettuati. 
+ 
+Le disponibilità liquide del Fondo possono essere investite in titoli di debito, titoli di capitale, parti 
+di organismi di investimento collettivo rientranti nell’ambito di applicazione della direttiva 
+85/611/CEE ed in quote di fondi comuni di investimento mobiliare ed immobiliare chiusi.           
+ 
+Il Gestore può effettuare l’investimento delle risorse in O.I.C.R. rientranti nell’ambito di applicazione
+=== pagina 49 ===
+49 
+della suddetta direttiva, purché i programmi e i limiti di investimento di ogni O.I.C.R. siano compa-
+tibili con quelli delle linee di investimento del Fondo che ne prevedono l’acquisizione. 
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell’esclusivo interesse degli 
+aderenti e nel rispetto dei limiti previsti dalle singole linee di investimento descritte in precedenza. 
+  
+a) Depositi bancari      € 1.062.583 
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso la Banca Depositaria. 
+ 
+c) Titoli emessi da Stati o da organismi internazionali € 6.574.305 
+ 
+e) Titoli di capitale quotati 
+ 
+€ 40.191.793 
+  
+Titoli detenuti in portafoglio 
+L’importo complessivo dei titoli in gestione ammonta a € 46.766.098. 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività della fase di accumulo: 
+ 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+NVIDIA CORP US67066G1040 I.G - TCapitale Q OCSE 2.265.777 4,57 
+APPLE INC US0378331005 I.G - TCapitale Q OCSE 1.808.852 3,65 
+MICROSOFT CORP US5949181045 I.G - TCapitale Q OCSE 1.673.531 3,38 
+US TREASURY N/B 15/05/2029 2,375 US9128286T26 I.G - TStato Org.Int Q OCSE 1.084.624 2,19 
+AMAZON.COM INC US0231351067 I.G - TCapitale Q OCSE 1.034.663 2,09 
+BROADCOM INC US11135F1012 I.G - TCapitale Q OCSE 947.283 1,91 
+ALPHABET INC-CL A US02079K3059 I.G - TCapitale Q OCSE 932.607 1,88 
+ALPHABET INC-CL C US02079K1079 I.G - TCapitale Q OCSE 768.610 1,55 
+TESLA INC US88160R1014 I.G - TCapitale Q OCSE 623.101 1,26 
+JPMORGAN CHASE & CO US46625H1005 I.G - TCapitale Q OCSE 601.112 1,21 
+US TREASURY N/B 15/08/2026 1,5 US9128282A70 I.G - TStato Org.Int Q OCSE 592.500 1,20 
+WHEATON PRECIOUS METALS CORP CA9628791027 I.G - TCapitale Q OCSE 542.292 1,09 
+US TREASURY N/B 15/05/2034 4,375 US91282CKQ32 I.G - TStato Org.Int Q OCSE 504.878 1,02 
+US TREASURY N/B 15/05/2041 4,375 US912810QQ40 I.G - TStato Org.Int Q OCSE 485.853 0,98 
+ELI LILLY & CO US5324571083 I.G - TCapitale Q OCSE 430.787 0,87 
+BERKSHIRE HATHAWAY INC-CL B US0846707026 I.G - TCapitale Q OCSE 364.903 0,74 
+JAPAN (20 YEAR ISSUE) 20/09/2039 ,3 JP1201701KA5 I.G - TStato Org.Int Q OCSE 339.956 0,69
+=== pagina 50 ===
+50 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+JAPAN (10 YEAR ISSUE) 20/03/2026 ,1 JP1103421G35 I.G - TStato Org.Int Q OCSE 325.504 0,66 
+AGNICO EAGLE MINES LTD CA0084741085 I.G - TCapitale Q OCSE 298.950 0,60 
+VISA INC-CLASS A SHARES US92826C8394 I.G - TCapitale Q OCSE 290.119 0,59 
+BANK OF AMERICA CORP US0605051046 I.G - TCapitale Q OCSE 278.651 0,56 
+BUONI POLIENNALI DEL TES 
+01/05/2033 4,4 IT0005518128 I.G - TStato Org.Int Q IT 259.313 0,52 
+HOWMET AEROSPACE INC US4432011082 I.G - TCapitale Q OCSE 257.191 0,52 
+GOLDMAN SACHS GROUP INC US38141G1040 I.G - TCapitale Q OCSE 252.105 0,51 
+APPLOVIN CORP-CLASS A US03831W1080 I.G - TCapitale Q OCSE 250.030 0,50 
+MASTERCARD INC - A US57636Q1040 I.G - TCapitale Q OCSE 249.730 0,50 
+US TREASURY N/B 15/02/2032 1,875 US91282CDY49 I.G - TStato Org.Int Q OCSE 243.021 0,49 
+BONOS Y OBLIG DEL ESTADO 
+31/01/2037 4,2 ES0000012932 I.G - TStato Org.Int Q UE 235.932 0,48 
+CITIGROUP INC US1729674242 I.G - TCapitale Q OCSE 227.223 0,46 
+MORGAN STANLEY US6174464486 I.G - TCapitale Q OCSE 220.137 0,44 
+UNITED KINGDOM GILT 07/06/2032 
+4,25 GB0004893086 I.G - TStato Org.Int Q OCSE 219.792 0,44 
+ASML HOLDING NV NL0010273215 I.G - TCapitale Q UE 217.450 0,44 
+MERCK & CO. INC. US58933Y1055 I.G - TCapitale Q OCSE 215.805 0,44 
+ABBVIE INC US00287Y1091 I.G - TCapitale Q OCSE 213.322 0,43 
+WALMART INC US9311421039 I.G - TCapitale Q OCSE 210.987 0,43 
+NETFLIX INC US64110L1061 I.G - TCapitale Q OCSE 207.469 0,42 
+AMERICAN EXPRESS CO US0258161092 I.G - TCapitale Q OCSE 207.172 0,42 
+TORONTO-DOMINION BANK CA8911605092 I.G - TCapitale Q OCSE 206.809 0,42 
+GENERAL ELECTRIC US3696043013 I.G - TCapitale Q OCSE 200.547 0,40 
+ROCHE HOLDING AG-GENUSSCHEIN CH0012032048 I.G - TCapitale Q OCSE 200.500 0,40 
+ADVANCED MICRO DEVICES US0079031078 I.G - TCapitale Q OCSE 199.397 0,40 
+ROYAL BANK OF CANADA CA7800871021 I.G - TCapitale Q OCSE 199.258 0,40 
+BANCO SANTANDER SA ES0113900J37 I.G - TCapitale Q UE 195.449 0,39 
+BANK OF NOVA SCOTIA CA0641491075 I.G - TCapitale Q OCSE 194.746 0,39 
+BANK OF MONTREAL CA0636711016 I.G - TCapitale Q OCSE 191.789 0,39 
+JAPAN (10 YEAR ISSUE) 20/09/2029 ,1 JP1103561KA2 I.G - TStato Org.Int Q OCSE 191.462 0,39 
+MICRON TECHNOLOGY INC US5951121038 I.G - TCapitale Q OCSE 188.492 0,38 
+HOME DEPOT INC US4370761029 I.G - TCapitale Q OCSE 188.010 0,38 
+COSTCO WHOLESALE CORP US22160K1051 I.G - TCapitale Q OCSE 187.880 0,38 
+US TREASURY N/B 15/02/2031 1,125 US91282CBL46 I.G - TStato Org.Int Q OCSE 187.359 0,38 
+Altri     24.353.168 49,13
+=== pagina 51 ===
+51 
+Denominazione Codice ISIN Categoria bilancio 
+Valore 
+Euro % 
+  Totale portafoglio 46.766.098 94,36 
+ 
+Distribuzione territoriale degli investimenti 
+La distribuzione territoriale degli investimenti è la seguente: 
+Voci/Paesi Italia Altri UE Altri OCSE Altri 
+OCSE Totale 
+Titoli di Stato 808.186 824.569 4.941.550 - 6.574.305 
+Titoli di Capitale 
+quotati 366.032 3.894.565 35.734.677 196.519 40.191.793 
+Depositi bancari 1.062.583 - - - 1.062.583 
+Totale 2.236.801 4.719.134 40.676.227 196.519 47.828.681 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente: 
+ 
+Voci/Paesi 
+ 
+Titoli di Stato Titoli di Capitale / 
+OICVM 
+Depositi 
+bancari TOTALE 
+USD 3.381.878 29.630.455 318.776 33.331.109 
+EUR 1.632.754 3.204.527 383.521 5.220.802 
+JPY 856.922 2.320.442 47.592 3.224.956 
+GBP 463.610 1.373.311 98.882 1.935.803 
+CAD 115.980 1.224.189 31.760 1.371.929 
+CHF - 1.163.936 30.790 1.194.726 
+AUD 123.161 692.728 36.166 852.055 
+SEK - 302.658 23.111 325.769 
+DKK - 154.240 45.434 199.674 
+HKD - 103.358 15.556 118.914 
+NOK - 21.949 30.995 52.944 
+Totale 6.574.305 40.191.793 1.062.583 47.828.681 
+Operazioni in titoli stipulate e non ancora regolate 
+ 
+Non si evidenziano operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio.
+=== pagina 52 ===
+52 
+Posizioni in contratti derivati  
+Si riportano i contratti derivati detenuti alla data di chiusura dell’esercizio: 
+ 
+Tipologia con-
+tratto 
+Strumento / Indice sotto-
+stante 
+Posizione 
+Lunga / 
+Corta 
+Divisa                     
+di denomina-
+zione 
+Nozionale* 
+Futures EURO FX CURR FUT  Mar26 LUNGA USD -33.710.851 
+Futures EURO/JPY FUTURE   Mar26 LUNGA JPY -3.240.114 
+Futures EURO/CHF FUTURE   Mar26 LUNGA CHF -1.119.685 
+Futures EURO/GBP FUTURE   Mar26 LUNGA GBP -1.755.415 
+Totale       -39.826.065 
+ 
+Posizioni di copertura del rischio di cambio 
+ 
+Divisa Tipo posizione Nominale Cambio Valore pos. LC 
+AUD CORTA 1.431.600 1,7581 -814.288 
+CAD CORTA 1.963.100 1,6088 -1.220.227 
+DKK CORTA 1.269.700 7,4689 -169.998 
+HKD CORTA 812.200 9,1464 -88.800 
+NOK CORTA 327.700 11,8430 -27.670 
+SEK CORTA 2.795.600 10,8215 -258.338 
+Totale    -2.579.321 
+ 
+Durata media finanziaria dei titoli 
+Nella seguente tabella si riepiloga la durata media finanziaria espressa in anni (duration modificata) 
+dei titoli di debito compresi nel portafoglio, con riferimento alle loro principali tipologie: 
+ 
+Voci/Paesi Italia Altri UE Altri OCSE 
+Titoli di Stato quotati 5,746 9,452 5,604 
+ 
+L’indice misura la durata residua di un’obbligazione valutata in un’ottica puramente finanziaria; può 
+essere utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazio-
+nario. E’ ottenuta calcolando la media ponderata delle scadenze a cui saranno incassate le cedole 
+e verrà rimborsato il capitale. 
+Posizioni in conflitto di interesse 
+Non ci sono posizioni in conflitto di interesse alla data di chiusura dell’esercizio.
+=== pagina 53 ===
+53 
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i saldi dei volumi delle transazioni di acquisto e di vendita 
+effettuate nell’anno per tipologia di strumento finanziario. 
+ 
+  Acquisti Vendite Saldo Controvalore 
+Titoli di Stato -3.605.621 3.196.623 -408.998 6.802.244 
+Titoli di capitale quotati -3.255.528 4.078.416 822.888 7.333.944 
+Totale -6.861.149 7.275.039 413.890 14.136.188 
+ 
+Commissioni di negoziazione 
+ 
+Voci Commissioni 
+su acquisti 
+Commissioni 
+su vendite 
+Totale com-
+missioni 
+Controvalore  
+% sul 
+volume 
+negoziato 
+Titoli di Stato - - - 6.802.244 0,000 
+Titoli di Capitale quotati 1.184 1.614 2.798 7.333.944 0,038 
+Totale 1.184 1.614 2.798 14.136.188 0,020 
+ 
+l) Ratei e risconti attivi 
+ 
+€ 46.040 
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla 
+data di chiusura del bilancio in esame. 
+ 
+n) Altre attività della gestione finanziaria € 72.019 
+  
+La voce si riferisce a dividendi maturati e non ancora incassati per € 18.651 e a crediti previdenziali 
+per € 52.739 che verranno regolati nei primi giorni dell’esercizio 2026, ad altre attività della gestione 
+finanziaria per € 401 e a crediti per penali CSDR da rimborsare per € 228. 
+ 
+p) Margini e crediti su operazioni forward/future € 40 
+La voce si riferisce a crediti derivanti da operazioni di vendita a termine di divise estere su operazioni 
+forward pending.
+=== pagina 54 ===
+54 
+ 
+q) Valutazione e margini su futures e opzioni € 1.622.801 
+  
+La voce si riferisce al controvalore delle posizioni su futures e opzioni maturate alla data di chiusura 
+dell’esercizio. 
+ 
+Passività 
+ 
+10 - Passività della gestione previdenziale € 12.374 
+  
+a) Debiti della gestione previdenziale € 12.374 
+  
+Tale importo si riferisce ai debiti verso aderenti per liquidazioni che verranno regolati nei primi giorni 
+dell’esercizio 2026. 
+ 
+30 - Passività della gestione finanziaria       € 96.993 
+  
+d) Altre passività della gestione finanziaria                                            € 96.993 
+  
+La voce è composta per € 86.007 da debiti per commissioni di gestione, per € 3.938 da altre pas-
+sività della gestione finanziaria, e da debiti derivanti da operazioni di vendita e acquisto a termine 
+di divise estere su operazioni forward pending per € 7.048. 
+ 
+40 – Debiti di imposta                     € 1.159.937 
+La voce evidenzia l’imposta sostitutiva a credito di competenza dell’esercizio, calcolata secondo 
+quanto previsto dalla normativa vigente. 
+ 
+  
+ 
+Conti d’ordine  € 1.625.169 
+  
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora 
+incassato alla data di chiusura del bilancio.
+=== pagina 55 ===
+55
+=== pagina 56 ===
+56 
+3.3.2 Informazioni sul Conto Economico - fase di accumulo  
+ 
+10 - Saldo della gestione previdenziale  € -2.097.136 
+  
+a) Contributi per le prestazioni  € 1.720.396 
+La voce è composta come segue: 
+ 
+Fonti di contribuzione Importo 
+Contributi 1.780.507 
+Di cui  
+Azienda 27.842 
+Aderente 186.823 
+TFR 1.565.842 
+Trasferimento da altri fondi 134 
+Trasferimenti in ingresso per cambio comparto 1.990 
+TFR pregresso - 
+Commissioni una tantum di iscrizione - 
+Commissioni annue di gestione -62.235 
+Totale 10 a) 1.720.396 
+ 
+b) Anticipazioni € -557.767 
+  
+La voce contiene quanto erogato a titolo di anticipazione agli aderenti che ne hanno fatto richiesta 
+al fondo avendone diritto secondo quanto previsto dalla normativa vigente. 
+ 
+c) Trasferimenti e riscatti  € -2.604.535 
+  
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025, 
+così ripartite: 
+ 
+Trasferimento posizione individuale in uscita -2.070.072 
+Riscatto per conversione comparto -317.082 
+Liquidazione posizioni - Riscatto immediato -130.192
+=== pagina 57 ===
+57 
+Liquidazione posizioni - Riscatto totale -87.189 
+Totale -2.604.535 
+ 
+d) Trasformazioni in rendita    € -179.489 
+La voce contiene l’importo lordo delle liquidazioni erogate, nel corso dell’esercizio, in forma di ren-
+dita. 
+La voce contiene l’importo lordo delle liquidazioni erogate, nel corso dell’esercizio, in forma capi-
+tale. 
+ 
+h) Altre uscite previdenziali 
+ 
+€ -205 
+  
+La voce riporta l’importo delle operazioni di sistemazione effettuate nel corso dell’esercizio. 
+ 
+i) Altre entrate previdenziali € 314 
+  
+La voce riporta l’importo delle operazioni di sistemazione effettuate nel corso dell’esercizio. 
+ 
+20 - Risultato della gestione finanziaria  € 6.663.778 
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite 
+derivanti da operazioni finanziarie, come riepilogati nella tabella seguente: 
+ 
+Descrizione Dividendi e interessi 
+Profitti e perdite da  
+operazioni finanziarie 
+Titoli di Stato 146.995 -439.061 
+Titoli di Capitale quotati 569.427 2.831.982 
+Depositi Bancari 11.094 - 43.295 
+Futures - 3.485.298 
+Risultato della gestione cambi - 103.481 
+Commissioni di negoziazione - - 2.798 
+ 
+e) Erogazioni in forma capitale 
+ 
+€ -475.850
+=== pagina 58 ===
+58 
+Bonus CSDR - 34 
+Altri costi - -1.614 
+Altri ricavi - 2.235 
+Totale 727.516 5.936.262 
+ 
+La voce altri costi si riferisce prevalentemente a bolli e sopravvenienze passivi, mentre gli altri ricavi 
+si riferiscono prevalentemente a proventi diversi e sopravvenienze attive della gestione finanziaria. 
+ 
+30 - Oneri di gestione € -911.301 
+  
+a) Società di Gestione € -907.364 
+  
+La voce è interamente riferita alle commissioni dovute al gestore Generali Asset Management 
+S.p.A. società di gestione del risparmio.  
+ 
+ 
+c) Altri oneri di gestione € -3.937 
+  
+La voce è così composta: 
+ 
+ Anno 2025 Anno 2024 
+Oneri per il Responsabile del Fondo - 2.985 -2.860 
+Contributo annuale Covip  - 952 -1.024 
+Totale -3.937 -3.884 
+ 
+50 - Imposta sostitutiva € -1.159.937 
+La voce evidenzia l’imposta sostitutiva calcolata secondo quanto previsto dalla normativa e dalle 
+disposizioni dell’Organismo di Vigilanza dei Fondi Pensione, Covip.
+=== pagina 59 ===
+KPMG S.p.A. 
+Revisione e organizzazione contabile 
+Via Giovanni Battista Pirelli, 38 
+20124 MILANO MI 
+Telefono +39 02 6763.1 
+Email it-fmauditaly@kpmg.it  
+PEC kpmgspa@pec.kpmg.it 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ancona Bari Bergamo 
+Bologna Bolzano Brescia  
+Catania Como Firenze Genova  
+Lecce Milano Napoli Novara  
+Padova Palermo Parma Perugia 
+Pescara Roma Torino Treviso  
+Trieste Varese Verona 
+ 
+Società per azioni 
+Capitale sociale 
+Euro 10.415.500,00 i.v. 
+Registro Imprese Milano Monza Brianza Lodi 
+e Codice Fiscale N. 00709600159 
+R.E.A. Milano N. 512867 
+Partita IVA 00709600159 
+VAT number IT00709600159 
+Sede legale: Via Giovanni Battista Pirelli, 38 
+20124 Milano MI ITALIA 
+ 
+ 
+ 
+ 
+KPMG S.p.A. 
+è una società per azioni 
+di diritto italiano 
+e fa parte del network KPMG 
+di entità indipendenti affiliate a 
+KPMG International Limited, 
+società di diritto inglese. 
+Relazione della società di revisione indipendente ai sensi dell’art. 21 
+dello Schema di Regolamento di cui alla Deliberazione Covip del  
+19 maggio 2021 
+Al Consiglio di Amministrazione di  
+Alleanza Assicurazioni S.p.A. 
+Giudizio 
+Abbiamo svolto la revisione contabile del rendiconto della fase di accumulo del Fondo pensione Aperto a 
+Contribuzione Definita “AlMeglio” (il “Fondo”) comparto “AlMeglio Obbligazionario” (il “Comparto”) attivato 
+da Alleanza Assicurazioni S.p.A., costituito dallo stato patrimoniale al 31 dicembre 2025, dal conto 
+economico per l’esercizio chiuso a tale data e dalla nota integrativa.  
+A nostro giudizio, il rendiconto della fase di accumulo del comparto (stato patrimoniale, conto economico 
+e nota integrativa) fornisce una rappresentazione veritiera e corretta della situazione patrimoniale e 
+finanziaria del Fondo pensione Aperto a Contribuzione Definita “AlMeglio” comparto “AlMeglio 
+Obbligazionario” attivato da Alleanza Assicurazioni S.p.A. al 31 dicembre 2025 e della variazione 
+dell’attivo netto destinato alle prestazioni per l’esercizio chiuso a tale data, in conformità ai provvedimenti 
+emanati da Covip che ne disciplinano i criteri di redazione.  
+Elementi alla base del giudizio 
+Abbiamo svolto la revisione contabile in conformità ai principi di revisione internazionali (ISA Italia). Le 
+nostre responsabilità ai sensi di tali principi sono ulteriormente descritte nel paragrafo “Responsabilità 
+della società di revisione per la revisione contabile del rendiconto” della presente relazione. Siamo 
+indipendenti rispetto al Fondo pensione Aperto a Contribuzione Definita “ AlMeglio” e ad Alleanza 
+Assicurazioni S.p.A. in conformità alle norme e ai principi in materia di etica e di indipendenza applicabili 
+nell’ordinamento italiano alla revisione contabile del bilancio. Riteniamo di aver acquisito elementi 
+probativi sufficienti ed appropriati su cui basare il nostro giudizio.  
+Responsabilità degli Amministratori e del Collegio Sindacale di Alleanza Assicurazioni 
+S.p.A. per il rendiconto 
+Gli Amministratori sono responsabili per la redazione del rendiconto che fornisca una rappresentazione 
+veritiera e corretta in conformità ai provvedimenti emanati da Covip che ne disciplinano i criteri di 
+redazione e, nei termini previsti dalla legge, per quella parte del controllo interno dagli stessi ritenuta 
+necessaria per consentire la redazione di un rendiconto che non contenga errori significativi dovuti a frodi 
+o a comportamenti o eventi non intenzionali.
+=== pagina 60 ===
+2 
+ 
+ 
+ 
+Rendiconto della fase di accumulo del Fondo pensione Aperto a Contribuzione Definita “AlMeglio” comparto “AlMeglio 
+Obbligazionario” 
+Relazione della società di revisione 
+31 dicembre 2025 
+Gli Amministratori sono responsabili per la valutazione della capacità del Comparto di continuare ad 
+operare come un’entità in funzionamento e, nella redazione del rendiconto, per l’appropriatezza 
+dell’utilizzo del presupposto della continuità aziendale, nonché per una adeguata informativa in materia. 
+Gli Amministratori utilizzano il presupposto della continuità aziendale nella redazione del rendiconto a 
+meno che abbiano valutato che sussistono le condizioni per la liquidazione del Comparto o per 
+l’interruzione dell’attività o non abbiano alternative realistiche a tale scelta.  
+Il Collegio Sindacale di Alleanza Assicurazioni S.p.A. ha la responsabilità della vigilanza, nei termini 
+previsti dalla legge, sul processo di predisposizione dell’informativa finanziaria del Comparto. 
+Responsabilità della società di revisione per la revisione contabile del rendiconto  
+I nostri obiettivi sono l’acquisizione di una ragionevole sicurezza che il rendiconto nel suo complesso non 
+contenga errori significativi, dovuti a frodi o a comportamenti o eventi non intenzionali, e l’emissione di 
+una relazione di revisione che includa il nostro giudizio. Per ragionevole sicurezza si intende un livello 
+elevato di sicurezza che tuttavia non fornisce la garanzia che una revisione contabile svolta in conformità 
+ai principi di revisione internazionali (ISA Italia) individui sempre un errore s ignificativo, qualora esistente. 
+Gli errori possono derivare da frodi o da comportamenti o eventi non intenzionali e sono considerati 
+significativi qualora ci si possa ragionevolmente attendere che essi, singolarmente o nel loro insieme, 
+siano in grado di influenzare le decisioni economiche degli utilizzatori prese sulla base del rendiconto.  
+Nell’ambito della revisione contabile svolta in conformità ai principi di revisione internazionali (ISA Italia), 
+abbiamo esercitato il giudizio professionale e abbiamo mantenuto lo scetticismo professionale per tutta la 
+durata della revisione contabile. Inoltre: 
+• abbiamo identificato e valutato i rischi di errori significativi nel rendiconto, dovuti a frodi o a 
+comportamenti o eventi non intenzionali; abbiamo definito e svolto procedure di revisione in risposta 
+a tali rischi; abbiamo acquisito elementi probativi sufficienti ed appropriati su cui basare il nostro 
+giudizio. Il rischio di non individuare un errore significativo dovuto a frodi è più elevato rispetto al 
+rischio di non individuare un errore significativo derivante da comportamenti od eventi non 
+intenzionali, poiché la frode può implicare l’esistenza di collusioni, falsificazioni, omissioni 
+intenzionali, rappresentazioni fuorvianti o forzature del controllo interno;  
+• abbiamo acquisito una comprensione del controllo interno rilevante ai fini della revisione contabile 
+allo scopo di definire procedure di revisione appropriate nelle circostanze, e non per esprimere un 
+giudizio sull’efficacia del controllo interno del Fondo e di Alleanza Assicurazioni S.p.A.; 
+• abbiamo valutato l’appropriatezza dei criteri e delle modalità di valutazione adottati nonché la 
+ragionevolezza delle stime contabili effettuate dagli Amministratori , inclusa la relativa informativa; 
+• siamo giunti ad una conclusione sull’appropriatezza dell’utilizzo da parte degli Amministratori del 
+presupposto della continuità aziendale e, in base agli elementi probativi acquisiti, sull’eventuale 
+esistenza di una incertezza significativa riguardo a eventi o circostanze che possono far sorgere 
+dubbi significativi sulla capacità del Comparto di continuare ad operare come un’entità in 
+funzionamento. In presenza di un’incertezza significativa, siamo tenuti a richiamare l’attenzione nella 
+relazione di revisione sulla relativa informativa inclusa nel rendiconto ovvero, qualora tale informativa 
+sia inadeguata, a riflettere tale circostanza nella formulazione del nostro giudizio. Le nostre 
+conclusioni sono basate sugli elementi probativi acquisiti fino alla data  della presente relazione. 
+Tuttavia, eventi o circostanze successivi possono comportare che il Comparto cessi di operare come 
+un’entità in funzionamento;
+=== pagina 61 ===
+
+=== pagina 62 ===
+KPMG S.p.A. 
+Revisione e organizzazione contabile 
+Via Giovanni Battista Pirelli, 38 
+20124 MILANO MI 
+Telefono +39 02 6763.1 
+Email it-fmauditaly@kpmg.it  
+PEC kpmgspa@pec.kpmg.it 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ancona Bari Bergamo 
+Bologna Bolzano Brescia  
+Catania Como Firenze Genova  
+Lecce Milano Napoli Novara  
+Padova Palermo Parma Perugia 
+Pescara Roma Torino Treviso  
+Trieste Varese Verona 
+ 
+Società per azioni 
+Capitale sociale 
+Euro 10.415.500,00 i.v. 
+Registro Imprese Milano Monza Brianza Lodi 
+e Codice Fiscale N. 00709600159 
+R.E.A. Milano N. 512867 
+Partita IVA 00709600159 
+VAT number IT00709600159 
+Sede legale: Via Giovanni Battista Pirelli, 38 
+20124 Milano MI ITALIA 
+ 
+ 
+ 
+ 
+KPMG S.p.A. 
+è una società per azioni 
+di diritto italiano 
+e fa parte del network KPMG 
+di entità indipendenti affiliate a 
+KPMG International Limited, 
+società di diritto inglese. 
+Relazione della società di revisione indipendente ai sensi dell’art. 21 
+dello Schema di Regolamento di cui alla Deliberazione Covip del  
+19 maggio 2021 
+Al Consiglio di Amministrazione di  
+Alleanza Assicurazioni S.p.A. 
+Giudizio 
+Abbiamo svolto la revisione contabile del rendiconto della fase di accumulo del Fondo pensione Aperto a 
+Contribuzione Definita “AlMeglio” (il “Fondo”) comparto “AlMeglio Bilanciato” (il “Comparto”) attivato da 
+Alleanza Assicurazioni S.p.A., costituito dallo stato patrimoniale al 31 dicembre 2025, dal conto 
+economico per l’esercizio chiuso a tale data e dalla nota integrativa.  
+A nostro giudizio, il rendiconto della fase di accumulo del comparto (stato patrimoniale, conto economico 
+e nota integrativa) fornisce una rappresentazione veritiera e corretta della situazione patrimoniale e 
+finanziaria del Fondo pensione Aperto a Contribuzione Definita “AlMeglio” comparto “AlMeglio Bilanciato” 
+attivato da Alleanza Assicurazioni S.p.A. al 31 dicembre 2025 e della variazione dell’attivo netto 
+destinato alle prestazioni per l’esercizio chiuso a tale data, in conformità ai provvedimenti emana ti da 
+Covip che ne disciplinano i criteri di redazione. 
+Elementi alla base del giudizio 
+Abbiamo svolto la revisione contabile in conformità ai principi di revisione internazionali (ISA Italia). Le 
+nostre responsabilità ai sensi di tali principi sono ulteriormente descritte nel paragrafo “Responsabilità 
+della società di revisione per la revisione contabile del rendiconto” della presente relazione. Siamo 
+indipendenti rispetto al Fondo pensione Aperto a Contribuzione Definita “ AlMeglio” e ad Alleanza 
+Assicurazioni S.p.A. in conformità alle norme e ai principi in materia di etica e di indipendenza applicabili 
+nell’ordinamento italiano alla revisione contabile del bilancio. Riteniamo di aver acquisito elementi 
+probativi sufficienti ed appropriati su cui basare il nostro giudizio.  
+Responsabilità degli Amministratori e del Collegio Sindacale di Alleanza Assicurazioni 
+S.p.A. per il rendiconto 
+Gli Amministratori sono responsabili per la redazione del rendiconto che fornisca una rappresentazione 
+veritiera e corretta in conformità ai provvedimenti emanati da Covip che ne disciplinano i criteri di 
+redazione e, nei termini previsti dalla legge, per quella parte del controllo interno dagli stessi ritenuta 
+necessaria per consentire la redazione di un rendiconto che non contenga errori significativi dovuti a frodi 
+o a comportamenti o eventi non intenzionali.
+=== pagina 63 ===
+2 
+ 
+ 
+ 
+Rendiconto della fase di accumulo del Fondo pensione Aperto a Contribuzione Definita “AlMeglio” comparto “AlMeglio 
+Bilanciato” 
+Relazione della società di revisione 
+31 dicembre 2025 
+Gli Amministratori sono responsabili per la valutazione della capacità del Comparto di continuare ad 
+operare come un’entità in funzionamento e, nella redazione del rendiconto, per l’appropriatezza 
+dell’utilizzo del presupposto della continuità aziendale, nonché per una adeguata informativa in materia. 
+Gli Amministratori utilizzano il presupposto della continuità aziendale nella redazione del rendiconto a 
+meno che abbiano valutato che sussistono le condizioni per la liquidazione del Comparto o per 
+l’interruzione dell’attività o non abbiano alternative realistiche a tale scelta.  
+Il Collegio Sindacale di Alleanza Assicurazioni S.p.A. ha la responsabilità della vigilanza, nei termini 
+previsti dalla legge, sul processo di predisposizione dell’informativa finanziaria del Comparto. 
+Responsabilità della società di revisione per la revisione contabile del rendiconto  
+I nostri obiettivi sono l’acquisizione di una ragionevole sicurezza che il rendiconto nel suo complesso non 
+contenga errori significativi, dovuti a frodi o a comportamenti o eventi non intenzionali, e l’emissione di 
+una relazione di revisione che includa il nostro giudizio. Per ragionevole sicurezza si intende un livello 
+elevato di sicurezza che tuttavia non fornisce la garanzia che una revisione contabile svolta in conformità 
+ai principi di revisione internazionali (ISA Italia) individui sempre un errore s ignificativo, qualora esistente. 
+Gli errori possono derivare da frodi o da comportamenti o eventi non intenzionali e sono considerati 
+significativi qualora ci si possa ragionevolmente attendere che essi, singolarmente o nel loro insieme, 
+siano in grado di influenzare le decisioni economiche degli utilizzatori prese sulla base del rendiconto.  
+Nell’ambito della revisione contabile svolta in conformità ai principi di revisione internazionali (ISA Italia), 
+abbiamo esercitato il giudizio professionale e abbiamo mantenuto lo scetticismo professionale per tutta la 
+durata della revisione contabile. Inoltre: 
+• abbiamo identificato e valutato i rischi di errori significativi nel rendiconto, dovuti a frodi o a 
+comportamenti o eventi non intenzionali; abbiamo definito e svolto procedure di revisione in risposta 
+a tali rischi; abbiamo acquisito elementi probativi sufficienti ed appropriati su cui basare il nostro 
+giudizio. Il rischio di non individuare un errore significativo dovuto a frodi è più elevato rispetto al 
+rischio di non individuare un errore significativo derivante da comportamenti od eventi non 
+intenzionali, poiché la frode può implicare l’esistenza di collusioni, falsificazioni, omissioni 
+intenzionali, rappresentazioni fuorvianti o forzature del controllo interno;  
+• abbiamo acquisito una comprensione del controllo interno rilevante ai fini della revisione contabile 
+allo scopo di definire procedure di revisione appropriate nelle circostanze, e non per esprimere un 
+giudizio sull’efficacia del controllo interno del Fondo e di Alleanza Assicurazioni S.p.A.; 
+• abbiamo valutato l’appropriatezza dei criteri e delle modalità di valutazione adottati nonché la 
+ragionevolezza delle stime contabili effettuate dagli Amministratori , inclusa la relativa informativa; 
+• siamo giunti ad una conclusione sull’appropriatezza dell’utilizzo da parte degli Amministratori del 
+presupposto della continuità aziendale e, in base agli elementi probativi acquisiti, sull’eventuale 
+esistenza di una incertezza significativa riguardo a eventi o circostanze che possono far sorgere 
+dubbi significativi sulla capacità del Comparto di continuare ad operare come un’entità in 
+funzionamento. In presenza di un’incertezza significativa, siamo tenuti a richiamare l’attenzione nella 
+relazione di revisione sulla relativa informativa inclusa nel rendiconto ovvero, qualora tale informativa 
+sia inadeguata, a riflettere tale circostanza nella formulazione del nostro giudizio. Le nostre 
+conclusioni sono basate sugli elementi probativi acquisiti fino alla data  della presente relazione. 
+Tuttavia, eventi o circostanze successivi possono comportare che il Comparto cessi di operare come 
+un’entità in funzionamento;
+=== pagina 64 ===
+
+=== pagina 65 ===
+KPMG S.p.A. 
+Revisione e organizzazione contabile 
+Via Giovanni Battista Pirelli, 38 
+20124 MILANO MI 
+Telefono +39 02 6763.1 
+Email it-fmauditaly@kpmg.it  
+PEC kpmgspa@pec.kpmg.it 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ancona Bari Bergamo 
+Bologna Bolzano Brescia  
+Catania Como Firenze Genova  
+Lecce Milano Napoli Novara  
+Padova Palermo Parma Perugia 
+Pescara Roma Torino Treviso  
+Trieste Varese Verona 
+ 
+Società per azioni 
+Capitale sociale 
+Euro 10.415.500,00 i.v. 
+Registro Imprese Milano Monza Brianza Lodi 
+e Codice Fiscale N. 00709600159 
+R.E.A. Milano N. 512867 
+Partita IVA 00709600159 
+VAT number IT00709600159 
+Sede legale: Via Giovanni Battista Pirelli, 38 
+20124 Milano MI ITALIA 
+ 
+ 
+ 
+ 
+KPMG S.p.A. 
+è una società per azioni 
+di diritto italiano 
+e fa parte del network KPMG 
+di entità indipendenti affiliate a 
+KPMG International Limited, 
+società di diritto inglese. 
+Relazione della società di revisione indipendente ai sensi dell’art. 21 
+dello Schema di Regolamento di cui alla Deliberazione Covip del  
+19 maggio 2021 
+Al Consiglio di Amministrazione di  
+Alleanza Assicurazioni S.p.A. 
+Giudizio 
+Abbiamo svolto la revisione contabile del rendiconto della fase di accumulo del Fondo pensione Aperto a 
+Contribuzione Definita “AlMeglio” (il “Fondo”) comparto “AlMeglio Azionario” (il “Comparto”) attivato da 
+Alleanza Assicurazioni S.p.A., costituito dallo stato patrimoniale al 31 dicembre 2025, dal conto 
+economico per l’esercizio chiuso a tale data e dalla nota integrativa.  
+A nostro giudizio, il rendiconto della fase di accumulo del comparto (stato patrimoniale, conto economico 
+e nota integrativa) fornisce una rappresentazione veritiera e corretta della situazione patrimoniale e 
+finanziaria del Fondo pensione Aperto a Contribuzione Definita “AlMeglio” comparto “AlMeglio Azionario” 
+attivato da Alleanza Assicurazioni S.p.A. al 31 dicembre 2025 e della variazione dell’attivo netto 
+destinato alle prestazioni per l’esercizio chiuso a tale data, in conformità ai provvedimenti emanat i da 
+Covip che ne disciplinano i criteri di redazione. 
+Elementi alla base del giudizio 
+Abbiamo svolto la revisione contabile in conformità ai principi di revisione internazionali (ISA Italia). Le 
+nostre responsabilità ai sensi di tali principi sono ulteriormente descritte nel paragrafo “Responsabilità 
+della società di revisione per la revisione contabile del rendiconto” della presente relazione. Siamo 
+indipendenti rispetto al Fondo pensione Aperto a Contribuzione Definita “ AlMeglio” e ad Alleanza 
+Assicurazioni S.p.A. in conformità alle norme e ai principi in materia di etica e di indipendenza applicabili 
+nell’ordinamento italiano alla revisione contabile del bilancio. Riteniamo di aver acquisito elementi 
+probativi sufficienti ed appropriati su cui basare il nostro giudizio.  
+Responsabilità degli Amministratori e del Collegio Sindacale di Alleanza Assicurazioni 
+S.p.A. per il rendiconto 
+Gli Amministratori sono responsabili per la redazione del rendiconto che fornisca una rappresentazione 
+veritiera e corretta in conformità ai provvedimenti emanati da Covip che ne disciplinano i criteri di 
+redazione e, nei termini previsti dalla legge, per quella parte del controllo interno dagli stessi ritenuta 
+necessaria per consentire la redazione di un rendiconto che non contenga errori significativi dovuti a frodi 
+o a comportamenti o eventi non intenzionali.
+=== pagina 66 ===
+2 
+ 
+ 
+ 
+Rendiconto della fase di accumulo del Fondo pensione Aperto a Contribuzione Definita “AlMeglio” comparto “AlMeglio 
+Azionario” 
+Relazione della società di revisione 
+31 dicembre 2025 
+Gli Amministratori sono responsabili per la valutazione della capacità del Comparto di continuare ad 
+operare come un’entità in funzionamento e, nella redazione del rendiconto, per l’appropriatezza 
+dell’utilizzo del presupposto della continuità aziendale, nonché per una adeguata informativa in materia. 
+Gli Amministratori utilizzano il presupposto della continuità aziendale nella redazione del rendiconto a 
+meno che abbiano valutato che sussistono le condizioni per la liquidazione del Comparto o per 
+l’interruzione dell’attività o non abbiano alternative realistiche a tale scelta.  
+Il Collegio Sindacale di Alleanza Assicurazioni S.p.A. ha la responsabilità della vigilanza, nei termini 
+previsti dalla legge, sul processo di predisposizione dell’informativa finanziaria del Comparto. 
+Responsabilità della società di revisione per la revisione contabile del rendiconto  
+I nostri obiettivi sono l’acquisizione di una ragionevole sicurezza che il rendiconto nel suo complesso non 
+contenga errori significativi, dovuti a frodi o a comportamenti o eventi non intenzionali, e l’emissione di 
+una relazione di revisione che includa il nostro giudizio. Per ragionevole sicurezza si intende un livello 
+elevato di sicurezza che tuttavia non fornisce la garanzia che una revisione contabile svolta in conformità 
+ai principi di revisione internazionali (ISA Italia) individui sempre un errore s ignificativo, qualora esistente. 
+Gli errori possono derivare da frodi o da comportamenti o eventi non intenzionali e sono considerati 
+significativi qualora ci si possa ragionevolmente attendere che essi, singolarmente o nel loro insieme, 
+siano in grado di influenzare le decisioni economiche degli utilizzatori prese sulla base del rendiconto.  
+Nell’ambito della revisione contabile svolta in conformità ai principi di revisione internazionali (ISA Italia), 
+abbiamo esercitato il giudizio professionale e abbiamo mantenuto lo scetticismo professionale per tutta la 
+durata della revisione contabile. Inoltre: 
+• abbiamo identificato e valutato i rischi di errori significativi nel rendiconto, dovuti a frodi o a 
+comportamenti o eventi non intenzionali; abbiamo definito e svolto procedure di revisione in risposta 
+a tali rischi; abbiamo acquisito elementi probativi sufficienti ed appropriati su cui basare il nostro 
+giudizio. Il rischio di non individuare un errore significativo dovuto a frodi è più elevato rispetto al 
+rischio di non individuare un errore significativo derivante da comportamenti od eventi non 
+intenzionali, poiché la frode può implicare l’esistenza di collusioni, falsificazioni, omissioni 
+intenzionali, rappresentazioni fuorvianti o forzature del controllo interno;  
+• abbiamo acquisito una comprensione del controllo interno rilevante ai fini della revisione contabile 
+allo scopo di definire procedure di revisione appropriate nelle circostanze, e non per esprimere un 
+giudizio sull’efficacia del controllo interno del Fondo e di Alleanza Assicurazioni S.p.A.; 
+• abbiamo valutato l’appropriatezza dei criteri e delle modalità di valutazione adottati nonché la 
+ragionevolezza delle stime contabili effettuate dagli Amministratori , inclusa la relativa informativa; 
+• siamo giunti ad una conclusione sull’appropriatezza dell’utilizzo da parte degli Amministratori del 
+presupposto della continuità aziendale e, in base agli elementi probativi acquisiti, sull’eventuale 
+esistenza di una incertezza significativa riguardo a eventi o circostanze che possono far sorgere 
+dubbi significativi sulla capacità del Comparto di continuare ad operare come un’entità in 
+funzionamento. In presenza di un’incertezza significativa, siamo tenuti a richiamare l’attenzione nella 
+relazione di revisione sulla relativa informativa inclusa nel rendiconto ovvero, qualora tale informativa 
+sia inadeguata, a riflettere tale circostanza nella formulazione del nostro giudizio. Le nostre 
+conclusioni sono basate sugli elementi probativi acquisiti fino alla data  della presente relazione. 
+Tuttavia, eventi o circostanze successivi possono comportare che il Comparto cessi di operare come 
+un’entità in funzionamento;
+=== pagina 67 ===
+

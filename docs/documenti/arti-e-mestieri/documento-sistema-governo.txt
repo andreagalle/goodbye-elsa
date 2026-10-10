@@ -1,0 +1,871 @@
+# Fondo: ARTI & MESTIERI - FONDO PENSIONE APERTO (arti-e-mestieri)
+# Documento: Documento sul sistema di governo – Documento sul sistema di governo societario
+# Fonte: https://www.animasgr.it/d/IT/Downloads/Documents/FP_RGS.pdf
+# Citato in: https://www.animasgr.it/IT/investitore-privato/come-investire/Pagine/documentazione-legale.aspx?areas=2
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5288ecfca8272db50f1d2e384604b2b4fbe46c68837f4e6a0f6e405775fe5f65
+# Pagine: 20
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul Sistema di 
+Governo Societario 
+afferente alla gestione del 
+Fondo Pensione Aperto 
+Arti & Mestieri 
+ 
+27 marzo 2026
+=== pagina 2 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    2 
+Indice  
+Premessa ...................................................................................................................... .......................................... 3 
+1. La Struttura Organizzativa ............................................................................................................................ 4 
+2. L’organizzazione della società rilevante per i profili gestionali inerenti al fondo (incluse funzioni 
+e attività esternalizzate). ............................................................................................................................... 6 
+2.1 Funzioni aziendali coinvolte nel processo di gestione del Fondo Pensione .............................................. 6 
+2.2 Processo di investimento del Fondo Pensione ............................................................................... ............... 7 
+2.3 Funzioni aziendali affidate a soggetti esterni ............................................................................ ................... 10 
+3. Sistema dei Controlli Interni ....................................................................................................................... 10 
+3.1 Elementi costitutivi ...................................................................................................... ..................................... 11 
+3.2 Articolazione dei livelli di controllo .................................................................................... ............................ 11 
+3.2.1 Controlli di Primo Livello: ............................................................................................. ................................... 12 
+3.2.2 Controlli di Secondo Livello ............................................................................................ ................................. 13 
+3.3 Controlli di Terzo Livello ................................................................................................ .................................. 13 
+4. Sistema di gestione dei rischi del Fondo Pensione ................................................................................ 14 
+4.1 Rischi finanziari degli investimenti ...................................................................................... ........................... 14 
+4.2 Rischi di concentrazione e del rispetto delle altre limitazioni agli investimenti ...................................... 15  
+4.3 Rischi di sostenibilità degli investimenti ................................................................................ ....................... 15 
+4.4 Rischi di liquidità ............................................................................................................................................... 15 
+4.5 Rischi operativi .......................................................................................................... ....................................... 16 
+5. Flussi informativi tra le strutture aziendali e il Responsabile del Fondo Pensione e viceversa 17 
+6. Politica di Remunerazione .................................................................................................. ............... 18
+=== pagina 3 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    3 
+Premessa  
+ 
+“Arti & Mestieri  - Fondo pensione aperto” (di seguito il “Fondo Pensione”) è finalizzato all’erogazione di 
+trattamenti pensionistici complementari del sistema previdenziale obbligatorio, ai sensi del D. Lgs. 5 dicembre 
+2005, n. 252 (di seguito “Decreto”).  
+ 
+Il Fondo Pensione è iscritto all’Albo tenuto dalla COVIP al n. 63, ed è gestito da Anima SGR S.p.A.  (di seguito, 
+anche “Anima SGR”, la “Società” o la “SGR”), Società di gestione del risparmio controllata da Anima Holding S.p.A. 
+e soggetta ad attività di direzione e coordinamento di Banco BPM S.p.A. La sede legale della Società è situata in 
+Milano, in corso Giuseppe Garibaldi n° 99, presso la quale operano gli Organi Aziendali e tutte le funzioni di 
+business. Sono inoltre operative due Un ità Locali rispettivamente a Milano, in via San Prospero 2 e a Roma, in 
+Largo Chigi 9 nell’ambito della quale operano parte della Divisione Middle Office e parte della Divisione Controls 
+& Reporting Management. 
+ 
+“Arti & Mestieri - Fondo pensione aperto” ha lo scop o di consentire all’aderente di percepire una pensione 
+complementare (rendita) che si aggiunge alle prestazioni attese dal sistema pensionistico pubblico. Tale scopo 
+è perseguito mediante la raccolta delle somme versate dagli aderenti (contributi) e il successivo investimento in 
+strumenti finanziari, nel loro esclusivo interesse sulla base delle opzioni di investimento dagli stessi prescelte.  
+ 
+Il Fondo è rivolto a tutti coloro che intendono realizzare un piano di previdenza complementare su base 
+individuale. Possono inoltre aderire, su  base collettiva, i lavoratori nei cui confronti trovano applicazione i 
+contratti, gli accordi o i regolamenti aziendali che prevedono l’adesione al Fondo. Ai sensi dell’Art. 8 comma 7 del 
+Decreto, l’adesione al Fondo su ba se collettiva può avvenire anche mediante conferimento tacito del TFR 
+maturando.  
+ 
+Arti & Mestieri è un Fondo pensione aperto, costituito in  forma di patrimonio autonomo e separato da quello 
+della SGR e da quello degli altri fondi gestiti, operante in regime di contribuzione definita. L’entità della 
+prestazione pensionistica è determinata  in funzione della cont ribuzione effettuata e dei relativi rendimenti. 
+L’adesione è libera e volontaria. La partecipazione alle forme pensionist iche complementari disciplinate dal 
+Decreto consente all’iscritto di ottenere benefici fiscali sui contributi versati nel fondo e sui rendimenti conseguiti 
+nella fase di accumulo. La tassazione applicata sulle prestazioni pensionistiche erogate dal fondo risulta tanto 
+più agevolata quanto più duratura è la permanenza nel fondo. La misura e la periodicità della contribuzione 
+(mensile, trimestrale, semestrale o annuale) sono scelte liberamente dall'aderente al momento dell'adesione e 
+possono essere successivamente variate. 
+ 
+La SGR ha nominato un Responsabile, che è una persona indipendente che ha il compito di controllare che nella 
+gestione dell’attività del Fondo vengano rispettati la legge ed il Regolamento, che sia perseguito l’interesse degli 
+iscritti e che vengano osservati i principi di corretta amministrazione. Il Responsabile attuale del Fondo è il Dott. 
+Davide Alliori.  
+ 
+Il Depositario è BNP Paribas SA – Succursale Italia con sede legale in Piazza Lina Bo Bardi n.3, Milano. 
+ 
+Il Service Amministrativo per i servizi amministrativo-contabili di fund accounting è BNP Paribas SA – Succursale 
+Italia con sede legale in Piazza Lina Bo Bardi n.3, Milano. 
+ 
+Il Service Amministrativo per i servizi amminist rativo-contabili di amministrazione clienti è Previnet S.p.A. con 
+sede legale in via E. Forlanini, 24 Preganziol (TV).
+=== pagina 4 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    4 
+La convenzione per l’erogazione della prestazione pensionistica in forma di rendita vitalizia è stipulata con Unipol 
+Assicurazioni S.p.A. (Fondiaria SAI S.p.A.), con sede legale in Bologna - Via Stalingrado, 45.  
+ 
+La società incaricata della revisione legale, anche per il rendiconto del Fondo Pensione “Arti & Mestieri”, è Deloitte 
+& Touche S.p.A. con sede legale in Milano, via Santa Sofia n.28, iscritta al registro dei revisori legali presso il 
+Ministero dell'Economia e delle Finanze.  L’incarico di revisione legale conferito a Deloitte & Touche S.p.A. ha 
+durata sino alla data di approvazione, da parte dell’assemblea ordinaria della SGR, del bilancio di esercizio al 31 
+dicembre 2025 della SGR. 
+ 
+La presente relazione descrive la struttura organizzativa e il sistema di governo societario afferente alla gestione 
+del Fondo Pensione adottati da Anima SGR alla data di redazione del presente documento.  
+ 
+Nell’ambito del “Sistema di Governo Societario” e del “Modello Organizzativo” adottati dalla SGR, ai sensi del 
+Regolamento della Banca d’Italia di attuazione degli art.  4 undecies e 6 comma1 b) e c-bis) del TUF emanato il 
+5/12/2019 (nel seguito anche il “Provvedimen to”), il Consiglio di Amministrazione ha istituito le funzioni di 
+revisione interna (“Internal Audit”) e di gestione del rischio (“Risk Management”) nominandone responsabili 
+rispettivamente la sig.ra Antonella Rasà e il dott. Daniele Turchi.  
+ 
+Ai sensi della Deliberazione del 13 gennaio 2021 di Covip “Istruzioni di vigilanza per le società che gestiscono 
+fondi pensione aperti, adottate ai sensi dell’art. 5-bis, articolo 4, comma 1, del decreto legislativo 5 dicembre 
+2005, n. 252”, le predette funzioni Internal Au dit e Risk Management e i relativi  titolari assumono il ruolo di 
+“funzioni fondamentali” del Fondo Pensione “Arti & Mestieri”.  
+ 
+ 
+1. La Struttura Organizzativa 
+ 
+Il modello organizzativo della SGR è di tipo gerarchico-funzionale e dipe nde dal Consiglio di Amministrazione 
+(composto da 7 membri che durano in carica per un peri odo non superiore a 3 esercizi e sono rieleggibili), dal 
+Presidente, dall’Amministratore Delegato, dal Dire ttore Generale (carica attualmente ricoperta 
+dall’Amministratore Delegato), dal Condirettore Generale e da un Vice Direttore Generale.  
+ 
+La Struttura Organizzativa è composta dalle seguenti funzioni/unità organizzative: 
+ 
+ Staff al Consiglio di Amministrazione 
+ Funzione Internal Audit (a cui è assegnata la funzione di “Revisione Interna”) 
+ Funzione Compliance & AML (a cui sono assegnate le funzioni di “Conformità” e “Antiriciclaggio”) 
+ Funzione Risk Management (a cui è assegnata la funzione di “Gestione del Rischio”), avvalendosi dei 
+servizi svolti da Anima Holding per il monitoraggio dei Rischi ICT. 
+ 
+ Linea al Direttore Generale (il quale è coaudiuvato dal Condirettore Generale) 
+ 
+ Direzione Finance, cura i processi di pianificazione e gestio ne finanziaria dell’azienda, gestione degli 
+aspetti legali e societari (ivi inclusa l’assistenza agli organi societari nella predisposizione delle attività 
+consiliari e assembleari). Assicura lo svolgimento dell e attività amministrative e contabili attinenti alla 
+società, avvalendosi dei servizi svolti in outsourcing da Anima Holding S.p.A con riferimento alle attività 
+di: 
+− strategic sourcing (acquisti e forniture) 
+− pianificazione e controllo di gestione 
+− affari legali
+=== pagina 5 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    5 
+− affari fiscali 
+ 
+ Direzione Human Resources, la quale si avvale dei servizi svolti in outsourcing da Anima Holding S.p.A 
+con riferimento alle attività di gestione e sviluppo delle risorse umane. 
+ 
+ Direzione Commerciale, cura l’offerta dei prodotti e dei servizi nei confronti della clientela Retail e dei 
+soggetti istituzionali principalmente attraverso lo sv iluppo del piano di offerta prodotti complessivo e 
+delle iniziative di carattere commerciale. Coordina la gestione delle funzioni commerciali. Supervisiona 
+la predisposizione dei piani info-formativi per i dive rsi canali. Cura il processo di definizione delle 
+strategie di marketing secondo le linee guida fo rmulate dal Consiglio di Amministrazione e dalla 
+controllante Anima Holding, e ne supervisiona l’attuazione. Il Responsabile della Direzione coordina, 
+con il supporto della Funzione Pianificazione e Controllo di Gestione, il processo di elaborazione degli 
+obiettivi commerciali delle Divisioni raccordandosi con i rispettivi responsabili delle stesse Divisioni. Si 
+avvale dei servizi svolti da Anima Holding per le at tività di marketing istitu zionale, comunicazione e 
+media relations, gestione del sito web. 
+ 
+ Direzione Investimenti, cura, con riferimento ai prodotti di ri sparmio gestito (ivi incluso il Fondo 
+Pensione) e ai servizi di investimento, lo svolgime nto delle correlate attività di natura gestionale 
+assicurandone il costante presidio e coordinamento. In particolare, le attività di investimento riferite al 
+Fondo Pensione sono svolte dalla funzione “Institutional Mandates” della Divisione “Individual 
+Mandates”. 
+ 
+ Direzione IT & Operations gestisce l’infrastruttura tecnologica e operativa dell’azienda, assicurando la 
+continuità dei sistemi informatici, la sicurezza dei dati e l’automazione dei processi, coordina le attività 
+amministrative e contabili dei prodotti finanzia ri, monitorando i rapporti con i Depositari e gli 
+Outsourcer. La Direzione si avvale dei servizi svolti in outsourcing da Anima Holding in ordine a: 
+• organizzazione 
+• project management 
+• servizi generali 
+• monitoraggio outsourcer (Third Parties) 
+• cyber security 
+ 
+ 
+Il coordinamento e la trasmissione degli input gestionali sono assicurati attraverso collegamenti verticali tra il 
+vertice e la base dell’organizzazione della Società. Il principale meccanismo di  collegamento verticale è 
+rappresentato dal riporto gerarchico tra le strutture. Il riporto gerarchico si esprime sulle strutture sottoposte 
+attraverso l’esercizio delle responsabilità complessive, il perseguimento degli obiettivi e la definizione delle 
+priorità, concordando con le altre funz ioni aziendali eventualmente responsabili su altri ambiti le migliori 
+soluzioni e tempistiche per il raggiungimento degli obiettivi complessivi. I Responsabili di ciascuna Divisione 
+condividono con i Responsabili dei Servizi sottoposti l’allocazione delle attività  ed i piani di sviluppo 
+professionali delle risorse. 
+ 
+Da novembre 2025 è stato adottato da Anima Holding e dalle sue controllate il “Regolamento di Governance del 
+Gruppo Banco BPM” nel quale sono disciplinati i prin cipi e i meccanismi di funzionamento del modello di 
+governance inclusi i riporti funzionali verso la Capogr uppo Banco BPM, finalizzat i ad assicurare il puntuale 
+esercizio dei poteri di direzione e coordinamento della Capogruppo Banco BPM nei confronti di tutte le società 
+controllate. Si precisa altresì che Anima Holding, in qualità di controllante intermedia del Gruppo Banco BPM, ha 
+la responsabilità di coadiuvare e assistere la Capogruppo vigilando sul puntuale recepimento e sull’osservanza 
+da parte delle sue controll ate dirette del complessivo impianto di governance e funzionamento del Gruppo 
+Banco BPM, anche attraverso il riporto funzionale delle strutture di Direzione, Divisione, Dipartimento e Servizio
+=== pagina 6 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    6 
+delle predette controllate dirette ai responsabili degli analoghi ambiti operativi di Anima Holding. Nello specifico 
+tra Anima Holding e le sue controllate è previsto un me ccanismo di “raccordo funz ionale”, che consente il 
+collegamento verticale all'interno del Gruppo Anima, nell’ambito dei poteri di indirizzo e coordinamento di Anima 
+Holding nei confronti delle Società Controllate,  senza pregiudicare l’autono mia gestionale, operativa e 
+decisionale di quest’ultime (le quali restano esclusivamente responsabili pe r le proprie attività operative e 
+regolamentate come previsto dalla normativa vigente), e persegue lo scopo di rafforzare e facilitare la 
+governance del Gruppo Anima e aumentare l'efficacia e l’efficienza dell’azione strategica e operativa, nonché la 
+resilienza e la produttività complessiva. 
+ 
+ 
+2. L’organizzazione della società rilevante per i profili gestionali inerenti al 
+fondo (incluse funzioni e attività esternalizzate) 
+ 
+2.1 Funzioni aziendali coinvolte nel processo di gestione del Fondo Pensione 
+ 
+Al processo di gestione del Fondo Pe nsione prendono parte, con differenti ruoli e resp onsabilità, i seguenti 
+“attori” ed Organi Collegiali:  
+ il Consiglio di Amministrazione,  
+ almeno un Amministratore designat o/i dal Consiglio di Amministrazi one (di norma, l’Amministratore 
+Delegato) che partecipa al Comitato  Investimenti con diritto di veto  e che funge da raccordo tra il 
+Consiglio di Amministrazione e il Comitato Investimenti, 
+ il Direttore Generale,  
+ il Comitato Investimenti: organizzat o in tre Sessioni distinte, a cui è assegnato il compito di esaminare 
+ed approvare periodicamente le proposte correlate al processo di investimento e le eventuali limitazioni 
+tattiche di investimento (tali limitazioni non possono essere in contrasto con il profilo di rischio deliberato 
+dal Consiglio di Amministrazione),  
+ il Comitato di Risk Management,  
+ il Comitato ESG 
+ il Responsabile della Direzione Investimenti,  
+ il Responsabile del Dipartimento Investment Research & Advisory,  
+ i Team di gestione (Responsabile della Divisione Individual Mandates e funzione Institutional Mandates), 
+ la funzione Investment Support,  
+ la funzione Risk Management,  
+ la funzione Affari Societari. 
+ 
+così come descritto nel successivo paragrafo 2.2. a cui si rinvia per dettagli.  
+ 
+Il Consiglio di Amministrazione è composto da sette amministratori, quattro dei quali in possesso dei requisiti di 
+indipendenza previsti dal Codice di Autodisciplina per le Società Quotate predisposto da Borsa Italiana S.p.A., tra 
+cui anche il Presidente. Il numero mini mo di amministratori indipendenti e i requisiti di indipendenza sono 
+regolati dall’art. 11 dello Statuto sociale e risultano già conformi alle disposizioni del Provvedimento.  
+ 
+Le scelte di investimento del Fondo Pensione, sia pu re nel quadro dell’a ttribuzione in via generale delle 
+responsabilità di gestione al Consiglio di Amministrazione e al Comitato Investimenti, sono in concreto effettuate 
+dal Dott. Filippo Di Naro, Vice Direttore Generale – Direzione Investimenti di Anima Sgr. 
+ 
+La funzione Risk Management verifica la gestione finanziaria attraverso l’analisi dei risultati conseguiti e del 
+rischio assunto dai singoli comparti. I risultati di tali an alisi sono discussi mensilmen te con i team di gestione
+=== pagina 7 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    7 
+nell’ambito del Comitato di Risk Management. La funzione Risk Management produce e presenta mensilmente 
+al CdA e al Comitato Investimenti la reportistica riguardante la situazione di rischio / rendimento dei comparti. Il 
+team di gestione esamina, in sede di Comitato Investimenti, le politiche gestionali realizzate e l’attuazione delle 
+strategie, anche attraverso l’utilizzo dell’informativa elaborata dalla funzione Risk Management. Le funzioni 
+Compliance e Internal Audi t (i cui compiti sono meglio descritti nel paragrafo 3 a cui rinvia) sono messe a 
+conoscenza di situazioni critiche da parte della funzione Risk Management e hanno facoltà di partecipare, senza 
+diritto di voto, alle sedute del Comitato Investimenti. 
+ 
+Le funzioni di gestione, nello svolgimento delle attività di investimento, sono supportate dalle funzioni della 
+Direzione IT & Operations per gli aspetti operativi e per le  attività di raccordo con gli outsoucer di back office e 
+con il Depositario. Tale Direzione è inoltre supportata per le attività monitoraggio  outsourcer dalla preposta 
+funzione di Anima Holding in virtù di accordi di esternalizzazione infra-gruppo. Tale funzione di Anima Holding 
+si occupa del monitoraggio dei servizi svolti e la valuta zione di adeguatezza degli Ou tsoucer e del Depositario. 
+Le procedure di controllo attivate per garantire la qualità del servizio e il rispetto dei vincoli normativi esistenti 
+sono previste nell’ambito degli accordi contrattuali sott oscritti con gli Outsoucer e con il Depositario, che 
+prevedono specifici “allegati tecnici o Service Level Ag reement”, volti a formalizzare lo scambio dei flussi 
+informativi con la SGR (o suo outsourcer di back office).  
+ 
+In particolare, l’operato dei Depositari è monitorato attraverso l’utilizzo di indicatori di performance “KPI” (Key 
+Performance Indicator) formalizzati negli accordi contrattuali di servizio e di eventuali ulteriori indicatori “KCI” (Key 
+Control Indicator) identificati unilateralmente da Anima SGR sulla base di valutazioni interne. 
+ 
+Gli esiti del monitoraggio sono: 
+ portati a conoscenza degli Organi Aziendali nell’ambito della “reportistica andamentale periodica”; 
+ discussi con il Depositario nel caso  di rilevazione di carenze nel serv izio offerto; “il process owner” 
+propone in stretto raccordo con la funzione Thir d Parties e con il Serviz io Compliance & AML al 
+Depositario le opportune azioni correttive volte all’eliminazione delle anomalie e delle carenze 
+riscontrate.  
+ 
+I compiti assegnati a tali funzioni, le attività svolte e i relativi processi sono disciplinati nel dettaglio nelle 
+procedure organizzative di cui si è dotata la Società.  
+ 
+ 
+2.2 Processo di investimento del Fondo Pensione 
+ 
+Al Consiglio di Amministrazi one è innanzi tutto attribuita la responsab ilità di definire il profilo di rischio-
+rendimento strategico di ciascun comparto del Fondo, in  ragione dei differenti segmen ti / tipologie di clientela 
+target cui si rivolge il Fondo, con particolare attenzione  agli obiettivi d’investimento, all’orizzonte temporale di 
+riferimento e al grado di rischiosità tollerabile. Ciò si concretizza nell’approvazione dell’istituzione del Fondo e 
+dei relativi comparti e della relativa Documentazione d’offerta, inclusiva del benchmark di ciascun comparto.  
+ 
+La politica di investimento dei comparti mira a consenti re agli aderenti di disporre, all’atto del pensionamento, 
+di prestazioni pensionistiche integrative di quelle erog ate dal sistema pubblico. Tale  obiettivo è calibrato in 
+funzione di un’aspettativa di permanenza nel fondo pe nsione che possa durare fino al raggiungimento dei 
+requisiti anagrafici e contributivi previsti per il pensionamento pubblico. Su queste basi la struttura dell’offerta 
+è stata studiata al fine di consentire combinazioni no n discontinue di rischio-rendimento efficienti, volte a 
+massimizzare le risorse destinate alle prestazioni e a soddisfare i differenti profili di rischio ritenuti adeguati dai 
+potenziali aderenti.
+=== pagina 8 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    8 
+In fase di approvazione dell’istituzione di un Fondo o comparto, il Consiglio di Amministrazione, su proposta del 
+Comitato Prodotti della Società, esamina ed approva le politiche di investimento che includono il profilo di rischio 
+dei prodotti attraverso la definizione di: 
+• limiti di rischio;  
+• limiti di esposizione ai principali fattori di rischio; 
+• limiti di liquidità; 
+• limiti ESG (ove previsti); 
+• livello di turnover massimo. 
+ 
+Successivamente alla istituzione dei comparti, il processo di investimento si sviluppa in quattro fasi: 
+ 
+ 
+ 
+I. proposta; 
+II. delibera; 
+III. implementazione; 
+IV. monitoraggio del rischio 
+ 
+Tali fasi sono funzionalmente collegate come di seguito rappresentato. 
+ 
+I. L’articolazione del processo ordinario di investimento  prende avvio dall’analisi, in sede di Comitato 
+Investimenti (Sessione 1 - Analisi dello scenario macroeconomico e generazione di view top down per asset class), 
+dello scenario macroeconomico, le dinamiche dei merc ati finanziari e le prospettive sul loro andamento 
+futuro (con formulazione delle relative view) illustrati dal Responsabile del Dipartimento Investment 
+Research & Advisory, e dall’esame della reportistica predisposta dalla funzione Risk Management, con 
+l’obiettivo di elaborare le proposte relativamente alle variazioni delle limitazioni tattiche d’investimento per 
+ciascun comparto del Fondo (Sessione 2 - Analisi bottom up e raccordo di portafoglio). 
+ 
+Il Comitato Investimenti (Sessione 3 - Approvazione delle proposte presentate)  valuta e approva, se condivise, 
+le proposte relative alle variazioni delle limitazioni tattiche di investimento (che non possono essere in 
+contrasto con il profilo di rischio deliberato dal Consiglio di Amministrazione). 
+ 
+Nell’ambito dei principali fattori di rischio sono inclusi i livelli di merito di credito interni elaborati dalla SGR. 
+A tal fine la SGR ha adottato una po licy aziendale che definisc e i criteri generali e le regole di governo dei 
+processi di valutazione e di monitoraggio del merito di credito di un emittente o di uno strumento finanziario. 
+In base alle previsioni contenute in tale policy e nei rela tivi criteri applicativi, le at tività finanziarie di natura 
+obbligazionaria presenti nei portafogli gestiti sono classificate in livelli di merito di credito sulla base di una 
+scala di rischio interna. Il Comitato Investimento o Consiglio di Amministrazion e, a seconda del tipo di 
+valutazione espressa e tenuto conto delle eventuali analisi effettuate dalla funzione Risk Management, 
+decide in ordine all’assegnazione del livello di merito  di credito per ciascuna combinazione di emittente / 
+seniority in portafoglio, relativamente a tutti gli emittenti più rilevanti. Agli emittenti meno rilevanti 
+l’assegnazione è effettuata sulla base dei giudizi di rating espressi dalle principali agenzie di credito.  
+ 
+II. Il team di gestione, sotto la superv isione del Responsabile della Direzione Investimenti, presidia la regolare 
+implementazione dei prodotti gestiti ed il rispetto del profilo di rischio stabilito dal CdA e delle limitazioni 
+tattiche di investimento stabilite dal Comitato Inve stimenti, avvalendosi degli specifici strumenti messi a 
+disposizione dalla Società e delle analisi fornite dalla funzione Risk Management. Il team di gestione, in virtù
+=== pagina 9 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    9 
+delle deleghe operative assegnate e sotto la supervisione  dei rispettivi Responsabili, provvede alle attività 
+d’analisi, alla selezione degli st rumenti finanziari e al la costruzione dei port afogli di riferimento, 
+coerentemente con i limiti normativi, di regolamento / prospetto, contrattuali ed operativi interni, ivi inclusi 
+quelli ESG, nonché con il profilo di rischio stabilito dal Consiglio di Amministrazione e delle limitazioni tattiche 
+di investimento stabilite dal Comitato Investimenti. Tale  attività tiene conto di quanto previsto dalla Policy 
+ESG ed in particolare, a titolo esemplificativo, delle esclusioni applicabili a tutti i portafogli, di quelle proprie 
+di specifiche categorie di prodotti o strategie ESG, del livello dei rating E, S e G dei singoli emittenti, della 
+concentrazione e delle evoluzioni dei rating calcolat i anche per classi omogenee di assets e delle loro 
+evoluzioni nel tempo al fine di valuta re e monitorare il complessivo profilo di sostenibilità dei portafogli.  Il 
+team di gestione provvede ad effettuare gli interventi correttivi di breve periodo che si rendano necessari a 
+seguito del mutamento del contesto congiunturale, nel rispetto delle limitazioni stabilite e dei limiti normativi 
+e di regolamento di ciascun Comparto. Il responsabile della funzione Institutional Mandates, al verificarsi di 
+eventi e/o condizioni che impediscano la regolare implementazione delle limitazioni di investimento, informa 
+tempestivamente il Responsabile della Divisione Individual Mandat es, il quale ne dà tempestiva 
+comunicazione al Responsabile della Direzione Investimenti che, a sua volta, riferisce al Direttore Generale. 
+ 
+III. Relativamente al monitoraggio della corretta implementa zione delle strategie e dei livelli di rischiosità 
+deliberati dal CdA e delle limitazioni tattiche di investimento stabilite dal Comitato Investimenti, il controllo 
+è svolto dalla funzione Risk Management. La funzione Risk Management provvede a segnalare gli eventuali 
+superi identificati alla funzione di competenza  della Direzione Investimenti affinché vengano 
+tempestivamente poste in essere le necessarie azioni correttive. 
+ 
+La funzione Risk Management verifica la gestione finanziaria attraverso l’analisi dei risultati conseguiti e del 
+rischio assunto dai singoli comparti. I risultati di tali analisi sono discussi mensilmente con i team di gestione 
+nell’ambito del Comitato di Risk Management. Il Risk Management produce e presenta mensilmente al 
+Comitato Investimenti e al CdA la reportistica riguardante la situazione di rischio / rendimento dei comparti. 
+Il team di gestione esamina, in sede di Comitato Investimenti, le politiche gestionali realizzate e l’attuazione 
+delle strategie, anche attraverso l’utilizzo dell’informativa elaborata dal Risk Management. 
+ 
+Il processo riprende quindi avvio dalla fase iniziale.  
+ 
+Il Direttore Generale può autorizzare  eventuali operazioni in d e r o g a  r i s p e t t o  a l l e  l imitazioni op erative di 
+investimento (le più significative sono rappresentate da: strategie generali di investimento; limitazioni operative 
+sul rischio controparte, di liquidità e sul conflitto di interesse; autorizzazione agli intermediari negoziatori) fissate 
+dal Comitato Investimenti o dal Consiglio di Amministra zione e/o dalle procedure da llo stesso approvate, ove 
+ciò sia richiesto in casi straordinari, dettati da particolari condizioni dei mercati finanziari e/o specifiche esigenze 
+operative e, comunque, nell’interesse dei patrimoni gestiti. Resta fermo in tali casi l’obbligo di dare tempestiva 
+informativa al rispettivamente al Co mitato Investimenti o al Consigli o di Amministrazione delle deroghe 
+autorizzate.  
+ 
+Per quanto riguarda i compiti del Depositario si applicano le disposizioni relative ai depositari dei fondi pensione 
+di cui all’art. 7 d.lgs. 252/2005, e relativa normativa di  attuazione. In particolare, il Depositario adempie agli 
+obblighi di custodia degli strumenti finanziari ad esso af fidati e alla verifica della proprietà nonché alla tenuta 
+delle registrazioni degli altri beni. Detiene altresì le disponibilità liquide del Fondo Pensione. 
+ 
+Il Depositario, nell'esercizio delle proprie funzioni:  
+a) accerta la legittimità delle operazioni di emissione e rimborso delle quote del fondo, nonché la destinazione 
+dei redditi del fondo;  
+b) accerta la correttezza del calcolo del valore delle quote del Fondo Pensione o, su incarico della SGR, provvede 
+essa stessa a tale calcolo;
+=== pagina 10 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    10 
+c) accerta che nelle operazioni relative al Fondo Pensione la controprestazione sia ad essa rimessa nei termini 
+d'uso;  
+d) esegue le istruzioni della SGR se non sono contrarie alla legge, al regolamento o alle prescrizioni dell’Organo 
+di Vigilanza;  
+a) effettua controlli sull’eventuale violazione di limiti e divieti posti all’attività di investimento. 
+ 
+Il Depositario è responsabile nei confro nti della società di gestione del risparmio e dei partecipanti al fondo di 
+ogni pregiudizio da essi subito in conseguenza dell'inadempimento dei propri obblighi.  
+ 
+ 
+2.3 Funzioni aziendali affidate a soggetti esterni 
+ 
+Con riferimento al Fondo Pensione , la Società, nell’ottica di fo calizzare le risorse interne sul core business 
+aziendale, ha fatto ricorso all’outsoucing delle attività:  
+ 
+ amministrativo-contabili di back of fice (back office titoli) presso BNP Paribas SA – Succursale Italia , 
+avvalendosi di personale domiciliato presso  BNP Paribas SA (Poland Branch), BNP Paribas SA (Lisbon 
+Branch) e BNP Paribas SA (London Branch) e del so ggetto subdelegato BNP Paribas India Solutions Pvt 
+Ltd. 
+ 
+ amministrazione clienti (ivi inclusa la dematerializzazione e l’archiviazione digitale) presso Previnet 
+S.p.A.; 
+ 
+ Affari Legali e privacy, Risorse Umane, Strategic So urcing (Acquisti e Fornitur e), Facilities (Servizi 
+Generali), Pianificazione e Controllo di Gestione, Affari Fiscali, Organizzazione, Project Management, ICT 
+Risk, Cyber Security, Third Parties (monitoraggio outs ourcer), Comunicazione e Marketing Istituzionale, 
+Anticorruzione alla controllante Anima Holding S.p.A.; 
+ 
+ conservazione sostitutiva a norma di  libri e registri contabili con apposizione firma digitale presso 
+Optimo Next S.r.l. avvalendosi della Società Aruba Pec S.p.A. (in qualità di fornitore subdelegato).  
+ 
+ 
+3. Sistema dei Controlli Interni 
+ 
+L’articolazione dei processi e dei controlli interni inerenti alla gestione del Fondo Pensione sono insiti 
+nell’articolazione più ampia dei processi aziendali e del Sistema dei Controlli Interni della Società. Quest’ultimo 
+consiste nell’insieme di regole, funzioni, processi e procedure volti, tra gli altri, alla verifica dell’attuazione delle 
+strategie aziendali nonché al conseguimento dei seguenti obiettivi: 
+a) verificare l’attuazione delle strategie e delle politiche aziendali; 
+b) assicurare la conformità alla normativa di settore, nonché alle politiche ed alle procedure aziendali; 
+c) assicurare l’efficacia e l’efficienza dei processi aziendali; 
+d) salvaguardare il valore delle attività e proteggere da perdite il patrimonio aziendale; 
+e) assicurare l’affidabilità e la sicurezza delle informazioni aziendali e delle procedure informatiche;  
+f) assicurare il governo e la gestione  dei rischi attraverso un sist ema di “ERM” (Enterprise Risk 
+Management, disciplinato in specif ica policy) adottato da Anima Hold ing e implementato in ciascuna 
+delle società controllate, con rif erimento ai rischi a cui potrebbe essere esposta e nel rispetto delle 
+singole autonomie e responsabilità nei confronti delle Autorità di Vigilanza.
+=== pagina 11 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    11 
+Il Sistema dei Controlli Interni adottato dalla Società è proporzionato alla natura ed intensità dei rischi aziendali 
+(risk based approach), nonché alle dimensioni ed alle caratteristiche operative dell’impresa. 
+ 
+I principi cardine su cui si fonda sono: 
+ la razionalizzazione e la suddivisione dei compiti di co ntrollo e dei perimetri di attività volti ad evitare 
+ridondanze organizzative; 
+ la previsione di flussi informativi periodici e di momenti di confronto istituzionalizzati tra le funzioni 
+aziendali di controllo interno al fi ne di favorire lo scambio di informa zioni e la razionalizzazione delle 
+attività; 
+ la previsione di flussi informativi periodici e ad hoc agli Organi Aziendali al fine di consentire a questi 
+ultimi un continuo monitoraggio dei rischi a cui la Società è esposta e dello stato del Sistema dei Controlli 
+Interni; 
+ la coerenza dei comportamenti e dei presidi organizzativi rispetto alle strategie ed alle connotazioni del 
+contesto operativo e di mercato. 
+ 
+3.1 Elementi costitutivi 
+ 
+Le componenti che qualificano il Sistema dei Controlli Interni della Società sono: 
+ l’ambiente di controllo  - attiene all’adeguata formalizzazione dei ruoli e delle responsabilità nei processi 
+aziendali, nonché alla definizione di limiti operativi chiari e riscon trabili, unitamente ad un sistema di 
+deleghe di potere articolato e ad un sistema di co municazione interna efficiente, con indicazione dei 
+destinatari e della tempistica; 
+ il controllo dei rischi  – riguarda l’insieme delle attività connesse all’identificazione, alla valutazione, alla 
+gestione ed al monitoraggio dei rischi rivenienti dai diversi segmenti operativi, nonché alla definizione di 
+politiche di gestione degli stessi; 
+ l’assetto dei controlli  - attiene alle regole e agli strumenti che le singole Funzioni Aziendali adottano per 
+assicurare un adeguato processo di controllo. 
+ l’informazione e comunicazione  - prevede che le informazioni pert inenti siano identificate, raccolte e 
+diffuse nella forma e nei tempi tali da consentire a ciascuno di adempiere alle proprie responsabilità.  
+ il monitoraggio  - prevede che il Sistema dei Controlli Interni sia sottoposto a periodica valutazione al fine 
+di garantirne nel continuo la completezza, l’adeguatezza, la funzionalità e l’affidabilità.  
+ 
+3.2 Articolazione dei livelli di controllo 
+ 
+Il Sistema dei Controlli Interni della Società nell’ambito del quale sono monitorati processi inerenti al Fondo 
+Pensione, è articolato su tre livelli di controllo come di seguito indicato: 
+ 
+ controlli di primo livello  (o controlli di linea), che costituiscono la vera e propria gestione operativa dei 
+rischi e hanno l’obiettivo di assicurare il corretto svolgimento delle operazioni effettuate nell’ambito dei 
+processi aziendali. Tali controlli so no messi in atto dai responsabili dell e Funzioni di “Business” stessi i 
+quali, a tal fine, implementano e mantengono controlli operativi insiti nei processi di loro competenza e 
+contribuiscono a migliorarl i. Tali controlli sono di tipo gerarc hico, sistematico e a campione, ovvero 
+incorporati nelle procedure informatiche di cui dispone la Società. Le F unzioni di “Business” riferiscono 
+alla Direzione Generale in merito ad eventuali anomalie o inefficienze riscontrate nell’ambito dei processi 
+di propria pertinenza.  
+ 
+ controlli di secondo livello , volti ad assicurare la corretta attuazione del processo di gestione dei rischi, 
+il rispetto dei limiti operativi assegnati alle varie funzioni aziendali, nonché la conformità dell’operatività
+=== pagina 12 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    12 
+aziendale alle norme, incluse quelle di autoregolamentazione. Tali controlli sono messi in atto dalla 
+funzione di Risk Management e dalla funzione Compliance & AML.  
+ 
+ controlli di terzo livello , volti a individuare violazioni delle procedure e della regolamentazione, nonché 
+a valutare la completezza, la funzionalità e l’adeguatezza del Sistema dei Controlli Interni in relazione alla 
+natura e all’intensità dei rischi e delle complessive esigenze aziendali. Tali controlli sono messi in atto 
+dalla Funzione di Revisione Interna (Internal Audit).  
+ 
+Con riferimento ai servizi esternalizzati la SGR ha de finito un modello operativo per il monitoraggio delle 
+esternalizzazioni delle “FEI” (Funzioni Essenziali o Importanti, ai sensi della normativa vigente), al quale 
+partecipano: 
+ le funzioni aziendali (“process owner”) identificate  come responsabili della corretta esecuzione delle 
+attività esternalizzate e della rilevazione degli indica tori di performance e di ca lcolo (KPI/KCI) (controllo 
+di 1° livello); 
+ la Direzione IT & Operations, in qualità di referente delle esternalizzazioni per la SGR, che si avvale del:  
+i) contributo dei referenti delle singole esternalizzazioni (“process owner”); 
+ii) supporto e delle attività svolte in regime di outsourcing dalla funzione “Third Parties” di Anima Holding, 
+per il coordinamento delle attività  correlate ai processi di monitoraggio delle esternalizzazioni e il 
+presidio e accentramento delle risultanze delle attività svolte dai “process owner” (controllo di 1° livello);  
+ la funzione “Compliance & AML”, quale presidio del corretto funzionamento dei meccanismi di 
+governance per il controllo degli outsourcers, al tresì responsabile della va lutazione periodica degli 
+outsourcers (controllo di 2° livello); 
+ la funzione “Internal Audit”, in qualità di funzione di  controllo di 3° livello, che svolge, nell’ambito dei 
+compiti alla stessa assegnati, la valutazione del modello di monitoraggio delle attività esternalizzate e la 
+segnalazione al Servizio Compliance & AML, sulla base  delle risultanze dei controlli svolti, di eventuali 
+situazioni che comportino la necessità di rafforzare il monitoraggio andamentale. 
+ 
+ 
+3.2.1 Controlli di Primo Livello 
+ 
+La gestione dei controlli di primo livello  è in capo alle singole Funzioni di Business, ovvero le funzioni aziendali 
+responsabili dei processi produttivi, commerciali, amministrativi, operativi e di supporto relativi a tutti i prodotti 
+gestiti (ivi incluso il Fondo Pensione). A tali funzioni, nell’ambito delle rispettive competenze, spetta il governo 
+dei controlli di primo livello (o controlli di linea) al fine di assicurare nel continuo una sana e prudente gestione 
+delle attività aziendali. Le stesse devono rispettare i limiti operativi loro assegnati coerentemente con gli obiettivi 
+di rischio e con le procedure che presidiano il processo di gestione dei rischi. Le funzioni di “business” sono 
+inoltre chiamate a garantire l’evoluzione del sistema in coerenza con le strategie di sviluppo della Società.  
+Per le attività di business esternalizzate, i controlli di primo livello sono demandati all’ outsourcer sulla base dei 
+livelli di servizio formalmente definiti tra le parti. La veri fica del rispetto dei livelli di servizio concordati ricade 
+nelle competenze della Funzione Third Parties di Anima Holding così come descritto nel paragrafo 2.1. 
+ 
+La gestione dei controlli di linea è articolata nelle seguenti fasi: 
+ identificazione dei controlli nei processi aziendali (processi e norme interne); le Funzioni di “Business” sono 
+responsabili, in relazione agli ambi ti di pertinenza, dell’identificazione dei controlli, che devono essere 
+rappresentati nella normativa interna. Tale attività assume particolare rilievo in occasione dell’ingresso 
+in nuovi comparti operativi ed al momento del lancio di nuovi prodotti o della ridefinizione di processi 
+aziendali. Inoltre, è necessario un confronto dialettico con le Funzioni Aziendali di controllo pertinenti 
+per materia, al fine di individuare la soluzione più idonea al presidio del rischio che il controllo deve 
+garantire conseguendo altresì economie di scopo nel relativo processo.
+=== pagina 13 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    13 
+ 
+ esecuzione dei controlli (tracciabilità, sistemi informativi, etc.); i controlli – ove possibile – sono inseriti nelle 
+procedure operative o effettuati tramite appositi applicativi informatici. Le Funzioni Aziendali devono 
+tenere traccia dei controlli effettuati in relazione agli ambiti di pertinenza. 
+ 
+ meccanismi di rendicon tazione e controllo  (monitoraggio); l’attività di monitoraggio dei controlli, 
+rappresentata dall’insieme di azioni e attività svolte nel continuo dalle varie Funzioni Aziendali quali 
+analisi comparative, riconciliazioni,  etc, è illustrata nella normativ a interna che regola i vari ambiti 
+operativi e di rendicontazione. 
+3.2.2 Controlli di Secondo Livello 
+ 
+La gestione dei controlli di secondo livello è articolata nelle seguenti fasi: 
+ 
+ identificazione dei controlli;  le Funzioni di Controllo sono responsabili, in relazione agli ambiti di 
+pertinenza, dell’identificazione dei controlli, che devono essere rappresentati nelle procedure operative 
+o nei piani di lavoro annuali. 
+ 
+ esecuzione dei controlli (tracciabilità, piani di lavoro, etc.); i controlli sono inseriti nelle procedure operative 
+o nei piani di lavoro. I controlli possono avere caratt ere ordinario (cioè rientran ti nella pianificazione o 
+previsti dalla normativa interna), estemporaneo (ossia da effettuarsi in qualsiasi momento in 
+connessione ad eventi particolari) o straordinario (ovvero disposte  in seguito a specifica richiesta degli 
+Organi Aziendali o di Autorità di Vigilanza). Le Funzioni di Controllo devono tenere traccia dei controlli 
+effettuati in relazione agli ambiti di pertinenza. 
+ 
+ meccanismi di rendicon tazione e controllo  (monitoraggio); l’attività di monitoraggio dei controlli, 
+rappresentata dall’insieme di azioni e attività svolte nel continuo dalle varie Funzioni Aziendali di 
+Controllo quali analisi comparative, attività di foll ow-up, etc, è illustrata nella normativa interna che 
+regola i vari ambiti operativi. Le Funzioni Aziendali di Controllo forniscono una rendicontazione periodica, 
+almeno annuale, agli Organi Aziendali sulle attività svolte e sullo stato di attuazione delle azioni correttive 
+previste a fronte delle criticità riscontrate in sede di verifica. 
+ 
+ 
+3.3 Controlli di Terzo Livello 
+ 
+La gestione dei controlli di terzo livello è articolata nelle seguenti fasi: 
+ 
+ identificazione dei controlli; la F unzione di Revisione Interna è respo nsabile dell’identificazione delle 
+attività di verifica dei processi, che sono rappresentate nel piano di audit annuale. 
+ 
+ esecuzione dei controlli (tracciabili tà, sistemi informativi, etc.); i controlli possono essere realizzati 
+attraverso verifiche in loco o attraverso verifiche a distanza. I controlli possono avere carattere ordinario 
+(cioè rientranti nella pianificazione o previsti dalla normativa interna) o straordinario (in connessione ad 
+eventi particolari ovvero a seguito di richiesta degli Organi Aziendali o di Autorità di Vigilanza). La 
+Funzione di Revisione Interna tiene traccia dei controlli effettuati. 
+ 
+ meccanismi di rendicontazione e controllo (monitoraggio); la Funzione di Revisione Interna provvede ad 
+annotare i dati inerenti alle verifi che effettuate in un apposito regist ro (Registro degli Interventi). La 
+Funzione di Revisione Interna fornisce, inoltre, un a rendicontazione periodic a, almeno annuale, agli
+=== pagina 14 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    14 
+Organi Aziendali sulle attività svolte  e sullo stato di attuazione delle azioni correttive previste a fronte 
+delle criticità riscontrate in sede di verifica. 
+ 
+ 
+4. Sistema di gestione dei rischi del Fondo Pensione 
+ 
+La SGR si è dotata di un sistema di gestione dei rischi dei portafogli gestiti, che includono il Fondo Pensione. Tale 
+sistema è formalizzato in un insieme di policy e procedure finalizzate a individuare, misurare, monitorare, gestire 
+e segnalare i rischi ai quali i portafogli gestiti sono o potrebbero essere esposti. 
+ 
+I rischi di pertinenza del Fondo pensione sono i seguenti e sono dettagliati nelle sezioni successive: 
+- rischi finanziari degli investimenti; 
+- rischi di concentrazione e del rispetto delle altre limitazioni agli investimenti; 
+- rischi di sostenibilità degli investimenti; 
+- rischi di liquidità; 
+- rischi operativi. 
+ 
+ 
+4.1 Rischi finanziari degli investimenti 
+ 
+La gestione dei rischi finanziari degli investimenti è attribuita alla funzione Risk Management, che si occupa della 
+misurazione e del monitoraggio delle limitazioni operative deliberate dal Consiglio di Amministrazione e dal 
+Comitato Investimenti e dei limiti interni di rischio controparte stabiliti dalle policy interne. 
+ 
+Le limitazioni operative sono espresse, per ciascun compar to del Fondo, in termini di  limiti di rischio (tracking 
+error) e di esposizione ai principali fattori di rischio (esposizione per classe, esposizione valutaria, duration, ecc.). 
+ 
+Il Consiglio di Amministrazione delibera  i limiti massimi di rischio su proposta del Comitato Prodotti in sede di 
+istituzione o revisione dei comparti del Fondo Pensione.  
+ 
+ll Comitato Investimenti delibera mensilmente un limite di rischio tattico coerente con il limite di rischio stabilito 
+dal Consiglio di Amministrazione. 
+ 
+I limiti di rischio controparte sono definiti in termini di controparti autorizzate, come deliberate dal Consiglio di 
+Amministrazione, e in termini di ult eriori limitazioni a seconda del tipo di  operatività prevista. Nel caso di 
+operatività tramite strumenti finanziari derivati sono previste limitazioni dell’esposizione massima stabiliti 
+tenuto conto della politica di investimento del portafoglio e della valutazione interna della controparte. 
+ 
+Il monitoraggio è svolto con frequenza giornaliera e prev ede la segnalazione dei superi rilevati affinché siano 
+tempestivamente poste in essere le azioni necessarie al rientro nei limiti previsti. Il Consiglio di Amministrazione 
+e il Comitato Investimenti sono in formati mensilmente dei superi dei li miti deliberati dal Consiglio di 
+Amministrazione rilevati nel corso del mese precedente. Il Comitato Investimenti è informato mensilmente dei 
+superi dei limiti deliberati dallo stesso rilevati nel corso del mese precedente. 
+ 
+Il Risk Management svolge inoltre periodicamente prove di  stress test di mercato i cu i risultati sono presentati 
+al Comitato Investimenti. Il Consiglio di Amministrazione è informato periodicamente sulle principali evidenze di 
+tali risultati, fatta salva la comunicazione alla prima occasione utile nel caso di criticità significative.
+=== pagina 15 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    15 
+4.2 Rischi di concentrazione e del rispetto delle altre limitazioni agli investimenti 
+ 
+Il controllo del rispetto delle limitazioni agli investimenti previsti dalla normativa vigente e dal Regolamento del 
+Fondo è svolto dal Risk Management, durante ciascuna gi ornata operativa, e da BN P Paribas SA – Succursale 
+Italia successivamente alla conclusione di ciascun gironata operativa. 
+ 
+Tali controlli includono la verifica delle attività detenibili, dei limiti di concentrazione e dell’utilizzo degli strumenti 
+finanziari derivati. 
+ 
+Gli eventuali superi sono comunicati tempestivamente alla Funzione di gestione, affinché vengano 
+tempestivamente poste in essere le necessarie azioni correttive. 
+ 
+Il Consiglio di Amministrazione e il Comitato Investimenti so no informati mensilmente dei superi rilevati nel 
+corso del mese precedente. I superi sono trasmessi alla COVIP, nei casi previsti dalla normativa, dalle disposizioni 
+di vigilanza e delle prassi vigenti. 
+ 
+4.3 Rischi di sostenibilità degli investimenti 
+ 
+La gestione del rischio di sostenibilità è effettuata mediante le seguenti attività: 
+- classificazione dei prodotti sulla base del grado di rischio di sostenibilità; 
+- monitoraggio dell’esposizione al rischio di sostenibilità; 
+- impegno nelle società partecipate su tematiche ESG; 
+- limiti al rischio di sostenibilità. 
+ 
+Le funzioni aziendali coinvolte nella ge stione dei rischi di sostenibilità sono: il Consiglio di Amministrazione, il 
+Comitato ESG, il Comitato Investimenti, la funzione In vestment Principles, la Funzione di gestione, il Risk 
+Management. 
+ 
+I limiti al rischio di sostenibilità sono espressi in termini di divieto di investimento, da parte di tutti i comparti, in 
+specifici emittenti governativi e societari in ragione di specifiche attività svolte o di azioni intraprese dagli 
+emittenti medesimi. In aggiunta, per i comparti classifica ti ex art. 8 o 9 ai sensi della normativa SFDR, sono 
+previste ulteriori limitazioni, dipendenti dalle caratteristiche del comparto e dalla sua politica di investimento. 
+ 
+Il Consiglio di Amministra zione delibera i limiti al rischio di so stenibilità in fase di approvazione 
+dell’istituzione/modifica di un comparto del Fondo, su proposta del Comitato Prodotti.  
+ 
+Il Comitato Investimenti delibera mensilmente limiti al rischio di sostenibilità tattici coerenti con i limiti al rischio 
+di sostenibilità deliberati dal Consiglio di Amministrazione. 
+ 
+Il monitoraggio è svolto con frequenza giornaliera e prev ede la segnalazione dei superi rilevati affinché siano 
+tempestivamente poste in essere le azioni necessarie al rientro nei limiti previsti. Il Consiglio di Amministrazione 
+e il Comitato Investimenti sono in formati mensilmente dei superi dei limiti deliberati dal Consiglio di 
+Amministrazione rilevati nel corso del mese precedente. Il Comitato Investimenti è informato mensilmente dei 
+superi dei limiti deliberati dallo stesso rilevati nel corso del mese precedente. 
+ 
+Per ulteriori dettagli, si fa riferimento alla Policy ESG pubblicata sul sito web “www.fondopensione.animasgr.it”. 
+ 
+4.4 Rischi di liquidità
+=== pagina 16 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    16 
+La gestione dei rischi di liquidità del Fondo è attribuita alla funzione Risk Management, che si occupa della 
+misurazione e del monitoraggio dei li miti di liquidabilità deliberati da l Consiglio di Amministrazione e dal 
+Comitato Investimenti. Tali li miti sono espressi in termini di tempo ne cessario per convertire il portafoglio in 
+liquidità senza significative penalizzazioni di valore. 
+ 
+Il Consiglio di Amministrazione delibera i limiti di liquidabilità in fase di approvazione dell’istituzione/modifica di 
+un comparto del Fondo, su proposta del Comitato Prodotti.  
+ 
+Il Comitato Investimenti delibera mensi lmente limiti tattici di liquidabilità coerenti con i limiti di liquidabilità 
+deliberati dal Consiglio di Amministrazione. 
+ 
+La liquidabilità di ciascuna posizione è stimata tenend o conto della natura e cara tteristiche dello strumento 
+finanziario e della dimensione della posizione. Gli elementi utilizzati per la stima della liquidabilità della posizione 
+sono diversi a seconda della tipologia di strumento ed  includono la media dei vo lumi rilevati su mercati 
+regolamentati o sistemi alternativi di scambio, la natura dell’emittente, l’ammontare in circolazione, l’ampiezza 
+degli spread bid / ask, il merito di credito, ecc. 
+ 
+I limiti sono stabiliti tenendo conto della politica di investimento e delle previsioni di regolamento in ordine ai 
+rimborsi di ciascun comparto del Fondo ed alle caratter istiche della clientela (ad esempio concentrazione della 
+clientela, dinamica delle sottoscrizioni e rimborsi). 
+ 
+Il monitoraggio è svolto con frequenza giornaliera e prev ede la segnalazione dei superi rilevati affinché siano 
+tempestivamente poste in essere le azioni necessarie al rientro nei limiti previsti. Il Consiglio di Amministrazione 
+e il Comitato Investimenti sono in formati mensilmente dei superi dei li miti deliberati dal Consiglio di 
+Amministrazione rilevati nel corso del mese precedente. Il Comitato Investimenti è informato mensilmente dei 
+superi dei limiti deliberati dallo stesso rilevati nel corso del mese precedente. 
+ 
+Il Risk Management svolge inoltre con frequenza mensile prove di stress test  di liquidità, i cui risultati sono 
+sottoposti all’attenzione del Comitato Investimenti. Il Consiglio di Amministrazione è informato periodicamente 
+sulle principali evidenze di tali risultati, fatta salva la comunicazione alla prima occasione utile nel caso di criticità 
+significative. 
+ 
+4.5 Rischi operativi 
+ 
+La Società si è dotata di un processo  strutturato per il monitoraggio dei ri schi operativi ai quali è soggetta, che 
+prevede le seguenti macro-attività: 
+- mappatura dei rischi, ovvero individu azione dei rischi associati ai processi e alle unità organizzative 
+aziendali; 
+- analisi degli eventi di rischio, ovvero raccolta delle perdite operative verificatesi nel periodo di riferimento 
+e dei relativi recuperi; 
+- valutazione dei rischi, ovvero stima delle perdite future possibili al ne tto ed al lordo delle mitigazioni 
+esistenti; 
+- gestione dei rischi, ovvero individuazione delle eventuali azioni di mitigazione a fronte dei principali rischi 
+individuati; 
+- monitoraggio delle azioni di mitigazione. 
+ 
+Il processo, svolto su un ciclo annuale, è coordinato dal Risk Management e prevede una reportistica annuale al 
+Consiglio di Amministrazione. 
+ 
+Nell’ambito dei presidi esistenti finalizzati alla mitigazione dei rischi operativi, la Società:
+=== pagina 17 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    17 
+- rileva nei propri sistemi tutte le informazioni utili alla gestione finanziaria del Fondo; 
+- monitora il rispetto dei limiti di investimento; 
+- cura l’aggiornamento e la riconciliazione di tali dati con quelli elaborati dall’outsourcer amministrativo e 
+con il depositario; 
+- utilizza i principali info-provider disponibili sul mercato per l’acquisizione dei dati anagrafici e di mercato, 
+quali Bloomberg, Refinitiv, e MSCI; 
+- implementa i presidi informatici necessari alla pr otezione del patrimonio informativo aziendale, 
+monitorandone i rischi ICT e curandone la mitigazione; 
+- utilizza un processo autorizzativo interno preventivo all’avvio dell’operatività su nuovi strumenti 
+finanziari, finalizzato alla verifica dell’adeguatezza di tutti i processi aziendali ed esterni impattati da tali 
+nuovi strumenti. 
+ 
+Il sistema di gestione dei rischi ti ene conto dei rischi che gravano su ad erenti e beneficiari del Fondo, nella 
+prospettiva dell'interesse degli stessi aderenti e beneficiari.  
+ 
+ 
+5. Flussi informativi tra le strutture aziendali e il Responsabile del Fondo 
+Pensione e viceversa 
+ 
+Il «Sistema di Reporting» nei confronti degli Organi Aziendali e del Responsabile del Fondo Pensione riveste un 
+ruolo centrale nel sistema dei controlli interni in qu anto consente di aggiorna re nel continuo il quadro 
+informativo necessario per:  
+ assicurare piena consapevolezza della situazione dei rischi ed il loro efficace presidio;  
+ orientare l’adeguamento delle linee strategiche e delle politiche aziendali;  
+ adattare in modo coerente l’assetto organizzativo della Società; 
+ vigilare e verificare l’adeguatezza dell’assetto organizzativo, amministrativo-contabile e del sistema dei 
+controlli in adempimento agli obblighi normativi e di vigilanza. 
+ 
+Il Responsabile del Fondo Pensione svolge la propria attività in modo autonomo e indipendente dalla SGR, 
+avvalendosi della collaborazione delle strutture organizzative della SGR, di volta in volta utili allo svolgimento 
+dell’incarico. La SGR gli garantisce l’accesso a tutte le informazioni necessarie allo scopo. Il Responsabile assiste 
+alle riunioni del Consiglio di Amministrazione e del Collegio  Sindacale della SGR, per tutte le materie inerenti al 
+Fondo Pensione.  
+ 
+In particolare, lo scambio informativo con il Respon sabile del Fondo Pensione, al fine di consentirne 
+l’espletamento delle funzioni di monitoraggio e di co ntrollo delle attività di investimento e di gestione 
+amministrativa e della corretta comunicazione nei confronti degli aderenti e beneficiari (così come riportati nel 
+Regolamento del Fondo Pensione a cui si rinvia per dettagli), riguarda i seguenti ambiti: 
+ 
+ Revisione di prodotto: modifiche documentazione d’offerta (Regolamento, Nota Informativa, ecc..) e/o 
+costituzione nuovi comparti, e relat ive istanze autorizzative nei confronti degli Or gani aziendali e delle 
+Autorità di Vigilanza. 
+ Relazioni contabili periodiche. 
+ Comunicazioni agli aderenti e ai beneficiari. 
+ Documento sul processo di attuazione della politica di investimento. 
+ Situazione reclami presentati dagli aderenti.  
+ Reportistica sui conflitti di interesse. 
+ Reportistica sull’andamento della gestione.
+=== pagina 18 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    18 
+ Reportistica sul rischio, performance, e sul rispetto dei limiti di investimento.  
+ Segnalazioni di Vigilanza o richieste provenienti dalle Autorità di Vigilanza.  
+ Reportistica da parte dell’Internal Audit (reportistica semestrale sugli es iti delle verifiche svolte in 
+base al piano di Audit). 
+ Reportistica Funzione Third Parties (valutazione di adeguatezza dei fornitori all’esecuzione degli 
+incarichi conferiti e reportistica annuale sull’andamento servizi esternalizzati).  
+ Relazioni amministrative periodiche (dati sulle adesioni, sui tempi di liquidazione delle prestazioni, 
+sull’andamento delle riconciliazioni e reportistica sui sospesi e sugli storni); 
+ Documento di valutazione interna dei rischi afferenti al Fondo Pensione (predisposto con 
+frequenza triennale ovvero in occasione di significative modifiche intervenute ai rischi). 
+ 
+È compito delle varie funzioni port are a conoscenza degli Organi Aziendali e del Responsabile del Fondo 
+Pensione qualsiasi fatto o accadimento che sia in grado di comportare gravi danni ai comparti gestiti. Il Direttore 
+Generale, valutate le circostanze, nonché sentiti il Responsabile del Fondo Pensione e il Responabile della 
+Direzione Investimenti ed i Responsa bili delle Funzioni di Gestione, ad otta nell’immediatezza i provvedimenti 
+opportuni, con obbligo di renderne temp estiva informativa al Presidente, al  quale compete la convocazione in 
+via d’urgenza del Consiglio di Amministrazione.  
+ 
+Il Responsabile del Fondo Pensione controlla le soluzion i adottate dalla SGR per identificare le situazioni di 
+conflitti di interesse e per evitare che le stesse arrech ino pregiudizio agli aderenti e beneficiari; egli controlla 
+altresì la corretta esecuzione del cont ratto stipulato per il conferimento dell’incarico di Depositario, nonché il 
+rispetto delle conven zioni assicurative/condizion i per l’erogazione delle rend ite e, ove presenti, delle 
+convenzioni/condizioni relative alle prestazioni di inva lidità e premorienza. Delle anomalie e delle irregolarità 
+riscontrate nell’esercizio delle sue funzioni il Respon sabile dà tempestiva comu nicazione al Consiglio di 
+Amministrazione e al Collegio Sindacale della SGR e si attiva perché vengano adottati gli opportuni 
+provvedimenti. 
+ 
+Il Responsabile del Fondo Pensione predispone annual mente una relazione che desc rive in maniera analitica 
+l’organizzazione adottata per l’adempimento dei suoi doveri e che dà conto della congruità delle procedure di 
+cui si avvale per l’esecuzione dell’incarico, dei risultati dell’attività svolta, delle eventuali anomalie durante l’anno 
+e delle iniziative poste in essere per eliminarle. La rel azione viene trasmessa alla COVIP entro il 31 marzo di 
+ciascun anno. Copia della relazione stessa viene trasmes sa al Consiglio di Amministrazione e al Collegio 
+Sindacale della SGR per quanto dirispettiva competenza.  
+ 
+Il Responsabile del Fondo Pensione comunica alla COVIP, contestualmente al Consiglio di Amministrazione e al 
+Collegio Sindacale della SGR, le irregolarità riscontrate nell’esercizio delle sue funzioni. 
+ 
+ 
+6. Politica di Remunerazione 
+ 
+La Società ha adottato una “Politica di remunerazione e incentivazione” (di cui è disponibile al pubblico una 
+sintesi sul sito web aziendale “www.animasgr.it” a cui si rinvia per dettagli) redatta in conformità ai criteri indicati 
+nell’Allegato 2 al Provvedimento della Banca d’Italia (“Regolamento di attuazione degli articoli 4-undecies e 6, 
+comma 1, lettere b) e c-bis), del TUF”). Si evidenzi a che sono in corso, sotto l’egida della Capogruppo 
+B a n c o  B P M ,  l e  a t t i v i t à  d i  r e v i s i o n e  e d  a g g i o r n a m e n t o  d e l l a  P o l i t i c a  d i  r e m u n e r a z i o n e  a l  f i n e  d i  a l l i n e a r l a ,  
+oltre ché alla normativa bancaria, ai criteri e ai principi definiti dalla stessa Capogruppo nella propria Politica.  
+ 
+La politica di remunerazione promuove  un allineamento ai criteri di so stenibilità ambientali, sociali e di 
+governance (c.d. ESG) funzionale ad una sana ed efficace gestione dei rischi di sostenibilità. A tal fine la politica
+=== pagina 19 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    19 
+di remunerazione è stata integrata co n sistemi di valutazione ed incentiv azione dell’Amministratore Delegato, 
+del Direttore Generale, del Condirettore Generale e dei Responsabili di Direzione, nonchè del personale della 
+Direzione Investimenti che tengono cont o del perseguimento di risultati e pe rformance orientati al rispetto di 
+fattori ambientali, sociali e di governance (c.d. ESG). Inoltre, la stessa tiene conto delle nuove disposizioni in 
+materia di neutralità delle politiche di remunerazione rispetto al genere in trodotte con le modifiche apportate 
+da Banca d’Italia al “Regolamento di attuazione degli articoli 4-undecies e 6, comma 1, lettere b) e c-bis), del decreto 
+legislativo 24 febbraio 1998, n. 58 (Testo Unico della Finanza – TUF)”. 
+ 
+La Politica trova applicazione con riferimento al personale della SGR e al personale delle altre Società controllate 
+da Anima Holding relativamente all’attività prestata in favore della SGR rispetto a tutti i prodotti della Società, tra 
+i quali rientra anche il Fondo Pensione Aperto “Arti & Mestieri”.  
+ 
+Con specifico riferimento al Fondo Pensione la Politica prevede che la remunerazione annuale del Responsabile 
+del Fondo Pensione è determinata dal Consiglio di Amministrazione della Società all’atto della nomina per l’intero 
+periodo di durata dell’incarico ed è esclusivamente fissa. Tale compenso, a carico del Fondo Pensione, non può 
+essere pattuito sotto forma di partecipazione agli utili de lla Società o di società controllanti o controllate, né 
+sotto forma di diritti di acquisto o di sottoscrizione di azioni della SGR o di società controllanti o controllate.  
+ 
+Inoltre, i titolari dell e funzioni fondamentali  di gestione dei rischi e di revisi one interna e tutte le categorie di 
+personale le cui attività hanno un impatto rilevante sul profilo di rischio del Fondo Pensione, sono soggetti alla 
+Politica di Remunerazione e i relativi costi sono a carico della Società.
+=== pagina 20 ===
+ANIMA SGR S.p.A. – Società appartenente al Gruppo Bancario Banco BPM - Tutti i diritti sono riservati.    20

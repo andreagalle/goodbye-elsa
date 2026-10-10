@@ -1,0 +1,1234 @@
+# Fondo: FONDO PENSIONE APERTO BIM VITA (bim-vita)
+# Documento: Documento sulla politica di investimento – Documento sulla politica di investimento
+# Fonte: https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/c7-fpa-bv-dpi-2026-07.pdf
+# Citato in: https://www.unipol.it/fragments/dialogs/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 93dd6cce7ef027d3a3d704767fcd000657045ad8fb8d32b5290f09a77f7518f8
+# Pagine: 26
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL FONDO PENSIONE APERTO BV 
+Fondo Pensione Aperto 
+Iscritto all’Albo tenuto dalla COVIP con il n. 120 
+ 
+ 
+ 
+Documento sulla Politica di Investimento 
+ 
+1° luglio 2026
+=== pagina 2 ===
+Indice 
+ 
+ 
+PREMESSA .................................................................................................................................. 1 
+Caratteristiche dei potenziali aderenti ............................................................................................. 1 
+OBIETTIVI DELLA POLITICA DI INVESTIMENTO .............................................................................. 2 
+I comparti: orizzonte temporale consigliato e obiettivi di rischio-rendimento ............................... 2 
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO ........................................................ 4 
+Comparto BOND UNIPOL .................................................................................................................. 4 
+Comparto EQUILIBRIO UNIPOL ......................................................................................................... 7 
+Comparto BILANCIATA GLOBALE UNIPOL ......................................................................................... 9 
+Comparto EQUITY UNIPOL .............................................................................................................. 12 
+CRITERI PER L’ESERCIZIO DEI DIRITTI DI VOTO SPETTANTI AL FONDO ......................................... 15 
+FATTORI DI SOSTENIBILITÀ (O “FATTORI ESG”) .......................................................................... 15 
+SOGGETTI COINVOLTI NEL PROCESSO DI INVESTIMENTO, COMPITI E RESPONSABILITÀ .............. 16 
+SISTEMA DI CONTROLLO DELLA GESTIONE FINANZIARIA ............................................................ 16 
+MODIFICHE APPORTATE NELL’ULTIMO TRIENNIO ...................................................................... 18 
+ALLEGATO 1 - RISCHI DI INVESTIMENTO .................................................................................... 21
+=== pagina 3 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 1 di 23 
+ 
+ 
+PREMESSA  
+Il Fondo Pensione Aperto  “Unipol Fondo Pensione Aperto BV ” (di seguito “il Fondo”) è stato istituito per 
+erogare trattamenti pensionistici complementari al sistema previdenziale obbligatorio, ai sensi del d.lgs. 5 
+dicembre 2005, n. 252. Il Fondo  è gestito da Unipol Assicurazioni  S.p.A. (di seguito anche  l’”Impresa di 
+Assicurazione”), ed è iscritto all’albo tenuto dalla COVIP con il n. 120. 
+Il Fondo  è rivolto a tutti coloro che intendono realizzare un piano di previdenza complementare su base 
+individuale. Possono inoltre aderire, su base collettiva, i lavoratori nei cui confronti trovano applicazione i 
+contratti, gli accordi o i regolamenti aziendali che prevedono l’adesione a Unipol Fondo Pensione Aperto BV. 
+Il Fondo è una forma pensionistica operante in regime di contribuzione definita: l’entità della prestazione 
+pensionistica è determinata in funzione della contribuzione effettuata e dei re lativi rendimenti. Il Fondo  è 
+costituito in forma di patrimonio separato e autonomo all’interno dell’Impresa di Assicurazione.  
+Il presente d ocumento ha lo scopo di definire il processo di attuazione della Politica di Investimento che 
+l’Impresa di A ssicurazione intende attuare per ottenere, dall’impiego delle risorse,  combinazioni rischio -
+rendimento efficienti nell’arco temporale coerente con i bisogni previdenziali degli aderenti e con le 
+prestazioni da erogare (la “Politica di Investimento” o il “Documento”).  
+Esso è sottoposto a revisione periodica almeno ogni tre anni. I fattori considerati ai fini dell’eventuale modifica 
+sono riportati nella relativa delibera di approvazione. Il documento è trasmesso, in sede di prima definizione 
+e, in seguito, in occasione di ogni sua modificazione: 
+– agli Organi di Controllo della forma pensionistica e al Responsabile della stessa; 
+– ai soggetti incaricati della gestione finanziaria;  
+– alla Banca Depositaria; 
+– alla COVIP, entro venti giorni dalla sua formalizzazione. 
+ 
+Il documento è a disposizione degli aderenti, dei beneficiari e dei loro rappresentanti che ne facciano richiesta 
+per iscritto, a mezzo posta elettronica o posta ordinaria, ai seguenti indirizzi: 
+ 
+Unipol Assicurazioni S.p.A. – Area Life 
+Via Stalingrado, 45 
+40128 - Bologna 
+fondiaperti@unipol.it 
+ 
+Caratteristiche dei potenziali aderenti 
+Il Fondo è destinato sia alle adesioni individuali di qualsiasi soggetto che alle adesioni dei lavoratori sulla base 
+di contratti o accordi collettivi aziendali. Esso , come tutti i fondi pensione aperti,  non ha quindi una 
+popolazione di riferimento predefinita. D’altra parte, la pluralità di opzioni d’investimento previste dal Fondo 
+e l’ampia facoltà concessa ai potenziali aderenti di destinare liberamente i contributi a uno o più comparti 
+con combinazioni  di rischio -rendimento diversificate , rendono il Fondo idoneo a soddisfare le esigenze 
+previdenziali di un’ampia popolazion e di riferimento. In ogni caso, per tenere in  considerazione le 
+caratteristiche e i potenziali bisogni previdenziali della popolazione di riferimento, l’Impresa di Assicurazione 
+monitora le caratteristiche socio-demografiche degli iscritti, l’andamento delle adesioni e delle uscite, nonché 
+il livello di contribuzione media.
+=== pagina 4 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 2 di 23 
+ 
+OBIETTIVI DELLA POLITICA DI INVESTIMENTO  
+Il Fondo ha l’obiettivo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari al sistema obbligatorio. A tal fine, esso provvede alla raccolta dei contributi, 
+alla gestione delle risorse nell’esclusivo interesse degli aderenti e all’erogazione delle prestazioni secondo 
+quanto disposto dalla normativa in materia di previdenza complement are. Essendo la platea dei potenziali 
+investitori eterogenea, sotto i profili della provenienza, degli obiettivi di investimento, del livello retributivo e 
+del tasso di sostituzione atteso, l’obiettivo finale della Politica di Investimento del Fondo è di massimizzare le 
+risorse destinate alle prestazioni, fornendo agli aderenti opzioni d’investimento diversificate , in funzione di 
+diversi orizzonti temporali, di diverse aspettative di rendimento e di tolleranza ai rischi finanziari (per una 
+definizione dei rischi finanziari si veda l’Allegato 1), perseguendo combinazioni di rischio-rendimento efficienti 
+in termini di rapporto tra rendimenti e volatilità dei risultati. Per realizzare tale obiettivo complessivo, il Fondo 
+prevede quattro opzioni di investimento (comparti), con grado di rischio progressivamente crescente: 
+- Bond Unipol (di seguito “Bond”) 
+- Equilibrio Unipol (di seguito “Equilibrio”) 
+- Bilanciata Globale Unipol (di seguito “Bilanciata Globale”) 
+- Equity Unipol (di seguito “Equity”). 
+ 
+Gli aderenti al Fondo possono liberamente destinare i contributi a uno dei comparti o suddividerli tra gli stessi, 
+con combinazioni scelte liberamente dall’aderente. I flussi di TFR conferiti tacitamente al Fondo sono destinati 
+al comparto Equilibrio. 
+I quattro comparti, differenziati per rischiosità e orizzonte temporale consigliato,  sono adatti a coprire i 
+bisogni previdenziali della platea dei potenziali aderenti a seconda dell’età e della propensione al rischio 
+individuale, fermo restando l’obbligo di valutarne l’adeguatezza secondo quanto previsto dalle disposizioni 
+vigenti.  
+Non è previsto per l’aderente un meccanismo automatico di passaggio tra comparti o combinazioni di 
+comparti in funzione degli anni mancanti all’età della pensione. 
+Per il comparto Equilibrio, secondo le condizioni riportate nel Regolamento, è contemplata una garanzia che 
+prevede l’erogazione di un importo minimo garantito, a prescindere dai risultati di gestione, pari alla somma 
+dei contributi netti versati al comparto  (inclusi gli eventuali importi derivanti da trasferimenti da altro 
+comparto o da altra forma pensionistica e i contributi versati per il reintegro delle anticipazioni percepite ), 
+ridotto da eventuali riscatti parziali e anticipazioni, al verificarsi dei seguenti eventi:  
+− esercizio del diritto alla prestazione pensionistica di cui all’art. 11; 
+− riscatto per decesso; 
+− riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un terzo; 
+− riscatto per inoccupazione per un periodo di tempo superiore a 48 mesi. 
+I comparti: orizzonte temporale consigliato e obiettivi di rischio-rendimento 
+Ogni comparto del Fondo ha un proprio orizzonte temporale consigliato e, di conseguenza, propri obiettivi di 
+rischio-rendimento1.  
+ 
+1 Si precisa che: 
+– tutti i rendimenti esposti sono riportati al lordo della fiscalità e degli oneri gestionali e amministrativi; 
+– l’indicazione del rendimento medio annuo atteso è un obiettivo che si intende conseguire, ma non costituisce in alcun modo un 
+impegno da parte dell’Impresa di Assicurazione al raggiungimento dello stesso; 
+− I dati puntuali sotto riportati, per le quattro combinazioni rischio-rendimento descritte, sono stati calcolati rispettivamente sui 
+seguenti orizzonti temporali: 13 anni, 13 anni, 13 anni e 18 anni.
+=== pagina 5 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 3 di 23 
+ 
+Tutti i rendimenti di seguito esposti sono da intendersi al lordo della fiscalità e degli oneri gestionali e 
+amministrativi. L’indicazione del rendimento medio annuo atteso è un obiettivo che si intende conseguire ma 
+non costituisce in alcun modo un impegno da parte dell ’Impresa di A ssicurazione al raggiungimento dello 
+stesso2. 
+ 
+Comparto BOND 
+Orizzonte temporale: medio/lungo periodo (tra 10 e 15 anni). 
+Grado di rischio: medio/basso. 
+Finalità: Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari opportunamente 
+selezionati al fine di incrementare il valore nel medio-lungo termine. La gestione risponde alle esigenze di un 
+soggetto che mira al graduale incremento del capitale investito. Adatta agli aderenti che prediligono 
+investimenti volti a favorire la stabilità del capitale e dei risultati nel medio/lungo termine , disposti ad 
+accettare un’esposizione al rischio medio/bassa. 
+Rendimento medio annuo atteso  nell’orizzonte temporale: 0,68% reale (al netto dell’inflazione ipotizzata al 
+1,98%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata) nell’orizzonte temporale: 2,71%. 
+La probabilità di ottenere rendimenti negativi  nell’orizzonte temporale stabilito, calcolata anche in base 
+all’esperienza passata, è pari a 0,02%. 
+In base ai risultati delle elaborazioni effettuate , la perdita massima ritenuta accettabile  nell’orizzonte 
+temporale è pari a 0,00%, con probabilità del 99%. 
+Il Comparto Bond prevede un approccio flessibile, senza vincoli predeterminati (tranne quelli previsti dalla 
+normativa vigente, dal Regolamento e dal presente Documento) e senza un benchmark  di riferimento. Le 
+ipotesi sopra menzionate sono state quindi calcolate sulla base di un portafoglio teorico ritenuto 
+rappresentativo della politica di investimento.  
+ 
+Comparto EQUILIBRIO 
+Il comparto prevede una garanzia di restituzione del capitale, al verificarsi degli eventi sopra descritti.  
+Orizzonte temporale: medio/lungo periodo (tra 10 e 15 anni). 
+Grado di rischio: medio, nullo nei casi in cui opera la garanzia. 
+Finalità: Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari opportunamente 
+selezionati al fine di incrementare il valore nel medio -lungo termine.  La gestione si prefigge di realizzare 
+rendimenti comparabili, nei limiti previsti dalla normativa statale e comunitaria, al tasso di rivalutazione del 
+TFR, quantomeno in un orizzonte temporale pluriennale. La presenza di una garanzia di capitale consente di 
+soddisfare anche le esigenze di un soggetto con una bassa propensione al rischio o ormai prossimo alla 
+pensione. 
+Rendimento medio annuo atteso  nell’orizzonte temporale: 1,32% reale (al netto dell’inflazione ipotizzata al 
+1,98%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata) nell’orizzonte temporale: 3,60%. 
+La probabilità di ottenere rendimenti negativi  nell’orizzonte temporale stabilito, calcolata anche in base 
+all’esperienza passata, è pari a 0,05%, ed è comunque nulla nei casi in cui opera la garanzia. 
+In base ai risultati delle elaborazioni effettuate , la perdita massima ritenuta accettabile  nell’orizzonte 
+temporale è pari a 0,00%, con probabilità del 99%. 
+Il Comparto Equilibrio prevede un approccio flessibile, senza vincoli predeterminati (tranne quelli previsti 
+dalla normativa vigente, dal Regolamento e dal presente Documento) e senza un benchmark di riferimento. 
+ 
+2 l’inflazione è stata stimata in base ai valori impliciti nelle quotazioni degli strumenti finanziari indicizzati all’inflazione con scadenza 
+coerente con l’orizzonte temporale. Viene considerata l’inflazione area Euro ex tabacco.
+=== pagina 6 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 4 di 23 
+ 
+Le ipotesi sopra menzionate sono state quindi calcolate sulla base di un portafoglio teorico ritenuto 
+rappresentativo della politica di investimento. 
+ 
+Comparto BILANCIATA GLOBALE 
+Orizzonte temporale: medio/lungo periodo (tra 10 e 15 anni). 
+Grado di rischio: medio/alto. 
+Finalità: Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari opportunamente 
+selezionati al fine di incrementarne il valore nel medio lungo termine, attraverso il potenziale di rivalutazione 
+delle attività reali. Adatta agli aderenti non ancora prossimi al pensionamento e disposti ad accettare una 
+medio/alta esposizione al rischio , al fine di cogliere opportunità di rendimenti più elevati nel medio/lungo 
+termine. 
+Rendimento medio annuo atteso  nell’orizzonte temporale: 1,98% reale (al netto dell’inflazione ipotizzata al  
+1,98%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata) nell’orizzonte temporale: 7,56%. 
+La probabilità di ottenere rendimenti negativi  nell’orizzonte temporale stabilito, calcolata anche in base 
+all’esperienza passata, è pari al 2,96%. 
+In base ai risultati delle elaborazioni effettuate , la perdita massima ritenuta accettabile  nell’orizzonte 
+temporale è pari a -0,92%, con probabilità del 99%. 
+ 
+Comparto EQUITY 
+Orizzonte temporale: lungo periodo (oltre 15 anni). 
+Grado di rischio: alto. 
+Finalità: Lo scopo della gestione è l’investimento collettivo di capitali in strumenti finanziari opportunamente 
+selezionati al fine di incrementarne il valore nel lungo termine, attraverso il potenziale di riv alutazione delle 
+attività reali. Adatta agli aderenti che hanno un lungo periodo lavorativo prima del pensionamento e disposti ad 
+accettare una maggiore esposizione al rischio al fine di cogliere opportunità di rendimenti più elevati. 
+Rendimento medio annuo atteso  nell’orizzonte temporale: 4,13% reale (al netto dell’inflazione ipotizzata a  
+2,05%). 
+Variabilità attesa del rendimento (deviazione standard annualizzata) nell’orizzonte temporale: 12,40%. 
+La probabilità di ottenere rendimenti negativi  nell’orizzonte temporale stabilito, calcolata anche in base 
+all’esperienza passata, è pari al 4,13%. 
+In base ai risultati delle elaborazioni effettuat e, la perdita massima ritenuta accettabile  nell’orizzonte 
+temporale è pari a -1,73%, con probabilità del 99%. 
+ 
+CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+Ogni comparto d i Unipol  Fondo Pensione  Aperto BV ha propri criteri di attuazione della Politica di 
+Investimento.  
+Comparto BOND UNIPOL 
+Ripartizione strategica delle attività 
+La politica di investimento è tendenzialmente orientata verso strumenti finanziari ed OICR di natura 
+obbligazionaria senza un benchmark di riferimento e  senza vincoli predeterminati, consentendo così di 
+modificare l’asset allocation in funzione delle condizioni del mercato (Stile di gestione c.d. ’flessibile’).  
+Gli strumenti finanziari e gli OICR di natura azionaria potranno essere presenti per un valore non superiore al 
+10% del portafoglio.
+=== pagina 7 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 5 di 23 
+ 
+La duration media ponderata del portafoglio obbligazionario è di norma compresa fra 2 e 15 anni.  
+Le principali classi di attività nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti:  
+ 
+Classi di attività Percentuale minima  Ripartizione strategica Percentuale massima 
+Liquidità 0% 0% 50% 
+Obbligazionario 50% 100% 100% 
+Azionario 0% 0% 10% 
+ 
+Le aree geografiche nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Aree Geografiche Percentuale minima  Ripartizione strategica Percentuale massima 
+Europa 35% 65% 100% 
+USA 0% 25% 50% 
+Altri Paesi 0% 10% 30% 
+ 
+Le valute di riferimento (al netto delle coperture) nelle quali il comparto investe e  i limiti minimi e massimi 
+previsti sono i seguenti: 
+ 
+Esposizione Valutaria Percentuale minima  Ripartizione strategica Percentuale massima 
+Euro 70% 93% 100% 
+Dollaro 0% 7% 30% 
+Altro 0% 0% 30% 
+ 
+Nel caso di investimenti in valute diverse dall’Euro, ai fini di copertura del valore di portafoglio possono essere 
+altresì utilizzate tecniche di copertura del rischio di cambio. 
+Strumenti finanziari nei quali si intende investire 
+La tabella seguente illustra in maniera non esaustiva i principali strumenti finanziari nei qua li il comparto 
+investe e i relativi limiti:  
+ 
+1 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione. 
+   Si precisa che:  
+Strumenti Finanziari Limiti  
+per categoria 
+Limiti  
+per singolo strumento 
+Limite  
+di Rating2 
+Liquidità 50% n.a. Nessuno 
+Pronti contro termine 20% 20% Investment Grade 
+Titoli di Stato e sovranazionali 100% 20% Nessuno 
+Altri Titoli di Debito 60% 5% 
+Max 20 % emittenti non IG 
+o senza rating sul totale del 
+portafoglio 
+Titoli di capitale 10% 5% Nessuno 
+OICR  100% 20% Nessuno 
+Di cui OICR alternativi1 0% 0% Nessuno 
+Derivati 70% 20% Investment Grade3 
+Strumenti finanziari connessi a merci 5% 2% Nessuno 
+Vendita di divisa a termine per 
+copertura rischio cambio 70% 25% Investment Grade3
+=== pagina 8 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 6 di 23 
+ 
+o per OICR alternativi, con le specificità e limitazioni poste in questo Documento, si intendono gli strumenti previsti dal D.M  166/2014, art. 1, 
+comma 1, lettere p, q, r, s, t; a titolo esemplificativo, ma non esaustivo: FIA Italiani, FIA UE e FIA non UE. 
+2 Con riferimento ai limiti di rating per i derivati, per i pronti contro termine e per le operazioni in divisa a termine, il rating considerato si riferisce alla 
+controparte. 
+3 Nessun limite di rating per la controparte nel caso di utilizzo di derivati quotati. 
+Nell’attività di gestione del portafoglio, il rating, quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base a informazioni sia di tipo qualitativo che 
+quantitativo. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR l’Impresa di A ssicurazione si rivolge a emittenti che consentono l’accesso alle 
+informazioni sulle strategie poste in essere dal g estore, sulla struttura dei costi dello strumento  e sugli 
+eventuali periodi di uscita dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili 
+all’Impresa di A ssicurazione flussi informativi sufficienti per un’adeguata valutazione dell’investimento 
+effettuato e per la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l'utilizzo di strumenti derivati orientato sia a finalità di copertura del rischio, sia di più efficiente 
+gestione, coerentemente con il profilo di rischio-rendimento del comparto. 
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio 
+che per una più efficiente gestione.  
+L’investimento diretto in strumenti derivati (non tramite OICR) , coerentemente con il profilo di rischio -
+rendimento del comparto, avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione 
+e si rivolge generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi 
+operativi, sia i rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitat a trasparenza 
+di tali strumenti.  
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per la chiusura 
+della copertura stessa possono essere effettuati sul mercato O.T.C. 
+Il comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati 
+regolamentati, entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore 
+per il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del comparto. Tale 
+obiettivo è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli 
+investimenti e il contenimento dei costi di transazione, gestione e funzionamento del comparto. 
+Il comparto presenta un profilo di rischio medio -basso. La politica di investimento è orientata 
+tendenzialmente verso strumenti finanziari ed OICR di natura obbligazionaria , senza un benchmark  di 
+riferimento e senza vincoli predeterminati, consentendo così di modificare l’asset allocation in funzione delle 
+condizioni del mercato (Stile di gestione c.d. ‘flessibile’).  
+Gli indicatori monitorati sono il turnover  di Portafoglio e la perdita potenziale in un orizzonte temporale 
+definito (Value at Risk, VAR). In particolare, è previsto un limite di rotazione del Portafoglio pari a 500% e un 
+obiettivo di Value at Risk non superiore a 7,5% (VAR a 30 giorni con un intervallo di confidenza del 99%).  
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo 
+interesse dell’aderente. Il superamento di tali limiti dovrà essere valutato dal Comitato Investimenti e Prodotti 
+per una successiva approvazione da parte del Consiglio di Amministrazione.
+=== pagina 9 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 7 di 23 
+ 
+Comparto EQUILIBRIO UNIPOL 
+Ripartizione strategica delle attività 
+La politica di investimento è orientata tendenzialmente ad una composizione di portafoglio ampiamente 
+diversificata, con la possibilità di investire in tutti gli strumenti finanziari ed OICR previsti dalla normativa 
+vigente, senza un benchmark di riferimento e sen za vincoli predeterminati, consentendo così di modificare 
+l’asset allocation in funzione delle condizioni di mercato (Stile di gestione c.d. ‘flessibile’). 
+Gli strumenti finanziari e gli OICR di natura azionaria potranno essere presenti per un valore non superiore al 
+50% del portafoglio. 
+La duration media ponderata del portafoglio obbligazionario è di norma compresa fra 2 e 15 anni.  
+Le principali classi di attività nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+Classi di attività Percentuale minima  Ripartizione strategica Percentuale massima 
+Liquidità 0% 0% 50% 
+Obbligazionario 20% 85% 100% 
+Azionario 0% 15% 50% 
+Le aree geografiche nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+Aree Geografiche Percentuale minima  Ripartizione strategica Percentuale massima 
+Europa 25% 50% 100% 
+USA 0% 40% 70% 
+Altri Paesi 0% 10% 40% 
+Le valute di riferimento (al netto delle coperture) nelle quali il comparto investe e i limiti minimi e massimi 
+previsti sono i seguenti: 
+Esposizione Valutaria Percentuale minima  Ripartizione strategica Percentuale massima 
+Euro 70% 81% 100% 
+Dollaro 0% 14% 30% 
+Altro 0% 5% 30% 
+Nel caso di investimenti in valute diverse dall’Euro, ai fini di copertura del valore di portafoglio possono essere 
+altresì utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli, la ripartizione strategica per settori 
+è la seguente: 
+Settori di attività Percentuali 
+Finanziari 25% 
+Industriali 21% 
+Tecnologia 14% 
+Consumi Discrezionali 10% 
+Farmaceutici 7% 
+Servizi di pubblica utilità 7% 
+Consumi di Base 5% 
+Materie prime 4% 
+Telecomunicazioni 3% 
+Energia 3% 
+Immobiliare 1% 
+Totale 100%
+=== pagina 10 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 8 di 23 
+ 
+In relazione all’andamento del mercato, su ciascun settore sarà possibile raggiungere una percentuale elevata 
+degli investimenti fino al massimo del 15 % del patrimonio del comparto. Sarà altresì possibile avere 
+un’esposizione molto modesta o nulla su specifici settori. 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra in maniera non esaustiva i principali strumenti finanziari nei quali il comparto 
+investe e i relativi limiti: 
+Strumenti Finanziari Limiti  
+per categoria 
+Limiti  
+per singolo strumento 
+Limite  
+di Rating2 
+Liquidità 50% 20% Nessuno 
+Pronti contro termine 20% 20% Investment Grade 
+Titoli di Stato e sovranazionali 100% 15% Nessuno 
+Altri titoli di debito 70% 5% 
+ Max 20 % emittenti non IG 
+o senza rating sul totale del 
+portafoglio 
+Titoli di capitale 50% 5% Nessuno 
+OICR 100% 20% Nessuno 
+Di cui OICR alternativi1 0% 0% Nessuno 
+Derivati 70% 20% Investment Grade3 
+Strumenti finanziari connessi a 
+merci 5% 2% Nessuno 
+Vendita di divisa a termine per 
+copertura rischio cambio 70% 25% Investment Grade3 
+1 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione. 
+ Si precisa che:  
+o per OICR alternativi, con le specificità e limitazioni poste in questo Documento, si intendono gli strumenti previsti dal D.M  166/2014, art. 1, 
+comma 1, lettere p, q, r, s, t; a titolo esemplificativo, ma non esaustivo: FIA Italiani, FIA UE e FIA non UE. 
+2 Con riferimento ai limiti di rating per i derivati, per i pronti contro termine e per le operazioni in divisa a termine, il rating considerato si riferisce alla 
+controparte. 
+3 Nessun limite di rating per la controparte nel caso di utilizzo di derivati quotati. 
+Nell’attività di gestione del portafoglio, il rating, quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base a informazioni sia di tipo qualitativo che 
+quantitativo. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR l’Impresa di A ssicurazione si rivolge a emittenti che consentono l’accesso alle 
+informazioni sulle strategie poste in essere dal g estore, sulla struttura dei costi dello strumento e sugli 
+eventuali periodi di uscita dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili 
+all’Impresa di A ssicurazione flussi informativi sufficienti per un’adeguata valutazione dell’investimento 
+effettuato e per la predisposizione delle segnalazioni statistiche di vigilanza.  
+È consentito l'utilizzo di strumenti derivati orientato sia a finalità di copertura del rischio sia di più efficiente 
+gestione, coerentemente con il profilo di rischio-rendimento del comparto. 
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio 
+che per una più efficiente gestione. 
+L’investimento diretto in strumenti derivati (non tramite OICR) , coerentemente con il profilo di rischio -
+rendimento del comparto, avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione 
+e si rivolge generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi
+=== pagina 11 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 9 di 23 
+ 
+operativi, sia i rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza 
+di tali strumenti.   
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per la chiusura 
+della copertura stessa possono essere effettuati sul mercato O.T.C. 
+Il comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati 
+regolamentati, entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite in maniera sana e prudente, avendo come obiettivo primario la ricerca del valore 
+per il sottoscrittore nell’ambito del profilo rischio - rendimento e dell’orizzonte temporale del comparto. Tale 
+obiettivo è perseguito attraverso un’efficiente gestione del Portafoglio che prevede la diversificazione degli 
+investimenti e il contenimento dei costi di transazione, gestione e funzionamento del comparto. 
+Il comparto presenta un profilo di rischio medio. La politica di investimento è orientata principalmente verso 
+strumenti finanziari ed OICR di natura monetaria, obbligazionaria e azionaria, senza un benchmark  di 
+riferimento e senza vincoli predeterminati, consentendo così di modificare l’asset allocation in funzione delle 
+condizioni del mercato (Stile di gestione c.d. ‘flessibile’). Gli strumenti finanziari e gli OICR di natura azionaria 
+non possono superare il 50% del valore del comparto.  
+Gli indicatori monitorati sono il turnover  di Portafoglio e la perdita potenziale in un orizzonte temporale 
+definito (Value at Risk, VAR). In particolare, è previsto un limite di rotazione del Portafoglio pari a 500% e un 
+obiettivo di Value at Risk non superiore a 8,5% (VAR a 30 giorni con un intervallo di confidenza del 99%). 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo 
+interesse dell’aderente. Il superamento di tali limiti dovrà essere valutato dal Comitato Investimenti e Prodotti 
+per una successiva approvazione da parte del Consiglio di Amministrazione. 
+ 
+Comparto BILANCIATA GLOBALE UNIPOL 
+Ripartizione strategica delle attività 
+La politica di investimento del Comparto tende a una composizione di portafoglio diversificata e bilanciata tra 
+titoli di debito e titoli di capitale. Gli strumenti finanziari e gli OICR di natura azionaria potranno essere 
+presenti per un valore non superiore al 60% del portafoglio. 
+La duration media ponderata del portafoglio obbligazionario è di norma  inferiore a  12 anni ; tuttavia, in 
+particolari situazioni di mercato e nell’interesse degli aderenti, il Comitato Investimenti e Prodotti potrà 
+proporre al Consiglio di Amministrazione la modifica di tale valore. 
+La strategia d’investimento persegue l’ottimizzazione delle combinazioni di rischio -rendimento del 
+patrimonio gestito, variando la porzione del portafoglio investita in azioni e in obbligazioni,  in relazione 
+all’andamento dei mercati. 
+Le classi di attività nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Classi di attività Percentuale minima  Ripartizione strategica Percentuale massima 
+Liquidità 0% 10% 30% 
+Obbligazionario 30% 40% 70% 
+Azionario 30% 50% 60%
+=== pagina 12 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 10 di 23 
+ 
+Le aree geografiche nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+ 
+Aree Geografiche Percentuale minima  Ripartizione strategica Percentuale massima 
+Europa 40% 60% 100% 
+USA 0% 32% 50% 
+Giappone 0% 4% 15% 
+Altri Paesi 0% 4% 15% 
+ 
+Le valute di riferimento (al netto delle coperture) nelle quali il comparto investe e i limiti minimi e massimi  
+previsti sono i seguenti: 
+ 
+Esposizione Valutaria Percentuale minima  Ripartizione strategica Percentuale massima 
+Euro 70% 73% 100% 
+Dollaro 0% 19% 30% 
+Yen 0% 2% 30% 
+Altro 0% 6% 30% 
+ 
+ 
+Nel caso di investimenti in valute diverse dall’Euro, ai fini di copertura del valore di portafoglio possono essere 
+altresì utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica per settori 
+è la seguente: 
+ 
+Settori di attività Percentuale 
+Finanziari 25% 
+Industriali 21% 
+Tecnologia 14% 
+Consumi Discrezionali 10% 
+Farmaceutici 7% 
+Servizi di pubblica utilità 7% 
+Consumi di Base 5% 
+Materie prime 4% 
+Telecomunicazioni 3% 
+Energia 3% 
+Immobiliare 1% 
+Totale 100% 
+In relazione all’andamento del mercato, su ciascun settore sarà possibile raggiungere una percentuale elevata 
+degli investimenti fino al massimo del 30% del patrimonio del comparto. Sarà altresì possibile avere una 
+esposizione molto modesta o nulla su specifici settori. 
+Il benchmark è composto dai seguenti indici:  
+Indice obbligazionario: 40% ICE BofA 3-5 year Euro Government Index, 10% ICE BofA Euro Treasury Bill. 
+Indice azionario: 20% STOXX Global 1800 Daily Hedge Net Return Eur , 30% STOXX Global 1800 Net Return 
+Index Eur.
+=== pagina 13 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 11 di 23 
+ 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra in maniera non esaustiva i principali strumenti finanziari nei quali il comparto 
+investe e i relativi limiti:  
+Strumenti Finanziari Limiti  
+per categoria 
+Limiti  
+per singolo strumento 
+Limite  
+di Rating2 
+Liquidità 30% 20% Nessuno 
+Pronti contro termine 20% 20% Investment Grade 
+Titoli di Stato e sovranazionali 70% 15% Nessuno 
+Altri Titoli di Debito 70% 5% Max 10 % emittenti non IG o senza 
+rating sul totale del portafoglio 
+Azioni 60% 5% Nessuno 
+OICR  100% 20% Nessuno 
+Di cui OICR alternativi1 0% 0% Nessuno 
+Derivati 20% 10% Investment Grade3 
+Strumenti alternativi 0% 0% Nessuno 
+Strumenti finanziari connessi a 
+merci 5% 2% Nessuno 
+Vendita di divisa a termine per 
+copertura rischio cambio 50% 30% Investment Grade3 
+1  Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione. 
+  Si precisa che:  
+o per OICR alternativi, con le specificità e limitazioni poste in questo Documento, si intendono gli strumenti previsti dal D.M  166/2014, art. 1, 
+comma 1, lettere p, q, r, s, t; a titolo esemplificativo, ma non esaustivo: FIA Italiani, FIA UE e FIA non UE. 
+2 Con riferimento ai limiti di rating per i derivati, per i pronti contro termine e per le operazioni in divisa a termine, il rating considerato si  riferisce alla 
+controparte. 
+3 Nessun limite di rating per la controparte nel caso di utilizzo di derivati quotati. 
+Nell’attività di gestione del portafoglio, il rating, quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base a informazioni sia di tipo qualitativo che 
+quantitativo. 
+Area geografica di riferimento: principalmente Europa, Nord America e Giappone.  
+La quota in titoli azionari è rivolta prevalentemente a società caratterizzate da capitalizzazione medio/alta. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR l’Impresa di A ssicurazione si rivolge a emittenti che consentono l’accesso alle 
+informazioni sulle strategie poste in essere dal g estore, sulla struttura dei costi dello strumento e sugli 
+eventuali periodi di uscita dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili 
+all’Impresa di A ssicurazione flussi informativi sufficienti per un’adeguata valutazione dell’investimento 
+effettuato e per la predisposizione delle segnalazioni statistiche di vigilanza. 
+È consentito l'utilizzo di strumenti derivati orientato sia a finalità di copertura del rischio sia di più efficiente 
+gestione, coerentemente con il profilo di rischio-rendimento del comparto. 
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio 
+che per una più efficiente gestione.  
+L’investimento diretto in strumenti derivati (non tramite OICR) , coerentemente con il profi lo di rischio -
+rendimento del comparto, avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione 
+e si rivolge generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi 
+operativi, sia i rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza 
+di tali strumenti.
+=== pagina 14 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 12 di 23 
+ 
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per la chiusura 
+della copertura stessa possono essere effettuati sul mercato O.T.C. 
+Il comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati 
+regolamentati, entro il limite del 5% delle disponibilità complessive. 
+ 
+Stile di gestione  
+Le disponibilità sono gestite avendo come obiettivo primario la ricerca del valore per il sottoscrittore 
+nell’ambito del profilo rischio -rendimento e dell’orizzonte temporale del comparto. Tale obiettivo è 
+perseguito attraverso un’efficiente gestione del portafoglio che prevede la diversificazione degli investimenti 
+e il contenimento dei costi di transazione, gestione e funzionamento del comparto. 
+Il comparto presenta un profilo di rischio medio /alto e ha, come obiettivo , l’incremento nel medio /lungo 
+periodo, del capitale investito. Questa linea attua una Politica di Investimento tendente a una composizione 
+di portafoglio diversificata e bilanciata tra titoli di debito e titoli di capitale. Il patrimonio della linea può essere 
+investito fino al 60% in titoli di capitale. 
+ 
+Lo stile di gestione è attivo rispetto al benchmark, con scostamenti anche rilevanti rispetto a tale parametro, 
+sia con riferimento alla componente azionaria, sia per quanto riguarda la componente obbligazionaria.  Si 
+ritiene che la volatilità tipica dei mercati finanziari consenta di ottenere extra  rendimenti rispetto al 
+benchmark, attraverso un’accurata attività di selezione di singoli titoli e attraverso l’attività di macro asset 
+allocation tattica, ovvero la scelta di sovra/sotto pesare determinate asset  class, aree geografiche, settori 
+economici e specifici tratti della curva dei rendimenti in base alle prospettive relative di crescita, di inflazione 
+e di robustezza finanziaria. 
+ 
+Gli indicatori monitorati sono il turnover di portafoglio, il rischio di concentrazione, il rischio di mercato (VAR) 
+e la volatilità dei rendimenti differenziali rispetto al benchmark . In particolare, è prevista una semi tracking 
+error volatility annua massima del 4,5% e un limite massimo di turnover annuo pari al 350%.  
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo 
+interesse dell’aderente. Il superamento di tali limiti dovrà essere valutato dal Comitato Investimenti e Prodotti 
+per una successiva approvazione da parte del Consiglio di Amministrazione.  
+Comparto EQUITY UNIPOL 
+Ripartizione strategica delle attività 
+La gestione finanziaria del comparto è principalmente orientata all’investimento in strumenti di natura 
+azionaria. Il portafoglio può essere investito fino al 100% in strumenti finanziari e OICR di natura azionaria. 
+La duration media ponderata del portafoglio obbligazionario è di norma inferiore a 12 anni; tuttavia, in 
+particolari situazioni di mercato e nell’interesse degli aderenti, il Comitato Investimenti e Prodotti potrà 
+proporre al Consiglio di Amministrazione la modifica di tale valore. 
+Al fine di perseguire l’ottimizzazione delle combinazioni di rischio -rendimento del patrimonio gestito, il 
+comparto può investire in strumenti di natura monetaria e obbligazionaria,  variando di conseguenza la 
+porzione del portafoglio investita in strumenti azionari. 
+Le classi di attività nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti:
+=== pagina 15 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 13 di 23 
+ 
+ 
+Classi di attività Percentuale minima  Ripartizione strategica Percentuale massima 
+Liquidità 0% 10% 30% 
+Obbligazionario 0% 5% 30% 
+Azionario 60% 85% 100% 
+Le aree geografiche nelle quali il comparto investe e i limiti minimi e massimi previsti sono i seguenti: 
+Aree Geografiche Percentuale minima  Ripartizione strategica Percentuale massima 
+Europa 20% 33% 80% 
+USA 20% 54% 80% 
+Giappone 0% 7% 15% 
+Altri Paesi 0% 6% 10% 
+Le valute di riferimento (al netto delle coperture) nelle quali il comparto investe ed i limiti minimi e massimi  
+previsti sono i seguenti: 
+Esposizione Valutaria Percentuale minima  Ripartizione strategica Percentuale massima 
+Euro 70% 73% 100% 
+Dollaro 0% 19% 30% 
+Yen 0% 2% 30% 
+Altro 0% 6% 30% 
+Nel caso di investimenti in valute diverse dall’Euro, ai fini di copertura del valore di portafoglio possono essere 
+altresì utilizzate tecniche di copertura del rischio di cambio. 
+Relativamente alla componente azionaria investita direttamente in titoli la ripartizione strategica è la 
+seguente: 
+ 
+Settori di attività Percentuale 
+Finanziari 25% 
+Industriali 21% 
+Tecnologia 14% 
+Consumi Discrezionali 10% 
+Farmaceutici 7% 
+Servizi di pubblica utilità 7% 
+Consumi di Base 5% 
+Materie prime 4% 
+Telecomunicazioni 3% 
+Energia 3% 
+Immobiliare 1% 
+Totale 100% 
+In relazione all’andamento del mercato, su ciascun settore sarà possibile raggiungere una percentuale elevata 
+degli investimenti fino al massimo del 45% del patrimonio del comparto. 
+Sarà altresì possibile avere un’esposizione molto modesta o nulla su specifici settori. 
+Il benchmark è composto dai seguenti indici:  
+Indice obbligazionario: 5% ICE BofA 3-5 year Euro Government Index, 10% ICE BofA Euro Treasury Bill.
+=== pagina 16 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 14 di 23 
+ 
+Indice azionario: 55% STOXX Global 1800 Daily Hedged Net Return Eur, 30% STOXX Global 1800 Net Return 
+Eur. 
+Strumenti finanziari nei quali si intende investire  
+La tabella seguente illustra , in maniera non esaustiva , i principali strumenti finanziari nei quali il comparto 
+investe e i relativi limiti:  
+Strumenti Finanziari Limiti  
+per categoria 
+Limiti  
+per singolo strumento 
+Limite  
+di Rating2 
+Liquidità 30% 20% Nessuno 
+Pronti contro termine 20% 20% Investment Grade 
+Titoli di Stato e sovranazionali 20% 15% Nessuno 
+Altri titoli di Debito  30% 5% Max 10 % emittenti non IG o senza 
+rating sul totale del portafoglio 
+Azioni 100% 5% Nessuno 
+OICR  100% 20% Nessuno 
+Di cui OICR alternativi1 0% 0% Nessuno 
+Derivati  20% 10% Investment Grade3 
+Strumenti alternativi 0% 0% Nessuno 
+Strumenti finanziari connessi 
+a merci 5% 2% Nessuno 
+Vendita di divisa a termine per 
+copertura rischio cambio 30% 30% Investment Grade3 
+1 Limiti calcolati sugli impegni in rapporto al patrimonio, al momento di ogni nuova sottoscrizione. 
+ Si precisa che:  
+o per OICR alternativi, con le specificità e limitazioni poste in questo Documento, si intendono gli strumenti previsti dal D.M  166/2014, art. 1, 
+comma 1, lettere p, q, r, s, t; a titolo esemplificativo, ma non esaustivo: FIA Italiani, FIA UE e FIA non UE. 
+2 Con riferimento ai limiti di rating per i derivati, per i pronti contro termine e per le operazioni in divisa a termine, il rating considerato si riferisce alla 
+controparte. 
+3 Nessun limite di rating per la controparte nel caso di utilizzo di derivati quotati. 
+Nell’attività di gestione del portafoglio, il rating, quando utilizzato, non viene applicato in modo esclusivo o 
+meccanico, ma vengono effettuate valutazioni più ampie in base a informazioni sia di tipo qualitativo che 
+quantitativo. 
+Area geografica di riferimento: principalmente Europa, Nord America e Giappone.  
+La quota in titoli azionari è rivolta prevalentemente a società caratterizzate da alta capitalizzazione. 
+Gli OICR (inclusi gli ETF) possono essere utilizzati, in alternativa all’investimento diretto in titoli, per garantire 
+un’efficace diversificazione e per un’efficiente attività di gestione.  
+Nella scelta degli OICR l’Impresa di A ssicurazione si rivolge a emittenti che consentono l’accesso alle 
+informazioni sulle strategie poste in essere dal g estore, sulla struttura dei costi dello strumento e sugli 
+eventuali periodi di uscita dall’investimento (lock up period); gli emittenti devono inoltre rendere disponibili 
+all’Impresa di A ssicurazione flussi informativi sufficienti per un’adeguata valutazione dell’investimento 
+effettuato e per la predisposizione delle segnalazioni statistiche di vigilanza. 
+È consentito l'utilizzo di strumenti derivati orientato sia a finalità di copertura del rischio sia di più efficiente 
+gestione, coerentemente con il profilo di rischio-rendimento del comparto. 
+È consentito l’investimento in OICR che utilizzano strumenti derivati sia per finalità di copertura del rischio 
+che per una più efficiente gestione. 
+L’investimento diretto in strumenti derivati (non tramite OICR) , coerentemente con il prof ilo di rischio -
+rendimento del comparto, avviene per finalità di riduzione del rischio d’investimento o di efficiente gestione
+=== pagina 17 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 15 di 23 
+ 
+e si rivolge generalmente verso strumenti quotati, in quanto tale caratteristica consente di limitare sia i rischi 
+operativi, sia i rischi connessi alla scarsa liquidabilità, alla difficoltà di valutazione e alla limitata trasparenza 
+di tali strumenti.   
+Le vendite di divisa a termine a scopo di copertura e i successivi eventuali acquisti a termine per chiusura della 
+copertura stessa possono essere effettuati sul mercato O.T.C. 
+Il comparto può investire in strumenti finanziari connessi a merci, principalmente quotati su mercati 
+regolamentati, entro il limite del 5% delle disponibilità complessive. 
+Stile di gestione  
+Le disponibilità sono gestite avendo come obiettivo primario la ricerca del valore per il sottoscrittore 
+nell’ambito del profilo rischio -rendimento e dell’orizzonte temporale del comparto. Tale obiettivo è 
+perseguito attraverso un’efficiente gestione del portafoglio che prevede la diversificazione degli investimenti 
+e il contenimento dei costi di transazione, gestione e funzionamento del comparto. 
+Il comparto presenta un profilo di rischio alto e ha  come obiettivo la crescita nel lungo periodo del capitale 
+investito, sfruttando le opportunità offerte dai mercati azionari internazionali. Questa linea attua una Politica 
+di Investimento orientata verso titoli di capitale quotati nei principali mercati internazionali. Il patrimonio 
+della linea può essere investito fino al 100% in titoli di capitale. 
+Lo stile di gestione è attivo rispetto al benchmark, con scostamenti anche rilevanti rispetto a tale parametro, 
+in particolare con riferimento alla componente azionaria  e all’ eventuale componente 
+monetaria/obbligazionaria. Si ritiene che la volatilità tipica dei mercati finanziari consenta di ottenere extra 
+rendimenti rispetto al benchmark , attraverso un’accurata attività di selezione di singoli titoli e  attraverso 
+l’attività di macro asset allocation tattica, ovvero la scelta di sovra/sotto pesare determinate asset class, aree 
+geografiche, settori economici e specifici tratti della curva dei rendimenti, in base alle prospettive relative di 
+crescita, di inflazione e di robustezza finanziaria. 
+Gli indicatori monitorati sono il turnover di portafoglio, il rischio di concentrazione, il rischio di mercato (VAR) 
+e la volatilità dei rendimenti differenziali rispetto al benchmark . In particolare, è prevista una semi tracking 
+error volatility annua massima del 4,5% e un limite massimo di turnover annuo pari al 400%. 
+I limiti descritti in precedenza potranno essere superati in particolari situazioni di mercato nell’esclusivo 
+interesse dell’aderente. Il superamento di tali limiti dovrà essere valutato dal Comitato Investimenti e Prodotti 
+per una successiva approvazione da parte del Consiglio di Amministrazione.  
+CRITERI PER L’ESERCIZIO DEI DIRITTI DI VOTO SPETTANTI AL FONDO 
+Con riferimento ai titoli di capitale detenuti in portafoglio è prevista la possibilità di esercitare i diritti di voto 
+spettanti al Fondo.  
+L’esercizio del diritto di voto è delegato al responsabile dell’unità Pension Funds & Unit Financial 
+Management. 
+La valutazione sull’opportunità di esercitare il diritto di voto viene valutata nell’interesse dell’aderente solo 
+quando la percentuale di azioni, posseduta complessivamente da tutti i comparti del Fondo, supera lo 0,25% 
+del capitale della società esaminata; sarà altresì possibile, nell’interesse dell’aderente, esercitare tale diritto 
+a giudizio del responsabile dell’unità Pension Funds & Unit Financial Management anche in casi specifici in cui 
+tale limite non venisse superato. 
+FATTORI DI SOSTENIBILITÀ (O “FATTORI ESG”) 
+Su tutti i Comparti del Fondo, relativamente ai Fattori ESG e ai Rischi di sostenibilità connessi, viene svolto, 
+con periodicità almeno annuale , un monitoraggio ex post degli investimenti diretti sottostanti , finalizzato a
+=== pagina 18 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 16 di 23 
+ 
+verificare in che misura questi investimenti rispettino i criteri ESG definiti dalle “Linee Guida per le attività di 
+investimento responsabile”. 
+Attualmente gli OICR non sono ricompresi nel monitoraggio ex post, che viene invece effettuato per gli 
+investimenti diretti sottostanti ai Comparti. 
+SOGGETTI COINVOLTI NEL PROCESSO DI INVESTIMENTO , COMPITI E 
+RESPONSABILITÀ  
+Per tali informazioni si rimanda al Documento sul sistema di governo del Fondo adottato dall’Impresa di 
+Assicurazione, disponibile sul sito www.unipol.it. 
+SISTEMA DI CONTROLLO DELLA GESTIONE FINANZIARIA 
+Le procedure interne di controllo della gestione finanziaria sono formalizzate in un apposito Manuale, 
+approvato dal Consiglio di Amministrazione dell’Impresa di Assicurazione. 
+Di seguito, si riportano i controlli svolti, con indicazione della periodicità di svolgimento e di trasmissione delle 
+risultanze all’Organo Amministrativo.
+=== pagina 19 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 17 di 23 
+ 
+ 
+Progr. Parametri di 
+Controllo 
+Responsabile 
+Controllo Indicatori e modalità di controllo Periodicità 
+controllo 
+Periodicità 
+report CdA 
+1 Performance ALM Strategico e 
+Portfolio Analysis 
+Calcolo dei risultati conseguiti in termini di rischio 
+- rendimento, sia in assoluto che in relazione 
+all’eventuale benchmark di riferimento 
+Mensile Trimestrale 
+2 Duration titoli 
+obbligazionari 
+ALM Strategico e 
+Portfolio Analysis 
+Calcolo della modified duration e verifica che sia 
+in linea con le indicazioni del Documento Mensile Trimestrale 
+3 
+Semi Tracking error 
+volatility / Value at 
+Risk 
+ALM Strategico e 
+Portfolio Analysis 
+Calcolo semi-TEV e monitoraggio del valore; 
+calcolo VaR e monitoraggio del valore Mensile Trimestrale 
+4 Variabilità 
+rendimento medio  
+ALM Strategico e 
+Portfolio Analysis 
+Calcolo del valore effettivo e confronto con quello 
+atteso Mensile Annuale 
+5 Perdita massima 
+accettabile 
+ALM Strategico e 
+Portfolio Analysis 
+Confronto rendimento - perdita massima 
+accettabile Annuale Annuale 
+6 Performance 
+Attribution 
+ALM Strategico e 
+Portfolio Analysis 
+Esame dei risultati conseguiti e attribuzione degli 
+scostamenti rispetto al risultato atteso in 
+relazione ai diversi fattori 
+Annuale Annuale 
+7 Turnover di 
+Portafoglio 
+Back Office 
+Finanza 
+Calcolo e monitoraggio del valore rispetto al limite 
+indicato nel Documento Mensile Trimestrale 
+8 
+Limiti di investimento 
+(normativi, 
+regolamento, politica 
+di investimento 
+esclusi i controlli da 
+progr.1 a progr.7) 
+Ex-ante: Middle 
+Office Finanza 
+ 
+Ex-post: Back 
+Office Finanza 
+Monitoraggio segnalazioni di warning e verifica 
+eventuali sforamenti rispetto ai limiti stabiliti nel 
+Documento. 
+Ex-ante: 
+giornaliera 
+ 
+Ex-post: 
+settimanale / 
+Mensile 
+Trimestrale 
+9 
+Verifica criteri ESG 
+(Comparto Bilanciato 
+Etico del Fondo 
+Pensione Aperto 
+Unipol Previdenza 
+FPA) 
+Middle Office 
+Finanza 
+Verifica ex-ante che gli strumenti finanziari 
+selezionati rientrino nell’universo investibile  Giornaliera Trimestrale 
+10 
+Validazione e 
+controllo modelli e 
+metodologie di 
+calcolo 
+Area Risk 
+Validazione e controllo dei modelli e delle 
+metodologie di calcolo utilizzate per ricavare i 
+principali indicatori di performance e rischio per la 
+misurazione e il controllo dell’attività di gestione 
+Annuale Annuale 
+11 
+Controllo costi di 
+gestione e di 
+negoziazione 
+Back Office 
+Finanza Controllo costi di gestione e di negoziazione 
+Giornaliera / 
+Mensile 
+(commissioni 
+negoziazione) 
+Settimanale 
+(commissioni 
+gestione) 
+Trimestrale 
+12 Controllo costi degli 
+OICR 
+Back Office 
+Finanza 
+Controllo sulla coerenza tra costi effettivi degli 
+OICR e previsioni del Regolamento Settimanale  Trimestrale 
+13 
+Monitoraggio 
+popolazione di 
+riferimento 
+ Innovazione e 
+Sviluppo Tecnico 
+Prodotti Vita 
+Analisi della struttura degli iscritti per età, del 
+livello medio della contribuzione e 
+dell’andamento dei flussi in entrata e uscita 
+Annuale Annuale 
+14 Data quality Back Office 
+Finanza 
+Riconciliazione per Comparto delle quantità 
+presenti nei dossier titoli e dei saldi di liquidità dei 
+conti correnti presso la banca depositaria con le 
+relative posizioni risultanti nell’applicativo 
+gestionale SOFIA 
+Titoli: 
+Trimestrale 
+Conto 
+Corrente: 
+Settimanale 
+Trimestrale
+=== pagina 20 ===
+U
+nipol Fondo Pensione Aperto BV 
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 18 di 23 
+15 Oicr alternativi 
+Comitato 
+Investimenti 
+Finanziari 
+Valutazione della proposta di investimento e 
+verifica dei limiti specifici relativi a questa 
+categoria d’investimento 
+Valutazione: 
+ad evento Ad evento 
+16 Controlli secondo 
+livello Area Risk 
+Controlli di secondo livello sui seguenti parametri 
+e riporto al CdA degli esiti di tali controlli: 
+– Performance 
+– Variabilità del rendimento medio 
+– Duration titoli obbligazionari 
+– Semi Tracking error volatility 
+– Perdita massima accettabile 
+– Performance attribution 
+– Turnover di Portafoglio 
+– Limiti di investimento
+Trimestrale / 
+Annuale 
+Trimestrale 
+/ Annuale 
+MODIFICHE APPORTATE NELL’ULTIMO TRIENNIO 
+Modifiche apportate dal Consiglio di Amministrazione del 19 febbraio 2026 aventi efficacia dal 1° luglio 
+2026. 
+Nella riunione consiliare del 19 febbraio 2026, l’organo amministrativo dell’Impresa di Assicurazioni – tenuto 
+conto che, dalla data di efficacia giuridica della fusione per incorporazione di BIM Vita S.p.A. in Unipol 
+Assicurazioni S.p.A., prevista al 1° luglio 2026 (la “ Fusione” e la “ Data della Fusione”), Unipol subentrerà in 
+tutti i rapporti giuridici attivi e passivi di BIM Vita S.p.A., inclusa la relativa attività di gestione del Fondo – ha 
+approvato, con efficacia dalla Data della Fusione, una nuova versione del Documento del Fondo aggiornata in 
+considerazione di tale riassetto societario. 
+In particolare, anche in coerenza con le modifiche regolamentari approvate  nella medesima seduta per le 
+stesse ragioni e con pari decorrenza, sono stati recepiti i riferimenti aggiornati: 
+- a Unipol Assicurazioni S.p.A.  quale Impresa di Assicurazioni che esercita l’attività di gestione del
+Fondo, e
+- alle nuove denominazioni del Fondo (modificata da “FONDO PENSIONE APERTO BIM VITA” in “Unipol
+Fondo Pensione Ape rto BV ”) e dei relativi Comparti  ( modificati da “Bim Vita – Equilibrio” in
+“Equilibrio Unipol”; da “Bim Vita -Bond”  in “Bond - Unipol”; da “Bim Vita - Bilanciata Globale” in
+“Bilanciata Globale - Unipol” e da “Bim Vita - Equity” in “Equity -Unipol”).
+Inoltre, si è colta l'occasione per procedere ad un aggiornamento delle metriche di rischio – rendimento e 
+della ripartizione strategica delle attività nelle quali investono i Comparti, sempre con effetto dalla 
+Data della Fusione. Nella medesima riunione consiliare e sempre con efficacia a decorrere dalla Data 
+della Fusione, l’organo amministrativo ha altresì approvato una nuova versione del Manuale Operativo 
+del sistema di controllo della gestione finanziaria di Unipol, al fine di estenderne l’applicazione 
+anche a tale Fondo.  
+Modifiche apportate dal Consiglio di Amministrazione del 14 gennaio 2026 aventi effetto dalle ore 
+23.59 del 2 febbraio 2026. 
+Nella riunione consiliare del 14 gennaio 2026, l’organo amministrativo dell’Impresa di Assicurazione 
+ha approvato la modifica inerente al la sostituzione - con effetto dalle ore 23.59 del 2 febbraio 2026 (la 
+“Data di Efficacia”) - dei riferimenti della delega a Symphonia SGR S.p.A. per la gestione dei comparti 
+“Bim Vita – Bilanciata Globale” e “Bim Vita – Equity” del FPA, con quelli relativi a Unipol Assicurazioni S.p.A., 
+che già svolge
+=== pagina 21 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 19 di 23 
+ 
+in outsourcing per l’Impresa di Assicurazion e alcuni servizi di gestione delle risorse finanziarie ivi compreso 
+quello per gli altri due Comparti “Bim Vita - Bond” e “Bim Vita - Equilibrio” del Fondo. 
+Tale modifica era stata così definita nell’ambito delle attività di closing relative all’ intervenuta acquisizione 
+della partecipazione totalitaria da parte di Unipol Assicurazioni S.p.A. nell’Impresa di Assicurazione.  
+Con l’occasione, sono stati recepiti anche limitati interventi di allineamento informativo riguardanti in 
+particolare la ridenominazione di alcune strutture organizzative coinvolte nel controllo della gestione 
+finanziaria del FPA; fermo il resto. 
+Nella medesima riunione consiliare e sempre con effetto dalla Data di Efficacia, è stato modificato in coerenza 
+nei corrispondenti riferimenti anche il Manuale Operativo del sistema di controllo della gestione finanziaria. 
+ 
+Modifiche apportate dal Consiglio di Amministrazione del 18 dicembre 2024 connesse al Progetto di 
+razionalizzazione societaria del Gruppo Unipol in atto e aventi efficacia dal 31 dicembre 2024 
+Nella riunione consiliare del 18 dicembre 2024, l’organo amministrativo dell’Impresa di Assicurazione - tenuto 
+conto della data di efficacia giuridica, prevista al 31 dicembre 2024 , della fusione per incorporazione (di 
+seguito, la “Fusione” e la “ Data della Fusione”), fra le altre, di UnipolSai S.p.A. in  Unipol Gruppo S.p.A. che 
+per l’effetto acquisirà le autorizzazioni all’esercizio dell’attività assicurativa e riassicurativa, subentrando in 
+tutti i rapporti giuridici attivi e passivi facenti capo ad UnipolSai S.p.A. (ivi compreso nel contratto di delega di 
+gestione finanziaria delle risorse relative ai Comparti “BIM VITA BOND ” e “BIM VITA EQUILIBRIO ”) ed 
+assumerà la nuova denominazione sociale di Unipol Assicurazioni S.p.A., in forma abbreviata “Unipol S.p.A.”  
+ha approvato in tal senso  e, con efficacia dalla Data della Fusione, una nuova versione del Documento che  
+recepisce i riferimenti aggiornati ad Unipol S.p.A..  
+In tale riunione consiliare, unitamente al Documento e con medesima data di efficacia, è stato modificato nei 
+corrispondenti riferimenti anche il Manuale Operativo del sistema di controllo della gestione finanziaria. 
+ 
+Modifiche apportate dal Consiglio di Amministrazione del 20 marzo 2024 aventi efficacia dal 27 marzo 2024. 
+Nella riunione consiliare del 20 marzo 2024, l’organo amministrativo ha approvato -  con efficacia a far data 
+dal 27 marzo 2024 -  limitate modifiche di allineamento informativo ed espositivo a garanzia di una 
+complessiva coerenza e rispondenza documentale di prodotto con la normativa di settore, interna e di Gruppo 
+di riferimento ed esterna applicabile.  
+In particolare, le modifiche hanno interessato i seguenti Paragrafi del Documento:  
+− il Paragrafo “ Stile di gestione ” di ciascun Comparto del Fondo, per recepire -  in allineamento con 
+quanto nel merito più adeguatamente definito dalla normativa interna e di Gruppo vigente applicabile 
+- la corrispondente descrizione delle specifiche attività svolte dal Comitato Investimenti Prodotti; 
+− il Paragrafo “ FATTORI ESG – Monitoraggio ex post ”, ridenominato “FATTORI DI SOSTENIBILIT À (O 
+“FATTORI ESG”)”, e riorganizzato nei contenuti con il duplice obiettivo di  (i) eliminare i rimandi alle 
+vigenti Linee Guida di investimento responsabile di Gruppo (le “Linee Guida RI”) laddove non 
+possibili/coerenti, (ii) continuare a supportare più chiaramente l’evidenza che - in relazione ai Fattori 
+ESG e ai rischi di sostenibilità connessi -  lo svolgimento di un solo monitoraggio ex post  degli 
+investimenti diretti effettuato su tutti i Comparti ha l’obiettivo di verificare in che misura tali Comparti 
+ripettino ex post i criteri ESG definiti nelle Linee Guida RI, così mantenendo, per il Fondo, la qualifica 
+a prodotto diverso da quelli classificabili ai sensi degli articoli 8 o 9 del Regolamento (UE) 2019/2088.
+=== pagina 22 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 20 di 23 
+ 
+Modifiche deliberate dal Consiglio di Amministrazione del 23 Giugno 2022  con efficacia a far data dal 31 
+Marzo 2023. 
+Di seguito, in sintesi, le principali modifiche al Documento rispetto alla precedente versione approvata il 9 
+Giugno 2022: 
+ Paragrafo “Obiettivi della Politica di Investimento”: 
+ in tutti i Comparti, per ciascuna combinazione rischio – rendimento si è proceduto: 
+- alla modifica dei rendimenti attesi;  
+- all’aggiornamento dei coefficienti di rischio,  
+ nel Comparto “Bim Vita – Equilibrio”: secondo le nuove condizioni riportate nel Regolamento, 
+in luogo della precedente corresponsione di un importo minimo garantito dell’1% al verificarsi 
+degli specifici eventi previsti, viene garantita una prestazione non inferiore alla somma dei 
+versamenti netti effettuati in tale Comparto. Tale variazione sarà efficace sia sui contributi dei 
+nuovi Aderenti che per i soggetti che risultino già Aderenti al Fondo alla data di introduzione 
+della presente modifica ma con effetto solo sulle prestazioni derivanti dai nuovi contributi che 
+dal 31 marzo 2023 affluiranno in tale Comparto.  
+ Paragrafo “Criteri di attuazione della Politica di investimento”: 
+ in tutti i Comparti sono stati modificati: 
+- i limiti percentuali relativi agli strumenti finanziari nei quali si intende investire; 
+- la ripartizione strategica delle attività, 
+ nei Comparti “Bim Vita -  Bond” e “Bim Vita -  Equilibrio”, è stata modificata la strategia di 
+gestione per passare da una strategia a “benchmark” all’adozione di una strategia “non a 
+benchmark” (Stile di gestione c.d. ‘flessibile’, senza un benchmark di riferimento e senza vincoli 
+predeterminati, consentendo così di modificare l’asset allocation in funzione delle condizioni 
+del mercato), 
+ nei Comparti “Bim Vita -  Bilanciata Globale” e “Bim Vita – Equity” è  stato modificato il 
+benchmark come di seguito indicato: 
+- Comparto “Bim Vita -  Bilanciata Globale”: l’Indice obbligazionario  “Ice BofA Euro 
+Government 3-5 year Total Return Idx Val” denominato in Dollari e convertito in Euro (con 
+il Cambio BCE) ponderato al 52% è stato sostituito con “ICE BofAEuro Government Index 3-
+5 year  ” ponderato al 40% e “ ICE BofA Euro Treasury Bill” ponderato al 10% ; l’ Indice 
+azionario “Euro Stoxx 50 Net Return (comprensivo dei dividendi netti)” ponderato al 48% è 
+stato sostituito con “STOXX Global 1800 Daily Hedged Net Return Eur” ponderato al 20% e 
+“STOXX Global 1800 Net Return Eur” ponderato al 30%.  
+- Comparto “Bim Vita – Equity”: l’Indice obbligazionario “Ice BofA Euro Government 3-5 year 
+Total Return Idx Val ” denominato in Dollari e convertito in Euro (con il Cambio BCE) 
+ponderato al 20%  è stato sostituito con “ ICE BofAEuro Government Index 3 -5 year  ” 
+ponderato al 5% e “ICE BofA Euro Treasury Bill” ponderato al 10%; l’ Indice azionario “Euro 
+Stoxx 50 Net Return (comprensivo dei dividendi netti)” ponderato all’80% è stato sostituito 
+con “STOXX Global 1800 Daily Hedged Net Return Eur” ponderato al 55% e  “STOXX Global 
+1800 Net Return Eur” ponderato al 30%. 
+Le sopra riferite modifiche , nel contesto di mercato di riferimento, mirano nel loro complesso a perseguire  
+l’obiettivo di attuare una strategia gestionale utile a migliorare il profilo rischio - rendimento dei Comparti.
+=== pagina 23 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 21 di 23 
+ 
+ALLEGATO 1 - RISCHI DI INVESTIMENTO 
+Qualsiasi attività finanziaria è caratterizzata da un profilo rischio –rendimento. In generale si può affermare 
+che non possono esserci certezze che un comparto possa conseguire i propri obiettivi d'investimento. Sia gli 
+strumenti azionari che gli strumenti obbligazionari possono essere volatili e i prezzi possono subire variazioni 
+sostanziali.  
+ 
+ 
+RISCHIO DI TASSO, DI CREDITO E DI MERCATO 
+ 
+Tutte le attività finanziarie sono soggette alle fluttuazioni di mercato. Tuttavia il tipo di rischio varia in 
+relazione alle caratteristiche dello strumento finanziario.  
+ 
+Gli strumenti di natura obbligazionaria sono soggetti principalmente al rischio di tasso e al rischio di credito: 
+- il rischio di tasso è connesso alla possibilità che il flusso cedolare dello strumento finanziario non sia 
+più adeguato ai tassi di mercato e conseguentemente il suo valore possa subire delle variazioni;  
+- il rischio di credito si riferisce alla capacità di un emittente di far fronte agli interessi e al rimborso a 
+scadenza del capitale. 
+Un aumento dei tassi di interesse, a parità di altre condizioni, ridurrà il valore degli strumenti obbligazionari 
+a tasso fisso, mentre una diminuzione dei tassi di interesse determinerà un aumento del valore degli stessi. 
+L'entità di tali fluttuazioni dei prezzi sarà tanto maggiore quanto più lontana è la scadenza degli strumenti in 
+circolazione.  
+Analogamente un aumento del rischio di credito, a parità di altre condizioni, ridurrà il valore degli strumenti 
+obbligazionari e viceversa. 
+ 
+I titoli azionari rappresentano il capitale delle società ed espongono l’investitore al rischio economico 
+dell’impresa. Pertanto l’investitore è sottoposto al rischio della perdita totale del denaro investito in questi 
+strumenti finanziari. Il prezzo dei titoli azionari è connesso alle attese reddituali delle aziende sottostanti allo 
+strumento stesso e all’andamento dei tassi di interesse.  
+ 
+Un’adeguata attività di diversificazione degli investimenti tra P aesi emittenti e settori di mercato può 
+contribuire a ridurre l'esposizione ai rischi di mercato di ciascun comparto.  
+ 
+ 
+RISCHI DI NATURA POLITICA E/O NORMATIVA 
+ 
+Il valore delle attività di un c omparto potrebbe essere soggetto a incertezze quali sviluppi politici 
+internazionali, cambiamenti nelle politiche governative, regime fiscale, restrizioni su investimenti esteri e 
+rimpatrio di valuta ed altri sviluppi nelle leggi e nelle normative applicabili. 
+ 
+ 
+RISCHIO DI DEFAULT DI EMITTENTI SOVRANI  
+ 
+Un comparto potrà investire in titoli del debito sovrano di Governi di Paesi sviluppati e mercati emergenti. Gli 
+investimenti in titoli di questo tipo comportano rischi specifici: l'emittente del debito, ovvero le autorità statali 
+che controllano il rimborso del debito, potrebbero non essere in grado o potrebbero essere contrari a 
+rimborsare il capitale (o gli interessi) alla scadenza, in conformità con i termini di tale debito. Periodi di 
+incertezza economica possono determinare la volatilità dei prezzi di mercato del debito di uno Stato Sovrano.  
+ 
+Sulla volontà o sulla capacità di un debitore sovrano di rimborsare il capitale e di pagare  interessi 
+tempestivamente, possono incidere fattori quali, tra gli altri, la situazione del suo cash flow, il volume delle
+=== pagina 24 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 22 di 23 
+ 
+sue riserve estere, la disponibilità di sufficiente valuta estera alla data di scadenza di un pagamento, il relativo 
+volume degli oneri del servizio del debito pubblico rispetto all'economia nel suo complesso, la politica del 
+debitore sovrano nei confronti dei principali finanziatori internazionali e i vincoli di natura politica a cui può 
+essere soggetto un debitore sovrano. Tali debitori sovrani potrebbero dipendere altresì da pagamenti attesi 
+da parte di governi esteri, di agenzie multilaterali e di altri enti all'estero per ridurre gli arretrati di capitale e 
+di interessi del proprio debito. L'impegno da parte di questi governi, agenzie e altri enti a effettuare tali 
+pagamenti, potrebbe essere condizionato dall'attuazione da parte del debitore sovrano di riforme 
+economiche e/o dal tasso di crescita dell’economia.  
+ 
+ 
+RISCHIO VALUTARIO 
+ 
+Il valore del c omparto viene espresso in Euro, mentre gli investimenti detenuti potranno essere acquisiti in 
+altre valute. Il valore degli investimenti effettuati in un’altra valuta può salire o scendere a causa delle 
+fluttuazioni dei tassi di cambio. Fluttuazioni negative dei tassi di cambio possono comportare una diminuzione 
+del valore degli investimenti in valuta e quindi del rendimento del comparto. Gli investimenti di ciascun 
+comparto potranno essere coperti dal rischio di cambio. Tuttavia le operazioni di copertura della valuta, se da 
+una parte riducono potenzialmente i rischi valutari, dall'altra possono implicare dei costi che potrebbero 
+ridurre la redditività dell’investimento. 
+ 
+ 
+RISCHIO DI CONTROPARTE 
+ 
+L’attività di negoziazione degli strumenti finanziari di un comparto è soggetta al rischio di credito nei confronti 
+delle controparti con le quali si effettuano le transazioni. Tali rischi assumono un rilievo particolare nelle 
+operazioni di pronti contro termine e in alcuni contratti derivati. In caso di insolvenza,  fallimento o 
+inadempimento di una o più controparti, un comparto potrà subire ritardi nella liquidazione dei titoli 
+sottostanti, perdite, ivi inclusa la possibile riduzione di valore dei titoli durante il periodo necessario a far 
+valere i propri relativi diritti.  
+In relazione ai contratti futures e alle opzioni su futures, il rischio è in parte limitato dalla presenza della stanza 
+di compensazione. 
+Possono essere disposti rimedi contrattuali in caso di inadempimento ai sensi degli accordi relativi a particolari 
+operazioni. Tali rimedi potrebbero essere, tuttavia, inadeguati nella misura in cui le garanzie reali o altri beni 
+disponibili non siano sufficienti a soddisfare le obbligazioni della controparte. 
+ 
+ 
+RISCHIO LIQUIDITA’ 
+ 
+La liquidità di uno strumento finanziario consiste nella sua attitudine a trasformarsi prontamente in moneta 
+senza perdita di valore. Essa dipende in primo luogo dalle caratteristiche del mercato in cui il titolo è trattato. 
+In generale, a parità di altre condizioni, i titoli trattati su mercati regolamentati/sistemi multilaterali di 
+negoziazione sono più liquidi dei titoli non trattati su detti mercati. Questo in quanto la domanda e l’offerta 
+di titoli viene convogliata in gran parte su tali mercati e quindi i prezzi ivi rilevati sono più affidabili in quanto 
+indicatori dell’effettivo valore degli strumenti finanziari. 
+La liquidità di uno strumento finanziario è anche connessa ad altri fattori quali l’ammontare in circolazione o 
+il numero di controparti che tratta tale strumento. 
+Le condizioni di liquidità di uno strumento finanziario possono variare in relazione alla situazione dei mercati. 
+ 
+ 
+RISCHIO CONTRATTI DERIVATI 
+ 
+Ciascun comparto potrà utilizzare derivati per finalità di copertura contro le fluttuazioni di mercato, i rischi di 
+cambio o di tasso di interesse. La capacità di un portafoglio di usare queste strategie potrebbe essere limitata
+=== pagina 25 ===
+Unipol Fondo Pensione Aperto BV 
+  
+Documento sulla politica di investimento – mod. DPIFPA_BV – ed. 07/2026 Pagina 23 di 23 
+ 
+da condizioni di mercato, vincoli normativi e valutazioni di ordine fiscale. L'uso di tali strategie implica 
+determinati rischi specifici, fra i quali principalmente: (ì) una correlazione imperfetta tra fluttuazioni dei titoli 
+o della valuta di base di un contratto futures o di un’opzione e le fluttuazioni dei titoli o delle valute del relativo 
+portafoglio; (ii) l’assenza di un mercato liquido.  
+ 
+ 
+RISCHIO DI SOSTENIBILITÀ 
+ 
+Per rischio di sostenibilità si intende, ai sensi dell’Art. 2, n. 22) del Regolamento (UE) 2019/2088, un evento o 
+una condizione di tipo ambientale, sociale o di governance che, se si verifica, potrebbe provocare un 
+significativo impatto negativo effettivo o potenziale sul valore dell’investimento  (c.d. dimensione di rischio 
+subito).
+=== pagina 26 ===
+

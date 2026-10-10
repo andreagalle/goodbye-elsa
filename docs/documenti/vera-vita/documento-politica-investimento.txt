@@ -1,0 +1,662 @@
+# Fondo: FONDO PENSIONE APERTO VERA VITA (vera-vita)
+# Documento: Documento sulla politica di investimento – ID 54 Documento sulla politica d investimento
+# Fonte: https://www.bancobpmvita.it/media/dlm_uploads/ID-54_Documento-sulla-politica-d_investimento.pdf
+# Citato in: https://www.bancobpmvita.it/prodotti/previdenza/fondo-pensione-aperto-vera-vita/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: d2b8c9157c7738499a00ce3585f3b8bc16e9b583bd3dd10fafd4e70abf709de4
+# Pagine: 15
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+GRUPPO Banco BPM – Il contenuto del presente documento costituisce materiale riservato e soggetto a copyright. Ogni violazione sarà perseguita ai sensi di legge. 
+ 
+Gruppo Banco BPM - Uso Interno 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Documento sulla politica di investimento 
+Fondo pensione aperto – Vera Vita 
+Iscritto all’Albo tenuto dalla Covip con il n. 31 
+Ultimo aggiornamento: 19 dicembre 2025
+=== pagina 2 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  2  
+ 
+Gruppo Banco BPM - Uso Interno 
+ 
+Indice 
+1 PREMESSA 3 ........................................................................................................................ 
+2 REVISIONE PERIODICA 3  ........................................................................................................
+3 OBIETTIVI DELLA POLITICA D’INVESTIMENTO – SCELTE DI INVESTIMENTO  3 .......................................
+3.1 Obiettivi di rendimento e rischio dei Comparti 4  ................................ ..................
+4 CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO  5 ........................................................
+4.1 POPOLARE BOND  5 ................................ ................................ ................................ ..
+4.2 POPOLARE GEST 7  ................................ ................................ ................................ ....
+4.3 POPOLARE MIX 9 ................................ ................................ ................................ ...... 
+5 CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO . ERRORE. IL SEGNALIBRO NON È DEFINITO. 
+6 SISTEMA DI CONTROLLO DELLA GESTIONE FINANZIARIA 13 . .........................................................
+=== pagina 3 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  3  
+ 
+Gruppo Banco BPM - Uso Interno 
+1 Premessa 
+Il Fondo Pensione Aperto Vera Vita (di seguito: Fondo) è finalizzato all’erogazione di trattamenti 
+pensionistici complementari del sistema previdenziale obbligatorio, ai sensi del d.lgs. 5 dicembre 
+2005, n. 252 è gestito dalla Compagnia Vera Vita S.p.A. (di seguito: Società), già Novara Vita 
+S.p.A., che lo ha a suo tempo istituito ed è iscritto all’albo tenuto dalla COVIP con il n. 31. 
+Per la gestione finanziaria delle risorse è stata conferita delega di gestione ad Anima SGR S.p.A., 
+di seguito denominata il “Gestore Delegato” o il “Gestore”. 
+Il Fondo è rivolto a tutti coloro che intendono realizzare un piano di previdenza complementare 
+su base individuale. Possono inoltre aderire, su base collettiva, i lavoratori nei cui confronti 
+trovano applicazione i contratti, gli accordi o i regolamenti aziendali che prevedono l’adesione 
+al Fondo.  
+Il Fondo è una forma pensionistica operante in regime di contribuzione definita. L’entità della 
+prestazione pensionistica è determinata in funzione della contribuzione effettuata e dei relativi 
+rendimenti. Il Fondo è costituito in forma di patrimonio separato e autonomo nell’ambito della 
+Società. 
+Il presente Documento ha lo scopo di definire il processo di attuazione della politica di 
+investimento che la Società intende porre in essere per ottenere, dall’impiego delle risorse 
+affidate in gestione al Fondo, combinazioni rischio-rendimento efficienti nell’arco temporale 
+coerente con i bisogni previdenziali degli aderenti e con le prestazioni da erogare. Il Documento 
+è trasmesso, in sede di prima definizione e, in seguito, in occasione di ogni sua modificazione: 
+− al Collegio sindacale della Società; 
+− al Responsabile del Fondo; 
+− al Depositario; 
+− alla COVIP, entro venti giorni dalla sua formalizzazione. 
+2 Revisione periodica 
+Il Documento è sottoposto a revisione periodica ogni tre anni. I fattori considerati ai fini 
+dell’eventuale modifica della politica di investimento sono riportati in apposita deliberazione del 
+Consiglio di amministrazione della Società. 
+3 Obiettivi della politica d’investimento – scelte di investimento 
+Il Fondo ha l’obiettivo di consentire agli aderenti di disporre, all’atto del pensionamento, di 
+prestazioni pensionistiche complementari del sistema obbligatorio. A tal fine, esso provvede alla 
+raccolta dei contributi, alla gestione delle risorse nell’esclusivo interesse degli aderenti e 
+all’erogazione delle prestazioni secondo quanto disposto dalla normativa in materia di 
+previdenza complementare. 
+L’obiettivo finale della politica d’investimento del Fondo è di massimizzare le risorse destinate alle 
+prestazioni, mediante combinazioni di rischio-rendimento efficienti - in termini di rapporto tra 
+rendimenti e volatilità dei risultati - in un determinato arco temporale. 
+Il Fondo è aperto all’adesione – anche in forma collettiva - di tutti i soggetti che possiedano i 
+requisiti per iscriversi a forme pensionistiche complementari e non ha, quindi, una popolazione di
+=== pagina 4 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  4  
+ 
+Gruppo Banco BPM - Uso Interno 
+riferimento predefinita. La pluralità di orizzonti temporali corrispondenti ai potenziali iscritti è 
+coerente con l’offerta di più opzioni d’investimento, con combinazioni di rischio-rendimento 
+predefinite, e con la facoltà concessa agli aderenti di allocare la posizione individuale su più di 
+una di esse. 
+Allo scopo, il Fondo è articolato in tre comparti (Popolare Bond, Popolare Gest e Popolare Mix), 
+con facoltà dell’aderente di allocare la propria posizione anche su più d’uno di essi e di 
+modificarne la combinazione nel tempo, nei termini previsti dal Regolamento. 
+Per i comparti Popolare Bond e Popolare Gest è contemplata una garanzia che prevede 
+l’erogazione di un importo minimo garantito, a prescindere dai risultati di gestione, pari alla 
+somma dei contributi netti versati al Comparto (inclusi gli eventuali importi derivanti da 
+trasferimenti da altro comparto o da altra forma pensionistica e i contributi versati per il reintegro 
+delle anticipazioni percepite, ridotto da eventuali riscatti parziali e anticipazioni), ciascuno 
+capitalizzato al tasso annuo d’interesse composto dell’1,00%, al verificarsi dei seguenti eventi: 
+− esercizio del diritto alla prestazione pensionistica; 
+− riscatto per decesso; 
+− riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno 
+di un terzo; 
+− riscatto per inoccupazione per un periodo di tempo superiore a 48 mesi. 
+La Società analizza le caratteristiche socio-demografiche degli aderenti ed i loro bisogni 
+previdenziali, per meglio correlare le combinazioni di rischio-rendimento offerte con l’arco 
+temporale coerente con essi. 
+3.1 Obiettivi di rendimento e rischio dei Comparti 1 
+Popolare Bond 
+a) Orizzonte temporale: medio (5/10 anni) 
+b) Rendimento medio annuo atteso nell’orizzonte temporale: 1,42% 
+c) Variabilità attesa del rendimento (scarto medio positivo o 
+negativo) nell’orizzonte temporale: 
+4,16% (deviazione standard 
+annualizzata) 
+d) Probabilità che il rendimento nell’orizzonte temporale possa 
+risultare inferiore al limite dello 0,00%2: 
+43,08% (probabilità di ottenere 
+rendimenti nominali negativi) 
+ 
+ 
+ 
+ 
+ 
+1 Ai fini del presente documento, è assunto un tasso di inflazione annuo atteso pari al 2% ed i rendimenti sono espressi 
+in termini reali; la variabilità attesa del rendimento è espressa in termini di scarto quadratico medio (deviazione 
+standard). 
+2 Il comparto prevede un rendimento minimo garantito annuo a favore dell’aderente al verificarsi degli eventi 
+individuati nel Regolamento del Fondo e, quindi, può soddisfare anche le esigenze di iscritti prossimi alla pensione o 
+con una bassa propensione al rischio.
+=== pagina 5 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  5  
+ 
+Gruppo Banco BPM - Uso Interno 
+Popolare Gest 
+e) Orizzonte temporale: medio/lungo (10/15 anni) 
+f) Rendimento medio annuo atteso nell’orizzonte temporale: 2,24% 
+g) Variabilità attesa del rendimento (scarto medio positivo o 
+negativo) nell’orizzonte temporale: 
+4,93% (deviazione standard 
+annualizzata) 
+h) Probabilità che il rendimento nell’orizzonte temporale possa 
+risultare inferiore al limite dello 0,00%3: 
+40,00% (probabilità di ottenere 
+rendimenti nominali negativi) 
+ 
+Popolare Mix 
+a) Orizzonte temporale: lungo (oltre 15 anni) 
+b) Rendimento medio annuo atteso nell’orizzonte temporale: 4,17% 
+c) Variabilità attesa del rendimento (scarto medio positivo o 
+negativo) nell’orizzonte temporale: 
+8,48% (deviazione standard 
+annualizzata) 
+d) Probabilità che il rendimento nell’orizzonte temporale possa 
+risultare inferiore al limite dello 0,00%: 
+41,05% (probabilità di ottenere 
+rendimenti nominali negativi) 
+ 
+4 Criteri di attuazione della Politica di investimento 
+Per i comparti in cui si articola il Fondo, la gestione è effettuata da Anima S.G.R. S.p.A. i termini e 
+le condizioni dell’incarico, fermi restando in capo alla Società gli obblighi e le responsabilità nei 
+confronti degli iscritti, sono individuati in apposita Convenzione. 
+Anima S.G.R. S.p.A. opera secondo le istruzioni fornite dalla Società. 
+4.1 POPOLARE BOND 
+Ripartizione strategica delle attività. Tipologia di strumenti finanziari  
+ 
+Classe di attività: Percentuale del patrimonio 
+Titoli di natura obbligazionaria 100% 
+− la politica di gestione è principalmente orientata verso titoli di debito emessi da soggetti 
+residenti nell’Unione Europea e denominati in Euro. 
+− la percentuale di investimento in Titoli di Debito aventi rating Sub Investment Grade sarà 
+residuale rispetto al totale del Portafoglio. Nell’attività di gestione del Portafoglio, il rating, 
+ 
+3 Il comparto prevede un rendimento minimo garantito annuo a favore dell’aderente al verificarsi degli eventi 
+individuati nel Regolamento del Fondo e, quindi, può soddisfare anche le esigenze di iscritti prossimi alla pensione o 
+con una bassa propensione al rischio.
+=== pagina 6 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  6  
+ 
+Gruppo Banco BPM - Uso Interno 
+quando utilizzato, non viene applicato in modo esclusivo o meccanico, ma vengono 
+effettuate valutazioni più ampie in base a informazioni sia di tipo qualitativo che quantitativo. 
+− le risorse del comparto non possono essere investite, oltre che in titoli di natura azionaria, in 
+quote di fondi comuni di investimento mobiliare e immobiliare chiusi. 
+− gli strumenti finanziari derivati possono essere utilizzati - nel rispetto di quanto previsto dalla 
+vigente normativa - principalmente al fine di salvaguardare il valore delle attività finanziarie, 
+riducendo o eliminando i rischi finanziari. 
+− gli investimenti in strumenti alternativi, derivati e OICR (i cui programmi e limiti di investimento 
+devono essere compatibili con quelli del comparto) sono effettuati qualora siano 
+chiaramente esplicitati il livello di accesso da parte della Società alle informazioni sulle 
+strategie poste in essere dal gestore, la struttura dei costi dello strumento, i periodi di uscita 
+dall’investimento (lock up period). 
+Aree geografiche 
+Il patrimonio è investito principalmente in paesi dell’Area Euro ed in misura contenuta di altri 
+paesi industrializzati dell’OCSE; in via residuale, è possibile investire in titoli di paesi non aderenti 
+all’OCSE (c.d. mercati emergenti). 
+Valuta 
+La posizione denominata in una valuta diversa da quella in cui viene erogata la prestazione, al 
+netto delle coperture in essere, non può superare il 30% del patrimonio del comparto. 
+Benchmark 
+ 
+ 
+ 
+ 
+Indice Peso Ticker  Valuta di denominazione 
+ICE BofA Euro Treasury Bill Index 20% EGB0 Euro 
+JP Morgan GBI EMU Unhedged LOC 80% JPMGEMLC Euro 
+ 
+Modalità e stile di gestione 
+Lo stile di gestione può essere effettuato in maniera diretta attraverso titoli di debito o in maniera 
+indiretta attraverso OICR, ETF e LTE e si ispira al corrispondente parametro di riferimento 
+ponendosi l’obiettivo di massimizzare il rendimento rispetto al benchmark attraverso una 
+gestione attiva degli investimenti.  
+La gestione non prevede investimenti in strumenti finanziari con caratteristiche ambientali, sociali 
+o investimenti sostenibili.  
+La scelta degli investimenti integra i rischi di sostenibilità nelle decisioni di investimento, 
+garantendo una gestione prudente per mitigare eventuali impatti negativi su rendimento e 
+governance. Inoltre, considera i principali effetti negativi sui fattori di sostenibilità, seguendo le 
+politiche del Gruppo. In particolare, per gli investimenti diretti in emittenti corporate, vengono 
+valutati aspetti critici come la violazione dei principi dell’UN Global Compact, l'esposizione ad 
+armi controverse e il coinvolgimento nel settore dei combustibili fossili.
+=== pagina 7 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  7  
+ 
+Gruppo Banco BPM - Uso Interno 
+ 
+Livello massimo di rotazione annua del patrimonio nell’orizzonte temporale4 150% 
+Livello massimo annuo di tracking error volatility nell’orizzonte temporale 
+(suscettibile di variazioni in dipendenza di particolari fasi di mercato) 
+5,50% 
+Criteri per l’esercizio del diritto di voto 
+Con riferimento ai titoli detenuti nel Comparto, la Compagnia non esercita alcun diritto di voto. 
+Le decisioni, di carattere prettamente finanziario, sono prese nell’esclusivo interesse del 
+Comparto medesimo. 
+4.2 POPOLARE GEST 
+Ripartizione strategica delle attività. Tipologia di strumenti finanziari 
+L’obiettivo dell’attività di gestione è la realizzazione con elevata probabilità di rendimenti che 
+siano pari o superiori a quelli del TFR in un orizzonte temporale pluriennale. 
+Classe di attività: 
+Percentuale del patrimonio 
+Minimo Massimo 
+Titoli di natura obbligazionaria 50% 100% 
+Titoli di natura azionaria 0% 50% 
+ 
+ 
+− la componente obbligazionaria è principalmente orientata verso titoli di debito emessi da 
+soggetti residenti nell’Unione Europea e denominati in Euro. 
+− la percentuale di investimento in Titoli di Debito aventi rating Sub Investment Grade sarà 
+residuale rispetto al totale del Portafoglio. Nell’attività di gestione del Portafoglio, il rating, 
+quando utilizzato, non viene applicato in modo esclusivo o meccanico, ma vengono 
+effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo. 
+− per i titoli di capitale, negoziati sul mercato dei capitali, gli investimenti sono effettuati in 
+assenza di limiti riguardanti capitalizzazione, dimensione o settore di appartenenza degli 
+emittenti. 
+− le risorse del comparto non possono essere investite in quote di fondi comuni di investimento 
+mobiliare e immobiliare chiusi. 
+− gli strumenti finanziari derivati possono essere utilizzati - nel rispetto di quanto previsto dalla 
+vigente normativa - principalmente al fine di salvaguardare il valore delle attività finanziarie, 
+riducendo o eliminando i rischi finanziari. 
+− gli investimenti in strumenti alternativi, derivati e OICR (i cui programmi e limiti di investimento 
+devono essere compatibili con quelli del comparto) sono effettuati qualora siano 
+ 
+4 Il turnover di portafoglio considerato è calcolato come rapporto fra il valore minimo fra acquisti e vendite ed il 
+patrimonio medio: min (acquisti/vendite)/patrimonio medio.
+=== pagina 8 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  8  
+ 
+Gruppo Banco BPM - Uso Interno 
+chiaramente esplicitati il livello di accesso da parte della Società alle informazioni sulle 
+strategie poste in essere dal gestore, la struttura dei costi dello strumento, i periodi di uscita 
+dall’investimento (c.d. lock up period). 
+Aree geografiche 
+Il patrimonio è investito principalmente in paesi dell’Area Euro ed in misura contenuta di altri 
+paesi industrializzati dell’OCSE; in via residuale, è possibile investire in titoli di paesi non aderenti 
+all’OCSE (c.d. mercati emergenti). 
+Valuta 
+La posizione denominata in una valuta diversa da quella in cui viene erogata la prestazione, al 
+netto delle coperture in essere, non può superare il 30% del patrimonio del comparto. 
+Benchmark 
+ 
+ 
+ 
+ 
+Indice Peso Ticker Valuta di denominazione 
+ICE BofA Euro Treasury Bill Index 15% EGB0 Euro 
+JP Morgan GBI EMU Unhedged LOC 70% JPMGEMLC Euro 
+EURO STOXX 50 Net Return EUR 15% SX5T Euro 
+ 
+Modalità e stile di gestione 
+La gestione può essere effettuata in maniera diretta attraverso titoli di debito o titoli di capitale 
+di rischio o in maniera indiretta attraverso OICR, ETF e LTE. 
+Lo stile di gestione si ispira al corrispondente parametro di riferimento e si pone l’obiettivo di 
+massimizzare il rendimento rispetto al benchmark attraverso una gestione attiva degli 
+investimenti.  
+La selezione degli investimenti in strumenti rappresentativi di capitale di rischio e di quote e/o 
+azioni di OICR di tipo azionario presenti in portafoglio verrà effettuata con un approccio misto 
+quantitativo e qualitativo.  
+Il comparto è costituito da strumenti di tipo azionario e in coerenza con il profilo di rischio investe 
+principalmente in strumenti finanziari rappresentativi del capitale di rischio, quote e/o azioni di 
+OICR ed ETF negoziati sui principali mercati europei. Sono inoltre utilizzati strumenti finanziari di 
+tipo obbligazionario, quotati su mercati regolamentati, di emittenti aventi Rating minimo “Baa3” 
+di Moody’s o “BBB-“di Standard & Poor’s ovvero altro equipollente assegnato da altra primaria 
+agenzia di valutazione indipendente. Il patrimonio complessivo è investito in strumenti finanziari 
+denominati principalmente in euro o altre valute europee e residualmente in altre divise. 
+La gestione non prevede investimenti in strumenti finanziari con caratteristiche ambientali, sociali 
+o investimenti sostenibili. 
+La scelta degli investimenti integra i rischi di sostenibilità nelle decisioni di investimento, 
+garantendo una gestione prudente per mitigare eventuali impatti negativi su rendimento e
+=== pagina 9 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  9  
+ 
+Gruppo Banco BPM - Uso Interno 
+governance. Inoltre, considera i principali effetti negativi sui fattori di sostenibilità, seguendo le 
+politiche del Gruppo. In particolare, per gli investimenti diretti in emittenti corporate, vengono 
+valutati aspetti critici come la violazione dei principi del UN Global Compact, l'esposizione ad 
+armi controverse e il coinvolgimento nel settore dei combustibili fossili. 
+Livello massimo di rotazione annua del patrimonio nell’orizzonte temporale5 150% 
+Livello massimo annuo di tracking error volatility nell’orizzonte temporale 
+(suscettibile di variazioni in dipendenza di particolari fasi di mercato) 
+7,50% 
+Criteri per l’esercizio del diritto di voto 
+Con riferimento ai titoli detenuti nel Comparto, la Compagnia non esercita alcun diritto di voto. 
+Le decisioni, di carattere prettamente finanziario, sono prese nell’esclusivo interesse del 
+Comparto medesimo. 
+4.3 POPOLARE MIX 
+Ripartizione strategica delle attività. Tipologia di strumenti finanziari 
+Classe di attività: 
+Percentuale del patrimonio 
+Minimo Massimo 
+Titoli di natura obbligazionaria 30% 100% 
+Titoli di natura azionaria 0% 70% 
+− la componente obbligazionaria è principalmente orientata verso titoli di debito emessi da 
+soggetti residenti nell’Unione Europea e denominati in Euro. 
+− la percentuale di investimento in Titoli di Debito aventi rating Sub Investment Grade sarà 
+residuale rispetto al totale del Portafoglio. Nell’attività di gestione del Portafoglio, il rating, 
+quando utilizzato, non viene applicato in modo esclusivo o meccanico, ma vengono 
+effettuate valutazioni più ampie in base ad informazioni sia di tipo qualitativo che 
+quantitativo. 
+− per i titoli di capitale, negoziati sul mercato dei capitali, gli investimenti sono rivolti 
+prevalentemente in titoli di società caratterizzate da capitalizzazione medio alta, senza limiti 
+per settore di appartenenza degli emittenti. 
+− le risorse del comparto non possono essere investite in quote di fondi comuni di investimento 
+mobiliare e immobiliare chiusi. 
+− gli strumenti finanziari derivati possono essere utilizzati - nel rispetto di quanto previsto dalla 
+vigente normativa - principalmente al fine di salvaguardare il valore delle attività finanziarie, 
+riducendo o eliminando i rischi finanziari. 
+ 
+ 
+ 
+ 
+5 Cfr. nota 3.
+=== pagina 10 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  10  
+ 
+Gruppo Banco BPM - Uso Interno 
+− gli investimenti in strumenti alternativi, derivati e OICR (i cui programmi e limiti di investimento 
+devono essere compatibili con quelli del comparto) sono effettuati qualora siano 
+chiaramente esplicitati il livello di accesso da parte della Società alle informazioni sulle 
+strategie poste in essere dal gestore, la struttura dei costi dello strumento, i periodi di uscita 
+dall’investimento (lock up period). 
+Aree geografiche 
+Il patrimonio è investito principalmente in paesi dell’Area Euro ed in misura contenuta di altri 
+paesi industrializzati dell’OCSE; in via residuale, è possibile investire in titoli di paesi non aderenti 
+all’OCSE (c.d. mercati emergenti). 
+Valuta 
+La posizione denominata in una valuta diversa da quella in cui viene erogata la prestazione, al 
+netto delle coperture in essere, non può superare il 30% del patrimonio del comparto. 
+Benchmark 
+ 
+ 
+ 
+ 
+Indice Peso Ticker Valuta di denominazione 
+ICE BofA Euro Treasury Bill Index 10% EGB0 Euro 
+JP Morgan GBI EMU Unhedged LOC 40% JPMGEMLC Euro 
+EURO STOXX 50 Net Return EUR 50% SX5T Euro 
+ 
+Modalità e stile di gestione 
+La gestione può essere effettuata in maniera diretta attraverso titoli di debito o titoli di capitale 
+di rischio o in maniera indiretta attraverso OICR, ETF e LTE. 
+Lo stile di gestione si ispira al corrispondente parametro di riferimento e si pone l’obiettivo di 
+massimizzare il rendimento rispetto al benchmark attraverso una gestione attiva degli 
+investimenti.  
+La selezione degli investimenti in strumenti rappresentativi di capitale di rischio e di quote e/o 
+azioni di OICR di tipo azionario presenti in portafoglio verrà effettuata con un approccio misto 
+quantitativo e qualitativo.  
+Il comparto è costituito da strumenti di tipo azionario e in coerenza con il profilo di rischio investe 
+principalmente in strumenti finanziari rappresentativi del capitale di rischio, quote e/o azioni di 
+OICR ed ETF negoziati sui principali mercati europei. Sono inoltre utilizzati strumenti finanziari di 
+tipo obbligazionario, quotati su mercati regolamentati, di emittenti aventi Rating minimo “Baa3” 
+di Moody’s o “BBB- “di Standard & Poor’s ovvero altro equipollente assegnato da altra primaria 
+agenzia di valutazione indipendente. Il patrimonio complessivo è investito in strumenti finanziari 
+denominati principalmente in euro o altre valute europee e residualmente in altre divise. 
+La gestione non ha come obiettivo investimenti in strumenti finanziari con caratteristiche 
+ambientali o sociali, né investimenti sostenibili.
+=== pagina 11 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  11  
+ 
+Gruppo Banco BPM - Uso Interno 
+La scelta degli investimenti integra i rischi di sostenibilità nelle decisioni di investimento, 
+garantendo una gestione prudente per mitigare eventuali impatti negativi su rendimento e 
+governance. Inoltre, considera i principali effetti negativi sui fattori di sostenibilità, seguendo le 
+politiche del Gruppo. In particolare, per gli investimenti diretti in emittenti corporate, vengono 
+valutati aspetti critici come la violazione dei principi del UN Global Compact, l'esposizione ad 
+armi controverse e il coinvolgimento nel settore dei combustibili fossili. 
+Livello massimo di rotazione annua del patrimonio nell’orizzonte temporale6 150% 
+Livello massimo annuo di tracking error volatility nell’orizzonte temporale 
+(suscettibile di variazioni in dipendenza di particolari fasi di mercato) 
+8% 
+Criteri per l’esercizio del diritto di voto 
+Con riferimento ai titoli detenuti nel Comparto, la Compagnia non esercita alcun diritto di voto.  
+Le decisioni, di carattere prettamente finanziario, sono prese nell’esclusivo interesse del 
+Comparto stesso. 
+5 Compiti e responsabilità dei soggetti coinvolti nel processo 
+I soggetti coinvolti nel processo di attuazione della politica di investimento sono: 
+− Consiglio di Amministrazione; 
+− Finanza; 
+− Analisi Attuariali Vita; 
+− Gestore Delegato; 
+− Depositario. 
+A tali soggetti sono attribuiti i compiti e le responsabilità sinteticamente riportati di seguito. 
+Consiglio di Amministrazione 
+Il Consiglio di Amministrazione, con riferimento al Fondo, provvede a: 
+− definire e adottare la politica di investimento idonea a raggiungere gli obiettivi strategici e a 
+verificarne il rispetto; 
+− revisionare, ed eventualmente modificare, la politica d’investimento con cadenza almeno 
+− triennale; 
+− esaminare il rapporto periodico di verifica sulla gestione finanziaria valutando le eventuali 
+proposte e adottando le relative determinazioni; 
+− esercitare il controllo sull’attività svolta dal Gestore Delegato e assumere le relative 
+determinazioni; 
+− approvare le procedure di controllo della gestione finanziaria; 
+− deliberare l’affidamento e la revoca dei mandati di gestione. 
+ 
+ 
+6 Cfr. nota 3.
+=== pagina 12 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  12  
+ 
+Gruppo Banco BPM - Uso Interno 
+Finanza 
+Finanza provvede a: 
+− verificare periodicamente la politica di investimento, avanzando eventuali proposte di 
+modifica al Consiglio di Amministrazione; 
+− valutare le proposte di modifica della Politica di Investimento formulate dal Gestore Delegato 
+e trasmetterle, con eventuali raccomandazioni, al Consiglio di Amministrazione per le relative 
+determinazioni; 
+− trasmettere le determinazioni del Consiglio di Amministrazione al Gestore Delegato; 
+− esaminare la rendicontazione periodica sulle scelte effettuate dal Gestore Delegato; 
+− effettuare valutazioni sull’attuazione della strategia d’investimento da parte del Gestore 
+− Delegato e sul suo operato; 
+− esaminare per singolo comparto i risultati conseguiti in termini di rischio-rendimento, sia 
+− in assoluto che in relazione all’andamento del mercato; 
+− esaminare la reportistica relativa ai controlli; 
+− analizzare la relazione straordinaria redatta dal Gestore Delegato in caso di significativi 
+cambiamenti nei livelli di rendimento-rischio derivanti dall’attività di investimento o di 
+superamento delle soglie di rischiosità e trasmetterla al Consiglio di Amministrazione. 
+Gestore Delegato 
+In relazione all’impostazione politica, il Gestore Delegato provvede a: 
+− analizzare le caratteristiche di rischio-rendimento relative a eventuali nuovi strumenti 
+alternativi, al fine di rendere più efficiente la gestione dei portafogli; 
+− formulare eventuali proposte di modifica o integrazione del Documento sulla Politica di 
+Investimento; 
+− redigere con cadenza trimestrale un rapporto di verifica sull’attuazione della Politica di 
+Investimento, corredato da una valutazione del grado di rischio assunto in rapporto al 
+rendimento realizzato, da trasmettere a Finanza; 
+− redigere una relazione straordinaria in caso di significativi cambiamenti nei livelli di 
+rendimento-rischio derivanti dall’attività di investimento o di superamento delle soglie di 
+rischiosità, da trasmettere a Finanza. 
+Per quanto riguarda l’attuazione della politica, il Gestore Delegato provvede a: 
+− investire le risorse finanziarie, anche al fine di realizzare extra-rendimenti attraverso una 
+gestione attiva contro benchmark, tenendo in considerazione i limiti normativi e i vincoli 
+operativi definiti internamente; 
+− decidere il bond-picking, lo stock-picking e il market timing; 
+− effettuare analisi qualitative delle caratteristiche di rischio-rendimento relative a eventuali 
+nuovi strumenti finanziari; 
+− esercitare il diritto di voto inerente ai titoli oggetto della gestione, secondo quanto 
+− descritto nel paragrafo “Criteri per l’esercizio dei diritti di voto spettanti al Fondo”. 
+In relazione all’esecuzione dei controlli, il Gestore Delegato provvede a:
+=== pagina 13 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  13  
+ 
+Gruppo Banco BPM - Uso Interno 
+− implementare nel sistema gestionale, in aggiunta ai controlli normativi e di Regolamento, i 
+limiti agli investimenti definiti nel presente Documento; 
+− monitorare i limiti normativi, di Regolamento e di Politica di Investimento; 
+− gestire il regolamento delle operazioni finanziarie garantendo il corretto aggiornamento dei 
+saldi sul sistema di gestione e contabilità titoli; 
+− calcolare i valori relativi all’andamento della gestione finanziaria (risultati conseguiti nel 
+tempo per singolo Comparto e grado di rischio assunto in rapporto al rendimento realizzato); 
+− effettuare il monitoraggio dei limiti di duration precedentemente definiti; 
+− monitorare il turnover di portafoglio; 
+− effettuare controlli di secondo livello sugli indicatori (attinenti alla gestione finanziaria) 
+− descritti nel paragrafo “Sistema di controllo della Politica di Investimento”. 
+Depositario 
+− espleta le attività a essa affidate dal Fondo, in base alla normativa vigente; 
+− mette a disposizione del Fondo le informazioni necessarie per effettuare la riconciliazione 
+mensile dei portafogli. 
+Analisi Attuariali Vita 
+Analisi Attuariali Vita, con l’eventuale ausilio di altre strutture, analizza le caratteristiche socio-
+demografiche degli iscritti, l’andamento di ingressi e uscite, il livello medio di contribuzione e 
+l’andamento del valore delle posizioni individuali, rendendo disponibile informativa a Finanza.  
+Supporta, inoltre, ove il caso, Finanza nello svolgimento dei compiti a questa attribuiti. 
+6 Sistema di controllo della gestione finanziaria 
+Di seguito sono indicati i controlli da effettuare e la relativa periodicità. I controlli sono 
+effettuati per ciascun comparto in cui si articola il Fondo. In particolare, la verifica degli 
+obiettivi e dei criteri di attuazione della politica di investimento in base ai risultati ottenuti, alle 
+cause di scostamento da quelli attesi e all’andamento dei mercati, è finalizzata alla 
+formulazione di eventuali proposte di revisione al Consiglio di Amministrazione 
+regolamentate attraverso uno specifico mandato che, tra l’altro, vincola il Gestore al rispetto 
+del regolamento di ciascun fondo e di ciascuna gestione separata oltre che delle linee di 
+indirizzo e dei principi di cui alla presente politica.
+=== pagina 14 ===
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita  Pag.  14  
+ 
+Gruppo Banco BPM - Uso Interno 
+ 
+Attività/Parametro  
+di controllo 
+Indicatori e modalità di controllo Owner Periodicità 
+controllo 
+Controlli di 
+secondo  
+livello 
+Periodicità 
+informativa
+al CdA 
+Performance/ 
+Volatilità 
+Esame dei risultati ottenuti in termini 
+di rischio- rendimento sia in assoluto 
+che in relazione al benchmark 
+Finanza Trimestrale Risk 
+Management 
+ 
+Semestrale 
+ 
+Tracking error 
+volatilità 
+Calcolo TEV e monitoraggio del 
+valore 
+Finanza Trimestrale Risk 
+Management 
+Semestrale 
+Duration titoli 
+obbligazionari 
+Calcolo della duration della 
+componente obbligazionaria di 
+ciascun comparto come media 
+ponderata delle duration 
+modificata dei singoli titoli 
+obbligazionari che lo compongono 
+e monitoraggio 
+Finanza Trimestrale Risk 
+Management 
+ 
+Semestrale 
+Limiti di investimento Monitoraggio rispetto dei limiti 
+normativi e regolamentari fissati nel 
+Documento 
+Finanza Continuativo Risk 
+Management 
+ 
+Semestrale 
+Performance 
+Attribution 
+Esame dei risultati conseguiti e 
+attribuzione scostamenti rispetto al 
+risultato atteso in relazione ai diversi 
+fattori 
+Finanza Trimestrale  Annuale 
+Rendimento medio 
+annuo atteso 
+Calcolo del valore effettivo e 
+confronto con quello atteso 
+Finanza Annuale Risk 
+Management 
+ 
+Annuale 
+Variabilità 
+rendimento medio 
+Calcolo del valore effettivo e 
+confronto con quello atteso 
+Finanza Annuale Risk 
+Management 
+ 
+Annuale 
+Perdita massima 
+accettabile 
+Monitoraggio del valore e verifica 
+della coerenza dello stesso con il 
+livello atteso 
+Finanza Annuale Risk 
+Management 
+ 
+Annuale 
+Turnover di 
+portafoglio 
+Calcolo e monitoraggio del valore 
+rispetto al limite 
+Finanza Semestrale Risk 
+Management 
+ 
+Annuale 
+Strumenti alternativi Analisi delle caratteristiche di rischio 
+– rendimento relative a eventuali 
+nuovi strumenti alternativi, al fine di 
+rendere più efficiente la gestione 
+dei portafogli 
+Finanza Ad evento Risk 
+Management 
+ 
+Ad evento 
+Caratteristiche 
+iscritti 
+Analisi della struttura degli iscritti per 
+età, livello medio della 
+contribuzione e del valore della 
+posizione individuale; andamento 
+delle nuove adesioni e delle uscite 
+Analisi Attuariali 
+Vita 
+Annuale  Annuale 
+Costi posti a carico 
+del Fondo, costi di 
+negoziazione e 
+costi degli OICR 
+Analisi dei costi posti a carico del 
+Fondo. Verifica che non siano 
+addebitati costi non imputabili in 
+base al regolamento/condizioni di 
+contratto. In caso di investimento 
+significativo in OICR, verifica 
+dell’incidenza dei costi sostenuti 
+da essi sulla redditività 
+Analisi Attuariali 
+Vita 
+Annuale  Annuale
+=== pagina 15 ===
+Pag.  15  
+ 
+Gruppo Banco BPM - Uso Interno 
+7 Modifiche apportate nel triennio 
+Si descrivono di seguito le modifiche apportate al presente Documento nell’ultimo triennio. 
+Data aggiornamento Descrizione sintetica delle modifiche apportate  
+dicembre 2025 Interventi di adeguamento per mantenere coerente il 
+documento con i) l’assetto organizzativo della Compagnia ii) il 
+sistema di controllo della gestione finanziaria e iii) i criteri di 
+attuazione della politica di investimento per i comparti in cui si 
+articola in Fondo. 
+Documento sulla politica di investimento Fondo pensione aperto – Vera Vita

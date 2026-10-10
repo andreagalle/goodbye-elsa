@@ -7,7 +7,10 @@
   <meta name="description" content="Guida all'uso della dashboard di confronto dei fondi pensione aperti COVIP.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chewy&family=Inter:wght@400..800&display=swap">
+  <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="../img/elsa-192.png">
+  <link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
   <link rel="stylesheet" href="../style.css">
   <style>
     .guida { max-width: 860px; margin: 0 auto; padding: 8px 16px 40px; }
@@ -16,9 +19,15 @@
     .guida h3 { font-size: 1.1rem; margin: 24px 0 8px; }
     .guida p, .guida li { max-width: 75ch; }
     .guida img {
-      display: block; max-width: 100%; height: auto; margin: 12px 0 20px;
+      display: block; max-width: 100%; height: auto; margin: 12px auto 20px;
       border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface);
     }
+    /* icona nel testo (es. il logo nella Panoramica): in linea, senza cornice */
+    .guida img.icona { display: inline; margin: 0 2px; border: 0; border-radius: 50%; vertical-align: -4px; background: none; }
+    /* immagini centrate con la didascalia (dal testo alternativo) centrata sotto, anche quelle strette */
+    .guida figure { margin: 20px auto 28px; text-align: center; }
+    .guida figure img { margin: 0 auto 8px; }
+    .guida figcaption { max-width: 60ch; margin: 0 auto; color: var(--muted); font-size: 0.9rem; text-wrap: balance; }
     .guida blockquote { margin: 16px 0; padding: 10px 16px; background: var(--warn-bg); color: var(--warn-ink); border-radius: var(--radius); }
     .guida blockquote p { margin: 4px 0; }
     .guida table { border-collapse: collapse; margin: 12px 0; font-size: 0.92rem; display: block; overflow-x: auto; }
@@ -27,18 +36,23 @@
     .guida code { background: var(--surface-2); padding: 1px 5px; border-radius: 4px; font-size: 0.9em; }
     .guida pre { background: var(--surface-2); padding: 12px 14px; border-radius: 8px; overflow-x: auto; }
     .guida pre code { background: none; padding: 0; }
-    .guida h2 a.anchor, .guida h3 a.anchor { color: var(--muted); text-decoration: none; margin-left: 6px; font-weight: 400; opacity: 0; }
-    .guida h2:hover a.anchor, .guida h3:hover a.anchor, .guida a.anchor:focus { opacity: 1; }
+    .guida h2 a.anchor, .guida h3 a.anchor, .guida h4 a.anchor { color: var(--muted); text-decoration: none; margin-left: 6px; font-weight: 400; opacity: 0; }
+    .guida h2:hover a.anchor, .guida h3:hover a.anchor, .guida h4:hover a.anchor, .guida a.anchor:focus { opacity: 1; }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/marked@18.0.13/lib/marked.umd.js" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.4.15/dist/purify.min.js" defer></script>
+  <script src="../navigazione.js" defer></script>
 </head>
 <body>
   <nav class="topnav" aria-label="Navigazione">
     <div class="wrap">
-      <a href="../">← Dashboard</a>
-      <a class="extra" href="../presentazione/">Presentazione</a>
-      <a href="https://github.com/andreagalle/goodbye-elsa/blob/master/docs/guida/GUIDA.md" rel="noopener">Sorgente su GitHub</a>
+      <a class="marchio" href="../" title="Torna all'inizio della dashboard">
+        <img src="../img/elsa-192.png" alt="" width="48" height="48"><span class="scritta">goodbye Elsa !!</span><span class="sr-only">: torna all'inizio della dashboard</span></a>
+      <div class="voci">
+        <a href="../">← Dashboard</a>
+        <a class="extra" href="../presentazione/">Presentazione</a>
+        <a href="https://github.com/andreagalle/goodbye-elsa/blob/master/docs/guida/GUIDA.md" rel="noopener">Sorgente su GitHub</a>
+      </div>
     </div>
   </nav>
   <main id="contenuto" class="guida" aria-live="polite">
@@ -69,6 +83,19 @@
         });
         main.innerHTML = DOMPurify.sanitize(marked.parse(md));
         main.querySelectorAll("img").forEach((img) => { img.decoding = "async"; });
+        // Un'immagine da sola nel paragrafo diventa una figura con la didascalia presa dal testo alternativo
+        main.querySelectorAll("p").forEach((p) => {
+          const img = p.querySelector(":scope > img");
+          if (!img || p.childElementCount !== 1 || p.textContent.trim()) return;
+          const fig = document.createElement("figure");
+          fig.append(img);
+          if (img.alt) {
+            const cap = document.createElement("figcaption");
+            cap.textContent = img.alt;
+            fig.append(cap);
+          }
+          p.replaceWith(fig);
+        });
         const h1 = main.querySelector("h1");
         if (h1) document.title = `${h1.textContent} – Fondi pensione aperti`;
         if (location.hash) document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView();

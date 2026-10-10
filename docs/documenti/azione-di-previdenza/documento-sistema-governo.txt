@@ -1,0 +1,1016 @@
+# Fondo: AZIONE DI PREVIDENZA - FONDO PENSIONE APERTO (azione-di-previdenza)
+# Documento: Documento sul sistema di governo – Documento sul Sistema di Governo - Corporate Governance
+# Fonte: https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/altri-documenti/Doc_sistgov_FA-2023.pdf
+# Citato in: https://www.hdiassicurazioni.it/it/privati/previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 1eab1f0e42356d7782a59d80f4124411799cc0894769d42b104ca171755bce7b
+# Pagine: 35
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Approvato dal Consiglio di Amministrazione in data 7 aprile 2026 
+ 
+ 
+ 
+ 
+ 
+Documento sul Sistema di Governo Corporate Governance 
+del Fondo Pensione Aperto 
+Azione di Previdenza  
+HDI Assicurazioni S.p.A. [ ]
+=== pagina 2 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+2 
+ 
+Indice 
+1 RIFERIMENTI NORMATIVI 3 
+2 OBIETTIVI E SINTESI DEL DOCUMENTO 4 
+3 ORGANIZZAZIONE DEL FONDO 6 
+3.1 CONSIGLIO DI AMMINISTRAZIONE 7 
+3.2 ORGANISMO DI VIGILANZA 8 
+3.3 COMITATI CONSILIARI 11 
+COMITATO PER IL CONTROLLO INTERNO E I RISCHI 11 
+COMITATO REMUNERAZIONI 11 
+3.4 ALTA DIREZIONE 11 
+3.5 COLLEGIO SINDACALE 12 
+3.6 RESPONSABILE DEL FONDO 13 
+3.7 SISTEMA DEI COMITATI MANAGERIALI 16 
+3.7.1 COMITATO ALTA DIREZIONE 16 
+3.7.2 COMITATO DIRETTIVO 17 
+3.7.3 COMITATO RISCHI 17 
+3.7.4 COMITATO FINANZA-ALM E SOSTENIBILITÀ DI GRUPPO 19 
+3.8 ALTRI SOGGETTI COINVOLTI 21 
+3.8.1 FUNZIONE TESORERIA, INVESTIMENTI E SOSTENIBILITÀ 21 
+3.8.2 DEPOSITARIO 22 
+4 SISTEMA DI CONTROLLO INTERNO 22 
+4.1 FUNZIONE INTERNAL AUDIT DI GRUPPO 24 
+4.2 FUNZIONE RISK MANAGEMENT DI GRUPPO 26 
+5 SISTEMA DI GESTIONE DEI RISCHI 28 
+5.1 IDENTIFICAZIONE DEI RISCHI RILEVANTI 29 
+5.2 VALUTAZIONE DEI RISCHI 32 
+5.3 MONITORAGGIO DEI RISCHI 32 
+5.4 TRATTAMENTO DEI RISCHI 33 
+5.5 REPORTING SUI RISCHI 33 
+6 POLITICA DI REMUNERAZIONE 34 
+6.1 REMUNERAZIONE DELLE FUNZIONI FONDAMENTALI 34 
+6.2 REMUNERAZIONE DEL RESPONSABILE DEL FONDO 35
+=== pagina 3 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+3 
+ 
+1 RIFERIMENTI NORMATIVI  
+I principali riferimenti normativi, per la reda zione del Documento sul Sistema di Governo , sono i 
+seguenti: 
+Normativa interna: 
+• Nota informativa Fondo Pensione Aperto Azione di Previdenza 
+• Regolamento Fondo Pensione Aperto Azione di Previdenza 
+• Linee guida per le politiche di remunerazione di HDI Assicurazioni S.p.A. 
+• Politica di Gestione dei rischi di HDI Assicurazioni S.p.A.  
+• Politica della Funzione Internal Audit di HDI Assicurazioni S.p.A. 
+• Politica di Corporate Governance di HDI Assicurazioni S.p.A. 
+• Politica di Cybersecurity di HDI Assicurazioni S.p.A. 
+• Politica di gestione dei conflitti di interesse di HDI Assicurazioni S.p.A. 
+• Delibera Quadro sugli Investimenti di HDI Assicurazioni S.p.A. 
+• Delibera Quadro sugli Investimenti - Fondo Pensione Aperto “Azione di Previdenza” di HDI 
+Assicurazioni S.p.A. 
+Normativa esterna 
+• Decreto legislativo 5 dicembre 2005, n.252  – Disciplina delle forme pensionistiche 
+complementari; 
+• Deliberazione del 29 luglio 2020  - Direttive alle forme pensionistiche complementari in 
+merito alle modifiche e integrazioni recate al decreto legislativo 5 dicembre 2005, n. 252, 
+dal decreto legislativo 13 dicembre 2018, n. 147, in attuazione della direttiva (UE) 
+2016/2341. 
+• Delibera Covip 13 gennaio 2021 - Istruzioni di vigilanza per le società che gestiscono fondi 
+pensione aperti, adottate ai sensi dell’art. 5 -decies, comma 1, del Decreto legislativo 5 
+dicembre 2005, n. 252;
+=== pagina 4 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+4 
+ 
+• Direttiva UE 2016/2341. 
+2 OBIETTIVI E SINTESI DEL DOCUMENTO 
+Il presente Documento, in linea con quanto stabilito dall’art. 5 decies, comma 1 del D.Lgs. 
+252/2005, come da ultimo modificato sulla base della c.d. Direttiva “IORP II” e dettagliato nelle 
+relative Linee Guida COVIP, è stato redatto al fine di rappresenta re il sistema di governo di AZIONE 
+DI PREVIDENZA - Fondo Pensione Aperto (in seguito anche il “Fondo”).  
+Il Fondo è stato istituito dalla società “HDI Assicurazioni S.p.A .” (di seguito “Compagnia”) con 
+giusta autorizzazione rilasciata dalla COVIP con provvedimento del 26 aprile 2000; con il medesimo 
+provvedimento la COVIP ha approvato il Regolamento del Fondo.  
+La Compagnia esercita l’attività di gestione del Fondo con effetto dalla medesima data. 
+Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 111. 
+Azione di Previdenza è finalizzato all’erogazione di trattamenti pensionistici complementari del 
+sistema previdenziale obbligatorio, ai sensi del d.lgs. 5 dicembre 2005, n. 252. 
+Il Fondo opera in regime di contribuzione definita: l’entità della prestazione pensionistica è 
+determinata in funzione della contribuzione versata e dei rendimenti della gestione. La gestione delle 
+risorse è svolta nell’esclusivo interesse dell’aderente e secondo le indicazioni di investimento che lo 
+stesso fornirà scegliendo tra le linee di investimento proposte all’atto dell’adesione e/o durante la 
+fase di accumulo. In particolare, il Fondo è articolato in n. 4 comparti, differenziati per profili di rischio 
+e di rendimento, in modo tale da assicurare agli aderenti una adeguata possibilità di scelta:  
+• Linea Prudente 
+• Linea Equilibrata 
+• Linea Dinamica 
+• Linea Garantita. Questo comparto è destinato ad accogliere il conferimento tacito del TFR.
+=== pagina 5 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+5 
+ 
+Il Fondo è rivolto a tutti coloro che intendono realizzare un piano di previdenza complementare 
+su base individuale. Possono inoltre aderire, su base collettiva, i lavoratori nei cui confronti trovano 
+applicazione i contratti, gli accordi o i regolamenti aziendali che ne prevedono l’adesione. 
+La partecipazione al Fondo consente di beneficiare di un trattamento fiscale di favore sui 
+contributi versati, sui rendimenti conseguiti e sulle prestazioni percepite. 
+HDI Assicurazioni S.p.A. gestisce il patrimonio del “Fondo” mantenendolo distinto dal resto del 
+suo patrimonio e da quello degli altri fondi gestiti, e destinandolo esclusivamente al perseguimento 
+dello scopo del “Fondo”, disponendo, in particolare, di str utture organizzative professionali e 
+tecniche adeguate alla dimensione e alla complessità del portafoglio, alla politica di investimento 
+perseguita e ai rischi assunti nella gestione. 
+Il presente “Documento sul sistema di governo del Fondo Aperto” ha per oggetto: 
+• l’organizzazione della società rilevante per i profili gestionali inerenti ai fondi pensione 
+aperti, ivi incluse le funzioni e/o attività che risultano esternalizzate; 
+• una descrizione sintetica di come sono organizzati i controlli interni rilevanti per i fondi 
+pensione aperti; 
+• una descrizione sintetica di come è organizzato il sistema di gestione dei rischi rilevante per 
+i fondi pensione aperti; 
+• una descrizione sintetica di come sono organizzati i flussi informativi tra le strutture aziendali 
+e il responsabile del fondo pensione aperto e viceversa; 
+• le informazioni essenziali relative alla politica di remunerazione del responsabile del fondo 
+pensione aperto e dei titolari delle Funzioni Fondamentali di Gestione dei Rischi e di Internal 
+Audit (paragrafo 6.1 in Politica di Remunerazione).  
+Tutte le Unità Organizzative interessate devono comunicare alle Funzioni Fondamentali, per gli 
+aspetti di rispettiva competenza, qualsiasi fatto rilevante per gli adempimenti previsti.
+=== pagina 6 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+6 
+ 
+Il presente è da redigersi con cadenza annuale e da pubblicarsi sul sito web della forma 
+pensionistica unitamente al rendiconto dei fondi stessi, in cui ne viene fornita una rappresentazione 
+strettamente limitata ai profili gestionali che assumono rilievo con riferimento a tali fondi. 
+3 ORGANIZZAZIONE DEL FONDO 
+L’organizzazione del Fondo Pensione Aperto poggia  principalmente sull’organizzazione della 
+Compagnia demandando a  soggetti terzi l’espletamento delle attività riguardanti il Service 
+amministrativo. 
+Il Service Amministrativo è il soggetto che fornisce ai fondi pensione il servizio di gestione delle 
+attività amministrative.  
+La Società di Revisione verifica in modo indipendente se quanto riportato nel bilancio del Fondo 
+Pensione corrisponde alla realtà dei fatti. La Società di Revisione esprime un giudizio sulla conformità 
+del bilancio rispetto ai principi contabili di riferimento e si esprime sulla chiarezza della redazione 
+nonché sulla veridicità e correttezza della rappresentazione della situazione patrimoniale e 
+finanziaria e del risultato economico del “Fondo”. 
+Nel processo organizzativo non sono previste forme di Advisory, neanche per gli investimenti 
+c.d. “etici” o “socialmente responsabili”. 
+Si specifica che la Compagnia istituisce e gestisce il Fondo; pertanto, gli organi e le funzioni di 
+seguito descritte fanno riferimento a quelle della Compagnia. 
+Con riferimento alle adesioni collettive, si fa presente che, alla data di approvazione del presente 
+documento, è riscontrabile l’iscrizione di una collettività superiore ai 500 lavoratori appartenenti alla 
+medesima azienda (dipendenti di HDI Assicurazioni S.p.A.). È stato, quindi, costituito un Organismo 
+di rappresentanza, ai sensi del Il Dlgs 252/2005 seguito da Deliberazione COVIP del 29 luglio 2020 . 
+Si tratta di una struttura che rappresenta gli interessi dei partecipanti e dei beneficiari del Fondo  
+pensione le cui funzioni principali sono: 
+- garantire la trasparenza e I ‘informazione versi i partecipanti;
+=== pagina 7 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+7 
+ 
+- esprimere pareri e proposte sugli investimenti e sulle modifiche regolamentari; 
+- promuovere il coinvolgimento dei membri nella gestione del Fondo. 
+3.1 CONSIGLIO DI AMMINISTRAZIONE 
+Al Consiglio di Amministrazione è affidata la gestione degli affari della Società.  
+Il Consiglio di Amministrazione è statutariamente investito dei più ampi poteri di ordinaria e 
+straordinaria amministrazione, tranne quelli riservati per legge o per statuto all'Assemblea dei Soci. 
+Il Consiglio di Amministrazione ha la responsabilità ultima del sistema di governo societario, ne 
+definisce gli indirizzi strategici, ne assicura la costante completezza, funzionalità ed efficacia, anche 
+con riferimento alle attività esternalizzate.  
+Il Consiglio deve altresì assicurare, che il sistema di gestione dei rischi consenta l’identificazione, 
+la valutazione ed il controllo dei rischi maggiormente significativi compresi i rischi di non conformità 
+alle norme. 
+In dettaglio, il Consiglio: approva il progetto di bilancio sottoposto all'esame dell'Assemblea; 
+approva le situazioni economiche e patrimoniali semestrali; definisce gli orientamenti strategici, i 
+piani di sviluppo e di investimento, ed il budget annuale;  esamina ed approva le operazioni di 
+particolare rilevanza economica e patrimoniale, specie se effettuate con parti correlate o 
+caratterizzate da potenziale conflitto di interessi e riferisce tempestivamente – anche attraverso il 
+Presidente o l’Amministratore Delegato – al Collegio Sindacale sull’attività svolta e su tali operazioni. 
+Con specifico riferimento all’organizzazione d el Fondo Pensione Aperto , il Consiglio di 
+Amministrazione è deputato alla definizione e adozione della politica di investimento idonea a 
+raggiungere gli obiettivi strategici del Fondo. Esso richiede alle funzioni competenti eventuale 
+revisione/modifica della politica d’investimento nonché del rapporto sulla gesti one finanziaria e 
+valuta le proposte elaborate dalla Funzione di Risk Management (d’ora in avanti, “RM”). 
+Inoltre:
+=== pagina 8 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+8 
+ 
+• delibera le politiche in relazione alla gestione dei rischi, alla revisione interna e, laddove 
+rilevante, alle attività attuariali e a quelle esternalizzate; 
+• riesamina con cadenza almeno triennale le politiche scritte di cui al punto precedente o in 
+caso di variazioni significative del settore interessato. Il Consiglio di Amministrazione, in base 
+allo statuto, può essere composto da un numero di membri variabil e da sette a quindici ed 
+include membri che rappresentano gli interessi degli azionisti di minoranza.  
+Il Consiglio di Amministrazione elegge al suo interno un Presidente ed un Vicepresidente, se non 
+vi ha provveduto l’Assemblea. 
+Il Consiglio di Amministrazione è attualmente composto da 9 membri. 
+Tutti i membri del Consiglio devono possedere i requisiti di onorabilità e professionalità previsti dalla 
+legge, e trovarsi in assenza di cause di ineleggibilità e incompatibilità, come definiti dalla normativa 
+vigente. La perdita dei requisiti di onorabil ità o il sopravvenire di situazioni di incompatibilità, 
+comportano la decadenza dal Consiglio di Amministrazione. 
+3.2 ORGANISMO DI VIGILANZA 
+In ossequio alle disposizioni del Decreto 231/2001, la Compagnia ha identificato un Organismo 
+di Vigilanza, al quale è stato attribuito il compito di vigilare sulla corretta applicazione del Modello 
+organizzativo della Compagnia attraverso il monitoraggio delle attività e la definizione di flussi 
+informativi dalle aree sensibili.  
+Sono stati attribuiti a tale organismo ed ai vertici aziendali compiti e poteri tali da garantire 
+l’effettiva vigilanza sull’applicazione e l’adeguatezza del Modello di Organizzazione, Gestione e 
+Controllo anche ai fini della configurazione dell’esimente prevista dal richiamato decreto per evitare 
+sanzioni. 
+È stato altresì previsto un sistema disciplinare da applicare in caso di violazione del Modello di 
+Organizzazione, Gestione e Controllo e del Codice Etico avviando un’opera di sensibilizzazione e
+=== pagina 9 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+9 
+ 
+formazione a tutti i livelli aziendali sulle procedure e sull’adesione alle regole comportamentali 
+previste dal Modello e dal Codice Etico. 
+La Società ha identificato l'Organismo di Vigilanza in un organismo collegiale composto da tre 
+membri che riferisce al Consiglio di Amministrazione, costituendo così un modello rispondente ai 
+requisiti previsti dal D.lgs. 231/01 e alle indicazioni fornite in merito dalle associazioni di categoria. 
+L’Organismo incaricato di vigilare sul funzionamento e l’osservanza del Modello di 
+Organizzazione, Gestione e Controllo predisposto dalla Società risponde ai requisiti di: 
+• autonomia e indipendenza, in quanto soggetto che riporta direttamente ai massimi vertici 
+aziendali; 
+• professionalità, poiché dotato di un bagaglio di strumenti e tecniche specialistiche proprie 
+di chi svolge attività ispettiva e consulenziale che permettono di svolgere efficacemente 
+l’attività assegnata; 
+• continuità di azione, in quanto si tratta di struttura costituita ad hoc e dedicata all’attività 
+di vigilanza sul Modello nonché priva di mansioni operative che possano portarla ad 
+assumere decisioni con effetti economico-finanziari. 
+Il Consiglio di Amministrazione di HDI Assicurazioni S.p.A. ha approvato il Regolamento istitutivo 
+che disciplina requisiti, compiti e poteri dell'Organismo di Vigilanza. 
+All'Organismo di Vigilanza sono stati affidati, in autonomia, dal Consiglio di Amministrazione, i 
+compiti e i poteri previsti dal Modello, riportati nel Regolamento istitutivo, ed in particolare, di: 
+• valutare il funzionamento e l’effettiva idoneità del Modello a prevenire la commissione 
+dei reati richiamati dal D.lgs. 231/01, curandone l’aggiornamento anche in relazione alle 
+modifiche normative-giurisprudenziali ed ai mutamenti organizzativi della società;  
+• elaborare un programma di verifica, in coerenza con i principi contenuti nel Modello, 
+nell’ambito dei vari settori di attività, assicurando e verificandone l’attuazione;
+=== pagina 10 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+10 
+ 
+• vigilare sull’osservanza del Modello da parte dei dipendenti, degli Organi Sociali e, nei 
+limiti delle attività svolte nell’interesse della Società, degli Agenti e dei Consulenti;  
+• effettuare proposte e osservazioni alla funzione competente l’adozione delle opportune 
+disposizioni interne, procedure e protocolli;  
+• mantenere i rapporti e assicurare i flussi informativi di competenza verso il Consiglio di 
+Amministrazione ed il Collegio Sindacale, mantenendo inoltre un collegamento con la 
+Società di revisione, l’Internal Audit, il Risk Management di Gruppo e la funzione 
+Compliance di Gruppo;  
+• richiedere e acquisire informazioni e documentazione di ogni tipo da e verso ogni livello 
+e settore della Società, compiendo verifiche ed ispezioni al fine di accertare eventuali 
+violazioni del Modello;  
+• assicurare l’elaborazione della reportistica sulle risultanze degli interventi effettuati;  
+• definire e promuovere le iniziative per la diffusione della conoscenza e della comprensione 
+del Modello, nonché della formazione del personale e della sensibilizzazione dello stesso 
+all’osservanza dei principi contenuti nel Modello;  
+• predisporre un efficace sistema di comunicazione interna per consentire la trasmissione e 
+raccolta di notizie rilevanti ai fini del D.lgs. 231/01, garantendo la tutela e riservatezza 
+del segnalante;  
+• formulare la previsione di spesa per lo svolgimento della propria attività;  
+• promuovere l’attivazione di eventuali procedimenti disciplinari, supportando, altresì, la 
+funzione competente anche in ordine  alla valutazione circa l’adozione di eventuali 
+sanzioni o provvedimenti. 
+L’Organismo di Vigilanza, direttamente o per il tramite delle varie funzioni all’uopo designate, ha 
+accesso a tutte le attività svolte dal Fondo nelle aree a rischio e alla relativa documentazione.
+=== pagina 11 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+11 
+ 
+3.3 COMITATI CONSILIARI 
+ Comitato per il Controllo Interno e i Rischi 
+Il Consiglio di Amministrazione, al fine di incrementare l’efficienza e l’efficacia della sua azione, 
+ha istituito al proprio interno uno specifico Comitato per il controllo interno e i rischi,  con funzioni 
+conoscitiva, consultiva e propositiva, per l’espletamento dei compiti relativi al sistema di controllo 
+interno e gestione dei rischi composto da tre amministratori non esecutivi e indipendenti. In 
+particolare, il Comitato assiste il Consiglio nella determinazione delle linee di indirizzo del sistema 
+del controllo interno e gestione dei rischi, nella verifica periodica della sua adeguatezza e del suo 
+effettivo funzionamento e nella identificazione e gestione dei principali rischi aziendali. Il Comitato 
+per il controllo interno e i rischi è convocato e dire tto dal Coordinatore e delibera a maggioranza 
+assoluta dei presenti.  
+Comitato Remunerazioni 
+Il Comitato Remunerazioni svolge le seguenti attività: 
+• formula proposte in materia di compensi degli amministratori investiti di particolari cariche;  
+• verifica la congruità del complessivo schema retributivo, nonché la proporzionalità delle 
+remunerazioni dell’Amministratore delegato rispetto al personale rilevante della Compagnia;  
+• sottopone periodicamente a verifica le politiche di remunerazione al fine di garantirne 
+l’adeguatezza anche in caso di modifiche all’operatività dell’impresa o del contesto del mercato;  
+• individua i potenziali conflitti di interesse e le misure adottate per gestirli;  
+• accerta il verificarsi delle condizioni per il pagamento degli incentivi del personale rilevante;  
+• fornisce adeguata informativa al Consiglio sull’efficace funzionamento delle politiche di 
+remunerazione. 
+3.4 ALTA DIREZIONE 
+ 
+In conformità con le direttive del Consiglio di Amministrazione, la responsabilità dell’attuazione, 
+del mantenimento e del monitoraggio del sistema di governo societario spetta all'Alta Direzione.
+=== pagina 12 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+12 
+ 
+In tale ambito l’Alta Direzione svolge le seguenti funzioni:  
+• definisce in dettaglio l’assetto organizzativo dell a Compagnia, i compiti e le responsabilità 
+delle unità operative di base, nonché i processi decisionali in coerenza con le direttive 
+impartite dal consiglio di amministrazione; in tale ambito attua l’appropriata separazione di 
+compiti sia tra singoli soggetti che tra funzioni, in modo da assicurare un’adeguata dialettica 
+ed evitare, per quanto possibile, l’insorgere di conflitti di interesse; 
+• con riferimento alla valutazione interna del rischio e della solvibilità, contribuisce ad 
+assicurare la definizione di limiti operativi e a garantire la tempestiva verifica dei limiti 
+medesimi, nonché il monitoraggio delle esposizioni ai rischi e il rispet to dei limiti di 
+tolleranza; 
+• attua le politiche inerenti al sistema di governo societario, nel rispetto dei ruoli e dei compiti 
+ad essa attribuiti; 
+• cura il mantenimento della funzionalità e dell’adeguatezza complessiva dell’assetto 
+organizzativo e del sistema di governo societario; 
+• verifica che il Consiglio di Amministrazione sia periodicamente informato sull’efficacia e 
+sull’adeguatezza del sistema di governo societario e, comunque tempestivamente, ogni 
+qualvolta siano riscontrate criticità significative; 
+• dà attuazione alle indicazioni del Consiglio di Amministrazione in ordine alle misure da 
+adottare per correggere le anomalie riscontrate e apportare miglioramenti; 
+• propone al Consiglio di Amministrazione iniziative volte all’adeguamento ed al 
+rafforzamento del sistema di governo societario. 
+3.5 COLLEGIO SINDACALE 
+Il Collegio Sindacale è l’organo della Compagnia a cui spetta il controllo sull'osservanza della 
+legge e dello Statuto, sul rispetto dei principi di corretta amministrazione ed in particolare 
+sull'adeguatezza dell'assetto organizzativo, amministrativo e contabile adottato dalla Società.
+=== pagina 13 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+13 
+ 
+Il Collegio Sindacale della Compagnia , con riferimento al Fondo Pensione Aperto, svolge un 
+controllo di legalità verificando il rispetto della legge e del Regolamento del Fondo Pensione. Inoltre, 
+esso verifica l'adeguatezza dell'organizzazione amministrativa e contabile e la corretta 
+amministrazione del “Fondo” segnalando all’Organo Am ministrativo eventuali fatti rilevanti , 
+anomalie dell’assetto organizzativo, amministrativo e contabile adottata e sul concreto 
+funzionamento. 
+Il Collegio Sindacale è composto da tre membri effettivi e due supplenti nominati dall’Assemblea, 
+che restano in carica per tre esercizi sociali; al termine del mandato possono essere rieletti.  
+I sindaci, per la loro nomina, devono essere in possesso dei requisiti di professionalità e onorabilità 
+richiesti dalla normativa speciale vigente.  
+3.6 RESPONSABILE DEL FONDO 
+Il Responsabile svolge la propria attività in modo autonomo e indipendente dalla Compagnia, 
+riportando direttamente all’organo di amministrazione della stessa relativamente ai risultati 
+dell’attività svolta. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse 
+degli aderenti e dei beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul 
+rispetto delle buone pratiche e dei principi di corretta amministrazione del Fondo. 
+Il Responsabile, avvalendosi delle procedure definite dalla Compagnia, organizza lo  svolgimento 
+delle sue funzioni al fine di:  
+• vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe 
+di gestione, con riferimento ai controlli su: 
+o le politiche di investimento. In particolare: che la politica di investimento 
+effettivamente seguita sia coerente con quella indicata nel Regolamento  e nel 
+Documento sulla politica di investimento; che gli investimenti, ivi compresi quelli 
+effettuati in OICR, avvengano nell’esclusivo interesse degli aderenti, nel  rispetto
+=== pagina 14 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+14 
+ 
+dei principi di sana e prudente gestione nonché nel rispetto dei criteri e limiti  
+previsti dalla normativa tempo per tempo vigente e dal regolamento; 
+o la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli  
+investimenti effettuati siano correttamente identificati, misurati e controllati e che 
+siano coerenti con gli obiettivi perseguiti dalla politica di investimento; 
+• vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi  di 
+deleghe di gestione, con riferimento ai controlli su: 
+o la separatezza amministrativa e contabile delle operazioni poste in essere per 
+conto del  Fondo rispetto al complesso delle altre operazioni svolte dalla 
+Compagnia e del  patrimonio del Fondo rispetto a quello della Compagnia e di 
+suoi clienti; 
+o la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+• vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei beneficiari con 
+riferimento ai controlli su: 
+o l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative 
+degli aderenti e dei beneficiari, sia al momento del collocamento del Fondo che 
+durante il rapporto; 
+o gli oneri di gestione. In particolare, che le spese a carico degli aderenti  e dei 
+beneficiari previste dal Regolamento e le eventuali commissioni correlate ai 
+risultati di gestione siano correttamente applicate; 
+o la completezza ed esaustività delle informazioni contenute nelle comunicazioni  
+periodiche agli aderenti e ai beneficiari e in quelle inviate in occasione di eventi 
+particolari; 
+o l’adeguatezza della procedura per la gestione de i reclami nonché il trattamento  
+riservato ai singoli reclami;
+=== pagina 15 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+15 
+ 
+o la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare 
+con riferimento ai tempi di liquidazione delle somme richieste a titolo di 
+anticipazione o riscatto e di trasferimento della posizione individuale. 
+Il Responsabile controlla le soluzioni adottate dalla Compagnia per identificare le situazioni di  
+conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; egli 
+controlla altresì la corretta esecuzione del contratto stipulato per il conferimento dell’incarico di 
+depositario, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle rendite 
+e, ove presenti, delle convenzioni/condizioni relative alle prestazioni accessorie. 
+Delle anomalie e delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile  dà 
+tempestiva comunicazione all’organo di amministrazione e a quello di controllo della  Compagnia 
+indicando gli interventi correttivi da adottare. 
+Il Responsabile: 
+• predispone annualmente una relazione che descrive in maniera analitica l’organizzazione  
+adottata per l’adempimento dei suoi doveri e che dà conto della congruità delle procedure 
+di cui si avvale per l’esecuzione dell’incarico, dei risultati dell’attività svolta, delle eventual i 
+irregolarità riscontrate durante l’anno e delle iniziative poste in essere per eliminarle. La  
+relazione viene trasmessa alla COVIP entro il 31 marzo di ciascun anno. Copia della relazione 
+stessa viene trasmessa all’organo di amminist razione e a quello di controllo della  
+Compagnia; 
+• vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa le 
+segnalazioni, la documentazione e le relazioni richieste dalla normativa  tempo per tempo 
+vigente e dalle istruzioni emanate in proposito; 
+• comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione e a  
+quello di controllo della Compagnia, le irregolarità riscontrate nell’esercizio delle sue  
+funzioni.
+=== pagina 16 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+16 
+ 
+3.7 SISTEMA DEI COMITATI MANAGERIALI 
+ 
+HDI Assicurazioni ha previsto l’esistenza dei seguenti Comitati che, a seconda dei casi, sono 
+composti da Dirigenti e Responsabili di struttura; in ogni caso tali Comitati svolgono una funzione 
+meramente consultiva e propositiva: 
+1. Comitato Alta Direzione; 
+2. Comitato Direttivo; 
+3. Comitato Rischi; 
+4. Comitato Finanza-Alm e Sostenibilità di Gruppo. 
+ 
+3.7.1 Comitato Alta Direzione 
+Il Comitato Alta Direzione riunisce collegialmente l’Alta Direzione della Compagnia, così come 
+prevista dalla normativa regolatrice dell’Organo di Vigilanza del mercato assicurativo. 
+Il Comitato Alta Direzione assiste l’Amministratore Delegato nella predisposizione delle linee di 
+indirizzo generale per il conseguimento degli obiettivi strategici del Gruppo e nel governo esecutivo 
+della Compagnia per l’attuazione delle misure finalizzat e a tali obiettivi (pianificazione, 
+coordinamento) e per la verifica dei risultati. 
+Esso è responsabile dell’attuazione, del monitoraggio e del mantenimento del sistema dei controlli 
+interni e di gestione dei rischi. 
+Il Comitato Alta Direzione, presieduto dall’Amministratore Delegato della Società, si riunisce con 
+cadenza almeno trimestrale ed è composto da: 
+• CFO Vice Direttore Generale; 
+• Vice Direttore Generale Commerciale; 
+• Vice Direttore Generale Operations; 
+• Direttore Rami Danni.
+=== pagina 17 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+17 
+ 
+ 
+3.7.2 Comitato Direttivo 
+Il Comitato Direttivo persegue l’obiettivo di:  
+• definire ed impostare le concrete linee guida per la realizzazione degli obiettivi operativi 
+individuati nei documenti di pianificazione strategica annuale e pluriennale, approvati dagli 
+organismi di vertice della Società, ad eccezione di quelli di natura finanziaria; 
+• guidare tutti i macro processi organizzativi aziendali individuando le migliori decisioni per la 
+loro corretta e più efficiente funzionalità e dando mandato per la loro relativa attuazione; 
+• controllare l’effettiva realizzazione di quanto deciso, discutendo e decidendo eventuali 
+correttivi da apportare. 
+Il Comitato Direttivo è presieduto dall’Amministratore Delegato e Direttore Generale ed è 
+composto stabilmente da tutti i Dirigenti della Società. Qualora lo ritenga necessario, il Comitato può 
+coinvolgere nei propri lavori i responsabili delle varie unità  organizzative o ogni altra figura 
+professionale interna o esterna. 
+Il Comitato si riunisce su convocazione del suo Presidente, a cadenze regolari almeno mensili, 
+comunque di norma in occasione dei momenti istituzionali di pianificazione del budget e di 
+rendicontazione pre-consuntiva e consuntiva delle attività. 
+3.7.3 Comitato Rischi 
+Il Comitato Rischi assiste il Chief Risk Officer nel realizzare un efficace ed efficiente governo dei 
+rischi aziendali, nell’ottica del progressivo rafforzamento delle strutture preposte al sistema dei 
+controlli interni e gestione dei rischi, attraverso: 
+• il monitoraggio dell’esposizione dell’Azienda ai principali rischi ed il rispetto dei limiti 
+operativi fissati, per garantirne l’allineamento con la propensione al rischio definita dal 
+Consiglio d’Amministrazione;
+=== pagina 18 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+18 
+ 
+• la definizione delle attività esecutive riguardo la governance dei rischi, effettuando la 
+valutazione integrata dei rischi tecnici, finanziari ed operativi, analizzando le possibili 
+tecniche di mitigazione del rischio. 
+Il Comitato Rischi inoltre: 
+• supporta il Consiglio di Amministrazione nello sviluppo della cultura del rischio e del controllo 
+all’interno della Compagnia; 
+• contribuisce all’Identificazione dei potenziali rischi futuri per la Compagnia e definisce i piani 
+per la corretta gestione degli stessi; 
+• supporta il Consiglio di Amministrazione nella definizione delle policy in materia di rischio; 
+• effettua la valutazione, in termini di rischio, delle strategie di business previste dal piano 
+strategico sulla base della documentazione prodotta dalla funzione di Risk Management di 
+Gruppo. 
+• esamina la reportistica in materia di rischio predisposta dalla funzione Risk management di 
+Gruppo con il supporto, ciascuna per la parte di propria competenza, delle funzioni di 
+Compliance, Antiriciclaggio Antiterrorismo e Antifrode di Gruppo, DPO e Data Quality 
+management.  
+Il Comitato Rischi svolge inoltre le funzioni assegnate al cosiddetto Comitato di Sottoscrizione, 
+espletandone gli adempimenti così come stabilito dalla vigente policy di Sottoscrizione  della 
+Compagnia che recepisce quanto definito dal Gruppo Talanx nell’ambito dell’“Underwriting 
+Framework”. 
+Il Comitato Rischi svolge inoltre le funzioni assegnate al Comitato di Crisi, coerentemente con 
+quanto definito nel Piano di Emergenza.  
+Il Comitato Rischi, nell’ambito del processo di redazione, aggiornamento e approvazione del Piano 
+di Emergenza:
+=== pagina 19 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+19 
+ 
+• esamina i contenuti del Piano predisposto dal Risk Management di Gruppo, fornendo 
+eventuali osservazioni, feedback e proposte di modifica e/o integrazione; 
+• esamina gli esiti del processo di revisione e aggiornamento del Piano. 
+ 
+Il Comitato Rischi, nell’ambito del processo di attivazione del Piano di Emergenza  supporta, in 
+caso di superamento di uno o più Recovery Trigger, il Comitato Alta Direzione nella selezione delle 
+azioni da attivare (misure di ripristino) e propone la convocazione di un Consiglio di Amministrazione. 
+Il Comitato Rischi, si riunisce su convocazione del suo Presidente, con cadenza almeno mensile, è 
+presieduto dal Chief Risk Officer ed è composto inoltre da: 
+• Amministratore Delegato e Direttore Generale; 
+• il CFO, Vicedirettore Generale; 
+• Responsabile della Vice Direzione Generale Commerciale; 
+• Responsabile della Vice Direzione Generale Operations; 
+• Responsabile della Direzione Rami Danni; 
+• Responsabile della Direzione Rami Vita; 
+• Responsabile della Direzione Sinistri; 
+• Responsabile della Direzione Finance & Servizi Amministrativi. 
+Al Comitato possono prender parte occasionalmente altri colleghi, in qualità di membri non 
+permanenti, in base alle decisioni del Presidente e agli argomenti all’ordine del giorno. 
+3.7.4 Comitato Finanza-Alm e Sostenibilità di Gruppo 
+ 
+Il Comitato Finanza-Alm e Sostenibilità di Gruppo assiste l’Amministratore Delegato e Direttore 
+Generale della Compagnia nella gestione operativa e tattica degli attivi, supportandolo nelle scelte 
+di investimento e disinvestimento dei valori mobiliari e nella gestione della liquidità derivante dal 
+cash flow operativo e finanziario.
+=== pagina 20 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+20 
+ 
+Il Comitato opera servendosi di metodologie e processi di supporto alle scelte gestionali, tendenti 
+a disegnare l’attivo ed il passivo dell a Compagnia  in relazione al rendimento atteso e al rischio 
+ritenuto ottimale, basandosi sulle informazioni disponibili e sugli scenari futuri ipotizzati.  
+ 
+Il Comitato: 
+a) propone all’Amministratore Delegato e Direttore Generale le scelte di investimento e 
+disinvestimento; 
+b) verifica le operazioni di compravendita effettuate nel corso della settimana precedente; 
+c) analizza il report finanziario del giorno, l’andamento tassi, del credit spread e delle borse;  
+d) analizza il portafoglio in essere in relazione agli andamenti di mercato; 
+e) verifica i dati di mercato e di andamento della Compagnia (produzione, riscatti, 
+rendimenti e asset allocation delle gestioni separate, del fondo pensione aperto, degli 
+altri portafogli, etc.) utili alla determinazione del posizionamento e dei possibili scenari 
+di composizione dell’attivo e del passivo; 
+f) effettua le simulazioni e stress test necessari alla determinazione delle strategie di 
+investimento garantendo il costante equilibrio tra attivo e passivo; 
+g) valuta e approva, in accordo con l’Amministratore Delegato e Direttore Generale, le linee 
+guida di investimento sostenibile (o ESG) della Compagnia;  
+h) definisce la lista di emittenti da escludere dall’universo investibile; 
+i) prende in esame ulteriori iniziative della Compagnia sul tema della sostenibilità. 
+ 
+ 
+Il Comitato Finanza -Alm e Sostenibilità  di Gruppo è presieduto dal Chief Financial Officer e si 
+riunisce su convocazione di questo o del Responsabile della fu nzione Tesoreria, Investimenti e 
+Sostenibilità ed è composto da: 
+a) Il Responsabile della funzione Risk Management di Gruppo; 
+b) Il Responsabile della funzione Tesoreria, Investimenti e Sostenibilità; 
+c) Il Responsabile della Direzione Rami Vita;
+=== pagina 21 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+21 
+ 
+d) Il Responsabile del Fondo Pensione Aperto.  
+ 
+Al Comitato possono prender parte occasionalmente altri colleghi, in qualità di membri non 
+permanenti, in base alle decisioni del Presidente e agli argomenti all’ordine del giorno. 
+ 
+3.8 ALTRI SOGGETTI COINVOLTI 
+3.8.1 Funzione Tesoreria, Investimenti e Sostenibilità 
+La funzione  Tesoreria, Investimenti e Sostenibilità garantisce  il costante monitoraggio delle 
+scelte in materia di investimenti e disinvestimenti mobiliari assunte dal Gestore, con la finalità di 
+massimizzarne i risultati minimizzando i rischi di volatilità e di rimborso degli investimenti stessi, 
+assicurando tempestiva ed efficiente informazione nei confronti del “RM”.  
+Garantisce una adeguata azione di reporting sul rendimento dei fondi ed il valore di tutti gli 
+investimenti mobiliari sia in raffronto con periodi precedenti che rispetto agli obiettivi. Provvede al 
+calcolo del NAV del Fondo Pensione della Società per il quale dà esecuzione alle scelte gestionali del 
+Comitato Finanza (Execution), dispone i flussi in entrata ed in uscita, regola le operazioni in titoli. 
+Garantisce la gestione e l'ottimizzazione del cash flow dei Fondi attraverso l'utilizzo di modelli 
+previsionali e di controllo della liquidità, assicurando altresì il mantenimento di efficienti rapporti con 
+il depositario.  
+Definisce la strategia per la gestione finanziaria futura e riferisce in merito alla performance 
+finanziaria del Fondo. Collabora con le funzioni di controllo interne ed esterne, fornendo il reporting 
+richiesto e riferendo circa i fatti di rilievo. 
+Presidia l’approccio sostenibile (o ESG) del Fondo Pensione nel processo di investimento, nel 
+processo di disclosure e di rendicontazione all’esterno della Compagnia. Collabora con le altre 
+funzioni per la definizione di attività, metodi e processi ispirati alla Sostenibilità.
+=== pagina 22 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+22 
+ 
+3.8.2 Depositario 
+Il depositario svolge i seguenti compiti: 
+• esegue le attività a essa affidate dalla legge e dal “Fondo”; 
+• trasmette le informazioni eventualmente richieste dal “Fondo” per alimentare il sistema di 
+verifica e controllo della gestione finanziaria. 
+ 
+Il depositario è: 
+BFF Bank S.p.A. 
+Sede Legale e Direzione Generale 
+       Viale Lodovico Scarampo, 15 
+20148 Milano 
+4 SISTEMA DI CONTROLLO INTERNO 
+ 
+Il Sistema dei Controlli Interni di HDI Assicurazioni è costituito dall’insieme di regole, procedure, 
+nonché strutture organizzative volte ad assicurare il corretto funzionamento della Compagnia e 
+garantire con un ragionevole margine di sicurezza il raggiungimento degli obiettivi di: 
+• efficienza e efficacia dei processi aziendali; 
+• identificazione, la valutazione anche prospettica, la gestione e l’adeguato controllo dei rischi, 
+in coerenza con gli indirizzi strategici e la propensione al rischio dell a Compagnia anche in 
+un’ottica di medio-lungo periodo; 
+• tempestività del sistema di reporti ng delle informazioni aziendali  nonché attendibilità e 
+integrità delle informazioni contabili e gestionali; 
+• salvaguardia del patrimonio anche in un’ottica di medio-lungo periodo; 
+• conformità dell’attività dell a Compagnia  alla normativa vigente, alle direttive e alle 
+procedure aziendali. L’obiettivo del Sistema dei Controlli interni è quello di rendere i rischi e
+=== pagina 23 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+23 
+ 
+i controlli trasparenti in tutti i processi di business chiave di HDI Assicurazioni e di gestirli in 
+modo proattivo. Il corretto funzionamento del sistema dei controlli interni previene 
+l’insorgere di situazioni che eccedono il livello di propensione al ri schio, assicurando il 
+normale svolgimento dell’operatività aziendale. 
+Il Consiglio di Amministrazione promuove un alto livello di integrità e una cultura del controllo 
+interno, tale da sensibilizzare l’intero personale sull’importanza e l’utilità dei controlli interni a 
+presidio dei rischi. L’Alta Direzione è responsabile della promozione della cultura del controllo interno 
+e assicura che il personale sia messo a conoscenza del proprio ruolo, delle proprie responsabilità e 
+delle politiche adottate dall a Compagnia , in modo da essere effettivamente impegnato nello 
+svolgimento dei controlli, intesi quale parte integrante della propria attività.  
+In merito alla Funzioni Fondamentali l’art. 5 -decies del decreto n. 252/2005 richiama, con 
+riferimento alle società che gestiscono fondi pensione aperti, l’art. 5-quater (sulla funzione di Internal 
+Audit) e l’art.5 -ter (sulla funzione di Gestione del Rischio) del medesimo decreto . Inoltre, la 
+Deliberazione del 13 gennaio 2021 della COVIP , che “ L’attribuzione dei relativi compiti e 
+l’articolazione delle funzioni nell’ambito dell’assetto organizzativo delle società avvengono secondo 
+le regole dei rispettivi ordinamenti, ben potendo essere svolte da soggetti, anche esterni, che tali 
+funzioni già svolgono nell’ambito del complessivo dis egno organizzativo delle società. Nella 
+declaratoria dei compiti assegnati ai titolari delle funzioni fondamentali, redatta in conformità alla 
+normativa di settore, è fatto esplicito riferimento alla circostanza che tali compiti sono svolti anche 
+con riguardo ai fondi pensione aperti gestiti dalle società”. 
+Pertanto, le attività di revisione interna e di Risk Management si estendono, come previsto dalle 
+Istruzioni di vigilanza per le società che gestiscono  fondi pensione aperti, adottate ai sensi dell’art. 
+5-decies, comma 1, del Decreto legislativo 5 dicembre 2005, n. 252, anche al Fondo Pensione Aperto.
+=== pagina 24 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+24 
+ 
+Con riferimento al perimetro di competenza della Funzione Risk Management di Gruppo della 
+Compagnia rientra anche il presidio dei rischi a cui il Fondo Pensione Aperto Azione di Previdenza è 
+esposto.  
+4.1 FUNZIONE INTERNAL AUDIT DI GRUPPO 
+L’Internal Audit di Gruppo è incaricato di effettuare verifiche indipendenti sui prezzi e sui tassi 
+comunicati ed applicati dagli operatori esterni e di conformità delle transazioni ai termini e alle 
+condizioni di mercato prevalenti. 
+Le verifiche sono condotte mediante analisi comparative e di scostamento dei prezzi effettivi 
+rispetto ai prezzi medi riscontrati sul mercato regolamentato. 
+Gli esiti dell’attività, la cui periodicità è trimestrale, sono portati all’attenzione dell’Alta Direzione, 
+della Funzione Tesoreria, Investimenti e Sostenibilità e del Consiglio di Amministrazione. 
+L’Internal Audit di Gruppo verifica l’adeguatezza e l’efficacia di struttura, le procedure interne 
+seguite nell’impostazione e nell’attuazione della politica d’investimento, che sono formalizzate nel 
+manuale dei Processi Aziendali. Trasmette il rapporto di cu i al punto precedente all’organo 
+amministrativo della Società  
+L’attività della funzione è pianificata ed inserita all’interno del Piano di Audit. 
+Il Piano di Audit è il documento guida per le attività della funzione di Internal Audit dell’anno 
+successivo a quello di approvazione da parte del Consiglio di Amministrazione ed è suddiviso in due 
+parti: la prima parte è  dedicata agli Audit imposti e/o scaturenti da specifici provvedimenti delle 
+Autorità o da mandati specifici conferiti dal Consiglio di Amministrazione. Poiché il Piano e il livello 
+di priorità devono essere coerenti con i principali rischi cui la Compagnia è esposta, la seconda parte 
+del Piano di Audit è relativa alle aree a rischio identificate e definite dalla funzione stessa quali aree 
+da sottoporre prioritariamente ad audit, e rispetto alle quali vanno determinate:
+=== pagina 25 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+25 
+ 
+• - le operazioni ed i sistemi da verificare; 
+• - la specificazione della frequenza dell’Audit; 
+• - le risorse necessarie all’esecuzione del Piano. 
+La pianificazione degli audit è dunque basata sulla valutazione di rischio effettuata dalla Funzione 
+Internal Audit su strutture, processi e sistemi auditabili, nonché attraverso la valutazione del sistema 
+di controllo interno dei rischi. 
+La Funzione Internal Audit provvede altresì, su incarico dell’Organismo di Vigilanza ex D.Lgs. n. 
+231/01, del quale, alla data di redazione del presente documento, il Titolare della Funzione è membro 
+effettivo, ad effettuare attività di audit sui protocolli sensibili ai sensi del citato decreto. 
+In ogni caso tutte le strutture, i processi ed i sistemi significativi devono essere oggetto di Audit 
+entro un periodo di tempo appropriato. Sulle aree di anno in anno definite ed inserite nel piano di 
+Audit, il punto di  riferimento per l’esecuzione delle attività è costituito dai processi aziendali 
+pubblicati su ARIS e diffusi sul portale aziendale. 
+Poiché l’indipendenza e l’obiettività, considerati elementi basilari per il funzionamento di un 
+servizio di Internal Audit, manifestano la loro importanza già in fase di pianificazione, Internal Audit, 
+al fine di rendere oggettivi e tracciabili i criteri di scelta, predispone, per quanto possibile, adeguata 
+documentazione di supporto che giustifichi e dia contezza dei motivi per i quali vengono effettuate 
+le scelte delle aree da sottoporre ad audit.  
+Con riferimento al Fondo Pensione Aperto , il Piano di Audit annuale contiene specifici interventi 
+sulle attività considerate, sempre in ottica risk based , maggiormente a rischio relativi a Fondo 
+Pensione Aperto, garantendo altresì una adeguata rotazione ciclica delle attività da sottoporre ad 
+audit. A tal fine il Titolare della Funzione condivide la pianificazione delle attività per l’anno seguente 
+e gli esiti delle attività di verifica svolte con il Responsabile del Fondo Pensione Aperto.
+=== pagina 26 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+26 
+ 
+Ove necessario, potranno essere effettuate verifiche non previste dal Piano di Audit o attività di  
+consulenza/pareri, sempre su mandato del Consiglio di Amministrazione ovvero su richiesta del 
+Collegio Sindacale. 
+4.2 FUNZIONE RISK MANAGEMENT DI GRUPPO 
+ 
+Il “RM” collabora in stretto rapporto con il Consiglio di Amministrazione per la valutazione 
+dell’adeguatezza del modello organizzativo assunto. 
+L’Organo Amministrativo controlla l’attività svolta dal “RM” e approva le procedure di controllo 
+della gestione finanziaria, tenendo conto delle proposte formulate dal “RM”. 
+La Funzione Finanza (“FF”) è da identificarsi nella funzione di Risk Management di Gruppo in HDI 
+Assicurazioni. 
+Il “RM” rappresenta lo strategico presidio per il controllo della gestione finanziaria. Esso opera in 
+stretto rapporto con l’Organo Amministrativo contribuendo alla fase di impostazione della politica di 
+investimento, al controllo delle strategie e delle a ttività dallo stesso definite, verificando il rispetto 
+delle indicazioni fornite ai diversi operatori incaricati della gestione. 
+In caso di significativi cambiamenti nei livelli di rischio -rendimento derivanti dall'attività di 
+investimento o, in prospettiva, di possibili superamenti delle soglie di rischiosità, predispone una 
+relazione a carattere straordinario, da indirizzare agli organi di amministrazione e controllo. 
+In tale ambito produce una documentazione completa dei controlli svolti sull'attività di 
+investimento, di facile lettura, destinata a essere conservata negli archivi della forma pensionistica 
+per dieci anni, in modo da consentire la ricostruzione degli eventi che hanno determinato le situazioni 
+reddituali passate. Particolare attenzione è posta nella verifica e nella valutazione degli investimenti 
+in strumenti alternativi e in derivati. 
+Il “RM”:
+=== pagina 27 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+27 
+ 
+• verifica periodicamente il rispetto da parte dei soggetti incaricati della gestione delle 
+indicazioni date in ordine ai principi e ai criteri di investimento sostenibile e responsabile, 
+laddove previsti nell’ambito dei criteri di attuazione della politica di investimento; 
+• formula proposte al Comitato Finanza o all’Organo Amministrativo riguardo ai nuovi sviluppi 
+dei mercati e alle eventuali modifiche della politica di investimen to che si rendessero 
+necessarie; 
+• collabora con gli altri soggetti coinvolti nel processo di investimento (soggetti incaricati della 
+gestione, banca depositaria, Responsabile del Fondo Pensione, ecc.), al fine di fornire il 
+supporto necessario circa gli aspetti inerenti alla strategia da at tuare e i risultati degli 
+investimenti; 
+• cura la definizione, lo sviluppo e l’aggiornamento delle procedure interne di controllo della 
+gestione finanziaria, sottoponendole all’approvazione dell’organo di amministrazione; 
+• concorre alla definizione del sistema di monitoraggio e gestione dei rischi di investimento, 
+valutando che le scelte di investimento siano compatibili con il profilo economico-finanziario 
+della Società; concorre alla definizione dei limiti di allocazione degli investimenti (linee guida) 
+e alla loro validazione previa analisi e verifica dell’impatto che le medesime possano avere 
+sulla tenuta dell’equilibrio economico e patrimoniale del “Fondo” attraverso stress test, 
+simulazioni di scenario, di cui informa l’ Organo Amministrativo attr averso apposita 
+documentazione. 
+In caso di adozione di un Piano di Rientro per violazione dei limiti di investimento, il “RM” porta 
+all’attenzione dell’Organo Amministrativo, almeno due volte all’anno, un aggiornamento del piano 
+medesimo. 
+Il “RM” riporta i risultati della propria attività ex Delibera Covip 16 marzo 2012 al Comitato Rischi 
+della Compagnia.
+=== pagina 28 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+28 
+ 
+5 SISTEMA DI GESTIONE DEI RISCHI 
+La Deliberazione del 13 gennaio 2021 riporta “L’art. 5-ter del decreto n. 252/2005, richiamato 
+dall’art. 5 -decies del medesimo decreto, prevede per i fondi pensione l’obbligo di dotarsi di un 
+sistema organico di gestione dei rischi - specificandone gli elementi essenziali e i rischi da considerare 
+- nonché l’obbligo di attivare una funzione di gestione dei rischi. In particolare, sotto il profilo dei 
+rischi, le società sono in primo luogo tenute a individuare, in ragione della propria organizzazione e 
+della dimensione, natura, portata e complessità dell’attività connessa alla gestione del fondo 
+pensione aperto, i rischi cui è esposto il fondo pensione aperto e quelli che gravano sugli aderenti e 
+beneficiari, valutando quali rischi dell’elenco di cui al comma  4, dell’art. 5-ter, sono pertinenti e gli 
+ulteriori rischi rilevanti, tenendo altresì conto di quanto previsto dal comma 5 del medesimo articolo. 
+Il sistema di gestione dei rischi tiene in debita considerazione i rischi come sopra individuati”. 
+A tal fine la Compagnia mette in atto un sistema efficace di gestione dei rischi  del Fondo, che 
+comprende le informazioni strategiche, i processi e le informazioni necessarie per rilevare, misurare, 
+controllare, gestire e dichiarare in modo permanente i rischi a cui sono o potrebbero essere esposti, 
+nonché le interdipendenze tra questi rischi. 
+Il sistema di gestione dei rischi si compone delle seguenti fasi di processo: 
+• identificazione dei rischi rilevanti; 
+• valutazione dei rischi; 
+• monitoraggio dei rischi;  
+• trattamento dei rischi; 
+• reporting sui rischi.
+=== pagina 29 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+29 
+ 
+5.1 IDENTIFICAZIONE DEI RISCHI RILEVANTI 
+ 
+L’identificazione dei rischi è il processo di individuazione, riconoscimento e descrizione dei rischi. 
+Tale processo comporta l’identificazione delle fonti di rischio, degli eventi e delle loro cause, nonché 
+delle possibili conseguenze.  
+Il processo di identificazione dei rischi consiste nella raccolta delle informazioni necessarie per 
+identificare e classificare i rischi rilevanti e può implicare l’utilizzo di dati storici, analisi teoriche, 
+pareri di esperti, ecc. 
+Il processo di identificazione dei rischi è svolto su base almeno annuale ed è coordinato dalla 
+funzione Risk Management di Gruppo. I risultati ottenuti e le metodologie utilizzate sono portati 
+all’attenzione del  Comitato Rischi, dell’Alta Direzione e del Consiglio di Amministrazione della 
+Compagnia. 
+Di seguito si riporta la tassonomia dei principali rischi cui il Fondo Pensione Aperto potrebbe 
+essere esposto tenendo in considerazione anche quanto definito nelle disposizioni normative e nelle 
+linee guida EIOPA. 
+Rischi finanziari 
+I rischi finanziari comprendono: 
+• Rischi di mercato, ossia tutti quei rischi che hanno come effetto il deterioramento di 
+investimenti di natura finanziaria in conseguenza ad andamenti avversi delle variabili di 
+mercato rilevanti, quali tassi d’interesse, corsi azionari, spread creditizi, tassi valutari ed 
+indici immobiliari;  
+• Rischio di credito (controparte e/o concentrazione), ossia il rischio che il Fondo subisca 
+perdite a causa di insolvenza di soggetti terzi o abbia esposizioni concentrate sugli stessi 
+emittenti di strumenti finanziari;
+=== pagina 30 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+30 
+ 
+• Rischio di liquidità, ossia il rischio di non poter adempiere alle obbligazioni verso gli 
+assicurati e gli altri creditori a causa della difficoltà di trasformare gli investimenti in 
+liquidità senza subire perdite. 
+Rischio di Controparte 
+Si tratta del rischio di perdite dovute all’incapacità della controparte di adempiere alle proprie 
+obbligazioni di pagamento. 
+Rischi operativi (inclusi rischi legali e normativi) 
+Tale categoria di rischio include i rischi di perdita dovuti all’inadeguatezza, all’inefficienza e/o al 
+malfunzionamento a livello di processi, persone e sistemi. Le cause che li generano possono essere 
+ricondotte sia ad eventi interni che esterni. In tale  categoria di rischio viene annoverato il rischio 
+legale, legato all’inosservanza dei disposti normativi, dell'etica, delle norme regolamentari e delle 
+prescrizioni contrattuali, mentre restano esclusi quelli reputazionali, ovvero determinati da pubblicità 
+negative aventi un impatto finanziario avverso e quelli derivanti da decisioni strategiche.  
+In tale categoria di rischio viene incluso anche il rischio di Outsourcing del Gestore 
+Amministrativo One Welf S.r.l.  fornitore esterno incaricato di erogare al Fondo i servizi relativi alla 
+gestione amministrativa, regolati tramite un contratto di servicing. 
+I rischi operativi possono essere distinti nelle seguenti sottocategorie:  
+Categoria di Evento Definizione 
+01. Frode Interna 
+Perdite dovute ad attività non autorizzata, frode, 
+appropriazione indebita e violazioni di leggi, regolamenti 
+o direttive aziendali che coinvolgano almeno una risorsa 
+interna al Fondo Pensione 
+02. Frode Esterna 
+Perdite dovute a frode (incluso il cyber attack), 
+appropriazione indebita o violazione / elusione di leggi da 
+parte di soggetti esterni al Fondo Pensione
+=== pagina 31 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+31 
+ 
+Categoria di Evento Definizione 
+03. Prassi occupazionale e sicurezza sul 
+lavoro 
+Perdite derivanti da atti non conformi alle leggi o agli 
+accordi in materia di impiego, salute e sicurezza sul 
+lavoro, dal pagamento di risarcimenti a titolo di lesioni 
+personali o da episodi di discriminazione o di mancata 
+applicazione di condizioni paritarie. 
+04. Clientela, prodotti e pratiche 
+commerciali 
+Perdite derivanti da inadempienze relative a obblighi 
+professionali verso clienti ovvero dalla natura o dalle 
+caratteristiche del servizio prestato 
+05. Danni da eventi esterni 
+Perdite derivanti da eventi esterni (ad esempio catastrofi 
+naturali), oppure imputabili ad atti generati dall’uomo (ad 
+esempio terrorismo, atti vandalici, etc) 
+06. Interruzione dell'operatività e 
+disfunzione dei sistemi 
+Perdite dovute a interruzioni dell’operatività o a 
+disfunzioni/indisponibilità dei sistemi informativi  
+07. Esecuzione, consegna e gestione dei 
+processi 
+Perdite dovute a carenze nel perfezionamento delle 
+operazioni o nella gestione dei processi, nonché da 
+rapporti con parti terze (commerciali, venditori, fornitori, 
+etc). 
+ 
+Il Fondo Pensione si dota di una “mappa dei rischi” che riporta tutte le fattispecie di rischio 
+operativo a cui il Fondo è esposto.  
+Rischio Ambientale, Sociale e legato alla Governance (rischio ESG) 
+Il rischio ESG (Environmental, Social & Governance) fa riferimento al rischio correlato a fattori 
+ambientali, sociali o di governo connessi al portafoglio di investimenti del Fondo e alla loro relativa 
+gestione. 
+Rischio Reputazionale 
+Il rischio reputazionale è definito come il rischio di perdite derivante da una percezione negativa 
+dell’immagine del Fondo da parte degli aderenti/beneficiari, controparti, fonti istitutive o autorità di
+=== pagina 32 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+32 
+ 
+vigilanza. Trattasi dunque del rischio legato al deterioramento dell’immagine del Fondo all’interno 
+del mercato di riferimento, derivante da eventi esterni od interni. 
+Rischio Strategico 
+Il rischio strategico è definito come il rischio legato ad errate decisioni o pianificazione con 
+conseguente impatto reputazionale o finanziario. 
+5.2 VALUTAZIONE DEI RISCHI  
+La valutazione del rischio consiste nel processo di comparazione dei risultati dell’analisi dei rischi 
+sulla base di criteri di rischio per determinare se il rischio e/o la sua entità siano accettabili o 
+tollerabili. La valutazione dei rischi è di ausilio nel processo decisionale riguardo alle modalità di 
+trattamento degli stessi. L’attività di valutazione dei rischi consiste nello sviluppo di metodologie atte 
+a misurare l’impatto che questi stessi rischi possono causare al Fondo e agli aderenti e quindi 
+presuppongono la quantificazione della perdita potenziale secondo un intervallo di confidenza 
+definito ex-ante. 
+5.3 MONITORAGGIO DEI RISCHI  
+L’attività di monitoraggio dei rischi si basa sul sistema dei controlli di linea che consentono le 
+verifiche nel continuo dei limiti operativi al rischio (applicazione delle procedure e dei processi 
+aziendali) da parte delle Funzioni operative.  
+Inoltre, al fine di garantire il perseguimento degli obiettivi aziendali, risulta opportuno svolgere 
+un controllo periodico in funzione delle tipologie di rischio più significative e dei possibili impatti che 
+questi possono avere sul profilo di rischio del Fondo.  
+In particolare, i controlli periodici sono effettuati dalla funzione di Risk Management di Gruppo 
+con il supporto, ove necessario, delle altre funzioni aziendali coinvolte nel Sistema di Risk
+=== pagina 33 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+33 
+ 
+Management, quali ad esempio la funzione Tesoreria, Investimenti e Sostenibilità, ALM, Attuariato 
+Bilancio Vita.  
+5.4 TRATTAMENTO DEI RISCHI 
+Il trattamento dei rischi è il processo che definisce come affrontare i rischi e può implicare le 
+seguenti azioni: 
+• evitare il rischio decidendo di non intraprendere o portare avanti l’attività da cui trae origine; 
+• assumere o aumentare il rischio per perseguire un’opportunità; 
+• eliminare la fonte di rischio; 
+• cambiare le probabilità; 
+• cambiare le conseguenze; 
+• condividere il rischio con una o più parti (anche per mezzo di contratti e di finanziamento del 
+rischio); 
+• accettare il rischio con una decisione informata. 
+La Compagnia si è dotata di specifici presidi organizzativi e procedurali volti a gestire le 
+specifiche fattispecie di rischio. 
+Nell’ambito dei processi in capo alla funzione Risk Management di Gruppo sono previsti processi 
+di escalation da attuarsi in caso di mancato rispetto dei limiti fissati dal Consiglio di Amministrazione. 
+Lo scopo dei processi di escalation è di assicurare la definizione tempestiva ed efficace delle azioni 
+da porre in essere. 
+5.5 REPORTING SUI RISCHI 
+L’obiettivo della reportistica in materia di rischio è fornire al Consiglio di Amministrazione, 
+all’Alta Direzione, al Comitato Rischi e alle altre funzioni aziendali coinvolte, informazioni in modo 
+sistematico, uniforme e puntuale sui rischi e sui loro effetti potenziali, fornendo una panoramica sullo
+=== pagina 34 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+34 
+ 
+sviluppo dei rischi e  sul successo delle misure di mitigazione eventualmente adottate. La 
+responsabilità della reportistica in materia  di rischio è in capo alla funzione Risk Management di 
+Gruppo di HDI Assicurazioni. 
+Il sistema di reporting in materia di rischio attualmente in essere in HDI Assicurazioni prevede la 
+predisposizione di specifici report rispondenti alle esigenze informative dei diversi destinatari. 
+ 
+6 POLITICA DI REMUNERAZIONE 
+Il Fondo si avvale delle Linee guida per le politiche di remunerazione  della Compagnia in 
+ottemperanza a quanto richiesto dal D.Lgs 252/2005 ed in coerenza con quanto indicato nella 
+Deliberazione del 13 gennaio 2021 “ Istruzioni di vigilanza per le società che gestiscono fondi 
+pensione aperti, adottate ai sensi dell’art. 5 -decies, comma 1, del decreto legislativo 5 dicembre 
+2005, n. 252.” 
+6.1 REMUNERAZIONE DELLE FUNZIONI FONDAMENTALI 
+La politica di remunerazione del personale delle funzioni fondamentali è preordinata a l 
+mantenimento dell’equità interna, esterna ed individuale. Con riferimento a tali principi , la 
+remunerazione è dunque coerente con il grado di responsabilità e gli  impegni connessi con il ruolo 
+ricoperto ed in linea con gli standard di mercato. 
+Ai titolari ed al personale di livello più elevato delle funzioni fondamentali, non viene corrisposta 
+alcuna somma a titolo di retribuzione variabile.
+=== pagina 35 ===
+Documento di Corporate Governance di HDI Assicurazioni S.p.A. – 2026 
+Public 
+35 
+ 
+6.2 REMUNERAZIONE DEL RESPONSABILE DEL FONDO 
+Con riferimento alla politica di remunerazione del Responsabile del Fondo Pensione la finalità 
+esclusiva è quella di conferire una retribuzione commisurata all’impegno ed alle responsabilità 
+connesse alla carica ricoperta.  
+La determinazione del compenso del Responsabile del Fondo Pensione Aperto è definita 
+contrattualmente tenendo conto delle remunerazioni offerte sul mercato per posizioni analoghe. Il 
+contratto viene approvato dal Consiglio di Amministrazione di HDI Assicur azioni ed il suo costo è 
+totalmente a carico della Compagnia. 
+Il compenso del Responsabile non può essere pattuito sotto forma di partecipazione agli utili  
+della Compagnia, o di società controllanti o controllate, né sotto forma di diritti di acquisto o di  
+sottoscrizione di azioni della Compagnia o di società controllanti o controllate.

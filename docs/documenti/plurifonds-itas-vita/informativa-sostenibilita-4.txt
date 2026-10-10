@@ -1,0 +1,363 @@
+# Fondo: PLURIFONDS IL FONDO PENSIONE APERTO DI ITAS VITA (plurifonds-itas-vita)
+# Documento: Nota informativa – Appendice Informativa sulla sostenibilità – COMPARTO SERENITAS - INFORMATIVA WEB SULLA SOSTENIBILITÀ
+# Fonte: https://www.gruppoitas.it/documents/20121/0/ITAS_SFDR_Informativa%20art10%20SerenITAS.pdf/59bec461-8f8b-b857-fabf-959d85984976
+# Citato in: https://www.gruppoitas.it/it/prodotti/fondo-pensione-plurifonds
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: f4557e8eb32f4914fc292698d08ae2a78ae8756b4bd4b2f05e5ee48d4b9ef546
+# Pagine: 9
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+ITAS Vita S.p.A.  
+(“ITAS”) 
+ 
+V.01 – 03/2025 
+Fondo Pensione Aperto Plurifonds 
+Comparto Bilanciato SerenITAS
+Articolo 10 SFDR  
+Informativa sul sito web per un prodotto 
+finanziario che promuove caratteristiche 
+ambientali e sociali ex Articolo 8 SFDR
+=== pagina 2 ===
+Nome del prodotto: Plurifonds – comparto SerenITAS (il “Prodotto”/ 
+il “Comparto”) 
+  
+Questo prodotto finanziario ha un obiettivo di investimento sostenibile? 
+☐ Sì ☒ No 
+☐ Effettuerà un minimo di investimenti 
+sostenibili con un obiettivo ambientale: 
+  % 
+☐ in attività economiche che si 
+qualificano come sostenibili dal punto 
+di vista ambientale secondo la 
+tassonomia UE 
+ 
+☐ in attività economiche che non si 
+qualificano come sostenibili dal punto 
+di vista ambientale secondo la 
+tassonomia UE 
+ 
+ 
+ 
+ 
+ 
+ 
+☐ Effettuerà un minimo di investimenti 
+sostenibili con un obiettivo sociale:     
+% 
+☐ Promuove caratteristiche 
+ambientali/sociali (E/S) e, pur non 
+prefiggendosi come obiettivo la sostenibilità, ha 
+destinato una quota del __% a investimenti 
+sostenibili 
+☐ perseguendo un obiettivo ambientale in 
+attività economiche che si qualificano 
+come sostenibili dal punto di vista 
+ambientale secondo la tassonomia UE 
+☐  perseguendo un obiettivo ambientale 
+in attività economiche che non si 
+qualificano come sostenibili dal pu nto di 
+vista ambientale secondo la tassonomia 
+UE 
+☐ con un obiettivo sociale 
+ 
+☒ Promuove le caratteristiche di E/S, ma non 
+effettuerà investimenti sostenibili 
+ 
+ 
+A. Sintesi 
+Il Comparto promuove caratteristiche ambientali e sociali ma non ha nessun obiettivo di 
+investimento sostenibile. La promozione di tali caratteristiche, nonché di pratiche di buona 
+governance, lo categorizza quale prodotto ex art. 8 SFDR. 
+Le caratteristiche ambientali e/o sociali promosse corrispondono a un set di indicatori PAI 
+(Principal Adverse Impacts) selezionati dall’Allegato 1 del Reg. 2022/1288 (SFDR). La strategia 
+delineata prevede il rispetto di un pool di tali indicatori, suddivisi tra fissi e alternativi e definiti 
+rispettivamente da ITAS e dal Gestore di riferimento. 
+Le caratteristiche di cui sopra vengono classificate secondo i tre pilastri Environmental, Social 
+e Governance (di seguito “ESG”) e vengono perseguite selezionando gli indicatori tra corporate 
+e governativi, in base a un regime fisso e alternativo.  
+La considerazione dei criteri ESG prevede il rispetto di soglie definite per singolo indicatore e 
+declinate sia a livello di nuovo acquisto sul singolo strumento finanziario, sia a livello di valore 
+medio di portafoglio. 
+ITAS integra le proprie scelte di business con criteri finalizzati a un agire responsabile nei 
+confronti dei suoi stakeholder e delle generazioni future. Questa predisposizione si traduce in
+=== pagina 3 ===
+azioni improntate alla sostenibilità lungo tutta la catena del valore.  
+Il comparto prevede l’adozione di politiche di impegno dirette durante la gestione 
+dell’investimento, attraverso l’integrazione dei fattori ESG nell'analisi e nei processi decisionali. 
+Infine, al fine di promuovere le caratteristiche sociali e ambie ntali promosse dal prodotto 
+finanziario non è stato designato alcun indice di riferimento. 
+ 
+ 
+B. Nessun obiettivo di investimento sostenibile 
+Questo Comparto promuove caratteristiche ambientali o sociali, ma non effettuerà alcun 
+investimento sostenibile. 
+ 
+ 
+C. Caratteristiche ambientali o sociali del prodotto finanziario 
+Quali sono le caratteristiche ambientali o sociali promosse da questo prodotto 
+finanziario? 
+Il Comparto, attraverso la strategia delineata, prevede il rispetto di un pool di indicatori PAI 
+(Principal Adverse Impacts ) selezionati dall’Allegato 1 del Reg. 2022/1288 (SFDR), suddivisi tra 
+fissi e alternativi e definiti rispettivamente da ITAS e dal Gestore di riferimento e come meglio 
+specificato nella sezione “D. Strategia d’investimento” del presente documento. 
+L’insieme di caratteristiche ESG stabilite dal set di indicatori selezionati e, in base alle specificità 
+di ciascun caso, potenzialmente promosse dal comparto sono le seguenti:  
+● Ambientali: (i) tutelare l’ambiente attraverso il monitoraggio della quota di consumo e 
+produzione di energia non rinnovabile degli investimenti sottostanti il comparto e 
+promuovendo un consumo e una produzione responsabile delle risorse energetiche in 
+favore di fonti rinnovabili (PAI n°5 Tab.1) e (ii) favorire una riduzione delle emissioni gas 
+serra attraverso un monitoraggio costante dei valori di intensità delle emissioni di GHG 
+associate ai Paesi inclusi negli investimenti sottostanti (PAI n°15 Tab.1). 
+● Sociale: (i) garantire i diritti di genere e le pari opportunità, promuovendo la presenza 
+femminile tra i membri del Consiglio di Amministrazione delle imprese beneficiarie degli 
+investimenti (PAI n°13 Tab.1) e (ii) promuovere il rispetto dei diritti umani e sociali in 
+favore di Paesi che si  allineano ai principi in materia previsti dalle convenzioni 
+internazionali, dalla Nazioni Unite e, se del caso, della normativa nazionale, attraverso la 
+divulgazione e il monitoraggio del numero di Paesi che beneficiano degli investimenti e 
+sono soggetti a violazioni sociali ai sensi della normativa precedentemente elencata (PAI 
+n°16 Tab.1). 
+● Governance: (i) promuovere la tutela e la sicurezza dei diritti umani, attraverso il 
+monitoraggio della quota di investimenti verso imprese coinvolte nella fabbricazione o nella 
+vendita di armi controverse (mine antiuomo, munizioni a grappolo, armi chimiche e armi 
+biologiche) (PAI n°14 Tab.1); (ii) tutelare le condizioni dei lavoratori, monitorando la quota 
+di investimenti in imprese che non adottano un codice di condot ta del fornitore per 
+combattere condizioni di lavoro insicure, lavoro precario, lavoro minorile e lavoro forzato 
+(PAI n°4 Tab.3); (iii) contribuire alla lotta alla corruzione attraverso il monitoraggio della 
+quota di investimenti in soggetti che non dispon gono di politiche di lotta alla corruzione 
+attiva e passiva coerenti con la convenzione delle Nazioni Unite contro la corruzione (PAI 
+n°15 Tab.3); (iv) contribuire alla lotta all’evasione attraverso il monitoraggio della quota 
+di investimenti effettuati in giurisdizioni che figurano nell’elenco UE delle giurisdizioni non 
+cooperative a fini fiscali (PAI n°22 Tab.3).
+=== pagina 4 ===
+Al fine di promuovere le caratteristiche sociali e ambientali promosse dal prodotto finanziario non 
+è stato designato alcun indice di riferimento. 
+ 
+  
+D. Strategia d’investimento 
+Quale strategia di investimento segue questo prodotto finanziario e come viene 
+implementata la strategia nel processo di investimento su base continua? 
+La strategia di investimento perseguita dal Prodotto finanziario prevede l’inclusione di criteri di 
+sostenibilità che fanno diretto riferimento agli indicatori dei principali effetti negativi (Principal 
+Adverse Impact - PAI) ritenuti rilevanti da ITAS. I criteri selezionati sono organizzati nelle 
+seguenti due sezioni: 
+● Indicatori di tipo corporate, applicabili ai titoli emessi da società: 
+o Quota di consumo e produzione di energia non rinnovabile (PAI 5 Tab.1); 
+o Diversità di genere del CdA (PAI 13 Tab.1);   
+o Esposizione ad armi controverse (PAI 14 Tab.1);  
+o Assenza di un codice di condotta del fornitore (PAI 4 Tab.3);  
+o Assenza di politiche anticorruzione (PAI 15 Tab.3);  
+● Indicatori di tipo governativo, riguardanti emissioni di Paesi o governi locali: 
+o Paesi soggetti a violazioni sociali (PAI 16 Tab.1);   
+o Giurisdizioni fiscali non cooperative (PAI 22 Tab.3);   
+o Intensità GHG (PAI 15 Tab.1). 
+Come anticipato paragrafo ‘ C. Caratteristiche ambientali o sociali del prodotto finanziario’ , la 
+selezione degli ind icatori perseguiti è governata da un regime fisso e alternativo che viene 
+applicato a ciascuna delle due sezioni secondo la seguente logica:  
+a. Titoli di tipo corporate: è previsto il rispetto obbligatorio degli indicatori Quota di 
+consumo e produzione di energia non rinnovabile ed Esposizione ad armi controverse e, 
+in aggiunta, il rispetto di due ulteriori indicatori a scelta tra quelli rimanenti applicabili 
+alla sezione corporate.  
+b. Titoli di tipo governativi: è previsto il rispetto obbligatorio delle soglie collegate 
+all’indicatore Paesi soggetti a violazioni sociali , in aggiunta a un indicatore a scelta tra 
+Giurisdizioni fiscali non cooperative e Intensità GHG.  
+La considerazione di tali criteri prevede il rispetto di soglie definite per singolo indicatore e 
+declinate secondo una duplice applicazione: 
+i. a livello di nuovo acquisto sul singolo strumento finanziario, 
+ii. a livello di valore medio di portafoglio. 
+In merito ai si ngoli nuovi acquisti, il Gestore ha facoltà di scegliere quali indicatori alternativi 
+rispettare in sede di acquisto. Per quanto riguarda invece il valore medio di portafoglio, il 
+Gestore definisce ex-ante a inizio anno, quali tra gli indicatori alternativi disponibili si impegna 
+a rispettare nell’arco dell’anno in corso. 
+ 
+Quali sono i criteri vincolanti applicati dalla strategia nella selezione degli investimenti 
+al fine di rispettare ciascuna delle caratteristiche ambientali o sociali promosse da 
+questo prodotto 
+finanziario? 
+Per la corretta attuazione della strategia di investimento, si prevede:  
+i. il rispetto delle logiche di selezione degli indicatori descritte nel paragrafo precedente,  
+ii. l’applicazione di soglie per ciascun indicatore PAI, al fine di garantire il rispetto delle 
+caratteristiche ESG del prodotto finanziario.
+=== pagina 5 ===
+Con l’obiettivo di monit orare e presidiare l’allineamento alla strategia e delle caratteristiche 
+definite, ITAS prevede delle fasi di verifica periodica rispetto ai valori trasmessi dal Gestore sia 
+relativamente ai nuovi acquisti sia ai valori medi di portafoglio, come descritto nel paragrafo ‘F. 
+Monitoraggio di caratteristiche ambientali o sociali’ del presente documento. 
+ 
+Qual è la politica per la valutazione delle prassi di buona governance delle imprese 
+beneficiarie degli investimenti? 
+La promozione e l’adozione di prassi di buona governance sono considerate rilevanti nei processi 
+di valutazione degli investimenti. In particolare, si considerano i seguenti elementi: 
+● struttura di governance interna; 
+● tutela dei diritti degli azionisti; 
+● politiche di remunerazione dei manager e l’adozione di indicatori di sostenibilità;  
+● procedure e processi volti promuovere lo sviluppo sociale ed economico del contesto in cui 
+la società opera;  
+● politiche, misure e processi a tutela dei lavoratori in ambiti quali, ad esempio, la salute e 
+sicurezza, le pari opportunità e il rispetto del diritto di adesione ad associazioni sindacali. 
+ 
+ 
+ 
+E. Percentuale degli investimenti 
+Qual è l’asset allocation prevista per questo prodotto finanziario? 
+Il Comparto, al fine di soddisfare le caratteristiche ambientali e sociali promosse dallo stesso, si 
+impegna a detenere una percentuale del 50% in investimenti che perseguono le caratteristiche 
+ambientali e sociali descritte precedentemente. 
+La restante quota include investimenti per cui non risulta applicabile la strategia del prodotto, 
+ovvero: 
+i. investimenti per i quali non sono disponibili i dati relativi agli indicatori oggetto di analisi;
+=== pagina 6 ===
+ii. strumenti finanziari relativi a liquidità e derivati.  
+ 
+Quali investimenti sono inclusi nella voce “Numero 2 Altro”, qual è il loro scopo e sono 
+previste soglie minime di salvaguardia ambientale o sociale? 
+Questa sezione non risulta essere applicabile al comparto oggetto di analisi. 
+ 
+ 
+. 
+ 
+F. Monitoraggio di caratteristiche ambientali o sociali 
+Quali sono gli indicatori di sostenibilità impiegati per misurare il rispetto delle 
+caratteristiche ambientali o sociali promosse da questo prodotto finanziario? 
+I principali indicatori di sostenibilità utilizzati per misurare il rispetto delle caratteristiche ambientali 
+o sociali del prodotto sono i seguenti: 
+● Per la componente ambientale:  
+○ PAI n°5 Tabella 1: Quota di consumo e produzione di energia non rinnovabile  
+espressa in percentuale di consumo e/o produzione di energia non rinnovabile sul 
+totale dell’energia prodotta e/o consumata; 
+○ PAI n°15 Tabella 1: Intensità di GHG dei Paesi che beneficiano degli investimenti 
+espressa in Ton CO2eq /milione di euro (PIL); 
+● Per la componente sociale: 
+○ PAI n°13 Tabella 1: Diversità di genere del CdA espressa in percentuale di membri 
+di genere femminile nel consiglio di amministrazione; 
+○ PAI n°16 Tabella 1: Paesi soggetti a violazioni sociali espresso in percentuale del 
+valore di mercato del fondo d’investimento esposta a Paesi soggetti a violazioni 
+sociali. In caso di esposizione diretta a titoli governativi di Paesi soggetti a violazioni 
+sociali, si applica invece l’esclusione totale; 
+● Per la componente di governance:
+=== pagina 7 ===
+○ PAI n°14 Tabella 1: Esposizione ad armi controverse espressa in percentuale del 
+valore di mercato del fondo esposta ad armi controverse o come numero di 
+controparti operanti nel settore delle armi; 
+○ PAI n°4 Tabella 3: Assenza di un codice di condotta del fornitore espressa come 
+percentuale del valore di mercato del fondo esposta a emittenti che non hanno un 
+codice di condotta; 
+○ PAI n°15 Tabella 3: Assenza di politiche anticorruzione espressa come percentuale 
+di investimenti in soggetti che non dispongono di politiche di lotta alla corruzione 
+attiva e passiva coerenti con la convenzione delle Nazioni Unite contro la corruzione 
+o come numero di emittenti che non dispongono  di una politica di lotta alla 
+corruzione; 
+○ PAI n°22 Tabella 3: Giurisdizioni fiscali non cooperative espressa come percentuale 
+del valore di mercato del fondo d’investimento esposta agli emittenti domiciliati in 
+giurisdizioni non cooperative. In caso di es posizione diretta a titoli governativi di 
+giurisdizioni fiscali non cooperative, si applica invece l’esclusione totale. 
+Come si monitorano le caratteristiche ambientali o sociali e gli indicatori di 
+sostenibilità durante il ciclo di vita del prodotto finanziario e come funziona il relativo 
+meccanismo di controllo interno/esterno? 
+Con l’obiettivo di monitorare la corretta applicazione delle sopra citate regole e presidiare 
+l’allineamento a quanto previsto dall’articolo 8 SFDR, ITAS si impegna a monitorare regolarmente 
+i valori associati agli indicatori concordati. L’attività di monitoraggio è suddivisa pertanto in due 
+fasi, la prima dedicata alle soglie applicabili ai singoli nuovi acquisti di strumenti finanziari, la 
+seconda dedicata ai valori medi di portafoglio. 
+Per quanto riguarda le soglie applicate ai nuovi acquisti, ITAS verifica settimanalmente i valori 
+associati alle operazioni di acquisto trasmesse dal Gestore nella settimana precedente.  Qualora 
+dalla verifica condotta da ITAS sulla base dei dati resi disponibili dal proprio data provider , 
+risultasse il mancato rispetto del valore di soglia associato a uno degli indicatori applicabili, la 
+stessa provvederà a segnalarli per il rientro entro i valori stabiliti.  
+Per quanto concerne le soglie relative ai valori medi di portafoglio, ITAS verifica trimestralmente i 
+valori medi di portafoglio associati agli indicatori previsti. Analogamente a quanto descritto sopra, 
+qualora risultasse il mancato rispetto del valore di soglia associato a uno degli indicatori applicabili, 
+ITAS procede a segnalare al Gestore la criticità rilevata.  
+In entrambi i casi, se dovesse persistere il mancato rispetto delle soglie previste, il Gestore si 
+impegna ad alienare il titolo o le posizioni segnalate, fino al rientro nei parametri previsti da soglia. 
+ 
+ 
+ 
+G. Metodologie 
+Qual è la metodologia utilizzata per misurare il rispetto delle caratteristiche ambientali o 
+sociali promosse dal prodotto finanziario attraverso gli indicatori di sostenibilità? 
+Come descritto nei paragrafi precedenti, la metodologia impiegata si fonda sul rispetto di soglie 
+predefinite. Per ciascun indicatore sono stabilite due soglie: una riferita ai valori medi di portafoglio 
+e una applicabile al singolo titolo al momento dell'acquisto. La valutazione dell'allineamento degli 
+emittenti rispetto alla promozione delle caratteristiche ambientali e sociali è effettuata 
+internamente, attraverso l’impiego di una dashboard di lavoro che consente di eseguire operazioni 
+di monitoraggio e verifica del rispetto di tali soglie, sia a livello di singolo titolo sia di comparto. 
+Tale strumento utilizza come dati di input le informazioni fornite dal provider esterno, quelle di
+=== pagina 8 ===
+portafogli e delle nuove esposizioni, le quali, opportunamente riconci liate, sono in grado di 
+restituire la performance di ciascun comparto e/o titolo.  
+ 
+  
+H. Fonti ed elaborazione dei dati 
+Quali sono le fonti dei dati utilizzate per rispettare ciascuna delle caratteristiche 
+ambientali o sociali? 
+Al fine di garantire il rispetto e la promozione delle caratteristiche ambientali, sociali e di 
+governance, vengono utilizzati i dati forniti da due differenti provider esterni, selezionati 
+rispettivamente da ITAS e dal Gestore. Come descritto nel paragraf o relativo all’attività di 
+monitoraggio, il confronto periodico dei dati analizzati garantisce il rispetto delle soglie, anche alla 
+luce di eventuali disallineamenti che, se del caso, sono gestiti attraverso una procedura di 
+approfondimento e indagine volta a verificare e validare il dato di una delle controparti, a garanzia 
+la qualità del dato di riferimento. 
+Inoltre, al fine di assicurare un’estensione della copertura dei dati forniti sufficiente da parte di 
+entrambi i data provider, ITAS ha definito valori minimi ammissibili di seguito riportati: 
+● Per gli indicatori obbligatori relativi alle emissioni di tipo corporate, è previsto un valore 
+minimo ammissibile di copertura dei dati disponibili pari al 50%, sia per le esposizioni 
+dirette che indirette attraverso fondi d’investimento. 
+● Per l’indicatore obbligatorio applicabile alle emissioni governative, il valore minimo 
+ammissibile di copertura è pari all’85% per le esposizioni dirette. 
+Eventuali discrepanze in termini di copertura saranno verificate durante il monitoraggio e 
+affrontate se necessario. 
+ 
+Infine, si tiene in considerazione che una quota parte dei dati forniti dai provider esterni potrebbe 
+essere oggetto di stime, elaborate sulla base delle informazioni pubbliche rese disponibili da parte 
+degli emittenti. 
+ 
+ 
+I. Limitazioni alle metodologie e ai dati 
+Quali sono i limiti delle metodologie e delle fonti di dati? 
+Le principali limitazioni relative alle metodologie e ai dati sono le seguenti: 
+● Presenza di due diversi data provider : L’impiego di due data provider  differenti, 
+rispettivamente selezionati da ITAS e dal Gestore, non garantisce la coerenza delle 
+metodologie di calcolo sottostanti i dati forniti. In tal senso, ITAS potrebbe incorrere nella 
+valutazione di valori disallineati durante la fase di valutazione dell’emittente in analisi.  
+● Limitata copertura dei dati : la disponibilità dei dat i relativa agli indicatori presi in 
+considerazione e sulla base dei quali vengono svolti i calcoli di verifica del rispetto delle 
+soglie a livello di titolo e comparto,  dipende dai provider esterni selezionati. A sua volta, 
+la fornitura del dato dipende dalla reperibilità dello stesso tramite lo screening e raccolta 
+di informazioni pubbliche messe a disposizione da parte degli emittenti.  
+ 
+Tali limitazioni, tuttavia, non rapp resentano criticità significative nel garantire il rispetto delle 
+caratteristiche ambientali e sociali promosse dal prodotto grazie ai presidi adottati e sopra 
+descritti.
+=== pagina 9 ===
+J. Due diligence 
+Qual è la due diligence condotta sulle attività sottostanti e quali controlli interni ed 
+esterni si predispongono? 
+Il Gruppo ITAS fonda la propria identità sulla sostenibilità del proprio operato. Guidata da principi 
+mutualistici, ITAS integra le proprie scelte di business con criteri finalizzati a un agire responsabile 
+nei confronti dei suoi stakeholder e delle generazioni future. Questa predisposizione si traduce in 
+azioni improntate alla sostenibilità lungo tutta la catena del valore. A tal fine, viene condotta 
+un'analisi Due Diligence dei fondi d’investimento basata sulla somministrazione di un questionario 
+integrato con domande ESG, che consente la valutazione e la verifica dell'aderenza ai criteri 
+ambientali, sociali e di governance stabiliti da ITAS. L’attività consente di identificare un perimetro 
+di universo investibile entro il quale il Gestore, a sua volta sottoposto a Due Diligence, è chiamato 
+a operare. 
+  
+ 
+K. Politiche di engagement 
+L’engagement fa parte della strategia di investimento ambientale o sociale? 
+  ☒ Sì 
+       No 
+L’attività di engagement viene svolta secondo quanto previsto dalla politica di impegno del 
+Gestore, per cui si garantisce un allineamento, nella forma e nella sostanza, a quanto previsto 
+dalla Policy di impegno di ITAS. 
+ 
+ 
+L. Benchmark di riferimento 
+È stato designato un benchmark di riferimento per rispettare le caratteristiche 
+promosse dal prodotto finanziario? 
+☐ Sì 
+ ☒    No 
+ 
+Non è stato individuato alcun benchmark di riferimento per determinare il raggiungimento delle 
+caratteristiche ambientali e/o sociali promosse dal prodotto finanziario.

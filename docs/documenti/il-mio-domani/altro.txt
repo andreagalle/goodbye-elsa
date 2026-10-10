@@ -1,0 +1,71 @@
+# Fondo: FONDO PENSIONE APERTO IL MIO DOMANI (il-mio-domani)
+# Documento: Altri documenti – Strategia di Investimento
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/informativa-sulla-sostenibilit%C3%A0/006/Strategia%20di%20investimento.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/il-mio-domani.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 4519d162be21cb2eeee3cb624a20a3c4c54913acf86358618705c136198fbfdf
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 di 1 
+ 
+ 
+INFORMATIVA SULLA SOSTENIBILITÀ “Il Mio Domani” 
+Data di pubblicazione 03/10/2025 
+ 
+Strategia di investimento 
+ 
+La strategia di investimento utilizzata per soddisfare le caratteristiche ambientali o sociali promosse dal 
+prodotto finanziario prevede, per tramite dei Comparti classificati ai sensi dell’art. 8 SFDR, il mantenimento   
+del livello  minimo del rating ESG medio di portafoglio pari o superiore a BBB secondo la classificazione fornita 
+da MSCI. 
+In termini di asset class, per la componente obbligazionaria del Comparto (sia governativa che corporate) 
+l’universo di investimento include solo i titoli i cui emittenti siano presenti nel benchmark.  
+Mentre, per la componente azionaria, è prevista la possibilità di investire anche in emittenti non presenti nei 
+benchmark purché rispettino i seguenti requisiti: 
+• appartenenza all’indice MSCI World; 
+• rating MSCI ESG superiore o uguale ad “A”; 
+• MSCI ESG Controversies Score superiore a 3; 
+• superamento degli screening MSCI riguardanti l’incidenza sul fatturato aziendale di settori controversi 
+come ad esempio alcol, tabacco, scommesse o armi.  
+ 
+L’investimento in OICR risulta ammesso nella misura in cui le politiche d’investimento siano compatibili con 
+quelle dei Comparti e prendano in considerazione specifici criteri basati su impatti Ambientali, Sociali e di 
+Governance. 
+Inoltre, la strategia di investimento dei Comparti prevede che, laddove il patrimonio sia investito in titoli 
+obbligazionari o in titoli di capitale, nelle scelte di investimento sono applicati i seguenti criteri , tra cui: 
+• esclusione di emittenti che presentano impatti ambientali o sociali significativi, identificati attraverso gli 
+indicatori di Principal Adverse Impacts (PAI), quali: 
+o emissioni di gas serra elevate (Scope 1, 2 e 3), rapportate al fatturato; 
+o almeno il 15% del fatturato derivante da carbone termico (estrazione o produzione di energia);  
+o nuovi progetti legati al carbone termico, anche in fase di pre-costruzione; 
+o almeno il 10% del fatturato da attività di estrazione non convenzionali di oil & gas;  
+o appartenenza a settori ad alto impatto climatico, con intensità energetica elevata e quota del 100% 
+da fonti non rinnovabili; 
+o coinvolgimento in violazioni gravi dei principali standard internazionali (UNGC, OCSE, ILO, 
+UNGP); 
+o produzione diretta di armi non convenzionali (es. mine antiuomo, bombe a grappolo, armi 
+chimiche). 
+• esclusione di emittenti che non rispettano prassi di buona governance, con riferimento a strutture di 
+gestione, relazioni con il personale, sistemi di remunerazione e rispetto degli obblighi fiscali;  
+• esclusione di emittenti sovrani: 
+o i cui livelli di emissione di gas serra (Scope 1, 2 e 3), rapportati al PIL corretto per il potere 
+d’acquisto, superano le 850 tonnellate di CO2e per milione di USD di PIL; 
+o inclusi nella black list della Financial Action Task Force (FATF), organismo internazionale che 
+identifica i Paesi con gravi carenze nei presìdi contro il riciclaggio, il finanziamento del terrorismo 
+e la proliferazione di armi di distruzione di massa; 
+• monitoraggio e limitazione – con eventuale dismissione – degli investimenti in emittenti “critici”, ovvero 
+soggetti caratterizzati da un basso livello di rating ESG o da un’elevata esposizione a rischi ambientali, 
+sociali o di governance. Per tali emittenti, non sono consentiti nuovi investimenti e, in caso di presenza a 
+portafoglio, possono essere attivati piani di dismissione graduale nel rispetto dell’interesse del cliente;  
+• monitoraggio dell’attività di engagement e voting svolta dai Gestori Delegati. 
+ 
+Per gli investimenti in OICR, è prevista la realizzazione di attività di due diligence ESG sulle case di gestione 
+terze, anche per il tramite del Gestore Delegato. 
+Nelle analisi di valutazione finanziaria degli investimenti oltre alle tradizionali metriche vengono considerate le 
+metriche e le strategie ESG basandosi anche su dati sui dati forniti da primari info-provider specializzati, i quali 
+hanno sviluppato metodologie proprietarie per l’analisi dei principali emittenti del mercato. 
+La valutazione delle prassi di buona governance delle imprese beneficiarie degli investimenti è rafforzata dalla 
+strategia gestionale del prodotto che prevede il rispetto del livello del rating medio minimo del portafoglio pari 
+a BBB e l’esclusione degli emittenti critici aventi un’elevata esposizione ai rischi ESG.

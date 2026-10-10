@@ -1,0 +1,1087 @@
+# Fondo: FONDO PENSIONE APERTO PENSPLAN PROFI (pensplan-profi)
+# Documento: Documento sul sistema di governo – Documento sul sistema di governo
+# Fonte: https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/Sistemadigovernosocietario.pdf
+# Citato in: https://www.fondopensioneprofi.com/documenti
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: eee3134ab3649d0d95c1f92179cede9cefb6b0c557774a8188fcfd30fecf7c3c
+# Pagine: 26
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 
+ 
+ 
+ 
+Fondo Pensione Aperto 
+Iscritto all’Albo COVIP al n. 147 
+Istituito in Italia da Euregio Plus SGR S.p.A. 
+ 
+ 
+Passaggio Duomo, 15 
+39100 Bolzano (BZ) 
+ 
+Tel.: 0471 068 700 
+Fax: 0471 068 766 
+ 
+profi@euregioplus.com 
+fondoprofi@pec.it 
+ www.fondopensioneprofi.com 
+  
+DOCUMENTO SUL SISTEMA DI 
+GOVERNO SOCIETARIO AFFERENTE 
+ALLA GESTIONE DEI FONDI PENSIONE 
+APERTI 
+(ai sensi degli artt. 4-bis e 5-decies del D.lgs. 252/2005) 
+ 
+ 
+ 
+ 
+ 
+EUREGIO PLUS SGR S.P.A. (di seguito, Euregio+) è responsabile della completezza e veridicità dei 
+dati e delle notizie contenuti nella presente Nota informativa.
+=== pagina 2 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 1 di 25 
+ 
+INDICE 
+ 
+1 Premessa ...................................................................................................... 2 
+2 Organizzazione di Euregio+ ....................................................................... 3 
+2.1 Board of Directors ...................................................................................................................................................... 4 
+2.2 Board of Auditors ........................................................................................................................................................ 5 
+2.3 General Management ............................................................................................................................................ 5 
+2.4 Comitati interni ............................................................................................................................................................. 6 
+2.4.1 Operation Committee ............................................................................................................................... 6 
+2.4.2 Management Committee........................................................................................................................ 7 
+2.4.3 ESG Committee ................................................................................................................................................ 7 
+2.4.4 Global Markets Investment Committee....................................................................................... 8 
+2.5 Funzioni di controllo .................................................................................................................................................. 9 
+2.5.1 Funzione di Compliance .......................................................................................................................... 9 
+2.5.2 Funzione di Risk Management & ICT Risk ................................................................................... 10 
+2.5.3 Funzione di Anti Money Laundering................................................................................................. 11 
+2.5.4 Funzione di Internal Audit ....................................................................................................................... 12 
+2.6 Gestione finanziaria ................................................................................................................................................. 13 
+2.7 Altre unità aziendali ................................................................................................................................................. 14 
+2.8 Service amministrativo ......................................................................................................................................... 16 
+2.9 Responsabile del Fondo ....................................................................................................................................... 16 
+2.10 Data Protection Officer – DPO .......................................................................................................................... 17 
+2.11 Prevention of Corruption & Transparency (RPCT) ............................................................................ 17 
+2.12 Responsabile del Servizio di Prevenzione e Protezione (RSPP) ............................................... 18 
+2.13 Depositario ...................................................................................................................................................................... 18 
+2.14 Raccolta di adesioni ................................................................................................................................................ 18 
+3 Sistema dei controlli interni .................................................................... 20 
+4 Sistema di gestione dei rischi.................................................................. 21 
+5 Flussi informativi verso il Responsabile del Fondo ............................ 23 
+6 Principi della politica di remunerazione .............................................. 25
+=== pagina 3 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 2 di 25 
+ 
+1 PREMESSA 
+In seguito alla pubblicazione della Direttiva (UE) 2016/2341 “ Institutions for Occupational 
+Retirement Provision ” (IORP 2) , recepita in Italia in data 17 gennaio 201 9 m ediante la 
+pubblicazione del Decreto Legislativo 147/2018 che ha modificato il D.lgs. 252/2005 “ Disciplina 
+delle forme pensionistiche complementari ”, la Commissione di Vigilanza sui Fondi Pensione 
+(Covip), ha emanato in data 13 gennaio 2021 le nuove “Istruzioni di vigilanza per le società che 
+gestiscono fondi pensione aperti, adottate ai sens i dell’art. 5 -decies, comma 1, del decreto 
+legislativo 5 dicembre 2005, n. 252” (di seguito Istruzioni di vigilanza Covip). 
+In particolare, nell’articolo 4 -bis del D.lgs. 252/2005, richiamato dall’art. 5 -decies del 
+medesimo decreto, sono previsti i requisiti generali in materia di sistema di governo a cui 
+devono uniformarsi le società per quanto attiene alle attività rilevanti ai fini della gestione di 
+fondi pensione aperti. 
+In coerenza con le disposizioni normative vigenti, il presente documento illustra il Sistema di 
+Governo afferente alla gestione del Fondo Pensione Aperto PensPlan Profi (di seguito “PensPlan 
+Profi” o “Fondo”), adottato da Euregio Plus SGR S.p.A. (di seguito “Euregio +” o “SGR”), al fine di 
+garantire la massima tutela agli aderenti e ai beneficiari del Fondo e la salvaguardia della 
+piena separazione tra il patrimonio di PensPlan Profi e quello della SGR . 
+Il Documento sul sistema di governo societario viene redatto su base annuale dal Board of 
+Directors di Euregio+ e deve essere pubblicato sul sito web della SGR unitamente al rendiconto 
+del PensPlan Profi.
+=== pagina 4 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 3 di 25 
+ 
+2 ORGANIZZAZIONE DI EUREGIO+ 
+Il PensPlan Profi è un fondo pensione aperto, istituito e gestito da PensPlan Invest SGR S.p.A. che, 
+con decorrenza 25 settembre 2019, ha modificato la propria denominazione sociale in EUREGIO 
+PLUS SGR S.P.A. 
+Euregio+ opera come società in-house della Regione Trentino -Alto Adige e dell e Province 
+Autonome di Trento e di Bolzano, che esercitano il controllo analogo sulla Società. 
+Il Fondo è una forma di previdenza per l’erogazione di trattamenti pensionistici complementari 
+del sistema previdenziale obbligatorio, disciplinata dal D.lgs. 5 dicembre 2005, n. 252  e 
+ss.mm.ii., e opera in regime di contribuzione definita: l’entità della prestazione pensionistica è 
+determinata in funzione della contribuzione versata e dei rendimenti della gestione. La 
+gestione delle risorse è svolta nell’esclusivo interesse dell’aderente. 
+Euregio+ è una Società di Gestione del Risparmio soggetta alla vigilanza di Banca d’Italia, di 
+Consob e di Covip. 
+Al fine di garantire la continua e regolare operatività anche in situazioni di emergenza, la SGR 
+si è dotata di un sistema di Business Continuity Management, che è un processo complesso e 
+multidisciplinare finalizzato all’identificazione dei rischi di interruzione dell'attività, all’analisi dei 
+potenziali impatti sull’organizzazione e quindi alla predisposizione di opportuni piani di 
+continuità operativa (Business Continuity Plan) atti a mantenere operativa una organizzazione 
+anche in seguito a un disastro. 
+Nell’ambito del processo di Business Continuity Management , l’unità Purchasing, IT & Facility  
+cura la predisposizione e l’aggiornamento del Quadro per la gestione dei rischi informatici 
+contenente l’insieme delle strategie e dei presidi per una gestione rapida, efficiente e organica 
+dei rischi informatici, in conformità agli adempimenti previsti dal Regolamento (UE) 2022/2554 
+sulla resilienza operativa digitale per il settore finanziario e ss.mm.ii., attraverso: 
+• una strategia di resilienza operativa digitale, che includa test di resilienza; 
+• l’identificazione di presidi di difesa ICT e cybersecurity; 
+• il governo e la gestione dei fornitori di terze parti; 
+• la gestione degli incidenti TIC e la cybersecurity. 
+Il Business Continuity Plan  è soggetto a periodica revisione ed è reso noto al personale 
+interessato al fine di espletare quanto necessario al ricorrere di situazioni di emergenza.  
+Euregio+ può esternalizzare le proprie funzioni, comprese le funzioni fondamentali del Fondo. 
+La responsabilità finale delle attività e delle funzioni esternalizzate rimane in capo all’organo di 
+amministrazione della SGR, inclusa l’osservanza delle disposizioni no rmative. La SGR ha 
+adottato un’apposita procedura che disciplina l’attività di esternalizzazione.
+=== pagina 5 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 4 di 25 
+ 
+2.1 BOARD OF DIRECTORS 
+Il Board of Directors  (di seguito anche “ Consiglio di Amministrazione ”) è l’organo di 
+supervisione strategica della  SGR - dotato dei più ampi poteri di ordinaria e straordinaria 
+amministrazione finalizzati al raggiungimento  dell’oggetto sociale, nel rispetto delle direttive 
+impartite dai soci che esercitano il controllo analogo sulla SGR. 
+Nell’attività di gestione del Fondo, al Consiglio di Amministrazione  della SGR competono in 
+particolare le seguenti attività: 
+a) la definizione degli assetti organizzativi, delle politiche di gestione dei rischi e del sistema 
+dei controlli interni della SGR, nonché la verifica periodica della loro corretta attuazione e 
+della loro adeguatezza e coerenza con l’evoluzione delle strategie e dell’attività aziendale; 
+b) la definizione e il riesame periodico del sistema di gestione dei rischi della SGR finalizzato a 
+individuare, misurare, monitorare e gestire le diverse tipologie di rischio alle quali il Fondo 
+è o può essere esposto; 
+c) la verifica circa la definizione di un assetto delle funzioni di controllo costantemente in linea 
+con il principio di proporzionalità e con gli indirizzi strategici, nonché l’istituzione e il 
+mantenimento di funzioni di controllo dotate di risorse qualitat ivamente e 
+quantitativamente adeguate; 
+d) la definizione dei criteri di scelta degli outsourcer e del depositario del Fondo, delle modalità 
+di controllo dell’attività prestata dagli stessi e il conferimento di eventuali deleghe 
+gestionali e incarichi, interni ed esterni; 
+e) il controllo dell’attività svolta dalle unità aziendali e dagli outsourcer della SGR, anche 
+attraverso le analisi delle Funzioni di Controllo; 
+f) l’approvazione del Regolamento e della documentazione del Fondo e la loro revisione 
+periodica; 
+g) la definizione e adozione della politica di investimento idonea al raggiungimento degli 
+obiettivi strategici del Fondo e la verifica del suo rispetto, nonché la sua revisione periodica 
+ed eventuale modifica; 
+h) la definizione della strategia in materia di esercizio dei diritti di voto spettanti al Fondo; 
+i) il riesame delle politiche relative alla gestione dei rischi, alla revisione interna e a quelle 
+esternalizzate; tale attività viene eseguita almeno  ogni 3 anni e, in ogni caso le modifiche 
+necessarie vengono apportate in caso di variazioni significative del settore interessato. 
+Con riferimento alle tematiche di sostenibilità, il Consiglio di Amministrazione:  
+• valuta e definisce gli indirizzi strategici e di business in ambito di sostenibilità e 
+implementazione dei rischi climatici e ambientali; 
+• definisce le politiche relative agli aspetti ambientali, sociali e di governance (ESG – 
+Environment, Social, Governance ) e approva la classificazione dei prodotti prevista dalla 
+Sustainable Finance Disclosure Regulation  (SFDR), nonché tutti gli adempimenti connessi 
+alla disclosure dei prodotti classificati a norma della SFDR; 
+• è responsabile dell’integrazione dei rischi di sostenibilità , dei rischi climatici e ambientali  
+nell’organizzazione e nei processi aziendali e, a tal fine, approva la Politica di sostenibilità 
+pubblicata sul sito internet della Società e le ulteriori normative interne impattate.
+=== pagina 6 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 5 di 25 
+ 
+2.2 BOARD OF AUDITORS 
+Il Board of Auditors (di seguito anche “Collegio Sindacale”) è l’organo con funzione di controllo, 
+e svolge la propria azione di verifica sia sulla base di accertamenti effettuati direttamente, sia 
+tramite il periodico scambio di informazioni con le funzioni aziendali di controllo.  
+Ai sensi del Regolamento Attuativo e dell’art. 2403 del Codice Civile, il Collegio Sindacale:  
+• vigila sull’osservanza della legge e dello Statuto; 
+• vigila sul rispetto dei principi di corretta amministrazione e in particolare sull’adeguatezza 
+dell’assetto organizzativo, amministrativo e contabile adottato dalla Società e sul suo 
+concreto funzionamento; 
+• rileva le irregolarità nella gestione e le violazioni delle norme disciplinanti la prestazione di 
+servizi e attività di investimento e di servizi accessori; 
+• promuove gli interventi correttivi delle carenze e delle irregolarità rilevate.  
+Il Collegio Sindacale esercita, pertanto, un ruolo attivo nella definizione del sistema dei controlli 
+interni e svolge una funzione di coordinamento ai fini di un efficace funzionamento del sistema 
+stesso. 
+In tale ambito, il Collegio Sindacale verifica anche l’efficacia delle strutture e delle funzioni 
+coinvolte nel sistema dei controlli e, in particolare, accerta l’adeguato coordinamento di tutte 
+le funzioni coinvolte nel sistema dei controlli interni promu ovendo, se del caso, gli opportuni 
+interventi correttivi. 
+I Sindaci sono destinatari di un flusso informativo costante da parte dei titolari di deleghe e 
+delle Funzioni di Controllo. Tale flusso informativo è di norma rappresentato dalla 
+documentazione illustrativa predisposta a supporto di ciascuna riunione del Consiglio di 
+Amministrazione e del Collegio Sindacale. 
+2.3 GENERAL MANAGEMENT 
+Il Managing Director (di seguito anche “Direttore Generale”) è l’organo con funzione di gestione 
+della SGR, e ha la responsabilità della conduzione dell’attività operativa della Società, dei cui 
+risultati risponde al Consiglio di Amministrazione. 
+In particolare, il Direttore Generale: 
+• attua le politiche aziendali e quelle del sistema di gestione del rischio dell’impresa, definite 
+dall’organo con funzione di supervisione strategica; 
+• verifica nel continuo l’adeguatezza del sistema di gestione del rischio dell’impresa e delle 
+modalità di rilevazione, gestione e monitoraggio dei rischi effettivi e potenziali ai quali la 
+SGR e i Fondi gestiti sono o potrebbero essere esposti; 
+• definisce i flussi informativi volti ad assicurare agli organi sociali la conoscenza dei fatti di 
+gestione rilevanti; 
+• definisce in modo chiaro i compiti e le responsabilità delle strutture e delle funzioni 
+aziendali, garantendo una struttura organizzativa e operativa adeguata e trasparente ; 
+• assicura che le politiche aziendali, le policy e le procedure siano tempestivamente 
+comunicate a tutto il personale interessato;
+=== pagina 7 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 6 di 25 
+ 
+• controlla l’operato del personale che è responsabile della gestione quotidiana 
+dell’impresa, compresa l’attuazione delle politiche concernenti la distribuzione di servizi e 
+prodotti ai clienti, e che ne risponde allo stesso organo con funzione di gestione;  
+• attua le strategie e le politiche di investimento degli OICR gestiti; 
+• supervisiona la redazione del Piano strategico, dei progetti strategici e del budget annuale 
+della SGR da sottoporre all’esame e all’approvazione del Consiglio di Amministrazione;  
+• sovrintende all’attuazione delle linee e dei progetti strategici aziendali deliberati dal 
+Consiglio di Amministrazione; 
+• cura l’attuazione delle delibere adottate dal Consiglio di Amministrazione.  
+Il Direttore Generale, inoltre: 
+• promuove il concreto funzionamento del sistema dei controlli interni della SGR, così come 
+definito dal Consiglio di Amministrazione; 
+• è responsabile della gestione del personale e della sicurezza sul lavoro;  
+• autorizza l’effettuazione di eventuali omaggi, doni, regalie, donazioni – purché di modico 
+valore - o spese di rappresentanza; 
+• coordina il Management Committee  e l’ Operation Committee , l’ ESG Committee  e, ove 
+necessario, partecipa ai Comitati Tecnici della SGR. 
+2.4 COMITATI INTERNI 
+Fermo restando quanto illustrato in merito alle attività poste in capo al Consiglio di 
+Amministrazione, lo stesso si avvale del supporto di Comitati Interni con poteri consultivi e/o 
+propositivi. 
+I Comitati hanno natura consultiva, propositiva e di supporto alle attività di Direzione, 
+coordinamento e gestione affidate al Direttore Generale, nonché alle altre attività allo stesso 
+spettante ai sensi dello Statuto della SGR o in virtù di specifici pot eri o incarichi al medesimo 
+attribuiti dal Consiglio di Amministrazione. 
+Restano ferme le competenze e le responsabilità dei diversi soggetti come disciplinate dal 
+seguente documento. 
+2.4.1 OPERATION COMMITTEE 
+L’Operation Committee è un organismo collegiale interno composto dal Direttore Generale e 
+dai responsabili delle singole unità aziendali e si riunisce, di norma, con cadenza settimanale 
+sulla base di un calendario fissato dal Direttore Generale. Possono essere chiamati a prendere 
+parte alle riunioni anche altri soggetti in relazione ai temi specifici trattati. Gli esiti delle riunioni 
+dell’Operation Committee sono formalizzati in appositi verbali. 
+All’Operation Committee  è attribuito il compito di assicurare la necessaria comunicazione 
+interna in merito alle delibere adottate dal Consiglio di Amministrazione e di supportare 
+l’attività del Direttore Generale nella programmazione e gestione dei progetti e delle attività 
+che richiedono il coinvolgimento di più direzioni e funzioni, in particolare in materia 
+organizzativa e di definizione dei processi e delle procedure operative interne.
+=== pagina 8 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 7 di 25 
+ 
+Nello specifico, le principali attività svolte dall’Operation Committee riguardano: 
+• supporto alla Direzione Generale nella definizione delle misure necessarie per l’esecuzione 
+delle deliberazioni e degli orientamenti assunti dal Consiglio di Amministrazione della SGR; 
+• esame e discussione delle diverse tematiche connesse all’operatività della Società, 
+nonché le implicazioni funzionali, di coordinamento e di cooperazione tra le strutture 
+aziendali; 
+• attuazione in modo efficace ed efficiente degli indirizzi strategici e delle politiche aziendali 
+- definiti dal Consiglio di Amministrazione - nonché monitoraggio dell’adeguatezza, sotto 
+un profilo qualitativo e quantitativo, della struttura aziendale, dei sistemi e delle procedure 
+aziendali. 
+2.4.2 MANAGEMENT COMMITTEE 
+Il Management Committee è un organismo collegiale interno composto dal Direttore Generale 
+e dai responsabili del  Global Markets, del Private Markets, del Real Estate & Infrastructure, del 
+Sales & Marketing e del Risk Management & ICT Risk. Possono essere chiamati a prendere parte 
+alle riunioni anche altri soggetti in relazione ai temi specifici trattati.  
+Viene convocato con cadenza almeno semestrale dal Direttore Generale e ha il compito di: 
+• esaminare e discutere delle diverse tematiche connesse allo sviluppo strategico e 
+operativo della Società, anche in relazione alle tematiche relative alla sostenibilità; 
+• individuare opportunità strategiche; 
+• verifica periodica di attuazione del piano strategico ed eventuali aggiornamenti;  
+• dare supporto al Direttore per analisi su eventuali criticità aziendali.  
+Gli esiti delle riunioni del Management Committee sono formalizzati in appositi verbali. 
+2.4.3 ESG COMMITTEE 
+L’ESG Committee è un organismo collegiale interno composto dal Direttore Generale, dagli 
+specialisti ESG della SGR, da un membro permanente appartenente al la Compliance, dai 
+responsabili del Risk Management & ICT Risk, del Sales & Marketing, dell’Human Resources e di 
+ciascuna area investimento. Possono essere chiamati a prendere parte alle riunioni anche altri 
+soggetti (interni o esterni alla SGR) in relazione ai temi specifici trattati.  
+Viene convocato con cadenza almeno trimestrale dal Direttore Generale e presidia la 
+governance societaria in merito a lla considerazione e dell’integrazione dei fattori ESG 
+all’interno della strategia aziendale ricoprendo un ruolo informativo e propositivo sulle 
+tematiche di sostenibilità, in particolare: 
+• esamina, valuta e formula proposte in materia di strategia ambientale, sociale e di 
+governance (limitatamente alle tematiche ESG); 
+• fornisce supporto consultivo al CdA nella definizione, revisione e implementazione della 
+politica sulla sostenibilità; 
+• collabora, con il supporto della Funzione Compliance, al monitoraggio / ricognizione e 
+analisi della normativa in ambito sostenibilità, identificandone i principali impatti e 
+indirizzando sulle singole unità aziendali specifiche attività di adeguamento;
+=== pagina 9 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 8 di 25 
+ 
+• identifica e propone, con il supporto dell’unità Human Resources , corsi di formazione su 
+tematiche di sostenibilità per tutto il personale interessato; 
+• assicura il monitoraggio delle iniziative di settore in materia di sostenibilità e valuta la 
+partecipazione alle stesse; 
+• supporta la comunicazione degli obiettivi, delle iniziative legate a temi ESG e dei relativi 
+risultati sia all’interno della Società sia all’esterno; 
+• organizza tavoli di lavoro per analizzare e approfondire determinati aspetti operativi,  
+affidando agli stessi specifici compiti; i tavoli di lavoro, composti da almeno un membro 
+permanente del comitato stesso e dai referenti delle unità aziendali competenti per gli 
+aspetti trattati, rendicontano e formulano proposte all’ESG Committee. 
+Gli esiti delle riunioni dell’ESG Committee sono formalizzati in appositi verbali. 
+2.4.4 GLOBAL MARKETS INVESTMENT COMMITTEE 
+Il Global Markets Investment Committee , che viene convocato con periodicità mensile dal 
+Responsabile Global Markets , è composto dai membri del  Global Markets  e dal Risk 
+Management & ICT Risk. Hanno facoltà di partecipare:  
+• con diritto di voto: il Direttore Generale; 
+• senza diritto di voto: i membri del Consiglio di Amministrazione.  
+Possono inoltre essere chiamati a prendere parte alle riunioni – senza diritto di voto - anche 
+altri soggetti (gestori o consulenti di altre società o collaboratori della SGR) in relazione ai temi 
+specifici trattati. 
+Nello specifico, il Global Markets Investment Committee: 
+• analizza lo scenario macroeconomico, l’andamento dei mercati e dei portafogli in 
+gestione, anche in relazione all’analisi effettuata da parte del Risk Management & ICT Risk; 
+• verifica, con il supporto del Risk Management & ICT Risk, che le politiche di gestione attuate 
+nel mese siano state conformi a quelle precedentemente deliberate dal Consiglio di 
+Amministrazione; 
+• propone al Consiglio di Amministrazione le linee tattiche di investimento da implementare 
+relativamente ai singoli portafogli in gestione (individuali, collettivi e dei Fondi Pensione).  
+Gli esiti delle riunioni del Global Markets Investment Committee , unitamente alle strategie 
+proposte, sono riportati in appositi verbali che mensilmente sono consegnati al Consiglio di 
+Amministrazione della Società come parte integrante della documentazione di supporto per 
+l’adozione da parte del Consiglio stesso delle  deliberazioni in materia di strategie di 
+investimento da implementare per i portafogli in gestione. 
+I verbali sono predisposti a cura del Global Markets, verificati dal Risk Management & ICT Risk; 
+la versione definitiva e sottoscritta dei verbali viene inviata al Management Assistance per la 
+protocollazione e l’archiviazione.
+=== pagina 10 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 9 di 25 
+ 
+2.5 FUNZIONI DI CONTROLLO 
+La Società si è dotata di un complesso di strutture organizzative, regole, processi, procedure e 
+meccanismi che costituiscono il sistema dei controlli interni. 
+In tale ambito, ai sensi della normativa vigente, la Società ha istituito la Funzione di Controllo 
+di conformità (“ Compliance”), la Funzione Antiriciclaggio (“ Anti Money Laundering ”), la 
+Funzione di Gestione del Rischio (“ Risk Management  & ICT Risk ”) e la Funzione di Revisione 
+Interna (“Internal Audit ”), poste alle dipendenze del Board of Directors  e gerarchicamente 
+autonome rispetto alle funzioni operative aziendali. 
+Le Funzioni di Controllo svolgono la propria attività in modo autonomo e indipendente, 
+operando secondo criteri di tempestività, affidabilità ed efficienza e riferiscono degli esiti 
+dell’attività svolta con obiettività e imparzialità; esse rispondono del proprio operato 
+direttamente al Board of Directors. 
+Ai sensi del D.lgs. 252/2005, la Funzione di Gestione dei Rischi (Funzione di Risk Management & 
+ICT Risk ) e la Funzione di Revisione Interna  sono funzioni fondamentali per le società che 
+gestiscono fondi pensione aperti . La SGR assicura alle funzioni fondamentali la sussistenza 
+delle condizioni necessarie a un efficace svolgimento delle proprie mansioni che sia obiettivo, 
+equo e indipendente. 
+I titolari delle funzioni fondamentali comunicano le risultanze e le raccomandazioni rilevanti 
+nel proprio ambito di responsabilità al Consiglio di Amministrazione e al Direttore Generale , 
+che stabilisce quali azioni intraprendere. 
+2.5.1 FUNZIONE DI COMPLIANCE 
+La Funzione di Compliance è posta in posizione di autonomia, anche gerarchica, rispetto alle 
+singole strutture operative, e riporta esclusivamente al Board of Directors , rispetto al quale è 
+collocata in staff. 
+La Funzione di Compliance di Euregio+ ha la responsabilità di: 
+• controllare e valutare periodicamente l’adeguatezza e l’efficacia delle misure, delle 
+politiche e delle procedure adottate dalla Società nella prestazione dei servizi e delle 
+misure adottate per rimediare a eventuali carenze nell’adempimento degli obblighi  da 
+parte della SGR; 
+• fornire consulenza e assistenza ai soggetti rilevanti nella prestazione dei servizi e 
+nell’esercizio delle attività ai fini dell’adempimento delle regole imposte dalla normativa 
+che la SGR è chiamata a rispettare; 
+• verificare nel continuo che le procedure aziendali siano coerenti con l'obiettivo di prevenire 
+e contrastare la realizzazione di operazioni di riciclaggio e di finanziamento al terrorismo; 
+• verificare l’osservanza delle disposizioni in materia di conflitti di interesse . 
+Al Responsabile della Funzione è garantito l’accesso a tutte le strutture aziendali e alla 
+documentazione di cui dovesse necessitare per lo svolgimento della propria attività di verifica.
+=== pagina 11 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 10 di 25 
+ 
+La Compliance, nell’espletamento delle proprie funzioni, ha accesso a tutti i sistemi informativi 
+adottati dalla SGR. 
+Tenuto conto degli ambiti di responsabilità sopra descritti i principali adempimenti che la 
+Compliance è chiamata a svolgere riguardano: 
+• l’identificazione, nel continuo, delle norme applicabili alla SGR nella prestazione dei servizi 
+offerti; 
+• l’analisi delle procedure aziendali e della modulistica e/o strumenti in uso nell’esecuzione 
+delle attività svolta; 
+• la proposta di modifiche organizzative e procedurali finalizzata ad assicurare adeguato 
+presidio dei rischi di non conformità identificati; 
+• la predisposizione di flussi informativi diretti agli Organi Aziendali, al fine di una tempestiva 
+condivisione delle proposte avanzate; 
+• la verifica dell’efficacia degli adeguamenti organizzativi suggeriti per la prevenzione del 
+rischio di non conformità mediante il riscontro del recepimento dei suggerimenti formulati 
+e il conseguente adeguamento dei processi interni; 
+• verifica la corretta e tempestiva trattazione dei reclami. 
+L’attività di controllo di conformità prevede anche interventi di natura consulenziale, 
+prevalentemente attinenti alle preventive valutazioni di impatto conseguenti a:  
+• modifiche della normativa vigente; 
+• progettazione di nuove iniziative di business della SGR; 
+• specifici eventi di gestione dei Fondi. 
+Il Responsabile della Funzione di Compliance riferisce al Board of Directors  e al Board of 
+Auditors della SGR gli esiti delle verifiche periodiche compiute e, più in generale, i risultati della 
+propria attività, per iscritto  (tenuto conto anche dei tempi e delle modalità stabilite dalla 
+Autorità di Vigilanza) e, ove ritenuto necessario  o opportuno, nell’ambito di apposite riunioni 
+all’uopo convocate. 
+La Funzione di Compliance nell’ambito delle proprie attività monitora nel continuo la corretta 
+applicazione della normativa in ambito di sostenibilità (ESG). 
+2.5.2 FUNZIONE DI RISK MANAGEMENT & ICT RISK 
+Il Risk Management & ICT Risk , unità collocata in posizione di autonomia, anche gerarchica, 
+rispetto alle singole strutture operative, risponde direttamente al Board of Directors, rispetto al 
+quale è collocata in staff. 
+La Funzione di Risk Management & ICT Risk di Euregio+ monitora: 
+• l’adeguatezza e l’efficacia delle politiche e delle procedure di gestione del rischio 
+dell’impresa di investimento; 
+• il grado in cui l’impresa di investimento e i soggetti rilevanti rispettano i dispositivi, i processi 
+e i meccanismi adottati; 
+• l’adeguatezza e l’efficacia delle misure prese per rimediare alle carenze riscontrate in tali 
+politiche, procedure, dispositivi, processi e meccanismi, ivi compresa l’inosservanza di tali 
+politiche, procedure, dispositivi, processi e meccanismi da parte de i soggetti rilevanti; 
+• presenta relazioni, almeno una volta all’anno, e fornisce consulenza all’alta dirigenza .
+=== pagina 12 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 11 di 25 
+ 
+Al Risk Management & ICT Risk  è affidata anche la responsabilità delle verifiche di secondo 
+livello per la gestione e la sorveglianza dei rischi informatici (funzione di controllo rischi ICT). 
+La SGR ha inoltre istituito la Funzione di Asset Valuation , attribuendone la responsabilità alla 
+Funzione di Risk Management & ICT Risk, alla quale sono state attribuite le seguenti attività: 
+• supportare il Board of Directors nella definizione dei criteri di valutazione; 
+• interagire con il Risk Management & ICT Risk nell’ambito del processo di valutazione degli 
+asset in portafoglio; 
+• interagire con le diverse funzioni e aree aziendali che devono fornire dati e/o informazioni 
+per una corretta valutazione degli asset; 
+• presentare al Board of Auditors  e al Board of Directors  le risultanze del processo di 
+valutazione degli asset che compongono il patrimonio del Fondo. 
+2.5.3 FUNZIONE DI ANTI MONEY LAUNDERING 
+La Funzione Anti Money Laundering  (di seguito anche “ AML” o “Antiriciclaggio” ) è posta in 
+posizione di autonomia, anche gerarchica, rispetto alle singole strutture operative, e riporta 
+esclusivamente al Board of Directors, rispetto al quale è collocata in staff. 
+Il Responsabile della Funzione AML è la dott.ssa Monica Mingrone. 
+Nella riunione del Consiglio di amministrazione del 24 giugno 2024, la SGR ha inoltre assegnato 
+al Dott. Johannes Schneebacher la carica di Esponente responsabile per l’antiriciclaggio.  
+Ai sensi del Provvedimento della Banca d’Italia del 26 marzo 2019, recante “ Disposizioni in 
+materia di  Organizzazione, procedure e controlli interni volti a prevenire l’utilizzo degli 
+intermediari a fini di riciclaggio e di finanziamento del terrorismo ”; alla Funzione AML 
+competono le seguenti responsabilità: 
+• identificare le norme applicabili e valutare il loro impatto sui processi e le procedure 
+interne; 
+• collaborare all’individuazione del sistema dei controlli interni e delle procedure finalizzato 
+alla prevenzione e al contrasto dei rischi in discorso; 
+• verificare l’idoneità del sistema dei controlli interni e delle procedure adottato e proporre 
+le modifiche organizzative e procedurali necessarie o opportune al fine di assicurare un 
+adeguato presidio dei rischi; 
+• proporre, in accordo con il Responsabile SOS, verifiche sulla funzionalità del processo di 
+segnalazione e sulla congruità delle valutazioni effettuate dal primo livello sull’operatività 
+della clientela; 
+• prestare supporto e assistenza agli organi aziendali e all’Alta Direzione; in caso di offerta di 
+prodotti e servizi nuovi, la funzione effettua in via preventiva le valutazioni di competenza;  
+• verificare l’affidabilità del sistema informativo per l’adempimento degli obblighi di 
+adeguata verifica della clientela, conservazione dei dati e segnalazione delle operazioni 
+sospette; 
+• collaborare alla definizione delle politiche di governo del rischio di riciclaggio e delle varie 
+fasi in cui si articola il processo di gestione di tale rischio; 
+• condurre, in raccordo con le altre funzioni aziendali interessate, l’esercizio annuale di 
+autovalutazione dei rischi di riciclaggio cui è esposta la SGR; 
+• proporre le modifiche organizzative e procedurali necessarie o opportune al fine di 
+assicurare un adeguato presidio dei rischi;
+=== pagina 13 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 12 di 25 
+ 
+• valutare in via preventiva il rischio di riciclaggio connesso all’offerta di prodotti e servizi 
+nuovi, alla modifica significativa di prodotti o servizi già offerti, all’ingresso in un nuovo 
+mercato o all’avvio di nuove attività e raccomandare le misure necessarie per mitigare e 
+gestire questi rischi; 
+• controllare e trasmettere mensilmente alla UIF i dati aggregati concernenti le registrazioni 
+nell'AUI (c.d. S.AR.A.); 
+• definire, d’accordo con il R esponsabile SOS, procedure di gestione delle segnalazioni 
+interne (provenienti dal cd. primo livello) riguardanti situazioni di rischio particolarmente 
+elevato da trattare con la dovuta urgenza; 
+• curare, in raccordo con il Direttore Generale e l’unità Human Resources, la predisposizione 
+di un adeguato piano di formazione, finalizzato a conseguire un aggiornamento su base 
+continuativa del personale dipendente e dei collaboratori e di indicatori di efficacia 
+dell’attività di formazione svolta; 
+• inoltrare tempestivamente, anche a mezzo e -mail, ogni informazione rilevante ai fini 
+antiriciclaggio agli organi di gestione e di controllo; 
+• predisporre annualmente (entro il mese di aprile) una relazione da presentare al Board of 
+Directors, al Direttore Generale e al Board of Auditors che contenga: 
+• la sintesi delle iniziative intraprese; 
+• le disfunzioni accertate;  
+• le eventuali azioni correttive poste in essere e da intraprendere; 
+• l’attività di formazione del personale svolta; 
+• i risultati dell’esercizio di autovalutazione; 
+• il piano di formazione per l’anno successivo; 
+• informare periodicamente gli organi aziendali - direttamente o per il tramite 
+dell’esponente responsabile per l’antiriciclaggio (l a carica di Responsabile AML ed 
+Esponente AML è attribuita al medesimo soggetto ), in base a quanto stabilito nella policy 
+antiriciclaggio - circa lo stato di avanzamento delle azioni correttive adottate a fronte di 
+carenze riscontrate nell’attività di controllo e circa l’eventuale inadeguatezza delle risorse 
+umane e tecniche assegnate alla Funzione AML e la necessità di potenziarle; 
+• fornire un parere preventivo, quando la decisione di avviare o proseguire un rapporto 
+continuativo è sottoposta per legge all’autorizzazione del Direttore Generale; qualora 
+decida di non adeguarsi al parere della Funzione AML, il Direttore Generale è tenuto a 
+formalizzare e motivare la decisione e a individuare le misure che saranno adottate per 
+mitigare i rischi segnalati; 
+• collaborare con le Autorità di cui al Titolo I, Capo II del D. Lgs. 231/2007.  
+2.5.4 FUNZIONE DI INTERNAL AUDIT 
+Ai sensi dell’art. 5 -quater del D.lgs. 252/2005, la Funzione di Revisione Interna (Internal Audit) 
+verifica la correttezza dei processi gestionali e operativi riguardanti il fondo pensione, 
+l’attendibilità delle rilevazioni contabili e gestionali, l’adeguatezza e l’efficienza del sistema di 
+controllo interno e degli altri eleme nti rilevanti riguardanti l’assetto organizzativo del sistema 
+di governo del fondo, comprese le attività esternalizzate, e la funzionalità dei flussi informativi.  
+La Funzione di Revisione Interna di Euregio+ è esternalizzata a TMF Compliance (Italy) S.r.l., e ha 
+la responsabilità di:
+=== pagina 14 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 13 di 25 
+ 
+• valutare la completezza, l’adeguatezza, la funzionalità, l’affidabilità delle altre componenti 
+del Sistema dei Controlli Interni, del processo di gestione dei rischi e degli altri processi 
+aziendali, avendo riguardo anche alla capacità di individuare error i e irregolarità; in tale 
+contesto, sottopone, tra l’altro, a verifica la Funzione di Compliance e la Funzione di Risk 
+Management & ICT Risk; 
+• verificare, anche attraverso accertamenti di natura ispettiva: 
+o la regolarità delle diverse attività aziendali, incluse quelle esternalizzate, e 
+l’evoluzione dei rischi cui la SGR è esposta; 
+o il monitoraggio della conformità alle norme dell’attività aziendale;  
+o il rispetto, nei diversi settori operativi, dei limiti previsti dai meccanismi di delega, e 
+il pieno e corretto utilizzo delle informazioni disponibili nelle diverse attività;  
+o adeguatezza dei processi e delle metodologie di valutazione delle attività aziendali; 
+o l’adeguatezza e l’affidabilità del sistema informativo aziendale;  
+o la rimozione delle anomalie riscontrate nell’operatività e nel funzionamento dei 
+controlli (attività di “follow-up”); 
+• controllare il piano aziendale di continuità operativa, anche facendo affidamento sugli esiti 
+dei controlli condotti dalle strutture di controllo dei fornitori della SGR;  
+• controllare l’organizzazione, i poteri e le responsabilità della Funzione di Risk Management 
+& ICT Risk , anche con riferimento alla qualità e alla adeguatezza delle risorse a questa 
+assegnati. 
+Il Responsabile della Funzione di Internal Audit aggiorna periodicamente il Board of Directors e 
+il Board of Auditors in merito alle attività condotte dalla stessa. Analogo flusso informativo è 
+previsto – per gli aspetti di competenza – verso il Supervisory Board (organismo di vigilanza) 
+istituito ai sensi del D. Lgs. n. 231/2001. Inoltre, in ossequio ai principi di collaborazione e di 
+coordinamento del Sistema dei Controlli Interni, sopra delineati, sono stati definiti specifici 
+flussi informativi tra le funzioni che lo compongono. 
+2.6 GESTIONE FINANZIARIA 
+La responsabilità dell’attuazione delle politiche/strategie d’investimento del Fondo , 
+conformemente a quanto deliberato dal Board of Directors, è affidata all’Area Global Markets, 
+che, gestendo portafogli sia in forma collettiva che individuale e offrendo anche altri servizi di 
+investimento, dispone della necessaria competenza e preparazione professionale.  
+Al Global Markets della SGR sono assegnati i seguenti compiti: 
+a) le scelte di investimento relativamente ai singoli comparti, con riferimento all’intero 
+patrimonio degli stessi e a tutti i mercati e tipologie di strumenti finanziari consentiti dal 
+regolamento del Fondo, nel rispetto della normativa tempo per tempo vigente; 
+b) la responsabilità di relazionare, con cadenza almeno mensile, il soggetto istitutore del 
+Fondo con riferimento alle scelte di investimento effettuate, anche attraverso 
+l’organizzazione di incontri periodici e con la trasmissione di apposita rendicontazione 
+all’organo amministrativo del Fondo; 
+c) l’esercizio del diritto di voto inerente ai titoli oggetto della gestione secondo le istruzioni 
+vincolanti impartite da Euregio+, in qualità di soggetto istitutore del Fondo; 
+d) il supporto nella definizione della politica di investimento;
+=== pagina 15 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 14 di 25 
+ 
+e) l’attività istruttoria per la selezione dei gestori finanziari delle risorse del Fondo e la 
+conseguente proposta di affidamento e revoca dei mandati all’organo amministrativo;  
+f) la verifica della gestione finanziaria e l’esame dei risultati conseguiti nel corso del tempo 
+da ogni singolo comparto di investimento del Fondo; 
+g) la redazione periodica di relazioni/rapporti sulla situazione di ogni singolo comparto di 
+investimento comprensivi di una valutazione del grado di rischio assunto in relazione ai 
+rendimenti realizzati; 
+h) la redazione, in via straordinaria,  di una relazione/rapporto contenente la valutazione del 
+grado di rischio assunto in relazione ai rendimenti realizzati nel caso in cui vi siano 
+significativi cambiamenti nei livelli di rendimento -rischio derivanti dall’attività di 
+investimento o, in prospettiva, di possibili superamenti delle soglie di rischiosità; 
+i) il controllo e la valutazione dell’attuazione della strategia d’investimento e dell’operato dei 
+soggetti incaricati della gestione, producendo opportuna documentazione delle verifiche 
+effettuate, riservando particolare attenzione agli investimenti in strumenti alternativi e 
+derivati; 
+j) la formulazione di proposte all’organo amministrativo riguardo ai nuovi sviluppi dei mercati 
+e alle eventuali modifiche della politica di investimento che si rendessero necessarie;  
+k) la collaborazione con i soggetti coinvolti nel processo di investimento, fornendo il supporto 
+necessario circa gli aspetti inerenti alla strategia da attuare e i risultati degli investimenti;  
+l) la verifica ex ante dei limiti normativi e di regolamento. 
+2.7 ALTRE UNITÀ AZIENDALI 
+Nella gestione del PensPlan Profi sono coinvolte le seguenti unità aziendali:  
+• Front Office Funds: si occupa delle attività connesse: 
+o del presidio e coordinamento dei servizi effettuati dal service amministrativo per le 
+attività relative alla gestione delle posizioni degli aderenti; 
+o alle adesioni al Fondo; 
+o alle richieste e le esigenze avanzate a vario titolo dagli aderenti; 
+o alla gestione dei rapporti con gli aderenti. 
+• Back Office & Accounting: si occupa: 
+o del presidio e coordinamento dei servizi effettuati dall’ outsourcer amministrativo 
+per le attività relative al Fondo; 
+o verifica ex post dei limiti normativi e di regolamento per monitorare il rispetto degli 
+stessi; 
+o della trasmissione, del monitoraggio e del regolamento delle operazioni con la 
+controparte scelta nelle negoziazioni degli strumenti finanziari; 
+o della trasmissione delle istruzioni di partecipazioni agli eventi societari relativi agli 
+strumenti finanziari presenti nei comparti; 
+o del supporto all’Accounting & Finance per l’elaborazione del rendiconto annuale del 
+Fondo; 
+• Accounting & Finance: supporta il Direttore Generale nella predisposizione del rendiconto 
+annuale del Fond o e svolge le attività di presidio e coordinamento dei servizi svolti dagli 
+outsourcer amministrativi e informatici di cui la SGR si avvale per lo svolgimento delle 
+proprie attività.
+=== pagina 16 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 15 di 25 
+ 
+• Regulatory: si occupa della predisposizione e della trasmissione di dati e delle segnalazioni 
+periodiche e statistiche nei confronti delle Autorità di Vigilanza dell’Amministrazione 
+Finanziaria e delle Associazioni di categoria; 
+• Organisation & Controlling: cura le seguenti attività: 
+o coordinamento nella predisposizione e nell’aggiornamento della documentazione 
+del Fondo Pensione; 
+o gestione del c.d. “Sistema Qualità” e quelle funzionali al rinnovo periodico della 
+certificazione UNI EN ISO 9001; 
+o redazione e aggiornamento delle procedure interne, con specifico riferimento ai 
+servizi di investimento prestati da parte della Società e alle nuove attività avviate;  
+o monitoraggio della rendicontazione delle attività delle varie unità organizzative 
+aziendali; 
+o coordinamento, gestione e supervisione dei nuovi progetti e dei relativi stati di 
+avanzamento; 
+o coordinamento delle attività di predisposizione del budget e del forecast; 
+o analisi degli scostamenti tra obiettivi pianificati e i risultati conseguiti sia a livello 
+aziendale che di singola commessa; 
+o assistenza tecnica ai responsabili delle funzioni aziendali nel controllo dei costi . 
+• Legal & Corporate Affairs: svolge le attività finalizzate a supportare, sotto il profilo giuridico 
+e amministrativo, il funzionamento delle attività proprie della Società, nonché delle attività 
+connesse ai servizi dalla stessa prestati e, nello specifico: 
+o coordinamento e supervisione di eventuali contenziosi e/o questioni legali  (nel 
+rispetto del principio di separazione tra il soggetto che effettua l’attività, del 
+soggetto che la controlla e del soggetto che la autorizza, garantendo la tracciabilità 
+della singola attività operativa e di controllo / autorizzativa); 
+o supporto legale nella predisposizione e revisione dei verbali delle riunioni del 
+Consiglio di Amministrazione e delle assemblee dei soci ed esecuzione degli 
+adempimenti connessi; 
+o gestione dei rapporti con le Autorità di Vigilanza e cura delle comunicazioni e/o 
+segnalazioni di vigilanza di competenza; 
+• Management Assistance : cura le attività di segreteria e, nello specifico , l’organizzazione 
+delle riunioni del Consiglio di Amministra zione, la gestione del protocollo aziendale, il ritiro, 
+smistamento e spedizione della posta della Società  e l’assistenza operativa alla Direzione 
+Generale; 
+• Sales & Marketing: svolge le seguenti attività: 
+o sviluppo e gestione dei rapporti con i distributori e i collocatori di prodotti della SGR 
+attraverso l'organizzazione di regolari incontri di supporto alla loro rete 
+commerciale; 
+o creazione e mantenimento delle relazioni commerciali con i principali stake holders 
+operanti sul territorio di riferimento (istituti bancari, associazioni di categoria e 
+professionisti); 
+o predisposizione - anche mediante l’ausilio di società terze - di presentazioni, 
+brochure e altri documenti relativi ai servizi e prodotti offerti dalla SGR; 
+o organizzazione di eventi, conferenze, ecc., nonché cura e definizione dell’immagine 
+della Società e della corporate identity;
+=== pagina 17 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 16 di 25 
+ 
+o gestione e cura dei rapporti con i consulenti finanziari dei quali la Società si avvale 
+per la raccolta delle adesioni al Fondo. 
+• Purchasing, IT & Facility : controlla e coordina l’operato degli outsourcer informatici della 
+Società, nonché: 
+o della gestione dell’architettura della struttura EDP e dei relativi accessi;  
+o degli aspetti tecnici legati allo sviluppo e aggiornamento del sito internet aziendale, 
+della piattaforma intranet; 
+o dell’analisi e dello sviluppo di progetti informatici e di altri applicativi non rientranti 
+nei servizi affidati agli outsourcer informatici atti a migliorare l’infrastruttura 
+aziendale; 
+o dello svolgimento delle attività connesse alla gestione delle tematiche relative alla 
+business continuity; 
+o delle attività in materia di acquisti, approvvigionamenti, manutenzioni legate agli 
+ambienti e strumenti di lavoro; 
+• Human Resources : svolge tutte le attività legate all’amministrazione del personale, 
+compresa la supervisione allo sviluppo, valutazione e formazione del personale, alla luce 
+dei fabbisogni emersi dalla valutazione dei collaboratori, di eventuali esigenze operative e 
+di formazioni obbligatorie eventualmente previste dalla normativa vigente.  
+2.8 SERVICE AMMINISTRATIVO 
+La gestione amministrativa e contabile del Fondo è affidata al Pensplan Centrum S.p.A., con 
+sede in Bolzano, via della Rena 26, che svolge le seguenti attività:  
+• valorizza il patrimonio e determina il valore quota e il numero delle quote in circolazione;  
+• comunica al Fondo il flusso contributivo destinato agli investimenti;  
+• contabilizza le operazioni eseguite dal gestore finanziario; 
+• effettua l’attività di riconciliazione dei conti correnti e dei portafogli titoli;  
+• provvede al calcolo dei ratei commissionali dovuti al gestore sulla base delle convenzioni 
+e supporta il Fondo nelle attività di controllo delle commissioni di gestione da corrispondere 
+al gestore finanziario; 
+• integra nelle valorizzazioni i dati relativi al look-through degli OICR in portafoglio; 
+• predispone per PensPlan Profi le statistiche periodiche e le segnalazioni da fornire a COVIP 
+da parte del Fondo, anche sulla base dei dati forniti da parte di soggetti terzi.  
+2.9 RESPONSABILE DEL FONDO 
+I doveri del Responsabile del Fondo Pensione, vengono descritti nell’allegato 1 al Regolamento 
+di PensPlan Profi, e sono di seguito riepilogati: 
+• vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle buone 
+pratiche e dei principi di corretta amministrazione del Fondo nell’esclusivo interesse degli 
+aderenti. 
+• avvalendosi delle procedure definite dalla SGR, organizza lo svolgimento delle sue funzioni 
+al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo; 
+b) vigilare sulla gestione amministrativa del Fondo;
+=== pagina 18 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 17 di 25 
+ 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti  
+• controlla le soluzioni adottate dalla SGR per identificare le situazioni di conflitti di interesse 
+e per evitare che le stesse arrechino pregiudizio agli aderenti;  
+• controlla la corretta esecuzione del contratto stipulato per il conferimento dell’incarico di 
+depositario, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione 
+delle rendite e, ove presenti, delle convenzioni/condizioni relative al le prestazioni di 
+invalidità e premorienza. 
+• dà tempestiva comunicazione al Board of Directors e al Board of Auditors  della SGR delle 
+anomalie e delle irregolarità riscontrate nell’esercizio delle sue funzioni, e si attiva perché 
+vengano adottati gli opportuni provvedimenti. 
+2.10 DATA PROTECTION OFFICER – DPO 
+Conformemente con quanto previsto dall’art. 37 del Regolamento (UE) 2016/679 (Regolamento 
+generale protezione dati – GDPR) la Società ha confermato la nomina del dott. Andrea Avanzo 
+quale Responsabile dei dati personali (Data Protection Officer – DPO), incaricato a svolgere, in 
+piena autonomia e indipendenza, i seguenti compiti e funzioni, nel rispetto di quanto previsto 
+dall’art. 39, comma 1 del GDPR: 
+• informare e fornire consulenza al titolare del trattamento o al responsabile del trattamento 
+nonché ai dipendenti che eseguono il trattamento in merito agli obblighi derivanti dal 
+GDPR, nonché da altre disposizioni nazionali o dell’Unione Europea relative alla protezione 
+dei dati; 
+• sorvegliare l’osservanza del GDPR, di altre disposizioni nazionali o dell’Unione Europea 
+relative alla protezione dei dati nonché delle politiche del titolare del trattamento o del 
+responsabile del trattamento in materia di protezione dei dati personali, c ompresi 
+l’attribuzione delle responsabilità, la sensibilizzazione e la formazione del personale che 
+partecipa ai trattamenti e alle connesse attività di controllo; 
+• fornire, se richiesto, un parere in merito alla valutazione d’impatto sulla protezione dei dati 
+e sorvegliarne lo svolgimento ai sensi dell’articolo 35 del GDPR;  
+• cooperare con le Autorità di controllo; 
+• fungere da punto di contatto con le Autorità di controllo per questioni connesse al 
+trattamento, tra cui la consultazione preventiva di cui all’articolo 36, ed effettuare, se del 
+caso, consultazioni relativamente a qualunque altra questione;  
+• tenere il registro delle attività di trattamento sotto la responsabilità del titolare o del 
+responsabile e attenendosi alle indicazioni provenienti dagli stessi.  
+2.11 PREVENTION OF CORRUPTION & TRANSPARENCY (RPCT) 
+Con delibera del Board of Directors  del 19 dicembre 2022  la Società ha nominato l’avvocato 
+Chiara Pivetta  quale Responsabile della Prevenzione della Corruzione e della Trasparenza 
+(RPCT), incaricato a svolgere, in piena autonomia e indipendenza, le relative funzioni come 
+previste dalla legge 190/2012 e dal d.lgs. 33/2013. Con delibera del 26 gennaio 2026, tale nomina 
+è stata riconfermata per il triennio 2026-2028.
+=== pagina 19 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 18 di 25 
+ 
+2.12 RESPONSABILE DEL SERVIZIO DI PREVENZIONE E PROTEZIONE 
+(RSPP) 
+Conformemente con quanto previsto dal d.lgs 81/2008 la Società ha nominato il dott. Stefano 
+Corrarati quale Responsabile del Servizio di Prevenzione e Protezione (RSPP).  
+Il RSPP è la figura designata dal Datore di Lavoro, dotata dei requisiti professionali previsti dal 
+d.lgs. 81/2008, con il compito di coordinare il sistema aziendale di prevenzione e protezione dai 
+rischi. 
+In particolare, l’RSPP: 
+• collabora alla valutazione dei rischi e alla redazione/aggiornamento del Documento di 
+Valutazione dei Rischi (DVR); 
+• individua fattori di rischio e propone misure di prevenzione e protezione, incluse misure 
+organizzative, dispositivi di protezione e procedure operative; 
+• supporta la pianificazione della sicurezza, contribuendo alla definizione di strategie e 
+processi per la tutela della salute e sicurezza sul lavoro; 
+• cura la formazione e l’informazione dei lavoratori, predisponendo e programmando gli 
+interventi formativi obbligatori; 
+• monitora l’efficacia delle misure adottate e propone aggiornamenti in relazione a 
+modifiche normative, organizzative o operative; 
+• collabora con il datore di lavoro, la Direzione Generale, i preposti, il medico competente e il 
+Rappresentante dei Lavoratori per la Sicurezza (RLS), garantendo un presidio continuo dei 
+temi di sicurezza all’interno dell’organizzazione. 
+2.13 DEPOSITARIO 
+Il depositario del Fondo è BFF Bank S.p.A., con sede in Milano, Via Domenichino, 5. 
+Il depositario svolge le seguenti attività: 
+a) l’esecuzione delle attività a essa affidate dalla legge e dal Regolamento del Fondo; 
+b) ogni altra attività direttamente concordata con il Fondo. 
+Il contratto stipulato con il Depositario risulta coerente con le indicazioni contenute nel 
+presente documento. 
+2.14 RACCOLTA DI ADESIONI 
+La raccolta delle adesioni può avvenire (anche per il tramite di tecniche di comunicazione a 
+distanza) presso la SGR, le aziende convenzionate, o i seguenti enti collocatori: 
+• Banca Cambiano 1884 S.p.A., con sede legale in Firenze (FI), Via Antonio Gramsci, n. 34, 
+Codice Fiscale, P.IVA e iscrizione al Registro delle Imprese di Firenze n.02599341209, REA FI 
+648868, capitale sociale 232.800.000, iscritta all’Albo delle Banche tenuto da Banca d’Italia 
+n. 5667; 
+• Banca Popolare Etica S.C.p.A., con sede legale in Padova (PD), via Niccolò Tommaseo, n. 7, 
+Codice Fiscale n. 02622940233, P.IVA n. 01029710280, iscrizione al Registro delle Imprese di 
+Padova n. 99357/1997, REA 256099/95, Capitale sociale 88.620.787,50, codice banca 5018.7, 
+iscritta all’Albo delle Banche tenuto da Banca d‘Italia n. 5399;
+=== pagina 20 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 19 di 25 
+ 
+• Cassa di Risparmio di Bolzano S.p.A., con sede legale in Bolzano (BZ), Via Cassa di 
+Risparmio, n. 12, Codice Fiscale, P.IVA e iscrizione Registro Imprese di Bolzano n. 00152980215, 
+capitale sociale 469.330.500,10, codice ABI: 6045 -9, iscritta all’Albo delle Banche tenuto da 
+Banca d’Italia n. 6045. 
+Non è prevista la possibilità di aderire a PensPlan Profi mediante sito web.
+=== pagina 21 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 20 di 25 
+ 
+3 SISTEMA DEI CONTROLLI INTERNI 
+Conformemente a quanto previsto dalla normativa di riferimento, Euregio + si è dotata di un 
+Manuale interno delle procedure al fine di definire in modo chiaro il riparto delle funzioni e delle 
+responsabilità tra tutti i vari soggetti coinvolti e di identificare le attività di controllo e i flussi 
+previsti nelle varie fasi operative della SGR. 
+Nelle procedure aziendali e nelle policy adottate dalla SGR sono contenute le regole, funzioni, 
+strutture, risorse, processi e procedure volti, tra gli altri, alla verifica dell’attuazione delle 
+strategie e politiche aziendali, all’efficienza e all’efficacia dei processi aziendali, al 
+mantenimento dell’affidabilità e sicurezza delle informazioni azie ndali e delle procedure 
+informatiche e alla identificazione, misurazione o valutazione, prevenzione o attenuazione e 
+comunicazione dei rischi, quali, a esempio,  i rischi di mercato, di credito, operativi e 
+reputazionali. 
+La Società si è dotata inoltre di un complesso di strutture organizzative, regole, processi, 
+procedure e meccanismi che costituiscono il sistema dei controlli interni.  
+Il sistema dei controlli interni adottato dalla SGR coinvolge a diverso titolo, oltre agli organi e 
+alle funzioni di controllo, le funzioni operative aziendali ed è articolato su più livelli di controllo. 
+Le funzioni di controllo interno dispongono dei sis temi informatici e di supporto adeguati, con 
+accesso alle informazioni interne ed esterne necessarie per adempiere alle proprie 
+responsabilità, nonché a tutte le informazioni relative alle linee di business. 
+I controlli di primo livello sul corretto e regolare svolgimento dell’operatività aziendale vengono 
+svolti dal Direttore Generale e, in via continuativa, dai responsabili di ciascuna unità aziendale. 
+Rientra nelle attribuzioni dei responsabili d elle unità aziendal i il compito di informare 
+tempestivamente il Direttore Generale in merito alle eventuali criticità o carenze emerse in tale 
+ambito, anche ai fini di un eventuale coinvolgimento degli organi aziendali e delle funzioni di 
+controllo. 
+I controlli di secondo livello sono affidati all a Funzione di Compliance, alla Funzione di  Risk 
+Management & ICT Risk  e alla Funzione di Anti Money Laundering  (antiriciclaggio), mentre i 
+controlli di terzo livello sono affidati alla Funzione di Internal Audit. 
+La programmazione e gli esiti dell’attività e delle verifiche delle funzioni di controllo formano 
+oggetto di un sistema di flussi informativi rivolti agli Organi aziendali.  
+Le funzioni di controllo interno, inoltre, mantengono costanti contatti di collaborazione con il 
+Board of Auditors. 
+Le funzioni di controllo si incontrano in periodiche riunioni per la condivisione degli esiti 
+derivanti dalle attività di controllo svolte. A tali incontri possono partecipare come ospit i il 
+Direttore Generale e/o i membri del Board of Auditors.
+=== pagina 22 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 21 di 25 
+ 
+4 SISTEMA DI GESTIONE DEI RISCHI 
+Euregio+ si è dotata di un a policy di gestione del rischio, tramite la quale ha individuato le 
+regole e le metodologie che il Sistema dei Controlli Interni della SGR adotta al fine di identificare 
+e valutare i rischi cui sono esposti i Fondi gestiti dalla SGR e la stessa SGR.  
+Per Sistema dei Controlli Interni si intende appunto l’insieme delle regole, delle procedure e 
+delle strutture organizzative che mirano ad assicurare il rispetto delle strategie aziendali e il 
+conseguimento dell’efficacia e dell’efficienza dei processi azi endali, della salvaguardia del 
+valore delle attività e protezione dalle perdite, dell’affidabilità e integrità delle informazioni 
+contabili e gestionali, della conformità delle operazioni con la legge, la normativa di Vigilanza, 
+nonché con le politiche, i piani, i regolamenti e le procedure interne alla SGR. 
+In conformità con quanto previsto dalla normativa vigente, la SGR riesamina, con cadenza 
+almeno annuale: 
+• l’adeguatezza e l’efficacia della politica di gestione del rischio, nonché delle misure 
+adottate per rimediare a eventuali carenze del funzionamento della stessa;  
+• il rispetto delle procedure e delle tecniche di misurazione e gestione del rischio;  
+• le prestazioni della funzione di gestione del rischio; 
+• l’adeguatezza e l’efficacia delle misure volte a garantire la separazione funzionale e 
+gerarchica della funzione di gestione del rischio. 
+La SGR attua la gestione del rischio attraverso un processo di Enterprise Risk Management (nel 
+seguito ERM), con l’obiettivo di raggiungere un'efficace ed efficiente gestione delle condizioni  
+di incertezza e dei relativi rischi e opportunità con conseguente possibilità di salvaguardia o 
+creazione di valore, e in particolare permette di: 
+• allineare la strategia al rischio accettabile; 
+• migliorare la risposta ai rischi individuati; 
+• ridurre gli imprevisti e le perdite conseguenti; 
+• identificare e gestire i rischi correlati e multipli; 
+• identificare le opportunità; 
+• migliorare l’impiego del capitale. 
+Le caratteristiche fondamentali di un ERM sono: 
+a) inclusione di tutte le categorie di rischi, strategici, finanziari, operativi, di conformità;  
+b) ranking dei rischi, e focalizzazione su quelli con il maggiore impatto potenziale sul valore e 
+sulle attività dell’azienda; 
+c) integrazione nella gestione dei rischi (integrated across risk types); 
+d) previsione di azioni di controllo del rischio. 
+Il processo di gestione del rischio è articolato nelle seguenti fasi:  
+• attività annuali: 
+• definizione del contesto: definizione di un documento “ Risk context” contenente le 
+caratteristiche gen erali del processo (definizione del campo di applicazione, 
+relazione tra processi, processi e attività, definizione delle metodologie di 
+valutazione, definizione del criterio di significatività del rischio ), considerando le 
+aree di rischio elencate nell'art. 5-ter, comma 4 del D.lgs. 252/2005;
+=== pagina 23 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 22 di 25 
+ 
+• valutazione del rischio : redazione di un documento “ Risk Map ” nel quale i rischi 
+vengono identificati (sulla base delle aree di rischio elencate nell’art. 5-ter, comma 
+4 del D.lgs. 252/2005), analizzati e quantificati (tramite la combinazione di metriche 
+qualitative e quantitative relative alla probabilità e all’esposizione, secondo la 
+metodologia precedentemente definita); 
+• trattamento del rischi o: definizione degli strumenti di controllo e mitigazione dei 
+rischi significativi, tramite la redazione della Relazione del Risk Management & ICT 
+Risk e del piano di Risk Management e l’eventuale aggiornamento dei Regolamenti 
+delle Funzioni di Controllo; 
+• attività infra-annuali: 
+• monitoraggio e riesame dell’efficacia delle metriche di monitoraggio e delle azioni 
+di controllo : conformemente al Regolamento e al piano della Funzione di Risk 
+Management & ICT Risk; 
+• comunicazione e consultazione  con la Direzione Generale e le strutture operative 
+in relazione al processo di valutazione del rischio.
+=== pagina 24 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 23 di 25 
+ 
+5 FLUSSI INFORMATIVI VERSO IL RESPONSABILE DEL FONDO 
+Dopo ogni valorizzazione, vengono inviati al Responsabile del Fondo i seguenti prospetti: 
+• prospetto di valorizzazione delle quote dei comparti; 
+• prospetto con il calcolo dell’imposta sostitutiva dei comparti;  
+• eventuali prospetti a supporto. 
+Il Responsabile sottoscrive quindi i prospetti di valorizzazione delle quote dei comparti.  
+Il Responsabile del Fondo partecipa alle riunioni del Consiglio di Amministrazione con 
+periodicità minima trimestrale o comunque in ogni seduta nella quale sia prevista all’ordine 
+del giorno una discussione sul PensPlan Profi. 
+Come previsto dalla normativa vigente, la Funzione di Revisione Interna trasmette al 
+Responsabile del Fondo un estratto delle proprie relazioni con gli aspetti rilevanti per PensPlan 
+Profi. 
+Gli ulteriori flussi informativi previsti dalle procedure aziendali verso il Responsabile del Fondo 
+sono descritti nella tabella sotto riportata. 
+Procedura (fase) Tipo flusso Descrizione 
+04.05 - 
+Determinazione del 
+Patrimonio / NAV  
+(Adempimenti ex -
+post supero limiti) 
+segnalazione 
+supero limiti e 
+motivazione 
+nel caso in cui, dai controlli dei limiti di 
+investimento ex -post effettuati in 
+corrispondenza del calcolo dell’attivo netto 
+destinato alle prestazioni emerga un supero 
+dei limiti di investimento normativi o 
+regolamentari, deve essere inviata una  
+informativa al Responsabile del Fondo, che, in 
+base alla gravità, valuterà se annotare e 
+segnalare alla Covip lo sforamento e/o 
+avvisare il Depositario 
+04.06 Presidio 
+Amministrativo e 
+relazioni periodiche 
+Fondi 
+approvazione 
+prospetto 
+in seguito alle verifiche effettuate il Prospetto 
+deve essere sottoscritto dal Responsabile del 
+Fondo, e consegnato all’unità competente per 
+la protocollazione 
+04.06 Presidio 
+Amministrativo e 
+relazioni periodiche 
+Fondi 
+rendiconto annuale 
+approvato dal 
+Consiglio di 
+Amministrazione 
+a seguito dell'approvazione, il Rendiconto 
+annuale deve essere sottoscritto dal 
+Responsabile del Fondo e inoltrato alla Società 
+di Revisione che rilascia la propria relazione e 
+la invia all’unità responsabile del processo
+=== pagina 25 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 24 di 25 
+ 
+Procedura (fase) Tipo flusso Descrizione 
+07.02 - Gestione dei 
+reclami (Iscrizione 
+della 
+Comunicazione nel 
+registro dei reclami) 
+informazione 
+qualifica di reclamo 
+di una 
+comunicazione 
+ricevuta 
+nel caso in cui la Funzione Compliance di 
+Euregio+ definisca come Reclamo una 
+comunicazione pervenuta da un aderente , la 
+stessa provvede senza indugio ad annotare gli 
+estremi del Reclamo pervenuto nel Registro 
+dei Reclami , e informa il Responsabile del 
+Fondo 
+07.02 - Gestione dei 
+reclami (Istruttoria e 
+riscontro alla 
+clientela) 
+eventuale 
+informativa sullo 
+stato di evasione 
+della trattazione del 
+reclamo 
+la Funzione Compliance di Euregio+ informa il 
+Responsabile del Fondo pensione sullo stato di 
+evasione della trattazione del reclamo 
+07.02 - Gestione dei 
+reclami (Istruttoria e 
+riscontro alla 
+clientela) 
+informativa sulla 
+chiusura della 
+trattazione del 
+reclamo 
+una volta chiusa la trattazione del reclamo la 
+Funzione Compliance di Euregio+ annota tutte 
+le informazioni necessarie nel Registro dei 
+Reclami e informa il Responsabile del fondo 
+pensione della chiusura della trattazione del 
+Reclamo
+=== pagina 26 ===
+PensPlan Profi Fondo Pensione Aperto Documento sul sistema di governo societario 
+ 
+ 
+Approvato dal Consiglio di Amministrazione in data 30/03/2026 pagina 25 di 25 
+ 
+6 PRINCIPI DELLA POLITICA DI REMUNERAZIONE 
+Il compenso delle funzioni fondamentali di gestione dei rischi e di revisione interna vengono 
+sostenuti da Euregio+. 
+Il compenso del Responsabile del Fondo è determinato in misura fissa; come previsto 
+dall’articolo 8 del Regolamento del Fondo stesso, le spese relative alla remunerazione e allo 
+svolgimento dell’incarico del Responsabile del Fondo sono a carico dei comparti del fondo, per 
+quanto di competenza. 
+ Ulteriori informazioni sulle politiche di remunerazioni sono disponibili nel documento 
+“Policy in materia di remunerazione e incentivazione ” pubblicato nella sezione 
+“Documenti Corporate” del sito internet di Euregio+ (www.euregioplus.com).

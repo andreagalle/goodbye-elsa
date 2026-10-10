@@ -1,0 +1,932 @@
+# Fondo: FONDO PENSIONE APERTO CNP (cnp)
+# Documento: Documento sulla politica di investimento – Documento sulla politica di investimento valido dal 24/09/2026
+# Fonte: https://gruppocnp.it/sites/default/files/DPI_FPA_CNP_Albo_115_092026.pdf
+# Citato in: https://gruppocnp.it/prodotti/fondo-pensione-aperto/fondo-pensione-aperto-cnp#
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 7df1c640cb6b9d003777523b25f8eb64ee38a527011ed464aa85bf49721147d9
+# Pagine: 29
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+CNP VITA ASSICURA S.P.A. 
+DOCUMENTO SULLA 
+POLITICA DI INVESTIMENTO 
+DEL FONDO PENSIONE 
+APERTO 
+Fondo pensione aperto iscritto all’Albo tenuto dalla Covip con il 
+n. 115
+=== pagina 2 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 2
+Approvata dal CDA del 24 settembre 2026 
+Versione Autore CONDIVISIONE 
+CON IL 
+GRUPPO 
+Data delibera 
+CdA 
+Aggiornamento 
+V1.2026 Funzione 
+Investimenti 
+23 luglio 2026 23 luglio 2026 V2.2026 – vedi allegato C 
+V2.2026 Funzione 
+Investimenti 
+24 settembre 
+2026 
+24 settembre 
+2026 
+V3.2026 – vedi allegato C
+=== pagina 3 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 3
+Sommario 
+INTRODUZIONE .............................................................................................................................................................................................. 4
+I. OBIETTIVI ................................................................................................................................................................................................... 4
+II. AMBITO DI APPLICAZIONE ......................................................................................................................................................... 5
+III. PRINCIPI GUIDA ............................................................................................................................................................................. 5
+1. OBIETTIVI DELLA POLITICA D’INVESTIMENTO .......................................................................................................................... 5
+2. Caratteristiche dei potenziali aderenti ............................................................................................................................................. 5
+3. I comparti: obiettivi di rendimento e rischio ................................................................................................................................ 5
+4. Criteri di attuazione della Politica di investimento ................................................................................................................6
+5. Comparto Azionario ........................................................................................................................................................................................... 7
+6. Comparto Bilanciato....................................................................................................................................................................................... 10
+7. Comparto Obbligazionario ........................................................................................................................................................................ 13
+8. Comparto con Garanzia di restituzione del capitale ......................................................................................................... 16
+9. Comparto con Garanzia di rendimento minimo prestabilito ...................................................................................... 18
+IV.     GOVERNANCE ................................................................................................................................................................................... 21
+1. Processo di attuazione della Politica .............................................................................................................................................. 21
+2. Comunicazioni all’Autorità ....................................................................................................................................................................... 23
+V. PRESIDI ..................................................................................................................................................................................................... 24
+VI. DISPOSIZIONI FINALI ............................................................................................................................................................. 25
+1. Aggiornamento della Politica e rapporti con il Gruppo ......................................................................................................... 25
+ALLEGATO A - NORMATIVA .............................................................................................................................................................. 26
+ALLEGATO B - RUOLI E RESPONSABILITA’ ......................................................................................................................... 26
+ALLEGATO C – MODIFICHE APPORTATE NELL’ ULTIMO TRIENNIO .............................................................. 28
+=== pagina 4 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 4
+INTRODUZIONE 
+Il presente documento risponde all’esigenza di definire e formalizzare il “Documento sulla politica di 
+investimento del Fondo Pensione Aperto CNP” (di seguito, la “Politica”) della Compagnia, ai sensi del 
+d.lgs. 5 dicembre 2005, n. 252 e della normativa pro-tempore vigente. 
+Il Fondo Pensione Aperto CNP è finalizzato all’erogazione di trattamenti pensionistici complementari del 
+sistema previdenziale obbligatorio, ai sensi del d.lgs. 5 dicembre 2005, n. 252. 
+CNP Vita Assicura S.p.A. (di seguito “la Società”), impresa di assicurazione, esercita l’attività di gestione del 
+Fondo Pensione Aperto iscritto all’albo tenuto dalla COVIP con il n. 115 dal 31/12/2023. 
+Il Fondo Pensione Aperto CNP è rivolto a tutti coloro che intendono realizzare un piano di previdenza 
+complementare. Possono aderire i soggetti destinatari delle Forme pensionistiche complementari, come 
+individuati dall’art. 2 comma 1 del Dlgs 252/2005. La partecipazione non è legata ad una determinata 
+occupazione o all’esercizio di una libera professione. L’adesione al Fondo è consentita in forma 
+individuale ed in forma collettiva. L’adesione su base collettiva è disposta riguardo ai soggetti nei cui 
+confronti trovano applicazione contratti, regolamenti di enti o aziende, accordi collettivi aziendali o fra soli 
+lavoratori, che prevedono l’adesione al Fondo. 
+Il Fondo Pensione Aperto CNP è una forma pensionistica operante in regime di contribuzione definita : 
+l’entità della prestazione pensionistica è determinata in funzione della contribuzione effettuata e dei 
+relativi rendimenti. Il Fondo Pensione Aperto CNP è costituito in forma di patrimonio separato e autonomo 
+nell’ambito della Società.  
+I. OBIETTIVI 
+Il documento ha l’OBIETTIVOdi definire il processo di attuazione della politica di investimento che la 
+Società intende porre in essere per ottenere, dall’impiego delle risorse gestite afferenti al Fondo 
+Pensione Aperto CNP, l’obiettivo finale di perseguire combinazioni rischio-rendimento efficienti 
+nell’arco temporale, coerenti con i bisogni previdenziali degli aderenti e con le prestazioni da erogare.
+Esso è sottoposto a revisione periodica ogni tre anni. I fattori considerati ai fini dell’eventuale modifica 
+sono riportati in apposita deliberazione.  
+Il Documento è trasmesso, in sede di prima definizione e, in seguito, in occasione di ogni sua 
+modificazione: 
+–agli organi di controllo della forma pensionistica e al responsabile della stessa; 
+–ai soggetti incaricati della gestione finanziaria e alla banca depositaria; 
+–alla COVIP, entro venti giorni dalla sua formalizzazione. 
+Il Documento non costituisce documentazione contrattuale e di conseguenza alcuna azione, lamentela o 
+richiesta potrà essere formulata sulla base delle informazioni in esso contenute, se non riportate nella 
+Nota Informativa che, oltre al Regolamento, rappresenta l’unico documento contrattuale che lega 
+l’aderente a CNP Vita Assicura S.p.A. in relazione al Fondo Pensione Aperto CNP.
+=== pagina 5 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 5
+Il Documento è a disposizione degli aderenti che ne facciano richiesta per iscritto, a mezzo posta 
+elettronica o posta ordinaria, ai seguenti indirizzi: 
+PEC: cnpvita_assicura@legalmail.it 
+Via Arbe, 49 - 20161 Milano 
+II. AMBITO DI APPLICAZIONE 
+La Politica si applica ai soggetti coinvolti nel processo di attuazione della politica di investimento del 
+Fondo Pensione Aperto CNP, ciascuno per quanto di competenza. Essa disciplina l’investimento delle 
+risorse afferenti al Fondo, costituito come patrimonio separato e autonomo della Compagnia, con 
+riferimento ai cinque comparti previsti.  
+III. PRINCIPI GUIDA 
+1. OBIETTIVI DELLA POLITICA D’INVESTIMENTO 
+Il Fondo Pensione Aperto CNP ha l’ OBIETTIVO di consentire agli aderenti di disporre, all’atto del 
+pensionamento, di prestazioni pensionistiche complementari del sistema obbligatorio. A tal fine, esso 
+provvede alla raccolta dei contributi, alla gestione delle risorse nell’esclusivo interesse degli aderenti e 
+all’erogazione delle prestazioni secondo quanto disposto dalla normativa in materia di previdenza 
+complementare.  
+L’obiettivo finale della politica d’investimento del Fondo è di massimizzare le risorse destinate alle 
+prestazioni fornendo agli aderenti opzioni d’investimento diversificate in funzione di diverse aspettative di 
+rendimento e di tolleranza ai rischi finanziari, perseguendo combinazioni di rischio-rendimento efficienti in 
+termini di rapporto tra rendimenti e volatilità dei risultati, in qualsiasi arco temporale considerato. 
+2. Caratteristiche dei potenziali aderenti 
+Il Fondo Pensione Aperto CNP è destinato sia alle adesioni individuali di tutti i soggetti indistintamente 
+sia alle adesioni dei lavoratori sulla base, ad esempio, di contratti o accordi collettivi aziendali. Esso 
+non ha quindi una popolazione di riferimento predefinita. D’altra parte, la pluralità di possibili orizzonti 
+temporali corrispondenti a diverse tipologie di iscritti rende necessario disporre di più opzioni 
+d’investimento, con facoltà concessa ai potenziali aderenti di destinare liberamente i contributi a uno o più 
+comparti con combinazioni di rischio-rendimento diversificate. Ciò rende il Fondo idoneo a soddisfare le 
+aspettative di popolazioni di riferimento ampie. 
+3. I comparti: obiettivi di rendimento e rischio 
+L’obiettivo di soddisfare i bisogni previdenziali della popolazione di riferimento comporta la necessità di 
+prevedere una pluralità di orizzonti temporali ai quali associare diversi rendimenti medi annui attesi e 
+diverse combinazioni di rischio-rendimento. 
+Di seguito si riportano le principali caratteristiche, in termini di obiettivi, dei comparti. 
+Comparto Azionario
+ Orizzonte temporale: lungo (oltre i 15 anni).
+=== pagina 6 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 6
+ Rendimento medio annuo atteso nell’orizzonte temporale: 5%.
+ Variabilità attesa del rendimento (deviazione standard annualizzata) 18%
+ La perdita massima annua al 95% (VaR 0.95) è pari al -29,70% 
+Comparto Bilanciato 
+ Orizzonte temporale: medio lungo (tra 10 e 15 anni)
+ Rendimento medio annuo atteso nell’orizzonte temporale: 2,60%
+ Variabilità attesa del rendimento (deviazione standard annualizzata): 10%
+ La perdita massima annua al 95% (VaR 0.95) è pari al -16.50%  
+Comparto Obbligazionario 
+ Orizzonte temporale: medio (tra 5 e 10 anni)
+ Rendimento medio annuo atteso nell’orizzonte temporale: 2,30%
+ Variabilità attesa del rendimento (deviazione standard annualizzata 7%
+ La perdita massima annua al 95% (VaR 0.95) è pari al -11.55%
+Comparto con Garanzia di restituzione del capitale
+ Orizzonte temporale: breve (fino a 5 anni)
+ Rendimento medio annuo atteso nell’orizzonte temporale: 2,00%
+ Variabilità attesa del rendimento (deviazione standard annualizzata) 4%
+ La perdita massima mensile al 95% (VaR 0.95) è pari al 2.5%  
+Comparto con Garanzia di rendimento minimo prestabilito  
+ Orizzonte temporale: breve (fino a 5 anni)
+ Rendimento medio annuo atteso nell’orizzonte temporale: 2,00%.
+ Variabilità attesa del rendimento (deviazione standard annualizzata) 4%
+ La perdita massima mensile al 95% (VaR 0.95) è pari al 2.5%  
+I rendimenti medi attesi, sopra riportati, sono espressi in termini reali e calcolati sulla base della 
+composizione del comparto; tali rendimenti sono al lordo dei costi e della tassazione.
+I valori sono ottenuti da modelli e non rappresentano in alcun modo un impegno contrattuale nei confronti 
+degli aderenti. 
+4. Criteri di attuazione della Politica di investimento 
+Per realizzare gli obiettivi prefissati, il Fondo Pensione CNP prevede cinque opzioni di investimento 
+(comparti): Azionario, Bilanciato, Obbligazionario, Garanzia di restituzione del capitale, Garanzia di 
+rendimento minimo prestabilito. I contributi versati vengono impiegati nel comparto scelto dall’aderente 
+tra i cinque offerti dal Fondo. Qualora l’aderente ritenga che le caratteristiche di un solo comparto non 
+siano adeguate rispetto alle sue personali esigenze, può ripartire tra i comparti il flusso contributivo o la 
+posizione individuale eventualmente già maturata.
+Ai sensi dell’art. 8, comma 9, del D.Lgs. 5 dicembre 2005, n. 252, come modificato dalla Legge 30 
+dicembre 2025, n. 199, e delle Istruzioni COVIP adottate con Deliberazione del 23 giugno 2026, i 
+contributi e le quote di TFR derivanti da adesioni non esplicite devono essere investiti in percorsi o linee 
+caratterizzati da differenti profili di rischio-rendimento, tenendo conto dell’età anagrafica dell’aderente e 
+dell’orizzonte temporale al pensionamento (meccanismo di Life cycle).
+=== pagina 7 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 7
+Nel periodo transitorio (dal 1 luglio 2026) previsto dal paragrafo 10 delle citate Istruzioni COVIP, la forma 
+pensionistica, non ancora pienamente adeguata, raccoglierà le adesioni non esplicite collocando gli 
+aderenti nel comparto (Azionario o Bilanciato o Garanzia di Restituzione del Capitale) più adeguato in 
+funzione dell’età anagrafica degli aderenti. 
+In particolare, l’allocazione, effettuata in funzione dell’età di ingresso sarà: 
+ Fino a 50 anni-> comparto Azionario  
+ Da 51 a 59-> Comparto Bilanciato 
+ Da 60 anni-> Comparto Garanzia di restituzione del capitale 
+Quando il percorso di Life cycle definitivo sarà attivato, le adesioni non esplicite raccolte nel periodo 
+transitorio saranno successivamente riallocate nel percorso life cycle finale, secondo le modalità che 
+saranno definite dalla forma pensionistica e in funzione dell’età anagrafica dell’aderente al momento 
+dell’adeguamento. 
+Il comparto con Garanzia di Rendimento Minimo Prestabilito era destinato al conferimento tacito del TFR 
+per le adesioni fino al 30 settembre 2020. Tale comparto è chiuso alle nuove adesioni a partire dal 1° 
+ottobre 2020 e può essere alimentato solo da contributi relativi agli Aderenti già allocati nello stesso. 
+Ogni comparto del Fondo ha propri criteri di attuazione della politica di investimento.   
+5. Comparto Azionario 
+Ripartizione strategica delle attività
+Il Comparto Azionario intende perseguire, nel lungo periodo, la crescita del capitale investito, offrendo ai 
+partecipanti un investimento in strumenti finanziari opportunamente diversificati e selezionati al fine di 
+rispondere alle esigenze di coloro che hanno un’elevata propensione al rischio ed è consigliato a coloro 
+che sono lontani dall’accesso alla prestazione pensionistica complementare e che intendono permanere 
+nel Comparto per molti anni.
+La politica di gestione del comparto è principalmente orientata verso strumenti finanziari di natura 
+azionaria quotati e non quotati. È prevista la possibilità, di detenere una componente del patrimonio 
+investita in titoli obbligazionari, così come è prevista la possibilità di detenere una parte del patrimonio in 
+disponibilità liquide in misura non superiore al 10%. 
+Il benchmark di riferimento è il seguente: 
+Nome Peso
+FTSE 3-Month Euro Eurodeposit LCL(ex Citi Euro 3M Eurodeposit) 3% 
+ICE BofA Euro Government Index 17% 
+EURO STOXX Net Return EUR 53% 
+S&P World Ex-Europe Index (EUR) NTR. 27%
+=== pagina 8 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 8
+FTSE 3-Month Euro Eurodeposit LCL(ex Citi Euro 3M Eurodeposit)  
+Indice rappresentativo delle obbligazioni e dei depositi con scadenza a breve termine fino a 3 mesi. Indice 
+denominato in euro. 
+ICE BofA Euro Government Index 
+Indice rappresentativo del comparto obbligazionario governativo dei paesi dell’eurozona, riferito ai titoli di 
+Stato emessi in euro. 
+EURO STOXX Net Return EUR 
+Indice rappresentativo del comparto azionario dell’area euro. L’indice si riferisce alle principali società 
+quotate a maggiore capitalizzazione e liquidità.
+S&P World Ex-Europe Index (EUR) NTR 
+Indice rappresentativo dei mercati azionari sviluppati extra-europei; la versione NTR incorpora il 
+reinvestimento dei dividendi al netto della fiscalità. 
+Strumenti finanziari nei quali si intende investire 
+Il Comparto Azionario attua una politica di investimento orientata prevalentemente verso strumenti 
+finanziari di natura azionaria quotati Il portafoglio risulta diversificato da un punto di vista valutario. A livello 
+di portafoglio complessivo, resta ferma la possibilità di detenere una parte del patrimonio del comparto 
+in titoli obbligazionari. Resta inoltre ferma la possibilità, in particolari situazioni di mercato e comunque in 
+misura non superiore al 10% del totale, di detenere una parte del patrimonio in disponibilità liquide. Il 
+Comparto effettua investimenti prevalentemente in mercati di Paesi aderenti all’OCSE.
+Il Comparto investe in titoli azionari emessi da aziende ad elevata capitalizzazione. Non sono previsti 
+particolari settori in cui concentrare l’attività di investimento.
+La composizione del portafoglio azionario si sofferma sulla selezione del singolo titolo rispetto al settore 
+d’appartenenza. In particolare, l’investimento in azioni tiene conto delle probabili evoluzioni del singolo 
+titolo e dei fattori di rischio in esso impliciti. I titoli obbligazionari oggetto di investimento possono essere 
+sia italiani che esteri, con emittenti sia pubblici che privati con rating non inferiore ad “Investment Grade”.
+Limitatamente alla componente rappresentata da quote o azioni di O.I.C.R. è ammesso l’investimento 
+residuale in titoli di debito non “Investment Grade”. Nella valutazione dell’adeguatezza del merito creditizio 
+degli emittenti, la Società Istitutrice del Fondo Pensione Aperto evita l’affidamento esclusivo ai giudizi 
+delle Agenzie di Rating del credito.
+La duration del portafoglio obbligazionario è compresa tra 4,5 e 8 anni. 
+Nella seguente tabella sono stati quindi identificati i vincoli di esposizione massima e minima (i limiti 
+riportati considerano il patrimonio del comparto al valore di mercato).
+=== pagina 9 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 9
+Limiti: Comparto Azionario 
+Limiti 
+COMPONENTE OBBLIGAZIONARIA
+Obbligazionario Governativo Emittenti Sovrani investment grade ≥ 0% ≤ 35% 
+Obbligazionario Corporate Altri Emittenti con rating investment grade  ≥ 0% ≤ 20% 
+Area Geografica Europa  ≥ 0% ≤ 35% 
+  Altro ≥ 0% ≤ 30% 
+COMPONENTE AZIONARIA
+Azionario Azionario ≥ 65% ≤ 95% 
+Area Geografica Europa  ≥ 0% ≤ 90% 
+  Altro ≥ 0% ≤ 80% 
+L’utilizzo di O.I.C.R, prevalentemente armonizzati, è ammesso in un’ottica di diversificazione dei rischi e di 
+efficienza gestionale.  
+Tali strumenti, nel rispetto della normativa europea vigente, possono fare uso di derivati per finalità di 
+copertura, efficienza gestionale o investimento. Di conseguenza, anche il Comparto può risultare 
+indirettamente esposto a tali strumenti tramite gli OICR selezionati. L’impiego dei derivati da parte degli 
+OICR armonizzati è disciplinato dalla normativa UCITS, che impone limiti all’esposizione complessiva e 
+rigorosi presidi di gestione e controllo del rischio, in modo da favorirne un utilizzo coerente con la tutela 
+degli aderenti e con gli obiettivi di investimento del Comparto. 
+L’investimento in OICR è effettuato qualora siano chiaramente esplicitati la struttura dei costi dello 
+strumento e le tempistiche e modalità di ingresso e uscita. 
+L’analisi delle strategie di investimento sottostanti agli OICR e la relativa attività di selezione sono 
+demandate al gestore delegato, che vi provvede sotto la propria responsabilità e in conformità alle 
+disposizioni del mandato conferito. 
+Modalità e stile di gestione 
+Per la gestione del comparto è stata conferita delega ad Amundi sgr S.p.A.
+Lo stile di gestione è attivo; a tal fine si rileva che:
+- il livello massimo di rotazione annua del patrimonio (turnover) e pari al 100% (tale obiettivo rimarrà 
+comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si 
+troverà ad operare);
+- il livello massimo di variabilità annua della differenza di rendimento tra il portafoglio gestito e quello 
+benchmark (tracking error volatility) è pari al 7%.
+=== pagina 10 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 10
+La delega di gestione ha durata di un anno e si intende tacitamente ed automaticamente rinnovata per un 
+ulteriore periodo di un anno solare, salvo disdetta da darsi almeno 40 giorni prima della scadenza con 
+lettera raccomandata.
+Tale delega si esercita secondo i limiti fissati dalle caratteristiche di gestione del Comparto, dal
+ Regolamento del Fondo e dalla normativa vigente in materia.
+La titolarità dei diritti di voto inerente gli strumenti finanziari riferiti al Fondo Pensione Aperto CNP spetta 
+a CNP Vita Assicura S.p.A., che si riserva la possibilità di delegare a terzi, compresa la SGR, l’esercizio del 
+diritto di voto ai sensi della vigente normativa di riferimento. 
+CNP Vita Assicura S.p.A. si impegna a corrispondere alla SGR una commissione di gestione, determinata 
+in ragione d’anno, pari allo 0,01%.
+Tale commissione è calcolata trimestralmente sul patrimonio medio del Comparto in gestione e liquidate 
+entro il mese successivo. 
+6. Comparto Bilanciato 
+Ripartizione strategica delle attività
+Il Comparto Bilanciato persegue l’obiettivo di incrementare nel medio lungo termine il capitale investito 
+in valori mobiliari opportunamente diversificati e selezionati, sfruttando le opportunità offerte dai mercati 
+internazionali, al fine di rispondere alle esigenze di coloro che hanno una media propensione al rischio e 
+di coloro a cui manchino più di dieci anni all’accesso alla prestazione pensionistica complementare.
+La politica di gestione del comparto è orientata ad una composizione del portafoglio diversificata dal 
+punto di vista valutario e bilanciata attraverso una combinazione in strumenti finanziari di natura 
+azionaria ed obbligazionaria. La componente azionaria può raggiungere il limite massimo del 40% del 
+patrimonio del comparto. E’ prevista la possibilità, in particolari situazioni di mercato, di detenere una parte 
+del patrimonio in disponibilità liquide in misura non superiore al 10%. 
+Il benchmark di riferimento è il seguente: 
+Nome Peso
+FTSE 3-Month Euro Eurodeposit LCL(ex Citi Euro 3M Eurodeposit) 5% 
+ICE BofA Euro Government Index 65% 
+EURO STOXX Net Return EUR 20% 
+S&P World Ex-Europe Index (EUR) NTR. 10% 
+FTSE 3-Month Euro Eurodeposit LCL(ex Citi Euro 3M Eurodeposit)  
+Indice rappresentativo delle obbligazioni e dei depositi con scadenza a breve termine fino a 3 mesi. Indice 
+denominato in euro.
+=== pagina 11 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 11
+ICE BofA Euro Government Index 
+Indice rappresentativo del comparto obbligazionario governativo dei paesi dell’eurozona, riferito ai titoli di 
+Stato emessi in euro.  
+EURO STOXX Net Return EUR 
+Indice rappresentativo del comparto azionario dell’area euro. L’indice si riferisce alle principali società 
+quotate a maggiore capitalizzazione e liquidità. 
+S&P World Ex-Europe Index (EUR) NTR 
+Indice rappresentativo dei mercati azionari sviluppati extra-europei; la versione NTR incorpora il 
+reinvestimento dei dividendi al netto della fiscalità. 
+Strumenti finanziari nei quali si intende investire  
+Il Comparto Bilanciato si propone di attuare una politica di investimento tendente ad una composizione 
+del portafoglio diversificata dal punto di vista valutario e bilanciata attraverso una combinazione di 
+investimenti in strumenti finanziari di natura azionaria e obbligazionaria.
+Il patrimonio del Comparto può essere investito in titoli di capitale nel limite massimo del 40%.
+Resta ferma la possibilità che una parte del portafoglio risulti investito, in particolari condizioni di mercato 
+ed in misura non superiore al 10% del totale, in disponibilità liquide.
+Il Comparto effettua investimenti prevalentemente in mercati di Paesi aderenti all’OCSE.
+I titoli obbligazionari oggetto di investimento possono essere sia italiani che esteri, con emittenti sia 
+pubblici che privati con rating non inferiore ad “Investment Grade”.
+Limitatamente alla componente rappresentata da quote o azioni di O.I.C.R. è ammesso l’investimento 
+residuale in titoli di debito non “Investment Grade”. 
+Nella valutazione dell’adeguatezza del merito creditizio degli emittenti, la Società Istitutrice del Fondo 
+Pensione Aperto evita l’affidamento esclusivo ai giudizi delle Agenzie di Rating del credito.
+La duration del portafoglio obbligazionario è compresa tra 4,5 e 8 anni. 
+I titoli azionari e obbligazionari oggetto di investimento potranno essere sia italiani che esteri emessi da 
+aziende ad elevata capitalizzazione.
+La composizione del portafoglio è basata, per la parte obbligazionaria, sull’analisi del rischio Paese per 
+quanto concerne la selezione di titoli di emittenti governativi e del rischio di credito per quanto riguarda i 
+titoli di emittenti privati.
+Per la parte azionaria ci si sofferma sulla selezione del singolo titolo rispetto al settore d’appartenenza.
+In particolare, l’investimento in azioni terrà conto delle probabili evoluzioni relative al singolo titolo e dei 
+fattori di rischio in esso impliciti.
+Nella seguente tabella sono stati quindi identificati i vincoli di esposizione massima e minima (i limiti 
+riportati considerano il patrimonio del comparto al valore di mercato).
+=== pagina 12 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 12
+Limiti: Comparto Bilanciato 
+Limiti 
+COMPONENTE OBBLIGAZIONARIA
+Obbligazionario Governativo Emittenti Sovrani investment grade   ≥ 10% ≤ 100% 
+Obbligazionario Corporate Altri Emittenti con rating investment grade   ≥ 0% ≤ 30% 
+Area Geografica Europa  ≥ 10% ≤ 100% 
+  Altro      ≥  0% ≤ 60% 
+COMPONENTE AZIONARIA
+Azionario Azionario   ≥ 0% ≤ 40% 
+Area Geografica Europa  ≥ 0% ≤ 40% 
+  Altro   ≥ 0% ≤ 40% 
+L’utilizzo di O.I.C.R, prevalentemente armonizzati, è ammesso in un’ottica di diversificazione dei rischi e di 
+efficienza gestionale.  
+Tali strumenti, nel rispetto della normativa europea vigente, possono fare uso di derivati per finalità di 
+copertura, efficienza gestionale o investimento. Di conseguenza, anche il Comparto può risultare 
+indirettamente esposto a tali strumenti tramite gli OICR selezionati. L’impiego dei derivati da parte degli 
+OICR armonizzati è disciplinato dalla normativa UCITS, che impone limiti all’esposizione complessiva e 
+rigorosi presidi di gestione e controllo del rischio, in modo da favorirne un utilizzo coerente con la tutela 
+degli aderenti e con gli obiettivi di investimento del Comparto. 
+L’investimento in OICR è effettuato qualora siano chiaramente esplicitati la struttura dei costi dello 
+strumento e le tempistiche e modalità di ingresso e uscita. 
+L’analisi delle strategie di investimento sottostanti agli OICR e la relativa attività di selezione sono 
+demandate al gestore delegato, che vi provvede sotto la propria responsabilità e in conformità alle 
+disposizioni del mandato conferito. 
+Modalità e stile di gestione  
+Per la gestione del comparto è stata conferita delega ad Amundi sgr S.p.A.
+Lo stile di gestione è attivo; a tal fine si rileva che:
+- il livello massimo di rotazione annua del patrimonio (turnover) e pari al 100% (tale obiettivo rimarrà 
+comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si 
+troverà ad operare);
+- il livello massimo di variabilità annua della differenza di rendimento tra il portafoglio gestito e quello 
+benchmark (tracking error volatility) è pari al 5%.
+=== pagina 13 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 13
+La delega di gestione ha durata di un anno e si intende tacitamente ed automaticamente rinnovata per un 
+ulteriore periodo di un anno solare, salvo disdetta da darsi almeno 40 giorni prima della scadenza con 
+lettera raccomandata.
+Tale delega si esercita secondo i limiti fissati dalle caratteristiche di gestione del Comparto, dal 
+Regolamento del Fondo e dalla normativa vigente in materia.
+La titolarità dei diritti di voto inerente gli strumenti finanziari riferiti al Fondo Pensione Aperto CNP spetta 
+a CNP Vita Assicura S.p.A., che si riserva la possibilità di delegare a terzi, compresa la SGR, l’esercizio del 
+diritto di voto ai sensi della vigente normativa di riferimento. 
+CNP Vita Assicura S.p.A. si impegna a corrispondere alla SGR una commissione di gestione, determinata 
+in ragione d’anno, pari allo 0,01%.
+Tale commissione è calcolata trimestralmente sul patrimonio medio del Comparto in gestione e liquidate 
+entro il mese successivo. 
+7. Comparto Obbligazionario 
+Ripartizione strategica delle attività
+Il Comparto Obbligazionario persegue l’obiettivo di conseguire un rendimento in linea con l’andamento 
+dei tassi del mercato obbligazionario nel medio termine al fine di rispondere alle esigenze di coloro che 
+hanno una contenuta propensione al rischio e un orizzonte temporale di riferimento di medio periodo.
+La politica di gestione del comparto persegue una composizione del portafoglio leggermente 
+diversificata dal punto di vista valutario ed orientata prevalentemente verso strumenti finanziari di 
+natura obbligazionaria. Il patrimonio del comparto può essere investito in titoli di capitale nel limite 
+massimo del 20%. 
+ Il benchmark di riferimento è il seguente: 
+Nome Peso
+FTSE 3-Month Euro Eurodeposit LCL(ex Citi Euro 3M Eurodeposit) 10% 
+ICE BofA Euro Government Index 75% 
+EURO STOXX Net Return EUR 10% 
+S&P World Ex-Europe Index (EUR) NTR. 5% 
+FTSE 3-Month Euro Eurodeposit LCL(ex Citi Euro 3M Eurodeposit)  
+Indice rappresentativo delle obbligazioni e dei depositi con scadenza a breve termine fino a 3 mesi. Indice 
+denominato in euro. 
+ICE BofA Euro Government Index 
+Indice rappresentativo del comparto obbligazionario governativo dei paesi dell’eurozona, riferito ai titoli di 
+Stato emessi in euro.
+=== pagina 14 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 14
+EURO STOXX Net Return EUR 
+Indice rappresentativo del comparto azionario dell’area euro. L’indice si riferisce alle principali società 
+quotate a maggiore capitalizzazione e liquidità. 
+S&P World Ex-Europe Index (EUR) NTR 
+Indice rappresentativo dei mercati azionari sviluppati extra-europei; la versione NTR incorpora il 
+reinvestimento dei dividendi al netto della fiscalità. 
+Strumenti finanziari nei quali si intende investire 
+Il Comparto Obbligazionario si propone di attuare una politica di investimento volta a perseguire una 
+composizione del portafoglio leggermente diversificata da un punto di vista valutario ed orientata 
+prevalentemente verso strumenti finanziari di natura obbligazionaria. 
+Il patrimonio del Comparto potrà essere investito in titoli di capitale nel limite massimo del 20%. Il 
+comparto effettuerà investimenti in mercati di Paesi aderenti all’OCSE. . 
+I titoli obbligazionari oggetto di investimento possono essere sia italiani che esteri, con emittenti sia 
+pubblici che privati con rating non inferiore ad “Investment Grade”.
+Limitatamente alla componente rappresentata da quote o azioni di O.I.C.R. è ammesso l’investimento 
+residuale in titoli di debito non “Investment Grade”. 
+Nella valutazione dell’adeguatezza del merito creditizio degli emittenti, la Società Istitutrice del Fondo 
+Pensione Aperto evita l’affidamento esclusivo ai giudizi delle Agenzie di Rating del credito.
+La duration del portafoglio obbligazionario è compresa tra 4,5 e 8 anni. 
+I titoli azionari ed obbligazionari oggetto di investimento potranno essere sia italiani che esteri emessi da 
+aziende ad elevata capitalizzazione.
+La composizione del portafoglio è basata, per la parte obbligazionaria sull’analisi del rischio Paese per 
+quanto concerne la selezione dei titoli di emittenti governativi e del rischio di credito per quanto riguarda 
+i titoli emessi da emittenti privati.
+Nella seguente tabella sono stati quindi identificati i vincoli di esposizione massima e minima (i limiti 
+riportati considerano il patrimonio del comparto al valore di mercato).
+Limiti: Comparto Obbligazionario 
+Limiti 
+COMPONENTE OBBLIGAZIONARIA
+Obbligazionario Governativo Emittenti Sovrani investment grade   ≥ 50% ≤ 100% 
+Obbligazionario Corporate Altri Emittenti con rating investment grade   ≥ 0% ≤ 30% 
+Area Geografica Europa  ≥ 50% ≤ 100% 
+  Altro     ≥   0% ≤ 80%
+=== pagina 15 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 15
+COMPONENTE AZIONARIA 
+Azionario Azionario   ≥ 0% ≤ 20% 
+Area Geografica Europa  ≥ 0% ≤ 20% 
+  Altro   ≥ 0% ≤ 20% 
+L’utilizzo di O.I.C.R, prevalentemente armonizzati, è ammesso in un’ottica di diversificazione dei rischi e di 
+efficienza gestionale.  
+Tali strumenti, nel rispetto della normativa europea vigente, possono fare uso di derivati per finalità di 
+copertura, efficienza gestionale o investimento. Di conseguenza, anche il Comparto può risultare 
+indirettamente esposto a tali strumenti tramite gli OICR selezionati. L’impiego dei derivati da parte degli 
+OICR armonizzati è disciplinato dalla normativa UCITS, che impone limiti all’esposizione complessiva e 
+rigorosi presidi di gestione e controllo del rischio, in modo da favorirne un utilizzo coerente con la tutela 
+degli aderenti e con gli obiettivi di investimento del Comparto. 
+L’investimento in OICR è effettuato qualora siano chiaramente esplicitati la struttura dei costi dello 
+strumento e le tempistiche e modalità di ingresso e uscita. 
+L’analisi delle strategie di investimento sottostanti agli OICR e la relativa attività di selezione sono 
+demandate al gestore delegato, che vi provvede sotto la propria responsabilità e in conformità alle 
+disposizioni del mandato conferito. 
+Modalità e stile di gestione 
+Per la gestione del comparto è stata conferita delega a Amundi sgr S.p.A.
+Lo stile di gestione è attivo; a tal fine si rileva che:
+- il livello massimo di rotazione annua del patrimonio (turnover) e pari al 100% (tale obiettivo rimarrà 
+comunque suscettibile di variazioni in dipendenza di particolari fasi di mercato in cui il gestore si 
+troverà ad operare);
+- il livello massimo di variabilità annua della differenza di rendimento tra il portafoglio gestito e quello 
+benchmark (tracking error volatility) è pari al 5%.
+La delega di gestione ha durata di un anno e si intende tacitamente ed automaticamente rinnovata per un 
+ulteriore periodo di un anno solare, salvo disdetta da darsi almeno 40 giorni prima della scadenza con 
+lettera raccomandata.
+Tale delega si esercita secondo i limiti fissati dalle caratteristiche di gestione del Comparto, dal 
+Regolamento del Fondo e dalla normativa vigente in materia.
+La titolarità dei diritti di voto inerente gli strumenti finanziari riferiti al Fondo Pensione Aperto CNP spetta 
+a CNP Vita Assicura S.p.A., che si riserva la possibilità di delegare a terzi, compresa la SGR, l’esercizio del 
+diritto di voto ai sensi della vigente normativa di riferimento. 
+CNP Vita Assicura S.p.A. si impegna a corrispondere alla SGR una commissione di gestione, determinata 
+in ragione d’anno, pari allo 0,01%.
+=== pagina 16 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 16
+Tale commissione è calcolata trimestralmente sul patrimonio medio del Comparto in gestione e liquidate 
+entro il mese successivo. 
+8. Comparto con Garanzia di restituzione del capitale 
+Ripartizione strategica delle attività
+La garanzia prevede la restituzione della somma dei versamenti contributivi al netto delle spese 
+direttamente a carico dell’aderente e degli eventuali riscatti o anticipazioni non reintegrate, al verificarsi 
+dei seguenti eventi: 
+ esercizio del diritto alla prestazione pensionistica;
+ decesso dell’aderente;
+ invalidità permanente dell’aderente che comporti la riduzione della capacità di lavoro a meno di un 
+terzo.
+Le caratteristiche del comparto e la presenza della garanzia di restituzione del capitale, al netto di qualsiasi 
+onere, hanno l’obiettivo di tutelare in termini nominali il capitale investito e si prestano a soddisfare gli 
+investitori con una bassa propensione al rischio e coloro che si avvicinano al momento di accesso alla 
+prestazione pensionistica complementare.
+Il Comparto con garanzia di restituzione del capitale si propone di attuare una politica di investimento 
+orientata prevalentemente verso strumenti finanziari di natura obbligazionaria denominati in euro, 
+con possibilità di attuare una diversificazione degli investimenti attraverso titoli obbligazionari e di 
+capitale dell’area OCSE. 
+Il Comparto ha uno stile di gestione flessibile, pertanto il benchmark non ne costituisce un parametro di 
+riferimento significativo.
+L’obiettivo della gestione finanziaria del Comparto è quella di replicare o superare in un orizzonte 
+temporale pluriennale il suo indicatore di rendimento, rappresentato dalla rivalutazione annua del TFR, 
+nella misura fissata dalla legge.
+Strumenti finanziari nei quali si intende investire 
+Gli strumenti finanziari di natura azionaria ed obbligazionaria oggetto di investimento potranno essere sia 
+italiani che esteri, di emittenti sia pubblici, sia privati.
+L’investimento in strumenti finanziari emessi da uno stesso soggetto non può essere superiore al 5% del 
+totale del patrimonio del Comparto. L’investimento in strumenti finanziari emessi da soggetti appartenenti 
+a un unico gruppo non può essere superiore al 10% del totale del patrimonio del Comparto.
+Il rating degli strumenti obbligazionari in portafoglio sarà principalmente non inferiore ad “Investment 
+Grade”. È possibile un investimento fino al 10% del patrimonio in titoli obbligazionari con rating inferiore ad 
+investment grade. 
+Nella valutazione dell’adeguatezza del merito creditizio degli emittenti, la Società Istitutrice del Fondo 
+Pensione Aperto evita l’affidamento esclusivo ai giudizi delle agenzie di Rating del credito.
+=== pagina 17 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 17
+Il Comparto ha la possibilità di investire, senza limitazioni, in strumenti del mercato monetario.
+La duration del portafoglio obbligazionario è compresa tra 0 e 8 anni,  
+Il patrimonio del comparto potrà essere investito in titoli di capitale nel limite massimo del 20%; 
+l’esposizione ai titoli di capitale quotati nei paesi emergenti è limitata al 5%.
+Nella seguente tabella sono stati quindi identificati i vincoli di esposizione massima e minima (i limiti 
+riportati considerano il patrimonio del comparto al valore di mercato). 
+Limiti: Comparto con Garanzia di restituzione del capitale 
+Limiti 
+COMPONENTE OBBLIGAZIONARIA 
+Obbligazionario Emittenti con Rating investment grade   ≥ 70% ≤ 100%
+Area Geografica OCSE     ≥ 0% ≤ 100%
+  Altro         ≥ 0% ≤ 10% 
+COMPONENTE AZIONARIA 
+Azionario Azionario         ≥ 0% ≤ 20% 
+Area Geografica OCSE     ≥ 0% ≤ 20% 
+  Altro         ≥ 0% ≤ 5% 
+L’utilizzo di O.I.C.R, prevalentemente armonizzati, è ammesso in un’ottica di diversificazione dei rischi e di 
+efficienza gestionale.  
+Tali strumenti, nel rispetto della normativa europea vigente, possono fare uso di derivati per finalità di 
+copertura, efficienza gestionale o investimento. Di conseguenza, anche il Comparto può risultare 
+indirettamente esposto a tali strumenti tramite gli OICR selezionati. L’impiego dei derivati da parte degli 
+OICR armonizzati è disciplinato dalla normativa UCITS, che impone limiti all’esposizione complessiva e 
+rigorosi presidi di gestione e controllo del rischio, in modo da favorirne un utilizzo coerente con la tutela 
+degli aderenti e con gli obiettivi di investimento del Comparto. 
+L’investimento in OICR è effettuato qualora siano chiaramente esplicitati la struttura dei costi dello 
+strumento e le tempistiche e modalità di ingresso e uscita. 
+L’analisi delle strategie di investimento sottostanti agli OICR e la relativa attività di selezione sono 
+demandate al gestore delegato, che vi provvede sotto la propria responsabilità e in conformità alle 
+disposizioni del mandato conferito. 
+Modalità e stile di gestione 
+Per la gestione del comparto è stata conferita delega a Amundi sgr S.p.A.
+=== pagina 18 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 18
+Il gestore, in base all’andamento dei principali mercati finanziari, deciderà di volta in volta l’asset allocation; 
+tale suddivisione sarà coerente con il raggiungimento dell’indicatore di rendimento della gestione, 
+rispettando il limite di rischio fissato dalla società ed espresso in termini di perdita massima mensile.
+Il limite di perdita massima del Comparto è pari al 2.5%, espresso come VaR mensile con un intervallo di 
+confidenza del 95% 
+Lo stile di gestione è attivo; a tal fine si rileva che il livello massimo di rotazione annua del patrimonio 
+(turnover) e pari al 100%; tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di 
+particolari fasi di mercato in cui il gestore si troverà ad operare.
+La delega di gestione ha durata di un anno e si intende tacitamente ed automaticamente rinnovata per un 
+ulteriore periodo di un anno solare, salvo disdetta da darsi almeno 40 giorni prima della scadenza con 
+lettera raccomandata.
+Tale delega si esercita secondo i limiti fissati dalle caratteristiche di gestione del Comparto, dal 
+Regolamento del Fondo e dalla normativa vigente in materia.
+La titolarità dei diritti di voto inerente gli strumenti finanziari riferiti al Fondo Pensione Aperto CNP spetta 
+a CNP Vita Assicura S.p.A., che si riserva la possibilità di delegare a terzi, compresa la SGR, l’esercizio del 
+diritto di voto ai sensi della vigente normativa di riferimento. 
+CNP Vita Assicura S.p.A. si impegna a corrispondere alla SGR una commissione di gestione, determinata 
+in ragione d’anno, pari allo 0,01%.
+Tale commissione è calcolata trimestralmente sul patrimonio medio del Comparto in gestione e liquidata 
+entro il mese successivo. 
+9. Comparto con Garanzia di rendimento minimo prestabilito 
+Ripartizione strategica delle attività
+La garanzia prevede la restituzione del montante dei versamenti al netto delle spese direttamente a 
+carico dell’aderente e dei riscatti e delle anticipazioni non reintegrate, al tasso minimo garantito del 2% 
+composto su base annua al verificarsi dei seguenti eventi: 
+ esercizio del diritto alla prestazione pensionistica;
+ decesso dell’aderente;
+ invalidità permanente dell’aderente che comporti la riduzione della capacità di lavoro a meno di un 
+terzo.
+Le caratteristiche del comparto, unito alla presenza della garanzia di un rendimento minimo, hanno 
+l’obiettivo di tutelare in termini reali il capitale investito, con l’obiettivo di incrementarlo nel medio – 
+lungo periodo e si prestano a soddisfare gli investitori con una bassa propensione al rischio e coloro che 
+si avvicinano al momento di accesso alla prestazione pensionistica complementare.
+Questo Comparto attua una politica orientata prevalentemente verso strumenti finanziari di natura 
+obbligazionaria denominati in euro, con possibilità di attuare una diversificazione degli investimenti 
+attraverso titoli obbligazionari e di capitale dell’area OCSE.
+=== pagina 19 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 19
+Il Comparto ha uno stile di gestione flessibile, pertanto il benchmark non ne costituisce un parametro di 
+riferimento significativo.
+L’obiettivo della gestione finanziaria del Comparto è quella di ottenere risultati in linea con il suo 
+indicatore di rendimento, pari ad una performance media annua composta del 2,00% su un orizzonte 
+temporale di 5 anni.
+Strumenti finanziari nei quali si intende investire 
+Gli strumenti finanziari di natura azionaria ed obbligazionaria oggetto di investimento potranno essere sia 
+italiani che esteri, di emittenti sia pubblici, sia privati.
+L’investimento in strumenti finanziari emessi da uno stesso soggetto non può essere superiore al 5% del 
+totale del patrimonio del Comparto. L’investimento in strumenti finanziari emessi da soggetti 
+appartenenti a un unico gruppo non può essere superiore al 10% del totale del patrimonio del Comparto.
+Il rating degli strumenti obbligazionari in portafoglio sarà principalmente non inferiore ad “Investment 
+Grade”. È possibile un investimento fino al 20% del patrimonio in titoli obbligazionari con rating inferiore 
+ad investment grade. 
+Nella valutazione dell’adeguatezza del merito creditizio degli emittenti, la Società Istitutrice del Fondo 
+Pensione Aperto evita l’affidamento esclusivo ai giudizi delle agenzie di Rating del credito.
+Il Comparto ha la possibilità di investire, senza limitazioni, in strumenti del mercato monetario.
+La duration del portafoglio obbligazionario è compresa tra 0 e 8 anni,  
+Il patrimonio del comparto potrà essere investito in titoli di capitale nel limite massimo del 30%; 
+Nella seguente tabella sono stati quindi identificati i vincoli di esposizione massima e minima (i limiti 
+riportati considerano il patrimonio del comparto al valore di mercato).
+Limiti: Comparto con Garanzia di rendimento minimo prestabilito 
+Limiti 
+COMPONENTE OBBLIGAZIONARIA 
+Obbligazionario Emittenti con rating investment grade   ≥ 50% ≤ 100%
+Area Geografica OCSE ≥ 0% ≤ 100%
+  Altro ≥ 0% ≤ 20% 
+COMPONENTE AZIONARIA 
+Azionario Azionario ≥ 0% ≤ 30% 
+Area Geografica OCSE ≥ 0% ≤ 30% 
+  Altro ≥ 0% ≤ 5%
+=== pagina 20 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 20
+L’utilizzo di O.I.C.R, prevalentemente armonizzati, è ammesso in un’ottica di diversificazione dei rischi e di 
+efficienza gestionale.  
+Tali strumenti, nel rispetto della normativa europea vigente, possono fare uso di derivati per finalità di 
+copertura, efficienza gestionale o investimento. Di conseguenza, anche il Comparto può risultare 
+indirettamente esposto a tali strumenti tramite gli OICR selezionati. L’impiego dei derivati da parte degli 
+OICR armonizzati è disciplinato dalla normativa UCITS, che impone limiti all’esposizione complessiva e 
+rigorosi presidi di gestione e controllo del rischio, in modo da favorirne un utilizzo coerente con la tutela 
+degli aderenti e con gli obiettivi di investimento del Comparto. 
+L’investimento in OICR è effettuato qualora siano chiaramente esplicitati la struttura dei costi dello 
+strumento e le tempistiche e modalità di ingresso e uscita. 
+L’analisi delle strategie di investimento sottostanti agli OICR e la relativa attività di selezione sono 
+demandate al gestore delegato, che vi provvede sotto la propria responsabilità e in conformità alle 
+disposizioni del mandato conferito. 
+Modalità e stile di gestione 
+Per la gestione del comparto è stata conferita delega a Amundi sgr S.p.A.
+Il gestore, in base all’andamento dei principali mercati finanziari, deciderà di volta in volta l’asset 
+allocation; tale suddivisione sarà coerente con il raggiungimento dell’indicatore di rendimento della 
+gestione, rispettando il limite di rischio fissato dalla società ed espresso in termini di perdita massima 
+mensile.
+ll limite di perdita massima del Comparto è pari al 5%, espresso come VaR mensile con un intervallo di 
+confidenza del 95%. 
+Lo stile di gestione è attivo; a tal fine si rileva che il livello massimo di rotazione annua del patrimonio 
+(turnover) e pari al 100%; tale obiettivo rimarrà comunque suscettibile di variazioni in dipendenza di 
+particolari fasi di mercato in cui il gestore si troverà ad operare.
+La delega di gestione ha durata di un anno e si intende tacitamente ed automaticamente rinnovata per 
+un ulteriore periodo di un anno solare, salvo disdetta da darsi almeno 40 giorni prima della scadenza 
+con lettera raccomandata.
+Tale delega si esercita secondo i limiti fissati dalle caratteristiche di gestione del Comparto, dal 
+Regolamento del Fondo e dalla normativa vigente in materia.
+La titolarità dei diritti di voto inerente gli strumenti finanziari riferiti al Fondo Pensione Aperto CNP spetta 
+a CNP Vita Assicura S.p.A., che si riserva la possibilità di delegare a terzi, compresa la SGR, l’esercizio del 
+diritto di voto ai sensi della vigente normativa di riferimento. 
+CNP Vita Assicura S.p.A. si impegna a corrispondere alla SGR una commissione di gestione, determinata 
+in ragione d’anno, pari allo 0,01%.
+Tale commissione è calcolata trimestralmente sul patrimonio medio del Comparto in gestione e 
+liquidate entro il mese successivo.
+=== pagina 21 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 21
+IV.     GOVERNANCE 
+I soggetti coinvolti nel processo di attuazione della politica di investimento sono:
+–l’Organo amministrativo di CNP Vita Assicura S.p.A (di seguito “la Compagnia”); 
+–la Funzione Investimenti della Compagnia; 
+–la Funzione Risk Management della Compagnia; 
+–la società Amundi SGR Spa., soggetto delegato alla gestione finanziaria; 
+–la Banca Depositaria Societè Generale Securities Services S.p.A. 
+A tali soggetti sono attribuiti i compiti e le responsabilità sinteticamente riportati di seguito. 
+1. Processo di attuazione della Politica  
+Di seguito sono riportate in dettaglio le varie fasi messe in atto dalla Compagnia durante tutto il 
+processo di attuazione della Politica per garantirne la corretta governance. 
+–definizione e adozione della politica di investimento idonea a raggiungere gli 
+obiettivi strategici; 
+–revisione ed eventuale modifica della politica d’investimento; 
+–esame del rapporto sulla gestione finanziaria e della valutazione delle 
+proposte elaborati dalla Funzione Investimenti; 
+–controllo sull’attività svolta dalla Funzione Investimenti; 
+–approvazione delle procedure di controllo della gestione finanziaria, 
+tenendo conto delle proposte formulate dalla Funzione Investimenti; 
+–affidamento e revoca dei mandati di gestione.
+–rapporto con cadenza annuale sulla gestione finanziaria ed eventuali 
+proposte di modifica o integrazione della gestione stessa, recante: 
+o la verifica della gestione esaminando i risultati conseguiti nel 
+tempo, per singolo comparto; 
+o la valutazione del grado di rischio assunto in rapporto al rendimento 
+realizzato;  
+–trasmissione del rapporto di cui al punto precedente alla Funzione Risk 
+Management,   
+–relazione straordinaria in caso di significativi cambiamenti nei livelli di 
+rendimento-rischio derivanti dall’attività di investimento o di superamento 
+delle soglie di rischiosità; 
+–controllo dell’attuazione della strategia d’investimento da parte dei 
+soggetti incaricati della gestione e valutazione del loro operato, mediante 
+documentazione dei controlli svolti, con particolare attenzione agli 
+investimenti in strumenti alternativi e in derivati, da conservare negli archivi 
+della società istitutrice per dieci anni; 
+–attività istruttoria per la selezione dei gestori finanziari e trasmissione 
+all’organo di amministrazione delle proposte di affidamento e di revoca dei 
+mandati; 
+Organo 
+amministrat
+ivo 
+Funzione 
+Investimenti
+=== pagina 22 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 22
+–formulazione di proposte di modifica o integrazione della politica di 
+investimento; 
+–definizione, sviluppo e aggiornamento delle procedure interne di controllo 
+della gestione finanziaria, da sottoporre all’approvazione dell’organo 
+amministrativo;
+–analisi dei costi e verifica della loro coerenza con i costi a carico degli 
+aderenti; controllo della coerenza tra costi effettivi per gli OICR e quanto 
+previsto dalle previsioni regolamentari o dalle convenzioni di gestione. 
+–effettua le verifiche di II livello sull’attuazione della politica d’investimento;
+–predispone e fornisce idonei flussi informativi sull’attività svolta all’Organo 
+amministrativo. 
+–Effettua scelte d’investimento finalizzate a replicare, in caso di gestione 
+passiva, l’andamento del mercato di riferimento e, nella gestione attiva, a 
+realizzare extra-rendimenti; 
+–Trasmette con cadenza annuale alla Funzione Investimenti di una 
+rendicontazione sulle scelte d’investimento effettuate. 
+–Esegue le attività a essa affidate dalla legge e dal fondo; 
+–Trasmette le informazioni eventualmente richieste dalla Società per 
+alimentare il sistema di verifica e controllo della gestione finanziaria. 
+Funzione Risk 
+management 
+Amundi sgr 
+S.p.A 
+Société 
+Generale 
+Securities 
+Services 
+S.p.A
+=== pagina 23 ===
+2. Comunicazioni all’Autorità 
+ATTIVITÀ AUTORITÀ COMUNICAZIONE
+Modifiche del Documento sulla 
+politica di investimento
+COVIP In occasione di ogni modifica del Documento entro 20 giorni dalla formalizzazione. 
+Trasmissione del Documento modificato e delle modifiche apportate alla politica di investimento
+=== pagina 24 ===
+V. PRESIDI  
+Le procedure interne di controllo della gestione finanziaria e di gestione delle anomalie sono 
+formalizzate in un manuale operativo della Società relativo alla gestione del Fondo Pensione Aperto 
+CNP. In caso di superamento o violazione delle soglie previste, è attivato un processo di escalation 
+che prevede la tempestiva informativa al CFO/CRO, affinché possano essere valutate e adottate le 
+necessarie azioni correttive. Le evidenze delle violazioni e le azioni intraprese sono presentati e 
+discussi nel comitato ALCO. 
+Di seguito sono indicati i controlli effettuati e la relativa periodicità. 
+Parametro Soggetto Modalità di verifica Periodicità
+Controllo Performance Funzione 
+Investimenti
+calcolo dei rendimenti del comparto, 
+anche rispetto al proprio benchmark, 
+Trimestrale
+Controlli sul rischio di 
+perdita
+Funzione 
+Investimenti
+Calcolo del VaR 0.95 Trimestrale
+Duration titoli 
+obbligazionari
+Funzione 
+Investimenti
+Verifica che sia in linea con le 
+indicazioni riportate nel Documento
+Trimestrale
+Controlli sul rischio Funzione 
+Investimenti
+Volatilità del portafoglio e volatilità della 
+differenza di rendimento del portafoglio 
+rispetto al benchmark (TEV)
+Trimestrale
+Turnover di portafoglio Funzione 
+Investimenti
+Calcolo e monitoraggio del valore Trimestrale
+Limiti di investimento Funzione 
+Investimenti
+Verifica eventuali sforamenti rispetto ai 
+limiti prestabiliti nel Documento
+Trimestrale
+Controllo dei costi Funzione 
+Investimenti
+Analisi dei costi direttamente ed 
+indirettamente a carico del patrimonio 
+di ciascun comparto.
+Annuale
+Verifica applicazione 
+procedure di 
+impostazione e 
+attuazione politica di 
+investimento
+Funzione Risk 
+Management
+Verifica II livello sull’attuazione della 
+politica d’investimento
+Annuale
+=== pagina 25 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 25
+VI. DISPOSIZIONI FINALI 
+1. Aggiornamento della Politica e rapporti con il Gruppo 
+Il CDA approva la presente Politica  e le eventuali modifiche, integrazioni e/o aggiornamenti 
+sostanziali che si rendessero necessari.  
+È responsabilità della Funzione Investimenti formulare eventuali proposte di modifica o 
+integrazione della politica di investimento. 
+La Politica è sottoposta a revisione periodica ogni tre anni ; eventuali modifiche sono riportate in 
+apposita deliberazione. 
+Il Documento è trasmesso, in sede di prima definizione e in occasione di ogni successiva modifica, 
+agli organi di controllo della forma pensionistica e al responsabile della stessa, ai soggetti 
+incaricati della gestione finanziaria e alla banca depositaria, nonché alla COVIP entro venti giorni 
+dalla formalizzazione. 
+Il Documento è inoltre messo a disposizione degli aderenti che ne facciano richiesta per iscritto, a 
+mezzo posta elettronica o posta ordinaria, agli indirizzi indicati nel Documento stesso.  
+Nella redazione della Politica, la Compagnia tiene conto delle Linee Guida adottate da CNP 
+Assurances S.A., in conformità al quadro normativo e regolamentare italiano. A tal fine, la Compagnia 
+condivide preventivamente la Politica con CNP Assurances S.A.  conformemente alle disposizioni 
+della Capogruppo.
+=== pagina 26 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 26
+ALLEGATO A - NORMATIVA 
+Si riportano di seguito le disposizioni normative nazionali e sovranazionali applicabili alla 
+presente Politica. 
+Decreto legislativo 5 dicembre 2005, n. 252 : Decreto recante la disciplina delle forme 
+pensionistiche complementari, ossia normativa di riferimento del Fondo Pensione Aperto CNP 
+e della finalità di erogazione di trattamenti pensionistici complementari del sistema 
+previdenziale obbligatorio. 
+Deliberazione COVIP del 16 marzo 2012 – “Disposizioni sul processo di attuazione della 
+politica di investimento”: provvedimento che disciplina il processo di attuazione della politica 
+di investimento delle forme pensionistiche complementari e i contenuti del relativo 
+Documento.  
+Decreto del Ministero dell’Economia e delle Finanze 2 settembre 2014, n. 166: Regolamento 
+di attuazione dell’art. 6, comma 5-bis, del D.lgs. 252/2005, recante norme sui criteri e limiti di 
+investimento delle risorse dei fondi pensione e sulle regole in materia di conflitti di interesse.  
+Direttiva 2009/65/CE del Parlamento Europeo e del Consiglio del 13 luglio 2009, c.d. 
+Direttiva UCITS/OICVM: Direttiva concernente il coordinamento delle disposizioni legislative, 
+regolamentari e amministrative in materia di organismi d’investimento collettivo in valori 
+mobiliari, rilevante per gli OICR armonizzati e per l’utilizzo di strumenti derivati nell’ambito della 
+disciplina UCITS. 
+Art. 8, comma 9, del D.Lgs. 5 dicembre 2005, n. 252, come modificato dalla Legge 30 
+dicembre 2025, n. 199, e delle Istruzioni COVIP adottate con Deliberazione del giugno 2026: 
+disciplina che i contributi e le quote di TFR derivanti da adesioni automatiche devono essere 
+investiti in percorsi o linee caratterizzati da differenti profili di rischio-rendimento, tenendo 
+conto dell’età anagrafica dell’aderente e dell’orizzonte temporale al pensionamento. 
+ALLEGATO B - RUOLI E RESPONSABILITA’  
+STAKEHOLDER COMPITI
+CDA Ha il compito di approvare la Politica ed eventuali modifiche, 
+integrazioni e/o aggiornamenti di natura sostanziale che si 
+rendessero necessarie. 
+CCIR Valida la Politica ed eventuali modifiche, integrazioni e/o 
+aggiornamenti di natura sostanziale che si rendessero necessarie 
+prima dell’approvazione da parte del CDA 
+Funzione 
+Investimenti 
+ Presidia il processo di definizione, attuazione e aggiornamento 
+della Politica, valutando almeno ogni tre anni la necessità di 
+apportare modifiche, integrazioni e/o aggiornamenti.  
+ Monitora l’andamento della gestione finanziaria dei comparti, 
+anche attraverso l’analisi dei rendimenti, dei livelli di rischio, del
+=== pagina 27 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 27
+rispetto dei limiti di investimento e della coerenza delle scelte 
+gestionali con gli obiettivi della Politica.  
+ Formula eventuali proposte di modifica della Politica e supporta 
+l’Organo amministrativo nelle valutazioni relative alla gestione 
+finanziaria, ai mandati di gestione e ai presidi di controllo.  
+ Cura, inoltre, la condivisione della Politica con CNP Assurances 
+SA, secondo le regole di Gruppo applicabili. 
+Funzione Risk 
+management 
+ Effettua verifiche di secondo livello sull’impostazione e 
+sull’attuazione della Politica, valutando la coerenza dei presidi 
+di controllo rispetto ai rischi assunti dai comparti, ai limiti di 
+investimento e alle soglie di rischiosità previste.  
+ Predispone e fornisce idonei flussi informativi all’Organo 
+amministrativo sull’attività svolta, in coerenza con quanto 
+previsto dal processo di governance della Politica.
+=== pagina 28 ===
+ALLEGATO C – MODIFICHE APPORTATE NELL’ ULTIMO TRIENNIO
+Si descrivono di seguito le modifiche apportate al presente documento nell’ultimo triennio:
+Data Descrizione sintetica delle modifiche apportate
+13/12/2023 Aggiornamento della Variabilità attesa del rendimento:
+ Comparto Azionario da 10% a 13%
+ Comparto Bilanciato da 5% a 10%
+ Comparto Obbligazionario da 3% a 7%
+ Comparto con Garanzia di restituzione del capitale da 2% a 4%
+13/12/2023 Inserimento del nuovo indicatore di rischio, perdita massima annua potenziale al 95%:
+ Fondo Interno Assicurativo CNP PIP Azionario 21.45%
+ Fondo Interno Assicurativo CNP Previdenza Equity 16.50%
+ Fondo Interno Assicurativo CNP PIP Obbligazionario 11.55%
+ Comparto con Garanzia di restituzione del capitale 0%
+ Comparto con Garanzia di rendimento minimo prestabilito 0%
+31/12/2023 In data 31 dicembre 2023 CNP Vita Assicura S.p.A. incorpora CNP Vita Assicurazione 
+S.p.A. tramite fusione per incorporazione.
+23/07/2026 In data 23 luglio 2026 si apportano le seguenti modifiche;
+Comparto Azionario: aumento del minimo investito in componente azionaria dal 50% 
+al 65%. Contestualmente, il benchmark viene reso più orientato all’equity e 
+semplificato, utilizzando meno indici, più ampi e più coerenti con la strategia 
+gestionale del comparto.
+Comparto Bilanciato: revisione del benchmark con riduzione della componente 
+monetaria e incremento della componente governativa euro. Il benchmark viene 
+semplificato, facendo ricorso a un numero più contenuto di indici, meglio allineati 
+all’asset allocation strategica.
+Comparto Obbligazionario: nessuna modifica sostanziale ai limiti; il principale intervento 
+riguarda il benchmark, che viene razionalizzato e semplificato, mantenendo 
+l’impostazione prudente del comparto ma con una struttura più chiara e più coerente 
+con la gestione effettiva.
+Viene inserito un chiarimento circa l’uso di strumenti derivati negli OICR utilizzabili 
+nella gestione e vengono rimosse alcune limitazioni relative all’area geografica e al 
+merito creditizio per consentire una gestione più flessibile e tesa agli obiettivi dichiarati.
+24/09/2026 In fase di implementazione delle modifiche apportate in luglio 2026, la composizione 
+del benchmark del Comparto Azionario è stata affinata per migliorarne la coerenza con
+=== pagina 29 ===
+DOCUMENTO SULLA POLITICA DI INVESTIMENTO DEL FONDO PENSIONE APERTO pag. 29
+i vincoli regolamentari e gestionali. Il peso dell’Equity World ex Europe è stato ridotto 
+dal 35% al 27% e quello dell’Equity Europa aumentato dal 45% al 53%, mantenendo 
+invariata all’80% l’esposizione azionaria complessiva. La modifica assicura un adeguato 
+margine operativo rispetto al limite di esposizione valutaria non euro. 
+E’ stata inoltre allineata per il Comparto Azionario la duration media della componente 
+obbligazionaria da 3.5 – 7 a 4.5 – 8 in coerenza con le altre linee aventi il medesimo 
+benchmark.

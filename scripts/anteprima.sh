@@ -10,6 +10,7 @@ PORTA="${PORTA:-8000}"
 
 echo "▶ Export dei dati"
 python scripts/export_xlsx.py
+python scripts/documenti.py indice
 
 if [[ "${1:-}" != "--veloce" ]]; then
   echo "▶ Test"

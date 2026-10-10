@@ -7,10 +7,26 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 import versione as v  # noqa: E402
 
 
-def c(oggetto):
-    m = v.RE_COMMIT.match(oggetto)
-    return {"sha": "0" * 40, "oggetto": oggetto, "tipo": m.group("tipo").lower() if m else "altro",
-            "ambito": m.group("ambito") if m else None, "testo": m.group("testo") if m else oggetto, "corpo": ""}
+def c(oggetto, corpo=""):
+    return v.analizza("0" * 40, oggetto, corpo)
+
+
+# corpo di un commit che ne riunisce altri tre (come a538964): i titoli a inizio riga, i dettagli in elenco
+CORPO_UNITO = """La scritta resta a 1,45 rem.
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+sito: documenti ufficiali dei fondi scaricabili
+
+- dati: registro data/documenti.csv e 532 PDF
+- script: documenti.py con scarica e smista
+- Fonti: pagine informative dei fondi
+Fonte: COVIP, consultata il 2026-10-10
+
+dati: prestazioni di altri 6 fondi
+  dati: riga di continuazione rientrata, non è un titolo
+
+Co-Authored-By: Claude <noreply@anthropic.com>"""
 
 
 class TestVersione(unittest.TestCase):
@@ -42,6 +58,27 @@ class TestVersione(unittest.TestCase):
         self.assertIn("### 🔧 Altro", note)
         self.assertIn("compare/v0.1.0...v0.2.0", note)
         self.assertLess(note.index("Sito e dashboard"), note.index("📊 Dati"))
+
+    def test_commit_uniti_nel_corpo(self):
+        # solo le righe "tipo: testo" a inizio riga: niente elenchi, Fonte:, Co-Authored-By: o righe rientrate
+        lavori = v.voci([c("sito: logo più grande", CORPO_UNITO)])
+        self.assertEqual([(x["tipo"], x["testo"]) for x in lavori], [
+            ("sito", "logo più grande"),
+            ("sito", "documenti ufficiali dei fondi scaricabili"),
+            ("dati", "prestazioni di altri 6 fondi"),
+        ])
+        self.assertEqual({x["sha"] for x in lavori}, {"0" * 40})
+        # un titolo ripetuto nel corpo non si duplica
+        self.assertEqual(len(v.voci([c("dati: Aureo", "dati: Aureo")])), 1)
+
+    def test_commit_uniti_contano_per_versione_e_note(self):
+        self.assertEqual(v.tipo_incremento([c("docs: guida", "sito: simulatore")]), "minor")
+        self.assertEqual(v.tipo_incremento([c("docs: guida", "- sito: dettaglio in elenco")]), "patch")
+        note = v.note_rilascio("v0.3.0", "v0.2.0", [c("sito: logo più grande", CORPO_UNITO)], "minor")
+        for voce in ("- logo più grande", "- documenti ufficiali dei fondi scaricabili", "- prestazioni di altri 6 fondi"):
+            self.assertIn(voce, note)
+        self.assertNotIn("registro data/documenti.csv", note)
+        self.assertNotIn("### 🔧 Altro", note)
 
 
 if __name__ == "__main__":

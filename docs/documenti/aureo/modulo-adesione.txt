@@ -1,0 +1,19 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Modulo di adesione – 2026 06 30 Avviso adesioni automatiche
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/2026%2006%2030%20Avviso%20adesioni%20automatiche.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-10
+# SHA-256 del PDF: 7cdac7896967180a10d65bf152f082de305a3d19eb0a5a4e5bf7e48f28881c79
+# Pagine: 1
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Informativa in merito all'idoneità alla raccolta delle adesioni 
+automatiche (Deliberazione COVIP del 23 giugno 2026) 
+A seguito delle modifiche introdotte dalla legge 30 dicembre 2025, n. 199, al d.lgs. n. 
+252/2005 e in ottemperanza alle Istruzioni emanate dalla COVIP con deliberazione del 23 
+giugno 2026, si rende nota la posizione del Fondo in merito alla raccolta delle adesioni 
+automatiche a decorrere dal 1° luglio 2026.  
+Il Fondo dichiara di risultare adeguato a quanto previsto dalle suddette Istruzioni COVIP. Si 
+attesta pertanto la sussistenza delle condizioni per poter accogliere le adesioni automatiche e 
+si conferma che il Fondo raccoglierà sin da subito tali adesioni a partire dal 1° luglio 2026.

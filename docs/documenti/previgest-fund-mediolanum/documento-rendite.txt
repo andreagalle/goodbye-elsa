@@ -1,0 +1,186 @@
+# Fondo: FONDO PENSIONE APERTO PREVIGEST FUND MEDIOLANUM (previgest-fund-mediolanum)
+# Documento: Documento sulle rendite – File
+# Fonte: https://www.mediolanumgestionefondi.it/static-assets/documenti/file/it/2026/07/31//Doc_ErogRendite_PreviMGF.pdf
+# Citato in: https://www.mediolanumgestionefondi.it/fondi-pensione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5a6d6309619205a7d0e83c382c05cf6df30d73374aa3ba8775b9013bf3d9593e
+# Pagine: 6
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+DOCUMENTO SULL’EROGAZIONE DELLE RENDITE 
+Fondo pensione aperto 
+Previgest Fund 
+Mediolanum 
+È un prodotto di
+=== pagina 2 ===
+1 di 4 | Previgest Fund Mediolanum 
+Nel presente documento vengono illustrate le diverse tipologie di prestazioni pensionistiche che possono essere 
+liquidate al raggiungimento dei requisiti previsti dal regime previdenziale obbligatoria di appartenenza 
+dell’Aderente.  
+RENDITA VITALIZIA 
+1. La tariffa di assicurazione utilizzata è la rendita annua vitalizia immediata rivalutabile  pagabile in rate posticipate a 
+premio unico - testa singola - tasso tecnico 1%. 
+2. Ad ogni anniversario della data di decorrenza della polizza, la rendita assicurata, in vigore nel periodo annuale 
+precedente, verrà rivalutata nella misura e secondo le modalità contenute nella Clausola di Rivalutazione.  
+3. La tariffa è abbinabile al Fondo Medinvest. 
+4. Le basi tecniche adottate per la costruzione della tariffa sono: 
+- la tavola di sopravvivenza IPS55 distinta per sesso per le adesioni in forma collettiva;  
+- la tavola di sopravvivenza IPS55U indifferenziata per sesso per le adesioni in forma individuale, ottenuta 
+ponderando i quozienti di mortalità al 90% per le femmine e al 10% per i maschi;  
+- il tasso tecnico di interesse annuo composto posticipato dell’1%. 
+5. La Compagnia si riserva di modificare nel tempo le suddette basi tecniche.  
+6. Le spese di erogazione rendita sono pari all’1,25%. 
+7. La presente assicurazione non ammette valore di riscatto. 
+8. L’erogazione della rendita cesserà con l’ultima scadenza di rata precedente la morte dell’aderente fatto salvo 
+quanto previsto dalle opzioni. 
+MODALITÀ DI CALCOLO DELLA RENDITA 
+1. L’importo annuo della rendita viene determinato applicando il seguente procedimento:  
+a) viene calcolato il montante dei contributi versati al netto della eventuale quota di prestazione da erogare sotto 
+forma di capitale; 
+b) l’importo ottenuto viene investito come premio unico netto per la costituzione di una rendita vitalizia immediata, 
+moltiplicando l’importo stesso per i coefficienti riportati nelle tabelle in funzione, per le adesioni in forma 
+collettiva, del sesso e dell’ età dell’Aderente al momento della maturazione del diritto alla prestazione 
+pensionistica e, per le adesioni in forma individuale, della sola età dell’Aderente come sopra descritta;  
+c) ciascuna rendita avrà decorrenza dal momento della maturazione del diritto alla prestazione di ciascun iscritto 
+al Fondo Pensione e sarà erogata in rate mensili posticipate mediante accredito in conto corrente.  
+OPZIONI 
+1. L’Aderente può richiedere, in alternativa alla rendita vitalizia, una delle seguenti rendite opzionali:  
+a) l’erogazione di una rendita immediata vitalizia reversibile totalmente o parzialmente a favore del coniuge o di 
+altra persona designabile; 
+b) l’erogazione di una rendita immediata pagabile in modo certo per i primi 5 o 10 anni e successivamente vitalizia. 
+2. I coefficienti di conversione relativi alle rendite opzionali sono portati a conoscenza degli Aderenti mediante 
+deposito presso la sede del Fondo Pensione. 
+CLAUSOLA DI RIVALUTAZIONE 
+1. La presente polizza fa parte di una speciale categoria di assicurazioni sulla vita alle quali la Compagnia riconoscerà 
+una rivalutazione annua delle prestazioni assicurate nella misura e secondo le modalità appresso indicate. A tale 
+fine la Compagnia gestirà secondo quanto previsto dal Regolamento Medinvest attività di importo non inferiore 
+alle relative riserve matematiche. 
+A) MISURA DELLA RIVALUTAZIONE
+=== pagina 3 ===
+2 di 4 | Previgest Fund Mediolanum 
+2. La Compagnia dichiara entro il 28 febbraio di ciascun anno il Rendimento annuo da attribuire agli assicurati, 
+ottenuto moltiplicando il Rendimento, di cui al punto 3 del Regolamento Fondo Medinvest, per l’aliquota di 
+partecipazione di volta in volta fissata, aliquota che comunque non deve risultare inferiore al 90%. 
+3. La misura annua di rivalutazione si ottiene scontando per il periodo di un anno al tasso tecnico dell’1% la differenza 
+tra il Rendimento attribuito ed il suddetto tasso tecnico già conteggiato nel calcolo del premio.  
+B) RIVALUTAZIONE DELLA RENDITA ASSICURATA 
+4. Ad ogni anniversario della data di decorrenza, il contratto in pieno vigore viene rivalutato, mediante aumento, a 
+totale carico della Compagnia della riserva matematica costituitasi a tale epoca. Tale aumento viene determinato 
+secondo la misura di rivaluta zione fissata, a norma del punto A), entro il 31 marzo che precede l’anniversario 
+suddetto. 
+5. Da tale anniversario la rendita assicurata viene aumentata nella stessa misura e quindi il contratto stesso si 
+considera come sottoscritto sin dall’origine per il nuovo importo assicurato. Segue che ciascuna rivalutazione viene 
+applicata alle garanzie in essere, comprensive di quelle derivanti da precedenti rivalutazioni . 
+ALTRE TIPOLOGIE DI PRESTAZIONI PENSIONISTICHE 
+1. La posizione individuale rimane investita nel Fondo, l’Aderente può pertanto indicare al momento della richiesta 
+della prestazione in quale/i comparto/i allocare il montante maturato. In assenza di indicazioni, il montante verrà 
+investito nel comparto Obbligazionario. 
+2. L’Aderente anche durante l’erogazione di una delle nuove prestazioni può effettuare riallocazioni tra comparti nel 
+rispetto delle tempistiche contrattualmente definite per la fase di accumulo. 
+3. In fase di erogazione della prestazione non è prevista l’erogazione di alcun valore di riscatto né la concessione di 
+prestiti. 
+4. L’erogazione della prestazione cesserà con l’azzeramento del montante residuo maturato. 
+5. Dopo aver scelto una delle nuove prestazioni pensionistiche, l’Aderente non può versare nuovi contributi o esercitare 
+le prerogative tipiche della fase di accumulo (ad esempio riscatti e anticipazioni), con eccezione dell a riallocazione 
+tra comparti. 
+6. Rimane sempre ferma la facoltà per l’Aderente di convertire il montante residuo in rendita vitalizia, anche 
+trasferendolo presso un’altra forma di previdenza complementare. 
+7. La scelta di una delle nuove prestazioni pensionistiche non comporta l’applicazione di costi aggiuntivi rispetto a quelli 
+previsti dal/i comparto/i in cui il montante è investito. 
+8. L’Aderente, contestualmente alla richiesta di una delle nuove prestazioni pensionistiche,  deve indicare i soggetti 
+beneficiari in caso di suo decesso, ai quali verrà riconosciuto in un’unica soluzione l’eventuale montante non ancora 
+liquidato. 
+RENDITA A DURATA DEFINITA 
+La scelta di questa prestazione dà diritto a una rendita che viene erogata per un numero di anni predeterminato, 
+calcolato sulla base dell’aspettativa di vita dell’Aderente al momento della richiesta. Non è legata quindi alla 
+sopravvivenza effettiva dell’Aderente: l'erogazione cesserà al termine del periodo stabilit o nonostante la sua 
+sopravvivenza. Verrà corrisposta in rate annuali - con periodicità mensile, trimestrale, semestrale o annuale - per un 
+numero intero di anni pari alla speranza di vita residua, determinata sulla base delle tavole demografiche ISTAT utilizzate 
+per il calcolo della pensione obbligatoria. 
+L’importo di ciascuna rata non è fisso ma varierà in relazione ai risultati finanziari del comparto o dei comparti in cui la 
+posizione previdenziale rimane investita durante la fase di erogazione. A ciascuna rata di rendita corrisponderà lo stesso 
+numero di quote e frazioni di quota, ottenuto dividendo il numero complessivo di quote corrispondente all’importo del 
+montante disponibile a tale data per il numero di rate ancora da erogare. L’importo della rata di rendita varierà quindi 
+in funzione del valore della quota alla data di erogazione della stessa.
+=== pagina 4 ===
+3 di 4 | Previgest Fund Mediolanum 
+Esempio di erogazione della prestazione 
+Data richiesta prestazione 1/1/2027 · montante accumulato 100.000 € sul comparto Obbligazionario · valore quota 
+iniziale 25,00 € · numero quote totali 4.000 (100.000 €/25€) · durata rendita 20 anni con erogazione annuale · quote 
+per ciascuna rata 200 (4.000/20) fisse. 
+Anno Valore quota Nr quote per ciascuna 
+rata Importo disinvestito  Nr quote residue 
+Erogazione 1° Anno 26,50 € 200 5.300 € 3.800 
+Erogazione 2° Anno 28,50 € 200 5.700 € 3.600 
+Erogazione 3° Anno 23,60 € 200 4.720 € 3.400 
+… … … … … 
+Erogazione ultimo Anno 31,00 € 200 6.200 € 0 
+* L'importo in euro varia perché varia il valore della quota, non il numero di quote erogate per rata  
+PRELIEVI LIBERAMENTE DETERMINABILI 
+La scelta di questa prestazione dà diritto alla richiesta di prelievi liberi di importi che sono erogati a valere sul montante 
+in gestione che resta investito, con facoltà dell’Aderente di sceglierne l’importo e la tempistica. Potranno essere richiesti, 
+tempo per tempo, entro il limite della somma delle rate maturate e non riscosse di una rendita a durata definita teorica 
+e cioè quella che l’Aderente avrebbe ricevuto se avesse scelto la rendita a durata definita con frazionamento annuale, 
+calcolata sulla ba se della sua speranza di vita residua, in anni interi, al momento della richiesta della prestazione. A 
+ciascuna rata di rendita teorica corrisponderà lo stesso numero di quote e frazioni di quota, ottenuto dividendo il 
+numero di quote corrispondente all’importo del montante al momento iniziale di richiesta della prestazione per il numero 
+delle rate della rendita teorica a durata definita.  
+L’importo massimo che può essere prelevato sarà determinato moltiplicando il valore della quota alla data di 
+liquidazione del prelievo per la differenza tra il numero di quote (e frazioni di quote) relative alle rate di rendita maturate 
+e il numero di quote (e frazioni di quote) già utilizzate per i prelievi precedentemente erogati. L’importo richiesto non 
+potrà comunque essere inferiore per ciascun prelievo a € 500, al lordo degli oneri fiscali .  
+Esempio di erogazione della prestazione  
+Data richiesta prestazione 1/1/2027 · montante accumulato 100.000 € sul comparto Obbligazionario · valore quota 
+iniziale 25,00 € · 4.000 (100.000 €/25€) · durata rendita teorica 20 anni · quote per ciascuna rata 200 (4.000€ /20) 
+fisse → illustriamo un’erogazione della prestazione per 2 prelievi. 
+Anno Valore 
+quota 
+Quote 
+disinvestibili 
+(residue + 
+200 
+maturate) 
+Massimo 
+importo 
+prelevabile  
+Nr quote 
+richieste 
+Importo 
+prelevato 
+Nr quote 
+residue Note 
+Anno 1 25,00 € 200 5.000 € 0 0 € 200 Nessun prelievo 
+restano 200 quote 
+Anno 2 23,50 € 200+200 9.400 € 0 0 € 400 Nessun prelievo 
+restano 400 quote 
+Anno 3 26,50 € 400+200 15.900 € 500 13.250 € 100 Prelievo parziale 
+restano 100 quote 
+Anno 4 28,80 € 100+200 8.640 € 0 0 € 300 Nessun prelievo 
+restano 300 quote 
+Anno 5 29,20 € 300+200 14.600 € 300 8.760 € 200 Prelievo parziale 
+restano 200 quote
+=== pagina 5 ===
+4 di 4 | Previgest Fund Mediolanum 
+TEMPI DI LIQUIDAZIONE DELLE NUOVE PRESTAZIONI 
+Il Fondo provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla rendita vitalizia con tempestività 
+e comunque non oltre il termine massimo di 6 mesi. Nel caso in cui la domanda risulti incompleta o insufficiente, il Fondo 
+richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del completamento o della 
+regolarizzazione della pratica.
+=== pagina 6 ===
+Sede Legale: Palazzo Meucci - Via Ennio Doris  
+20079 Basiglio (MI) - T +39 02 9049.1 
+Mediolanum Gestione Fondi SGR p.A. 
+Capitale sociale euro 5.164.600,00 i.v. - Codice Fiscale - Iscr. 
+Registro Imprese Milano n. 06611990158 - P. IVA 10540610960 del 
+Gruppo IVA Banca Mediolanum - Società appartenente al Gruppo 
+Bancario Mediolanum - Società iscritta all’Albo delle SGR di cui 
+all’Art. 35 del D. Lgs. 58/1998 al numero 6 della Sezione “Gestori di 
+OICVM” e al numero 4 della Sezione “Gestori di FIA” - Aderente al 
+Fondo Nazionale di Garanzia - Società soggetta all’attività di 
+direzione e coordinamento di Banca Mediolanum S.p.A. –  
+Società con unico Socio 
+mgf@pec.mediolanum.it 
+www.mediolanumgestionefondi.it 
+PFM 31/07/2026 
+È un prodotto di

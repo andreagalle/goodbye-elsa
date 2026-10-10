@@ -1,0 +1,2806 @@
+# Fondo: FONDO PENSIONE APERTO CNP (cnp)
+# Documento: Rendiconto – Rendiconto al 31/12/2025
+# Fonte: https://gruppocnp.it/sites/default/files/RENDICONTO_AL_31.12.2025_valido_dal_31032026.pdf
+# Citato in: https://gruppocnp.it/prodotti/fondo-pensione-aperto/fondo-pensione-aperto-cnp#
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 3cb6bac55ffa2710210b404110214f1ed5d9a13cbe7e2859cef6983ecb289444
+# Pagine: 64
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Classification: Pubblico 
+ 
+Gruppo CNP: Interno 
+CNP VITA ASSICURA S.P.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RENDICONTO DELL'ESERCIZIO AL 31 DICEMBRE 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Via Arbe, n. 49 - 20125 Milano
+=== pagina 2 ===
+Classification: Pubblico 
+ 
+2 
+Soggetto Promotore del Fondo: CNP Vita Assicura S.p.A. 
+ 
+ 
+Organi statutari e Direttivi: 
+ 
+ 
+CONSIGLIO DI AMMINISTRAZIONE: 
+GUILGOT François   Presidente 
+ORTOLANI Isabelle   Vice Presidente e Consigliere 
+PASSAFIUME ALFIERI Marco  Amm.re Delegato 
+DESVIGNES Thierry                            Consigliere  
+BLONDEAU DALLET Cécile   Consigliera 
+CERINI Diana                           Consigliera (indipendente) 
+TODINI Luisa                           Consigliera (indipendente) 
+ 
+NOMINATO IN DATA :  29.04.2024 
+SCADENZA MANDATO  :  approvazione bilancio al 31.12.2026 
+ 
+COLLEGIO SINDACALE : 
+NAVARRA Benedetta                        Presidente 
+DELL’ATTI Stefano                  Sindaco Effettivo 
+PAOLUCCI Guido                    Sindaco Effettivo 
+MENICUCCI Elisa                    Sindaco Supplente 
+CAPRARI Alberto                    Sindaco Supplente 
+ 
+NOMINATO IN DATA:   29.04.2024 
+SCADENZA MANDATO:  approvazione bilancio al 31.12.2026 
+ 
+RESPONSABILE DELLA FORMA  
+PENSIONISTICA:   BOTTA Paolo 
+ 
+Nominata dal CdA il 20.03.2025 in carica fino all’approvazione del bilancio d’esercizio al 31.12.2027 
+ 
+ 
+SOCIETA’ DI REVISIONE                   Forvis Mazars S.p.A. 
+OGGETTO REVISIONE                      revisione legale dei conti 
+NOMINATA IN DATA                           29.04.2019 
+SCADENZA MANDATO                      approvazione bilancio al 31 dicembre 2027
+=== pagina 3 ===
+Classification: Pubblico 
+ 
+3 
+Fondo Pensione Aperto CNP   
+Via Arbe, n. 49 - 20125 Milano 
+Iscritto dal 25/07/2001 al n. 115 dell'Albo istituito ai sensi dell'art. 19, D.Lgs. n.252/2005  
+ 
+Indice 
+ 
+1 – STATO PATRIMONIALE  
+2 – CONTO ECONOMICO 
+3 – NOTA INTEGRATIVA 
+ 
+RENDICONTO DELLA FASE DI ACCUMULO DEI COMPARTI 
+ 
+3.1 Comparto Azionario 
+3.1.1 Stato Patrimoniale 
+3.1.2 Conto Economico 
+3.1.3 Nota Integrativa 
+3.1.3.1 Informazioni sullo Stato Patrimoniale 
+3.1.3.2 Informazioni sul Conto Economico 
+ 
+3.2 Comparto Obbligazionario 
+3.2.1 Stato Patrimoniale 
+3.2.2 Conto Economico 
+3.2.3 Nota Integrativa 
+3.2.3.1 Informazioni sullo Stato Patrimoniale 
+3.2.3.2 Informazioni sul Conto Economico 
+ 
+3.3 Comparto Bilanciato 
+3.3.1 Stato Patrimoniale 
+3.3.2 Conto Economico 
+3.3.3 Nota Integrativa 
+3.3.3.1 Informazioni sullo Stato Patrimoniale 
+3.3.3.2 Informazioni sul Conto Economico 
+ 
+3.4 Comparto con Garanzia di Restituzione del Capitale 
+3.4.1 Stato Patrimoniale 
+3.4.2 Conto Economico 
+3.4.3 Nota Integrativa 
+3.4.3.1 Informazioni sullo Stato Patrimoniale 
+3.4.3.2 Informazioni sul Conto Economico 
+ 
+3.5 Comparto con Garanzia di Rendimento Minimo Prestabilito 
+3.5.1 Stato Patrimoniale 
+3.5.2 Conto Economico 
+3.5.3 Nota Integrativa 
+3.5.3.1 Informazioni sullo Stato Patrimoniale 
+3.5.3.2 Informazioni sul Conto Economico
+=== pagina 4 ===
+Classification: Pubblico 
+ 
+4 
+ 
+ 
+1 – STATO PATRIMONIALE  
+ 
+ 
+ 
+ 
+ 
+2 – CONTO ECONOMICO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 112.634.493 104.512.344
+20 Garanzie di risultato acquisite sulle posizioni individuali 1.229.853 1.318.736
+30 Crediti di imposta - 367.136
+TOTALE ATTIVITA' FASE DI ACCUMULO 113.864.346 106.198.216
+ATTIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 451.347 357.833
+20 Garanzie di risultato riconosciute sulle posizioni individuali 1.229.853 1.318.736
+30 Passivita' della gestione finanziaria 322.457 302.385
+40 Debiti di imposta 776.279 319.795
+TOTALE PASSIVITA' FASE DI ACCUMULO 2.779.936 2.298.749
+100 Attivo netto destinato alle prestazioni 111.084.410 103.899.467
+CONTI D'ORDINE 1.583.003 1.463.594
+PASSIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale 3.380.935 2.051.587
+20 Risultato della gestione finanziaria 5.835.689 5.445.156
+30 Oneri di gestione -1.208.061 -1.139.362
+40 Variazione dell'attivo netto destinato alle prestazioni ante imposta sostitutiva (10)+(20)+(30)8.008.563 6.357.381
+50 Imposta sostitutiva -823.620 -737.297
+100 Variazione dell'attivo netto destinato alle prestazioni (40)+(50) 7.184.943 5.620.084
+=== pagina 5 ===
+Classification: Pubblico 
+ 
+5 
+ 
+ 
+ 
+ 
+1 – STATO PATRIMONIALE  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 112.634.493 104.512.344
+10-a) Depositi bancari 2.377.835 2.373.477
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 66.939.817 61.323.262
+10-d) Titoli di debito quotati 4.531.629 7.258.666
+10-e) Titoli di capitale quotati - -
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. 36.295.581 31.445.641
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 655.430 614.883
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 1.834.201 1.496.415
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward - -
+10-q) Valutazione e margini su futures e opzioni - -
+20 Garanzie di risultato acquisite sulle posizioni individuali 1.229.853 1.318.736
+30 Crediti di imposta - 367.136
+TOTALE ATTIVITA' FASE DI ACCUMULO 113.864.346 106.198.216
+ATTIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 451.347 357.833
+10-a) Debiti della gestione previdenziale 451.347 357.833
+20 Garanzie di risultato riconosciute sulle posizioni individuali 1.229.853 1.318.736
+30 Passivita' della gestione finanziaria 322.457 302.385
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 322.457 302.385
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 776.279 319.795
+TOTALE PASSIVITA' FASE DI ACCUMULO 2.779.936 2.298.749
+100 Attivo netto destinato alle prestazioni 111.084.410 103.899.467
+CONTI D'ORDINE 1.583.003 1.463.594
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 6 ===
+Classification: Pubblico 
+ 
+6 
+ 
+2 – CONTO ECONOMICO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale 3.380.935 2.051.587
+10-a) Contributi per le prestazioni 10.948.783 10.186.890
+10-b) Anticipazioni -1.187.243 -1.102.579
+10-c) Trasferimenti e riscatti -3.270.870 -3.924.649
+10-d) Trasformazioni in rendita -243.525 -453.287
+10-e) Erogazioni in forma di capitale -2.866.073 -2.654.978
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali -199 -175
+10-i) Altre entrate previdenziali 62 365
+20 Risultato della gestione finanziaria 5.835.689 5.445.156
+20-a) Dividendi e interessi 1.396.862 1.486.954
+20-b) Profitti e perdite da operazioni finanziarie 4.438.827 3.958.202
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -1.208.061 -1.139.362
+30-a) Societa' di gestione -1.194.950 -1.126.576
+30-b) Depositario - -
+30-c) Altri oneri di gestione -13.111 -12.786
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+8.008.563 6.357.381
+50 Imposta sostitutiva -823.620 -737.297
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+7.184.943 5.620.084
+=== pagina 7 ===
+Classification: Pubblico 
+ 
+7 
+3 – NOTA INTEGRATIVA 
+ 
+Informazioni Generali 
+ 
+Premessa 
+Il presente rendiconto, redatto in osservanza al principio di chiarezza, rappresenta in modo veritiero e corretto, 
+la situazione patrimoniale e finanziaria e l’andamento dell’esercizio del Fondo, ed è composto, in osservanza 
+alle direttive impartite dalla Commissione di Vigilanza sui Fondi Pensione, dai seguenti documenti:  
+1)  Stato Patrimoniale; 
+2)  Conto Economico; 
+3)  Nota integrativa. 
+ 
+ 
+Caratteristiche strutturali 
+Fondo Pensione Aperto CNP è stato istituito, ai sensi del D.Lgs. 5 dicembre 2005, n. 252, al fine di assicurare 
+più elevati livelli di copertura previdenziale, secondo criteri di corrispettività ed in base al principio della 
+capitalizzazione, mediante l’erogazione di trattamenti pe nsionistici complementari del sistema obbligatorio 
+pubblico.  
+Il Fondo opera in regime di contribuzione definita. 
+Si ricorda che il Fondo ha iniziato la sua operatività in data 29.11.2002 e che la Commissione di Vigilanza sui 
+Fondi Pensione ha autorizzato la costituzione e l'esercizio dell'operatività con provvedimento dell’11 ottobre 
+2000. 
+Possono aderire al Fondo, su base contrattuale collettiva, i lavoratori dipendenti (sia privati che pubblici), i 
+lavoratori autonomi, i professionisti ed i soci lavoratori di cooperative, per i quali non sussistano o non operino 
+fonti istitutive di fondi p ensione aziendali o di categoria. L'adesione individuale è consentita a tutti i soggetti, 
+anche non titolari di redditi di lavoro o di impresa, ancorché privi di iscrizione ad una forma pensionistica 
+obbligatoria, nonché alle persone fiscalmente a carico di altri soggetti. 
+Il soggetto Gestore investe le risorse del Fondo in strumenti finanziari secondo le cinque diverse linee di 
+investimento previste dal Regolamento del Fondo. Il soggetto Gestore, ferma restando la propria 
+responsabilità, può altresì conferire specifici inca richi di gestione a SIM, imprese assicurative, società di 
+gestione del risparmio e imprese di investimento comunitarie. Le caratteristiche essenziali delle singole linee 
+di investimento sono le seguenti: 
+ 
+ 
+Comparto Azionario 
+È un Comparto di investimento rivolto verso strumenti finanziari di natura azionaria quotati e non in mercati di 
+Paesi aderenti all’OCSE, con un profilo di rischio piuttosto elevato, adatto a coloro che, lontani dall’accesso 
+alla prestazione pensionistica complementare intendono permanere in tale Comparto di Investimento per un 
+lungo periodo.
+=== pagina 8 ===
+Classification: Pubblico 
+ 
+8 
+Il portafoglio risulterà diversificato da un punto di vista valutario. A livello di portafoglio complessivo, resta 
+ferma la possibilità, in particolari situazioni di mercato, di detenere, provvisoriamente, una parte del patrimonio 
+del Comparto, in titoli o bbligazionari in misura residuale. Resta inoltre ferma la possibilità, in particolari 
+situazioni di mercato e comunque in misura non superiore al 10% del totale, di detenere una parte del 
+patrimonio del Comparto in disponibilità liquide. 
+Gli investimenti vengono effettuati in titoli azionari emessi da aziende ad elevata capitalizzazione. Non sono 
+previsti particolari settori in cui concentrare l’attività di investimento, prevedendo un portafoglio composto da 
+titoli di capitale sino a concorrenza dell’80% del suo valore.  
+Il benchmark prescelto è così composto: 
+• BofA Merrill Lynch EMU Direct Index  25% 
+• DJ Euro Stoxx Equity    38% 
+• S&P 500 (Composite) Index   17% 
+• Japan TSE First Section   7% 
+• FTSE Act World Pacific Bas ex Japan  3% 
+• Salomon Euro 3m Eurodeposit   10% 
+ 
+Comparto Obbligazionario 
+È un Comparto di investimento che ha l’obiettivo di conseguire un rendimento in linea con l’andamento dei 
+tassi del mercato obbligazionario a medio - lungo termine al fine di rispondere alle esigenze di coloro che 
+hanno una propensione al rischio medio - bassa e sono vicini al momento di accesso alla prestazione 
+pensionistica complementare. Gli strumenti finanziari di natura obbligazionaria potranno essere sia italiani che 
+esteri, con emittenti sia pubblici che privati prevalentemente soggetti ad un rating Investment Grade, emessi 
+da aziende ad elevata capitalizzazione.  
+Limitatamente alla componente rappresentata da quote o azioni di O.I.C.R. obbligazionari, è ammesso 
+l’investimento residuale in titoli di debito non Investment Grade. La composizione del portafoglio è basata, per 
+la parte obbligazionaria sull’analisi del r ischio Paese per quanto riguarda la selezione dei titoli di emittenti 
+governativi e del rischio di credito per quanto riguarda i titoli emessi da emittenti privati. Il patrimonio del 
+Comparto potrà essere investito in titoli di capitale nel limite massimo del 20%. 
+Il benchmark prescelto è così composto: 
+• BofA Merrill Lynch EMU Direct Index  75% 
+• Salomon Euro 3m Eurodeposit  10%  
+• FTSE Act World  Europe Ex UK Index TR Eu 9% 
+• FTSE Act World (Composite) Index   15%   
+ 
+Comparto Bilanciato 
+È un Comparto di investimento con un profilo di rischio medio, con l'obiettivo di incrementare nel medio lungo 
+termine il capitale investito, sfruttando le opportunità offerte dai mercati internazionali, in modo da rispondere 
+alle esigenze di coloro che han no una media propensione al rischio e a cui manchino più di dieci anni 
+all’accesso alla prestazione pensionistica complementare.
+=== pagina 9 ===
+Classification: Pubblico 
+ 
+9 
+Il Gestore attua una politica di investimento volta a perseguire una composizione del portafoglio diversificata 
+dal punto di vista valutario, ed orientata ad una combinazione di investimenti in strumenti finanziari di natura 
+azionaria ed obbligazionaria, c on la possibilità di effettuare investimenti nell’area OCSE nel rispetto dei limiti 
+di congruenza valutaria di cui all’art. 5, comma 6, del D.M. 2 166/2014. Gli investimenti vengono effettuati in 
+titoli obbligazionari sia italiani che esteri, con emittenti  sia pubblici che privati prevalentemente soggetti ad un 
+rating Investment Grade. Limitatamente alla componente rappresentata da quote di O.I.C.R. obbligazionari, è 
+ammesso l’investimento residuale in titoli di debito non Investment Grade. I titoli azionar i ed obbligazionari 
+oggetto di investimento potranno essere sia italiani che esteri emessi da aziende ad elevata capitalizzazione. 
+Il patrimonio del Comparto può essere investito fino al 40% in titoli di capitale. Resta ferma la possibilità per il 
+Gestore di detenere una parte del patrimonio del comparto, sino ad un massimo del 10% del totale, in 
+disponibilità liquide.  
+Il benchmark prescelto è così composto: 
+• BofA Merrill Lynch EMU Direct Index  60% 
+• FTSE Act World Europe Ex UK Index TR Eur 20% 
+• Salomon Euro 3m Eurodeposit   10% 
+• S&P 500 (Composite) TR Eur   7%  
+• Japan TSE First Section    3% 
+ 
+Comparto con Garanzia di Restituzione del Capitale  
+E' un Comparto di investimento con un profilo di rischio basso, consigliata a coloro che sono vicini all’accesso 
+alla prestazione pensionistica complementare. Viene attuata una politica orientata prevalentemente verso 
+strumenti finanziari di natura obbliga zionaria e di capitale dell’area OCSE. Il patrimonio del Comparto può 
+essere investito fino al 20% in titoli di capitale. 
+La composizione del portafoglio è basata per la parte obbligazionaria sull’analisi del rischio Paese per quanto 
+concerne la selezione dei titoli di emittenti governativi e del rischio di credito per quanto riguarda gli emittenti 
+privati. Questo Comparto di Investimento ha l’obiettivo di tutelare in termini reali il capitale investito, garantendo 
+la restituzione della somma dei versamenti contributivi netti effettuati nel Comparto medesimo, al verificarsi 
+dei seguenti eventi: 
+• esercizio del diritto alla prestazione pensionistica, come indicata all’art. 9 “Prestazioni Pensionistiche” del 
+Regolamento del Fondo Pensione Aperto CNP; 
+• decesso dell’Aderente; 
+• invalidità permanente dell’Aderente che comporti la cessazione dell’attività lavorativa.  
+• Riscatto per inoccupazione per un periodo superiore a 48 mesi. 
+•  
+Al verificarsi di uno dei suddetti eventi, l’Aderente avrà diritto ad un importo pari al maggior valore tra il minimo 
+garantito, pari alla somma dei versamenti contributivi netti effettuati, e il valore corrente della posizione 
+individuale, calcolati con r iferimento al primo giorno di valorizzazione utile successivo alla verifica delle 
+condizioni che danno diritto alla prestazione. 
+Il limite di perdita massima del Comparto è pari al 2.5%, espresso come VaR mensile con un intervallo di 
+confidenza del 95% e calcolato tramite simulazione storica dei rendimenti giornalieri degli ultimi 12 mesi.
+=== pagina 10 ===
+Classification: Pubblico 
+ 
+10 
+ 
+ 
+Comparto con Garanzia di Rendimento Minimo Prestabilito 
+E' un Comparto di investimento con un profilo di rischio basso, consigliata a coloro che sono vicini all’accesso 
+alla prestazione pensionistica complementare. Viene attuata una politica orientata prevalentemente verso titoli 
+di Stato o garantiti dallo Stat o, obbligazioni, strumenti del mercato ed altre attività finanziarie aventi 
+caratteristiche analoghe a quelle dei titoli sopra descritti. Il patrimonio del Comparto può essere investito fino 
+al 30% in titoli di capitale.  
+Le scelte di investimento del Comparto saranno basate in senso generale sul controllo della durata media dei 
+titoli costituenti il portafoglio, in funzione delle prospettive dei tassi d’interesse e, a livello più particolare, in 
+relazione alla redditività dei singoli titoli ed al merito di credito degli emittenti. Questo Comparto di Investimento 
+ha l’obiettivo di tutelare in termini reali il capitale investito, con l’obiettivo di incrementarlo nel medio - lungo 
+periodo, offrendo una garanzia di restituzione  del montante dei versamenti netti effettuati nel Comparto 
+medesimo, al tasso minimo garantito del 2% composto su base annua, per il periodo che intercorre tra la data 
+di valorizzazione dei contributi ed il primo giorno di valorizzazione utile successivo a lla verifica di una delle 
+seguenti condizioni: 
+• esercizio del diritto alla prestazione pensionistica, come indicata all’art. 9 “Prestazioni Pensionistiche” del 
+Regolamento del Fondo Pensione Aperto; 
+• decesso dell’Aderente; 
+• invalidità permanente dell’Aderente che comporti la cessazione dell’attività lavorativa  
+• Riscatto per inoccupazione per un periodo superiore a 48 mesi. 
+. 
+Al verificarsi di uno dei suddetti eventi, l’Aderente avrà diritto ad un importo pari al maggior valore tra il minimo 
+garantito e il valore corrente della posizione individuale, calcolati con riferimento al primo giorno di 
+valorizzazione utile successivo alla verifica delle condizioni che danno diritto alla prestazione. 
+Il limite di perdita massima del Comparto è pari al 5%, espresso come VaR mensile con un intervallo di 
+confidenza del 95% e calcolato tramite simulazione storica dei rendimenti giornalieri degli ultimi 12 mesi.  
+ 
+Erogazione delle prestazioni  
+L’erogazione delle rendite e delle prestazioni accessorie viene effettuata da “CNP VITA ASSICURA S.P.A.”, 
+perciò il debito legato alla fase di erogazione delle prestazioni non è rappresentato all’interno dello schema di 
+Stato Patrimoniale non essendo un onere a carico del Fondo. Per questa ragione lo schema di Stato 
+Patrimoniale presenta solo la fase di accumulo. 
+L’Aderente al momento dell’esercizio del diritto alla prestazione pensionistica, ha facoltà di richiedere la 
+liquidazione della prestazione sotto forma di capitale nel limite del 50% della posizione individuale maturata.  
+La parte destinata a rendita sarà impiegata dalla Società, quale premio unico, per la costituzione a favore 
+dell’Aderente, di una rendita annua vitalizia immediata rivalutabile, o di una delle forme (a scelta del soggetto) 
+di seguito indicate: 
+1. rendita vitalizia reversibile: viene corrisposta all’aderente finché è in vita e successivamente in misura 
+totale o per la quota scelta dal soggetto stesso, alla persona da lui designata tra i soggetti previsti dal 
+sistema previdenziale obbligatorio;
+=== pagina 11 ===
+Classification: Pubblico 
+ 
+11 
+2. rendita certa e successivamente vitalizia: detta rendita per i primi 5 o 10 anni è corrisposta all’Aderente o, 
+in caso di decesso, alla persona da lui designata tra i soggetti previsti dal sistema previdenziale 
+obbligatorio e, successivamente, all’Aderente finché è in vita. 
+Ciascuna rendita avrà decorrenza dal giorno del pagamento del premio e sarà erogata a mezzo bonifico 
+bancario in rate mensili, trimestrali, semestrali o in un unico importo complessivo annuo a scelta dell’Aderente. 
+Non sono previste forme di garanzia accessorie per invalidità e premorienza. 
+ 
+ 
+Depositario 
+Il Depositario delle risorse del Fondo è SGSS S.p.A., con sede a Milano, in via Benigno Crespi, 19/A. La Banca 
+Depositaria, ferma restando la propria responsabilità, può subdepositare in tutto o in parte il patrimonio del 
+Fondo presso la "Monte Titoli S.p.A.", la Gestio ne Centralizzata di titoli in deposito presso la Banca d'Italia 
+ovvero presso analoghi organismi di gestione accentrata di titoli e presso controparti bancarie internazionali.  
+ 
+Criteri di valutazione 
+Al fine di ottenere una rappresentazione veritiera e corretta dei risultati di bilancio, sono stati adottati, per le 
+voci specificate, i seguenti principi generali di valutazione: 
+Strumenti finanziari quotati : sono valutati sulla base delle quotazioni del giorno di chiusura dell’esercizio. Il 
+criterio di individuazione delle quotazioni di riferimento utilizzate nelle valutazioni è per i titoli quotati, sia nel 
+mercato regolamentato italiano, sia nei mercati re golamentati esteri, la rilevazione giornaliera dei prezzi di 
+chiusura determinati dalle rispettive Borse valori e comunicati per via telematica dai “Provider” Telekurs e 
+Bloomberg; tali valori sono poi confrontati con quelli in possesso del Depositaio; 
+Strumenti finanziari non quotati : sono valutati sulla base dell’andamento dei rispettivi mercati secondo il loro 
+presumibile valore di realizzo. Per eventuali titoli in posizione si prendono prezzi indicativi da info -provider 
+specializzati; 
+Organismi di investimento collettivo del risparmio (O.I.C.R.) : sono valutati sulla base del valore della quota 
+attribuito dai relativi gestori nel giorno di chiusura dell’esercizio, e comunicati per via telematica dai “Provider” 
+Telekurs e Bloomberg; tali valori sono poi confrontati con quelli in possesso del  Depositario; 
+Attività e passività in valuta : sono valutate al tasso di cambio a pronti corrente alla data di chiusura 
+dell’esercizio; 
+Operazioni a termine: sono valutate al tasso di cambio a termine alla data di scadenza dell’operazione;  
+Contributi da ricevere: i contributi dovuti dagli aderenti vengono registrati tra le entrate, in espressa deroga al 
+principio della competenza, solo una volta che siano stati effettivamente incassati; conseguentemente, sia 
+l’attivo netto disponibile per le prestazioni sia le po sizioni individuali vengono incrementate solo a seguito 
+dell’incasso dei contributi. Pertanto, i contributi dovuti, ma non ancora incassati, sono evidenziati nei conti 
+d’ordine. Per quanto riguarda l’entità del fenomeno dei ritardati versamenti si rinvia alla relazione sulla 
+gestione.   
+Si precisa che non sono state necessarie deroghe ai criteri di valutazione ordinariamente seguiti.  
+Il bilancio è redatto privilegiando la rappresentazione della sostanza sulla forma. Al fine di fornire una più 
+immediata percezione della composizione degli investimenti, per le operazioni di compravendita di strumenti
+=== pagina 12 ===
+Classification: Pubblico 
+ 
+12 
+finanziari le voci del bilancio sono redatte prendendo a riferimento il momento della contrattazione e non quello 
+del regolamento. Conseguentemente le voci del bilancio relative agli investimenti in strumenti finanziari sono 
+redatte includendovi le operazi oni negoziate ma non ancora regolate, utilizzando quale contropartita le voci 
+residuali “Altre attività/passività della gestione finanziaria”. 
+Gli oneri ed i proventi sono stati imputati nel rispetto del principio della competenza, indipendentemente dalla 
+data dell’incasso e del pagamento. 
+I criteri di valutazione adottati per la redazione del bilancio sono stati individuati nel presupposto della 
+continuità aziendale delle attività ritenendo che non vi sono incertezze che generino dubbi sulla continuità 
+dell’operatività del fondo. 
+ 
+Imposta sostitutiva 
+In conformità con l’articolo 17, co.1 del Decreto Legislativo 252/2005, come modificato dall’articolo 1, co. 621 
+E 624 della Legge 190/2014, l’imposta sostitutiva è calcolata applicando un’aliquota del 20% sul risultato 
+maturato dai fondi pensione in ciascun periodo di imposta. 
+ 
+Costi di partecipazione al fondo 
+Gli oneri direttamente a carico dell’Aderente sono: 
+- la commissione annuale per la gestione della posizione individuale del soggetto;  
+- il costo, da versare “una tantum” per ogni trasferimento ad altro Comparto di investimento.  
+Tali oneri vengono sottratti ai guadagni eventualmente conseguiti dal fondo e aggiunti alle perdite subite.  
+Sono a carico del Fondo e quindi indirettamente a carico dell’aderente, gli oneri indicati nella seguente tabella: 
+Tipologia 
+Importo % annuo previsto nel Regolamento del 
+Fondo 
+Periodicità di 
+addebito 
+Modalità di 
+prelievo 
+Commissione di 
+Gestione 
+Comparto Azionario: 1,20% 
+Comparto Obbligazionario: 0,90% 
+Comparto Bilanciato: 1,00% 
+Comparto con Garanzia Restituzione Capitale: 
+1,10% 
+Comparto con Garanzia Rendimento Minimo 
+Prestabilito: 1,30% 
+Mensile 
+dal patrimonio di 
+ciascun 
+comparto del 
+Fondo 
+Commissione di 
+Incentivo 
+non previste - - 
+Commissione di 
+Negoziazione 
+non predeterminate 
+Su singola 
+transazione 
+dal patrimonio di 
+ciascun 
+comparto del 
+Fondo
+=== pagina 13 ===
+Classification: Pubblico 
+ 
+13 
+Tipologia 
+Importo % annuo previsto nel Regolamento del 
+Fondo 
+Periodicità di 
+addebito 
+Modalità di 
+prelievo 
+Oneri Fiscali non predeterminate 
+Annuale con 
+calcolo 
+quotidiano dei 
+ratei 
+dal patrimonio di 
+ciascun 
+comparto del 
+Fondo 
+Spese Legali e 
+Giudiziarie 
+non predeterminate 
+Al momento 
+dell’esborso 
+dal patrimonio di 
+ciascun 
+comparto del 
+Fondo 
+ 
+I costi annui complessivi connessi alla partecipazione al Fondo pensione sono dati dalla somma degli oneri 
+direttamente ed indirettamente a carico dell’Aderente. 
+ 
+Criteri di riparto dei costi comuni 
+I costi comuni alle due fasi caratterizzanti l’attività del fondo pensione e ai comparti sono stati ripartiti secondo 
+i seguenti criteri:  
+- i costi per i quali è stato individuato in modo certo la fase ed il comparto di pertinenza, sono stati imputati 
+a questi ultimi per l’intero importo; 
+- i costi comuni alle varie fasi e a più comparti, invece, secondo principi di equità.  
+ 
+Criteri e procedure per la stima di oneri e proventi 
+I criteri e le procedure di stima utilizzati per la redazione del prospetto della composizione e del valore del 
+patrimonio del fondo pensione sono stati applicati con continuità al fine di evitare salti nel valore della quota. 
+Si è pertanto tenuto conto de gli oneri e dei proventi maturati alla data di riferimento del prospetto ma non 
+ancora liquidati o riscossi, in ottemperanza al principio della competenza economica.  
+ 
+Categorie, comparti e gruppi di lavoratori e di imprese a cui il Fondo si riferisce  
+L’adesione ai Fondi Pensione Aperti può avvenire in forma individuale o su base contrattuale collettiva; 
+l’adesione individuale è consentita a tutti i soggetti, anche non titolari di redditi di lavoro o di impresa, ancorché 
+privi di iscrizione ad una forma  pensionistica obbligatoria, nonché alle persone fiscalmente a carico di altri 
+soggetti. 
+Possono aderire su base contrattuale collettiva i lavoratori dipendenti, privati e pubblici, lavoratori autonomi, i 
+liberi professionisti e soci lavoratori di cooperative di produzione e lavoro, per i quali non sussistano o non 
+operino fonti istitutive di fondi pensione negoziali. L’adesione su base contrattuale collettiva è altresì consentita 
+ai soggetti destinatari del D. Lgs. 16 settembre 1996 n. 565, anche se non iscritti al Fondo ivi previsto.  
+  
+Alla data di chiusura dell’esercizio il numero complessivo degli associati è di 4.372 unità così ripartiti:
+=== pagina 14 ===
+Classification: Pubblico 
+ 
+14 
+ 
+COMPARTO AZIONARIO 
+Fase di accumulo  
+ Lavoratori attivi: 1.765 
+ 
+COMPARTO OBBLIGAZIONARIO 
+Fase di accumulo  
+ Lavoratori attivi: 758 
+ 
+COMPARTO BILANCIATO 
+Fase di accumulo  
+ Lavoratori attivi: 1.277 
+ 
+COMPARTO CON GARANZIA DI RESTITUZIONE DEL CAPITALE 
+Fase di accumulo  
+ Lavoratori attivi: 960 
+ 
+COMPARTO CON GARANZIA DI RENDIMENTO MINIMO PRESTABILITO 
+Fase di accumulo  
+ Lavoratori attivi: 918 
+ 
+Comparabilità con esercizi precedenti 
+I dati esposti sono comparabili con quelli dell’esercizio precedente per quanto concerne la continuità dei criteri 
+di valutazione adottati.
+=== pagina 15 ===
+Classification: Pubblico 
+ 
+15 
+3.1 – Comparto Azionario 
+3.1.1 – Stato Patrimoniale 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 35.057.636 30.937.971
+10-a) Depositi bancari 715.246 255.495
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 10.343.627 10.080.745
+10-d) Titoli di debito quotati - -
+10-e) Titoli di capitale quotati - -
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. 23.469.504 20.129.994
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 111.009 115.003
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 418.250 356.734
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward - -
+10-q) Valutazione e margini su futures e opzioni - -
+20 Garanzie di risultato acquisite sulle posizioni individuali - -
+30 Crediti di imposta - -
+TOTALE ATTIVITA' FASE DI ACCUMULO 35.057.636 30.937.971
+ATTIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 227.408 38.413
+10-a) Debiti della gestione previdenziale 227.408 38.413
+20 Garanzie di risultato riconosciute sulle posizioni individuali - -
+30 Passivita' della gestione finanziaria 107.085 94.966
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 107.085 94.966
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 481.623 319.795
+TOTALE PASSIVITA' FASE DI ACCUMULO 816.116 453.174
+100 Attivo netto destinato alle prestazioni 34.241.520 30.484.797
+CONTI D'ORDINE 487.957 429.428
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 16 ===
+Classification: Pubblico 
+ 
+16 
+ 
+3.1.2 – Conto Economico 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale 1.760.498 1.225.592
+10-a) Contributi per le prestazioni 3.489.974 3.034.051
+10-b) Anticipazioni -438.376 -359.529
+10-c) Trasferimenti e riscatti -948.211 -1.195.800
+10-d) Trasformazioni in rendita -132.184 -
+10-e) Erogazioni in forma di capitale -210.705 -253.132
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali - -107
+10-i) Altre entrate previdenziali - 109
+20 Risultato della gestione finanziaria 2.869.007 2.535.591
+20-a) Dividendi e interessi 227.437 294.251
+20-b) Profitti e perdite da operazioni finanziarie 2.641.570 2.241.340
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -391.159 -353.820
+30-a) Societa' di gestione -387.260 -350.131
+30-b) Depositario - -
+30-c) Altri oneri di gestione -3.899 -3.689
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+4.238.346 3.407.363
+50 Imposta sostitutiva -481.623 -416.207
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+3.756.723 2.991.156
+=== pagina 17 ===
+Classification: Pubblico 
+ 
+17 
+3.1.3 – Nota Integrativa 
+ 
+Numero e controvalore delle quote 
+ Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 1.163.871,440  30.484.797 
+a) Quote emesse 130.039,532 3.489.974  
+b) Quote annullate -65.280,546 -1.729.476  
+c) Variazione del valore quota  1.996.225  
+Variazione dell’attivo netto (a+b+c)   3.756.723 
+Quote in essere alla fine dell’esercizio 1.228.630,426  34.241.520 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 26,193. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 27,870. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni alla 
+chiusura dell’esercizio ed il numero di quote che lo rappresenta. Il controvalore delle quote emesse e delle 
+quote annullate, pari ad € 1.760.498, è pari al saldo della gestione previdenziale di cui al punto 10 del conto 
+economico. La variazione del valore quota è invece pari alla somma del risultato della gestione finanziaria al 
+netto degli oneri di gestione e dell’imposta sostitutiva di competenza dell’esercizio.  
+Il controvalore delle quote in essere all'inizio ed alla fine dell'esercizio è pari, a meno di arrotondamenti dovuti 
+al troncamento del numero delle quote in essere, al valore, alle date citate, dell'attivo netto destinato alle 
+prestazioni. 
+ 
+3.1.3.1 Informazioni sullo Stato Patrimoniale  
+ 
+Attività 
+ 
+10 – Investimenti in gestione   € 35.057.636 
+Le risorse del Fondo pensione sono affidate alla società Amundi SGR S.p.A., che gestisce le risorse affidatele 
+tramite mandato che non prevede il trasferimento della titolarità degli investimenti effettuati.  
+La delega ha per oggetto l’attuazione della politica di investimento del patrimonio del Fondo limitatamente alle 
+seguenti tipologie di strumenti finanziari: titoli di debito, titoli di capitale, quote di O.I.C.R., operazioni di pronti 
+contro termine, contratti derivati e liquidità. 
+Tale delega, estesa a tutti i comparti del Fondo, si esercita secondo i limiti fissati dalle caratteristiche di 
+gestione di ogni singolo comparto, dal regolamento del Fondo e dalla normativa vigente in materia; in 
+particolare Amundi SGR S.p.A. opera second o le istruzioni che periodicamente CNP Vita Assicura  S.p.A. 
+impartisce circa l’allocazione delle risorse – di ciascun comparto – delle singole classi di attività. 
+La delega non ha comunque carattere esclusivo: la Società si riserva la facoltà di operare direttamente sugli 
+stessi mercati/strumenti per i quali viene conferita la delega. La delega può essere revocata in qualsiasi 
+momento e con effetto immediato.
+=== pagina 18 ===
+Classification: Pubblico 
+ 
+18 
+CNP Vita ASSICURA S.p.A. effettua l’investimento delle risorse del fondo nel rispetto dei limiti e condizioni 
+stabiliti dalla normativa vigente e dal Regolamento, assumendo a riferimento l’esclusivo interesse degli 
+Aderenti. 
+L’investimento del patrimonio del Fondo è realizzato in base alle caratteristiche di gestione degli specifici 
+comparti precedentemente illustrati. Il Gestore può effettuare l'investimento delle risorse in O.I.C.R. rientranti 
+nell'ambito di applicazione del la direttiva 85/611/CEE, purché i programmi e i limiti di investimento di ogni 
+O.I.C.R. siano compatibili con quelli dei comparti del Fondo che ne prevedono l'acquisizione  
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell'esclusivo interesse degli aderenti e nel 
+rispetto dei limiti previsti dai singoli comparti descritti nel capitolo "Informazioni generali".  
+ 
+a) Depositi bancari    € 715.246 
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso il Depositario. 
+Titoli detenuti in portafoglio                               € 33.813.131 
+L’importo complessivo dei titoli in gestione ammonta a € 33.813.131 e si riferisce a quote di O.I.C.R. e Titoli 
+emessi da Stati o da organismi internazionali. 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività: 
+ 
+Denominazione Codice ISIN Categoria bilancio Valore €     % 
+PI EMU EQUITY-XEURND LU1599402929 I.G - OICVM UE 13.894.060 39,63 
+PI US EQUITY-XEURND LU1599403141 I.G - OICVM UE 6.555.836 18,70 
+PI INVEST JAPANESE EQ-XEURND LU1599403224 I.G - OICVM UE 3.019.608 8,61 
+BUONI POLIENNALI DEL TES 15/02/2029 ,45 IT0005467482 I.G - TStato Org.Int Q IT 1.128.084 3,22 
+BONOS Y OBLIG DEL ESTADO 31/10/2026 1,3 ES00000128H5 I.G - TStato Org.Int Q UE 993.740 2,83 
+BONOS Y OBLIG DEL ESTADO 30/07/2030 1,95 ES00000127A2 I.G - TStato Org.Int Q UE 973.200 2,78 
+FRANCE (GOVT OF) 25/11/2030  0 FR0013516549 I.G - TStato Org.Int Q UE 873.340 2,49 
+FRANCE (GOVT OF) 25/04/2035 4,75 FR0010070060 I.G - TStato Org.Int Q UE 770.042 2,20 
+BUONI POLIENNALI DEL TES 01/02/2037 4 IT0003934657 I.G - TStato Org.Int Q IT 727.986 2,08 
+BUNDESREPUB. DEUTSCHLAND 15/02/2027 ,25 DE0001102416 I.G - TStato Org.Int Q UE 490.390 1,40 
+BONOS Y OBLIG DEL ESTADO 30/04/2029 1,45 ES0000012E51 I.G - TStato Org.Int Q UE 485.240 1,38 
+BUONI POLIENNALI DEL TES 01/09/2040 5 IT0004532559 I.G - TStato Org.Int Q IT 467.543 1,33 
+BUNDESREPUB. DEUTSCHLAND 04/01/2037 4 DE0001135275 I.G - TStato Org.Int Q UE 438.492 1,25 
+BUONI POLIENNALI DEL TES 01/09/2044 4,75 IT0004923998 I.G - TStato Org.Int Q IT 436.200 1,24 
+FRANCE (GOVT OF) 25/05/2027 1 FR0013250560 I.G - TStato Org.Int Q UE 393.540 1,12 
+BONOS Y OBLIG DEL ESTADO 31/01/2037 4,2 ES0000012932 I.G - TStato Org.Int Q UE 321.726 0,92 
+FRANCE (GOVT OF) 25/05/2045 3,25 FR0011461037 I.G - TStato Org.Int Q UE 308.053 0,88 
+BUNDESREPUB. DEUTSCHLAND 15/11/2027  0 DE0001102523 I.G - TStato Org.Int Q UE 288.714 0,82 
+BUONI POLIENNALI DEL TES 01/08/2030 ,95 IT0005403396 I.G - TStato Org.Int Q IT 277.272 0,79 
+CCTS EU 15/04/2033  FLOATING IT0005620460 I.G - TStato Org.Int Q IT 259.195 0,74 
+FRANCE (GOVT OF) 25/11/2029  0 FR0013451507 I.G - TStato Org.Int Q UE 180.796 0,52 
+BUONI POLIENNALI DEL TES 01/03/2048 3,45 IT0005273013 I.G - TStato Org.Int Q IT 179.412 0,51 
+BONOS Y OBLIG DEL ESTADO 31/10/2044 5,15 ES00000124H4 I.G - TStato Org.Int Q UE 176.496 0,50 
+BUNDESREPUB. DEUTSCHLAND 15/08/2046 2,5 DE0001102341 I.G - TStato Org.Int Q UE 174.166 0,50 
+Totale   33.813.131 96,44%
+=== pagina 19 ===
+Classification: Pubblico 
+ 
+19 
+Distribuzione territoriale degli investimenti 
+La distribuzione territoriale degli investimenti è la seguente: 
+Voci/Paesi Italia Altri UE Totale 
+Titoli di Stato 3.475.692 6.867.935 10.343.627 
+Quote di O.I.C.R. - 23.469.504 23.469.504 
+Depositi bancari 715.246 - 715.246 
+Totale 4.190.938 30.337.439 34.528.377 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente:  
+Voci/Paesi Titoli di Stato Titoli di Capitale 
+/ OICVM 
+Depositi 
+bancari 
+TOTALE 
+EUR 10.343.627 23.469.504 715.246 34.528.377 
+Totale 10.343.627 23.469.504 715.246 34.528.377 
+ 
+Operazioni in titoli stipulate e non ancora regolate 
+Non ci sono operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio.  
+ 
+Posizioni in contratti derivati 
+Non ci sono operazioni in contratti derivati alla data di chiusura dell’esercizio.  
+ 
+Durata media finanziaria dei titoli 
+La seguente tabella riepiloga la duration finanziaria dei titoli in portafoglio relativa alle tipologie più 
+significative di titoli. 
+Voci/Paesi Italia Altri UE Totale area 
+geografica 
+Titoli di Stato quotati 6,846 5,007 5,624 
+Totale obbligazioni 6,846 5,007 5,624 
+ 
+L'indice misura la durata residua di un'obbligazione valutata in un'ottica puramente finanziaria; può essere 
+utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazionario. Il suo valore si 
+ottiene calcolando la media ponder ata delle scadenze a cui saranno incassate le cedole ed a cui verrà 
+rimborsato il capitale. 
+ 
+Posizioni in conflitto di interesse 
+Si riportano le seguenti posizioni in conflitto di interesse: 
+ 
+Descrizione del Titolo Codice ISIN  Valore Nominale  Divisa  Valore di Mercato  
+PI EMU EQUITY-XEURND LU1599402929 4.650 EUR 13.894.061 
+PI US EQUITY-XEURND LU1599403141 1.020 EUR 6.555.836 
+PI INVEST JAPANESE EQ-XEURND LU1599403224 1.020 EUR 3.019.608
+=== pagina 20 ===
+Classification: Pubblico 
+ 
+20 
+Il consiglio di amministrazione dei fondi pensione ha adottato le misure idonee per identificare e gestire i 
+conflitti di interesse, in modo da evitare che tali conflitti incidano negativamente sugli interessi degli aderenti.  
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i saldi dei volumi delle transazioni di acquisto e di vendita effettuate 
+nell’anno per tipologia di strumento finanziario. 
+ Acquisti Vendite Saldo Controvalore 
+Titoli di Stato -4.033.330 3.037.534 -995.796 7.070.864 
+Quote di OICR -5.034.534 4.366.666 -667.868 9.401.200 
+Totale -9.067.864 7.404.200 -1.663.664 16.472.064 
+ 
+ 
+Commissioni di negoziazione 
+ 
+ Comm. su 
+acquisti 
+Comm. su 
+vendite 
+TOTALE 
+COMMISSIONI 
+Controvalore AC 
++ VC 
+ul volume 
+negoziato 
+Titoli di Stato - - - 7.070.864 0,000 
+Quote di OICR - - - 9.401.200 0,000 
+Totale - - - 16.472.064 0,00 
+ 
+ 
+l) Ratei e risconti attivi € 111.009 
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla data di chiusura 
+del bilancio. 
+ 
+n) Altre attività della gestione finanziaria € 418.250 
+La voce si riferisce a crediti previdenziali per contributi incassati da investire per € 418.250 inerenti la 
+valorizzazione di dicembre. 
+ 
+ 
+ 
+Passività 
+ 
+10 – Passività della gestione previdenziale € 227.408 
+a) Debiti della gestione previdenziale € 227.408 
+La voce è relativa, per € 227.408 ad operazioni di liquidazione delle posizioni individuali effettuate in 
+corrispondenza della valorizzazione di fine esercizio.
+=== pagina 21 ===
+Classification: Pubblico 
+ 
+21 
+30 - Passività della gestione finanziaria € 107.085 
+d) Altre passività della gestione finanziaria € 107.085 
+La voce si riferisce, per € 103.186 a commissioni di gestione  e per € 2.641 al costo per il Responsabile del 
+fondo e al contributo di vigilanza Covip per € 1.258. 
+ 
+40 – Debiti per imposta             € 481.623 
+L'importo del debito di imposta è stato calcolato in conformità alle disposizioni previste dall’art. 17 del D.Lgs. 
+252/2005. 
+ 
+Conti d’ordine                           € 487.957 
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora incassato alla 
+data di chiusura del bilancio.
+=== pagina 22 ===
+Classification: Pubblico 
+ 
+22 
+3.1.3.2 – Informazioni sul Conto Economico 
+ 
+10 – Saldo della gestione previdenziale  € 1.760.498 
+a) Contributi per le prestazioni  € 3.489.974 
+La voce è composta come segue: 
+Fonti di contribuzione Importo 
+Contributi 2.769.820 
+Di cui  
+Azienda 90.454 
+Aderente 1.631.067 
+TFR 1.048.299 
+Trasferimento posizioni da altri fondi 477.864 
+Trasferimenti in ingresso per conversione comparto 175.509 
+TFR Pregresso 98.031    
+Commissioni annue di gestione -31.221 
+Commissioni di passaggio comparto -29    
+Totale 10 a) 3.489.974 
+ 
+b) Anticipazioni € -438.376 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025. 
+ 
+c) Trasferimenti e riscatti € -948.211 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025, così ripartite: 
+Trasferimento posizione individuale in uscita - 542.645 
+Riscatto per conversione comparto - 322.867 
+Liquidazione posizioni - Riscatto totale - 48.880 
+Liquidazione posizioni - Rata R.I.T.A. - 30.310 
+Liquidazione posizioni - Riscatto immediato - 3.509 
+Totale -948.211 
+ 
+d) Trasformazioni in rendita  € -132.184 
+La voce riporta l’importo delle liquidazioni erogate, nel corso dell’esercizio, sotto forma di rendita. 
+ 
+ 
+e) Erogazioni in forma di capitale  € -210.705 
+La voce riporta l’importo delle liquidazioni erogate, nel corso dell’esercizio, in forma capitale.
+=== pagina 23 ===
+Classification: Pubblico 
+ 
+23 
+20 – Risultato della gestione finanziaria  € 2.869.007 
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite derivanti 
+da operazioni finanziarie, come riepilogati nella tabella seguente: 
+Descrizione Dividendi e interessi Profitti e perdite da 
+operazioni finanziarie 
+Titoli di Stato 216.033 -30.072 
+Quote di O.I.C.R. - 2.671.642 
+Depositi bancari 12.709 - 
+Interessi passivi -1.305  
+Totale 227.437 2.641.570 
+ 
+ 
+ 
+30 - Oneri di gestione 
+ 
+€ - 391.159 
+  
+a) Società di Gestione € - 387.260 
+La voce è composta da spese per commissioni riconosciute al Gestore. 
+ 
+c) Altri Oneri di gestione  € -3.899 
+La voce è composta dal costo per il Responsabile del fondo per € 2.641 e dal costo relativo al contributo Covip 
+per € 1.258.  
+ 
+50 – Imposta sostitutiva €  -481.623 
+Nella voce è evidenziato l’importo per € 481.623 – di segno negativo – relativo all’imposta sostitutiva, 
+determinata secondo la normativa vigente.
+=== pagina 24 ===
+Classification: Pubblico 
+ 
+24 
+3.2 – Comparto Obbligazionario 
+ 
+3.2.1 – Stato Patrimoniale 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 12.199.133 10.753.216
+10-a) Depositi bancari 404.314 224.080
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 9.289.484 8.547.548
+10-d) Titoli di debito quotati - -
+10-e) Titoli di capitale quotati - -
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. 1.984.507 1.652.764
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 123.142 112.918
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 397.686 215.906
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward - -
+10-q) Valutazione e margini su futures e opzioni - -
+20 Garanzie di risultato acquisite sulle posizioni individuali - -
+30 Crediti di imposta - 87.638
+TOTALE ATTIVITA' FASE DI ACCUMULO 12.199.133 10.840.854
+ATTIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 17.619 71.714
+10-a) Debiti della gestione previdenziale 17.619 71.714
+20 Garanzie di risultato riconosciute sulle posizioni individuali - -
+30 Passivita' della gestione finanziaria 27.735 25.217
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 27.735 25.217
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 33.688 -
+TOTALE PASSIVITA' FASE DI ACCUMULO 79.042 96.931
+100 Attivo netto destinato alle prestazioni 12.120.091 10.743.923
+CONTI D'ORDINE 172.717 151.346
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 25 ===
+Classification: Pubblico 
+ 
+25 
+3.2.2 – Conto Economico 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale 1.147.972 284.239
+10-a) Contributi per le prestazioni 1.696.193 1.485.309
+10-b) Anticipazioni -101.631 -157.223
+10-c) Trasferimenti e riscatti -203.344 -375.901
+10-d) Trasformazioni in rendita -111.341 -214.018
+10-e) Erogazioni in forma di capitale -131.905 -453.928
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali - -
+10-i) Altre entrate previdenziali - -
+20 Risultato della gestione finanziaria 374.296 355.229
+20-a) Dividendi e interessi 215.058 217.159
+20-b) Profitti e perdite da operazioni finanziarie 159.238 138.070
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -101.111 -93.632
+30-a) Societa' di gestione -99.682 -92.305
+30-b) Depositario - -
+30-c) Altri oneri di gestione -1.429 -1.327
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+1.421.157 545.836
+50 Imposta sostitutiva -44.989 -38.940
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+1.376.168 506.896
+=== pagina 26 ===
+Classification: Pubblico 
+ 
+26 
+3.2.3 – Nota Integrativa 
+ 
+Numero e controvalore delle quote 
+ Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 598.914,606     - 10.743.923 
+a) Quote emesse 93.780,128 1.696.193  
+b) Quote annullate -30.782,853 -548.221  
+c) Variazione del valore quota  228.196  
+Variazione dell’attivo netto (a+b+c)   1.376.168 
+Quote in essere alla fine dell’esercizio 661.911,881  12.120.091 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 17,939. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 18,311. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni alla 
+chiusura dell’esercizio ed il numero di quote che lo rappresenta. Il controvalore delle quote emesse e delle 
+quote annullate, pari ad €  1.147.972, è pari al saldo della gestione previdenziale di cui al punto 10 del conto 
+economico. La variazione del valore quota è invece pari alla somma del risultato della gestione finanziaria al 
+netto degli oneri di gestione e dell’imposta sostitutiva di competenza dell’esercizio.  
+Il controvalore delle quote in essere all'inizio ed alla fine dell'esercizio è pari, a meno di arrotondamenti dovuti 
+al troncamento del numero delle quote in essere, al valore, alle date citate, dell'attivo netto destinato alle 
+prestazioni. 
+ 
+ 
+3.2.3.1 Informazioni sullo Stato Patrimoniale  
+ 
+Attività 
+ 
+10 – Investimenti in gestione   € 12.199.133 
+Le risorse del Fondo pensione sono affidate alla società Amundi SGR S.p.A., che gestisce le risorse affidatele 
+tramite mandato che non prevede il trasferimento della titolarità degli investimenti effettuati.  
+La delega ha per oggetto l’attuazione della politica di investimento del patrimonio del Fondo limitatamente alle 
+seguenti tipologie di strumenti finanziari: titoli di debito, titoli di capitale, quote di O.I.C.R., quote di fondi chiusi, 
+operazioni di pronti contro termine, prestito titoli, contratti derivati e liquidità. 
+Tale delega, estesa a tutti i comparti del Fondo, si esercita secondo i limiti fissati dalle caratteristiche di 
+gestione di ogni singolo comparto, dal regolamento del Fondo e dalla normativa vigente in materia; in 
+particolare Amundi SGR S.p.A. opera second o le istruzioni che periodicamente CNP Vita Assicura S.p.A. 
+impartisce circa l’allocazione delle risorse – di ciascun comparto – delle singole classi di attività. 
+La delega non ha comunque carattere esclusivo: la Società si riserva la facoltà di operare direttamente sugli 
+stessi mercati/strumenti per i quali viene conferita la delega. La delega può essere revocata in qualsiasi 
+momento e con effetto immediato.
+=== pagina 27 ===
+Classification: Pubblico 
+ 
+27 
+CNP Vita Assicura S.p.A. effettua l’investimento delle risorse del fondo nel rispetto dei limiti e condizioni stabiliti 
+dalla normativa vigente e dal Regolamento, assumendo a riferimento l’esclusivo interesse degli Aderenti.  
+L’investimento del patrimonio del Fondo è realizzato in base alle caratteristiche di gestione degli specifici 
+comparti precedentemente illustrati. Il Gestore può effettuare l'investimento delle risorse in O.I.C.R. rientranti 
+nell'ambito di applicazione del la direttiva 85/611/CEE, purché i programmi e i limiti di investimento di ogni 
+O.I.C.R. siano compatibili con quelli dei comparti del Fondo che ne prevedono l'acquisizione.  
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell'esclusivo interesse degli aderenti e nel 
+rispetto dei limiti previsti dai singoli comparti descritti nel capitolo "Informazioni generali".  
+ 
+a) Depositi bancari    € 404.314 
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso il Depositario. 
+Titoli detenuti in portafoglio 
+L’importo complessivo dei titoli in gestione ammonta a € 11.273.991 e si riferisce a quote di O.I.C.R. ed ai 
+Titoli emessi da Stati o da organismi internazionali. 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività:  
+Denominazione Codice ISIN Categoria bilancio Valore Euro % 
+PI EMU EQUITY-XEURND LU1599402929 I.G - OICVM UE 1.314.706 10,78 
+BUNDESREPUB. DEUTSCHLAND 04/01/2037 4 DE0001135275 I.G - TStato Org.Int Q UE 876.984 7,19 
+FRANCE (GOVT OF) 25/11/2030  0 FR0013516549 I.G - TStato Org.Int Q UE 829.673 6,80 
+BONOS Y OBLIG DEL ESTADO 30/07/2027 ,8 ES0000012G26 I.G - TStato Org.Int Q UE 783.912 6,43 
+FRANCE (GOVT OF) 25/04/2035 4,75 FR0010070060 I.G - TStato Org.Int Q UE 770.042 6,31 
+PI US EQUITY-XEURND LU1599403141 I.G - OICVM UE 610.593 5,01 
+BUONI POLIENNALI DEL TES 01/08/2030 ,95 IT0005403396 I.G - TStato Org.Int Q IT 600.756 4,92 
+CCTS EU 15/04/2033  FLOATING IT0005620460 I.G - TStato Org.Int Q IT 570.229 4,67 
+BUONI POLIENNALI DEL TES 01/09/2044 4,75 IT0004923998 I.G - TStato Org.Int Q IT 545.250 4,47 
+BUONI POLIENNALI DEL TES 01/07/2034 3,85 IT0005584856 I.G - TStato Org.Int Q IT 519.050 4,25 
+FRANCE (GOVT OF) 25/11/2029  0 FR0013451507 I.G - TStato Org.Int Q UE 497.189 4,08 
+BUONI POLIENNALI DEL TES 15/02/2029 ,45 IT0005467482 I.G - TStato Org.Int Q IT 470.035 3,85 
+BONOS Y OBLIG DEL ESTADO 31/01/2037 4,2 ES0000012932 I.G - TStato Org.Int Q UE 428.968 3,52 
+BONOS Y OBLIG DEL ESTADO 31/10/2044 5,15 ES00000124H4 I.G - TStato Org.Int Q UE 352.992 2,89 
+BONOS Y OBLIG DEL ESTADO 30/07/2030 1,95 ES00000127A2 I.G - TStato Org.Int Q UE 340.620 2,79 
+BUONI POLIENNALI DEL TES 01/06/2027 2,2 IT0005240830 I.G - TStato Org.Int Q IT 300.516 2,46 
+BUNDESREPUB. DEUTSCHLAND 15/11/2027  0 DE0001102523 I.G - TStato Org.Int Q UE 288.714 2,37 
+FRANCE (GOVT OF) 25/04/2041 4,5 FR0010773192 I.G - TStato Org.Int Q UE 264.798 2,17 
+BUNDESREPUB. DEUTSCHLAND 15/08/2046 2,5 DE0001102341 I.G - TStato Org.Int Q UE 261.249 2,14 
+BUONI POLIENNALI DEL TES 01/02/2037 4 IT0003934657 I.G - TStato Org.Int Q IT 207.996 1,71 
+BUONI POLIENNALI DEL TES 01/09/2040 5 IT0004532559 I.G - TStato Org.Int Q IT 202.790 1,66 
+BUONI POLIENNALI DEL TES 01/03/2048 3,45 IT0005273013 I.G - TStato Org.Int Q IT 89.706 0,74 
+FRANCE (GOVT OF) 25/05/2045 3,25 FR0011461037 I.G - TStato Org.Int Q UE 88.015 0,72 
+PI INVEST JAPANESE EQ-XEURND LU1599403224 I.G - OICVM UE 59.208 0,49 
+Totale     11.273.991 92,42%
+=== pagina 28 ===
+Classification: Pubblico 
+ 
+28 
+ 
+ 
+Distribuzione territoriale degli investimenti 
+La distribuzione territoriale degli investimenti è la seguente: 
+Voci/Paesi Italia Altri UE Altri OCSE Totale 
+Titoli di Stato 3.506.329 5.783.155 - 9.289.484 
+Quote di O.I.C.R. - 1.984.507 - 1.984.507 
+Depositi bancari 404.314 - - 404.314 
+Totale 3.910.643 7.767.662 - 11.678.305 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente:  
+Voci/Paesi Titoli di Stato Titoli di Debito Titoli di Capitale / 
+OICVM 
+Depositi 
+bancari 
+TOTALE 
+EUR 9.289.484 - 1.984.507 404.314 11.678.305 
+Totale 9.289.484 - 1.984.507 404.314 11.678.305 
+ 
+Operazioni in titoli stipulate e non ancora regolate 
+Non ci sono operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio.  
+ 
+Posizioni in contratti derivati 
+Non ci sono posizioni in contratti derivati alla data di chiusura dell’esercizio.  
+ 
+Durata media finanziaria dei titoli 
+La seguente tabella riepiloga la duration finanziaria dei titoli in portafoglio relativa alle tipologie più 
+significative di titoli. 
+Voci/Paesi Italia Altri UE Totale area 
+geografica 
+Titoli di Stato quotati 5,747 6,666 6,320 
+Totale obbligazioni 5,747 6,666 6,320 
+ 
+L'indice misura la durata residua di un'obbligazione valutata in un'ottica puramente finanziaria; può essere 
+utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazionario. Il suo valore si 
+ottiene calcolando la media ponderata delle scadenze a cui saranno incassate le cedole ed a cui verrà 
+rimborsato il capitale. 
+ 
+Posizioni in conflitto di interesse 
+Si riportano le seguenti posizioni in conflitto di interesse:  
+ 
+Descrizione del Titolo Codice ISIN  Valore 
+Nominale  Divisa  Valore di 
+Mercato  
+PI EMU EQUITY-XEURND LU1599402929 440 EUR 1.314.707 
+PI US EQUITY-XEURND LU1599403141 95 EUR 610.593 
+PI INVEST JAPANESE EQ-XEURND LU1599403224 20 EUR 59.208
+=== pagina 29 ===
+Classification: Pubblico 
+ 
+29 
+Il consiglio di amministrazione dei fondi pensione ha adottato le misure idonee per identificare e gestire i 
+conflitti di interesse, in modo da evitare che tali conflitti incidano negativamente sugli interessi degli aderenti.  
+ 
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i saldi dei volumi delle transazioni di acquisto e di vendita effettuate 
+nell’anno per tipologia di strumento finanziario. 
+ Acquisti Vendite Saldo Controvalore 
+Titoli di Stato -2.587.603 1.766.712 -820.891 4.354.315 
+Quote di OICR -945.446 854.613 -90.833 1.800.059 
+Totale -3.533.049 2.621.325 -911.724 6.154.374 
+ 
+Commissioni di negoziazione 
+ Comm. su 
+acquisti 
+Comm. su 
+vendite 
+TOTALE 
+COMMISSIONI 
+Controvalore 
+AC + VC 
+ul volume 
+negoziato 
+Titoli di Stato - - - 4.354.315 0,00 
+Quote di OICR - - - 1.800.059 0,00 
+Totale - - - 6.154.374 0,00 
+ 
+l) Ratei e risconti attivi € 123.142 
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla data di chiusura 
+del bilancio. 
+ 
+n) Altre attività della gestione finanziaria € 397.686 
+La voce si riferisce a crediti previdenziali per contributi incassati da investire per € 397.686 inerenti la 
+valorizzazione di dicembre. 
+ 
+ 
+Passività 
+ 
+10 – Passività della gestione previdenziale € 17.619 
+a) Debiti della gestione previdenziale € 17.619 
+La voce è relativa, per € 17.619 ad operazioni di liquidazione delle posizioni individuali effettuate in 
+corrispondenza della valorizzazione di fine esercizio. 
+ 
+30 - Passività della gestione finanziaria € 27.735 
+d) Altre passività della gestione finanziaria € 27.735 
+La voce si riferisce, per € 26.306 a commissioni di gestione, per € 931 al costo per il Responsabile del fondo  
+per € 498 al Contributo COVIP.
+=== pagina 30 ===
+Classification: Pubblico 
+ 
+30 
+40 – Debiti di imposta € 33.688 
+L'importo del debito di imposta è stato calcolato in conformità alle disposizioni previste dall’art. 17 del D.Lgs. 
+252/2005. 
+ 
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora incassato alla 
+data di chiusura del bilancio. 
+ 
+Conti d’ordine 
+ 
+€ 172.717
+=== pagina 31 ===
+Classification: Pubblico 
+ 
+31 
+3.2.3.2 – Informazioni sul Conto Economico 
+ 
+10 – Saldo della gestione previdenziale  € 1.147.972 
+a) Contributi per le prestazioni  € 1.696.193 
+La voce è composta come segue: 
+Fonti di contribuzione Importo 
+Contributi 1.009.926 
+Di cui  
+Azienda 10.249 
+Aderente 748.005 
+TFR 251.672 
+Trasferimento posizioni da altri fondi 410.727 
+Trasferimenti per conversione comparto 273.578 
+TFR Pregresso 13.220 
+Commissioni annue di gestione -11.224 
+Commissioni di passaggio comparto -34    
+Totale 10 a) 1.696.193 
+ 
+b) Anticipazioni  € -101.631 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025. 
+ 
+c) Trasferimenti e riscatti  € -203.344 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025, così ripartite: 
+Trasferimento posizione individuale in uscita -129.994    
+Riscatto per conversione comparto -65.652    
+Liquidazione posizioni – Riscatto totale -4.767                                                    
+Liquidazione posizioni - Riscatto immediato -2.931    
+Liquidazione posizioni - Rata R.I.T.A. -    
+Totale -203.344 
+ 
+d) Trasformazioni in rendita                                                                                                            € -111.341 
+La voce comprende l’importo delle liquidazioni erogate in forma di rendita. 
+ 
+e) Erogazioni in forma di capitale  
+ 
+€ -131.905 
+La voce riporta l’importo delle liquidazioni erogate, nel corso dell’esercizio, in forma capitale.  
+ 
+20 – Risultato della gestione finanziaria  € 374.296 
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite derivanti 
+da operazioni finanziarie, come riepilogati nella tabella seguente:
+=== pagina 32 ===
+Classification: Pubblico 
+ 
+32 
+Descrizione Dividendi e interessi Profitti e perdite da operazioni 
+finanziarie 
+Titoli di Stato 210.324 -81.681 
+Quote di O.I.C.R. - 240.910 
+Depositi bancari 5.206 - 
+Interessi passivi -472 - 
+Altri ricavi - 9 
+Totale 215.058 159.238 
+ 
+ 
+30 - Oneri di gestione 
+ 
+ 
+€ -101.111 
+a) Società di Gestione € -99.682 
+La voce è composta da spese per commissioni di gestione finanziaria riconosciute al Gestore.  
+ 
+c) Altri Oneri di gestione  € -1.429 
+La voce è composta dal costo per il Responsabile del fondo per € 931 e dal Contributo Covip per € 498 
+. 
+ 
+50 – Imposta sostitutiva €  -44.989 
+Nella voce è evidenziato l’importo per € 44.989 – di segno negativo – dell’imposta sostitutiva determinata 
+secondo la normativa vigente.
+=== pagina 33 ===
+Classification: Pubblico 
+ 
+33 
+3.3 – Comparto Bilanciato 
+ 
+3.3.1 – Stato Patrimoniale 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 27.901.175 25.477.570
+10-a) Depositi bancari 632.416 391.497
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 17.695.428 16.706.115
+10-d) Titoli di debito quotati - -
+10-e) Titoli di capitale quotati - -
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. 8.899.389 7.801.193
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 250.085 227.339
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 423.857 351.426
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward - -
+10-q) Valutazione e margini su futures e opzioni - -
+20 Garanzie di risultato acquisite sulle posizioni individuali - -
+30 Crediti di imposta - 112.219
+TOTALE ATTIVITA' FASE DI ACCUMULO 27.901.175 25.589.789
+ATTIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 139.288 33.322
+10-a) Debiti della gestione previdenziale 139.288 33.322
+20 Garanzie di risultato riconosciute sulle posizioni individuali - -
+30 Passivita' della gestione finanziaria 71.345 66.418
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 71.345 66.418
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 176.634 -
+TOTALE PASSIVITA' FASE DI ACCUMULO 387.267 99.740
+100 Attivo netto destinato alle prestazioni 27.513.908 25.490.049
+CONTI D'ORDINE 392.085 359.069
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 34 ===
+Classification: Pubblico 
+ 
+34 
+3.3.2 – Conto Economico 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale 1.170.652 65.334
+10-a) Contributi per le prestazioni 2.709.583 2.291.885
+10-b) Anticipazioni -267.675 -234.112
+10-c) Trasferimenti e riscatti -728.381 -1.199.374
+10-d) Trasformazioni in rendita - -180.835
+10-e) Erogazioni in forma di capitale -542.902 -612.240
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali - -1
+10-i) Altre entrate previdenziali 27 11
+20 Risultato della gestione finanziaria 1.309.642 1.194.119
+20-a) Dividendi e interessi 503.318 487.723
+20-b) Profitti e perdite da operazioni finanziarie 806.324 706.396
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -265.331 -250.832
+30-a) Societa' di gestione -262.156 -247.639
+30-b) Depositario - -
+30-c) Altri oneri di gestione -3.175 -3.193
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+2.214.963 1.008.621
+50 Imposta sostitutiva -191.104 -161.721
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+2.023.859 846.900
+=== pagina 35 ===
+Classification: Pubblico 
+ 
+35 
+3.3.3 – Nota Integrativa 
+ 
+Numero e controvalore delle quote 
+ Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 1.266.411,897  25.490.049 
+a) Quote emesse 135.470,156 2.709.610  
+b) Quote annullate -79.115,903 -1.538.958  
+c) Variazione del valore quota  853.207  
+Variazione dell’attivo netto (a+b+c)   2.023.859 
+Quote in essere alla fine dell’esercizio 1.322.766,150  27.513.908 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 20,128. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 20,800. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni alla 
+chiusura dell’esercizio ed il numero di quote che lo rappresenta. Il controvalore delle quote emesse e delle 
+quote annullate, pari ad € 1.170.652, è pari al saldo della gestione previdenziale di cui al punto 10 del conto 
+economico. La variazione del valore quota è invece pari alla somma del risultato della gestione finanziaria al 
+netto degli oneri di gestione e dell’imposta sostitutiva di competenza dell’esercizio.  
+Il controvalore delle quote in essere all'inizio ed alla fine dell'esercizio è pari, a meno di arrotondamenti dovuti 
+al troncamento del numero delle quote in essere, al valore, alle date citate, dell'attivo netto destinato alle 
+prestazioni. 
+ 
+3.3.3.1 Informazioni sullo Stato Patrimoniale  
+ 
+Attività 
+ 
+10 – Investimenti in gestione   € 27.901.175 
+Le risorse del Fondo pensione sono affidate alla società Amundi SGR S.p.A., che gestisce le risorse affidatele 
+tramite mandato che non prevede il trasferimento della titolarità degli investimenti effettuati.  
+La delega ha per oggetto l’attuazione della politica di investimento del patrimonio del Fondo limitatamente alle 
+seguenti tipologie di strumenti finanziari: titoli di debito, titoli di capitale, quote di O.I.C.R., operazioni di pronti 
+contro termine, contratti derivati e liquidità. 
+Tale delega, estesa a tutti i comparti del Fondo, si esercita secondo i limiti fissati dalle caratteristiche di 
+gestione di ogni singolo comparto, dal regolamento del Fondo e dalla normativa vigente in materia; in 
+particolare Amundi SGR S.p.A. opera second o le istruzioni che periodicamente CNP Vita ASSICURA S.p.A. 
+impartisce circa l’allocazione delle risorse – di ciascun comparto – delle singole classi di attività. 
+La delega non ha comunque carattere esclusivo: la Società si riserva la facoltà di operare direttamente sugli 
+stessi mercati/strumenti per i quali viene conferita la delega. La delega può essere revocata in qualsiasi 
+momento e con effetto immediato.
+=== pagina 36 ===
+Classification: Pubblico 
+ 
+36 
+CNP Vita ASSICURA S.p.A. effettua l’investimento delle risorse del fondo nel rispetto dei limiti e condizioni 
+stabiliti dalla normativa vigente e dal Regolamento, assumendo a riferimento l’esclusivo interesse degli 
+Aderenti. 
+L’investimento del patrimonio del Fondo è realizzato in base alle caratteristiche di gestione degli specifici 
+comparti precedentemente illustrati. Il Gestore può effettuare l'investimento delle risorse in O.I.C.R. rientranti 
+nell'ambito di applicazione del la direttiva 85/611/CEE, purché i programmi e i limiti di investimento di ogni 
+O.I.C.R. siano compatibili con quelli dei comparti del Fondo che ne prevedono l'acquisizione  
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell'esclusivo interesse degli aderenti e nel 
+rispetto dei limiti previsti dai singoli comparti descritti nel capitolo "Informazioni generali".  
+ 
+a) Depositi bancari    € 632.416 
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso la Banca Depositaria.  
+Titoli detenuti in portafoglio 
+L’importo complessivo dei titoli in gestione ammonta a € 26.594.817 e si riferisce a quote di O.I.C.R. e titoli 
+emessi da Stati o da organismi internazionali. 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività:  
+ 
+Denominazione Codice ISIN Categoria bilancio Valore Euro % 
+PI EMU EQUITY-XEURND LU1599402929 I.G - OICVM UE 5.766.782 20,67 
+PI US EQUITY-XEURND LU1599403141 I.G - OICVM UE 2.185.279 7,83 
+FRANCE (GOVT OF) 25/04/2035 4,75 FR0010070060 I.G - TStato Org.Int Q UE 2.035.111 7,29 
+BONOS Y OBLIG DEL ESTADO 30/04/2029 1,45 ES0000012E51 I.G - TStato Org.Int Q UE 1.552.768 5,57 
+BUNDESREPUB. DEUTSCHLAND 04/01/2037 4 DE0001135275 I.G - TStato Org.Int Q UE 1.534.722 5,50 
+FRANCE (GOVT OF) 25/11/2029  0 FR0013451507 I.G - TStato Org.Int Q UE 1.355.970 4,86 
+BUONI POLIENNALI DEL TES 01/06/2027 2,2 IT0005240830 I.G - TStato Org.Int Q IT 1.302.236 4,67 
+BUONI POLIENNALI DEL TES 01/09/2044 4,75 IT0004923998 I.G - TStato Org.Int Q IT 1.254.075 4,49 
+CCTS EU 15/04/2029  FLOATING IT0005451361 I.G - TStato Org.Int Q IT 1.117.138 4,00 
+BUONI POLIENNALI DEL TES 01/09/2040 5 IT0004532559 I.G - TStato Org.Int Q IT 1.115.344 4,00 
+BUONI POLIENNALI DEL TES 01/07/2034 3,85 IT0005584856 I.G - TStato Org.Int Q IT 1.038.100 3,72 
+PI INVEST JAPANESE EQ-XEURND LU1599403224 I.G - OICVM UE 947.328 3,40 
+BONOS Y OBLIG DEL ESTADO 30/07/2030 1,95 ES00000127A2 I.G - TStato Org.Int Q UE 875.880 3,14 
+FRANCE (GOVT OF) 25/11/2030  0 FR0013516549 I.G - TStato Org.Int Q UE 873.340 3,13 
+BONOS Y OBLIG DEL ESTADO 31/10/2044 5,15 ES00000124H4 I.G - TStato Org.Int Q UE 847.181 3,04 
+CCTS EU 15/04/2033  FLOATING IT0005620460 I.G - TStato Org.Int Q IT 725.746 2,60 
+FRANCE (GOVT OF) 25/04/2041 4,5 FR0010773192 I.G - TStato Org.Int Q UE 529.595 1,90 
+BUNDESREPUB. DEUTSCHLAND 15/08/2046 2,5 DE0001102341 I.G - TStato Org.Int Q UE 435.415 1,56 
+BUNDESREPUB. DEUTSCHLAND 15/11/2027  0 DE0001102523 I.G - TStato Org.Int Q UE 433.071 1,55 
+BONOS Y OBLIG DEL ESTADO 31/01/2037 4,2 ES0000012932 I.G - TStato Org.Int Q UE 321.726 1,15 
+BUONI POLIENNALI DEL TES 01/02/2037 4 IT0003934657 I.G - TStato Org.Int Q IT 259.995 0,93 
+FRANCE (GOVT OF) 25/05/2045 3,25 FR0011461037 I.G - TStato Org.Int Q UE 88.015 0,32 
+Totale   26.594.817 95,32%
+=== pagina 37 ===
+Classification: Pubblico 
+ 
+37 
+ 
+ 
+ 
+ 
+ 
+Distribuzione territoriale degli investimenti 
+La distribuzione territoriale degli investimenti è la seguente: 
+Voci/Paesi Italia Altri UE Totale 
+Titoli di Stato 6.812.634 10.882.794 17.695.428 
+Quote di O.I.C.R. - 8.899.389 8.899.389 
+Depositi bancari 632.416 - 632.416 
+Totale 7.445.050 19.782.183 27.227.233 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente:  
+Voci/Paesi Titoli di Stato Titoli di Capitale / 
+OICVM 
+Depositi 
+bancari 
+TOTALE 
+EUR 17.695.428 8.899.389 632.416 27.227.233 
+Totale 17.695.428 8.899.389 632.416 27.227.233 
+ 
+ 
+Posizioni in contratti derivati 
+Non ci sono operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio.  
+ 
+Durata media finanziaria dei titoli 
+La seguente tabella riepiloga la duration finanziaria dei titoli in portafoglio relativa alle tipologie più 
+significative di titoli. 
+Voci/Paesi Italia Altri UE Totale area 
+geografica 
+Titoli di Stato quotati 5,689 6,807 6,378 
+Totale obbligazioni 5,689 6,807 6,378 
+ 
+L'indice misura la durata residua di un'obbligazione valutata in un'ottica puramente finanziaria; può essere  
+utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazionario. Il suo valore si 
+ottiene calcolando la media ponderata delle scadenze a cui saranno incassate le cedole ed a cui verrà 
+rimborsato il capitale. 
+ 
+Posizioni in conflitto di interesse 
+Si riportano le seguenti posizioni in conflitto di interesse:  
+ 
+Descrizione del Titolo Codice ISIN  Valore 
+Nominale  Divisa  Valore di 
+Mercato  
+PI EMU EQUITY-XEURND LU1599402929 1.930 EUR 5.766.782 
+PI US EQUITY-XEURND LU1599403141 340 EUR 2.185.279 
+PI INVEST JAPANESE EQ-XEURND LU1599403224 320 EUR 947.328
+=== pagina 38 ===
+Classification: Pubblico 
+ 
+38 
+Il consiglio di amministrazione dei fondi pensione ha adottato le misure idonee per identificare e gestire i 
+conflitti di interesse, in modo da evitare che tali conflitti incidano negativamente sugli interessi degli aderenti.  
+ 
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i saldi dei volumi delle transazioni di acquisto e di vendita effettuate 
+nell’anno per tipologia di strumento finanziario. 
+ Acquisti Vendite Saldo Controvalore 
+Titoli di Stato -8.292.114 6.022.027 -2.270.087 14.314.141 
+Quote di OICR -2.088.016 2.052.907 -35.109 4.140.923 
+Totale -10.380.130 8.074.934 -2.305.196 18.455.064 
+ 
+Commissioni di negoziazione 
+ Comm. su 
+acquisti 
+Comm. su 
+vendite 
+TOTALE 
+COMMISSIONI 
+Controvalore 
+AC + VC 
+ul volume 
+negoziato 
+Titoli di Stato - - - 14.314.141 0,000 
+Quote di OICR - - - 4.140.923 0,000 
+Totale - - - 18.455.064 0,000 
+ 
+l) Ratei e risconti attivi € 250.085 
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla data di chiusura 
+del bilancio. 
+ 
+n) Altre attività della gestione finanziaria € 423.857 
+La voce si riferisce a crediti previdenziali per contributi incassati da investire per € 423.857 inerenti la 
+valorizzazione di dicembre. 
+ 
+ 
+Passività 
+10 – Passività della gestione previdenziale € 139.288 
+a) Debiti della gestione previdenziale € 139.288 
+La voce è relativa, per € 139.288 ad operazioni di liquidazione delle posizioni individuali effettuate in 
+corrispondenza della valorizzazione di fine esercizio. 
+ 
+30 - Passività della gestione finanziaria € 71.345 
+d) Altre passività della gestione finanziaria € 71.345 
+La voce si riferisce, per € 68.170 a commissioni di gestione  e, per € 2.208 al costo per il Responsabile del 
+fondo e per € 967 al Contributo COVIP. 
+ 
+40 – Debiti di imposta € 176.634 
+L'importo del debito di imposta è stato calcolato in conformità alle disposizioni previste dall’art. 17 del D.Lgs. 
+252/2005.
+=== pagina 39 ===
+Classification: Pubblico 
+ 
+39 
+ 
+Conti d’ordine 392.085 
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora incassato 
+alla data di chiusura del bilancio. 
+ 
+ 
+3.3.3.2 – Informazioni sul Conto Economico 
+ 
+10 – Saldo della gestione previdenziale  € 1.170.652 
+a) Contributi per le prestazioni  € 2.709.583 
+La voce è composta come segue: 
+Fonti di contribuzione Importo 
+Contributi 2.160.529    
+Di cui  
+Azienda 41.910 
+Aderente 1.475.671 
+TFR 642.948 
+Trasferimento posizioni da altri fondi 403.974 
+Trasferimento posizioni per conversione comparto 167.400 
+TFR Pregresso 501 
+Commissioni annue di gestione - 22.805 
+Commissioni di passaggio comparto -16    
+Totale 10 a) 2.709.583 
+ 
+b) Anticipazioni  € -267.675  
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025. 
+ 
+c) Trasferimenti e riscatti € -728.381 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025 così ripartite: 
+Trasferimento posizione individuale in uscita -436.945    
+Riscatto per conversione comparto -236.591 
+Liquidazione posizioni - Riscatto totale -29.075 
+Liquidazione posizioni – Riscatto immediato - 16.907 
+Liquidazione posizioni - Rata R.I.T.A. -8.863 
+Totale -728.381 
+ 
+e) Erogazioni in forma di capitale  
+ 
+€ -542.902 
+La voce riporta l’importo delle liquidazioni erogate, nel corso dell’esercizio, in forma capitale.
+=== pagina 40 ===
+Classification: Pubblico 
+ 
+40 
+i) Altre entrate previdenziali € 27  
+La voce contiene le differenze di valore delle quote disinvestite rispetto al valore iniziale delle quote al 
+momento dell’investimento. 
+ 
+ 
+20 – Risultato della gestione finanziaria  € 1.309.642 
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite derivanti 
+da operazioni finanziarie, come riepilogati nella tabella seguente: 
+Descrizione Dividendi e interessi Profitti e perdite da 
+operazioni finanziarie 
+Titoli di Stato 493.581 -256.802 
+Quote di O.I.C.R. - 1.063.086 
+Depositi bancari 10.863 - 
+Interessi passivi -1.126 - 
+Altri ricavi - 40 
+ 503.318 806.324 
+ 
+ 
+30 - Oneri di gestione €- 265.331 
+a) Società di Gestione € -262.156 
+La voce è composta da spese per commissioni di gestione finanziaria riconosciute al Gestore.  
+ 
+c) Altri Oneri di gestione  € -3.175 
+La voce è composta dal costo per il Responsabile del fondo per € 2.208 e dal Contributo Covip per € 967. 
+ 
+50 – Imposta sostitutiva € -191.104 
+Nella voc e è evidenziato l’importo per € 191.104 – di segno negativo – relativo all’imposta sostitutiva 
+determinata secondo la normativa vigente.
+=== pagina 41 ===
+Classification: Pubblico 
+ 
+41 
+3.4 – Comparto con Garanzia di Restituzione del Capitale  
+ 
+3.4.1 – Stato Patrimoniale 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 17.696.438 17.193.699
+10-a) Depositi bancari 425.976 911.304
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 13.883.694 11.812.731
+10-d) Titoli di debito quotati 1.962.375 3.207.718
+10-e) Titoli di capitale quotati - -
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. 896.391 841.586
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 68.828 69.442
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 459.174 350.918
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward - -
+10-q) Valutazione e margini su futures e opzioni - -
+20 Garanzie di risultato acquisite sulle posizioni individuali 681 8.247
+30 Crediti di imposta - 59.170
+TOTALE ATTIVITA' FASE DI ACCUMULO 17.697.119 17.261.116
+ATTIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 33.190 135.463
+10-a) Debiti della gestione previdenziale 33.190 135.463
+20 Garanzie di risultato riconosciute sulle posizioni individuali 681 8.247
+30 Passivita' della gestione finanziaria 49.407 48.180
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 49.407 48.180
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 44.401 -
+TOTALE PASSIVITA' FASE DI ACCUMULO 127.679 191.890
+100 Attivo netto destinato alle prestazioni 17.569.440 17.069.226
+CONTI D'ORDINE 250.373 240.448
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 42 ===
+Classification: Pubblico 
+ 
+42 
+3.4.2 – Conto Economico 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale 150.945 446.825
+10-a) Contributi per le prestazioni 1.728.247 1.852.462
+10-b) Anticipazioni -119.739 -94.546
+10-c) Trasferimenti e riscatti -716.571 -496.783
+10-d) Trasformazioni in rendita - -58.434
+10-e) Erogazioni in forma di capitale -740.956 -755.874
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali -71 -
+10-i) Altre entrate previdenziali 35 -
+20 Risultato della gestione finanziaria 591.104 613.897
+20-a) Dividendi e interessi 199.569 224.738
+20-b) Profitti e perdite da operazioni finanziarie 391.535 389.159
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -189.804 -182.936
+30-a) Societa' di gestione -187.633 -180.819
+30-b) Depositario - -
+30-c) Altri oneri di gestione -2.171 -2.117
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+552.245 877.786
+50 Imposta sostitutiva -52.031 -56.971
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+500.214 820.815
+=== pagina 43 ===
+Classification: Pubblico 
+ 
+43 
+3.4.3 – Nota Integrativa 
+ 
+Numero e controvalore delle quote 
+ Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 1.047.946,462   17.069.226 
+a) Quote emesse 105.292,221 1.728.282  
+b) Quote annullate -96.486,433 -1.577.337  
+c) Variazione del valore quota  349.269  
+Variazione dell’attivo netto (a+b+c)   500.214 
+Quote in essere alla fine dell’esercizio 1.056.752,250  17.569.440 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 16,288. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 16,626. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni alla 
+chiusura dell’esercizio ed il numero di quote che lo rappresenta. Il controvalore delle quote emesse e delle 
+quote annullate, pari ad € 150.945 è pari al saldo della gestione previdenziale di cui al punto 10 del conto 
+economico. La variazione del valore quota è invece pari alla somma del risultato della gestione finanziaria al 
+netto degli oneri di gestione e dell’imposta sostitutiva di competenza dell’esercizio.  
+Il controvalore delle quote in essere all'inizio ed alla fine dell'esercizio è pari, a meno di arrotondamenti dovuti 
+al troncamento del numero delle quote in essere, al valore, alle date citate, dell'attivo netto destinato alle 
+prestazioni. 
+ 
+3.4.3.1 Informazioni sullo Stato Patrimoniale 
+ 
+Attività 
+ 
+10 – Investimenti in gestione   € 17.696.438 
+Le risorse del Fondo pensione sono affidate alla società Amundi SGR S.p.A., che gestisce le risorse affidatele 
+tramite mandato che non prevede il trasferimento della titolarità degli investimenti effettuati.  
+La delega ha per oggetto l’attuazione della politica di investimento del patrimonio del Fondo limitatamente alle 
+seguenti tipologie di strumenti finanziari: titoli di debito, titoli di capitale, quote di O.I.C.R., operazioni di pronti 
+contro termine, contratti derivati e liquidità. 
+Tale delega, estesa a tutti i comparti del Fondo, si esercita secondo i limiti fissati dalle caratteristiche di 
+gestione di ogni singolo comparto, dal regolamento del Fondo e dalla normativa vigente in materia; in 
+particolare Amundi SGR S.p.A. opera second o le istruzioni che periodicamente CNP Vita ASSICURA S.p.A. 
+impartisce circa l’allocazione delle risorse – di ciascun comparto – delle singole classi di attività. 
+La delega non ha comunque carattere esclusivo: la Società si riserva la facoltà di operare direttamente sugli 
+stessi mercati/strumenti per i quali viene conferita la delega. La delega può essere revocata in qualsiasi 
+momento e con effetto immediato.
+=== pagina 44 ===
+Classification: Pubblico 
+ 
+44 
+CNP Vita ASSICURA S.p.A. effettua l’investimento delle risorse del fondo nel rispetto dei limiti e condizioni 
+stabiliti dalla normativa vigente e dal Regolamento, assumendo a riferimento l’esclusivo interesse degli 
+Aderenti. 
+L’investimento del patrimonio del Fondo è realizzato in base alle caratteristiche di gestione degli specifici 
+comparti precedentemente illustrati. Il Gestore può effettuare l'investimento delle risorse in O.I.C.R. rientranti 
+nell'ambito di applicazione del la direttiva 85/611/CEE, purché i programmi e i limiti di investimento di ogni 
+O.I.C.R. siano compatibili con quelli dei comparti del Fondo che ne prevedono l'acquisizione  
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell'esclusivo interesse degli aderenti e nel 
+rispetto dei limiti previsti dai singoli comparti descritti nel capitolo "Informazioni generali".  
+ 
+ 
+a) Depositi bancari    € 425.976 
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso la Banca Depositaria.  
+Titoli detenuti in portafoglio 
+L’importo complessivo dei titoli in gestione ammonta a € 16.742.460 e si riferisce a quote di O.I.C.R. ed a Titoli 
+emessi da Stati o da organismi internazionali. 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività: 
+ 
+Denominazione Codice ISIN Categoria bilancio Valore Euro % 
+BUONI POLIENNALI DEL TES 01/06/2027 2,2 IT0005240830 I.G - TStato Org.Int Q IT 1.903.268 10,76 
+FRANCE (GOVT OF) 25/11/2030  0 FR0013516549 I.G - TStato Org.Int Q UE 1.877.681 10,61 
+BUONI POLIENNALI DEL TES 15/02/2029 ,45 IT0005467482 I.G - TStato Org.Int Q IT 1.504.112 8,50 
+BUONI POLIENNALI DEL TES 01/08/2030 ,95 IT0005403396 I.G - TStato Org.Int Q IT 1.478.784 8,36 
+BONOS Y OBLIG DEL ESTADO 30/07/2027 ,8 ES0000012G26 I.G - TStato Org.Int Q UE 1.175.868 6,64 
+FRANCE (GOVT OF) 25/11/2029  0 FR0013451507 I.G - TStato Org.Int Q UE 1.175.174 6,64 
+BONOS Y OBLIG DEL ESTADO 30/07/2030 1,95 ES00000127A2 I.G - TStato Org.Int Q UE 1.119.180 6,32 
+PI EMU EQUITY-XEURND LU1599402929 I.G - OICVM UE 896.391 5,07 
+BUONI POLIENNALI DEL TES 15/03/2028 ,25 IT0005433690 I.G - TStato Org.Int Q IT 717.735 4,06 
+BONOS Y OBLIG DEL ESTADO 30/04/2029 1,45 ES0000012E51 I.G - TStato Org.Int Q UE 679.336 3,84 
+BUONI POLIENNALI DEL TES 01/02/2037 4 IT0003934657 I.G - TStato Org.Int Q IT 519.990 2,94 
+BUNDESREPUB. DEUTSCHLAND 15/11/2027  0 DE0001102523 I.G - TStato Org.Int Q UE 481.190 2,72 
+FRANCE (GOVT OF) 25/04/2035 4,75 FR0010070060 I.G - TStato Org.Int Q UE 440.024 2,49 
+CCTS EU 15/04/2033  FLOATING IT0005620460 I.G - TStato Org.Int Q IT 311.034 1,76 
+UNICREDIT SPA 19/01/2026 ,325 XS2289133915 I.G - TDebito Q IT 199.834 1,13 
+BUONI POLIENNALI DEL TES 01/02/2026 ,5 IT0005419848 I.G - TStato Org.Int Q IT 199.744 1,13 
+THALES SA 26/03/2026  0 FR0013537305 I.G - TDebito Q UE 198.830 1,12 
+BUONI POLIENNALI DEL TES 01/09/2040 5 IT0004532559 I.G - TStato Org.Int Q IT 191.524 1,08 
+BUONI POLIENNALI DEL TES 01/09/2044 4,75 IT0004923998 I.G - TStato Org.Int Q IT 109.050 0,62 
+VOLVO TREASURY AB 26/08/2027  FLOATING XS3166255920 I.G - TDebito Q UE 100.046 0,57 
+CONTINENTAL AG 27/08/2026 2,5 XS2178586157 I.G - TDebito Q UE 100.046 0,57 
+BMW FINANCE NV 11/01/2026  0 XS2280845491 I.G - TDebito Q UE 99.953 0,56 
+NYKREDIT REALKREDIT A/S 13/01/2026 ,25 DK0030467105 I.G - TDebito Q UE 99.952 0,56 
+ITALGAS RETI SPA 28/08/2026 1,75 XS1571982468 I.G - TDebito Q IT 99.726 0,56 
+ENGIE SA 11/01/2032 3,25 FR0014012L94 I.G - TDebito Q UE 99.504 0,56 
+VEOLIA ENVIRONNEMENT SA 09/06/2026  0 FR0014002C30 I.G - TDebito Q UE 99.010 0,56
+=== pagina 45 ===
+Classification: Pubblico 
+ 
+45 
+INTESA SANPAOLO SPA 19/11/2026 1 XS2081018629 I.G - TDebito Q IT 98.889 0,56 
+ENI SPA PERPETUAL  VARIABLE (13/10/20) XS2242931603 I.G - TDebito Q IT 98.832 0,56 
+ARKEMA 09/09/2033 3,5 FR0014012JL7 I.G - TDebito Q UE 98.387 0,56 
+BELFIUS BANK SA/NV 08/06/2027 ,375 BE6328785207 I.G - TDebito Q UE 97.108 0,55 
+REPSOL INTL FINANCE 02/08/2027 ,25 XS2035620710 I.G - TDebito Q UE 96.635 0,55 
+IBERDROLA INTL BV PERPETUAL  VARIABLE (28/10/20) XS2244941147 I.G - TDebito Q UE 96.172 0,54 
+POSTE ITALIANE SPA 10/12/2028 ,5 XS2270397016 I.G - TDebito Q IT 94.039 0,53 
+COCA-COLA EUROPACIFIC 02/12/2028 ,2 XS2264977146 I.G - TDebito Q OCSE 92.949 0,53 
+SNAM SPA 07/12/2028  0 XS2268340010 I.G - TDebito Q IT 92.463 0,52 
+Totale   16.742.460 94,63% 
+ 
+ 
+Distribuzione territoriale degli investimenti 
+La distribuzione territoriale degli investimenti è la seguente: 
+Voci/Paesi Italia Altri UE Altri OCSE Totale 
+Titoli di Stato 6.935.241 6.948.453 - 13.883.694 
+Titoli di Debito quotati 683.783 1.185.643 92.949 1.962.375 
+Quote di OICR - 896.391 - 896.391 
+Depositi bancari 425.976 - - 425.976 
+Totale 8.045.000 9.030.487 92.949 17.168.436 
+ 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente:  
+Voci/Paesi Titoli di Stato Titoli di Debito Titoli di Capitale / 
+OICVM 
+Depositi 
+bancari 
+TOTALE 
+EUR 13.883.694 1.962.375 896.391 425.976 17.168.436 
+Totale 13.883.694 1.962.375 896.391 425.976 17.168.436 
+ 
+ 
+Operazioni in titoli stipulate e non ancora regolate 
+Non ci sono operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio.  
+ 
+Posizioni in contratti derivati 
+Non ci sono posizioni in contratti derivati alla data di chiusura dell’esercizio.  
+ 
+ 
+Durata media finanziaria dei titoli 
+La seguente tabella riepiloga la duration finanziaria dei titoli in portafoglio relativa alle tipologie più 
+significative di titoli. 
+Voci/Paesi Italia Altri UE Altri OCSE Totale area 
+geografica 
+Titoli di Debito quotati 1,482 1,599 2,836 1,616 
+Titoli di Stato quotati 3,334 3,787 - 3,561 
+Totale obbligazioni 3,168 3,469 2,836 3,321
+=== pagina 46 ===
+Classification: Pubblico 
+ 
+46 
+L'indice misura la durata residua di un'obbligazione valutata in un'ottica puramente finanziaria; può essere 
+utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazionario. Il suo valore si 
+ottiene calcolando la media ponder ata delle scadenze a cui saranno incassate le cedole ed a cui verrà 
+rimborsato il capitale. 
+ 
+Posizioni in conflitto di interesse 
+Si riportano le seguenti posizioni in conflitto di interesse:  
+ 
+ 
+Descrizione del Titolo Codice ISIN  Valore 
+Nominale  Divisa  Valore di Mercato  
+PI EMU EQUITY-XEURND LU1599402929 300 EUR 896.391 
+ 
+Il consiglio di amministrazione dei fondi pensione ha adottato le misure idonee per identificare e gestire i 
+conflitti di interesse, in modo da evitare che tali conflitti incidano negativamente sugli interessi degli aderenti.  
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i saldi dei volumi delle transazioni di acquisto e di vendita effettuate 
+nell’anno per tipologia di strumento finanziario. 
+ Acquisti Vendite Saldo Controvalore 
+Titoli di Stato -4.327.271 2.458.373 -1.868.898 6.785.644 
+Titoli di Debito quotati -298.522 292.816 -5.706 591.338 
+Quote di OICR -151.346 233.821 82.475 385.167 
+Totale -4.777.139 2.985.010 -1.792.129 7.762.149 
+ 
+Commissioni di negoziazione 
+ Comm. su 
+acquisti 
+Comm. su 
+vendite 
+TOTALE 
+COMMISSIONI 
+Controvalore 
+AC + VC 
+ul volume 
+negoziato 
+Titoli di Stato - - - 6.785.644 0,000 
+Titoli di Debito quotati - - - 591.338 0,000 
+Quote di OICR - - - 385.167 0,000 
+Totale - - - 7.762.149 0,00 
+ 
+ 
+l) Ratei e risconti attivi € 68.828 
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla data di chiusura 
+del bilancio. 
+ 
+ 
+n) Altre attività della gestione finanziaria € 459.174 
+La voce si riferisce a crediti previdenziali per contributi incassati da investire per € 459.174 inerenti la 
+valorizzazione di dicembre.
+=== pagina 47 ===
+Classification: Pubblico 
+ 
+47 
+20 – Garanzie di risultato acquisite sulle posizioni individuali € 681 
+La voce, pari ad € 681, accoglie il valore delle garanzie rilasciate alle singole posizioni individuali, determinato 
+sottraendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri stabiliti nel 
+Regolamento del Fondo, il loro valore corrente. 
+ 
+ 
+Passività 
+10 – Passività della gestione previdenziale € 33.190 
+a) Debiti della gestione previdenziale € 33.190 
+La voce è relativa, per € 33.190 ad operazioni di liquidazione delle posizioni individuali effettuate in 
+corrispondenza della valorizzazione di fine esercizio. 
+ 
+20 – Garanzie di risultato riconosciute sulle posizioni individuali € 681 
+La voce, pari ad € 681, accoglie il valore delle garanzie rilasciate alle singole posizioni individuali, determinato 
+sottraendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri stabiliti nel 
+Regolamento del Fondo, il loro valore corrente. 
+ 
+ 
+30 - Passività della gestione finanziaria € 49.407 
+d) Altre passività della gestione finanziaria € 49.407 
+La voce si riferisce, per € 47.236 a commissioni di gestione  e per € 1.478 al costo per il Responsabile del 
+fondo e per € 693 al Contributo COVIP. 
+ 
+40 – Debiti di imposta € 44.401 
+L'importo del debito di imposta è stato calcolato in conformità alle disposizioni previste dall’art. 17 del D.Lgs. 
+252/2005. 
+ 
+Conti d’ordine 
+ 
+250.373 
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora incassato alla 
+data di chiusura del bilancio.
+=== pagina 48 ===
+Classification: Pubblico 
+ 
+48 
+3.4.3.2 – Informazioni sul Conto Economico 
+ 
+10 – Saldo della gestione previdenziale  € 150.945 
+a) Contributi per le prestazioni  € 1.728.247 
+La voce è composta come segue: 
+Fonti di contribuzione Importo 
+Contributi 1.389.401 
+Di cui  
+Azienda 17.480 
+Aderente 1.105.162 
+TFR 266.759 
+TFR Pregresso -    
+Trasferimento posizioni da altri fondi 311.756 
+Trasferimento posizioni per conversione comparto 46.732 
+Commissioni annue di gestione -19.642 
+Commissioni di passaggio comparto -    
+Totale 10 a) 1.728.247 
+ 
+ 
+b) Anticipazioni  € -119.739 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025. 
+ 
+c) Trasferimenti e riscatti € -716.571 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025, così ripartite: 
+Trasferimento posizione individuale in uscita -581.067 
+Riscatto per conversione comparto -91.880 
+Liquidazione posizioni - Riscatto totale -28.396 
+Liquidazione posizioni - Riscatto immediato -15.228 
+Totale -716.571 
+ 
+ 
+e) Erogazioni in forma capitale 
+ 
+€ -740.956 
+La voce riporta l’importo delle liquidazioni erogate, nel corso dell’esercizio, in forma capitale. 
+ 
+h) Altre uscite previdenziali € -71 
+La voce contiene le differenze di valore delle quote disinvestite rispetto al valore iniziale delle quot e al 
+momento dell’investimento.
+=== pagina 49 ===
+Classification: Pubblico 
+ 
+49 
+i) Altre entrate previdenziali € 35  
+La voce contiene le differenze di valore delle quote disinvestite rispetto al valore iniziale delle quot e al 
+momento dell’investimento. 
+ 
+20 – Risultato della gestione finanziaria  € 591.104 
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite derivanti 
+da operazioni finanziarie, come riepilogati nella tabella seguente: 
+Descrizione Dividendi e interessi Profitti e perdite da 
+operazioni finanziarie 
+Titoli di Stato 169.805 206.580 
+Quote di O.I.C.R. - 137.281 
+Titoli di Debito quotati 21.290 47.669 
+Altri ricavi - 5 
+Depositi bancari 9.809 - 
+Interessi passivi -1.335 - 
+ 199.569 391.535 
+ 
+30 - Oneri di gestione € -189.804 
+a) Società di Gestione € -187.633 
+La voce è composta da spese per commissioni di gestione finanziaria. 
+ 
+c) Altri Oneri di gestione  € -2.171 
+La voce è composta dal costo per il Responsabile del fondo per € 1.478 e dal Contributo Covip per € 693. 
+ 
+50 – Imposta sostitutiva €  -52.031 
+Nella voce è evidenziato l’importo per € 52.031 – di segno negativo – relativo all’imposta sostitutiva, 
+determinata secondo la normativa vigente.
+=== pagina 50 ===
+Classification: Pubblico 
+ 
+50 
+3.5 – Comparto con Garanzia di Rendimento Minimo Prestabilito 
+ 
+3.5.1 – Stato Patrimoniale 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Investimenti in gestione 19.780.111 20.149.888
+10-a) Depositi bancari 199.883 591.101
+10-b) Crediti per operazioni pronti contro termine - -
+10-c) Titoli emessi da Stati o da organismi internazionali 15.727.584 14.176.123
+10-d) Titoli di debito quotati 2.569.254 4.050.948
+10-e) Titoli di capitale quotati - -
+10-f) Titoli di debito non quotati - -
+10-g) Titoli di capitale non quotati - -
+10-h) Quote di O.I.C.R. 1.045.790 1.020.104
+10-i) Opzioni acquistate - -
+10-l) Ratei e risconti attivi 102.366 90.181
+10-m) Garanzie di risultato rilasciate al Fondo Pensione - -
+10-n) Altre attivita' della gestione finanziaria 135.234 221.431
+10-o) Investimenti in gestione assicurativa - -
+10-p) Crediti per operazioni forward - -
+10-q) Valutazione e margini su futures e opzioni - -
+20 Garanzie di risultato acquisite sulle posizioni individuali 1.229.172 1.310.489
+30 Crediti di imposta - 108.109
+TOTALE ATTIVITA' FASE DI ACCUMULO 21.009.283 21.568.486
+ATTIVITA' FASE DI ACCUMULO
+31/12/2025 31/12/2024
+10 Passivita' della gestione previdenziale 33.842 78.921
+10-a) Debiti della gestione previdenziale 33.842 78.921
+20 Garanzie di risultato riconosciute sulle posizioni individuali 1.229.172 1.310.489
+30 Passivita' della gestione finanziaria 66.885 67.604
+30-a) Debiti per operazioni pronti contro termine - -
+30-b) Opzioni emesse - -
+30-c) Ratei e risconti passivi - -
+30-d) Altre passivita' della gestione finanziaria 66.885 67.604
+30-e) Debiti su operazioni forward - -
+40 Debiti di imposta 39.933 -
+TOTALE PASSIVITA' FASE DI ACCUMULO 1.369.832 1.457.014
+100 Attivo netto destinato alle prestazioni 19.639.451 20.111.472
+CONTI D'ORDINE 279.871 283.303
+PASSIVITA' FASE DI ACCUMULO
+=== pagina 51 ===
+Classification: Pubblico 
+ 
+51 
+3.5.2 – Conto Economico 
+ 
+ 
+ 
+ 
+ 
+31/12/2025 31/12/2024
+10 Saldo della gestione previdenziale -849.132 29.597
+10-a) Contributi per le prestazioni 1.324.786 1.523.183
+10-b) Anticipazioni -259.822 -257.169
+10-c) Trasferimenti e riscatti -674.363 -656.791
+10-d) Trasformazioni in rendita - -
+10-e) Erogazioni in forma di capitale -1.239.605 -579.804
+10-f) Premi per prestazioni accessorie - -
+10-g) Prestazioni periodiche - -
+10-h) Altre uscite previdenziali -128 -67
+10-i) Altre entrate previdenziali - 245
+20 Risultato della gestione finanziaria 691.640 746.320
+20-a) Dividendi e interessi 251.480 263.083
+20-b) Profitti e perdite da operazioni finanziarie 440.160 483.237
+20-c) Commissioni e provvigioni su prestito titoli - -
+20-d) Proventi e oneri per operazioni pronti c/termine - -
+20-e) Differenziale su garanzie di risultato rilasciate al fondo pensione - -
+30 Oneri di gestione -260.656 -258.142
+30-a) Societa' di gestione -258.219 -255.682
+30-b) Depositario - -
+30-c) Altri oneri di gestione -2.437 -2.460
+40 Variazione dell'attivo netto destinato alle prestazioni ante 
+imposta sostitutiva (10)+(20)+(30)
+-418.148 517.775
+50 Imposta sostitutiva -53.873 -63.458
+100 Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50)
+-472.021 454.317
+=== pagina 52 ===
+Classification: Pubblico 
+ 
+52 
+3.5.3 – Nota Integrativa 
+ 
+Numero e controvalore delle quote 
+ Numero Controvalore 
+Quote in essere all'inizio dell'esercizio 1.349.281,842  20.111.472 
+a) Quote emesse 89.161,678 1.324.786  
+b) Quote annullate -145.538,396 -2.173.918  
+c) Variazione del valore quota  377.111  
+Variazione dell’attivo netto (a+b+c)   -472.021 
+Quote in essere alla fine dell’esercizio 1.292.905,124  19.639.451 
+ 
+Il valore unitario delle quote al 31/12/2024 è pari a € 14,905. 
+Il valore unitario delle quote al 31/12/2025 è pari a € 15,190. 
+Nella tabella che precede è stato evidenziato il valore del patrimonio netto destinato alle prestazioni alla 
+chiusura dell’esercizio ed il numero di quote che lo rappresenta. Il controvalore delle quote emesse e delle 
+quote annullate, pari ad € -849.132, è pari al saldo della gestione previdenziale di cui al punto 10 del conto 
+economico. La variazione del valore quota è invece pari alla somma del risultato della gestione finanziaria al 
+netto degli oneri di gestione e dell’imposta sostitutiva di competenza dell’esercizio.  
+Il controvalore delle quote in essere all'inizio ed alla fine dell'esercizio è pari, a meno di arrotondamenti dovuti 
+al troncamento del numero delle quote in essere, al valore, alle date citate, dell'attivo netto destinato alle 
+prestazioni. 
+ 
+ 
+3.5.3.1 Informazioni sullo Stato Patrimoniale 
+ 
+Attività 
+ 
+10 – Investimenti in gestione   € 19.780.111 
+Le risorse del Fondo pensione sono affidate alla società Amundi SGR S.p.A., che gestisce le risorse affidatele 
+tramite mandato che non prevede il trasferimento della titolarità degli investimenti effettuati.  
+La delega ha per oggetto l’attuazione della politica di investimento del patrimonio del Fondo limitatamente alle 
+seguenti tipologie di strumenti finanziari: titoli di debito, titoli di capitale, quote di O.I.C.R., quote di fondi chiusi, 
+operazioni di pronti contro termine, prestito titoli, contratti derivati e liquidità. 
+Tale delega, estesa a tutti i comparti del Fondo, si esercita secondo i limiti fissati dalle caratteristiche di 
+gestione di ogni singolo comparto, dal regolamento del Fondo e dalla normativa vigente in materia; in 
+particolare Amundi SGR S.p.A. opera second o le istruzioni che periodicamente CNP Vita ASSICURA S.p.A. 
+impartisce circa l’allocazione delle risorse – di ciascun comparto – delle singole classi di attività. 
+La delega non ha comunque carattere esclusivo: la Società si riserva la facoltà di operare direttamente sugli 
+stessi mercati/strumenti per i quali viene conferita la delega. La delega può essere revocata in qualsiasi 
+momento e con effetto immediato.
+=== pagina 53 ===
+Classification: Pubblico 
+ 
+53 
+CNP Vita ASSICURA S.p.A. effettua l’investimento delle risorse del fondo nel rispetto dei limiti e condizioni 
+stabiliti dalla normativa vigente e dal Regolamento, assumendo a riferimento l’esclusivo interesse degli 
+Aderenti. 
+L’investimento del patrimonio del Fondo è realizzato in base alle caratteristiche di gestione degli specifici 
+comparti precedentemente illustrati. Il Gestore può effettuare l'investimento delle risorse in O.I.C.R. rientranti 
+nell'ambito di applicazione del la direttiva 85/611/CEE, purché i programmi e i limiti di investimento di ogni 
+O.I.C.R. siano compatibili con quelli dei comparti del Fondo che ne prevedono l'acquisizione  
+Il Responsabile del Fondo verifica che gli investimenti avvengano nell'esclusivo interesse degli aderenti e nel 
+rispetto dei limiti previsti dai singoli comparti descritti nel capitolo "Informazioni generali".  
+ 
+a) Depositi bancari    € 199.883 
+La voce è composta dai depositi nei conti correnti di gestione tenuti presso la Banca Depositaria.  
+Titoli detenuti in portafoglio 
+L’importo complessivo dei titoli in gestione ammonta a € 19.342.628 e si riferisce a titoli emessi da Stati o da 
+organismi internazionali. 
+Si riporta di seguito l’indicazione dei titoli detenuti in portafoglio, ordinati per valore decrescente 
+dell’investimento e specificandone il valore e la quota sul totale delle attività: 
+ 
+Denominazione Codice ISIN Categoria bilancio Valore Euro % 
+BONOS Y OBLIG DEL ESTADO 30/07/2030 1,95 ES00000127A2 I.G - TStato Org.Int Q UE 1.849.080 9,35 
+FRANCE (GOVT OF) 25/11/2030  0 FR0013516549 I.G - TStato Org.Int Q UE 1.528.345 7,73 
+BUONI POLIENNALI DEL TES 01/08/2030 ,95 IT0005403396 I.G - TStato Org.Int Q IT 1.386.360 7,01 
+BUONI POLIENNALI DEL TES 15/02/2029 ,45 IT0005467482 I.G - TStato Org.Int Q IT 1.222.091 6,18 
+CCTS EU 15/04/2033  FLOATING IT0005620460 I.G - TStato Org.Int Q IT 1.140.458 5,77 
+BONOS Y OBLIG DEL ESTADO 30/07/2027 ,8 ES0000012G26 I.G - TStato Org.Int Q UE 1.126.874 5,70 
+BUONI POLIENNALI DEL TES 01/06/2027 2,2 IT0005240830 I.G - TStato Org.Int Q IT 1.101.892 5,57 
+PI EMU EQUITY-XEURND LU1599402929 I.G - OICVM UE 1.045.790 5,29 
+BUONI POLIENNALI DEL TES 01/02/2026 ,5 IT0005419848 I.G - TStato Org.Int Q IT 998.720 5,05 
+BONOS Y OBLIG DEL ESTADO 30/04/2029 1,45 ES0000012E51 I.G - TStato Org.Int Q UE 970.480 4,91 
+BUONI POLIENNALI DEL TES 15/03/2028 ,25 IT0005433690 I.G - TStato Org.Int Q IT 956.980 4,84 
+FRANCE (GOVT OF) 25/04/2035 4,75 FR0010070060 I.G - TStato Org.Int Q UE 880.048 4,45 
+FRANCE (GOVT OF) 25/11/2029  0 FR0013451507 I.G - TStato Org.Int Q UE 723.184 3,66 
+BUNDESREPUB. DEUTSCHLAND 15/11/2027  0 DE0001102523 I.G - TStato Org.Int Q UE 673.666 3,41 
+BUONI POLIENNALI DEL TES 01/02/2037 4 IT0003934657 I.G - TStato Org.Int Q IT 623.988 3,15 
+BUONI POLIENNALI DEL TES 01/09/2040 5 IT0004532559 I.G - TStato Org.Int Q IT 337.983 1,71 
+UNICREDIT SPA 19/01/2026 ,325 XS2289133915 I.G - TDebito Q IT 299.751 1,52 
+NYKREDIT REALKREDIT A/S 13/01/2026 ,25 DK0030467105 I.G - TDebito Q UE 199.904 1,01 
+THALES SA 26/03/2026  0 FR0013537305 I.G - TDebito Q UE 198.830 1,01 
+REPSOL INTL FINANCE 02/08/2027 ,25 XS2035620710 I.G - TDebito Q UE 193.270 0,98 
+SNAM SPA 07/12/2028  0 XS2268340010 I.G - TDebito Q IT 184.926 0,93 
+CONTINENTAL AG 27/08/2026 2,5 XS2178586157 I.G - TDebito Q UE 150.069 0,76 
+ITALGAS RETI SPA 28/08/2026 1,75 XS1571982468 I.G - TDebito Q IT 149.589 0,76 
+ENI SPA PERPETUAL  VARIABLE (13/10/20) XS2242931603 I.G - TDebito Q IT 118.598 0,60 
+BUONI POLIENNALI DEL TES 01/09/2044 4,75 IT0004923998 I.G - TStato Org.Int Q IT 109.050 0,55 
+VOLVO TREASURY AB 26/08/2027  FLOATING XS3166255920 I.G - TDebito Q UE 100.046 0,51 
+BMW FINANCE NV 11/01/2026  0 XS2280845491 I.G - TDebito Q UE 99.953 0,51 
+ENGIE SA 11/01/2032 3,25 FR0014012L94 I.G - TDebito Q UE 99.504 0,50
+=== pagina 54 ===
+Classification: Pubblico 
+ 
+54 
+VEOLIA ENVIRONNEMENT SA 09/06/2026  0 FR0014002C30 I.G - TDebito Q UE 99.010 0,50 
+INTESA SANPAOLO SPA 19/11/2026 1 XS2081018629 I.G - TDebito Q IT 98.889 0,50 
+ARKEMA 09/09/2033 3,5 FR0014012JL7 I.G - TDebito Q UE 98.387 0,50 
+FRANCE (GOVT OF) 25/05/2027 1 FR0013250560 I.G - TStato Org.Int Q UE 98.385 0,50 
+MERLIN PROPERTIES SOCIMI 18/09/2029 2,375 XS1684831982 I.G - TDebito Q UE 98.260 0,50 
+BELFIUS BANK SA/NV 08/06/2027 ,375 BE6328785207 I.G - TDebito Q UE 97.108 0,49 
+IBERDROLA INTL BV PERPETUAL  VARIABLE (28/10/20) XS2244941147 I.G - TDebito Q UE 96.172 0,49 
+POSTE ITALIANE SPA 10/12/2028 ,5 XS2270397016 I.G - TDebito Q IT 94.039 0,48 
+COCA-COLA EUROPACIFIC 02/12/2028 ,2 XS2264977146 I.G - TDebito Q OCSE 92.949 0,47   
+Totale 19.342.628 97,85% 
+ 
+ 
+ 
+ 
+Distribuzione territoriale degli investimenti 
+La distribuzione territoriale degli investimenti è la seguente: 
+Voci/Paesi Italia Altri UE Altri OCSE Totale 
+Titoli di Stato 7.877.522 7.850.062 - 15.727.584 
+Titoli di Debito quotati 945.792 1.530.513 92.949 2.569.254 
+Quote di OICR - 1.045.790 - 1.045.790 
+Depositi bancari 199.883 - - 199.883 
+Totale 9.023.197 10.426.365 92.949 19.542.511 
+ 
+Distribuzione per valuta degli investimenti 
+La composizione degli investimenti suddivisi per valuta è la seguente:  
+Voci/Paesi  
+Titoli di Stato 
+ 
+Titoli di Debito 
+ 
+Quote di OICR 
+Depositi 
+bancari 
+ 
+Totale 
+EUR 15.727.584 2.569.254 1.045.790 199.883 19.542.511 
+Totale 15.727.584 2.569.254 1.045.790 199.883 19.542.511 
+ 
+Operazioni in titoli stipulate e non ancora regolate 
+Non ci sono operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio.  
+ 
+Posizioni in contratti derivati 
+Non ci sono operazioni in titoli stipulate ma non regolate alla data di chiusura dell’esercizio.  
+ 
+Durata media finanziaria dei titoli 
+La seguente tabella riepiloga la duration finanziaria dei titoli in portafoglio relativa alle tipologie più 
+significative di titoli. 
+ 
+Voci/Paesi Italia Altri UE Altri OCSE Totale area 
+geografica 
+Titoli di Debito quotati 1,457 1,575 2,836 1,607 
+Titoli di Stato quotati 3,050 3,906 - 3,468 
+Totale obbligazioni 2,879 3,527 2,836 3,206 
+ 
+L'indice misura la durata residua di un'obbligazione valutata in un'ottica puramente finanziaria; può essere 
+utilizzato come primo approssimativo indicatore del rischio di un investimento obbligazionario. Il suo valore si
+=== pagina 55 ===
+Classification: Pubblico 
+ 
+55 
+ottiene calcolando la media ponderata delle scadenze a cui saranno incassate le cedole ed a cui verrà 
+rimborsato il capitale. 
+ 
+Posizioni in conflitto di interesse 
+Alla data di chiusura dell’esercizio non sono presenti posizioni in conflitto di interesse.  
+ 
+Descrizione del titolo Codice ISIN Nominale Divisa Controvalore € 
+Amundi Inv EMU Equity X LU1599402929 350,00  EUR  1.045.789,50 
+Totale   350,00    1.045.789,50 
+ 
+Controvalore degli acquisti e delle vendite di strumenti finanziari 
+Nella tabella sottostante vengono riportati i saldi dei volumi delle transazioni di acquisto e di vendita effettuate 
+nell’anno per tipologia di strumento finanziario. 
+ 
+ Acquisti Vendite Saldo Controvalore 
+Titoli di Stato -5.240.170 3.909.116 -1.331.054 9.149.286 
+Titoli di Debito quotati -298.522 292.816 -5.706 591.338 
+Quote di OICR -165.901 302.958 137.057 468.859 
+Totale -5.704.593 4.504.890 -1.199.703 10.209.483 
+ 
+ 
+Commissioni di negoziazione 
+ Comm. su 
+acquisti 
+Comm. su 
+vendite 
+TOTALE 
+COMMISSIONI 
+Controvalore 
+AC + VC 
+ul volume 
+negoziato 
+Titoli di Stato - - - 9.149.286 0,00 
+Titoli di Debito quotati - - - 591.338 0,00 
+Quote di OICR - - - 468.859 0,00 
+Totale - - - 10.209.483 0,00 
+ 
+ 
+l) Ratei e risconti attivi € 102.366 
+La voce è relativa ai proventi maturati sugli investimenti in gestione ma non ancora riscossi alla data di chiusura 
+del bilancio. 
+ 
+n) Altre attività della gestione finanziaria € 135.234 
+La voce si riferisce a crediti previdenziali per contributi incassati da investire per € 135.234 inerenti la 
+valorizzazione di dicembre. 
+ 
+ 
+20 – Garanzie di risultato acquisite sulle posizioni individuali € 1.229.172 
+La voce, pari ad € 1.229.172, accoglie il valore delle garanzie rilasciate alle singole posizioni individuali, 
+determinato sottraendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri stabiliti 
+nel Regolamento del Fondo, il loro valore corrente.
+=== pagina 56 ===
+Classification: Pubblico 
+ 
+56 
+ 
+ 
+Passività 
+ 
+10 – Passività della gestione previdenziale € 33.842 
+a) Debiti della gestione previdenziale € 33.842 
+La voce è relativa, per € 33.842 ad operazioni di liquidazione delle posizioni individuali effettuate in 
+corrispondenza della valorizzazione di fine esercizio 
+ 
+20 – Garanzie di risultato riconosciute sulle posizioni individuali € 1.229.172 
+La voce, pari ad € 1.229.172 accoglie il valore delle garanzie riconosciute alle singole posizioni individuali, 
+determinato sottraendo ai valori garantiti alla fine dell’esercizio alle singole posizioni, calcolati con i criteri 
+stabiliti nel Regolamento del Fondo, il loro valore corrente. 
+ 
+30 - Passività della gestione finanziaria € 66.885 
+d) Altre passività della gestione finanziaria € 66.885 
+La voce si riferisce, per € 64.448 a commissioni di gestione  e per € 1.742 al costo per il Responsabile del 
+fondo e per € 695 al Contributo Covip. 
+ 
+40 – Debiti di imposta € 39.933 
+L'importo del debito di imposta è stato calcolato in conformità alle disposizioni previste dall’art. 17 del D.Lgs. 
+252/2005. 
+ 
+ 
+Conti d’ordine 
+ 
+€ 279.871 
+L’importo rappresenta l’ammontare dei contributi di competenza dell’esercizio 2025 non ancora incassato alla 
+data di chiusura del bilancio.
+=== pagina 57 ===
+Classification: Pubblico 
+ 
+57 
+3.5.3.2 – Informazioni sul Conto Economico 
+ 
+10 – Saldo della gestione previdenziale  € -849.132 
+a) Contributi per le prestazioni  € 1.324.786 
+La voce è composta come segue: 
+Fonti di contribuzione Importo 
+Contributi 1.171.675 
+Di cui  
+Azienda 35.866 
+Aderente 719.689 
+TFR 416.120 
+Trasferimento posizioni da altri fondi -    
+Trasferimento posizioni per conversione comparto 161.723 
+TFR pregresso 9.500 
+Commissioni annue di gestione -18.071 
+Commissioni di passaggio comparto -41 
+Totale 10 a) 1.324.786 
+ 
+b) Anticipazioni  € -259.822 
+La voce contiene l’importo lordo delle anticipazioni erogate dal Fondo nel corso dell’anno 2025. 
+ 
+c) Trasferimenti e riscatti  € -674.363 
+La voce contiene l’importo lordo delle liquidazioni erogate dal Fondo nel corso dell’anno 2025, così ripartite: 
+Trasferimento posizione individuale in uscita -336.584 
+Liquidazione posizioni - Riscatto totale -126.131 
+Riscatto per conversione comparto -107.952 
+Liquidazione posizioni - Rata R.I.T.A. -92.713 
+Liquidazione posizioni - Riscatto parziale -7.301 
+Liquidazione posizioni - Riscatto immediato - 3.682 
+Totale -674.363 
+ 
+ 
+e) Erogazioni in forma di capitale  
+ 
+€ -1.239.605 
+La voce riporta l’importo delle liquidazioni erogate, nel corso dell’esercizio, in forma capitale.  
+ 
+h) Altre uscite previdenziali € -128 
+La voce contiene le differenze di valore delle quote disinvestite rispetto al valore iniziale delle quot e al 
+momento dell’investimento.
+=== pagina 58 ===
+Classification: Pubblico 
+ 
+58 
+20 – Risultato della gestione finanziaria  € 691.640 
+Si compone dei proventi conseguiti, sotto forma di dividendi ed interessi, e dei profitti e delle perdite derivanti 
+da operazioni finanziarie, come riepilogati nella tabella seguente: 
+Descrizione Dividendi e interessi Profitti e perdite da 
+operazioni finanziarie 
+Titoli di Stato 215.029 215.957 
+Titoli di OICM - 162.742 
+Titoli di Debito quotati 28.329 61.319 
+Altri ricavi - 142 
+Depositi bancari 9.349 - 
+Interessi passivi -1.227 - 
+Totale 251.480 440.160 
+ 
+ 
+30 - Oneri di gestione € -260.656 
+a) Società di Gestione € -258.219 
+La voce è composta dalle commissioni di gestione finanziaria riconosciute al Gestore.  
+ 
+c) Altri Oneri di gestione € -2.437 
+La voce è composta dal costo per il Responsabile del fondo per € 1.742 e dal Contributo Covip per € 695. 
+ 
+50 – Imposta sostitutiva € -53.873 
+Nella voce è evidenziato l’importo per €  53.873 – di segno negativo – relativo all’imposta sostitutiva 
+determinata secondo la normativa vigente. 
+ 
+ 
+ 
+ CNP Vita Assicura S.p.A. 
+             Il Presidente 
+         GUILGOT François
+=== pagina 59 ===
+Classification: Pubblico 
+ 
+59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Via Arbe, 49 – 20125 Milano 
+FONDO PENSIONE APERTO CNP  
+(FPA CNP)  Numero verde: 800.11.44.33 
+CNP Vita Assicura S.p.A. (Gruppo CNP Assurances) 
+Iscritto all’Albo tenuto dalla COVIP con il n. 115  
+fondi_pensione@gruppocnp.it  
+cnpvita_assicura@legalmail.it 
+ 
+Istituito in Italia   www.gruppocnp.it 
+ 
+ 
+COMPARTO AZIONARIO 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+ 
+ 
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852)
+=== pagina 60 ===
+Classification: Pubblico 
+ 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Via Arbe, 49 – 20125 Milano 
+FONDO PENSIONE APERTO CNP  
+(FPA CNP)  Numero verde: 800.11.44.33 
+CNP Vita Assicura S.p.A. (Gruppo CNP Assurances) 
+Iscritto all’Albo tenuto dalla COVIP con il n. 115  
+fondi_pensione@gruppocnp.it  
+cnpvita_assicura@legalmail.it 
+ 
+Istituito in Italia   www.gruppocnp.it 
+ 
+ 
+COMPARTO BILANCIATO 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+ 
+ 
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852)
+=== pagina 61 ===
+Classification: Pubblico 
+ 
+61
+=== pagina 62 ===
+Classification: Pubblico 
+ 
+62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Via Arbe, 49 – 20125 Milano 
+FONDO PENSIONE APERTO CNP  
+(FPA CNP)  Numero verde: 800.11.44.33 
+CNP Vita Assicura S.p.A. (Gruppo CNP Assurances) 
+Iscritto all’Albo tenuto dalla COVIP con il n. 115  
+fondi_pensione@gruppocnp.it  
+cnpvita_assicura@legalmail.it 
+ 
+Istituito in Italia   www.gruppocnp.it 
+ 
+ 
+COMPARTO CON GARANZIA DI RENDIMENTO MINIMO PRESTABILITO 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+ 
+ 
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852)
+=== pagina 63 ===
+Classification: Pubblico 
+ 
+63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Via Arbe, 49 – 20125 Milano 
+FONDO PENSIONE APERTO CNP  
+(FPA CNP)  Numero verde: 800.11.44.33 
+CNP Vita Assicura S.p.A. (Gruppo CNP Assurances) 
+Iscritto all’Albo tenuto dalla COVIP con il n. 115  
+fondi_pensione@gruppocnp.it  
+cnpvita_assicura@legalmail.it 
+ 
+Istituito in Italia   www.gruppocnp.it 
+ 
+ 
+COMPARTO CON GARANZIA DI RESTITUZIONE DEL CAPITALE 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+ 
+ 
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852)
+=== pagina 64 ===
+Classification: Pubblico 
+ 
+64 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Via Arbe, 49 – 20125 Milano 
+FONDO PENSIONE APERTO CNP  
+(FPA CNP)  Numero verde: 800.11.44.33 
+CNP Vita Assicura S.p.A. (Gruppo CNP Assurances) 
+Iscritto all’Albo tenuto dalla COVIP con il n. 115  
+fondi_pensione@gruppocnp.it  
+cnpvita_assicura@legalmail.it 
+ 
+Istituito in Italia   www.gruppocnp.it 
+ 
+ 
+COMPARTO OBBLIGAZIONARIO 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+ 
+ 
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852)

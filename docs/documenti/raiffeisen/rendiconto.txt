@@ -1,0 +1,3755 @@
+# Fondo: RAIFFEISEN FONDO PENSIONE APERTO (raiffeisen)
+# Documento: Rendiconto – Rendiconto della gestione esercizio 2025
+# Fonte: https://www.raiffeisenpensionsfonds.it/fileadmin/RGO/Pensionsfonds/Berichte/Rendiconto_della_gestione_esercizio_2025.pdf
+# Citato in: https://www.raiffeisenpensionsfonds.it/it/il-raiffeisen-fondo-pensione/documentazione.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 533e0bbb4ae750509891521d817991d5955a94c459dc31427a283effa9d122db
+# Pagine: 85
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+Esercizio 2025
+=== pagina 2 ===
+2 
+ 
+ 
+ 
+ 
+Il presente documento riporta la Relazione degli Amministratori, il Rendiconto e la Relazione della Società 
+di Revisione del Fondo pensione aperto a contribuzione definita denominato “ Raiffeisen Fondo Pensione 
+Aperto” (di seguito denominato “Fondo”) gestito dalla Cassa Centrale Raiffeisen dell’Alto Adige S.p.A. (di 
+seguito denominata “Banca”). 
+La Relazione degli amministratori ed il Rendiconto sono redatti in conformità alle disposizioni emanate dalla 
+Commissione di Vigilanza per i fondi pensione con delibera del 17 giugno 1998 e successive modificazioni. 
+ 
+ 
+Cassa Centrale Raiffeisen dell’Alto Adige S.p.A.  ha sede a Bolzano, Via Laurin 1; è iscritta all’albo delle 
+banche presso la Banca d’Italia al n. 4747; il capitale sociale ammonta ad Euro 250.000.000 interamente 
+versato. 
+ 
+ 
+Consiglio di Amministrazione 
+Presidente  Hanspeter Felder   
+Vizepräsident               Georg Mutschlechner 
+ 
+Membri    Jelena Comploi  
+Wolfram Gapp  
+Peter Paul Heiss  
+Jakob Franz Laimer  
+Paulina Schwarz  
+Veronika Skocir  
+Manfred Wild   
+ 
+Collegio sindacale 
+Presidente  Hubert Berger 
+ 
+Membri effettivi  Hildegard Oberleiter  
+   Markus Reichhalter 
+ 
+Membri supplenti Martina Malfertheiner 
+   Roland Stuefer 
+ 
+ 
+ 
+ 
+ 
+***
+=== pagina 3 ===
+3 
+ 
+ 
+Indice 
+ 
+ 
+1 Relazione degli Amministratori sulla gestione del Fondo 
+1.1  Situazione a fine esercizio e andamento della gestione nel corso dell’esercizio 
+1.2 Politica di gestione  
+1.2.1   Quadro macroeconomico 
+1.2.2  Andamento dei mercati finanziari 
+1.2.3  Commento sui Comparti  
+1.3 Valutazione delle performance realizzate 
+1.4 Andamento della gestione previdenziale 
+1.5 Andamento della gestione amministrativa 
+1.6 Operazioni effettuate in conflitto d’interesse 
+1.7 Fatti di rilievo avvenuti dopo la chiusura dell’esercizio 
+1.8 Evoluzione prevedibile della gestione 
+  
+2 Rendiconto  
+2.1  Nota Integrativa 
+2.1.1 Informazioni Generali 
+2.1.1.1   Descrizione sintetica delle caratteristiche strutturali del Fondo 
+2.1.1.2   Criteri di valutazione per le attività e passività del Fondo 
+2.1.1.3   Criteri adottati per il riparto dei costi comuni alle due fasi e ai comparti 
+2.1.1.4   Criteri e procedure utilizzate per la stima degli oneri e dei proventi 
+2.1.1.5   Indicazione dei lavoratori a cui il Fondo si riferisce e del numero di iscritti 
+2.1.1.6  Ulteriori informazioni 
+2.1.2 Rendiconti delle fasi 
+2.1.2.1.  Rendiconto della fase di accumulo 
+2.1.2.1.1  Comparto Safe 
+2.1.2.1.2 Comparto Activity 
+2.1.2.1.3 Comparto Dynamic 
+2.1.2.1.4 Comparto Guaranty 
+2.1.2.2  Rendiconto della fase di erogazione 
+ 
+3.   Allegato sulla sostenibilità 
+ 
+4. Relazione della società di revisione 
+4.1 Comparto Safe 
+4.2 Comparto Activity 
+4.3 Comparto Dynamic 
+4.4 Comparto Guaranty
+=== pagina 4 ===
+4 
+ 
+1  Relazione degli amministratori sulla gestione del Fondo  
+1.1 Situazione a fine esercizio e andamento della gestione  
+nel corso dell’esercizio 
+ 
+La costituzione del RAIFFEISEN FONDO PENSIONE APERTO risale all’anno 2005 in cui è stata rilasciata la 
+relativa autorizzazione da parte della Commissione di Vigilanza sui Fondi Pensione (COVIP) ed è avvenuta 
+l’iscrizione all’Albo dei Fondi Pensione al n. 149.  
+Fino al 31 dicembre 2013 il Fondo è stato gestito dal soggetto istitutore PensPlan Invest SGR S.p.A. 
+In data 01 gennaio 2014, a seguito della cessione del Fondo da parte di PensPlan Invest SGR S.p.A. alla 
+Banca, quest’ultima ha assunto, ai sensi dell’articolo 12 del D.Lgs. 252/2005, il ruolo di ente gestore del Fondo 
+ed esercita tale attività nell’ambito dell’autorizzazione rilasciata dalla COVIP, d’intesa con la Banca d’Italia, 
+con provvedimento n. 4079 del 5 giugno 2013. 
+ 
+La finalità del Fondo è quella di offrire al pubblico una forma di previdenza per l’erogazione di trattamenti 
+pensionistici, complementari al sistema pubblico, amministrando i contributi versati dagli aderenti tramite una 
+gestione finanziaria a capitalizzazione.  
+ 
+Il Fondo è articolato in 4 comparti di investimento  affinché l’iscritto possa adeguare l’esposizione al rischio 
+alla propria propensione.  
+Al 31 dicembre 2025 il Fondo contava complessivamente 66.612 iscritti attivi, con un incremento annuale di 
+6.167 unità.  
+ 
+In relazione alla tipologia di adesioni le iscrizioni individuali sono aumentate di 4.000 unità fino a raggiungere 
+complessivi 44.335 aderenti, mentre il numero di iscrizioni collettive è incrementato di 2.167 unità assestandosi 
+a ben 22.277 lavoratori dipendenti. 
+ 
+Con riferimento alla residenza gli iscritti si ripartiscono come segue: 
+Provincia di Bolzano: 65.616 
+Provincia di Trento: 369 
+Fuori Regione: 627 
+ 
+Con riferimento ai singoli comparti gli iscritti si ripartiscono come segue: 
+  5.699   aderenti al Comparto Safe (8,55%);  
+33.231   aderenti al Comparto Activity (49,89%);  
+26.087   aderenti al Comparto Dynamic (39,16%);  
+  1.595   aderenti al Comparto Guaranty (2,40%). 
+ 
+Gli aderenti iscritti al programma pensionistico per familiari a carico al 31 dicembre 2025 erano 16.810.
+=== pagina 5 ===
+5 
+ 
+L’attivo netto destinato alle prestazioni ( Euro 1.441.084.698) risulta in aumento rispetto all’anno precedente 
+(Euro 1.290.515.806) e si suddivide come segue:  
+ 
+Euro   163.946.722   al Comparto Safe 
+Euro   823.515.826 al Comparto Activity 
+Euro  383.749.390   al Comparto Dynamic 
+Euro  69.872.760   al Comparto Guaranty 
+ 
+ 
+Nel corso dell’esercizio 2025 le erogazioni per prestazioni, anticipi, trasferimenti e liquidazioni si sono evolute 
+come segue: 
+ 
+ 
+Forma Numero pratiche Controvalore disinvestito euro 
+Anticipi per ulteriori esigenze  635 6.344.719  
+Anticipi per prima casa  79 3.294.386  
+Anticipi per spese mediche  73 369.299  
+Riscatti  244 3.832.063  
+Prestazioni in forma di capitale  514 22.878.934  
+Riscatti per premorienza  56 1.486.263  
+Trasferimenti in uscita (ad altri fondi)  488 7.109.115  
+Rendite  2 164.354  
+RITA parziale  19 2.014.686  
+RITA totale  71 12.040.220  
+ 
+Inoltre, si segnala che da altri fondi sono state trasferite 914 posizioni con un valore complessivo di Euro 
+23.054.605. 
+ 
+1.2  Politica di gestione  
+  
+1.2.1 Quadro macroeconomico 
+Nel 2025, l’economia globale è stata influenzata dall’incertezza geopolitica, principalmente causata dalla 
+politica fiscale statunitense e dal protrarsi dei conflitti in Ucraina e Medio Oriente. In questo contesto, il 
+controllo dell’inflazione e la lettura dei dati sull’occupazione hanno guidato le scelte di politica monetaria 
+delle principali banche centrali, tra tutte la FED, a sua volta influenzata dalle dichiarazioni 
+dell’amministrazione Trump che ne hanno minato l’indipendenza. In Europa, le misure di sostegno 
+all’economia reale, in particolare in Germania, e l’introduzione del programma ReArm Europe hanno spinto 
+al rialzo le proiezioni di crescita del Vecchio Continente, aiutate anche da nuove iniziative commerciali 
+intraprese con Sud America e India. Il Fondo Monetario Internazionale (FMI) prevede per il 2026 un volume 
+di scambi a livello globale (sia di beni che di servizi) al 2,3% in evidente decelerazione rispetto al +3,6% 
+stimato per quest’anno e al +3,5% registrato nel 2024. 
+ 
+1.2.2 Andamento dei mercati finanziari 
+I mercati finanziari sono cresciuti durante il 2025, spinti soprattutto dai risky assets nonché dalla 
+performance dei metalli preziosi, su tutti l’oro. Il mercato obbligazionario, sia europeo che statunitense, ha 
+registrato un andamento eterogeneo sulle varie scadenze, segnando una performance migliore sulla parte 
+a breve della curva rispetto alla parte a medio/lungo termine. Negli Stati Uniti, negativa soprattutto la
+=== pagina 6 ===
+6 
+ 
+performance del dollaro, il quale ha subito una forte svalutazione. In Europa, sul mercato azionario guidano 
+Italia e Spagna con ottime performance dei rispettivi indici. Il Bund decennale ha registrato un rendimento 
+a fine anno del 2,85%, i titoli di stato decennali italiani del 3,55% e i Treasuries decennali statunitensi del 
+4,17%. Per i mercati azionari il 2025 è stato un anno particolarmente positivo: in euro, a fine anno l'indice 
+S&P 500 segna un più 2,61%, l'EUROSTOXX 50 guadagna il 17,86%, il FTSE MIB segna un più 30,75% e 
+l’MSCI World guadagna il 6,54%. 
+ 
+1.2.3  Commento sui Comparti 
+Comparto Safe  
+Nel 2025 la gestione della linea Safe, che investe esclusivamente in obbligazioni, è stata effettuata in un 
+contesto volatile. L’introduzione in Europa di pacchetti di finanziamento all’economia reale si è tradotto in 
+vendite obbligazionarie soprattutto sulle lunghe scadenze, con conseguente posizionamento di favore da 
+parte degli operatori di mercato sui i titoli a breve scadenza. In questo contesto, il gestore della linea Safe 
+ha perseguito una strategia d'investimento leggermente più prudente rispetto al benchmark. In particolare, 
+con riguardo ai titoli di stato europei, il gestore ha mantenuto nel corso dell'anno una duration leggermente 
+più corta, riducendo così il rischio rispetto al benchmark. Una quota del 18,37% del patrimonio è stata inoltre 
+investita in obbligazioni societarie. Il risultato della linea di investimento è del -0,37% alla fine dell'anno.  
+ 
+Comparto Activity  
+La linea Activity, il cui peso azionario in posizione neutrale è del 25%, è stata gestita, in un contesto di 
+mercato favorevole per i risky assets, in modo attivo. La quota azionaria e la diversificazione del portafoglio 
+nei vari settori sono state adeguate nel corso dell'anno. Nell’impostazione settoriale, si è passati durante 
+l’anno da un’impostazione maggiormente concentrata sui titoli difensivi a un portafoglio bilanciato. Alla fine 
+dell'anno, la quota azionaria ammontava al 26,85%. Per quanto riguarda la componente obbligazionaria, il 
+gestore è risultato, in media, leggermente più lungo in termini di duration, investendo una quota pari al 
+64,64% del patrimonio in titoli governativi e del 6,58% in titoli corporate. La linea di investimento ha chiuso 
+l’anno con un +2,91%,  
+ 
+Comparto Dynamic  
+La linea Dynamic, il cui peso azionario in posizione neutrale è del 65%, è stata gestita, in un contesto di 
+mercato favorevole per i risky assets, in modo attivo. La quota azionaria e la diversificazione del portafoglio 
+nei vari settori sono state adeguate nel corso dell’anno. Nell’impostazione settoriale, si è passati durante 
+l’anno da un’impostazione maggiormente concentrata sui titoli difensivi a un portafoglio bilanciato. Alla fine 
+dell'anno, la quota azionaria ammontava al 65,52%. Per quanto riguarda la componente obbligazionaria il 
+gestore è risultato, in media, leggermente più lungo in termini di duration, investendo una quota del 27,13% 
+del patrimonio in titoli governativi e del 4,05% in titoli corporate. La linea di investimento ha chiuso l’anno 
+con un +6,53%, generata soprattutto dalla performance della componente azionaria.  
+ 
+Comparto Guaranty  
+Nel contesto a tratti volatile del mercato obbligazionario il gestore ha perseguito una politica d'investimento 
+attiva mantenendo una duration di portafoglio leggermente più alta rispetto al benchmark. Al 31 dicembre 
+2025 la quota del patrimonio dei titoli governativi ammontava al 53,38%, quella delle obbligazioni societarie 
+al 32,94% e quella dei titoli azionari al 5,24%. La restante parte era investita in liquidità. La linea di 
+investimento ha chiuso l’anno con un rendimento del +1,77%.
+=== pagina 7 ===
+7 
+ 
+I grafici che seguono mostrano la composizione percentuale degli investimenti dei Comparti del Fondo al 
+31 dicembre 2025.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.3  Valutazione delle performance realizzate 
+ 
+I quattro Comparti di investimento caratterizzati da prospettive di rischio/rendimento diverse, sono di seguito 
+illustrati unitamente ai corrispondenti parametri di riferimento (‘benchmark’).  
+ 
+Valori delle quote al 31 dicembre 2025: 
+ 
+Linea SAFE   12,663   Euro (12,710 al 31.12.2024) 
+Linea ACTIVITY   16,320   Euro  (15,858 al 31.12.2024) 
+Linea DYNAMIC   17,267   Euro (16,209 al 31.12.2024) 
+Linea GUARANTY  10,385   Euro (10,204  al 31.12.2024) 
+ 
+ 
+La politica di gestione attuata nel 2025 per i quattro Comparti ha permesso di ottenere le seguenti 
+performance nel periodo di osservazione intercorrente fra la data del 1° gennaio ed il 31 dicembre 2025.  
+ 
+Variazioni percentuali 2025 e confronto con i relativi benchmark 
+Si precisa che le performance dei Comparti di investimento sono indicate al netto della fiscalità e delle 
+commissioni che gravano sul Fondo. La performance del Benchmark invece è calcolata al netto della 
+fiscalità.
+=== pagina 8 ===
+8 
+ 
+COMPARTO 
+INVESTIMENTO GESTORE PERFORMANCE 
+FONDO 
+VOLATILITÀ 
+Ex post * 
+PERFORMANCE 
+BENCHMARK ° 
+VOLATILITÀ 
+Ex post 
+BENCHMARK * 
+Comparto SAFE Alpen Privatbank 
+AG -0,37% 4,21% 0,63% 5,52% 
+Comparto ACTIVITY Amundi SGR 
+SPA 2,91% 5,12% 4,11% 5,86% 
+Comparto DYNAMIC Amundi SGR 
+SPA 6,53% 6,65% 9,05% 7,93% 
+Comparto GUARANTY Amundi SGR 
+SPA 1,77% 1,38% 2,56% 2,24% 
+ 
+*  Indicatore di rischio: misura la fluttuazione dei prezzi nell’arco temporale indicato. 
+°  Parametro di riferimento con cui paragonare il rendimento delle quote.  
+ 
+Variazioni percentuali 2024 e confronto con i relativi benchmark 
+ 
+COMPARTO 
+INVESTIMENTO GESTORE PERFORMANCE 
+FONDO 
+VOLATILITÀ 
+Ex post * 
+PERFORMANCE 
+BENCHMARK ° 
+VOLATILITÀ 
+Ex post 
+BENCHMARK * 
+Comparto SAFE 
+Alpen Privatbank 
+AG 0,98% 5,77% 1,56% 7,56% 
+Comparto ACTIVITY 
+Amundi SGR 
+SPA 2,65% 6,71% 4,35% 7,97% 
+Comparto DYNAMIC 
+Amundi SGR 
+SPA 5,30% 8,03% 9,08% 10,05% 
+Comparto GUARANTY Amundi SGR 
+SPA 2,31% 1,43% 3,68% 3,50% 
+ 
+* Indicatore di rischio: misura la fluttuazione dei prezzi nell’arco temporale indicato. 
+° Parametro di riferimento a cui paragonare il rendimento delle quote.  
+ 
+Variazioni percentuali dal 2021 al 2025 al lordo della fiscalità e delle commissioni 
+COMPARTO 
+INVESTIMENTO 2021 2022 2023 2024 2025 
+Comparto SAFE -2,01% -14,96% 6,49% 2,08% 0,55% 
+Comparto ACTIVITY 4,13% -14,11% 8,29% 4,27% 4,79% 
+Comparto DYNAMIC 15,07% -9,42% 11,36% 7,74% 9,34% 
+Comparto GUARANTY 0,63% -1,87% 3,24% 3,74% 3,08% 
+ 
+I benchmark prescelti per i quattro comparti sono così composti:  
+Safe:   100% JPMorgan EMU Bond Index  
+Activity:     65%  JPMorgan EMU Bond Index  
+      10%  BofA Merrill Lynch US Treasury Euro Hedged   
+      15%  MSCI EMU  
+      10%  MSCI World ex-EMU 
+Dynamic:   30%  JPMorgan EMU Bond Index  
+        5%  BofA Merrill Lynch US Treasury Euro Hedged   
+      40%  MSCI EMU  
+      25%  MSCI World ex-EMU 
+Guaranty:   60%  JPMorgan EGBI 1-5 Jahre IG,  
+      35%   BofA Merrill Lynch 1-5 Year Euro Corporate, 
+         5%   MSCI World TR Net Div conv. in Euro
+=== pagina 9 ===
+9 
+ 
+ 
+ 
+1.4  Andamento della gestione previdenziale  
+ 
+Nell’esercizio trascorso le adesioni al Fondo sono avvenute tramite la Cassa Centrale Raiffeisen dell’Alto 
+Adige SpA, le banche di credito cooperativo “Raiffeisen” dell’Alto Adige . 
+Per una migliore valutazione dell’andamento della gestione previdenziale si riportano di seguito delle tabelle 
+che evidenziano per ciascun comparto la tipologia dei contributi raccolti e delle prestazioni erogate nonché 
+la relativa incidenza percentuale sugli importi complessivi: 
+  
+ 
+Comparto Safe 
+Tipologia contribuzione Importo 
+Incidenza % sui 
+contributi complessivi 
+2025 
+Incidenza % sui contributi 
+complessivi 2024 
+Contributi individuali 7.649.700  36,11% 38,18% 
+Contributi da lavoratori dipendenti 4.953.403  23,38% 21,78% 
+Contributi da solo TFR 369.455  1,74% 1,96% 
+Contributi da trasferimenti esterni 3.297.401  15,56% 20,13% 
+Contributi da switch tra comparti 4.916.848  23,21% 17,95% 
+Contributi complessivi 21.186.807  100,00% 100,00% 
+Tipologia prestazioni Importo 
+Incidenza % sulle 
+prestazioni complessive 
+2025 
+Incidenza % sulle 
+prestazioni complessive 
+2024 
+Anticipazioni 862.007  2,88% 5,38% 
+Trasferimenti  847.503  2,83% 2,01% 
+Riscatti 682.429  2,28% 6,22% 
+RITA totale 2.538.625  8,48% 10,76% 
+RITA parziale 276.948  0,92% 1,00% 
+Switch tra comparti 18.556.885  61,96% 54,40% 
+Trasformazioni in rendita 0  0,00% 0,00% 
+Erogazioni in forma di capitale 6.186.338  20,65% 20,23% 
+Prestazioni complessive 29.950.735  100,00% 100,00% 
+ 
+   Comparto Activity 
+Tipologia contribuzione Importo 
+Incidenza % sui 
+contributi complessivi 
+2025 
+Incidenza % sui contributi 
+complessivi 2024 
+Contributi individuali 32.981.003  26,65% 35,26% 
+Contributi da lavoratori dipendenti 43.871.812  35,45% 42,03% 
+Contributi da solo TFR 2.772.734  2,24% 2,89% 
+Contributi da trasferimenti esterni 7.603.051  6,14% 11,50% 
+Contributi da switch tra comparti 36.539.728  29,52% 8,32% 
+Contributi complessivi 123.768.328 100,00% 100,00% 
+Tipologia prestazioni Importo 
+Incidenza % sulle 
+prestazioni complessive 
+2025 
+Incidenza % sulle 
+prestazioni complessive 
+2024 
+Anticipazioni 5.507.201  6,31% 11,54% 
+Trasferimenti  3.924.561  4,50% 7,54% 
+Riscatti 3.599.274  4,12% 6,33% 
+RITA totale 3.218.153  3,69% 5,24% 
+RITA parziale 803.568  0,92% 1,28% 
+Switch tra comparti 59.637.388  68,35% 47,23% 
+Trasformazioni in rendita 164.354  0,19% 0,00%
+=== pagina 10 ===
+10 
+ 
+Erogazioni in forma di capitale 10.402.800  11,92% 20,84% 
+Prestazioni complessive 87.257.299 100,00% 100,00% 
+ 
+   Comparto Dynamic 
+Tipologia contribuzione Importo 
+Incidenza % sui 
+contributi complessivi 
+2025 
+Incidenza % sui contributi 
+complessivi 2024 
+Contributi individuali 16.787.536  18,87% 25,05% 
+Contributi da lavoratori dipendenti 27.496.464  30,90% 38,15% 
+Contributi da solo TFR 1.563.022  1,76% 2,45% 
+Contributi da trasferimenti esterni 5.536.705  6,22% 6,13% 
+Contributi da switch tra comparti 37.596.828  42,25% 28,22% 
+Contributi complessivi 88.980.555 100,00% 100,00% 
+Tipologia prestazioni Importo 
+Incidenza % sulle 
+prestazioni complessive 
+2025 
+Incidenza % sulle 
+prestazioni complessive 
+2024 
+Anticipazioni 3.218.416  13,27% 21,94% 
+Trasferimenti  2.260.201  9,32% 14,45% 
+Riscatti 929.149  3,83% 19,47% 
+RITA totale 572.482  2,36% 4,46% 
+Switch tra comparti 15.930.564  65,69% 34,36% 
+Trasformazioni in rendita 0 0,00% 0,00% 
+Erogazioni in forma di capitale 1.340.036  5,53% 5,32% 
+Prestazioni complessive 24.250.848 100,00% 100,00% 
+ 
+   
+ 
+ 
+ Comparto Guaranty 
+Tipologia contribuzione Importo 
+Incidenza % sui 
+contributi complessivi 
+2025 
+Incidenza % sui contributi 
+complessivi 2024 
+Contributi individuali 2.504.144  9,25% 11,98% 
+Contributi da lavoratori dipendenti 1.766.413  6,52% 9,39% 
+Contributi da solo TFR 186.602  0,69% 0,36% 
+Contributi da trasferimenti esterni 6.375.973  23,54% 32,16% 
+Contributi da switch tra comparti 16.250.454  60,00% 46,11% 
+Contributi complessivi 27.083.586 100,00% 100,00% 
+Tipologia prestazioni Importo 
+Incidenza % sulle 
+prestazioni complessive 
+2025 
+Incidenza % sulle 
+prestazioni complessive 
+2024 
+Anticipazioni 420.780  3,15% 3,60% 
+Trasferimenti  76.850  0,57% 0,57% 
+Riscatti 107.474  0,80% 2,13% 
+RITA totale 5.710.960  42,69% 30,89% 
+RITA parziale 934.170  6,98% 4,10% 
+Switch tra comparti 1.179.021  8,81% 11,95% 
+Trasformazioni in rendita 0  0,00% 0,61% 
+Erogazioni in forma di capitale 4.949.760  37,00% 46,15% 
+Prestazioni complessive 13.379.015 100,00% 100,00% 
+ 
+Dall’analisi delle contribuzioni/prestazioni si evince che nel 2025: 
+- il numero delle richieste di anticipazioni, riscatti e delle prestazioni pensionistiche sta aumentando in 
+base alla struttura demografica del Fondo e alla crescita degli aderenti;
+=== pagina 11 ===
+11 
+ 
+- le richieste di erogazioni in forma di capitale superano tutt’ora considerevolmente le trasformazioni in 
+rendita, sia in termini di numero che di importo;  
+- gli aderenti continuano a ricorrere alla rendita integrativa temporanea anticipata (RITA); 
+- si nota tutt’ora un notevole afflusso di contributi a seguito di trasferimenti da altri fondi;  
+- la contribuzione al comparto Guaranty deriva per la maggior parte da switch da altri comparti e 
+trasferimenti. 
+ 
+Contributi dovuti  
+Al 31 dicembre 2025 i contributi dovuti in base alle adesioni comunicate per i quali non sono ancora stati 
+versati i relativi importi sono pari a Euro 830.901 (717.084 Euro al 31 dicembre 2024). 
+Anche nel corso del passato esercizio il Fondo ha intimato le aziende morose a rispettare gli impegni di 
+versamento dei contributi aziendali a favore dei propri dipendenti. 
+In ogni caso, si specifica che i contributi in argomento non impattano sul calcolo del valore della quota dei 
+singoli Comparti di investimento del Fondo, dal momento che sono rilevati nel conto economico soltanto al 
+momento dell’effettivo incasso, come descritto nel successivo paragrafo 2.1.1.2 “Criteri di valutazione per le 
+attività e passività del Fondo” della Nota Integrativa. 
+ 
+1.5  Andamento della gestione amministrativa  
+ 
+Le commissioni di gestione dell’esercizio ammontano complessivamente a Euro 16.570.526, mentre il costo 
+annuale sostenuto per il contributo dovuto all’Ente di Vigilanza COVIP è pari a Euro 66.371 . 
+Nell’esercizio 2025 il Fondo non ha sostenuto oneri né spese di tipo legale o giudiziario relative a vicende di 
+esclusivo interesse del Fondo. 
+Le spese relative alla pubblicazione del valore delle quote ammontano ad Euro 6.982 (IVA inclusa). Tali spese 
+sono state sostenute dalla Banca e pertanto non hanno gravato sul Fondo. Lo stesso vale per il compenso al 
+Responsabile del Fondo di complessivi Euro 15.000, anch’essi a carico della Banca.  
+ 
+ 
+Sono risultati a carico del Fondo i seguenti oneri di competenza dell’esercizio: 
+ 
+Comparto Safe 
+Descrizione Importo % dell’Attivo Netto  
+Commissioni di gestione 1.670.782 1,02% 
+Contributo Covip 7.108 0,00% 
+Banca Depositaria 120 0,00% 
+Imposta sostitutiva -167.513 -0,10% 
+Costi complessivi 1.510.497 0,92% 
+Comparto Activity 
+Descrizione Importo % dell’Attivo Netto  
+Commissioni di gestione 9.439.553 1,15% 
+Contributo Covip 39.305 0,00% 
+Banca Depositaria 240 0,00% 
+Imposta sostitutiva 5.551.861 0,67% 
+Costi complessivi 15.030.959 1,82% 
+Comparto Dynamic 
+Descrizione Importo % dell’Attivo Netto  
+Commissioni di gestione 4.747.701 1,24%
+=== pagina 12 ===
+12 
+ 
+Contributo Covip 17.992 0,00% 
+Banca Depositaria 216 0,00% 
+Imposta sostitutiva 5.367.127 1,40% 
+Costi complessivi 10.133.036 2,64% 
+Comparto Guaranty 
+Descrizione Importo % dell’Attivo Netto  
+Commissioni di gestione 712.490 1,02% 
+Contributo Covip 1.966 0,00% 
+Banca Depositaria 48 0,00% 
+Imposta sostitutiva 181.020 0,26% 
+Costi complessivi 895.524 1,28% 
+ 
+Per ulteriori dettagli relativi ai costi sostenuti dal Fondo si rimanda alla Nota Integrativa. 
+ 
+1.6  Operazioni in conflitto d’interesse 
+ 
+In data 30.09.2024 il Consiglio di amministrazione di Cassa Centrale Raiffeisen dell’Alto Adige SpA ha 
+approvato il documento sulla politica di gestione dei conflitti di interesse per Raiffeisen Fondo Pensione 
+Aperto. Il Documento è stato redatto da Cassa Centrale Raiffeisen dell’Alto Adige SpA in conformità alle 
+prescrizioni di cui al D.M. 166/2014. Con i gestori dei comparti d’investimento del Fondo Pensione sono 
+stati sottoscritti gli accordi per l’implementazione delle linee guida previste dal D.M. 166/2014.  
+Non sono stati riscontrati investimenti per i quali si configurano situazioni di conflitto di interesse ai sensi del 
+D.M. 166/2014. 
+ 
+1.7  Fatti di rilievo avvenuti dopo la chiusura dell’esercizio 
+Non risultano da segnalare fatti di rilievo avvenuti dopo la chiusura dell’esercizio. 
+ 
+1.8  Evoluzione prevedibile della gestione 
+ 
+Nel 2026, grazie alle costanti iniziative di informazione sulla previdenza complementare, all’incentivo regionale 
+per i nuovi nati in Trentino-Alto Adige e al continuo lavoro di consulenza e raccolta svolto dalla rete di 
+collocamento del Raiffeisen Fondo Pensione Aperto, si prevede un’ulteriore crescita delle adesioni e dei 
+contributi. Tuttavia, l’aumento dell’instabilità nei rapporti internazionali — dovuto in particolare alla nuova 
+amministrazione degli Stati Uniti — e il perdurare dei conflitti in Ucraina e in Medio Oriente potrebbero 
+influenzare l’andamento futuro della gestione. Per queste ragioni, l’ente gestore continuerà a seguire una linea 
+prudente, coerente con la politica di investimento di ciascun comparto, con la normativa vigente e con i 
+rispettivi benchmark e profili di rischio, tenendo conto del contesto generale dei mercati. Nel corso del 2026 è 
+inoltre programmato un aggiornamento dei benchmark delle linee, con l’obiettivo di migliorare ulteriormente la 
+strategia di asset allocation dei comparti. 
+ 
+Bolzano, 09 marzo 2026 
+ 
+Il Responsabile del Fondo     Il Consiglio d’Amministrazione della Banca 
+                      Il Presidente 
+dott. Attilio Cupido             dott. Hanspeter Felder
+=== pagina 13 ===
+13 
+ 
+  
+2    Rendiconto 
+ 
+2.1  Nota Integrativa 
+ 
+In osservanza della Deliberazione della Commissione di Vigilanza sui Fondi Pensione (COVIP) del 17 
+giugno 1998 e successive modificazioni il rendiconto è stato redatto con chiarezza e rappresenta in modo 
+veritiero e corretto la situazione patrimoniale, finanziaria ed economica dell’esercizio. 
+I principi contabili di riferimento sono quelli compatibili con le norme di legge, indicati dal Consiglio Nazionale 
+dei Dottori Commercialisti e degli Esperti contabili per l’interpretazione del Codice Civile.  
+ 
+Il presente Rendiconto è stato redatto in unità di euro, senza cifre decimali. Per maggior chiarezza ed in 
+considerazione dell’esiguità di alcuni importi anche la Nota Integrativa è redatta in unità anziché in migliaia 
+di euro ed i prospetti contabili sono stati redatti in forma comparativa con dati dell’esercizio precedente. 
+ 
+La contabilità del Fondo è tenuta in Euro. 
+I principi contabili applicati nella predisposizione del Rendiconto sono coerenti con quelli utilizzati nel corso 
+del periodo per la predisposizione dei prospetti di calcolo del valore della quota e tengono conto delle 
+disposizioni emanate dall’organo di Vigilanza. 
+Per quanto attiene ai contributi da ricevere si conferma che i relativi importi sono evidenziati 
+complessivamente nel conto d’ordine del comparto Activity e vengono registrati tra le entrate, in espressa 
+deroga al principio della competenza, quando siano stati effettivamente incassati. Conseguentemente, sia 
+l’attivo netto sia le posizioni individuali vengono incrementati solo ad incasso avvenuto.  
+Essendo dotati di un sistema informativo-contabile consolidato e di adeguate procedure organizzative, si è 
+potuto assicurare la separatezza amministrativa e contabile delle operazioni relativa alle fasi di accumulo e 
+di erogazione nonché delle operazioni relative ai singoli comparti. 
+ 
+2.1.1    Informazioni generali 
+ 
+2.1.1.1  Descrizione sintetica delle caratteristiche strutturali del Fondo  
+“Raiffeisen Fondo Pensione Aperto” è il fondo pensione aperto a contribuzione definita, inizialmente istituito 
+da PensPlan Invest SGR S.p.A., iscritto all’Albo tenuto dalla COVIP con il n. 149, come da delibera della 
+Commissione di Vigilanza sui fondi pensione di data 8 settembre 2005. 
+ 
+Dal 01 gennaio 2014 la Cassa Centrale Raiffeisen dell’Alto Adige SpA  esercita l’attività di gestione del 
+Fondo giusta autorizzazione rilasciata dalla COVIP, d’intesa con la Banca d’Italia, con provvedimento n. 
+4079 del 5 giugno 2013. 
+Ai fini di continuità ed integrità gestionale la Banca ha optato di mantenere invariata la struttura 
+gestionale/amministrativa, che negli esercizi precedenti si è rivelata adeguata in termini di economicità, 
+efficacia, tempestività e correttezza. Tale struttura organizzativa composta da un apposito reparto d’ufficio 
+con funzioni operative e di coordinamento e da Pensplan Centrum S.p.A. che fornisce  i servizi 
+amministrativi e contabili con contratto outsourcing , a tutt’oggi si è rivelata adeguata alle esigenze del 
+Fondo. 
+ 
+Le funzioni di Depositario  sono gestite da State Street Bank International GmbH – Succursale Italia , 
+con sede legale in via Ferrante Aporti, 10, a Milano in base ad apposita Convenzione. Alla stessa è affidata 
+la custodia del patrimonio del Fondo, in cui ambito effettua anche l’asseveramento dei dati relativi al calcolo
+=== pagina 14 ===
+14 
+ 
+del valore delle quote. Essa esegue le istruzioni del Gestore verificandone la conformità alla legge, al 
+regolamento e alle prescrizioni dell’organo di vigilanza, ed accerta che la prestazione di servizio sia rimessa 
+nei termini d’uso. Il depositario è responsabile di ogni pregiudizio derivante dall’inadempimento dei propri 
+obblighi. 
+ 
+Il Consiglio di Amministrazione della Banca, mantenendo invariate le politiche di investimento , ha 
+conferito la delega di effettuare specifiche scelte di investimento, con riferimento all’intero patrimonio dei 
+Comparti ed a tutti i mercati e le tipologie di strumenti finanziari consentiti dal regolamento del Fondo ad: 
+ Alpen Privatbank AG – con sede in Riezlern (AT), Walserstraße 61 per il Comparto  Safe e 
+ Amundi SGR S.p.A.  con sede in Milano, via Cernaia n. 8/10 per i Comparti Activity, Dynamic e 
+Guaranty. 
+L’incarico è svolto dai succitati soggetti delegati nel rigoroso rispetto, in particolare, dei criteri di allocazione 
+definiti di tempo in tempo dalla banca in coerenza con la politica di investimento per ciascun comparto e nei 
+limiti previsti dal DM 166/2014 e dal D.lgs 252/2005. 
+La delega non comporta alcun esonero o limitazione di responsabilità della Cassa Centrale Raiffeisen 
+dell’Alto Adige SpA in ordine alla gestione; essa è revocabile in qualunque momento. 
+ 
+Quale società di revisione  è in carica EY S.p.A. , che nell’ambito dell’incarico novennale della Banca, 
+effettua anche la revisione contabile del rendiconto del Fondo. 
+ 
+Per l’erogazione delle rendite  la Banca ha stipulato un’apposita convenzione con la compagnia di 
+assicurazione Assimoco Vita S.p.A. , con sede a Milano, via Giovanni Spadolini, 7 - Centro Leoni - Edificio 
+B. 
+Le tipologie di rendite assicurative, a scelta degli iscritti e riportate nel regolamento del Fondo, sono la 
+“rendita vitalizia immediata”, la “rendita vitalizia reversibile” e la “rendita certa e successivamente vitalizia”. 
+ 
+Il responsabile del Fondo , Dott. Attilio Cupido , sovrintende all’amministrazione e alla gestione finanziaria 
+del Fondo, anche nell’ipotesi di delega di gestione, e verifica la rispondenza della politica di impiego delle 
+risorse alla normativa vigente nonché ai criteri stabiliti nel regolamento del Fondo medesimo. 
+ 
+La raccolta delle adesioni  al Fondo viene effettuata tramite la rete di collocamento del Fondo Pensione 
+Raiffeisen (l’elenco dei collocatori è pubblicato sul sito www.fondopensioneraiffeisen.it). La raccolta delle 
+adesioni può essere effettuata anche fuori sede tramite collocatori autorizzati. 
+ 
+Il Fondo è un fondo multicomparto con i seguenti quattro Comparti di investimento, ciascuno dei quali 
+caratterizzato da una propria politica di investimento e da un proprio profilo di rischio. 
+ 
+“Comparto Safe” 
+Il Comparto Safe ha per obiettivo la rivalutazione del capitale investito nel medio periodo. La politica 
+dell’investimento prescelta esprime infatti un livello di rischio medio-basso.  
+A tal fine il Gestore attua una politica di investimento volta a perseguire una composizione del portafoglio 
+esclusivamente orientata verso titoli obbligazionari di emittenti internazionali denominati in Euro o in altra 
+valuta. Per quanto attiene alla qualità delle emissioni di debito utilizzate, la gestione è indirizzata al rispetto 
+di un rating minimo pari a BBB- secondo la scala di valutazione Standard & Poor’s o analogo livello secondo 
+le scale di valutazione Moody’s o Fitch. L’incidenza massima dei titoli obbligazionari con rating pari a BBB- 
+secondo la scala di valutazione di Standard & Poor’s o analogo livello secondo le scale di valutazione 
+Moody’s o Fitch è inferiore od uguale al 5% dell’intero portafoglio.
+=== pagina 15 ===
+15 
+ 
+ 
+“Comparto Activity” 
+Il Comparto Activity ha per obiettivo la rivalutazione del capitale investito nel medio-lungo periodo. La politica 
+di investimento prescelta esprime infatti un livello di rischio medio-alto. 
+A tal fine il Gestore attua una gestione rivolta per un massimo del 40% del portafoglio, verso l’acquisizione 
+di titoli rappresentativi di capitale di rischio di emittenti internazionali, nonché, per la restante parte, in titoli 
+di debito di emittenti governativi o privati, denominati in Euro oppure in valuta estera. 
+La politica di investimento utilizzata per i mercati azionari privilegia i titoli di larga capitalizzazione. Per la 
+parte rimanente possono essere effettuati investimenti in titoli obbligazionari denominati in Euro o in altra 
+valuta. Per quanto attiene alla qualità delle emissioni di debito utilizzate, la gestione è indirizzata al rispetto 
+di un rating minimo pari a BBB- secondo la scala di valutazione Standard & Poor’s o analogo livello secondo 
+le scale di valutazione Moody’s o Fitch. L’incidenza massima dei titoli obbligazionari con rating pari a BBB- 
+secondo la scala di valutazione di Standard & Poor’s o analogo livello secondo le scale di valutazione 
+Moody’s o Fitch è inferiore od uguale al 5% dell’intero portafoglio 
+ 
+“Comparto Dynamic” 
+Il Comparto Dynamic ha per obiettivo la rivalutazione del capitale investito nel medio-lungo periodo. La 
+politica di investimento prescelta esprime infatti un livello di rischio alto.  
+A tal fine il Gestore attua una gestione rivolta, per un minimo del 40% e per un massimo dell’80% del 
+portafoglio, verso l’acquisizione di titoli rappresentativi di capitale di rischio di emittenti internazionali, 
+nonché, per la restante parte, in titoli di debito di emittenti governativi o privati, denominati anche in valuta 
+estera.  
+La politica di investimento utilizzata per i mercati azionari privilegia i titoli di larga capitalizzazione. Per la 
+parte rimanente possono essere effettuati investimenti in titoli obbligazionari denominati in Euro o in altra 
+valuta. Per quanto attiene alla qualità delle emissioni di debito utilizzate, la gestione è indirizzata al rispetto 
+di un rating minimo pari a BBB- secondo la scala di valutazione Standard & Poor’s o analogo livello secondo 
+le scale di valutazione Moody’s o Fitch. L’incidenza massima dei titoli obbligazionari con rating inferiore a 
+BBB- secondo la scala di valutazione Standard & Poor’s o analogo livello secondo le scale di valutazione 
+Moody’s o Fitch o privi di rating è inferiore od uguale al 5% dell’intero portafoglio. 
+ 
+“Comparto Guaranty” 
+Il Comparto Guaranty ha per obiettivo di conseguire un rendimento in linea con l’andamento dei tassi a 
+breve termine e di proteggere il capitale investito dal rischio di oscillazioni di valore ed è indicato agli iscritti 
+aventi un orizzonte temporale di permanenza fino a 5 anni. A tal fine il Gestore investe il patrimonio in titoli 
+a reddito fisso ed obbligazioni quotate di emittenti sovranazionali, di Stati e di emittenti privati con gradi di 
+affidabilità elevato, in altre forme di investimento del mercato monetario non quotate e in strumenti finanziari 
+di natura azionaria entro il limite del 10%. L’adesione al comparto “Guaranty” attribuisce all’aderente, al 
+verificarsi di certi eventi, il diritto alla corresponsione di un importo minimo garantito a prescindere dei 
+risultati di gestione.
+=== pagina 16 ===
+16 
+ 
+ 
+2.1.1.2   Criteri di valutazione per le attività e passività del Fondo 
+Nel formulare il rendiconto non si è derogato ai principi generali della Deliberazione della Commissione di 
+Vigilanza sui Fondi Pensione. Le attività e le passività sono valutate separatamente; tuttavia, le attività e le 
+passività tra loro collegate sono valutate in modo coerente. 
+ 
+Di seguito sono precisati i criteri di valutazione applicati alle singole voci del rendiconto: 
+  Depositi bancari 
+  I depositi bancari sono valutati al presumibile valore di realizzo che coincide con il valore nominale. 
+Le giacenze in valuta estera sono valutate al tasso di cambio a pronti corrente alla data di chiusura 
+dell’esercizio. 
+  Crediti per operazioni pronti contro termine 
+Alla data di chiusura dell’esercizio non risultano in corso operazioni pronti contro termine. 
+  Strumenti finanziari quotati 
+Gli strumenti finanziari quotati sono valutati sulla base delle quotazioni del giorno cui si riferisce la 
+valutazione. Più precisamente sono stati utilizzati i seguenti criteri di individuazione delle quotazioni 
+di riferimento: 
+  Titoli di Stato quotati italiani  prezzo di chiusura da MOT (last price) 
+  Titoli di capitale quotati italiani prezzo di chiusura della borsa di riferimento (last price) 
+  Titoli di Stato quotati esteri  bid price fonte prezzi Bloomberg BVAL o, in caso in cui 
+la fonte prezzi non fornisca regolarmente un prezzo, 
+Bloomberg BGN bid 
+  Titoli di capitale quotati esteri prezzo di chiusura della borsa di riferimento (last price) 
+  Titoli di debito quotati bid price fonte prezzi Bloomberg BVAL o, in caso in cui 
+la fonte prezzi non fornisca regolarmente un prezzo, 
+Bloomberg BGN bid 
+ 
+Il mercato di riferimento è quello più significativo (most liquid market) per il titolo considerato. Per i 
+titoli di stato italiani il mercato di riferimento è il MOT (Mercato Telematico delle Obbligazioni). 
+La fonte informativa (price provider) utilizzata per l’individuazione dei prezzi di cui sopra è 
+“Bloomberg”. 
+ Cambi 
+Le attività e le passività denominate in valuta sono valutate al tasso di cambio a pronti 
+corrente alla data di chiusura dell’esercizio, utilizzando i cambi ufficiali della BCE. 
+ Crediti e Debiti 
+I crediti sono valutati secondo il valore di presunto realizzo. 
+I debiti sono iscritti al valore nominale. 
+ Ratei e Risconti finanziari 
+I ratei e i risconti finanziari sono stati calcolati secondo il principio della competenza 
+economica e temporale. 
+ Ratei e Risconti non finanziari 
+Nella voce ratei e risconti sono iscritti i ricavi ed i costi di competenza dell’esercizio che 
+verranno conseguiti o sostenuti in esercizi successivi e quelli conseguiti o sostenuti entro la 
+chiusura dell’esercizio, ma di competenza d’esercizi successivi, comunque comuni a due o 
+più esercizi. 
+ Crediti e Debiti di imposta
+=== pagina 17 ===
+17 
+ 
+I fondi pensione sono soggetti all’applicazione sul risultato di gestione di un’imposta 
+sostitutiva delle imposte sui redditi, cui percentuale è stata modificata con la legge di stabilità 
+2015 da 11,50% a 20%. 
+Nel caso in cui il risultato della gestione del Fondo dovesse risultare negativo, lo stesso può 
+essere computato in diminuzione del risultato della gestione dei periodi di imposta 
+successivi, per l’intero importo che trova in essi capienza e senza alcun limite temporale. 
+ Contributi  
+I contributi vengono registrati tra le entrate, in deroga al principio di competenza, solo una 
+volta che siano stati effettivamente incassati. I contributi dovuti, ma non ancora incassati, 
+sono registrati nell’apposito conto d’ordine del comparto Activity, senza impattare, pertanto, 
+sul calcolo del valore della quota sino alla data di effettivo incasso. 
+ Anticipazioni/Riscatti/Trasferimenti/Erogazioni 
+Le anticipazioni/riscatti/trasferimenti/erogazioni vengono registrate tra le uscite, in deroga al 
+principio di competenza, solo una volta che siano stati effettivamente pagati. 
+ Risultato della gestione finanziaria 
+In questa voce devono essere iscritti i dividendi, gli interessi e i proventi assimilati di 
+competenza dell’esercizio. Inoltre sono compresi i profitti e le perdite derivanti dalla 
+negoziazione dei titoli e degli altri strumenti finanziari, ivi inclusi i risultati delle relative 
+valutazioni. 
+ 
+2.1.1.3 Criteri adottati per il riparto dei costi comuni alle due fasi e ai comparti 
+Il Fondo, suddiviso in quattro comparti, attualmente rileva aderenti sia nella fase di accumulo che nella fase 
+di erogazione. Pertanto, per l’esercizio in corso non sono presenti costi comuni da ripartire tra i comparti e/o 
+le fasi. 
+ 
+2.1.1.4  Criteri e procedure per la stima degli oneri e dei proventi 
+Gli oneri e i proventi predetti sono stati calcolati puntualmente in rapporto al periodo di maturazione. Pertanto 
+non sono presenti stime degli stessi. 
+ 
+2.1.1.5 Indicazione dei lavoratori a cui il Fondo si riferisce e numero degli iscritti 
+La seguente tabella evidenzia, per ciascun Comparto del Fondo pensione, la ripartizione degli iscritti alla 
+chiusura dell’esercizio: 
+ 
+Iscritti per tipologia lavorativa Safe  Activity Dynamic Guaranty 
+Lavoratori dipendenti 2.696  16.236 9.296 717 
+Coltivatori diretti mezzadri e coloni 247  891 262 28 
+Artigiani 271  1.521 754 53 
+Commercianti 86  362 131 27 
+Collaboratori coordinati e 
+continuativi 
+27 159 98 7 
+Soci di cooperative di produzione 4  13 6 0 
+Liberi professionisti 208  1.091 606 60 
+Casalinghe non a carico                     60 180 69 20 
+Familiari a carico 503  5.727 9.878 67 
+Altri 1.597  7.051 4.987 616 
+Totale 5.699  33.231 26.087 1.595
+=== pagina 18 ===
+18 
+ 
+ 
+2.1.1.6 Ulteriori informazioni 
+Non ci sono ulteriori informazioni da rilevare.
+=== pagina 19 ===
+19 
+ 
+2.1.2     Rendiconti delle fasi 
+ 
+2.1.2.1  Rendiconto della fase di accumulo  
+ 
+In ottemperanza alle disposizioni della Commissione di Vigilanza sui Fondi Pensione non sono state indicate 
+le voci che non presentano importi per entrambi periodi ai quali si riferisce il rendiconto. 
+ 
+2.1.2.1.1 Comparto  S A F E 
+ 
+2.1.2.1.1.1 Stato patrimoniale  
+ 
+(valori in euro senza decimali) ANNO 2025 ANNO 2024 
+10 Investimenti in gestione  163.051.238  171.683.730 
+ a) Depositi bancari 3.104.956  4.961.533 
+ c) Titoli emessi da Stati o da organismi internazionali  129.423.195  141.866.555 
+ d) Titoli di debito quotati 29.355.120  23.997.540 
+ l) Ratei e risconti attivi 1.167.967  720.349 
+ n) Altre attività della gestione finanziaria 0  137.753 
+30 Crediti d'imposta  2.949.620 2.978.788 
+ a)      Credito imposta sostitutiva  2.949.620  2.978.788 
+ 
+TOTALE ATTIVITÀ  166.000.858  174.662.518 
+ 
+     
+10 Passività della gestione previdenziale  -1.921.656 -917.334 
+ a) Debiti della gestione previdenziale -1.921.656 -917.334 
+     
+30 Passività della gestione finanziaria  -132.480 -139.622 
+ d) Altre passività della gestione finanziaria -132.480 -139.622 
+     
+40 Debiti d’imposta  0 -196.681 
+ a) Debito imposta sostitutiva 0 -196.681 
+ 
+ 
+TOTALE PASSIVITÀ -2.054.136 -1.253.637 
+100 Attivo netto destinato alle prestazioni  163.946.722  173.408.881 
+ CONTI D'ORDINE  0 0
+=== pagina 20 ===
+20 
+ 
+2.1.2.1.1.2  Conto economico  
+ 
+(valori in euro senza decimali) ANNO 2025 ANNO 2024 
+10 Saldo della gestione previdenziale -8.763.928  3.290.743 
+ a) Contributi per le prestazioni 21.186.807  23.058.468 
+ b) Anticipazioni -862.007  -1.063.172 
+ c) Trasferimenti e riscatti -22.902.390  -14.705.849 
+ e) Erogazioni in forma di capitale -6.186.338  -3.998.704 
+20 Risultato della gestione finanziaria  812.266  3.507.072 
+ a) Dividendi e interessi 2.180.221  1.783.198 
+ b) Profitti e perdite da operazioni finanziarie -1.367.955  1.723.874 
+30 Oneri di gestione -1.678.010  -1.693.749 
+ a) Società di gestione (Banca) -1.677.890  -1.693.629 
+ b) Depositario -120  -120 
+40 
+Variazione dell'attivo netto destinato alle 
+prestazioni ante imposta sostitutiva 
+(10)+(20)+(30)  
+-9.629.672 5.104.066 
+50 Imposta sostitutiva  167.513 -196.681 
+ a)       Imposta sostitutiva 20% 167.513  -196.681 
+ 
+Variazione dell'attivo netto destinato alle 
+prestazioni (40)+(50) 
+-9.462.159 4.907.385 
+ 
+ 
+2.1.2.1.1.3  Nota Integrativa 
+ 
+2.1.2.1.1.3.1 Tabella riferita al numero e controvalore delle quote in essere, emesse ed annullate 
+ 
+La seguente tabella si riferisce al numero e al controvalore delle quote in essere all’inizio e alla fine 
+dell’esercizio 2025, nonché delle quote emesse e annullate nel corso dello stesso: 
+ 
+Descrizione Numero Controvalore *  
+Quote in essere all'inizio dell'esercizio 13.643.866,00647 Euro 173.408.881 
+Quote emesse  1.672.610,09613 Euro   21.198.444 
+Quote annullate 2.369.181,37229 Euro     30.021.217 
+Quote in essere alla fine dell'esercizio 12.947.294,73031 Euro  163.946.722 
+* Il controvalore delle quote si riferisce al valore corrente delle quote alla rispettiva data della loro emissione o del loro 
+annullamento.
+=== pagina 21 ===
+21 
+ 
+2.1.2.1.1.3.2 Informazioni integrative relative allo stato patrimoniale ed al conto economico 
+ 
+ATTIVITÀ 
+ 
+10 Investimenti in gestione  
+ 
+La gestione finanziaria è iniziata il 7 dicembre 2005. 
+La seguente tabella riporta l’ammontare delle risorse conferite al gestore nell’esercizio 2025. 
+ 
+  Conferimenti in Euro
+Alpen Privatbank S.p.A. 0
+ 
+Nella tabella che segue sono riportate le principali caratteristiche del mandato conferito al gestore, così 
+come stabilito dalla convenzione di gestione stipulata: 
+ 
+Gestore Politica di 
+investimento 
+Parametri di 
+riferimento 
+Peso cod.Bloomberg Tipologia Valute  
+acquistabili 
+Alpen 
+Privatbank  
+ Attivo JPMORGAN 
+EMU  BOND 
+INDEX 
+100% JPMGEMLC Obbligazioni EUR, GPB, USD, 
+CHF altre  
+ 
+ 
+Gli investimenti in gestione al 31 dicembre 2025 risultano pari ad Euro 163.051.238 e sono più 
+dettagliatamente indicati nella seguente tabella:  
+ 
+Descrizione ANNO 2025  ANNO 2024 
+a)  Depositi bancari 3.104.956  4.961.533 
+c)  Titoli emessi da stati o organismi internazionali 129.423.195  141.866.555 
+d)  Titoli di debito quotati 29.355.120  23.997.540 
+l)   Ratei e risconti attivi 1.167.967  720.349 
+n)  Altre attività della gestione finanziaria 0  137.753 
+Totale 163.051.238  171.683.730 
+ 
+La voce “Depositi bancari” comprende anche il “Conto corrente di raccolta” per un importo pari a Euro  
+1.474.707 sul quale vengono accreditati tutti i contributi versati dagli aderenti dei quattro comparti del Fondo. 
+ 
+Saldo dei depositi bancari utilizzati dai gestori al 31 dicembre 2025: 
+CONTO BANCARIO NUMERO CONTO 
+ 
+DIVISA SALDI IN EURO 
+% SUL 
+TOTALE 
+ATTIVITA' 
+C/C LIQUIDITA’ STATE STREET BANK SPA 1023508  EUR 1.058.006 0,64% 
+C/C LIQUIDITA' ALPENPRIVATBANK 1023510  EUR 531.685 0,32% 
+C/C USD ALPENPRIVATBANK 1035014  USD 21.241 0,01% 
+C/C GBP ALPENPRIVATBANK 1030962  GBP 5.367 0,00% 
+C/C CHF ALPENPRIVATBANK 1022665  CHF 13.884 0,01% 
+C/C NZD ALPENPRIVATBANK 1033843  NZD 66 0,00%
+=== pagina 22 ===
+22 
+ 
+Indicazione dei primi 50 titoli in portafoglio: 
+ 
+N.Prog. Val. Codice ISIN 
+titolo Descrizione titolo Quantità Valore 
+% su 
+totale 
+attività 
+1 EUR ES0000012F76 SPAGNA 0,50% 30/04/30 10.000.000 9.161.800 5,52% 
+2 EUR FR0013200813 FRANCIA 0,25% 25/11/2026 7.000.000 6.885.270 4,15% 
+3 EUR IT0005383309 BTP 1,35% 01/04/30 7.000.000 6.640.200 4,00% 
+4 EUR IT0005436693 BTP 0,6% 01/08/2031 7.000.000 6.179.600 3,72% 
+5 EUR ES0000012O00 SPAGNA 2,70% 31/01/30 6.000.000 6.035.340 3,64% 
+6 EUR BE0000351602 BELGIO 0,00% 22/10/27 6.000.000 5.773.260 3,48% 
+7 EUR DE0001102598 GERMANY 1% 15/05/38 7.000.000 5.507.250 3,32% 
+8 EUR FR001400FYQ4 FRANCIA  2,50% 24/09/2026 5.000.000 5.012.950 3,02% 
+9 EUR IT0005437147 BTP 0,00% 01/04/26 5.000.000 4.976.600 3,00% 
+10 EUR IT0005496770 BTP 3,25% 01/03/2038 5.000.000 4.781.000 2,88% 
+11 EUR IT0005273013 BTP 3,45% 01/03/48 5.000.000 4.487.000 2,70% 
+12 EUR FR0013404969 FRANCIA 1,5% 25/05/50 7.000.000 4.036.550 2,43% 
+13 EUR IT0005240830 BTP 2,2% 01/06/27 4.000.000 4.006.000 2,41% 
+14 EUR FR0013131877 FRANCIA  OAT 0,50% 25/05/2026 4.000.000 3.975.200 2,39% 
+15 EUR DE0001102432 GERMANY 1,25% 15/08/48 6.000.000 3.962.820 2,39% 
+16 EUR FR001400H7V7 FRANCIA  3,00% 25/05/2033 4.000.000 3.943.080 2,38% 
+17 EUR FR0013451507 FRANCIA  0,00% 25/11/29 4.000.000 3.614.840 2,18% 
+18 EUR BE0000349580 BELGIO 0,10% 22/06/30 4.000.000 3.578.120 2,16% 
+19 EUR ES0000012E69 SPAGNA 1,85% 30/07/35 4.000.000 3.546.160 2,14% 
+20 EUR FR0013515806 FRANCIA 0,50% 25/05/40 5.000.000 3.121.850 1,88% 
+21 EUR ES00000128H5 SPAGNA 1,3% 31/10/2026 3.000.000 2.981.160 1,80% 
+22 EUR FR0013479276 SOCIETE GENERALE 0,75% 25/01/2027 3.000.000 2.945.190 1,77% 
+23 EUR IT0005433690 BTP 0,25% 15/03/28 3.000.000 2.871.600 1,73% 
+24 EUR PTOTELOE0028 PORTOGALLO 0,475% 18/10/30 3.000.000 2.728.050 1,64% 
+25 EUR IT0005422891 BTP 0,90% 01/04/2031 3.000.000 2.718.900 1,64% 
+26 EUR ES0000012G00 SPAGNA 1,00% 31/10/50 5.000.000 2.671.500 1,61% 
+27 EUR BE0000354630 BELGIO 0,35% 22/06/32 3.000.000 2.548.470 1,54% 
+28 EUR BE0000344532 BELGIO 1,45% 22/06/2037 3.000.000 2.412.840 1,45% 
+29 EUR XS2389353181 GOLDMAN SACHS GRP INC C FLOAT 
+23/09/27 2.000.000 2.010.580 1,21% 
+30 EUR DE000CZ45ZU8 COMMERZBANK AG C 3,125% 06/06/30 2.000.000 1.999.060 1,20% 
+31 EUR IT0005654592 UNICREDIT SPA C 3,10% 10/06/31 2.000.000 1.996.000 1,20% 
+32 EUR BE0000357666 BELGIO 3% 22/06/33 2.000.000 1.990.900 1,20% 
+33 EUR IT0005631491 CREDIT AGRICOLE ITALIA 3,25% 15/02/34 2.000.000 1.980.540 1,19% 
+34 EUR NL0010071189 OLANDA 2,5% 15/01/33 2.000.000 1.969.140 1,19% 
+35 EUR XS2432530637 SANTANDER CONS FIN 0,5% 14/01/27 2.000.000 1.962.560 1,18% 
+36 EUR XS2104968404 UNICREDIT SPA 1,80% 20/01/30 2.000.000 1.907.880 1,15% 
+37 EUR XS2312722916 MONDELEZ INT C 0,25% 17/03/28 2.000.000 1.899.700 1,14% 
+38 EUR AT0000A2RAA0 ERSTE GRP BK AG 0,125% 17/05/28 2.000.000 1.887.420 1,14% 
+39 EUR NL0015614579 OLANDA 0,00% 15/01/52 4.000.000 1.611.640 0,97% 
+40 EUR AT0000A324S8 AUSTRIA  2,90% 20/02/33 1.500.000 1.502.595 0,91% 
+41 EUR IT0005398406 BTP 2,45% 01/09/50 2.000.000 1.458.200 0,88% 
+42 EUR EU000A284469 EUROPEAN UNION 0,30% 04/11/50 3.000.000 1.307.970 0,79% 
+43 EUR FR001400UJE0 CARREFOUR SA C 3,25% 24/06/30 1.000.000 1.003.930 0,60% 
+44 EUR XS3090081897 STELLANTIS NV C 3,875% 06/06/31 1.000.000 999.060 0,60% 
+45 EUR XS3099828355 VOLKSWAGEN BANK GMBH 2,75% 19/06/28 1.000.000 995.450 0,60% 
+46 EUR FR0014012L94 ENGIE SA C 3,25% 11/01/32 1.000.000 994.630 0,60% 
+47 EUR XS3171591889 E.ON INTL FINANCE BV C 3,00% 03/09/31 1.000.000 993.370 0,60%
+=== pagina 23 ===
+23 
+ 
+48 EUR XS3009463996 ITALGAS SPA C 2,875% 06/03/30 1.000.000 992.100 0,60% 
+49 EUR IT0005650855 MEDIOBANCA SPA 2,625% 05/08/30 1.000.000  989.240 0,60% 
+50 EUR DE0001102408 GERMANY 0% 15/08/26 1.000.000  987.970 0,60% 
+ 
+Informazioni sugli importi di acquisto e di vendita di titoli non ancora regolati:  
+ 
+Alla data di chiusura dell’esercizio non risultano operazioni di acquisto e di vendita di titoli stipulate e non 
+ancora regolate. 
+ 
+Informazione sulla distribuzione territoriale degli investimenti: 
+ 
+Investimenti Italia Altri paesi U.E. Paesi OCSE 
+Paesi non 
+OCSE 
+Totale 
+% su 
+tot.att. 
+Titoli di stato 38.119.100 89.996.125 1.307.970 0 129.423.195 77,97% 
+Titoli di debito 7.865.760 16.629.230 4.860.130 0 29.355.120 17,68% 
+Totali 45.984.860 106.625.355 6.168.100 0 158.778.315 95,65% 
+ 
+ 
+Investimenti in titoli per divisa: 
+ 
+Divisa Valore in Euro  
+EUR 158.778.315   
+Totale 158.778.315   
+ 
+ 
+Informazioni riguardo alla durata media finanziaria modificata dei titoli di debito compresi nel 
+portafoglio, con riferimento al loro insieme e alle principali tipologie: 
+ 
+Descrizione titolo Codice ISIN 
+titolo Tipologia titolo Quantità Dur. 
+mod. 
+Media 
+ponderata 
+BTP 2,2% 01/06/27                        IT0005240830 Titoli di stato italiani 4.000.000  1,371  
+BTP 3,45% 01/03/48                       IT0005273013 Titoli di stato italiani 5.000.000  14,467  
+BTP 1,35% 01/04/30                       IT0005383309 Titoli di stato italiani 7.000.000  4,022  
+BTP 2,45% 01/09/50                       IT0005398406 Titoli di stato italiani 2.000.000  16,534  
+BTP 0,90% 01/04/2031                     IT0005422891 Titoli di stato italiani 3.000.000  4,980  
+BTP 0,25% 15/03/28                       IT0005433690 Titoli di stato italiani 3.000.000  2,150  
+BTP 0,6% 01/08/2031                      IT0005436693 Titoli di stato italiani 7.000.000  5,325  
+BTP 0,00% 01/04/26                       IT0005437147 Titoli di stato italiani 5.000.000  0,245  
+BTP 3,25% 01/03/2038                     IT0005496770 Titoli di stato italiani 5.000.000  9,624  
+     5,80 
+OLANDA 2,5% 15/01/33                     NL0010071189 Titoli di stato esteri 2.000.000  6,218  
+FRANCIA  OAT 0,50% 25/05/2026            FR0013131877 Titoli di stato esteri 4.000.000  0,389  
+GERMANY 0% 15/08/26                      DE0001102408 Titoli di stato esteri 1.000.000  0,610  
+SPAGNA 1,3% 31/10/2026                   ES00000128H5 Titoli di stato esteri 3.000.000  0,816  
+FRANCIA 0,25% 25/11/2026                 FR0013200813 Titoli di stato esteri 7.000.000  0,883  
+GERMANY 1,25% 15/08/48                   DE0001102432 Titoli di stato esteri 6.000.000  18,276  
+BELGIO 1,45% 22/06/2037                  BE0000344532 Titoli di stato esteri 3.000.000  10,087  
+SPAGNA 1,85% 30/07/35                    ES0000012E69 Titoli di stato esteri 4.000.000  8,467  
+FRANCIA 1,5% 25/05/50                    FR0013404969 Titoli di stato esteri 7.000.000  18,018
+=== pagina 24 ===
+24 
+ 
+FRANCIA  0,00% 25/11/29                  FR0013451507 Titoli di stato esteri 4.000.000  3,804  
+PORTOGALLO 0,475% 18/10/30              PTOTELOE0028 Titoli di stato esteri 3.000.000  4,634  
+FRANCIA OAT 0,75% 25/05/2052             FR0013480613 Titoli di stato esteri 1.000.000  21,246  
+SPAGNA 0,50% 30/04/30                    ES0000012F76 Titoli di stato esteri 10.000.000  4,172  
+SPAGNA 1,00% 31/10/50                    ES0000012G00 Titoli di stato esteri 5.000.000  19,939  
+BELGIO 0,10% 22/06/30                    BE0000349580 Titoli di stato esteri 4.000.000  4,352  
+BELGIO 0,00% 22/10/27                    BE0000351602 Titoli di stato esteri 6.000.000  1,770  
+OLANDA 0,00% 15/01/52                    NL0015614579 Titoli di stato esteri 4.000.000  25,164  
+FRANCIA 0,50% 25/05/40                   FR0013515806 Titoli di stato esteri 5.000.000  13,182  
+BELGIO 0,35% 22/06/32                    BE0000354630 Titoli di stato esteri 3.000.000  6,216  
+GERMANY 1% 15/05/38                      DE0001102598 Titoli di stato esteri 7.000.000  11,159  
+FRANCIA  3,00% 25/05/2033                FR001400H7V7 Titoli di stato esteri 4.000.000  6,419  
+AUSTRIA  2,90% 20/02/33                  AT0000A324S8 Titoli di stato esteri 1.500.000  6,221  
+FRANCIA  2,50% 24/09/2026                FR001400FYQ4 Titoli di stato esteri 5.000.000  0,716  
+BELGIO 3% 22/06/33                       BE0000357666 Titoli di stato esteri 2.000.000  6,507  
+SPAGNA 2,70% 31/01/30                    ES0000012O00 Titoli di stato esteri 6.000.000  3,737  
+EUROPEAN UNION 0,30% 04/11/50           EU000A284469 Titoli di stato esteri 3.000.000  22,462  
+     6,98 
+SOCIETE GENERALE 0,75% 
+25/01/2027        FR0013479276 Obbligazioni ordinarie 3.000.000  1,035  
+UNICREDIT SPA 1,80% 20/01/30             XS2104968404 Obbligazioni ordinarie 2.000.000  3,764  
+UBS GROUP AG 0,25% 24/02/28             CH0595205524 Obbligazioni ordinarie 1.000.000  2,087  
+MONDELEZ INT C 0,25% 17/03/28           XS2312722916 Obbligazioni ordinarie 2.000.000  2,147  
+ERSTE GRP BK AG 0,125% 17/05/28         AT0000A2RAA0 Obbligazioni ordinarie 2.000.000  2,314  
+GOLDMAN SACHS GRP INC C FLOAT 
+23/09/27   XS2389353181 Obbligazioni ordinarie 2.000.000  1,646  
+ERSTE GRP BK AG C 0,875% 15/11/32       AT0000A2U543 Obbligazioni ordinarie 1.000.000  0,833  
+RAIFFEISEN BANK INTL C 1,375% 
+17/06/33   XS2353473692 Obbligazioni ordinarie 1.000.000  0,412  
+UNIQA INSURANCE GROUP C 2,375%  
+09/12/41 XS2418392143 Obbligazioni ordinarie 1.000.000  0,847  
+SANTANDER CONS FIN 0,5% 14/01/27        XS2432530637 Obbligazioni ordinarie 2.000.000  1,010  
+CREDIT AGRICOLE ITALIA 3,25% 
+15/02/34    IT0005631491 Obbligazioni ordinarie 2.000.000  6,843  
+STELLANTIS NV C 3,875% 06/06/31         XS3090081897 Obbligazioni ordinarie 1.000.000  4,717  
+UNICREDIT SPA C 3,10% 10/06/31          IT0005654592 Obbligazioni ordinarie 2.000.000  4,857  
+COMMERZBANK AG C 3,125% 
+06/06/30         DE000CZ45ZU8 Obbligazioni ordinarie 2.000.000  4,013  
+VOLKSWAGEN BANK GMBH 2,75% 
+19/06/28      XS3099828355 Obbligazioni ordinarie 1.000.000  2,320  
+MEDIOBANCA SPA 2,625% 05/08/30          IT0005650855 Obbligazioni ordinarie 1.000.000  4,229  
+ENGIE SA C 3,25% 11/01/32                FR0014012L94 Obbligazioni ordinarie 1.000.000  5,198  
+CARREFOUR SA C 3,25% 24/06/30           FR001400UJE0 Obbligazioni ordinarie 1.000.000  4,050  
+E.ON INTL FINANCE BV C 3,00% 
+03/09/31    XS3171591889 Obbligazioni ordinarie 1.000.000  5,095  
+ITALGAS SPA C 2,875% 06/03/30            XS3009463996 Obbligazioni ordinarie 1.000.000  3,791  
+     3,01 
+      
+La media ponderata della duration modificata riferita all’insieme dei titoli obbligazionari nel 
+portafoglio 5,96 
+ 
+ 
+Informazioni su investimenti per i quali si configurano situazioni di conflitto di interesse: 
+Non sono stati riscontrati investimenti per i quali si configurano situazioni di conflitto di interesse ai sensi del 
+D.M. 166/2014.
+=== pagina 25 ===
+25 
+ 
+ 
+Operazioni pronti contro termine: 
+Alla data di chiusura dell’esercizio non risultano in corso operazioni pronti contro termine. 
+ 
+ 
+Operazioni a termine di copertura con indicazione dell’effetto sul rischio di cambio: 
+Alla data di chiusura dell’esercizio non risultano in corso operazioni a termine in valuta estera.  
+ 
+Dettaglio degli acquisti e delle vendite/rimborsi di strumenti finanziari effettuati nell’esercizio: 
+ 
+ 2025 2024 
+ Acquisti Vendite Acquisti Vendite 
+Strumenti finanziari Importi in Euro Importi in Euro Importi in Euro Importi in Euro 
+Titoli di stato 35.906.999 46.595.962 17.932.804 8.735.534 
+Titoli di debito quotati  14.880.500 9.912.420 2.014.880 4.857.000 
+Totale 50.787.499 56.508.382 19.947.684 13.592.534 
+ 
+Informazioni sulle commissioni di negoziazione espresse in percentuale dei volumi negoziati: 
+Le commissioni di negoziazione sono implicite nei prezzi essendo tale comparto principalmente 
+obbligazionario. 
+ 
+Composizione della voce “altre attività della gestione finanziaria”: 
+ 
+Le altre attività della gestione finanziaria sono pari ad Euro 0. 
+ 
+ 
+30 Crediti d’imposta 
+ 
+Il credito d’imposta residuo ammonta ad Euro 2.949.620. 
+ 
+Descrizione 
+ANNO 2025 ANNO 2024 
+Credito per imposta sostitutiva 20% sul rendimento del Comparto 2.949.620 2.978.788 
+Totale 2.949.620 2.978.788
+=== pagina 26 ===
+26 
+ 
+ PASSIVITÀ 
+ 
+10 Passività della gestione previdenziale 
+ 
+a) Debiti della gestione previdenziale 
+ 
+Questa voce comprende, al 31 dicembre 2025, i debiti verso gli aderenti che hanno chiesto l’anticipazione, il 
+trasferimento ad altri fondi pensione o ad altri comparti, l’erogazione in forma di capitale, il riscatto per decesso 
+o della Rita totale della loro posizione individuale, essendo state annullate le relative quote di pertinenza. I 
+debiti sono indicati al lordo delle ritenute da versare all’erario al momento della liquidazione del debito.  
+I debiti della gestione previdenziale includono inoltre i debiti verso l’erario per le ritenute da versare sui riscatti 
+già pagati.  
+ 
+La seguente tabella rileva il dettaglio dei debiti: 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito v/altri comparti switch 1.412.799 493.502 
+Esattoria c/ritenute su prestazioni 190.615 236.232 
+Debito v/iscritto per Rita totale 150.408 74.991 
+Debito v/aderente per erogazioni in forma di capitale 114.088 97.089 
+Debito v/altri fondi trasferimento 29.936 0 
+Debito verso iscritto per riscatto 18.646 0 
+Debito per versamenti aderenti errati 5.164 0 
+Debito v/aderente per anticipazioni 0 15.520 
+Totale 1.921.656 917.334 
+ 
+30 Passività della gestione finanziaria 
+ 
+d) Altre passività della gestione finanziaria 
+ 
+Le altre passività della gestione finanziaria, pari ad Euro 132.480, sono dettagliatamente indicate nella 
+tabella seguente. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito v/società di gestione per commissioni percentuali 132.280 139.532 
+Debito v/società di gestione per commissioni di I versamento 100 90 
+Debito v/società di gestione per commissioni su operazione 100 0 
+Totale 132.480 139.622 
+ 
+40 Debiti d’imposta 
+ 
+I debiti d'imposta ammontano ad Euro 0. 
+Per maggiori dettagli si rimanda all’analisi nel conto economico. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito per imposta sostitutiva 20% sul rendimento del Comparto 0 196.681 
+Totale 0 196.681
+=== pagina 27 ===
+27 
+ 
+CONTO ECONOMICO 
+ 
+10 Saldo della gestione previdenziale 
+ 
+a) Contributi 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Contributi accreditati alle posizioni individuali 7.649.700 8.802.852 
+Contributi switch da altri comparti 4.916.848 4.138.108 
+Contributi da trasferimenti individuali 2.806.456 4.217.920 
+Contributi da accreditare alle posizioni individuali quota TFR 2.450.726 2.484.278 
+Contributi da accreditare alle posizioni individuali a carico dipendenti 1.420.378 1.412.042 
+Contributi da accreditare alle posizioni individuali a carico datori lavoro 1.082.299 1.127.086 
+Contributi da trasferimenti collettivi da altri fondi 490.945 422.920 
+Contributi individuali TFR 228.740 243.149 
+Contributi individuali volontari aggiuntivi 119.248 123.226 
+Contributi individuali volontari 20.140 18.711 
+Contributi a carico datore di lavoro individuali TFR 1.327 2.917 
+Contributi da trasferimenti da altri fondi con versamento di solo TFR 0 65.259 
+Totale contributi per le prestazioni 21.186.807 23.058.468 
+ 
+ 
+ 
+b) Anticipazioni 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Anticipazioni 862.007 1.063.172 
+Totale 862.007 1.063.172 
+ 
+L'ammontare complessivo, pari ad Euro 862.007 corrisponde a n. 75 richieste di anticipazione sulla posizione 
+individuale le cui quote sono state annullate nel corso dell'esercizio. 
+ 
+c) Trasferimenti e riscatti 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Trasferimenti switch ad altri comparti 18.556.885 10.754.396 
+Erogazioni forma di Rita totale 2.538.625 2.126.215 
+Trasferimenti 847.503 396.588 
+Riscatti 444.931 245.781 
+Erogazioni forma di Rita parziale 276.948 198.550 
+Riscatti per causa morte 237.498 984.319 
+Totale 22.902.390 14.705.849 
+ 
+L'ammontare complessivo, pari ad Euro 22.902.390, corrisponde a n. 42 richieste di riscatto della posizione 
+individuale, a n. 41 richieste di trasferimento della posizione individuale ad altro fondo ed a n. 460 richieste di 
+trasferimento della posizione individuale ad altro comparto, a n. 4 richieste di erogazione in forma di Rendita
+=== pagina 28 ===
+28 
+ 
+Integrativa Temporanea Anticipata (RITA) parziale, a n. 14  richieste di erogazione in forma di Rendita 
+Integrativa Temporanea Anticipata (RITA) totale le cui quote sono state annullate nel corso dell’esercizio. 
+ 
+ 
+e) Erogazioni in forma di capitale 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Erogazioni in forma di capitale 6.186.338 3.998.704 
+Totale 6.186.338 3.998.704 
+ 
+L’ammontare pari a Euro 6.186.338 corrisponde a n. 185 richieste di erogazione in forma capitale, le cui quote 
+sono state annullate nel corso dell’esercizio.   
+ 
+ 
+20 Risultato della gestione finanziaria  
+ 
+La composizione delle voci 20a) Dividendi e interessi e 20b) Profitti e perdite da operazioni finanziarie del 
+conto Profitti e Perdite: 
+ 
+Voci / Valori Dividendi/interessi Profitti e perdite 
+Titoli emessi da Stati o da organismi internazionali 1.679.503 -1.754.553 
+Titoli di debito quotati 404.759 389.500 
+Titoli di capitale quotati 0 0 
+Titoli di debito non quotati 0 0 
+Titoli di capitale non quotati 0 0 
+Depositi bancari 95.959 0 
+Quote di OICR 0 0 
+Opzioni 0 0 
+Altri strumenti finanziari 0 0 
+Risultato della gestione cambi 0 -2.902 
+Commissioni di negoziazione 0 0 
+Spese per operazione titoli 0 0 
+Totale 2.180.221 -1.367.955 
+ 
+30 Oneri di gestione 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Società di gestione 1.677.890 1.693.629 
+Depositario 120 120 
+Totale 1.678.010 1.693.749 
+ 
+ 
+Vengono dettagliate le due voci: 
+ 
+a) Società di gestione
+=== pagina 29 ===
+29 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Commissioni di gestione a favore della società di gestione 1.669.132 1.684.887 
+Contributo COVIP 7.108 7.192 
+Spese su operazioni (trasferimenti ad altri fondi pensione) 1.650 1.550 
+Totale 1.677.890 1.693.629 
+ 
+ 
+b) Depositario 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Imposta di bollo su conti e dossier titoli 120 120 
+Totale 120 120 
+ 
+50 Imposta sostitutiva 
+ 
+La voce “Imposta sostitutiva” riguarda l’imposta sostitutiva delle imposte sui redditi nella misura del 20% 
+secondo quanto stabilito dall’art. 1, comma 621, della legge 23 dicembre 2014 n. 190 (c.d. legge di stabilità 
+2015). 
+La medesima norma ha inoltre dettato specifiche disposizioni per la determinazione della base imponibile in 
+presenza di redditi di cui all’art. 3, comma 2, lett. a) e b) del decreto legge 24 aprile 2014, n. 66, come convertito 
+e modificato dalla legge 23 giugno 2014 n.89; 
+Si riporta di seguito il dettaglio del calcolo dell’imposta sostitutiva effettuato ai fini della redazione del presente 
+rendiconto: 
+ 
+Calcolo imposta sostitutiva al 31/12/2025 Importi parziali Importi totali 
+Patrimonio netto al termine del periodo  163.779.209 
+Anticipazioni 862.007  
+Trasferimenti 847.503  
+Trasferimenti switch ad altri comparti 18.556.885  
+Riscatti 682.429  
+Trasformazioni in rendita 0  
+Erogazioni in forma capitale 6.186.338  
+Premi per prestazioni accessorie 0  
+Erogazioni forma Rita totale 2.538.625  
+Erogazioni forma Rita parziale 276.948    
+Totale erogazioni effettuate   29.950.735 
+Contributi da autonomi accreditati alle posizioni individuali -7.649.700  
+Contributi da trasferimenti individuali -2.806.456  
+Contributi da accreditare alle posizioni individuali a carico dipendenti -1.420.378  
+Contributi da accreditare alle posizioni individuali a carico datori lavoro -1.082.299  
+Contributi da accreditare alle posizioni individuali quota TFR -2.450.726  
+Contributi da trasferimenti collettivi da altri fondi -490.945  
+Contributi switch da altri comparti -4.916.848  
+Contributi individuali TFR -228.740  
+Contributi individuali volontari -20.140  
+Contributi individuali volontari aggiuntivi -119.248
+=== pagina 30 ===
+30 
+ 
+Contributi da TFR pregresso 0  
+Contributi da trasferimenti da altri fondi con versamento di solo TFR 0  
+Contributi a carico datore di lavoro individuali TFR -1.327  
+Totale contributi versati  -21.186.807 
+Redditi esenti   0 
+Patrimonio netto inizio anno    173.408.881 
+Risultato della gestione   -865.744 
+(A) Imponibile redditi a tassazione ordinaria   -790.599 
+(B) Imponibile redditi tassazione ridotta (62,50% su 75.145)   -46.965 
+Base imponibile (A+B)   -837.564 
+Debito imposta sostitutiva 20%   -167.513
+=== pagina 31 ===
+31 
+ 
+ 
+2.1.2.1.2  Comparto ACTIVITY 
+ 
+2.1.2.1.2.1 Stato patrimoniale  
+ 
+(valori in euro senza decimali) ANNO 2025 ANNO 2024 
+10 Investimenti in gestione  949.943.020 876.469.050 
+ a) Depositi bancari  31.998.426 25.468.508 
+ c) Titoli emessi da Stati o da organismi internazionali  528.599.342 482.766.330 
+ d) Titoli di debito quotati  54.091.287 56.565.780 
+ e) Titoli di capitale quotati  217.128.400 198.057.718 
+ h) Quote OICR  5.210.304 5.338.924 
+ l) Ratei e risconti attivi  6.940.191 6.488.597 
+ n) Altre attività della gestione finanziaria  105.975.070 101.783.193 
+      
+30 Crediti d'imposta   105.034 6.660.636 
+ a)      Credito imposta sostitutiva   105.034 6.660.636 
+     
+ TOTALE ATTIVITA'  950.048.054 883.129.686 
+      
+      
+10 Passività della gestione previdenziale  -15.038.588 -12.764.208 
+ a) Debiti della gestione previdenziale  -15.038.588 -12.764.208 
+      
+30 Passività della gestione finanziaria  -105.941.779 -102.471.577 
+ d) Altre passività della gestione finanziaria  -105.941.779 -102.471.577 
+      
+40 Debiti d'imposta  -5.551.861 -3.335.009 
+ a) Debito imposta sostitutiva   -5.551.861 -3.335.009 
+     
+ TOTALE PASSIVITA'  -126.532.228 -118.570.794 
+      
+     
+100 Attivo netto destinato alle prestazioni  823.515.826 764.558.892 
+      
+ CONTI D'ORDINE  830.901 747.911
+=== pagina 32 ===
+32 
+ 
+2.1.2.1.2.2  Conto economico 
+ 
+(valori in euro senza decimali) ANNO 2025 ANNO 2024 
+10 Saldo della gestione previdenziale  36.511.029 54.331.980 
+ a) Contributi per le prestazioni  123.768.328 98.146.411 
+ b) Anticipazioni  -5.507.201 -5.054.874 
+ c) Trasferimenti e riscatti  -71.182.944 -29.626.167 
+ d) Trasformazioni in rendita  -164.354 0 
+ e) Erogazioni in forma di capitale  -10.402.800 -9.133.390 
+     
+20 Risultato della gestione finanziaria  37.476.864 30.952.879 
+ a) Dividendi e interessi  20.824.684 18.567.382 
+ b) Profitti e perdite da operazioni finanziarie  16.652.180 12.385.497 
+     
+30 Oneri di gestione  -9.479.098 -8.722.935 
+ a) Società di gestione (Banca)  -9.478.858 -8.722.695 
+ b) Depositario  -240 -240 
+40 
+Variazione dell'attivo netto destinato alle 
+prestazioni ante imposta sostitutiva 
+(10)+(20)+(30) 
+ 64.508.795 76.561.924 
+50 Imposta sostitutiva  -5.551.861 -3.335.009 
+ a) Imposta sostitutiva 20%  -5.551.861 -3.335.009 
+ 
+Variazione dell'attivo netto destinato alle 
+prestazioni (40)+(50) 
+ 58.956.934 73.226.915 
+      
+ 
+2.1.2.1.2.3 Nota Integrativa 
+ 
+2.1.2.1.2.3.1 Tabella riferita al numero e controvalore delle quote in essere, emesse ed annullate  
+ 
+La seguente tabella si riferisce al numero e al controvalore delle quote in essere all’inizio e alla fine 
+dell’esercizio 2025, nonché delle quote emesse e annullate nel corso dello stesso: 
+ 
+Descrizione Numero  Controvalore *  
+Quote in essere all'inizio dell'esercizio 48.213.323,76202 Euro  764.558.892  
+Quote  emesse  7.697.767,68058 Euro 123.840.582  
+Quote annullate 5.451.473,01257 Euro 87.629.240  
+Quote in essere alla fine dell'esercizio 50.459.618,43003 Euro 823.515.826  
+ 
+* Il controvalore delle quote si riferisce al valore corrente delle quote alla rispettiva data della loro emissione o 
+del loro annullamento.
+=== pagina 33 ===
+33 
+ 
+2.1.2.1.2.3.2. Informazioni integrative relative allo stato patrimoniale ed al conto economico  
+ 
+ATTIVITA’ 
+ 
+10 Investimenti in gestione 
+La gestione finanziaria è iniziata il 7 dicembre 2005. 
+La seguente tabella riporta l’ammontare delle risorse conferite al gestore nell’esercizio 2025  . 
+  Conferimenti in Euro
+Amundi SGR S.p.A. 31.000.000   
+ 
+Nella tabella che segue sono riportate le principali caratteristiche del mandato conferito al gestore, così come 
+stabilito dalla convenzione di gestione stipulata. 
+ 
+Gestore 
+Politica di 
+investimento 
+Parametri di 
+riferimento 
+Peso 
+codice 
+Bloomberg 
+Tipologia Valute 
+       
+Amundi   Attivo JPMorgan EMU 
+Bond Index  
+BofA Merrill Lynch 
+US Treasury Euro 
+Hedged   
+MSCI EMU  
+MSCI World ex -
+EMU 
+        65% JPMGEMLC 
+ 
+ 
+       10% G0Q0 
+ 
+ 
+ 
+        15% MSDEEMUN 
+        10% MSDEWEMN                          
+ 
+ 
+75% 
+Obbligazionario 
+ 
+25% 
+ Azionario 
+EUR, GPB, 
+USD, CHF, 
+JPY, AUD, 
+NOK, SEK, 
+altre 
+       
+ 
+Gli investimenti in gestione al 31 dicembre 2025 risultano pari a Euro 949.943.020 e sono più dettagliatamente 
+indicati nella seguente tabella. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+a)  Depositi bancari 31.998.426 25.468.508 
+c)  Titoli emessi da stati o organismi internazionali 528.599.342 482.766.330 
+d)  Titoli di debito quotati 54.091.287 56.565.780 
+e)  Titoli di capitale quotati 217.128.400 198.057.718 
+h)  Quote OICR 5.210.304 5.338.924 
+l)   Ratei e risconti attivi 6.940.191 6.488.597 
+n)  Altre attività della gestione finanziaria 105.975.070 101.783.193 
+Totale 949.943.020 876.469.050 
+  
+La voce “Depositi bancari” comprende anche il “Conto corrente di raccolta” per un importo pari a Euro  
+16.858.797 sul quale vengono accreditati tutti i contributi versati dagli aderenti dei quattro comparti del Fondo.
+=== pagina 34 ===
+34 
+ 
+Saldo dei depositi bancari utilizzati dai gestori al 31 dicembre 2025:  
+CONTO BANCARIO NUMERO CONTO  DIVISA 
+SALDI IN 
+EURO 
+% SUL 
+TOTALE 
+ATTIVITA' 
+C/C LIQUIDITA’ STATE STREET BANK SPA 1023501 EUR 4.518.114 0,48% 
+C/C LIQUIDITA' AMUNDI 1023509 EUR 5.448.295 0,57% 
+C/C AUD AMUNDI 1096711 AUD 1.886.097 0,20% 
+C/C GBP AMUNDI 1031917 GBP 671.905 0,07% 
+C/C CHF AMUNDI 1022664 CHF 1.312.563 0,14% 
+C/C NOK AMUNDI 1033715 NOK 9.499 0,00% 
+C/C DKK AMUNDI 1023100 DKK 117.779 0,01% 
+C/C SEK AMUNDI 1034205 SEK 200.501 0,02% 
+C/C USD AMUNDI 1037215 USD 974.876 0,10% 
+ 
+Indicazione dei primi 50 titoli in portafoglio: 
+N.Prog. Val. Codice ISIN 
+titolo Descrizione titolo Quantità Valore 
+% su 
+totale 
+attività 
+1 EUR FR0010070060 FRANCIA OAT 4.75% 25/04/35 49.800.000  54.785.478 5,77% 
+2 EUR ES00000128Q6 SPAGNA 2,35% 30/07/2033 56.000.000  53.518.640 5,63% 
+3 USD US91282CCS89 US TRE N/B 1,25% 15/08/2031 63.000.000  46.722.205 4,92% 
+4 USD US912828Z948 US TRE 1,50% 15/02/30 47.000.000  36.740.624 3,87% 
+5 EUR IT0005582421 BTP 4,15% 01/10/39 28.000.000  28.982.800 3,05% 
+6 EUR DE0001135275 GERMANY 4% 04/01/37 25.000.000  27.382.000 2,88% 
+7 EUR ES00000124H4 SPAGNA 5,15% 31/10/44 22.050.000  25.944.030 2,73% 
+8 EUR DE0001102580 GERMANY 0,00% 15/02/32 30.000.000  25.717.200 2,71% 
+9 EUR IT0004923998 BTP 4,75% 01/09/44 23.300.000  25.410.980 2,67% 
+10 EUR IT0005542359 BTP 4% 30/10/2031 23.000.000  24.350.100 2,56% 
+11 EUR DE0001135481 GERMANY 2,5% 04/07/44 24.000.000  21.275.280 2,24% 
+12 EUR IT0001278511 BTP 5.25% 01/11/29 19.000.000  20.852.500 2,19% 
+13 EUR FR0010773192 FRANCIA OAT 4.5% 25/04/41 19.200.000  20.337.216 2,14% 
+14 EUR IT0005383309 BTP 1,35% 01/04/30 19.000.000  18.023.400 1,90% 
+15 EUR IT0004532559 BTP 5% 01/09/40 15.700.000  17.698.610 1,86% 
+16 EUR IT0003934657 BTP 4% 01/02/37 16.900.000  17.576.000 1,85% 
+17 EUR FR0014007L00 FRANCIA  0,00% 25/05/2032 20.000.000  16.500.000 1,74% 
+18 EUR IT0005340929 BTP 2,80% 01/12/28 10.000.000  10.115.000 1,06% 
+19 EUR NL0010273215 ASML HOLDING NV 9.482  8.736.715 0,92% 
+20 USD US91282CHF14 US TRE N/B 3,75% 31/05/2030 8.000.000  6.826.064 0,72% 
+21 EUR PTOTEVOE0018  PORTOGALLO 2,125% 17/10/28 6.000.000  5.997.240 0,63% 
+22 EUR IE00BV8C9418 IRLANDA 1% 15/05/2026 5.500.000  5.478.935 0,58% 
+23 EUR LU1599403224 
+PI INV. FUNDS JAPANESE  
+EQUITY 
+1.760 5.210.304 0,55% 
+24 EUR DE0007236101 SIEMENS AG 21.509  5.143.877 0,54% 
+25 EUR DE000BU25059 GERMANY 2,20% 10/10/30 5.000.000  4.944.200 0,52% 
+26 EUR BE0000354630 BELGIO 0,35% 22/06/32 5.000.000  4.247.450 0,45% 
+27 EUR FR0000121972 SCHNEIDER ELECTRIC SA 17.110  4.019.139 0,42%
+=== pagina 35 ===
+35 
+ 
+28 EUR NL0011821202 ING GROEP NV 49.800.000  4.007.029 0,42% 
+29 EUR DE0007164600 SAP SE INHABER AKTIEN O.N. 18.278  3.808.221 0,40% 
+30 USD US67066G1040 NVIDIA CORPORATION 23.400  3.714.128 0,39% 
+31 EUR FR0000121014 
+L.V.M.H. MOET HENNESSY 
+VUITTON SE 
+5.644 3.640.380 0,38% 
+32 USD US02079K1079 ALPHABET INC CL. C 13.158  3.514.026 0,37% 
+33 EUR FR001400DZO1 
+SOCIETE GENERALE 4,25% 
+16/11/32 
+3.300.000 3.471.831 0,37% 
+34 USD US0231351067 AMAZON COM INC 17.474  3.432.637 0,36% 
+35 USD US5949181045 MICROSOFT CORP. 8.261  3.400.157 0,36% 
+36 EUR DE0008404005 ALLIANZ AG 8.477  3.310.269 0,35% 
+37 EUR DE0006231004 INFINEON TECHNOLOGIES AG 85.819  3.237.951 0,34% 
+38 USD US0378331005 APPLE  INC 13.713  3.172.780 0,33% 
+39 EUR NL0000235190 (PA) AIRBUS GROUP 15.310  3.037.504 0,32% 
+40 EUR FR0010371401 FRANCIA 4% 25/10/38 2.800.000  2.853.340 0,30% 
+41 EUR FR0000125486 VINCI 23.344  2.802.447 0,29% 
+42 USD US912810SE91 US TRE N/B 3,375% 15/11/48 4.000.000  2.697.340 0,28% 
+43 EUR ES0144580Y14 IBERDROLA NEW SA 136.249  2.515.838 0,26% 
+44 EUR XS2555187801 
+CAIXABANK SA C 5,375% 
+14/11/30 
+2.300.000 2.488.945 0,26% 
+45 EUR BE0003565737 KBC GROUP SA 21.952  2.442.160 0,26% 
+46 EUR ES0113211835 
+BANCO BILBAO VIZCAYA 
+ARGENTARIA SA BBVA 
+119.007 2.386.090 0,25% 
+47 EUR FR0000120073 AIR LIQUIDE 14.715  2.358.226 0,25% 
+48 USD US17275R1023 CISCO SYSTEMS 35.463  2.324.864 0,24% 
+49 EUR DE0005810055 DEUTSCHE BOERSE AG 10.383  2.322.677 0,24% 
+50 EUR BE0974293251 ANHEUSER BUSH INBEV SA 40.586  2.228.171 0,23% 
+ 
+ 
+Informazioni sugli importi di operazioni di acquisto e di vendita di titoli non ancora regolati 
+Alla data di chiusura dell’esercizio non risultano operazioni di acquisto e di vendita di titoli stipulate e non 
+ancora regolate. 
+ 
+ 
+Informazione sulla distribuzione territoriale degli investimenti: 
+ 
+Investimenti Italia Altri paesi U.E. Paesi OCSE 
+Paesi non 
+OCSE 
+Totale 
+% su 
+tot.att. 
+Titoli di stato 163.009.390 272.603.719 92.986.233 0 528.599.342 55,64% 
+Titoli di debito 2.369.855 33.625.632 18.095.800 0 54.091.287 5,69% 
+Titoli di capitale 7.649.010 122.707.037 84.446.415 2.325.938 217.128.400 22,85% 
+Quote OICR 0 5.210.304 0 0 5.210.304 0,55% 
+Totali 173.028.255 434.146.692 195.528.448 2.325.938 805.029.333 84,73%
+=== pagina 36 ===
+36 
+ 
+Investimenti in titoli per divisa: 
+ 
+Divisa Valore in euro 
+EUR            624.011.714   
+USD            168.283.314   
+GBP                6.045.569   
+CHF                2.469.247   
+AUD                2.325.938   
+DKK                1.200.690   
+SEK                    692.861   
+Totale 805.029.333   
+ 
+Informazioni riguardo alla durata media finanziaria modificata dei titoli di debito compresi nel 
+portafoglio, con riferimento al loro insieme e alle principali tipologie: 
+ 
+ 
+ 
+Descrizione titolo Codice ISIN 
+titolo Tipologia titolo Quantità Dur. 
+mod. 
+Media 
+ponderata 
+BTP 5.25% 01/11/29                       IT0001278511 Titoli di stato italiani  19.000.000  3,428  
+BTP 4% 01/02/37                          IT0003934657 Titoli di stato italiani  16.900.000  8,663  
+BTP 5% 01/09/40                          IT0004532559 Titoli di stato italiani  15.700.000  10,289  
+BTP 4,75% 01/09/44                       IT0004923998 Titoli di stato italiani  23.300.000  12,196  
+BTP 2,80% 01/12/28                       IT0005340929 Titoli di stato italiani  10.000.000  2,753  
+BTP 1,35% 01/04/30                       IT0005383309 Titoli di stato italiani  19.000.000  4,022  
+BTP 4% 30/10/2031                        IT0005542359 Titoli di stato italiani  23.000.000  5,099  
+BTP 4,15% 01/10/39                       IT0005582421 Titoli di stato italiani  28.000.000  10,187  
+     7,58 
+FRANCIA OAT 4.75% 25/04/35               FR0010070060 Titoli di stato esteri  49.800.000  7,355  
+GERMANY 4% 04/01/37                      DE0001135275 Titoli di stato esteri  25.000.000  8,645  
+FRANCIA 4% 25/10/38                      FR0010371401 Titoli di stato esteri    2.800.000  9,862  
+FRANCIA OAT 4.5% 25/04/41                FR0010773192 Titoli di stato esteri  19.200.000  10,775  
+BELGIO 4,25% 28/03/41                    BE0000320292 Titoli di stato esteri    2.000.000  10,870  
+GERMANY 2,5% 04/07/44                    DE0001135481 Titoli di stato esteri  24.000.000  14,124  
+SPAGNA 5,15% 31/10/44                    ES00000124H4 Titoli di stato esteri  22.050.000  12,466  
+IRLANDA 1% 15/05/2026                    IE00BV8C9418 Titoli di stato esteri    5.500.000  0,362  
+SLOVENIA 1,25% 22/03/27                  SI0002103685 Titoli di stato esteri    1.000.000  1,187  
+SPAGNA 2,35% 30/07/2033                  ES00000128Q6 Titoli di stato esteri  56.000.000  6,748  
+PORTOGALLO 2,125% 17/10/28              PTOTEVOE0018 Titoli di stato esteri    6.000.000  2,678  
+SPAGNA 1,00% 31/10/50                    ES0000012G00 Titoli di stato esteri    1.000.000  19,939  
+US TRE 1,50% 15/02/30                    US912828Z948 Titoli di stato esteri  47.000.000  3,848  
+US TRE N/B 1,25% 15/08/2031              US91282CCS89 Titoli di stato esteri  63.000.000  5,204  
+US TRE N/B 3,375% 15/11/48               US912810SE91 Titoli di stato esteri    4.000.000  14,375  
+BELGIO 0,35% 22/06/32                    BE0000354630 Titoli di stato esteri    5.000.000  6,216  
+FRANCIA  0,00% 25/05/2032                FR0014007L00 Titoli di stato esteri  20.000.000  6,213  
+GERMANY 0,00% 15/02/32                   DE0001102580 Titoli di stato esteri  30.000.000  5,977  
+US TRE N/B 3,75% 31/05/2030              US91282CHF14 Titoli di stato esteri    8.000.000  3,952  
+GERMANY 2,20% 10/10/30                   DE000BU25059 Titoli di stato esteri    5.000.000  4,463
+=== pagina 37 ===
+37 
+ 
+     7,33 
+ANHEUSER BUSCH INBEV 2,75% 
+17/03/36      BE6285457519 Obbligazioni ordinarie       800.000  8,468  
+BPCE 2,875% 22/04/26                     FR0013155009 Obbligazioni ordinarie       200.000  0,299  
+LINDE FIN 1,00% 20/04/28                 XS1397134609 Obbligazioni ordinarie       285.000  2,217  
+WELLS FARGO 1,375% 26/10/26             XS1400169931 Obbligazioni ordinarie       601.000  0,801  
+UNIBAIL-RODAMCO 2,00% 28/04/2036        XS1401197253 Obbligazioni ordinarie       188.000  8,810  
+ESB FINANCE LTD C1,875% 14/06/31        XS1428782160 Obbligazioni ordinarie       475.000  5,013  
+BNP PARIBAS 2,25% 11/01/27               XS1470601656 Obbligazioni ordinarie       420.000  0,983  
+SANOFI C0,50% 13/01/27                   FR0013201639 Obbligazioni ordinarie       500.000  1,007  
+BANQUE FED CRED MUTUEL 1,875% 
+04/11/26   XS1512677003 Obbligazioni ordinarie       500.000  0,823  
+INTESA SANPAOLO 1,75% 20/03/28          XS1785340172 Obbligazioni ordinarie    1.000.000  2,112  
+CHUBB INA HOLDINGS INC C 0,875% 
+15/06/27 XS2012102674 Obbligazioni ordinarie    1.200.000  1,410  
+AIR LIQUIDE FIN C 0,625% 20/06/30       FR0013428067 Obbligazioni ordinarie       700.000  4,280  
+ENGIE SA C 0,375% 21/06/27               FR0013428489 Obbligazioni ordinarie    1.100.000  1,433  
+HEIDELBERGCEMENT FIN LX 
+C1,125% 01/12/27 XS2018637327 Obbligazioni ordinarie       900.000  1,862  
+ENEXIS HOLDING NV C 0,75% 
+02/07/31       XS2019976070 Obbligazioni ordinarie       600.000  5,221  
+MEDTRONIC GLOBAL HLDG C 1,00% 
+02/07/31   XS2020670852 Obbligazioni ordinarie       600.000  5,182  
+JP MORGAN CHASE & CO C 1,001% 
+25/07/31   XS2033262622 Obbligazioni ordinarie    1.500.000  0,473  
+REPSOL INT FIN C 0,25% 02/08/27         XS2035620710 Obbligazioni ordinarie    1.100.000  1,546  
+BANK OF AMERICA CORP C 0,58% 
+08/08/29    XS2038039074 Obbligazioni ordinarie    1.600.000  0,546  
+E.ON SE C 0,35% 28/02/30                 XS2047500926 Obbligazioni ordinarie       400.000  4,013  
+DH EUROPE FIN C 0,45% 18/03/28          XS2050404800 Obbligazioni ordinarie       600.000  2,145  
+DASSAULT SYSTEMES C 0,125% 
+16/09/26      FR0013444544 Obbligazioni ordinarie    1.100.000  0,692  
+THERMO FISHER SCIENTIFIC C0,50% 
+01/03/28 XS2058556536 Obbligazioni ordinarie       700.000  2,098  
+CITIGROUP INC C 0,50% 08/10/27          XS2063232727 Obbligazioni ordinarie    2.000.000  1,741  
+JP MORGAN CHASE & CO C 1,047% 
+04/11/32   XS2075811948 Obbligazioni ordinarie    1.000.000  6,424  
+BOSTON SCIENTIFIC C C 0,625%  
+01/12/27   XS2070192591 Obbligazioni ordinarie       400.000  1,864  
+ABBOTT  IRELAND FIN C 0,375% 
+19/11/27    XS2076155105 Obbligazioni ordinarie    1.100.000  1,836  
+JP MORGAN CHASE & CO C 0,389% 
+24/02/28   XS2123320033 Obbligazioni ordinarie    1.600.000  0,128  
+DOW CHEMICAL CO/THE C 1,875% 
+15/03/40    XS2122933695 Obbligazioni ordinarie       750.000  11,426  
+SOCIETE GENERALE 0,125% 24/02/26        FR0013486701 Obbligazioni ordinarie    1.000.000  0,148  
+DOW CHEMICAL CO/THE C 1,125% 
+15/03/32    XS2122486066 Obbligazioni ordinarie    1.300.000  5,736  
+CRH FUNDING C 1,625% 05/05/30           XS2169281487 Obbligazioni ordinarie    1.200.000  4,061  
+AT&T INC C 1,60% 19/05/28                XS2180007549 Obbligazioni ordinarie    2.000.000  2,276  
+ERSTE GRP BK AG 0,125% 17/05/28         AT0000A2RAA0 Obbligazioni ordinarie    1.400.000  2,314  
+NORDEA BANK ABP C 0,625% 
+18/08/31        XS2343459074 Obbligazioni ordinarie    1.500.000  0,618  
+VOLKSWAGEN LEAS. GMBH 0,375% 
+20/07/26    XS2343822842 Obbligazioni ordinarie    1.350.000  0,537  
+SWEDBANK AB C 0,3% 20/05/27             XS2343563214 Obbligazioni ordinarie    1.600.000  1,369  
+VOLVO TREASURY AB C 0,00% 
+18/05/26       XS2342706996 Obbligazioni ordinarie       500.000  0,369  
+BANK OF AMERICA C 0,583% 24/08/28       XS2345799089 Obbligazioni ordinarie    2.200.000  0,612
+=== pagina 38 ===
+38 
+ 
+UNICREDIT SPA C 5,85% 15/11/27          XS2555420103 Obbligazioni ordinarie    1.350.000  1,745  
+NESTLE FIN. INTL LTD C 3,00% 
+15/03/2028  XS2555196463 Obbligazioni ordinarie    2.000.000  2,072  
+CAIXABANK SA C 5,375% 14/11/30          XS2555187801 Obbligazioni ordinarie    2.300.000  4,261  
+SOCIETE GENERALE 4,25% 16/11/32         FR001400DZO1 Obbligazioni ordinarie    3.300.000  5,905  
+ORANGE SA C 3,625% 16/11/31              FR001400DY43 Obbligazioni ordinarie    1.600.000  5,217  
+ING GROEP NV C 5,25% 14/11/33           XS2554745708 Obbligazioni ordinarie    1.400.000  6,439  
+THERMO FISHER SCIENTIFIC C3,65% 
+21/11/34 XS2557526345 Obbligazioni ordinarie       700.000  7,476  
+ABN AMRO BANK NV 4,50% 21/11/34         XS2557084733 Obbligazioni ordinarie    1.300.000  7,271  
+CREDIT AGRICOLE SA 3,875% 
+28/11/2034     FR001400E7I7 Obbligazioni ordinarie    1.700.000  7,418  
+DNB BANK ASA C 4,625% 28/02/2033        XS2560328648 Obbligazioni ordinarie    1.500.000  5,818  
+     3,15 
+      
+La media ponderata della duration modificata riferita all’insieme dei titoli obbligazionari nel 
+portafoglio 7,01 
+ 
+ 
+Informazioni su investimenti per i quali si configurano situazioni di conflitto di interesse: 
+Non sono stati riscontrati investimenti per i quali si configurano situazioni di conflitto di interesse ai sensi del 
+D.M. 166/2014. 
+ 
+ 
+Operazioni pronti contro termine: 
+Alla data di chiusura dell’esercizio non risultano in corso operazioni pronti contro termine. 
+ 
+ 
+Operazioni a termine di copertura con indicazione dell’effetto sul rischio di cambio: 
+A fine anno risultavano in essere le seguenti operazioni di vendita: 
+ 
+Gestore Forward Valuta Importo Euro % copertura 
+Amundi SGR valuta USD 117.981.000 100.945.669 59,13 %  
+Amundi SGR valuta GBP 60.000 68.354 1,02 %  
+Amundi SGR valuta CHF 1.910.000 2.045.451 54,22 %  
+Amundi SGR valuta AUD 850.000 482.524 11,48 %  
+Amundi SGR valuta DKK 1.500.000 201.041 15,23 %  
+Amundi SGR valuta SEK 2.680.000 246.088 27,72 %  
+Totale     103.989.127   
+ 
+ 
+Dettaglio degli acquisti e delle vendite/rimborsi di strumenti finanziari effettuati nell’esercizio  
+ 
+ 2025 2024 
+ Acquisti Vendite Acquisti Vendite 
+Strumenti finanziari Importi in Euro Importi in Euro Importi in Euro Importi in Euro 
+Titoli di stato 173.645.467 113.312.350 122.740.646 80.752.566 
+Titoli di debito quotati  0 3.000.744 0 12.702.053
+=== pagina 39 ===
+39 
+ 
+Titoli di capitale quotati 140.438.520 143.467.177 102.861.472 72.071.958 
+Quote OICR 1.384.939 1.983.397 1.030.565 531.284 
+Strumenti derivati 0 0 0 0 
+Totale 315.468.926 261.763.668 226.632.683 166.057.861 
+ 
+ 
+Informazioni sulle commissioni di negoziazione espresse in percentuale dei volumi negoziati: 
+ 
+ Importo % su volumi negoziati  
+Commissioni di negoziazione 2025 38.587 0,007%  
+ 
+Composizione della voce “altre attività della gestione finanziaria”: 
+ 
+Le altre attività della gestione finanziaria, pari ad Euro 105.975.070, sono così composte: 
+ 
+Descrizione Importo 
+Liquidità da ricevere Euro da regolare vendita 103.989.127   
+Credito v/altri comparti switch 1.057.187   
+Differenze attive copertura rischi cambio 861.931   
+Rateo dividendi in USD 29.345   
+Rateo dividendi Euro 28.465   
+Rateo dividendi GBP 8.777   
+Crediti per importi da ricevere 238   
+Totale 105.975.070   
+ 
+ 
+ 
+30 Crediti d’imposta 
+ 
+Il credito d’imposta residuo ammonta ad Euro 105.034. 
+ 
+Descrizione 
+ANNO 2025 ANNO 2024 
+Credito per imposta sostitutiva 20% sul rendimento del Comparto 105.034 6.660.636 
+Totale 105.034 6.660.636
+=== pagina 40 ===
+40 
+ 
+ 
+ 
+PASSIVITA’ 
+ 
+10 Passività della gestione previdenziale 
+ 
+a) Debiti della gestione previdenziale 
+ 
+Questa voce comprende, al 31 dicembre 2025, i debiti verso gli aderenti che hanno chiesto il riscatto, 
+l’anticipazione, il trasferimento ad altri fondi pensione o ad altri comparti, l’erogazione in forma capitale o della 
+Rita totale o parziale della loro posizione individuale, indicati al lordo delle ritenute da versare all’erario al 
+momento della liquidazione, i debiti verso l’erario per le ritenute da versare sui riscatti già pagati ed il debito 
+per contributi da valorizzare, che comprende i contributi incassati nell’anno che vengono considerati disponibili 
+per la valorizzazione da effettuare l’ultimo giorno dell’esercizio. Di conseguenza tali contributi non risultano 
+ancora assegnate delle quote e quindi essi non sono stati iscritti nel conto economico tra le entrate. 
+ 
+La seguente tabella rileva il dettaglio dei debiti. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito per contributi da valorizzare  11.580.925   9.024.829 
+Debito v/altri comparti switch  1.642.102   1.648.127 
+Esattoria c/ritenute su prestazioni  395.576   379.865 
+Debito v/aderente per riscatto   390.349   134.567 
+Debito v/aderente per erogazione capitale  377.960   674.552 
+Debito v/aderente per anticipazioni  361.816   713.392 
+Debito v/altri fondi trasferimento  99.586   39.881 
+Debito v/iscritto Rita totale  98.540   59.050 
+Debito v/iscritto Rita parziale  69.620   46.232 
+Debito v/datore lavoro per restituzioni  22.114   43.713 
+Totale 15.038.588 12.764.208 
+ 
+30 Passività della gestione finanziaria 
+ 
+d) Altre passività della gestione finanziaria 
+ 
+Le altre passività della gestione finanziaria, pari ad Euro 105.941.779, sono dettagliatamente indicate nella 
+tabella seguente. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+USD impegni in divisa per operazioni da regolare 100.945.669 94.638.455 
+CHF impegni in divisa  per operazioni da regolare 2.045.451 2.072.192 
+Debito Forward Collateral 1.130.000 0 
+Debito v/società di gestione per commissioni percentuali 804.338 744.714 
+AUD impegni in divisa per operazioni da regolare 482.524 512.473 
+SEK impegni in divisa per operazioni da regolare 246.088 18.601 
+DKK impegni in per operazioni da regolare 201.041 4.148
+=== pagina 41 ===
+41 
+ 
+GBP impegni in divisa  per operazioni da regolare 68.354 1.209.934 
+Differenze passive copertura rischi cambio 17.112 1.717.769 
+Debito v/società di gestione per commissioni su operazione 550 400 
+Debito v/società di gestione per commissioni di I versamento 420 420 
+Debito v/Depositario per bolli c/c e dossier titoli 232 208 
+Liquidita' da consegnare Euro da regolare acquisto  0 1.552.263 
+Totale 105.941.779 102.471.577 
+ 
+40 Debiti d’imposta 
+ 
+I debiti d'imposta ammontano ad Euro 5.551.861. 
+Per maggiori dettagli si rimanda all’analisi nel conto economico. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito per imposta sostitutiva 20% sul rendimento del Comparto 5.551.861 3.335.009 
+Totale 5.551.861 3.335.009 
+ 
+ 
+ 
+CONTI D’ORDINE 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Crediti per contributi da ricevere 830.901 717.084 
+Titoli da ricevere per operazioni da regolare 0 22.749 
+Controparte di borsa per titoli da consegnare 0 8.078 
+Totale conti d’ordine attivi  830.901 747.911 
+      
+Contributi da ricevere 830.901 717.084 
+Titoli da consegnare per operazioni da regolare 0 8.078 
+Controparte di borsa per titoli da ricevere 0 22.749 
+Totale conti d’ordine passivi 830.901 747.911 
+ 
+ 
+Nella voce “Crediti per contributi da ricevere” sono stati registrati, in deroga al principio della competenza, i 
+contributi dovuti ma non ancora incassati nell’esercizio 2025. Le aziende aderenti inviano alla scadenza di 
+ogni versamento una distinta con il dettaglio della contribuzione dovuta per i propri dipendenti iscritti al Fondo. 
+Tali importi, se non ancora incassati, vengono iscritti quindi nei contributi da ricevere esclusivamente nel 
+Comparto Activity.
+=== pagina 42 ===
+42 
+ 
+ CONTO ECONOMICO 
+ 
+10 Saldo della gestione previdenziale 
+ 
+a) Contributi  
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Contributi switch da altri comparti 36.539.728 34.605.172 
+Contributi da autonomi accreditati alle posizioni individuali 32.981.003 21.708.281 
+Contributi da accreditare alle posizioni individuali quota TFR 23.235.994 10.301.629 
+Contributi da accreditare alle posizioni individuali a carico dipendenti 11.172.493 9.244.538 
+Contributi da accreditare alle posizioni individuali a carico datori lavoro 9.463.325 8.171.183 
+Contributi da trasferimenti individuali 4.033.888 7.561.487 
+Contributi da trasferimenti collettivi da altri fondi 3.569.163 3.721.353 
+Contributi individuali TFR 1.890.941 1.686.286 
+Contributi individuali volontari aggiuntivi 601.544 678.774 
+Contributi da trasferimenti da altri fondi con versamento di solo TFR 142.775 238.465 
+Contributi individuali volontari 126.084 126.018 
+Contributi a carico datore di lavoro individuali TFR 11.390 92.620 
+Contributi da TFR pregresso 0 10.605 
+Totale contributi per le prestazioni 123.768.328 98.146.411 
+ 
+b) Anticipazioni 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Anticipazioni 5.507.201 5.054.874 
+Totale 5.507.201 5.054.874 
+ 
+L’ammontare complessivo, pari ad Euro 5.507.201 corrisponde a n. 457 richieste di anticipazione sulla 
+posizione individuale, le cui quote sono state annullate nel corso dell’esercizio. 
+ 
+c) Trasferimenti e riscatti 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Trasferimenti switch ad altri comparti 59.637.388 20.693.828 
+Trasferimenti 3.924.561 3.305.286 
+Erogazioni forma di Rita totale 3.218.153 2.294.828 
+Riscatti 2.409.890 1.679.968 
+Riscatti per causa morte 1.189.384 1.092.216 
+Erogazioni forma di Rita parziale 803.568 560.041 
+Totale 71.182.944 29.626.167 
+ 
+L’ammontare complessivo, pari ad Euro 71.182.944 corrisponde a n. 178 richieste di riscatto della posizione 
+individuale, a n. 296 richieste di trasferimento della posizione individuale ad altro fondo ed a  n. 835 richieste 
+di trasferimento della posizione individuale ad altro comparto, a n. 7 richieste di erogazione in forma di Rendita
+=== pagina 43 ===
+43 
+ 
+Integrativa Temporanea Anticipata (RITA) parziale, a n. 18  richieste di erogazione in forma di Rendita 
+Integrativa Temporanea Anticipata (RITA) totale le cui quote sono state annullate nel corso dell’esercizio. 
+ 
+d) Trasformazioni in rendita 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Trasformazioni in rendita 164.354 0 
+Totale 164.354 0 
+ 
+L’ammontare pari ad Euro 164.354 corrisponde a n. 2 richieste di trasformazioni in rendita, le cui quote sono 
+state annullate nel corso dell’esercizio. 
+ 
+e) Erogazioni in forma di capitale 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Erogazioni in forma di capitale 10.402.800 9.133.390 
+Totale 10.402.800 9.133.390 
+ 
+L’ammontare pari ad Euro 10.402.800 corrisponde a n. 215 richieste di erogazione in forma capitale, le cui 
+quote sono state annullate nel corso dell’esercizio. 
+ 
+ 
+20 Risultato della gestione finanziaria  
+ 
+La composizione delle voci 20a) Dividendi e interessi e 20b) Profitti e perdite da operazioni finanziarie del 
+conto Profitti e Perdite: 
+ 
+Voci / Valori Dividendi/interessi Profitti e perdite 
+Titoli emessi da Stati o da organismi internazionali 15.136.004 -4.854.441 
+Titoli di debito quotati 1.090.758 526.251 
+Titoli di capitale quotati 4.316.242 30.874.536 
+Titoli di debito non quotati 0 0 
+Titoli di capitale non quotati 0 0 
+Depositi bancari 281.680 0 
+Quote di OICR 0 469.838 
+Opzioni 0 0 
+Altri strumenti finanziari 0 8.602.570 
+Risultato della gestione cambi 0 -18.795.943 
+Commissioni di negoziazione 0 -38.587 
+Spese per operazione titoli 0 -132.044 
+Totale 20.824.684 16.652.180 
+ 
+ 
+30 Oneri di gestione 
+ 
+Descrizione ANNO 2025 ANNO 2024
+=== pagina 44 ===
+44 
+ 
+Società di gestione  9.478.858 8.722.695 
+Depositario 240 240 
+Totale 9.479.098 8.722.935 
+ 
+Vengono dettagliate le due voci: 
+ 
+a) Società di gestione 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Commissioni di gestione a favore della società di gestione 9.427.103 8.676.143 
+Contributo COVIP 39.305 36.402 
+Spese su operazioni (trasferimenti ad altri fondi pensione) 12.450 10.150 
+Totale 9.478.858 8.722.695 
+ 
+b) Depositario 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Imposta di bollo su conti e dossier titoli 240 240 
+Spese per servizio Depositario 0 0 
+Totale 240 240 
+ 
+ 
+ 
+50 Imposta sostitutiva 
+ 
+La voce “Imposta sostitutiva” riguarda l’imposta sostitutiva delle imposte sui redditi nella misura del 20%, 
+applicata sul reddito netto dell'esercizio, secondo quanto stabilito dall'art. 1, comma 621 della legge 23 
+dicembre 2014 n. 190 (c.d. legge di stabilità 2015). La medesima norma ha inoltre dettato specifiche 
+disposizioni per la determinazione della base imponibile in presenza di redditi di cui all’art. 3, comma 2, lett. a) 
+e b) del decreto legge 24 aprile 2014, n. 66, come convertito e modificato dalla legge 23 giugno 2014 n.89; 
+ 
+ 
+Si riporta di seguito il dettaglio del calcolo dell’imposta sostitutiva effettuato ai fini della redazione del presente 
+rendiconto: 
+ 
+Calcolo imposta sostitutiva al 31/12/2025 Importi parziali Importi totali 
+Patrimonio netto al termine del periodo   829.067.687 
+Anticipazioni 5.507.201  
+Trasferimenti 3.924.561  
+Trasferimenti switch ad altri comparti 59.637.388  
+Riscatti 3.599.274  
+Trasformazioni in rendita 164.354  
+Erogazioni in forma capitale 10.402.800  
+Erogazioni forma Rita totale 3.218.153  
+Erogazioni forma Rita parziale 803.568  
+Totale erogazioni effettuate   87.257.299
+=== pagina 45 ===
+45 
+ 
+Contributi da autonomi accreditati alle posizioni individuali -32.981.003  
+Contributi da trasferimenti individuali -4.033.888  
+Contributi da accreditare alle posizioni individuali a carico dipendenti -11.172.493  
+Contributi da accreditare alle posizioni individuali a carico datori lavoro -9.463.325  
+Contributi da accreditare alle posizioni individuali quota TFR -23.235.994  
+Contributi da trasferimenti collettivi da altri fondi -3.569.163  
+Contributi switch da altri comparti -36.539.728  
+Contributi individuali TFR -1.890.941  
+Contributi individuali volontari -126.084  
+Contributi individuali volontari aggiuntivi -601.544  
+Contributi da TFR pregresso 0  
+Contributi da trasferimenti da altri fondi con versamento di solo TFR -142.775  
+Contributi a carico datore di lavoro individuali TFR -11.390  
+Totale contributi versati  -123.768.328 
+Redditi esenti   0 
+Patrimonio netto inizio anno    764.558.892 
+Risultato della gestione   27.997.766 
+(A) Imponibile redditi a tassazione ordinaria   27.361.868 
+(B) Imponibile redditi a tassazione ridotta (62,50% su 635.898)  397.436 
+Base imponibile (A+B)   27.759.304 
+Debito imposta sostitutiva 20%   5.551.861
+=== pagina 46 ===
+46 
+ 
+2.1.2.1.3    Comparto DYNAMIC 
+ 
+2.1.2.1.3.1    Stato patrimoniale 
+ 
+(valori in euro senza decimali) ANNO 2025  ANNO 2024 
+10 Investimenti in gestione  432.421.078  335.539.296 
+ a) Depositi bancari  15.432.069  10.882.855 
+ c) Titoli emessi da Stati o da organismi internazionali  103.250.495  74.770.190 
+ d) Titoli di debito quotati  15.519.111  16.378.480 
+ e) Titoli di capitale quotati  247.230.121  192.288.523 
+ h) Quote OICR  5.624.760  4.791.342 
+ l) Ratei e risconti attivi  1.534.164  1.093.989 
+ n) Altre attività della gestione finanziaria  43.830.358  35.333.917 
+       
+30 Crediti d’imposta  0  0 
+ a)      Credito imposta sostitutiva   0  0 
+      
+ TOTALE ATTIVITA'  432.421.078  335.539.296 
+       
+10 Passività della gestione previdenziale  -918.501  -499.991 
+ a) Debiti della gestione previdenziale  -918.501  -499.991 
+       
+30 Passività della gestione finanziaria  -42.386.060  -34.467.524 
+ d) Altre passività della gestione finanziaria  -42.386.060  -34.467.524 
+       
+40 Debiti d'imposta  -5.367.127  -3.105.900 
+ a) Debito imposta sostitutiva   -5.367.127  -3.105.900 
+      
+ TOTALE PASSIVITA'  -48.671.688  -38.073.415 
+      
+100 Attivo netto destinato alle prestazioni  383.749.390  297.465.881 
+       
+ CONTI D'ORDINE  0  29.274
+=== pagina 47 ===
+47 
+ 
+2.1.2.1.3.2    Conto economico 
+ 
+(valori in euro senza decimali) ANNO 2025  ANNO 2024 
+10 Saldo della gestione previdenziale  64.729.707  45.717.921 
+ a) Contributi per le prestazioni  88.980.555  54.859.959 
+ b) Anticipazioni  -3.218.416  -2.006.020 
+ c) Trasferimenti e riscatti  -19.692.396  -6.649.816 
+ d) Trasformazioni in rendita  0  0 
+ e) Erogazioni in forma di capitale  -1.340.036  -486.202 
+      
+20 Risultato della gestione finanziaria  31.686.838  20.409.563 
+ a) Dividendi e interessi  7.911.924  6.533.774 
+ b) Profitti e perdite da operazioni finanziarie  23.774.914  13.875.789 
+      
+30 Oneri di gestione  -4.765.909  -3.785.633 
+ a) Società di gestione (Banca)  -4.765.693  -3.785.417 
+ b) Depositario  -216  -216 
+40 
+Variazione dell'attivo netto destinato alle prestazioni 
+ante imposta sostitutiva (10)+(20)+(30) 
+ 91.650.636  62.341.851 
+      
+50 Imposta sostitutiva  -5.367.127  -3.105.900 
+ a) Imposta sostitutiva 20%  -5.367.127  -3.105.900 
+ 
+Variazione dell'attivo netto destinato alle prestazioni 
+(40)+(50) 
+ 86.283.509  59.235.951 
+       
+ 
+2.1.2.1.2.3    Nota Integrativa 
+ 
+2.1.2.1.2.3.1    Tabella riferita al numero e controvalore delle quote in essere, emesse ed annullate 
+ 
+La seguente tabella si riferisce al numero e al controvalore delle quote in essere all’inizio e alla fine 
+dell’esercizio 2025, nonché delle quote emesse e annullate nel corso dello stesso: 
+ 
+Descrizione Numero   Controvalore * 
+Quote in essere all'inizio dell'esercizio 18.351.872,64468 Euro 297.465.881 
+Quote  emesse  5.329.174,24426 Euro   88.997.009 
+Quote annullate 1.457.063,68235 Euro     24.405.095 
+Quote in essere alla fine dell'esercizio              22.223.983,20659 Euro  383.749.390 
+* Il controvalore delle quote si riferisce al valore corrente delle quote alla rispettiva data della loro emissione o del loro 
+annullamento.
+=== pagina 48 ===
+48 
+ 
+ 
+2.1.2.1.2.3.2    Informazioni integrative relative allo stato patrimoniale ed al conto economico 
+ 
+ 
+ATTIVITÀ 
+ 
+ 
+10 Investimenti in gestione 
+ 
+La gestione finanziaria è iniziata il 17 agosto 2007.  
+La seguente tabella riporta l’ammontare delle risorse conferite al gestore nell’esercizio 2025. 
+ 
+  Conferimenti in Euro
+AMUNDI SGR S.p.A. 50.500.000
+ 
+Nella tabella che segue sono riportate le principali caratteristiche del mandato conferito al gestore, così come 
+stabilito dalla convenzione di gestione stipulata. 
+ 
+Gestore 
+Politica di 
+investim. 
+Parametri di 
+riferimento 
+Peso 
+cod. 
+Bloomberg 
+Tipologia 
+Valute 
+acquistabili 
+Amundi   Attivo JPMorgan EMU 
+Bond Index  
+BofA Merrill 
+Lynch US 
+Treasury Euro 
+Hedged   
+MSCI EMU  
+MSCI World ex -
+EMU 
+  
+30%     
+ 
+5% 
+ 
+         
+ 
+ 
+40% 
+ 
+25%                          
+JPMGEMLC 
+ 
+G0Q0 
+ 
+ 
+ 
+MSDEEMUN 
+ 
+MSDEWEMN 
+ 
+ 
+35% 
+Obbligazionario 
+ 
+65%  
+Azionario 
+EUR, GPB, 
+USD, CHF, 
+JPY, AUD, 
+NOK, SEK, 
+altre 
+        
+       
+ 
+Gli investimenti in gestione al 31 dicembre 2025 risultano pari a Euro 432.421.078 e sono più dettagliatamente 
+indicati nella seguente tabella. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+a)  Depositi bancari 15.432.069 10.882.855 
+c)  Titoli emessi da stati o organismi internazionali 103.250.495 74.770.190 
+d)  Titoli di debito quotati 15.519.111 16.378.480 
+e)  Titoli di capitale quotati 247.230.121 192.288.523 
+h)  Quote OICR 5.624.760 4.791.342 
+l)   Ratei e risconti attivi 1.534.164 1.093.989 
+n)  Altre attività della gestione finanziaria 43.830.358 35.333.917 
+Totale 432.421.078 335.539.296
+=== pagina 49 ===
+49 
+ 
+La voce “Depositi bancari” comprende anche il “Conto corrente di raccolta” per un importo pari a Euro   
+2.960.259 sul quale vengono accreditati tutti i contributi versati dagli aderenti dei quattro comparti del Fondo. 
+ 
+ 
+Saldo dei depositi bancari utilizzati dai gestori al 31 dicembre 2025: 
+ 
+CONTO BANCARIO NUMERO CONTO  DIVISA 
+SALDI IN 
+EURO 
+% SUL 
+TOTALE 
+ATTIVITA' 
+C/C LIQUIDITA’ STATE STREET BANK SPA 1023505 EUR 7.691.542 1,78% 
+C/C LIQUIDITA' AMUNDI 1023511 EUR 1.569.980 0,36% 
+C/C GBP AMUNDI 1031919 GBP 620.202 0,14% 
+C/C CHF AMUNDI 1022666 CHF 471.650 0,11% 
+C/C NOK AMUNDI 1033716 NOK 2.187 0,00% 
+C/C SEK AMUNDI 1034207 SEK 341.680 0,08% 
+C/C USD AMUNDI 1037216 USD 1.049.840 0,24% 
+C/C AUD AMUNDI 1096713 AUD 699.359 0,16% 
+C/C DKK AMUNDI 1023101 DKK 25.370 0,01% 
+ 
+ 
+Indicazione dei primi 50 titoli in portafoglio: 
+N.Prog. Val. Codice ISIN 
+titolo Descrizione titolo Quantità             Valore 
+% su 
+totale 
+attività 
+1 EUR FR0010070060 FRANCIA OAT 4.75% 25/04/35 10.500.000  11.551.155 2,67% 
+2 USD US91282CCS89 US TRE N/B 1,25% 15/08/2031 15.500.000  11.495.146 2,66% 
+3 EUR ES00000128Q6 SPAGNA 2,35% 30/07/2033 12.000.000  11.468.280 2,65% 
+4 EUR NL0010273215 ASML HOLDING NV 11.416  10.518.702 2,43% 
+5 EUR IT0003934657 BTP 4% 01/02/37 9.050.000  9.412.000 2,18% 
+6 USD US912828Z948 US TRE 1,50% 15/02/30 10.000.000  7.817.154 1,81% 
+7 EUR IT0005582421 BTP 4,15% 01/10/39 7.000.000  7.245.700 1,68% 
+8 EUR IT0004532559 BTP 5% 01/09/40 6.000.000  6.763.800 1,56% 
+9 EUR DE0007236101 SIEMENS AG 25.911  6.196.616 1,43% 
+10 EUR ES00000124H4 SPAGNA 5,15% 31/10/44 5.250.000  6.177.150 1,43% 
+11 EUR DE0001135275 GERMANY 4% 04/01/37 5.500.000  6.024.040 1,39% 
+12 EUR IT0004923998 BTP 4,75% 01/09/44 5.300.000  5.780.180 1,34% 
+13 EUR LU1599403224 PI INV. FUNDS JAPANESE  EQUITY 1.900  5.624.760 1,30% 
+14 EUR FR0000121972 SCHNEIDER ELECTRIC SA 20.597  4.838.235 1,12% 
+15 EUR NL0011821202 ING GROEP NV 200.506  4.814.149 1,11% 
+16 EUR DE0007164600 SAP SE INHABER AKTIEN O.N. 22.003  4.584.325 1,06% 
+17 EUR FR0000121014 L.V.M.H. MOET HENNESSY VUITTON 
+SE 6.800 4.386.000 1,01% 
+18 USD US91282CHF14 US TRE N/B 3,75% 31/05/2030 5.000.000  4.266.290 0,99% 
+19 USD US67066G1040 NVIDIA CORPORATION 25.588  4.061.414 0,94% 
+20 EUR DE0008404005 ALLIANZ AG 10.206  3.985.443 0,92% 
+21 EUR DE0006231004 INFINEON TECHNOLOGIES AG 103.528  3.906.111 0,90% 
+22 USD US02079K1079 ALPHABET INC CL. C 14.466  3.863.345 0,89% 
+23 USD US5949181045 MICROSOFT CORP. 9.028  3.715.848 0,86% 
+24 EUR NL0000235190 (PA) AIRBUS GROUP 18.431  3.656.710 0,85% 
+25 USD US0378331005 APPLE  INC 14.996  3.469.628 0,80%
+=== pagina 50 ===
+50 
+ 
+26 EUR FR0000125486 VINCI 28.135  3.377.607 0,78% 
+27 USD US0231351067 AMAZON COM INC 16.346  3.211.050 0,74% 
+28 EUR ES0144580Y14 IBERDROLA NEW SA 164.006  3.028.371 0,70% 
+29 EUR DE000BU25059 GERMANY 2,20% 10/10/30 3.000.000  2.966.520 0,69% 
+30 EUR BE0003565737 KBC GROUP SA 26.446  2.942.118 0,68% 
+31 EUR ES0113211835 BANCO BILBAO VIZCAYA 
+ARGENTARIA SA BBVA 143.347 2.874.107 0,66% 
+32 EUR FR0000120073 AIR LIQUIDE 17.714  2.838.846 0,66% 
+33 EUR DE0005810055 DEUTSCHE BOERSE AG 12.500  2.796.250 0,65% 
+34 EUR BE0974293251 ANHEUSER BUSH INBEV SA 48.879  2.683.457 0,62% 
+35 EUR FR0010307819 LEGRAND HOLDING 20.916  2.661.561 0,62% 
+36 EUR FR0000120271 TOTAL ENERGIES SE 47.464  2.638.524 0,61% 
+37 EUR ES0113900J37 BANCO SANTANDER SA 260.150  2.619.711 0,61% 
+38 EUR FR0010773192 FRANCIA OAT 4.5% 25/04/41 2.430.000  2.573.929 0,60% 
+39 USD US17275R1023 CISCO SYSTEMS 38.824  2.545.202 0,59% 
+40 EUR DE0001135481 GERMANY 2,5% 04/07/44 2.800.000  2.482.116 0,57% 
+41 EUR DE0005557508 DEUTSCHE TELEKOM 88.409  2.445.393 0,57% 
+42 USD US0605051046 BANK OF AMERICA CORP 51.950  2.431.702 0,56% 
+43 EUR FR0000120578 SANOFI SA 29.323  2.425.599 0,56% 
+44 EUR IT0000072618 INTESA SAN PAOLO SPA ORD 397.574  2.354.036 0,54% 
+45 EUR DE000SHL1006 SIEMENS HEALTHINEERS AG 51.928  2.332.606 0,54% 
+46 EUR DE0005190003 BMW AG 23.849  2.221.296 0,51% 
+47 EUR FR0000125338 CAPGEMINI 15.403  2.191.077 0,51% 
+48 USD US02079K3059 ALPHABET INC CL. A 8.164  2.174.751 0,50% 
+49 EUR NL0011872643 ASR NEDERLAND NV 35.017  2.122.731 0,49% 
+50 EUR IT0005542359 BTP 4% 30/10/2031 2.000.000  2.117.400 0,49% 
+ 
+Informazioni sugli importi di operazioni di acquisto e di vendita di titoli non ancora regolati 
+Alla data di chiusura dell’esercizio non risultano operazioni di acquisto e di vendita di titoli stipulate e non 
+ancora regolate. 
+ 
+ 
+Informazione sulla distribuzione territoriale degli investimenti  
+ 
+Investimenti Italia 
+Altri paesi 
+U.E. 
+Paesi OCSE 
+Paesi non 
+OCSE 
+Totale 
+% su 
+tot.att. 
+Titoli di stato 31.319.080 48.015.658 23.915.757 0 103.250.495 23,88% 
+Titoli di debito 659.065 10.084.498 4.775.548 0 15.519.111 3,59% 
+Titoli di capitale 9.212.808 146.961.127 88.448.282 2.607.904 247.230.121 57,17% 
+Quote OICR 0 5.624.760 0 0 5.624.760 1,30% 
+Totali 41.190.953 210.686.043 117.139.587 2.607.904 371.624.487 85,94% 
+ 
+Investimenti in titoli in divisa 
+Divisa Valore in euro 
+EUR 255.881.811 
+USD 104.107.778 
+GBP 5.305.524 
+AUD 2.607.120 
+CHF 2.096.429
+=== pagina 51 ===
+51 
+ 
+DKK 1.038.127 
+SEK 587.698 
+Totale 371.624.487 
+ 
+ 
+Informazioni riguardo alla durata media finanziaria modificata dei titoli di debito compresi nel 
+portafoglio, con riferimento al loro insieme e alle principali tipologie 
+ 
+Descrizione titolo Codice ISIN 
+titolo Tipologia titolo Quantità Dur. 
+mod. 
+Media 
+ponderata 
+BTP 4% 01/02/37                          IT0003934657 Titoli di stato italiani   9.050.000  8,663  
+BTP 5% 01/09/40                          IT0004532559 Titoli di stato italiani   6.000.000  10,289  
+BTP 4,75% 01/09/44                       IT0004923998 Titoli di stato italiani   5.300.000  12,196  
+BTP 4% 30/10/2031                        IT0005542359 Titoli di stato italiani   2.000.000  5,099  
+BTP 4,15% 01/10/39                       IT0005582421 Titoli di stato italiani   7.000.000  10,187  
+     9,78 
+FRANCIA OAT 4.75% 25/04/35               FR0010070060 Titoli di stato esteri 10.500.000  7,355  
+GERMANY 4% 04/01/37                      DE0001135275 Titoli di stato esteri   5.500.000  8,645  
+FRANCIA 4% 25/10/38                      FR0010371401 Titoli di stato esteri      600.000  9,862  
+FRANCIA OAT 4.5% 25/04/41                FR0010773192 Titoli di stato esteri   2.430.000  10,775  
+BELGIO 4,25% 28/03/41                    BE0000320292 Titoli di stato esteri      100.000  10,870  
+GERMANY 2,5% 04/07/44                    DE0001135481 Titoli di stato esteri   2.800.000  14,124  
+FRANCIA OAT 3,25% 25/05/45               FR0011461037 Titoli di stato esteri      700.000  13,470  
+SPAGNA 5,15% 31/10/44                    ES00000124H4 Titoli di stato esteri   5.250.000  12,466  
+SLOVENIA 1,25% 22/03/27                  SI0002103685 Titoli di stato esteri      100.000  1,187  
+SPAGNA 2,35% 30/07/2033                  ES00000128Q6 Titoli di stato esteri 12.000.000  6,748  
+SPAGNA 1,00% 31/10/50                    ES0000012G00 Titoli di stato esteri   1.500.000  19,939  
+US TRE 1,50% 15/02/30                    US912828Z948 Titoli di stato esteri 10.000.000  3,848  
+US TRE N/B 1,25% 15/08/2031              US91282CCS89 Titoli di stato esteri 15.500.000  5,204  
+US TRE N/B 3,375% 15/11/48               US912810SE91 Titoli di stato esteri     500.000  14,375  
+FRANCIA  0,00% 25/05/2032                FR0014007L00 Titoli di stato esteri   1.000.000  6,213  
+GERMANY 0,00% 15/02/32                   DE0001102580 Titoli di stato esteri   2.000.000  5,977  
+US TRE N/B 3,75% 31/05/2030              US91282CHF14 Titoli di stato esteri   5.000.000  3,952  
+GERMANY 2,20% 10/10/30                   DE000BU25059 Titoli di stato esteri   3.000.000  4,463  
+     7,31 
+ANHEUSER BUSCH INBEV 2,75% 
+17/03/36      
+BE6285457519 Obbligazioni ordinarie      200.000  8,468  
+LINDE FIN 1,00% 20/04/28                 XS1397134609 Obbligazioni ordinarie        64.000  2,217  
+WELLS FARGO 1,375% 26/10/26              XS1400169931 Obbligazioni ordinarie      121.000  0,801  
+KERING 1,25% 10/05/26                    FR0013165677 Obbligazioni ordinarie      100.000  0,348  
+ESB FINANCE LTD C1,875% 14/06/31        XS1428782160 Obbligazioni ordinarie      100.000  5,013  
+BNP PARIBAS 2,25% 11/01/27               XS1470601656 Obbligazioni ordinarie      101.000  0,983  
+UBS GROUP FDG  1,25% 01/09/26            CH0336602930 Obbligazioni ordinarie      200.000  0,654  
+BANQUE FED CRED MUTUEL 1,875% 
+04/11/26   
+XS1512677003 Obbligazioni ordinarie      100.000  0,823  
+INTESA SANPAOLO 1,75% 20/03/28          XS1785340172 Obbligazioni ordinarie      200.000  2,112
+=== pagina 52 ===
+52 
+ 
+CHUBB INA HOLDINGS INC C 0,875% 
+15/06/27 
+XS2012102674 Obbligazioni ordinarie      110.000  1,410  
+AIR LIQUIDE FIN C 0,625% 20/06/30        FR0013428067 Obbligazioni ordinarie      200.000  4,280  
+ENGIE SA C 0,375% 21/06/27               FR0013428489 Obbligazioni ordinarie      300.000  1,433  
+HEIDELBERGCEMENT FIN LX C1,125% 
+01/12/27 
+XS2018637327 Obbligazioni ordinarie      250.000  1,862  
+ENEXIS HOLDING NV C 0,75% 02/07/31      XS2019976070 Obbligazioni ordinarie      150.000  5,221  
+MEDTRONIC GLOBAL HLDG C 1,00% 
+02/07/31   
+XS2020670852 Obbligazioni ordinarie      170.000  5,182  
+JP MORGAN CHASE & CO C 1,001% 
+25/07/31   
+XS2033262622 Obbligazioni ordinarie      280.000  0,473  
+REPSOL INT FIN C 0,25% 02/08/27          XS2035620710 Obbligazioni ordinarie      300.000  1,546  
+BANK OF AMERICA CORP C 0,58% 
+08/08/29    
+XS2038039074 Obbligazioni ordinarie      400.000  0,546  
+E.ON SE C 0,35% 28/02/30                 XS2047500926 Obbligazioni ordinarie      100.000  4,013  
+ORANGE SA C 0,50%  04/09/32              FR0013444684 Obbligazioni ordinarie      300.000  6,356  
+DH EUROPE FIN C 0,45% 18/03/28           XS2050404800 Obbligazioni ordinarie      150.000  2,145  
+DASSAULT SYSTEMES C 0,125% 
+16/09/26      
+FR0013444544 Obbligazioni ordinarie      300.000  0,692  
+THERMO FISHER SCIENTIFIC C0,50% 
+01/03/28 
+XS2058556536 Obbligazioni ordinarie      180.000  2,098  
+CITIGROUP INC C 0,50% 08/10/27           XS2063232727 Obbligazioni ordinarie      600.000  1,741  
+JP MORGAN CHASE & CO C 1,047% 
+04/11/32   
+XS2075811948 Obbligazioni ordinarie      290.000  6,424  
+BOSTON SCIENTIFIC C C 0,625%  
+01/12/27   
+XS2070192591 Obbligazioni ordinarie      140.000  1,864  
+ABBOTT  IRELAND FIN C 0,375% 
+19/11/27    
+XS2076155105 Obbligazioni ordinarie      280.000  1,836  
+JP MORGAN CHASE & CO C 0,389% 
+24/02/28   
+XS2123320033 Obbligazioni ordinarie      400.000  0,128  
+DOW CHEMICAL CO/THE C 1,875% 
+15/03/40    
+XS2122933695 Obbligazioni ordinarie      150.000  11,426  
+SOCIETE GENERALE 0,125% 24/02/26        FR0013486701 Obbligazioni ordinarie      100.000  0,148  
+DOW CHEMICAL CO/THE C 1,125% 
+15/03/32    
+XS2122486066 Obbligazioni ordinarie      200.000  5,736  
+CRH FUNDING C 1,625% 05/05/30            XS2169281487 Obbligazioni ordinarie      300.000  4,061  
+AT&T INC C 1,60% 19/05/28                XS2180007549 Obbligazioni ordinarie      500.000  2,276  
+ERSTE GRP BK AG 0,125% 17/05/28         AT0000A2RAA0 Obbligazioni ordinarie      500.000  2,314  
+NORDEA BANK ABP C 0,625% 18/08/31       XS2343459074 Obbligazioni ordinarie      300.000  0,618  
+VOLKSWAGEN LEAS. GMBH 0,375% 
+20/07/26    
+XS2343822842 Obbligazioni ordinarie      700.000  0,537  
+SWEDBANK AB C 0,3% 20/05/27              XS2343563214 Obbligazioni ordinarie      500.000  1,369  
+VOLVO TREASURY AB C 0,00% 
+18/05/26       
+XS2342706996 Obbligazioni ordinarie      200.000  0,369  
+BANK OF AMERICA C 0,583% 24/08/28       XS2345799089 Obbligazioni ordinarie      648.000  0,612  
+UNICREDIT SPA C 5,85% 15/11/27           XS2555420103 Obbligazioni ordinarie      450.000  1,745
+=== pagina 53 ===
+53 
+ 
+NESTLE FIN. INTL LTD C 3,00% 
+15/03/2028  
+XS2555196463 Obbligazioni ordinarie      650.000  2,072  
+CAIXABANK SA C 5,375% 14/11/30           XS2555187801 Obbligazioni ordinarie      700.000  4,261  
+SOCIETE GENERALE 4,25% 16/11/32         FR001400DZO1 Obbligazioni ordinarie   1.000.000  5,905  
+ORANGE SA C 3,625% 16/11/31              FR001400DY43 Obbligazioni ordinarie      500.000  5,217  
+ING GROEP NV C 5,25% 14/11/33            XS2554745708 Obbligazioni ordinarie      500.000  6,439  
+THERMO FISHER SCIENTIFIC C3,65% 
+21/11/34 
+XS2557526345 Obbligazioni ordinarie      260.000  7,476  
+ABN AMRO BANK NV 4,50% 21/11/34         XS2557084733 Obbligazioni ordinarie      500.000  7,271  
+CREDIT AGRICOLE SA 3,875% 
+28/11/2034     
+FR001400E7I7 Obbligazioni ordinarie      500.000  7,418  
+DNB BANK ASA C 4,625% 28/02/2033        XS2560328648 Obbligazioni ordinarie      500.000  5,818  
+     3,29 
+      
+La media ponderata della duration modificata riferita all’insieme dei titoli obbligazionari nel 
+portafoglio 7,44 
+ 
+ 
+Informazioni su investimenti per i quali si configurano situazioni di conflitto di interesse 
+ 
+Non sono stati riscontrati investimenti per i quali si configurano situazioni di conflitto di interesse ai sensi del 
+D.M. 166/2014. 
+ 
+Operazioni pronti contro termine 
+Alla data di chiusura dell’esercizio non risultano in corso operazioni pronti contro termine. 
+ 
+ 
+Operazioni a termine di copertura con indicazione dell'effetto sul rischio di cambio 
+A fine anno risultavano in essere le seguenti operazioni di vendita: 
+ 
+Gestore Forward Valuta Importo Euro % copertura 
+Amundi SGR valuta USD 42.475.000 36.334.887 34,32 % 
+Amundi SGR valuta SEK 7.185.000 659.756 71,44 % 
+Amundi SGR valuta GBP 2.210.000 2.517.703  42,69 % 
+Amundi SGR valuta CHF 1.605.000 1.718.822  67,10 % 
+Amundi SGR valuta AUD 510.000 289.514  8,77 % 
+Totale     41.520.682   
+ 
+ 
+Dettaglio degli acquisti e delle vendite/rimborsi di strumenti finanziari effettuati nell’esercizio  
+ 2025 2024 
+ Acquisti Vendite Acquisti Vendite 
+Strumenti finanziari Importi in Euro Importi in Euro Importi in Euro Importi in Euro 
+Titoli di stato 55.215.522 24.106.135 29.766.187 22.141.608 
+Titoli di debito quotati 0 998.885 0 3.083.504 
+Titoli di capitale quotati 139.643.395 108.100.596 105.200.430 68.475.806 
+Quote OICR 1.688.212 1.356.842 748.690 430.856
+=== pagina 54 ===
+54 
+ 
+Strumenti derivati 0 0 0 0 
+Totale 196.547.129 134.562.458 135.715.307 94.131.774 
+ 
+ 
+ 
+Informazioni sulle commissioni di negoziazione espresse in percentuale dei volumi negoziati 
+ 
+ Importo % su volumi negoziati  
+Commissioni di negoziazione 2025 35.685 0,011%  
+ 
+ 
+Composizione della voce “altre attività della gestione finanziaria” 
+Le altre attività della gestione finanziaria, pari ad Euro 43.830.358, sono così composte: 
+ 
+Descrizione Importo 
+Liquidità da ricevere euro da regolare vendita 41.520.682 
+Credito v/altri comparti switch 1.930.867 
+Differenze attive copertura rischi cambio 304.664 
+Rateo dividendi Euro 34.292 
+Rateo dividendi in USD 32.451 
+Rateo dividendi in GBP 7.402 
+Totale 43.830.358 
+ 
+ 
+30 Crediti d’imposta 
+ 
+Il credito d’imposta residuo ammonta ad Euro 0. 
+ 
+Descrizione 
+ANNO 2025 ANNO 2024 
+Credito per imposta sostitutiva 20% sul rendimento del Comparto 0 0 
+Totale 0 0
+=== pagina 55 ===
+55 
+ 
+PASSIVITÀ 
+ 
+10 Passività della gestione previdenziale 
+ 
+a) Debiti della gestione previdenziale 
+ 
+Questa voce comprende, al 31 dicembre 2025, i debiti verso gli aderenti che hanno chiesto il riscatto, 
+l’anticipazione, il trasferimento ad altri fondi pensione o ad altri comparti, l’erogazione in forma capitale o della 
+Rita totale della loro posizione individuale. I debiti sono indicati al lordo delle ritenute da versare all’erario al 
+momento della liquidazione del debito. 
+I debiti della gestione previdenziale includono inoltre i debiti verso l’erario per le ritenute da versare sui riscatti 
+già pagati. 
+ 
+La seguente tabella rileva il dettaglio dei debiti: 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito v/aderente per prestazioni in capitale 270.640 0 
+Debito v/altri fondi per trasferimento 172.243 48.122 
+Debito v/altri comparti switch 156.074 159.852 
+Esattoria c/ritenute su prestazioni 109.169 115.399 
+Debito v/aderente per anticipazioni 107.664 98.507 
+Debito v/aderente per RITA totale 60.412 45.824 
+Debito v/aderente per riscatto  42.299 32.287 
+Totale 918.501 499.991 
+ 
+30 Passività della gestione finanziaria 
+ 
+d) Altre passività della gestione finanziaria 
+ 
+Le altre passività della gestione finanziaria, pari ad Euro 42.386.060, sono dettagliatamente indicate nella 
+tabella seguente. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+USD impegni in divisa 36.334.887 25.943.224 
+GBP impegni in divisa 2.517.703 3.037.634 
+CHF impegni in divisa 1.718.822 1.978.471 
+SEK impegni in divisa 659.756 0 
+Debito v/società di gestione per commissioni percentuali 439.998 340.135 
+Debito Forward Collateral 400.000 0 
+AUD impegni in divisa 289.514 41.127 
+Differenze passive copertura rischi cambio 23.910 472.249 
+Debito v/società di gestione per commissioni di I versamento 960 780 
+Debito v/società di gestione per commissione operazione 500 200 
+Debito v/società di gestione per commissione fissa 10 10 
+Liquidità da consegnare Euro da regolare acquisto 0 2.636.733 
+SEK impegni in divisa per operazioni da regolare 0 13.538
+=== pagina 56 ===
+56 
+ 
+DKK impegni in divisa per operazioni da regolare 0 3.423 
+Totale 42.386.060 34.467.524 
+ 
+40 Debiti d’imposta 
+ 
+I debiti d'imposta ammontano ad Euro 5.367.127. 
+Per maggiori dettagli si rimanda all’analisi nel conto economico. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito per imposta sostitutiva 20% sul rendimento del Comparto 5.367.127 3.105.900 
+Totale 5.367.127 3.105.900 
+ 
+ 
+CONTI D’ORDINE 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Titoli da ricevere per operazioni da regolare 0 16.961 
+Controparte di borsa per titoli da consegnare 0 12.313 
+Totale conti d’ordine attivi  0 29.274 
+      
+Titoli da consegnare per operazioni da regolare 0 12.313 
+Controparte di borsa per titoli da ricevere 0 16.961 
+Totale conti d’ordine passivi 0 29.274 
+ 
+ 
+Gli importi di cui alle voci “Titoli da ricevere per operazioni da regolare” e “Titoli da consegnare per operazioni 
+da regolare” ed alle relative contropartite “Controparte di borsa per titoli da ricevere” e “Controparte di borsa 
+per titoli da consegnare” sono stati determinati con riferimento al prezzo contrattuale.
+=== pagina 57 ===
+57 
+ 
+ 
+CONTO ECONOMICO 
+ 
+10 Saldo della gestione previdenziale 
+ 
+a) Contributi 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Contributi switch da altri comparti 37.596.828 15.480.981 
+Contributi accreditati alle posizioni individuali 16.787.536 13.743.690 
+Contributi da accreditare alle posizioni individuali quota TFR 14.325.947 11.054.333 
+Contributi da accreditare alle posizioni individuali a carico datori lavoro 6.609.208 5.233.535 
+Contributi da accreditare alle posizioni individuali a carico dipendenti 6.561.309 4.640.836 
+Contributi da trasferimenti collettivi da altri fondi 3.439.572 1.724.318 
+Contributi da trasferimenti individuali 2.097.133 1.637.977 
+Contributi individuali TFR 1.002.904 844.593 
+Contributi individuali volontari aggiuntivi 393.842 327.799 
+Contributi individuali volontari 89.536 72.017 
+Contributi da trasferimenti da altri fondi con versamento di solo TFR 56.912 46.852 
+Contributi a carico datore di lavoro individuali TFR 10.216 8.348 
+Contributi da TFR pregresso 9.612 44.680 
+Totale contributi per le prestazioni 88.980.555 54.859.959 
+ 
+b) Anticipazioni 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Anticipazioni 3.218.416 2.006.020 
+Totale 3.218.416 2.006.020 
+ 
+L’ammontare complessivo, pari a Euro 3.218.416 corrisponde a n. 238 richieste di anticipazione sulla 
+posizione individuale, le cui quote sono state annullate nel corso dell’esercizio.  
+ 
+c) Trasferimenti e riscatti 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Trasferimenti switch ad altri comparti 15.930.564 3.141.533 
+Trasferimenti 2.260.201 1.320.731 
+Riscatti 894.828 1.616.853 
+Erogazioni in forma di Rita totale 572.482 408.067 
+Riscatti per causa morte 34.321 162.632 
+Totale 19.692.396 6.649.816 
+ 
+L’ammontare complessivo, pari a Euro 19.692.396  corrisponde a n. 75 richieste di riscatto della posizione 
+individuale, a n. 146 richieste di trasferimento della posizione individuale ad altro fondo ed a n. 55 richieste di 
+trasferimento della posizione individuale ad altro comparto, a n. 2 richieste di erogazione in forma di Rendita 
+Integrativa Temporanea Anticipata (RITA) totale le cui quote sono state annullate nel corso dell’esercizio.
+=== pagina 58 ===
+58 
+ 
+ 
+ 
+ 
+d) Erogazioni in forma di rendita 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Erogazioni in forma di rendita 0 0 
+Totale 0 0 
+ 
+Nel corso dell’esercizio non sono pervenute richiesta di trasformazioni in rendita. 
+ 
+e) Erogazioni in forma di capitale 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Erogazioni in forma di capitale 1.340.036 486.202 
+Totale 1.340.036 486.202 
+ 
+L’ammontare complessivo, pari a Euro 1.340.036 corrisponde a n. 21 richieste di erogazione in forma capitale, 
+le cui quote sono state annullate nel corso dell’esercizio.  
+ 
+20 Risultato della gestione finanziaria  
+ 
+La composizione delle voci 20a)  Dividendi e interessi e 20b) Profitti e perdite da operazioni finanziarie del 
+conto economico: 
+ 
+Voci / Valori Dividendi interessi Profitti e perdite 
+Titoli emessi da Stati o da organismi internazionali 2.856.531 -720.314 
+Titoli di debito quotati 329.127 139.516 
+Titoli di capitale quotati 4.547.245 32.020.434 
+Titoli di debito non quotati 0 0 
+Titoli di capitale non quotati 0 0 
+Depositi bancari 179.021 0 
+Quote di OICR 0 502.047 
+Opzioni 0 0 
+Altri strumenti finanziari 0 2.531.704 
+Risultato della gestione cambi 0 -10.526.484 
+Commissioni di negoziazione 0 -35.685 
+Spese per operazioni titoli 0 -136.304 
+Totale 7.911.924 23.774.914 
+ 
+ 
+30 Oneri di gestione 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Società di gestione 4.765.693 3.785.417 
+Depositario 216 216
+=== pagina 59 ===
+59 
+ 
+Totale 4.765.909 3.785.633 
+Vengono dettagliate le due voci: 
+ 
+a) Società di gestione 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Commissioni di gestione a favore della società di gestione 4.741.951 3.767.444 
+Contributo COVIP 17.992 14.023 
+Spese su operazioni (trasferimenti ad altri fondi pensione) 5.750 3.950 
+Totale 4.765.693 3.785.417 
+ 
+b) Depositario 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Imposta di bollo su conti e dossier titoli 216 216 
+Commissioni di servizio Depositario 0 0 
+Totale 216 216 
+ 
+50 Imposta sostitutiva 
+ 
+La voce “Imposta sostitutiva” riguarda l’imposta sostitutiva delle imposte sui redditi nella misura del 20%, 
+applicata sul reddito netto dell'esercizio, secondo quanto stabilito dall'art. 1, comma 621 della legge 23 
+dicembre 2014 n. 190 (c.d. legge di stabilità 2015). La medesima norma ha inoltre dettato specifiche 
+disposizioni per la determinazione della base imponibile in presenza di redditi di cui all’art. 3, comma 2, lett. a) 
+e b) del decreto legge 24 aprile 2014, n. 66, come convertito e modificato dalla legge 23 giugno 2014 n.89. 
+ 
+Si riporta di seguito il dettaglio del calcolo dell'imposta sostitutiva effettuato ai fini della redazione del presente 
+rendiconto: 
+ 
+Calcolo imposta sostitutiva al 31/12/2025 Importi parziali Importi totali 
+Patrimonio netto al termine del periodo    389.116.517 
+Anticipazioni 3.218.416   
+Trasferimenti 2.260.201   
+Trasferimenti switch ad altri comparti 15.930.564   
+Riscatti 929.149   
+Trasformazioni in rendita 0   
+Erogazioni in forma capitale 1.340.036   
+Premi per prestazioni accessorie 0   
+Erogazioni forma Rita totale 572.482   
+Erogazioni forma Rita parziale 0   
+Totale erogazioni effettuate    24.250.848 
+Contributi da autonomi accreditati alle posizioni individuali -16.787.536   
+Contributi da trasferimenti individuali -2.097.133   
+Contributi da accreditare alle posizioni individuali a carico dipendenti -6.561.309   
+Contributi da accreditare alle posizioni individuali a carico datori lavoro -6.609.208   
+Contributi da accreditare alle posizioni individuali quota TFR -14.325.947
+=== pagina 60 ===
+60 
+ 
+Contributi da trasferimenti collettivi da altri fondi -3.439.572   
+Contributi switch da altri comparti -37.596.828   
+Contributi individuali TFR -1.002.904   
+Contributi individuali volontari -89.536   
+Contributi individuali volontari aggiuntivi -393.842   
+Contributi da TFR pregresso -9.612   
+Contributi da trasferimenti da altri fondi con versamento di solo TFR -56.912   
+Contributi a carico datore di lavoro individuali TFR -10.216   
+Totale contributi versati   -88.980.555 
+Redditi esenti   0 
+Patrimonio netto inizio anno    297.465.881 
+Risultato della gestione   26.920.929 
+(A) Imponibile redditi a tassazione ordinaria   26.693.480 
+(B) Imponibile redditi a tassazione ridotta (62,50% su 227.449)  142.156 
+Base imponibile (A+B)   26.835.636 
+Debito imposta sostitutiva 20%   5.367.127
+=== pagina 61 ===
+61 
+ 
+ 
+2.1.2.1.4  Comparto GUARANTY 
+ 
+2.1.2.1.4.1 Stato patrimoniale  
+(valori in euro senza decimali) ANNO 2025  ANNO 2024 
+10 Investimenti in gestione  70.899.998 55.800.790 
+ a) Depositi bancari  6.831.958 5.181.726 
+ c) Titoli emessi da Stati o da organismi internazionali  37.133.665 31.792.272 
+ d) Titoli di debito quotati  22.668.686 15.325.433 
+ h) Quote OICR  3.645.993 2.552.625 
+ l) Ratei e risconti attivi  375.988 263.803 
+ n) Altre attività della gestione finanziaria  243.708 684.931 
+ 
+20 
+ 
+Garanzie di risultato acquisite sulle posizioni individuali  
+ 
+ 
+435 
+ 
+ 
+0 
+       
+       
+30 Crediti d'imposta    0  80.284 
+ a) Credito imposta sostitutiva    0  80.284 
+      
+ TOTALE ATTIVITA'  70.900.433 55.881.074 
+      
+      
+10 Passività della gestione previdenziale  -780.661 -552.467 
+ a) Debiti della gestione previdenziale  -780.661 -552.467 
+ 
+20 
+ 
+Garanzie di risultato acquisite sulle posizioni individuali  
+ 
+ 
+-435 
+ 0 
+      
+      
+30 Passività della gestione finanziaria 
+   
+-65.428 
+ 
+-51.479 
+ d) Altre passività della gestione finanziaria 
+   
+-65.428 
+ 
+-51.479 
+      
+40 Debiti d'imposta  -181.149 -194.976 
+ a) Debito imposta sostitutiva   -181.149 -194.976 
+     
+ TOTALE PASSIVITA'  -1.027.673 -798.922 
+      
+     
+100 Attivo netto destinato alle prestazioni  69.872.760 55.082.152 
+      
+ CONTI D'ORDINE  0 0
+=== pagina 62 ===
+62 
+ 
+ 
+2.1.2.1.4.2 Conto economico 
+ 
+ 
+(valori in euro senza decimali) ANNO 2025 ANNO 2024 
+10 Saldo della gestione previdenziale 13.704.571  5.163.716 
+ a) Contributi per le prestazioni 27.083.586  18.096.586 
+ b) Anticipazioni -420.780  -464.857 
+ c) Trasferimenti e riscatti -8.008.475  -6.419.747 
+ d) Trasformazioni in rendita 0  -79.354 
+ e) Erogazioni in forma di capitale -4.949.760  -5.968.912 
+     
+20 Risultato della gestione finanziaria 1.981.561  1.931.007 
+ a) Dividendi e interessi 962.120  936.655 
+ b) Profitti e perdite da operazioni finanziarie 1.019.441  994.352 
+     
+30 Oneri di gestione -714.504  -578.999 
+ a) Società di gestione (Banca) -714.456  -578.951 
+ b) Depositario -48  -48 
+40 
+Variazione dell'attivo netto destinato alle 
+prestazioni ante imposta sostitutiva 
+(10)+(20)+(30) 
+ 
+14.971.628  6.515.724 
+50 Imposta sostitutiva -181.020  -194.124 
+ a) Imposta sostitutiva 20% -181.020  -194.124 
+ 
+Variazione dell'attivo netto destinato alle 
+prestazioni (40)+(50) 
+14.790.608  6.321.600 
+      
+ 
+2.1.2.1.4.3 Nota Integrativa 
+ 
+2.1.2.1.4.3.1 Tabella riferita al numero e controvalore delle quote in essere, emesse ed annullate  
+ 
+La seguente tabella si riferisce al numero e al controvalore delle quote in essere all’inizio e alla fine 
+dell’esercizio 2025, nonché delle quote emesse e annullate nel corso dello stesso: 
+ 
+ 
+Descrizione Numero   Controvalore * 
+Quote in essere all'inizio dell'esercizio 5.398.097,24260 Euro 55.082.152 
+Quote emesse  2.629.828,04375 Euro   27.084.186 
+Quote annullate 1.299.480,62940 Euro     13.391.495 
+Quote in essere alla fine dell'esercizio 6.728.444,65695 Euro  69.872.760 
+* Il controvalore delle quote si riferisce al valore corrente delle quote alla rispettiva data della loro emissione o 
+del loro annullamento.
+=== pagina 63 ===
+63 
+ 
+ 
+ 
+2.1.2.1.4.3.2. Informazioni integrative relative allo stato patrimoniale ed al conto economico  
+ 
+ATTIVITA’ 
+ 
+10 Investimenti in gestione 
+La gestione finanziaria è iniziata il 2 gennaio 2019. 
+La seguente tabella riporta l’ammontare delle risorse conferite al gestore nell’esercizio 2025. 
+ 
+  Conferimenti in Euro
+Amundi SGR S.p.A. 12.500.000
+ 
+Nella tabella che segue sono riportate le principali caratteristiche del mandato conferito al gestore, così come 
+stabilito dalla convenzione di gestione stipulata. 
+ 
+Gestore 
+Politica di 
+investimento 
+Parametri di 
+riferimento 
+Peso 
+codice 
+Bloomberg 
+Tipologia Valute 
+ 
+ 
+ 
+Amundi SGR 
+S.p.A. 
+ 
+ 
+ 
+attivo 
+ 
+JPMorgan EGBI 1-5 
+Jahre IG  
+ 
+BofA Merrill Lynch 1-5 
+Year Euro Corporate, 
+ 
+MSCI World TR Net Div 
+conv. in Euro al cambio 
+WM Reuters 
+ 
+ 
+60% 
+ 
+ 
+35% 
+ 
+ 
+5% 
+ 
+JNEUI1R5 
+ 
+ 
+ER0V 
+ 
+ 
+NDDUWI 
+ 
+obbligazionario 
+ 
+ 
+obbligazionario 
+ 
+azionario 
+ 
+ 
+ 
+ 
+EUR 
+ 
+ 
+Gli investimenti in gestione al 31 dicembre 2025 risultano pari a Euro 70.899.998 e sono più dettagliatamente 
+indicati nella seguente tabella. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+a)  Depositi bancari 6.831.958 5.181.726 
+c)  Titoli emessi da stati o organismi internazionali 37.133.665 31.792.272 
+d)  Titoli di debito quotati 22.668.686 15.325.433 
+h)  Quote OICR 3.645.993 2.552.625 
+l)   Ratei e risconti attivi 375.988 263.803 
+n)  Altre attività della gestione finanziaria 243.708 684.931 
+Totale 70.899.998 55.800.790 
+  
+ 
+La voce “Depositi bancari” comprende anche il “Conto corrente di raccolta” per un importo pari a Euro 957.048 
+sul quale vengono accreditati tutti i contributi versati dagli aderenti dei quattro comparti del Fondo.
+=== pagina 64 ===
+64 
+ 
+ 
+Saldo dei depositi bancari utilizzati dai gestori al 31 dicembre 2025:  
+CONTO BANCARIO NUMERO CONTO DIVISA SALDI IN EURO 
+% SUL 
+TOTALE 
+ATTIVITA' 
+C/C LIQUIDITA’ STATE STREET BANK SPA 1085888 EUR 3.058.870 4,31% 
+C/C LIQUIDITA' AMUNDI 1085889 EUR 2.816.040 3,97% 
+ 
+Indicazione dei primi 50 titoli in portafoglio: 
+N.Prog. Val. Codice ISIN 
+titolo Descrizione titolo Quantità                Valore   % su totale 
+attività 
+1 EUR FR0013516549 FRANCIA  0% 25/11/2030 10.500.000  9.170.385 12,93% 
+2 EUR IT0005449969 BTP 0,95% 01/12/2031 6.000.000  5.355.000 7,55% 
+3 EUR IT0005340929 BTP 2,80% 01/12/28 5.000.000  5.057.500 7,13% 
+4 EUR ES0000012G26 SPAGNA 0,80% 30/07/27 5.000.000  4.899.300 6,91% 
+5 EUR IT0005467482 BTP 0,45% 15/02/29 5.000.000  4.700.000 6,63% 
+6 EUR ES0000012K53 SPAGNA 0,80% 30/07/29 4.800.000  4.527.360 6,39% 
+7 EUR ES0000012B88 SPAGNA 1,40% 30/07/28 3.500.000  3.424.120 4,83% 
+8 EUR LU1599403141 PI INV. FUNDS - US EQUITY 410  2.635.189 3,72% 
+9 EUR XS2575952697 BANCO SANTANDER SA 
+3,875% 16/01/2028 1.000.000 1.025.290 1,45% 
+10 EUR XS2069380991 E.ON SE C 0,25% 24/10/26 1.000.000  983.870 1,39% 
+11 EUR XS2153406868 TOTALENERGIES CAP INTL C 
+1,491% 08/04/27 800.000 791.112 1,12% 
+12 EUR XS2047500926 E.ON SE C 0,35% 28/02/30 800.000  722.808 1,02% 
+13 EUR XS2643041721 SKAND.ENSK. BK  4,125% 
+29/06/27 700.000 717.472 1,01% 
+14 EUR FR001400IDW0 SOCIETE GENERALE  4,125% 
+02/06/27 700.000 715.841 1,01% 
+15 EUR XS2618499177 SVENSKA HANDELSB. AB 
+3,75% 05/05/26 700.000 703.276 0,99% 
+16 EUR XS1681521081 TELEFONICA EM 1,715% 
+12/01/28 700.000 689.752 0,97% 
+17 EUR FR0013217114 ORANGE SA C 0,875% 
+03/02/27 700.000 689.003 0,97% 
+18 EUR XS1617831026 BANQUE FED CRED MUTUEL 
+1,25% 26/05/27 700.000 688.429 0,97% 
+19 EUR XS1700721464 SNAM C 1,375% 25/10/27 700.000  686.518 0,97% 
+20 EUR LU1599403067 PI INV. FUNDS EUROPEAN 
+EQUITY 260 685.160 0,97% 
+21 EUR XS2035620710 REPSOL INT FIN C 0,25% 
+02/08/27 700.000 676.284 0,95% 
+22 EUR IT0005585051 UNICREDIT SPA 4,00% 
+05/03/2034 600.000 613.878 0,87% 
+23 EUR XS2902720171 BP CAPITAL MARKETS BV 
+3,36% 12/09/31 600.000 603.732 0,85% 
+24 EUR FR001400SG71 VEOLIA ENVIRON SA C 
+3,571% 09/09/34 600.000 595.440 0,84% 
+25 EUR FR001400SJS4 ARKEMA C 3,50% 12/09/34 600.000  581.598 0,82% 
+26 EUR FR0014003N69 AIR LIQUIDE FIN C 0,375% 
+27/05/31 600.000 520.512 0,73% 
+27 EUR XS2673808486 INTESA SANPAOLO SPA 
+4,375% 29/08/27 500.000 514.915 0,73% 
+28 EUR FR001400OEP0 BANQUE FED CRED MUTUEL 
+FL4,592% 05/03/27 500.000 501.820 0,71% 
+29 EUR XS3019313363 PFIZER NETHERLANDS INT.C 
+2,875% 19/05/29 500.000 501.095 0,71% 
+30 EUR FR001400ZOS9 ORANGE SA C 2,75% 19/05/29 500.000  498.425 0,70%
+=== pagina 65 ===
+65 
+ 
+31 EUR XS3081333547 UNILEVER CAPITAL CORP C 
+2,75% 22/05/30 500.000 497.420 0,70% 
+32 EUR XS3008889092 ENEL FIN INT NV C 3,00% 
+24/02/2031 500.000 495.810 0,70% 
+33 EUR FR0014010BK0 ESSILORLUXOTTICA C 
+2,625% 10/01/30 500.000 495.770 0,70% 
+34 EUR XS1586555945 VOLKSWAGEN INT.FIN.NV 
+1,875% 30/03/27 500.000 495.025 0,70% 
+35 EUR XS1652866002 TERNA SPA 1,375% 26/07/27 500.000  492.215 0,69% 
+36 EUR FR0014001G29 BPCE SA 0,01% 14/01/2027 500.000  488.130 0,69% 
+37 EUR XS2227196404 MEDIOBANCA SPA 1,00% 
+08/09/27 500.000 487.120 0,69% 
+38 EUR XS2887901325 BMW INTL INVESTMENT BV 
+3,00% 27/08/27 400.000 403.068 0,57% 
+39 EUR XS2889371840 SWEDBANK AB FLOAT% 
+30/08/27 400.000 400.928 0,57% 
+40 EUR XS3075491152 BMW FINANCE NV 2,625% 
+20/05/28 400.000 400.264 0,56% 
+41 EUR XS2905425612 COCA COLA  EUROPACIFIC C 
+3,25% 21/03/32 400.000 399.444 0,56% 
+42 EUR FR0013252277 ARKEMA C 1,5% 20/04/27 400.000  394.792 0,56% 
+43 EUR XS3015115408 TOTALENERGIES CAP INTL C 
+3,16% 03/03/33 400.000 394.260 0,56% 
+44 EUR LU1599403224 PI INV. FUNDS JAPANESE  
+EQUITY 110 325.644 0,46% 
+45 EUR DE000A382962 MERCEDES-BENZ INT FINCE 
+3,25% 15/09/27 300.000 303.846 0,43% 
+46 EUR XS3075393499 CONTINENTAL AG C 2,875% 
+22/11/28 300.000 299.925 0,42% 
+47 EUR DE000A4EBMB3 ROBERT BOSCH FINANCE C 
+3,25% 28/05/31 300.000 299.181 0,42% 
+48 EUR BE6301510028 ANHEUSER BUSCH INBEV 
+1,15% 22/01/27 300.000 296.220 0,42% 
+49 EUR XS2901993019 AKZO NOBEL NV C 3,75% 
+16/09/34 300.000 295.656 0,42% 
+50 EUR XS2457496359 A2A SPA C 1,50% 16/03/28 300.000  294.012 0,41% 
+ 
+Informazioni sugli importi di acquisto e di vendita di titoli non ancora regolati: 
+ 
+Alla data di chiusura dell’esercizio non risultano operazioni di acquisto e di vendita di titoli stipulate e non 
+ancora regolate. 
+ 
+Informazione sulla distribuzione territoriale degli investimenti: 
+Investimenti Italia 
+Altri paesi 
+U.E. 
+Paesi OCSE 
+Paesi non 
+OCSE 
+Totale 
+% su 
+tot.att. 
+Titoli di stato 15.112.500 22.021.165 0 0 37.133.665 52,37% 
+Titoli di debito 3.088.658 18.383.983 1.196.045 0 22.668.686 31,97% 
+Titoli di capitale 0 0 0 0 0 0,00% 
+Quote OICR 0 3.645.993 0 0 3.645.993 5,14% 
+Totali 18.201.158 44.051.141 1.196.045 0 63.448.344 89,48% 
+ 
+ 
+Investimenti in titoli per divisa: 
+Divisa Valore in euro 
+EUR 63.448.344 
+Totale 63.448.344
+=== pagina 66 ===
+66 
+ 
+ 
+ 
+Informazioni riguardo alla durata media finanziaria modificata dei titoli di debito compresi nel 
+portafoglio, con riferimento al loro insieme e alle principali tipologie: 
+ 
+Descrizione titolo Codice ISIN 
+titolo Tipologia titolo Quantità Dur. 
+mod. 
+Media 
+ponderata 
+BTP 2,80% 01/12/28                       IT0005340929 Titoli di stato italiani    5.000.000  2,753   
+BTP 0,95% 01/12/2031                     IT0005449969 Titoli di stato italiani    6.000.000  5,590   
+BTP 0,45% 15/02/29                       IT0005467482 Titoli di stato italiani    5.000.000  3,029   
+     3.84 
+SPAGNA 1,40% 30/07/28                   ES0000012B88 Titoli di stato esteri    3.500.000  2,483   
+FRANCIA  0% 25/11/2030                  FR0013516549 Titoli di stato esteri  10.500.000  4,771   
+SPAGNA 0,80% 30/07/27                   ES0000012G26 Titoli di stato esteri    5.000.000  1,538   
+SPAGNA 0,80% 30/07/29                   ES0000012K53 Titoli di stato esteri    4.800.000  3,446   
+     3,42 
+VOLKSWAGEN INT.FIN.NV 
+1,875% 30/03/27    
+XS1586555945 Obbligazioni ordinarie        500.000  1,193   
+TELEFONICA EM 1,715% 12/01/28           XS1681521081 Obbligazioni ordinarie        700.000  1,934   
+TERNA SPA 1,375% 26/07/27               XS1652866002 Obbligazioni ordinarie        500.000  1,517   
+SNAM C 1,375% 25/10/27                  XS1700721464 Obbligazioni ordinarie        700.000  1,759   
+ANHEUSER BUSCH INBEV 1,15% 
+22/01/27      
+BE6301510028 Obbligazioni ordinarie        300.000  0,051   
+REPSOL INT FIN C 0,25% 
+02/08/27          
+XS2035620710 Obbligazioni ordinarie        700.000  1,546   
+E.ON SE C 0,35% 28/02/30                XS2047500926 Obbligazioni ordinarie        800.000  4,013   
+E.ON SE C 0,25% 24/10/26                XS2069380991 Obbligazioni ordinarie     1.000.000  0,796   
+ARKEMA C 1,5% 20/04/27                  FR0013252277 Obbligazioni ordinarie        400.000  1,255   
+MEDIOBANCA SPA 1,00% 
+08/09/27            
+XS2227196404 Obbligazioni ordinarie        500.000  1,635   
+TOTALENERGIES CAP INTL C 
+1,491% 08/04/27 
+XS2153406868 Obbligazioni ordinarie        800.000  1,224   
+BANCO SANTANDER SA 3,875% 
+16/01/2028     
+XS2575952697 Obbligazioni ordinarie     1.000.000  1,887   
+BPCE SA 0,01% 14/01/2027                FR0014001G29 Obbligazioni ordinarie        500.000  1,014   
+BANQUE FED CRED MUTUEL 
+1,25% 26/05/27    
+XS1617831026 Obbligazioni ordinarie        700.000  1,354   
+SVENSKA HANDELSB. AB 3,75% 
+05/05/26      
+XS2618499177 Obbligazioni ordinarie        700.000  0,335   
+INTESA SANPAOLO SPA 4,375% 
+29/08/27      
+XS2673808486 Obbligazioni ordinarie        500.000  1,579   
+SOCIETE GENERALE  4,125% 
+02/06/27        
+FR001400IDW0 Obbligazioni ordinarie        700.000  1,347   
+SKAND.ENSK. BK  4,125% 
+29/06/27          
+XS2643041721 Obbligazioni ordinarie        700.000  1,420
+=== pagina 67 ===
+67 
+ 
+BANQUE FED CRED MUTUEL 
+FL4,592% 05/03/27 
+FR001400OEP0 Obbligazioni ordinarie        500.000  1,132   
+ORANGE SA C 0,875% 03/02/27             FR0013217114 Obbligazioni ordinarie        700.000  1,059   
+KONINKLIJKE AHOLD DLHA 
+FLOAT% 11/03/26   
+XS2780024977 Obbligazioni ordinarie        200.000  0,188   
+MERCEDES-BENZ INT FINCE 
+3,25% 15/09/27   
+DE000A382962 Obbligazioni ordinarie        300.000  1,635   
+SWISSCOM FINANCE C 3,50% 
+29/08/28        
+XS2827694170 Obbligazioni ordinarie        200.000  2,497   
+VOLKSWAGEN FIN.SERV AG 
+3,75% 10/09/26    
+XS2837886014 Obbligazioni ordinarie        110.000  0,676   
+UNICREDIT SPA 4,00% 
+05/03/2034           
+IT0005585051 Obbligazioni ordinarie        600.000  6,686   
+A2A SPA C 1,50% 16/03/28                XS2457496359 Obbligazioni ordinarie        300.000  0,184   
+BMW INTL INVESTMENT BV 
+3,00% 27/08/27    
+XS2887901325 Obbligazioni ordinarie        400.000  1,586   
+SWEDBANK AB FLOAT% 30/08/27             XS2889371840 Obbligazioni ordinarie        400.000  1,356   
+BP CAPITAL MARKETS BV 3,36% 
+12/09/31     
+XS2902720171 Obbligazioni ordinarie        600.000  5,072   
+AKZO NOBEL NV C 3,75% 
+16/09/34           
+XS2901993019 Obbligazioni ordinarie        300.000  7,222   
+ARKEMA C 3,50% 12/09/34                 FR001400SJS4 Obbligazioni ordinarie        600.000  7,271   
+VEOLIA ENVIRON SA C 3,571% 
+09/09/34      
+FR001400SG71 Obbligazioni ordinarie        600.000  7,276   
+COCA COLA  EUROPACIFIC C 
+3,25% 21/03/32  
+XS2905425612 Obbligazioni ordinarie        400.000  5,419   
+DAIMLER TRUCK INTL 3,125% 
+23/03/28       
+XS2900306171 Obbligazioni ordinarie        100.000  2,082   
+ENEL FIN INT NV C 3,00% 
+24/02/2031       
+XS3008889092 Obbligazioni ordinarie        500.000  4,585   
+TOTALENERGIES CAP INTL C 
+3,16% 03/03/33  
+XS3015115408 Obbligazioni ordinarie        400.000  6,152   
+PFIZER NETHERLANDS INT.C 
+2,875% 19/05/29 
+XS3019313363 Obbligazioni ordinarie        500.000  3,131   
+ORANGE SA C 2,75% 19/05/29              FR001400ZOS9 Obbligazioni ordinarie        500.000  3,136   
+BMW FINANCE NV 2,625% 
+20/05/28           
+XS3075491152 Obbligazioni ordinarie        400.000  2,252   
+CONTINENTAL AG C 2,875% 
+22/11/28         
+XS3075393499 Obbligazioni ordinarie        300.000  2,734   
+SIEMENS FINANCIERINGSM C 
+3,125% 27/05/33 
+XS3078501502 Obbligazioni ordinarie        200.000  6,402   
+UNILEVER CAPITAL CORP C 
+2,75% 22/05/30   
+XS3081333547 Obbligazioni ordinarie        500.000  4,015   
+AIR LIQUIDE FIN C 0,375% 
+27/05/31        
+FR0014003N69 Obbligazioni ordinarie        600.000  5,185
+=== pagina 68 ===
+68 
+ 
+ROBERT BOSCH FINANCE C 
+3,25% 28/05/31    
+DE000A4EBMB3 Obbligazioni ordinarie       300.000  4,796   
+ESSILORLUXOTTICA C 2,625% 
+10/01/30       
+FR0014010BK0 Obbligazioni ordinarie        500.000  3,662   
+PUBLICIS GROUPE SA C 2,875% 
+12/06/29     
+FR0014010CJ0 Obbligazioni ordinarie        200.000  3,190   
+     2,67 
+      
+La media ponderata della duration modificata riferita all’insieme dei titoli obbligazionari nel 
+portafoglio 3,25 
+ 
+ 
+Informazioni su investimenti per i quali si configurano situazioni di conflitto di interesse: 
+ 
+Non sono stati riscontrati investimenti per i quali si configurano situazioni di conflitto di interesse ai sensi del 
+D.M. 166/2014. 
+ 
+Operazioni pronti contro termine: 
+Alla data di chiusura dell’esercizio non risultano in corso operazioni pronti contro termine. 
+ 
+Operazioni a termine di copertura con indicazione dell’effetto sul rischio di cambio: 
+Alla data di chiusura dell’esercizio non risultano in corso operazioni a termine in valuta estera. 
+ 
+Dettaglio degli acquisti e delle vendite/rimborsi di strumenti finanziari effettuati nell’esercizio  
+ 
+ 2025 2024 
+ Acquisti Vendite Acquisti Vendite 
+Strumenti finanziari Importi in Euro Importi in Euro Importi in Euro Importi in Euro 
+Titoli di stato 9.781.695 5.020.050 21.820.896 19.145.046 
+Titoli di debito quotati  7.958.123 700.000 5.749.655 5.994.223 
+Quote di OICR 2.505.228 1.766.420 1.038.708 96.994 
+Totale 20.245.046 7.486.470 28.609.259 25.236.263 
+ 
+Informazioni sulle commissioni di negoziazione espresse in percentuale dei volumi negoziati: 
+Le commissioni di negoziazione sono implicite nei prezzi essendo tale comparto principalmente 
+obbligazionario. 
+ 
+ 
+Composizione della voce “altre attività della gestione finanziaria”: 
+ 
+Le altre attività della gestione finanziaria, pari ad Euro 243.708, sono così composte: 
+ 
+Descrizione Importo 
+Credito v/altri comparti switch 243.708 
+Totale 243.708
+=== pagina 69 ===
+69 
+ 
+ 
+20 Garanzie di risultato acquisite sulle posizioni individuali 
+ 
+La garanzia di restituzione del capitale è riconosciuta nei seguenti casi: pensionamento, decesso, invalidità 
+permanente, inoccupazione superiore a 48 mesi. 
+ 
+L'importo totale della garanzia calcolata sulle singole posizioni individuali per l'esercizio 2025 è di Euro 1.080. 
+ 
+30 Crediti d’imposta 
+ 
+Il credito d’imposta residuo ammonta ad Euro 0. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Credito per imposta sostitutiva 20% sul rendimento del Comparto 0 80.284 
+Totale 0 80.284
+=== pagina 70 ===
+70 
+ 
+ 
+ PASSIVITA’ 
+ 
+10 Passività della gestione previdenziale 
+ 
+a) Debiti della gestione previdenziale 
+ 
+Questa voce comprende, al 31 dicembre 2025, i debiti verso gli aderenti che hanno chiesto il trasferimento ad 
+altri comparti, l’erogazione in forma capitale, della Rita totale o parziale della loro posizione individuale. I debiti 
+sono indicati al lordo delle ritenute da versare all’erario al momento della liquidazione del debito. 
+I debiti della gestione previdenziale includono inoltre i debiti verso l’erario per le ritenute da versare sui riscatti 
+già pagati. 
+ 
+La seguente tabella rileva il dettaglio dei debiti. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito v/aderente per erogazione capitale 318.748 66.673 
+Debito v/iscritto Rita totale 208.327 248.599 
+Esattoria c/ritenute su prestazioni 141.599 137.938 
+Debito v/iscritto Rita parziale 91.201 62.923 
+Debito v/altri comparti per switch 20.786 13.808 
+Debito v/aderente per anticipazioni 0 22.526 
+Totale 780.661 552.467 
+ 
+30 Passività della gestione finanziaria 
+ 
+d) Altre passività della gestione finanziaria 
+ 
+Le altre passività della gestione finanziaria, pari ad Euro 65.428, sono dettagliatamente indicate nella tabella 
+seguente. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito v/società di gestione per commissioni percentuali 65.278 51.319 
+Debito v/società di gestione per commissioni di I 
+versamento 
+150 160 
+Totale 65.428 51.479 
+ 
+40 Debiti d’imposta 
+ 
+I debiti d'imposta ammontano ad Euro 181.149. 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Debito per imposta sostitutiva 20% sul rendimento del 
+Comparto 
+181.020 194.124 
+Altri debiti per imposta sostitutiva 129 852 
+Totale 181.149 194.976
+=== pagina 71 ===
+71 
+ 
+ 
+ CONTO ECONOMICO 
+ 
+10 Saldo della gestione previdenziale 
+ 
+a) Contributi  
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Contributi switch da altri comparti 16.250.454 8.344.927 
+Contributi da trasferimenti individuali 5.760.990 5.655.406 
+Contributi da autonomi accreditati alle posizioni individuali 2.504.144 2.168.066 
+Contributi da accreditare alle posizioni individuali quota TFR 986.819 915.233 
+Contributi da trasferimenti collettivi da altri fondi 614.983 164.643 
+Contributi da accreditare alle posizioni individuali a carico dipendenti 444.554 483.518 
+Contributi da accreditare alle posizioni individuali a carico datori lavoro 335.040 300.282 
+Contributi individuali TFR 108.945 18.353 
+Contributi da trasferimenti da altri fondi con versamento di solo TFR 39.478 0 
+Contributi da TFR pregresso 22.014 33.970 
+Contributi individuali volontari aggiuntivi 13.650 10.758 
+Contributi individuali volontari 2.435 1.430 
+Contributi a carico datore di lavoro individuali TFR 80 0 
+Totale contributi per le prestazioni 27.083.586 18.096.586 
+ 
+b) Anticipazioni 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Anticipazioni 420.780  464.857 
+Totale 420.780  464.857 
+ 
+L’ammontare complessivo, pari ad Euro 420.780 corrisponde a n. 17 richieste di anticipazione sulla posizione 
+individuale, le cui quote sono state annullate nel corso dell’esercizio.  
+ 
+c) Trasferimenti e riscatti 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Erogazioni forma di Rita totale 5.710.960 3.994.344 
+Trasferimenti switch ad altri comparti 1.179.021 1.545.444 
+Erogazioni forma di Rita parziale 934.170 530.782 
+Riscatti 82.414 71.549 
+Trasferimenti 76.850 74.249 
+Riscatti per causa morte 25.060 203.379 
+Totale 8.008.475 6.419.747 
+ 
+L’ammontare complessivo, pari ad Euro 8.008.475 corrisponde a  n. 5  richieste di riscatto della posizione 
+individuale, a n. 5  richieste di trasferimento della posizione individuale ad altro fondo ed a n. 16 richieste di 
+trasferimento della posizione individuale ad altro comparto, a n. 8 richieste di erogazione in forma di Rendita
+=== pagina 72 ===
+72 
+ 
+Integrativa Temporanea Anticipata (RITA) parziale, a n. 37  richieste di erogazione in forma di Rendita 
+Integrativa Temporanea Anticipata (RITA) totale le cui quote sono state annullate nel corso dell’esercizio. 
+ 
+ 
+d) Trasformazioni in rendita 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Trasformazioni in rendita 0 79.354 
+Totale 0 79.354 
+ 
+Nel corso dell’esercizio non sono pervenute richiesta di trasformazioni in rendita. 
+ 
+ 
+e) Erogazioni in forma di capitale 
+Descrizione ANNO 2025 ANNO 2024 
+Erogazioni in forma di capitale 4.949.760 5.968.912 
+Totale 4.949.760 5.968.912 
+ 
+L’ammontare pari ad Euro 4.949.760 corrisponde a n. 93 richieste di erogazione in forma capitale, le cui quote 
+sono state annullate nel corso dell’esercizio. 
+ 
+20 Risultato della gestione finanziaria  
+ 
+La composizione delle voci 20a) Dividendi e interessi e 20b) Profitti e perdite da operazioni finanziarie del 
+conto Profitti e Perdite: 
+ 
+Voci / Valori Dividendi/interessi Profitti e perdite 
+Titoli emessi da Stati o da organismi internazionali 385.473 579.748 
+Titoli di debito quotati 488.825 85.130 
+Titoli di capitale quotati 0 0 
+Titoli di debito non quotati 0 0 
+Titoli di capitale non quotati 0 0 
+Depositi bancari 87.822 0 
+Quote di OICR 0 354.563 
+Opzioni 0 0 
+Altri strumenti finanziari 0 0 
+Risultato della gestione cambi 0 0 
+Commissioni di negoziazione 0 0 
+Spese per operazioni titoli 0 0 
+Totale 962.120 1.019.441
+=== pagina 73 ===
+73 
+ 
+30 Oneri di gestione 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Società di gestione  714.456 578.951 
+Depositario 48 48 
+Totale 714.504 578.999 
+ 
+Vengono dettagliate le due voci: 
+ 
+a) Società di gestione 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Commissioni di gestione a favore della società di gestione 712.290 577.235 
+Contributo COVIP 1.966 1.566 
+Spese su operazioni (trasferimenti ad altri fondi pensione) 200 150 
+Totale 714.456 578.951 
+ 
+ 
+b) Depositario 
+ 
+Descrizione ANNO 2025 ANNO 2024 
+Imposta di bollo su conti e dossier titoli 48 48 
+Totale 48 48 
+ 
+ 
+50 Imposta sostitutiva 
+ 
+La voce “Imposta sostitutiva” riguarda l’imposta sostitutiva delle imposte sui redditi nella misura del 20%, 
+applicata sul reddito netto dell'esercizio, secondo quanto stabilito dall'art. 1, comma 621 della legge 23 
+dicembre 2014 n. 190 (c.d. legge di stabilità 2015). La medesima norma ha inoltre dettato specifiche 
+disposizioni per la determinazione della base imponibile in presenza di redditi di cui all’art. 3, comma 2, lett. a) 
+e b) del decreto legge 24 aprile 2014, n. 66, come convertito e modificato dalla legge 23 giugno 2014 n.89; 
+ 
+Si riporta di seguito il dettaglio del calcolo dell’imposta sostitutiva effettuato ai fini della redazione del presente 
+rendiconto: 
+ 
+Calcolo imposta sostitutiva al 31/12/2025 Importi parziali Importi totali 
+Patrimonio netto al termine del periodo   70.053.780 
+Anticipazioni 420.780  
+Trasferimenti 76.850  
+Trasferimenti switch ad altri comparti 1.179.021  
+Riscatti 107.474  
+Trasformazioni in rendita 0  
+Erogazioni in forma capitale 4.949.760  
+Premi per prestazioni accessorie 0  
+Erogazioni forma Rita totale 5.710.960  
+Erogazioni forma Rita parziale 934.170
+=== pagina 74 ===
+74 
+ 
+Totale erogazioni effettuate   13.379.015 
+Contributi da autonomi accreditati alle posizioni individuali -2.504.144  
+Contributi da trasferimenti individuali -5.760.990  
+Contributi da accreditare alle posizioni individuali a carico dipendenti -444.554  
+Contributi da accreditare alle posizioni individuali a carico datori lavoro -335.040  
+Contributi da accreditare alle posizioni individuali quota TFR -986.819  
+Contributi da trasferimenti collettivi da altri fondi -614.983  
+Contributi switch da altri comparti -16.250.454  
+Contributi individuali TFR -108.945  
+Contributi individuali volontari -2.435  
+Contributi individuali volontari aggiuntivi -13.650  
+Contributi da TFR pregresso -22.014  
+Contributi da trasferimenti da altri fondi con versamento di solo TFR -39.478  
+Contributi a carico datore di lavoro individuali TFR -80  
+Totale contributi versati   -27.083.586 
+Redditi esenti   0 
+Patrimonio netto inizio anno    55.082.152 
+Risultato della gestione   1.267.057 
+(A) Imponibile redditi a tassazione ordinaria   301.836 
+(B) Imponibile redditi a tassazione ridotta (62,50% su 965.221)  603.263 
+Base imponibile (A+B)   905.099 
+Debito imposta sostitutiva 20%   181.020
+=== pagina 75 ===
+75 
+ 
+1.2.2  Rendiconto della fase di erogazione  
+ 
+Il Fondo, non erogando direttamente le rendite, non rileva alcun dato contabile in tal senso; tale 
+adempimento è infatti demandato, a seguito della stipula di una specifica convenzione, alla Compagnia di 
+Assicurazione Assimoco Vita S.p.A.  
+ 
+I dati al 31 dicembre 2025 forniti dalla Compagnia di Assicurazione sono i seguenti: 
+ 
+- l’importo lordo totale delle rendite erogate nell’anno 2025 ammonta ad Euro 102.761;  
+- la riserva matematica ammonta ad Euro 1.617.495; 
+- tali importi si riferiscono a 19 trasformazioni in rendita. 
+ 
+ 
+ 
+ 
+Il Responsabile del Fondo      Il Consiglio d’Amministrazione della Banca 
+                                         Il Presidente 
+Dott. Attilio Cupido       Dott. Hanspeter Felder
+=== pagina 76 ===
+76 
+ 
+ 
+ 
+‘Informativa sulla sostenibilità’ 
+ 
+ 
+COMPARTO GUARANTY 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+  
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852 ) 
+ 
+COMPARTO SAFE 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+  
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852 ) 
+ 
+ 
+COMPARTO ACTIVITY 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+  
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852 )
+=== pagina 77 ===
+77 
+ 
+ 
+COMPARTO DYNAMIC 
+(di seguito con le parole “prodotto finanziario” si intende fare riferimento al comparto) 
+ 
+Non promuove caratteristiche ambientali e/o sociali 
+e 
+non ha come obiettivo investimenti sostenibili 
+ 
+ 
+  
+Gli investimenti sottostanti il presente prodotto finanziario non tengono conto dei criteri 
+dell’UE per le attività economiche ecosostenibili 
+(dichiarazione resa in conformità all’articolo 7, del regolamento (UE) 2020/852 )
+=== pagina 78 ===
+
+=== pagina 79 ===
+
+=== pagina 80 ===
+
+=== pagina 81 ===
+
+=== pagina 82 ===
+
+=== pagina 83 ===
+
+=== pagina 84 ===
+
+=== pagina 85 ===
+

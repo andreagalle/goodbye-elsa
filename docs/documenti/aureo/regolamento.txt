@@ -1,0 +1,1350 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Regolamento – 2026.07 Regolamento Fondo Pensione Aperto Aureo
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/2026.07_Regolamento_Fondo%20Pensione%20Aperto%20Aureo.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 858f2ad46c9aa94a95177b8ecf2dc15e3e93dc6528d536a38018efeb1bea93c7
+# Pagine: 38
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Regolamento
+Fondo Pensione Aperto Aureo
+In regime di contribuzione definita
+Il presente Regolamento è valido a decorrere dal 31 luglio 2026
+=== pagina 2 ===
+2
+Indice
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO
+Art. 1. – Denominazione  ........................................................................................................................................3
+Art. 2. –  Istituzione del Fondo, esercizio dell’attività, sede e recapiti  ................................................... 3
+Art. 3. – Scopo ............................................................................................................................................................3
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO
+Art. 4. – Regime del Fondo .................................................................................................................................... 3
+Art. 5. – Destinatari e tipologie di adesione ..................................................................................................... 3
+Art. 6. – Scelte di investimento ............................................................................................................................ 4
+Art. 7. – Gestione degli investimenti ...................................................................................................................5
+Art. 8. – Spese ............................................................................................................................................................ 7
+PARTE III – CONTRIBUTI E PRESTAZIONI
+Art. 9. – Contribuzione ............................................................................................................................................ 9
+Art. 10. – Determinazione della posizione individuale ................................................................................. 9
+Art. 11. – Prestazioni pensionistiche e RITA ...................................................................................................10
+Art. 12. – Erogazione delle prestazioni pensionistiche ............................................................................... 11
+Art. 13. – Trasferimento e riscatto della posizione individuale ................................................................ 12
+Art. 14. – Anticipazioni .......................................................................................................................................... 13
+PARTE IV – PROFILI ORGANIZZATIVI
+Art. 15. – Separatezza patrimoniale, amministrativa e contabile  ........................................................... 15
+Art. 16. – Sistema di governo ............................................................................................................................. 15
+Art. 17. – Depositario ............................................................................................................................................ 15
+Art. 18. – Responsabile ........................................................................................................................................ 16
+Art. 19. – Conflitti di interesse ............................................................................................................................16
+Art. 20. – Scritture contabili ................................................................................................................................ 16
+PARTE V – RAPPORTI CON GLI ADERENTI
+Art. 21. – Modalità di adesione e clausole risolutive espresse ................................................................ 17
+Art. 22. – Trasparenza nei confronti degli aderenti e dei beneficiari ..................................................... 17
+Art. 23. – Comunicazioni e reclami  ...................................................................................................................18
+PARTE VI – NORME FINALI
+Art. 24. – Modifiche del regolamento .............................................................................................................. 19
+Art. 25. – Trasferimento in caso di modifiche peggiorative delle condizioni economiche 
+e di modifiche delle caratteristiche del Fondo ........................................................................... 19
+Art. 26. – Cessione del Fondo .............................................................................................................................19
+Art. 27. – Operazioni di fusione ..........................................................................................................................19
+Art. 28. – Rinvio .......................................................................................................................................................19
+ALLEGATI
+Allegato n. 1. Disposizioni in materia di responsabile ................................................................................20
+Allegato n. 2. Condizioni e modalità di erogazione delle rendite ......................................................................23
+=== pagina 3 ===
+3
+Parte I - Identificazione e scopo 
+del Fondo
+Parte II - Caratteristiche del Fondo 
+e modalità di investimento
+ART. 1. – DENOMINAZIONE
+1. Il “Fondo Pensione Aperto AUREO”, di seguito definito “ Fondo”, è un fondo pensione aperto 
+istituito ai sensi dell’art. 12 del decreto legislativo 5 dicembre 2005, n. 252 (e successive mo-
+dificazioni e integrazioni), di seguito definito “ Decreto”.
+ART. 2. ISTITUZIONE DEL FONDO, ESERCIZIO DELL’ATTIVITA’, SEDE E RECAPITI
+1. Il Fondo è stato istituito dalla società “BCC Risparmio&Previdenza Società di Gestione del 
+Risparmio del Credito Cooperativo S.p.A.” più brevemente “BCC Risparmio&Previdenza 
+S.G.R.p.A.” (di seguito “ SGR”), giusta autorizzazione rilasciata dalla COVIP, d’intesa con la 
+Banca d’Italia, con provvedimento del 22 gennaio 1999; con il medesimo provvedimento la 
+COVIP ha approvato il Regolamento del Fondo.
+2. La SGR esercita l’attività di gestione del Fondo con effetto dalla medesima data.
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 53.
+4. L’attività relativa al Fondo è svolta in Milano, presso la sede della SGR. 
+5. L’indirizzo di posta elettronica certificata (PEC) della SGR è:      
+aureopensione.bccsinergia@actaliscertymail.it.
+ART. 3. – SCOPO
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di 
+prestazioni pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito 
+mediante la raccolta dei contributi, la gestione delle risorse nell’esclusivo interesse degli ade -
+renti, e l’erogazione delle prestazioni secondo quanto disposto dalla normativa tempo per 
+tempo vigente.
+ART. 4. – REGIME DELLA FORMA PENSIONISTICA
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del 
+Fondo è determinata in funzione della contribuzione effettuata e in base al principio della 
+capitalizzazione.
+ART. 5. – DESTINATARI E TIPOLOGIE DI ADESIONE
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita.
+2. È altresì consentita, l’adesione su base collettiva ai soggetti destinatari delle forme pensioni -
+stiche complementari individuati all’art. 2, comma 1, del Decreto, nei cui confronti trovino ap-
+plicazione i contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo. 
+Ai sensi dell’articolo 8 comma 7-bis del Decreto, l’adesione al Fondo su base collettiva può
+=== pagina 4 ===
+4
+avvenire anche in modalità automatica mediante il conferimento tacito del TFR maturando, 
+della contribuzione a carico del datore di lavoro e del lavoratore. 
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento 
+dell’età pensionabile prevista dal regime obbligatorio di appartenenza.
+4. Tra i destinatari sono ricompresi gli aderenti taciti (i lavoratori dipendenti del settore privato 
+assunti antecedentemente al 1° luglio 2026, che non hanno espresso alcuna volontà di ade -
+sione, nei tempi e nei modi fissati dal Decreto nella versione antecedente alla riforma di cui 
+alla Legge n. 199/2025, circa il conferimento del TFR maturando).
+ART. 6. – SCELTE DI INVESTIMENTO
+1. Il Fondo è articolato  nei seguenti comparti ovvero profili life cycle differenziati per profili di 
+rischio-rendimento, in modo tale da assicurare gli aderenti una adeguata possibilità di scelta: 
+A. Aureo Comparto obbligazionario ESG
+B. Aureo Comparto bilanciato ESG
+C. Aureo Comparto azionario ESG
+D. Aureo Comparto Prudente ESG
+E. Aureo Comparto garantito ESG.
+Il percorso denominato “BLU” con propensione al rischio “Alta”, descritto nella “Parte I – Le 
+informazioni chiave per l’aderente” della Nota informativa, rappresenta il profilo life cycle di 
+cui all’art. 8, comma 9, del Decreto destinato ad accogliere il TFR maturando e i contributi del 
+datore di lavoro e del lavoratore pervenuti a seguito di adesioni automatiche. Il comparto “Au-
+reo Comparto Garantito ESG ” rappresenta il comparto in cui è investito il TFR degli aderenti 
+taciti che risultano iscritti al Fondo. A decorrere dal 1° settembre 2022, fatte salve le ipotesi 
+previste dal presente Regolamento, non è più consentito disporre versamenti contributivi (sia 
+nella forma di prima adesione che di versamenti contributivi successivi), nel comparto “Aureo 
+Comparto garantito ESG”.
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti ovvero un profilo life cycle in 
+cui far confluire i versamenti contributivi, con facoltà di modificare nel tempo tale destina -
+zione, ferme restando le precisazioni che precedono con riguardo alla possibilità di aderire 
+al comparto “ Aureo Comparto garantito ESG “. L’aderente può inoltre riallocare la propria 
+posizione individuale tra i diversi comparti ovvero un profilo life cycle ad eccezione del 
+comparto “ Aureo Comparto garantito ESG” , nel rispetto del periodo minimo di un anno 
+dall’iscrizione ovvero dall’ultima riallocazione. In questo caso, i versamenti contributivi suc -
+cessivi sono suddivisi sulla base delle nuove percentuali fissate all’atto della riallocazione, 
+salvo diversa disposizione dell’aderente. Il limite del periodo di permanenza minimo non  
+opera con riguardo alla prima riallocazione successiva all’adesione tacita o automatica.
+3. A tal fine, l’aderente può scegliere il proprio percorso di life cycle  tra quelli dettagliatamente 
+illustrati nella Nota Informativa – denominati rispettivamente “Verde”, “Blu” e “Argento” – 
+predisposti dalla SGR in funzione degli anni mancanti alla maturazione dei requisiti di accesso 
+alle prestazioni stabiliti nel regime obbligatorio di appartenenza e del profilo di rischio-rendi -
+mento atteso.
+ART. 7. – GESTIONE DEGLI INVESTIMENTI
+1. La SGR effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni 
+stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo a 
+riferimento l’esclusivo interesse degli aderenti.
+=== pagina 5 ===
+5
+2. Ferma restando la responsabilità della SGR, essa può affidare a soggetti di cui all’art. 6, com -
+ma 1, lettere a), b), c) e c-bis) del Decreto, in possesso dei requisiti previsti dalla normativa 
+tempo per tempo vigente, l’esecuzione di specifici incarichi di gestione.
+3. La SGR verifica i risultati della gestione mediante l’adozione di parametri di riferimento coe -
+renti con gli obiettivi e i criteri della politica di investimento.
+4. La politica di investimenti dei singoli comparti è la seguente:
+A. Aureo Comparto obbligazionario ESG
+Relativamente a questo Comparto, la SGR attua una politica d’investimento volta a perseguire 
+una composizione del portafoglio prevalentemente orientata verso titoli di debito di emittenti 
+sovranazionali, governativi e societari; resta comunque ferma la facoltà di detenere una par -
+te del patrimonio in disponibilità liquide e in strumenti di natura azionaria, in quest’ultimo 
+caso, fino ad un massimo del 15%. Fermo restando il rispetto di quanto previsto dal D.M. n. 
+166/2014, potranno essere effettuati investimenti in titoli denominati in valute estere a con -
+dizione che essi siano emessi da Paesi in calce indicati o da soggetti residenti in Paesi in calce 
+indicati o negoziati nei mercati regolamentati dei Paesi in calce indicati. Per il conseguimento 
+dell’obiettivo d’investimento possono essere utilizzati anche strumenti finanziari derivati. L’u -
+tilizzo di strumenti finanziari derivati ha finalità sia di copertura sia di più efficiente gestione 
+del comparto, nel senso che i derivati possono essere utilizzati come alternativa efficiente 
+all’investimento diretto in titoli, avendo una correlazione positiva con questi ultimi ovvero 
+muovendosi nella medesima direzione dei titoli. Il limite massimo di utilizzo complessivo di 
+strumenti finanziari derivati, sia per finalità di copertura che di efficiente gestione, è pari al 
+100% del valore netto del comparto.
+B. Aureo Comparto bilanciato ESG
+Relativamente a questo Comparto, la SGR attua una politica d’investimento volta a perseguire 
+una composizione del patrimonio del Comparto bilanciata tra titoli di capitale e titoli di debi -
+to. Fermo restando il rispetto di quanto previsto dal D.M. n. 166/2014, potranno essere effet-
+tuati investimenti in titoli denominati in valute estere a condizione che essi siano emessi da 
+Paesi in calce indicati o da soggetti residenti in Paesi in calce indicati o negoziati nei mercati 
+regolamentati dei Paesi in calce indicati. I titoli di debito presenti nel portafoglio non potran -
+no essere inferiori al 30% del patrimonio del Comparto medesimo. Resta comunque ferma la 
+facoltà, oltre che di detenere una parte del patrimonio in disponibilità liquide, di investire in 
+altri valori mobiliari, quali OICR armonizzati e in strumenti finanziari derivati che abbiano ad 
+oggetto indici finanziari legati all’andamento di commodities , in misura non superiore al 5% 
+del patrimonio del Comparto medesimo. Per il conseguimento dell’obiettivo d’investimento 
+possono essere utilizzati anche strumenti finanziari derivati. L’utilizzo di strumenti finanziari 
+derivati ha finalità sia di copertura sia di più efficiente gestione del comparto, nel senso che 
+i derivati possono essere utilizzati come alternativa efficiente all’investimento diretto in titoli, 
+avendo una correlazione positiva con questi ultimi ovvero muovendosi nella medesima dire -
+zione dei titoli. Il limite massimo di utilizzo complessivo di strumenti finanziari derivati, sia per 
+finalità di copertura che di efficiente gestione, è pari al 100% del valore netto del comparto.
+C. Aureo Comparto azionario ESG
+Relativamente a questo Comparto, la SGR attua una politica d’investimento volta a perseguire 
+una composizione del patrimonio del Comparto prevalentemente orientata ai titoli di capita -
+le. Fermo restando il rispetto di quanto previsto dal D.M. n. 166/2014, potranno essere effet -
+tuati investimenti in titoli denominati in valute estere a condizione che essi siano emessi da 
+Paesi in calce indicati o da soggetti residenti in Paesi in calce indicati o negoziati nei mercati 
+regolamentati dei Paesi in calce indicati. Resta comunque ferma la facoltà, oltre che di dete -
+nere una parte del patrimonio in disponibilità liquide, di investire in altri valori mobiliari, quali 
+titoli di debito di emittenti sovranazionali, governativi e societari, che non potranno essere
+=== pagina 6 ===
+6
+presenti in misura superiore al 20% del patrimonio del Comparto medesimo, OICR armoniz -
+zati e strumenti finanziari derivati che abbiano ad oggetto indici finanziari legati all’andamen -
+to di commodities, in misura non superiore al 5% del patrimonio del Comparto medesimo. 
+Per il conseguimento dell’obiettivo d’investimento possono essere utilizzati anche strumenti 
+finanziari derivati. L’utilizzo di strumenti finanziari derivati ha finalità sia di copertura sia di 
+più efficiente gestione del comparto, nel senso che i derivati possono essere utilizzati come 
+alternativa efficiente all’investimento diretto in titoli, avendo una correlazione positiva con 
+questi ultimi ovvero muovendosi nella medesima direzione dei titoli. Il limite massimo di uti -
+lizzo complessivo di strumenti finanziari derivati, sia per finalità di copertura che di efficiente 
+gestione, è pari al 100% del valore netto del comparto.
+D. Aureo Comparto prudente ESG
+Relativamente a questo Comparto, la SGR attua una politica di investimento volta a perse -
+guire una composizione del portafoglio orientata principalmente, in relazione agli andamenti 
+delle economie e dei mercati finanziari dei Paesi prescelti, verso strumenti finanziari di natura 
+obbligazionaria e monetaria, di emittenti sovranazionali, governativi, o societari. Le aree geo -
+grafiche d’investimento potranno essere principalmente i Paesi OCSE e, in modo contenuto, 
+i Paesi non OCSE.
+Fermo restando il rispetto di quanto previsto dal D.M. n. 166/2014, potranno essere effettuati 
+investimenti in titoli denominati in valute estere a condizione che essi siano emessi da Paesi 
+in calce indicati o da soggetti residenti in Paesi in calce indicati o negoziati nei mercati regola-
+mentati dei Paesi in calce indicati. Per il conseguimento dell’obiettivo d’investimento possono 
+essere utilizzati anche strumenti finanziari derivati. L’utilizzo di strumenti finanziari derivati ha 
+finalità sia di copertura sia di più efficiente gestione del comparto, nel senso che i derivati 
+possono essere utilizzati come alternativa efficiente all’investimento diretto in titoli, avendo 
+una correlazione positiva con questi ultimi ovvero muovendosi nella medesima direzione dei 
+titoli. Il limite massimo di utilizzo complessivo di strumenti finanziari derivati, sia per finalità 
+di copertura che di efficiente gestione, è pari al 100% del valore netto del comparto.
+E. Aureo Comparto garantito ESG
+Relativamente a questo Comparto, la SGR attua una politica di investimento volta a perse -
+guire una composizione del portafoglio orientata principalmente verso strumenti finanziari di 
+natura obbligazionaria e monetaria in relazione agli andamenti delle economie e dei mercati 
+finanziari dei Paesi prescelti. Il Fondo investe principalmente in strumenti finanziari emessi o 
+garantiti da Governi centrali o banche centrali di Paesi rientranti nella Zona A, come dettaglia-
+to nella Nota Informativa, nonché dall’Unione Europea.
+La politica di investimento sopra descritta è volta a realizzare, con elevata probabilità, rendimen-
+ti che siano pari o superiori a quelli del TFR, quantomeno in un orizzonte temporale pluriennale.
+L’adesione al comparto “Aureo Comparto garantito ESG” attribuisce all’aderente, al verificarsi 
+degli eventi di cui appresso, il diritto alla corresponsione di un importo minimo garantito a 
+prescindere dai risultati di gestione. La garanzia può essere prestata alla SGR da soggetti di -
+versi dalla stessa, a ciò abilitati. L’importo minimo garantito è pari alla somma dei contributi 
+netti versati al comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro com -
+parto o da altra forma pensionistica e i versamenti effettuati per il reintegro delle anticipazioni 
+percepite, ridotto da eventuali riscatti parziali e anticipazioni. Restano fermi i succitati limiti 
+all’adesione al comparto “Aureo Comparto garantito ESG”..
+Per contributi netti si intendono i contributi di cui al successivo Art. 10, comma 2. Il diritto alla 
+garanzia è riconosciuto nei seguenti casi:
+• esercizio del diritto alla prestazione pensionistica di cui all’Art. 11, con esclusione della 
+prestazione in forma di rendita integrativa temporanea anticipata(RITA);
+=== pagina 7 ===
+7
+• riscatto per decesso;
+• riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a 
+meno di un terzo;
+• riscatto per inoccupazione per un periodo superiore a 48 mesi.
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale 
+maturata, calcolata ai sensi dell’Art. 10, e con riferimento al primo giorno di valorizzazione 
+utile successivo alla verifica delle condizioni che danno diritto alla prestazione, la stessa 
+viene integrata a tale maggior valore. L’integrazione viene corrisposta dalla SGR.
+ Il profilo life cycle di cui all’art. 8, comma 9, del Decreto, denominato “BLU” con propensione 
+al rischio “Alta”, effettuando gradualmente nel tempo riallocazioni automatiche determinate in 
+funzione della durata residua della fase di accumulo, al fine di diminuire il rischio finanziario e 
+la volatilità dell’investimento all’avvicinarsi della scadenza della fase di accumulo, presenta la 
+seguente struttura:
+Anni alla 
+Pensione
+% Azionario 
+ESG
+% Bilanciato 
+ESG
+% Obbligazionario 
+ESG
+% Prudente
+ ESG
+30 80 20 0 0
+23 60 20 20 0
+17 40 20 40 0
+11 20 20 40 20
+5 0 20 20 60
+5.  La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili 
+di rischio-rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono de-
+scritti nella Nota Informativa. La Nota Informativa descrive, inoltre, le caratteristiche dei profili life 
+cycle previsti dalla SGR.
+ART. 8. – SPESE
+1. L’iscrizione al Fondo comporta le seguenti spese:
+a.  spese da sostenere all’atto dell’adesione: una commissione pari a Euro 2;
+b. spese relative alla fase di accumulo:
+b1) direttamente a carico dell’aderente:
+una commissione pari a Euro 12, applicata annualmente sulla singola posizione e prelevata 
+dalla posizione individuale in corrispondenza con la prima valorizzazione dell’anno solare;
+b2) indirettamente a carico dell’aderente e che incidono sul comparto:
+una commissione di gestione su base annua calcolata sul valore complessivo netto del 
+patrimonio stesso del/i comparto/i nel/i quale/i è investita la posizione individuale, pre -
+levata con cadenza mensile il primo giorno lavorativo del mese successivo a quello di ri -
+ferimento. La commissione di gestione è differenziata per comparto nel modo che segue: 
+• Aureo Comparto azionario ESG: 1,5% su base annua;
+• Aureo Comparto bilanciato ESG: 1,2% su base annua;
+• Aureo Comparto obbligazionario ESG: 0,9% su base annua;
+• Aureo Comparto prudente ESG: 0,5% su base annua;
+• Aureo Comparto garantito ESG: 0,5% su base annua.
+=== pagina 8 ===
+8
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese 
+legali e giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione 
+derivanti dall’attività di impiego delle risorse, nonché il “contributo di vigilanza” dovuto 
+annualmente alla COVIP ai sensi di legge; sono altresì a carico del comparto le spese re -
+lative alla remu- nerazione e allo svolgimento dell’incarico del Responsabile salva diversa 
+decisione della SGR.
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla 
+sottoscrizione e al rimborso delle parti di OICR acquistati, né le commissioni di gestione 
+applicate dall’OICR stesso, salvo i casi di deroga di carattere generali previsti dalla COVIP. In 
+particolare, nel caso di investimenti in OICR collegati, dal compenso della SGR sarà dedotta 
+la remunerazione complessiva percepita dal gestore dell’OICR collegato. Fanno eccezione 
+gli investimenti in FIA diversi da quelli collegati.
+c. Spese collegate all’esercizio delle seguenti prerogative individuali, dirette alla copertu-
+ra dei relativi oneri amministrativi:
+c1) Euro 20 in caso di trasferimento ad altra forma pensionistica ai sensi dell’Art. 13.
+c2) Euro 2 euro per la riallocazione della posizione individuale tra i comparti/ combinazioni 
+di comparti predefinite/profilo life cycle, ai sensi dell’art. 6.2.
+d. Spese relative alla fase di erogazione delle rendite, quali riportate nell’allegato n. 2.
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia:
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2, in relazione al/ai comparto/i 
+nel/i quale/i è investita la posizione individuale residua.
+2. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione da parte di sog -
+getti che non abbiano raggiunto la maggiore età.
+3. L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva 
+e di convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La ridu -
+zione delle commissioni di gestione espresse in misura percentuale sul patrimonio avviene 
+mediante emissione di classi di quote differenti.
+4. Sono a carico della SGR tutte le spese e oneri non individuati dalle disposizioni del presente 
+articolo.
+=== pagina 9 ===
+9
+ART. 9. – CONTRIBUZIONE
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso.
+2. I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura 
+minima e delle modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali.
+3. I lavoratori dipendenti in caso di adesione esplicita, possono contribuire al Fondo conferendo, 
+anche esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento 
+del TFR può anche essere parziale ove previsto dagli accordi collettivi. Qualora il lavoratore 
+decida altresì di versare la contribuzione prevista a suo carico e abbia diritto, in base ad accor-
+di collettivi, anche aziendali, a un contributo del datore di lavoro, detto contributo affluirà al 
+Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il datore di lavoro può decidere, 
+anche in assenza di accordi collettivi, di contribuire al Fondo. 
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, 
+per i lavoratori dipendenti, l’obbligo del versamento del TFR maturando eventualmente con -
+ferito. La sospensione non comporta la cessazione della partecipazione al Fondo.
+5. In caso di adesione automatica, sono devoluti il TFR maturando, il contributo del datore di 
+lavoro e la contribuzione del lavoratore. La contribuzione a carico del lavoratore non è ob -
+bligatoria nel caso in cui la retribuzione annuale lorda corrisposta dal datore di lavoro risulti 
+inferiore al valore pari all’assegno sociale di cui all’art. 3, commi 6 e 7, della Legge 8 agosto 
+1995, n. 335. L’aderente può conferire il TFR anche in misura parziale ove previsto dagli ac -
+cordi collettivi.
+6. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha facoltà 
+di sospendere la contribuzione a proprio carico, con conseguente sospensione dell’obbligo 
+contributivo a carico del datore di lavoro, fermo restando il versamento del TFR maturando al 
+Fondo. E’ possibile riattivare la contribuzione in qualsiasi momento.
+7. La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 12, del 
+Decreto (c.d. contribuzione da abbuoni).
+8. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’e-
+tà pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che alla data 
+del pensionamento possa far valere almeno un anno di contribuzione a favore delle forme di 
+previdenza complementare.
+ART. 10. – DETERMINAZIONE DELLA POSIZIONE INDIVIDUALE
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, 
+è alimentata dai contributi netti versati, dagli importi derivanti da trasferimenti da altre forme 
+pensionistiche complementari e dai versamenti effettuati per il reintegro delle anticipazioni 
+percepite, ed è ridotta da eventuali riscatti parziali e anticipazioni.
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’a-
+derente, di cui all’Art. 8, comma 1, lettera b.1) e delle eventuali somme destinate a copertura 
+delle prestazioni accessorie espressamente esplicitate. Sul primo versamento incidono anche 
+eventuali spese di adesione.
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento 
+di ogni singolo comparto è calcolato come variazione del valore della quota dello stesso nel 
+periodo considerato.
+Parte III – Contributi e prestazioni
+=== pagina 10 ===
+10
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del com -
+parto sono valutate al valore di mercato; pertanto le plusvalenze e le minusvalenze maturate 
+concorrono alla determinazione della posizione individuale, a prescindere dal momento di 
+effettivo realizzo.
+5. La SGR determina il valore della quota e, conseguentemente, della posizione individuale di 
+ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono tra -
+sformati in quote, e frazioni di quote, sulla base del primo valore di quota successivo al giorno 
+in cui si sono resi disponibili per la valorizzazione.
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è 
+quello risultante al primo giorno di valorizzazione utile successivo a quello in cui la SGR ha 
+verificato la sussitenza delle condizioni che danno diritto alle prestazioni.
+7. Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo 
+sono intangibili e non possono formare oggetto di sequestro o pignoramento da parte dei 
+creditori dell’aderente.
+ART. 11. – PRESTAZIONI PENSIONISTICHE E RITA
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della ma -
+turazione dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appar -
+tenenza dell’aderente, con almeno cinque anni di partecipazione alle forme pensionistiche 
+complementari. Il predetto termine è ridotto a tre anni per il lavoratore che cessa il rapporto 
+di lavoro per motivi indipendenti dal fatto che lo stesso acquisisca il diritto a una pensione 
+complementare e che si sposta in un altro stato membro dell’unione europea. L’aderente che 
+decide di proseguire volontariamente la contribuzione ai sensi del comma 8 dell’art. 9 ha la 
+facoltà di determinare autonomamente il momento di fruizione delle prestazioni pensionisti -
+che.
+2. Per i soggetti non titolari di reddito di lavoro o d’impresa si considera età pensionabile quella 
+vigente nel regime obbligatorio di appartenenza.
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensio -
+nistiche sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche com -
+plementari maturati dall’aderente per i quali lo stesso non abbia esercitato il riscatto totale 
+della posizione individuale.
+4. L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno 20 anni di con- 
+tribuzione nei regimi obbligatori di appartenenza e il periodo minimo di partecipazione alle 
+forme pen- sionistiche complementari di cui al comma 1, ha facoltà di richiedere che le pre -
+stazioni siano erogate, in tutto o in parte, in forma di “Rendita integrativa temporanea antici -
+pata” (RITA) con un anticipo massimo di cinque anni rispetto alla data di maturazione dell’età 
+anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appartenenza.
+5. L’aderente, che abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato 
+per un periodo di tempo superiore a 24 mesi e abbia maturato il periodo minimo di par -
+tecipazione alle forme pensionistiche complementari, ha facoltà di richiedere la rendita 
+di cui al precedente comma 4 con un anticipo massimo di 10 anni rispetto alla data di 
+maturazione dell’età ana- grafica per la pensione di vecchiaia nel regime obbligatorio di 
+appartenenza.
+6. La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei commi 4 
+o 5, verrà fatta confluire, salvo diversa scelta dell’aderente, nel comparto più prudente indivi -
+duato dal Fondo e indicato nella Nota Informativa. L’aderente può successivamente variare il 
+comparto nel rispetto del periodo minimo di permanenza.
+7. Nel corso dell’erogazione della RITA, l’aderente può richiederne la revoca; ciò comporta la 
+cessazione delle rate residue.
+=== pagina 11 ===
+11
+8. Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’aderente ha 
+la facoltà di richiedere, con riferimento alla sola porzione residua della posizione individuale, 
+il riscatto e l’anticipazione di cui ai successivi artt. 13 e 14, ovvero cessata l’erogazione della 
+RITA parziale, la prestazione pensionistica.
+9. In caso di trasferimento ad altra forma pensionistica la RITA si intende automaticamente re- 
+vocata e viene trasferita l’intera posizione individuale.
+10. L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma 
+di capitale nel limite del 50 per cento della posizione individuale maturata. Nel computo 
+dell’importo complessivo erogabile in capitale sono detratte le somme erogate a titolo di 
+anticipazione per le quali non si sia provveduto al reintegro. Qualora l’importo che si ottiene 
+convertendo in rendita vitalizia immediata annua senza reversibilità a favore dell’aderente il 
+70 per cento della posizione individuale maturata risulti inferiore al 50 per cento dell’assegno 
+sociale di cui all’articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, l’aderente può 
+optare per la liquidazione in capitale dell’intera posizione maturata.
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente 
+al 29 aprile 1993 ed entro tale data iscritto a una forma pensionistica complementare istituita 
+alla data di entrata in vigore della legge 23 ottobre 1992, n. 421, può richiedere la liquidazione 
+dell’intera prestazione pensionistica complementare in capitale
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale 
+diritto può trasferire la propria posizione individuale presso altra forma pensionistica com -
+ple- mentare, per avvalersi delle condizioni di erogazione della rendita vitalizia praticate da 
+quest’ultima. In tal caso si applica quanto previsto all’Art. 13, commi 6 e 7.
+ART. 12. – EROGAZIONE DELLE PRESTAZIONI PENSIONISTICHE
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una 
+rendita vitalizia immediata calcolata in base alla posizione individuale maturata, al netto della 
+eventuale quota di prestazione da erogare sotto forma di capitale.
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di 
+rendita vitalizia di seguito indicate:
+• una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’aderente stesso, alla persona da 
+lui designata;
+• una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi cinque 
+o dieci anni all’aderente o, in caso di suo decesso, alla persona da lui designata. Successi-
+vamente, se l’aderente è ancora in vita, viene corrisposta allo stesso una rendita vitalizia.
+3. Nell’allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle 
+rendite vitalizie e i coefficienti di trasformazione (basi demografiche e finanziarie) da uti -
+lizzare per il relativo calcolo. Tali coefficienti possono essere successivamente variati, nel 
+rispetto della normativa tempo per tempo vigente in materia di stabilità delle compagnie di 
+assicurazione; in ogni caso, le modifiche dei coefficienti di trasformazione non si applicano ai 
+soggetti, già aderenti alla data di introduzione delle modifiche stesse, che esercitano il diritto 
+alla prestazione pensionistica nei tre anni successivi.
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo rife -
+rimento, laddove vi sia l’impegno a non modificare i coefficienti di trasformazione, a quelli 
+indicati nell’allegato n. 2 e, negli altri casi, a coefficienti individuati dalla COVIP, in modo 
+omogeneo per tutte le forme, in base alle proiezioni ufficiali disponibili sull’andamento della 
+mortalità della popolazione italiana.
+=== pagina 12 ===
+12
+5. In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale quota 
+di prestazione erogata sotto forma di capitale, l’erogazione della prestazione pensionistica 
+in una delle seguenti forme:         
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base 
+della vita attesa residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pen-
+sioni obbligatorie. Su richiesta dell’aderente la prestazione può essere erogata per un numero 
+di anni maggiore rispetto a quelli corrispondenti alla speranza di vita dello stesso.  
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, 
+con facoltà per lo stesso di determinarne la tempistica e l’importo nel limite della somma del-
+le rate, maturate e non riscosse, di una rendita teorica con frazionamento annuale, immedia -
+tamente erogabile e di durata definita pari alla vita attesa residua, in anni interi, dell’aderente 
+al momento della richiesta della prestazione.
+6. La SGR provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla ren -
+dita vitalizia con tempestività e comunque non oltre il termine massimo di sei mesi decor -
+rente dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insuffi -
+ciente, la SGR richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino alla 
+data del completamento o della regolarizzazione della pratica. Il montante residuo è man -
+tenuto in gestione, nel/i comparto/i scelto/i dall’aderente, all’atto della richiesta della pre -
+stazione o, in difetto di indicazioni, nel/i comparto/i individuato/i nella Nota informativa.  
+    Al fine di adeguare i sistemi e i processi operativi della SGR per la gestione delle richieste 
+e l’erogazione diretta delle prestazioni, il termine di cui al comma 6 può essere derogato per 
+un periodo transitorio, che non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo 
+la SGR acquisisce le richieste di erogazione delle prestazioni. Successivamente all’avvenuto 
+adeguamento dei suddetti sistemi e processi operativi, la SGR procede tempestivamente alla 
+liquidazione delle richieste di erogazione delle prestazioni pervenute durante il periodo tran -
+sitorio. 
+7. Le prestazioni di cui al comma 5, lett. a) e b) non sono tra loro cumulabili e non possono 
+essere revocate una volta iniziata la liquidazione, salvo che il beneficiario opti per la conver -
+sione del montante residuo in una rendita vitalizia immediata sulla base delle condizioni e dei 
+criteri indicati nella Nota informativa, ovvero trasferisca il montante residuo presso un’altra 
+forma pensionistica all’unico fine di beneficiare delle condizioni di rendita vitalizia offerte da 
+quest’ultima.
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) 
+è tenuto ad individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscat-
+tare il montante residuo. Tale scelta può essere successivamente modificata dall’aderente.
+9. Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente non può 
+richiedere trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione del 
+comparto/profilo di investimento, che può essere richiesta nel rispetto del periodo minimo di 
+partecipazione di cui all’art. 6, comma 2.
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore 
+contribuzione al Fondo, salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che 
+preveda la maturazione del TFR.
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle 
+prestazioni pensionistiche di cui al comma 5, lett. a) e b).     
+ART. 13. – TRASFERIMENTO E RISCATTO DELLA POSIZIONE INDIVIDUALE
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica com -
+plementare decorso un periodo minimo di due anni di partecipazione al Fondo.
+2. L’aderente, anche prima del periodo minimo di permanenza, può:
+6-bis.
+=== pagina 13 ===
+13
+a. trasferire la posizione individuale maturata ad altra forma pensionistica complementare, 
+alla quale acceda in relazione alla nuova attività lavorativa;
+b. riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione 
+dell’attività lavorativa che comporti l’inoccupazione per un periodo di tempo non infe -
+riore a 12 mesi e non superiore a 48 mesi, ovvero in caso di ricorso da parte del datore 
+di lavoro a procedure di mobilità, cassa integrazione guadagni, ordinaria o straordinaria;
+c. riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che com-
+porti la riduzione della capacità di lavoro a meno di un terzo o a seguito di cessazione dell’at-
+tività lavorativa che comporti l’inoccupazione per un periodo di tempo superiore a 48 mesi;
+d. riscattare la posizione individuale maturata, ai sensi dell’art. 14, comma 5 del Decreto, 
+nella misura del 50% o del 100%. Il riscatto parziale può essere esercitato una sola volta 
+nel periodo di partecipazione al Fondo ovvero trasferirla ad altra forma pensionistica com-
+plementare, qualora vengano meno i requisiti di partecipazione.
+3. Nei casi previsti ai punti a), c) e d) del comma 2, l’aderente, in luogo dell’esercizio dei diritti 
+di trasferimento e riscatto, può proseguire la partecipazione al Fondo, anche in assenza di 
+ulteriore contribuzione. Tale opzione trova automatica applicazione in difetto di diversa scelta 
+da parte dell’aderente. Nel caso in cui il valore della posizione individuale maturata non sia 
+superiore all’importo di una mensilità dell’assegno sociale di cui all’art. 3, comma 6, della 
+Legge 8 agosto 1995, n. 335, la banca/impresa di assicurazione/s.g.r./s.i.m. informa l’aderente 
+della facoltà di trasferire la propria posizione individuale ad altra forma pensionistica com -
+plementare, ovvero di chiedere il riscatto dell’intera posizione di cui al comma 2, lettera d).
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, 
+ovvero nel corso dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la 
+posizione individuale è riscattata dai soggetti designati dallo stesso, siano essi persone fisiche 
+o giuridiche, o in mancanza dagli eredi. In mancanza di tali soggetti, la posizione individuale 
+resta acquisita al Fondo.
+5. Al di fuori dei suddetti casi, non sono previste forme di riscatto della posizione.
+6. La SGR, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della posizio-
+ne con tempestività, e comunque non oltre il termine massimo di sei mesi decorrenti dalla rice-
+zione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, la SGR richiede 
+gli elementi integrativi e il termine sopra indicato è sospeso fino alla data del completamento o 
+della regolarizzazione della pratica.
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della 
+partecipazione al Fondo.
+ART. 14. – ANTICIPAZIONI
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti 
+casi e misure:
+a. in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie 
+conseguenti a situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e inter -
+venti straordinari riconosciuti dalle competenti strutture pubbliche;
+b. decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non 
+superiore al 75 per cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, o 
+la realizzazione, sulla prima casa di abitazione, degli interventi di manutenzione ordinaria, 
+straordinaria, di restauro e di risanamento conservativo, di ristrutturazione edilizia, di cui 
+alle lettere a), b), c), d) del comma 1 dell’art. 3 del decreto del Presidente della Repubblica 
+6 giugno 2001, n. 380;
+c. decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non 
+superiore al 30 per cento, per la soddisfazione di ulteriori sue esigenze.
+=== pagina 14 ===
+14
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipa -
+zioni sono riportate in apposito documento.
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 
+per cento della posizione individuale maturata, incrementata delle anticipazioni percepite e 
+non reintegrate.
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, 
+sono considerati utili tutti i periodi di partecipazione a forme pensionistiche complementari 
+maturati dall’aderente, per i quali lo stesso non abbia esercitato il diritto di riscatto totale della 
+posizione individuale.
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderen-
+te e in qualsiasi momento.
+6. Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, seque-
+strabilità e pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.
+7.  La SGR provvede agli adempimenti conseguenti all’esercizio delle predette facoltà da parte 
+dell’aderente con tempestività e comunque non oltre il termine massimo di sei mesi decorrenti 
+dalla ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, la 
+SGR richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica.
+=== pagina 15 ===
+15
+Parte IV – Profili organizzativi
+ART. 15. – SEPARATEZZA PATRIMONIALE, AMMINISTRATIVA E CONTABILE
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo 
+rispetto sia al patrimonio della SGR, sia a quello degli altri fondi gestiti, sia a quello degli 
+aderenti.
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli ade -
+renti e non può essere distratto da tale fine.
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori della SGR 
+o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di rappresen-
+tanti dei creditori stessi. Il patrimonio del Fondo non può essere coinvolto nelle procedure 
+concorsuali che riguardino la SGR.
+4. La SGR è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere per conto del Fondo rispetto al complesso delle altre operazioni 
+svolte dalla SGR e del patrimonio del Fondo rispetto a quello della SGR e di suoi clienti.
+5. Ferma restando la responsabilità della SGR per l’operato del soggetto delegato, la gestione 
+amministrativa e contabile del Fondo può essere delegata a terzi.
+6. La SGR è dotata di procedure organizzative atte a garantire la separatezza amministrativa e 
+contabile delle operazioni poste in essere in riferimento a ciascun comparto.
+7. Il patrimonio di ciascun comparto è suddiviso in differenti classi di quote. 
+ART. 16. – SISTEMA DI GOVERNO
+1. La SGR assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla com -
+plessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4-bis, 5-bis, 
+5-ter, 5-quater, 5-sexies, 5-septies, 5-octies e 5-nonies del Decreto in coerenza con gli assetti 
+organizzativi del rispettivo settore di riferimento.
+ART. 17. – DEPOSITARIO
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in posses-
+so dei requisiti previsti dalle vigenti disposizioni normative (di seguito “ Depositario”).
+2. La SGR può revocare in ogni momento l’incarico al Depositario il quale può, a sua volta, rinun-
+ciare con preavviso di almeno sei mesi; in ogni caso, l’efficacia della revoca o della rinuncia è 
+sospesa fino a che:
+• la SGR non abbia stipulato un nuovo contratto con altro depositario, in possesso dei requisiti di 
+legge;
+• il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario.
+3. Il calcolo del valore della quota può essere delegato al Depositario, ferma restando la respon-
+sabilità della SGR per l’operato del soggetto delegato.
+4. Le funzioni del Depositario sono regolate dalla normativa tempo per tempo vigente.
+5. Gli amministratori e i sindaci del Depositario riferiscono senza ritardo alla COVIP sulle irrego -
+larità riscontrate nella gestione del Fondo e forniscono su richiesta della COVIP informazioni 
+su atti o fatti di cui sono venuti a conoscenza nell’esercizio delle funzioni di depositario.
+=== pagina 16 ===
+16
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il Depositario 
+non sono ammesse azioni dei creditori del Depositario, del subdepositario o nell’interesse 
+degli stessi.
+ART. 18. – RESPONSABILE
+1. La SGR nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2 del Decreto (il “ Re-
+sponsabile”).
+2. Le disposizioni che regolano la nomina, le competenze, il regime di responsabilità del Re -
+sponsabile sono riportate nell’allegato n. 1.
+ART. 19. – CONFLITTI DI INTERESSE
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai 
+sensi della normativa tempo per tempo vigente.
+ART. 20. – SCRITTURE CONTABILI
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio 
+e delle posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP.
+2. La SGR conferisce a una società di revisione l’incarico di esprimere con apposita relazione un 
+giudizio sul rendiconto del Fondo.
+3.  Il rendiconto del Fondo è pubblicato sul sito web della SGR.
+=== pagina 17 ===
+17
+ART. 21. – MODALITÀ DI ADESIONE E CLAUSOLA RISOLUTIVA ESPRESSA
+1. L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesio -
+ne. L’adesione è preceduta dalla consegna della documentazione informativa prevista tempo 
+per tempo dalla normativa vigente
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite alla SGR.
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante 
+lettera di conferma, attestante la data di iscrizione e le informazioni relative all’eventuale ver -
+samento effettuato.
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi al -
+legati, e delle successive modifiche, fatto salvo quanto previsto in tema di trasferimento 
+nell’Art. 25.
+5. In caso di adesione automatica il Fondo, sulla base dei dati forniti dal datore di lavoro, co -
+munica all’aderente l’avvenuta adesione, il profilo di tipo life cycle nel quale sono investiti i 
+contributi, nonché le informazioni necessarie al fine di consentire a quest’ultimo l’esercizio 
+delle scelte di sua competenza.
+6. La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle di -
+pendenze della SGR da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione 
+della SGR. Le adesioni su base collettiva possono essere raccolte anche presso i luoghi indi -
+cati nella Nota informativa.
+7. In caso di adesione mediante sito web, la SGR deve acquisire il consenso espres -
+so dell’aderente all’utilizzo di tale strumento. L’aderente ha il diritto di recede -
+re entrotrenta giorni dalla sottoscrizione del modulo, senza costi di recesso e senza 
+dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente invia una comu -
+nicazione scritta alla SGR, con modalità che garantiscono certezza della data di ricezione.  
+La SGR, entro trenta giorni dal ricevimento della comunicazione, procede a rimborsare le 
+somme eventualmente pervenute, al netto delle spese di adesione, ove trattenute. La SGR 
+rende previamente noti all’aderente il momento in cui l’adesione si intende conclusa, i termi-
+ni, le modalità e i criteri di determinazione delle somme oggetto di rimborso.
+8. L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’a-
+desione al Fondo. In caso di inadempimento, la SGR ha facoltà, ai sensi dell’art. 1456 del Codi-
+ce Civile, di risolvere il contratto comunicando all’aderente la propria volontà di avvalersi della 
+clausola risolutiva espressa, salvo che l’aderente non provveda a effettuare un versamento 
+entro sessanta giorni dalla ricezione della comunicazione.
+9. Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo 
+con conseguente azzeramento della posizione individuale a seguito dell’applicazione delle 
+spese annuali di gestione amministrativa, la SGR ha facoltà, ai sensi dell’art. 1456 del Codice 
+Civile, di risolvere il contratto comunicando la propria volontà di avvalersi della clausola riso -
+lutiva espressa, salvo che l’aderente non provveda a effettuare un versamento entro sessanta 
+giorni dalla ricezione della comunicazione.
+ART. 22. – TRASPARENZA NEI CONFRONTI DEGLI ADERENTI E DEI BENEFICIARI
+1. La SGR mette a disposizione degli aderenti la documentazione inerente al Fondo e tutte le 
+altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali do -
+cumenti sono disponibili sul sito web della SGR, in un’apposita sezione dedicata alle forme 
+Parte V – Rapporti con gli aderenti
+=== pagina 18 ===
+18
+pensionistiche complementari e presso la sede legale della SGR. I documenti utilizzati in fase 
+di adesione sono resi disponibili in formato cartaceo e gratuitamente anche presso le sedi dei 
+soggetti che effettuano l’attività di raccolta delle adesioni.
+2. La SGR fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni individuali 
+maturate e alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per tem-
+po vigente.
+3. Almeno 30 giorni prima del perfezionamento di ogni riallocazione automatica eseguita in at -
+tuazione dell’opzione life cycle attivata dall’aderente ai sensi del precedente art. 6, comma 3, 
+la SGR provvede, inoltre, ad inviare all’aderente una comunicazione contenente informazioni 
+sulla composizione della sua posizione individuale e sulle modifiche che interverranno per 
+effetto della riallocazione automatica.
+ART. 23. – COMUNICAZIONI E RECLAMI 
+1. La SGR definisce le modalità con le quali gli aderenti e i beneficiari possono rappresentare 
+le proprie esigenze e presentare reclami in coerenza con le indicazioni fornite dalla COVIP, 
+riportandole nella Nota Informativa.
+=== pagina 19 ===
+19
+ART. 24. – MODIFICHE DI REGOLAMENTO
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP.
+2. La SGR stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse degli ade -
+renti e fatto salvo quanto disposto all’Art. 25.
+ART. 25. – TRASFERIMENTO IN CASO DI MODIFICHE PEGGIORATIVE DELLE CONDIZIONI ECO-
+NOMICHE E DI MODIFICHE DELLE CARATTERISTICHE DEL FONDO
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle 
+condizioni economiche del Fondo, l’aderente interessato dalle suddette modifiche può tra -
+sferire la posizione individuale maturata ad altra forma pensionistica complementare, anche 
+prima che siano decorsi due anni dall’iscrizione. Il diritto di trasferimento è altresì riconosciu -
+to quando le modifiche interessano in modo sostanziale la caratterizzazione del Fondo, come 
+può avvenire in caso di variazione significativa delle politiche di investimento.
+2. La SGR comunica a ogni aderente interessato l’introduzione delle modifiche almeno 120 gior-
+ni prima della relativa data di efficacia; dal momento della comunicazione l’aderente ha 90 
+giorni di tempo per manifestare l’eventuale scelta di trasferimento. La SGR può chiedere alla 
+COVIP termini ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del Fondo 
+e non contrasti con l’interesse degli aderenti.
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese.
+ART. 26. – CESSIONE DEL FONDO
+1. Qualora la SGR non voglia o non possa più esercitare l’attività di gestione del Fondo, questo 
+viene ceduto ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione del 
+Fondo a società diverse da quelle del Gruppo al quale appartiene la SGR viene riconosciuto 
+agli aderenti il diritto al trasferimento della posizione presso altra forma pensionistica com -
+plementare ai sensi dell’art. 25 e con le modalità ivi previste.
+ART. 27. – OPERAZIONI DI FUSIONE
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la 
+sua fusione con un altro fondo gestito dalla medesima SGR, il diritto al trasferimento della po-
+sizione presso altra forma pensionistica complementare viene riconosciuto qualora ricorrano 
+le condizioni di cui all’art. 25 e con le modalità ivi previste.
+ART. 28. – RINVIO
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla 
+normativa vigente.
+Parte VI – Norme finali
+=== pagina 20 ===
+20
+Allegato n.1 - Disposizioni in materia 
+di Responsabile 
+ART. 1 – NOMINA E CESSAZIONE DALL’INCARICO
+1. La nomina del Responsabile spetta all’organo amministrativo di “BCC Risparmio&Previdenza 
+Società di Gestione del Risparmio del Credito Cooperativo S.p.A.” e più brevemente “BCC 
+Risparmio&Previdenza S.G.R.p.A. ”, (di seguito, la “ SGR”) che esercita l’attività del Fondo. . 
+L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non più di una volta 
+consecutivamente.
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene 
+nominato il nuovo Responsabile.
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di 
+controllo della SGR.
+4. Le nomine, gli eventuali rinnovi dell’incarico, le sostituzioni del Responsabile prima della sca -
+denza del termine vengono comunicati alla COVIP entro 15 giorni dalla deliberazione.
+ART. 2 – REQUISITI E INCOMPATIBILITÀ
+1. I requisiti per l’assunzione dell’incarico di Responsabile sono previsti dalla normativa tempo 
+per tempo vigente.
+2. L’incarico di Responsabile è inoltre incompatibile con:
+a. lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa pres-
+so la SGR o società da questa controllate o che la controllano;
+b. l’incarico di amministratore della SGR;
+ART. 3 – DECADENZA
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incom-
+patibilità comporta la decadenza dall’incarico.
+ART. 4 – RETRIBUZIONE
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’at-
+to della nomina per l’intero periodo di durata dell’incarico e viene definita sulla base di una 
+sana politica di remunerazione che tenga conto dei principi previsti dalla normativa tempo 
+per tempo vigente, fermo restando che il compenso del Responsabile non può essere pattu -
+ito sotto forma di partecipazione agli utili della SGR o di società controllanti o controllate, né 
+sotto forma di diritti di acquisto o di sottoscrizione di azioni della SGR o di società controllanti 
+o controllate.
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono 
+poste a carico del Fondo, salva diversa decisione della SGR.
+ART. 5 – AUTONOMIA DEL RESPONSABILE
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dalla SGR ri -
+portando direttamente all’organo di amministrazione della stessa relativamente ai risultati 
+dell’attività svolta.
+=== pagina 21 ===
+21
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative della SGR, 
+di volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri di cui 
+all’art. 6. La SGR gli garantisce l’accesso a tutte le informazioni necessarie allo scopo.
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo 
+della SGR, per tutte le materie inerenti al Fondo.
+ART. 6 – DOVERI DEL RESPONSABILE
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli ade -
+renti e dei beneficiari e vigila sull’osservanza della normativa e del Regolamento nonché sul 
+rispetto delle buone pratiche e dei principi di corretta amministrazione del Fondo.
+2. Il Responsabile, avvalendosi delle procedure definite dalla SGR, organizza lo svolgimento 
+delle sue funzioni al fine di:
+a. vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di 
+deleghe di gestione, con riferimento ai controlli su:
+1. le politiche di investimento. In particolare: che la politica di investimento effettivamen-
+te seguita sia coerente con quella indicata nel Regolamento e nel Documento sulla 
+politica di investimento e che gli investimenti, ivi compresi quelli effettuati in OICR, 
+avvengano nell’esclusivo interesse degli aderenti, nel rispetto dei principi di sana e 
+prudente gestione, nonché nel rispetto dei criteri e limiti previsti dalla normativa tem -
+po per tempo vigente e dal Regolamento;
+2. la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli inve -
+stimenti effettuati siano correttamente identificati, misurati e controllati e che siano 
+coerenti con gli obiettivi perseguiti dalla politica di investimento;
+b. vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a 
+terzi di deleghe di gestione, con riferimento ai controlli su:
+1. la separatezza amministrativa e contabile delle operazioni poste in essere per conto 
+del Fondo rispetto al complesso delle altre operazioni svolte dalla SGR e del patrimo -
+nio del Fondo rispetto a quello della SGR e di suoi clienti;
+2. la regolare tenuta dei libri e delle scritture contabili del Fondo;
+c. vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei bene -
+ficiari con riferimento ai controlli su:
+1. l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli 
+aderenti e dei beneficiari, sia al momento del collocamento del Fondo che durante il 
+rapporto;
+2. gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei beneficiari 
+previste dal Regolamento e le eventuali commissioni correlate ai risultati di gestione 
+siano correttamente applicate;
+3. la completezza ed esaustività delle informazioni contenute nelle comunicazioni perio -
+diche agli aderenti e dei beneficiari e in quelle inviate in occasione di eventi particolari;
+4. l’adeguatezza della procedura per la gestione degli esposti nonché il trattamento riser-
+vato ai singoli  reclami;
+5. la tempestività e la correttezza dell’erogazione delle prestazioni, in particolare con 
+riferimento ai tempi di liquidazione delle somme richieste a titolo di anticipazione o 
+riscatto e di trasferimento della posizione individuale.
+3. Il Responsabile controlla le soluzioni adottate dalla SGR per identificare le situazioni di conflitti 
+di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; egli 
+controlla altresì la corretta esecuzione del contratto stipulato per il conferimento dell’incarico di 
+Depositario, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle 
+rendite e, ove presenti, delle convenzioni/condizioni relative alle prestazioni accessorie.
+=== pagina 22 ===
+22
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva 
+comunicazione all’organo di amministrazione e a quello di controllo della SGR  indicando gli 
+interventi correttivi da adottare.
+ART. 7 – RAPPORTI CON LA COVIP
+1. Il Responsabile:
+• predispone annualmente una relazione che descrive in maniera analitica l’organizzazione 
+adottata per l’adempimento dei suoi doveri e che dà conto della congruità delle procedure 
+di cui si avvale per l’esecuzione dell’incarico, dei risultati dell’attività svolta, delle eventuali  
+irregolarità riscontrate durante l’anno e delle iniziative poste in essere per eliminarle. La 
+relazione viene trasmessa alla COVIP entro il 31 marzo di ciascun anno. Copia della rela- 
+zione stessa viene trasmessa all’organo di amministrazione e a quello di controllo della 
+SGR;
+• vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa 
+le segnalazioni, la documentazione e le relazioni richieste dalla normativa tempo per tem-
+po vigente e dalle istruzioni emanate in proposito;
+• comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione e 
+a quello di controllo della SGR, le irregolarità riscontrate nell’esercizio delle sue funzioni.
+ART. 8 – RESPONSABILITÀ
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dal-
+la natura dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e 
+sui documenti di cui ha conoscenza in ragione del suo ufficio, tranne che nei confronti della 
+COVIP e delle autorità giudiziarie.
+2. Egli risponde verso la SGR e verso i singoli aderenti e beneficiari del Fondo dei danni a ciascu-
+no arrecati e derivanti dall’inosservanza di tali doveri.
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt. 2391, 2392, 2393 
+2394, 2394-bis e 2395 del Codice Civile.
+=== pagina 23 ===
+23
+Allegato n.2 - Condizioni e modalità 
+di erogazione delle rendite
+CONVENZIONE PER L ’ASSICURAZIONE DELLE PRESTAZIONI PENSIONISTICHE 
+COMPLEMENTARI IN FORMA DI RENDITA VITALIZIA 
+(ex art. 17, comma 2, lettera e, del Decreto Legislativo 21 aprile 1993, n. 124)
+Tra
+La Società BCC RISPARMIO&PREVIDENZA S.G.R.p.A. la quale interviene nella sua qualità di sog- 
+getto istitutore, del Fondo Pensione Aperto denominato Fondo Pensione Aperto Aureo - Fondo 
+Pensione Aperto Multicomparto (di seguito definito FONDO PENSIONE), nella persona del legale 
+rappresentante Dott. Giovanni Combi, nato a Lecco (LC) il 19/10/1970;
+e
+l’impresa di assicurazione Assimoco Vita - Compagnia di Assicurazioni sulla Vita S.p.A. (di seguito 
+definita COMPAGNIA), nella persona del legale rappresentante, Paul Gasser nato a Wandoies (BZ) 
+il 25 giugno 1959.
+premesso che:
+1. il FONDO PENSIONE, costituito in forma di fondo pensione aperto multicomparto, è autoriz -
+zato all’esercizio dell’attività ed è iscritto all’albo istituito presso la Commissione di Vigilanza 
+sui Fondi Pensione, in data 22 gennaio 1999 con il n. 53;
+2. la COMPAGNIA è autorizzata all’esercizio delle assicurazioni con D.M. 23.10.1990 - G.U. n. 279 del 
+29.11.1990 ed iscritta all’albo delle imprese di assicurazione con numero di iscrizione 1.00092;
+3. il FONDO PENSIONE intende stipulare una convenzione per l’erogazione delle prestazioni in 
+forma di rendita in base all’art. 6, comma 3, del Decreto Legislativo 5 dicembre 2005, n, 252;
+CONVENGONO E STIPULANO LA SEGUENTE:
+CONVENZIONE PER L’ASSICURAZIONE DELLE PRESTAZIONI
+PENSIONISTICHE COMPLEMENTARI IN FORMA DI RENDITA VITALIZIA
+ART. 1. – OGGETTO DELLA CONVENZIONE, PRESTAZIONI ASSICURATE
+1. La convenzione ha per oggetto l’assicurazione di rendita vitalizia immediata rivalutabile a pre-
+mio unico sulla testa degli aderenti al FONDO PENSIONE (di seguito indicati come “Assicura -
+ti”) che, avendo maturato i requisiti di accesso alle prestazioni pensionistiche complementari 
+previste dallo Statuto/Regolamento del FONDO PENSIONE, siano inseriti in assicurazione su 
+indicazione del fondo pensione stesso.
+1bis) Il FONDO PENSIONE può richiedere, in relazione al singolo Assicurato, che, in luogo della 
+rendita di cui al comma 1, sia erogata una delle seguenti altre rendite vitalizie:
+a. una rendita vitalizia rivalutabile su due teste, quella dell’Assicurato e quella di altra 
+persona da lui designata nell’ambito dei soggetti previsti dal sistema previdenziale 
+obbligatorio, reversibile totalmente o parzialmente sulla testa superstite;
+b. una rendita vitalizia rivalutabile pagabile in modo certo per 5 o 10 anni e, successiva-
+mente finché l’Assicurato sia in vita.
+2. L’importo annuo di ciascuna rendita si ottiene moltiplicando il premio versato alla COMPA -
+GNIA ai sensi dell’art. 2, per il coefficiente relativo all’età della testa assicurata, indicato nella 
+Tabella allegata alla presente convenzione.
+=== pagina 24 ===
+24
+2bis) La rendita annua verrà periodicamente adeguata secondo quanto previsto nel documen-
+to allegato alla presente convenzione.
+ART. 2. – PREMIO DI ASSICURAZIONE
+1. La COMPAGNIA si impegna a corrispondere direttamente all’Assicurato aderente al FONDO 
+PENSIONE la rendita oggetto della presente convenzione a fronte del pagamento di un pre -
+mio unico per ciascuna rendita assicurata.
+2. I premi saranno pagati secondo le modalità ed i termini previsti dal regolamento del FONDO 
+PENSIONE.
+3. La COMPAGNIA rilascerà una quietanza a fronte del pagamento di ciascun premio, riportante 
+l’indicazione degli estremi identificativi dell’Assicurato e l’importo della prestazione assicurata.
+4. Per l’elaborazione dei coefficienti di cui all’art. 1, comma 2 sono stati applicati i caricamenti 
+determinati secondo quanto riportato nella tabella allegata alla presente convenzione.
+ART. 3. – OBBLIGHI DI COMUNICAZIONE
+1. Il FONDO PENSIONE, all’atto dell’inserimento di ciascun aderente in convenzione, si impegna 
+a comunicare alla COMPAGNIA i seguenti dati relativi agli aderenti ed alle eventuali teste re -
+versionarie:
+• dati anagrafici completi
+• codice fiscale
+• ammontare della quota individuale.
+2. Le dichiarazioni del FONDO PENSIONE devono essere esatte e complete: l’inesatta indica -
+zione dei dati dell’aderente o della testa reversionaria comporta la rettifica dell’importo della 
+rendita.
+ART. 4. – PAGAMENTO DELLA RENDITA
+1. Ciascuna rendita avrà decorrenza dal giorno di pagamento del premio da parte del FONDO 
+PENSIONE e sarà erogata in rate posticipate con cadenza annuale o sub-annuale, a scelta 
+dell’Assicurato.
+2. L’erogazione della rendita cesserà con l’ultima scadenza di rata precedente la morte dell’ade-
+rente fatto salvo quanto previsto dal comma 1/bis dell’art. 1.
+3. Le prestazioni oggetto della presente convenzione sono erogate al FONDO PENSIONE. 
+ART. 5. – VALORE DI RISCATTO
+1. Le rendite oggetto della presente convenzione non ammettono valore di riscatto. 
+ART. 6. – DECORRENZA E DURATA
+1. La presente convenzione ha decorrenza dal 1° febbraio 1999 e durata di anni 5.
+2. La presente convenzione è rinnovata tacitamente per uguali periodi, salvo preavviso delle 
+parti che dovrà essere comunicato almeno 3 mesi prima della scadenza.
+ART. 7. – RECESSO
+1. Il FONDO PENSIONE può recedere dalla presente convenzione con le seguenti modalità e 
+termini: invio di lettera raccomandata con A.R. ed avrà efficacia dopo che siano trascorsi tre 
+mesi dalla data di comunicazione.
+1bis) La COMPAGNIA può recedere dalla presente convenzione con le seguenti condizioni, 
+modalità e termini: invio di lettera raccomandata con A.R. ed avrà efficacia dopo che 
+siano trascorsi tre mesi dalla data di comunicazione.
+=== pagina 25 ===
+25
+2. Il recesso non ha effetto sulle rendite in corso di erogazione, che restano in vigore alle condi -
+zioni previste dalla presente convenzione.
+ART. 8. – TASSE, BOLLI ED IMPOSTE
+1. Tutte le spese per tasse, bolli ed imposte dovute in base a leggi presenti e future, sia sul pre -
+mio unico versato sia sulla rendita convenuta, sono a carico del FONDO PENSIONE.
+ART. 9. – TASSO MASSIMO DI INTERESSE GARANTITO
+1. Le eventuali modifiche del tasso massimo di interesse garantito, determinato dall’ISVAP, ai 
+sensi dell’art. 33 del Decreto Legislativo 7 settembre 2005, n. 209, sono applicate alla tariffa 
+oggetto della presente Convenzione relativamente agli aderenti non ancora inseriti nella pre -
+sente Convenzione.
+ART. 10. – CLAUSOLA FINALE
+1. I tassi di premio fissati nella presente convenzione possono essere modificati sulla base del 
+confronto tra le basi tecniche adottate, diverse dal tasso di interesse, ed i risultati dell’espe -
+rienza di mercato.
+2. Le eventuali modifiche verranno applicate agli iscritti al FONDO PENSIONE inseriti in assicu -
+razione successivamente all’entrata in vigore delle modifiche stesse previa comunicazione al 
+FONDO, da parte della COMPAGNIA, da effettuarsi con le seguenti modalità e termini: invio di 
+lettera raccomandata con A.R. tre mesi prima dell’entrata in vigore dei nuovi tassi.
+3. Nell’ipotesi di cui al comma 1 il FONDO ha facoltà di recesso da esercitarsi mediante racco -
+mandata A.R. entro 6 mesi dal ricevimento della comunicazione da parte della COMPAGNIA.
+Fatto in doppio esemplare originale a Segrate, il 17 dicembre 2012
+ASSIMOCO VITA S.p.A. BCC Risparmio&Previdenza S.G.R.p.A.
+Allegati:
+1. Specifiche attuariali in vigore dal 21 dicembre 2012;
+2. Clausola di rivalutazione in vigore dal 1° gennaio 2006;
+3. Regolamento riserva Fondo Previcra.
+=== pagina 26 ===
+26
+Specifiche attuariali
+I Coefficienti di conversione del capitale in rendita vitalizia immediata nelle rateazioni previste 
+(Annuale, Semestrale, Trimestrale e Mensile) sono evidenziati nella tabella sottoriportata.
+Inoltre è stata prevista la possibilità di scegliere la conversione del capitale in una delle seguenti 
+tipologie di rendita:
+1. Rendita immediata vitalizia rivalutabile;
+2. Rendita immediata vitalizia rivalutabile certa per i primi 5 anni e successivamente vitalizia;
+3. Rendita immediata vitalizia rivalutabile certa per i primi 10 anni e successivamente vitalizia;
+4. Rendita immediata reversibile totalmente o parzialmente (75% e 50%).
+I suddetti coefficienti attuariali necessari per la determinazione della rendita sono ottenuti calco -
+lando le annualità vitalizie su una rendita, adottando le seguenti basi demografiche:
+• IPS55U-I;
+• tasso tecnico dello 0% annuo.
+È stato applicato un caricamento esplicito in misura del 1,25% del valore capitale della rendita a 
+titolo di costo per il pagamento della rendita, nonché dell’1,00% del premio di tariffa a titolo di 
+costo di gestione.
+Le annualità, naturalmente, sono calcolate in relazione alla rateazione prescelta.
+L’importo della rendita vitalizia annua si ottiene moltiplicando il capitale da convertire per il co -
+efficiente preso in corrispondenza dell’età dell’assicurato, della rateazione della rendita nonché 
+della tipologia di rendita prescelta, applicando il metodo dell’ age shifting  di seguito illustrato. 
+L’importo ottenuto si divide per 1000.
+In caso di rendita frazionata in rate sub-annuali, l’importo rateato si ottiene dividendo quello 
+annuo per il numero di rate sub-annuali.
+Ad ogni ricorrenza anniversaria la rendita vitalizia, corrisposta nell’anno precedente, verrà rivalu -
+tata sulla base di quanto previsto dalla Clausola di Rivalutazione.
+=== pagina 27 ===
+27
+Metodo di correzione dell’age shifting 
+ETÀ CONTRATTUALE: si intende l’età, espressa in anni, compiuta dall’ultimo compleanno dell’As-
+sicurato. Qualora l’ultimo compleanno preceda di sei mesi o più la data di decorrenza, l’età com-
+piuta viene aumentata di un anno.
+AGE SHIFTING: consiste nella correzione dell’età contrattuale dell’Assicurato in funzione del suo 
+anno di nascita in base alla tabella seguente:
+Generazione dei nati Correzione dell’età
+Fino al 1927 +3
+dal 1928 al 1940 +2
+dal 1941 al 1948 +1
+dal 1949 al 1960 0
+dal 1961 al 1970 -1
+dal 1971 -2
+Esempio:
+Assicurato nato il  ...............................................................................................................14/11/1945
+Ingresso in Assicurazione il  ...........................................................................................03/12/2012
+Età contrattuale  ..................................................................................................................67 anni
+Age Shifting  ..........................................................................................................................+1
+Capitale maturato pari a ..................................................................................................150.000,00 Euro
+Tasso di conversione in rendita (periodicità di erogazione annuale) ...........pari al 44,83‰ 
+(coefficiente preso in corrispondenza dell’età 67 + 1= 68)
+Rendita vitalizia immediata pari a  ............................................................................. 6.724,50 Euro
+=== pagina 28 ===
+28
+RENDITA ANNUA IMMEDIATA VITALIZIA RIVALUTABILE 
+per ogni 1000 Euro di capitale da convertire
+COEFFICIENTI DI CONVERSIONE
+ETÀ Annuale Semestrale Trimestrale Mensile
+55 28,89 28,68 28,58 28,51
+56 29,72 29,50 29,39 29,31
+57 30,60 30,36 30,25 30,17
+58 31,53 31,28 31,16 31,07
+59 32,52 32,25 32,12 32,03
+60 33,57 33,28 33,14 33,05
+61 34,68 34,37 34,22 34,12
+62 35,86 35,54 35,38 35,27
+63 37,12 36,77 36,60 36,49
+64 38,46 38,09 37,90 37,78
+65 39,90 39,49 39,29 39,16
+66 41,42 40,99 40,78 40,63
+67 43,06 42,59 42,36 42,21
+68 44,83 44,32 44,07 43,90
+69 46,72 46,17 45,90 45,72
+70 48,76 48,16 47,87 47,67
+=== pagina 29 ===
+29
+RENDITA ANNUA IMMEDIATA VITALIZIA RIVALUTABILE
+CERTA PER I PRIMI 5 ANNI E SUCCESSIVAMENTE VITALIZIA
+per ogni 1000 Euro di capitale da convertire
+COEFFICIENTI DI CONVERSIONE
+ETÀ Annuale Semestrale Trimestrale Mensile
+55 28,87 28,66 28,56 28,49
+56 29,70 29,48 29,37 29,29
+57 30,57 30,34 30,22 30,15
+58 31,50 31,25 31,13 31,05
+59 32,48 32,22 32,09 32,00
+60 33,52 33,24 33,10 33,01
+61 34,63 34,33 34,18 34,08
+62 35,80 35,48 35,32 35,22
+63 37,05 36,70 36,54 36,43
+64 38,37 38,01 37,83 37,71
+65 39,79 39,40 39,20 39,08
+66 41,29 40,87 40,67 40,53
+67 42,91 42,46 42,23 42,09
+68 44,64 44,15 43,91 43,75
+69 46,49 45,97 45,71 45,54
+70 48,49 47,92 47,64 47,45
+=== pagina 30 ===
+30
+RENDITA ANNUA IMMEDIATA VITALIZIA RIVALUTABILE
+CERTA PER I PRIMI 10 ANNI E SUCCESSIVAMENTE VITALIZIA
+per ogni 1000 Euro di capitale da convertire
+COEFFICIENTI DI CONVERSIONE
+ETÀ Annuale Semestrale Trimestrale Mensile
+55 28,80 28,59 28,49 28,42
+56 29,62 29,40 29,29 29,22
+57 30,48 30,25 30,14 30,06
+58 31,39 31,15 31,03 30,95
+59 32,35 32,09 31,97 31,88
+60 33,37 33,10 32,96 32,87
+61 34,44 34,15 34,01 33,92
+62 35,58 35,28 35,12 35,02
+63 36,79 36,46 36,30 36,19
+64 38,06 37,72 37,55 37,43
+65 39,42 39,05 38,87 38,75
+66 40,86 40,46 40,27 40,14
+67 42,38 41,96 41,76 41,62
+68 44,01 43,56 43,34 43,19
+69 45,73 45,25 45,02 44,86
+70 47,56 47,05 46,80 46,64
+=== pagina 31 ===
+31
+RENDITA ANNUA IMMEDIATA RIVALUTABILE REVERSIBILE TOTALMENTE 
+(frazionamento annuale)
+per ogni 1000 Euro di capitale da convertire
+55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70
+50 23,33 23,51 23,68 23,84 23,98 24,11 24,24 24,35 24,45 24,54 24,62 24,70 24,76 24,83 24,88 24,93
+51 23,68 23,88 24,08 24,25 24,42 24,58 24,72 24,84 24,96 25,06 25,16 25,25 25,32 25,39 25,46 25,52
+52 24,03 24,26 24,47 24,68 24,86 25,04 25,20 25,34 25,48 25,60 25,71 25,81 25,90 25,98 26,06 26,12
+53 24,37 24,62 24,87 25,09 25,30 25,50 25,68 25,85 26,00 26,14 26,27 26,39 26,50 26,59 26,67 26,75
+54 24,70 24,99 25,25 25,50 25,74 25,97 26,17 26,36 26,54 26,70 26,85 26,98 27,10 27,21 27,31 27,40
+55 25,03 25,34 25,63 25,91 26,18 26,43 26,66 26,87 27,08 27,26 27,43 27,59 27,72 27,86 27,97 28,07
+56 25,34 25,67 25,99 26,31 26,60 26,88 27,14 27,39 27,62 27,83 28,03 28,20 28,37 28,51 28,65 28,77
+57 25,63 25,99 26,35 26,70 27,02 27,33 27,62 27,90 28,16 28,40 28,63 28,83 29,02 29,19 29,34 29,49
+58 25,91 26,31 26,70 27,07 27,43 27,77 28,10 28,41 28,70 28,98 29,23 29,46 29,68 29,88 30,07 30,23
+59 26,18 26,60 27,02 27,43 27,82 28,20 28,57 28,92 29,24 29,55 29,84 30,11 30,36 30,58 30,80 30,99
+60 26,43 26,88 27,33 27,77 28,20 28,62 29,02 29,41 29,77 30,12 30,45 30,75 31,04 31,30 31,54 31,77
+61 26,66 27,14 27,62 28,10 28,57 29,02 29,46 29,89 30,29 30,68 31,06 31,40 31,72 32,02 32,30 32,55
+62 26,87 27,39 27,90 28,41 28,92 29,41 29,89 30,36 30,81 31,24 31,65 32,04 32,40 32,74 33,07 33,37
+63 27,08 27,62 28,16 28,70 29,24 29,77 30,29 30,81 31,30 31,78 32,24 32,67 33,09 33,48 33,84 34,18
+64 27,26 27,83 28,40 28,98 29,55 30,12 30,68 31,24 31,78 32,30 32,81 33,30 33,76 34,20 34,61 35,00
+65 27,43 28,03 28,63 29,23 29,84 30,45 31,06 31,65 32,24 32,81 33,37 33,91 34,42 34,93 35,39 35,83
+66 27,59 28,20 28,83 29,46 30,11 30,75 31,40 32,04 32,67 33,30 33,91 34,51 35,08 35,64 36,17 36,66
+67 27,72 28,37 29,02 29,68 30,36 31,04 31,72 32,40 33,09 33,76 34,42 35,08 35,71 36,32 36,91 37,48
+68 27,86 28,51 29,19 29,88 30,58 31,30 32,02 32,74 33,48 34,20 34,93 35,64 36,32 37,01 37,66 38,30
+69 27,97 28,65 29,34 30,07 30,80 31,54 32,30 33,07 33,84 34,61 35,39 36,17 36,91 37,66 38,39 39,09
+70 28,07 28,77 29,49 30,23 30,99 31,77 32,55 33,37 34,18 35,00 35,83 36,66 37,48 38,30 39,09 39,87
+ETÀ TESTA PRINCIPALE
+ETÀ TESTA REVERSIONARIA
+=== pagina 32 ===
+32
+RENDITA ANNUA IMMEDIATA RIVALUTABILE REVERSIBILE AL 75% 
+(frazionamento annuale)
+per ogni 1000 Euro di capitale da convertire
+55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70
+50 24,50 24,80 25,10 25,39 25,67 25,94 26,21 26,48 26,73 26,98 27,23 27,47 27,71 27,95 28,18 28,40
+51 24,80 25,12 25,43 25,74 26,04 26,34 26,62 26,91 27,19 27,46 27,72 27,98 28,23 28,48 28,73 28,97
+52 25,09 25,43 25,77 26,10 26,42 26,74 27,05 27,35 27,65 27,93 28,22 28,50 28,77 29,04 29,30 29,55
+53 25,36 25,73 26,09 26,44 26,79 27,13 27,46 27,79 28,11 28,42 28,73 29,02 29,32 29,60 29,88 30,16
+54 25,63 26,02 26,41 26,79 27,16 27,53 27,88 28,23 28,57 28,91 29,24 29,56 29,87 30,18 30,48 30,77
+55 25,89 26,31 26,72 27,12 27,52 27,91 28,30 28,67 29,04 29,40 29,75 30,10 30,44 30,77 31,09 31,41
+56 26,14 26,57 27,01 27,44 27,87 28,29 28,70 29,11 29,51 29,90 30,28 30,65 31,01 31,37 31,72 32,05
+57 26,37 26,84 27,30 27,76 28,22 28,66 29,10 29,54 29,97 30,39 30,80 31,20 31,60 31,98 32,35 32,72
+58 26,60 27,09 27,57 28,06 28,55 29,03 29,50 29,97 30,43 30,88 31,33 31,76 32,19 32,59 33,00 33,40
+59 26,80 27,32 27,83 28,35 28,87 29,38 29,89 30,39 30,88 31,37 31,85 32,31 32,78 33,22 33,66 34,09
+60 27,01 27,54 28,08 28,63 29,17 29,72 30,26 30,80 31,33 31,85 32,36 32,87 33,37 33,85 34,33 34,79
+61 27,18 27,75 28,31 28,89 29,46 30,04 30,62 31,19 31,76 32,32 32,87 33,42 33,96 34,48 35,00 35,51
+62 27,35 27,94 28,53 29,13 29,74 30,35 30,96 31,57 32,18 32,78 33,38 33,97 34,54 35,11 35,68 36,22
+63 27,51 28,11 28,74 29,36 29,99 30,64 31,29 31,93 32,57 33,22 33,86 34,49 35,12 35,74 36,35 36,94
+64 27,65 28,28 28,92 29,58 30,24 30,91 31,60 32,28 32,96 33,65 34,34 35,01 35,69 36,35 37,01 37,66
+65 27,79 28,43 29,10 29,77 30,47 31,17 31,89 32,61 33,33 34,06 34,79 35,52 36,25 36,97 37,68 38,37
+66 27,90 28,57 29,26 29,96 30,67 31,41 32,15 32,92 33,68 34,46 35,24 36,01 36,78 37,55 38,33 39,08
+67 28,01 28,69 29,40 30,12 30,86 31,64 32,41 33,20 34,01 34,83 35,65 36,48 37,30 38,14 38,96 39,78
+68 28,11 28,81 29,53 30,28 31,05 31,84 32,65 33,48 34,32 35,17 36,05 36,93 37,81 38,70 39,59 40,47
+69 28,19 28,91 29,65 30,41 31,21 32,02 32,86 33,73 34,60 35,50 36,42 37,34 38,28 39,23 40,18 41,14
+70 28,27 29,00 29,76 30,54 31,36 32,20 33,06 33,96 34,87 35,80 36,76 37,75 38,74 39,75 40,75 41,77
+ETÀ TESTA PRINCIPALE
+ETÀ TESTA REVERSIONARIA
+=== pagina 33 ===
+33
+RENDITA ANNUA IMMEDIATA RIVALUTABILE REVERSIBILE AL 50% 
+(frazionamento annuale)
+per ogni 1000 Euro di capitale da convertire
+55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70
+50 25,81 26,25 26,70 27,15 27,60 28,07 28,53 29,00 29,48 29,97 30,45 30,95 31,45 31,96 32,47 32,99
+51 26,03 26,49 26,95 27,42 27,89 28,38 28,86 29,35 29,85 30,35 30,86 31,38 31,90 32,43 32,96 33,50
+52 26,24 26,72 27,20 27,69 28,18 28,68 29,19 29,70 30,22 30,74 31,27 31,81 32,35 32,89 33,46 34,03
+53 26,44 26,94 27,43 27,95 28,46 28,99 29,51 30,05 30,58 31,13 31,69 32,24 32,81 33,38 33,96 34,55
+54 26,64 27,15 27,67 28,20 28,74 29,28 29,83 30,39 30,95 31,52 32,09 32,68 33,27 33,86 34,47 35,09
+55 26,82 27,35 27,89 28,45 29,00 29,57 30,15 30,72 31,31 31,91 32,51 33,11 33,74 34,36 34,99 35,64
+56 27,00 27,55 28,11 28,69 29,27 29,85 30,45 31,06 31,68 32,29 32,93 33,56 34,20 34,86 35,52 36,19
+57 27,17 27,74 28,32 28,91 29,52 30,13 30,75 31,39 32,03 32,68 33,33 34,00 34,67 35,36 36,05 36,75
+58 27,32 27,91 28,51 29,13 29,75 30,40 31,05 31,71 32,37 33,06 33,74 34,44 35,14 35,86 36,59 37,31
+59 27,46 28,07 28,70 29,33 29,99 30,66 31,33 32,02 32,71 33,42 34,14 34,87 35,61 36,36 37,12 37,89
+60 27,60 28,23 28,88 29,53 30,21 30,89 31,60 32,32 33,05 33,78 34,54 35,30 36,08 36,86 37,66 38,46
+61 27,73 28,38 29,04 29,72 30,41 31,13 31,86 32,61 33,37 34,14 34,93 35,71 36,54 37,36 38,20 39,05
+62 27,85 28,51 29,19 29,90 30,61 31,35 32,10 32,88 33,67 34,47 35,30 36,13 36,98 37,85 38,73 39,62
+63 27,96 28,63 29,33 30,05 30,80 31,56 32,34 33,15 33,97 34,81 35,66 36,54 37,43 38,33 39,25 40,19
+64 28,05 28,74 29,46 30,20 30,96 31,75 32,56 33,39 34,25 35,11 36,01 36,91 37,85 38,80 39,76 40,75
+65 28,15 28,85 29,58 30,34 31,12 31,93 32,77 33,62 34,51 35,41 36,34 37,29 38,27 39,26 40,27 41,31
+66 28,22 28,94 29,69 30,46 31,27 32,09 32,96 33,84 34,76 35,69 36,66 37,65 38,67 39,70 40,77 41,86
+67 28,30 29,03 29,79 30,58 31,40 32,25 33,13 34,05 34,99 35,96 36,95 37,99 39,05 40,13 41,24 42,39
+68 28,36 29,10 29,88 30,68 31,53 32,39 33,30 34,23 35,20 36,21 37,24 38,31 39,42 40,54 41,70 42,90
+69 28,43 29,18 29,96 30,78 31,64 32,52 33,44 34,41 35,41 36,44 37,51 38,61 39,76 40,93 42,14 43,40
+70 28,48 29,24 30,03 30,86 31,74 32,64 33,58 34,57 35,59 36,66 37,75 38,90 40,08 41,31 42,57 43,88
+ETÀ TESTA PRINCIPALE
+ETÀ TESTA REVERSIONARIA
+=== pagina 34 ===
+34
+Clausola di rivalutazione
+La presente polizza fa parte di una speciale categoria di assicurazioni sulla vita alle quali la Società 
+riconoscerà una rivalutazione annua delle prestazioni assicurate nella misura e secondo le mo -
+dalità appresso indicate. A tal fine la Società gestirà, secondo quanto previsto dal Regolamento 
+Fondo “Previcra” attività di importo non inferiore alle relative riserve matematiche.
+A. MISURA DI RIVALUTAZIONE
+La Società dichiara entro il I° marzo di ciascun anno il rendimento annuo da attribuire agli assicu-
+rati, ottenuto moltiplicando il rendimento, di cui al punto 9 del Regolamento del Fondo “Previcra”, 
+per l’aliquota di partecipazione di volta in volta fissata.
+Tale aliquota sarà rivista annualmente entro il 31 marzo di ciascun anno in base al cumulo premi 
+delle singole posizioni in essere al 31 dicembre precedente secondo quanto dettagliato nella 
+seguente tabella:
+Cumulo premi in Euro
+su posizioni in vigore Aliquote di Retrocessione
+Fino a 200.000,00 85,00%
+Da 200.000,01 a 400.000,00 87,50%
+Da 400.000,01 a 600.000,00 90,00%
+Da 600.000,01 a 800.000,00 92,50%
+Oltre 800.000,01 95,00%
+L’aliquota eventualmente maggiorata come appena illustrato verrà utilizzata nella rivalutazione 
+di ciascuna posizione alla prima rivalutazione successiva alla modifica delle aliquote di parteci -
+pazione.
+La misura annua di rivalutazione è uguale al rendimento attribuito. Viene comunque garantita la 
+misura minima di rivalutazione dello 0%.
+B. RIVALUTAZIONE DELLA RENDITA ASSICURATA
+La rivalutazione, nella misura fissata, sarà applicata ai contratti in pieno vigore a partire dal I° 
+marzo di ciascun anno, in occasione dell’anniversario della data di decorrenza del contratto in -
+dicata in polizza, e comporterà l’aumento, a totale carico della Società, della riserva matematica 
+calcolata a tale anniversario nella misura stabilita al punto A).
+Da tale anniversario la rendita assicurata viene aumentata nella stessa misura e quindi il contratto 
+stesso si considera come sottoscritto sin dall’origine per il nuovo importo assicurato. Segue che 
+ciascuna rivalutazione viene applicata alle garanzie in essere, comprensive di quelle derivanti da 
+precedenti rivalutazioni.
+=== pagina 35 ===
+35
+Regolamento della gestione separata 
+“Previcra”
+ART. 1
+Viene attuata una speciale forma di gestione degli investimenti, separata da quella delle altre 
+attività della Società, che viene contraddistinta con il nome “PREVICRA” (di seguito “Gestione Se -
+parata”) e disciplinata dal presente regolamento redatto in base alle norme stabilite dall’Istituto
+per la Vigilanza sulle Assicurazioni Private e di Interesse Collettivo – ora Istituto per la Vigilanza 
+sulle Assicurazioni - con il Regolamento n. 38 del 03/06/2011.
+Il presente Regolamento è parte integrante delle Condizioni di Assicurazione.
+ART. 2
+La valuta di denominazione della Gestione Separata è l’Euro.
+ART. 3
+La Società definisce e attua le politiche di investimento della Gestione Separata perseguendo 
+obiettivi di stabile redditività a medio termine, una composizione del portafoglio adeguata alla 
+struttura degli impegni assunti nei confronti degli assicurati ed il contenimento della volatilità 
+del rendimento. Le scelte di investimento privilegiano strumenti di natura obbligazionaria, di 
+emissione governativa e societaria, denominati in euro, senza escludere l’utilizzo di altre attività 
+ammissibili ai sensi della normativa vigente. L’orizzonte temporale assunto come riferimento è 
+basato sulle caratteristiche dei contratti collegati alla Gestione Separata, sull’evoluzione osservata 
+e attesa delle strutture per scadenza dei tassi di interesse espresse dal mercato, anche in rappor -
+to ai valori medi storicamente rilevati.
+Al fine di contenere l’esposizione al rischio mercato, nelle sue diverse configurazioni, vengono definiti 
+i seguenti limiti relativi al portafoglio titoli.
+Per il complesso degli strumenti finanziari costituito da titoli azionari in euro negoziati in un mercato
+regolamentato, da quote di OICR armonizzati che investono prevalentemente nel comparto aziona-
+rio, flessibile, da ETF, da obbligazioni convertibili denominate in euro, è fissato un limite massimo di 
+investimento del 25,00%.
+È fissato un limite massimo di investimento in obbligazioni corporate del 75,00%. Possono essere 
+acquistati solo titoli obbligazionari con rating almeno “investment grade” (superiore o uguale a BBB- 
+o equivalente). Variazioni di rating degli emittenti al di sotto di tale livello non implicano la vendita 
+automatica dei titoli interessati.
+È fissato un limite massimo per gli OICR che investono prevalentemente nel comparto obbligazionario
+del 25%. Tali OICR possono essere investiti anche in titoli “sub-investment grade”.
+Al di fuori di suddetti limiti, la Società può investire in Covered Bond emessi in euro con rating non 
+inferiore a BBB o equivalente.
+Non viene fissato un limite massimo per gli investimenti in titoli emessi o garantiti da Stati membri 
+dell’Unione Europea o appartenenti all’OCSE, ovvero emessi da enti locali o da enti pubblici di stati 
+membri o da organizzazioni internazionali cui aderiscono uno o più di detti Stati membri, negoziati in 
+un mercato regolamentato.
+Gli OICR che investono prevalentemente nel comparto obbligazionario possono essere investiti in 
+titoli emessi o garantiti da Stati non appartenenti all’OCSE.
+Non viene inoltre fissato alcun limite per gli investimenti in depositi a vista, in certificati di deposito 
+e in depositi a tempo emessi in euro da società o enti creditizi aventi la sede sociale in uno stato 
+membro dell’Unione Europea il cui bilancio sia da almeno 3 anni certificato da parte di una società 
+di revisione.
+=== pagina 36 ===
+36
+È prevista la possibilità di investire in investimenti alternativi (Private Debt, Infrastructure, Real Estate, 
+altro) nel limite massimo del 15,00% del portafoglio.
+L’utilizzo di strumenti derivati è ammesso solo con finalità di copertura e nel rispetto delle condizioni 
+previste dalla normativa vigente in materia di attivi a copertura delle riserve tecniche.
+La Società, al fine di assicurare la tutela dei contraenti da possibili situazioni di conflitto di inte -
+resse, si impegna al rispetto dei limiti di investimento in relazione ai rapporti di cui all’art. 5 del 
+Regolamento IVASS del 26 ottobre 2016, n. 30 ed eventuali successive modifiche. La Società non 
+esclude la possibilità di investire in strumenti finanziari emessi dalle controparti di cui al sopracitato 
+regolamento, fissando tuttavia un limite del 10,00% del portafoglio per quanto riguarda quote di 
+OICR e del 2,00% per le obbligazioni.
+ART. 4
+Nella Gestione Separata confluiranno le attività relative alle forme di assicurazione sulla vita che
+prevedono una clausola di rivalutazione legata al rendimento della Gestione medesima. La Ge -
+stione Separata si rivolge ad una clientela caratterizzata da una bassa propensione al rischio, con
+esigenze assicurative nell’area dell’investimento/risparmio.
+ART. 5
+Il valore delle attività gestite non può essere inferiore all’importo delle riserve matematiche co -
+stituite per le polizze che prevedono una clausola di rivalutazione legata al rendimento realizzato
+dalla Gestione Separata stessa.
+ART. 6
+Sulla Gestione Separata gravano unicamente le spese relative all’attività di verifica contabile ef -
+fettuata dalla società di revisione e quelle effettivamente sostenute per l’acquisto e la vendita 
+delle attività della Gestione Separata. Non sono consentite altre forme di prelievo, in qualsiasi 
+modo effettuate.
+ART. 7
+Il rendimento della Gestione Separata beneficia di eventuali utili derivanti dalle retrocessioni di 
+commissioni o di altri proventi ricevuti dalla Società in virtù di accordi con soggetti terzi e ricon -
+ducibili al patrimonio della Gestione Separata.
+ART. 8
+Il periodo di osservazione per il calcolo del rendimento annuo della Gestione Separata decorre 
+dal 1° gennaio di ciascun anno e termina al 31 dicembre successivo.
+ART. 9
+Il rendimento annuo della Gestione Separata, relativo al periodo di osservazione, viene calcolato 
+rapportando il risultato finanziario della Gestione Separata alla giacenza media delle attività della 
+gestione stessa.
+Il risultato finanziario della Gestione Separata è costituito dai proventi finanziari di competenza con-
+seguiti dalla Gestione Separata , comprensivi degli scarti di emissione e di negoziazione, dagli utili 
+realizzati e dalle perdite sofferte nel periodo di osservazione. Gli utili realizzati comprendono anche 
+quelli specificati all’art. 7. Il risultato è calcolato al netto delle spese di cui all’art. 6 ed al lordo delle 
+ritenute di acconto fiscale. Gli utili e le perdite da realizzo vengono determinati con riferimento al va-
+lore di iscrizione delle corrispondenti attività nella Gestione Separata e cioè al prezzo di acquisto per i 
+beni di nuova acquisizione ed al prezzo di mercato all’atto dell’iscrizione nella Gestione Separata per 
+i beni già di proprietà della Società.
+=== pagina 37 ===
+37
+La giacenza media delle attività della Gestione Separata è pari alla somma delle giacenze medie nel 
+periodo di osservazione considerato dei depositi in numerario, degli investimenti e di ogni altra attivi-
+tà della Gestione Separata. La giacenza media nel periodo di osservazione degli investimenti e delle 
+altre attività è determinata in base al valore di iscrizione nella Gestione Separata.
+ART. 10
+La Gestione Separata è annualmente sottoposta alla verifica da parte di una società di revisione 
+iscritta nell’apposito registro previsto dalla normativa vigente.
+La società di revisione certifica la corretta consistenza e la conformità dei criteri di valutazione 
+delle attività attribuite alla Gestione Separata nel corso del periodo di osservazione, il rendimento 
+annuo della stessa Gestione realizzato nel periodo di osservazione, quale descritto al precedente 
+Art. 9, e l’adeguatezza dell’ammontare delle attività assegnate alla gestione separata alla fine del 
+periodo di osservazione rispetto all’importo delle corrispondenti riserve matematiche determi -
+nato alla stessa data.
+ART. 11
+La Società, qualora ne ravvisasse l’opportunità in un’ottica di ricerca di maggiore efficienza anche 
+in termini di costi gestionali, soprattutto per perseguire l’interesse del Contraente, potrà procede-
+re alla fusione della Gestione Separata con altra gestione separata avente analoghe caratteristi -
+che ed omogenee politiche di investimento. In tal caso, la Società provvederà a trasferire, senza 
+alcun onere o spese per il Contraente, tutte le attività finanziarie relative alla Gestione Separata 
+PREVICRA presso la Gestione derivante dalla fusione, dandone preventiva comunicazione al Con-
+traente. In particolare, saranno comunicate al Contraente le motivazioni che hanno determinato 
+la scelta di fusione, la data di effetto della fusione, le caratteristiche e i criteri di investimento 
+delle Gestioni Separate interessate all’operazione e le modalità di adesione o meno all’operazio -
+ne di fusione.
+Indipendentemente dalle modalità di fusione, tale operazione non potrà comportare alcun aggra-
+vio economico per il Contraente.
+ART. 12
+La Società si riserva di apportare al presente Regolamento quelle modifiche che si rendessero 
+necessarie a seguito di disposizioni di normativa primaria o secondaria oppure a fronte di mutati 
+criteri gestionali con esclusione, in tale ultimo caso, di quelli meno favorevoli per il Contraente.
+=== pagina 38 ===
+BCC Risparmio&Previdenza S.G.R.p.A. 
+Via Carlo Esterle n. 9/11
+20132 Milano
+t. +39 02 430281 
+email: info@bccrp.bcc.it
+sito web: www.bccrisparmioeprevidenza.it

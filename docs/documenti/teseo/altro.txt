@@ -1,0 +1,138 @@
+# Fondo: FONDO PENSIONE APERTO TESEO (teseo)
+# Documento: Altri documenti – Nuove modalità di erogazione delle prestazioni pensionistiche
+# Fonte: https://www.fondoteseo.com/areapubblica/documenti/Informativa_nuove_prestazioni_TESEO.pdf
+# Citato in: https://www.fondoteseo.com/areapubblica/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: e27d29f5dd7ad82954c6a246f322cc41a466a393855af0f7b31bc53871da354e
+# Pagine: 3
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Le nuove modalità di erogazione delle prestazioni pensionistiche  
+A seguito delle modifiche normative introdotte dalla legge 30 dicembre 2025, n. 199  (Legge di Bilancio 2026)  all’art. 11 del 
+d.lgs. 5 dicembre 20 05, n. 252, sono state previste nuove modalità di erogazione delle prestazioni pensionistiche 
+complementari, finalizzate ad ampliare le opzioni disponibili per gli aderenti nella fase di accesso alla prestazione.  
+ 
+Accanto alla rendita vitalizia,  si aggiungono nuove opzioni, espressamente qualificate dalla legge come «prestazioni 
+pensionistiche»:  
+• la rendita a durata definita (art. 11, co. 3-bis e 3-ter) – richiedibile dal 1° luglio 2026;  
+• i prelievi liberamente determinabili (art. 11, co. 3-bis e 3-quater) – richiedibile dal 1° luglio 2026;  
+• l'erogazione frazionata del montante accumulato (art. 11, co. 3-bis) – richiedibile dal 31 ottobre 2026. 
+Nel periodo transitorio  previsto dalla normativa , che non p uò protrarsi oltre il 31 dicembre 2026,  le richieste possono 
+essere acquisite dalla Compagnia anche prima dell’adeguamento de i sistemi e dei processi operativi; l’erogazione avverrà 
+successivamente al completamento di tali adeguamenti. 
+ L
+e prestazioni sono accessibili al ricorrere dei requisiti previsti dalla normativa per l’accesso alla prestazione pensionistica
+complementare, tra cui la maturazione dei requisiti pensionistici nel regime obbligatorio e il periodo minimo di 
+partecipazione.
+Le nuove modalità di erogazione della posizione individuale sono alternative tra di loro e non cumulabili né tra loro né con 
+la rendita vitalizia. Pertanto, p er la parte di posizione individuale non eventualmente richiesta in capitale, l’aderente è
+chiamato a individuare una sola modalità di erogazione tra quelle previste.
+Con l’esercizio dell’opzione prescelta non è possibile proseguire la contribuzione né esercitare le prerogative tipiche della
+fase di accumulo, fatta eccezione per lo switch tra comparti, ove previsto.
+Tali prestazioni non sono cumulabili con erogazioni in RITA già in corso, né è possibile accedervi successivamente 
+all’erogazione della prestazione.
+La scelta effettuata è irrevocabile una volta avviata l’erogazione , salvo la possibilità, nei casi previsti dalla normativa , di 
+convertire il montante residuo in una rendita vitalizia immediata,  nonché di trasferire il montante residuo presso altra 
+forma pensionistica complementare.
+Nel corso della fase di erogazione, la posizione individuale continua a rimanere investita nel comparto prescelto 
+dall’aderente o, in mancanza di indicazioni, secondo quanto previsto dalla forma pensionistica.
+I costi applicati alle opzioni di erogazione sono limitati alle sole spese amministrative effettivamente sostenute dalla forma 
+pensionistica.
+Al momento della scelta della modalità di erogazione, l’aderente è tenuto a indicare i soggetti che potranno riscattare il
+montante in caso di decesso, con possibilità di successiva modifica. In sede di richiesta della prestazione è, pertanto, 
+necessario fornire detta indicazione, che può consistere anche nella conferma dei soggetti precedentemente indicati per la 
+fase di accumulo. Le richieste inerenti alle suddette prestazioni che risultino prive dell’indicazione di cui sopra saranno
+considerate incomplete.
+L’erogazione di una prestazione pensionistica complementare, ai sensi dell’art. 11, non consente di versare ulteriore
+contribuzione alla forma pensionistica, salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la
+maturazione del TFR. In tale situazione, le prerogative derivanti dal versamento di tali importi e di eventuali ulteriori 
+contribuzioni sono da considerarsi distinte da quelle della prestazione pensionistica complementare al quale lo stesso ha 
+acceduto.
+=== pagina 2 ===
+Caratteristiche comuni alle diverse modalità di prestazione 
+• Le modalità di erogazione sono alternative tra loro e non cumulabili;  
+• è possibile comunque richiedere fino al 50% del montante in forma di capitale; 
+• una volta avviata l’erogazione, la scelta non può essere modificata; 
+• non è possibile proseguire la contribuzione; 
+• non possono essere esercitate le prerogative della fase di accumulo (ad es. anticipazioni, trasferimenti e 
+RITA), fatta eccezione per lo switch di comparto, ove previsto; 
+• le nuove prestazioni non sono cumulabili con la Rita in corso di liquidazione; 
+• il montante residuo rimane investito nel comparto prescelto; 
+• in caso di decesso, il montante residuo è riscattato dai soggetti designati dall’aderente; 
+• i costi per le opzioni devono essere contenuti e limitati alle spese amministrative effettivamente 
+sostenute; 
+• La Compagnia erogata la prestazione entro i termini indicati nel regolamento e comunque non oltre 6 mesi 
+dalla richiesta. 
+ 
+Di seguito sono brevemente illustrate le principali caratteristiche delle nuove modalità di erogazione della prestazione 
+pensionistica complementare. 
+ 
+Rendita a durata definita 
+A partire dal 1° luglio 2026, è  possibile richiedere una prestazione corrisposta per un periodo predeterminato sulla base 
+della vita attesa residua dell’aderente  al momento della richiesta , calcolata sulla base delle tavole di mortalità ISTAT  ed 
+espressa in anni interi . In particolare, l a vita attesa residua corrisponde al numero di anni interi (arrotondati per difetto) 
+della speranza di vita in corrispondenza dell’età dell’ aderente al momento dell’esercizio dell a prestazione , come 
+determinata dall’ISTAT con riferimento alla tavola di mortalità della popolazione generale utilizzata per il calcolo dei 
+vigenti coefficienti di trasformazione del montante in rendita di cui alla tabella A allegata alla Legge 8 agosto 1995, n. 33 5. 
+La posizione individuale viene erogata mediante rate periodiche , il cui importo è determinato ripartendo il montante 
+disponibile sulla durata individuata, tenendo conto della valorizzazione della posizione  nel tempo. La periodicità delle rate 
+(mensile, trimestrale, semestrale o annuale)  è scelta dall’aderente . L’importo delle rate può variare in funzione 
+dell’andamento della gestione finanziaria. Tale importo viene calcolato, con riferimento alla data di liquidazione di 
+ciascuna rata, dividendo il montante disponibile a tale data per il numero di rate ancora da erogare.  Al termine del 
+periodo individuato, la prestazione si esaurisce.  
+In caso di decesso dell’aderente durante il periodo di erogazione, il montante residuo è riscattato dal soggetto o dai 
+soggetti indicati dall’aderente al momento dell’esercizio dell’opzione. 
+ 
+Prelievi liberamente determinabili 
+A partire dal 1° luglio 2026, è possibile richiedere una modalità di erogazione flessibile che consente all’aderente di 
+effettuare prelievi nel tempo,  scegliendone importo e tempistica . La Compagnia può prevedere un importo minimo per 
+ciascun prelievo. I prelievi sono effettuati utilizzando il montante che rimane investito nella forma pensionistica.  
+L’importo massimo prelevabile è determinato in base alle rate maturate e non riscosse di una rendita teorica a durata 
+definita, calcolata in funzione della vita attesa residua dell’aderente  al momento della richiesta, espressa in anni interi . A 
+tal fine, per ciascun anno matura una quota massima prelevabile, corrispondente a una rata annuale della rendita teorica. 
+L’importo complessivamente disponibile per il prelievo in un determinato momento è pari alla somma delle rate  
+maturate fino a tale data, tenendo conto della valorizzazione nel tempo della posizione , al netto degli importi già 
+eventualmente prelevati. Nell’ultimo anno della durata teorica, è possibile prelevare l’intero montante residuo.
+=== pagina 3 ===
+Ogni prelievo riduce il montante residuo e può incidere sull’ammontare delle somme disponibili per l e
+successive erogazioni. Una concentrazione dei prelievi nell e fasi iniziali può determinare una riduzione della  copertura 
+economica nel restante periodo di pensionamento.  
+In caso di decesso dell’aderente durante il periodo di erogazione, il montante residuo è riscattato dal soggetto o dai 
+soggetti indicati dall’aderente al momento dell’esercizio dell’opzione. 
+ 
+Erogazione frazionata del montante accumulato 
+A partire dal 31 ottobre 2026 , sarà possibile richiedere la prestazione pensionistica attraverso un’erogazione frazionata 
+della posizione individuale maturata. L’aderente individua la durata del periodo di erogazione, nel rispetto del limite 
+minimo previsto dalla normativa, pari a cinque anni , e la periodicità delle rate  (mensile, trimestrale, semestrale  o 
+annuale). Durante il periodo di erogazione, il montante residuo rimane investito e continua a essere valorizzato nel 
+tempo fino al suo progressivo esaurimento. L’importo delle rate è determinato dividendo il montante disponibile per il 
+numero di rate ancora da erogare , tenendo conto della durata e della periodicità individuat e e della valorizzazione nel 
+tempo della posizione residua. La prestazione viene quindi corrisposta mediante pagamenti periodici a valere sulla  
+posizione individuale, senza conversione in rendita vitalizia. 
+Questa modalità consente all’aderente di utilizzare gradualmente le risorse maturate, mantenendo una maggiore 
+flessibilità nella gestione della propria posizione nel periodo successivo al pensionamento.  
+In caso di decesso dell’aderente durante il periodo di erogazione, il montante residuo è riscattato dal soggetto o dai 
+soggetti indicati dall’aderente al momento dell’esercizio dell’opzione. 
+____________________________ 
+ 
+Resta ferma, nei limiti previsti dalla normativa vigente,  la possibilità di richiedere una quota della prestazione in capitale 
+e di destinare la parte residua a una delle modalità di erogazione consentite.  
+Le diverse modalità di erogazione devono essere valutate tenendo conto delle relative caratteristiche e dei rischi 
+connessi. In particolare: 
+• l’importo delle prestazioni può variare in base all’andamento del comparto di investimento prescelto; 
+• nelle forme che non prevedono un pagamento vitalizio, sussiste il rischio che la durata della vita dell’aderente 
+sia superiore alla vita attesa considerata ai fini del calcolo della prestazione, con conseguente possibile 
+esaurimento del capitale disponibile; 
+• la concentrazione dei prelievi  nelle fasi iniziali può ridurre la copertura economica disponibile nel restante 
+periodo di pensionamento; 
+• le diverse modalità di erogazione possono comportare regimi fiscali differenti, in base alla normativa vigente e 
+alla specifica modalità di erogazione prescelta. 
+ 
+Nota fiscale  
+Il regime fiscale applicabile segue le regole ordinarie previste per le prestazioni pensionistiche complementari 
+in forma di capitale. Sul montante post 2007 va  però considerata un’importante differenza: per rendita a 
+durata definita e prelievi  liberamente determinabili  è prevista la tassazione sostitutiva con aliquota 
+decrescente dal 15 al 9% in funzione degli anni di partecipazione come per le ordinarie prestazioni 
+pensionistiche in capitale; l’erogazione frazionata in minimo 5 anni è invece soggetta a ta ssazione sostitutiva 
+con aliquota decrescente dal 20 al 15% in base agli anni di partecipazione.

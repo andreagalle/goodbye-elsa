@@ -1,0 +1,489 @@
+# Fondo: FONDO PENSIONE APERTO UBI PREVIDENZA (ubi-previdenza)
+# Documento: Documento sulle rendite – Documento sulle rendite
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/regolamento-e-nota-informativa/011-1/UBIPREV_Documento%20sulle%20rendite.07_2026.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/fondo-pensione-aperto-ubi-previdenza.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: c6e778fda912a4a4cc1bae7ac68b051551713b259ccb9f9c7302beea62628b80
+# Pagine: 9
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Fondo Pensione Aperto 
+UBI Previdenza 
+Iscritto all’Albo tenuto dalla COVIP con il n. 153 
+Istituito in Italia 
+Soggetto gestore: Intesa Sanpaolo Assicurazioni 
+S.p.A. 
+ 
+ 
+ 
+Documento sulle 
+Rendite 
+Ed. 07/2026 
+ 
+(in vigore dal 31/07/2026) 
+ 
+ 
+Via San Francesco d’Assisi, 10 - 10122 Torino 
+(sede legale) 
+Via Melchiorre Gioia 22 – 20124 Milano 
+(sede operativa) 
+ 
+ Numero Verde: 800.124.124 
+ 
+ 
+comunicazioni@pec.intesasanpaoloassicrazioni.com 
+servizioclienti@pec.intesasanpaoloassicrazioni.com 
+ 
+ 
+www.intesasanpaoloassicurazioni.com
+=== pagina 2 ===
+Il presente documento integra il contenuto della Nota Informativa per l’adesione al Fondo Pensione 
+Aperto a contribuzione definita 
+ 
+“Fondo Pensione Aperto UBI Previdenza” 
+Intesa Sanpaolo Assicurazioni S.p.A., Società che gestisce il Fondo Pensione, si assume la 
+responsabilità della veridicità e completezza dei dati e delle notizie contenuti nel presente 
+documento. 
+ 
+Il presente documento è valido a decorrere dal 31 luglio 2026. 
+ 
+Prestazioni pensionistiche 
+I Fondi Pensione possono erogare prestazioni in capitale fino ad un massimo del 50 per cento del 
+montante finale accumulato, la parte rimanente della prestazione dovrà essere erogata sotto forma 
+di rendita. 
+La posizione individuale dell’Iscritto maturata nel Fondo pensione, dedotta l’eventuale liquidazione 
+in forma di capitale, viene impiegata in un premio unico quale corrispettivo delle prestazioni di 
+rendita. 
+L’Impresa di assicurazione, a richiesta dell’Aderente/Assicurato potrà, alternativamente, erogare le 
+prestazioni periodiche nella forma di: 
+• rendita annua vitalizia immediata rivalutabile; 
+• rendita immediata annua vitalizia rivalutabile reversibile: detta rendita è corrisposta 
+all’Aderente/Assicurato finché è in vita e successivamente, in misura totale o per quota scelta 
+dall’Aderente/Assicurato stesso, alla persona da lui designata denominata Reversionario; 
+• rendita certa per 5 o 10 anni e successivamente vitalizia; detta rendita per i primi anni è 
+corrisposta all’Aderente/Assicurato o, in caso di suo decesso, alla persona da lui designata 
+denominata Beneficiario e, successivamente all’ Aderente/Assicurato finché è in vita. 
+La rendita, indipendentemente dalla forma prescelta, può essere frazionata in rate dello stesso 
+importo con cadenza semestrale o trimestrale o bimestrale anziché essere corrisposta in unica 
+soluzione alla fine di ogni anno. Detto frazionamento non può essere modificato nel corso della sua 
+erogazione. 
+ 
+Le percentuali del premio trattenute dalla Compagnia per far fronte ai costi gravanti sul contratto per 
+le spese di amministrazione e di erogazione della rendita sono pari alle seguenti: 
+• 1% per frazionamento annuale del pagamento della rendita; 
+• 1,15% per frazionamento semestrale del pagamento della rendita; 
+• 1,45% per frazionamento trimestrale del pagamento della rendita; 
+• 1,75% per frazionamento bimestrale del pagamento della rendita. 
+ 
+A tali costi vanno aggiunti Euro 2,58 come caricamento fisso per ogni rata di rendita. 
+I coefficienti di conversione attualmente in vigore, - dipendenti dall’età dell’Assicurato all’epoca della 
+conversione, dall’anno di nascita, dal frazionamento della rendita prescelto nonché - limitatamente 
+alle Adesioni collettive ricadenti nell’ambito di applicazione dell’Art. 30-bis del Decreto Legislativo 11 
+Aprile 2006, n. 198 e alle Adesioni precedenti alla data del 21/12/2012 - dal sesso dell’Aderente - 
+nonché le condizioni e modalità di erogazione delle rendite sono contenuti nell’Allegato n°3 al 
+Regolamento del Fondo Pensione Aperto UBI Previdenza. 
+Tali coefficienti possono essere successivamente variati, nel rispetto della normativa in materia di 
+stabilità delle compagnie di assicurazione e delle relative disposizioni applicative emanate 
+dall’IVASS; in ogni caso, le modifiche dei coefficienti di trasformazione non si applicano ai soggetti,
+=== pagina 3 ===
+già aderenti alla data di introduzione delle modifiche stesse, che esercitano il diritto alla prestazione 
+pensionistica nei tre anni successivi. 
+ 
+Regime Fiscale delle prestazioni pensionistiche 
+Le prestazioni pensionistiche complementari erogate in forma periodica sono assoggettate ad una 
+ritenuta a titolo di imposta del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni 
+anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con 
+un limite massimo di riduzione di 6 punti percentuali. La base imponibile delle predette prestazioni 
+pensionistiche è determinata al netto della componente finanziaria che ha già scontato l’imposta 
+sostitutiva in capo al Fondo Pensione nonché al netto dei contributi che non sono stati dedotti. 
+I rendimenti finanziari relativi a ciascuna rata di rendita erogata sono assoggettati annualmente 
+all’imposta sostitutiva delle imposte sui redditi del 26% applicata alla differenza tra l’importo erogato 
+e quello della corrispondente rata calcolata senza tenere conto dei rendimenti finanziari. 
+I proventi delle polizze vita, per la parte riferibile ai titoli pubblici italiani e titoli obbligazionari 
+equiparati, sono soggetti a tassazione con aliquota del 26% applicata ad una base imponibile pari 
+al 48,08% dell’ammontare realizzato per tenere conto del regime fiscale agevolato ad essi 
+applicabile. 
+I rendimenti finanziari in oggetto sono esclusi dalla ritenuta gravante sulla prestazione in quanto 
+soggetti all’imposta di cui sopra. 
+ 
+Prestazioni pensionistiche alternative alla rendita vitalizia 
+ 
+Premessa 
+L’articolo 1, comma 201, della Legge 30 dicembre 2025, n. 199 (Legge di bilancio 2026) ha 
+modificato in modo significativo l’art. 11 del D.Lgs 252/2005, che disciplina le prestazioni 
+pensionistiche, introducendo, a partire dal 1° luglio 2026, le seguenti nuove prestazioni 
+pensionistiche erogabili in alternativa alle rendite vitalizie già previste: 
+1) la rendita a durata definita; 
+2) prelievi liberamente determinabili; 
+ 
+Le nuove prestazioni sono espressamente qualificate dalla legge come «prestazioni 
+pensionistiche» e sono pertanto soggette al medesimo regime normativo — fiscale, previdenziale 
+e di vigilanza — delle prestazioni già disciplinate dall'art. 11 del Decreto. 
+ 
+Inoltre, le due nuove prestazioni sono: 
+• non cumulabili tra loro; 
+• irrevocabili una volta effettuata la scelta; 
+• erogate direttamente da Intesa Sanpaolo Assicurazioni che mantiene in gestione il relativo 
+montante. 
+ 
+Per tali prestazioni si evidenzia inoltre che: 
+• l’aderente, al momento dell’esercizio di una delle suddette opzioni, entra nella fase di 
+erogazione delle prestazioni pensionistiche, con conseguente cessazione delle prerogative 
+tipiche della fase di accumulo (possibilità di effettuare versamenti, anticipazioni, 
+trasferimenti), ad eccezione della riallocazione del comparto di investimento, riferito al 
+montante da cui viene erogata la prestazione richiesta. Le riallocazioni possono essere 
+effettuate sempre nel rispetto del periodo minino, tra un’operazione e l’altra, previsto dalla 
+forma pensionistica. 
+• il montante mantenuto in gestione dalla forma pensionistica per l’erogazione delle 
+prestazioni è investito in un solo comparto scelto dall'aderente o, in mancanza di scelta, nel 
+comparto più prudente. 
+ 
+• successivamente all’attivazione e fruizione di parte delle già menzionate prestazioni 
+pensionistiche è sempre possibile convertire il montante residuo in rendita vitalizia, anche 
+trasferendo lo stesso presso un’altra forma pensionistica complementare, nel caso in cui 
+l’aderente intenda accedere alle condizioni di rendita vitalizia offerte da quest’ultima.
+=== pagina 4 ===
+Le Istruzioni della COVIP del 25 giugno 2026 forniscono le indicazioni operative per l'applicazione 
+omogenea di tali disposizioni da parte di tutti i fondi pensione a contribuzione definita. 
+ 
+A chi sono rivolte e quando si può accedere alle nuove prestazioni 
+pensionistiche 
+ 
+A chi sono rivolte 
+Le nuove prestazioni sono disponibili per tutti gli aderenti ai fondi pensione a contribuzione definita 
+soggetti al D.Lgs. 252/2005. Restano esclusi i dipendenti pubblici iscritti ai fondi di comparto ad 
+essi dedicati (soggetti ancora al D.Lgs. 124/1993), che potranno tuttavia accedervi trasferendo la 
+posizione in un'altra forma pensionistica complementare. 
+ 
+Quando si può accedere 
+I requisiti di accesso sono gli stessi previsti per qualsiasi prestazione pensionistica 
+complementare: 
+• maturazione dei requisiti pensionistici nel regime obbligatorio di appartenenza (es. 
+raggiungimento dell'età per la pensione di vecchiaia o dei requisiti per la pensione 
+anticipata); 
+• almeno 5 anni di partecipazione a forme pensionistiche complementari (termine ridotto a 3 
+anni per il lavoratore il cui rapporto di lavoro in corso cessa per motivi indipendenti dal fatto 
+che lo stesso acquisisca il diritto a una pensione complementare e che si sposta tra Stati 
+membri dell'Unione europea). 
+ 
+Al fine di consentire alle forme pensionistiche complementari di adeguarsi per la gestione delle 
+richieste e l’erogazione delle nuove prestazioni, COVIP ha previsto un periodo transitorio che non 
+può protrarsi oltre il 31 dicembre 2026, durante il quale il Fondo acquisirà le richieste degli aderenti 
+ma procederà alla liquidazione e all’erogazione delle nuove prestazioni solo successivamente 
+all’adeguamento. 
+ 
+Designazione dei soggetti aventi titolo al riscatto in caso di decesso 
+In caso di decesso dell’aderente durante la fase di erogazione, il montante residuo è riscattato dai 
+soggetti dallo stesso indicati al momento dell'esercizio dell'opzione. La designazione è 
+obbligatoria: le richieste prive di tale indicazione sono considerate incomplete e non vengono 
+lavorate. L'indicazione può consistere nella conferma dei soggetti già designati per la fase di 
+accumulo. Le scelte possono essere successivamente modificate. 
+ 
+Le nuove prestazioni pensionistiche 
+La Rendita a Durata Definita 
+ 
+La Rendita a Durata Definita è una prestazione pensionistica, alternativa alla rendita vitalizia,  
+pagata per un numero di anni predeterminato e calcolato sulla aspettativa di vita attesa residua 
+(speranza di vita) definita in base all’età dell’aderente al momento della richiesta, arrotondata per 
+difetto e non modificabile.  
+Non è legata alla sopravvivenza effettiva: l'erogazione cesserà al termine del periodo stabilito 
+nonostante la sopravvivenza dell’aderente. 
+ 
+Calcolo della Durata  
+La durata di questa prestazione corrisponde al numero intero di anni della speranza di vita residua, 
+alla data della richiesta, ricavato dalle tavole di mortalità ISTAT utilizzate per i coefficienti di 
+trasformazione della Legge 335/1995 (arrotondato per difetto). Esempio: se all'età della richiesta la 
+speranza di vita residua è 20,7 anni, la durata della rendita sarà 20 anni. 
+ 
+Come si calcola l'importo delle rate 
+L’erogazione della prestazione avviene su base libera a richiesta dell’Aderente, tramite l’apposito
+=== pagina 5 ===
+Modulo predisposto dalla Compagnia. 
+Trattandosi di una forma di previdenza che prevede una gestione in quote, a ciascuna rata di 
+rendita corrisponde un prefissato numero di quote e frazioni di quota, ottenuto dividendo il numero 
+complessivo di quote corrispondente all’importo del montante convertito in rendita per il numero di 
+rate.  
+L’importo della rata di rendita, varia in funzione del valore della quota alla data di erogazione della 
+stessa, quindi se il comparto ha avuto un buon rendimento, la rata sarà più alta; in caso contrario, 
+la rata sarà più bassa. 
+In fase di erogazione della rendita a durata definita, l’investimento sarà allocato, con richiesta 
+esplicita dell’aderente, esclusivamente in un solo comparto. 
+Il montante residuo resta comunque investito fino al completo esaurimento dell’erogazione. 
+ 
+Periodicità di erogazione rendita 
+Si può richiedere la rendita a durata definita, scegliendo, oltre ad una porzione della posizione 
+individuale da destinare a tale tipologia di prestazione, anche la cadenza delle rate tra i seguenti 
+frazionamenti: 
+• mensile; 
+• trimestrale; 
+• annuale.  
+Qualora la rateazione prescelta sia differente da quella annuale, è stabilito un importo minimo pari 
+a 150 euro,  
+calcolato al momento dell’accertamento della sussistenza dei requisiti. 
+Qualunque sia la periodicità di erogazione prescelta, la data di riferimento per la determinazione 
+del montante relativo alla posizione dell’Aderente coincide con l’ultima valorizzazione disponibile 
+alla data di accertamento dei requisiti previsti dalla normativa.  
+La prima rata di rendita è erogata entro il 6° mese successivo la data di richiesta della prestazione, 
+in base al primo valore quota successivo all’accertamento dei requisiti da parte della Compagnia. 
+Le rate successive sono erogate secondo la cadenza richiesta e in base al rispettivo valore quota 
+di riferimento.  
+ 
+Costi per l’esercizio della Prestazione pensionistica 
+I costi sono riportati nel Supplemento della Nota informativa disponibile sul sito della Compagnia. 
+ 
+Rischi da considerare 
+• Rischio di longevità: In caso di sopravvivenza per un numero di anni maggiore rispetto alla 
+durata della rendita, il capitale si esaurirà e non riceverà più alcuna erogazione dopo 
+l’erogazione dell’ultima rata. 
+• Rischio di investimento: le rate variano con i rendimenti del comparto. Non esiste un importo 
+garantito ad eccezione dell’investimento nel comparto Capitale Sicuro, ove è presente una 
+garanzia di restituzione del capitale, e cioè la restituzione dei contributi versati al netto delle 
+spese direttamente a carico dell’aderente  e nel comparto Garantito, ove è presente una 
+garanzia di restituzione del capitale, e cioè la restituzione dei contributi versati al netto delle 
+spese direttamente a carico dell’aderente con una maggiorazione dell’1,50% su base annua. 
+• Rischio di concentrazione temporale: le prestazioni di previdenza complementare potrebbero 
+concentrarsi eccessivamente nella fase iniziale a fronte di una minore copertura disponibile 
+nel restante periodo di pensionamento. 
+ 
+ 
+ 
+ 
+ 
+ 
+Esempio numerico illustrativo  
+Ipotesi al netto delle spese (lordo imposte):  
+• Montante destinato alla prestazione in rendita (A):   50.000,00 €  
+• Spesa una tantum applicata all’attivazione della prestazione: (B):  20,00 €
+=== pagina 6 ===
+• Montante netto spese (C)=(A)-(B):     49.980,00 €  
+• Valore quota iniziale (D):                                                 24,50    
+• Montante netto spese espresso in n° quote (E)=(C)/(D):   2.040,00    
+• Durata della rendita (in anni*) (F):                                                20  
+• N° quote per ciascuna rata annuale (G)=(E)/(F):    102,00       
+• Spesa applicata su singola rata erogata (H):     2,00€ 
+ 
+* la durata della rendita corrisponde alla durata di vita media attesa 
+ 
+ 
+Anno 
+Montante 
+residuo 
+inizio anno 
+in numero 
+quote (E) 
+Valore 
+quota  
+(D) 
+N° quote 
+per rata 
+annuale 
+(G) 
+Importo rata € 
+(I)=(D) x (G) 
+Spesa su 
+ciascuna 
+rata € 
+(H) 
+Rata erogata 
+netto spese €  
+(L) = (I) - (H) 
+Montante 
+residuo fine 
+anno in 
+numero quote  
+(M)=(E)-(G) 
+1 2.040,00 24,50 102,00 2.499,00 2,00 2.497,00 1.938,00 
+2 1.938,00 24,00 102,00 2.448,00 2,00 2.446,00 1.836,00 
+3 1.836,00 24,60 102,00 2.509,20 2,00 2.507,20 1.734,00 
+4 1.734,00 24,50 102,00 2.499,00 2,00 2.497,00 1.632,00 
+5 1.632,00 25,00 102,00 2.550,00 2,00 2.548,00 1.530,00 
+6 1.530,00 25,10 102,00 2.560,20 2,00 2.558,20 1.428,00 
+7 1.428,00 25,00 102,00 2.550,00 2,00 2.548,00 1.326,00 
+8 1.326,00 25,60 102,00 2.611,20 2,00 2.609,20 1.224,00 
+9 1.224,00 25,90 102,00 2.641,80 2,00 2.639,80 1.122,00 
+10 1.122,00 26,00 102,00 2.652,00 2,00 2.650,00 1.020,00 
+11 1.020,00 26,30 102,00 2.682,60 2,00 2.680,60 918,00 
+12 918,00 26,30 102,00 2.682,60 2,00 2.680,60 816,00 
+13 816,00 27,00 102,00 2.754,00 2,00 2.752,00 714,00 
+14 714,00 26,80 102,00 2.733,60 2,00 2.731,60 612,00 
+15 612,00 27,00 102,00 2.754,00 2,00 2.752,00 510,00 
+16 510,00 27,20 102,00 2.774,40 2,00 2.772,40 408,00 
+17 408,00 27,50 102,00 2.805,00 2,00 2.803,00 306,00 
+18 306,00 27,70 102,00 2.825,40 2,00 2.823,40 204,00 
+19 204,00 27,50 102,00 2.805,00 2,00 2.803,00 102,00 
+20 102,00 28,00 102,00 2.856,00 2,00 2.854,00 - 
+ 
+L'importo in euro della rata erogata varia perché varia il valore della quota, non il numero di quote 
+erogate per rata. 
+ 
+Prelievi liberamente determinabili 
+I prelievi liberamente determinabili sono una prestazione pensionistica che consente all'aderente di 
+scegliere autonomamente, entro i limiti stabiliti dalla normativa, quando prelevare e quanto. 
+Possono essere richiesti nei limiti della somma delle rate, maturate e non riscosse, della rendita a 
+durata definita descritta precedentemente. Il montante residuo, non prelevato, rimane sempre 
+investito nel comparto scelto. 
+ 
+I prelievi e le limitazioni 
+L’erogazione della prestazione avviene su base libera a richiesta dell’Aderente, tramite l’apposito 
+Modulo predisposto dalla Compagnia, per cui, oltre alla porzione di posizione individuale da 
+destinare a tale tipologia di prestazione, si può richiedere un primo prelievo già al momento della 
+domanda di accesso alla prestazione. L’Aderente ha la facoltà di scegliere l’importo e la tempistica 
+delle erogazioni, fermi i seguenti limiti: 
+• non si può prelevare tutto e subito; l’importo massimo prelevabile in ogni momento è pari alla 
+differenza tra la somma delle rate di rendita a durata definita fino a quel momento maturate e 
+la somma dei prelievi liberi già effettuati. Per la determinazione del calcolo della rata di 
+rendita si rimanda a quanto descritto nella sezione “Come si calcola l'importo delle rate” della 
+precedente sezione relativa alla Rendita a durata definita;
+=== pagina 7 ===
+• nell'ultimo anno di durata teorica, si può prelevare fino all'intero montante residuo; 
+• la data di riferimento per la determinazione del montante relativo alla posizione dell’Aderente 
+e del limite di importo annuo massimo richiedibile ai fini del primo prelievo coincide con 
+l’ultima valorizzazione disponibile alla data di accertamento dei requisiti previsti dalla 
+normativa; 
+• l’importo lordo minimo prelevabile è pari a 150 euro; 
+• il primo prelievo è erogato entro il 6° mese successivo la data di richiesta della prestazione, 
+in base al primo valore quota successivo all’accertamento dei requisiti da parte della 
+Compagnia; 
+• I prelievi successivi sono erogati entro il 6° mese successivo alla data di richiesta, al primo 
+valore quota successivo la data di richiesta medesima;  
+• in fase di erogazione della rendita a durata definita, l’investimento sarà allocato, con richiesta 
+esplicita dell’aderente, esclusivamente in un solo comparto. 
+ 
+ 
+Costi per l’esercizio della Prestazione pensionistica 
+I costi sono riportati nel Supplemento della Nota informativa disponibile sul sito della Compagnia. 
+ 
+Rischi da considerare 
+• Rischio di longevità: In caso di sopravvivenza per un numero di anni maggiore rispetto alla 
+durata della rendita, il capitale si esaurirà e non riceverà più alcuna erogazione dopo 
+l’erogazione dell’ultima rata. 
+• Rischio di investimento: il valore delle quote – e quindi l'importo massimo prelevabile in 
+euro – varia in base al rendimento registrato dal comparto scelto. Non esiste un importo 
+garantito, ad eccezione dell’investimento nel comparto Capitale Sicuro, ove è presente una 
+garanzia di restituzione del capitale, e cioè la restituzione dei contributi versati al netto delle 
+spese direttamente a carico dell’aderente e nel comparto Garantito, ove è presente una 
+garanzia di restituzione del capitale, e cioè la restituzione dei contributi versati al netto delle 
+spese direttamente a carico dell’aderente con una maggiorazione dell’1,50% su base 
+annua. 
+• Rischio di concentrazione temporale: le prestazioni di previdenza complementare 
+potrebbero concentrarsi eccessivamente nella fase iniziale a fronte di una minore copertura 
+disponibile nel restante periodo di pensionamento 
+ 
+Esempio numerico illustrativo  
+Ipotesi al netto delle spese (lordo imposte):  
+• Montante destinato alla prestazione (A):    50.000,00 €  
+• Spesa una tantum applicata all’attivazione della prestazione (B): 20,00 €  
+•  Montante netto spese (C)=(A)-(B):    49.980,00 €  
+• Valore quota iniziale (D):     24,50    
+• Montante netto spese espresso in n° quote (E)=(C)/(D):   2.040,00    
+• Durata della rendita teorica (in anni*) (F):   20 
+• N° quote per ciascuna rata teorica annuale (G)=(E)/(F):  102 
+• Spesa applicata su ogni prelievo (H):    2,00€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inizio 
+anno 
+Montante 
+residuo 
+inizio 
+anno  
+in quote 
+Valore 
+quota  
+(D) 
+N° quote 
+prelevabili inizio 
+anno 
+(G) ** 
+N° quote 
+effettivamente 
+prelevate 
+(I) 
+Importo 
+erogato €  
+(L)=(D)x(I) 
+Spesa su 
+ciascun 
+prelievo 
+€ 
+(H) 
+Importo 
+netto 
+erogato €  
+(M)=(L) - 
+(H) 
+Montante 
+residuo 
+fine anno 
+in quote 
+(N)=(E)-(I)
+=== pagina 8 ===
+(E) 
+1 2.040,00 24,50 102,00 80,00 1.960,00 2,00 1.958,00 1.960,00 
+2 1.960,00 24,00 124,00 100,00 2.400,00 2,00 2.398,00 1.860,00 
+3 1.860,00 24,60 126,00 - - 2,00 - 1.860,00 
+4 1.860,00 24,50 228,00 200,00 4.900,00 2,00 4.898,00 1.660,00 
+5 1.660,00 25,00 130,00 100,00 2.500,00 2,00 2.498,00 1.560,00 
+6 1.560,00 25,10 132,00 - - 2,00 - 1.560,00 
+7 1.560,00 25,00 234,00 150,00 3.750,00 2,00 3.748,00 1.410,00 
+8 1.410,00 25,60 186,00 100,00 2.560,00 2,00 2.558,00 1.310,00 
+9 1.310,00 25,90 188,00 100,00 2.590,00 2,00 2.588,00 1.210,00 
+10 1.210,00 26,00 190,00 100,00 2.600,00 2,00 2.598,00 1.110,00 
+11 1.110,00 26,30 192,00 - - 2,00 - 1.110,00 
+12 1.110,00 26,30 294,00 200,00 5.260,00 2,00 5.258,00 910,00 
+13 910,00 27,00 196,00 100,00 2.700,00 2,00 2.698,00 810,00 
+14 810,00 26,80 198,00 100,00 2.680,00 2,00 2.678,00 710,00 
+15 710,00 27,00 200,00 - - 2,00 - 710,00 
+16 710,00 27,20 302,00 200,00 5.440,00 2,00 5.438,00 510,00 
+17 510,00 27,50 204,00 100,00 2.750,00 2,00 2.748,00 410,00 
+18 410,00 27,70 206,00 200,00 5.540,00 2,00 5.538,00 210,00 
+19 210,00 27,50 108,00 100,00 2.750,00 2,00 2.748,00 110,00 
+20 110,00 28,00 110,00 110,00 3.080,00 2,00 3.078,00 - 
+        
+* la durata della rendita teorica corrisponde alla durata di vita media attesa 
+**pari alla somma delle rate teoriche in quote maturate fino all’anno di riferimento cui viene detratta 
+la somma delle quote prelevate fino all’anno precedente a quello di riferimento 
+ 
+Possibilità di conversione in rendita vitalizia   
+Anche dopo aver scelto una delle nuove tipologie di prestazione, si conserva la facoltà di 
+convertire il montante residuo, ancora in gestione, in una rendita vitalizia. Questa opzione è 
+esercitabile in qualsiasi momento durante la fase di erogazione sia: 
+ 
+• presso il Fondo Pensione UBI Previdenza; 
+• trasferendo il montante residuo a un'altra forma pensionistica complementare, al solo scopo 
+di accedere alle condizioni di rendita vitalizia offerte da quest'ultima. 
+ 
+Il Fondo definisce nel proprio Regolamento le condizioni e le modalità per esercitare questa 
+facoltà.  
+ 
+Regime fiscale 
+ 
+Le nuove tipologie di prestazione sono qualificate dalla legge come «prestazioni pensionistiche» in 
+capitale. Il regime fiscale applicabile segue pertanto le regole ordinarie previste per le prestazioni 
+pensionistiche complementari in forma di capitale.  
+Le specifiche tecniche sono dettagliate nel Documento sul regime fiscale del Fondo.
+=== pagina 9 ===
+Come richiedere le nuove prestazioni pensionistiche 
+ 
+Per accedere alle nuove prestazioni pensionistiche, è necessario: 
+ 
+1. Verificare di aver maturato i requisiti (pensionamento nel regime obbligatorio e almeno 5/3 
+anni di partecipazione alla previdenza complementare). 
+2. Leggere attentamente questo documento aggiornato con le nuove tipologie di prestazione 
+pensionistica. 
+3. Compilare il modulo di richiesta “Richiesta Prestazione Pensionistica”, disponibile presso il 
+Distributore e sul sito web del Fondo. 
+4. Indicare obbligatoriamente il/i soggetto/i beneficiario/i del montante residuo in caso di 
+decesso. 
+5. Attendere la conferma di presa in carico della richiesta e di accertamento dei requisiti da 
+parte del Fondo. È previsto un periodo transitorio, stabilito dalla Covip, durante il quale le 
+richieste pervenute al Fondo potranno essere sospese fino all’adeguamento dei sistemi 
+interni (termine ultimo 31 dicembre 2026) decorso il quale sarà effettuata la liquidazione 
+delle prestazioni entro i termini previsti da Covip.

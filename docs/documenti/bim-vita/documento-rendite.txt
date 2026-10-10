@@ -1,0 +1,907 @@
+# Fondo: FONDO PENSIONE APERTO BIM VITA (bim-vita)
+# Documento: Documento sulle rendite – Documento sull'erogazione delle rendite
+# Fonte: https://www.unipol.it/content/dam/unipol/documents/italiano/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione/new.pdf
+# Citato in: https://www.unipol.it/fragments/dialogs/privati/previdenza-e-risparmio/previdenza/fondo-pensione-aperto-bv/documentazione
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: e61d78334eca064daa8a7c5ce714cc5aa6937205849f3680f91191cda4e66428
+# Pagine: 20
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL FONDO PENSIONE APERTO BV 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 120 
+  
+ 
+ 
+ 
+UNIPOL FONDO PENSIONE APERTO BV 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 120 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SULL’EROGAZIONE DELLE RENDITE - Il presente documento è volto ad integrare 
+le informazioni in materia di erogazione delle prestazioni pensionistiche contenute nel Supplemento 
+alla Nota Informativa della forma pensionistica complementare denominata Unipol Fondo Pensione 
+Aperto BV (di seguito FPA o Fondo). Se ne raccomanda la lettura congiunta oltre che con la Nota 
+informativa anche con il Regolamento.
+=== pagina 2 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 1 di 18 
+ 
+DOCUMENTO SULL’EROGAZIONE DELLE RENDITE 
+L’Aderente, dal momento della maturazione dei requisiti di accesso alle prestazioni pensionistiche stabilite 
+nel regime obbligatorio di appartenenza e del periodo minimo di permanenza, può esercitare il diritto alla 
+prestazione pensionistica complementare, scegliendo tra le diverse modalità di fruizione del montante finale 
+accumulato.  
+In dettaglio, le prestazioni pensionistiche possono essere erogate in capitale fino ad un massimo del 50% del 
+montante finale accumulato, e in rendita vitalizia (SEZIONE A) o, in luogo di quest’ultima, in una delle 
+prestazioni pensionistiche alternative (SEZIONE B).  
+Resta inoltre confermata la possibilità di ottenere la prestazione pensionistica interamente sotto forma di 
+capitale (100% capitale) nei seguenti casi: 
+- la rendita derivante dalla conversione di almeno il 70% del montante risulti inferiore al 50% 
+dell’assegno sociale (art. 11, comma 3, ultimo periodo del Decreto); 
+- l’Aderente abbia lo status di “vecchio iscritto” ai sensi dell’art. 23, comma 7, del Decreto (ossia risulti 
+iscritto alla data del 29/4/1993 ad una forma pensionistica complementare istituita alla data del 
+15/11/92).  
+ 
+SEZIONE A: RENDITA VITALIZIA E RELATIVI ALLEGATI 
+ 
+1. Prestazioni pensionistiche in forma di rendita 
+A seguito dell’esercizio del diritto alla prestazione pensionistica, all’ aderente è erogata  una 
+prestazione periodica sotto forma di rendita calcolata in base al valore della posizione individuale 
+maturata, determinata secondo quanto previsto dal Regolamento del FPA, al netto della 
+eventuale quota di prestazione da erogare sotto forma di capitale.  
+ 
+I coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per la 
+determinazione della rendita vitalizia, secondo quanto precisato al successivo punto 3., sono 
+indicati negli Annessi 1 e 2 al presente Documento e possono essere successivamente modificati 
+secondo quanto di seguito indicato.  
+ 
+1.1 Modifica delle basi demografiche e/o finanziarie   
+I coefficienti di trasformazione (basi demografiche e finanziarie) possono essere successivamente 
+modificati dall’Impresa di A ssicurazione , nel rispetto della normativa tempo per tempo vigente 
+in materia di stabilità delle compagnie di assicurazione.  
+ 
+In ogni caso, le modifiche dei coefficienti di trasformazione non si applicano ai soggetti, già 
+aderenti alla data di introduzione delle modifiche stesse, che esercitino il diritto alla prestazione 
+pensionistica nei tre anni successivi o per i quali sia già iniziata l’erogazione della rendita.  
+ 
+1.2 Comunicazioni in caso di modifica delle basi demografiche e/o finanziarie e diritto di trasferimento 
+Nel caso l’Impresa di A ssicurazione intenda applicare coefficienti diversi da quelli in uso che 
+comportino un peggioramento rilevante delle condizioni economiche del FPA, l’Impresa di 
+Assicurazione effettua apposita Comunicazione all’ aderente, corredata dalle tabelle con i nuovi 
+coefficienti, almeno 120 giorni prima della relativa data di efficacia; l’Aderente ha 90 giorni di tempo 
+dal ricevimento della Comunicazione dei nuovi coefficienti per manifestare all’Impresa di Assicurazione 
+l’eventuale scelta di trasferimento della posizione Individuale ad altra forma pensionistica 
+complementare senza applicazione di spese. La richiesta di trasferimento dovrà pervenire all’Impresa
+=== pagina 3 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 2 di 18 
+ 
+di Assicurazione - per iscritto e debitamente firmata da parte dell’ aderente - per il tramite del 
+competente Soggetto Abilitato o a mezzo lettera raccomandata indirizzata all’Impresa di Assicurazione 
+con sede in via Stalingrado 45, 450128 Bologna (BO). 
+ 
+ 
+2. Tipologie di Rendita vitalizia immediata 
+In ragione dell’opzione esercitata dall’aderente in conformità alle previsioni del Regolamento del FPA, 
+la posizione individuale convertita in prestazione periodica vitalizia può essere erogata in una delle 
+seguenti tipologie di rendita: 
+ 
+• rendita vitalizia immediata; detta rendita è corrisposta all’aderente finché egli è in vita (Forma A); 
+ 
+• rendita immediata certa per i primi cinque anni e successivamente vitalizia; detta rendita è corrisposta 
+all’aderente finché egli sia in vita, con la garanzia che , in caso di suo decesso  prima di aver percepito 
+cinque annualità, le rate di rendita mancanti al completamento delle suddette cinque annualità 
+vengano corrisposte alla/e persona/e da lui designata/e (Forma B); 
+ 
+• rendita immediata certa per i primi dieci anni e successivamente vitalizia; detta rendita è corrisposta 
+all’aderente finché egli sia in vita, con la garanzia che , in caso di suo decesso  prima di aver percepito 
+dieci annualità, le rate di rendita mancanti al completamento delle suddette dieci annualità vengano 
+corrisposte alla/e persona/e da lui designata/e (Forma C);  
+• rendita vitalizia immediata reversibile; detta rendita è corrisposta all’ aderente finché egli sia in vita e 
+successivamente, in misura totale o per la quota scelta dall’aderente stesso, a favore della/e persona/e 
+da lui preventivamente designata/e (Forma D). 
+ 
+ 
+L’importo annuo della rendita vitalizia sarà determinato impiegando il premio unico di cui al successivo 
+punto 3. nell’apposita tariffa, depositata presso la sede del Fondo, in vigore all’epoca della conversione 
+della posizione individuale, in base all’anno di nascita, all’età raggiunta dall’aderente e, qualora 
+l’aderente sia un lavoratore dipendente che aderisce su base collettiva, al sesso.   
+ 
+ 
+Negli Annessi 1 e 2, più avanti riportati, sono indicati i valori iniziali della rendita annua assicurata con 
+le Forme A, B e C, per ogni Euro 1.000,00 di premio unico. 
+ 
+In particolare,  
+- nell’Annesso n° 1 sono contenute le tabelle da adottare qualora la conversione in rendita derivi 
+da adesioni al Fondo avvenute su base individuale e da adesioni su base collettiva diverse da 
+quelle di lavoratori dipendenti; 
+- nell’Annesso n° 2 sono contenute le tabelle da adottare qualora la conversione in rendita derivi 
+da adesioni al Fondo su base collettiva di lavoratori dipendenti.  
+ 
+Il valore iniziale della corrispondente rendita annua assicurata con la Forma D  verrà determinato, 
+caso per caso, in funzione dell’aliquota di reversibilità pattuita nonché dell’età della/e persona/e 
+designata/e e - qualora l’aderente sia un lavoratore dipendente che aderisce su base collettiva - anche 
+del sesso, applicando i coefficienti e le modalità di calcolo depositate presso la sede del Fondo.  
+ 
+La rendita annua viene corrisposta con le modalità e nei termini fissati al successivo punto 5 e si 
+rivaluta come previsto al successivo punto 6.
+=== pagina 4 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 3 di 18 
+ 
+ 
+3. Determinazione della rendita vitalizia 
+La posizione individuale maturata dall’aderente al Fondo, dedotta l’eventuale liquidazione in forma di 
+capitale, costituisce la somma da convertire in prestazione periodica e viene utilizzata dall’Impresa di 
+Assicurazione quale premio unico per garantire la prestazione pensionistica complementare nella 
+forma di rendita scelta dall’ aderente fra le tipologie proposte dall’Impresa di Assicurazione ed 
+individuate al precedente punto 2. 
+ 
+Il Fondo si impegna a versare il premio unico all’Impresa di A ssicurazione mediante bonifico bancario 
+con valuta entro 15 giorni dalla data della richiesta effettuata dall’ aderente. La relativa scrittura di 
+addebito ha valore di quietanza e la data di versamento del premio, nonché di entrata in vigore delle 
+garanzie assicurative (data di conversione in rendita), coincide con la data di valuta del relativo 
+accredito riconosciuta all’Impresa di Assicurazione o con la data dell’operazione, se successiva a quella 
+di valuta. 
+ 
+Qualora i coefficienti di trasformazione di cui agli Annessi 1 e 2 ( TARIFFA DI ASSICURAZIONE PER LA 
+CONVERSIONE DELLA POSIZIONE INDIVIDUALE IN PRESTAZIONE PENSIONISTICA)  non subiscano 
+variazioni, l ’importo annuo della rendita sarà determinato impiegando il premio unico stesso 
+nell’apposita tariffa di cui agli Annessi 1 o 2. Viceversa, l’importo annuo della rendita sarà determinato 
+impiegando il premio unico nell’apposita tariffa, depositata presso la sede del Fondo, in vigore 
+all’epoca della conversione della posizione individuale.  
+ 
+La tariffa (coefficienti di trasformazione) è stabilita su basi demografiche e finanziarie. 
+ 
+Le basi demografiche riguardano la probabilità di sopravvivenza dell’aderente, mentre le basi finanziarie 
+riguardano le ipotesi formulate sugli scenari economico-finanziari e sono rappresentate dai rendimenti 
+ottenibili con gli investimenti in attività finanziarie. 
+ 
+In particolare, la tariffa è determinata in funzione dell’anno di nascita dell’aderente, della sua e tà 
+raggiunta alla data di accesso alla prestazione pensionistica e, qualora l’ aderente sia un lavoratore 
+dipendente che aderisce su base collettiva, anche del sesso. Concorrono inoltre la tipologia e  la 
+rateazione della rendita prescelta, nonché il tasso di interesse riconosciuto in via anticipata (tasso 
+tecnico). 
+L’età anagrafica dell’ aderente raggiunta alla data di accesso alla prestazione pensionistica viene 
+calcolata in anni interi e mesi compiuti. L’età così determinata viene poi corretta in funzione dell’anno 
+di nascita e, qualora l’aderente sia un lavoratore dipendente che aderisce su base collettiva, anche del 
+sesso con i criteri esposti negli Annessi 1 o 2, dando così origine all’età assicurativa alla quale sono 
+associati i coefficienti. 
+ 
+ 
+4. Spese 
+4.1 Le spese relative alla fase di erogazione della rendita, già conteggiate nei coefficienti di 
+trasformazione riportati negli Annessi 1 e 2 sono variabili in base alla rateazione della rendita scelta. 
+Il loro ammontare, espresso come percentuale della rata annua della rendita, è pari a: 
+ 0,9%, in caso di frazionamento annuale;  
+ 1,0%, in caso di frazionamento semestrale;  
+ 1,2%, in caso di frazionamento trimestrale;  
+ 2,0%, in caso di frazionamento mensile.
+=== pagina 5 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 4 di 18 
+ 
+ 
+4.2 Ad ogni rivalutazione della rendita in erogazione, l’Impresa di Assicurazione preleva dal rendimento 
+realizzato dalla Gestione Separata R.E. Unipol, cui è collegato l’andamento della rendita stessa, una 
+commissione pari al 10% di detto rendimento, eventualmente aumentata sino a consentire comunque 
+all’Impresa di Assicurazione il trattenimento di almeno 0,75 punti percentuali. 
+ 
+ 
+5. Erogazione della rendita vitalizia 
+ 
+L’erogazione della rendita prescelta è prevista, ai sensi del Regolamento del FPA,  a seguito 
+dell’esercizio del diritto alla prestazione pensionistica. 
+ 
+La rendita viene corrisposta in via posticipata, nella rateazione prescelta dall’ aderente tra quelle 
+proposte dall’Impresa di Assicurazione (annuale, semestrale, trimestrale e mensile). 
+ 
+Fatto salvo quanto previsto per le Forme B e C, l’Impresa di Assicurazione, contro rilascio di regolare 
+quietanza da parte degli aventi diritto, corrisponde:  
+- ciascuna rata di rendita, subordinatamente all’esistenza in vita dell’aderente o della/e persona/e 
+da lui designata/e ad ogni rispettiva scadenza; 
+- il rateo di rendita maturato al momento del decesso dell’aderente o della/e persona/e da lui 
+designata/e, relativo al tempo trascorso dall’ultima scadenza di rata precedente il decesso o, se 
+non è ancora scaduta la prima rata di rendita, dal termine della fase di accumulo. 
+ 
+Per il pagamento della rendita è necessario fornire all’Impresa di Assicurazione, tramite il Fondo, i 
+documenti indicati nella tabella A allegata al Regolamento del FPA. 
+ 
+Qualora l’esame della suddetta documentazione evidenzi situazioni particolari o dubbie tali da non 
+consentire la verifica dell’obbligo di pagamento o l’individuazione degli aventi diritto o l’adempimento 
+agli obblighi di natura fiscale, l’Impresa di A ssicurazione richiederà tempestivamente l’ulteriore 
+documentazione necessaria in relazione alle particolari esigenze istruttorie. 
+ 
+Verificata la sussistenza dell'obbligo di pagamento, la rata di rendita dovuta viene messa a disposizione 
+degli aventi diritto entro 30 giorni dalla relativa data di scadenza, purché a tale data l’Impresa di 
+Assicurazione abbia ricevuto tutta la documentazione necessaria; in caso contrario, la rata di rendita 
+viene messa a disposizione entro 30 giorni dal ricevimento da parte dell’Impresa di Assicurazione della 
+suddetta documentazione completa. Decorso tale termine, ed a partire dal medesimo, sono dovuti gli 
+interessi moratori, a favore degli aventi diritto, calcolati secondo i criteri della capitalizzazione 
+semplice, al tasso annuo pari al saggio legale tempo per tempo in vigore, anche agli eventuali fini ed 
+effetti di cui all’art. 1224, 2° co., c.c. . 
+ 
+Durante l'erogazione: 
+• la rendita è correlata ai risultati della Gestione Separata R.E. Unipol , disciplinata dal relativo 
+Regolamento allegato al Regolamento del FPA e a cui si rimanda; 
+• la rendita non è riscattabile né sono consentite operazioni di trasferimento, anticipazione, 
+riallocazione; 
+• non possono affluire somme, a qualunque titolo, al FPA; 
+• l’importo della rendita no n potrà essere variato a seguito di eventuali modifiche che dovessero 
+intervenire nelle basi demografiche e/o finanziarie impiegate nei coefficienti di trasformazione 
+(tariffa); 
+•    la rateazione della rendita non è modificabile.
+=== pagina 6 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 5 di 18 
+ 
+ 
+6. Rivalutazione della rendita assicurata 
+Le Forme di rendita di cui al precedente punto 2. fanno parte di una speciale categoria di assicurazioni 
+sulla vita per le quali l’Impresa di Assicurazione riconosce, grazie ai risultati conseguiti con l’apposita 
+Gestione Separata R.E. Unipol, una rivalutazione annua delle rendite assicurate secondo le modalità 
+sotto indicate. 
+Ad ogni anniversario della data di conversione in rendita, la rendita annua assicurata da corrispondere 
+nell’anno seguente viene aumentata nella misura di rivalutazione di seguito definita. 
+ 
+Misura di rivalutazione: la misura annua di rivalutazione è pari al rendimento annuo attribuito e non 
+può essere negativa. 
+ 
+Rendimento attribuito: l’Impresa di Assicurazione dichiara, entro la fine del mese che precede quello 
+in cui cade l'anniversario della data di conversione in rendita, il rendimento annuo da attribuire agli 
+aderenti, che è pari al 90% del tasso medio di rendimento realizzato dalla Gestione Separata, fermo 
+restando il trattenimento da parte dell’Impresa di Assicurazione di almeno 3/4 (ovvero 0,75) di punto 
+percentuale di rendimento. 
+A tal fine, come stabilito dal Regolamento della Gestione Separata, l’Impresa di Assicurazione 
+determina mensilmente il tasso medio di rendimento della Gestione Separata realizzato su un periodo 
+di osservazione di 12 mesi; il tasso medio di rendimento così determinato costituisce la base di calcolo 
+per la rivalutazione annua da applicare alle rendite assicurate la cui data di rivalutazione annuale cade 
+nel terzo mese successivo al termine del periodo di osservazione considerato. 
+ 
+Il valore rivalutato della rendita annua assicurata viene comunicato annualmente all’aderente.
+=== pagina 7 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 6 di 18 
+ 
+ANNESSO 1 
+(adesioni individuali e adesioni su base collettiva diverse da quelle di lavoratori dipendenti)  
+ 
+TARIFFA DI ASSICURAZIONE PER LA CONVERSIONE DELLA POSIZIONE INDIVIDUALE IN PRESTAZIONE PENSIONISTICA  
+ 
+La presente tariffa è determinata tenendo conto della speranza di vita desunta dalle Basi demografiche per rendite 
+vitalizie elaborate dall’ANIA - Tavola A62I indifferenziata per sesso (composizione: 40% maschi; 60% femmine) e distinta 
+per anno di nascita. La tariffa non tiene conto di alcun tasso di interesse precontato (cioè il tasso tecnico è pari a zero). 
+La rendita annua derivante dall’applicazione della presente tariffa tiene già conto delle spese per il servizio di erogazione 
+della rendita di cui al par. 4.1 del precedente punto 4. E’ fatta salva la facoltà di revisione delle basi demografiche e/o 
+finanziarie in conformità a quanto previsto al precedente punto 1. . 
+ 
+Avvertenza sulle modalità di calcolo 
+ 
+L’età assicurativa indicata nelle tabelle dei valori di rendita si determina al termine della fase di accumulo applicando 
+all’età raggiunta dall’aderente - calcolata in anni interi e mesi compiuti - la seguente correzione in funzione dell’anno 
+di nascita. 
+ 
+Anno di nascita: Correzione da applicare all’età al termine della fase di accumulo: 
+dal 1927 al 1938 aumento di 3 anni 
+dal 1939 al 1947 aumento di 2 anni 
+dal 1948 al 1957 aumento di 1 anno 
+dal 1958 al 1966 invariata 
+dal 1967 al 1977 riduzione di 1 anno 
+dal 1978 al 1989 riduzione di 2 anni 
+dal 1990 al 2001 riduzione di 3 anni 
+dal 2002 al 2014 riduzione di 4 anni 
+dal 2015 al 2020 riduzione di 5 anni 
+dal 2021 riduzione di 6 anni 
+ 
+Se l'età assicurativa non è intera, la rendita annua si ottiene interpolando linearmente fra i valori di rendita relativi all e 
+due età intere che la comprendono, cioè aggiungendo al minore dei due valori tanti dodicesimi della differenza 
+rispetto al maggiore, per quanti sono i mesi compiuti dall’aderente. 
+ 
+Esempi di calcolo (anno di riferimento: 2022) 
+ 
+Esempio per un aderente di sesso femminile o maschile nato nel 1955 
+Età raggiunta: 67 anni e 8 mesi 
+Forma prescelta: A 
+Rateazione prescelta: Annuale 
+Età assicurativa: 68 anni e 8 mesi 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico (Forma A): 
+ 42,4171 + (44,1394 – 42,4171) x 8/12 = 43,5653 
+ 
+Esempio per un aderente di sesso femminile o maschile nato nel 1967 
+Età raggiunta: 55 anni e 10 mesi 
+Forma prescelta: A 
+Rateazione prescelta: Annuale 
+Età assicurativa: 54 anni e 10 mesi 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico (Forma A): 
+ 27,2209 + (27,9463 - 27,2209) x 10/12 = 27,8254
+=== pagina 8 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 7 di 18 
+ 
+ 
+Tabella dei valori di rendita con la Forma A 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età assicurativa Erogazione in rate: 
+annuali semestrali trimestrali mensili 
+40 19,8742 19,7555 19,6674 19,4808 
+41 20,2689 20,1459 20,0551 19,8642 
+42 20,6794 20,5518 20,4581 20,2626 
+43 21,1065 20,9739 20,8772 20,6770 
+44 21,5510 21,4132 21,3133 21,1082 
+45 22,0136 21,8704 21,7671 21,5568 
+46 22,4958 22,3467 22,2398 22,0240 
+47 22,9985 22,8432 22,7325 22,5110 
+48 23,5231 23,3612 23,2465 23,0190 
+49 24,0708 23,9018 23,7828 23,5491 
+50 24,6439 24,4674 24,3438 24,1034 
+51 25,2436 25,0591 24,9307 24,6832 
+52 25,8718 25,6786 25,5450 25,2902 
+53 26,5302 26,3277 26,1887 25,9260 
+54 27,2209 27,0085 26,8635 26,5926 
+55 27,9463 27,7232 27,5719 27,2922 
+56 28,7097 28,4751 28,3170 28,0280 
+57 29,5145 29,2674 29,1020 28,8031 
+58 30,3642 30,1036 29,9304 29,6208 
+59 31,2632 30,9879 30,8061 30,4853 
+60 32,2151 31,9238 31,7328 31,3999 
+61 33,2245 32,9157 32,7147 32,3688 
+62 34,2965 33,9687 33,7568 33,3969 
+63 35,4362 35,0875 34,8637 34,4889 
+64 36,6490 36,2773 36,0406 35,6495 
+65 37,9441 37,5472 37,2962 36,8876 
+66 39,3309 38,9060 38,6393 38,2117 
+67 40,8184 40,3624 40,0784 39,6301 
+68 42,4171 41,9265 41,6234 41,1524 
+69 44,1394 43,6101 43,2856 42,7899 
+70 45,9982 45,4256 45,0773 44,5544 
+71 48,0082 47,3868 47,0119 46,4590 
+72 50,1859 49,5094 49,1047 48,5186 
+73 52,5480 51,8092 51,3708 50,7481 
+74 55,1144 54,3049 53,8285 53,1650 
+75 57,9085 57,0183 56,4989 55,7899 
+76 60,9575 59,9749 59,4066 58,6468 
+77 64,2919 63,2032 62,5790 61,7622 
+78 67,9434 66,7324 66,0441 65,1631 
+79 71,9359 70,5839 69,8222 68,8690 
+80 76,3020 74,7870 73,9411 72,9065 
+81 81,0752 79,3717 78,4289 77,3025 
+82 86,2892 84,3673 83,3132 82,0830 
+83 91,9927 89,8174 88,6348 87,2872
+=== pagina 9 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 8 di 18 
+ 
+Tabella dei valori di rendita con la Forma B 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età assicurativa Erogazione in rate: 
+annuali semestrali trimestrali mensili 
+40 19,8705 19,7521 19,6642 19,4778 
+41 20,2649 20,1422 20,0516 19,8608 
+42 20,6749 20,5477 20,4542 20,2589 
+43 21,1014 20,9693 20,8728 20,6729 
+44 21,5453 21,4081 21,3084 21,1035 
+45 22,0072 21,8646 21,7616 21,5516 
+46 22,4886 22,3402 22,2337 22,0182 
+47 22,9904 22,8359 22,7256 22,5045 
+48 23,5141 23,3531 23,2388 23,0117 
+49 24,0607 23,8927 23,7742 23,5408 
+50 24,6325 24,4571 24,3341 24,0942 
+51 25,2307 25,0474 24,9197 24,6728 
+52 25,8571 25,6654 25,5326 25,2783 
+53 26,5137 26,3129 26,1746 25,9126 
+54 27,2024 26,9918 26,8478 26,5775 
+55 27,9256 27,7046 27,5543 27,2754 
+56 28,6867 28,4544 28,2974 28,0093 
+57 29,4887 29,2442 29,0801 28,7822 
+58 30,3353 30,0776 29,9059 29,5975 
+59 31,2305 30,9585 30,7784 30,4589 
+60 32,1779 31,8904 31,7013 31,3699 
+61 33,1819 32,8776 32,6787 32,3345 
+62 34,2477 33,9249 33,7155 33,3576 
+63 35,3802 35,0373 34,8164 34,4438 
+64 36,5848 36,2199 35,9865 35,5980 
+65 37,8703 37,4812 37,2340 36,8284 
+66 39,2452 38,8294 38,5673 38,1432 
+67 40,7180 40,2728 39,9942 39,5499 
+68 42,2983 41,8207 41,5239 41,0578 
+69 43,9970 43,4835 43,1667 42,6769 
+70 45,8255 45,2722 44,9334 44,4176 
+71 47,7963 47,1989 46,8357 46,2916 
+72 49,9233 49,2768 48,8867 48,3116 
+73 52,2200 51,5190 51,0991 50,4901 
+74 54,7015 53,9400 53,4872 52,8412 
+75 57,3841 56,5557 56,0666 55,3801 
+76 60,2851 59,3828 58,8537 58,1229 
+77 63,4215 62,4379 61,8649 61,0859 
+78 66,8081 65,7354 65,1145 64,2830 
+79 70,4515 69,2818 68,6088 67,7206 
+80 74,3581 73,0842 72,3551 71,4061 
+81 78,5294 77,1444 76,3557 75,3418 
+82 82,9612 81,4592 80,6077 79,5252 
+83 87,6464 86,0238 85,1074 83,9533
+=== pagina 10 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 9 di 18 
+ 
+Tabella dei valori di rendita con la Forma C 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età assicurativa Erogazione in rate: 
+annuali semestrali trimestrali mensili 
+40 19,8588 19,7411 19,6534 19,4673 
+41 20,2519 20,1299 20,0396 19,8492 
+42 20,6605 20,5340 20,4409 20,2460 
+43 21,0853 20,9540 20,8580 20,6584 
+44 21,5272 21,3909 21,2918 21,0873 
+45 21,9870 21,8454 21,7429 21,5334 
+46 22,4659 22,3187 22,2127 21,9978 
+47 22,9649 22,8117 22,7021 22,4816 
+48 23,4854 23,3259 23,2124 22,9859 
+49 24,0286 23,8623 23,7446 23,5120 
+50 24,5965 24,4230 24,3009 24,0618 
+51 25,1904 25,0092 24,8825 24,6365 
+52 25,8120 25,6226 25,4910 25,2377 
+53 26,4632 26,2650 26,1281 25,8672 
+54 27,1459 26,9383 26,7957 26,5268 
+55 27,8623 27,6446 27,4961 27,2187 
+56 28,6156 28,3870 28,2320 27,9456 
+57 29,4086 29,1684 29,0065 28,7105 
+58 30,2447 29,9919 29,8227 29,5165 
+59 31,1276 30,8612 30,6840 30,3670 
+60 32,0607 31,7797 31,5939 31,2653 
+61 33,0478 32,7510 32,5560 32,2151 
+62 34,0936 33,7796 33,5747 33,2206 
+63 35,2021 34,8695 34,6539 34,2857 
+64 36,3777 36,0251 35,7979 35,4148 
+65 37,6273 37,2530 37,0134 36,6141 
+66 38,9573 38,5595 38,3065 37,8900 
+67 40,3735 39,9504 39,6829 39,2479 
+68 41,8823 41,4318 41,1488 40,6941 
+69 43,4899 43,0101 42,7105 42,2347 
+70 45,2017 44,6908 44,3734 43,8752 
+71 47,0224 46,4785 46,1424 45,6203 
+72 48,9556 48,3772 48,0215 47,4743 
+73 51,0028 50,3887 50,0125 49,4389 
+74 53,1635 52,5130 52,1158 51,5149 
+75 55,4343 54,7476 54,3295 53,7003 
+76 57,8086 57,0869 56,6482 55,9904 
+77 60,2758 59,5212 59,0628 58,3763 
+78 62,8179 62,0344 61,5581 60,8435 
+79 65,4073 64,6008 64,1093 63,3680 
+80 68,0102 67,1890 66,6862 65,9207 
+81 70,5868 69,7609 69,2518 68,4653 
+82 73,1024 72,2808 71,7698 70,9655 
+83 75,5327 74,7228 74,2136 73,3943
+=== pagina 11 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 10 di 18 
+ 
+ANNESSO 2 
+(adesioni su base collettiva di lavoratori dipendenti) 
+ 
+TARIFFA DI ASSICURAZIONE PER LA CONVERSIONE DELLA POSIZIONE INDIVIDUALE IN PRESTAZIONE PENSIONISTICA  
+La presente tariffa è determinata tenendo conto della speranza di vita desunta dalle Basi demografiche per rendite 
+vitalizie elaborate dall’ANIA -  Tavola A62I distinta per sesso e per anno di nascita. La tariffa non tiene conto di alcun 
+tasso di interesse precontato (cioè il tasso tecnico è pari a zero). La rendita annua derivante dall’applicazione della 
+presente tariffa tiene già conto delle spese per il servizio di erogazione della rendita di cui al par. 4.1, del precedente 
+punto 4. E’ fatta salva la faco ltà di revisione delle basi demografiche e/o finanziarie in conformità a quanto previsto 
+al precedente punto 1. . 
+ 
+ 
+Avvertenza sulle modalità di calcolo 
+ 
+L’età assicurativa indicata nelle tabelle dei valori di rendita si determina al termine della fase di accumulo applicando 
+all’età raggiunta dall’aderente - calcolata in anni interi e mesi compiuti - la seguente correzione in funzione del sesso e 
+dell’anno di nascita. 
+ 
+MASCHI FEMMINE 
+Anno di nascita: 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo: 
+Anno di nascita: 
+Correzione da applicare 
+all’età al termine della 
+fase di accumulo: 
+dal 1926 al 1938 aumento di 3 anni dal 1930 al 1940 aumento di 3 anni 
+dal 1939 al 1947 aumento di 2 anni dal 1941 al 1949 aumento di 2 anni 
+dal 1948 al 1957 aumento di 1 anno dal 1950 al 1957 aumento di 1 anno 
+dal 1958 al 1966 invariata dal 1958 al 1966 invariata 
+dal 1967 al 1978 riduzione di 1 anno dal 1967 al 1976 riduzione di 1 anno 
+dal 1979 al 1992 riduzione di 2 anni dal 1977 al 1986 riduzione di 2 anni 
+dal 1993 al 2006 riduzione di 3 anni dal 1987 al 1996 riduzione di 3 anni 
+dal 2007 al 2020 riduzione di 4 anni dal 1997 al 2007 riduzione di 4 anni 
+dal 2021 riduzione di 5 anni dal 2008 al 2018 riduzione di 5 anni 
+- - dal 2019 al 2020 riduzione di 6 anni 
+- - dal 2021 riduzione di 7 anni 
+ 
+Se l'età assicurativa non è intera, la rendita annua si ottiene interpolando linearmente fra i valori di rendita relativi all e 
+due età intere che la comprendono, cioè aggiungendo al minore dei due valori tanti dodicesimi della differenza 
+rispetto al maggiore, per quanti sono i mesi compiuti dall’aderente. 
+ 
+Esempi di calcolo (anno di riferimento: 2022) 
+Esempio per un aderente di sesso maschile nato nel 1955 
+Età raggiunta: 67 anni e 8 mesi 
+Forma prescelta: A 
+Rateazione prescelta: Annuale 
+Età assicurativa: 68 anni e 8 mesi 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico (Forma A): 
+ 46,2246 + (48,1814 - 46,2246) x 8/12 = 47,5291 
+ 
+Esempio per una aderente di sesso femminile nata nel 1967 
+Età raggiunta: 55 anni e 10 mesi 
+Forma prescelta: A 
+Rateazione prescelta: Annuale 
+Età assicurativa: 54 anni e 10 mesi 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico (Forma A): 
+ 25,9706 + (26,6331 - 25,9706) x 10/12 = 26,5227
+=== pagina 12 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 11 di 18 
+ 
+Tabella dei valori di rendita con la Forma A 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età 
+assicurativa 
+MASCHI FEMMINE 
+Erogazione in rate: Erogazione in rate: 
+annuali semestrali trimestrali mensili annuali semestrali trimestrali mensili 
+40 20,8368 20,7073 20,6125 20,4153 19,1808 19,0695 18,9861 18,8071 
+41 21,2685 21,1340 21,0361 20,8342 19,5498 19,4346 19,3487 19,1656 
+42 21,7182 21,5785 21,4773 21,2703 19,9330 19,8136 19,7251 19,5379 
+43 22,1870 22,0417 21,9371 21,7248 20,3310 20,2073 20,1160 19,9244 
+44 22,6762 22,5249 22,4167 22,1989 20,7446 20,6162 20,5221 20,3259 
+45 23,1861 23,0285 22,9164 22,6928 21,1747 21,0414 20,9441 20,7432 
+46 23,7184 23,5540 23,4378 23,2081 21,6223 21,4837 21,3833 21,1774 
+47 24,2745 24,1029 23,9822 23,7461 22,0884 21,9443 21,8404 21,6293 
+48 24,8563 24,6770 24,5518 24,3089 22,5738 22,4238 22,3163 22,0997 
+49 25,4653 25,2777 25,1475 24,8974 23,0798 22,9234 22,8121 22,5897 
+50 26,1048 25,9084 25,7729 25,5153 23,6077 23,4447 23,3293 23,1009 
+51 26,7759 26,5699 26,4288 26,1632 24,1592 23,9891 23,8694 23,6346 
+52 27,4805 27,2643 27,1171 26,8431 24,7357 24,5579 24,4336 24,1922 
+53 28,2212 27,9939 27,8402 27,5572 25,3388 25,1530 25,0238 24,7752 
+54 28,9998 28,7607 28,6000 28,3074 25,9706 25,7760 25,6416 25,3856 
+55 29,8192 29,5673 29,3991 29,0964 26,6331 26,4292 26,2893 26,0254 
+56 30,6828 30,4170 30,2408 29,9273 27,3298 27,1158 26,9699 26,6976 
+57 31,5944 31,3135 31,1286 30,8036 28,0635 27,8386 27,6863 27,4052 
+58 32,5581 32,2609 32,0666 31,7293 28,8376 28,6010 28,4418 28,1512 
+59 33,5789 33,2639 33,0593 32,7088 29,6559 29,4065 29,2399 28,9392 
+60 34,6613 34,3269 34,1112 33,7466 30,5217 30,2585 30,0838 29,7723 
+61 35,8099 35,4541 35,2264 34,8466 31,4393 31,1610 30,9776 30,6545 
+62 37,0277 36,6487 36,4079 36,0117 32,4153 32,1205 31,9276 31,5921 
+63 38,3196 37,9152 37,6600 37,2463 33,4546 33,1418 32,9385 32,5896 
+64 39,6905 39,2582 38,9873 38,5548 34,5629 34,2302 34,0156 33,6522 
+65 41,1549 40,6917 40,4037 39,9507 35,7463 35,3918 35,1647 34,7858 
+66 42,7250 42,2276 41,9207 41,4454 37,0125 36,6338 36,3931 35,9972 
+67 44,4108 43,8753 43,5474 43,0477 38,3697 37,9643 37,7085 37,2942 
+68 46,2246 45,6466 45,2953 44,7691 39,8276 39,3924 39,1200 38,6855 
+69 48,1814 47,5557 47,1785 46,6230 41,3966 40,9283 40,6374 40,1810 
+70 50,2967 49,6174 49,2110 48,6233 43,0885 42,5830 42,2716 41,7911 
+71 52,5875 51,8477 51,4087 50,7853 44,9162 44,3690 44,0347 43,5277 
+72 55,0728 54,2644 53,7887 53,1258 46,8949 46,3008 45,9408 45,4045 
+73 57,7700 56,8838 56,3666 55,6599 49,0409 48,3936 48,0047 47,4362 
+74 60,7017 59,7270 59,1629 58,4074 51,3722 50,6648 50,2433 49,6389 
+75 63,8936 62,8179 62,2005 61,3906 53,9108 53,1348 52,6765 52,0322 
+76 67,3773 66,1857 65,5076 64,6367 56,6813 55,8270 55,3267 54,6379 
+77 71,1874 69,8624 69,1148 68,1753 59,7119 58,7676 58,2195 57,4807 
+78 75,3539 73,8750 73,0477 72,0311 63,0348 61,9868 61,3839 60,5888 
+79 79,8970 78,2410 77,3226 76,2191 66,6760 65,5082 64,8425 63,9840 
+80 84,8569 82,9963 81,9733 80,7720 70,6635 69,3572 68,6193 67,6894 
+81 90,2739 88,1766 87,0335 85,7217 75,0268 73,5603 72,7394 71,7289 
+82 96,2191 93,8461 92,5639 91,1265 79,7793 78,1281 77,2121 76,1109 
+83 102,7496 100,0546 98,6112 97,0308 84,9657 83,1005 82,0752 80,8717
+=== pagina 13 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 12 di 18 
+ 
+Tabella dei valori di rendita con la Forma B 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età 
+assicurativa MASCHI FEMMINE 
+Erogazione in rate: Erogazione in rate: 
+annuali semestrali trimestrali mensili annuali semestrali trimestrali mensili 
+40 20,8317 20,7027 20,6081 20,4112 19,1779 19,0669 18,9836 18,8047 
+41 21,2629 21,1290 21,0314 20,8296 19,5465 19,4317 19,3459 19,1630 
+42 21,7120 21,5729 21,4721 21,2653 19,9294 19,8104 19,7221 19,5350 
+43 22,1802 22,0355 21,9312 21,7193 20,3270 20,2036 20,1126 19,9212 
+44 22,6686 22,5180 22,4101 22,1926 20,7401 20,6121 20,5182 20,3222 
+45 23,1776 23,0208 22,9090 22,6858 21,1696 21,0368 20,9398 20,7391 
+46 23,7089 23,5454 23,4296 23,2003 21,6166 21,4785 21,3784 21,1727 
+47 24,2639 24,0933 23,9732 23,7375 22,0819 21,9384 21,8348 21,6239 
+48 24,8446 24,6664 24,5417 24,2993 22,5665 22,4171 22,3100 22,0937 
+49 25,4522 25,2659 25,1363 24,8868 23,0714 22,9159 22,8050 22,5830 
+50 26,0900 25,8950 25,7603 25,5032 23,5983 23,4363 23,3214 23,0933 
+51 26,7590 26,5547 26,4144 26,1495 24,1486 23,9796 23,8604 23,6260 
+52 27,4611 27,2469 27,1007 26,8273 24,7239 24,5473 24,4236 24,1826 
+53 28,1988 27,9738 27,8213 27,5391 25,3257 25,1412 25,0126 24,7646 
+54 28,9741 28,7376 28,5782 28,2866 25,9562 25,7631 25,6294 25,3739 
+55 29,7898 29,5409 29,3742 29,0726 26,6175 26,4151 26,2759 26,0126 
+56 30,6491 30,3867 30,2122 29,9000 27,3128 27,1005 26,9554 26,6838 
+57 31,5555 31,2787 31,0958 30,7723 28,0451 27,8221 27,6707 27,3902 
+58 32,5131 32,2206 32,0286 31,6931 28,8177 28,5831 28,4248 28,1350 
+59 33,5261 33,2167 33,0149 32,6665 29,6343 29,3871 29,2215 28,9216 
+60 34,5988 34,2710 34,0586 33,6965 30,4983 30,2375 30,0639 29,7533 
+61 35,7357 35,3878 35,1640 34,7871 31,4140 31,1383 30,9561 30,6340 
+62 36,9402 36,5704 36,3341 35,9415 32,3874 32,0955 31,9040 31,5696 
+63 38,2171 37,8235 37,5737 37,1641 33,4236 33,1140 32,9122 32,5646 
+64 39,5721 39,1523 38,8877 38,4599 34,5278 34,1988 33,9860 33,6240 
+65 41,0177 40,5692 40,2885 39,8410 35,7064 35,3560 35,1310 34,7537 
+66 42,5650 42,0848 41,7865 41,3176 36,9663 36,5926 36,3543 35,9602 
+67 44,2230 43,7079 43,3901 42,8981 38,3157 37,9160 37,6632 37,2510 
+68 46,0025 45,4489 45,1097 44,5925 39,7634 39,3352 39,0662 38,6344 
+69 47,9159 47,3198 46,9571 46,4125 41,3191 40,8593 40,5726 40,1194 
+70 49,9760 49,3328 48,9443 48,3698 42,9935 42,4986 42,1925 41,7159 
+71 52,1962 51,5009 51,0838 50,4767 44,7984 44,2645 43,9367 43,4346 
+72 54,5908 53,8378 53,3893 52,7466 46,7470 46,1697 45,8180 45,2879 
+73 57,1725 56,3557 55,8725 55,1910 48,8534 48,2278 47,8494 47,2888 
+74 59,9559 59,0688 58,5475 57,8238 51,1327 50,4531 50,0453 49,4511 
+75 62,9559 61,9916 61,4287 60,6590 53,6016 52,8621 52,4216 51,7906 
+76 66,1891 65,1403 64,5318 63,7122 56,2776 55,4715 54,9949 54,3235 
+77 69,6717 68,5305 67,8723 66,9985 59,1779 58,2984 57,7820 57,0664 
+78 73,4138 72,1720 71,4598 70,5275 62,3202 61,3597 60,7996 60,0359 
+79 77,4156 76,0656 75,2954 74,3004 65,7146 64,6655 64,0575 63,2415 
+80 81,6824 80,2175 79,3857 78,3240 69,3684 68,2230 67,5633 66,6907 
+81 86,2116 84,6265 83,7302 82,5982 73,2852 72,0363 71,3210 70,3876 
+82 91,0035 89,2953 88,3328 87,1276 77,4577 76,0979 75,3230 74,3247 
+83 96,0325 94,2025 93,1738 91,8941 81,8892 80,4123 79,5746 78,5078
+=== pagina 14 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 13 di 18 
+ 
+Tabella dei valori di rendita con la Forma C 
+ 
+Rendita annua assicurata per ogni 1.000 Euro di premio unico 
+Età 
+assicurativa MASCHI FEMMINE 
+Erogazione in rate: Erogazione in rate: 
+annuali semestrali trimestrali mensili annuali semestrali trimestrali mensili 
+40 20,8161 20,6878 20,5937 20,3971 19,1686 19,0581 18,9751 18,7964 
+41 21,2456 21,1126 21,0154 20,8141 19,5362 19,4218 19,3364 19,1537 
+42 21,6929 21,5548 21,4544 21,2481 19,9178 19,7994 19,7114 19,5246 
+43 22,1589 22,0153 21,9116 21,7001 20,3140 20,1913 20,1005 19,9094 
+44 22,6449 22,4955 22,3882 22,1713 20,7254 20,5982 20,5047 20,3091 
+45 23,1511 22,9957 22,8846 22,6620 21,1531 21,0211 20,9246 20,7242 
+46 23,6793 23,5173 23,4023 23,1737 21,5980 21,4609 21,3612 21,1560 
+47 24,2306 24,0618 23,9426 23,7077 22,0610 21,9186 21,8156 21,6052 
+48 24,8070 24,6308 24,5072 24,2656 22,5432 22,3950 22,2885 22,0727 
+49 25,4096 25,2256 25,0972 24,8487 23,0456 22,8914 22,7811 22,5596 
+50 26,0415 25,8492 25,7158 25,4599 23,5698 23,4091 23,2949 23,0675 
+51 26,7036 26,5024 26,3636 26,1000 24,1172 23,9496 23,8312 23,5975 
+52 27,3978 27,1870 27,0426 26,7708 24,6894 24,5145 24,3916 24,1513 
+53 28,1261 27,9051 27,7546 27,4742 25,2882 25,1054 24,9778 24,7305 
+54 28,8902 28,6585 28,5015 28,2120 25,9154 25,7242 25,5915 25,3370 
+55 29,6927 29,4493 29,2855 28,9864 26,5734 26,3731 26,2350 25,9727 
+56 30,5365 30,2806 30,1094 29,8000 27,2651 27,0551 26,9112 26,6406 
+57 31,4247 31,1554 30,9763 30,6561 27,9934 27,7729 27,6228 27,3435 
+58 32,3609 32,0772 31,8896 31,5580 28,7614 28,5295 28,3727 28,0842 
+59 33,3490 33,0497 32,8531 32,5092 29,5725 29,3285 29,1645 28,8660 
+60 34,3927 34,0767 33,8704 33,5134 30,4301 30,1728 30,0011 29,6921 
+61 35,4958 35,1617 34,9449 34,5741 31,3380 31,0664 30,8863 30,5661 
+62 36,6611 36,3075 36,0794 35,6938 32,3016 32,0145 31,8254 31,4931 
+63 37,8924 37,5178 37,2777 36,8764 33,3253 33,0214 32,8225 32,4773 
+64 39,1938 38,7966 38,5435 38,1255 34,4138 34,0916 33,8822 33,5232 
+65 40,5742 40,1528 39,8859 39,4499 35,5723 35,2302 35,0094 34,6355 
+66 42,0410 41,5935 41,3117 40,8567 36,8065 36,4429 36,2097 35,8199 
+67 43,5991 43,1237 42,8260 42,3507 38,1227 37,7356 37,4891 37,0822 
+68 45,2541 44,7490 44,4344 43,9375 39,5276 39,1151 38,8541 38,4288 
+69 47,0112 46,4747 46,1422 45,6225 41,0277 40,5877 40,3111 39,8661 
+70 48,8740 48,3047 47,9535 47,4097 42,6295 42,1600 41,8666 41,4004 
+71 50,8449 50,2416 49,8708 49,3017 44,3388 43,8376 43,5264 43,0377 
+72 52,9250 52,2866 51,8958 51,3003 46,1606 45,6261 45,2959 44,7832 
+73 55,1119 54,4381 54,0267 53,4039 48,0987 47,5292 47,1790 46,6410 
+74 57,4015 56,6926 56,2607 55,6098 50,1551 49,5492 49,1783 48,6137 
+75 59,7851 59,0428 58,5911 57,9120 52,3295 51,6867 51,2946 50,7023 
+76 62,2508 61,4779 61,0076 60,3005 54,6189 53,9393 53,5259 52,9051 
+77 64,7801 63,9812 63,4944 62,7602 57,0179 56,3022 55,8676 55,2176 
+78 67,3452 66,5269 66,0266 65,2671 59,5158 58,7661 58,3112 57,6320 
+79 69,9102 69,0808 68,5711 67,7887 62,0916 61,3119 60,8385 60,1306 
+80 72,4359 71,6063 71,0926 70,2909 64,7162 63,9128 63,4238 62,6888 
+81 74,8789 74,0612 73,5493 72,7326 67,3544 66,5355 66,0348 65,2750 
+82 77,2082 76,4125 75,9076 75,0799 69,9703 69,1434 68,6349 67,8528 
+83 79,4015 78,6348 78,1404 77,3050 72,5407 71,7128 71,1996 70,3977
+=== pagina 15 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 14 di 18 
+ 
+SEZIONE B: PRESTAZIONI PENSIONISTICHE ALTERNATIVE ALLA RENDITA VITALIZIA 
+Premessa 
+In alternativa alla rendita vitalizia, è prevista la possibilità per l’Aderente di scegliere una delle seguenti 
+tipologie di prestazioni pensionistiche: 
+• la rendita a durata definita; 
+• i prelievi liberamente determinabili; 
+• l’erogazione frazionata del montante accumulato, richiedibile dal 31 ottobre 2026. 
+Ferma la possibilità di richiesta dal 1° luglio 2026 della rendita a durata definita e dei prelievi liberamente 
+determinabili, le relative attività di liquidazione e di erogazione avverranno entro il termine del periodo 
+transitorio consentito per l’adeguamento dei sistemi e dei processi operativi interni, che non potrà protrarsi 
+oltre il 31 dicembre 2026. Il Fondo Pensione Aperto darà informativa agli interessati dell’avvenuto 
+adeguamento. 
+ 
+1. Disciplina comune 
+Le prestazioni pensionistiche  alternative alla rendita vitalizia , disciplinate all’articolo 11 del decreto 
+legislativo 5 dicembre 2005 n. 252 - contenente la Disciplina delle forme pensionistiche complementari (“di 
+seguito “ Decreto”), hanno la finalità di accrescere  la flessibilità nell’accesso al montante accumulato 
+dall’Aderente. La disciplina comune a tali prestazioni chiarisce che l’erogazione delle stesse non è cumulabile 
+con la RITA eventualmente già in corso di liquidazione  e prevede, in primo luogo, che le  prestazioni 
+pensionistiche alternative alla rendita vitalizia si pongono tra loro in rapporto di esclusione e non sono tra di 
+esse cumulabili: la scelta di una prestazione implica il venir meno delle altre e non può essere 
+successivamente revocata se non anteriormente alla liquidazione del primo importo . 
+Resta tuttavia sempre possibile convertire il montante residuo in una rendita vitalizia alle condizioni e 
+modalità di erogazione delle rendite previste all’Allegato n. 2 al Regolamento del FPA, anche trasferendo tale 
+montante presso un’altra forma pensionistica per beneficiare eventualmente delle diverse condizioni offerte 
+da quest’ultima; viene così mantenuta una tutela rispetto al rischio di vivere più a lungo del previsto.  
+È importante sapere che nel momento in cui l’Aderente eserciterà il diritto alla prestazione pensionistica, 
+richiedendo una delle prestazioni di cui all’Art. 11 del Decreto, entrerà in una nuova fase del rapporto con il 
+FPA detta “fase di erogazione” o “fase di decumulo”. Durante la fase di erogazione/decumulo non potranno 
+più essere esercitate alcune delle prerogative tipiche della  fase di accumulo , come ad esempio versare 
+ulteriore contribuzione (salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la 
+maturazione del TFR), richiedere anticipazioni, riscatti o trasferimenti.  
+Resta possibile il trasferimento per la parte di montante convertita in rendita vitalizia. 
+Il capitale non ancora erogato continuerà ad essere gestito dal FPA nel comparto prescelto dall’Aderente  
+all’atto della richiesta della prestazione o, in difetto di indicazioni, nel comparto individuato dal FPA a tal fine, 
+fino al completamento dell’erogazione di tutte le rate, salvo successivo switch del comparto, effettuabile nel 
+rispetto del periodo minimo fissato nel Regolamento del FPA. 
+Questo meccanismo di gestione presso il FPA del montante non ancora erogato consentirà di mantenere una 
+componente di rendimento anche durante la fase di erogazione.   
+Inoltre, al momento della scelta della prestazione, è richiesto all’Aderente di indicare il/i soggetto/i (anche 
+confermando i soggetti precedentemente indicati per la fase di accumulo) che potranno riscattare il 
+montante residuo in caso di prematuro decesso avvalendosi dell'apposito modulo predisposto per la scelta
+=== pagina 16 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 15 di 18 
+ 
+della prestazione pensionistica messo a disposizione dal FPA . Le suddette scelte potranno essere 
+successivamente modificate. 
+Tale indicazione rappresenta un elemento essenziale della richiesta e consente di assicurare continuità nella 
+destinazione delle risorse accumulate.  
+ 
+2. Caratteristiche e Modalità di funzionamento di ciascuna prestazione alternativa alla rendita 
+vitalizia  
+ 
+2.1  Rendita a durata definita richiedibile dal 1° luglio 2026 
+La rendita a durata definita è una prestazione pensionistica erogata per un periodo determinato che 
+consente di distribuire il montante in un arco temporale prefissato pari all’aspettativa di vita media. 
+La durata di questo periodo è collegata alla speranza di vita residua al momento dell’esercizio dell’opzione 
+ed è parametrata al numero di anni interi della speranza di vita come determinata dall’ISTAT con riferimento 
+alla tavola di mortalità della popolaz ione generale utilizzata per il calcolo dei vigenti coefficienti di 
+trasformazione del montante in rendita di cui alla tabella A allegata alla Legge 8 agosto 1995, n°335. Il numero 
+di anni di durata della prestazione è, pertanto, arrotondato per difetto.  
+La periodicità del frazionamento – che non può essere inferiore al mese né superiore all’anno – è la seguente: 
+mensile, trimestrale, semestrale, annuale.  
+Qualora venga prescelta una periodicità del frazionamento diversa da quella annuale, in presenza di una rata 
+iniziale di importo inferiore a 100 euro lordi, sarà possibile il solo frazionamento annuale con la 
+rideterminazione della nuova rata iniziale. 
+In quanto è adottata una contabilità per quote, a ciascuna rata di rendita corrisponderà lo stesso numero di 
+quote (e frazioni di quote) ottenuto dividendo il numero di quote corrispondente all’importo del montante 
+convertito in rendita per il numero di rate. 
+L’importo della rata di rendita varia in funzione del valore della quota alla data di erogazione della stessa. 
+Ne consegue che l’importo risente sia dei prelievi già effettuati sia dei risultati della gestione finanziaria.  
+Nell’ottica di una scelta consapevole, laddove si voglia optare per la rendita a durata definita, in alternativa 
+alla rendita vitalizia, bisogna tenere presente che scegliendo tale tipologia di prestazione ci si assume il rischio 
+che la durata della propria vita risulti superiore alla speranza di vita come risultante dalla tavola ISTAT di cui 
+sopra (c.d. rischio di longevità). Trattandosi di somme investite dal FPA in comparti collegati al valore di quote 
+sulla base dell’andamento del mercato, sussiste un normale rischio di variabilità degli importi erogati tempo 
+per tempo (c.d. rischio di investimento), ferma restando per il Comparto Equilibrio Unipol l’operatività della 
+garanzia al verificarsi di determinati eventi. 
+Si ricorda che la contabilità è “per quote”, pertanto a ciascuna rata di rendita corrisponderà un numero 
+prefissato di quote e frazioni di quota, ottenuto dividendo il numero complessivo di quote corrispondente 
+all’importo del montante convertito in rendita per il numero di rate. 
+L’importo della rata di rendita - di conseguenza -  varierà in funzione del valore della quota alla data di 
+erogazione della stessa. 
+ 
+2.2 Prelievi liberamente determinabili richiedibili dal 1° luglio 2026 
+I prelievi liberamente determinabili sono erogati a valere sul montante in gestione con facoltà per l’Aderente 
+di sceglierne importo e tempistica. Al fine di evitare richieste eccessivamente frequenti e di ammontare
+=== pagina 17 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 16 di 18 
+ 
+esiguo, l’FPA ha definito in tre mesi l’intervallo minimo fra una richiesta e l’altra ed in euro 1.000 lordi 
+l’importo minimo erogabile. 
+Ai sensi dell’art. 11, comma 3 -quater, i prelievi possono essere, tempo per tempo, richiesti nei limiti della 
+somma delle rate – maturate e non riscosse – della rendita a durata definita. 
+La loro determinazione si quantifica facendo riferimento a una rendita teorica a durata definita, calcolata 
+assumendo una durata pari alla vita attesa residua in anni interi dell’aderente al momento della richiesta 
+della prestazione, immediatamente erogabile e con frazionamento annuale. Questa rendita ha 
+esclusivamente funzione di parametro figurativo per il calcolo dei prelievi e rileva esclusivamente per il 
+calcolo delle suddette rate. 
+Contestualmente alla richiesta di accesso alla prestazione è possibile richiedere l’erogazione di un importo 
+che non potrà comunque essere superiore alla prima rata di rendita figurativa. 
+L’importo massimo prelevabile in ciascun momento è pari alla differenza tra: 
+(i) l’ammontare complessivo delle rate della rendita teorica già maturate; 
+(ii) l’importo dei prelievi già effettuati. 
+Al fine di tener conto dei risultati della gestione finanziaria nel frattempo maturati, l’ammontare massimo 
+prelevabile può essere calcolato come la differenza tra il montante in gestione, che si calcola al netto dei 
+prelievi effettuati, e il montante teorico che si avrebbe alla data di liquidazione del prelievo sulla base di uno 
+sviluppo dello stesso che considera i risultati effettivamente maturati dalla gestione e, in luogo dei prelievi, 
+l’erogazione delle rate di rendita teorica a ogni ricorrenza annuale. 
+A partire dall’ultimo anno di durata della rendita teorica, sarà possibile prelevare l’intero montante residuo.  
+Anche per questa tipologia di prestazione, il montante non ancora prelevato resta in gestione presso il FPA e 
+il suo valore varia nel tempo in funzione dei rendimenti. 
+Nell’ottica di una scelta consapevole, laddove si voglia optare per tale tipologia di prestazione, in alternativa 
+alla rendita vitalizia, ci si assume il rischio che la durata della propria vita risulti superiore alla speranza di vita 
+come risultante dalle tavole ISTAT di mortalità da tenere a riferimento (c.d. rischio di longevità). 
+Trattandosi di somme investite dal FPA in comparti collegati al valore di quote sulla base dell’andamento del 
+mercato, sussiste un normale rischio di variabilità degli importi erogati tempo per tempo (c.d. rischio di 
+investimento), ferma restando per il Comparto Equilibrio Unipol  l’operatività della garanzia al verificarsi di 
+determinati eventi.   
+Poiché la contabilità è prevista “per quote” - posto che a ciascuna rata di rendita teorica corrisponde lo stesso 
+numero di quote e frazioni di quota, ottenuto dividendo il numero di quote corrispondente all’importo del 
+montante al momento iniziale della richiesta della prestazione per il numero di rate -  l’importo massimo 
+prelevabile sarà determinabile moltiplicando il valore della quota alla data di liquidazione del prelievo per la 
+differenza tra il numero di quote (e frazioni di quote) corrispondente alle rate di rendita maturate e il numero 
+di quote (e frazioni di quote) già utilizzate per prelievi precedentemente erogati. 
+ 
+2.3 Erogazione frazionata del montante richiedibile dal 31 ottobre 2026 
+L’erogazione frazionata consiste nella suddivisione del montante accumulato in una serie di rate distribuite 
+su un periodo stabilito dall’aderente, nel rispetto di un limite minimo pari a cinque anni previsto dalla 
+legge. 
+A differenza della rendita a durata definita, questa modalità non è collegata alla speranza di vita.
+=== pagina 18 ===
+Unipol Fondo Pensione Aperto BV 
+ 
+Documento sull’erogazione delle rendite - Mod. DERenFPABV – Ed. 07/2026.2 Pagina 17 di 18 
+ 
+Al momento della richiesta, dovrà essere indicata sia la durata complessiva dell’erogazione sia la periodicità 
+delle rate. La periodicità del frazionamento – che non può essere inferiore al mese né superiore all’anno – è 
+la seguente: mensile, trimestrale, semestrale, annuale. 
+Qualora venga prescelta una periodicità del frazionamento diversa da quella annuale, in presenza di una rata 
+iniziale di importo inferiore a 100 euro lordi, sarà possibile il solo frazionamento annuale con la 
+rideterminazione della nuova rata iniziale. 
+L’importo delle rate non è predeterminato in misura fissa; esso viene aggiornato nel tempo, poiché calcolato 
+di volta in volta dividendo il montante disponibile per il numero di rate ancora da corrispondere. 
+Di conseguenza, le rate riflettono l’andamento della gestione finanziaria e l’evoluzione del montante residuo. 
+Il montante non ancora erogato resta in gestione fino al completamento dei pagamenti. 
+Nell’ottica di una scelta consapevole, laddove si voglia optare per tale tipologia di prestazione, in alternativa 
+alla rendita vitalizia, ci si assume il rischio che la durata della propria vita risulti superiore alla speranza di vita 
+come risultante dalle tavole ISTAT di mortalità da tenere a riferimento (c.d. rischio di longevità). 
+Trattandosi di somme investite dal FPA in comparti collegati al valore di quote sulla base dell’andamento del 
+mercato, sussiste un normale rischio di variabilità degli importi erogati tempo per tempo (c.d. rischio di 
+investimento). 
+Inoltre, poiché la durata della prestazione non è collegata alla speranza di vita, si dovrà tenere presente che 
+sussiste per questa specifica opzione anche il c.d. “rischio di eccessiva concentrazione delle prestazioni” nella 
+fase iniziale a fronte di una minore copertura disponibile nel restante periodo di pensionamento. 
+Poiché viene adottata una contabilità per quote, a ciascuna rata di rendita corrisponderà lo stesso numero 
+di quote (e frazioni di quote) ottenuto dividendo il numero di quote corrispondente all’importo del montante 
+convertito in rendita per il numero di rate. 
+L’importo della rata di rendita varia in funzione del valore della quota alla data di erogazione della stessa. 
+ 
+*** 
+ 
+Dichiarazione di responsabilità  
+ 
+L’Impresa di Assicurazione, che ha istituito il Fondo Pensione Aperto, si assume  la responsabilità della 
+completezza e della veridicità dei dati e delle notizie contenuti nel presente documento.
+=== pagina 19 ===
+
+=== pagina 20 ===
+

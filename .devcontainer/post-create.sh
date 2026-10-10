@@ -14,4 +14,5 @@ python -m playwright install --with-deps chromium
 npx -y -p @playwright/mcp@0.0.82 playwright install chromium
 
 python scripts/export_xlsx.py
+python scripts/documenti.py indice
 echo "✅ Ambiente pronto. Anteprima del sito: ./scripts/anteprima.sh (oppure il task 'Anteprima GitHub Page')."

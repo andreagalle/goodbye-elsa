@@ -1,0 +1,597 @@
+# Fondo: AZIMUT PREVIDENZA - FONDO PENSIONE APERTO (azimut-previdenza)
+# Documento: Altri documenti – Politica di impegno
+# Fonte: https://www.azimut.it/archives/politica-di-impegno
+# Citato in: https://www.azimut.it/prodotti-previdenziali/azimut-previdenza
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: bb296e85c19290505d460452e967d0ce6538814a73dad2611433389ab840f81e
+# Pagine: 16
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+POLITICA DI IMPEGNO 
+ 
+Novembre 2023
+=== pagina 2 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  1 
+ 
+ 
+INDICE 
+1. PREMESSA ...................................................................................................................... 2 
+2. QUADRO NORMATIVO DI RIFERIMENTO ......................................................................... 3 
+3. REGOLAMENTAZIONE INTERNA DI RIFERIMENTO ............................................................ 3 
+4. APPROVAZIONE, REVISIONE E TRASPARENZA INFORMATIVA .......................................... 4 
+5. PRESIDI ORGANIZZATIVI ................................................................................................. 4 
+6. MONITORAGGIO DELLE SOCIETÀ PARTECIPATE ............................................................... 6 
+7. DIALOGO SOCIETÀ PARTECIPATE ..................................................................................... 9 
+8. ESERCIZIO DEI DIRITTI DI VOTO E DEGLI ALTRI DIRITTI CONNESSI ALLE AZIONI ............... 10 
+9. COLLABORAZIONE CON ALTRI AZIONISTI ........................................................................ 10 
+10. COMUNICAZIONE CON ALTRI PORTATORI DI INTERESSE................................................. 11 
+11. GESTIONE DEI CONFLITTI DI INTERESSE .......................................................................... 12 
+12. ALLEGATI ....................................................................................................................... 13 
+12.1 Specificità della politica di impegno per il Fondo Pensione “Azimut Previdenza” .................... 13 
+12.2 Specificità della politica di impegno per il Fondo Pensione “Azimut Sustainable Future” ....... 14
+=== pagina 3 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  2 
+1. PREMESSA 
+ 
+ Nell'ambito del Gruppo Azimut, Azimut Capital Management SGR S.p.A. (di seguito anche 
+“ACM”, “la SGR” o “la Società”) rappresenta la Società attraverso la quale sono prestate, inter 
+alia, l'attività di gestione patrimoniale, nelle forme della gestione collettiva di OICVM, FIA e 
+Fondi Pensione nonché di gestione individuale di portafogli. 
+Nella prestazione di tali attività, la SGR ha un impegno fiduciario volto alla protezione e alla 
+creazione di valore nei confronti dei propri Clienti e Investitori, che richiede di affrontare in 
+modo efficace le problematiche legate alle performance societarie, anche in tema di 
+sostenibilità, delle società in cui investe per conto dei patrimoni gestiti. 
+Nella dialettica interna alle società partecipate, il ruolo svolto da investitori istituzionali, è 
+fondamentale ai fini dell’effettiva implementazione di buoni standard di governo societario. 
+ 
+L’esercizio dei diritti di voto alle assemblee generali annuali rappresenta quindi per la SGR, in 
+qualità di gestore, un’attività chiave, in considerazione della rilevanza delle decisioni assunte 
+in tali sedi per il raggiungimento degli obiettivi delle strategie di investimento, anche con 
+riferimento alle tematiche ESG. 
+ 
+Il presente Documento è adottato in conformità alle disposizioni normative applicabili 1 1e 
+tenendo in considerazione i principi  ispirati allo “ Stewardship Code  “Principles for asset 
+managers’ monitoring of, voting in, engagement with investee companies ” adottato da 
+EFAMA nel 2011 e aggiornato nel 2018 alla luce della Shareholder Rights Directive II. 
+ 
+La presente Politica di Impegno (o di Engagement ) è volta a definire i principi, le misure 
+organizzative e i comportamenti cui la Società ricorre per stimolare il confronto con gli 
+emittenti in cui investe, integrando il proprio impegno nelle strategie di investimento e 
+favorendo l’adozione, da parte delle società partecipate, di comportamenti coerenti con i 
+principi di sana e prudente gestione, etici e di sostenibilità su un orizzonte di lungo periodo. 
+In particolare, la stessa illustra le modalità con cui la SGR, in nome e per conto dei fondi e dei 
+patrimoni gestiti: 
+• monitora le società partecipate su questioni rilevanti; 
+• dialoga con le società partecipate; 
+• esercita i diritti di voto e altri diritti connessi alle azioni; 
+• collabora con altri azionisti; 
+• comunica con i pertinenti portatori di interesse delle società partecipate; 
+• gestisce gli attuali e potenziali conflitti di interesse in relazione al suo impegno. 
+ 
+ La politica di impegno si applica a tutti i prodotti gestiti dalla SGR, ivi compresi i Fondi 
+Pensione “Previdenza” e “Sustainable Future”, per i quali si rimanda rispettivamente agli 
+allegati 12.1 e 12.2. 
+ 
+Con riferimento ai mandati di gestione istituzionali, la presente politica si applica in base agli 
+accordi stessi. 
+ 
+ 
+1 https://www.efama.org/sites/default/files/files/EFAMA%20Stewardship%20Code_FINAL.pdf
+=== pagina 4 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  3 
+2. QUADRO NORMATIVO DI RIFERIMENTO 
+ 
+La presente Politica di impegno è stata redatta ai sensi dell’art. 124 -quinquies del Decreto 
+Legislativo n. 58 del 24 febbraio 1998 (c.d. “Testo Unico della Finanza” -  TUF), introdotto dal 
+Decreto Legislativo 10 maggio 2019, n. 49, di recepimento della Direttiva (UE) 2017/828 (c.d. 
+Shareholder Rights Directive II -  SHRDII), in tema di incoraggiamento dell’impegno a lungo 
+termine degli azionisti. 
+ 
+Considerato l’ambito di applicazione del presente documento, ai fini dell’implementazione 
+della suddetta normativa, rileva la seguente regolamentazione secondaria: 
+ 
+• Regolamento Consob n. 11971 del 14 maggio 1999 di attuazione del decreto 
+legislativo 24 febbraio 1998, n. 58 concernente la disciplina degli emittenti (c.d. 
+“Regolamento Emittenti”, aggiornato con le modifiche apportate con delibere n. 
+21623 e n. 21624 del 10 dicembre 2020 e n. 21639 del 15 dicembre 2020), Titolo IV; 
+• Delibera Covip del 2 dicembre 2020 -  Regolamento in materia di trasparenza della 
+politica di impegno e degli elementi della strategia di investimento azionario dei Fondi 
+Pensione; 
+• Regolamento (UE) n. 2019/2088  del Parlamento Europeo e del Consiglio del 27 
+novembre 2019 relativo alla pubblicazione delle informazioni in materia di 
+sostenibilità nel settore dei servizi finanziari (c.d. “Regolamento di Disclosure SFDR”). 
+ 
+ 
+3. REGOLAMENTAZIONE INTERNA DI RIFERIMENTO 
+ 
+Ai fini della presente Politica di impegno, rileva la seguente documentazione societaria 
+adottata dalla SGR: 
+ 
+• Policy per l’esercizio dei diritti di voto inerenti agli strumenti finanziari degli OICR 
+gestiti; 
+ 
+• Policy ESG; 
+ 
+• Policy di gestione dei conflitti di interesse.
+=== pagina 5 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  4 
+ 
+ 
+4. APPROVAZIONE, REVISIONE E TRASPARENZA INFORMATIVA 
+ 
+Il presente Documento è approvato con delibera del Consiglio di Amministrazione della SGR.  
+ 
+Lo stesso è soggetto a revisione periodica, con cadenza almeno triennale. 
+ 
+Sono messe a disposizione del pubblico, in sezioni dedicate del sito internet della Società: 
+ 
+• la Politica di impegno (pubblicata entro quindici giorni dalla sua adozione e conservata 
+online per i tre anni successivi); 
+• un’informativa annuale  sulle modalità di attuazione de lla Politica di impegno, con 
+particolare riferimento alla partecipazione alle Assemblee e all’attività di engagement 
+svolta nei confronti delle società quotate, i cui titoli sono presenti nei portafogli gestiti 
+(entro il 28 febbraio di ogni anno). 
+ 
+Inoltre, ai sensi dell’art. 143-septies del Regolamento Emittenti, ai fini dell’informativa di cui 
+all’art. 124-septies del TUF da fornire agli investitori istituzionali con cui ha concluso accordi 
+di gestione, la Società comunica nelle relazioni annuali dei fondi informazioni in merito a: 
+• relazioni sui principali rischi a medio e lungo termine associati agli investimenti, sulla 
+composizione del portafoglio, sulla sua rotazione e sui relativi costi, sul ricorso ai 
+consulenti in materia di voto ai fini delle attività di impegno e, ove applicabile, sulla 
+politica di concessione di titoli in prestito nonché il modo in cui questa viene 
+implementata al fine di perseguire le attività di impegno, in particolare in occasione 
+delle assemblee generali delle società partecipate; 
+• eventuale adozione, e alle relative modalità, di decisioni di investimento sulla base di 
+una valutazione dei risultati a medio e lungo termine delle società partecipate, 
+compresi i risultati non finanziari; 
+• eventuale insorgenza di conflitti di interessi in connessione con le attività di impegno 
+e le misure adottate dai gestori di attivi per gestirli. 
+ 
+ 
+Si precisa, inoltre, che per quanto riguarda  le gestioni patrimoniali su base  individuale, la SGR 
+non esercita mai il diritto di voto in autonomia, se non su specifica istruzione del cliente, sia per 
+quanto riguarda i mandati di gestione individuali di patrimonio, sia per gli incarichi in qualità di 
+gestore delegato. 
+ 
+ 
+5. PRESIDI ORGANIZZATIVI 
+ 
+La Società adotta misure organizzative atte a garantire l'efficace attuazione della presente Politica di 
+Impegno.  
+ 
+I presidi organizzativi nella presente Politica di Impegno hanno un ruolo fondamentale
+=== pagina 6 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  5 
+nell'assicurare l'efficace attuazione delle iniziative di engagement e nella gestione delle attività 
+di investimento sostenibile.  
+ 
+Le principali funzioni coinvolte e il loro ruolo sono le seguenti: 
+ 
+• Comitato di Sostenibilità di Azimut Holding: 
+ 
+fornisce una visione e d una direzione strategica a lungo termine , in merito all'approccio 
+aziendale alla sostenibilità e all'Impegno (c.d. engagement). Questo contribuisce a garantire una 
+coerenza ed una continuità nelle iniziative in tema di sostenibilità promosse dal Gruppo. 
+ 
+• Comitato di Sostenibilità di Azimut Capital Management SGR S.P.A:  
+ 
+1. svolge un ruolo centrale nella definizione delle direttive e delle modalità operative 
+dell'attività di Impegno; 
+2. valuta le tematiche e le società da coinvolgere, tenendo conto delle indicazioni 
+provenienti dal Comitato Investimenti, dal Direttore Investimenti e dagli altri 
+stakeholder; 
+3. si esprime sull’opportunità di intraprendere iniziative di “hard engagement” con 
+potenziale elevato impatto reputazionale; 
+4. riferisce periodicamente al Consiglio di Amministrazione sull'andamento delle attività 
+di Impegno. 
+ 
+• Consiglio di Amministrazione:  
+ 
+1. ha la responsabilità di definire, adottare e aggiornare la politica di Impegno, 
+garantendo il raggiungimento degli obiettivi strategici; 
+2. monitora il rispetto di questa politica con il supporto del Comitato di Sostenibilità di 
+Azimut Capital Management SGR S.P.A, basandosi sulle relazioni del Comitato 
+Investimenti. 
+ 
+• Comitato Investimenti:  
+ 
+contribuisce fornendo indicazioni sulle tematiche e le società da includere nelle attività di 
+Impegno. Queste indicazioni vengono considerate dal Comitato di Sostenibilità nella definizione 
+delle direttive operative. 
+ 
+ 
+In sintesi, questi presidi organizzativi e le relative funzioni svolgono un ruolo chiave 
+nell'implementazione e nel monitoraggio della Politica di Impegno, garantendo che le attività di 
+engagement siano gestite in modo efficace ed in linea con gli obiettivi strategici della Società. La 
+loro cooperazione assicura una gestione sostenibile e responsabile degli investimenti.
+=== pagina 7 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  6 
+ 
+6. MONITORAGGIO DELLE SOCIETÀ PARTECIPATE 
+ 
+La SGR ha definito una Policy per l’esercizio dei diritti di voto inerenti agli strumenti finanziari 
+degli OICR gestiti, che tiene conto dei fattori ESG e si impegna ad esercitare i propri diritti di 
+voto in linea con quanto illustrato nella propria Policy ESG. La SGR elabora strategie per 
+disciplinare l’esercizio dei diritti di voto con riferimento agli emittenti i cui tito li sono 
+ammessi alla negoziazione sui principali mercati nazionali ed internazionali e presenti nei 
+portafogli dei prodotti gestiti, nell’esclusivo interesse degli investitori.  
+ 
+ Con riferimento al servizio di gestione di portafogli su base individuale, la SGR non esercita 
+il diritto di voto relativo alle azioni detenute dal cliente nel portafoglio gestito, salvo che il 
+cliente stesso non abbia conferito apposita procura ai sensi dell’art. 24 del TUF o che tale 
+attività sia normata all’interno dell’accordo di gestione. 
+ 
+ Con riferimento alle deleghe di gestione di investitori istituzionali, la SGR non esercita il 
+diritto di voto, salvo che non sia espressamente disciplinato dall’accordo di gestione. 
+ 
+Si fa esplicito rimando alla policy ESG ed alla policy per l’esercizio dei diritti di voto inerenti 
+agli strumenti finanziari degli OICR gestiti, pubblicate sul sito web della SGR  per ulteriori 
+dettagli. 
+ 
+La SGR monitora, inoltre, attivamente gli eventi societari connessi agli strumenti finanziari 
+presenti in portafoglio dei patrimoni gestiti, ai fini di intraprendere iniziative di Impegno (c.d 
+engagement).   
+ 
+La SGR adotta un criterio di proporzionalità nell’individuazione degli emittenti  quotati sui 
+mercati regolamentati, potenzia lmente oggetto di attività di engagement. Gli emittenti 
+oggetto di monitoraggio, ai fini delle attività di engagement, possono essere sia emittenti 
+“rilevanti”2 in termini di % di strumenti finanziari posseduti da tutti i prodotti gestiti e 
+rappresentare una % significativa3  del “NAV” per uno o più prodotti gestiti. Tali condizioni si 
+devono verificare congiuntamente, su base continuativa, e la loro sussistenza essere verificata 
+su base semestrale 4. Il monitoraggio pu ò inoltre essere attivato su qualsiasi emittente , su 
+iniziativa del Comitato di Sostenibilità della SGR, del Direttore Investimenti  e del Comitato 
+Investimenti. 
+ 
+In via generale, il monitoraggio delle società partecipate è svolto mediante l’ut ilizzo di info- 
+provider ed altri canali informativi a disposizione della SGR e ha per oggetto aspetti rilevanti 
+quali la strategia aziendale, i risultati finanziari e non finanziari, i rischi, la struttura del capitale, 
+l’impatto sociale e ambientale ed il governo societario. 
+ 
+Una buona allocazione del capitale è, nel lungo periodo, uno dei driver più importanti per la 
+ 
+2“ Rilevante” si intende una percentuale superiore al 5% del capitale sociale per le PMI e del 3% per le altre 
+società quotate.  
+3“ Significativa” si intende un peso superiore al 2% del NAV del prodotto gestito. 
+4 L’accertamento circa la realizzazione delle suddette condizioni avviene su base semestrale, in relazione ai dati 
+rilevati l’ultimo giorno semestre riferimento.
+=== pagina 8 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  7 
+creazione di valore per gli azionisti. A tale fine sono monitorate la strategia e la struttura del 
+capitale delle società, analizzando i rendiconti finanziari, valutando l'esecuzione della 
+strategia dichiarata e prestando particolare attenzione ad eventi quali decisioni di investimento 
+di capitale, politica dei dividendi, acquisizioni e cessioni societarie. 
+ 
+Formano oggetto di monitoraggio le dichiarazioni pubbliche delle società attraverso 
+piattaforme di informazione finanziaria, bilanci e rendiconti finanziari, comunicazioni 
+obbligatorie, report contabili e verbali degli incontri. Particolare attenzione viene data alle 
+relazioni sulla governance, ai bilanci di sostenibilità e in genere alle relazioni non finanziarie. 
+Ulteriori fonti e strumenti di osservazione possono essere costituiti da prospetti informativi, 
+comunicati stampa, presentazioni, conferenze ed incontri di settore. 
+ 
+In qualità di aderente al Forum per la Finanza Sostenibile 5
+e controllata di Azimut Holding Spa, 
+firmataria sia dei Principles for Responsible Investment delle Nazioni Unite ( UN PRI)6 sia del 
+questionario promosso da CDP 7 ( Carbon Disclosure Project) , la SGR presta particolare 
+attenzione alle politiche implementate dagli emittenti in cui investe per conto dei prodotti 
+gestiti, nella convinzione che sane politiche e pratiche societarie che incorporino questioni 
+ambientali, sociali e di governance (c.d. “Env ironmental, Social and Governance factors” - 
+ESG)8 siano in grado di creare valore per gli azionisti nel lungo termine. 
+ 
+In tale ambito, la SGR ha quindi adottato metodologie di selezione e monitoraggio degli 
+strumenti finanziari che tengono conto dei suddetti fattori. 
+In particolare, la SGR si è dotata di una Policy ESG, volta a disciplinare i principi e le regole che 
+la SGR, in qualità di partecipante ai mercati finanziari, osserva nell’ambito dei processi 
+decisionali relativi agli investimenti, adottando una politica di gestione focalizzata su emittenti 
+che aderiscono agli standard di sostenibilità e un processo di mo nitoraggio nel continuo  
+dell’esposizione a tali rischi, sia delle singole posizioni che dei complessivi portafogli, basato 
+su ricerche, analisi e rating ESG.. Si rimanda alla suddetta policy pubblicata sul sito web della 
+società. 
+ L’attività di monitoraggio degli emittenti è finalizzata a tutelare ed incrementare il valore dei 
+prodotti gestiti  e si indirizza principalmente all’analisi delle prospettive economiche -
+finanziarie e sulle tematiche di governo societario e sostenibilità, in particolare in presenza di 
+potenziali criticità. 
+ 
+Il monitoraggio è condotto in via continuativa e prevede, a titolo esemplificativo e non 
+esaustivo: 
+ 
+1. le attività di controllo quantitativo sull’andamento del titolo e sul contributo alle 
+performance del fondo; 
+2. le analisi di dati e notizie diffusi da mezzi di informazione ed information provider e 
+dalle principali ricerche operate da analisti finanziari; 
+3. la valutazione dei report finanziari periodici annunciati ed eventuale partecipazione alle 
+ 
+5 https://finanzasostenibile.it/ 
+6 https://www.unpri.org/ 
+7 https://www.cdp.net/en 
+8 Cfr. art. 3 del Regolamento (Ue) n. 2088/2019
+=== pagina 9 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  8 
+            relative “conference call”; 
+4. gli incontri periodici con esponenti dell’emittente anche in collaborazione con altri 
+investitori istituzionali; 
+5. l’analisi dei comunicati e della documentazione pubblicata dagli emittenti, con 
+particolare riferimento agli eventi societari sottoposti all’assemblea degli azionisti; 
+6. i confronti con esperti del settore, consulenti legali indipendenti, etc.
+=== pagina 10 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  9 
+7. DIALOGO CON LE SOCIETÀ PARTECIPATE 
+ 
+Gli emittenti con cui avviare l’ attività di dialogo sono individuati in base alla rilevanza, così 
+come definita nel paragrafo 6 “Monitoraggio con le società partecipate” e/o  all’eventuale 
+verificarsi di eventi potenzialmente negativi, anche sotto il profilo reputazionale dei fondi 
+(approccio reattivo), e d all’effettiva possibilità di intraprendere un dialogo costruttivo, 
+privilegiando gli emittenti italiani ed internazionali, indipendentemente dalla capitalizzazione 
+di mercato. 
+ 
+Le modalità di dialogo con le società partecipate sono definite di volta in volta. 
+ 
+In base alle caratteristiche dell’emittente ed alla rilevanza delle tematiche da affrontare, la SGR 
+può prevedere una diversa intensità di azione: da “ soft engagement ” (e.g. lettera privata, 
+lettera pubblica anche in concomitanza di attività di engagement collaborativo, richiesta  di 
+incontro o conferenza telefonica sia singolarmente o con altri investitori)  a “hard 
+engagement” (con presumibile elevato impatto mediatico/reputazionale sia per l’e mittente 
+che per la SGR). 
+ 
+Le attività di “soft engagement” intraprese possono essere attivate previa informazione al 
+Direttore Investimenti, senza il necessario consenso del Consiglio di Amministrazione. Per 
+tutte le attività di “ hard engagement ”, che hanno presumibilmente un elevato impatto 
+mediatico/reputazionale, occorre necessariamente prevedere la valutazione preventiva de l 
+Comitato di Sosten ibilità della SGR  e la successiva approvazione del Consiglio di 
+Amministrazione. 
+ 
+Ciascuna attività di “ engagement/escalation” è in ogni caso determinata con riguardo alla 
+rilevanza delle tematiche e dell’emittente all’interno della più ampia strategia di 
+investimento, in un’ottica di bilanciamento degli obiettivi di minimizzazione del rischio e 
+massimizzazione del rendimento per gli aderenti. 
+ 
+Il disinvestimento da una società rappresenta uno strumento di ultima istanza, al quale 
+ricorrere solo dopo che la strada dell’impegno e del dialogo sia stata intrapresa senza 
+successo.
+=== pagina 11 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  10 
+8. ESERCIZIO DEI DIRITTI DI VOTO E DEGLI ALTRI DIRITTI CONNESSI ALLE AZIONI 
+ 
+Le attività di valutazione in merito all’ esercizio d el diritto di voto in assemblea nonché di 
+formalizzazione della decisione, sono disciplinate in sezioni dedicate all’interno della “ Policy 
+per l’esercizio dei diritti di voto inerenti agli strumenti finanziari  degli oicr gestiti”,  
+approvata dalla SGR a cui si fa rimando. 
+ 
+Con riguardo alle Gestioni di Portafogli, in via generale la SGR non esercita i diritti di voto per 
+conto dei Clienti, tranne laddove venga espressamente richiesto dagli stessi. In tali casi 
+l’esercizio avviene esclusivamente secondo le istruzioni specifiche degli investitori, impartite 
+mediante procura e ai sensi delle disposizioni normative vigenti, nel rispetto e nei limiti di 
+quanto stabilito nei singoli mandati di gestione.
+=== pagina 12 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  11 
+9. COLLABORAZIONE CON ALTRI AZIONISTI 
+ 
+La SGR, qualora ne rilevi l’opportunità, può valutare l’adozione di forme di cooperazione e di 
+engagement collettivo con altri investitori, attraverso la partecipazione a riunioni formali o 
+informali. 
+ 
+Tale circostanza può verificarsi in caso di eventi soc ietari significativi o di problematiche di 
+interesse pubblico e quando la SGR ritenga che un engagement collettivo rappresenti la 
+soluzione più efficace al fine di promuovere miglioramenti in relazione ai fattori  ESG, alla 
+performance aziendale ed alla gestione del rischio degli emittenti partecipati. 
+ 
+ 
+In qualità di aderente al Forum per la Finanza Sostenibile  e controllata di Azimut Holding 
+S.p.A., firmataria sia dei Principles for Responsible Investment delle Nazioni Unite ( UN PRI)   
+che  del questionario CDP (Carbon Disclosure Project), la SGR si riserva inoltre di partecipare 
+ad attività di engagement collettivo con altri investitori istituzionali,  anche aderenti al 
+suddetto Forum e firmatari del PRI e di CDP. 
+ 
+Qualsiasi modalità di engagement collettivo è condotta nel rispetto della regolamentazione 
+interna ed esterna in materia di gestione dei conflitti di interesse, informazioni privilegiate 
+(c.d. “market abuse”) ed azioni di concerto. 
+ 
+ 
+ 
+10. COMUNICAZIONE CON ALTRI PORTATORI DI INTERESSE 
+ 
+La SGR può, laddove sia ritenuto opportuno, comunicare con i principali stakeholder (gruppi 
+di interesse, autorità e istituzioni pubbliche, ONG, ecc.), per ottenere ulteriori informazioni e 
+opinioni che possano servire da input nel costante impegno con le società, adottando 
+l'approccio ritenuto migliore. Tale attività sarà presa in considerazione qualora si ritenga che 
+possa far progredire il dialogo con gli emittenti, sia coerente con le altre politiche interne e sia 
+consentito dalle leggi e dai regolamenti applicabili.
+=== pagina 13 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  12 
+11. GESTIONE DEI CONFLITTI DI INTERESSE 
+ 
+Viene considerata situazione di conflitto d’interesse l’esercizio del diritto di voto inerente agli 
+strumenti finanziari di pertinenza dei patrimoni gestiti emessi da società del gruppo o da 
+società con le quali la SGR, i suoi soci rilevanti o le società del gruppo intrattengono rapporti 
+di natura strategica, ovvero rispetto alle quali le società del gruppo di appartenenza della SGR 
+nominano o designano uno o più membri degli organi sociali. 
+ 
+Qualora si rilevino le suddette fattispecie, la SGR si astiene dall’esercitare i diritti di voto. Resta 
+tuttavia ferma la possibilità per la SGR di aggregare le azioni di pertinenza dei patrimoni gestiti 
+emesse da tali società, al fine di raggiungere la quota minima di partecipazione richiesta dalla 
+disciplina di volta in volta vigente per la presentazione di liste di candidati al rinnovo delle 
+cariche sociali delle società in questione. 
+ 
+Le pertinenti misure di prevenzione e gestione adottate dalla SGR sono disciplinate nella 
+Policy di gestione dei conflitti di interesse e nella Procedura sull’identificazione e gestione 
+dei conflitti di interesse, le quali: 
+ 
+• definiscono i ruoli e le responsabilità attribuiti ai diversi Organi e Funzioni aziendali con 
+riferimento all’identificazione e alla gestione dei conflitti di interesse; 
+• includono la mappatura delle differenti fattispecie che potrebbero dare origine a 
+situazioni di conflitto di interessi; 
+• indicano i principi e le misure adottate dalla Società per la gestione dei conflitti di 
+interesse, con particolare riguardo a quelle che attengono ai seguenti profili: 
+ 
+o i principi sottesi alle misure implementate dalla SGR al fine di identificare, 
+monitorare, presidiare, gestire e, ove possibile, evitare eventuali conflitti di 
+interesse, incluse quelle di tipo organizzativo e procedurale; 
+o la registrazione dei conflitti nel registro tenuto in conformità alla normativa; 
+o l’informativa resa dalla SGR nel caso in cui le misure e i presidi implementati non 
+siano sufficienti per assicurare, con ragionevole certezza, che il rischio di nuocere agli 
+interessi dei clienti sia evitato.
+=== pagina 14 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  13 
+12. ALLEGATI 
+12.1 Specificità della politica di impegno per il Fondo Azimut Previdenza 
+ 
+Il Fondo Pensione Aperto “Azimut Previdenza” (di seguito anche “il Fondo”), iscritto all’albo 
+tenuto dalla COVIP con il n. 92, è stato istituito da Azimut Società di Gestione del Risparmio 
+S.p.A - ora Azimut Capital Management SGR S.p.A. (di seguito anche “ACM”, “la SGR” o “la 
+Società”) - con effetto dal 1° ottobre 2013. 
+La SGR è il Gestore del Fondo ed esercita per conto dello stesso la politica di impegno e la 
+strategia di investimento azionario, in ottemperanza alle disposizioni normative applicabili, 9 
+secondo i principi e le modalità descritti nella presente Politica, nonché in coerenza con gli 
+obiettivi specificatamente perseguiti dalla politica di investimento del Fondo stesso, 
+consultabile nella sezione Documenti del sito web.10 
+Il Fondo è finalizzato all’erogazione di trattamenti pensionistici complementari del sistema 
+previdenziale obbligatorio, ai sensi del D.Lgs. n. 252 del 5 dicembre 2005. 
+La strategia di investimento, descritta nel suddetto documento sulla politica di investimento, 
+mira a fornire agli aderenti un capitale adeguato ai fini dell’ottenimento di una rendita 
+pensionistica complementare all’atto del pensionamento, attraverso l’impiego delle 
+contribuzioni in combinazioni rischio/rendimento efficienti in un determinato arco temporale 
+coerente con quello delle prestazioni da erogare. Gli elementi principali di tale strategia si 
+basano su: 
+• ottimizzazione della combinazione redditività-rischio del portafoglio, attraverso la scelta 
+degli strumenti migliori per qualità, liquidabilità e livello di rischio, coerentemente con 
+la politica di investimento adottata; 
+• adeguata diversificazione del portafoglio, finalizzata a contenere la concentrazione del 
+rischio e la dipendenza del risultato da determinati emittenti, gruppi, settori e aree 
+geografiche; 
+• efficiente gestione, finalizzata a ottimizzare i risultati contenendo gli oneri di 
+transazione, gestione e funzionamento in rapporto alle dimensioni, complessità e 
+caratteristiche del portafoglio. 
+ 
+In caso di parziale (cioè afferente ad uno o più comparti) o totale delega di gestione a soggetti 
+terzi rispetto ad Azimut capital Management SGR S.p.A., la presente Politica, la 
+documentazione societaria in essa richiamata, e i relativi aggiornamenti sono 
+tempestivamente forniti al gestore ai fini della loro efficace implementazione. 
+La Politica di impegno è soggetta a costante aggiornamento (almeno su base triennale) e non 
+può considerarsi esaustiva e vincolante per il Fondo, non costituendo pertanto 
+documentazione contrattuale. Conseguentemente, alcuna azione, lamentela o richiesta potrà 
+essere formulata sulla base delle informazioni nella stessa contenute, se non riportate nella 
+Nota informativa che, oltre al Regolamento di Gestione, rappresenta l’unico documento 
+contrattuale che lega l’aderente al Fondo. 
+ 
+9 COVIP, Delibera del 2 dicembre 2020 - Regolamento in materia di trasparenza della politica di impegno e degli 
+elementi della strategia di investimento azionario dei fondi pensione 
+ 
+10 https://www.azimut.it/azimut-previdenza
+=== pagina 15 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  14 
+ 
+12.2 Specificità della politica di impegno per il Fondo Azimut Sustainable Future 
+ 
+Il Fondo Pensione Aperto “Azimut Sustainable Future ” (di seguito anche “il Fondo”), iscritto 
+all’albo tenuto dalla COVIP con il n. 171, è stato istituito da Azimut Capital Management SGR 
+S.p.A. (di seguito anche “ACM”, “la SGR” o “la Società”) con effetto dal 1° settembre 2020. 
+ 
+La SGR è il Gestore del Fondo ed esercita per conto dello stesso la politica di impegno e la 
+strategia di investimento azionario, in ottemperanza alle disposizioni normative applicabili
+11
+, 
+secondo i principi e le modalità descritti nella presente Politica, nonché in coerenza con gli 
+obiettivi specificatamente perseguiti dalla politica di investimento del Fondo stesso, 
+consultabile nella sezione Documenti del sito web112
+. 
+ 
+Il Fondo è finalizzato all’erogazione di trattamenti pensionistici complementari del sistema 
+previdenziale obbligatorio, ai sensi del D.Lgs. n. 252 del 5 dicembre 2005. 
+La strategia di investimento, descritta nel suddetto documento, mira a f ornire agli aderenti 
+un capitale adeguato ai fini dell’ottenimento di una rendita pensionistica complementare 
+all’atto del pensionamento, attraverso l’impiego delle contribuzioni in combinazioni 
+rischio/rendimento efficienti in un determinato arco temporal e coerente con quello delle 
+prestazioni da erogare. Gli elementi principali di tale strategia si basano su: 
+ 
+• ottimizzazione della combinazione redditività-rischio del portafoglio, attraverso la scelta 
+degli strumenti migliori per qualità, liquidabilità e livello di rischio, coerentemente con 
+la politica di investimento adottata; 
+• adeguata diversificazione del portafoglio finalizzata a contenere la concentrazione del 
+rischio e la dipendenza del risultato da determinati emittenti, gruppi, sett ori e aree 
+geografiche; 
+• efficiente gestione finalizzata a ottimizzare i risultati contenendo gli oneri di transazione, 
+di gestione e di funzionamento in rapporto alla dimensione, alla complessità e alle 
+caratteristiche del portafoglio. 
+ 
+La Società pone par ticolare attenzione al rispetto dei principi di ESG nella definizione di 
+obiettivi e linee strategiche di investimento, nella definizione dell’Asset Allocation Strategica 
+nonché nell’implementazione delle strategie di investimento, gestendo Fondi Comuni di 
+Investimento con una politica di gestione focalizzata su Emittenti che aderiscono agli standard 
+di sostenibilità ESG. A tal proposito, la Società si avvale della ricerca, delle analisi e dei rating 
+ESG forniti da un provider esterno, monitorando nel continuo, a livello di singola posizione e 
+a livello complessivo di portafoglio, l’esposizione e il livello di rischio ESG. 
+ 
+La strategia di gestione dei comparti del Fondo incorpora inoltre fattori ESG nel processo e 
+nella selezione degli investimenti, adottando un approccio dinamico e flessibile 
+ 
+ 11 COVIP, Delibera del 2 dicembre 2020 - Regolamento in materia di trasparenza della politica di impegno e 
+degli elementi della strategia di investimento azionario dei fondi pensione 
+ 
+12 https://www.azimut.it/azimut-sustainable-future
+=== pagina 16 ===
+Azimut Capital Management SGR S.P.A. 
+Politica di impegno 
+ 
+Novembre 2023  15 
+nell’implementazione dell’ Asset Allocation, volto a mantenere un’ampia diversificazione 
+settoriale e geografica. L’analisi ESG prevede una definizione dell’universo investibile 
+azionario e obbligazionario che utilizza e incorpora sia criteri negativi di esclusione degli 
+emittenti che hanno un certo livello di esposizione a determinati s ettori (tra cui energia  
+nucleare, tabacco, intrattenimento per adulti, gioco d’azzardo, armi da fuoco a uso civile, armi 
+convenzionali, carbone termico), sia criteri positivi di inclusione volti a considerare e valutare 
+anche l’indirizzo degli emittenti verso l’adozione di pratiche più sostenibili e responsabili (i.e. 
+ESG momentum). 
+ 
+In caso di parziale (cioè afferente ad uno o più comparti) o totale delega di gestione a soggetti 
+terzi rispetto ad Azimut capital Management SGR S.p.A., la present e Politica, la 
+documentazione societaria in essa richiamata, e i relativi aggiornamenti sono 
+tempestivamente forniti al gestore ai fini della loro efficace implementazione. 
+ 
+La Politica di impegno è soggetta a costante aggiornamento (almeno triennale)  e non può 
+considerarsi esaustiva e vincolante per il Fondo, non costituendo pertanto documentazione 
+contrattuale. Conseguentemente, alcuna azione, lamentela o richiesta potrà essere formulata 
+sulla base delle informazioni nella stessa contenute,  se non riportate nella Nota informativa 
+che, oltre al Regolamento di Gestione, rappresenta l’unico documento contrattuale che lega 
+l’aderente al Fondo.

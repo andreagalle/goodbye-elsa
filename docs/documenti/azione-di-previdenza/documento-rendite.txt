@@ -1,0 +1,428 @@
+# Fondo: AZIONE DI PREVIDENZA - FONDO PENSIONE APERTO (azione-di-previdenza)
+# Documento: Documento sulle rendite – Documento sulle Rendite
+# Fonte: https://hdiassicurazioni.youser.tech/upl/documents/prodotti/azione-di-previdenza/Azione_di_Previdenza_documento_sulle_rendite_FPA_07-2026_def.pdf
+# Citato in: https://www.hdiassicurazioni.it/it/privati/previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 8f3e09fa9612f482fb7ee357f8bf5adb07f78560b0efc069aeb23988ae0c40ee
+# Pagine: 8
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Edizione 07/2026 
+ 
+HDI ASSICURAZIONI S.p.A. 
+SOCIETÀ CAPOGRUPPO DEL GRUPPO ASSICURATIVO 
+“HDI ASSICURAZIONI” ISCRITTO ALL’ALBO DEI GRUPPI ASSICURATIVI AL N. 015 
+ 
+AZIONE DI PREVIDENZA 
+Fondo Pensione Aperto 
+iscritto all’Albo tenuto dalla COVIP con il n. 111 
+ 
+Il presente documento è valido a decorrere dal 01/08/2026 
+ 
+DOCUMENTO SULLE RENDITE 
+ 
+1.1 Oggetto 
+Il presente documento illustra le condizioni e le modalità di accesso alla prestazione pensionistica 
+complementare. In presenza dei requisiti per l’accesso a quest’ultima, l’aderente può scegliere tra 
+le diverse modalità di fruizione del montante finale accumulato: 
+1. rendita vitalizia o, in alternativa, una delle forme indicate al paragrafo 1.2; 
+2. rendita a durata definita; 
+3. prelievi liberamente determinabili; 
+4. capitale per l’intero ammontare, ove ricorrano i requisiti previsti dalla normativa vigente. 
+Le modalità da 1 a 3 possono essere abbinate all’erogazione di una quota in capitale, fino al limite 
+previsto dalla normativa vigente. 
+La rendita a durata definita e i prelievi liberamente determinabili sono alternative alla rendita 
+vitalizia e non sono tra loro combinabili.  
+ 
+1.2 Ammontare della rendita vitalizia 
+L’importo della rendita annua vitalizia si ottiene dividendo il valore della posizione individuale 
+destinato a costituire la rendita di cui all’art. 12, comma 1, del Regolamento, per il coefficiente, 
+individuato in base all’età dell’Iscritto e alla rateizzazione prescelta, in vigore al momento della 
+richiesta della prestazione. 
+Nel caso di rateizzazione della rendita nel corso dell’anno, il valore della singola rata è calcolato 
+dividendo l’importo della rendita annua vitalizia, come sopra determinato, per il numero delle rate 
+previste. 
+I coefficienti per la trasformazione in rendita, riportati nella tabella A dell’Allegato n. 2 al 
+Regolamento, sono validi per tutti gli Iscritti che facciano richiesta della prestazione di rendita 
+prima della eventuale sostituzione dei medesimi coefficienti. 
+L’Iscritto può richiedere, in luogo della rendita annua vitalizia, che la prestazione 
+pensionistica venga erogata in una delle seguenti forme: 
+a) una rendita vitalizia reversibile: detta rendita è corrisposta all’Iscritto finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’Iscritto stesso, alla persona da lui 
+designata tra i soggetti previsti dal sistema previdenziale obbligatorio; 
+b) una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 5 anni 
+all’Iscritto stesso o, in caso di suo decesso, alla persona o alle persone da lui designate tra i 
+soggetti previsti dal sistema previdenziale obbligatorio e, successivamente, all’Iscritto finché è 
+in vita; 
+c) una rendita certa e successivamente vitalizia: detta rendita è corrisposta per i primi 10 anni 
+all’Iscritto stesso o, in caso di suo decesso, alla persona o alle persone da lui designate tra i
+=== pagina 2 ===
+2 
+soggetti previsti dal sistema previdenziale obbligatorio e, successivamente, all’Iscritto finché è 
+in vita; 
+d) una rendita vitalizia con controassicurazione: detta rendita è corrisposta all’aderente finché in 
+vita; in caso di suo decesso, il montante residuo è corrisposto alla/e persona/e da lui 
+designata/e. 
+I coefficienti per la conversione in rendita certa a 5 o 10 anni e in rendita vitalizia con 
+controassicurazione sono contenuti rispettivamente nelle tabelle B, C e D dell’Allegato n. 2 al 
+Regolamento, mentre la documentazione contenente i coefficienti per la determinazione delle 
+prestazioni di reversibilità sono depositati presso la sede del Fondo. 
+ 
+1.3 Erogazione della rendita vitalizia 
+Gli importi delle rate di rendita vengono erogati in via posticipata e la rateazione è scelta 
+dall’Iscritto. Di conseguenza la prima rata di rendita viene corrisposta al termine del periodo di 
+rateazione prescelta dall’Iscritto. L’ultima rata di rendita verrà erogata all’epoca dell’ultima 
+scadenza di rata che precede la morte dell’Iscritto assicurato. La rateazione non è modificabile nel 
+corso dell’erogazione della rendita. 
+Non è consentito il riscatto della rendita.  
+Per i pagamenti debbono essere preventivamente consegnati al Fondo i documenti necessari a 
+verificare l'effettiva esistenza dell'obbligo di pagamento e ad individuare gli aventi diritto mentre il 
+Fondo si riserva la facoltà di accertare l’esistenza in vita attraverso opportuna certificazione.  
+Il pagamento della rendita viene eseguito mediante bonifico bancario alla scadenza delle rate 
+convenute. L’Iscritto dovrà dare comunicazione al Fondo pensione del c/c bancario e delle 
+coordinate bancarie (IBAN) sul quale accreditare gli importi. In caso di variazione del c/c bancario 
+l’Iscritto dovrà darne comunicazione al Fondo pensione con tre mesi di anticipo rispetto alla data di 
+corresponsione della rata. 
+ 
+1.4 Caricamento, basi demografiche e finanziarie 
+La base demografica utilizzata nel calcolo dei coefficienti indifferenziati per sesso è la tavola A62D 
+(impegni differiti) con combinazione 70% maschi e 30% femmine, mentre il tasso tecnico è pari a 
+0,00%. 
+Il costo dell’erogazione della rendita vitalizia è fissato in misura pari a 1,25% della rendita annua 
+stessa, maggiorato di tante volte lo 0,125% per quante sono le rate di rendita dovute nell’anno, 
+diminuite di uno. Tali spese sono considerate nella determinazione dei coefficienti di conversione. 
+Come indicato nel Regolamento, i coefficienti di conversione possono essere periodicamente 
+rideterminati nel rispetto della normativa in materia di stabilità delle compagnie di assicurazione e 
+delle relative disposizioni applicative emanate dall’ISVAP: in ogni caso, le modifiche dei coefficienti 
+di trasformazione non avranno effetto sulle rendite già in corso di erogazione e non si applicano ai 
+soggetti già aderenti alla data di introduzione delle modifiche stesse che esercitano il diritto alla 
+prestazione pensionistica nei tre anni successivi. 
+ 
+1.5 Rivalutazione della rendita vitalizia 
+La Società gestisce le attività a copertura degli impegni assunti (riserva matematica) nella 
+Gestione Speciale “ALFIERE” con le modalità e i criteri previsti nel relativo regolamento allegato. 
+L’importo della rendita viene rivalutato ad ogni anniversario della data di inizio della 
+corresponsione della rendita nella misura e con le modalità di seguito indicate. 
+ 
+A) Misura annua di rivalutazione 
+La Società dichiara, entro il 31 dicembre di ciascun anno, il rendimento annuo da attribuire pari al 
+rendimento di cui all’art.6 del Regolamento di ALFIERE al netto di una percentuale trattenuta pari a 
+1,00%.  
+Il rendimento così attribuito costituisce la misura annua di rivalutazione. La Società garantisce una 
+misura annua minima di rivalutazione pari a 0,00%.
+=== pagina 3 ===
+3 
+B) Rivalutazione della rendita 
+Ad ogni anniversario della data di inizio della corresponsione della rendita, essa viene rivalutata 
+mediante aumento, a totale carico della Società, della riserva matematica costituitasi a tale epoca. 
+Tale aumento viene determinato secondo la misura annua di rivalutazione sopra indicata, entro il 
+31 dicembre che precede la suddetta ricorrenza. 
+Da tale ricorrenza la rendita assicurata viene aumentata della stessa misura e quindi la rendita 
+stessa si considera come determinata sin dall’origine per il nuovo importo assicurato. Segue che 
+ciascuna rivalutazione viene applicata alle somme in essere, comprensive di quelle derivanti da 
+precedenti rivalutazioni. 
+ 
+1.6 Rendita a durata definita 
+La rendita a durata definita è una prestazione pensionistica erogata per un periodo di tempo 
+predeterminato sulla base della vita attesa residua del beneficiario.  
+La durata della rendita corrisponde al numero intero di anni della speranza di vita residua 
+dell'aderente (contenute nella Tabella 1 allegata) all'età di esercizio dell'opzione, ricavata dalle 
+tavole di mortalità ISTAT, utilizzate per il calcolo dei vigenti coefficienti di trasformazione del 
+montante in rendita di cui alla Tavola A allegata alla Legge 8 agosto 1995, n. 335. Il numero di anni 
+è arrotondato per difetto. 
+ 
+L'importo di ciascuna rata non è fisso. Viene ricalcolato alla data di liquidazione di ogni rata 
+dividendo il montante disponibile in quel momento per il numero di rate ancora da erogare. Poiché 
+il montante continua a essere investito nel comparto prescelto, l'importo varia in funzione dei 
+risultati della gestione finanziaria. Si riporta di seguito la formula: 
+ 
+Importo rata(n) = Montante disponibile alla data di liquidazione(n) ÷ Numero di rate residue(n) 
+ 
+A ciascuna rata corrisponde un numero prefissato di quote (ottenuto dividendo il numero 
+complessivo di quote del montante per il numero di rate totali). L'importo in euro della rata varia in 
+funzione del valore della quota alla data di liquidazione. 
+ 
+L'aderente può scegliere la periodicità di erogazione tra annuale, semestrale, trimestrale o 
+mensile. Tuttavia, il Fondo può limitare la possibilità di optare per una cadenza della rateazione 
+eccessivamente ravvicinata, qualora l’importo delle singole rate risulti inferiore a un importo 
+minimo individuato dalla stessa. 
+ 
+ESEMPIO 
+Ipotesi di base: montante accumulato 200.000 € · durata rendita 20 anni · erogazione annuale · rendimento 
+variabile anno per anno. 
+Anno Montante a 
+inizio anno 
+Numero 
+quote a 
+inizio anno 
+Valore 
+quota a fine 
+anno 
+Rendimento 
+del 
+comparto 
+Montante 
+post- 
+rendimento 
+Quote 
+erogate 
+(400) 
+Importo 
+incassato 
+Anno 1 200.000 € 8000 25,88 € 3,50%  207.000 €  400 10.350 € 
+Anno 2 196.650 € 7600 26,39 € 2,00%  200.583 €  400 10.557 € 
+Anno 3 190.026 € 7200 26,00 € -1,50%  187.176 €  400 10.399 € 
+Anno 4 176.777 € 6800 27,04 € 4,00%  183.848 €  400 10.815 € 
+Anno 5 173.033 € 6400 27,85 € 3,00%  178.224 €  400 11.139 € 
+… … … … … … … … 
+Anno 20 14.947 € 400 38,49 € 3,00% 0  400 15.395 € 
+ 
+La tabella è puramente illustrativa. I rendimenti indicati sono ipotetici e non costituiscono previsione. L'importo effettivo delle 
+rate dipenderà dai risultati della gestione finanziaria del comparto prescelto dall'aderente. 
+Formula applicata: rata dell'anno N = montante disponibile post-rendimento ÷ numero di rate residue. Ogni anno il montante 
+decresce per effetto dell'erogazione e varia per i risultati della gestione.
+=== pagina 4 ===
+4 
+Di seguito si riportano i rischi da considerare in relazione alla scelta della rendita a durata definita: 
+- rischio di longevità: l'erogazione cessa alla scadenza del periodo stabilito. Se l'aderente 
+sopravvive alla durata della rendita, non riceverà ulteriori erogazioni da questa prestazione.  
+- rischio di investimento: l'importo delle rate non è garantito. Se il comparto di investimento 
+subisce perdite, il montante disponibile si riduce e le rate future saranno più basse. 
+Viceversa, rendimenti positivi determinano rate più elevate. 
+- rischio di concentrazione: le prestazioni di previdenza complementare potrebbero 
+concentrarsi eccessivamente nella fase iniziale a fronte di una minore copertura disponibile 
+nel restante periodo di pensionamento. 
+ 
+1.7 Prelievi liberamente determinabili 
+I prelievi liberamente determinabili sono una prestazione pensionistica che consente all'aderente di 
+scegliere autonomamente, entro i limiti stabiliti dalla normativa, quando prelevare e quanto. Il 
+montante non prelevato rimane investito nel comparto prescelto e continua a produrre rendimento. 
+ 
+Per evitare che l'aderente esaurisca prematuramente il capitale, la normativa stabilisce un tetto 
+massimo prelevabile in ogni momento. Tale tetto è calcolato in relazione a una rendita a durata 
+definita teorica figurativa (non reale), con le seguenti caratteristiche: 
+• frazionamento annuale; 
+• immediatamente erogabile al momento della richiesta; 
+• durata pari alla vita attesa residua dell'aderente (in anni interi, arrotondata per difetto), 
+calcolata con le medesime tavole ISTAT utilizzate per la rendita a durata definita. 
+ 
+Questa rendita figurativa non viene mai effettivamente erogata: rileva esclusivamente come 
+parametro di calcolo del tetto massimo. 
+ 
+Tetto massimo prelevabile in qualsiasi momento = 
+Somma delle rate di rendita figurativa maturate dall'inizio − Totale dei prelievi già effettuati 
+ 
+Ogni anno che trascorre, matura una nuova rata teorica, che si aggiunge al tetto disponibile. I 
+prelievi effettuati scalano il tetto disponibile. Le rate teoriche non riscosse si accumulano e restano 
+disponibili per prelievi futuri. 
+ 
+Nell'ultimo anno di durata della rendita teorica, il tetto massimo prelevabile coincide con l'intero 
+montante residuo accumulato fino a quel momento. 
+ 
+L'aderente può richiedere un primo prelievo già contestualmente alla domanda di accesso alla 
+prestazione. L'importo non può superare quello della prima rata di rendita figurativa. 
+ 
+L’aderente può presentare richieste di prelievo a intervalli non inferiori a sei mesi. L’importo di 
+ciascun prelievo non può essere inferiore al minore tra 2.000 euro e l’importo della rendita annua 
+figurativa. 
+ 
+Per i Fondi che adottano una contabilità per quote, a ciascuna rata di rendita figurativa corrisponde 
+un numero fisso di quote, ottenuto dividendo il numero complessivo di quote del montante iniziale 
+per il numero di rate. L'importo massimo prelevabile è determinato moltiplicando il valore della 
+quota alla data del prelievo per la differenza tra le quote relative alle rate maturate e le quote già 
+utilizzate per prelievi precedenti.
+=== pagina 5 ===
+5 
+ESEMPIO 
+Ipotesi di base: montante accumulato 200.000 € · vita attesa residua 20 anni · rendita figurativa annuale 
+10.000 € (= 200.000 / 20) · rendimento ipotetico 3,5% annuo. 
+Anno 
+Numero 
+quote a 
+inizio 
+anno 
+Valore 
+quota a 
+inizio 
+anno 
+Rendimento 
+del 
+comparto 
+Montante 
+post- 
+rendimento 
+Quote 
+prelevabili 
+maturate 
+Massimo 
+prelevabile 
+Prelievo 
+effettuato 
+Quote 
+prelevabili 
+avanzate 
+Montante 
+residuo Note 
+Anno 1 8000 25,00 € 0,00% 200.000 € 400 10.000 € 10.000 € 0 190.000 € 
+Prima rata 
+disponibile 
+da subito 
+Anno 2 7600 25,88 € 3,50% 196.650 € 400 10.350 € 0 € 400 196.650 € 
+Nessun 
+prelievo: 
+si 
+accumula 
+una rata 
+Anno 3 7600 26,39 € 2,00% 200.583 € 400 21.114 € 10.557 € 400 190.026 € 
+Prelievo 
+parziale, 
+resta un 
+residuo 
+Anno 4 7200 26,00 € -1,50% 187.176 € 400 20.797 € 0 € 800 187.176 € 
+Nessun 
+prelievo: 
+si 
+accumula 
+una rata 
+Anno 5 7200 27,04 € 4,00% 194.663 € 400 32.444 € 27.036 € 200 167.626 € 
+Prelievo 
+superiore 
+alla rata 
+maturata 
+… … … … … … … … … … … 
+ 
+Il montante residuo è calcolato al netto dei prelievi effettuati e al lordo del rendimento maturato (ipotetico 3,5% annuo per 
+semplicità). Nella realtà il rendimento varia anno per anno. 
+Il 'Max prelevabile al 31/12' indica il tetto disponibile al termine di ciascun anno, tenendo conto dei prelievi già effettua ti nell'anno 
+stesso. 
+La tabella è puramente illustrativa. I rendimenti indicati sono ipotetici e non costituiscono previsione. 
+ 
+ 
+Di seguito si riportano i rischi da considerare in relazione alla scelta dei prelievi liberamente 
+determinabili: 
+- rischio di longevità: se i prelievi vengono effettuati con ritmo sostenuto nei primi anni, il 
+montante si riduce significativamente. Al termine della vita attesa teorica, se l'aderente è 
+ancora in vita, può prelevare il montante residuo ma non riceve ulteriore protezione 
+automatica. 
+- rischio di investimento: il tetto massimo prelevabile in euro varia con il valore delle quote. In 
+periodi di rendimento negativo il montante si riduce e il tetto effettivo può risultare inferiore 
+alle rate teoriche maturate. 
+- rischio di concentrazione: la massima flessibilità di prelievo richiede disciplina nella 
+pianificazione. Prelievi concentrati nelle prime fasi possono compromettere la copertura nei 
+periodi successivi. 
+ 
+1.8 Aspetti comuni delle prestazioni alternative alla rendita vitalizia 
+Nel corso dell’erogazione della rendita a durata definita o dei prelievi liberamente determinabili, 
+l'aderente non può più esercitare le prerogative tipiche della fase di accumulo. In particolare: 
+• non è possibile effettuare trasferimenti della posizione (se non per usufruire delle condizioni 
+di erogazione della rendita del fondo cessionario); 
+• non è possibile richiedere anticipazioni; 
+• non è possibile accedere alla RITA (se la RITA è in corso di liquidazione le nuove prestazioni 
+non sono cumulabili con la stessa e se vengono richieste comportano la revoca della RITA in 
+erogazione);
+=== pagina 6 ===
+6 
+• non è possibile versare ulteriori contributi, salvo che venga attivato un nuovo rapporto di 
+lavoro con maturazione di TFR (le prerogative derivanti da tale nuova contribuzione sono 
+gestite separatamente dalla prestazione in corso); 
+• è invece consentito lo switch di comparto, nel rispetto del periodo minimo fissato nel 
+Regolamento. 
+ 
+Il montante non ancora erogato rimane investito nel comparto scelto dall'aderente all'atto della 
+richiesta della prestazione o, in assenza di indicazioni, nella Linea Equilibrata.  
+ 
+In caso di decesso del beneficiario durante la fase di erogazione, il montante residuo è riscattato 
+dai soggetti dallo stesso indicati al momento dell'esercizio dell'opzione. La designazione è 
+obbligatoria: le richieste prive di tale indicazione sono considerate incomplete e non vengono 
+lavorate. L'indicazione può consistere nella conferma dei soggetti già designati per la fase di 
+accumulo. Le scelte possono essere successivamente modificate. 
+ 
+Il Fondo eroga la prestazione entro i termini indicati nel Regolamento e comunque non oltre 6 mesi 
+dalla presentazione della richiesta. Durante il periodo transitorio, concesso da Covip per consentire 
+al Fondo di adeguare i propri sistemi e le procedure operative alle nuove prestazioni entro il 31 
+dicembre 2026, il Fondo acquisirà le richieste ma provvederà alla liquidazione dopo la conclusione 
+di tale adeguamento di cui verrà data apposita comunicazione.  
+ 
+Una volta avviata la liquidazione di una delle due prestazioni, la scelta effettuata non può essere 
+revocata, salvo il caso in cui il beneficiario opti per la conversione del montante residuo in una 
+rendita vitalizia. 
+ 
+1.9 Modalità di richiesta della prestazione 
+Per accedere alle prestazioni pensionistiche, è necessario che l’aderente verifichi di aver maturato 
+i requisiti di accesso (pensionamento nel regime obbligatorio e almeno 5 anni di partecipazione 
+alla previdenza complementare) e prendere visione del presente documento, del supplemento alla 
+Nota informativa e di ogni altra documentazione messa a disposizione dal Fondo. 
+A tal fine, è necessario trasmettere al Fondo: 
+1. il modulo di richiesta delle prestazioni, disponibile sul sito web del Fondo;  
+2. certificato di pensionamento dell’ente obbligatorio di appartenenza; 
+3. copia di un documento d’identità valido e del codice fiscale;  
+ 
+Inoltre, per la rendita a durata definita e i prelievi liberamente determinabili, nel modulo di richiesta 
+andrà indicato: 
+- il/i soggetto/i designato/i al riscatto del montante residuo in caso di decesso. Le richieste 
+prive di tale indicazione sono considerate incomplete e non vengono lavorate; 
+- il comparto di investimento prescelto per la fase di erogazione (in assenza di indicazione, il 
+comparto è Linea Equilibrata).
+=== pagina 7 ===
+7 
+ 
+ 
+Tabella 1 
+ 
+Età Speranza di vita popolazione 
+(anni interi) 
+50 34 
+51 33 
+52 32 
+53 31 
+54 30 
+55 29 
+56 28 
+57 27 
+58 26 
+59 26 
+60 25 
+61 24 
+62 23 
+63 22 
+64 21 
+65 20 
+66 20 
+67 19 
+68 18 
+69 17 
+70 16 
+71 15 
+72 15 
+73 14 
+74 13 
+75 12 
+76 12 
+77 11 
+78 10 
+79 10 
+80 9 
+81 8 
+82 8 
+83 7 
+84 7 
+85 6 
+86 6 
+87 5 
+88 5 
+89 4 
+90 4 
+91 4 
+92 3 
+93 3 
+94 3 
+95 2 
+96 2 
+97 2 
+98 2 
+99 2 
+100 1 
+101 1
+=== pagina 8 ===
+PAGINA BIANCA

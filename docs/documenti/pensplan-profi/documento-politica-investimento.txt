@@ -1,0 +1,1907 @@
+# Fondo: FONDO PENSIONE APERTO PENSPLAN PROFI (pensplan-profi)
+# Documento: Documento sulla politica di investimento – Documento sulla politica di investimento
+# Fonte: https://www.fondopensioneprofi.com/sites/default/files/materiali/documentazione/Offerta/DocumentoPoliticaInvestimento.pdf
+# Citato in: https://www.fondopensioneprofi.com/documenti
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5b578bcc3f646e1e24c719792bb76d1b45b2aefbd39336b26fb68e8ec0851a39
+# Pagine: 32
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024 
+ 
+ 
+ 
+Fondo Pensione Aperto 
+Iscritto all’Albo COVIP al n. 147 
+Istituito in Italia da Euregio Plus SGR S.p.A. 
+ 
+ 
+Passaggio Duomo, 15 
+39100 Bolzano (BZ) 
+ 
+Tel.: 0471 068 700 
+Fax: 0471 068 766 
+ 
+profi@euregioplus.com 
+fondoprofi@pec.it 
+ www.euregioplus.com 
+DOCUMENTO SULLA POLITICA DI 
+INVESTIMENTO 
+Redatto ai sensi della Deliberazione Covip del 16 marzo 2012 e s.m.i. 
+(approvato dal Consiglio di Amministrazione del 27 maggio 2024) 
+ 
+ 
+ 
+ 
+ 
+EUREGIO PLUS SGR S.P.A. è responsabile della completezza e veridicità dei dati e delle notizie contenuti 
+nel presente documento. 
+ 
+Il presente Documento è da intendersi come uno strumento volto a delineare e formalizzare la linea 
+gestionale che il Fondo intende adottare e non come un documento di trasparenza che impegni 
+contrattualmente il Fondo verso l’esterno.
+=== pagina 2 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 1 di 4 
+ 
+Indice 
+ 
+1 Premessa ....................................................................................................... 2 
+1.1 Caratteristiche generali di Pensplan Profi ...............................................................................2 
+1.2 Destinatari del Fondo ..............................................................................................................2 
+2 Obiettivi della gestione finanziaria .............................................................. 3 
+2.1 Caratteristiche socio-demografiche degli aderenti ..................................................................3 
+2.2 I comparti .................................................................................................................................2 
+2.2.1 Comparto Ethical Life High Growth ...............................................................................3 
+2.2.2 Comparto Ethical Life Growth .......................................................................................4 
+2.2.3 Comparto Ethical Life Balanced Growth .......................................................................4 
+2.2.4 Comparto Ethical Life Conservative ..............................................................................4 
+2.2.5 Comparto Ethical Life Short Term .................................................................................4 
+3 Criteri di attuazione della politica di investimento ..................................... 5 
+3.1 Comparto Ethical Life High Growth .........................................................................................7 
+3.1.1 Ripartizione strategica delle attività...............................................................................7 
+3.1.2 Gli strumenti finanziari nei quali si intende investire e i rischi connessi  .......................8 
+3.1.3 Modalità di gestione che si intende adottare, stile e regime commissionale  ................9 
+3.2 Comparto Ethical Life Growth .................................................................................................9 
+3.2.1 Ripartizione strategica delle attività...............................................................................9 
+3.2.2 Gli strumenti finanziari nei quali si intende investire e i rischi connessi  .................... 10 
+3.2.3 Modalità di gestione che si intende adottare, stile e regime commissionale  ............. 11 
+3.3 Comparto Ethical Life Balanced Growth .............................................................................. 12 
+3.3.1 Ripartizione strategica delle attività............................................................................ 12 
+3.3.2 Gli strumenti finanziari nei quali si intende investire e i rischi connessi  .................... 13 
+3.3.3 Modalità di gestione che si intende adottare, stile e regime commissionale ............. 14 
+3.4 Comparto Ethical Life Conservative ..................................................................................... 14 
+3.4.1 Ripartizione strategica delle attività............................................................................ 14 
+3.4.2 Gli strumenti finanziari nei quali si intende investire e i rischi connessi  .................... 15 
+3.4.3 Modalità di gestione che si intende adottare, stile e regime commissionale ............. 16 
+3.5 Comparto Ethical Life Short Term ........................................................................................ 17 
+3.5.1 Ripartizione strategica delle attività............................................................................ 17 
+3.5.2 Gli strumenti finanziari nei quali si intende investire e i rischi connessi  .................... 17 
+3.5.3 Modalità di gestione che si intende adottare, stile e regime commissionale  ............. 18 
+4 Controllo della gestione finanziaria ........................................................... 19 
+4.1 Verifica delle soglie di rischiosità a livello di comparto ........................................................ 19 
+4.2 Performance attribution e contribution ................................................................................. 19 
+5 Evoluzioni programmate e sviluppi in corso di realizzazione ................. 20 
+6 Modifiche apportate al documento nell’ultimo triennio ........................... 20 
+6.2 Obiettivi della gestione finanziaria ....................................................................................... 20 
+6.2.1 Caratteristiche socio-demografiche degli aderenti ..................................................... 20 
+6.2.2 I comparti .................................................................................................................... 20 
+6.3 Criteri di attuazione della politica di investimento ................................................................ 23 
+6.3.1 Comparto Ethical Life High Growth ............................................................................ 24 
+6.3.2 Comparto Ethical Life Growth .................................................................................... 24 
+6.3.3 Comparto Ethical Life Balanced Growth .................................................................... 25 
+6.3.4 Comparto Ethical Life Conservative ........................................................................... 26 
+6.3.5 Comparto Ethical Life Short Term .............................................................................. 26 
+6.4 Controllo della gestione finanziaria ...................................................................................... 27 
+6.5 Evoluzioni programmate e sviluppi in corso di realizzazione ............................................... 27
+=== pagina 3 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 2 di 4 
+ 
+1 PREMESSA 
+Il presente Documento sulla politica di investimento ha lo scopo di definire il processo di attuazione della 
+politica di investimento che Euregio Plus SGR S.p.A. intende implementare per ottenere l’obiettivo finale di 
+perseguire combinazioni di rischio-rendimento efficienti e coerenti con i bisogni previdenziali degli aderenti, 
+attraverso l’impiego delle risorse gestite relativamente al FONDO PENSIONE APERTO PENSPLAN 
+PROFI (di seguito “PENSPLAN PROFI” o “FONDO”). 
+Questo Documento viene sottoposto a revisione periodica avente cadenza triennale. Il Documento è 
+trasmesso, in sede di prima definizione e, successivamente, in occasione di ogni sua modifica:  
+• agli organi di controllo della forma pensionistica; 
+• ai soggetti incaricati della gestione finanziaria e al depositario; 
+• alla COVIP, entro venti giorni dalla sua formalizzazione. 
+Le informazioni contenute nella Nota Informativa sono coerenti con le indicazioni sulla politica di 
+investimento riportate nel presente Documento. 
+Il presente Documento non costituisce parte integrante della documentazione contrattuale da consegnare 
+all’aderente all’atto dell’adesione e nel corso del rapporto di partecipazione, ma è reso disponibile agli 
+aderenti, ai beneficiari ed ai loro rappresentanti che ne facciano esplicita richiesta per iscritto, a mezzo 
+posta elettronica o posta ordinaria, ai seguenti indirizzi: 
+ Euregio Plus SGR S.p.A. 
+ www.euregioplus.com 
+ profi@euregioplus.com 
+ 
+Passaggio Duomo, 15 
+39100 Bolzano (BZ) 
+ 
+Tel. 0471 068700 
+Fax 0471 068766 
+1.1 CARATTERISTICHE GENERALI DI PENSPLAN PROFI 
+PENSPLAN PROFI è stato istituito dalla società di gestione del risparmio PensPlan Invest SGR S.p.A. che, 
+con decorrenza 25 settembre 2019, ha modificato la propria denominazione sociale in  Euregio Plus SGR 
+S.p.A. (di seguito anche “SGR” o “Euregio +”) su autorizzazione rilasciata dalla COVIP,  d’intesa con la 
+Banca d’Italia, con provvedimento del 17 maggio 2004 ed è iscritto all’albo tenuto dalla COVIP con il n. 
+147; con il medesimo provvedimento la COVIP ha approvato il Regolamento del FONDO.  
+Il FONDO è gestito, con effetto dal 17 maggio 2004,  dalla società di gestione del risparmio Euregio +; 
+società autorizzata, tra l’altro, alla prestazione del servizio di gestione di portafogli e iscritta all’Albo delle 
+società di gestione del risparmio di cui all’art. 35 del D. Lgs. 24 febbraio 1998 n. 58.  
+PENSPLAN PROFI è finalizzato all’erogazione di trattamenti pensionistici complementari del sistema 
+previdenziale obbligatorio, ai sensi del d.lgs. 5 dicembre 2005, n. 252 (e successive modificazioni e 
+integrazioni). 
+PENSPLAN PROFI è un fondo pensione apert o, costituito in forma di patrimonio separato e autonomo 
+all’interno di Euregio+ ed operante in regime di contribuzione definita. 
+1.2 DESTINATARI DEL FONDO 
+Il FONDO è rivolto a tutti coloro che intendono realizzare un piano di previdenza complementare su base 
+individuale. Possono inoltre aderire, su base collettiva, i lavoratori nei cui confronti trovano applicazione i 
+contratti, gli accordi o i regolamenti aziendali che prevedono l’adesione al FONDO.
+=== pagina 4 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 3 di 4 
+ 
+Il FONDO, in quanto fondo pensione aperto, non ha una popolazione di riferimento predefinita. Pertanto, il 
+FONDO può accogliere tra i propri aderenti lavoratori dipendenti, autonomi, liberi professionisti e titolari di 
+altre fonti di reddito, ma anche casalinghe e familiari fiscalmente a carico.  
+Inoltre, il FONDO p uò accogliere adesioni su base collettiva sulla base di contratti, accordi collettivi o 
+regolamenti aziendali. Il FONDO offre molteplici soluzioni di investimento tarate sugli aderenti e sulle loro 
+esigenze di rischio/rendimento che possono modificarsi ed evolversi durante il loro percorso previdenziale. 
+La pluralità di opzioni di investimento previste dal FONDO ne testimoniano l’idoneità a soddisfare le più 
+svariate aspettative ed esigenze. 
+Sempre per tenere in considerazione le aspettative ed i bisogni pr evidenziali degli aderenti vengono 
+monitorate periodicamente le caratteristiche socio-demografiche, l’andamento delle adesioni e delle uscite, 
+oltre che altri indicatori utili come il livello di contribuzione media. 
+2 OBIETTIVI DELLA GESTIONE FINANZIARIA 
+PENSPLAN PROFI ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di 
+prestazioni pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la 
+raccolta dei contributi, la gestione delle risorse nell’e sclusivo interesse degli aderenti e l’erogazione delle 
+prestazioni secondo quanto disposto dalla normativa tempo per tempo vigente in materia di previdenza 
+complementare. 
+PENSPLAN PROFI si impegna a massimizzare la resa delle risorse conferite in esso fornendo agli aderenti 
+opportunità di investimento diversificate in funzione di diverse aspettative di rendimento e di tolleranza ai 
+rischi di natura finanziaria, perseguendo attraverso la propria politica di investimento combinazioni di 
+rischio-rendimento eff icienti ed efficaci in termini di rapporto tra rendimenti e volatilità dei risultati, in un 
+determinato arco temporale. 
+2.1 CARATTERISTICHE SOCIO-DEMOGRAFICHE DEGLI ADERENTI 
+Dall’analisi demografica condotta sulla popolazione del Fondo emerge che, alla data del 31/12/2023, su di 
+un totale di 9.113 aderenti al Fondo, il 51% è rappresentato da aderenti di sesso femminile e 49% di sesso 
+maschile.  
+La tabella 1 mostra la progressione nel tempo  dello sviluppo numerico e dell’età media della popolazione 
+del Fondo dal l’anno di istituzione sino al 202 3. La dinamica dei nuovi ingressi, ha avuto una sensibile 
+accelerazione negli ultimi 3 anni, confermando la robusta crescita del triennio precedente. La componente 
+di aderenti con età superiore a 50 anni (figura 1) è rimasta stabile al 27% del totale , mentre l’età media 
+degli iscritti risulta pari al 35,5 anni, in calo rispetto alla rilevazione del 2020, dove si attestava a 36,5 anni; 
+l’età media dei nuovi ingressi nel corso degli ultimi tre anni si attesta infatti a 32,3 anni, a testimonianza del 
+focus verso le fasce di età più giovani.
+=== pagina 5 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 4 di 4 
+ 
+Tabella 1, Distribuzione per classi di età degli aderenti del Fondo, anno per anno dal 2006  
+ 
+Figura 1, Sviluppo età media e % aderenti con età maggiore di 50 anni 
+ 
+Fasce Età 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+0-20 2 3 1 2 2 3 5 6 5 150 462 639 1087 1345 2024
+20-25 13 11 10 9 8 8 9 12 20 66 184 270 404 517 693
+25-30 27 29 27 25 26 24 20 17 17 48 182 289 430 623 785
+30-35 51 62 54 48 54 59 51 47 42 68 183 260 440 602 772
+35-40 49 55 71 76 102 101 93 80 86 106 248 311 453 598 743
+40-45 55 67 75 71 66 68 87 100 111 160 309 401 542 659 796
+45-50 25 26 31 44 57 76 82 84 106 143 284 395 595 734 858
+50-55 8 13 18 20 22 29 30 38 86 148 340 445 631 796 918
+55-60 2 5 5 7 10 10 14 19 33 68 184 278 453 631 818
+60-65 2 1 1 1 1 2 5 5 8 23 83 142 241 350 488
+65-70 0 1 1 1 1 2 1 1 1 5 22 44 80 128 182
+70-100 0 0 0 0 0 0 1 1 1 2 3 3 8 17 36
+Totale 234       273       294       304       349       382       398       410       516       987       2.484     3.477     5.364     7.000     9.113     
+Età Media Fondo 36,8      37,4      38,3      39,1      39,3      39,9      40,6      41,3      42,9      37,9      36,3      36,5      35,9      36,4      35,5      
+Età Media Ingressi 33,8      34,9      37,0      32,0      34,0      35,8      34,6      30,3      45,2      31,3      34,6      34,4      33,2      34,7      29,1      
+% Età > 50 5,1% 7,3% 8,5% 9,5% 9,7% 11,3% 12,8% 15,6% 25,0% 24,9% 25,4% 26,2% 26,3% 27,5% 26,8%
+Nuovi Ingressi 65         39         21         10         45         33         16         12         106       471       1.497    993       1.887    1.636    2.113    
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+ -
+ 10,0
+ 20,0
+ 30,0
+ 40,0
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+%  ISCRITTI CON ETA' > 50 ANNI
+ETA' MEDIA
+Evoluzione della popolazione del Fondo
+Eta Media % Eta > 50 Anni
+=== pagina 6 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 1 di 27 
+ 
+Tabella 2, distribuzione numero assoluto aderenti 
+ 
+Figura 2, Distribuzione percentuale aderenti al Fondo per sesso  
+ 
+  
+Fascia Età Aderenti 
+donne
+% Aderenti 
+donne
+Aderenti 
+uomini
+% Aderenti 
+uomini
+Aderenti 
+Fondo
+Aderenti 
+Fondo
+0-4 189                  -4,2% 175                  -3,8% 364                  -4,0%
+5-9 248                  -5,6% 225                  -4,8% 473                  -5,2%
+9-14 274                  -6,2% 248                  -5,3% 522                  -5,7%
+15-19 333                  -7,5% 306                  -6,6% 639                  -7,0%
+20-24 359                  -8,1% 332                  -7,1% 691                  -7,6%
+25-29 401                  -9,0% 388                  -8,3% 789                  -8,7%
+30-34 359                  -8,1% 414                  -8,9% 773                  -8,5%
+35-39 345                  -7,7% 397                  -8,5% 742                  -8,1%
+40-44 393                  -8,8% 410                  -8,8% 803                  -8,8%
+45-49 390                  -8,8% 462                  -9,9% 852                  -9,3%
+50-54 431                  -9,7% 495                  -10,6% 926                  -10,2%
+55-59 378                  -8,5% 439                  -9,4% 817                  -9,0%
+60-64 235                  -5,3% 267                  -5,7% 502                  -5,5%
+65-69 91                   -2,0% 91                   -2,0% 182                  -2,0%
+70-74 20                   -0,4% 10                   -0,2% 30                   -0,3%
+75-79 4                     -0,1% 1                     0,0% 5                     -0,1%
+80-84 1                     0,0% 1                     0,0% 2                     0,0%
+85-89 1                     0,0% -                  0,0% 1                     0,0%
+90-94 -                  0,0% -                  0,0% -                  0,0%
+95+ -                  0,0% -                  0,0% -                  0,0%
+Totale 4.452               4.661               9.113               1-                     
+Dato % 48,9% 51,1% 100,0%
+3,8%
+4,8%
+5,3%
+6,6%
+7,1%
+8,3%
+8,9%
+8,5%
+8,8%
+9,9%
+10,6%
+9,4%
+5,7%
+2,0%
+0,2%
+-4,2%
+-5,6%
+-6,2%
+-7,5%
+-8,1%
+-9,0%
+-8,1%
+-7,7%
+-8,8%
+-8,8%
+-9,7%
+-8,5%
+-5,3%
+-2,0%
+-0,4%
+-18,0% -13,0% -8,0% -3,0% 2,0% 7,0% 12,0% 17,0%
+0-4
+5-9
+9-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+Struttura Demografica
+Donne Uomini
+=== pagina 7 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 2 di 27 
+ 
+Tabella 3, distribuzione percentuale per età, sesso e linea di investimento 
+ 
+Tabella 4, Età media per linea di investimento e sesso 
+ 
+2.2 I COMPARTI 
+Ogni comparto di investimento del FONDO si caratterizza per diversi obiettivi di combinazione rischio -
+rendimento. Di seguito sono riportate alcune informazioni relative ad ogni singolo comparto in termini di 
+criteri di attuazione della politica di investimento. La politica di investimento varia in base al comparto scelto 
+e si prefigge, in coerenza con il profilo di rischio derivante dal comparto stesso, un obbiettivo di rendimento. 
+Il FONDO si contraddistingue per l’impegno della SGR ad investire il patrimonio dello stesso in strumenti 
+finanziari di emittenti (Stati, impres e, organismi sovranazionali) che, al momento dell’investimento, si 
+caratterizzino per un elevato profilo di responsabilità sociale, ambientale e di governance. 
+La SGR inoltre mette a disposizione degli aderenti del FONDO un sistema di avvisi automatici (“Alert”) che 
+suggeriscono una riallocazione dell’investimento previdenziale basato su un principio “Life cycle”. Con 
+l’avvicinarsi dell’età pensionabile e ad intervalli prestabiliti, il sistema suggerisce una riduzione del grado di 
+rischio del portafoglio dell’aderente, riducendo la componente investita in comparti con profilo di rischio più 
+elevato a vantaggio di quelli con profilo di rischio più contenuto. 
+Gli intervalli sono calibrati in base ad un’analisi attuariale e stabiliti in funzione dell’età anagra fica 
+dell’aderente secondo gli schemi seguenti: 
+Tabella 5, classi di età e linea di investimento appropriata 
+Denominazione dei comparti Classi di età 
+Ethical Life High Growth 0 – 39 anni 
+Ethical Life Growth 40 – 49 anni 
+Ethical Life Balanced Growth 50 – 57 anni 
+Ethical Life Conservative 58 – 63 anni 
+Ethical Life Short Term Oltre 64 anni 
+Ripartizione degli aderenti per i comparti e fascia di età (situazione al 31/12/2023), 9.113 aderenti 
+  
+Uomini Donne Uomini Donne Uomini Donne Uomini Donne Uomini Donne
+Fino a 39 Anni 22,4% 16,0% 16,0% 11,8% 37,7% 35,4% 52,8% 57,6% 80,2% 84,3%
+40 - 49 Anni 16,0% 15,2% 13,3% 24,4% 19,4% 22,3% 24,6% 22,1% 12,8% 11,5%
+50 - 57 Anni 20,2% 19,3% 23,9% 26,3% 24,4% 26,2% 15,4% 14,9% 4,9% 3,0%
+58 - 63 Anni 26,0% 34,8% 33,7% 29,3% 15,1% 14,4% 6,6% 5,0% 1,9% 1,3%
+Oltre 64 Anni 15,4% 14,7% 13,1% 8,1% 3,4% 1,7% 0,6% 0,4% 0,2% 0,0%
+Fino a 39 Anni
+40 - 49 Anni
+50 - 57 Anni
+58 - 63 Anni
+Oltre 64 Anni
+High GrowthFascia di età
+15,0% 10,2% 2,4% 0,5% 0,1%
+19,6% 25,3% 25,4% 15,1% 4,0%
+31,3% 31,2% 14,7% 5,8% 1,6%
+82,0%
+15,5% 19,8% 21,0% 23,3% 12,2%
+Growth
+18,6% 13,6% 36,4% 55,3%
+Short Term Conservative Balanced
+Comparto Donne Uomini Totale N. Aderenti % Aderenti
+Short Term 51,70 49,33 50,74 387              4,2%
+Conservative 51,61 52,23 51,87 972              10,7%
+Balanced 42,26 41,27 41,82 1.938           21,3%
+Growth 34,67 34,99 34,83 2.570           28,2%
+High Growth 24,99 26,63 25,88 3.246           35,6%
+=== pagina 8 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 3 di 27 
+ 
+Tabella 6, Distribuzione aderenti per linea ed età 
+ 
+Il 55,8% degli aderenti ha un’età inferiore ai 40 anni; tra gli aderenti con età inferiore ai 50 anni il 76,4% ha 
+sottoscritto le linee “Growth” e “High Growth” e il restante 23,6% le rimanenti linee, tra gli aderenti con età 
+superiore ai 50 anni il 7 0,1% ha sottos critto le linee “Short Term”, “Conservative” e “Balanced” mentre il 
+29,9% è investito sulle linee “Growth” e “High Growth” a maggior esposizione di  rischio. 
+Tabella 7, Distribuzione percentuale aderenti e rispetto target “life cycle” al 31/12/2023 
+ 
+Il dato di fine 202 3 relativo alla distribuzione degli aderenti per età e linea di investimento ci mostra una 
+buona disposizione in ottica “ life cycle” rispetto alla correlazione individuata tra classe di età e linea di 
+investimento, tranne che per gli aderenti di età superiore ai 64 anni, per i quali emerge una preferenza per 
+la linea “Conservative”; nelle altre linee “di investimento abbiamo considerato una tolleranza di un livello di 
+fascia di età successiva a quella target. 
+Seguono le caratteristiche dei singoli comparti: 
+2.2.1 COMPARTO ETHICAL LIFE HIGH GROWTH 
+Finalità della gestione: la rivalutazione del capitale investito rispondendo ad esigenze di un soggetto che 
+ha davanti a sé ancora molti anni di attività lavorativa ed è particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei quali inves te e ricerca rendimenti interessanti per 
+incrementare più velocemente il proprio patrimonio. 
+Orizzonte temporale consigliato: lungo periodo (oltre 15 anni). 
+Rendimento medio annuo atteso: 3,4% reale, cioè al netto dell’inflazione1. 
+Variabilità attesa dell’investimento (deviazione standard): 14,2%. 
+La probabilità, stimata anche sulla base dell’esperienza passata, che il rendimento nell’orizzonte temporale 
+di 20 anni possa risultare inferiore all’inflazione è pari al 33,0%. 
+Fascia di età Short Term Conservative Balanced Growth High Growth Totale
+Fino a 39 anni 72                    132                  706                  1.420               2.663               4.993               
+40 - 49 anni 60                    192                  407                  600                  396                  1.655               
+50 - 57 anni 76                    247                  493                  389                  131                  1.335               
+58 - 63 anni 121                  303                  286                  148                  53                    910                  
+Oltre 64 anni 58                    99                    47                    13                    3                      220                  
+Totale 387                  972                  1.938               2.570               3.246               9.113               
+Fascia di età Short Term Conservative Balanced Growth High Growth Totale
+Fino a 39 anni 0,8% 1,4% 7,7% 15,6% 29,2% 54,8%
+40 - 49 anni 0,7% 2,1% 4,5% 6,6% 4,3% 18,2%
+50 - 57 anni 0,8% 2,7% 5,4% 4,3% 1,4% 14,6%
+58 - 63 anni 1,3% 3,3% 3,1% 1,6% 0,6% 10,0%
+Oltre 64 anni 0,6% 1,1% 0,5% 0,1% 0,0% 2,4%
+Totale 4,2% 10,7% 21,3% 28,2% 35,6% 100,0%
+Fascia di età Short Term Conservative Balanced Growth High Growth Totale aderenti
+Fino a 39 Anni 1,4% 2,6% 14,1% 28,4% 53,3% 4.993               
+40 - 49 Anni 3,6% 11,6% 24,6% 36,3% 23,9% 1.655               
+50 - 57 Anni 5,7% 18,5% 36,9% 29,1% 9,8% 1.335               
+58 - 63 Anni 13,3% 33,2% 31,4% 16,3% 5,8% 910                  
+Oltre 64 Anni 26,4% 45,0% 21,4% 5,9% 1,4% 220                  
+Totale 50,4% 111,0% 128,4% 116,0% 94,3% 9.113
+=== pagina 9 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 4 di 27 
+ 
+2.2.2 COMPARTO ETHICAL LIFE GROWTH 
+Finalità della gestione: la rivalutazione del capitale investito rispondendo ad esigenze di un soggetto che 
+ha davanti a sé ancora molti anni di attività lavorativa ed è particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei quali investe. 
+Orizzonte temporale consigliato: lungo periodo (oltre 15 anni). 
+Rendimento medio annuo atteso: 3,0% reale, cioè al netto dell’inflazione1. 
+Variabilità attesa dell’investimento (deviazione standard): 10,43%. 
+La probabilità, stimata anche sulla base dell’esperienza passata, che il rendimento nell’orizzonte temporale 
+di 15 anni possa risultare inferiore all’inflazione è pari al 35,5%. 
+2.2.3 COMPARTO ETHICAL LIFE BALANCED GROWTH 
+Finalità della gestione: la rivalutazione del capitale investito rispondendo ad esigenze di un soggetto che 
+ha davanti a sé ancora alcuni anni di attività lavorativa ed è particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei quali investe. 
+Orizzonte temporale consigliato: medio/lungo periodo (tra 10 e 15 anni) 
+Rendimento medio annuo atteso: 2,6% reale, cioè al netto dell’inflazione1. 
+Variabilità attesa dell’investimento (deviazione standard): 6,9%. 
+La probabilità, stimata anche sulla base dell’esperienza passata, che il rendimento nell’orizzonte temporale 
+di 10 anni possa risultare inferiore all’inflazione è pari al 39,2%. 
+2.2.4 COMPARTO ETHICAL LIFE CONSERVATIVE 
+Finalità della gestione: la rivalutazione del capitale investito rispondendo ad esigenze di un soggetto che 
+ha davanti a sé ancora pochi anni di attività lavorativa , che è particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei quali investe e decide di optare per una gestione prudente.  
+Orizzonte temporale consigliato: medio periodo (tra 5 e 10 anni). 
+Rendimento medio annuo atteso: 2,2% reale, cioè al netto dell’inflazione1. 
+Variabilità attesa dell’investimento (deviazione standard): 4,3%. 
+La probabilità, stimata anche sulla base dell’esperienza passata, che il rendimento nell’orizzonte temporale 
+di 5 anni possa risultare inferiore all’inflazione è pari al 45,9%. 
+2.2.5 COMPARTO ETHICAL LIFE SHORT TERM 
+Finalità della gestione : la rivalutazione del capitale investito rispondendo ad esigenze di un soggetto 
+ormai prossimo alla pensione, che è particolarmente sensibile alle caratteristiche sociali, ambientali e di 
+governance dei titoli nei quali investe e decide di optare per una gestione molto prudente in cui i titoli di 
+capitale non siano presenti. 
+Orizzonte temporale consigliato: breve periodo (fino a 5 anni) 
+Rendimento medio annuo atteso: 1,0% reale, cioè al netto dell’inflazione1. 
+                                                      
+1 Come previsto nelle “Istruzioni di vigilanza in materia di trasparenza” adottate da Covip con deliberazione del 22 dicembre 2020, il 
+tasso annuo atteso di inflazione è posto pari al 2%, mentre i parametri di rendimento utilizzati per calcolare il tasso atteso di rendimento 
+della gestione sono definiti in funzione delle diverse classi di attività (azionario o obbligazionario), sulla base dei tassi di rendimento 
+riportati nella tabella che segue, espressi in termini reali e al loro dei costi e della tassazione: 
+ Rendimento obbligazionario Rendimento azionario 
+Rendimento medio annuo 2,00% 4,00%
+=== pagina 10 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 5 di 27 
+ 
+Variabilità attesa dell’investimento (deviazione standard): 2,0%. 
+La probabilità, stimata anche sulla base dell’esperienza passata, che il rendimento nell’orizzonte temporale 
+di 3 anni possa risultare inferiore all’inflazione è pari al 80,6%. 
+3 CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+I criteri di attuazione della politica di investimento variano da comparto a comparto e si prefiggono, in 
+coerenza con i profili di rischio caratteristici dei singoli comparti, un obiettivo identificabile tra un 
+accrescimento del valore del capitale inv estito in un orizzonte temporale di lungo periodo e la protezione 
+del capitale stesso in un orizzonte temporale di breve periodo. 
+Il FONDO, in tutti i suoi comparti, rappresenta un prodotto ESG ai sensi della Politica sulla Sostenibilità 
+della SGR, disponibile sul sito della Società, in quanto “come definito all’art. 8, paragrafo 1 del Regolamento 
+SFDR, promuove, tra le altre caratteristiche, caratteristiche ambientali o sociali, o una combinazione di tali 
+caratteristiche, a condizione che le imprese in cui  gli investimenti sono effettuati rispettino prassi di buona 
+governance”. 
+Nello specifico, l’integrazione delle valutazioni relative alla sostenibilità all’interno delle politiche di 
+investimento del FONDO è stata sviluppata in stretta collaborazione con Banca Popolare Etica S.C.p.A. (di 
+seguito “Banca Etica”) e in particolare con la controllata Etica SGR S.p.A. (di seguito “Etica SGR”) quale 
+consulente esterno per le analisi ESG. 
+Etica SGR collabora con Euregio+ attraverso un servizio di consulenza che pre vede la fornitura di un 
+“Universo Investibile”, aggiornato periodicamente, contenente l’elenco di emittenti societari, Stati e agenzie 
+che, secondo il modello proprietario ESG EticApproach®, si caratterizzano per avere un elevato standard 
+di sostenibilità dal punto di vista ambientale, sociale e di governance. 
+Per il FONDO, l’elevato standard di sostenibilità rappresenta quindi il primo elemento valutativo nella 
+selezione degli investimenti, in quanto l’esposizione a emittenti societari, Stati e agenzie non  inclusi 
+all’interno dell’“Universo Investibile” fornito da Etica SGR è esplicitamente vietata.  
+Il controllo del rischio di sostenibilità è quindi effettuato a monte del processo di selezione degli investimenti 
+secondo le metodologie sviluppate da Etica SGR. 
+Per la metodologia di selezione degli investimenti inclusi all’interno dell’“Universo Investibile” di Etica SGR 
+e per la metodologia di calcolo del rischio ESG degli investimenti si rimanda alle informazioni disponibili sul 
+sito della SGR e di Etica SGR. 
+Si precisa che non vi è un obbligo d’investimento in tutti gli emittenti inclusi nell’“Universo Investibile”: la 
+selezione titoli è un’attività di pertinenza dell’Area Investimenti Mobiliari della Società che formula in 
+maniera indipendente le proprie va lutazioni di carattere finanziario secondo quanto previsto dalle proprie 
+procedure relative all’investimento in strumenti finanziari. 
+La SGR, nell’ottica di rendere maggiormente efficiente la gestione dell’andamento dei comparti e del profilo 
+di rischio e la gestione amministrativa ed operativa del patrimonio mobiliare da essa gestito, ha individuato 
+in un OICVM multicomparto di diritto italiano uno strumento adatto alla realizzazione dei precitati obiettivi.  
+PENSPLAN PROFI investe le p roprie risorse in con formità alle previsioni inserite nel D. M. 166 del 2 
+settembre 2014 e prevalentemente in quote dell’OICVM multicomparto denominato 2P Invest Multi Asset.  
+OICVM multicomparto 2P Invest Multi Asset 
+L’OICVM multicomparto 2P Invest Multi Asset è un Fondo comune di Investimento Mobiliare di tipo aperto 
+multicomparto rientrante nell’ambito di applicazione della direttiva 2009/65/CE istituito e gestito da 
+Euregio+. Essendo la SGR sia il gestore di PENSPLAN PROFI che di 2P Invest Multi Asset il livello di 
+trasparenza del portafoglio è totale.
+=== pagina 11 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 6 di 27 
+ 
+Il FONDO investe in quote di classe R di 2P Invest Multi Asset. Tali quote non prevedono alcuna 
+commissione di gestione e/o performance, né di sottoscrizione, rimborso e switch per la SGR. In altri 
+termini, la SGR non percepisc e alcuna forma di remunerazione da 2P Invest Multi Asset per le quote 
+acquistate per conto del FONDO. 
+2P Invest Multi Asset all’attualità presenta le seguenti caratteristiche: 
+a) è un Fondo comune di Investimento Mobiliare di tipo aperto multicomparto  armonizzato con 
+“passaporto europeo” e quindi è sottoposto alle regole, vincoli e controlli previsti dalla direttiva 
+comunitaria 2009/65/CE e successivi; 
+b) aderisce agli standard UCITS V ed alle linee guida ESMA per il risk management (CESR/10-788); 
+c) ha una struttura che permette allo stesso tempo di sfruttare importanti sinergie in termini di gestione 
+degli investimenti e di controllo e monitoraggio degli stessi, pur mantenendo una rigorosa 
+separazione ed autonomia patrimoniale e gestionale fra i quotisti partecipanti; 
+d) consente di beneficiare del cosiddetto “effetto pooling”; 
+e) prevede un calcolo della NAV con frequenza giornaliera; 
+f) permette un esame analitico e trasparente della struttura degli investimenti, determinandone la 
+quantificazione immediata e puntuale, il grado di diversificazione – così come previsti dalla 
+normativa in materia. 
+g) L’OICVM rappresenta un prodotto ESG ai sensi della Politica sulla Sostenibilità della SGR, 
+disponibile sul sito della Società, in quanto “come definito all’art. 8, para grafo 1 del Regolamento 
+SFDR, promuove, tra le altre caratteristiche, caratteristiche ambientali o sociali, o una 
+combinazione di tali caratteristiche, a condizione che le imprese in cui gli investimenti sono 
+effettuati rispettino prassi di buona governance”. 
+Nello specifico, l’integrazione delle valutazioni relative alla sostenibilità all’interno delle politiche di 
+investimento dei comparti oggetto di investimento da parte di PENSPLAN PROFI è stata sviluppata 
+in stretta collaborazione con Banca Popolare Etica S.C.p.A. e in particolare con la controllata Etica 
+SGR S.p.A. quale consulente esterno per le analisi ESG. 
+Etica SGR collabora con Euregio+ attraverso un servizio di consulenza che prevede la fornitura di 
+un “Universo Investibile”, aggiornato periodica mente, contenente l’elenco di emittenti societari, 
+Stati e agenzie che, secondo il modello proprietario ESG EticApproach®, si caratterizzano per 
+avere un elevato standard di sostenibilità dal punto di vista ambientale, sociale e di governance. 
+Per l’OICVM, limitatamente ai comparti oggetto di investimento da parte di PENSPLAN PROFI, 
+l’elevato standard di sostenibilità rappresenta quindi il primo elemento valutativo nella selezione 
+degli investimenti, in quanto l’esposizione a emittenti societari, Stati e agenzie non inclusi all’interno 
+dell’“Universo Investibile” fornito da Etica SGR è esplicitamente vietata. 
+Il controllo del rischio di sostenibilità è quindi effettuato a monte del processo di selezione degli 
+investimenti secondo le metodologie sviluppate da Etica SGR. 
+Per la metodologia di selezione degli investimenti inclusi all’interno dell’“Universo Investibile” di 
+Etica SGR e per la metodologia di calcolo del rischio ESG degli investimenti si rimanda alle 
+informazioni disponibili sul sito della SGR e di Etica SGR. 
+Si precisa che non vi è un obbligo d’investimento in tutti gli emittenti inclusi nell’“Universo 
+Investibile”: la selezione titoli è un’attività di pertinenza dell’Area Investimenti Mobiliari della Società 
+che formula in maniera indipendente le proprie valutazioni di carattere finanziario secondo quanto 
+previsto dalle proprie procedure relative all’investimento in strumenti finanziari.  
+La metodologia di integrazione delle valutazioni relative alla sostenibilità all’interno delle politiche 
+di inves timento di PENSPLAN PROFI coincide con quella adottata dal 2P Invest Multi Asset 
+(limitatamente ai comparti oggetto di investimento di PENSPLAN PROFI).
+=== pagina 12 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 7 di 27 
+ 
+3.1 COMPARTO ETHICAL LIFE HIGH GROWTH 
+3.1.1 RIPARTIZIONE STRATEGICA DELLE ATTIVITÀ 
+Ripartizione per classe di strumento (azioni, obbligazioni, liquidità): 
+A livello strategico la politica di investimento del Comparto Ethical Life High Growth prevede il 5% delle 
+disponibilità complessive del Comparto investite in strumenti di natura monetaria e liquidità, il 25% in 
+strumenti obbligazionari ed il restante 70% in strumenti di natura azionaria. Il limite massimo per gli 
+investimenti di quest’ultima tipologia di strumenti finanziari è fissato nel 90% delle disponibilità complessive 
+del Comparto. Il limite minimo per gli investimenti in strumenti finanziari di natura azionaria è del 50%. 
+In fasi di mercato eccezionali, considerato l’obiettivo ulteriore che si pone la gestione di questo comparto 
+di limitare il rischio del portafoglio attraverso la riduzione dell’esposizione in  strumenti finanziari di natura 
+azionaria, tale limite minimo può scendere a 0%. 
+Ripartizione per aree geografiche/settoriale: 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono diversificati a livello 
+globale, pur mantenendo una preferenza all’interno dell’area Euro. 
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici sia per quanto 
+concerne la componente azionaria che quella obbligazionaria societaria.  
+Valute di riferimento: 
+La SGR monitora l’esposizione al rischio valutario delle disponibilità complessive del Comparto Ethical Life 
+High Growth su base continuativa, garantendo il rispetto dei limiti della normativa di riferimento che nella 
+fattispecie prevede un’esposizione massima valutaria delle disponibilità complessive pari a 30%. 
+Nel caso di investimenti in OICR denominati in Euro, la SGR considera la componente valutaria degli stessi 
+al fine del rispetto dei limiti della normativa di riferimento. La copertura contro il rischio di  cambio è gestita 
+attivamente e realizzata principalmente attraverso strumenti derivati quotati o contratti a termine su valuta. 
+Duration media della componente obbligazionaria: 
+La SGR monitora l’evoluzione della duration del Comparto Ethical Life High Gro wth anche in confronto a 
+quella del rispettivo indice di riferimento. 
+Margini di tolleranza tra la ripartizione effettiva e la ripartizione strategica degli investimenti : 
+Esposizione totale ad azioni: Max. 90% - Min. 50%. In fasi di mercato eccezionali il limite minimo è 0%. 
+Aspetti sociali, ambientali e di governance: 
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso in strumenti 
+finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al momento dell’investimento, si 
+caratterizzino per un elevato profilo di responsabilità sociale, ambientale e di governance. 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, compongono il parametro di riferimento del comparto sono 
+rappresentati nella tabella seguente: 
+Descrizione Peso % Ticker Bloomberg 
+MSCI Eurozone 0-1Y Government Bond 5 MF755433 
+MSCI Eurozone Government Bond 20 MFGVEZTL 
+MSCI EUR IG ESG Universal Corporate Bond 5 MFUNIGEL 
+MSCI EMU ESG Universal Net  49 MXEMEUNE 
+MSCI World Ex EMU ESG Universal Net 21 NE724790 
+Gli indici obbligazionari sono comprensivi delle cedole e gli indici azionari comprensivi di dividendi, al netto 
+dell’impatto fiscale.
+=== pagina 13 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 8 di 27 
+ 
+3.1.2 GLI STRUMENTI FINANZ IARI NEI QUALI SI IN TENDE INVESTIRE E I RISCHI 
+CONNESSI 
+La gestione è orientata verso titoli sia di natura azion aria che obbligazionaria; gli strumenti di debito sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro; la componente 
+azionaria è pari a circa il 70% delle disponibilità complessive del comparto, è molto diversific ata e, pur 
+essendo orientata alla componente dell’area Euro, comprende componenti strutturali internazionali come 
+l’area Nord America, il Pacifico, la componente europea extra Euro, il Regno Unito, la Svizzera e la 
+Norvegia. 
+Strumenti ammessi: 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto delle disposizioni 
+contenute nelle leggi e nei decreti disciplinanti la materia e nelle disposizioni emanate dagli organi di 
+vigilanza, il gestore può investire in liqu idità, in azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi 
+ETF). 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene prevalentemente 
+tramite negoziazione nei mercati regolamentati delle aree geografiche di ri ferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto dall’articolo 47 della 
+Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004, anche quelli, indicati nella 
+lista approvata dal Consiglio Direttivo di Assogestioni e pubblicata sul sito internet dell’associazione stessa, 
+dei Paesi verso i quali è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua effettuazione, tali titoli abbiano 
+un rating almeno pari a “ Investment Grade ” o equiparabile (obbligazioni senza rating di un emittente 
+investment grade) secondo i criteri di classificazione di almeno una delle principali Agenzie di Rating. Nel 
+caso in cui i rating di tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora 
+il rating dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “ Investment Grade”, la SGR 
+dovrà agire nel miglior e interesse del FONDO, decidendo autonomamente se vendere o mantenere in 
+portafoglio il titolo declassato. 
+Si precisa che la SGR adotta adeguati processi interni di valutazione del merito di credito, che consentono 
+di non affidarsi in modo esclusivo o meccanico ai giudizi emessi dalle agenzie di rating. 
+L’investimento in titoli di debito “ non Investment Grade ” non potrà superare il 5% delle disponibilità 
+complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o garantiti da un Paese membr o 
+dell'UE, da un Paese aderente all'OCSE, da enti locali o enti pubblici di Stati membri dell'UE o appartenenti 
+all’OCSE o da organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi dell’UE.  
+Strumenti finanziari connessi a merci: 
+L’investimento in strumenti finanziari connessi a merci è consentito nei limiti di quanto previsto dal D. M 
+166 del 2 settembre 2014, art. 5, comma 5 e dall’”Universo Investibile” etico caratterizzante la politica di 
+investimento del FONDO. 
+Strumenti alternativi: 
+L’investimento in strumenti alternativi è consentito nei limiti di quanto previsto dal D. M 166 del 2 settembre 
+2014, art. 5, comma 4 e dall’”Universo Investibile” etico caratterizzante la politica di investimento del 
+FONDO. 
+Strumenti derivati: 
+L'utilizzo di strumenti derivati per finalità di riduzione del rischio di investimento o di efficiente gestione è 
+consentito al gestore finanziario nei limiti di quanto previsto dal D.M. n. 166/2014.  
+OICR: 
+La SGR potrà utilizzare parti di OICR conformi alla d irettiva comunitaria 2009/65/CE e successive 
+modifiche, anche collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una considerevole partecipazione diretta o indiretta), purché i 
+programmi e limiti di investimento siano compatibili con quelli del Comparto Ethical Life High Growth e non
+=== pagina 14 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 9 di 27 
+ 
+generino una concentrazione del rischio incompatibile con quella prevista per il comparto. Con specifico 
+riferimento all’utilizzo di derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento 
+di tali OICR sottostanti ammetta l’uso di derivati per finalità di copertura o di gestione efficiente.  
+Il livello di accesso alle informazioni circa gli investimenti effettuati da parte  degli OICR/ETF utilizzati è 
+massimo. 
+3.1.3 MODALITÀ DI GESTIONE  CHE SI INTENDE ADOT TARE, STILE E REGIME  
+COMMISSIONALE 
+Modalità di gestione (diretta o indiretta): 
+Le risorse del FONDO sono gestite direttamente dalla SGR e non sono previste deleghe di gestione.  
+Stile di gestione (attiva/passiva): 
+Il gestore finanziario, ovvero la SGR, attua una politica di investimento di tipo attivo nei confronti del 
+parametro di riferimento del comparto e coerentemente con gli obiettivi dello stesso in termini di rendimento 
+e rischio. Gli indicatori monitorati sono il turnover di portafoglio e la Tracking Error Volatility (TEV - storica, 
+calcolata come la deviazione standard delle ultime 52 differenze dei rendimenti settimanali del comparto e 
+del parametro di riferimento rilevate ad ogni data). 
+ Livello max. proposto 
+TURNOVER 150,00% 
+ Livello max proposto 
+TEV 5% 
+Regime commissionale: 
+La struttura commissionale è fissa e non prevede alcun incentivo. 
+Diritto di voto: 
+La titolarità del diritto di voto inerente ai valori mobiliari oggetto della gestione spetta a Euregio +. 
+3.2 COMPARTO ETHICAL LIFE GROWTH 
+3.2.1 RIPARTIZIONE STRATEGICA DELLE ATTIVITÀ 
+Ripartizione per classe di strumento (azioni, obbligazioni, liquidità): 
+A livello s trategico la politica di investimento del Comparto Ethical Life Growth prevede il 5% delle 
+disponibilità complessive del Comparto investite in strumenti di natura monetaria e liquidità, il 45% in 
+strumenti obbligazionari ed il restante 50% in strumenti di natura azionaria. Il limite massimo per gli 
+investimenti di quest’ultima tipologia di strumenti finanziari è fissato nel 65% delle disponibilità complessive 
+del Comparto. Il limite minimo per gli investimenti in strumenti finanziari di natura azionaria è d el 35%. 
+In fasi di mercato eccezionali, considerato l’obiettivo ulteriore che si pone la gestione di questo comparto 
+di limitare il rischio del portafoglio attraverso la riduzione dell’esposizione in strumenti finanziari di natura 
+azionaria, tale limite minimo può scendere a 0%. 
+Ripartizione per aree geografiche/settoriale: 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono diversificati a livello 
+globale, pur mantenendo una preferenza all’interno dell’area Euro. 
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici sia per quanto 
+concerne la componente azionaria che quella obbligazionaria societaria.  
+Valute di riferimento: 
+La SGR monitora l’esposizione al rischio valutario delle disponibilità complessive del Comparto Ethical Life 
+Growth su base continuativa, garantendo il rispetto dei limiti della normativa di riferimento che nella 
+fattispecie prevede un’esposizione massima valutaria delle disponibilità complessive pari a 30%.
+=== pagina 15 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 10 di 27 
+ 
+Nel caso di investimenti in OICR denominati in Euro, la SGR considera la componente valutaria degli stessi 
+al fine del rispetto dei limiti della normativa di riferimento. La copertura contro il rischio di cambio è gestita 
+attivamente e realizzata principalmente attraverso strumenti derivati quotati o contratti a termine su valuta. 
+Duration media della componente obbligazionaria: 
+La SGR monitora l’evoluzione della duration del Comparto Ethical Life Growth anche in confronto a quella 
+del rispettivo indice di riferimento. 
+Margini di tolleranza tra la ripartizione effettiva e la ripartizione strategica degli investimenti : 
+Esposizione totale ad azioni: Max. 65% - Min. 35%. In fasi di mercato eccezionali il limite minimo è 0%. 
+Aspetti sociali, ambientali e di governance: 
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso in strumenti 
+finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al momento dell’investimento, si 
+caratterizzino per un elevato profilo di responsabilità sociale, ambientale e di governance. 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, compongono il parametro di riferimento del comparto sono 
+rappresentati nella tabella seguente: 
+Descrizione Peso % Ticker Bloomberg 
+MSCI Eurozone 0-1Y Government Bond 5 MF755433 
+MSCI Eurozone Government Bond 36 MFGVEZTL 
+MSCI EUR IG ESG Universal Corporate Bond 9 MFUNIGEL 
+MSCI EMU ESG Universal Net 35 MXEMEUNE 
+MSCI World Ex EMU ESG Universal Net 15 NE724790 
+Gli indici obbligazionari sono comprensivi delle cedole e gli indici azionari comprensivi di dividendi, al netto 
+dell’impatto fiscale. 
+3.2.2 GLI STRUMENTI FINANZ IARI NEI QUALI SI IN TENDE INVESTIRE E I RISCHI 
+CONNESSI 
+La gestione è orientata verso titoli sia di natura azion aria che obbligazionaria; gli strumenti di debito sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro; la componente 
+azionaria è pari a circa il 50% delle disponibilità complessive del comparto, è molto diversific ata e, pur 
+essendo orientata alla componente dell’area Euro, comprende componenti strutturali internazionali come 
+l’area Nord America, il Pacifico, la componente europea extra Euro, il Regno Unito, la Svizzera e la 
+Norvegia. 
+Strumenti ammessi: 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto delle disposizioni 
+contenute nelle leggi e nei decreti disciplinanti la materia e nelle disposizioni emanate dagli organi di 
+vigilanza, il gestore può investire in liquidità, in  azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi 
+ETF). 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene prevalentemente 
+tramite negoziazione nei mercati regolamentati delle aree geografiche di riferimento . 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto dall’articolo 47 della 
+Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004, anche quelli, indicati nella 
+lista approvata dal Consiglio Direttivo di Assogestioni e pubblicata sul sito internet dell’associazione stessa, 
+dei Paesi verso i quali è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua effettuazione, tali titoli abbiano 
+un rating almeno pari a “ Investment Grade ” o equiparabile (obbligazioni senza rating di un emittente 
+investment grade) secondo i criteri di classificazione di almeno una delle principali agenzie di rating. Nel 
+caso in cui tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il rating 
+dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “ Investment Grade”, la SGR dovrà
+=== pagina 16 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 11 di 27 
+ 
+agire nel migliore interesse del FONDO, decidendo autonomamente se vendere o mantenere in portafoglio 
+il titolo declassato. 
+Si precisa che la SGR. adotta adeguati processi interni di valutazione del merito di credito, che consentono 
+di non affidarsi in modo esclusivo o meccanico ai giudizi emessi dalle agenzie di rating. 
+L’investimento in titoli di debito “ non Investment Grade ” non potrà superare il 6% delle disponibilità 
+complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o garantiti da un Paese membro 
+dell'UE, da un Paese aderente all'OCSE, da enti locali o enti pubblici di Stati membri dell'UE o appartenenti 
+all’OCSE o da organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi dell’UE.  
+Strumenti finanziari connessi a merci: 
+L’investimento in strumenti finanziari connessi a merci è consentito nei limiti di quanto previsto dal D. M 
+166 del 2 settembre 2014, art. 5, comma 5 e dall’”Universo Investibile” etico caratterizzante la politica di 
+investimento del FONDO. 
+Strumenti alternativi: 
+L’investimento in strumenti alternativi è consentito nei limiti di quanto previsto dal D. M 166 del 2 settembre 
+2014, art. 5, comma 4 e dall’”Universo Investibile” etico caratterizzante la politica di investimento del 
+FONDO. 
+Strumenti derivati: 
+L'utilizzo di strumenti derivati per finalità di riduzione del rischio di investimento o di efficiente gestione è 
+consentito al gestore finanziario nei limiti di quanto previsto dal D.M. n. 166/2014. 
+OICR: 
+La SGR potrà utilizzare parti di OICR conformi alla d irettiva comunitaria 2009/65/CE e successive 
+modifiche, anche collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una considerevole partecipazione diretta o indiretta), purché i 
+programmi e limiti di investimento siano compatibili con quelli de l Comparto Ethical Life Growth e non 
+generino una concentrazione del rischio incompatibile con quella prevista per il comparto. Con specifico 
+riferimento all’utilizzo di derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento 
+di tali OICR sottostanti ammetta l’uso di derivati per finalità di copertura o di gestione efficiente.  
+Il livello di accesso alle informazioni circa gli investimenti effettuati da parte degl i OICR/ETF utilizzati è 
+massimo. 
+3.2.3 MODALITÀ DI GESTIONE  CHE SI INTENDE ADOT TARE, STILE E REGIME  
+COMMISSIONALE 
+Modalità di gestione (diretta o indiretta): 
+Le risorse del FONDO sono gestite direttamente dalla SGR e non sono previste deleghe di gestione.  
+Stile di gestione (attiva/passiva): 
+Il gestore finanziario, ovvero la SGR, attua una politica di investimento di tipo attivo nei confronti del 
+parametro di riferimento del comparto e coerentemente con gli obiettivi dello stesso in termini di rendimento 
+e rischio. Gli indicatori monitorati sono il turnover di portafoglio e la Tracking Error Volatility (TEV - storica, 
+calcolata come la deviazione standard delle ultime 52 differenze dei rendimenti settimanali del comparto e 
+del parametro di riferimento rilevate ad ogni data). 
+ 
+ Livello max. proposto 
+TURNOVER 150,00% 
+ Livello max proposto 
+TEV 5% 
+Regime commissionale: 
+La struttura commissionale è fissa e non prevede alcun incentivo.
+=== pagina 17 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 12 di 27 
+ 
+Diritto di voto: 
+La titolarità del diritto di voto inerente ai valori mobiliari oggetto della gestione spetta a Euregio +. 
+3.3 COMPARTO ETHICAL LIFE BALANCED GROWTH 
+3.3.1 RIPARTIZIONE STRATEGICA DELLE ATTIVITÀ 
+Ripartizione per classe di strumento (azioni, obbligazioni, liquidità): 
+A livello strategico la politica di investimento del Comparto Ethical Life Balanced Growth prevede il 5% delle 
+disponibilità complessive del Comparto investite in strumenti di natura monetaria e liquidità, il 65% in 
+strumenti obbligazionari ed il restante 30 % in strumenti di natura azionaria. Il limite massimo per gli 
+investimenti di quest’ultima tipologia di strumenti finanziari è fissato nel 39% delle disponibilità complessive 
+del Comparto. Il limite minimo per gli investimenti in strumenti finanziari di na tura azionaria è del 21%. 
+In fasi di mercato eccezionali, considerato l’obiettivo ulteriore che si pone la gestione di questo comparto 
+di limitare il rischio del portafoglio attraverso la riduzione dell’esposizione in strumenti finanziari di natura 
+azionaria, tale limite minimo può scendere a 0%. 
+Ripartizione per aree geografiche/settoriale: 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono diversificati a livello 
+globale, pur mantenendo una preferenza all’interno dell’area Euro. 
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici sia per quanto 
+concerne la componente azionaria che quella obbligazionaria societaria.  
+Valute di riferimento: 
+La SGR monitora l’esposizione al rischio valutario delle disponibilità complessive del Comparto Ethical Life 
+Balanced Growth su base continuativa, garantendo il rispetto dei limiti della normativa di riferimento che 
+nella fattispecie prevede un’esposizione massima valutaria delle disponibilità co mplessive pari a 30%. 
+Nel caso di investimenti in OICR denominati in Euro, la SGR considera la componente valutaria degli stessi 
+al fine del rispetto dei limiti della normativa di riferimento. La copertura contro il rischio di cambio è gestita 
+attivamente e realizzata principalmente attraverso strumenti derivati quotati o contratti a termine su valuta. 
+Duration media della componente obbligazionaria: 
+La SGR monitora l’evoluzione della duration del Comparto Ethical Life Balanced Growth anche in confronto 
+a quella del rispettivo indice di riferimento. 
+Margini di tolleranza tra la ripartizione effettiva e la ripartizione strategica degli investimenti : 
+Esposizione totale ad azioni: Max. 39% - Min. 21%. In fasi di mercato eccezionali il limite minimo è 0%.  
+Aspetti sociali, ambientali e di governance: 
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso in strumenti 
+finanziari di emittenti (Stati, imprese,  organismi sovranazionali) che, al momento dell’investimento, si 
+caratterizzino per un elevato profilo di responsabilità sociale, ambientale e di governance. 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, compongono il parametro di riferimento del comparto sono 
+rappresentati nella tabella seguente: 
+Descrizione Peso % Ticker Bloomberg 
+MSCI Eurozone 0-1Y Government Bond 5 MF755433 
+MSCI Eurozone Government Bond 52 MFGVEZTL 
+MSCI EUR IG ESG Universal Corporate Bond 13 MFUNIGEL 
+MSCI EMU ESG Universal Net 21 MXEMEUNE 
+MSCI World Ex EMU ESG Universal Net 9 NE724790 
+Gli indici obbligazionari sono comprensivi delle cedole e gli indici azionari comprensivi di dividendi, al netto 
+dell’impatto fiscale.
+=== pagina 18 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 13 di 27 
+ 
+3.3.2 GLI STRUMENTI FINANZ IARI NEI QUALI SI IN TENDE INVESTIRE E I RISCHI 
+CONNESSI 
+La gestione è orientata verso titoli sia di natura azionaria che obbligazionaria; gli strumenti di debito sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro; la componente 
+azionaria è pari a circa il 30% delle disponibilità co mplessive del comparto, è molto diversificata e, pur 
+essendo orientata alla componente dell’area Euro, comprende componenti strutturali internazionali come 
+l’area Nord America, il Pacifico, la componente europea extra Euro, il Regno Unito, la Svizzera e la  
+Norvegia. 
+Strumenti ammessi: 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto delle disposizioni 
+contenute nelle leggi e nei decreti disciplinanti la materia e nelle disposizioni emanate dagli organi di 
+vigilanza, il gestore può investire in liquidità, in azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi 
+ETF). 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene prevalentemente 
+tramite negoziazione nei mercati regolamentati delle aree geografiche di riferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto dall’articolo 47 della 
+Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004, anche quelli, indicati nella 
+lista approvata dal Consiglio Direttivo di Assogestioni e pubblicata sul sito internet dell’associazione stessa, 
+dei Paesi verso i quali è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua effettuazione, tali titoli abbiano 
+un rating almeno pari a “ Investment Grade ” o equiparabile (obbligazioni senza rating di un emittente 
+investment grade) secondo i criteri di classificazione di almeno una delle principali agenzie di rating. Nel 
+caso in cui tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il rating 
+dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “ Investment Grade”, la SGR do vrà 
+agire nel migliore interesse del FONDO, decidendo autonomamente se vendere o mantenere in portafoglio 
+il titolo declassato. 
+Si precisa che la SGR. adotta adeguati processi interni di valutazione del merito di credito, che consentono 
+di non affidarsi in modo esclusivo o meccanico ai giudizi emessi dalle agenzie di rating. 
+L’investimento in titoli di debito “ non Investment Grade ” non potrà superare il 7% delle disponibilità 
+complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o garantiti da un Paese membro 
+dell'UE, da un Paese aderente all'OCSE, da enti locali o enti pubblici di Stati membri dell'UE o appartenenti 
+all’OCSE o da organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi dell’UE.  
+Strumenti finanziari connessi a merci: 
+L’investimento in strumenti finanziari connessi a merci è consentito nei limiti di quanto previsto dal D.  M 
+166 del 2 settembre 2014, art. 5, comma 5 e dall’”Universo Investibile” etico caratterizzante la politica di 
+investimento del FONDO. 
+Strumenti alternativi: 
+L’investimento in strumenti alternativi è consentito nei limiti di quanto previsto dal D. M 166 del 2 settembre 
+2014, art. 5, comma 4 e dall’”Universo Investibile” etico caratterizzante la politica di investimento del 
+FONDO. 
+Strumenti derivati: 
+L'utilizzo di strumenti derivati per finalità di riduzione del rischio di investimento o di efficiente gesti one è 
+consentito al gestore finanziario nei limiti di quanto previsto dal D.M. n. 166/2014.  
+OICR: 
+La SGR potrà utilizzare parti di OICR conformi alla direttiva comunitaria 2009/65/CE e successive 
+modifiche, anche collegati (ovvero istituiti o gestiti dallo  stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una considerevole partecipazione diretta o indiretta), purché i 
+programmi e limiti di investimento siano compatibili con quelli del Comparto Ethical Life Balanced Growth
+=== pagina 19 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 14 di 27 
+ 
+e non generino una concentrazione del rischio incompatibile con quella prevista per il comparto. Con 
+specifico riferimento all’utilizzo di derivati da parte degli OICR sottostanti, è ammissibile che la politica di 
+investimento di tali OICR sottostanti ammetta l’uso di derivati per finalità di copertura o di gestione efficiente. 
+Il livello di accesso alle informazioni circa gli investimenti effettuati da parte degli OICR/ETF utilizzati è 
+massimo. 
+3.3.3 MODALITÀ DI GESTIONE  CHE SI INTENDE ADOT TARE, STILE E REGIME  
+COMMISSIONALE 
+Modalità di gestione (diretta o indiretta): 
+Le risorse del FONDO sono gestite direttamente dalla SGR e non sono previste deleghe di gestione.  
+Stile di gestione (attiva/passiva): 
+Il gestore finanziario, ovvero la SGR, attua una politica di inves timento di tipo attivo nei confronti del 
+parametro di riferimento del comparto e coerentemente con gli obiettivi dello stesso in termini di rendimento 
+e rischio. Gli indicatori monitorati sono il turnover di portafoglio e la Tracking Error Volatility (TEV - storica, 
+calcolata come la deviazione standard delle ultime 52 differenze dei rendimenti settimanali del comparto e 
+del parametro di riferimento rilevate ad ogni data). 
+ Livello max. proposto 
+TURNOVER 150,00% 
+ Livello max proposto 
+TEV 5% 
+Regime commissionale: 
+La struttura commissionale è fissa e non prevede alcun incentivo. 
+Diritto di voto: 
+La titolarità del diritto di voto inerente ai valori mobiliari oggetto della gestione spetta a Euregio +. 
+3.4 COMPARTO ETHICAL LIFE CONSERVATIVE 
+3.4.1 RIPARTIZIONE STRATEGICA DELLE ATTIVITÀ 
+Ripartizione per classe di strumento (azioni, obbligazioni, liquidità): 
+A livello strategico la politica di investimento del Comparto Ethical Life Conservative prevede il 5% delle 
+disponibilità complessive del Comparto investite in str umenti di natura monetaria e liquidità, il 85% in 
+strumenti obbligazionari ed il restante 10% in strumenti di natura azionaria. Il limite massimo per gli 
+investimenti di quest’ultima tipologia di strumenti finanziari è fissato nel 13% delle disponibilità complessive 
+del Comparto. Il limite minimo per gli investimenti in strumenti finanziari di natura azionaria è del 0%.  
+Ripartizione per aree geografiche/settoriale: 
+Per la componente monetaria, obbligazionaria ed azionaria gli investimenti sono diversificati  a livello 
+globale, pur mantenendo una preferenza all’interno dell’area Euro. 
+A livello settoriale gli investimenti sono diversificati attraverso tutti i settori merceologici sia per quanto 
+concerne la componente azionaria che quella obbligazionaria societaria. 
+Valute di riferimento: 
+La SGR monitora l’esposizione al rischio valutario delle disponibilità complessive del Comparto 10 su base 
+continuativa, garantendo il rispetto dei limiti della normativa di riferimento che nella fattispecie prevede 
+un’esposizione massima valutaria delle disponibilità complessive pari a 30%. 
+Nel caso di investimenti in OICR denominati in Euro, la SGR considera la componente valutaria degli stessi 
+al fine del rispetto dei limiti della normativa di riferimento. La copertura contro  il rischio di cambio è gestita 
+attivamente e realizzata principalmente attraverso strumenti derivati quotati o contratti a termine su valuta. 
+Duration media della componente obbligazionaria:
+=== pagina 20 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 15 di 27 
+ 
+La SGR monitora l’evoluzione della duration del Comparto Ethical  Life Conservative anche in confronto a 
+quella del rispettivo indice di riferimento. 
+Margini di tolleranza tra la ripartizione effettiva e la ripartizione strategica degli investimenti : 
+Esposizione totale ad azioni: Max. 13% - Min. 0%. 
+Aspetti sociali, ambientali e di governance: 
+Il Comparto si caratterizza per l’impegno della SGR ad investire il patrimonio dello stesso in strumenti 
+finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al momento dell’investimento, si 
+caratterizzino per un elevato profilo di responsabilità sociale, ambientale e di governance. 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, compongono il parametro di riferimento del comparto sono 
+rappresentati nella tabella seguente: 
+Descrizione Peso % Ticker Bloomberg 
+MSCI Eurozone 0-1Y Government Bond 5 MF755433 
+MSCI Eurozone Government Bond 68 MFGVEZTL 
+MSCI EUR IG ESG Universal Corporate Bond 17 MFUNIGEL 
+MSCI EMU ESG Universal Net 7 MXEMEUNE  
+MSCI World Ex EMU ESG Universal Net 3 NE724790 
+Gli indici obbligazionari sono comprensivi delle cedole e gli indici azionari comprensivi di dividendi, al netto 
+dell’impatto fiscale. 
+3.4.2 GLI STRUMENTI FINANZ IARI NEI QUALI SI IN TENDE INVESTIRE E I RISCHI 
+CONNESSI 
+La gestione è orientata verso titoli sia di natura azionaria che obbligazionaria; gli strumenti di debito sono 
+diversificati a livello globale, pur mantenendo una preferenza all’interno dell’area Euro; la componente 
+azionaria è pari a circa il 10% delle disponibilità complessive del co mparto, è molto diversificata e, pur 
+essendo orientata alla componente dell’area Euro, comprende componenti strutturali internazionali come 
+l’area Nord America, il Pacifico, la componente europea extra Euro, il Regno Unito, la Svizzera e la 
+Norvegia. 
+Strumenti ammessi: 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto delle disposizioni 
+contenute nelle leggi e nei decreti disciplinanti la materia e nelle disposizioni emanate dagli organi di 
+vigilanza, il gestore può investire in liquidità, in azioni, titoli di debito e OICR (OICR armonizzati, ivi inclusi 
+ETF). 
+L’investimento in strumenti finanziari di natura azionaria ed obbligazionaria avviene prevalentemente 
+tramite negoziazione nei mercati regolamentati delle aree geografiche di riferimento. 
+Per “mercati regolamentati” si intendono, oltre a quelli iscritti nell’elenco previsto dall’articolo 47 della 
+Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004, anche quelli, indicati nella 
+lista approvata dal Consiglio Direttivo di Assogestioni e pubblicata sul sito internet dell’associazione stessa, 
+dei Paesi verso i quali è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua effettuazione, tali titoli abbiano 
+un rating almeno pari a “ Investment Grade ” o equiparabile (obbligazioni senza rating di un emittente 
+investment grade) secondo i criteri di classificazione di almeno una delle principali  agenzie di rating. Nel 
+caso in cui tali Agenzie siano difformi si considererà prevalente il secondo miglior rating. Qualora il rating 
+dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “ Investment Grade”, la SGR dovrà 
+agire nel migliore interesse del FONDO, decidendo autonomamente se vendere o mantenere in portafoglio 
+il titolo declassato. 
+Si precisa che la SGR. adotta adeguati processi interni di valutazione del merito di credito, che consentono 
+di non affidarsi in modo esclusivo o meccanico ai giudizi emessi dalle agenzie di rating.
+=== pagina 21 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 16 di 27 
+ 
+L’investimento in titoli di debito “ non Investment Grade ” non potrà superare il 5% delle disponibilità 
+complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o garantiti da un Paese  membro 
+dell'UE, da un Paese aderente all'OCSE, da enti locali o enti pubblici di Stati membri dell'UE o appartenenti 
+all’OCSE o da organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi dell’UE.  
+Strumenti finanziari connessi a merci: 
+L’investimento in strumenti finanziari connessi a merci è consentito nei limiti di quanto previsto dal D. M 
+166 del 2 settembre 2014, art. 5, comma 5 e dall’”Universo Investibile” etico caratterizzante la politica di 
+investimento del FONDO. 
+Strumenti alternativi: 
+L’investimento in strumenti alternativi è consentito nei limiti di quanto previsto dal D. M 166 del 2 settembre 
+2014, art. 5, comma 4 e dall’”Universo Investibile” etico caratterizzante la politica di investimento del 
+FONDO. 
+Strumenti derivati: 
+L'utilizzo di strumenti derivati per finalità di riduzione del rischio di investimento o di efficiente gestione è 
+consentito al gestore finanziario nei limiti di quanto previsto dal D.M. n. 166/2014.  
+OICR: 
+La SGR potrà utilizzare parti di OICR conformi alla direttiva comunitaria 2009/65/CE e successive 
+modifiche, anche collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una considerevole partecipazione diretta o indiretta), purch é i 
+programmi e limiti di investimento siano compatibili con quelli del Comparto Ethical Life Conservative e non 
+generino una concentrazione del rischio incompatibile con quella prevista per il comparto. Con specifico 
+riferimento all’utilizzo di derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento 
+di tali OICR sottostanti ammetta l’uso di derivati per finalità di copertura o di gestione efficiente.  
+Il livello di accesso alle informazioni circa gli investimenti effettuati d a parte degli OICR/ETF utilizzati è 
+massimo. 
+3.4.3 MODALITÀ DI GESTIONE  CHE SI INTENDE ADOT TARE, STILE E REGIME  
+COMMISSIONALE 
+Modalità di gestione (diretta o indiretta): 
+Le risorse del FONDO sono gestite direttamente dalla SGR e non sono previste deleghe di gest ione. 
+Stile di gestione (attiva/passiva): 
+Il gestore finanziario, ovvero la SGR, attua una politica di investimento di tipo attivo nei confronti del 
+parametro di riferimento del comparto e coerentemente con gli obiettivi dello stesso in termini di rendimento 
+e rischio. Gli indicatori monitorati sono il turnover di portafoglio e la Tracking Error Volatility (TEV - storica, 
+calcolata come la deviazione standard delle ultime 52 differenze dei rendimenti settimanali del comparto e 
+del parametro di riferimento rilevate ad ogni data). 
+ Livello max. proposto 
+TURNOVER 150,00% 
+ Livello max proposto 
+TEV 5% 
+Regime commissionale: 
+La struttura commissionale è fissa e non prevede alcun incentivo. 
+Diritto di voto: 
+La titolarità del diritto di voto inerente ai valori mobiliari oggetto della gestione spetta a Euregio +.
+=== pagina 22 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 17 di 27 
+ 
+3.5 COMPARTO ETHICAL LIFE SHORT TERM 
+3.5.1 RIPARTIZIONE STRATEGICA DELLE ATTIVITÀ 
+Ripartizione per classe di strumento (azioni, obbligazioni, liquidità): 
+A livello strategico la politica di investiment o del Comparto Ethical Life Short Term  prevede il 5% delle 
+disponibilità complessive del Comparto investite in strumenti di natura monetaria e liquidità, il 95% in 
+strumenti obbligazionari. 
+Ripartizione per aree geografiche/settoriale: 
+Per la componente monetaria ed obbligazionaria gli investimenti sono diversificati a livello globale, pur 
+mantenendo una preferenza all’interno dell’area Euro. 
+Valute di riferimento: 
+La SGR monitora l’esposizione al rischio valutario delle disponibilità complessive del Comparto Ethical Life 
+Short Term su base continuativa, garantendo il rispetto dei limiti della normativa di riferimento che nella 
+fattispecie prevede un’esposizione massima valutaria delle disponibilità complessive pari a 30%. 
+Nel caso di investimenti in OICR denominati in Euro, la SGR considera la componente valutaria degli stessi 
+al fine del rispetto dei limiti della normativa di riferimento. La copertura contro il rischio di cambio è gestita 
+attivamente e realizzata principalmente attraverso strumenti derivati quotati o contratti a termine su valuta. 
+Duration media della componente obbligazionaria: 
+La SGR monitora l’evoluzione della duration del Comparto Ethical Life Short Term  anche in confronto a 
+quella del rispettivo indice di riferimento. 
+Margini di tolleranza tra la ripartizione effettiva e la ripartizione strategica degli investimenti : 
+Esposizione totale ad azioni: non prevista. 
+Aspetti sociali, ambientali e di governance: 
+Il Comparto si caratterizza per l’impegn o della SGR ad investire il patrimonio dello stesso in strumenti 
+finanziari di emittenti (Stati, imprese, organismi sovranazionali) che, al momento dell’investimento, si 
+caratterizzino per un elevato profilo di responsabilità sociale, ambientale e di governance. 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/0 7/2024, compongono il parametro di riferimento del comparto sono 
+rappresentati nella tabella seguente: 
+Descrizione Peso % Ticker Bloomberg 
+MSCI Eurozone 0-1Y Government Bond 5 MF755433 
+MSCI Eurozone 1-3Y Government Bond 95 MF755434 
+Gli indici obbligazionari sono comprensivi delle cedole e gli indici azionari comprensivi di dividendi, al netto 
+dell’impatto fiscale. 
+3.5.2 GLI STRUMENTI FINANZI ARI NEI QUALI SI INT ENDE INVESTIRE E I RISCHI 
+CONNESSI 
+La gestione è orientata verso titoli di natura obbligazionaria; gli strumenti di debito sono diversificati a livello 
+globale, pur mantenendo una preferenza all’interno dell’area Euro. 
+Strumenti ammessi: 
+In dettaglio, fermo restando che la composizione del portafoglio è realizzata nel rispetto delle disposizioni 
+contenute nelle leggi e nei decreti disciplinanti la materia e nelle disposizioni emanate dagli organi di 
+vigilanza, il gestore può investire in liquidità, in titoli di debito e OICR (OICR armonizzati, ivi inclusi ETF). 
+L’investimento in strumenti finanziari di natura obbligazionaria avviene prevalentemente tramite 
+negoziazione nei mercati regolamentati delle aree geografiche di riferimento. 
+Per “mercati regolamentati” si intendono , oltre a quelli iscritti nell’elenco previsto dall’articolo 47 della 
+Direttiva 2004/39/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004, anche quelli, indicati nella
+=== pagina 23 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 18 di 27 
+ 
+lista approvata dal Consiglio Direttivo di Assogestioni e pubblicata sul sito internet dell’associazione stessa, 
+dei Paesi verso i quali è orientata la politica di investimento definita per ciascun Comparto del FONDO.  
+L’investimento diretto in titoli di debito è consentito se, al momento della sua effettuazione, tali titoli abbiano 
+un rating almeno pari a “ Investment Grade ” o equiparabile (obbligazioni senza rating di un emittente 
+investment grade) secondo i criteri di classificazione di almeno una delle principali agenzie di rating. Nel 
+caso in cui tali Agenzie siano difformi si co nsidererà prevalente il secondo miglior rating. Qualora il rating 
+dei suddetti titoli di debito presenti in portafoglio scenda al di sotto di “ Investment Grade”, la SGR dovrà 
+agire nel migliore interesse del FONDO, decidendo autonomamente se vendere o mantenere in portafoglio 
+il titolo declassato. 
+Si precisa che la SGR. adotta adeguati processi interni di valutazione del merito di credito, che consentono 
+di non affidarsi in modo esclusivo o meccanico ai giudizi emessi dalle agenzie di rating. 
+L’investimento in titoli di debito “ non Investment Grade ” non potrà superare il 5% delle disponibilità 
+complessive del comparto. Da tale limite rimangono esclusi i titoli emessi o garantiti da un Paese membro 
+dell'UE, da un Paese aderente all'OCSE, da enti locali o enti pubblici di Stati membri dell'UE o appartenenti 
+all’OCSE o da organismi internazionali di carattere pubblico di cui fanno parte uno o più Paesi dell’UE.  
+Strumenti finanziari connessi a merci: 
+L’investimento in strumenti finanziari connessi a merci è c onsentito nei limiti di quanto previsto dal D. M 
+166 del 2 settembre 2014, art. 5, comma 5 e dall’”Universo Investibile” etico caratterizzante la politica di 
+investimento del FONDO. 
+Strumenti alternativi: 
+L’investimento in strumenti alternativi è consentito nei limiti di quanto previsto dal D. M 166 del 2 settembre 
+2014, art. 5, comma 4 e dall’”Universo Investibile” etico caratterizzante la politica di investimento del 
+FONDO. 
+Strumenti derivati: 
+L'utilizzo di strumenti derivati per finalità di ridu zione del rischio di investimento o di efficiente gestione è 
+consentito al gestore finanziario nei limiti di quanto previsto dal D.M. n. 166/2014.  
+OICR: 
+La SGR potrà utilizzare parti di OICR conformi alla direttiva comunitaria 2009/65/CE e successive 
+modifiche, anche collegati (ovvero istituiti o gestiti dallo stesso gestore o da altre società al medesimo 
+legate tramite controllo comune o con una considerevole partecipazione diretta o indiretta), purché i 
+programmi e limiti di investimento siano compatibili  con quelli del Comparto Ethical Life Short Term e non 
+generino una concentrazione del rischio incompatibile con quella prevista per il comparto. Con specifico 
+riferimento all’utilizzo di derivati da parte degli OICR sottostanti, è ammissibile che la politica di investimento 
+di tali OICR sottostanti ammetta l’uso di derivati per finalità di copertura o di gestione efficiente.  
+Il livello di accesso alle informazioni circa gli investimenti effettuati da parte degli OICR/ETF utilizzati è 
+massimo. 
+3.5.3 MODALITÀ DI G ESTIONE CHE SI INTEN DE ADOTTARE, STILE E  REGIME 
+COMMISSIONALE 
+Modalità di gestione (diretta o indiretta): 
+Le risorse del FONDO sono gestite direttamente dalla SGR e non sono previste deleghe di gestione.  
+Stile di gestione (attiva/passiva): 
+Il gestore finan ziario, ovvero la SGR, attua una politica di investimento di tipo attivo nei confronti del 
+parametro di riferimento del comparto e coerentemente con gli obiettivi dello stesso in termini di rendimento 
+e rischio. Gli indicatori monitorati sono il turnover di portafoglio e la Tracking Error Volatility (TEV - storica, 
+calcolata come la deviazione standard delle ultime 52 differenze dei rendimenti settimanali del comparto e 
+del parametro di riferimento rilevate ad ogni data).
+=== pagina 24 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 19 di 27 
+ 
+ Livello max. proposto 
+TURNOVER 150,00% 
+ Livello max proposto 
+TEV 5% 
+Regime commissionale: 
+La struttura commissionale è fissa e non prevede alcun incentivo. 
+Diritto di voto: 
+La titolarità del diritto di voto inerente ai valori mobiliari oggetto della gestione spetta a Euregio +. 
+4 CONTROLLO DELLA GESTIONE FINANZIARIA 
+ 
+4.1 VERIFICA DELLE SOGLIE DI RISCHIOSITÀ A LIVELLO DI COMPARTO 
+I controlli in oggetto vengono svolti periodicamente dal la Funzione di  Risk Management della SGR sulla 
+base dei flussi informativi ricevuti dal Service Amministrativo. 
+Per ciascuno dei Comparti vengono effettuati una serie di controlli, come di seguito sintetizzati:  
+Area di verifica Periodicità Indicatore 
+Indicatori di rendimento Settimanale/Mensile 
+Rendimento assoluto sui  seguenti 
+orizzonti temporali: 
+• da inizio mese 
+• da inizio anno 
+• da inizio mandato 
+Esposizione di portafoglio per asset 
+class Mensile Scomposizione del portafoglio e del 
+benchmark per asset class 
+Variabilità dei rendimenti Mensile Volatilità ex-ante 
+Perdita massima accettabile Mensile Value-at-Risk 
+Expected Shortfall 
+Verifica della tipologia di gestione 
+Mensile Duration modificata del portafoglio 
+Annuale Turnover 
+Mensile Tracking error volatility 
+Mensile Limiti quantitativi specifici del comparto 
+Esposizione dei portafogli ai fattori 
+ESG Mensile 
+Limiti specifici individuati nella Policy 
+aziendale in materia di investimenti 
+mobiliari liquidi 
+4.2 PERFORMANCE ATTRIBUTION E CONTRIBUTION 
+L’attività effettuata a cura del la Funzione di  Risk Management  della SGR prevede, su base mensile, 
+l’elaborazione del report di performance attribution, che scompone il rendimento di portafoglio in singole 
+componenti distintamente identificate nel processo di gestione come le asset class  del parametro di 
+riferimento. 
+La reportistica prodotta è a disposizione dell’organo della SGR e dell’Area Investimenti Mobiliari a supporto 
+delle proprie analisi per il monitoraggio della gestione finanziaria. 
+L’analisi di performance attribution evidenzia: 
+a) contribuzione di portafoglio e parametro di riferimento; 
+b) effetto allocazione: evidenzia l’efficacia delle scelte nei pesi delle asset class nel portafoglio rispetto 
+a quelle nel parametro di riferimento; 
+c) effetto selezione: indica la bontà delle scelte nei singoli titoli all’interno delle asset class rispetto a 
+quelli presenti nelle stesse asset class del parametro di riferimento;
+=== pagina 25 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 20 di 27 
+ 
+d) effetto valutario: indica la bontà delle scelte delle valute all’interno delle asset class; 
+La performance attribution segue il classico metodo di Brinson-Hood-Beebower; le chiavi di scomposizione 
+del rendimento comprendono: 
+• asset class / settore 
+• country 
+• valuta 
+• per i titoli obbligazionari duration e tipo di cedola. 
+Il software di rischio in uso permette di effettuare analisi in “ look through”, ovvero sfruttare la disponibilità 
+della composizione delle posizioni in portafoglio costituite da fondi, così da considerare il  peso ponderato 
+delle esposizioni in essi presenti. 
+Tutte le analisi si applicano sia ai rendimenti assoluti che relativi (ove il portafoglio di riferimento sia dotato 
+di un benchmark). 
+5 EVOLUZIONI PROGRAMMA TE E SVILUPPI IN COR SO DI 
+REALIZZAZIONE 
+Euregio+ mantiene elevata la propria attenzione in relazione sia all’offerta previdenziale in Italia, sia 
+all’innovazione di strumenti, tecniche e modelli d’investimento, con lo scopo di fornire agli aderenti di 
+PENSPLAN PROFI un’offerta che sia adeguata agli obiettivi e all’evoluzione del sistema Welfare. 
+La Società proseguirà promuovendo la crescita delle masse in gestione sia per linee interne che per linee 
+esterne (ricerca di almeno un nuovo distributore, nonché ricerca di possibili fondi pensione aperti da far  
+confluire nel PENSPLAN PROFI). 
+6 MODIFICHE APPORTATE AL DOCUMENTO NELL’UL TIMO 
+TRIENNIO 
+Rispetto alla versione approvata dal Consiglio di Amministrazione in data 27 luglio 2021 , il Consiglio di 
+Amministrazione del 27 giugno 2022 ha introdotto i seguenti cambiamenti: 
+• modifica dell’indirizzo della sede legale di Euregio Plus SGR S.p.A. 
+Rispetto alla versione approvata dal Consiglio di Amministrazione in data 27 giugno 2022  il Consiglio di 
+Amministrazione del 27 maggio 2024 ha introdotto i seguenti cambiamenti: 
+6.2 OBIETTIVI DELLA GESTIONE FINANZIARIA 
+6.2.1 CARATTERISTICHE SOCIO-DEMOGRAFICHE DEGLI ADERENTI 
+L’articolo 2.1 “Caratteristiche socio -demografiche degli aderenti”  è stato revisionato con i dati aggiornati 
+all’anno 2023. 
+6.2.2 I COMPARTI 
+L’articolo 2.2 “I comparti” è stat o revisionato con i dati aggiornati all’anno 202 3. Sono state proposte delle 
+nuove versioni delle “Tabella 6, Distribuzione aderenti per linea ed età”  e “Tabella 7, Distribuzione 
+percentuale aderenti e rispetto target life cycle”. 
+La frase  
+“La SGR inoltre  mette a disposizione degli aderenti del FONDO un sistema innovativo di avvisi 
+automatici (“Alert”) che suggeriscono una riallocazione dell’investimento previdenziale basato su 
+un principio “Life cycle”” 
+è stata così modificata:
+=== pagina 26 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 21 di 27 
+ 
+“La SGR inoltre mette a dis posizione degli aderenti del FONDO un sistema di avvisi automatici 
+(“Alert”) che suggeriscono una riallocazione dell’investimento previdenziale basato su un principio 
+“Life cycle””. 
+6.2.2.1 COMPARTO ETHICAL LIFE HIGH GROWTH 
+ATTUALE PRECEDENTE 
+Finalità della gestione: la rivalutazione del 
+capitale investito rispondendo ad esigenze di un 
+soggetto che ha davanti a sé ancora molti anni di 
+attività lavorativa ed è particolarmente sensibile 
+alle caratteristiche sociali, ambientali e di 
+governance dei titoli nei qua li investe e ricerca 
+rendimenti interessanti per incrementare più 
+velocemente il proprio patrimonio. 
+Orizzonte temporale consigliato : lungo periodo 
+(oltre 15 anni). 
+Rendimento medio annuo atteso : 3,4% reale, 
+cioè al netto dell’inflazione2. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 14,2%. 
+La probabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 20 anni possa risultare 
+inferiore all’inflazione è pari al 33,0%. 
+Finalità della gestione : la rivalutazione del 
+capitale investito rispondendo ad esigenze di un 
+soggetto che ha davanti a sé ancora molti anni di 
+attività lavorativa ed è particolarmente sensibile 
+alle caratteristiche sociali, ambientali e di 
+governance dei titoli nei quali inves te e ricerca 
+rendimenti interessanti per incrementare più 
+velocemente il proprio patrimonio. 
+Orizzonte temporale consigliato : lungo periodo 
+(oltre 15 anni) 
+Grado di rischio: alto. 
+Rendimento medio annuo atteso : 2,5% reale, 
+cioè al netto dell’inflazione3. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 14,2%. 
+La probabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 20 anni possa risultare 
+inferiore all’inflazione è pari al 25,1%. 
+6.2.2.2 COMPARTO ETHICAL LIFE GROWTH 
+ATTUALE PRECEDENTE 
+Finalità della gestione : la rivalutazione del 
+capitale investito rispondendo ad esigenze di un 
+soggetto che ha davanti a sé ancora molti anni di 
+attività lavorativa ed è particolarmente sensibile 
+alle caratteristiche  sociali, ambientali e di 
+governance dei titoli nei quali investe. 
+Orizzonte temporale consigliato : lungo periodo 
+(oltre 15 anni). 
+Rendimento medio annuo  atteso: 3,0 % reale, 
+cioè al netto dell’inflazione2. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 10,43%. 
+La probabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 15 anni possa risultare 
+inferiore all’inflazione è pari al 35,5%. 
+Finalità della gestione : la rivalutazione del 
+capitale inve stito rispondendo ad esigenze di un 
+soggetto che ha davanti a sé ancora alcuni anni di 
+attività lavorativa ed è particolarmente sensibile 
+alle caratteristiche sociali, ambientali e di 
+governance dei titoli nei quali investe. 
+Orizzonte temporale consigliato : medio/lungo 
+periodo (tra 10 e 15 anni). 
+Grado di rischio: medio. 
+Rendimento medio annuo  atteso: 1,4% reale, 
+cioè al netto dell’inflazione3. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 10,25%. 
+La probabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 15 anni possa risultare 
+inferiore all’inflazione è pari al 27,5%.
+=== pagina 27 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 22 di 27 
+ 
+6.2.2.3 COMPARTO ETHICAL BALANCED GROWTH 
+ATTUALE PRECEDENTE 
+Finalità della gestione : la rivalutazione del 
+capitale investito rispondendo ad esigenze di un 
+soggetto che ha davanti a sé ancora alcuni anni di 
+attività lavorativa ed è particolarmente sensibile 
+alle caratteristiche sociali, ambientali e di 
+governance dei titoli nei quali investe. 
+Orizzonte temporale consigliato : medio/lungo 
+periodo (tra 10 e 15 anni) 
+Rendimento medio annuo atteso: 2,6% reale, 
+cioè al netto dell’inflazione2. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 6,9%. 
+La probabilità, stimata anche sulla ba se 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 10 anni possa risultare 
+inferiore all’inflazione è pari al 39,2%. 
+Finalità della gestione : la rivalutazione del 
+capitale investito rispondendo ad esigenze di un 
+soggetto che ha davanti a sé ancora pochi anni di 
+attività lavorativa ed è particolarmente sensibile 
+alle caratteristiche sociali, ambientali e di 
+governance dei titoli nei quali investe. 
+Orizzonte temporale consigliato : medio periodo 
+(tra 5 e 10 anni) 
+Grado di rischio: medio. 
+Rendimento medio annuo atteso : 0,3% reale, 
+cioè al netto dell’inflazione3. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 6,4%. 
+La probabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 10  anni possa risultare 
+inferiore all’inflazione è pari al 33,7%. 
+6.2.2.4 COMPARTO ETHICAL CONSERVATIVE 
+ATTUALE PRECEDENTE 
+Finalità della gestione : la rivalutazione del 
+capitale investito rispondendo ad esigenze di un 
+soggetto che ha davanti a sé ancora pochi anni  di 
+attività lavorativa, che è particolarmente sensibile 
+alle caratteristiche sociali, ambientali e di 
+governance dei titoli nei quali investe e decide di 
+optare per una gestione prudente.  
+Orizzonte temporale consigliato : medio periodo 
+(tra 5 e 10 anni). 
+Rendimento medio annuo atteso: 2,2% reale, 
+cioè al netto dell’inflazione2. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 4,3%. 
+La probabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 5 a nni possa risultare 
+inferiore all’inflazione è pari al 45,9%. 
+Finalità della gestione : la rivalutazione del 
+capitale investito rispondendo ad esigenze di un 
+soggetto ormai prossimo alla pensione, che è 
+particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei 
+quali investe e decide di optare per una gestione 
+prudente.  
+Orizzonte temporale consigliato : breve periodo 
+(fino a 5 anni) 
+Grado di rischio: basso. 
+Rendimento medio annuo atteso : -1,1% reale, 
+cioè al netto dell’inflazione3. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 3,5% 
+La prob abilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 5 anni possa risultare 
+inferiore all’inflazione è pari al 59,3%
+=== pagina 28 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 23 di 27 
+ 
+6.2.2.5 COMPARTO ETHICAL SHORT TERM 
+ATTUALE PRECEDENTE 
+Finalità della gestione : la rivalutazi one del 
+capitale investito rispondendo ad esigenze di un 
+soggetto ormai prossimo alla pensione, che è 
+particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei 
+quali investe e decide di optare per una gestione 
+molto prudente in cui i titoli di capitale non siano 
+presenti. 
+Orizzonte temporale consigliato : breve periodo 
+(fino a 5 anni) 
+Rendimento medio annuo atteso: 1,0% reale, 
+cioè al netto dell’inflazione2. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 2,0%. 
+La probabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 3 anni possa risultare 
+inferiore all’inflazione è pari al 80,6%. 
+Finalità della gestione : la rivalutazione del 
+capitale investito risponde ndo ad esigenze di un 
+soggetto ormai prossimo alla pensione, che è 
+particolarmente sensibile alle caratteristiche 
+sociali, ambientali e di governance dei titoli nei 
+quali investe e decide di optare per una gestione 
+molto prudente in cui i titoli di capital e non siano 
+presenti. 
+Orizzonte temporale consigliato : breve periodo 
+(fino a 5 anni) 
+Grado di rischio: basso. 
+Rendimento medio annuo atteso : -1,7% reale, 
+cioè al netto dell’inflazione3. 
+Variabilità attesa dell’investimento (deviazione 
+standard): 1,2%. 
+La p robabilità, stimata anche sulla base 
+dell’esperienza passata, che il rendimento 
+nell’orizzonte temporale di 3 anni possa risultare 
+inferiore all’inflazione è pari al 74,2%. 
+6.3 CRITERI DI ATTUAZIONE DELLA POLITICA DI INVESTIMENTO 
+La frase 
+“Per la metodologia di selezione degli investimenti inclusi all’interno dell’“Universo Investibile” di 
+Etica SGR e per la metodologia di calcolo del rischio ESG degli investimenti si rimanda alle 
+informazioni disponibili sul sito di Etica SGR” 
+è stata così modificata: 
+                                                      
+2 I dati utilizzati per individuare i rendimenti attesi relativi alle asset allocation strategiche delle Linee di investimento provengono dal 
+sondaggio effettuato il 31 dicembre 2020 dalla società European Investment Consulting o “EIC”(società fondata nel 2 004, con sede 
+a Milano, i cui associati provengono dal mondo della gestione e dalla ricerca, e che offre a investitori istituzionali servizi consulenziali 
+in materia di asset allocation strategica ed ALM) pubblicati l’8 febbraio 2021 (a tale sondaggio hanno risposto 54 società di gestione 
+e le previsioni sono concentrate sulle asset class e sui segmenti di mercato più comuni tra i fondi pensione, i dati di rendimento atteso 
+e inflazione attesa sono espressi su orizzonti temporali a 1-3-5-10 anni); nel procedimento di calcolo sono stati utilizzati dati compatibili 
+con l'orizzonte temporale consigliato specifico di ogni linea di investimento. 
+Orizzonte Inflazione 
+5 Anni 1,40% 
+10 Anni 1,45% 
+ 
+3 Come previsto nelle “Istruzioni di vigilanza in materia di trasparenza” adottate da Covip con deliberazione del 22 dicembre 2020, il 
+tasso annuo atteso di inflazione è posto pari al 2%, mentre i parametri di rendimento utilizzati per calcolare il tasso atteso di rendimento 
+della gestione sono definiti in funzione delle diverse classi di attività (azionario o obbligazionario), sulla base dei tassi  di rendimento 
+riportati nella tabella che segue, espressi in termini reali e al loro dei costi e della tassazione: 
+ Rendimento obbligazionario Rendimento azionario 
+Rendimento medio annuo 2,00% 4,00%
+=== pagina 29 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 24 di 27 
+ 
+“Per la metodologia di selezione degli investimenti inclusi all’interno dell’“Universo Investibile” di 
+Etica SGR e per la metodologia di calcolo del rischio ESG degli investimenti si rimanda alle 
+informazioni disponibili sul sito della SGR e di Etica SGR”. 
+Con riferimento alle caratteristiche dell’OICVM 2P Invest Multi Asset, l’indicazione di “prodotto ESG” ai 
+sensi della Politica sulla Sostenibilità della SGR (punto g) è stato ampliato a tutti i comparti del Fondo, e 
+non “limitatamente ai comparti oggetto di investimento da parte di PENSPLAN PROFI”, come indicato nella 
+precedente versione del documento. 
+6.3.1 COMPARTO ETHICAL LIFE HIGH GROWTH 
+È stata eliminata la frase “Il rischio di portafoglio complessivo è alto”; inoltre, è stato modificato il benchmark 
+di riferimento del comparto, come di seguito indicato: 
+ATTUALE PRECEDENTE 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, 
+compongono il parametro di riferimento del 
+comparto sono rappresentati nella tabella 
+seguente: 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+MSCI Eurozone 0 -1Y 
+Government Bond 
+5 MF755433 
+MSCI Eurozone 
+Government Bond 
+20 MFGVEZTL 
+MSCI EUR IG ESG 
+Universal C orporate 
+Bond 
+5 MFUNIGEL 
+MSCI EMU ESG 
+Universal Net  
+49 MXEMEUNE 
+MSCI World Ex EMU  
+ESG Universal Net 
+21 NE724790 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+Parametro di riferimento (Benchmark): 
+Gli indici che compongono il parametro di 
+riferimento del comparto sono rappresen tati nella 
+tabella seguente: 
+ 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+ICE BofAML Euro 
+Currency 3 Month 
+Deposit Offered Rate 
+Constant Maturity 
+5 LEC3 
+ICE BofAML Euro 
+Government Index 
+20 EG00 
+ICE BofAML Euro 
+Corporate Senior 
+Index 
+5 ERS0 
+MSCI Daily TR Net 
+EMU Index  
+49 NDDUEMU (*) 
+MSCI Daily TR Net 
+World Ex EMU Index 
+21 NDDUWXEM 
+(*) 
+(*) Gli indici denominati in valute estere (annotati 
+con un asterisco) sono convertiti in Euro al cambio 
+Reuters. 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+6.3.2 COMPARTO ETHICAL LIFE GROWTH 
+È stata eliminata l a frase “ Il rischio di portafoglio complessivo è medio ”; inoltre, è  stato modificato il 
+benchmark di riferimento del comparto, come di seguito indicato: 
+ATTUALE PRECEDENTE 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, 
+compongono il parametro di riferimento del 
+comparto sono rappresentati nella tabella 
+seguente: 
+Parametro di riferimento (Benchmark): 
+Gli indici che compongono il parametro di 
+riferimento del comparto sono rappresentati nella 
+tabella seguente:
+=== pagina 30 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 25 di 27 
+ 
+ATTUALE PRECEDENTE 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+MSCI Eurozone 0 -1Y 
+Government Bond 
+5 MF755433 
+MSCI Eurozone 
+Government Bond 
+36 MFGVEZTL 
+MSCI EUR IG ESG 
+Universal C orporate 
+Bond 
+9 MFUNIGEL 
+MSCI EMU ESG 
+Universal Net 
+35 MXEMEUNE 
+MSCI World Ex EMU 
+ESG Universal Net 
+15 NE724790 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+ICE BofAML Euro 
+Currency 3 Month 
+Deposit Offered Rate 
+Constant Maturity 
+5 LEC3 
+ICE BofAML Euro 
+Government Index 
+36 EG00 
+ICE BofAML Euro 
+Corporate Senior 
+Index 
+9 ERS0 
+MSCI Daily TR Net 
+EMU Index  
+35 NDDUEMU (*) 
+MSCI Daily TR Net 
+World Ex EMU Index 
+15 NDDUWXEM 
+(*) 
+(*) Gli indici denominati in valute estere (annotati 
+con un asterisco) sono convertiti in Euro al cambio 
+Reuters. 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+6.3.3 COMPARTO ETHICAL LIFE BALANCED GROWTH 
+È stata eliminata la frase “ Il rischio di portafoglio complessivo è medio ”; inoltre, è stato modificato il 
+benchmark di riferimento del comparto, come di seguito indicato: 
+ATTUALE PRECEDENTE 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, 
+compongono il parametro di riferimento del 
+comparto sono rappresentati nella tabella 
+seguente: 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+MSCI Eurozone 0 -1Y 
+Government Bond 
+5 MF755433 
+MSCI Eurozone 
+Government Bond 
+52 MFGVEZTL 
+MSCI EUR IG ESG 
+Universal C orporate 
+Bond 
+13 MFUNIGEL 
+MSCI EMU ESG 
+Universal Net 
+21 MXEMEUNE 
+MSCI World Ex EMU 
+ESG Universal Net 
+9 NE724790 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+Parametro di riferimento (Benchmark): 
+Gli indici che compongono il parametro di 
+riferimento del comparto son o rappresentati nella 
+tabella seguente: 
+ 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+ICE BofAML Euro 
+Currency 3 Month 
+Deposit Offered Rate 
+Constant Maturity 
+5 LEC3 
+ICE BofAML Euro 
+Government Index 
+52 EG00 
+ICE BofAML Euro 
+Corporate Senior 
+Index 
+13 ERS0 
+MSCI Daily TR Net 
+EMU Index  
+21 NDDUEMU (*) 
+MSCI Daily TR Net 
+World Ex EMU Index 
+9 NDDUWXEM 
+(*) 
+(*) Gli indici denominati in valute estere (annotati 
+con un asterisco) sono convertiti in Euro al cambio 
+Reuters.
+=== pagina 31 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 26 di 27 
+ 
+ATTUALE PRECEDENTE 
+Gli indici obbligazionari sono comprensivi d elle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+6.3.4 COMPARTO ETHICAL LIFE CONSERVATIVE 
+È stata eliminata l a frase “ Il rischio di portafoglio complessivo è basso”; inoltre è stato modificato il 
+benchmark di riferimento del comparto, come di seguito indicato: 
+ATTUALE PRECEDENTE 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, 
+compongono il parametro di riferimento del 
+comparto sono rappresentati nella tabella 
+seguente: 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+MSCI Eurozone 0 -1Y 
+Government Bond 
+5 MF755433 
+MSCI Eurozone 
+Government Bond 
+68 MFGVEZTL 
+MSCI EUR IG ESG 
+Universal C orporate 
+Bond 
+17 MFUNIGEL 
+MSCI EMU ESG 
+Universal Net 
+7 MXEMEUNE  
+MSCI World Ex EMU 
+ESG Universal Net 
+3 NE724790 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+Parametro di riferimento (Benchmark): 
+Gli indici che compongono il parametro di 
+riferimento del comparto sono rappresentati nella 
+tabella seguente: 
+ 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+ICE BofAML Euro 
+Currency 3 Month 
+Deposit Offered Rate 
+Constant Maturity 
+5 LEC3 
+ICE BofAML Euro 
+Government Index 
+68 EG00 
+ICE BofAML Euro 
+Corporate Senior 
+Index 
+17 ERS0 
+MSCI Daily TR Net 
+EMU Index  
+7 NDDUEMU (*) 
+MSCI Daily TR Net 
+World Ex EMU Index 
+3 NDDUWXEM 
+(*) 
+(*) Gli indici denominati in valute estere (annotati 
+con un asterisco) sono convertiti in Euro al cambio 
+Reuters. 
+Gli indici obbligazionari sono comprensivi de lle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+6.3.5 COMPARTO ETHICAL LIFE SHORT TERM 
+È stata eliminata la frase “ Il rischio di portafoglio complessivo è basso”; inoltre è stato modificato il 
+benchmark di riferimento del comparto, come di seguito indicato: 
+ATTUALE PRECEDENTE 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/07/2024, 
+compongono il parametro di riferimento del 
+comparto sono rappresentati nella tabella 
+seguente: 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+MSCI Eurozone 0 -1Y 
+Government Bond 
+5 MF755433 
+Parametro di riferimento (Benchmark): 
+Gli indici che, con decorrenza dal 01/01/2022, 
+compongono il parametro di riferimento del 
+comparto sono rappresentati nella tabella 
+seguente: 
+Descrizione Peso 
+% 
+Ticker 
+Bloomberg 
+ICE BofAML Euro 
+Currency 3 Month 
+5 LEC3
+=== pagina 32 ===
+PensPlan Profi Fondo Pensione Aperto      Documento sulla politica di investimento 
+ 
+ 
+Approvato dal Consiglio di Amministrazione della SGR in data 27/05/2024   pagina 27 di 27 
+ 
+ATTUALE PRECEDENTE 
+MSCI Eurozone 1 -3Y 
+Government Bond 
+95 MF755434 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+Deposit Offered Rate 
+Constant Maturity 
+ICE BofAML 1 -3 Year 
+Euro Government 
+Index 
+95 EG01 
+ (*) Gli indici denominati in valute estere (annotati 
+con un asterisco) sono convertiti in Euro al cambio 
+Reuters. 
+Gli indici obbligazionari sono comprensivi delle 
+cedole e gli indici azionari comprensivi di dividendi, 
+al netto dell’impatto fiscale. 
+6.4 CONTROLLO DELLA GESTIONE FINANZIARIA 
+Nella tabella riportata nel paragrafo è stata aggiunto il controllo di seguito indicato: 
+Area di verifica Periodicità Indicatore 
+Esposizione dei portafogli ai fattori 
+ESG Mensile 
+Limiti specifici individuati nella Policy 
+aziendale in materia di investimenti 
+mobiliari liquidi 
+6.5 EVOLUZIONI PROGRAMMATE E SVILUPPI IN CORSO DI REALIZZAZIONE 
+È stato aggiunto il seguente paragrafo: 
+“La Società proseguirà promuovendo la crescita delle masse in gestione sia per linee interne che 
+per linee esterne (ricerca di almeno un nuovo distributore, nonché ricerca di possibili fondi pensione 
+aperti da far confluire nel PENSPLAN PROFI).”

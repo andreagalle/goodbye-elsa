@@ -1,0 +1,1251 @@
+# Fondo: ZED OMNIFUND - FONDO PENSIONE APERTO (zed-omnifund)
+# Documento: Regolamento – ZED Omnifund REGOLAMENTO 092026 prot
+# Fonte: https://www.zurich.it/api/archiviodigitale/download?guid=00BB5DA0-0000-C914-B4A6-182F1F32B8F5&filename=ZED%20Omnifund%20-%20REGOLAMENTO%20092026_prot.pdf
+# Citato in: https://www.zurich.it/gruppo-zurich/zurich-italia/partner/banks-and-ifa/zed-omnifund
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5d61a07e07012ff40b917fdf4a6380f3ee5255db810841d2f1d0a07dae077f40
+# Pagine: 24
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+ZED Omnifund 
+Fondo Pensione Aperto 
+ 
+ 
+Regolamento
+=== pagina 2 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 1 di 22 
+ZED Omnifund 
+Fondo Pensione Aperto 
+ 
+ 
+ 
+Regolamento 
+ 
+ 
+ 
+Indice 
+ 
+ 
+Parte I - Identificazione e scopo del fondo 
+Art. 1 - Denominazione  3 di 22 
+Art. 2 - Istituzione del Fondo, esercizio dell’attività, sede e recapiti 3 di 22 
+Art. 3 - Scopo  3 di 22 
+ 
+Parte II - Caratteristiche del Fondo e modalità di investimento 
+Art. 4 - Regime del Fondo  3 di 22 
+Art. 5 - Destinatari e tipologie di adesione 3 di 22 
+Art. 6 - Scelte di investimento  3 di 22 
+Art. 7 - Gestione degli investimenti 4 di 22 
+Art. 8 - Spese  6 di 22 
+ 
+Parte III - Contribuzione e prestazioni 
+Art. 9 - Contribuzione  7 di 22 
+Art. 10 - Determinazione della posizione individuale  7 di 22 
+Art. 11 - Prestazioni pensionistiche e RITA 8 di 22 
+Art. 12 - Erogazione delle prestazioni pensionistiche  8 di 22 
+Art. 13 - Trasferimento e riscatto della posizione individuale  9 di 22 
+Art. 14 - Anticipazioni  10 di 22 
+ 
+Parte IV - Profili organizzativi 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile  10 di 22 
+Art. 16 - Sistema di governo  11 di 22 
+Art. 17 - Depositario 11 di 22 
+Art. 18 - Responsabile  11 di 22 
+Art. 19 - Conflitti di interesse  11 di 22
+=== pagina 3 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 2 di 22 
+Art. 20 - Scritture contabili 11 di 22 
+ 
+Parte V - Rapporti con gli aderenti 
+Art. 21 - Modalità di adesione e clausole risolutive espresse 11 di 22 
+Art. 22 - Trasparenza nei confronti degli aderenti e dei beneficiari 12 di 22 
+Art. 23 - Comunicazioni e reclami  12 di 22 
+ 
+Parte VI - Norme finali 
+Art. 24 - Modifiche del Regolamento  12 di 22 
+Art. 25 - Trasferimento in caso di modifiche peggiorative delle condizioni  
+economiche e di modifiche delle caratteristiche del Fondo  13 di 22 
+Art. 26 - Cessione del Fondo  13 di 22 
+Art. 27 - Operazioni di fusione  13 di 22 
+Art. 28 - Rinvio  13 di 22 
+ 
+Allegati 
+Allegato n. 1 - Disposizioni in materia di Responsabile  14 di 22 
+Allegato n. 2 - Condizioni e modalità di erogazione delle rendite 16 di 22
+=== pagina 4 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 3 di 22 
+Parte I 
+Identificazione e scopo del Fondo 
+ 
+Art. 1 – Denominazione 
+1 “ZED OMNIFUND – fondo pensione aperto” (di seguito “Fondo”) è un fondo pensione aperto istituito ai sensi dell’art. 
+12 del Decreto lgs.5 dicembre 2005, n. 252 (di seguito “Decreto”). 
+ 
+ 
+Art. 2 – Istituzione del fondo ed esercizio dell’attività 
+1 Il Fondo è stato istituito dalla società “Zurich Life Insurance Italia S.p.A “, giusta autorizzazione rilasciata dalla COVIP con 
+provvedimento del 29 luglio 1998; con il medesimo provvedimento la COVIP ha approvato il Regolamento del Fondo. 
+2 La società “Zurich Investments Life S.p.A. ” (di seguito “ Impresa di assicurazione” ) esercita l’attività con effetto dal 
+31/12/2014. 
+3 Il Fondo è iscritto all’ Albo tenuto dalla COVIP con il numero 39. 
+4 L’attività relativa al Fondo è svolta in Milano, presso la sede dell’Impresa di assicurazione. 
+5 L’indirizzo di posta elettronica certificata (PEC) dell’Impresa di assicurazione è previdenzacomplementare@pec.zurich.it 
+ 
+ 
+Art. 3 – Scopo 
+1 Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni pensionistiche 
+complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta dei contributi, la gestione 
+delle risorse nell’esclusivo interesse degli aderenti, e l’erogazione delle prestazioni secondo quanto disposto dalla 
+normativa tempo per tempo vigente. 
+ 
+ 
+ 
+Parte II  
+Caratteristiche del Fondo e modalità di 
+investimento 
+ 
+Art. 4 – Regime del Fondo 
+1 Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è determinata in 
+funzione della contribuzione effettuata e in base al principio della capitalizzazione. 
+ 
+ 
+Art. 5 – Destinatari e tipologie di adesione 
+1 L’adesione al Fondo è consentita in forma individuale in modalità esplicita.  
+2 È altresì consentita l’adesione su base collettiva, ai soggetti destinatari delle forme pensionistiche complementari 
+individuati dall’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, gli accordi o i 
+regolamenti aziendali che dispongono l’adesione al Fondo.  
+3 Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età pensionabile 
+prevista dal regime obbligatorio di appartenenza.  
+ 
+ 
+Art. 6 – Scelte di investimento 
+1 Il Fondo è articolato nei seguenti comparti, differenziati per profili di rischio-rendimento, in modo tale da assicurare 
+agli aderenti una adeguata possibilità di scelta: 
+A. “Azionaria”, caratterizzata da un profilo di rischio alto. 
+B. “Bilanciata 65”, caratterizzata da un profilo di rischio medio-alto. 
+C. “Bilanciata 30”, caratterizzata da un profilo di rischio medio. 
+D. “Obbligazionaria”, caratterizzata da un profilo di rischio basso.
+=== pagina 5 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 4 di 22 
+E. “Garantita”, caratterizzata dalla presenza di una garanzia di risultato (in questo comparto è investito il TFR 
+degli aderenti taciti che risultano iscritti al Fondo). 
+2 L’aderente, all’atto dell’adesione, sceglie il comparto in cui far confluire i versamenti contributivi. L’aderente può 
+successivamente variare tale scelta nel rispetto del periodo minimo di un anno di permanenza nel comparto. Tale 
+limite non opera con riguardo al TFR conferito tacitamente. 
+ 
+ 
+Art. 7 - Gestione degli investimenti 
+1 L’Impresa di assicurazione effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle condizioni 
+stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo a riferimento l’esclusivo 
+interesse degli aderenti. 
+2 Ferma restando la responsabilità dell’Impresa di assicurazione, essa può affidare a soggetti di cui all’art. 6, comma 1, 
+lettere a), b), c), c-bis) del Decreto, in possesso dei requisiti previsti dalla normativa tempo per tempo vigente, 
+l’esecuzione di specifici incarichi di gestione1. 
+3 L’impresa di assicurazione verifica i risultati della gestione mediante l’adozione di parametri di riferimento coerenti 
+con gli obiettivi e i criteri della politica di investimento. 
+4 La politica di investimento dei singoli comparti è la seguente: 
+ 
+A. - “Azionaria”, caratterizzata da un profilo di rischio alto. 
+A.1 - Politica degli investimenti  
+Viene attuata una politica di investimento volta a perseguire una composizione del portafoglio orientata quasi 
+esclusivamente verso titoli di capitale.  
+L’obiettivo principale della gestione è quello di realizzare un’elevata crescita del capitale nel lungo periodo. 
+ 
+A. 2 - Limiti degli investimenti 
+Fermi i limiti di legge nella scelta degli investimenti di cui al presente comparto l’Impresa di assicurazione si atterrà 
+ai seguenti ulteriori limiti: 
+ 
+ Min Max 
+- titoli di debito in valute dei Paesi aderenti all’Unione 
+Europea e dei Paesi non aderenti all’Unione Europea: 0% 30% 
+- titoli di capitale nazionali ed internazionali compresi i 
+fondi chiusi: 70% 100% 
+   
+- titoli in valuta diversa dall’euro 0% 30% 
+ 
+ 
+B. - “Bilanciata 65”, caratterizzata da un profilo di rischio medio-alto. 
+B. 1 - Politica degli investimenti 
+Viene attuata una politica di investimento volta a perseguire una composizione del portafoglio orientata 
+prevalentemente verso titoli di capitale. 
+L’obiettivo principale della gestione è quello di realizzare un’elevata crescita del capitale nel lungo periodo. 
+ 
+B. 2 - Limiti degli investimenti 
+Fermi i limiti di legge nella scelta degli investimenti di cui al presente comparto l’Impresa di assicurazione si atterrà 
+ai seguenti ulteriori limiti: 
+ 
+ Min Max 
+- titoli di debito in valute dei Paesi aderenti all’Unione 
+Europea e dei Paesi non aderenti all’Unione Europea: 10% 50% 
+- titoli di capitale nazionali ed internazionali compresi i 
+fondi chiusi: 50% 90% 
+   
+- titoli in valuta diversa dall’euro 0% 30% 
+ 
+ 
+ 
+ 
+1 Il contratto di delega deve prevedere che l’impresa di assicurazione e il Responsabile del Fondo debbano poter verificare le procedure adottate dal 
+soggetto delegato per l’esecuzione del contratto e le operazioni poste in essere per conto del Fondo.
+=== pagina 6 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 5 di 22 
+C. - “Bilanciata 30”, caratterizzata da un profilo di rischio medio. 
+C. 1 - Politica degli investimenti 
+Viene attuata una politica di investimento volta a perseguire una composizione del portafoglio tendenzialmente 
+equilibrata, che includa sia titoli di debito di natura obbligazionaria sia titoli di capitale. 
+L’obiettivo principale della gestione è quello di perseguire sia la redditività degli investimenti sia la rivalutazione del 
+capitale. 
+ 
+C. 2 - Limiti degli investimenti 
+Fermi i limiti di legge nella scelta degli investimenti di cui al presente comparto l’Impresa di assicurazione si atterrà 
+ai seguenti ulteriori limiti: 
+ 
+ Min Max 
+- titoli di debito in valute dei Paesi aderenti all’Unione 
+Europea e dei Paesi non aderenti all’Unione Europea: 50% 90% 
+- titoli di capitale nazionali ed internazionali compresi i 
+fondi chiusi: 10% 50% 
+   
+- titoli in valuta diversa dall’euro 0% 30% 
+ 
+ 
+D.- “Obbligazionaria”, caratterizzata da un profilo di rischio basso. 
+D. 1 - Politica degli investimenti 
+Viene attuata una politica di investimento volta a perseguire una composizione del portafoglio orientata in misura 
+prevalente verso titoli di debito di natura obbligazionaria. L’obiettivo principale della gestione è quello di proteggere 
+il valore reale del capitale investito. 
+ 
+D. 2 - Limiti degli investimenti 
+Fermi i limiti di legge nella scelta degli investimenti di cui al presente comparto l’Impresa di assicurazione si atterrà ai 
+seguenti ulteriori limiti: 
+ 
+ Min Max 
+- titoli di debito in valute dei Paesi aderenti all’Unione 
+Europea e dei Paesi non aderenti all’Unione Europea: 100% 100% 
+- titoli di capitale nazionali ed internazionali compresi i 
+fondi chiusi: 0% 0% 
+   
+- titoli in valuta diversa dall’euro 0% 30% 
+ 
+ 
+E. - “Garantita”, caratterizzata dalla presenza di una garanzia di risultato. 
+E. 1 - Politica degli investimenti 
+Viene attuata una politica di investimento volta a perseguire una composizione del portafoglio, che includa in 
+prevalenza titoli di debito di natura obbligazionaria. L’obiettivo principale della gestione è quello di perseguire sia la 
+redditività degli investimenti sia la rivalutazione del capitale minimizzando il rischio in capo all’ aderente grazie alla 
+presenza di una garanzia di risultato. 
+ 
+E 2 - Limiti degli investimenti 
+Fermi i limiti di legge nella scelta degli investimenti di cui al presente comparto l’Impresa di assicurazione si atterrà ai 
+seguenti ulteriori limiti: 
+ 
+ Min Max 
+- titoli di debito in valute dei Paesi aderenti all’Unione 
+Europea e dei Paesi non aderenti all’Unione Europea: 80% 100% 
+- titoli di capitale nazionali ed internazionali compresi i 
+fondi chiusi: 0% 20% 
+   
+- titoli in valuta diversa dall’euro 0% 30% 
+ 
+Il comparto "Garantita" si prefigge l’obiettivo di realizzare, con elevata probabilità, rendimenti che siano pari o superiori 
+a quelli del TFR in un orizzonte temporale pluriennale.
+=== pagina 7 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 6 di 22 
+L’adesione al comparto denominato “Garantita” attribuisce all’aderente, al verificarsi degli eventi di cui appresso, il 
+diritto alla corresponsione di un importo minimo garantito a prescindere dai risultati di gestione. La garanzia può 
+essere prestata all’Impresa di assicurazione da soggetti diversi dalla stessa, a ciò abilitati. 
+L’importo minimo garantito è pari alla somma, maggiorata dell’1,00% su base annua, dei contributi netti versati al 
+comparto, inclusi gli eventuali importi derivanti da trasferimenti da altro comparto o da altra forma pensionistica e i 
+versamenti effettuati per il reintegro delle anticipazioni percepite, ridotto da eventuali riscatti parziali e anticipazioni.  
+Per contributi netti si intendono i contributi di cui all’art. 10 – comma 2. 
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+a) Esercizio del diritto alla prestazione pensionistica di cui all’art. 11;  
+b) Riscatto per decesso; 
+c) Riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno di un terzo; 
+d) Riscatto per inoccupazione per un periodo superiore a 48 mesi; 
+e) Trasferimento della posizione individuale ai sensi dell’art. 26 in caso di modifiche peggiorative alle condizioni 
+di contratto. 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata, calcolata ai sensi 
+dell’art. 10, e con riferimento al primo giorno di valorizzazione utile successivo alla verifica delle condizioni che danno 
+diritto alla prestazione, la stessa viene integrata a tale maggiore valore. L’integrazione viene corrisposta dall’Impresa 
+di assicurazione. 
+5 La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di rischio-rendimento, 
+in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti nella Nota informativa. 
+ 
+ 
+Art. 8 – Spese 
+1 L’iscrizione al Fondo comporta le seguenti spese: 
+a) spese da sostenere all’atto dell’adesione: una commissione “una tantum” a carico dell’aderente pari a 51,65 Euro; 
+b) spese relative alla fase di accumulo: 
+b. 1)  direttamente a carico dell’aderente: una commissione pari a 30 Euro applicata annualmente; 
+b. 2)  indirettamente a carico dell’aderente e che incidono sul comparto : una commissione di gestione pari ad una 
+percentuale applicata mensilmente sul patrimonio e differenziata in funzione dello specifico comparto di 
+investimento di cui all’art. 7 e precisamente: 
+- 0,185 % per “Azionaria”, (2,22% su base annua) 
+- 0,150 % per “Bilanciata 65”, (1,80% su base annua) 
+- 0,115 % per “Bilanciata 30”, (1,38% su base annua) 
+- 0,075% per “Obbligazionaria”, (0,90% su base annua) 
+- 0,150% per “Garantita”, di cui 0,045% per la garanzia di risultato (1,80% su base annua, di cui 0,54% su base 
+annua per la garanzia di risultato). 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese legali e giudiziarie 
+sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione derivanti dall’attività di impiego delle 
+risorse, nonché il “contributo  di vigilanza” dovuto annualmente alla COVIP ai sensi di legge;  sono altresì a 
+carico del comparto le spese relative alla remunerazione e allo svolgimento dell’incarico del Responsabile, 
+salva diversa decisione dell’Impresa di assicurazione.  
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al 
+rimborso delle parti di OICR acquistati, né le commissioni di gestione applicate all’OICR stesso, salvo i casi 
+di deroga di carattere generale previsti dalla COVIP. In particolare, nel caso di investimenti in OICR collegati, 
+dal compenso dell’impresa di assicurazione sarà dedotta la remunerazione complessiva percepita dal 
+gestore dell’OICR collegato. Fanno eccezione gli investimenti in FIA diversi da quelli collegati2. 
+ 
+c) spese collegate all’esercizio delle seguenti  prerogative individuali , dirette alla copertura dei relativi oneri 
+amministrativi: 
+c. 1)  15 Euro in caso di trasferimento ad altra forma pensionistica; 
+c. 2)  15 Euro per la riallocazione della posizione individuale tra i comparti; 
+d) spese relative alla fase di erogazione delle rendite vitalizie, quali riportate nell’Allegato n. 2; 
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia: 
+ d-bis. 1) Spese per la gestione finanziaria di cui alla lettera b.2, in relazione al/ai comparto/i nel/i quale/i risulta 
+investita la posizione individuale residua; 
+ d-bis. 2) Spese in cifra fissa; 
+ 
+ 
+2 Nel caso di investimenti in FIA diversi da quelli collegati sul comparto potranno gravare commissioni di gestione (ed eventua li commissioni di 
+incentivo) a condizione che venga resa agli aderenti adeguata informativa circa la misura massima delle commissioni applicabili nell’ambito della Nota 
+informativa. Per FIA collegati si intendono quelli promossi o gestiti dalla società che gestisce le risorse del Fondo o da al tre società del medesimo 
+gruppo di appartenenza.
+=== pagina 8 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 7 di 22 
+e) spese in cifra fissa relative alla prestazione erogata in forma di “Rendita integrativa temporanea anticipata” (RITA) 
+dirette alla copertura dei relativi oneri amministrativi: 
+e.1)  2,00 Euro prelevati da ciascuna rata di rendita erogata. 
+ 
+2 L’importo delle spese sopra indicate può essere ridotto nei casi di adesione su base collettiva e di convenzionamenti 
+con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle commissioni di gestione espresse in 
+misura percentuale sul patrimonio avviene mediante emissione di classi di quote differenti. 
+3 Sono a carico dell’Impresa di assicurazione tutte le spese e oneri non individuati dalle disposizioni del presente 
+articolo. 
+ 
+ 
+ 
+Parte III 
+Contribuzione e prestazioni 
+ 
+Art. 9 – Contribuzione 
+1 La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso. 
+2 I lavoratori che aderiscono su base collettiva fissano la contribuzione nel rispetto della misura minima e delle modalità 
+stabilite dai contratti e dagli accordi collettivi, anche aziendali. 
+3 I lavoratori dipendenti, in caso di adesione esplicita, possono contribuire al Fondo conferendo, anche esclusivamente, 
+i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può anche essere parziale ove previsto 
+dagli accordi collettivi. Qualora il lavoratore decida altresì di versare la contribuzione prevista a suo carico e abbia 
+diritto, in base ad accordi collettivi, anche aziendali, a un contributo del datore di lavoro, detto contributo affluirà al 
+Fondo nei limiti e alle condizioni stabilite nei predetti accordi. Il dato re di lavoro può decidere, anche in assenza di 
+accordi collettivi di contribuire al Fondo.  
+4 L’aderente su base individuale ha facoltà di sospendere la contribuzione fermo restando, per i lavoratori dipendenti, 
+l’obbligo di versamento del TFR maturando eventualmente conferito. La sospensione non comporta la cessazione 
+della partecipazione al Fondo. 
+5 In costanza del rapporto di lavoro, il  lavoratore che aderisc e su base collettiva ha facoltà di sospendere la 
+contribuzione a proprio carico, con conseguente sospensione dell’obbligo contributivo a carico del datore di lavoro, 
+fermo restando il versamento del TFR maturando al Fondo. E’ possibile riattivare la contribuzione in qualsiasi momento. 
+6 La contribuzione può essere attuata nel rispetto di quanto previsto dall’art. 8, comma 12, del Decreto (c.d. 
+contribuzione da abbuoni). 
+7 L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età pensionabile prevista 
+dal regime obbligatorio di appartenenza, a condizione che alla data del pensionamento possa far valere almeno un 
+anno di contribuzione a favore delle forme di previdenza complementare. 
+ 
+ 
+Art. 10 – Determinazione della posizione individuale 
+1 La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è alimentata dai contributi 
+netti versati, dagli importi derivanti da trasferimenti da altre forme pensionistiche complementari e dai versamenti 
+effettuati per il reintegro delle anticipazioni percepite, ed è ridotta da eventuali riscatti parziali e anticipazioni. 
+2 Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, di cui all’art. 8 – 
+comma 1, lett. a), b.1). Sul primo versamento incidono anche eventuali spese di adesione. 
+3 La posizione individuale viene rivalutata in base al rendimento dei comparti. Il rendimento di ogni singolo comparto è 
+calcolato come variazione del valore della quota dello stesso nel periodo considerato. 
+4 Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono valutate al valore 
+di mercato; le plusvalenze e le minusvalenze maturate concorrono alla determinazione della posizione individuale, a 
+prescindere dal momento di effettivo realizzo. 
+5 L’Impresa di assicurazione determina il valore della quota e, conseguentemente, della posizione individuale di ciascun 
+aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono trasformati in quote, e frazioni di quote, 
+sulla base del primo valore di quota successivo al giorno in cui si sono resi disponibili per la valorizzazione. 
+6 Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello risultante al primo 
+giorno di valorizzazione utile successivo a quello in cui l’Impresa di assicurazione ha verificato la sussistenza delle 
+condizioni che danno diritto alle prestazioni. 
+7 Ai sensi del Decreto, nella fase di accumulo le posizioni individuali costituite presso il Fondo sono intangibili e non 
+possono formare oggetto di sequestro o pignoramento da parte dei creditori dell’aderente.
+=== pagina 9 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 8 di 22 
+Art. 11 – Prestazioni pensionistiche e RITA 
+1 Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei requisiti di 
+accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, con almeno cinque anni di 
+partecipazione alle forme pensionistiche complementari. Il predetto termine è ridotto a tre anni per il lavoratore che 
+cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo stesso acquisisca il diritto a una pensione 
+complementare e che si sposta in un altro Stato membro dell’Unione europea. L’aderente che decide di proseguire 
+volontariamente la contribuzione ai sensi del comma 8  dell’art. 9 ha la facoltà di determinare autonomamente il 
+momento di fruizione delle prestazioni pensionistiche. 
+2 Per i soggetti non titolari di reddito di lavoro o d’impresa si considera età pensionabile quella vigente nel regime 
+obbligatorio di base. 
+3 Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche sono considerati 
+utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati dall’aderente per i quali lo stesso 
+non abbia esercitato il riscatto totale della posizione individuale. 
+4 L’aderente, che abbia cessato l’attività lavorativa e abbia maturato almeno venti anni di contribuzione nei regimi 
+obbligatori di appartenenza e il periodo minimo di partecipazione alla forme pensionistiche complementari di cui al 
+comma 1, ha facoltà di richiedere che le prestazioni siano erogate , in tutto o in parte, in forma di “Rendita integrativa 
+temporanea anticipata” (RITA)  con un anticipo massimo di cinque anni rispetto alla  data di  maturazione dell’età 
+anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appartenenza. 
+5 L’aderente, cha abbia cessato l’attività lavorativa, sia rimasto successivamente inoccupato per un periodo di tempo 
+superiore a ventiquattro mesi e abbia maturato il periodo minimo  di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1 , ha facoltà di richiedere la rendita di cui al precedente comma 4 con un anticipo 
+massimo di dieci  anni rispetto alla data di maturazione dell’età anagrafica per la pensione di vecchiaia nel regime 
+obbligatorio di appartenenza. 
+6 La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei commi 4 o 5, verrà fatta confluire, 
+salvo diversa scelta dell’aderente, nel comparto più prudente individuato dal Fondo e indicato nella Nota informativa. 
+L’aderente può successivamente variare il comparto nel rispetto del periodo minimo di permanenza. 
+7 Nel corso dell’erogazione della RITA l’aderente può richiederne la revoca; ciò comporta la cessazione dell’erogazione 
+delle rate residue.  
+8 Nel caso in cui non venga utilizzata l’intera posizione individuale a titolo di RITA, l’ aderente ha la facoltà di richiedere, 
+con riferimento alla sola porzione residua della posizione individuale, il riscatto e l’anticipazione di cui agli artt. 13 e 14, 
+ovvero, cessata l’erogazione della RITA parziale, la prestazione pensionistica. 
+9 In caso di trasferimento ad altra forma pensionistica la RITA si intende automaticamente revocata e viene trasferita 
+l’intera posizione individuale 
+10 L’aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di capitale nel limite del 
+50 per cento della posizione individuale maturata. Nel computo dell’importo complessivo erogabile in capitale sono 
+detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. Qualora l’importo che 
+si ottiene convertendo in rendita vitalizia immediata annua senza reversibilità a favore dell’aderente il 70 per cento 
+della posizione individuale maturata risulti inferiore al 50 per cento dell’assegno sociale di cui all’articolo 3, commi 6 e 
+7, della legge 8 agosto 1995, n. 335, l’aderente può optare per la liquidazione in capitale dell’intera posizione maturata. 
+11 L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 aprile 1993 ed 
+entro tale data iscritto a forme pensionistiche complementari istituite alla data di entrata in vigore della legge 23 
+ottobre 1992, n. 421, può richiedere la liquidazione dell’intera prestazione pensionistica complementare in capitale. 
+12 Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e pignorabilità in vigore per 
+le pensioni a carico degli istituti di previdenza obbligatoria. 
+13 L’aderente che abbia maturato il diritto alla prestazione pensionistica ed intenda esercitare tale diritto può trasferire la 
+propria posizione individuale presso altra forma pensionistica complementare, per avvalersi delle condizioni di 
+erogazione della rendita vitalizia praticate da quest’ultima. In tal caso si applica quanto previsto dall’art. 13, commi 6 e 
+7. 
+ 
+ 
+Art. 12 – Erogazione delle prestazioni pensionistiche 
+1 A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita vitalizia immediata 
+calcolata in base alla posizione individuale maturata, al netto della eventuale quota di prestazione da erogare sotto 
+forma di capitale. 
+2 L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di rendita vitalizia di seguito 
+indicate:  
+a) una rendita vitalizia reversibile: detta rendita è corrisposta all’aderente finché è in vita e successivamente, in 
+misura totale o per quota scelta dall’aderente stesso, alla persona da lui designata. 
+ 
+3 Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite vitalizie e i 
+coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo calcolo. Tali coefficienti 
+possono essere successivamente variati, nel rispetto della normativa tempo per tempo vigente in materia di stabilità 
+delle compagnie di assicurazione; in ogni caso, le modifiche dei coefficienti di trasformazione non si applicano ai
+=== pagina 10 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 9 di 22 
+soggetti, già aderenti alla data di introduzione delle modifiche stesse, che esercitano il diritto alla prestazione 
+pensionistica nei tre anni successivi. 
+4 Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, laddove vi sia 
+l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’ Allegato n. 2 e, negli altri casi, a 
+coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base alle proiezioni ufficiali disponibili 
+sull’andamento della mortalità della popolazione italiana. 
+5 In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale quota di prestazione erogata sotto 
+forma di capitale, l’erogazione della prestazione pensionistica in una delle seguenti forme: 
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della vita attesa residua 
+del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni obbligatorie.  
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con facoltà per lo stesso 
+di determinarne la tempistica e l’importo nel limite della somma delle rate, maturate e non riscosse, di una rendita 
+teorica con frazionamento annuale, immediatamente erogabile e di durata definita pari alla vita attesa residua, in 
+anni interi, dell’aderente al momento della richiesta della prestazione.  
+6 L’impresa di assicurazione  provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla rendita 
+vitalizia con tempestività e comunque non oltre il termine massimo di 6 mesi decorrente dalla ricezione della richiesta. 
+Nel caso in cui la domanda risulti incompleta o insufficiente, l’Impresa di assicurazione richiede gli elementi integrativi, 
+e il termine sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. Il montante 
+residuo è mantenuto in gestione, nel /i comparto/i scelto/i dall’aderente, all’atto della richiesta della prestazione o, in 
+difetto di indicazioni, nel/i comparto/i individuato/i nella Nota informativa. 
+6-bis. Al fine di adeguare i sistemi e i processi operativi del l’impresa di assicurazione per la gestione delle richieste e 
+l’erogazione diretta delle prestazioni, il termine di cui al comma 6 può essere derogato per un periodo transitorio, che 
+non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo l’Impresa di assicurazione acquisisce le richieste di 
+erogazione delle prestazioni. Successivamente all’avvenuto adeguamento dei suddetti sistemi e processi operativi, 
+l’Impresa di assicurazione procede tempestivamente alla liquidazione delle richieste di erogazione delle prestazioni 
+pervenute durante il periodo transitorio. 
+7 Le prestazioni di cui al comma 5 , lett. a) e b) non sono tra loro cumulabili e non possono essere revocate una volta 
+iniziata la liquidazione, salvo che il beneficiario opti per la conversione del montante residuo in una rendita vitalizia 
+immediata sulla base delle condizioni e dei criteri indicati nella Nota informativa, ovvero trasferisca il montante residuo 
+presso un’altra forma pensionistica all’unico fine di beneficiare delle condizioni di rendita vitalizia offerte da 
+quest’ultima. 
+8 L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5, lett. a) e b) è tenuto ad individuare i 
+soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante residuo. Tale scelta può essere 
+successivamente modificata dall’aderente. 
+9 Nel corso dell’erogazione delle prestazioni di cui al comma 5, lett. a) e b), l’aderente non può richiedere trasferimenti, 
+riscatti, anticipazioni o la RITA, ad eccezione della variazione del comparto, che può essere richiesta nel rispetto del 
+periodo minimo di partecipazione di cui all’art. 6, comma 2. 
+10 Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore contribuzione al Fondo, 
+salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la maturazione del TFR. 
+11 La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni pensionistiche di 
+cui al comma 5, lett. a) e b). 
+ 
+ 
+Art. 13 – Trasferimento e riscatto della posizione individuale 
+1 L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica complementare decorso un 
+periodo minimo di due anni di partecipazione al Fondo.  
+2 L’aderente, anche prima del periodo minimo di permanenza, può: 
+a) trasferire la propria posizione individuale maturata ad altra forma pensionistica complementare, alla quale 
+acceda in relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività lavorativa che 
+comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e non superiore a quarantotto 
+mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di mobilità, cassa integrazione 
+guadagni, ordinaria o straordinaria; 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la riduzione 
+della capacità di lavoro a meno di un terzo o a seguito di cessazione dell’attività lavorativa che comporti 
+l’inoccupazione per un periodo di tempo superiore a quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi dell’art.14, comma 5 del Decreto, ovvero trasferirla 
+ad altra forma pensionistica complementare, qualora vengano meno i requisiti di partecipazione. 
+3 Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di trasferimento e di riscatto 
+può proseguire la partecipazione al Fondo, anche in assenza di ulteriore contribuzione. Tale opzione trova automatica 
+applicazione in difetto di diversa scelta da parte dell’aderente. Nel caso in cui il valore della posizione individuale 
+maturata non sia superiore all’importo di una mensilità dell’assegno sociale di cui all’art. 3, comma 6, d ella Legge 8 
+agosto 1995, n. 335, l’Impresa di assicurazione informa l’aderente della facoltà di trasferire la propria posizione
+=== pagina 11 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 10 di 22 
+individuale ad altra forma pensionistica complementare, ovvero di chiedere il riscatto dell’intera posizione di cui al 
+comma 2, lettera d). 
+4 In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero nel corso 
+dell’erogazione della “Rendita integrativa temporanea anticipata” (RITA), la posizione individuale è riscattata dai 
+soggetti designati dallo stesso, siano essi persone fisiche o giuridiche, o in mancanza dagli eredi. In mancanza di tali 
+soggetti, la posizione individuale resta acquisita al Fondo. 
+5 Al di fuori dei suddetti casi, non sono previste altre forme di riscatto della posizione.  
+6 L’Impresa di assicurazione accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della posizione 
+con tempestività, e comunque entro il termine massimo di sei mesi decorrente dalla ricezione della richiesta. Nel caso 
+in cui la domanda risulti incompleta o insufficiente, l’Impresa di assicurazione richiede gli elementi integrativi e il 
+termine sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. 
+7 Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della partecipazione al Fondo. 
+ 
+ 
+Art. 14 – Anticipazioni 
+1 L’aderente può conseguire un’anticipazione della posizione individuale maturata, nei seguenti casi e misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie conseguenti a situazioni 
+gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi straordinari riconosciuti dalle competenti 
+strutture pubbliche;  
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 75 per 
+cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, per la realizzazione, sulla prima casa di 
+abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro e di risanamento conservativo, di 
+ristrutturazione edilizia, di cui alle lettere a), b), c), d) del comma 1 dell’art. 3 del decreto del Presidente della 
+Repubblica del 6 giugno 2001, n. 380; 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 30 per 
+cento, per la soddisfazione di ulteriori sue esigenze. 
+2 Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono riportate in 
+apposito documento. 
+3 Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento della posizione 
+individuale maturata, incrementata delle anticipazioni percepite e non reintegrate. 
+4 Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono considerati utili tutti 
+i periodi di partecipazione a forme pensionistiche complementari maturati dall’aderente, per i quali lo stesso non abbia 
+esercitato il diritto di riscatto totale della posizione individuale. 
+5 Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in qualsiasi momento. 
+6 Le anticipazioni di cui al comma 1 lettera a) sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e pignorabilità, 
+in vigore per le pensioni a carico degli istituti di previdenza obbligatoria. 
+7 L’Impresa di assicurazione provvede agli adempimenti conseguenti all’esercizio delle predette facoltà da parte 
+dell’aderente con tempestività e comunque non oltre il termine massimo di 6 mesi decorrente dalla ricezione della 
+richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, l’Impresa di assicurazione richiede gli elementi 
+integrativi, e il termine sopra indicato è sospeso fino alla data del completamento o della regolarizzazione della pratica. 
+ 
+ 
+ 
+Parte IV 
+Profili organizzativi 
+ 
+Art. 15 - Separatezza patrimoniale, amministrativa e contabile 
+1 Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato ed autonomo rispetto sia al patrimonio 
+dell’Impresa di assicurazione, sia a quello degli altri fondi gestiti, sia a quello degli aderenti. 
+2 Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non può essere 
+distratto da tale fine.  
+3 Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori dell’Impresa di assicurazione o di 
+rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di rappresentanti dei creditori stessi. Il 
+patrimonio del Fondo non può essere coinvolto nelle procedure concorsuali che riguardino l’Impresa di assicurazione. 
+4 L’Impresa di assicurazione é dotata di procedure atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere per conto del Fondo rispetto al complesso delle altre operazioni svolte dall’Impresa di 
+assicurazione e del patrimonio del Fondo rispetto a quello dell’Impresa di assicurazione e di suoi clienti. 
+5 Ferma restando la responsabilità dell’Impresa di assicurazione per l’operato del soggetto delegato, la gestione 
+amministrativa e contabile del Fondo può essere delegata a terzi.
+=== pagina 12 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 11 di 22 
+6 L’Impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere in riferimento a ciascun comparto.  
+7 Il patrimonio di ciascun comparto è suddiviso in quote, o in differenti classi di quote. 
+ 
+ 
+Art. 16 - Sistema di governo 
+1 L’Impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla complessità 
+delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4 -bis, 5 -bis, 5 -ter, 5 -quater, 5 -sexies, 5 -
+septies, 5-octies e 5-nonies del Decreto in coerenza con gli assetti organizzativi del rispettivo settore di riferimento.  
+ 
+ 
+Art. 17 - Depositario 
+1 Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei requisiti previsti 
+dalle vigenti disposizioni normative (di seguito “depositario”).  
+2 L’Impresa di assicurazione può revocare in ogni momento l’incarico al depositario, il quale può, a sua volta, rinunciare 
+con preavviso non inferiore ai sei mesi; in ogni caso, l’efficacia della revoca o della rinuncia è sospesa fino a che: 
+- L’Impresa di assicurazione non abbia stipulato un nuovo contratto con altro depositario, in possesso dei requisiti 
+di legge; 
+- il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario. 
+3 Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità dell’Impresa di 
+assicurazione per l’operato del soggetto delegato. 
+4 Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente. 
+5 Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità riscontrate nella 
+gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di cui sono venuti a conoscenza 
+nell’esercizio delle funzioni di depositario. 
+6 Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono ammesse azioni 
+dei creditori del depositario, del subdepositario o nell’interesse degli stessi. 
+ 
+ 
+Art. 18 – Responsabile 
+1 L’Impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’art. 5, comma 2 del Decreto. 
+2 Le disposizioni che regolano la nomina, le competenze, il regime di responsabilità del R esponsabile sono riportate 
+nell’Allegato n. 1. 
+ 
+ 
+Art. 19 - Conflitti di interesse 
+1 La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi della normativa 
+tempo per tempo vigente. 
+ 
+ 
+Art. 20 - Scritture contabili 
+1 La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle posizioni 
+individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP. 
+2 L’Impresa di assicurazione conferisce ad una società di revisione l’incarico di esprimere,  con apposita relazione, un 
+giudizio sul rendiconto del Fondo. 
+3 Il rendiconto del Fondo è pubblicato sul sito web dell’Impresa di assicurazione. 
+ 
+ 
+ 
+ 
+Parte V  
+Rapporti con gli aderenti 
+ 
+Art. 21 – Modalità di adesione e clausole risolutive espresse 
+1 L’adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. L’adesione è 
+preceduta dalla consegna della documentazione informativa prevista tempo per tempo dalla normativa vigente. 
+2 L’aderente è responsabile della completezza e veridicità delle informazioni fornite all’Impresa di assicurazione.
+=== pagina 13 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 12 di 22 
+3 Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera di conferma, 
+attestante la data di iscrizione e le informazioni relative all’eventuale versamento effettuato. 
+4 L’adesione al Fondo comporta l’integrale accettazione del Regolamento e dei relativi allegati, e delle successive 
+modifiche, fatto salvo quanto previsto in tema di trasferimento nell’art. 26. 
+5 La raccolta delle adesioni al Fondo può essere svolta all’interno della sede legale o delle dipendenze dell’Impresa di 
+assicurazione da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione dell’Impresa di assicurazione. Le 
+adesioni su base collettiva possono essere raccolte anche presso i luoghi indicati nella Nota informativa. 
+6 L’aderente può esercitare il diritto di recesso entro il termine di trenta giorni dalla data di sottoscrizione del modulo di 
+adesione. Per l’esercizio del diritto di recesso l’aderente deve inviare comunicazione scritta all’Impresa - con lettera 
+raccomandata indirizzata a: Zurich Investments Life S.p.A. -  Via Benigno Crespi, 23 -  20159 Milano oppure tramite 
+PEC all’indirizzo: previdenzacomplementare@pec.zurich.it. 
+Il recesso ha l’effetto di liberare l’aderente e l’Impresa da qualsiasi obbligazione derivante dal contratto. Entro trenta 
+giorni dal ricevimento della comunicazione di recesso, l’Impresa provvederà: i) in caso di valorizzazione del contributo, 
+al rimborso del controvalore delle quote (decurtato delle spese di adesione) alla prima data di disinvestimento utile; ii) 
+in caso di non valorizzazione del contributo, al rimborso del contributo versato. 
+In caso di adesione mediante sito web, l’Impresa di assicurazione deve acquisire il consenso espresso dell’aderente 
+all’utilizzo di tale strumento. L’aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza 
+costi di recesso e senza dover indicare il motivo dello stesso. Per l’esercizio di tale diritto, l’aderente invia una 
+comunicazione scritta all’impresa di assic urazione con modalità che garantiscono certezza della data di ricezione. 
+L’impresa di assicurazione, entro trenta giorni dal ricevimento della comunicazione, procede a rimborsare le somme 
+eventualmente pervenute, al netto delle spese di adesione, ove trattenute. L’impresa di assicurazione rende 
+previamente noti all’aderente il momento in cui l’adesione si intende conclusa, i termini, le modalità e i criteri di 
+determinazione delle somme oggetto di rimborso. 
+7 L’aderente è tenuto a effettuare il versamento della prima contribuzione entro sei mesi dall’adesione al Fondo. In caso 
+di inadempimento, l’Impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto 
+comunicando all’aderente la propria volontà di avvalersi della clausola risolutiva espressa, salvo che l’aderente non 
+provveda a effettuare un versamento entro sessanta giorni dalla ricezione della comunicazione. 
+8 Qualora nel corso della partecipazione al Fondo l’aderente interrompa il flusso contributivo con conseguente 
+azzeramento della posizione individuale anche a seguito dell’applicazione delle spese annuali di gestione 
+amministrativa, l’impresa di assicurazione ha facoltà, ai sensi dell’art. 1456 del Codice Civile, di risolvere il contratto 
+comunicando la propria volontà di avvalersi della clausola risolutiva es pressa, salvo che l’aderente non provveda a 
+effettuare un versamento entro sessanta giorni dalla ricezione della comunicazione. 
+ 
+ 
+Art. 22 – Trasparenza nei confronti degli aderenti e dei beneficiari 
+1 L’Impresa di assicurazione mette a disposizione degli aderenti la documentazione inerente al Fondo e tutte le altre 
+informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali documenti sono disponibili sul sito web 
+dell’Impresa di assicurazione, in un’apposita sezione dedicata alle forme pensionistiche complementari e presso la sede 
+legale dell’impresa di assicurazione. I documenti utilizzati in fase di adesione sono resi disponibili in formato cartaceo e 
+gratuitamente anche presso le sedi dei soggetti che effettuano l’attività di raccolta delle adesioni.  
+2 L’Impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni individuali maturate e 
+alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per tempo vigente. 
+ 
+ 
+Art. 23 – Comunicazioni e reclami 
+1 L’Impresa di assicurazione definisce le modalità con le quali gli aderenti e i beneficiari possono rappresentare le 
+proprie esigenze e presentare reclami in coerenza con le indicazioni fornite dalla COVIP, riportandole nella Nota 
+informativa. 
+ 
+ 
+ 
+Parte VI  
+Norme finali 
+ 
+Art. 24 – Modifiche del Regolamento 
+1 Il Regolamento può essere modificato secondo le procedure previste dalla COVIP. 
+2 L’Impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse degli aderenti 
+e fatto salvo quanto disposto dall’art. 26.
+=== pagina 14 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 13 di 22 
+ 
+Art. 25 – Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di 
+modifiche delle caratteristiche del Fondo 
+1 In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni economiche del 
+Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione individuale maturata ad altra forma 
+pensionistica complementare, anche prima che siano decorsi due anni dall’iscrizione. Il diritto di trasferimento è altresì 
+riconosciuto quando le modifiche interessano in modo sostanziale la caratterizzazione del Fondo, come può avvenire 
+in caso di variazione significativa delle politiche di investimento. 
+2 L’Impresa di assicurazione comunica a ogni aderente interessato l’introduzione delle modifiche almeno centoventi 
+giorni prima della relativa data di efficacia; dal momento della comunicazione l’aderente ha novanta giorni di tempo 
+per manifestare l’eventuale scelta di trasferimento. L’Impresa di assicurazione può chiedere alla COVIP termini ridotti 
+di efficacia nei casi in cui ciò sia utile al buon funzionamento del Fondo e non contrasti con l’interesse degli aderenti.  
+3 Per le operazioni di trasferimento di cui al presente articolo non sono previste spese. 
+ 
+ 
+Art. 26 – Cessione del Fondo 
+1 Qualora l’Impresa di assicurazione non voglia o non possa più esercitare l’attività di gestione del Fondo, questo viene 
+ceduto ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione del Fondo a società diverse da quelle 
+del Gruppo al quale appartiene l’Impresa di assicurazione viene riconosciuto agli aderenti il diritto al trasferimento della 
+posizione presso altra forma pensionistica complementare ai sensi dell’art. 26 e con le modalità ivi previste. 
+ 
+ 
+Art. 27 - Operazioni di fusione  
+1 Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fusione con un altro 
+fondo gestito dalla medesima impresa di assicurazione, il diritto al trasferimento della posizione presso altra forma 
+pensionistica complementare viene riconosciuto qualora ricorrano le condizioni di cui all’art. 26 e con le modalità ivi 
+previste.  
+ 
+ 
+Art. 28 – Rinvio 
+1 Per tutto quanto non espressamente previsto nel presente Regolamento si fa rinvio alla normativa  tempo per tempo 
+vigente.
+=== pagina 15 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 14 di 22 
+Allegato n. 1 
+Disposizioni in materia di Responsabile 
+ 
+ 
+Art. 1 – Nomina e cessazione dall’incarico 
+1 La nomina del Responsabile spetta all’organo di amministrazione dell’Impresa di assicurazione che esercita l’attività 
+del Fondo . L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non più di una volta 
+consecutivamente.  
+2 La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene nominato il nuovo 
+Responsabile.  
+3 Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di controllo dell’Impresa di 
+assicurazione. 
+4 Le nomine, gli eventuali rinnovi dell’incarico, le sostituzioni del Responsabile prima della scadenza del termine 
+vengono comunicati alla COVIP entro 15 giorni dalla deliberazione. 
+ 
+ 
+Art. 2 – Requisiti e incompatibilità 
+1 I requisiti per l’assunzione dell’incarico di Responsabile sono previsti dalla normativa tempo per tempo vigente. 
+2 L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa presso l’Impresa di 
+assicurazione o società da questa controllate o che la controllano; 
+b) l’incarico di amministratore dell’Impresa di assicurazione. 
+ 
+ 
+Art. 3 – Decadenza 
+1 La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incompatibilità comporta la 
+decadenza dall’incarico. 
+ 
+ 
+Art. 4 – Retribuzione 
+1 La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’atto della nomina per l’intero 
+periodo di durata dell’incarico  e viene definita sulla base di una sana politica di remunerazione che tenga conto dei 
+principi previsti dalla normativa tempo per tempo vigente, fermo restando che il compenso del Responsabile non può 
+essere pattuito sotto forma di partecipazione agli utili dell’Impresa di assicurazione , o di società controllanti o 
+controllate, né sotto forma di diritti di acquisto o di sottoscrizione di azioni dell’Impresa di assicurazione o di società 
+controllanti o controllate. 
+2 Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a carico del Fondo, 
+salva diversa decisione dell’Impresa di assicurazione. 
+ 
+ 
+Art. 5 – Autonomia del Responsabile 
+1 Il Responsabile svolge la propria attività in modo autonomo e indipendente dall’Impresa di assicurazione, riportando 
+direttamente all’organo di amministrazione della stessa relativamente ai risultati dell’attività svolta.  
+2 A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative dell’Impresa di assicurazione, di 
+volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri di cui all’art.6. L’Impresa di 
+assicurazione gli garantisce l’accesso a tutte le informazioni necessarie allo scopo. 
+3 Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo dell’Impresa di assicurazione, 
+per tutte le materie inerenti al Fondo. 
+ 
+Art. 6 – Doveri del Responsabile 
+1 Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei beneficiari e 
+vigila sull’osservanza della normativa e del Regolamento nonché sul rispetto delle buone pratiche e dei principi di 
+corretta amministrazione del Fondo. 
+2 Il Responsabile, avvalendosi delle procedure definite dall’Impresa di assicurazione, organizza lo svolgimento delle sue 
+funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe di gestione, con 
+riferimento ai controlli su:
+=== pagina 16 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 15 di 22 
+i) la politica di investimento. In particolare: che la politica di investimento effettivamente seguita sia coerente 
+con quella indicata nel Regolamento e nel Documento sulla politica di investimento e che gli investimenti, ivi 
+compresi quelli effettuati in OICR, avvengano nell’esclusivo interesse degli aderenti, nel rispetto dei principi 
+di sana e prudente gestione nonché nel rispetto dei criteri e limiti previsti dalla normativa tempo per tempo 
+vigente e dal Regolamento; 
+ii) la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investimenti effettuati siano 
+correttamente identificati, misurati e controllati e che siano coerenti con gli obiettivi perseguiti dalla politica 
+di investimento; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di deleghe di gestione, 
+con riferimento ai controlli su: 
+i) la separatezza amministrativa e contabile delle operazioni poste in essere per conto del Fondo rispetto al 
+complesso delle altre operazioni svolte dall’Impresa di assicurazione e del patrimonio del Fondo rispetto a 
+quello dell’Impresa di assicurazione e di suoi clienti; 
+ii) la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei beneficiari con riferimento ai controlli 
+su: 
+i) l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli aderenti  e dei 
+beneficiari, sia al momento del collocamento del Fondo che durante il rapporto; 
+ii) gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei beneficiari previste dal 
+Regolamento e le eventuali commissioni correlate ai risultati di gestione siano correttamente applicate; 
+iii) la completezza ed esaustività delle informazioni contenute nelle comunicazioni periodiche agli aderenti e ai 
+beneficiari e in quelle inviate in occasione di eventi particolari; 
+iv) l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento riservato ai singoli reclami;  
+v) la tempestività e la correttezza dell’erogazione delle prestazioni , in particolare con riferimento ai tempi di 
+liquidazione delle somme richieste a titolo di anticipazione o riscatto e di trasferimento della posizione 
+individuale. 
+3 Il Responsabile controlla le soluzioni adottate dall’Impresa di assicurazione per identificare le situazioni di conflitti di 
+interesse e per evitare che le stesse arrechino pregiudizio agli aderenti e ai beneficiari; egli controlla altresì la corretta 
+esecuzione del contratto stipulato per il conferimento dell’incarico di depositario, nonché il rispetto delle convenzioni 
+assicurative/condizioni per l’erogazione delle rendite e, ove presenti, delle convenzioni/condizioni relative alle 
+prestazioni accessorie. 
+4 Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva comunicazione all’organo 
+di amministrazione e a quello di controllo dell’Impresa di assicurazione indicando gli interventi correttivi da adottare. 
+ 
+ 
+Art. 7 – Rapporti con la COVIP 
+1 Il Responsabile: 
+a) predispone annualmente una relazione che descrive in maniera analitica l’organizzazione adottata per 
+l’adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale per l’esecuzione 
+dell’incarico, dei risultati dell’attività s volta, delle eventuali irregolarità riscontrate durante l’anno e delle iniziative 
+poste in essere per eliminarle. La relazione viene trasmessa alla COVIP entro il 31 marzo di ciascun anno. Copia 
+della relazione stessa viene trasmessa all’organo di amministrazione e a quello di controllo dell’Impresa di 
+assicurazione; 
+b) vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa le segnalazioni, la 
+documentazione e le relazioni richieste dalla normativa tempo per tempo vigente e dalle istruzioni emanate in 
+proposito; 
+c) comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione e a quello di controllo 
+dell’Impresa di assicurazione, le irregolarità riscontrate nell’esercizio delle sue funzioni. 
+ 
+ 
+Art. 8 – Responsabilità 
+1 Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura dell’incarico e 
+dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti di cui ha conoscenza in ragione 
+del suo ufficio, tranne che nei confronti della COVIP e delle autorità giudiziarie.  
+2 Egli risponde verso l’Impresa di assicurazione e verso i singoli aderenti e beneficiari del Fondo dei danni a ciascuno 
+arrecati e derivanti dall’inosservanza di tali doveri. 
+3 All’azione di responsabilità si applicano, in quanto compatibili, gli artt.  2391, 2392, 2393, 2394, 2394-bis, 2395 del 
+Codice Civile.
+=== pagina 17 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 16 di 22 
+Allegato n. 2 
+Condizioni e modalità di erogazione delle 
+rendite 
+ 
+ 
+Art. 1 - Prestazioni assicurate 
+1 A seguito dell’esercizio del diritto alla prestazione pensionistica, l’Impresa di assicurazione si impegna a corrispondere 
+al titolare della prestazione pensionistica di “ZED OMNIFUND fondo pensione aperto” (di seguito indicato come 
+Aderente/Assicurato) una rendita immediata vitalizia annua rivalutabile, pagabile a sua scelta in rate mensili, trimestrali, 
+semestrali o annuali posticipate. 
+2 In alternativa alla rendita vitalizia, ai sensi dell’art. 12 del Regolamento, l’Aderente/Assicurato può richiedere l’erogazione 
+delle prestazioni in una delle tipologie di rendita di seguito indicate: 
+- una rendita vitalizia reversibile: detta rendita è corrisposta all’Aderente/Assicurato finché è in vita e 
+successivamente, in misura totale o per quota scelta dall’Aderente/Assicurato stesso, alla persona da lui designata 
+(di seguito indicata come Reversionario) finché è in vita. 
+3 Ad ogni anniversario della data di decorrenza della rendita, la rendita stessa verrà rivalutata nella misura e secondo le 
+modalità contenute nel successivo Art. 5. 
+4 In caso di decesso dell'Aderente/Assicurato e/o del Reversionario, il contratto si estingue. 
+ 
+ 
+Art. 2 - Premio 
+1 A seguito dell’esercizio del diritto alla prestazione pensionistica, il valore della posizione individuale maturato, 
+eventualmente integrato dalla relativa garanzia di risultato, al netto della eventuale quota di prestazione da erogare 
+sotto forma di capitale e delle imposte di assicurazione, costituisce il premio unico che l’Impresa di assicurazione 
+utilizza per garantire le prestazioni di cui al precedente Art. 1. 
+2 I coefficienti di conversione del premio unico in rendita sono indicati nelle tabelle di seguito riportate. Tali coefficienti 
+possono essere variati, con le modalità indicate all’art. 12 del Regolamento. 
+3 La rata di rendita assicurata si ottiene moltiplicando il premio unico per il coefficiente di conversione in rendita relativo 
+all'età dell’Aderente/Assicurato arrotondata all'intero più prossimo (eventualmente corretta in base alle indicazioni 
+riportate in testa alla tabella successivamente riportata) ed alla rateazione della rendita prescelta, e dividendo il 
+risultato così ottenuto per 1000 e quindi per il numero di rate di rendita per anno. 
+ 
+ 
+Art. 3 - Costo per il pagamento della rendita vitalizia 
+Il costo per la gestione ed il pagamento della rendita è rappresentato da: 
+- un costo dell’1,25% già ricompreso nei coefficienti di conversione di cui al precedente Art. 2;  
+- un costo in cifra fissa di 2,50 Euro prelevato da ciascuna rata di rendita pagata; 
+- una spesa di gestione pari a 0,75% prelevata dal rendimento annuo della gestione separata “Zurich Trend” come 
+indicato al successivo Art. 5. 
+ 
+ 
+Art. 4 - Dichiarazione relative alle circostanze del rischio 
+L’inesatta dichiarazione dell’età dell’Aderente/Assicurato o dell’eventuale Reversionario comporta in ogni caso la rettifica, 
+in base all’età reale, delle somme dovute. 
+ 
+ 
+Art. 5 - Modalità e misura per la rivalutazione annuale della rendita 
+1 Gli investimenti relativi agli impegni assunti con il presente contratto confluiscono in una specifica gestione delle 
+attività – denominata “Zurich Trend” – disciplinata dal relativo Regolamento, che costituisce parte integrante delle 
+presenti condizioni. 
+2 L’Impresa di Assicurazione, entro il mese di dicembre di ciascun anno, determina il rendimento annuo realizzato dalla 
+gestione separata “Zurich Trend” nel periodo di osservazione. Per periodo di osservazione si intende il periodo di 12 
+mesi che si è concluso al 30 settembre precedente (periodo di osservazione 1/10 -30/09). La misura di rivalutazione 
+è pari al rendimento realizzato nel periodo di osservazione sopra indicato, al netto delle spese di gestione pari a 0,75%. 
+La misura di rivalutazione non potrà in ogni caso essere negativa.
+=== pagina 18 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 17 di 22 
+3 Ad ogni anniversario della data di decorrenza, la rendita assicurata, comprensiva di eventuali precedenti rivalutazioni, 
+viene incrementata della misura di rivalutazione indicata al comma 2. 
+ 
+ 
+Art. 6 - Riscatto 
+La presente forma assicurativa non contempla valore di riscatto. 
+ 
+ 
+Art. 7 - Pagamento della rendita 
+1 Ogni pagamento viene effettuato direttamente dall’Impresa di assicurazione all’Aderente/Assicurato o all’eventuale 
+Reversionario. 
+2 Il pagamento della rendita annua, secondo la rateazione prescelta ai sensi del precedente Art. 1, è comunque 
+subordinato alla esistenza in vita dell’Aderente/Assicurato o dell’eventuale Reversionario sopravvivente designato, 
+da comprovare una volta all’ann o (alla ricorrenza anniversaria della rendita) previa consegna all’Impresa di 
+assicurazione di idonea documentazione. 
+3 L’Impresa di assicurazione effettua il pagamento della rendita entro quindici giorni dalla data di scadenza della rata 
+oppure, se successiva, dalla data di ricevimento della documentazione di cui al precedente comma 2. Decorso tale 
+termine, sono dovuti gli interessi moratori, a partire dalla data di scadenza della rata oppure, se successiva, dalla data 
+di ricevimento della documentazione. 
+4 Nel caso in cui l’Aderente/Assicurato avesse optato per la forma di rendita reversibile, nel caso in cui si verifichi il 
+decesso dell’Aderente/assicurato, l’Impresa di assicurazione liquiderà la rendita al Reversionario sopravvivente entro 
+30 giorni dal ricevimento della seguente documentazione: 
+- certificato di morte dell’Aderente/Assicurato; 
+- documento di identità e codice fiscale del Reversionario. 
+ 
+ 
+Art. 8 - Rinvio alle norme di legge 
+Per tutto quanto non è regolato dal presente contratto, si fa riferimento alla normativa tempo per tempo vigente. 
+ 
+ 
+Art. 9 - Tasse e imposte 
+Tasse e imposte relative al contratto sono a carico dell’Aderente/Assicurato o del Reversionario.
+=== pagina 19 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 18 di 22 
+Regolamento della gestione separata “Zurich Trend” 
+ 
+La gestione separata “ Zurich Trend” è un portafoglio di investimenti gestito separatamente dagli altri attivi detenuti dalla Società, in 
+funzione del cui rendimento si rivalutano le prestazioni dei contratti ad esso collegati. 
+La valuta di denominazione è espressa in Euro.  
+Il rendimento annuo della gestione separata Zurich Trend viene calcolato al termine di ciascun mese solare, con riferimento al periodo 
+di osservazione costituito dal mese stesso e dagli undici mesi consecutivi precedenti e si ottiene rapportando il risulta to finanziario 
+della gestione separata al valore medio dello stesso nel periodo medesimo. 
+Ai fini della certificazione si fa riferimento all’esercizio annuale che va dal 1 ° ottobre al 30 settembre dell’anno successivo. Alla chiusura 
+dell’esercizio annuale vengono certificati anche i rendimenti annuali calcolati mensilmente al termine di ciascun periodo di 
+osservazione. 
+Obiettivo della Società è perseguire politiche di gestione e di investimento atte a garantire nel tempo un’equa partecipazion e degli 
+assicurati ai risultati finanziari della gestione separata Zurich Trend. 
+Le politiche di investimento della gestione separata Zurich Trend possono essere schematizzate come segue. 
+La componente prevalente degli investimenti è composta dalle obbligazioni, che possono essere sia a tasso fisso che a tasso variabile. 
+La quota parte degli investimenti nel comparto obbligazionario è normalmente compresa tra l’80% ed il 100%, fatti salvi brevi 
+sconfinamenti rispetto a tale intervallo dovuti ad oscillazioni di mercato. 
+All’interno del comparto obbligazionario prevalgono gli investimenti in titoli di Stato denominati in Euro emessi o garantiti da Stati 
+appartenenti all’OCSE o da Enti pubblici o da Organizzazioni internazionali. La quota parte di tale tipologia di titoli è di norma superiore 
+al 50% del totale degli investimenti obbligazionari. 
+In aggiunta ai titoli di Stato di cui sopra e per maggiore diversificazione, gli investimenti possono essere effettuati anche  tramite 
+obbligazioni emesse da società o enti creditizi, sempre denominati in Euro; questa componente ha di norma un peso in porta foglio 
+inferiore al 50% del totale degli investimenti obbligazionari. Fanno parte di questa componente sia i titoli di debito quotat i sui mercati, 
+sia i titoli di debito non quotati, compresi, in misura minoritaria, investimenti in strumenti di debito illiquidi, personalizzati e caratterizzati 
+da rischio di credito (ad esempio, finanziamenti di infrastrutture, imprese pubbliche e/o private, operazioni di sviluppo immobiliare, ecc.). 
+Le decisioni di investimento e/o disinvestimento vengono prese in accordo a quanto definito nella strategia della  compagnia. Dette 
+decisioni escludono meccanismi automatici di impiego e/o disimpiego degli attivi a fronte di eventi esterni di mercato (ad es empio, 
+cambiamento di ratings). 
+Una componente minoritaria degli investimenti è composta da titoli azionari, tipicamente azioni quotate sui Mercati Regolamentati 
+Europei e, residualmente, anche su altri mercati. Non è consentito superare il limite del 15%nell’allocazione del comparto azionario, fatti 
+salvi brevi sconfinamenti dovuti a oscillazioni di mercato. 
+Possono essere effettuati investimenti in azioni sia con grossa capitalizzazione, sia con capitalizzazione medio - piccola. Data la diversa 
+natura dell’investimento azionario rispetto a quello obbligazionario (capitale di rischio rispetto ad un prestito), non sono effettuate 
+considerazioni sul rating in sede di scelta delle azioni. 
+Gli investimenti sono solitamente effettuati tramite singoli titoli, ma non si escludono investimenti in Organismi di Investimento 
+Collettivo del Risparmio (OICR) o Organismi di Investimento Collettivi in Valori Mobiliari (OICVM), compresi gli Exchange Traded Fund 
+(ETF) quotati sui mercati europei. Fanno parte della categoria OICR anche i cosiddetti fondi di investimento alternativi (OICR alternativi). 
+Eventuali esposizioni in questi strumenti finanziari vanno ricomprese, secondo la loro natura, nei limiti quantitativi già esposti sopra per 
+le azioni e le obbligazioni.  
+Possono essere effettuati investimenti nel settore immobiliare, anche tramite esposizioni indirette (ad esempio, quote di fondi 
+immobiliari o partecipazioni in società immobiliari), con limite massimo del 15%. 
+La valuta di denominazione di tutti gli investimenti di cui sopra è l’Euro; è possibile effettuare sporadici investimenti denominati in valute 
+diverse dall’Euro con un limite massimo dell’1%. 
+Occasionalmente possono essere mantenute disponibilità liquide sulla gestione separata. 
+Si riepilogano di seguito, in forma schematica, i limiti di investimento per classi di attivo:  
+ 
+ Limite minimo Limite massimo 
+Obbligazioni 80% 100% 
+Azioni 0% 15% 
+Immobiliare 0% 15% 
+ 
+Tenuto conto dei limiti di investimento sopra esposti, se ne desume che la generazione del rendimento della gestione separata Zurich 
+Trend è in larga parte attribuibile ad una efficiente ripartizione degli investimenti obbligazionari per diverse scadenze c oerentemente 
+con le caratteristiche dell’insieme delle polizze collegate alla gestione. La componente azionaria contribuisce anch’essa all a 
+generazione del rendimento principalmente grazie all’ammontare dei dividendi percepiti dalle azioni. 
+ 
+Non sono posti in essere investimenti in strumenti [finanziari o altri attivi] emessi [o gestiti] da controparti correlate di cui all’articolo 5 
+del Regolamento IVASS n. 30 del 26 ottobre 2016. Eventuali operazioni con controparti correlate sono effettuate  sempre che siano 
+nell’interesse degli assicurati e/o aderenti, nel rispetto dei principi di sana e prudente gestione, a condizioni di mercato e, in ogni caso, 
+in ottemperanza alle disposizioni del Regolamento IVASS n. 30/2016 e ss.mm.ii e della normativa,  anche interna, tempo per tempo 
+applicabile.  
+ 
+Alcune esposizioni tramite strumenti finanziari derivati sono assunte in modo indiretto attraverso alcune obbligazioni a tass o variabile 
+(ad esempio, cap e/o floor sulle cedole variabili) o tramite meccanismi che prevedano il rimborso anticipato del capita le (obbligazioni 
+callable) o per il tramite di OICR, OICVM o comunque fondi di investimento nel senso più ampio del termine (compresi, ad esempio, gli 
+ETF, i fondi immobiliari o i fondi alternativi) detenuti nel portafoglio della gestione separata, che possono sottoscrivere strumenti derivati 
+secondo quanto previsto dalla normativa di riferimento. Eventuali impieghi diretti in strumenti finanziari derivati potrebber o essere
+=== pagina 20 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 19 di 22 
+assunti con finalità di copertura dei rischi finanziari al fine di migliorare il profilo di rischio della gestione stessa, ne l rispetto dei limiti 
+normativi di volta in volta applicabili.  
+A “Zurich Trend” non è dedicato un segmento di clientela definito. Il valore delle attività gestite da Zurich Trend non potrà essere 
+inferiore all’importo delle Riserve Matematiche costituite per i contratti a prestazioni rivalutabili in base ai rendimenti r ealizzati dalla 
+gestione stessa. Sono possibili eventuali modifiche al presente Regolamento derivanti dall’adeguamento dello stesso alla norm ativa 
+primaria e secondaria vigente oppure a fronte di mutati criteri gestionali con esclusione, in tale ultimo caso, di quelle m eno favorevoli 
+per l’assicurato.  
+ 
+Sulla gestione separata Zurich Trend potranno gravare unicamente i seguenti costi: 
+1) spese relative all’attività di verifica contabile effettuata dalla società di revisione; 
+2) spese effettivamente sostenute per l’acquisto e la vendita delle attività della gestione separata. 
+Non sono consentite altre forme di prelievo in qualsiasi modo effettuate. 
+ 
+Il rendimento della gestione separata beneficia di eventuali utili derivanti dalla retrocessione di commissioni o di altri pr oventi ricevuti 
+dalla società in virtù di accordi con soggetti terzi e riconducibili al patrimonio della gestione. 
+Il tasso medio di rendimento della gestione separata, relativo al periodo di osservazione specificato nel regolamento, è dete rminato 
+rapportando il risultato finanziario della gestione separata alla giacenza media delle attività della gestione stessa. 
+La giacenza media nel periodo di osservazione degli investimenti e delle altre attività è determinata in base al valore di is crizione nel 
+libro mastro della gestione separata. A Zurich Trend sono attribuiti, con il criterio della competenza, gli interessi maturati sui titoli dal 
+momento della loro immissione. Possono essere reinvestiti al momento dell'incasso mediante acquisto di titoli, versamenti sul  c/c 
+bancario o altre attività fruttifere. Lo stesso vale per le plusvalenze realizzate in seguito al rimbo rso per estrazione, per fine prestito o 
+realizzo. A Zurich Trend è imputata la parte di capitale più il rateo di cedola maturato o pagato al momento dell’acquisto. I  titoli quotati 
+sono immessi in Zurich Trend al valore di acquisto, se comperati in pari da ta, o al valore di mercato desunto dal Listino ufficiale o di 
+chiusura dei Mercati regolamentati di riferimento secondo quanto riportato dai quotidiani economici, dai siti Internet ufficiali dei Mercati 
+stessi o dai circuiti internazionali di informazioni finanziarie (ad esempio Bloomberg o Reuters), se già posseduti dalla Società. 
+I titoli non quotati sono immessi in Zurich Trend al valore comunicato da Istituti Bancari o da primarie SIM o comunque da professionisti 
+terzi esperti di valutazione. I titoli sono scaricati da Zurich Trend in seguito a realizzo, rimborso anticipato o per  naturale scadenza. Le 
+negoziazioni dei titoli sul mercato sono effettuate nel rispetto di quanto prescritto dalla regolamentazione di settore denominata MIFID.  
+Il rendiconto riepilogativo della gestione separata ed il prospetto della composizione delle attività della gestione separata  sono 
+certificati da una società di revisione iscritta nell’apposito registro di cui all’art. 161 del Decreto Legislativo 58/98; la società di revisione 
+attesta, inoltre, l’adeguatezza dell’ammontare delle attività a fronte degli impegni assunti dalla Società (Riserve Matematiche). 
+La gestione separata potrà essere oggetto di scissione o di fusione con altre gestioni separate istituite e gestite dalla Soc ietà 
+esclusivamente quando tali operazioni siano volte a conseguire l’interesse dei contraenti. In particolare, la fusione o la sc issione 
+potranno essere attuate quando ricorrano congiuntamente le seguenti condizioni: 
+• l’operazione persegua l’interesse dei contraenti coinvolti; 
+• le caratteristiche delle gestioni separate oggetto dell’operazione siano similari; 
+• le politiche di investimento delle gestioni separate oggetto dell’operazione siano omogenee; 
+• il passaggio dalla precedente gestione separata alla nuova avvenga senza oneri e spese per i contraenti; 
+• non si verifichino soluzioni di continuità nella gestione della gestione separata. 
+La Società si impegna ad informare i contraenti sugli aspetti connessi alla scissione o alla fusione. 
+ 
+Il regolamento è parte integrante delle condizioni contrattuali
+=== pagina 21 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 20 di 22 
+Modalità di determinazione della rendita vitalizia immediata pagabile in rate posticipate finché 
+l’Aderente/Assicurato è in vita 
+ 
+Il procedimento per il calcolo della rendita vitalizia è il seguente: 
+ 
+1. All’età a scadenza (età pensionabile) dell’Aderente/Assicurato deve essere aggiunto o sottratto un prefissato numero di anni, che 
+dipende dall’anno di nascita dell’Aderente/Assicurato, come indicato nella seguente tabella: 
+ 
+ 
+Anno di nascita correttivo età  Anno di nascita correttivo età 
+Fino al 1907 +7  Dal 1958 al 1966 0 
+Dal 1908 al 1917 +6  Dal 1967 al 1977 -1 
+Dal 1918 al 1921 +5  Dal 1978 al 1989 -2 
+Dal 1922 al 1927 +4  Dal 1990 al 2001 -3 
+Dal 1928 al 1938 +3  Dal 2002 al 2014 -4 
+Dal 1939 al 1947 +2  Dal 2015 al 2020 -5 
+Dal 1948 al 1957 +1  Dal 2021 in poi -6 
+ 
+ 
+ 
+2. Fissata l’età di riferimento occorre individuare nelle tabelle che seguono il coefficiente di conversione corrispondente alla  
+rateazione della rendita. 
+ 
+3. La rendita annua, pagabile in base alla rateazione prescelta, si ottiene, infine, moltiplicando il capitale maturato a scaden za per il 
+coefficiente di opzione individuato e dividendo il risultato per 1.000. 
+ 
+ 
+Coefficienti per la determinazione della rendita annua vitalizia in rate posticipate 
+ 
+Età di riferimento Annuale Semestrale Trimestrale Mensile Età di riferimento 
+55 28,58 28,37 28,27 28,20 55 
+56 29,38 29,16 29,05 28,98 56 
+57 30,22 29,99 29,88 29,80 57 
+58 31,11 30,87 30,75 30,67 58 
+59 32,06 31,80 31,67 31,59 59 
+60 33,06 32,79 32,65 32,56 60 
+61 34,13 33,83 33,69 33,59 61 
+62 35,26 34,95 34,79 34,69 62 
+63 36,46 36,13 35,96 35,85 63 
+64 37,74 37,39 37,21 37,09 64 
+65 39,11 38,73 38,54 38,42 65 
+66 40,58 40,17 39,97 39,83 66 
+67 42,16 41,72 41,50 41,35 67 
+68 43,86 43,38 43,14 42,99 68 
+69 45,70 45,18 44,92 44,75 69 
+70 47,68 47,11 46,84 46,65 70 
+71 49,83 49,21 48,91 48,71 71 
+72 52,17 51,49 51,16 50,94 72 
+73 54,71 53,96 53,60 53,36 73 
+74 57,48 56,66 56,25 55,99 74 
+75 60,50 59,59 59,14 58,85 75 
+76 63,81 62,80 62,30 61,98 76 
+77 67,44 66,31 65,76 65,39 77 
+78 71,43 70,16 69,54 69,14 78 
+79 75,81 74,38 73,69 73,23 79 
+80 80,61 79,00 78,22 77,71 80
+=== pagina 22 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 21 di 22 
+Coefficienti per la determinazione della rendita reversibile 
+ 
+Di seguito vengono riportati a titolo d’esempio i tassi di premio da applicare nel caso di reversibilità al 60% e al 100%, pe r un 
+Aderente/Assicurato (testa primaria) rappresentata da un sessantasettenne.  
+ 
+ 
+- Età testa primaria (Aderente/Assicurato): 67 anni 
+- % Reversibilità: 100% 
+ 
+ 
+Età Reversionario Annuale Semestrale Trimestrale Mensile Età Reversionario 
+55 27,45 27,26 27,17 27,10 55 
+56 28,07 27,87 27,77 27,71 56 
+57 28,70 28,49 28,39 28,32 57 
+58 29,34 29,13 29,02 28,95 58 
+59 30,00 29,77 29,66 29,58 59 
+60 30,65 30,42 30,30 30,22 60 
+61 31,32 31,07 30,95 30,87 61 
+62 31,98 31,72 31,59 31,51 62 
+63 32,64 32,37 32,24 32,15 63 
+64 33,29 33,01 32,87 32,78 64 
+65 33,93 33,64 33,50 33,41 65 
+66 34,56 34,26 34,11 34,02 66 
+67 35,18 34,86 34,71 34,61 67 
+68 35,77 35,45 35,29 35,19 68 
+69 36,34 36,01 35,85 35,74 69 
+70 36,89 36,54 36,38 36,27 70 
+71 37,40 37,05 36,88 36,76 71 
+72 37,89 37,53 37,35 37,24 72 
+73 38,35 37,98 37,80 37,68 73 
+74 38,77 38,39 38,21 38,08 74 
+75 39,16 38,77 38,58 38,46 75 
+76 39,51 39,12 38,93 38,80 76 
+77 39,84 39,44 39,25 39,12 77 
+78 40,13 39,73 39,53 39,40 78 
+79 40,39 39,99 39,78 39,65 79 
+80 40,63 40,21 40,01 39,88 80
+=== pagina 23 ===
+ZED Omnifund 
+Regolamento 
+ 
+100/4 ZIL.09.26 Pag. 22 di 22 
+ 
+- Età testa primaria (Aderente/Assicurato): 67 anni 
+- % Reversibilità: 60% 
+ 
+Età Reversionario Annuale Semestrale Trimestrale Mensile Età Reversionario 
+55 31,90 31,65 31,52 31,44 55 
+56 32,40 32,14 32,01 31,92 56 
+57 32,90 32,63 32,50 32,41 57 
+58 33,41 33,13 32,99 32,90 58 
+59 33,91 33,62 33,48 33,38 59 
+60 34,41 34,11 33,97 33,87 60 
+61 34,91 34,60 34,45 34,35 61 
+62 35,40 35,08 34,93 34,83 62 
+63 35,88 35,56 35,40 35,29 63 
+64 36,35 36,02 35,85 35,75 64 
+65 36,81 36,47 36,30 36,19 65 
+66 37,25 36,90 36,73 36,61 66 
+67 37,67 37,32 37,14 37,03 67 
+68 38,08 37,72 37,54 37,42 68 
+69 38,46 38,09 37,91 37,79 69 
+70 38,83 38,45 38,27 38,14 70 
+71 39,17 38,79 38,60 38,47 71 
+72 39,49 39,10 38,91 38,78 72 
+73 39,79 39,39 39,19 39,06 73 
+74 40,06 39,66 39,46 39,33 74 
+75 40,31 39,90 39,70 39,57 75 
+76 40,53 40,12 39,92 39,78 76 
+77 40,74 40,32 40,12 39,98 77 
+78 40,92 40,50 40,29 40,16 78 
+79 41,08 40,66 40,45 40,31 79 
+80 41,23 40,80 40,59 40,45 80
+=== pagina 24 ===
+Zurich Investments Life S.p.A. 
+Società a socio unico soggetta all’attività di direzione e coordinamento 
+di Zurich Insurance Company Ltd - Rappresentanza Generale per l’Italia 
+Sede e Direzione: Via Benigno Crespi, 23 - 20159 Milano 
+Tel. +39.0259661  
+Capitale sociale € 207.925.480 i.v. - Iscritta all’Albo Imprese IVASS il 3.1.08 al n. 1.00027 
+Società appartenente al Gruppo Zurich Italia, iscritto all’Albo Gruppi IVASS il 28.5.08 al n. 2 
+C.F./R.I. Milano 02655990584, P.IVA 08921640150 
+Imp. aut. con D.M. del 7.11.1953 (G.U. 3.2.1954 n. 27) 
+Indirizzo PEC: zurich.investments.life@pec.zurich.it - www.zurich.it 
+ 
+09.2026 – 100/4 ZIL

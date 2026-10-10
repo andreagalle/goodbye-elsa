@@ -1,0 +1,960 @@
+# Fondo: CORE PENSION FONDO PENSIONE APERTO (core-pension)
+# Documento: Documento sulla politica di investimento – 2026-03-04 Documento sulla politica di investimento
+# Fonte: https://www.corepension.it/files/nuxeo/dl/0bf71b01-71cc-4fcc-8e87-a28b5776a46e?inline=
+# Citato in: https://www.corepension.it/politica-di-impegno-e-documento-sulla-politica-di-investimento
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: b49cf936e9612fc3742d8156b25a1b6864d904e9b5e918057a1490f85b376f5b
+# Pagine: 18
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Core Pension Fondo Pensione Aperto a contribuzione definita 
+(iscritto al n. 169 dell’Albo tenuto dalla Commissione di Vigilanza sui Fondi Pensione) 
+ 
+ 
+ 
+ 
+ 
+ 
+Documento sulla politica di investimento 
+Validità: dal 4 marzo 2026 
+ 
+Documento redatto da Amundi SGR secondo le indicazioni contenute nella Delibera Covip del 
+16 marzo 2012 e a disposizione degli aderenti che ne facciano richiesta al seguente recapito: 
+Amundi SGR S.p.A. – via Cernaia, 8/10 – 20121 Milano 
+ 
+ 
+ 
+Testo approvato dal Consiglio di Amministrazione con deliberazione del 28 maggio 2025
+=== pagina 2 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 2 di 18 
+ 
+ 
+CORE PENSION  
+FONDO PENSIONE APERTO 
+1. PREMESSA 
+2. OBIETTIVO DELLA POLITICA DI INVESTIMENTO 
+3. POLITICA DI INVESTIMENTO 
+4. SISTEMA DI CONTROLLO DEI RISCHI 
+5. MODIFICHE NELL’ULTIMO TRIENNIO
+=== pagina 3 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 3 di 18 
+1. PREMESSA 
+Il presente documento disciplina la politica di investimenti del fondo pensione aperto Core Pension 
+definendo la strategia finanziaria che Amundi SGR S.p.A., di seguito definita “Amundi SGR”, intende 
+attuare per ottenere, dall’impiego delle risorse in gestione, combinazioni rischio-rendimento efficienti 
+nell’arco temporale coerente con i bisogni previdenziali degli aderenti e con le prestazioni da erogare. 
+Tale documento è redatto in conformità alla deliberazione Covip del 16 Marzo 2012, non costituisce 
+documentazione contrattuale ed è soggetto a revisione periodica almeno ogni tre anni. 
+“Core Pension Fondo Pensione Aperto”, di seguito definito «Fondo», è un fondo pensione aperto 
+istituito ai sensi dell’art. 12 del decreto legislativo 5 dicembre 2005, n. 252 (e successive modificazioni 
+e integrazioni), di seguito definito “Decreto”. 
+Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è in 
+funzione della contribuzione effettuata ed in base al principio della capitalizzazione. 
+L’adesione al Fondo è volontaria ed è consentita in forma individuale. È altresì consentita, su base 
+collettiva, ai soggetti destinatari delle forme pensionistiche complementari individuati all’art. 2, comma 
+1, del Decreto, nei cui confronti trovino applicazione i contratti, gli accordi o i regolamenti aziendali che 
+dispongono l’adesione al Fondo. Ai sensi dell’articolo 8 comma 7 del Decreto l’adesione al Fondo su 
+base collettiva può avvenire anche mediante conferimento tacito del TFR maturando. 
+Le risorse dei comparti del Fondo, escluso il Core Pension Garantito, sono gestite a partire dal [•] 
+gennaio 2026, sulla base di un accordo di delega conferita da Amundi SGR a Fineco Asset Management 
+DAC, con sede in Dublino, Irlanda, di seguito definita “Gestore delegato”. 
+ 
+2. OBIETTIVO DELLA POLITICA DI INVESTIMENTO 
+Il Fondo ha come fine l’erogazione di una pensione complementare (‘rendita’) che si aggiunga alle 
+prestazioni del sistema pensionistico obbligatorio. Tale fine è perseguito raccogliendo le somme 
+versate (contributi) e investendole professionalmente in strumenti finanziari nell’esclusivo interesse 
+dell’aderente e secondo le indicazioni di investimento che l’aderente stesso fornisce scegliendo tra i 
+comparti del Fondo. 
+L’obiettivo della politica di investimento de Fondo è quello di perseguire combinazioni rischio-
+rendimento efficienti in un determinato arco temporale, coerente con quello delle prestazioni da 
+erogare; consentendo di massimizzare le risorse destinate alle prestazioni esponendo gli aderenti a un 
+livello di rischio ritenuto accettabile. 
+Il Fondo, in quanto fondo pensione aperto, per definizione e per natura si rivolge ad una pluralità di 
+soggetti eterogenei sotto vari profili: provenienza, categoria lavorativa di appartenenza, obbiettivi di 
+investimento, livello di retribuzione nonché tasso di sostituzione atteso. 
+Per le suddette ragioni, Amundi SGR ha definito l’asset allocation del Fondo con l’obiettivo di coprire le 
+molteplici esigenze degli aderenti e dei potenziali aderenti, che formano una popolazione estesa, 
+indefinita ed eterogenea. 
+Amundi SGR, sulla base di quanto previsto dalla Covip, mantiene costantemente aggiornate le 
+informazioni destinate agli aderenti e potenziali aderenti; le stesse sono trasmesse alla Covip, con le 
+modalità e le tempistiche stabilite.
+=== pagina 4 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 4 di 18 
+Comparti del Fondo 
+Il fondo propone una pluralità di opzioni di investimento attraverso vari Comparti. Ciascun Comparto 
+è caratterizzato da una propria combinazione di rischio/rendimento: 
+- Core Pension Obbligazionario Misto; 
+- Core Pension Bilanciato; 
+- Core Pension Azionario; 
+- Core Pension Azionario Plus; 
+- Core Pension Garantito. 
+Per la verifica dei risultati di gestione viene indicato, per i comparti Core Pension Obbligazionario Misto, 
+Core Pension Bilanciato, Core Pension Azionario, Core Pension Azionario Plus, un benchmark. Il 
+benchmark è un parametro oggettivo e confrontabile, composto da indici, elaborati da soggetti terzi 
+indipendenti, che sintetizzano l’andamento dei mercati in cui è investito il patrimonio dei singoli 
+Comparti. Per il comparto Core Pension Garantito, in relazione allo stile gestionale adottato, non è 
+possibile individuare un benchmark o un indicatore di rendimento rappresentativi della politica di 
+investimento del comparto e viene specificata una diversa misura di rischio identificabile con il Value 
+at Risk, orizzonte temporale 1 mese, intervallo di confidenza 95%. 
+3. POLITICA DI INVESTIMENTO 
+3.1 Informazioni specifiche circa le caratteristiche di ciascun Comparto del Fondo  
+CORE PENSION OBBLIGAZIONARIO MISTO 
+Categoria del comparto: obbligazionario misto 
+Orizzonte temporale: medio periodo 
+Dichiarazione di valore:  la gestione è finalizzata a realizzare una rivalutazione contenuta del capitale 
+investito, attraverso una gestione attiva di asset allocation  effettuata principalmente in OICR, inclusi gli 
+Exchange Traded Funds (ETF), rispondendo alle esigenze di un soggetto che ha davanti a sé ancora alcuni anni 
+di attività. 
+Criteri di valutazione dei risultati conseguiti: Rivalutazione contenuta del capitale al netto di tutti i costi. 
+Grado di rischio: medio 
+Stile di gestione: attivo con significativo tracking error 
+Al fine di raggiungere l'obiettivo di investimento, il Comparto investe principalmente in OICR, inclusi gli 
+Exchange Traded Funds  (ETF), in proporzioni coerenti con l'obiettivo di investimento e con il benchmark 
+gestionale.      
+Gestione attiva della valuta: sì 
+Benchmark gestionale: 20% MSCI ACWI with Developed Markets 100% Hedged to EUR Index 
+48% Bloomberg Euro Govt TR EUR 
+12% Bloomberg Euro Corporate TR EUR 
+20% Bloomberg Euro Govt 0-12m TR EUR 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione : strumenti Azionari (10% - 30%) - Strumenti 
+monetari e obbligazionari (fino a 90%) - OICR, inclusi  Exchange Traded Funds  (ETF) (fino al 100%) – Exchange 
+Traded Funds (ETF) (70% - 100%) – OICR monetari (fino al 30%) - Titoli quotati del mercato monetario (fino a 
+20%) - Strumenti legati all'andamento delle materie prime (fino a 5%) - Derivati per copertura investimento e 
+efficiente gestione  
+Principale valuta di denominazione  degli strumenti utilizzati : principalmente Euro ed altre valute dei 
+mercati sviluppati; valute Paesi Emergenti fino al 30% 
+ 
+Quote OICR (inclusi ETF): fino a 100% (principalmente ETF del Gestore delegato). Sul Comparto non vengono 
+fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti di OICR 
+acquistati (inclusi gli ETF), né le commissioni di gestione eventualmente applicate dall’OICR stesso (ETF incluso).   
+ 
+OICR di natura azionaria:  
+ESPOSIZIONE AZIONARIA: 10 - 30% 
+CATEGORIE DI EMITTENTI: tutti
+=== pagina 5 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 5 di 18 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Per quanto riguarda gli OICR, concorrono alla 
+determinazione dell’esposizione in Paesi Emergenti, i soli OICR che sono classificati come “Emerging” 
+nell’indicazione di Area Geografica di riferimento presente nell’anagrafica di Gruppo. 
+SETTORI MERCEOLOGICI: nessun limite 
+ 
+Titoli monetari / OICR di natura obbligazionaria/monetaria:  
+DURATION: non sono previsti limiti di duration 
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Concorrono alla determinazione dell’esposizione in Paesi 
+Emergenti, i soli OICR che sono classificati come “Emerging” nell’indicazione di Area Geografica di riferimento 
+presente nell’anagrafica di Gruppo. 
+RATING: almeno pari a Investment grade, High Yield (HY) (solo tramite OICR) fino al 15%. 
+Concorrono alla determinazione dell'esposizione complessiva HY gli OICR classificabili come “High Yield Bond”. 
+ 
+Azioni / quote FIA: fino al 20% 
+Azioni / quote FIA chiusi (quotati e non quotati) : validazione ex-ante di Amundi SGR secondo quanto 
+previsto dall’Investment Management Agreement, tra Amundi SGR S.p.A. e Fineco Asset Management DAC, 
+pro-tempore vigente. 
+Fino al 5%. Max 1,5% in un singolo FIA. Pesi vincolati al momento dell'acquisto / sottoscrizione. 
+ 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014 
+ 
+Tracking error volatility limite massimo: 3,00% 
+ 
+CORE PENSION BILANCIATO  
+Categoria del comparto: bilanciato 
+Orizzonte temporale: medio lungo 
+Dichiarazione di valore: la gestione è finalizzata a realizzare una rivalutazione moderata del capitale investito, 
+attraverso una gestione attiva di asset allocation effettuata principalmente in OICR, inclusi gli Exchange Traded 
+Funds (ETF), rispondendo alle esigenze di un soggetto che ha davanti a sé ancora diversi anni di attività 
+Criteri di valutazione dei risultati conseguiti : rivalutazione moderata del capitale e confronto con il 
+benchmark gestionale al netto di tutti i costi. 
+Grado di rischio: medio-alto 
+Stile di gestione: attivo con significativo tracking error 
+Al fine di raggiungere l'obiettivo di investimento, il Comparto investe principalmente in OICR, inclusi gli 
+Exchange Traded Funds  (ETF), in proporzioni coerenti con l'obiettivo di investimento e con il benchmark 
+gestionale.  
+Gestione attiva della valuta: sì 
+Benchmark gestionale:  40% MSCI ACWI with Developed Markets 100% Hedged to EUR Index 
+48% Bloomberg Euro GoviesTR EUR 
+12% Bloomberg Euro Corporate TR EUR 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione : Strumenti azionari (30% - 50%) - Strumenti 
+monetari e obbligazionari (fino al 70%) – OICR, inclusi Exchange Traded Funds (ETF) (fino al 100%) – Exchange 
+Traded Funds (ETF) (70% - 100%) – OICR monetari (fino al 30%) - Titoli quotati del mercato monetario (fino a 
+20%) - Strumenti legati all'andamento delle materie prime (fino a 5%) - Derivati per copertura investimento e 
+efficiente gestione -   
+Principale valuta di denominazione (strumenti utilizzati) : principalmente euro ed altre valute dei mercati 
+sviluppati; valute Paesi Emergenti fino al 30%. 
+Quote OICR (inclusi ETF): Fino a 100% (principalmente ETF del Gestore delegato). Sul Comparto non vengono 
+fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti di OICR
+=== pagina 6 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 6 di 18 
+acquistati (inclusi gli ETF), né le commissioni di gestione eventualmente applicate dall’OICR stesso (ETF incluso).   
+ 
+OICR di natura azionaria 
+ESPOSIZIONE AZIONARIA: 30% - 50% 
+CATEGORIE DI EMITTENTI: tutti 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Concorrono alla determinazione dell’esposizione in Paesi 
+Emergenti, i soli OICR che sono classificati come “Emerging” nell’indicazione di Area Geografica di riferimento 
+presente nell’anagrafica di Gruppo. 
+SETTORI MERCEOLOGICI: nessun limite 
+Titoli monetari / OICR di natura obbligazionaria/monetaria  
+DURATION obbl: non sono previsti limiti di duration 
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, stati ed emittenti privati 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Concorrono alla determinazione dell’esposizione in Paesi 
+Emergenti, i soli OICR che sono classificati come “Emerging” nell’indicazione di Area Geografica di riferimento 
+presente nell’anagrafica di Gruppo. 
+RATING: almeno pari a investment grade, Investment grade, High Yield (HY) (solo tramite OICR) fino al 15%. 
+Concorrono alla determinazione dell'esposizione complessiva in HY, gli OICR classificabili come “High Yield 
+Bond”. 
+ 
+Azioni / quote FIA: fino al 20% 
+Azioni / quote FIA chiusi (quotati e non quotati): validazione ex-ante di Amundi SGR secondo quanto previsto 
+dall’Investment Management Agreement, tra Amundi SGR S.p.A. e Fineco Asset Management DAC, pro-
+tempore vigente. 
+Fino al 5%. Max 1,5% in un singolo FIA. Pesi vincolati al momento dell'acquisto / sottoscrizione. 
+ 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014 
+ 
+Tracking error volatility limite massimo: 3,0%  
+CORE PENSION AZIONARIO  
+Categoria del comparto: azionario 
+Orizzonte temporale: lungo 
+Dichiarazione di valore: la gestione è finalizzata a realizzare una rivalutazione moderata del capitale investito, 
+attraverso una gestione attiva di asset allocation effettuata principalmente in OICR, inclusi gli Exchange Traded 
+Funds (ETF), rispondendo alle esigenze di un soggetto che ha davanti a sé ancora molti anni di attività. 
+Criteri di valutazione dei risultati conseguiti: Rivalutazione moderata del capitale e confronto con il 
+benchmark gestionale al netto di tutti i costi. 
+Grado di rischio: medio - alto 
+Stile di gestione: attivo con significativo tracking error 
+Al fine di raggiungere l'obiettivo di investimento, il Comparto investe principalmente in OICR, inclusi gli Exchange 
+Traded Funds (ETF), in proporzioni coerenti con l'obiettivo di investimento e con il benchmark gestionale.     
+Gestione attiva della valuta: sì 
+Benchmark gestionale:  60% MSCI ACWI with Developed Markets 100% Hedged to EUR Index 
+32% Bloomberg Euro Govies TR EUR8% Bloomberg Euro Corporate TR EUR 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: Strumenti Azionari (50% - 70%) - Strumenti 
+monetari e obbligazionari (fino a 50%) – OICR, inclusi Exchange Traded Funds  (ETF) (fino al 100%) - Exchange 
+Traded Funds (ETF) (70% - 100%) – OICR monetari (fino al 30%) - Titoli quotati del mercato monetario (fino a 
+20%) - Strumenti legati all'andamento delle materie prime (fino a 5%) - Derivati per copertura investimento e 
+efficiente gestione
+=== pagina 7 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 7 di 18 
+Principale valuta di denominazione (strumenti utilizzati): principalmente Euro ed altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30% 
+ 
+Quote di OICR (inclusi ETF): fino a 100% (principalmente ETF del Gestore delegato). 
+Sul Comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al 
+rimborso delle parti di OICR acquistati (inclusi gli ETF), né le commissioni di gestione eventualmente applicate 
+dall’OICR stesso (ETF incluso).   
+ 
+OICR di natura azionaria 
+ESPOSIZIONE AZIONARIA: 50%-70% 
+CATEGORIE DI EMITTENTI: tutte 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Concorrono alla determinazione dell’esposizione in Paesi 
+Emergenti, i soli OICR che sono classificati come “Emerging” nell’indicazione di Area Geografica di riferimento 
+presente nell’anagrafica di Gruppo. 
+SETTORI MERCEOLOGICI: nessun limite 
+Titoli monetari / OICR di natura obbligazionaria/monetaria 
+DURATION OBBL:  
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Concorrono alla determinazione dell’esposizione in Paesi 
+Emergenti, i soli OICR che sono classificati come “Emerging” nell’indicazione di Area Geografica di riferimento 
+presente nell’anagrafica di Gruppo. 
+RATING: almeno pari a Investment grade, High Yield (HY) (solo tramite OICR) fino al 15%. 
+Concorrono alla determinazione dell'esposizione complessiva in Titoli di Debito HY e NR, gli OICR classificabili 
+come “High Yield Bond”. 
+ 
+Azioni / quote FIA: fino al 20% 
+Azioni / quote FIA chiusi (quotati e non quotati): validazione ex-ante di Amundi SGR secondo quanto previsto 
+dall’Investment Management Agreement, tra Amundi SGR S.p.A. e Fineco Asset Management DAC, pro-
+tempore vigente. 
+Fino al 5%. Max 1,5% in un singolo FIA. Pesi vincolati al momento dell'acquisto / sottoscrizione. 
+ 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014 
+ 
+Tracking error volatility limite massimo: 3,00% 
+ 
+ 
+CORE PENSION AZIONARIO PLUS  
+Categoria del comparto: azionario 
+Orizzonte temporale: lungo 
+Dichiarazione di valore: la gestione è finalizzata a realizzare una rivalutazione significativa del capitale investito, 
+attraverso una gestione attiva di asset allocation effettuata principalmente in OICR, inclusi gli Exchange Traded 
+Funds (ETF), rispondendo alle esigenze di un soggetto che ha davanti a sé ancora molti anni di attività. 
+Criteri di valutazione dei risultati conseguiti : rivalutazione significativa del capitale e confronto con il 
+benchmark gestionale al netto di tutti i costi. 
+Grado di rischio: alto 
+Stile di gestione: attivo con contenuto tracking error 
+Al fine di raggiungere l'obiettivo di investimento, il Comparto investe principalmente in OICR, inclusi gli Exchange 
+Traded Funds (ETF), in proporzioni coerenti con l'obiettivo di investimento e con il benchmark gestionale.     
+Gestione attiva della valuta: sì 
+Benchmark gestionale:  100% MSCI ACWI with Developed Markets 100% Hedged to EUR Index 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: Strumenti Azionari (90% -100%) - Strumenti 
+monetari e obbligazionari (fino a 10%) – OICR, inclusi Exchange Traded Funds  (ETF) (fino al 100%) – OICR 
+monetari (fino al 10%) - Titoli quotati del mercato monetario (fino a 10%) - Strumenti legati all'andamento delle 
+materie prime (fino a 5%) -) - Derivati per copertura investimento e efficiente gestione  
+ 
+Principale valuta di denominazione (strumenti utilizzati): principalmente Euro ed altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30%
+=== pagina 8 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 8 di 18 
+ 
+Quote di OICR (inclusi ETF): fino a 100% (principalmente ETF del Gestore delegato). Sul Comparto non 
+vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti di 
+OICR acquistati (inclusi gli ETF), né le commissioni di gestione eventualmente applicate dall’OICR stesso (ETF 
+incluso).   
+ 
+OICR di natura azionaria:  
+ESPOSIZIONE AZIONARIA: 90% - 100% 
+CATEGORIE DI EMITTENTI: tutte 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Concorrono alla determinazione dell’esposizione in Paesi 
+Emergenti, i soli OICR che sono classificati come “Emerging” nell’indicazione di Area Geografica di riferimento 
+presente nell’anagrafica di Gruppo. 
+SETTORI MERCEOLOGICI: nessun limite 
+Titoli monetari / OICR di natura obbligazionaria/monetaria 
+DURATION OBBL: - 
+CATEGORIA DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: esposizione verso i Paesi Emergenti (derivante dalla componente azionaria e 
+obbligazionaria, considerando i derivati) fino al 30%. Concorrono alla determinazione dell’esposizione in Paesi 
+Emergenti, i soli OICR che sono classificati come “Emerging” nell’indicazione di Area Geografica di riferimento 
+presente nell’anagrafica di Gruppo. 
+RATING: almeno pari a Investment grade, High Yield (HY) (solo tramite OICR) fino al 10%. 
+Concorrono alla determinazione dell'esposizione complessiva in HY, gli OICR classificabili come “High Yield 
+Bond”. 
+ 
+Quote di OICR (inclusi ETF): fino a 100% (principalmente ETF del Gestore delegato). Sul Comparto non 
+vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti di 
+OICR acquistati (inclusi gli ETF), né le commissioni di gestione eventualmente applicate dall’OICR stesso (ETF 
+incluso).   
+ 
+Azioni / quote FIA: fino al 20% 
+Azioni / quote FIA chiusi (quotati e non quotati) : validazione ex-ante di Amundi SGR secondo quanto 
+previsto dall’Investment Management Agreement, tra Amundi SGR S.p.A. e Fineco Asset Management DAC, 
+pro-tempore vigente. 
+Fino al 5%. Max 1,5% in un singolo FIA. Pesi vincolati al momento dell'acquisto / sottoscrizione. 
+ 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014 
+ 
+Tracking error volatility limite massimo: 3%  
+ 
+CORE PENSION GARANTITO  
+Categoria del comparto: garantito 
+Orizzonte temporale: breve 
+Dichiarazione di valore: il comparto punta a una rivalutazione del capitale su un orizzonte di breve periodo in 
+linea con il TFR, mediante la selezione di strumenti finanziari mirata a una massima diversificazione geografica, 
+settoriale, per classe di attivi e per stile di gestione; inoltre è garantito il capitale al verificarsi di 
+determinati eventi (pensionamento, decesso, invalidità permanente, inoccupazione per un periodo superiore 
+ai 48 mesi, malattia grave) 
+Criteri di valutazione dei risultati conseguiti : rendimento del Comparto rispetto all’obiettivo al netto di 
+tutti i costi. Rispetto della garanzia sul capitale. 
+Grado di rischio: medio 
+Stile di gestione: attivo e flessibile.  
+Per la selezione degli strumenti finanziari, Amundi SGR, rispettando il budget di rischio definito, sfrutta diversi 
+fonti di generazione di valore quali l’analisi macro e l’analisi dinamica del valore relativo tra le classi di attivi, 
+perseguendo uno stile di gestione flessibile orientato alla massima diversificazione.  
+Gestione attiva della valuta: sì 
+Valuta di denominazione del prodotto: Euro 
+Strumenti finanziari utilizzati e relative bande di oscillazione: Strumenti Azionari (fino a 30%) / 
+Strumenti monetari e obbligazionari (70% - 100% flessibile) - OICR no load (fino a 100%) - Strumenti legati 
+all'andamento delle materie prime (fino a 5%) - Derivati per copertura investimento e efficiente gestione 
+Principale valuta di denominazione (strumenti utilizzati): principalmente Euro ed altre valute dei mercati 
+sviluppati; valute paesi emergenti fino al 30% 
+ 
+Titoli rappresentativi del capitale di rischio / OICR di natura azionaria  
+ESPOSIZIONE AZIONARIA: fino a 30 %
+=== pagina 9 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 9 di 18 
+CATEGORIE DI EMITTENTI: tutte 
+AREE GEOGRAFICHE: principalmente paesi OCSE 
+SETTORI MERCEOLOGICI: tutti 
+ 
+Titoli di debito / OICR di natura obbligazionaria 
+DURATION COMP. OBBL.: non sono previsti limiti di duration. 
+CATEGORIE DI EMITTENTI: emittenti sovranazionali, Stati ed emittenti privati 
+AREE GEOGRAFICHE: prevalentemente emittenti area UE, in particolare Italia 
+RATING: almeno pari all’investment grade 
+ 
+Azioni/quote OICR: fino a 100%, OICR principalmente collegati.  Sul Comparto non vengono fatti gravare 
+spese e diritti di qualsiasi natura relativi alla sottoscrizione e al rimborso delle parti di OICR acquistati (inclusi 
+gli ETF), né le commissioni di gestione eventualmente applicate dall’OICR stesso (ETF incluso). 
+ 
+Azioni / quote FIA: fino al 20% 
+Azioni / quote FIA chiusi (quotati e non quotati): 0% 
+ 
+Strumenti derivati: utilizzo per finalità di copertura dei rischi del portafoglio e/o di efficiente gestione del 
+medesimo, conformemente al DM 166/2014 
+ 
+Var 95% 1 mese limite massimo: 1,65%  
+3.2 Informazioni comuni a tutti i Comparti del Fondo  
+3.2.1. Criteri per l’esercizio del diritto di voto 
+Con riferimento al comparto Core Pension Garantito, Amundi SGR è dotata, in virtù di delibere assunte 
+dal proprio Consiglio di Amministrazione, di una strategia per l’esercizio dei diritti di voto da intendersi 
+quale parte integrante della politica di investimento del Fondo, al fine ultimo di perseguire, anche nel 
+contesto qui considerato, gli interessi degli aderenti. In particolare, Amundi SGR si riserva il diritto di 
+partecipare alle assemblee ordinarie e/o straordinarie degli emittenti strumenti finanziari in 
+portafoglio del Fondo in funzione: 
+a) delle caratteristiche degli strumenti finanziari stessi, 
+b) dell’agenda prevista per la convocazione dell’assemblea, 
+c) dell’ammontare complessivo degli strumenti finanziari in portafoglio 
+Con riferimento a tutti gli altri comparti, in conformità alla delega di gestione, l’esercizio del diritto di 
+voto è conferito al Gestore delegato che lo esercita attenendosi alla propria voting policy previamente 
+condivisa con Amundi SGR fornendo una reportistica almeno annuale. 
+ 
+3.2.2 Investimenti in derivati 
+Gli strumenti finanziari derivati sono utilizzati con finalità di copertura del rischio e di più efficiente 
+gestione delle risorse, coerentemente con il profilo di rischio-rendimento del Comparto e nei limiti 
+indicati per gli attivi sottostanti. 
+Dal punto di vista delle tipologie di strumenti finanziari derivati utilizzati, l’insieme degli strumenti 
+ammissibili è strettamente vincolato (oltre che dalle caratteristiche regolamentari di ogni Comparto) 
+dal sistema dei limiti interni di rischio che esplicitamente prevede le fattispecie autorizzate. 
+Allo stato attuale si tratta delle seguenti fattispecie: 
+- future quotati (su indici, nozionale obbligazionario, depositi e valute); 
+- opzioni quotate (su indici e sui contratti future sopra indicati); 
+- contratti a termine su divise. 
+L’introduzione di strumenti finanziari derivati non classificabili nelle tipologie previste dal sistema di 
+limiti di rischio interni non è ammessa. 
+Con l’eccezione dei contratti a termine su valute, tutti i derivati utilizzati sono ammessi alle negoziazioni 
+su mercati regolamentati. Dal punto di vista della valorizzazione delle posizioni non si ravvisano pertanto 
+particolari criticità stante la reperibilità dei prezzi sul relativo mercato di negoziazione. 
+Le posizioni in derivati concorrono alla determinazione dell’esposizione del portafoglio sulle classi di 
+attivo di riferimento dei rispettivi sottostanti. 
+Per quanto riguarda le posizioni in opzioni sono previste inoltre particolari limitazioni per controllare 
+l’esposizione alla volatilità implicita dei sottostanti.
+=== pagina 10 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 10 di 18 
+L’utilizzo dei derivati nell’ambito dell’attività di investimento di ciascun Comparto non ha un impatto 
+significativo sul profilo di rischio-rendimento del portafoglio tenendo presente: 
+- le tipologie di strumenti finanziari derivati ammessi; 
+- la presenza di precisi limiti relativi alle posizioni in opzioni; 
+- la presenza di limiti di rischio che vincolano l’esposizione complessiva del portafoglio alle diverse 
+classi di attivo; 
+- la presenza di limiti basati sulle misure quantitative di rischiosità dei portafogli (assoluta o relativa 
+al benchmark, cioè VaR o TeV a seconda del Comparto). 
+ 
+3.2.3. Investimenti in OICR 
+È consentito investire – anche in maniera principale – in OICR la cui politica di gestione sia coerente con 
+quella stabilita per il relativo Comparto, ivi inclusi OICR istituiti da società del gruppo di appartenenza 
+di Amundi SGR e / o dal Gestore delegato, nel rispetto delle disposizioni in materia. A tal fine, nella 
+convenzione con il Gestore delegato sono definite, tra le altre cose: (a) le modalità con cui quest’ultimo 
+assicura alla SGR un adeguato livello di accesso alle informazioni sulle strategie poste in essere, la 
+struttura dei costi degli OICR target, eventuali periodi di uscita dall’investimento (lock up period); (b) i 
+flussi informativi occorrenti per un’adeguata valutazione degli investimenti effettuati e per predisporre 
+le segnalazioni periodiche da inviare alla COVIP. 
+Gli OICR sono utilizzati per ottenere un’esposizione indiretta a classi di attivo adeguatamente 
+diversificate o eventualmente per accedere a specifiche expertise e fonti di valore aggiunto. Per i 
+Comparti che saranno investiti dal Gestore delegato in ETF non quotati, le operazioni su tali strumenti 
+finanziari seguiranno un processo di trasmissione degli ordini simile a quello degli OICR non quotati, 
+ove gli ordini saranno eseguiti a chiusura di giornata al prezzo del NAV (Net Asset Value). Gli ordini di 
+acquisto e di rimborso richiesti dal Gestore delegato saranno trasmessi al Transfer Agent per la sua 
+esecuzione e tutti gli ordini verranno regolati per il tramite della propria Banca Depositaria. 
+ 
+È inoltre ammessa la possibilità di investire in FIA e – per importi marginali – in FIA chiusi (quotati o non 
+quotati), previa autorizzazione da parte di Amundi SGR. 
+L’utilizzo di questa fattispecie è motivato dalla possibilità di investire in classi di attivo altrimenti non 
+accessibili tramite fondi armonizzati. Si tratta di opportunità di investimento che possono offrire 
+benefici in termini di de-correlazione con i comuni fattori di rischio obbligazionario e azionario e in 
+termini di rendimenti più convenienti in rapporto al rischio sopportato. Inoltre, tenuto conto 
+dell’orizzonte temporale di investimento del fondo pensione, la caratteristica illiquidità di talune asset 
+class (ad es. private debt, private equity) permettono al fondo di godere dei connessi premi di liquidità 
+che si traducono in rendimenti più elevati. 
+Si precisa che l’investimento in FIA è ammesso: 
+- per importi limitati come previsto dalle direttrici generali di investimento del fondo pensione 
+approvate dal Consiglio di Amministrazione di Amundi SGR; 
+- qualora sia possibile assicurare una totale trasparenza sulla composizione del portafoglio del 
+FIA, sulle strategie di investimento seguite, sull’allocazione del rischio e sulla valorizzazione del 
+patrimonio del fondo. 
+La decisione di investimento è presa dall’Investment Committee del Gestore delegato sentita la 
+funzione Risks della SGR. 
+ 
+3.2.4. Trasparenza sulla sostenibilità ai sensi del regolamento SFDR  
+I comparti si qualificano come prodotti rientranti nel campo di applicazione dell’articolo 6 del 
+Regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio del 27 novembre 2019 relativo 
+all’informativa sulla sostenibilità nel settore dei servizi finanziari (SFDR). 
+ 
+Con riferimento al comparto Core Pension Garantito, l’integrazione dei rischi di  sostenibilità 
+nelle decisioni di investimento è operata sulla base del processo di valutazione del rating ESG adottato 
+dal Gruppo Amundi, secondo quanto riportato nel successivo paragrafo 3.2.5 “Integrazione dei rischi di 
+sostenibilità”.
+=== pagina 11 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 11 di 18 
+Tale metodologia consta dell’attribuzione di un punteggio formulato in termini quantitativi che classifica 
+l’emittente su una scala alfabetica di 7 livelli che va da “A” (punteggio più alto) a “G” (punteggio più basso).  
+ 
+Con riferimento a tutti gli altri comparti, i rischi di sostenibilità vengono gestiti dal Gestore delegato 
+attraverso: 
+1) un approccio “comply or explain” di integrazione del punteggio ESG;  
+2) l’applicazione di esclusioni relative alle armi controverse.   
+L’integrazione del punteggio ESG avviene calcolando il punteggio ESG medio ponderato di ciascun fondo 
+sottostante calcolato sulla base del punteggio ESG dei titoli di volta in volta detenuti.  
+I punteggi ESG utilizzati sono quelli forniti da MSCI ESG Manager.  
+Si prevede di mantenere il punteggio medio ponderato di ciascun Comparto in un range il cui minimo 
+non risulti inferiore a un valore pari a 5.71 (in una scala da 0 a 10), fascia che corrisponde al rating A di 
+MSCI. Qualora, sulla base di controlli mensili, il punteggio medio del comparto dovesse scendere al di 
+sotto della soglia minima di 5.71, il comitato sulla finanza sostenibile del Gestore delegato valuterà la 
+materialità dello scostamento e delibererà sulla necessità di riportare il Comparto all’interno della fascia 
+target di punteggi ESG. 
+Nella gestione dei Comparti si prendono in considerazione i principali effetti negativi sui fattori di 
+sostenibilità relativi alle armi controverse – PAI 14 (Tabella I) del Regolamento Delegato (UE) 2022/1288 
+della Commissione del 6 aprile 2022 - attraverso la selezione da parte del Gestore delegato di OICR  ai 
+quali vengono applicate esclusioni almeno relative alle convenzioni di Oslo e di Ottawa sulle mine 
+antiuomo e le bombe a grappolo in linea con la Legge 9 dicembre 2021, n. 220 e relative linee guida. 
+ 
+3.2.5. Integrazione dei rischi di sostenibilità di Amundi SGR 
+Definizioni: 
+“ESG” designa gli aspetti ambientali, sociali e di governance; 
+“SFDR” designa il Regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio del 27 novembre 
+2019 relativo all’informativa sulla sostenibilità nel settore dei servizi finanziari; 
+“Fattori di Sostenibilità” designa le problematiche ambientali, sociali e concernenti il personale, il 
+rispetto dei diritti umani e le questioni relative alla lotta alla corruzione attiva e passiva; 
+“Rischi di Sostenibilità” designa un evento o una condizione di tipo ambientale, sociale o di governance 
+che, se si verificasse, potrebbe provocare un significativo impatto negativo effettivo o potenziale sul 
+valore dell’investimento, compresi, a titolo esemplificativo ma non esaustivo, i rischi derivanti dai 
+cambiamenti climatici, esaurimento delle risorse naturali, degrado ambientale, violazione dei diritti 
+umani, abuso d’ufficio e corruzione, problematiche sociali e concernenti il personale. 
+ 
+Amundi SGR, nei processi decisionali in materia di investimento, al fine di effettuare una più completa 
+valutazione dei rischi e delle opportunità di investimento, prende in considerazione, oltre a criteri di 
+natura economica e finanziaria, anche gli aspetti ESG, ivi inclusi i Fattori di Sostenibilità e i Rischi di 
+Sostenibilità. 
+Il Gruppo Amundi ha definito il proprio approccio alla valutazione degli aspetti ESG (c.d. “rating ESG”). 
+Tale approccio mira a misurare le prestazioni in termini di sostenibilità di un emittente, quale, ad 
+esempio, la sua capacità di prevedere e gestire i Rischi di Sostenibilità e le opportunità connessi alle 
+proprie caratteristiche specifiche e al proprio settore industriale di appartenenza. Inoltre, permette di 
+valutare gli emittenti in relazione alla loro capacità di gestire gli impatti negativi che le loro attività 
+potrebbero avere sui fattori di sostenibilità. Attraverso l’utilizzo di tale metodologia, Amundi SGR integra 
+i Rischi di Sostenibilità nelle scelte di investimento, applica le politiche di esclusione e costruisce il 
+portafoglio secondo gli indirizzi ESG di politica di investimento del Fondo. 
+Oltre all’integrazione degli aspetti ESG nei processi di investimento, Amundi SGR applica, con riferimento 
+a tutti gli OICR con strategia di gestione attiva, politiche di esclusione mirate con riferimento agli emittenti 
+che non rispettano la Politica sugli Investimenti Responsabili adottata in coerenza con quella del Gruppo 
+Amundi, quali gli emittenti che violano le convenzioni internazionali, le norme riconosciute dalla comunità 
+internazionale o la legislazione nazionale. In tale ambito, Amundi SGR ha implementato politiche settoriali 
+specifiche di esclusione a industrie controverse come quelle del carbone e del tabacco.
+=== pagina 12 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 12 di 18 
+Il processo di rating ESG del Gruppo Amundi applicato agli emittenti societari di strumenti finanziari 
+quotati si basa su un approccio di tipo c.d. “Best-in-class”. In base a tale approccio, i rating ESG, 
+opportunamente applicati a ciascun settore industriale, mirano a valutare gli emittenti tenendo conto 
+delle dinamiche specifiche del loro settore di appartenenza, indipendentemente dall’area geografica di 
+riferimento e dalla tipologia di strumento finanziario (di debito o di capitale). Le valutazioni, operate da 
+un team di analisti dedicato e formulate in modo autonomo rispetto al team di gestione, sono utilizzate 
+dai gestori dei portafogli nelle scelte di investimento in aggiunta agli altri criteri finanziari. 
+Ciascun emittente viene valutato attraverso l’attribuzione di un punteggio formulato in termini 
+quantitativi che classifica l’emittente su una scala alfabetica di 7 livelli che va da “A” (punteggio più alto) 
+a “G” (punteggio più basso). Un punteggio pari a G comporta l’esclusione dei titoli dalle scelte di 
+investimento del comparto. 
+Le prestazioni ESG degli emittenti sono valutate in rapporto alle prestazioni medie del settore industriale di 
+appartenenza e tale valutazione è il risultato dell’aggregazione delle seguenti tre dimensioni: 
+1. Ambientale: considera la capacità dell’emittente di controllare il suo impatto diretto e indiretto 
+sull’ambiente, attraverso il contenimento dei consumi energetici, la riduzione delle emissioni di gas 
+ad effetto serra, il contrasto all’esaurimento delle risorse naturali e la tutela della biodiversità; 
+2. Sociale: valuta l’emittente in relazione alla strategia di sviluppo del proprio capitale umano e, più 
+in generale, al rispetto dei diritti umani; 
+3. Governo societario: valuta la capacità dell’emittente di dotarsi di presidi di governo societario 
+efficaci e di generare valore sul lungo periodo. 
+Il processo di rating ESG del Gruppo Amundi applicato agli emittenti pubblici considera i più rilevanti 
+aspetti ESG presi in considerazione nelle politiche pubbliche presenti e passate dei Paesi, che possono 
+produrre impatti sulla loro capacità di rimborsare nel medio-lungo termine il debito pubblico. Inoltre, mira 
+a valutare in che modo un Paese sta gestendo le principali tematiche in materia di sostenibilità che 
+contribuiscono alla stabilità del sistema a livello globale. L’analisi viene condotta tramite indicatori che 
+operano su tre dimensioni: Ambientale (cambiamento climatico e capitale naturale), Sociale (diritti umani, 
+coesione sociale, diritti civili) e Governo (efficacia del governo ed economia dell’ambiente). 
+Amundi SGR, quando assume decisioni di investimento per conto del comparto, prende in 
+considerazione i principali effetti negativi delle decisioni di investimento sui Fattori di Sostenibilità sui 
+fattori di sostenibilità relativi alle armi controverse – PAI 14 (Tabella I) del Regolamento Delegato (UE) 
+2022/1288 della Commissione del 6 aprile 2022 – attraverso esclusioni relative alle convenzioni di Oslo e 
+di Ottawa sulle mine antiuomo e le bombe a grappolo in linea con la Legge 9 dicembre 2021, n. 220 e 
+relative linee guida, e esclusioni riguardanti altre armi controverse come evidenziato nella Politica 
+sull’Investimento responsabile di Amundi. 
+.  
+Maggiori informazioni sono reperibili sul sito internet di Amundi SGR, dove è altresì disponibile la 
+Politica sugli Investimenti Responsabili di Amundi SGR e la metodologia per l’attribuzione dei Rating 
+ESG. 
+Nella gestione del comparto e nella selezione delle attività in cui investire, Amundi SGR applica la Politica 
+sugli Investimenti Responsabili adottata in coerenza con quella del Gruppo Amundi. 
+L’attività di investimento è focalizzata su emittenti che soddisfano determinati requisiti, anche in termini 
+di punteggio ESG e con riferimento a specifici aspetti connessi allo sviluppo sostenibile, e che rispettano 
+buone prassi ESG. Conseguentemente l’universo di investimento potrebbe essere più ristretto rispetto 
+a quello di altri fondi e pertanto il comparto potrebbero avere rendimenti inferiori rispetto 
+all’andamento generale dei mercati finanziari e/o far registrare performance inferiori rispetto a prodotti 
+che non applicano i criteri ESG nelle loro scelte di investimento. 
+L’esclusione dall’universo di investimento del comparto del Fondo o la rimozione dai portafogli degli 
+strumenti finanziari di emittenti che non soddisfano determinati criteri ESG potrebbe comportare 
+rendimenti differenti da quelli di prodotti simili che non seguono una politica ESG e che non applicano 
+criteri di selezione degli investimenti basati sugli aspetti ESG. 
+Il Gruppo Amundi incorpora sistematicamente le tematiche ESG nel dialogo con le aziende. Amundi SGR 
+ritiene che il dialogo con le società investite sia un elemento chiave per l’implementazione di una politica 
+di investimento responsabile e orientata alla sostenibilità sociale e ambientale (tematiche ESG). I principi 
+alla base della politica di Amundi SGR considerano gli investimenti sostenibili non solo quale ricaduta
+=== pagina 13 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 13 di 18 
+positiva sulla società nel suo complesso, ma soprattutto quale strumento per la creazione di valore per i 
+propri clienti/investitori, nel rispetto di una gestione ottimale del rischio. In linea con le policy del Gruppo 
+Amundi, che promuovono un approccio responsabile e consapevole delle proprie azioni e scelte di 
+investimento, Amundi SGR adotta procedure e politiche sistematiche e strutturali orientate al 
+consolidamento, nel tempo, di una strategia di investimento sempre più sostenibile. Il processo di 
+esercizio dei diritti di voto collegati agli strumenti finanziari detenuti dal Fondo è coerente con i criteri di 
+esclusione ESG, le cui specificità non sono sempre allineate con l’obiettivo di massimizzare le performance 
+di breve termine degli emittenti. Maggiori informazioni sull’integrazione degli aspetti ESG nelle politiche 
+di voto di Amundi sono disponibili sul sito internet www.amundi.it. 
+La selezione degli strumenti finanziari in cui investe il Fondo si basa su un processo di valutazione degli 
+aspetti ESG sviluppato internamente al Gruppo Amundi che utilizza in parte informazioni prodotte da 
+fornitori esterni. Tali informazioni potrebbero essere incomplete, imprecise o non disponibili e, 
+conseguentemente, c’è il rischio che Amundi SGR possa effettuare valutazioni non corrette su strumenti 
+finanziari o i loro emittenti. 
+ 
+ 
+3.3 Obiettivi della politica di investimento dei Comparti 
+ 
+Obbligazionario Misto  
+Orizzonte temporale: 6 anni 
+Volatilità: 6,66% 
+Probabilità di battere l’inflazione attesa: 66,4% 
+Inflazione Attesa: 2,1% 
+Obiettivo medio annuo atteso (espresso in termini reali): 2,8% 
+Rendimento annualizzato atteso: 4,9% 
+VaR 99% mensile: 4,1% 
+VaR 95% mensile: 2,0% 
+Turnover limite massimo: 200% 
+ 
+Bilanciato  
+Orizzonte temporale: 12 anni 
+Volatilità: 7,60% 
+Probabilità di battere l’inflazione attesa: 69,4% 
+Inflazione Attesa: 2,0% 
+Obiettivo medio annuo atteso (espresso in termini reali): 3,8% 
+Rendimento annualizzato atteso: 5,9% 
+VaR 99% mensile: 5,9% 
+VaR 95% mensile: 2,9% 
+Turnover limite massimo: 250% 
+ 
+Azionario   
+Orizzonte temporale: oltre 15 anni 
+Volatilità: 9,06% 
+Probabilità di battere l’inflazione attesa: 70,0% 
+Inflazione Attesa: 2,1% 
+Obiettivo medio annuo atteso (espresso in termini reali): 4,7% 
+Rendimento annualizzato atteso: 6,8% 
+VaR 99% mensile: 7,1% 
+VaR 95% mensile: 4,1% 
+Turnover limite massimo: 300% 
+ 
+Azionario Plus 
+Orizzonte temporale: 20 anni 
+Volatilità: 13,25% 
+Probabilità di battere l’inflazione attesa: 68,5% 
+Inflazione Attesa: 2,1%
+=== pagina 14 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 14 di 18 
+Obiettivo medio annuo atteso (espresso in termini reali): 6,2% 
+Rendimento annualizzato atteso: 8,4% 
+VaR 99% mensile: 9,3% 
+VaR 95% mensile: 6,9% 
+Turnover limite massimo: 300% 
+ 
+Garantito  
+Orizzonte temporale: 3 anni 
+Volatilità: 2,39% 
+Probabilità di battere l’inflazione attesa: 65,4% 
+Inflazione Attesa: 1,8% 
+Obiettivo medio annuo atteso (espresso in termini reali): 0,9% 
+Rendimento annualizzato atteso: 2,8% 
+VaR 99% mensile: 1,5% 
+VaR 95% mensile: 0,7% 
+Turnover limite massimo: 250% 
+ 
+ 
+Nota esplicativa dei dati sopra riportati 
+Le aspettative sulle classi di attività derivano dal modello proprietario denominato CASM (Cascade Asset 
+Simulation Model). 
+Il modello origina l’andamento futuro di prezzi delle attività nel breve, medio e lungo termine sulla base 
+dell'evoluzione attesa dei fattori macroeconomici e fondamentali. 
+Ad ogni tipo di attività corrisponde un modello che tiene conto delle specificità della variabile considerata 
+(ad esempio: modello sul mercato azionario e modello sulla struttura a termine). 
+Nel generare l’andamento delle variabili, CASM combina le dinamiche di breve termine (derivanti dai 
+modelli previsivi dello Strategy Team) con i livelli di lungo termine, e le dinamiche di medio periodo, 
+guidate dalle variabili di ciclo economico. 
+I rendimenti attesi corrispondono agli scenari medi di CASM, coerentemente all’orizzonte temporale 
+dell’analisi. 
+L’analisi si basa su relazioni fra variabili macroeconomiche e finanziarie verificate su campioni storici 
+pluriennali e valide su un orizzonte di medio-lungo periodo. La situazione attuale dei mercati finanziari 
+caratterizzata da una elevata variabilità può influenzare lo scenario finanziario nel breve-medio periodo. 
+Rendimento atteso: rappresenta il rendimento medio annualizzato che in ipotesi di distribuzione 
+normale dei rendimenti (media e mediana coincidono), ha una probabilità del 50% di realizzarsi 
+sull’orizzonte considerato. I rendimenti, se non diversamente specificato, sono da intendersi lordi. I 
+rendimenti includono una stima dell’alpha derivante dalla gestione attiva se applicabile (mandati a 
+benchmark). 
+Il tasso di inflazione attesa è la previsione del tasso di inflazione media italiana (indice FOI) derivante dal 
+nostro modello di simulazione. 
+VaR: Il VaR – Value at Risk - misura la massima perdita possibile in condizioni normali di mercato, su un 
+determinato orizzonte temporale e con un certo livello di confidenza. 
+Nella precedente tabella il VaR è calcolato con approccio parametrico. 
+VarR 95% mensile: indica la perdita potenziale su un orizzonte mensile con confidenza pari al 95% (ossia, 
+su un orizzonte mensile, nel rimanente 5% dei casi potrebbe determinarsi una perdita maggiore). 
+VaR 99% mensile: indica la perdita potenziale su un orizzonte mensile con confidenza pari al 99% (ossia, 
+sempre in un orizzonte mensile, nel rimanente 1% dei casi potrebbe determinarsi una perdita maggiore). 
+Tutte le statistiche (VaR e probabilità di battere l’inflazione attesa) sono calcolate con metodo 
+parametrico. 
+Tale metodo ipotizza che i rendimenti abbiano una distribuzione normale. Ciò implica che posti su un 
+piano cartesiano i rendimenti/perdite potenziali alle ascisse e le rispettive frequenze alle ordinate si 
+ottenga un grafico a campana noto come curva gaussiana. Il VaR è determinato moltiplicando la 
+deviazione standard dei rendimenti per il coefficiente gaussiano corrispondente al livello di confidenza 
+desiderato.
+=== pagina 15 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 15 di 18 
+Si precisa che la volatilità utilizzata nel calcolo e indicata in tabella è riferita all’orizzonte temporale 
+specifico del Comparto. Ciò significa, per esempio, che per il Comparto garantito è indicato il valore di 
+volatilità rilevato negli ultimi 3 anni. La volatilità include una stima del TEV della gestione attiva. 
+ 
+4. SISTEMA DI CONTROLLO DEI RISCHI 
+Il sistema di gestione dei rischi del Fondo include le strategie, le politiche, i processi e i meccanismi 
+riguardanti l’individuazione, l’assunzione, la sorveglianza, l’attenuazione dei rischi a cui è esposto o 
+potrebbe essere esposto il patrimonio del Fondo (inclusi, tra l’altro, i rischi di mercato, di credito, di 
+liquidità, di controparte e operativi). 
+La SGR definisce, applica e mantiene: 
+ disposizioni interne, tecniche di misurazione e procedure per assicurare il corretto funzionamento 
+del sistema di gestione dei rischi e per verificare il costante rispetto dei limiti e dei divieti sia di natura 
+regolamentare che interna; 
+ un sistema documentato di limiti interni dei rischi ai quali è esposto ogni comparto e assicura che il 
+livello di rischio del comparto sia conforme a tali limiti; 
+ presidi adeguati che, in caso di violazione presente o prevista dei limiti di rischio, consentano 
+l’adozione tempestiva di misure correttive nell’interesse dei partecipanti al fondo. 
+Nella definizione del sistema di gestione dei rischi, per la valutazione del merito di credito delle attività 
+del Fondo, Amundi SGR non si affida esclusivamente o meccanicamente ai rating emessi da agenzie di 
+rating, assicurando che siano condotte adeguate e autonome analisi interne. Risk Management (RM), 
+per quanto di competenza e come specificato dalle procedure aziendali vigenti, verifica che l’attività di 
+investimento dei gestori per ogni portafoglio rispetti: 
+- Limiti normativi e di regolamento; 
+- Direttrici Generali d’Investimento; 
+- Risk Process. 
+RM provvede alla misurazione e all’analisi delle performance, dell’esposizione dei portafogli con 
+riguardo alle diverse classi di attivo, aree geografiche, settori industriali e dei rischi a cui è esposto il 
+patrimonio del Fondo (inclusi, tra l’altro, i rischi di mercato, di credito, di liquidità, di controparte e 
+operativi). 
+RM produce una reportistica al CdA e al Risk Committee.  
+In particolare, il Risk Committee: 
+ sovrintende ai rischi di mercato, svolge il monitoraggio delle performance dei portafogli in 
+gestione, riceve ed analizza i risultati dei controlli; 
+ assume decisioni di natura tecnica, nel rispetto di direttive emanate dal CdA, e formula 
+raccomandazioni riguardanti i rischi legati all’attività di investimento. 
+La tabella seguente riassume i principali indicatori utilizzati per analizzare il profilo di rischio e 
+rendimento dei comparti del Fondo. 
+ 
+ 
+Indicatore/Modalità di calcolo/di verifica Periodicità  Fonte dati Infoprovider 
+ 
+Misurazione performance nette dei Comparti, in assoluto e relativo rispetto al benchmark di riferimento. 
+Performance Nette / Excess Return Netti 
+(differenziale di rendimento dei Comparti rispetto 
+al benchmark al netto della ritenuta fiscale). 
+Quindicinale PREVINET (NAV 
+Calculator)/ 
+BaseIndex1  
+FACTSET, 
+Bloomberg, 
+Reuters,  
+Index Providers 
+Misurazione performance lorde dei Comparti (al lordo delle commissioni di gestione), in assoluto e relativo 
+rispetto al benchmark di riferimento. 
+Performance Lorde / Excess Return Lordi 
+(differenziale di rendimento dei Comparti rispetto 
+al benchmark). 
+Quindicinale PREVINET (NAV 
+Calculator)/ 
+BaseIndex 
+FACTSET, 
+Bloomberg, 
+Reuters,  
+Index Providers 
+ 
+1 Database indici di mercato e valute del Gruppo Amundi
+=== pagina 16 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 16 di 18 
+Indicatore/Modalità di calcolo/di verifica Periodicità  Fonte dati Infoprovider 
+ 
+Misurazione TEV/VAR ex-ante e monitoraggio dei limiti di rischio ex-ante (limite di VAR per il Compart o
+Garantito e limiti di TEV per tutti gli altri Comparti). 
+VaR95% 1M Compart o Garantito , stimato con 
+metodologia di historical simulation, campione di 
+1 anno di rendimenti giornalieri dei fattori di 
+rischio (1Y1D) 
+TEV restanti Comparti stimato con modello 
+multifattoriale, globale, multi asset class (" Barra 
+Integrated Model", versione BIM 301). 
+ 
+Giornaliera Alto2  
+Barra One3 (per i 
+restanti 
+Comparti). 
+Risk Metrics 3 
+(per il Comparto 
+Garantito). 
+ 
+Bloomberg, 
+Reuters,  
+MSCI Barra, Index 
+Providers 
+Misurazione volatilità / TEV ex-post netti 
+Volatilità ex -post e TEV ex -post: standard 
+deviation annualizzata dei rendimenti netti del 
+fondo (Volatilità) e degli excess return netti (TEV) 
+di ogni Comparto stimati con un campione di 1 
+anno di rendimenti quindicinali di Comparti e 
+relativo benchmark. 
+Quindicinale PREVINET (NAV 
+Calculator) / 
+BaseIndex  
+FACTSET, 
+Bloomberg, 
+Reuters,  
+Index Providers 
+Misurazione esposizione dei portafogli rispetto a varie dimensioni (e.g.: geografica, settoriale, tipo di 
+strumento finanziario), misurazione della duration. Monitoraggio limiti di investimento basati sui suddetti 
+indicatori. Esposizione sulle diverse asset class di ogni 
+Comparto stimato sulla base delle evidenze del 
+sistema di position keeping e dei Motori di 
+Calcolo di Medi@+; Monitoraggio dei limiti tramite 
+l'applicativo in uso. 
+Giornaliera Alto 
+Gerico4:  
+Alto 
+Performance Attribution analitica "Brinson Model" per i Comparti bilanciati a benchmark (ad eccezione del 
+Comparto Garantito). 
+Decomposizione del rendimento relativo 
+rispetto al benchmark su un orizzonte temporale 
+mensile e year-to-date negli effetti di asset 
+allocation, stock picking, interaction  e allocazione 
+valutaria secondo il modello di Brinson. 
+Almeno 
+Annuale 
+Alto 
+BaseIndex  
+Alto; 
+Bloomberg, 
+Reuters,  
+Index Providers. 
+Performance Contribution (per il Comparto Garantito). 
+Decomposizione del rendimento assoluto del 
+portafoglio nei contributi derivanti da ogni 
+strumento finanziario in portafoglio su un 
+orizzonte mensile e year- to-date. 
+Almeno 
+Annuale 
+Alto 
+BaseIndex 
+Alto; 
+Bloomberg, 
+Reuters,  
+Index Providers. 
+Misurazione turnover e monitoraggio del limite massimo di turnover. 
+Metodologia COVIP. Misurazione e definizione del 
+limite per anno solare; Stima preventiva mensile 
+ottenuta da PREVINET sul periodo year-to-date. 
+Mensile PREVINET (NAV 
+Calculator) 
+PREVINET 
+(NAV Calculator) 
+ 
+2 Sistema di position keeping e dati anagrafici degli strumenti finanziari in portafoglio del Gruppo. 
+3 Procedura di calcolo centralizzata del rischio ex-ante, gestita con l’omonimo applicativo 
+4 Applicativo per il monitoraggio dei limiti di rischio/investimento del Gruppo.
+=== pagina 17 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 17 di 18 
+Indicatore/Modalità di calcolo/di verifica Periodicità  Fonte dati Infoprovider 
+ Misurazione costi di transazione. 
+Evidenze contabili di portafoglio: statement 
+contabili quindicinali; Bilancio di verifica 
+trimestrale; Rendicontazione Annuale. 
+Quindicinale PREVINET (NAV 
+Calculator) 
+PREVINET (NAV 
+Calculator) 
+Misurazione costi di gestione. 
+Evidenze contabili di portafoglio: statement 
+contabili quindicinali; Bilancio di verifica 
+trimestrale; Rendicontazione Annuale. 
+Quindicinale PREVINET (NAV 
+Calculator) 
+PREVINET (NAV 
+Calculator) 
+Misurazione costi degli OICR componenti. 
+Evidenze contabili di portafoglio: statement 
+contabili quindicinali; Bilancio di verifica 
+trimestrale; Rendicontazione Annuale. 
+Quindicinale PREVINET (NAV 
+Calculator) 
+PREVINET (NAV 
+Calculator)
+=== pagina 18 ===
+Documento sulla politica di investimento 
+Amundi SGR – Marzo 2026  Pagina 18 di 18 
+ 
+5. MODIFICHE NELL’ULTIMO TRIENNIO 
+Si descrivono di seguito le modifiche apportate al presente Documento nell’ultimo triennio. 
+ 
+Data Descrizione sintetica della modifica apportata 
+28/05/2025 Con riferimento a tutti i comparti, escluso il comparto Core Pension Garantito,  
+modifica delle informazioni specifiche circa: 
+-  le caratteristiche di politica d’investimento, a seguito della stipula di un accordo di 
+delega di gestione con Fineco Asset Management DA;  
+- i benchmark, sia in termini di indici utilizzati che di peso dei singoli indici. 
+Con riferimento a tutti i comparti, aggiornamento delle caratteristiche conseguenti alla 
+riclassificazione da art. 8 SFDR ad art. 6 SFDR. 
+Ridenominazione dei comparti, al fine di eliminare il riferimento all’integrazione in modo 
+sistematico di criteri ambientali, sociali e di buon governo e al peso della componente 
+azionaria, come di seguito indicato: 
+- “Core Pension Obbligazionario Misto 25% ESG” in “Core Pension Obbligazionario Misto”; 
+- “Core Pension Bilanciato 50% ESG” in “Core Pension Bilanciato”; 
+- “Core Pension Azionario 75% ESG” in “Core Pension Azionario”; 
+- “Core Pension Azionario Plus 90% ESG” in “Core Pension Azionario Plus”; 
+- “Core Pension Garantito ESG” in “Core Pension Garantito”. 
+Con riferimento a ciascun comparto, ed in particolare agli obiettivi da realizzare nella 
+gestione finanziaria e ai criteri da seguire nella sua attuazione, aggiornamento dei valori 
+relativi a: 
+- volatilità 
+- probabilità di battere l’inflazione attesa 
+- inflazione attesa 
+- obiettivo medio annuo atteso (espresso in termini reali) 
+- rendimento annualizzato atteso  
+- VaR. 
+Aggiornamento, all’interno del paragrafo 4, delle fonti dei dati utilizzati per analizzare il 
+profilo di rischio e rendimento dei comparti del Fondo. 
+22/03/2023 Con riferimento a ciascun comparto, ed in particolare agli obiettivi da realizzare nella 
+gestione finanziaria e ai criteri da seguire nella sua attuazione, aggiornamento dei valori 
+relativi a: 
+- volatilità 
+- probabilità di battere l’inflazione attesa 
+- inflazione attesa 
+- obiettivo medio annuo atteso (espresso in termini reali) 
+- rendimento annualizzato atteso  
+- VaR 
+2/11/2022 Aggiornamento dei limiti previsti per l’investimento in azioni/quote di FIA chiusi (quotati e 
+non quotati) per tutti i comparti ad eccezione del comparto Core Pension Garantito.

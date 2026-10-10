@@ -1,0 +1,718 @@
+# Fondo: FONDO PENSIONE APERTO UNIPOL PREVIDENZA FPA (unipol-previdenza)
+# Documento: Documento sul sistema di governo – Documento sul sistema di Governo
+# Fonte: https://www.unipol.it/api/pub/ueba/download/doc/v1/fascicoli/74108fd5-b01a-490d-aea2-2b301954be60
+# Citato in: https://www.unipol.it/fragments/dialogs/aziende/assicurazioni-servizi/previdenza-e-risparmio/fondo-pensione-aperto/documenti-utili
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 670dd92716853051382c3a2c31cd67c7c7c3575a0fe8fd5eb6e2d2f21eb6406e
+# Pagine: 20
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+UNIPOL PREVIDENZA FPA 
+ 
+Fondo Pensione Aperto iscritto all’Albo tenuto dalla Covip con il n. 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTO SUL SISTEMA DI GOVERNO 
+26 marzo 2026 
+Versione sottoposta all’esame del Consiglio di Amministrazione
+=== pagina 2 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 1 di 18 
+ 
+ 
+ 
+ 
+Indice 
+1. Introduzione ............................................................................................................................................... 3 
+1.1. Definizioni e terminologia ................................................................................................................... 3 
+1.2. Obiettivi del documento ...................................................................................................................... 3 
+1.3. Approvazione e revisione del Documento.......................................................................................... 4 
+2. Contesto di riferimento ............................................................................................................................... 4 
+2.1. Riferimenti normativi interni ed esterni ............................................................................................... 4 
+2.2. Profilo del Fondo Pensione Aperto .................................................................................................... 4 
+3. Sistema di governo societario .................................................................................................................... 5 
+3.1. Separatezza patrimoniale, amministrativa e contabile ....................................................................... 5 
+3.2. Organizzazione della Compagnia rilevante per i profili gestionali del Fondo .................................... 5 
+3.2.1. Il Consiglio di Amministrazione .................................................................................................... 6 
+3.2.2. Il Collegio Sindacale .................................................................................................................... 6 
+3.2.3. Il Responsabile del Fondo Pensione Aperto ................................................................................ 7 
+3.3. Organismo di rappresentanza ............................................................................................................ 8 
+3.4. Il Depositario ...................................................................................................................................... 8 
+4. Il sistema di controllo interno e di gestione dei rischi rilevante per il Fondo Pensione Aperto  .................. 9 
+4.1. Articolazione dei livelli di controllo ...................................................................................................... 9 
+4.2. Le Funzioni Fondamentali ................................................................................................................ 10 
+4.2.1. Area Risk .................................................................................................................................... 11 
+4.2.2. Area Compliance ....................................................................................................................... 11 
+4.2.3. Area Audit .................................................................................................................................. 11 
+5. La Gestione Operativa ............................................................................................................................. 12 
+5.1. Gestione del Portafoglio ................................................................................................................... 12 
+5.2. Gestione dei reclami......................................................................................................................... 12 
+6. La gestione tecnico - amministrativa ....................................................................................................... 12 
+7. La gestione finanziaria ............................................................................................................................. 13 
+7.1. Compiti e responsabilità dei soggetti, organi e strutture della Compagnia coinvolti nel processo di 
+investimento del patrimonio separato del Fondo Pensione Aperto ................................................. 13 
+7.2. Consiglio di Amministrazione ........................................................................................................... 13
+=== pagina 3 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 2 di 18 
+ 
+7.3. Comitato Investimenti Finanziari ...................................................................................................... 13 
+7.4. L’Area Investment ............................................................................................................................ 14 
+7.5. Area Finance .................................................................................................................................... 14 
+7.6. Area Risk .......................................................................................................................................... 16 
+7.7. Unità organizzativa Innovazione e Sviluppo Tecnico Prodotti Vita .................................................. 16 
+7.8. Depositario ....................................................................................................................................... 16 
+8. Flussi informativi intercorrenti tra il Responsabile del Fondo e le strutture della Compagnia/Funzioni 
+Fondamentali ........................................................................................................................................... 16 
+9. Informazioni relative alla Politica di remunerazione................................................................................. 17
+=== pagina 4 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 3 di 18 
+ 
+ 
+1. Introduzione  
+1.1. Definizioni e terminologia 
+Ai fini del presente Documento e in aggiunta alle definizioni previste nel testo che segue, i termini successivamente 
+indicati, ove riportati con lettera iniziale maiuscola, avranno il seguente significato, con la precisazione che i termini 
+definiti al singolare devono intendersi come riferiti anche al plurale e viceversa. 
+Fondo Pensione Aperto o Fondo Unipol Previdenza FPA 
+COVIP o Autorità di Vigilanza La Commissione di vigilanza sui fondi pensione. 
+Unipol Assicurazioni o Compagnia La Compagnia che esercita l’attività di gestione del Fondo Pensione Aperto .   
+Funzioni Fondamentali L’Area Audit, l’Area Risk, l’Area Compliance che svolgono i propri compiti anche con 
+riferimento al Fondo Pensione Aperto. 
+Area Risk La Funzione fondamentale Risk Management della Compagnia che svolge i propri 
+compiti anche con riferimento al Fondo Pensione Aperto. 
+Area Compliance  La Funzione fondamentale Compliance della Compagnia che svolge i propri compiti 
+anche con riferimento al Fondo Pensione Aperto. 
+Area Audit La Funzione fondamentale Audit della Compagnia che svolge i propri compiti anche 
+con riferimento al Fondo Pensione Aperto. 
+Unipol Welfare Solutions o UWS Unipol Welfare Solutions s.r.l. (UWS), società del Gruppo Unipol cui la Compagnia 
+ha esternalizzato la gestione tecnico-amministrativa. 
+1.2. Obiettivi del documento  
+Il presente Documento sul sistema di governo societario afferente alla gestione del Fondo P ensione Aperto è adottato 
+ai sensi dell’art. 4-bis, comma 2, del Decreto legislativo n. 252 del 5 dicembre 2005 contenente la “Disciplina delle forme 
+pensionistiche complementari” e s.m.i 1, nonché ai sensi del Paragrafo 1  delle “Istruzioni di vigilanza per le società che 
+gestiscono fondi pensione aperti, adottate ai sensi dell’art. 5-decies, comma 1, del decreto legislativo 5 dicembre 2005, 
+n. 252” emanate da COVIP  con deliberazione del 13 gennaio 2021. Tale Documento descrive il sistema di governo 
+societario della Compagnia per quanto attiene alle attività rilevanti ai fini della gestione del Fondo e include pertanto la 
+descrizione: 
+− dell’organizzazione della Compagnia rilevante per i profili gestionali inerenti al Fondo Pensione Aperto, ivi incluse 
+le funzioni e/o attività che risultano esternalizzate; 
+− del sistema dei controlli interni rilevanti per il Fondo Pensione  Aperto; 
+− del sistema di gestione dei rischi rilevante per il Fondo Pensione Aperto; 
+ 
+1     Come modificato dal decreto legislativo, n. 147 del 13 dicembre 2018 di attuazione della Direttiva IORP II.
+=== pagina 5 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 4 di 18 
+ 
+− dei compiti e delle responsabilità dei soggetti, organi e strutture della Compagnia coinvolti nel processo di 
+investimento del patrimonio separato del Fondo Pensione Aperto; 
+− dei flussi informativi tra le strutture della Compagnia e il Responsabile del Fondo Pensione Aperto e viceversa; 
+− delle informazioni essenziali relative alla politica di remunerazione del Responsabile del Fondo Pensione Aperto 
+e dei Titolari delle Funzioni Fondamentali. 
+1.3. Approvazione e revisione del Documento  
+Il presente Documento è approvato dal Consiglio di Amministrazione della Compagnia e viene pubblicato nella sezione 
+del sito web della Compagnia dedicata al Fondo Pensione Aperto.  
+Inoltre, viene rivisto e – se del caso – modificato, ogni qualvolta esigenze di aggiornamento normativo, prescrizioni della 
+COVIP, modifiche di contesto o variazioni significative lo richiedano e, comunque, almeno annualmente . 
+2. Contesto di riferimento  
+2.1. Riferimenti normativi interni ed esterni  
+Il presente Documento è redatto in conformità alla normativa in vigore e agli indirizzi di vigilanza di settore di seguito 
+riportati. 
+Normativa comunitaria: 
+− Direttiva (UE) 2016/2341 del Parlamento europeo e del Consiglio, del 14 dicembre 2016 relativa alle attività e 
+alla vigilanza degli enti pensionistici aziendali o professionali (la “Direttiva IORP II”) ; 
+− Regolamento (UE) 2019/2088 del Parlamento Europeo e del Consiglio del 27 novembre 2019 relativo 
+all’informativa sulla sostenibilità nel settore dei servizi finanziari e s.m.i.  
+Fonti nazionali:  
+− Decreto legislativo n. 252 del 5 dicembre 2005 “Disciplina delle forme pensionistiche complementari” e successivi 
+aggiornamenti (il “Decreto 252”); 
+− Deliberazione COVIP del 16 marzo 2012 “Disposizioni sul processo di attuazione della politica di investimento”  
+(“Deliberazione COVIP del 16 marzo 2012”); 
+− Deliberazione COVIP del 13 gennaio 2021 “Istruzioni di vigilanza per le società che gestiscono fondi pensione 
+aperti, adottate ai sensi dell’art. 5 -decies, comma 1, del decreto legislativo 5 dicembre 2005, n. 252”  
+(“Deliberazione COVIP del 13 gennaio 2021”); 
+− Deliberazione COVIP del 19 maggio 2021 contenente gli Schemi di Statuto dei fondi pensione negoziali, di 
+Regolamento dei fondi pensione aperti e di Regolamento dei piani individuali pensionistici, aggiornati a seguito 
+delle modifiche e integrazioni recate al Decreto legislativo 5 dicembre 2005, n. 252 dal Decreto legislativo 13 
+dicembre 2018, n. 147, in attuazione della direttiva (UE) 2016/2341. 
+2.2. Profilo del Fondo Pensione Aperto 
+Il Fondo P ensione Aperto è stato istituito ai sensi dell’art. 12 del Decreto 252 dalla “Compagnia Assicuratrice Unipol 
+S.p.A.”, giusta autorizzazione rilasciata dalla COVIP con provvedimento del 22 luglio 1998.  
+Il Fondo è iscritto all’Albo tenuto dalla COVIP e l’attività relativa allo stesso è svolta in Bologna, presso la sede della 
+Compagnia che lo gestisce.
+=== pagina 6 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 5 di 18 
+ 
+Ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni pensionistiche 
+complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta dei contributi, la gestione delle 
+risorse nell’esclusivo interesse degli aderenti, e l’erogazione delle prestazioni secondo quanto disposto dalla normativa 
+tempo per tempo vigente. 
+Il Fondo è in regime di contribuzione definita; l’entità delle prestazioni pensionistiche del Fondo è determinata in 
+funzione della contribuzione effettuata e in base al principio della capitalizzazione.  
+L’adesione al Fondo è volontaria ed è consentita in forma individuale. È altresì consentita, su base collettiva, ai soggetti 
+destinatari delle forme pensionistiche complementari individuati dall’art. 2, comma 1, del Decreto 252, nei cui confronti 
+trovino applicazione i contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo.  
+Ai sensi dell’articolo 8 comma 7 del Decreto 252 l’adesione al Fondo su base collettiva può avvenire anche mediante 
+conferimento tacito del TFR maturando. 
+3. Sistema di governo societario 
+Il sistema di governo societario della Compagnia, per i profili relativi alla gestione del Fondo , risponde alla prioritaria 
+esigenza, attuale e prospettica, di tutela degli aderenti e dei beneficiari de l Fondo stesso  e di salvaguardia della piena 
+separazione patrimoniale tra il patrimonio del Fondo Pensione Aperto e il patrimonio della Compagnia e degli altri 
+clienti. 
+3.1. Separatezza patrimoniale, amministrativa e contabile 
+La Compagnia gestisce il patrimonio del Fondo destinandolo esclusivamente al perseguimento dello scopo 
+previdenziale. 
+Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia al patrimonio 
+della Compagnia, sia a quello degli altri fondi gestiti, sia a quello degli aderenti.  
+Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non può essere 
+distratto da tale fine. 
+Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori della Compagnia o di rappresentanti 
+dei creditori stessi, né da parte dei creditori degli aderenti o di rappresentanti dei creditori stessi. Il patrimonio del 
+Fondo non può essere coinvolto nelle procedure concorsuali che riguardino la Compagnia.  
+La Compagnia è dotata di procedure atte a garantire la separatezza amministrativa e contabile delle operazioni poste in 
+essere per conto del Fondo rispetto al complesso delle altre operazioni svolte dalla Compagnia e del patrimonio del 
+Fondo rispetto a quello della Compagnia e di suoi clienti. 
+La Compagnia è dotata di procedure organizzative atte a garantire la separatezza amministrativa e contabile delle 
+operazioni poste in essere in riferimento a ciascun comparto. Il patrimonio di ciascun comparto è suddiviso in differenti 
+classi di quote. 
+3.2. Organizzazione della Compagnia rilevante per i profili gestionali del Fondo  
+Di seguito si illustrano gli organi e le funzioni della Compagnia ed i relativi  compiti e responsabilità con riferimento  al 
+governo, al sistema dei controlli e di gestione dei rischi, nonché alla gestione operativa, tecnico amministrativa, 
+finanziaria del Fondo, con la precisazione delle funzioni e attività esternalizzate .
+=== pagina 7 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 6 di 18 
+ 
+3.2.1. Il Consiglio di Amministrazione  
+Il Consiglio di Amministrazione è il responsabile ultimo del sistema di governo societario della Compagnia, ne definisce 
+gli indirizzi strategici, anche nell’ottica del perseguimento del Successo Sostenibile, ne assicura la costante completezza, 
+funzionalità ed efficacia, nonché, con particolare riferimento al Fondo Pensione Aperto: 
+a) approva l’assetto organizzativo, amministrativo e contabile, con particolare riguardo al sistema di controllo 
+interno e di gestione dei rischi; 
+b) approva le politiche applicabili, assicurando che quelle relative al sistema di governo societario siano coerenti tra 
+loro, con la strategia dell’impresa e con le politiche di Gruppo; 
+c) adotta misure appropriate atte a garantire la continuità e la regolarità dello svolgimento delle attività relative al 
+Fondo Pensione Aperto, tra cui l’elaborazione di piani di emergenza; 
+d) definisce le linee di indirizzo del sistema di controllo interno e di gestione dei rischi, al fine di contribuire al 
+Successo Sostenibile della Compagnia, in modo che i principali rischi afferenti alla Compagnia e al Fondo risultino 
+correttamente identificati, nonché adeguatamente misurati, gestiti e monitorati, in coerenza con le strategie 
+della Compagnia; 
+e) approva, con cadenza almeno annuale e sentito il Collegio Sindacale, i piani di lavoro predisposti dai Titolari delle 
+Funzioni Fondamentali, nonché esamina le relazioni periodiche e quelle di particolare rilevanza predisposte dagli 
+stessi;  
+f) riceve dai Titolari delle Funzioni Fondamentali la relazione sull’attività svolta che riepiloga tutte le verifiche 
+effettuate, i risultati emersi, i punti di debolezza o carenze rilevate e le raccomandazioni formulate per la loro 
+rimozione; 
+g) provvede (i) alla nomina del Responsabile (figura delineata al successivo paragrafo 3.2.4), nonché (ii) alla nomina, 
+sostituzione e revoca, con il supporto del Comitato Controllo e Rischi nonché sentito il Collegio Sindacale – dei 
+Titolari delle Funzioni Fondamentali, nel rispetto dei requisiti di idoneità alla carica fissati dalla Fit & Proper Policy, 
+assicurando che gli stessi siano dotati delle risorse adeguate all’espletamento delle proprie responsabilità;  
+h) definisce e rivede con cadenza annuale le politiche di remunerazione della Compagnia , applicabili anche al 
+Responsabile e ai Titolari delle Funzioni Fondamentali ai sensi di quanto espressamente richiesto dalla disciplina 
+di riferimento, sottoponendole all’approvazione dell’Assemblea ordinaria ed è responsabile della loro corretta 
+applicazione; provvede inoltre alla pubblicità delle informazioni essenziali relative a tali politiche;  
+i) ha la responsabilità ultima dell’osservanza della normativa nazionale e delle norme europee direttamente 
+applicabili; 
+j) ha la responsabilità delle attività e delle funzioni esternalizzate con riferimento al Fondo Pensione Aperto, inclusa 
+quella relativa all’osservanza degli obblighi derivanti da disposizioni normative nazionali, nonché di quelli 
+derivanti da disposizioni dell’Unione europea direttamente applicabili al Fondo medesimo.  
+3.2.2. Il Collegio Sindacale  
+Un ruolo particolare in materia di controlli è svolto dal Collegio Sindacale, che ha la responsabilità di vigilare sulla 
+completezza, funzionalità e adeguatezza dell’assetto organizzativo, amministrativo e contabile adottato e del 
+complessivo sistema di governo societario ed è tenuto ad accertare, tra l’altro, l’adeguatezza di tutte le funzioni 
+coinvolte nel sistema di controllo interno  e di gestione dei rischi, il corretto assolvimento dei compiti e l’adeguato
+=== pagina 8 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 7 di 18 
+ 
+coordinamento delle medesime, segnalando all’organo amministrativo le eventuali anomalie e debolezze dell’assetto 
+organizzativo e del sistema societario, promuovendo gli interventi correttivi delle carenze e delle irregolarità rilevate.  
+3.2.3. Il Responsabile del Fondo Pensione Aperto 
+Il Responsabile del Fondo,  nominato ai sensi dell’art.  5, comma 2 del Decreto 252, è in possesso dei requisiti previsti 
+dall’articolo 5-sexies del Decreto 252 e svolge la propria attività in modo autonomo e indipendente  dalla Compagnia, 
+riportando al Consiglio di Amministrazione della stessa in merito ai risultati dell’attività svolta.  
+A tal fine  si avvale della collaborazione delle strutture organizzative della Compagnia, di volta in volta necessarie allo 
+svolgimento dell’incarico e all’adempimento dei propri doveri. La Compagnia garantisce l’accesso a tutte le informazioni 
+necessarie allo scopo; a tal fine sono previsti su richiesta flussi informativi e report completi e tempestivi tra le strutture 
+organizzative e il Responsabile, nonché tra questo e le Funzioni Fondamentali (cfr. par. 8). 
+Il Responsabile può assistere alle riunioni del Consiglio di Amministrazione e del Collegio Sindacale per le materie 
+inerenti al Fondo. 
+L’incarico non può essere in ogni caso conferito ad uno degli amministratori della Compagnia ed è incompatibile con lo 
+svolgimento di attività di lavoro subordinato o di prestazione d’opera continuativa, presso la Compagnia ovvero presso 
+le società da queste controllate o che le controllano. 
+Il Responsabile verifica che la gestione del Fondo sia svolta nell’esclusivo interesse degli aderenti e dei beneficiari e vigila 
+sull’osservanza della normativa e del Regolamento del Fondo Pensione Aperto nonché sul rispetto delle buone pratiche 
+e dei principi di corretta amministrazione del Fondo. 
+In particolare, il Responsabile vigila: 
+− sulla gestione finanziaria del Fondo, anche controllando il rispetto della normativa e delle regole interne della 
+stessa circa i limiti di investimento; 
+− sulla gestione amministrativa del  Fondo, in particolare controllando la separatezza amministrativa e contabile 
+delle operazioni poste in essere per conto della forma pensionistica e del patrimonio della stessa rispetto a 
+quanto afferente alle altre attività della società e la regolare tenuta dei libri e delle scritture contabili riguardanti 
+la forma pensionistica; 
+− sulle misure di trasparenza adottate nei confronti degli aderenti e beneficiari;  
+− sull’adeguatezza della procedura di gestione dei reclami; 
+− sulla tempestiva e corretta erogazione delle prestazioni; 
+− sulle situazioni in conflitto di interesse; 
+− sul rispetto delle buone pratiche e dei principi di corretta amministrazione.  
+Inoltre, ha il compito di comunica re tempestivamente al Consiglio di Amministr azione e al Collegio Sindacale le 
+irregolarità riscontrate, indicando gli interventi correttivi da adottare. 
+Il Responsabile predispone annualmente una relazione circa le procedure di controllo adottate, la sua organizzazione, i 
+risultati dell’attività svolta, le anomalie riscontrate e le iniziative poste in essere per eliminarle. La r elazione è inviata 
+alla COVIP, al Consiglio di Amministrazione e al Collegio Sindacale, nonché all’Organismo di Rappresentanza.  
+Ulteriori dettagli sul ruolo e sull e responsabilità del Responsabi le sono descritti nel  Regolamento disponibile nella 
+sezione del sito web della Compagnia dedicata al Fondo Pensione Aperto.
+=== pagina 9 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 8 di 18 
+ 
+3.3. Organismo di rappresentanza 
+La Compagnia costituisce un Organismo di rappresentanza  (di seguito “Organismo”) , ai sensi dell’art.5, comma 5, del 
+Decreto 252. 
+Il numero complessivo dei componenti è individuato dalla Compagnia in modo tale da garantire la rappresentatività 
+degli iscritti per adesioni collettive e la funzionalità dell’Organismo. 
+Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle che alla fine del mese precedente 
+alla designazione hanno almeno 500 lavoratori iscritti al Fondo.  
+I componenti dell’Organismo restano in carica tre anni e possono svolgere più mandati. I componenti nominati in 
+sostituzione di quelli cessati in corso di mandato scadono insieme a quelli in carica all’atto della loro nomina.  
+Le spese di funzionamento dell’Organismo e gli eventuali compensi riconosciuti ai suoi componenti non possono gravare 
+sul Fondo né sulla Compagnia. 
+Tale Organismo svolge funzioni di collegamento tra le collettività che aderiscono al Fondo Pensione  Aperto, la 
+Compagnia e il Responsabile.  
+L’Organismo non svolge funzioni di controllo; i componenti devono adempiere le loro funzioni nel rispetto dei principi 
+generali di correttezza e buona fede e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza in 
+ragione del loro ufficio. 
+Ulteriori dettagli sulla nomina, sulla composizione e sul funzionamento di tale Organismo sono descritti nel documento 
+denominato “Disposizioni in materia di Organismo di rappresentanza”  disponibile nella sezione del sito web  della 
+Compagnia dedicata al Fondo Pensione Aperto. 
+3.4. Il Depositario 
+Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei requisiti previsti 
+dall’articolo 47 del decreto legislativo 24 febbraio 1998, n.58 (di seguito “depositario”). Le funzioni di depositario sono 
+regolate dalla normativa tempo per tempo vigente. 
+In particolare, il depositario: 
+a) mantiene in custodia tutti gli strumenti finanziari del Fondo Pensione Aperto che possono essere registrati in un 
+conto di strumenti finanziari aperto nei propri libri contabili e tutti gli strumenti finanziari che possono essergli 
+fisicamente consegnati; 
+b) garantisce che tutti gli strumenti finanziari siano registrati in conti separati, aperti a nome del Fondo Pensione  
+Aperto, in modo tale che possano essere chiaramente identificati come appartenenti allo stesso;  
+c) per tutte le altre risorse diverse dagli strumenti finanziari di cui alla lettera a) il depositario verifica la proprietà 
+da parte del F ondo Pensione Aperto di tali risorse, in base a informazioni o documenti forniti dal Fondo, se 
+disponibili, in base a prove esterne. Il depositario conserva e mantiene aggiornato un registro relativo a tali attivi; 
+d) esegue le istruzioni impartite dal Fondo o dal soggetto gestore del patrimonio del Fondo, se non siano contrarie 
+alla legge, alle norme statutarie e regolamentari del Fondo stesso e ai criteri stabiliti nel decreto del Mi nistro 
+dell’economia e delle finanze di cui all’articolo 6, comma 5-bis del Decreto 252; 
+e) accerta che nelle operazioni che coinvolgano le attività del Fondo Pensione Aperto il controvalore sia rimesso al 
+Fondo nei termini d’uso; 
+f) accerta che i redditi prodotti dagli attivi ricevano una destinazione conforme alle re gole del Fondo;
+=== pagina 10 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 9 di 18 
+ 
+g) per quanto compatibili, svolge ogni altro compito previsto dall’articolo 48 del decreto legislativo 24 febbraio 
+1998, n. 58, e relativa normativa di attuazione, per gli OICR. 
+La Compagnia può revocare in ogni momento l’incarico al depositario il quale può, a sua volta, rinunciare con preavviso 
+di almeno sei mesi; in ogni caso, l’efficacia della revoca o della rinuncia è sospesa fino a che:  
+− la Compagnia non abbia stipulato un nuovo contratto con altro depositario, in possesso dei requisiti di legge;  
+− il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario.  
+Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità della Compagnia  
+per l’operato del soggetto delegato. 
+Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità riscontrate nella 
+gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di cui sono venuti a conoscenza 
+nell’esercizio delle funzioni di depositario. 
+Sulle somme di denaro e sugli strumenti finanziari del Fondo depositat i presso il depositario non sono ammesse azioni 
+dei creditori del depositario, del sub depositario o nell’interesse degli stessi.  
+4. Il sistema di controllo interno e di gestione dei rischi rilevante per il Fondo Pensione  Aperto 
+Il sistema di controllo interno e di gestione dei rischi della Compagnia costituisce un elemento fondamentale del 
+complessivo sistema di governo societario, anche con riferimento ai profili relativi alla gestione del Fondo Pensione  
+Aperto e rappresenta un efficace presidio per garantire il rispetto delle regole, la funzionalità del sistema gestionale e 
+la diffusione di valori di corretta amministrazione e legalità, nonché l’emersione delle eventuali anomalie e la loro 
+rappresentazione a chi è in grado di attivare tempestivamente gli opportuni interventi correttivi. 
+Esso è costituito dall’insieme delle regole, delle procedure e delle strutture organizzative finalizzate ad una effettiva ed 
+efficace identificazione, misurazione, gestione e monitoraggio dei principali rischi, al fine di contribuire al successo 
+sostenibile della Compagnia e delle imprese del Gruppo.  
+4.1. Articolazione dei livelli di controllo 
+L’attività di controllo non può essere demandata esclusivamente ad alcuni specifici uffici o agli organi di sorveglianza e 
+controllo. Tutte le strutture operative devono avere un proprio ruolo nel verificare le operazioni poste in essere, 
+secondo differenti livelli di responsabilità.  
+Il Sistema di controllo interno e di gestione dei rischi nella Compagnia è articolato secondo più livelli: 
+− controlli di linea (c.d. “ prima linea di difesa ”), diretti ad assicurare il corretto svolgimento delle operazioni. Essi 
+sono effettuati dalle stesse strutture operative (es. controlli di tipo gerarchico, sistematici e a campione), anche 
+attraverso diverse unità  che riportano ai responsabili delle strutture stesse, ovvero eseguiti nell’ambito delle 
+attività di back office ; per quanto possibile, essi sono incorporati nelle procedure informatiche. Le strutture 
+operative sono le prime responsabili del processo di gestione dei rischi e devono assicurare l’osser vanza delle 
+procedure adottate per la realizzazione del processo e il rispetto del livello di tolleranza al rischio stabilito . 
+Quando i processi, le attività o le funzioni sono esternalizzat i, i controlli di linea sono svolti dagli outsourcer  e 
+sono diretti ad assicurare il corretto svolgimento delle operazioni sulla base di quanto stabilito nei contratti di 
+esternalizzazione. 
+− controlli sui rischi e sulla conformità (c.d. “seconda linea di difesa”), che hanno l’obiettivo di assicurare, tra l’altro:  
+− la corretta attuazione del processo di gestione dei rischi;
+=== pagina 11 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 10 di 18 
+ 
+− la realizzazione delle attività a loro affidate dal processo di gestione dei rischi;  
+− il rispetto dei limiti operativi assegnati alle varie funzioni;  
+− il rispetto delle disposizioni, anche di autoregolamentazione, in materia di gestione dei conflitti di 
+interesse;  
+− la conformità alle norme, anche di autoregolamentazione, dell’operatività aziendale , anche in materia di 
+prevenzione del rischio di riciclaggio e di contrasto del finanziamento del terrorismo ; 
+Le funzioni preposte a tali controlli sono distinte da quelle operative; esse concorrono alla definizione delle 
+politiche di governo dei rischi e del processo di gestione dei rischi; 
+− revisione interna (c.d. “ terza linea di difesa ”), attività di verifica sulla completezza, funzionalità, adeguatezza e 
+affidabilità del Sistema di controllo interno e di gestione dei rischi ( incluse la prima e la seconda linea di difesa ) 
+nonché della coerenza dell’operatività aziendale rispetto ad esso.  
+La Compagnia ha istituito l’Area Risk e l‘Area Compliance quali unità indipendenti preposte alla seconda linea di difesa  
+e l ’Area Audit quale unità indipendente preposta alla terza linea di difesa (complessivamente le “Funzi oni 
+Fondamentali”); tali funzioni svolgono i propri compiti anche con riguardo al Fondo Pensione  Aperto. 
+4.2. Le Funzioni Fondamentali  
+Le Funzioni Fondamentali  sono tra loro separate sotto un profilo organizzativo e rispondono al Consiglio di 
+Amministrazione della Compagnia.  
+I Titolari delle predette f unzioni possiedono i requisiti di professionalità, onorabilità ed indipendenza  previsti dalla 
+normativa di settore applicabile alla Compagnia.   
+Questi ultimi: 
+− sono collocati in posizione gerarchico-funzionale adeguata;  
+− sono nominati e revocati dal Consiglio di Amministrazione  secondo le modalità e nel rispetto dei requisiti di 
+idoneità alla carica previsti dalla Fit & Proper Policy e dalle normative, anche di autoregolamentazione, applicabili 
+in relazione al settore di appartenenza, assicurando che gli stessi siano dotati dell e risorse adeguate 
+all’espletamento delle proprie responsabilità;  
+− sono dotati dell’autorità necessaria a garantire l’indipendenza della f unzione; 
+− non hanno responsabilità diretta di aree operative sottoposte a controllo;  
+− riferiscono direttamente agli organi sociali individuati all’interno della Compagnia e comunicano ai medesimi, 
+per quanto riguarda il Fondo Pensione  Aperto, le risultanze e le raccomandazioni rilevanti nel proprio ambito di 
+responsabilità; 
+− comunicano alla COVIP le situazioni problematiche riscontrate nello svolgimento della propria attività , qualora 
+le stesse non abbiano trovato, come dovrebbero, soluzione all’interno della Compagnia .  
+I criteri di remunerazione del personale delle Funzioni, in linea con le politiche di remunerazione adottate  dalla 
+Compagnia, non ne compromettono l’obiettività, e concorrono a creare un sistema di incentivi coerente con le finalità 
+dell’attività svolta.
+=== pagina 12 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 11 di 18 
+ 
+4.2.1. Area Risk 
+Nel Sistema di Gestione dei Rischi, che è l’insieme dei processi e strumenti utilizzati a supporto della strategia di gestione 
+dei rischi e consente un’adeguata comprensione della natura e della significatività dei rischi, l’Area Risk ha il compito di 
+individuare, misurare, valutare e monitorare su base continuativa i rischi a cui il Fondo Pensione  Aperto è o potrebbe 
+essere esposto e le relative interdipendenze. In tale ambito ha il compito di assicurare il presidio e il monitoraggio dei 
+rischi correlati alla gestione del Fondo e l’eventuale mitigazione degli stessi. 
+4.2.2. Area Compliance  
+L’Area Compliance ha la responsabilità di valutare, secondo un approccio risk-based, l’adeguatezza delle procedure, dei 
+processi, delle politiche e dell’organizzazione della Compagnia, al fine di prevenire il rischio di non conformità rispetto 
+alle normative esterne e interne applicabili e alle norme di autoregolamentazione.  
+Le attività dell’Area Compliance con riferimento al Fondo Pensione Aperto sono in particolare rivolte alla tutela della 
+trasparenza e correttezza nei confronti degli aderenti e dei beneficiari. 
+I principali compiti che l’Area Compliance è chiamata a svolgere sono: 
+− l’identificazione in via continuativa delle norme applicabili e la valutazione del loro impatto su processi e 
+procedure, prestando supporto e consulenza agli Organi Aziendali e alle altre funzioni aziendali sulle materie per 
+cui assume rilievo il rischio di non conformità;  
+− la valutazione dell’adeguatezza e dell’efficacia delle misure adottate per la prevenzione del rischio di non 
+conformità, e la proposta di modifiche organizzative e procedurali finalizzate ad assicurare un adeguato presidio 
+di tale rischio; 
+− la valutazione dell’efficacia degli adeguamenti organizzativi (strutture, processi, procedure) conseguenti  alle 
+modifiche suggerite. 
+4.2.3. Area Audit  
+L’Area Audit è incaricata di valutare e monitorare l’efficacia, l’efficienza e l’adeguatezza del sistema di controllo interno 
+e delle ulteriori componenti di governo societario, in relazione alla natura dell’attività esercitata e al livello dei rischi 
+assunti, la sua coerenza con le linee di indirizzo definite dal Consiglio di Amministrazione, nonché le eventuali necessità 
+di adeguamento, anche attraverso attività di supporto e consulenza alle altre funzioni aziendali.  
+Nello svolgimento dei propri compiti  per il  Fondo Pensione  Aperto, l’Area Audit struttura la propria attività, in 
+particolare, in (i) verifiche Bottom Up , inclusi i Follow Up (verifiche sui controlli della Ia e IIa linea di difesa per il perimetro 
+di intervento, i cui esiti confluiscono in Audit Report destinati all’Alta Direzione e al Management interessato, volte a 
+valutare il Sistema di Controllo Interno in essere a presidio dei rischi sottostanti gli ambiti di a ttività oggetto di verifica 
+(ii) verifiche Top Down (attività di raccolta e analisi nel continuo di dati dai data -base aziendali e/o di flussi informativi, 
+dalle diverse funzioni dell’ Area Audit, dalle altre Funzioni Fondamentali /Funzione Antiriciclaggio  e dalle strutture 
+aziendali che a vario titolo intervengono nell’attuazione del Sistema di Controllo Interno e di Gestione dei Rischi)  (iii) 
+altre verifiche (verifiche preliminari alla stesura delle relazioni previste da normativa, Detection Frodi Interne) . 
+Nell’ambito delle proprie attività figurano in particolare: 
+− le verifiche sulla correttezza dei processi gestionali e l’efficacia e l’efficienza delle procedure organizzative;  
+− le verifiche sul rispetto nei diversi settori operativi dei limiti previsti dai meccanismi di delega nonché del pieno 
+e corretto utilizzo delle informazioni disponibili nelle diverse attività;
+=== pagina 13 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 12 di 18 
+ 
+− le verifiche sull’adeguatezza e sull’affidabilità dei sistemi informativi, idonei a garantire (i) la continuità e la 
+regolarità dell’attività esercitata, (ii) la difesa del patrimonio informativo aziendale e (iii) la qualità, correttezza e 
+tempestività delle informazioni sulle quali il vertice aziendale basa le proprie decisioni;  
+− le verifiche relative alla rispondenza dei processi amministrativo contabili a criteri di correttezza e di regolare 
+tenuta della contabilità; 
+− le verifiche relative all’efficacia, all’efficienza e all’effettività dei controlli svolti sulle attività esternalizzate;  
+− la verifica della regolarità e funzionalità dei flussi informativi fra settori aziendali , oltre che verso tutti i soggetti 
+e gli organi che intervengono nei processi decisionali; 
+− le verifiche sull’adeguatezza e sulla corretta attuazione dell’assetto organizzativo interno.  
+5. La Gestione Operativa 
+5.1. Gestione del Portafoglio 
+Le attività relative alla gestione del portafoglio del Fondo Pensione Aperto vengono prestate dalle funzioni dell’Area Life 
+della Compagnia. 
+Le funzioni prestano le attività necessarie a dare attuazione alle previsioni normative in vigore, riguardanti specifiche 
+aree tematiche, finalizzate in particolare a (i) assicurare la corretta adesione, gestione delle posizioni e liquidazione delle 
+prestazioni e l’esecuzione del relativo pagamento; (ii)  gestire i controlli di primo livello per l’assunzione, gestione e 
+liquidazione; (iii) supportare e fornire assistenza al canale distributivo e ai clienti per tutte per tutte le problematiche 
+inerenti all’emissione, alla gestio ne e alla liquidazione; (iv) predisporre, con il supporto di UWS , i Prospetti delle 
+prestazioni in fase di accumulo  e gestire i rapporti con quest’ultima per i flussi dei dati tecnici, contabili, e per la 
+produzione della documentazione agli aderenti; (v) garantire il controllo tecnico dei registri bollati di competenza ; (vi) 
+predisporre i flussi, i report , le comunicazioni e le statistiche richieste dalla normativa previdenziale, dal Responsabile  
+del Fondo, dalla Società di Revisione, dalle Funzioni Fondamentali o da altre Autorità.  
+5.2. Gestione dei reclami 
+Le attività relative alla gestione dei reclami del Fondo Pensione Aperto sono svolte dalla funzione Customer Advocacy. 
+In particolare, tale funzione ha il compito di: (i) catalogare i reclami ai sensi della normativa di settore; (ii)  predisporre, 
+sulla base delle bozze di risposta/note tecniche e della documentazione di supporto, il riscontro agli aderenti secondo 
+criteri di qualità del servizio, uniformità d’impostazione e di tutela della reputazione della Compagnia; (iii)  inviare copia 
+del reclamo nonché del relativo riscontro ai Responsabili del Fondo; (iv) inviare mensilmente al Responsabile del Fondo 
+un prospetto di sintesi della catalogazione dei reclami COVIP ricevuti  nel periodo interessato al fine di monitorarne 
+l’andamento; (v) curare la predisposizione dei Registri Reclami COVIP ai sensi della normativa di settore.  
+6. La gestione tecnico - amministrativa 
+La Compagnia ha esternalizzato ad Unipol  Welfare Solutions  (UWS) l’incarico di svolgere la gestione tecnica e 
+amministrativa del Fondo Pensione Aperto, relativa, tra l’altro, alle attività di (i) gestione delle anagrafiche degli aderenti 
+e, in caso lavoratori dipendenti, delle aziende di appartenenza; (ii)  gestione dei contributi versati al Fondo (fase di 
+accumulo); (iii) gestione dei trasferimenti  in ingresso ; (iv) gestione delle liquidazioni (fase di erogazione); (v)  
+adempimenti fiscali; (vi) gestione contabile (riconciliazione incassi, fornitu ra dati per contabilità e per predisposizione 
+bilancio etc.); (vii) reportistica; (viii) messa a disposizione di ambiente web per l’accesso, per attività di consultazione / 
+immissione dati, alle informazioni presenti nella banca dati del Fondo Aperto, con profili differenziati; (ix) invio alla
+=== pagina 14 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 13 di 18 
+ 
+Compagnia con cadenza periodica di flussi di dati per l’alimentazione e l’aggiornamento delle informazioni presenti 
+nell’area riservata in ambiente web degli aderenti al Fondo Pensione, gestita dalla Compagnia.  
+All’interno del contratto che disciplina i rapporti tra la Compagnia ed il fornitore sono chiaramente definiti e formalizzati 
+i livelli di servizio attesi (c.d. “SLA”), nonché le informazioni necessarie per la verifica del loro rispetto.  
+7. La gestione finanziaria 
+7.1. Compiti e responsabilità dei soggetti, organi e strutture della Compagnia coinvolti nel processo di 
+investimento del patrimonio separato del Fondo Pensione Aperto 
+I soggetti coinvolti nel processo di definizione e attuazione della Politica di Investimento, con ruoli e competenze 
+diversificate, sono: 
+− il Consiglio di Amministrazione; 
+− il Comitato Investimenti Finanziari; 
+− l’Area Investment; 
+− l’Area Finance; 
+− l’Area Risk; 
+− l’Unità organizzativa Innovazione e Sviluppo Tecnico Prodotti Vita; 
+− il Depositario. 
+A tali soggetti sono attribuiti i compiti e le responsabilità sinteticamente riportati di seguito.  
+Il sistema di controllo della politica di investimento con riguardo ai contr olli di primo e di secondo livello sulla gestione 
+finanziaria del Fondo Pensione Aperto è riportato nel Documento sulla Politica di Investimento disponibile nella sezione 
+del sito web della Compagnia dedicata al Fondo.  
+7.2. Consiglio di Amministrazione  
+Il Consiglio di Amministrazione, con specifico riferimento al Fondo, provvede a: 
+− definire e adottare la Politica di Investimento idonea a raggiungere gli obiettivi strategici e verificarne il rispetto; 
+− revisionare – ed eventualmente modificare – la Politica di Investimento con cadenza almeno triennale;  
+− esaminare il rapporto trimestrale sulla gestione finanziaria, predisposto dal Chief Finance Officer  e trasmesso 
+dall’Area Investment; 
+− esercitare il controllo sull’attività svolta dall’Area Finance e assumere le relative determinazioni; 
+− approvare le procedure di controllo della gestione finanziaria, tenendo conto delle proposte formulate dall’Area 
+Finance; 
+− definire nella Politica di Investimento la strategia in materia di esercizio dei diritti di voto spettanti al Fondo . 
+7.3. Comitato Investimenti Finanziari 
+Il Comitato Investimenti Finanziari con particolare riferimento al Fondo provvede a:  
+− prendere atto delle decisioni del Consiglio di Amministrazione in relazione al Fondo, favorendone l’attuazione da 
+parte delle unità competenti dell’Area Finance;
+=== pagina 15 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 14 di 18 
+ 
+− esaminare ed esprimere un parere sulle proposte di allocazione tattica dei portafogli formulate dall’Area Finance; 
+− esaminare ed esprimere un parere in merito ai limiti operativi proposti dall’Area Finance; 
+− effettuare valutazioni sull’attuazione della strategia d’investimento da parte delle unità competenti dell’Area 
+Finance e sul loro operato, con particolare attenzione agli investimenti in strumenti alternativi e in derivati;  
+− esaminare ed esprimere un parere in merito alle proposte di investimento in OICR alternativi nonché alle ulteriori 
+proposte operative formulate dall’Area Finance; 
+− valutare le proposte di aggiornamento della Politica di Investimento formulate dall’Area Finance. 
+Il Comitato Investimenti Finanziari è convocato di norma con frequenza mensile.  Il verbale delle riunioni viene inviato 
+ai componenti del Comitato e agli invitati. 
+7.4. L’Area Investment 
+L’Area Investment provvede a trasmettere al Consiglio di Amministrazione e al Collegio Sindacale il rapporto trimestrale 
+sulla gestione finanziaria predisposto dal Chief Finance Officer. 
+7.5. Area Finance 
+L’Area Finance, attraverso le diverse unità interne e nel rispetto della separazione dei ruoli , contribuisce 
+all’impostazione della Politica di Investimento, vi dà attuazione operando sui mercati e d effettua i controlli previsti , 
+anche in coerenza con quanto stabilito dalle proprie procedure interne. 
+In particolare: 
+− il Chief Finance Officer provvede a: 
+− formulare eventuali proposte di modifica o integrazione della Politica di Investimento;  
+− definire, sviluppare e aggiornare le procedure interne di controllo della gestione finanziaria, da sottoporre 
+all’approvazione del Consiglio di Amministrazione; 
+− redigere il rapporto trimestrale di verifica sulla gestione finanziaria da trasmettere, a cura dell’Area 
+Investment, al Consiglio di Amministrazione e al Collegio Sindacale circa la situazione di ogni singolo 
+Comparto, corredato da una valutazione del grado di rischio assunto in rapporto al rendimento realizzato 
+e, in caso di significativi cambiamenti nei livelli di ris chio – rendimento derivanti dall’attività di 
+investimento o di superamento delle soglie di rischiosità, redigere una relazione straordinaria ; 
+− rendicontare all’interno del rapporto trimestrale di verifica sulla gestione finanziaria gli esiti dei controlli 
+effettuati dalle varie strutture dell’Area Finance coinvolte nel processo di investimento. 
+− l’unità organizzativa Pension Funds & Unit Financial Management  e, all’interno di questa, l a funzione Gestione 
+Fondi Aperti e Unit Linked e Fondi Negoziali provvede a: 
+− per i Comparti con strategia a benchmark , investire le risorse finanziarie al fine di realizzare extra  
+rendimenti ottimizzando il profilo di rischio di ciascun Comparto, attraverso una gestione attiva contro 
+benchmark, verificando ex ante il rispetto dei limiti, attraverso specifici strumenti quali ad esempio il 
+monitor limiti attivo sul registro ordini; 
+− per i Comparti con strategia flessibile, investire le risorse finanziare al fine di realizzare rendimenti 
+adeguati nel rispetto del profilo di rischio di ciascun Comparto, verificando ex ante il rispetto dei limiti, 
+attraverso specifici strumenti quali ad esempio il monitor limiti attivo sul registro ordini;
+=== pagina 16 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 15 di 18 
+ 
+− predisporre la reportistica per il Comitato Investimenti Finanziari sull’attività di gestione dei portafogli;  
+− decidere lo stock picking , il market timing nonché l’allocazione tattica delle risorse tenendo conto dei 
+pareri espressi dal Comitato Investimenti Finanziari in tema di proposte di investimento e di limiti 
+operativi; 
+− effettuare analisi sulle caratteristiche di rischio –  rendimento relative ad eventuali investimenti su 
+strumenti derivati; 
+− effettuare le valutazioni circa l’opportunità dell’impiego di OICR alternativi compiendo le analisi per 
+individuare i rapporti rischio –  rendimento associati a tali investimenti (sia considerati isolatamente che 
+in relazione all’interazione con le altre ti pologie di strumenti finanziari presenti nel portafoglio) 
+avvalendosi, eventualmente, del contributo dell e unità organizzative Equity e Investimenti Alternativi  e 
+dell’unità Pension Funds & Unit Portfolio Analysis; 
+− formulare al Comitato Investimenti Finanziari proposte di investimento in OICR alternativi;  
+− esercitare il diritto di voto inerente ai titoli oggetto della gestione, secondo quanto previsto nella Politica 
+di Investimento; 
+− la funzione Middle Office Finanza ha i seguenti compiti: 
+− implementare nel sistema gestionale, in aggiunta ai controlli normativi e di Regolamento, i limiti agli 
+investimenti definiti nella Politica di Investimento (complessivamente i “Limiti”), consentendo 
+l’attivazione di warning in caso di avvicinamenti/superamenti degli stessi in fase di immissione di ordini 
+da parte dell’unità Gestione Fondi Aperti e Unit Linked e Fondi Negoziali; 
+− monitorare gli eventuali superamenti dei limiti e le relative motivazioni/autorizzazioni;  
+− la funzione Back Office Finanza provvede a: 
+− gestire il regolamento delle operazioni finanziarie garantendo il corretto aggiornamento dei saldi dei conti 
+correnti e dei Portafogli sul sistema di gestione titoli; 
+− effettuare il calcolo del Net Asset Value (NAV) dei Comparti; 
+− effettuare la riconciliazione periodica dei Portafogli e della liquidità con il Depositario;  
+− calcolare e monitorare il turnover di Portafoglio; 
+− monitorare ex post i Limiti; 
+− controllare la coerenza tra i costi effettivi relativi agli OICR e quanto previsto dal Regolamento del Fondo; 
+− controllare i costi di gestione e di negoziazione a carico del Fondo.  
+− l’unità organizzativa Equity e Investimenti Alternativi provvede a: 
+− contribuire, su richiesta dell’unità organizzativa Pension Funds & Unit Financial Management, a specifiche 
+analisi finalizzate ad individuare i rapporti di rischio -  rendimento associati a determinati OICR alternativi 
+per poter valutare l’opportunità di impiego in ragione della loro coerenza con la Politica di Investimento 
+del Fondo. 
+− l’unità organizzativa Pension Funds & Unit Portfolio Analysis provvede a: 
+− calcolare e verificare i valori relativi all’andamento della gestione finanziaria (risultati conseguiti nel 
+tempo, per singolo Comparto e grado di rischio assunto in rapporto al rendimento realizzato) previsti dalla 
+Politica di Investimento del Fondo;
+=== pagina 17 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 16 di 18 
+ 
+− effettuare il monitoraggio dei limiti di duration; 
+− contribuire, su richiesta dell a funzione Pension Funds & Unit Financial Management , a specifiche analisi 
+finalizzate ad individuare i rapporti di rischio -  rendimento associati a determinati OICR alternativi per 
+poter valutare l’opportunità di impiego in ragione della loro coerenza con la Politica di Investimento del 
+Fondo. 
+7.6. Area Risk   
+L’Area Risk, nell’ambito della propria attività di monitoraggio dei rischi, effettua controlli sulle attività connesse alla 
+gestione degli attivi finanziari; con particolare riferimento al Fondo Pensione  Aperto, provvede a: 
+− validare e controllare i modelli e le metodologie di calcolo utilizzate per ricavare i principali indicatori di 
+performance e rischio utilizzati per la misurazione e il controllo dell’attività di gestione;  
+− effettuare i controlli di secondo livello secondo quanto descritto nel Documento sulla Politica di investimento . 
+Inoltre l’Area Risk determina altre misure di rischio in termini di sensitivity, stress testing  e Value at Risk  (VAR); tali 
+misure vengono analizzate dall’Area Risk stessa e costituiscono un supporto all’attività di gestione dell’Area Finance. 
+7.7. Unità organizzativa Innovazione e Sviluppo Tecnico Prodotti Vita 
+L’Unità organizzativa Innovazione e Sviluppo Tecnico Prodotti Vita provvede a: 
+− monitorare, per ciascun Comparto, le caratteristiche socio -demografiche degli iscritti, l’andamento dei flussi in 
+entrata e uscita per fasce di età e il livello di contribuzione media. 
+7.8. Depositario 
+Espleta le attività a esso affidate dal Fondo, in base alla normativa vigente. 
+Mette a disposizione del Fondo le informazioni necessarie per effettuare la riconciliazione dei Portafogli e della liquidità 
+per ciascun Comparto, secondo la periodicità indicata nella Politica di Investimento del Fondo . 
+8. Flussi informativi intercorrenti tra il Responsabile del Fondo e le strutture della Compagnia/Funzioni 
+Fondamentali  
+Il sistema di Governo della Compagnia è strutturato in modo da assicurare l’ordinata, completa e tempestiva 
+circolazione delle informazioni rilevanti tra tutti i soggetti coinvolti nelle attività del Fondo Pensione  Aperto. 
+L’Area Audit trasmette al Responsabile del Fondo, con periodicità almeno annuale, la Relazione sull’attività svolta per 
+la parte relativa alla gestione del Fondo, che riepiloga tutte le verifiche effettuate, i risultati emersi, i punti di debolezza 
+o le carenze rilevate e le raccomandazioni formulate per la loro rimozione. 
+Il Responsabile può richiedere ai Titolari delle Funzioni Fondamentali la trasmissione, per quanto di interesse, della 
+documentazione prodotta da queste ultime concernenti il Fondo Pensione  Aperto. 
+Il Responsabile riceve inoltre , su richiesta, adeguati flussi informativi da parte delle strutture che svolgono la gestione 
+operativa, tecnico-amministrativa, e finanziaria (ivi compresi i controlli) per il Fondo e in particolare riceve: 
+− dall'unità organizzativa Back Office Finanza Fondi Pensione (i) il Prospetto del valore della quota settimanale di 
+ciascun comparto ; (ii) il d ettaglio NAV valore quota settimanale ; (iii) l’elenco delle operazioni del mese con 
+evidenza di quelle in conflitto d’interesse, ad ogni fine mese ; (iv) la composizione degli investimenti di cia scun 
+comparto ad ogni fine mese ; (v) il Report di performance ad ogni fine mese; (vi) il Report di controllo limiti ad
+=== pagina 18 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 17 di 18 
+ 
+ogni fine mese;  (vii) la comunicazione di asseveramento del valore della quota da parte del Depositario;  (viii) 
+trimestralmente gli esiti delle verifiche, da parte del Depositario, sul rispetto dei limiti di investimento . 
+− dalle funzioni dell ’Area Life, in partico lare, (i) quadrimestralmente, l’estrazione dei dati dagli archivi tecnici 
+relativi alle posizioni degli aderenti, un report delle liquidazioni effettuate nel periodo di osservazione, un report 
+degli incassi riconciliati e  di quelli sospesi nel periodo di osservazione, nonché la trasmissione dei moduli di 
+adesione e dei fascicoli di liquidazione (a campione); (ii) annualmente, esemplare di prospetto delle prestazioni-
+fase di accumulo ; (iii) le comunicazioni da e verso la COVIP, con riferimento al Fondo; (iv) a seguito di ogni 
+aggiornamento, la Nota Informativa, il Regolamento del Fondo , le Regole operative (ROP) , il Documento sulla 
+Politica di Investimento (DPI), la P olitica di gestione dei conflitti di interesse; (v) l’informativa circa l’avvenuta 
+trasmissione delle segnalazioni statistiche alla COVIP; 
+− dalla Funzione Customer Advocacy , l’evidenza dei reclami pervenuti ed evasi  come precisato al precedente 
+paragrafo 5.2; 
+− dalla Funzione Contabilità e Prodotti Finanziari Vita, il Rendiconto annuale prima dell’approvazione e i rendiconti 
+infra-annuali, redatti a fini interni, con le relative quadrature dei dati tecnici e dei dati finanziari ; 
+− dall'unità organizzativa Servizi Societari Bologna e Corporate Governance, l’estratto del verbale del Consiglio  di 
+Amministrazione relativo al punto all’ordine del giorno con riferimento al Fondo e il materiale eventualmente 
+connesso.  
+Il Responsabile trasmette all’Area Life la relazione annuale sulle attività svolte in merito al Fondo Pensione  Aperto. 
+9. Informazioni relative alla Politica di remunerazione 
+L’art. 5-octies del decreto n. 252/2005, richiamato dall’art. 5-decies del medesimo decreto, detta l’obbligo di dotarsi di 
+una politica di remunerazione e individua, in modo dettagliato, i principi cui la politica di remunerazione deve 
+uniformarsi. La politica di remunerazione è definita dal Consiglio di Amministrazione, come richiamato al precede nte 
+capitolo 3.2.1, e si applica: 
+− al Responsabile del Fondo Pensione Aperto; 
+− ai Titolari delle Funzioni Fondamentali. 
+L’obiettivo primario di tale politica è di garantire una remunerazione equa, adeguata all’ampiezza e al livello di 
+responsabilità, di professionalità ed esperienza richieste dall’incarico e alle capacità individuali nonché conforme alle 
+previsioni di legge e regolamentari applicabili.  
+Il compenso del Responsabile del Fondo, da corrispondersi in misura fissa –  oltre all’eventuale rimborso delle spese 
+sostenute e agli oneri fiscali e contributivi per l’esercizio delle funzioni previste – è definito in considerazione delle 
+previsioni della  normativa vigente di riferimento e non può essere pattuito sotto forma di partecipazione agli utili 
+dell’Impresa istitutrice o di società controllanti o controllate né sotto forma di diritti di acquisto o di sottoscrizione di  
+azioni dell’Impresa istitutri ce o di società controllanti o controllate. Gli oneri relativi a detto compenso sono a carico 
+dell’Impresa istitutrice. È preclusa ogni forma di remunerazione variabile.  
+Ai titolari delle Funzioni Fondamentali si applicano le Politiche di Remunerazione del Gruppo Unipol in disposto 
+congiunto con le Politiche di Remunerazione del Comparto Assicurativo. Per tutte le informazioni di dettaglio in merito, 
+nonché per quelle richieste dall'articolo 5 del Regolamento (UE) 2019/2088, relativo all'informativa sulla sostenibilità
+=== pagina 19 ===
+Unipol Previdenza FPA 
+ 
+Documento sul sistema di governo – mod. DSGFPA – ed. 03/2026 Pagina 18 di 18 
+ 
+nel settore dei servizi finanziari e s.m.i., si rimanda al sito aziendale www.unipol.it (nella sezione: Governance/Sistema-
+di-corporate-governance/Relazione-sulla-remunerazione)2. 
+ 
+2   Ai sensi di quanto previsto dal Regolamento Emittenti di CONSOB, la pubblicazione della “Relazione sulla politica in materia di remunerazione e sui 
+compensi corrisposti” ai sensi dell’articolo 123-ter del Decreto legislativo 24 febbraio 1998, n. 58 (Testo Unico della Finanza), redatta in conformità 
+all’Allegato 3A, Schema 7 -bis del medesimo Regolamento Emittenti di CONSOB, è prevista almeno ventuno giorni prima dell’Assemblea che 
+approva il bilancio di esercizio.
+=== pagina 20 ===
+

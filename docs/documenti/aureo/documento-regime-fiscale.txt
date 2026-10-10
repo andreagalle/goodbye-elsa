@@ -1,0 +1,270 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Documento sul regime fiscale – Documento sul regime fiscale
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/FondiPensione/Documento%20sul%20regime%20fiscale.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/Pagine/ProspettiDocumenti/Documenti-Fondo-Pensione.aspx
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: d42267eeb4893dd69f18e04d9d50d5d50b746ff42afc776f7ee632fc5eefeeb2
+# Pagine: 8
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul 
+regime fiscale 
+Fondo Pensione Aperto  
+a Contribuzione Definita 
+ Iscrizione Albo COVIP n° 53
+Aureo Comparto obbligazionario ESG
+Aureo Comparto bilanciato ESG
+Aureo Comparto azionario ESG
+Aureo Comparto prudente ESG
+Aureo Comparto garantito ESG
+Il presente documento integra il contenuto della Nota Informativa relativa all’offerta di adesione al fondo pensione 
+aperto a contribuzione definita Aureo.
+BCC Risparmio&Previdenza S.G.R.p.A. si assume la responsabilità della completezza e veridicità dei dati e delle noti -
+zie contenuti nella presente Nota informativa.
+Il presente documento è aggiornato al 31 luglio 2026.
+=== pagina 2 ===
+2
+1. Fase dei versamenti: Regime fiscale dei contributi
+I contributi versati a fondi pensione sono deducibili, dal reddito complessivo dell’aderente. Il 
+comma 201 dell’articolo 1 della legge di bilancio 2026 (che modifica l’art.8, comma 4, del d.lgs. 
+252/2005), in vigore dal 1° luglio 2026 ma che retroattivamente fa riferimento all’intero anno, ha 
+aumentato il plafond di deducibilità da 5.164,57 a 5.300 euro annui.
+Fermo restando il limite complessivamente riconosciuto quale onere deducibile, la deduzione 
+spetta anche per i contributi versati a favore di persone fiscalmente a carico ai sensi dell’art 12 
+del D.P.R. 22 dicembre 1986, n. 917, per la parte da questi non dedotta. 
+Ai lavoratori di prima occupazione successiva al 1° gennaio 2007 e, limitatamente ai primi cinque 
+anni di partecipazione alle forme pensionistiche complementari, è consentito, nei venti anni suc -
+cessivi al quinto anno di partecipazione a tali forme, dedurre dal reddito complessivo contributi 
+eccedenti il limite di 5.300,00 euro pari all’ammontare complessivo dei contributi deducibili nei 
+primi cinque anni di partecipazione ma non effettivamente versati e comunque per un importo 
+non superiore a 2.650,00 euro annui (per complessivi Euro 7.950,00 annui). 
+Sulle somme eccedenti il limite di 5.300,00 euro che l’aderente versa al fondo pensione a titolo 
+di reintegro della propria posizione individuale interessata da una pregressa anticipazione, è ri -
+conosciuto all’aderente un credito d’imposta pari all’imposta pagata al momento della fruizione 
+dell’anticipazione, proporzionalmente riferibile all’importo reintegrato.
+I contributi versati, per scelta del lavoratore, in sostituzione in tutto o in parte delle somme di cui 
+al comma 182 della L. 208/2015 (premi di risultato o somme erogate sotto forma di partecipa -
+zione agli utili soggetti a tassazione sostitutiva) per un importo massimo di € 3.000, aumentato 
+a € 5.000 dalla legge di bilancio 2026 in via transitoria per il biennio 2026-2027:
+• non concorrono a formare il reddito da lavoro dipendente e non sono soggetti ad imposta 
+sostitutiva anche se eccedenti i limiti di deducibilità;
+• non concorrono a formare la parte imponibile delle prestazioni erogate dal fondo pensione.
+Entro il 31 dicembre dell’anno successivo a quello in cui è stato effettuato il versamento contri -
+butivo al fondo pensione ovvero, se antecedente, alla data in cui sorge il diritto alla prestazione 
+pensionistica, ciascun aderente comunica al fondo pensione l’importo dei contributi versati che 
+non sono stati dedotti, o che non saranno dedotti in sede di dichiarazione dei redditi. I suddetti 
+contributi non concorreranno a formare la base imponibile per la determinazione dell’imposta 
+dovuta in sede di erogazione della prestazione finale.
+=== pagina 3 ===
+3
+2. Fase di accumulo: Regime fiscale del fondo pensione
+I fondi pensione, istituiti in regime di contribuzione definita, sono soggetti ad una imposta so -
+stitutiva delle imposte sui redditi nella misura del 20% applicata sul risultato netto maturato in 
+ciascun periodo di imposta.
+I redditi derivanti da titoli pubblici italiani ed equiparati nonché da obbligazioni emesse da Stati o 
+enti territoriali di Stati inclusi nella c.d. white list concorrono alla formazione della base imponibi-
+le della predetta imposta sostitutiva nella misura del 62,50%, al fine di garantire una tassazione 
+effettiva del 12,50% di tali rendimenti. 
+I fondi pensione possono destinare somme, fino al 10% dell’attivo patrimoniale risultante dal 
+rendiconto dell’esercizio precedente, agli investimenti qualificati, nonché ai piani di risparmio a 
+lungo termine (PIR).
+Per investimenti qualificati si intendono le somme investite in:
+a) azioni o quote di imprese residenti nel territorio dello Stato italiano o in Stati membri dell’UE 
+o in Stati aderenti all’Accordo sullo SEE con stabile organizzazione nel territorio medesimo;
+b) in quote o azioni di Oicr residenti nel territorio dello Stato italiano o in Stati membri dell’UE o in 
+Stati aderenti all’Accordo sullo SEE, che investono prevalentemente negli strumenti finanziari 
+di cui alla precedente lettera a);
+b-bis) quote di prestiti, di fondi di credito cartolarizzati erogati od originati per il tramite di piatta-
+forme di prestiti per soggetti finanziatori non professionali, gestite da società iscritte nell’albo 
+degli intermediari finanziari tenuto dalla Banca d’Italia (art. 106 TUB) o da istituti di pagamen-
+to (art. 114 TUB); 
+b-ter) quote o azioni di Fondi per il Venture Capital residenti in Italia o in altri Stati UE/SEE. 
+L’importo totale delle risorse è investito, per il tramite dei Fondi per il Venture Capital (FVC), 
+in ciascuna piccola e media impresa (PMI), entro la durata del FVC. Ai sensi del comma 213 
+dell’art. 1 della predetta legge 145/2018, sono Fondi per il Venture Capital gli Oicr che desti -
+nano almeno il 70% dei capitali raccolti in investimenti in favore di PMI (cfr. raccomandazione 
+2003/361/CE) non quotate residenti in Italia o in altri Stati UE/SEE con stabile organizzazione 
+in Italia. Ciascuna PMI rispetta i requisiti, alternativi tra loro, previsti dall’articolo 21, paragrafo 
+3, lettere a), b) e c) del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014.
+Gli strumenti finanziari oggetto di investimento qualificato o i PIR devono essere detenuti per 
+almeno cinque anni.
+I redditi derivanti dagli investimenti qualificati o dai PIR sono esenti ai fini dell’imposta sul reddito 
+e pertanto non concorrono alla formazione della base imponibile della predetta imposta sosti -
+tutiva del 20% gravante sul fondo pensione e incrementano la parte corrispondente ai redditi 
+già assoggettati ad imposta ai fini della formazione delle prestazioni pensionistiche erogate agli 
+iscritti, purché gli investimenti qualificati in quote o azioni di Fondi per il Venture Capital di cui al 
+comma 89, lettera b-ter), dell’art. 1 della legge 232/2016, siano almeno pari al al 3% per il 2025, 
+5% per il 2026 e 10% a partire dall’anno 2027 del paniere degli investimenti qualificati risultanti 
+dal rendiconto dell’esercizio precedente.
+Nelle ipotesi in cui il reddito di capitale soggetto a tassazione non concorra a determinare il 
+risultato netto maturato dal fondo pensione assoggettato all’imposta sostitutiva del 20%, sono 
+operate le ordinarie ritenute a titolo di imposta.
+Il valore del patrimonio netto del fondo all’inizio e alla fine di ciascun anno è desunto da un ap -
+posito prospetto di composizione del patrimonio. 
+Qualora in un periodo di imposta si verifichi un risultato negativo, quest’ultimo, quale risultante
+=== pagina 4 ===
+4
+dalla relativa dichiarazione, può essere computato in diminuzione del risultato della gestione dei 
+periodi di imposta successivi, per l’intero importo che trova in essi capienza, oppure essere utiliz-
+zato, in tutto o in parte, in diminuzione del risultato della gestione di altre linee di investimento 
+del fondo, a partire dal periodo di imposta in cui detto risultato negativo è maturato, riconoscen -
+do il relativo importo a favore della linea di investimento che ha maturato il risultato negativo.
+3. Fase di erogazione: Regime fiscale delle prestazioni 
+Definizione di “parte imponibile” delle prestazioni pensionistiche complementari: è fiscalmente 
+imponibile la parte delle prestazioni rappresentata dall’ammontare della stessa al netto della 
+componente finanziaria che ha già scontato l’imposta sostitutiva in capo al fondo pensione, 
+nonché dei redditi già tassati, dei redditi esenti, dei contributi che non sono stati dedotti (per 
+superamento, ad esempio, del plafond di contribuzione deducibile) del credito d’imposta del 9% 
+relativo all’ammontare corrispondente al risultato netto maturato investito nel 2015 o nel 2016 
+in attività di carattere finanziario a medio o lungo termine e dei redditi derivanti da “investimenti 
+qualificati” o da PIR. I medesimi criteri si applicano nelle ipotesi di anticipazioni e riscatti. Si pre -
+cisa che la tassazione applicata alle varie forme di liquidazioni risponde al principio del pro-rata 
+temporis, pertanto il regime fiscale che si descrive nei paragrafi successivi riguarda il montante 
+maturato post gennaio 2007. Per la tassazione applicata ai montanti maturati precedentemente 
+a quella data trova applicazione il regime fiscale previgente (tassazione separata per prestazioni 
+in capitale; tassazione ordinaria per rendita vitalizia e per i riscatti c.d. volontari limitatamente al 
+montante accumulato dal 2001 al 2006)
+PRESTAZIONI IN FORMA DI RENDITA VITALIZIA 
+La parte imponibile della prestazione pensionistica erogata in forma periodica è soggetta a una 
+ritenuta alla fonte a titolo d’imposta con l’aliquota del 15 per cento, ridotta di una quota pari a 0,30 
+punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione, con un limite 
+massimo di riduzione di 6 punti percentuali (aliquota minima del 9%) 1. Con Risoluzione n. 29 
+dell’11 aprile 2025 l’Agenzia delle Entrate ha chiarito che nell’ipotesi in cui l’aderente sia iscritto 
+a più forme pensionistiche complementari contemporaneamente, ai fini della determinazione 
+dell’anzianità utile per il calcolo dell’aliquota di tassazione, occorre far riferimento all’anzianità 
+maturata in relazione alla posizione, non integralmente riscattata, accesa in data anteriore.
+Sul rendimento finanziario annualmente prodotto dalla rendita in erogazione è applicata una im-
+posta sostitutiva del 26%. Attraverso la riduzione della base imponibile al 48,08% della quota di 
+proventi riferibili a titoli pubblici ed equiparati, viene riconosciuta una minore tassazione di tali 
+proventi il cui investimento diretto fruisce dell’aliquota del 12,50%.
+1  Ai fini della determinazione dell’aliquota applicabile in sede di ritenuta, si fa presente che il “periodo di partecipazione” viene individuato 
+con riferimento agli anni di mera partecipazione, a prescindere dall’effettivo versamento dei contributi. Pertanto, dovranno considerarsi 
+utili tutti i periodi di iscrizione a forme pensionistiche complementari, per i quali non sia stato esercitato il riscatto totale della posizione 
+individuale, come chiarito nella deliberazione COVIP del 28 giugno 2006. Per anno deve intendersi un periodo di 365 giorni decorrente 
+dalla data di iscrizione. Se la data di iscrizione è anteriore al 1° gennaio 2007, gli anni di iscrizione prima del 2007 sono computati fino a un 
+massimo di 15.
+=== pagina 5 ===
+5
+PRESTAZIONI ALTERNATIVE ALLA RENDITA VITALIZIA INTRODOTTE DALLA LEGGE 199/2025: 
+RENDITA A DURATA DEFINITA, PRELIEVI LIBERAMENTE DETERMINABILI.
+Rendita a durata definita e Prelievi liberamente determinabili
+Come previsto dall’art. 11, comma 6-bis, del D.Lgs 252/2005, alle prestazioni in forma di rendita a 
+durata definita o di prelievi, nonché al riscatto del montante residuo in caso di decesso del bene-
+ficiario di una delle prestazioni alternative alla rendita vitalizia, si applica il regime fiscale previsto 
+dall’art. 11, comma 6, del medesimo D.Lgs 252/2005, con riferimento alle prestazioni erogate 
+in forma di capitale. Pertanto, la parte imponibile della prestazione erogata in forma rendita a 
+durata definita e di prelievi (nonché del riscatto da parte degli aventi titolo in caso di decesso del 
+beneficiario di una delle prestazioni alternative alla rendita vitalizia) è soggetta a una ritenuta a 
+titolo d’imposta con l’aliquota del 15 per cento, ridotta di una quota pari a 0,30 punti percentuali 
+per ogni anno eccedente il quindicesimo anno di partecipazione, con un limite massimo di ridu -
+zione di 6 punti percentuali (aliquota minima del 9%). 
+I rendimenti sono soggetti alla medesima tassazione dei rendimenti in fase di accumulo (cfr. 
+punto 2 Fase di accumulo) e il montante ante 2007 è soggetto alla medesima tassazione prevista 
+per il montante ante 2007 per la prestazione in capitale (tassazione separata).
+PRESTAZIONI IN CAPITALE
+La parte imponibile della prestazione pensionistica erogata in forma di capitale è soggetta a una 
+ritenuta a titolo d’imposta con l’aliquota del 15 per cento, ridotta di una quota pari a 0,30 punti 
+percentuali per ogni anno eccedente il quindicesimo anno di partecipazione, con un limite mas -
+simo di riduzione di 6 punti percentuali (aliquota minima del 9%)2. Con Risoluzione n. 29 dell’11 
+aprile 2025 l’Agenzia delle Entrate ha chiarito che nell’ipotesi in cui l’aderente sia iscritto a più 
+forme pensionistiche complementari contemporaneamente, ai fini della determinazione dell’an -
+zianità utile per il calcolo dell’aliquota di tassazione, occorre far riferimento all’anzianità maturata 
+in relazione alla posizione, non integralmente riscattata, accesa in data anteriore.
+RITA (rendita integrativa temporanea anticipata di cui all’art.11, comma 4, d.lgs 252/2005 )
+La parte imponibile della RITA è soggetta a una ritenuta alla fonte a titolo d’imposta con l’aliquota 
+del 15 per cento, ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il 
+quindicesimo anno di partecipazione, con un limite massimo di riduzione di 6 punti percentuali 
+(aliquota minima del 9%)3. Con Risoluzione n. 29 dell’11 aprile 2025 l’Agenzia delle Entrate ha 
+chiarito che nell’ipotesi in cui l’aderente sia iscritto a più forme pensionistiche complementari 
+contemporaneamente, ai fini della determinazione dell’anzianità utile per il calcolo dell’aliquota 
+di tassazione, occorre far riferimento all’anzianità maturata in relazione alla posizione, non inte -
+gralmente riscattata, accesa in data anteriore. L’aderente ha facoltà di rinunciare all’applicazione 
+dell’imposta sostitutiva facendolo constare espressamente nella dichiarazione dei redditi; in tal 
+caso la rendita anticipata è assoggettata a tassazione ordinaria.
+2  Ai fini della determinazione dell’aliquota applicabile in sede di ritenuta, si fa presente che il “periodo di partecipazione” viene individuato 
+con riferimento agli anni di mera partecipazione, a prescindere dall’effettivo versamento dei contributi. Pertanto, dovranno considerarsi 
+utili tutti i periodi di iscrizione a forme pensionistiche complementari, per i quali non sia stato esercitato il riscatto totale della posizione 
+individuale, come chiarito nella deliberazione COVIP del 28 giugno 2006. Per anno deve intendersi un periodo di 365 giorni decorrente 
+dalla data di iscrizione. Se la data di iscrizione è anteriore al 1° gennaio 2007, gli anni di iscrizione prima del 2007 sono computati fino a un 
+massimo di 15.
+3  Ai fini della determinazione dell’aliquota applicabile in sede di ritenuta, si fa presente che il “periodo di partecipazione” viene individuato 
+con riferimento agli anni di mera partecipazione, a prescindere dall’effettivo versamento dei contributi. Pertanto, dovranno considerarsi 
+utili tutti i periodi di iscrizione a forme pensionistiche complementari, per i quali non sia stato esercitato il riscatto totale della posizione 
+individuale, come chiarito nella deliberazione COVIP del 28 giugno 2006. Per anno deve intendersi un periodo di 365 giorni decorrente 
+dalla data di iscrizione. Se la data di iscrizione è anteriore al 1° gennaio 2007, gli anni di iscrizione prima del 2007 sono computati fino a un 
+massimo di 15.
+=== pagina 6 ===
+6
+Le somme erogate a titolo di RITA sono imputate, ai fini della determinazione del relativo 
+imponibile, prioritariamente agli importi della prestazione medesima maturati fino al 31 dicembre 
+2000 e, per la parte eccedente, prima a quelli maturati dal 1º gennaio 2001 al 31 dicembre 2006 
+e successivamente a quelli maturati dal 1º gennaio 2007.
+Sul rendimento finanziario prodotto dal montante non ancora smobilizzato a titolo di RITA è 
+applicata l’imposta sostitutiva delle imposte sui redditi di cui al precedente punto 2. FASE DI 
+ACCUMULO.
+ANTICIPAZIONI
+Le anticipazioni erogate ai sensi dell’art. 11, comma 7, lett. a), del Decreto Legislativo 5 dicembre 
+2005, n. 252, per spese sanitarie a seguito di gravissime situazioni relative all’aderente, al coniu -
+ge e ai figli per terapie e interventi straordinari riconosciuti dalle competenti strutture pubbliche, 
+sono soggette alla medesima tassazione prevista per le prestazioni in capitale. 
+Le altre tipologie di anticipazioni ammesse, ai sensi dell’ art. 11 comma 7, del Decreto Legislativo 
+5 dicembre 2005, n. 252 sono soggette a una ritenuta a titolo d’imposta con aliquota fissa del 
+23 per cento.
+RISCATTI
+Sono soggette alla medesima tassazione prevista per le prestazioni in capitale le somme erogate:
+• a titolo di riscatto parziale della posizione individuale per cessazione dell’attività lavorativa 
+che comporti l’inoccupazione per un periodo di tempo non inferiore a 12 mesi e non superio-
+re a 48 mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di mobilità, 
+cassa integrazione guadagni ordinaria o straordinaria;
+• a titolo di riscatto totale della posizione individuale per invalidità permanente (che si traduca 
+in una riduzione della capacità di lavoro a meno di un terzo) e a seguito di cessazione dell’at-
+tività lavorativa che comporti l’inoccupazione per un periodo superiore a 48 mesi;
+• a titolo di riscatto della posizione individuale per morte dell’aderente prima della maturazione 
+del diritto alla prestazione pensionistica.
+Le somme erogate a titolo di riscatto per cause diverse da quelle appena descritte sono soggette 
+a una ritenuta a titolo d’imposta con aliquota fissa del 23 per cento.
+TRASFERIMENTI DELLE POSIZIONI PENSIONISTICHE
+Tutte le operazioni di trasferimento delle posizioni pensionistiche verso forme pensionistiche 
+disciplinate dal decreto legislativo 5 dicembre 2005, n. 252 sono esenti da ogni onere fiscale.
+=== pagina 7 ===
+7
+CONTRIBUTI NON DEDOTTI
+Entro il 31 dicembre dell’anno successivo a quello in cui è stato effettuato il versamento contri -
+butivo al fondo pensione ovvero, se antecedente, alla data in cui sorge il diritto alla prestazione 
+pensionistica, ciascun aderente comunica al fondo pensione l’importo dei contributi versati che 
+non sono stati dedotti, o che non saranno dedotti in sede di dichiarazione dei redditi. I suddetti 
+contributi non concorreranno a formare la base imponibile per la determinazione dell’imposta 
+dovuta in sede di erogazione della prestazione finale.
+Modello: Comunicazione contributi non dedotti
+CONTRIBUTI REINTEGRATORI CON EFFETTO FISCALE 
+Sulle somme eccedenti il limite di 5.300,00 euro che l’aderente versa al fondo pensione a titolo 
+di reintegro della propria posizione individuale interessata da una pregressa anticipazione a va -
+lere sul montante accumulato dopo il 1.1.2007, è riconosciuto all’aderente un credito d’imposta 
+pari all’imposta pagata al momento della fruizione dell’anticipazione, proporzionalmente riferibi -
+le all’importo reintegrato.
+Per ottenere il credito di imposta, l’aderente deve comunicare al fondo pensione l’importo delle 
+somme reintegrate con effetto fiscale.
+In sede di erogazione, le somme reintegrate saranno riprese a tassazione per la parte corrispon -
+dente alla parte imponibile dell’anticipazione che si reintegra con effetto fiscale. 
+Modello: Comunicazione contributi reintegratori con effetto fiscale
+CONTRIBUTI DA PREMIO DI RISULTATO 
+I contributi versati, per scelta del lavoratore, in sostituzione in tutto o in parte delle somme di cui 
+al comma 182 della L. 208/2015 (premi di risultato o somme erogate sotto forma di partecipa -
+zione agli utili soggetti a tassazione sostitutiva) per un importo massimo di € 3.000, aumentato 
+a € 5.000 dalla legge di bilancio 2026 in via transitoria per il biennio 2026-2027:
+• non concorrono a formare il reddito da lavoro dipendente e non sono soggetti ad imposta 
+sostitutiva anche se eccedenti i limiti di deducibilità;
+• non concorrono a formare la parte imponibile delle prestazioni erogate dal fondo pensione.
+Tali contributi sono versati dal datore di lavoro con indicazione in apposita distinta e sono ri -
+portati nella Certificazione unica. La comunicazione degli stessi da parte dell’aderente si rende 
+necessaria solo nei casi di omessa o errata indicazione da parte del datore di lavoro.
+Modello: Comunicazione premio di risultato
+4. Comunicazione degli aderenti
+=== pagina 8 ===
+BCC Risparmio&Previdenza S.G.R.p.A. 
+Via Carlo Esterle n. 9/11
+20132 Milano
+t. +39 02 430281 
+email: info@bccrp.bcc.it
+sito web: www.bccrisparmioeprevidenza.it

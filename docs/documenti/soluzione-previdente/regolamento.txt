@@ -1,0 +1,2755 @@
+# Fondo: FONDO PENSIONE APERTO SOLUZIONE PREVIDENTE (soluzione-previdente)
+# Documento: Regolamento – Regolamento
+# Fonte: https://www.helvetia.com/content/dam/os/it/web/it/prodotti-e-servizi/prodotti_dedicati_alla_previdenza_complementare/fpa_soluzione_previdente/2026/202607/Regolamento_FPASolPrev_072026.pdf
+# Citato in: https://www.helvetia.com/it/web/it/prodotti-e-servizi/prodotti-dedicati-alla-previdenza-complementare/previdenza_complementare/fpa-soluzione-previdente.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: bb512db0058ea5d2e96b47ff4f5d797f690e521c3adefc1e53bd45b60c194923
+# Pagine: 56
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+FONDO PENSIONE APERTO 
+ 
+“SOLUZIONE PREVIDENTE” 
+ 
+(Art. 12 del Decreto legislativo n. 252 del 5 dicembre 2005) 
+ 
+ 
+ 
+Iscritto all'Albo tenuto dalla COVIP con il N. 155 
+ 
+ 
+ 
+REGOLAMENTO 
+ 
+ 
+ 
+Helvetia Vita S.p.A. – Compagnia Italo Svizzera di Assicurazioni sulla Vita S.p.A. 
+Gruppo Assicurativo Helvetia
+=== pagina 2 ===
+Mod. 95 – Ed. 07.2026   Pag. 2 di 56 
+REGOLAMENTO 
+ 
+INDICE 
+ 
+PARTE I – IDENTIFICAZIONE E SCOPO DEL FONDO 
+Art.1 – Denominazione 
+Art.2 – Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+Art.3 – Scopo 
+ 
+PARTE II – CARATTERISTICHE DEL FONDO E MODALITÀ DI INVESTIMENTO 
+Art.4 – Regime del Fondo 
+Art.5 – Destinatari 
+Art.6 – Scelte di investimento 
+Art.7 – Gestione degli investimenti 
+Art.8 – Spese 
+ 
+PARTE III – CONTRIBUZIONI E PRESTAZIONI 
+Art.9 – Contribuzione 
+Art.10 – Determinazione della posizione individuale 
+Art.11 – Prestazioni pensionistiche 
+Art.12 – Erogazione della rendita 
+Art.13 – Trasferimento e riscatto della posizione individuale 
+Art.14 – Anticipazioni 
+Art. 14-bis – Prestazioni accessorie 
+ 
+PARTE IV - PROFILI ORGANIZZATIVI 
+Art.15 – Separatezza patrimoniale, amministrativa e contabile 
+Art.16 – Sistema di governo 
+Art.17 – Depositario 
+Art.18 – Responsabile 
+Art.19 – Organismo di rappresentanza 
+Art.20 – Conflitti di interesse 
+Art. 21 – Scritture contabili 
+ 
+PARTE V - RAPPORTI CON GLI ADERENTI 
+Art.22 – Modalità di adesione e clausole risolutive espresse 
+Art.23 – Trasparenza nei confronti degli aderenti e dei beneficiari 
+Art.24 – Comunicazioni e reclami 
+ 
+PARTE VI - NORME FINALI 
+Art.25 – Modifiche del Regolamento 
+Art.26 – Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+                delle caratteristiche del Fondo 
+Art.27 – Cessione del Fondo 
+Art.28 – Operazioni di fusione 
+Art.29 – Rinvio
+=== pagina 3 ===
+Mod. 95 – Ed. 07.2026   Pag. 3 di 56 
+Allegati: 
+ 
+Allegato n.1. Disposizioni in materia di Responsabile 
+Allegato n. 2 Condizioni e modalità di erogazione delle rendite 
+Allegato n. 3 Condizioni delle prestazioni accessorie
+=== pagina 4 ===
+Mod. 95 – Ed. 07.2026   Pag. 4 di 56 
+PARTE I - IDENTIFICAZIONE E SCOPO DEL FONDO 
+ 
+Art.1 – Denominazione 
+1. Il Fondo Pensione Aperto Soluzione Previdente (di seguito “Fondo”) è un fondo pensione aperto istituito ai 
+sensi dell’art. 12 del Decreto legislativo 5 dicembre 2005, n. 252 (di seguito “Decreto”). 
+ 
+Art.2 – Istituzione del Fondo, esercizio dell’attività, sede e recapiti 
+1. Il Fondo è stato istituito dalla società “ Helvetia Vita S.p.A.” (già Chiara Vita S.p.A.) (di seguito "impresa di 
+assicurazione"), giusta autorizzazione rilasciata dalla COVIP  con provvedimento del 19  luglio 2006; con il 
+medesimo atto la COVIP ha approvato il Regolamento del Fondo. 
+2. L'impresa di assicurazione esercita l’attività di gestione del Fondo con effetto dalla medesima data . 
+3. Il Fondo è iscritto all’Albo tenuto dalla COVIP con il numero 155.  
+4. L’attività relativa al Fondo è svolta in Milano, presso la sede dell'impresa di assicurazione.  
+5. L’indirizzo di posta elettronica certificata (PEC) dell'impresa di assicurazione è 
+previdenzahelvetia@pec.helvetia.it. 
+ 
+Art.3 – Scopo 
+1. Il Fondo ha lo scopo di consentire agli aderenti di disporre, all’atto del pensionamento, di prestazioni 
+pensionistiche complementari del sistema obbligatorio. Tale scopo è perseguito mediante la raccolta dei 
+contributi, la gestione delle risorse nell’escl usivo interesse degli aderenti, e l’erogazione delle prestazioni 
+secondo quanto disposto dalla normativa tempo per tempo vigente.
+=== pagina 5 ===
+Mod. 95 – Ed. 07.2026   Pag. 5 di 56 
+PARTE II - CARATTERISTICHE DEL FONDO E MODALITÀ 
+DI INVESTIMENTO 
+ 
+Art.4 – Regime del Fondo 
+1. Il Fondo è in regime di contribuzione definita. L’entità delle prestazioni pensionistiche del Fondo è 
+determinata in funzione della contribuzione effettuata e in base al principio della capitalizzazione.  
+ 
+Art.5 – Destinatari e tipologie di adesione 
+1. L’adesione al Fondo è consentita in forma individuale in modalità esplicita.  
+2. È altresì consentita  l'adesione, su base collettiva , ai soggetti destinatari delle forme pensionistiche 
+complementari individuati d all’art. 2, comma 1 , del Decreto, nei cui confronti trovino applicazione i 
+contratti, gli accordi o i regolamenti aziendali che dispongono l’adesione al Fondo .  
+3. Le adesioni individuali sono precluse a coloro a cui manchi meno di un anno al compimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza. 
+ 
+Art.6 – Scelte di investimento 
+1. Il Fondo è articolato nei seguenti comparti /profili di investimento  differenziati per profili di rischio  - 
+rendimento, in modo tale da assicurare agli aderenti una adeguata possibilità di scelta:  
+- Linea 1 Garantit a. Questo comparto è destinato al conferimento tacito del TFR  degli aderenti che 
+risultano iscritti al Fondo; 
+- Linea 2 Prudente; 
+- Linea 3 Equilibrata; 
+- Linea 4 Dinamica.  
+2. L’aderente, all’atto dell’adesione, sceglie uno o più comparti/profili di investimento  in cui far confluire i 
+versamenti contributivi, con facoltà di modificare nel tempo tale destinazione. L’aderente può inoltre 
+riallocare la propria posizione individuale tra i diversi comparti/profili di investimento , nel rispetto del 
+periodo minimo di un anno dall’iscrizione ovvero dall’ultima riallocazione . In questo caso i versamenti 
+contributivi successivi sono suddivisi sulla base delle nuove percentuali fissate all’atto della riallocazione, 
+salvo diversa disposizione dell’aderente. Il limite del periodo di permanenza minimo non opera con riguardo 
+alla prima riallocazione successiva all'adesione tacita. 
+ 
+Art.7 – Gestione degli investimenti 
+1. L'impresa di assicurazione effettua l’investimento delle risorse del Fondo nel rispetto dei limiti e delle 
+condizioni stabiliti dalla normativa tempo per tempo vigente e dal presente Regolamento, assumendo a 
+riferimento l’esclusivo interesse degli aderenti. 
+2. Ferma restando la responsabilità dell'impresa di assicurazione, essa può affidare a soggetti di cui all’ art.6, 
+comma 1, lettere a), b), c) , c-bis) del Decreto, in possesso dei requisiti previsti dalla normativa tempo per 
+tempo vigente, l’esecuzione di specifici incarichi di gestione 1. 
+3. L'impresa di assicurazione verifica i risultati della gestione mediante l’adozione di parametri di riferimento 
+coerenti con gli obiettivi e i criteri della politica di investimento. 
+4. La politica di investimento dei singoli comparti è la seguente: 
+- Linea 1 Garantita 
+Il comparto può essere scelto da aderenti di età non inferiore a 55 anni anagrafici. Tale comparto è 
+quello nel quale sono stati investiti i TFR degli aderenti taciti. 
+Obiettivo: perseguire una forte stabilità dei rendimenti attraverso una gestione volta a realizzare, con 
+elevata probabilità, rendimenti che siano almeno pari o superiori a quelli del TFR, quantomeno in un 
+orizzonte temporale pluriennale, conservando il valore del capitale. 
+Contenuto: la politica d’investimento del comparto è esclusivamente orientata verso titoli di debito 
+(Titoli di Stato, obbligazioni di ogni tipo, sia pubbliche sia private, comprese le obbligazioni convertibili 
+e/o warrant), parti di OICR, di emittenti italiani ed esteri, denominati in Euro. 
+Limiti: il patrimonio del comparto non p uò essere investito in titoli di capitale, anche se derivanti da 
+conversione di obbligazioni convertibili e/o warrant.  Inoltre, nel rispetto dei vigenti limiti normativi, la 
+ 
+1 Il contratto di delega deve prevedere che l'impresa di assicurazione e il Responsabile del Fondo debbano poter verificare le 
+procedure adottate dal soggetto delegato per l'esecuzione del contratto e le operazioni poste in essere per conto del Fondo.
+=== pagina 6 ===
+Mod. 95 – Ed. 07.2026   Pag. 6 di 56 
+linea potrà investire in OICR alternativi (FIA) e fondi immobiliari per un massimo complessivo del 10% 
+del portafoglio. 
+ 
+- Linea 2 Prudente 
+Obiettivo: perseguire nel medio  - lungo periodo , un incremento del capitale investito attraverso la 
+combinazione di investimenti azion ari e obbligazionari sfruttando le opportunità offerte dai mercati 
+internazionali. 
+Contenuto: la politica d’investimento mira a perseguire una struttura di portafoglio mista, orientata 
+prevalentemente verso titoli di debito (Titoli di Stato, obbligazioni di ogni tipo, sia pubbliche sia private, 
+comprese le obbligazioni convertibili e con warrant), titoli di capitale, parti di OICR, di emittenti italiani 
+ed esteri. Gli investimenti possono essere ricoperti utilizzando la strategia di gestione del rischio di 
+cambio in valuta elaborata dal gestore degli investimenti. Questa copertura è  effettuata con l’utilizzo 
+di contratti di valuta a termine e a pronti, contratti di opzioni o futures .  
+Limiti: l’investimento in titoli di capitale non p uò eccedere il 40% del patrimonio del comparto.  Nel 
+rispetto dei vigenti limiti normativi, la linea potrà investire in OICR alternativi (FIA) e fondi immobiliari 
+per un massimo complessivo del 10% del portafoglio. L'investimento in titoli sia di debito sia di capitale 
+emessi da governi o società di paesi emergenti, non potrà superare il limite del 5% del totale portafoglio. 
+ 
+- Linea 3 Equilibrata 
+Obiettivo: perseguire nel lungo periodo un incremento del capitale investito attraverso la combinazione 
+di investimenti azionari e obbligazionari, sfruttando le opportunità offerte dai mercati internazionali. 
+Contenuto: la politica d’investimento mira a perseguire una struttura di portafoglio mista, orientata 
+verso titoli di debito (Titoli di Stato, obbligazioni di ogni tipo, sia pubbliche sia  private, comprese le 
+obbligazioni convertibili e con warrant), titoli di capitale, parti di OICR, di emittenti italiani ed esteri. Gli 
+investimenti possono essere ricoperti utilizzando la strategia di gestione del rischio di cambio in valuta 
+elaborata dal gestore degli investimenti. Detta copertura è effettuata con l’utilizzo di contratti di valuta 
+a termine e a pronti, contratti di opzioni o futures. 
+Limiti: l’investimento in titoli di capitale non può eccedere il 70% del patrimonio del comparto. 
+Nel rispetto dei vigenti limiti normativi, la linea potrà investire in OICR alternativi (FIA) e fondi 
+immobiliari per un massimo complessivo del 10% del portafoglio.  L'investimento in titoli sia di debito 
+sia di capitale emessi da governi o società di paesi emergenti, non potrà superare il limite del 10% del 
+totale portafoglio. 
+Sostenibilità: il comparto adotta una politica di investimento che promuove caratteristiche ambientali 
+o sociali. 
+ 
+- Linea 4 Dinamica 
+Obiettivo: conseguire, nel lungo  periodo, un incremento del capitale investito attraverso la netta 
+prevalenza di impieghi azionari sfruttando le opportunità offerte dai mercati internazionali. 
+Contenuto: la politica d’investimento mira a realizzare una struttura di portafoglio a contenuto 
+prevalentemente azionario, orientata, quindi, verso titoli di capitale, parti di OICR o ETF, di emittenti 
+italiani ed esteri. Una quota residuale del portafoglio sarà invece investita in strumenti obbligazionari 
+quali titoli governativi o societari a breve termine o in depositi di liquidità. Gli investimenti possono 
+essere ricoperti utilizzando la strategia di gestione del rischio di cambio in valuta elaborata dal gestore 
+degli investimenti. Questa copertura è effettuata con l’utilizzo di contratti di valuta a termine e a pronti, 
+contratti di opzioni o futures. 
+Limiti: l’investimento in titoli di capitale non potrà scendere al di sotto del 70% del patrimonio del 
+comparto mentre potrà raggiungere anche il 100% dello stesso. Nel rispetto dei vigenti limiti normativi, 
+una quota non superiore al 30% del portafoglio potrà essere investita in strumenti obbligazionari sia 
+governativi sia societari, anche per il tramite di OICR, o in depositi di liquidità.  Inoltre, nel rispetto dei 
+vigenti limiti normativi, la linea potrà investire in OICR alternativi (FIA) e fondi immobiliari per un 
+massimo complessivo del 10% del portafoglio. 
+Sostenibilità: il comparto adotta una politica di investimento che promuove caratteristiche ambientali 
+o sociali. 
+ 
+L’adesione al comparto denominato Linea 1 Garantita attribuisce all’aderente, al verificarsi degli eventi di 
+cui appresso, il diritto alla corresponsione di un importo minimo garantito a prescindere dai risultati di 
+gestione. La garanzia può essere prestata all'impresa di assicurazione da soggetti diversi dalla stessa, a ciò 
+abilitati.
+=== pagina 7 ===
+Mod. 95 – Ed. 07.2026   Pag. 7 di 56 
+L’importo minimo garantito è pari alla somma dei contributi netti versati al comparto, inclusi gli eventuali 
+importi derivanti da trasferimenti da altro comparto o da altra forma pensionistica e i versamenti effettuati 
+per il reintegro delle anticipazioni percepite, ridotto da eventuali riscatti parziali e anticipazioni. 
+ 
+Per contributi netti si intendono i contributi di cui all’art.10, comma 2. 
+ 
+Il diritto alla garanzia è riconosciuto nei seguenti casi: 
+ esercizio del diritto alla prestazione pensionistica di cui all’art.11;  
+ riscatto per decesso; 
+ riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a  meno di un 
+terzo; 
+ riscatto per inoccupazione per un periodo superiore a quarantotto mesi. 
+ 
+In tali casi, qualora l’importo minimo garantito risulti superiore alla posizione individuale maturata , 
+calcolata, ai sensi dell’art. 10, con riferimento al primo giorno di valorizzazione utile successivo alla verifica 
+delle condizioni che danno diritto alla prestazione, la stessa viene integrata a tale maggior valore. 
+L’integrazione viene corrisposta dall'impresa di assicurazione. 
+ 
+5. La politica di investimento relativa a ciascun comparto, le relative caratteristiche e i diversi profili di rischio 
+- rendimento, in coerenza con gli obiettivi e i criteri riportati nel Regolamento, sono descritti nella Nota 
+informativa. 
+ 
+Art.8 – Spese 
+1. L’iscrizione al Fondo comporta le seguenti spese: 
+a) spese da sostenere all’atto dell’adesione: una commissione “una tantum” a carico dell’aderente pari 
+a Euro 20; 
+b) spese relative alla fase di accumulo: 
+b.1) direttamente a carico dell’aderente: una commissione pari a 15 Euro, applicata annualmente sulla 
+singola posizione e prelevata dal primo versamento contributivo dell’anno;  
+b.2) indirettamente a carico dell’aderente e che in cidono sul comparto: una commissione di gestione 
+pari alle seguenti percentuali, su base annua, in relazione dello/degli specifico/specifici comparto/i 
+di investimento nel/i quale/i è investita la posizione individuale , prelevate dal valore complessivo 
+netto del patrimonio con cadenza mensile. 
+ 
+Comparto di investimento 
+Commissione di 
+gestione su base 
+mensile (%) 
+Commissione di 
+gestione su base 
+annua (%) 
+Linea 1 Garantita  0,0833 1,00 
+Linea 2 Prudente 0,1083 1,30 
+Linea 3 Equilibrata 0,1250 1,50 
+Linea 4 Dinamica 0,1500 1,80 
+ 
+Sono inoltre a carico del comparto, per quanto di competenza, le imposte e tasse, le spese legali e 
+giudiziarie sostenute nell’esclusivo interesse del Fondo e gli oneri di negoziazione derivanti dall’attività 
+di impiego delle risorse, nonché il “contributo  di vigilanza” dovuto annualmente alla COVIP , ai sensi di 
+legge; sono altresì a carico  del comparto  le spese relative alla remunerazione e allo svolgimento 
+dell’incarico del Responsabile, salva diversa decisione dell'impresa di assicurazione. 
+ 
+Sul comparto non vengono fatti gravare spese e diritti di qualsiasi natura relativi alla sottoscrizione e al 
+rimborso delle parti di OICR acquistati, né le commissioni di gestione applicate dall’OICR stesso, salvo i 
+casi di deroga di carattere generale previsti dalla COVIP. In particolare, nel caso di investimenti in OICR 
+collegati, dal compenso dell'impresa di assicurazione sarà dedotta la remunerazione complessiva 
+percepita dal gestore dell'OICR collegato. Fanno eccezione gli investimenti in FIA diversi da quelli 
+collegati2. 
+ 
+2 Nel caso di investimenti in FIA diversi da quelli collegati sul compa rto potranno gravare commissioni  di gestione (ed 
+eventuali commissioni di incentivo) a condizione che venga resa agli aderenti adeguata informativa circa la misura massima  
+delle commissioni applicabili nell'ambito della Nota informativa. Per FIA collegati si intendono quelli promossi o gestiti dalla 
+società che gestisce le risorse del Fondo o da altre società del medesimo gruppo di appartenenza.
+=== pagina 8 ===
+Mod. 95 – Ed. 07.2026   Pag. 8 di 56 
+c) spese collegate all’esercizio delle seguenti prerogative individuali, dirette  alla copertura dei relativi 
+oneri amministrativi: 
+c.1) 25 Euro in caso di trasferimento ad altra forma pensionistica ; 
+d) spese relative alla fase di erogazione delle rendite, quali riportate nell’Allegato n. 2;  
+d-bis) spese relative alle prestazioni pensionistiche diverse dalla rendita vitalizia;  
+d-bis.1) spese per la gestione finanziaria di cui alla lettera b.2, in relazione al/i comparto/i nel/i  
+quale/i è investita la posizione individuale residua; 
+e) Spese e premi relativi alle prestazioni accessorie, quali riportate nell'Allegato n. 3;  
+f) spese in cifra fissa relative alla prestazione erogata in forma di "Rendita integrativa temporanea 
+anticipata" (RITA) dirette alla copertura dei relativi oneri amministrativi: 5 Euro per ogni rata di rendita 
+erogata. 
+2. L’importo delle spese sopra indicate  può essere ridotto nei casi di adesione su base collettiva e di  
+convenzionamenti con associazioni di lavoratori autonomi e liberi professionisti. La riduzione delle 
+commissioni di gestione espresse in misura percentuale sul patrimonio avviene mediante emissione di classi 
+di quote differenti. 
+3. Sono a carico dell'impresa di assicurazione  tutte le spese e oneri non individuati dalle disposizioni del 
+presente articolo.
+=== pagina 9 ===
+Mod. 95 – Ed. 07.2026   Pag. 9 di 56 
+PARTE III – CONTRIBUZIONE E PRESTAZIONI 
+ 
+Art.9 – Contribuzione 
+1. La misura della contribuzione a carico dell’aderente è determinata liberamente dallo stesso.  
+2. I lavoratori che aderiscono su base collettiva  fissano la contribuzione  nel rispetto della misura minima e 
+delle modalità stabilite dai contratti e dagli accordi collettivi, anche aziendali. 
+3. I lavoratori dipend enti, in caso di adesione esplicita,  possono contribuire al Fondo conferendo, anche 
+esclusivamente, i flussi di TFR in maturazione. Nelle adesioni collettive il conferimento del TFR può anche 
+essere parziale ove previsto dagli accordi collettivi. Qualora il lavoratore decida altresì di versare la 
+contribuzione prevista a suo carico e abbia diritto, in base ad accordi collettivi, anche aziendali, a un 
+contributo del datore di lavoro, detto contributo affluirà al Fondo nei limiti e alle condizioni stabilite nei 
+predetti accordi. Il datore di lavoro può decidere, anche in assenza di accordi collettivi , di contribuire al 
+Fondo.  
+4. L’aderente su base individuale ha la facoltà di sospendere la contribuzione fermo restando, per i lavoratori 
+dipendenti, l’obbligo del versamento del TFR maturando eventualmente conferito. La sospensione non 
+comporta la cessazione della partecipazione al Fondo. 
+5. In costanza del rapporto di lavoro, il lavoratore che aderisce su base collettiva ha la facoltà di sospendere la 
+contribuzione a proprio carico, con conseguente sospensione dell'obbligo contributivo a carico del datore  
+di lavoro, fermo restando il versamento del TFR maturando al Fondo. È possibile riattivare la contribuzione 
+in qualsiasi momento.  
+6. La contribuzione può essere attuata nel rispetto di quanto previsto dall’a rt.8, comma 12, del Decreto (c.d. 
+contribuzione da abbuoni). 
+7. L’aderente può decidere di proseguire la contribuzione al Fondo oltre il raggiungimento dell’età 
+pensionabile prevista dal regime obbligatorio di appartenenza, a condizione che alla data del 
+pensionamento, possa far valere almeno un anno di contribuzione a favore delle forme di previdenza 
+complementare. 
+ 
+Art.10 – Determinazione della posizione individuale 
+1. La posizione individuale consiste nel capitale accumulato di pertinenza di ciascun aderente, è alimentata dai 
+contributi netti versati, dagli importi derivanti da trasferimenti da altre forme pensionistiche complementari 
+e dai versamenti effettuati per il reintegro delle anticipazioni percepite, ed è ridotta da eventuali riscatti 
+parziali e anticipazioni. 
+2. Per contributi netti si intendono i versamenti al netto delle spese direttamente a carico dell’aderente, di cui 
+all’art. 8, comma 1, lett ere a) e b .1), e delle eventuali somme destinate a copertura delle prestazioni 
+accessorie previste. Sul primo versamento incidono anche eventuali spese di adesione.  
+3. La posizione individuale viene rivalutata in base al rendimento dei comparti . Il rendimento di ogni singolo 
+comparto è calcolato come variazione del valore della quota dello stesso nel periodo considerato. 
+4. Ai fini del calcolo del valore della quota le attività che costituiscono il patrimonio del comparto sono valutate 
+al valore di mercato; le plusvalenze e le minusvalenze maturate concorrono alla determinazione della 
+posizione individuale, a prescindere dal momento di effettivo realizzo.  
+5. L'impresa di assicurazione determina il valore della quota e, conseguentemente, della posizione individuale 
+di ciascun aderente con cadenza almeno mensile, alla fine di ogni mese. I versamenti sono trasformati in 
+quote e frazioni di quote, sulla base del primo valore di quota successivo al giorno in cui si sono resi 
+disponibili per la valorizzazione. 
+6. Il valore della posizione individuale oggetto delle prestazioni di cui agli artt. 11, 13 e 14 è quello risultante 
+al primo giorno di valorizzazione utile successivo a quello in cui l'impresa di assicurazione ha verificato la 
+sussistenza delle condizioni che danno diritto alle prestazioni. 
+7. Ai sensi del Decreto, nella fase di accumulo, le posizioni individuali costituite presso il Fondo sono intangibili 
+e non possono formare oggetto di sequestro o pignoramento da parte dei creditori dell'aderente.  
+ 
+Art.11 – Prestazioni pensionistiche e RITA 
+1. Il diritto alla prestazione pensionistica complementare si acquisisce al momento della maturazione dei 
+requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza dell’aderente, con 
+almeno cinque anni di partecipazione alle forme pensionistiche complementari. Il predetto termine è 
+ridotto a tre anni per il lavoratore che cessa il rapporto di lavoro per motivi indipendenti dal fatto che lo 
+stesso acquisisca il diritto a una pensione complementare e che si sposta in un altro Stato membro
+=== pagina 10 ===
+Mod. 95 – Ed. 07.2026   Pag. 10 di 56 
+dell'Unione Europea. L’aderente che decide di proseguire volontariamente la contribuzione ai sensi del 
+comma 8 dell’Art.9 ha la facoltà di determinare autonomamente il momento di fruizione delle prestazioni 
+pensionistiche. 
+2. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera età pensionabile quella vigente nel 
+regime obbligatorio di appartenenza. 
+3. Ai fini della determinazione dell’anzianità necessaria per la richiesta delle prestazioni pensionistiche sono 
+considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati 
+dall’aderente per i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale. 
+4. L’aderente, che abbia cessato l'attività lavorativa e abbia maturato almeno venti anni di contribuzione nei 
+regimi obbligatori di appartenenza e il periodo minimo di partecipazione alle forme pensionistiche 
+complementari di cui al comma 1, ha facoltà di richiedere che le prestazioni siano erogate , in tutto o in 
+parte, in forma di RITA , con un anticipo massimo di cinque anni rispetto alla data di maturazione dell'età 
+anagrafica prevista per la pensione di vecchiaia nel regime obbligatorio di appartenenza . 
+5. L’aderente, che abbia cessato l'attività lavorativa, sia rimasto successivamente inoccupato per un periodo 
+di tempo superiore a ventiquattro mesi e abbia maturato il periodo minimo di partecipazione alle forme 
+pensionistiche complementari di cui al comma 1, ha facoltà di richiedere la rendita di cui al comma 4 con 
+un anticipo massimo di dieci anni rispetto alla data di maturazione dell'età anagrafica per la pensione di 
+vecchiaia nel regime obbligatorio di appartenenza. 
+6. La porzione della posizione individuale di cui si chiede il frazionamento, ai sensi dei commi 4 o 5, verrà fatta 
+confluire, salvo diversa scelta dell'aderente, nel comparto più prudente individuato dal Fondo e indicato 
+nella Nota informativa. L'aderente può successivamente variare il comparto nel rispetto del periodo minimo 
+di appartenenza. 
+7. Nel corso dell'erogazione della RITA l'aderente può richiederne la revoca; ciò comporta la cessazione 
+dell'erogazione delle rate residue. 
+8. Nel caso in cui non venga utilizzata l'intera posizione individuale a titolo di RITA, l'aderente ha la facoltà di 
+richiedere, con riferimento alla sola porzione residua della posizione individuale, il riscatto e l'anticipazione 
+di cui agli artt. 13 e 14, ovvero, cessata l’erogazione della RITA parziale, la prestazione pensionistica.  
+9. In caso di trasferimento ad altra forma pensionistica  complementare la RITA si intende automaticamente 
+revocata e viene trasferita l'intera posizione individuale. 
+10. L'aderente ha facoltà di richiedere la liquidazione della prestazione pensionistica sotto forma di capitale nel 
+limite del 50 per cento della posizione individuale maturata. Nel computo dell’importo complessivo 
+erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia 
+provveduto al reintegro. Qualora l’importo che si ottiene convertendo in rendita vitalizia immediata annua 
+senza reversibilità a favore dell’aderente il 70 per cento della posizione individuale maturata risulti inferiore 
+al 50 per cento dell’assegno sociale di cui all’art. 3, commi 6, 7, della Legge 8 agosto 1995, n. 335, l’aderente 
+può optare per la liquidazione in capitale dell’intera posizione maturata.  
+11. L’aderente che, sulla base della documentazione prodotta, risulta assunto antecedentemente al 29 aprile 
+1993 ed entro tale data iscritto a una forma pensionistica complementare , istituita alla data di entrata in 
+vigore della L egge 23 ottobre 1992, n. 421, può richiedere la liquidazione dell’intera prestazione 
+pensionistica complementare in capitale. 
+12. Le prestazioni pensionistiche sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e pignorabilità in 
+vigore per le pensioni a carico degli istituti di previdenza obbligatoria.  
+13. L’aderente che abbia maturato il diritto alla prestazione pensionistica e intenda esercitare tale diritto può 
+trasferire la propria posizione individuale presso altra forma pensionistica complementare, per avvalersi 
+delle condizioni di erogazione della re ndita vitalizia praticate da quest’ultima. In tal caso si applica q uanto 
+previsto all’art.13, commi 6 e 7. 
+ 
+Art.12 – Erogazione delle prestazioni pensionistiche 
+1. A seguito dell’esercizio del diritto alla prestazione pensionistica, all’aderente è erogata una rendita vitalizia 
+immediata calcolata in base alla posizione individuale maturata, al netto dell’eventuale quota di prestazione 
+da erogare sotto forma di capitale. 
+2. L’aderente può richiedere comunque l’erogazione delle prestazioni in una delle tipologie di rendita di 
+seguito indicate:  
+a) una rendita rivalutabile certa per i primi 5 o 10 anni (a scelta dell'aderente) e, successivamente, 
+vitalizia: la rendita è corrisposta per i primi 5 o 10 anni all’aderente o, in caso di suo decesso, alla/e 
+persona/e da lui designata/e. Successivamente la rendita sarà corrisposta all'aderente se e finché questi 
+resterà in vita;
+=== pagina 11 ===
+Mod. 95 – Ed. 07.2026   Pag. 11 di 56 
+b) una rendita rivalutabile certa per i primi 5 o 10 anni (a scelta dell'aderente) e, successivamente, 
+vitalizia reversibile: la rendita è corrisposta per i primi 5 o 10 anni all’aderente o, in caso di suo decesso, 
+alla/e persona/e da lui designata/e. Successivamente la rendita è corrisposta all’aderente finché è in 
+vita e, in seguito, in misura totale o parziale (60%) a scelta dell’aderente stesso, alla/e persona/e da lui 
+designata/e (denominata/e reversionario/i); 
+c) una rendita immediata vitalizia rivalutabile reversibile : la rendita è corrisposta all’aderente finché è 
+in vita e, successivamente, in misura totale o parziale (60%) scelta dall’aderente stesso, alla/e persona/e 
+da lui designata/e (denominata/e reversionario/i). 
+Si precisa che in caso di rendita reversibile (sia totale che parziale) la differenza di età massima prevista tra 
+la prima testa assicurata e la testa reversionaria non può essere superiore a 15 anni.  
+3. Nell’Allegato n. 2 al Regolamento sono riportate le condizioni e modalità di erogazione delle rendite vitalizie 
+e i coefficienti di trasformazione (basi demografiche e finanziarie) da utilizzare per il relativo calcolo. Tali 
+coefficienti possono essere successivamente variati, nel rispetto della normativa tempo per tempo vigente 
+in materia di stabilità delle compagnie di assicurazione; in ogni caso, le modifiche dei coefficienti di 
+trasformazione non si applicano ai soggetti, già aderenti alla data di introduzione delle modifiche stesse, 
+che esercitano il diritto alla prestazione pensionistica nei tre anni successivi.  
+4. Le simulazioni relative alla rendita vitalizia che verrà erogata sono effettuate facendo riferimento, laddove 
+vi sia l’impegno a non modificare i coefficienti di trasformazione, a quelli indicati nell’Allegato n. 2 e , negli 
+altri casi, a coefficienti individuati dalla COVIP, in modo omogeneo per tutte le forme, in base alle proiezioni 
+ufficiali disponibili sull’andamento della mortalità della popolazione italiana.  
+5. In alternativa alla rendita vitalizia, l’aderente può richiedere, al netto della eventuale quota di prestazione  
+erogata sotto forma di capitale, l’erogazione della prestazione pensionistica in una delle seguenti forme:  
+a) rendita a durata definita: detta rendita è erogata per un periodo predeterminato sulla base della vita 
+attesa residua del beneficiario, come determinata dall’ISTAT per il calcolo delle pensioni obbligatorie ; 
+b) prelievi liberamente determinabili: detti prelievi possono essere richiesti dal beneficiario, con facoltà 
+per lo stesso di determinarne la tempistica e l’importo nel limite della somma delle rate, maturate e 
+non riscosse, di una rendita teorica con frazionamento annuale, immediatamente erogabile e di durata 
+definita pari alla vita attesa residua, in anni interi, dell’aderente al momento della richiesta della 
+prestazione.  
+6. L'Impresa di assicurazione  provvede ad erogare direttamente le prestazioni pensionistiche diverse dalla 
+rendita vitalizia con tempestività e comunque non oltre il termine massimo di  6 mesi decorrente dalla 
+ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, l'Impresa di 
+assicurazione richiede gli elementi integrativi, e il termine sopra indicato è sospeso fino alla data del 
+completamento o della regolarizzazione della pratica. Il montante residuo è mantenuto in gestione, nel /i 
+comparto/i scelto/i dall’aderente, all’atto della richiesta della prestazione o, in difetto di indicazioni, nel /i 
+comparto/i individuato/i nella Nota informativa.  
+6-bis. Al fine di adeguare i sistemi e i processi operativi dell'Impresa di assicurazione  per la gestione delle 
+richieste e l’erogazione diretta delle prestazioni, il termine di cui al comma 6  può essere derogato per un 
+periodo transitorio, che non potrà protrarsi oltre il 31 dicembre 2026. Durante tale periodo l'Impresa di 
+assicurazione acquisisce le richieste di erogazione delle prestazioni. Successivamente all’avvenuto 
+adeguamento dei suddetti sistemi e processi operativi, l'Impresa di assicurazione procede 
+tempestivamente alla liquidazione delle richieste di erogazione delle prestazioni pervenute durante il 
+periodo transitorio. 
+7. Le prestazioni di cui al comma 5 , lett. a) e b) non sono tra loro cumulabili e non possono essere revocate 
+una volta iniziata la liquidazione, salvo che il beneficiario opti per la conversione del montante residuo in 
+una rendita vitalizia immediata sulla base delle condizioni e dei criteri indicati nella Nota informativa, ovvero 
+trasferisca il montante residuo presso un’altra forma pensionistica all’unico fine di beneficiare delle 
+condizioni di rendita vitalizia offerte da quest’ultima.  
+8. L’aderente, al momento della richiesta di una delle prestazioni di cui al comma 5 , lett. a) e b) è tenuto ad 
+individuare i soggetti che, in caso di morte del beneficiario, hanno diritto di riscattare il montante residuo. 
+Tale scelta può essere successivamente modificata dall’aderente.  
+9. Nel corso dell’erogazione delle prestazioni di cui al comma 5 , lett. a) e b), l’aderente non può richiedere 
+trasferimenti, riscatti, anticipazioni o la RITA, ad eccezione della variazione del comparto /profilo di 
+investimento, che può essere richiesta nel rispetto del periodo minimo di partecipazione di cui all’art. 6, 
+comma 2.
+=== pagina 12 ===
+Mod. 95 – Ed. 07.2026   Pag. 12 di 56 
+10. Nel corso dell’erogazione delle prestazioni pensionistiche, non può essere versata ulteriore contribuzione 
+al Fondo, salvo il caso in cui l’interessato attivi un nuovo rapporto di lavoro che preveda la maturazione del 
+TFR.  
+11. La Nota Informativa riporta le opzioni di erogazione e le modalità di funzionamento delle prestazioni 
+pensionistiche di cui al comma 5, lett. a) e b). 
+ 
+Art.13 – Trasferimento e riscatto della posizione individuale 
+1. L’aderente può trasferire la posizione individuale maturata ad altra forma pensionistica complementare 
+decorso un periodo minimo di due anni di partecipazione al Fondo.  
+2. L’aderente, anche prima del periodo minimo di permanenza, può:  
+a) trasferire la posizione individuale maturata ad altra forma pensionistica complementare, alla quale 
+acceda in relazione alla nuova attività lavorativa; 
+b) riscattare il 50 per cento della posizione individuale maturata, in caso di cessazione dell’attività 
+lavorativa che comporti l’inoccupazione per un periodo di tempo non inferiore a dodici mesi e non 
+superiore a quarantotto mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di 
+mobilità, cassa integrazione guadagni, ordinaria o straordinaria; 
+c) riscattare l’intera posizione individuale maturata, in caso di invalidità permanente che comporti la 
+riduzione della capacità di lavoro a meno di un terzo o a seguito di cessazione dell’attività lavorativa 
+che comporti l’inoccupazione per un periodo di tempo superiore a quarantotto mesi; 
+d) riscattare l’intera posizione individuale maturata, ai sensi dell’ art. 14, comma 5,  del Decreto ovvero 
+riscattare fino all'intera posizione individuale . Il riscatto parziale può essere esercitato per non più di 
+due volte nel periodo di partecipazione al Fondo, ovvero trasferirla ad altra forma pensionistica 
+complementare, qualora vengano meno i requisiti di partecipazione.  
+3. Nei casi previsti ai punti a), c) e d) del comma 2 l’aderente, in luogo dell’esercizio dei diritti di trasferimento 
+e di riscatto, può proseguire la partecipazione al Fondo, anche in assenza di ulteriore contribuzione. Tale 
+opzione trova automatica applicazione in difetto di diversa scelta da parte dell'aderente. Nel caso in cui il 
+valore della posizione individuale maturata non sia superiore all'importo di una mensilità dell'assegno 
+sociale di cui all'art.3, comma 6, della Legge 8 agosto 1995, n.335, l'impresa di assicurazione informa 
+l'aderente della facoltà di trasferire la propria posizione individuale ad altra forma pensionistica 
+complementare, ovvero di chiedere il riscatto dell'intera posizione di cui al comma 2, lettera d). 
+4. In caso di decesso dell’aderente prima dell’esercizio del diritto alla prestazione pensionistica, ovvero nel 
+corso dell'erogazione della "Rendita integrativa temporanea anticipata" (RITA), la posizione individuale è 
+riscattata dai soggetti designati dallo stesso,  siano essi persone fisiche o giuridiche , o in mancanza dagli 
+eredi. In mancanza di tali soggetti, la posizione individuale resta acquisita al Fondo.  
+5. Al di fuori dei suddetti casi non sono previste forme di riscatto della posizione.  
+6. L'impresa di assicurazione, accertata la sussistenza dei requisiti, provvede al trasferimento o al riscatto della 
+posizione con tempestività, e comunque non oltre il termine massimo di sei mesi decorrente dalla ricezione 
+della richiesta.  Nel caso in cui la domanda risulti incompleta o insufficiente, l'impresa di assicurazione 
+richiede gli elementi integrativi e il termine sopra indicato è sospeso fino alla data del completamento o 
+della regolarizzazione della pratica. 
+7. Il trasferimento della posizione individuale e il riscatto totale comportano la cessazione della partecipazione 
+al Fondo. 
+ 
+Art.14 – Anticipazioni 
+1. L’aderente può conseguire un’anticipazione della posizione individuale maturata nei seguenti casi e misure: 
+a) in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie conseguenti a 
+situazioni gravissime attinenti a sé, al coniuge o ai figli, per terapie e interventi straordinari riconosciuti 
+dalle competenti strutture pubbliche; 
+b) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 
+75 per cento, per l’acquisto della prima casa di abitazione, per sé o per i figli, o per la realizzazione, sulla 
+prima casa di abitazione, degli interventi di manutenzione ordinaria, straordinaria, di restauro e di 
+risanamento conservativo, di ristrutturazione edilizia, di cui alle lettere a), b), c)  e d) del comma 1 , 
+dell’art. 3 del Decreto del Presidente della Repubblica 6 giugno 2001, n. 380; 
+c) decorsi otto anni di iscrizione a forme pensionistiche complementari, per un importo non superiore al 
+30 per cento, per la soddisfazione di ulteriori sue esigenze.
+=== pagina 13 ===
+Mod. 95 – Ed. 07.2026   Pag. 13 di 56 
+2. Le disposizioni che specificano i casi e regolano le modalità operative in materia di anticipazioni sono 
+riportate in apposito documento. 
+3. Le somme complessivamente percepite a titolo di anticipazione non possono eccedere il 75 per cento della 
+posizione individuale maturata, incrementata delle anticipazioni percepite e non reintegrate.  
+4. Ai fini della determinazione dell’anzianità necessaria per esercitare il diritto all’anticipazione, sono 
+considerati utili tutti i periodi di partecipazione a forme pensionistiche complementari maturati 
+dall’aderente, per i quali lo stesso non abbia esercitato il diritto di riscatto totale della posizione individuale. 
+5. Le somme percepite a titolo di anticipazione possono essere reintegrate, a scelta dell’aderente e in qualsiasi 
+momento. 
+6. Le anticipazioni di cui al comma 1, lettera a), sono sottoposte agli stessi limiti di cedibilità, sequestrabilità e 
+pignorabilità, in vigore per le pensioni a carico degli istituti di previdenza obbligatoria.  
+7. L'impresa di assicurazione provvede agli adempimenti conseguenti all'esercizio delle predette facoltà da 
+parte dell'aderente con tempestività e comunque non oltre il termine massimo di sei mesi decorrente dalla 
+ricezione della richiesta. Nel caso in cui la domanda risulti incompleta o insufficiente, l'impresa di 
+assicurazione richiede gli elementi integrativi , e il termine sopra indicato è sospeso fino alla data di 
+completamento o della regolarizzazione della pratica. 
+ 
+Art.14-bis – Prestazioni accessorie 
+1. Il Fondo prevede inoltre le seguenti prestazioni alternative: 
+a) copertura in caso di decesso (c.d. TCM)  o in caso di invalidità totale e permanente (c.d. ITP) 
+dell'aderente; 
+b) copertura in caso di decesso dell'aderente e in caso di perdita di autosufficienza (Long Term Care, c.d. 
+LTC) dell'aderente. 
+2. L'adesione alle suddette prestazioni è facoltativa e può essere espressa all'atto dell'adesione al Fondo o 
+successivamente mediante sottoscrizione di apposito modulo.  
+3. Le condizioni delle suddette prestazioni sono indicate nell'Allegato n. 3 al presente Regolamento.
+=== pagina 14 ===
+Mod. 95 – Ed. 07.2026   Pag. 14 di 56 
+PARTE IV – PROFILI ORGANIZZATIVI 
+ 
+Art.15 – Separatezza patrimoniale, amministrativa e contabile 
+1. Gli strumenti finanziari e i valori del Fondo costituiscono patrimonio separato e autonomo rispetto sia al 
+patrimonio dell'impresa di assicurazione, sia a quello degli altri fondi gestiti, sia a quello degli aderenti.  
+2. Il patrimonio del Fondo è destinato all’erogazione delle prestazioni pensionistiche agli aderenti e non può 
+essere distratto da tale fine. 
+3. Sul patrimonio del Fondo non sono ammesse azioni esecutive da parte dei creditori dell'impresa di 
+assicurazione o di rappresentanti dei creditori stessi, né da parte dei creditori degli aderenti o di 
+rappresentanti dei creditori stessi. Il patrimonio del Fondo non può essere coinvolto nelle procedure 
+concorsuali che riguardino l'impresa di assicurazione. 
+4. L'impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e contabile 
+delle operazioni poste in essere per conto del Fondo rispetto al complesso delle altre operazioni svolte 
+dall'impresa di assicurazione e del patrimonio del Fondo rispetto a quello dell'impresa di assicurazione e di 
+suoi clienti. 
+5. Ferma restando la responsabilità dell'impresa di assicurazione per l’operato del soggetto delegato, la 
+gestione amministrativa e contabile del Fondo può essere delegata a terzi.  
+6. L'impresa di assicurazione è dotata di procedure atte a garantire la separatezza amministrativa e contabile 
+delle operazioni poste in essere in riferimento a ciascun comparto. 
+7. Il patrimonio di ciascun comparto è suddiviso in quote o in differenti classi di quote nel caso in cui valga no 
+le condizioni previste dall’art. 8, comma 2. 
+ 
+Art.16 – Sistema di governo  
+1. L'impresa di assicurazione assicura, in modo proporzionato alla dimensione, alla natura, alla portata e alla 
+complessità delle attività del Fondo, l’assolvimento degli obblighi previsti dagli artt. 4- bis, 5-bis, 5-ter, 5-
+quater, 5-sexies, 5 -septies, 5-octies e 5 -nonies del Decreto in coerenza con gli assetti organizzativi del 
+rispettivo settore di riferimento. 
+ 
+Art.17 – Depositario 
+1. Il patrimonio del Fondo è depositato presso un unico soggetto distinto dal gestore, in possesso dei requisiti 
+previsti dalle vigenti disposizioni normative (di seguito "depositario"). 
+2. L'impresa di assicurazione può revocare in ogni momento l’incarico al depositario, il quale può, a sua volta, 
+rinunciare con preavviso di almeno 6 mesi; in ogni caso, l’efficacia della revoca o della rinuncia è sospesa 
+fino a che: 
+- l'impresa di assicurazione non abbia stipulato un nuovo contratto con altro depositario, in possesso dei 
+requisiti di legge; 
+- il patrimonio del Fondo non sia stato trasferito presso il nuovo depositario.  
+3. Il calcolo del valore della quota può essere delegato al depositario, ferma restando la responsabilità 
+dell'impresa di assicurazione per l’operato del soggetto delegato.  
+4. Le funzioni di depositario sono regolate dalla normativa tempo per tempo vigente.  
+5. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarità riscontrate 
+nella gestione del Fondo e forniscono su richiesta della COVIP informazioni su atti o fatti di cui sono venuti 
+a conoscenza nell'esercizio delle funzioni di depositario. 
+6. Sugli strumenti finanziari e sulle somme di denaro del Fondo depositati presso il depositario non sono 
+ammesse azioni dei creditori del depositario, del subdepositario o nell'interesse degli stessi.
+=== pagina 15 ===
+Mod. 95 – Ed. 07.2026   Pag. 15 di 56 
+Art.18 – Responsabile 
+1. L'impresa di assicurazione nomina un Responsabile del Fondo, ai sensi dell’ art. 5, comma 2, del Decreto. 
+2. Le disposizioni che regolano la nomina, le competenze e il regime di responsabilità del Responsabile sono 
+riportate nell’Allegato n.1. 
+ 
+Art.19 – Organismo di rappresentanza 
+1. È istituito un Organismo di rappresentanza (di seguito "Organismo") , ai sensi dell’ art.5, comma  5, del 
+Decreto. 
+2. Le disposizioni che regolano la nomina, la composizione  e il funzionamento dell’Organismo sono riportate 
+in un apposito documento denominato "Disposizioni in materia di Organismo di rappresentanza".  
+3. L'impresa di assicurazione individua il numero complessivo dei componenti dell'Organismo in modo tale da 
+garantire la rappresentatività degli iscritti per adesioni collettive e la funzionalità dell'Organismo.  
+4. Le aziende o i gruppi che provvedono alla designazione dei rappresentanti sono quelle che alla fine del mese 
+precedente alla designazione hanno almeno 500 lavoratori iscritti al Fondo pensione 3. 
+5. I componenti dell' Organismo restano in carica tre  anni e possono svolgere più mandati. I componenti 
+nominati in sostituzione di quelli cessati in corso di mandato scadono insieme a quelli in carica all'atto della 
+loro nomina. 
+6. Le spese di funzionamento dell'Organismo e gli eventuali compensi riconosciuti ai suoi compo nenti, non 
+possono gravare sul Fondo né sull'impresa di assicurazione. 
+7. L'organismo svolge funzioni di collegamento tra le collettività che aderiscono al Fondo, l'impresa di 
+assicurazione e il Responsabile. L'organismo non svolge funzioni di controllo.  
+8. I componenti dell'Organismo devono adempiere le loro funzioni nel rispetto dei principi generali di 
+correttezza e buona fede e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza 
+in ragione del loro ufficio. 
+ 
+Art.20 – Conflitti di interesse 
+1. La politica di gestione dei conflitti di interesse è definita in un apposito documento redatto ai sensi della 
+normativa tempo per tempo vigente. 
+ 
+Art.21 – Scritture contabili 
+1. La tenuta dei libri e delle scritture contabili del Fondo nonché la valorizzazione del patrimonio e delle 
+posizioni individuali sono effettuate sulla base delle disposizioni emanate dalla COVIP.  
+2. L'impresa di assicurazione conferisce a una società di revisione l’incarico di esprimere , con apposita 
+relazione, un giudizio sul rendiconto del Fondo. 
+3. Il rendiconto del Fondo è pubblicato sul sito web dell'impresa di assicurazione.  
+ 
+ 
+ 
+ 
+3 Nel caso in cui il numero di aziende o gruppi di cui al comma 4 comporta il superamento del limite massimo di componenti, 
+le collettività tenute alla designazione sono individuate in base alla numerosità degli aderenti al Fondo. L'impresa di 
+assicurazione può individuare ulteriori criteri di selezione delle aziende. Se invece il numero di aziende o gruppi di cui  al 
+comma 4 non comporta il raggiungimento del limite massimo di componenti, l'impresa di assicurazione può invitare altre 
+aziende o gruppi, individuati sulla base di un criterio di selezione delle aziende (quale, ad esempio, la numerosità degli 
+aderenti al Fondo), a comunicare i nominativi dei rappresentanti propri e dei propri lavoratori.
+=== pagina 16 ===
+Mod. 95 – Ed. 07.2026   Pag. 16 di 56 
+PARTE V – RAPPORTI CON GLI ADERENTI 
+ 
+Art.22 – Modalità di adesione e clausole risolutive espresse 
+1. L'adesione esplicita al Fondo avviene mediante sottoscrizione di apposito modulo di adesione. L'adesione è 
+preceduta dalla consegna della documentazione informativa prevista tempo per tempo dalla normativa 
+vigente. 
+2. L’aderente è responsabile della completezza e veridicità delle informazioni fornite all'impresa di 
+assicurazione. 
+3. Dell’avvenuta iscrizione al Fondo viene data apposita comunicazione all’aderente mediante lettera di 
+conferma, attestante la data di iscrizione e le informazioni relative all’eventuale versamento effettuato.  
+4. L’adesione al Fondo comporta l’integrale accettazione del Regolamento, e dei relativi allegati, e delle 
+successive modifiche, fatto salvo quanto previsto in tema di trasferimento nell’ art. 26. 
+5. La raccolta delle adesioni al Fondo può essere svolta all'interno della sede legale o delle dipendenze 
+dell'impresa di assicurazione da parte di addetti a ciò incaricati ovvero tramite la rete di distribuzione 
+dell'impresa di assicurazione. Le adesioni su base collettiva possono essere raccolte anche presso i luoghi 
+indicati nella Nota informativa.  
+6. L'aderente ha il diritto di recedere entro trenta giorni dalla sottoscrizione del modulo, senza costi di recesso 
+e senza dover indicare il motivo dello stesso. Per l'esercizio di tale diritto, l'aderente invia una 
+comunicazione scritta all'impresa di assicurazione con modalità che garantiscono certezza della data di 
+ricezione (lettera raccomandata con avviso di ricevimento inviata a: Helvetia Vita S.p.A., Gestione Operativa 
+– Previdenza, Via G. B. Cassinis 21 –  20139 Milano oppure e -mail PEC all'indirizzo 
+previdenzahelvetia@pec.helvetia.it). L'impresa di assicurazione, entro trenta giorni dal ricevimento della 
+comunicazione, procede a rimborsare all'aderente tramite bonifico le somme eventualmente pervenute, al 
+netto delle spese di adesione, ove trattenute. L'impresa di assicurazione rende previamente noti 
+all'aderente il momento in cui l'adesione si intende conclusa, i termini, le modalità e i criteri di 
+determinazione delle somme oggetto di rimborso.  
+In caso di adesione mediante sito web, l'impresa di assicurazione deve acquisire il consenso espresso 
+dell'aderente all'utilizzo di tale strumento. L'aderente ha il diritto di recedere entro trenta giorni dalla 
+sottoscrizione del modulo, senza costi di recesso e senza dover indicare il motivo dello stesso. Per l'esercizio 
+di tale diritto, l'aderente invia una comunicazione  scritta all'impresa di assicurazione  con modalità che 
+garantiscono certezza della data di ricezione (lettera raccomandata con avviso di ricevimento inviata a: 
+Helvetia Vita S.p.A., Gestione Operativa –  Previdenza, Via G. B. Cassinis 21 –  20139 Milano oppure e -mail 
+PEC all'indirizzo previdenzahelvetia@pec.helvetia.it ). L'impresa di assicurazione, entro trenta  giorni dal 
+ricevimento della comunicazione, procede a rimborsare all'aderente tramite bonifico le somme 
+eventualmente pervenute, al netto delle spese di adesione, ove trattenute. L'impresa di assicurazione rende 
+previamente noti all'aderente il momento in cui l'adesione si intende conclusa, i termini, le modalità e i 
+criteri di determinazione delle somme oggetto di rimborso.  
+7. L'aderente è tenuto ad effettuare il versamento della prima contribuzione entro sei  mesi dall'adesione al 
+Fondo. In caso di inadempimento, l'impresa di assicurazione ha facoltà, ai sensi dell'art.  1456 del Codice 
+Civile, di risolvere il contratto comunicando all'aderente la propria volontà di avvalersi della clausola 
+risolutiva espressa, salvo che l'aderente non provveda a effettuare un versamento entro sessanta  giorni 
+dalla ricezione della comunicazione.  
+8. Qualora nel corso della partecipazione al Fondo,  l'aderente interrompa il flusso contributivo con 
+conseguente azzeramento della posizione individuale a seguito dell'applicazione delle spese annuali di 
+gestione amministrativa, l'impresa di assicurazione ha facoltà, ai sensi dell'art.  1456 del Codice Civile, di 
+risolvere il contratto comunicando la propria volontà di avvalersi della clausola risolutiva espressa, salvo che 
+l'aderente non provveda a effettuare un versamento entro sessanta giorni dalla ricezione della 
+comunicazione. 
+ 
+Art.23 – Trasparenza nei confronti degli aderenti e dei beneficiari  
+1. L'impresa di assicurazione mette a disposizione degli aderenti la documentazione inerente al Fondo e tutte 
+le altre informazioni utili, secondo quanto previsto dalle disposizioni COVIP in materia. Tali documenti sono 
+disponibili sul sito web dell'impresa d i assicurazione, in un'apposita sezione dedicata alle forme 
+pensionistiche complementari e presso la sede legale dell'impresa di assicurazione. I documenti utilizzati in 
+fase di adesione sono resi disponibili in formato cartaceo e gratuitamente anche press o le sedi dei soggetti 
+che effettuano l'attività di raccolta delle adesioni.
+=== pagina 17 ===
+Mod. 95 – Ed. 07.2026   Pag. 17 di 56 
+2. L'impresa di assicurazione fornisce agli aderenti e ai beneficiari le informazioni relative alle posizioni 
+individuali maturate e alle prestazioni erogate, secondo quanto previsto dalla normativa tempo per tempo 
+vigente. 
+ 
+Art.24 – Comunicazioni e reclami 
+1. L'impresa di assicurazione definisce le modalità con le quali gli aderenti e i beneficiari possono  
+rappresentare le proprie esigenze e presentare reclami , in coerenza con le indicazioni fornite dalla COVI P, 
+riportandole nella Nota informativa.
+=== pagina 18 ===
+Mod. 95 – Ed. 07.2026   Pag. 18 di 56 
+PARTE VI – NORME FINALI 
+ 
+Art.25 – Modifiche del Regolamento 
+1. Il Regolamento può essere modificato secondo le procedure previste dalla COVIP.  
+2. L'impresa di assicurazione stabilisce il termine di efficacia delle modifiche, tenuto conto dell’interesse degli 
+aderenti e fatto salvo quanto disposto all’art. 26. 
+ 
+Art.26 – Trasferimento in caso di modifiche peggiorative delle condizioni economiche e di modifiche 
+delle caratteristiche del Fondo 
+1. In caso di modifiche che complessivamente comportino un peggioramento rilevante delle condizioni 
+economiche del Fondo, l’aderente interessato dalle suddette modifiche può trasferire la posizione 
+individuale maturata ad altra forma pensionistica complementa re, anche prima che siano decorsi due anni 
+dall’iscrizione. Il diritto di trasferimento è altresì riconosciuto quando le modifiche interessano in modo 
+sostanziale la caratterizzazione del Fondo, come può avvenire in caso di variazione significativa delle 
+politiche di investimento. 
+2. L'impresa di assicurazione comunica a ogni aderente interessato l’introduzione delle modifiche almeno 
+centoventi giorni prima della relativa data di efficacia; dal momento della comunicazione l’aderente ha 
+novanta giorni di tempo per manifestare l’eventuale scelta di trasferimento. L'impresa di assicurazione può 
+chiedere alla COVIP termini ridotti di efficacia nei casi in cui ciò sia utile al buon funzionamento del Fondo e 
+non contrasti con l’interesse degli aderenti. 
+3. Per le operazioni di trasferimento di cui al presente articolo non sono previste spese.  
+ 
+Art.27 – Cessione del Fondo 
+1. Qualora l'impresa di assicurazione non voglia o non possa più esercitare l’attività di gestione del Fondo, 
+questo viene ceduto ad altro soggetto, previa autorizzazione all’esercizio. In caso di cessione del Fondo a 
+società diverse da quelle del Gruppo al quale appartiene l'impresa di assicurazione viene riconosciuto agli 
+aderenti il diritto al trasferimento della posizione presso altra forma pensionistica complementare  ai sensi 
+dell'art. 26 e con le modalità ivi previste. 
+ 
+Art.28 – Operazioni di fusione 
+1. Nel caso in cui il Fondo sia interessato da operazioni di razionalizzazione che determinano la sua fusione con 
+un altro fondo gestito dalla medesima impresa di assicurazione, il diritto al trasferimento della posizione 
+presso altra forma pensionistica comp lementare viene riconosciuto qualora ricorrano le condizioni di cui 
+all'art. 26 e con le modalità ivi previste. 
+ 
+Art.29 – Rinvio 
+1. Per tutto quanto non espressamente previsto nel presente Regolamento si fa riferimento alla normativa 
+tempo per tempo vigente.
+=== pagina 19 ===
+Mod. 95 – Ed. 07.2026   Pag. 19 di 56 
+ALLEGATO N.1 
+ 
+DISPOSIZIONI IN MATERIA DI RESPONSABILE 
+ 
+Art.1 – Nomina e cessazione dall’incarico 
+1. La nomina del Responsabile spetta all’organo di amministrazione dell'impresa di assicurazione che esercita 
+l'attività del Fondo. L’incarico ha durata triennale ed è rinnovabile, anche tacitamente, per non più di una 
+volta consecutivamente. 
+2. La cessazione del Responsabile per scadenza del termine ha effetto nel momento in cui viene nominato il 
+nuovo Responsabile. 
+3. Il Responsabile può essere revocato solo per giusta causa, sentito il parere dell’organo di controllo 
+dell'impresa di assicurazione. 
+4. Le nomine, gli eventuali rinnovi dell’incarico  e le sostituzioni del Responsabile prima della scadenza del 
+termine vengono comunicati alla COVIP entro quindici giorni dalla deliberazione. 
+ 
+Art.2 – Requisiti e incompatibilità 
+1. I requisiti per l’assunzione dell’incarico di Responsabile sono previsti dalla normativa tempo per tempo 
+vigente. 
+2. L’incarico di Responsabile è inoltre incompatibile con: 
+a) lo svolgimento di attività di lavoro subordinato e di prestazione d’opera continuativa presso l'impresa 
+di assicurazione o società da questa controllate o che la controllano;  
+b) l’incarico di amministratore dell'impresa di assicurazione. 
+ 
+Art.3 – Decadenza 
+1. La perdita dei requisiti di onorabilità o il sopravvenire di situazioni di ineleggibilità o di incompatibilità 
+comporta la decadenza dall’incarico. 
+ 
+Art.4 – Retribuzione 
+1. La retribuzione annuale del Responsabile è determinata dall’organo di amministrazione all’atto della 
+nomina per l’intero periodo di durata dell’incarico  e viene definita sulla base di una sana politica di 
+remunerazione che tenga conto dei principi previsti dalla normativa tempo per tempo vigente, fermo 
+restando che il compenso del Responsabile non può essere pattuito sotto forma di partecipazione agli uti li 
+dell'impresa di assicurazione, o di società controllanti o controllate, né sotto forma di diritti di acquisto o di 
+sottoscrizione di azioni dell'impresa di assicurazione o di società controllanti o controllate . 
+2. Le spese relative alla remunerazione e allo svolgimento dell’incarico di Responsabile sono poste a carico del 
+Fondo, salva diversa decisione dell'impresa di assicurazione. 
+ 
+Art.5 – Autonomia del Responsabile 
+1. Il Responsabile svolge la propria attività in modo autonomo e indipendente dall'impresa di assicurazione, 
+riportando direttamente all'organo di amministrazione della stessa relativamente ai risultati dell'attività 
+svolta. 
+2. A tale fine il Responsabile si avvale della collaborazione delle strutture organizzative dell'impresa di 
+assicurazione, di volta in volta necessarie allo svolgimento dell’incarico e all’adempimento dei doveri di cui 
+all'Art. 6. L'impresa di assicurazione gli garantisce l’accesso a tutte le informazioni necessarie allo scopo.  
+3. Il Responsabile assiste alle riunioni dell’organo di amministrazione e di quello di controllo dell'impresa di 
+assicurazione, per tutte le materie inerenti al Fondo.
+=== pagina 20 ===
+Mod. 95 – Ed. 07.2026   Pag. 20 di 56 
+Art.6 – Doveri del Responsabile 
+1. Il Responsabile verifica che la gestione del Fondo sia svolta nell'esclusivo interesse degli aderenti e dei 
+beneficiari e vigila sull'osservanza della normativa e del Regolamento nonché sul rispetto delle buone 
+pratiche e dei principi di corretta amministrazione del Fondo. 
+2. Il Responsabile, avvalendosi delle procedure definite dall'impresa di assicurazione, organizza lo svolgimento 
+delle sue funzioni al fine di: 
+a) vigilare sulla gestione finanziaria del Fondo, anche nel caso di conferimento a terzi di deleghe di 
+gestione, con riferimento ai controlli su: 
+i. la politica di investimento. In particolare: che la politica di investimento effettivamente seguita sia 
+coerente con quella indicata nel Regolamento e nel Documento sulla politica d'investimento e che 
+gli investimenti, ivi compresi quelli effettuati in OICR, avvengano nell’esclusivo interesse degli 
+aderenti, nel rispetto dei principi di sana e prudente gestione nonché nel rispetto dei criteri e limiti 
+previsti dalla normativa tempo per tempo vigente e dal Regolamento; 
+ii. la gestione e il monitoraggio dei rischi. In particolare: che i rischi assunti con gli investimenti 
+effettuati siano correttamente identificati, misurati e controllati e che siano coerenti con gli 
+obiettivi perseguiti dalla politica di investimento; 
+b) vigilare sulla gestione amministrativa del Fondo, anche nel caso di conferimento a terzi di deleghe di 
+gestione, con riferimento ai controlli su: 
+i. la separatezza amministrativa e contabile delle operazioni poste in essere per conto del Fondo 
+rispetto al complesso delle altre operazioni svolte dall'impresa di assicurazione e del patrimonio 
+del Fondo rispetto a quello dell'impresa di assicurazione e di suoi clienti;  
+ii. la regolare tenuta dei libri e delle scritture contabili del Fondo; 
+c) vigilare sulle misure di trasparenza adottate nei confronti degli aderenti e dei beneficiari con 
+riferimento ai controlli su: 
+i. l’adeguatezza dell’organizzazione dedicata a soddisfare le esigenze informative degli aderenti  e 
+dei beneficiari, sia al momento del collocamento del Fondo che durante il rapporto;  
+ii. gli oneri di gestione. In particolare, che le spese a carico degli aderenti e dei beneficiari previste 
+dal Regolamento e le eventuali commissioni correlate ai risultati di gestione siano correttamente 
+applicate; 
+iii. la completezza ed esaustività delle informazioni contenute nelle comunicazioni periodiche agli 
+aderenti e ai beneficiari e in quelle inviate in occasione di eventi particolari;  
+iv. l’adeguatezza della procedura per la gestione dei reclami nonché il trattamento riservato ai 
+singoli reclami; 
+v. la tempestività e la correttezza dell'erogazione delle prestazion i, in particolare con riferimento 
+ai tempi di liquidazione delle somme richieste a titolo di anticipazione o riscatto e di 
+trasferimento della posizione individuale. 
+3. Il Responsabile controlla le soluzioni adottate dall'impresa di assicurazione per identificare le situazioni di 
+conflitti di interesse e per evitare che le stesse arrechino pregiudizio agli aderenti  e ai beneficiari ; egli 
+controlla altresì la corretta esecuzione del contratto stipulato per il conferimento dell’incarico di  
+depositario, nonché il rispetto delle convenzioni assicurative/condizioni per l’erogazione delle rendite e, ove 
+presenti, delle convenzioni/condizioni relative alle prestazioni accessorie . 
+4. Delle irregolarità riscontrate nell’esercizio delle sue funzioni il Responsabile dà tempestiva comunicazione 
+all’organo di amministrazione e a quello di controllo dell'impresa di assicurazione indicando gli interventi 
+correttivi da adottare. 
+ 
+Art.7 – Rapporti con la COVIP 
+1. Il Responsabile: 
+a) predispone annualmente una relazione che descrive in maniera analitica l’organizzazione adottata per 
+l’adempimento dei suoi doveri e che dà conto della congruità delle procedure di cui si avvale per 
+l’esecuzione dell’incarico, dei risultati dell’attività svolta, delle eventuali irregolarità riscontrate durante 
+l’anno e delle iniziative poste in essere per eliminarle. La relazione viene trasmessa alla COVIP entro il 
+31 marzo di ciascun anno. 
+Copia della relazione stessa viene trasmessa all’organo di amministrazione e a quello di controllo 
+dell'impresa di assicurazione;
+=== pagina 21 ===
+Mod. 95 – Ed. 07.2026   Pag. 21 di 56 
+b) vigila sul rispetto delle deliberazioni della COVIP e verifica che vengano inviate alla stessa le 
+segnalazioni, la documentazione e le relazioni richieste dalla normativa tempo per tempo vigente e 
+dalle istruzioni emanate in proposito; 
+c) comunica alla COVIP, contestualmente alla segnalazione all’organo di amministrazione e a quello di 
+controllo dell'impresa di assicurazione, le irregolarità riscontrate nell’esercizio delle sue funzioni. 
+ 
+Art.8 – Responsabilità 
+1. Il Responsabile deve adempiere i suoi doveri con la professionalità e la diligenza richieste dalla natura 
+dell’incarico e dalla sua specifica competenza e deve conservare il segreto sui fatti e sui documenti di cui ha 
+conoscenza in ragione del suo ufficio, tranne che nei confronti della COVIP e delle autorità giudiziarie.  
+2. Egli risponde verso l'impresa di assicurazione e verso i singoli aderenti e beneficiari al Fondo dei danni a 
+ciascuno arrecati e derivanti dall’inosservanza di tali doveri. 
+3. All’azione di responsabilità si applicano, in quanto compatibili, gli artt.  2391, 2392, 2393, 2394, 2394 -bis e 
+2395 del Codice Civile
+=== pagina 22 ===
+Mod. 95 – Ed. 07.2026   Pag. 22 di 56 
+ALLEGATO N.2 
+ 
+CONDIZIONI E MODALITÀ 
+DI EROGAZIONE DELLE RENDITE 
+ 
+Art. 1 – Prestazioni di rendita  
+Ai sensi dell’art. 12 del presente Regolamento, la C ompagnia garantisce all’assicurato la corresponsione di una 
+rendita immediata vitalizia rivalutabile , pagabile in rate posticipate, impiegando il montante contributivo 
+maturato in capo all’iscritto, integrato dalla eventuale garanzia di risultato ed al netto dell’eventuale prestazione 
+in forma di capitale erogatagli. 
+In alternativa alla rendita immediata vitalizia rivalutabile l'aderente al Fondo può chiedere , con un preavviso di 
+almeno 30 giorni rispetto alla data in cui matura il diritto alla pensione complementare di vecchiaia o di anzianità, 
+di convertire l’ammontare relativo alla posizione individuale maturata in una delle seguenti rendite vitalizie 
+alternative: 
+a) una rendita immediata vitalizia rivalutabile reversibile : detta rendita è corrisposta all’assicurato finché è 
+in vita e successivamente, in misura totale o parziale  (60%) a scelta dell’assicurato stesso, alla persona da 
+lui designata (denominata reversionario), ovvero alle persone da lui designate (denominate reversionari) ; 
+b) una rendita rivalutabile certa per i primi 5 o 10 anni (a scelta dell’assicurato) e, successivamente, vitalizia: 
+detta rendita è corrisposta per i primi 5 o 10 anni all’assicurato o, in caso di suo decesso, alla persona da lui 
+designata (ovvero alle persone da lui designate). Successivamente la rendita verrà corrisposta all’assicurato 
+se e finché questi resta in vita; 
+c) una rendita rivalutabile certa per i primi 5 o 10 anni (a scelta dell’assicurato) e, successivamente, vitalizia 
+reversibile: detta rendita è corrisposta per i primi 5 o 10 anni all’assicurato o, in caso di suo decesso, alla 
+persona da lui designata (ovvero alle persone da lui designate).  
+Successivamente detta rendita è corrisposta all’assicurato finché è in vita ed in seguito, in misura totale o 
+parziale (60%) a scelta d ell’assicurato stesso, alla persona da lui designata (denominata reversionario), 
+ovvero alle persone da lui designate (denominate reversionari). 
+ 
+La rendita vitalizia in erogazione non potrà essere riscattata durante il periodo di  suo godimento. 
+ 
+Per tutti i pagamenti del Fondo , ad ecce zione del caso di decesso dell'assicurato,  debbono essere 
+preventivamente consegnati allo stesso – distintamente per il tipo di richiesta effettuata – i seguenti documenti, 
+necessari a verificare l’effettiva esistenza dell’obbligo di pagamento ed a individuare i Beneficiari aventi diritto:  
+ autocertificazione dell’aderente nella quale si dichiari –  come indicato d all’art. 11, comma 1,  “Prestazioni 
+pensionistiche” del Regolamento del Fondo –  il possesso dei requisiti richiesti per l’ottenimento della 
+pensione complementare, ovvero: 
+- compimento dell’età pensionabile stabilita nel regime obbligatorio di appartenenza con un minimo di 
+5 anni di iscrizione al Fondo, in caso di richiesta della pensione complementare di vecchiaia;  
+- dichiarazione dell’aderente nella quale venga specificata la quota che si vuole venga liquidata in 
+capitale, come indicato all’art. 11, comm i 10 e 11,  “Prestazioni pensionistiche” del Regolamento  del 
+Fondo; 
+ certificato di esistenza in vita dell’aderente o autocertificazione; 
+ copia leggibile di un valido documento di  riconoscimento dell'aderente (tale certificazione deve essere 
+inviata con frequenza annuale al Fondo). 
+ denominazione dell’Istituto Bancario e codice IBAN del conto corrente bancario dell’aderente.  
+ 
+Per tutti i pagamenti conseguenti al decesso dell’aderente debbono essere consegnati:  
+ certificato di morte dell'assicurato; 
+ dati anagrafici e fiscali dei Beneficiario/i o del Reversionario/i; 
+ decreto del Giudice Tutelare, nel caso di beneficiario minorenne o di beneficiario incapace; 
+ denominazione dell’Istituto Bancario  e codice IBAN del conto corrente bancario degli aventi diritto 
+(Beneficiari o Reversionario/i); 
+ ulteriore documentazione di carattere amministrativo o giudiziario, eventualmente ritenuta n ecessaria 
+dalla Compagnia o dovuta per legge. 
+ 
+Il Fondo si riserva di chiedere ulteriore documentazione che si rendesse necessaria, per motivi di legge, per 
+definire la liquidazione dell’importo spettante. Decorso il termine dei trenta giorni sono dovuti gli interessi di
+=== pagina 23 ===
+Mod. 95 – Ed. 07.2026   Pag. 23 di 56 
+mora (tasso legale di interesse), a partire dal termine stesso, a favore dell’aderente o degli  aventi diritto  
+(Beneficiari o Reversionario/i). 
+ 
+Art. 2 – Periodicità di liquidazione 
+1. La rendita, indipendentemente dalla tipologi a prescelta dall’assicurato, può essere frazionata in rate con 
+cadenza mensile o bimestrale o trimestrale o quadrimestrale o semestrale anziché essere corrisposta in 
+unica soluzione alla fine di ogni anno.  
+2. Il frazionamento della rendita non può essere modificato nel corso della sua erogazione.  
+ 
+Art. 3 – Premio 
+L’ammontare relativo alla posizione individuale in capo all’aderente (al netto della eventuale quota di 
+prestazione da erogare sotto forma di capitale e dell’eventuale imposta) integrato dalla eventuale garanzia di 
+risultato e dedotto dell’eventuale prestazione in forma di capitale di cui all’ art. 11 del Regolamento, viene 
+impiegato quale premio unico quale corrispettivo delle prestazioni di rendita.  
+Il versamento del premio da parte del Fondo a favore della gestione separata Remunera Più avviene al momento 
+di entrata in vigore dell’assicurazione, così come definito al successivo art. 6. 
+ 
+Art. 4 – Modalità di calcolo della rendita iniziale 
+1. L’importo iniziale della rendita vitalizia rivalutabile è determinato moltiplicando il premio di cui al precedente 
+art. 3, al netto del costo di 50 Euro di cui al  successivo art. 5, per il coefficiente di conversione in vigore 
+all’epoca di maturazione dei diritti di cui all’ art. 11, comma 1,  del Regolamento e dividendo il risultato 
+ottenuto per 1.000.  
+2. I coefficienti di conversione d ipendono dall’anno di nascita e dall’età assicurativa raggiunta dall’aderente 
+alla data di decorrenza della rendita vitalizia, nonché dal frazionamento della rendita prescelto. 
+3. I coefficienti di conversione relativi alle forme di rendita di cui all’art. 1, lett. b) attualmente in vigore sono 
+riportati nelle tabelle allegate, quelli riferiti alle rendite di cui all’art. 1, lett. a) e c) sono riportati nelle tabelle 
+allegate solo per alcune combinazioni di età . I coefficienti  relativi a combinazioni non riportate sono 
+depositati presso la sede del Fondo  e possono essere richiesti in qual siasi momento e, comunque, prima 
+della conversione della posizione individuale in prestazione pensionistica.  
+ 
+In caso di scelta del frazionamento della rendita sub  annuale, l’i mporto ottenuto con i relativi coefficienti 
+corrisponde all’importo annuo; l’ammontare delle singole rate si ottiene dividendo tale importo annuo per il 
+numero delle rate prescelto. 
+ 
+I coefficienti attualmente in vigore per la determinazione del valore i niziale della rendita vitalizia  di cui ai 
+precedenti punti 2. e 3. sono stati determinati in base alla tavola di sopravvivenza desunta dalla tavola di 
+mortalità denominata “ A62UI”, pubblicata dall’ANIA per quest a tipologia di forme assicurative sulla base delle 
+proiezioni demografiche elaborate dall’ISTAT, applicando un tasso tecnico pari allo 0,00% annuo.  
+ 
+Nel periodo di versamento della contribuzione (prima dell’erogazione della rendita) i coefficienti di conversione 
+di cui ai precedenti punti 2. e 3. possono essere periodicamente rideterminati sulla base delle rilevazioni 
+(osservazioni sugli andamenti) demografiche e delle condizioni finanziarie. Tale rideterminazione dei coefficienti 
+non avrà effetto sulle rendite già in corso di erogazione , pertanto, i coefficienti riportati nelle successive tabelle 
+sono validi per tutti gli aderenti che facciano richiesta della prestazione prima dell 'eventuale sostituzione dei 
+coefficienti medesimi, fermo restando quanto riportato al precedente art. 12 comma 3.  
+ 
+Ogni eventuale variazione dei coefficienti verrà comunicata all’aderente dal Fondo.  
+ 
+Art. 5 – Costi di gestione e pagamento rendita  
+Nella fase di conversione del premio in rendita è previsto un costo a carico dell’aderente pari a 50 Euro da 
+decurtare dal premio stesso. 
+Il costo per le spese di amministrazione e di erogazione della rendita vitalizia è pari all’1,25% della rendita stessa.  
+ 
+Nella fase di erogazione della rendita, come indicato a l successivo art.8 “Modalità di rivalutazione annuale della 
+rendita assicurata” la Compagnia trattiene dal rendimento annuo realizzato dalla Gestione “Remunera Più” una 
+commissione pari a 1,20%.  
+Con riferimento alle rendite finanziarie, nella fase di erogazione
+=== pagina 24 ===
+Mod. 95 – Ed. 07.2026   Pag. 24 di 56 
+Art. 6 – Entrata in vigore dell’assicurazione 
+1. Il contratto assicurativo decorre: 
+ dal primo giorno del mese successivo al ricevimento –  presso la Compagnia – della richiesta di 
+erogazione in rendita, per gli assicurati che ne abbiano fatto richiesta entro il 20 del mese; 
+ dal primo giorno del secondo mese successivo a quello di presentazione della richiesta  presso la 
+Compagnia, per gli assicurati che effettuano la richiesta tra il 21 e la fine del mese. 
+In entrambi i casi è necessario il raggiungimento dei requisiti previsti dall’art. 11 del Regolamento.  
+2. L’entrata in vigore della copertura assicurativa di rendita è comunicata per iscritto a ciascun assicurato. 
+ 
+Art. 7 – Dichiarazioni relative alle circostanze del rischio  
+L’inesatta dichiarazione della data di nascita dell’assicurato e/o dell’eventuale Reversionario di cui all’Art. 1 
+comporta, in ogni caso, la rettifica, in base alle età reali, della rendita assicurata. 
+ 
+Art. 8 – Modalità di rivalutazione annuale della rendita assicurata 
+Il contratto assicurativo di rendita appartiene ad una speciale categoria di contratti, a cui la Compagnia riconosce 
+una rivalutazione annua delle prestazioni assicurate. 
+La Compagnia gestisce le attività a copertura degli impegni assunti ( riserve matematiche) nei confronti degli 
+aderenti al Fondo, attraverso la gestione separata denominata Remunera più con le modalità ed i criteri previsti 
+dal Regolamento della gestione stessa e di seguito riportato. 
+ 
+A) Misura annua della rivalutazione 
+Al 31 dicembre di ciascun anno viene determinato il rendimento su base annua realizzato dalla gestione separata 
+al 31 ottobre immediatamente precedente. Il rendimento annuale viene determinato rapportando il risultato 
+finanziario di “Remunera più” al valore medio degli investimenti per tale periodo. Tale rendimento è al netto 
+degli oneri specifici degli investimenti  e degli oneri dovuti alla S ocietà di revisione per la certificazione del 
+rendiconto annuale della gestione. 
+ 
+La misura annua di rivalutazione da attribuire agli assicurati si ottiene sottraendo al rendimento annuo della 
+gestione separata Remunera più, come  sopra determinata, un valore denominato commissione annua di 
+gestione pari all'1,20%. 
+Qualora la misura annua di rivalutazione risult i negativa, per l’anno in questione la rivalutazione della rendita 
+non interviene. 
+ 
+B) Rivalutazione delle prestazioni  
+Al primo gennaio di ciascun anno  (data di rivalutazione), la rendita vitalizia viene rivalutata me diante aumento, 
+a totale carico della Compagnia, della riserva matematica costituitasi a tale epoca. 
+1. Tale aumento viene determinato secondo la misura annua di rivalutazione fissata, a norma del precedente 
+punto A) “Misura di rivalutazione”. 
+2. La rendita rivalutata sarà determinata moltiplicando la rendita in vigore nel periodo annuale precedente per 
+la misura annua di rivalutazione e sommando tale importo alla rendita in vigore nel periodo annuale 
+precedente; la prima rivalutazione sarà effettu ata pro-rata temporis in funzione della data di conversione 
+del premio in rendita vitalizia  rispetto alla data di rivalutazione (periodo di tempo compreso tra la data di 
+conversione in rendita e la data di rivalutazione di riferimento).  
+3. L'aumento annuale della rendita verrà annualmente comunicato all'assicurato dalla Compagnia. 
+ 
+Art. 9 – Rinvio alle norme di legge 
+L'assicurazione è regolata dalla legge italiana. Per tutto quanto non previsto  dal contratto valgono le norme di 
+legge. 
+ 
+Art. 10 – Tasse e imposte 
+Tasse e imposte relative al contratto sono a carico dell'aderente o dei Beneficiari ed aventi diritto.
+=== pagina 25 ===
+Mod. 95 – Ed. 07.2026   Pag. 25 di 56 
+REGOLAMENTO DELLA GESTIONE SEPARATA “REMUNERA PIÙ” 
+ 
+Art. 1 – Costituzione e denominazione della gestione separata  
+Helvetia Vita S.p.A. (già Chiara Vita S.p.A.) – di seguito la “Società” – ha costituito una speciale forma di gestione 
+degli investimenti, denominata “Remunera più”, separata da quella delle altre attività della Società e rivolta a 
+tutti i segmenti di clientela ed a tutte le tipologie di contratti a prestazioni rivalutabili collegati ai rendimenti 
+realizzati dalla gestione stessa. 
+Con riferimenti ai suddetti contratti, il presente Regolamento costituisce parte integrante delle rispettive 
+Condizioni contrattuali. 
+ 
+La gestione “Remunera più” è denominata in Euro.  
+La gestione “Remunera più” è conforme alle norme stabilite dall’I SVAP (oggi IVASS) con Regolamento n. 38 del 
+03/06/2011 e successive modifiche ed integrazioni.  
+ 
+Art. 2 – Attività, obiettivi e politiche di investimento della gestione separata 
+Il valore delle attività della gestione “Remunera più” non può essere inferiore alle riserve matematiche costituite 
+per i contratti a prestazioni rivalutabili di cui al precedente articolo 1, sulla base dei rendimenti realizzati dalla 
+gestione stessa. 
+ 
+La gestione finanziaria ha l’obiettivo di conseguire risultati che consentano di far fronte alle garanzie di 
+rendimento contrattualmente stabilite e realizzare un rendimento positivo, in quanto ciò sia compatibile con le 
+condizioni di mercato. Le politiche  di gestione sono tese a garantire nel tempo un’equa partecipazione degli 
+Assicurati ai risultati finanziari della gestione “Remunera più”; le scelte di investimento si fondano su modelli di 
+Asset Liability Management che permettono di tenere in considerazione, nella selezione e gestione delle attività 
+finanziarie, gli impegni assunti verso gli Assicurati. Oltre al rispetto dei limiti regolamentari, si persegue la 
+liquidità degli investimenti, l’efficienza del profilo rischio -rendimento, anche attraverso la diversificazione, 
+evitando disparità che non siano giustific ate dalla necessità di salvaguardare, nell’interesse della massa degli 
+Assicurati, l’equilibrio e la stabilità della gestione “Remunera più”.   
+ 
+In linea generale, le risorse della gestione “Remunera più” possono essere investite in tutte le attività ammissibili 
+a copertura delle riserve tecniche ai sensi dell’Art. 38 del D. Lgs. 7 settembre 2005, n. 209, recante il Codice delle 
+Assicurazioni Private e dei relativi regolamenti attuativi. 
+Tali attività sono di piena e libera proprietà della Società nonché libere da vincoli o gravami di qualsiasi natura.  
+ 
+La gestione “Remunera più” può investire anche la totalità degli attivi in Titoli di debito emessi e/o garantiti da 
+Stati appartenenti all’Ocse, da organismi sovranazionali ai quali aderisca almeno uno Stato membro dell’Ocse, 
+da emittenti locali controllati da emittenti governativi appartenenti all’Ocse. 
+ 
+È ammesso l’investimento in Titoli obbligazionari di emittenti corporate, compresi anche gli OICR obbligazionari, 
+in misura non superiore all’80% degli attivi. Il rating degli emittenti, al momento dell’acquisto, deve essere, 
+preferibilmente, almeno Investment Grade 1; potranno essere acquistate anche obbligazioni con rating Below 
+Investment Grade 2 purché, complessivamente, il loro peso non sia superiore al 5% degli attivi della gestione 
+“Remunera più”. 
+ 
+Il peso del comparto azionario deve essere inferiore al 20% degli attivi; l’investimento azionario si realizza 
+attraverso l’acquisto di Titoli di capitale, ETF, SICAV e OICR azionari, bilanciati e flessibili. L’esposizione azionaria 
+diretta riguarda titoli con un livello di liquidità adeguato all’investimento effettuato, quotati sui principali mercati 
+borsistici.  
+L’investimento nel Comparto Immobiliare può avvenire attraverso l’acquisto di partecipazioni in società 
+immobiliari, quote di OICR immobiliari o immobili. Sono ammessi Investimenti Alternativi (Hedge Fund, Private 
+Equity) attraverso l’acquisto di azioni o quote di OICR aperti non armonizzati, azioni o quote di fondi mobiliari 
+chiusi non negoziate in un mercato regolamentato, fondi riservati e speculativi.  
+ 
+ 
+1 Secondo le scale di valutazione attribuite da primarie agenzie di rating, Investment Grade è il rating almeno pari a BBB- 
+2 Secondo le scale di valutazione attribuite da primarie agenzie di rating, Below Investment Grade è quello minore di BBB-
+=== pagina 26 ===
+Mod. 95 – Ed. 07.2026   Pag. 26 di 56 
+I limiti, i termini e le condizioni alle quali possono essere effettuati investimenti immobiliari e alternativi sono 
+quelli previsti dalla normativa vigente. 
+Sono, infine, ammessi gli Strumenti di mercato monetario, quali ad esempio depositi bancari, certificati di 
+deposito e OICR monetari, le cui controparti devono avere rating “Investment Grade”. Fanno eccezione i soli 
+“conti correnti” dove sono ammesse anche  controparti “Below Investment Grade o senza rating”, ma con il 
+limite massimo del 3%. 
+L’operatività attraverso strumenti finanziari derivati e l’investimento in prodotti strutturati avviene nel principio 
+di sana e prudente gestione e si conforma alle disposizioni normative in materia. Gli strumenti finanziari derivati 
+sono ammessi con final ità di copertura e gestione efficace, con le modalità e i limiti previsti dalla normativa 
+vigente. 
+Con operazioni di copertura si intendono quelle operazioni destinate a ridurre, totalmente o parzialmente, il 
+rischio di investimento o di controparte ed effettuate allo scopo di proteggere il valore di singole attività o 
+passività o di insiemi di attività  o passività, da variazioni sfavorevoli dei tassi, degli indici, dei prezzi degli 
+strumenti finanziari e dal rischio di default degli emittenti degli strumenti finanziari in portafoglio.  
+Le operazioni di gestione efficace del portafoglio sono quelle operazioni effettuate allo scopo di raggiungere 
+prefissati obiettivi di investimento in maniera più veloce, agevole, economica o flessibile rispetto a quanto 
+sarebbe possibile ottenere operando  sugli attivi sottostanti, senza generare nel contempo un incremento 
+significativo del rischio di investimento, rispetto a quello generabile operando direttamente sugli attivi 
+sottostanti. 
+ 
+Ai sensi della normativa vigente sono, comunque, esclusi gli investimenti in:  
+ crediti infruttiferi, ad esclusione di quelli nei confronti di Assicurati ed Intermediari per premi da incassare 
+nella misura in cui siano effettivamente esigibili da meno di tre mesi;  
+ immobili destinati all’esercizio della Società;  
+ crediti verso i riassicuratori, fermo restando quanto previsto dall’articolo 8, comma 5 del Regolamento 
+ISVAP (oggi IVASS) 38/2011; 
+ immobilizzazioni materiali;  
+ spese di acquisizione da ammortizzare.  
+ 
+Le operazioni con le controparti di cui all’Art. 5 del Regolamento ISVAP  (oggi IVASS) 27/05/2008 n.25, sono 
+ammesse e non devono pregiudicare gli interessi degli Assicurati. Sono effettuate a condizioni di mercato, ovvero 
+a condizioni che è possibile ottenere da imprese o soggetti indipendenti (principio della c.d. “best execution”) e 
+in coerenza con la normativa IVASS vigente.  
+Gli investimenti in OICR ed obbligazioni emesse o gestite da società appartenenti allo stesso Gruppo della Società 
+non possono superare il 30% del patrimonio della gestione “Remunera più”.  
+ 
+L’uscita delle attività dalla gestione separata può avvenire esclusivamente da realizzo.  
+ 
+Art. 3 – Determinazione del tasso medio di rendimento annuo della gestione separata   
+Annualmente viene determinato il tasso medio di rendimento della gestione “Remunera più” relativamente al 
+periodo di osservazione che decorre dal 1° gennaio fino al 31 dicembre di ciascun anno.  
+In aggiunta al tasso medio di rendimento sopra indicato, al termine di ciascun mese viene determinato il tasso 
+di rendimento medio realizzato per il periodo corrispondente ai 12 mesi di calendario precedenti.  
+ 
+I tassi medi di rendimento, relativi ai periodi sopra indicati, sono determinati rapportando il risultato finanziario 
+della gestione di competenza di quel periodo al valore medio annuo degli investimenti della gestione relativo al 
+medesimo periodo. 
+ 
+Il risultato finanziario della gestione è costituito dai proventi finanziari di competenza conseguiti dalla gestione 
+stessa nel periodo considerato, comprensivi degli scarti di emissione e di negoziazione di competenza, dai ratei 
+di interessi e di cedole maturati e dagli utili e dalle perdite di realizzo di competenza della gestione.  
+Gli utili e le perdite di realizzo vengono determinati con riferimento al valore di iscrizione delle corrispondenti 
+attività nel libro mastro della gestione “Remunera più”, e cioè al prezzo di acquisto per l’attività di nuova 
+acquisizione ed al valore di mercato all’atto dell’iscrizione per i beni già di proprietà della Società.  
+Gli utili realizzati comprendono anche quelli  derivanti dalla retrocessione di commissioni o di altri proventi 
+ricevuti dalla Società in virtù di accordi con soggetti terzi e riconducibili al patrimonio della gestione stessa.
+=== pagina 27 ===
+Mod. 95 – Ed. 07.2026   Pag. 27 di 56 
+Le plusvalenze e le minusvalenze vanno prese in considerazione, nel calcolo del rendimento finanziario, solo se 
+effettivamente realizzate nel periodo considerato. 
+ 
+Il risultato finanziario è calcolato al lordo delle ritenute fiscali di acconto ed al netto delle spese effettivamente 
+sostenute per l’acquisto e la vendita delle attività della gestione “Remunera più”, ivi incluse le spese relative alla 
+certificazione della gestione di cui al successivo articolo 4, fermo restando che sulla gestione “Remunera più” 
+non sono consentite altre forme di prelievo in qualsiasi modo effettuate.  
+Per valore medio annuo degli investimenti della gestione “Remunera più” si intende la somma della giacenza 
+media dei depositi in numerario presso gli Istituti di Credito, della consistenza media degli investimenti in titoli 
+e di ogni altra attività della gestione stessa.  
+La consistenza media nel periodo di osservazione dei depositi, dei titoli e delle altre attività viene determinata 
+in base al valore di iscrizione nel libro mastro della gestione “Remunera più”. 
+I criteri di valutazione impiegati ai fini del calcolo della giacenza media non possono essere modificati, salvo in 
+casi eccezionali. In tale eventualità, il rendiconto riepilogativo della gestione separata è accompagnato da una 
+nota illustrativa che riporta le motivazioni dei cambiamenti nei criteri di valutazione ed il loro impatto economico 
+sul tasso medio di rendimento della gestione separata. 
+ 
+Art. 4 – Verifica contabile della gestione separata  
+La gestione “Remunera più” è annualmente sottoposta a verifica contabile  da parte di una Società di Revisione 
+iscritta all’Albo Speciale tenuto dalla Consob ai sensi dell’art. 161 del D.lgs. n. 58/1998 n. 58 (T.U.F.) e dell’art. 
+43, comma 1, lettera i) del D.Lgs. n. 39/2010 n. 39 e rispettive successive modifiche ed integrazio ni, la quale 
+attesta la rispondenza della gestione stessa al presente Regolamento.  
+In particolare, sono verificati  la corretta valutazione delle attività attribuite alla G estione, il rendimento annuo 
+della gestione quale descritto al precedente articolo 3 e l’adeguatezza dell’ammontare delle riserve 
+matematiche.  
+In occasione della verifica annuale relativa al periodo di osservazione, la Società di Revisione di cui sopra verifica 
+anche tutti gli altri 11 rendimenti annui calcolati nei periodi non coincidenti con il periodo di osservazione.  
+ 
+Art. 5 – Eventuali modifiche 
+La Società si riserva di apportare al presente Regolamento quelle modifiche che si rendessero necessarie a 
+seguito di cambiamenti  della normativa primaria e secondaria oppure a fronte di mutati criteri gestionali con 
+esclusione, in tale ultimo caso, di quelle meno favorevoli per gli Assicurati.  
+ 
+Art. 6 – Facoltà del Contraente 
+Il Contraente ha facoltà di richiedere in qualsiasi momento un prospetto aggiornato della ripartizione delle 
+attività che compongono la gestione interna separata.
+=== pagina 28 ===
+Mod. 95 – Ed. 07.2026   Pag. 28 di 56 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA VITALIZIA IMMEDIATA 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+RATEAZIONE DELLA RENDITA 
+Età (*) ANNUALE SEMESTRALE QUADRIMESTRALE TRIMESTRALE BIMESTRALE MENSILE 
+50 25,38 25,22 25,16 25,14 25,11 25,08 
+51 26,02 25,85 25,79 25,76 25,73 25,71 
+52 26,68 26,51 26,45 26,42 26,39 26,36 
+53 27,39 27,20 27,14 27,11 27,07 27,04 
+54 28,13 27,93 27,86 27,83 27,80 27,76 
+55 28,90 28,69 28,62 28,59 28,55 28,52 
+56 29,72 29,50 29,42 29,39 29,35 29,31 
+57 30,58 30,35 30,27 30,23 30,19 30,15 
+58 31,49 31,25 31,16 31,12 31,08 31,04 
+59 32,46 32,20 32,11 32,07 32,02 31,98 
+60 33,49 33,21 33,11 33,07 33,02 32,97 
+61 34,58 34,28 34,18 34,13 34,08 34,03 
+62 35,73 35,41 35,31 35,25 35,20 35,15 
+63 36,96 36,62 36,51 36,45 36,39 36,34 
+64 38,27 37,90 37,78 37,72 37,66 37,60 
+65 39,67 39,28 39,15 39,08 39,02 38,95 
+66 41,17 40,75 40,61 40,54 40,47 40,40 
+67 42,79 42,33 42,18 42,10 42,03 41,96 
+68 44,53 44,03 43,87 43,79 43,71 43,63 
+69 46,40 45,87 45,69 45,60 45,51 45,43 
+70 48,44 47,85 47,66 47,56 47,47 47,37 
+71 50,64 50,00 49,79 49,68 49,58 49,47 
+72 53,03 52,33 52,10 51,98 51,87 51,76 
+73 55,63 54,86 54,61 54,48 54,36 54,23 
+74 58,47 57,61 57,33 57,20 57,06 56,92 
+75 61,56 60,62 60,31 60,15 60,00 59,85 
+76 64,95 63,90 63,55 63,38 63,22 63,05 
+77 68,66 67,49 67,11 66,92 66,73 66,54 
+78 72,75 71,43 71,01 70,79 70,58 70,37 
+79 77,23 75,75 75,27 75,03 74,79 74,56 
+80 82,15 80,48 79,93 79,66 79,40 79,13 
+81 87,55 85,65 85,04 84,74 84,43 84,13 
+82 93,50 91,33 90,64 90,29 89,95 89,61 
+83 100,04 97,57 96,78 96,38 95,99 95,61 
+84 107,25 104,42 103,50 103,05 102,61 102,17 
+85 115,14 111,88 110,83 110,31 109,80 109,30 
+(*) I valori si riferiscono ai nati dal 1958 al 1966. Per i nati dal 1967 al 1977 si applica il ringiovanimento dell'età di un anno; 
+per i nati dal 1978 al 1989 il ringiovanimento di due anni ; per i nati dal 1990 al 2001 il ringiovanimento di tre anni; per i nati 
+dal 2002 al 2014 il ringiovanimento di quattro anni; per i nati dal 2015 al 2020 il ringiovanimento di cinque anni; per i nati dal 
+2021 in poi il ringiovanimento di sei anni. Al contrario per i nati dal 1948 al 1957, l'età dovrà essere aumentata di un anno; per 
+i nati dal 1939 al 1947, l'età dovrà essere aumentata di due anni; per i nati dal 1928 al 1938, l'età dovrà essere aumentata di 
+tre anni; per i nati dal 1921 al 1927, l'età dovrà essere aumentata di quattro anni; per i nati dal 1918 al 1921, l'età dovrà essere 
+aumentata di cinque anni; per i nati dal 1908 al 1917, l'età dovrà essere aumentata di sei anni; per i nati nel 1907 o negli anni 
+precedenti, l'età dovrà essere aumentata di sette anni.
+=== pagina 29 ===
+Mod. 95 – Ed. 07.2026   Pag. 29 di 56 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA CERTA 5 ANNI E SUCCESSIVAMENTE 
+VITALIZIA 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+RATEAZIONE DELLA RENDITA 
+Età (*) ANNUALE SEMESTRALE QUADRIMESTRALE TRIMESTRALE BIMESTRALE MENSILE 
+50 25,37 25,20 25,15 25,12 25,10 25,07 
+51 26,00 25,83 25,78 25,75 25,72 25,69 
+52 26,67 26,49 26,43 26,40 26,37 26,34 
+53 27,37 27,18 27,12 27,09 27,06 27,03 
+54 28,10 27,91 27,84 27,81 27,78 27,75 
+55 28,88 28,67 28,60 28,57 28,53 28,50 
+56 29,69 29,47 29,40 29,36 29,33 29,29 
+57 30,55 30,32 30,24 30,21 30,17 30,13 
+58 31,46 31,21 31,13 31,09 31,05 31,01 
+59 32,42 32,16 32,08 32,03 31,99 31,95 
+60 33,44 33,16 33,07 33,03 32,98 32,94 
+61 34,52 34,23 34,13 34,08 34,03 33,99 
+62 35,67 35,36 35,25 35,20 35,15 35,10 
+63 36,89 36,55 36,44 36,39 36,33 36,28 
+64 38,19 37,83 37,71 37,65 37,59 37,54 
+65 39,58 39,19 39,06 39,00 38,94 38,88 
+66 41,06 40,65 40,51 40,45 40,38 40,31 
+67 42,66 42,21 42,07 41,99 41,92 41,85 
+68 44,37 43,89 43,73 43,66 43,58 43,50 
+69 46,22 45,70 45,53 45,44 45,36 45,28 
+70 48,21 47,65 47,46 47,37 47,28 47,19 
+71 50,36 49,75 49,55 49,45 49,35 49,25 
+72 52,68 52,02 51,80 51,70 51,59 51,48 
+73 55,20 54,48 54,24 54,12 54,00 53,89 
+74 57,92 57,13 56,87 56,75 56,62 56,49 
+75 60,87 60,01 59,73 59,59 59,45 59,31 
+76 64,07 63,12 62,81 62,66 62,51 62,35 
+77 67,53 66,49 66,15 65,99 65,82 65,65 
+78 71,27 70,14 69,77 69,58 69,40 69,22 
+79 75,31 74,06 73,66 73,46 73,26 73,06 
+80 79,65 78,28 77,84 77,62 77,40 77,18 
+81 84,29 82,80 82,32 82,08 81,84 81,60 
+82 89,23 87,62 87,09 86,83 86,57 86,31 
+83 94,48 92,72 92,15 91,87 91,59 91,31 
+84 99,98 98,09 97,48 97,18 96,87 96,57 
+85 105,68 103,66 103,01 102,68 102,36 102,04 
+(*) I valori si riferiscono ai nati dal 1958 al 1966. Per i nati dal 1967 al 1977 si applica il ringiovanimento dell'età di u n anno; 
+per i nati dal 1978 al 1989 il ringiovanimento di due anni; per i nati dal 1990 al 2001 il ringiovanimento di tre anni; per  i nati 
+dal 2002 al 2014 il ringiovanimento di quattro anni; per i nati dal 2015 al 2020 il ringiovanimento di cinque anni; per i nati dal 
+2021 in poi il ringiovanimento di sei anni. Al contrario per i nati dal 1948 al 1957, l'età dovrà essere aumentata di un anno; per 
+i nati dal 1939 al 1947, l'età dovrà essere aumentata di due anni; per i nati dal 1928 al 1938, l'età dovrà essere aumentata di 
+tre anni; per i nati dal 1921 al 1927, l'età dovrà essere aumentata di quattro anni; per i nati dal 1918 al 1921, l'età dovrà essere 
+aumentata di cinque anni; per i nati dal 1908 al 1917, l'età dovrà essere aumentata di sei anni; per i nati nel 1907 o negli anni 
+precedenti, l'età dovrà essere aumentata di sette anni.
+=== pagina 30 ===
+Mod. 95 – Ed. 07.2026   Pag. 30 di 56 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA CERTA 10 ANNI E SUCCESSIVAMENTE 
+VITALIZIA 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+RATEAZIONE DELLA RENDITA 
+Età (*) ANNUALE SEMESTRALE QUADRIMESTRALE TRIMESTRALE BIMESTRALE MENSILE 
+50 25,32 25,17 25,11 25,09 25,06 25,03 
+51 25,96 25,79 25,73 25,71 25,68 25,65 
+52 26,62 26,44 26,38 26,35 26,33 26,30 
+53 27,31 27,13 27,07 27,03 27,00 26,97 
+54 28,04 27,84 27,78 27,75 27,72 27,68 
+55 28,80 28,60 28,53 28,50 28,46 28,43 
+56 29,61 29,39 29,32 29,28 29,25 29,21 
+57 30,45 30,23 30,15 30,11 30,08 30,04 
+58 31,35 31,11 31,03 30,99 30,95 30,91 
+59 32,29 32,04 31,96 31,91 31,87 31,83 
+60 33,29 33,02 32,93 32,89 32,85 32,80 
+61 34,35 34,06 33,97 33,92 33,88 33,83 
+62 35,47 35,17 35,07 35,02 34,97 34,92 
+63 36,66 36,34 36,23 36,18 36,13 36,07 
+64 37,92 37,58 37,46 37,41 37,35 37,30 
+65 39,26 38,89 38,77 38,71 38,65 38,60 
+66 40,69 40,30 40,17 40,11 40,04 39,98 
+67 42,21 41,79 41,66 41,59 41,52 41,45 
+68 43,83 43,39 43,24 43,17 43,10 43,02 
+69 45,56 45,08 44,93 44,85 44,77 44,70 
+70 47,40 46,89 46,73 46,64 46,56 46,48 
+71 49,36 48,82 48,64 48,55 48,47 48,38 
+72 51,44 50,86 50,67 50,58 50,49 50,39 
+73 53,64 53,03 52,83 52,73 52,63 52,53 
+74 55,97 55,32 55,10 55,00 54,89 54,79 
+75 58,41 57,72 57,49 57,38 57,27 57,16 
+76 60,96 60,23 60,00 59,88 59,76 59,64 
+77 63,60 62,85 62,60 62,47 62,35 62,23 
+78 66,32 65,53 65,28 65,15 65,02 64,90 
+79 69,07 68,27 68,01 67,88 67,75 67,62 
+80 71,83 71,02 70,76 70,62 70,49 70,36 
+81 74,55 73,74 73,48 73,35 73,21 73,08 
+82 77,19 76,40 76,13 76,00 75,87 75,74 
+83 79,73 78,95 78,70 78,57 78,44 78,31 
+84 82,14 81,39 81,14 81,02 80,89 80,77 
+85 84,40 83,68 83,44 83,32 83,21 83,09 
+(*) I valori si riferiscono ai nati dal 1958 al 1966. Per i nati dal 1967 al 1977 si applica il ringiovanimento dell'età di u n anno; 
+per i nati dal 1978 al 1989 il ringiovanimento di due anni; per i nati dal 1990 al 2001 il ringiovanimento di tre anni; per  i nati 
+dal 2002 al 2014 il ringiovanimento di quattro anni; per i nati dal 2015 al 2020 il ringiovanimento di cinque anni; per i nati dal 
+2021 in poi il ringiovanimento di sei anni. Al contrario per i nati dal 1948 al 1957, l'età dovrà essere aumentata di un anno; per 
+i nati dal 1939 al 1947, l'età dovrà essere aumentata di due anni; per i nati dal 1928 al 1938, l'età dovrà essere aumentata di 
+tre anni; per i nati dal 1921 al 1927, l'età dovrà essere aumentata di quattro anni; per i nati dal 1918 al 1921, l'età dovrà essere 
+aumentata di cinque anni; per i nati dal 1908 al 1917, l'età dovrà essere aumentata di sei anni; per i nati nel 1907 o negli anni 
+precedenti, l'età dovrà essere aumentata di sette anni.
+=== pagina 31 ===
+Mod. 95 – Ed. 07.2026   Pag. 31 di 56 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA CERTA 5 ANNI E SUCCESSIVAMENTE 
+REVERSIBILE TOTALMENTE 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+Età (*) TESTA REVERSIONARIA 
+I^ TESTA 65 66 67 68 69 70 71 72 73 74 75 
+65 33,27 33,80 34,31 34,80 35,27 35,70 36,11 36,49 36,84 37,17 37,46 
+66 33,80 34,39 34,96 35,50 36,02 36,52 36,98 37,42 37,83 38,20 38,54 
+67 34,31 34,96 35,58 36,19 36,77 37,33 37,86 38,36 38,82 39,25 39,65 
+68 34,80 35,50 36,19 36,86 37,50 38,13 38,73 39,29 39,83 40,33 40,79 
+69 35,27 36,02 36,77 37,50 38,22 38,92 39,59 40,23 40,83 41,41 41,94 
+70 35,70 36,52 37,33 38,13 38,92 39,69 40,43 41,15 41,84 42,49 43,11 
+71 36,11 36,98 37,86 38,73 39,59 40,43 41,26 42,07 42,84 43,58 44,28 
+72 36,49 37,42 38,36 39,29 40,23 41,15 42,07 42,96 43,82 44,66 45,46 
+73 36,84 37,83 38,82 39,83 40,83 41,84 42,84 43,82 44,79 45,72 46,62 
+74 37,17 38,20 39,25 40,33 41,41 42,49 43,58 44,66 45,72 46,76 47,77 
+75 37,46 38,54 39,65 40,79 41,94 43,11 44,28 45,46 46,62 47,77 48,90 
+ 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA CERTA 5 ANNI E SUCCESSIVAMENTE 
+REVERSIBILE AL 60% 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+Età (*) TESTA REVERSIONARIA 
+I^ TESTA 65 66 67 68 69 70 71 72 73 74 75 
+65 35,54 35,90 36,24 36,57 36,87 37,16 37,42 37,67 37,89 38,09 38,28 
+66 36,38 36,78 37,17 37,53 37,88 38,21 38,51 38,80 39,06 39,30 39,51 
+67 37,23 37,68 38,11 38,52 38,92 39,29 39,64 39,97 40,27 40,55 40,80 
+68 38,09 38,59 39,07 39,53 39,98 40,40 40,80 41,18 41,53 41,85 42,15 
+69 38,96 39,51 40,04 40,56 41,06 41,54 42,00 42,43 42,83 43,21 43,55 
+70 39,84 40,44 41,03 41,61 42,17 42,71 43,22 43,71 44,17 44,61 45,01 
+71 40,72 41,38 42,03 42,67 43,29 43,89 44,48 45,03 45,56 46,06 46,53 
+72 41,61 42,33 43,04 43,74 44,43 45,10 45,75 46,38 46,98 47,56 48,10 
+73 42,50 43,27 44,05 44,82 45,58 46,33 47,05 47,76 48,44 49,09 49,71 
+74 43,39 44,22 45,06 45,90 46,74 47,56 48,37 49,16 49,93 50,67 51,38 
+75 44,27 45,17 46,08 46,99 47,90 48,81 49,70 50,58 51,44 52,27 53,08 
+ 
+(*) I valori si riferiscono ai nati dal 1958 al 1966. Per i nati dal 1967 al 1977 si applica il ringiovanimento dell'età di un anno; 
+per i nati dal 1978 al 1989 il ringiovanimento di due anni; per i nati dal 1990 al 2001 il ringiovanimento di tre anni; per i  nati 
+dal 2002 al 2014 il ringiovanimento di quattro anni; per i nati dal 2015 al 2020 il ringiovanimento di cinque anni; per i nati dal 
+2021 in poi il ringiovanimento di sei anni. Al contrario per i nati dal 1948 al 1957, l'età dovrà essere aumentata di un anno; per 
+i nati dal 1939 al 1947, l'età dovrà essere aumentata di due anni; per i nati dal 1928 al 1938, l'età dovrà essere aumentata di 
+tre anni; per i nati dal 1921 al 1927, l'età dovrà essere aumentata di quattro anni; per i nati dal 1918 al 1921, l'età dovrà essere 
+aumentata di cinque anni; per i nati dal 1908 al 1917, l'età dovrà essere aumentata di sei anni; per i nati nel 1907 o negli anni 
+precedenti, l'età dovrà essere aumentata di sette anni.
+=== pagina 32 ===
+Mod. 95 – Ed. 07.2026   Pag. 32 di 56 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA CERTA 10 ANNI E SUCCESSIVAMENTE 
+REVERSIBILE TOTALMENTE 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+Età (*) TESTA REVERSIONARIA 
+I^ TESTA 65 66 67 68 69 70 71 72 73 74 75 
+65 33,26 33,79 34,30 34,79 35,25 35,68 36,09 36,47 36,81 37,13 37,42 
+66 33,79 34,38 34,94 35,49 36,00 36,50 36,96 37,39 37,79 38,16 38,50 
+67 34,30 34,94 35,57 36,17 36,75 37,30 37,83 38,32 38,78 39,21 39,60 
+68 34,79 35,49 36,17 36,83 37,48 38,10 38,69 39,25 39,78 40,27 40,72 
+69 35,25 36,00 36,75 37,48 38,19 38,88 39,55 40,18 40,78 41,34 41,86 
+70 35,68 36,50 37,30 38,10 38,88 39,65 40,38 41,10 41,77 42,41 43,01 
+71 36,09 36,96 37,83 38,69 39,55 40,38 41,20 42,00 42,76 43,48 44,17 
+72 36,47 37,39 38,32 39,25 40,18 41,10 42,00 42,88 43,73 44,54 45,32 
+73 36,81 37,79 38,78 39,78 40,78 41,77 42,76 43,73 44,67 45,58 46,46 
+74 37,13 38,16 39,21 40,27 41,34 42,41 43,48 44,54 45,58 46,59 47,57 
+75 37,42 38,50 39,60 40,72 41,86 43,01 44,17 45,32 46,46 47,57 48,66 
+ 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA CERTA 10 ANNI E SUCCESSIVAMENTE 
+REVERSIBILE AL 60% 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+Età (*) TESTA REVERSIONARIA 
+I^ TESTA 65 66 67 68 69 70 71 72 73 74 75 
+65 35,43 35,79 36,13 36,45 36,75 37,03 37,29 37,54 37,76 37,95 38,14 
+66 36,25 36,65 37,03 37,40 37,74 38,06 38,36 38,64 38,90 39,13 39,34 
+67 37,08 37,53 37,96 38,36 38,75 39,12 39,47 39,79 40,08 40,35 40,60 
+68 37,92 38,41 38,89 39,35 39,79 40,20 40,59 40,96 41,31 41,62 41,91 
+69 38,76 39,30 39,83 40,34 40,83 41,30 41,75 42,17 42,56 42,93 43,27 
+70 39,60 40,19 40,78 41,34 41,89 42,42 42,93 43,41 43,86 44,28 44,67 
+71 40,44 41,09 41,73 42,35 42,96 43,55 44,12 44,66 45,18 45,66 46,11 
+72 41,27 41,98 42,67 43,36 44,03 44,69 45,33 45,94 46,52 47,07 47,58 
+73 42,10 42,86 43,61 44,36 45,10 45,83 46,54 47,22 47,87 48,50 49,09 
+74 42,91 43,72 44,54 45,36 46,16 46,96 47,74 48,50 49,24 49,94 50,61 
+75 43,70 44,57 45,45 46,33 47,21 48,08 48,94 49,78 50,60 51,39 52,14 
+ 
+(*) I valori si riferiscono ai nati dal 1958 al 1966. Per i nati dal 1967 al 1977 si applica il ringiovanimento dell'età di u n anno; 
+per i nati dal 1978 al 1989 il ringiovanimento di due anni; per i nati dal 1990 al 2001 il ringiovanimento di tre anni; per  i nati 
+dal 2002 al 2014 il ringiovanimento di quattro anni; per i nati dal 2015 al 2020 il ringiovanimento di cinque anni; per i nati dal 
+2021 in poi il ringiovanimento di sei anni. Al contrario per i nati dal 1948 al 1957, l'età dovrà essere aumentata di un anno; per 
+i nati dal 1939 al 1947, l'età dovrà essere aumentata di due anni; per i nati dal 1928 al 1938, l'età dovrà essere aumentata di 
+tre anni; per i nati dal 1921 al 1927, l'età dovrà essere aumentata di quattro anni; per i nati dal 1918 al 1921, l'età dovrà essere 
+aumentata di cinque anni; per i nati dal 1908 al 1917, l'età dovrà essere aumentata di sei anni; per i nati nel 1907 o negli anni 
+precedenti, l'età dovrà essere aumentata di sette anni.
+=== pagina 33 ===
+Mod. 95 – Ed. 07.2026   Pag. 33 di 56 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA REVERSIBILE TOTALMENTE 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+Età (*) TESTA REVERSIONARIA 
+I^ TESTA 65 66 67 68 69 70 71 72 73 74 75 
+65 33,27 33,80 34,32 34,80 35,27 35,71 36,11 36,50 36,85 37,17 37,47 
+66 33,80 34,39 34,96 35,50 36,02 36,52 36,99 37,42 37,83 38,21 38,55 
+67 34,32 34,96 35,58 36,19 36,77 37,33 37,86 38,36 38,83 39,26 39,66 
+68 34,80 35,50 36,19 36,86 37,51 38,13 38,73 39,30 39,83 40,33 40,79 
+69 35,27 36,02 36,77 37,51 38,22 38,92 39,59 40,23 40,84 41,41 41,95 
+70 35,71 36,52 37,33 38,13 38,92 39,69 40,44 41,16 41,85 42,50 43,12 
+71 36,11 36,99 37,86 38,73 39,59 40,44 41,27 42,07 42,85 43,59 44,29 
+72 36,50 37,42 38,36 39,30 40,23 41,16 42,07 42,97 43,83 44,67 45,47 
+73 36,85 37,83 38,83 39,83 40,84 41,85 42,85 43,83 44,80 45,73 46,64 
+74 37,17 38,21 39,26 40,33 41,41 42,50 43,59 44,67 45,73 46,78 47,79 
+75 37,47 38,55 39,66 40,79 41,95 43,12 44,29 45,47 46,64 47,79 48,92 
+ 
+VALORI DI CONVERSIONE PER 1.000 EURO DI CAPITALE 
+LIQUIDABILE A SCADENZA IN RENDITA IMMEDIATA REVERSIBILE AL 60% 
+ 
+TASSO TECNICO: 0% 
+BASE DEMOGRAFICA: A62UI (combinazione 60% maschi e 40% femmine) 
+ 
+Età (*) TESTA REVERSIONARIA 
+I^ TESTA 65 66 67 68 69 70 71 72 73 74 75 
+65 35,57 35,93 36,28 36,60 36,91 37,19 37,46 37,70 37,93 38,13 38,32 
+66 36,41 36,82 37,20 37,57 37,92 38,25 38,56 38,84 39,10 39,34 39,56 
+67 37,27 37,72 38,15 38,57 38,96 39,34 39,69 40,02 40,32 40,60 40,86 
+68 38,14 38,64 39,12 39,59 40,03 40,46 40,86 41,23 41,59 41,91 42,21 
+69 39,01 39,56 40,10 40,62 41,12 41,60 42,06 42,49 42,90 43,27 43,62 
+70 39,90 40,51 41,10 41,68 42,24 42,78 43,30 43,79 44,26 44,69 45,10 
+71 40,79 41,46 42,11 42,75 43,38 43,98 44,57 45,13 45,66 46,16 46,63 
+72 41,70 42,42 43,13 43,84 44,53 45,21 45,86 46,50 47,10 47,68 48,22 
+73 42,60 43,38 44,16 44,94 45,70 46,45 47,18 47,90 48,58 49,24 49,86 
+74 43,51 44,35 45,20 46,04 46,88 47,71 48,53 49,32 50,10 50,84 51,56 
+75 44,42 45,33 46,24 47,16 48,07 48,99 49,89 50,78 51,65 52,49 53,30 
+ 
+(*) I valori si riferiscono ai nati dal 1958 al 1966. Per i nati dal 1967 al 1977 si applica il ringiovanimento dell'età di u n anno; 
+per i nati dal 1978 al 1989 il ringiovanimento di due anni; per i nati dal 1990 al 2001 il ringiovanimento di tre anni; per  i nati 
+dal 2002 al 2014 il ringiovanimento di quattro anni; per i nati dal 2015 al 2020 il ringiovanimento di cinque anni; per i nati dal 
+2021 in poi il ringiovanimento di sei anni. Al contrario per i nati dal 1948 al 1957, l'età dovrà essere aumentata di un anno; per 
+i nati dal 1939 al 1947, l'età dovrà essere aumentata di due anni; per i nati dal 1928 al 1938, l'età dovrà essere aumentata di 
+tre anni; per i nati dal 1921 al 1927, l'età dovrà essere aumentata di quattro anni; per i nati dal 1918 al 1921, l'età dovrà essere 
+aumentata di cinque anni; per i nati dal 1908 al 1917, l'età dovrà essere aumentata di sei anni; per i nati nel 1907 o negli anni 
+precedenti, l'età dovrà essere aumentata di sette anni.
+=== pagina 34 ===
+Mod. 95 – Ed. 07.2026   Pag. 34 di 56 
+ALLEGATO N. 3 
+ 
+CONDIZIONI DELLE PRESTAZIONI ACCESSORIE 
+ 
+1. COPERTURA IN CASO DI DECESSO O IN CASO DI INVALIDITA' TOTALE E 
+PERMANENTE DELL'ADERENTE 
+2. COPERTURA IN CASO DI DECESSO E IN CASO DI PERDITA DI 
+AUTOSUFFICIENZA (LTC) DELL'ADERENTE 
+ 
+1. COPERTURA IN CASO DI DECESSO O IN CASO DI INVALIDITA' TOTALE E 
+PERMANENTE DELL'ADERENTE 
+ 
+Art. 1 – Oggetto della copertura 
+Con la presente copertura assicurativa Helvetia Vita S.p.A. si impegna a corrispondere: 
+ ai Beneficiari designati, un importo pari al capitale assicurato, di cui al successivo art. 7, nel caso in cui si 
+verifichi il decesso dell'aderente (Assicurato) durante il periodo di validità della copertura;  
+oppure 
+ all'aderente, un importo pari al 100% del capitale assicurato previsto dalla copertura in caso di decesso nel 
+caso in cui si verifichi l'invalidità totale e permanente dell'aderente stesso.  
+ 
+Si tratta di un'assicurazione sulla vita di durata monoannuale ad attivazione facoltativa, riservata esclusivamente 
+agli iscritti al Fondo Pensione Aperto Soluzione Previdente , che siano lavoratori e abbiano un' età compresa tra i 
+18 e i 65 anni anagrafici al momento dell'attivazione. 
+Alla scadenza della copertura assicurativa, l'età dell'aderente non deve comunque superare l'età pensionabile e 
+in ogni caso non può essere superiore ai 70 anni (anagrafici). 
+La copertura assicurativa non è rinnovabile per gli aderenti che al momento del rinnovo abbiano un'età anagrafica 
+superiore ai 70 anni e/o non siano più lavoratori. 
+Qualora l’età di 70 anni o la perdita del lavoro (compreso il caso di pensionamento ) avvenga in corso d’anno la 
+copertura è comunque prestata dalla Compagnia fino alla fine dell’anno.  
+ 
+Il capitale assicurato non è collegato al valore della posizione assicurativa presente nel Fondo Pensione, bensì si 
+tratta di una prestazione aggiuntiva e indipendente.  
+ 
+Le prestazioni assicurate (capitale assicurato in caso di decesso o di invalidità totale e permanente) non possono 
+in alcun caso cumularsi tra loro, pertanto, con riferimento a ciascun aderente, verrà liquidata alternativamente 
+solo la prestazione inerente al primo dei due eventi che si verifica. Resta inteso che il decesso dell'aderente che 
+si verifichi prima che venga riconosciuta l'invalidità – già precedentemente denunciata al Fondo Pensione Aperto 
+– equivale ad avvenuto riconoscimento dello stato di invalidità. 
+ 
+Art. 2 – Modalità assuntive 
+L'assunzione del rischio da parte dell'impresa di assicurazione avviene al momento della richiesta di attivazione 
+della copertura da parte dell'aderente.  
+L'aderente può attivare la copertura assicurativa contestualmente all'adesione al Fondo oppure, in un momento 
+successivo, mediante sottoscrizione di apposito modulo. 
+In entrambi i casi l'aderente deve inoltre sottoscrivere una Dichiarazione di Buono Stato di Salute  prevista per la 
+valutazione del suo stato di salute. Qualora l'aderente sia impossibilitato a sottoscrivere tale dichiarazione, il 
+rischio si intende rifiutato  da parte dell'impresa di assicurazione  e non sarà possibile attivare la copertura 
+assicurativa.  
+Si richiama la necessità di leggere le raccomandazioni e le avvertenze contenute nel modulo di adesione (o nel 
+modulo di attivazione delle prestazioni accessorie) relative alla Dichiarazione di Buono Stato di Salute.  
+È di fondamentale importanza che le dichiarazioni rese dall'aderente per la definizione del rischio siano veritiere, 
+esatte e complete per evitare il rischio di successive, legittime, contestazioni dell'impresa di assicurazione che 
+potrebbero anche pregiudicare il diritto degli aventi diritto di ottenere il pagamento della prestazione assicurata. 
+ 
+L'aderente che abbia chiesto e ottenuto la disdetta al rinnovo della copertura assicurativa ai sensi del successivo
+=== pagina 35 ===
+Mod. 95 – Ed. 07.2026   Pag. 35 di 56 
+art. 6 e, successivamente, desideri riattivarla dovrà farne espressa richiesta al Fondo Pensione Aperto e 
+sottoscrivere nuovamente la Dichiarazione di Buono Stato di Salute  per permettere all'impresa di assicurazione 
+di effettuare le proprie valutazioni. 
+ 
+Art. 3 – Premio 
+Le prestazioni assicurate sono garantite a fronte della corresponsione di un premio annuo di importo fisso e non 
+modificabile, prescelto dall'aderente tra quelli di seguito riportati:  
+ 150 Euro; 
+ 200 Euro. 
+Il premio prescelto dall'aderente è unico e valido per entrambe le coperture. Per coloro che aderiscono in corso 
+d'anno, l'importo del premio sarà determinato riducendo in misura proporzionale alla durata delle coperture, il 
+premio corrispondente alla durata di 1 anno. 
+ 
+Art. 4 – Pagamento del premio 
+Il pagamento del primo premio deve essere effettuato dall'aderente esclusivamente tramite bonifico bancario 
+direttamente a favore del Fondo Pensione sul conto corrente bancario indicato all'interno del Modulo di adesione 
+(o nel modulo di attivazione delle prestazioni accessorie). 
+Il pagamento dei premi successivi al primo  deve essere effettuato dall'aderente mediante addebito dell’importo 
+pattuito sul conto corrente acceso presso la Banca distributrice e conseguente accredito dello stesso da parte 
+della Banca su  apposito conto corrente intestato al Fondo Pensione e riportato nel Modulo di adesione (o nel 
+modulo di attivazione delle prestazioni accessorie).  
+ 
+In caso di cessazione del rapporto del l'aderente con la Banca presso cui è stata effettuata l'adesione al Fondo 
+Pensione o laddove non sia possibile attivare l'addebito automatico in conto, i versamenti successivi al primo 
+potranno essere versati tramite bonifico bancario - direttamente a favore del Fondo Pensione - sul conto corrente 
+utilizzato per il versamento del primo premio o, laddove variato, sul conto corrente che sarà comunicato dal Fondo 
+Pensione Aperto. 
+Le spese relative ai mezzi di pagamento gravano direttamente sugli aderenti.  
+ 
+Art. 5 – Durata e decorrenza della copertura assicurativa 
+La copertura assicurativa ha durata monoannuale e si rinnova automaticamente il 1° gennaio di ogni anno.  
+La copertura si intende conclusa nel momento in cui l'aderente ha provveduto a sottoscrivere la richiesta  di 
+attivazione della copertura ed ha effettuato il pagamento del primo premio annuale. 
+ 
+In fase di prima attivazione e previo consenso dell'impresa di assicurazione la copertura ha decorrenza dalle:  
+ ore 24.00 del 1° giorno lavorativo del mese successivo a quello di richiesta di attivazione,  se la richiesta di 
+attivazione è pervenuta al Fondo Pensione Aperto entro il 15 del mese ed il pagamento del primo premio è 
+avvenuto con valuta entro il 5° giorno lavorativo precedente la fine del mese nel quale è pervenuta la richiesta 
+di attivazione; 
+ ore 24.00 del 1° giorno lavorativo del secondo mese successivo a quello di richiesta di attivazione,  se la 
+richiesta di attivazione è pervenuta al Fondo Pensione Aperto dopo il 15 del mese ed il pagamento del primo 
+premio è avvenuto con valuta entro il 5° giorno lavorativo precedente la fine del mese successivo a quello di 
+pervenimento della richiesta di attivazione. 
+ 
+Esempio 1: 
+Richiesta di attivazione: 10/11/2022 
+Data valuta pagamento premio: 22/11/2022 
+Decorrenza della copertura: 01/12/2022 
+ 
+Esempio 2: 
+Richiesta di attivazione: 28/11/2022 
+Data valuta pagamento premio: 15/12/2022 
+Decorrenza della copertura: 01/01/2023 
+ 
+Per gli anni successivi la copertura avrà validità dall'1 gennaio al 31 dicembre di ciascun anno solare, previo 
+pagamento del relativo premio a norma di quanto previsto al successivo art. 6.
+=== pagina 36 ===
+Mod. 95 – Ed. 07.2026   Pag. 36 di 56 
+Art. 6 – Rinnovo e disdetta delle coperture assicurative 
+La copertura assicurativa si rinnova tacitamente alle ore 24.00 del 1° gennaio di ogni anno fino al raggiungimento 
+dell'età massima prevista. 
+ 
+Resta ferma la possibilità per l'aderente di dare disdetta al rinnovo mediante invio di lettera raccomandata A/R al 
+Fondo o invio di e -mail o e -mail PEC agli indirizzi riportati nella Nota Informativa . Se la richiesta di disdetta 
+perviene: 
+ entro e non oltre il 15 novembre dell'anno in corso, la disdetta è valida per il rinnovo immediatamente 
+successivo; 
+ dal 16 novembre al 31 dicembre dell'anno in corso, la disdetta è valida per il rinnovo del secondo anno 
+successivo. 
+ 
+Esempio 1: Richiesta di disdetta arrivata il 15/11/2022: le coperture non saranno rinnovate per il 2023. 
+ 
+Esempio 2: Richiesta di disdetta arrivata il 03/12/2022: le coperture saranno rinnovate per il 2023 e non saranno 
+rinnovate per il 2024. 
+ 
+In caso di disdetta effettuata nel corso dell'anno o in caso di uscita dal Fondo Pensione nel corso dell'anno la 
+copertura in caso di decesso o in caso di invalidità totale e permanente resterà in ogni caso attiva fino al 31 
+dicembre dello stesso anno. 
+ 
+La copertura in caso di decesso o in caso di invalidità totale e permanente dell'aderente può essere attivata e 
+rinnovata unicamente nella Fase di Accumulo del Fondo Pensione.  
+ 
+Art. 7 – Prestazione assicurata 
+Durante il periodo di validità della copertura assicurativa e ferme le esclusioni ed i periodi di carenza di cui ai 
+successivi artt. 12 e 13, è previsto il pagamento: 
+ ai Beneficiari designati, di un importo pari al capitale assicurato nel caso in cui si verifichi il decesso 
+dell'aderente per qualunque causa; 
+oppure 
+ all'aderente, di un importo pari al 100% del capitale assicurato previsto dalla copertura in caso di decesso nel 
+caso in cui si verifichi l'invalidità totale e permanente dell'aderente stesso.  
+Resta inteso che il pagamento di una prestazione estingue automaticamente l'altra.  
+ 
+Il capitale assicurato iniziale è determinato in funzione dell'età anagrafica dell'aderente alla data di decorrenza  
+della copertura assicurativa e dell'importo del premio annuo scelto al momento dell'attivazione, così come 
+riportato alla successiva Tabella A.  
+Il capitale assicurato da liquidare in caso di decesso o di invalidità totale e permanente è quello determinato in 
+funzione dell'età anagrafica dell'aderente al momento dell'evento (data di decesso o riconoscimento dello stato 
+di invalidità totale e perman ente) e dell'importo del premio annuo scelto, così come riportato alla successiva 
+Tabella A. 
+ 
+La prestazione assicurata (capitale assicurato) può essere richiesta a condizione che  l'aderente abbia provveduto 
+al pagamento del premio. 
+ 
+Qualora al termine dalla copertura assicurativa non si sia verificato nessuno dei due eventi sopra riportati (decesso 
+o invalidità totale e permanente) non è prevista alcuna prestazione per gli aventi diritto ed i premi pagati restano 
+acquisiti da Helvetia Vita S.p.A.. 
+ 
+Art. 8 – Definizione di invalidità totale e permanente 
+Per invalidità totale e permanente si intende la perdita totale e permanente della capacità di svolgere una 
+qualsiasi attività lavorativa (capacità  lavorativa generica), indipendentemente da quella effettivamente svolta 
+dall'aderente purché proficua e remunerabile, sempreché il grado di invalidità risulti pari o superiore al 66% e che 
+sia stato risolto il rapporto di lavoro come conseguenza diretta dello stato di invalidità. 
+L’invalidità deve essere stata causata da una malattia organica o lesione fisica, oggettivamente accertabile ed 
+indipendente dalla volontà dell'aderente. 
+ 
+Art. 9 – Dichiarazioni dell'aderente 
+Le dichiarazioni dell'aderente devono essere veritiere, esatte e complete, diversamente l'impresa di assicurazione 
+potrebbe sottovalutare il rischio che non avrebbe accettato alle medesime condizioni o che avrebbe rifiutato.
+=== pagina 37 ===
+Mod. 95 – Ed. 07.2026   Pag. 37 di 56 
+In caso di dichiarazioni inesatte o incomplete, l'impresa di assicurazione può valutare se la verità sia stata alterata 
+o taciuta per malafede, colpa grave o negligenza, applicando le conseguenti disposizioni di Legge (Artt. 1892, 1893, 
+1894 del Codice civile). 
+ 
+Le dichiarazioni inesatte o le reticenze dell'aderente  relative a circostanze che influiscono sulla valutazione del 
+rischio possono comportare la perdita totale o parziale del diritto alla prestazione assicurata, nonché la cessazione 
+della copertura assicurativa. 
+In ogni caso, l’inesatta indicazione dell’età dell’aderente comporta la rettifica della prestazione assicurata in base 
+all’età reale. 
+ 
+Laddove nel corso della durata contrattuale l'aderente trasferisca la propria residenza in un altro Stato membro 
+dell'Unione Europea, l'aderente stesso è tenuto a darne comunicazione all'impresa di assicurazione 
+tempestivamente e comunque entro il termine di 30 giorni dall'avvenuto trasferimento. Quanto sopra al fine di 
+consentire alla stessa di effettuare gli adempimenti relativi all'applicazione delle imposte indirette e degli oneri 
+parafiscali gravanti sui premi eventualmente previsti in altri stati dell'Unione Europea. 
+Resta inteso che, nel caso in cui l'aderente non effettui la suddetta comunicazione nei termini sopra riportati, sarà 
+tenuto a rimborsare all'impresa di assicurazione quanto la stessa sia stata eventualmente chiamata a pagare in 
+conseguenza della mancata c omunicazione (ad esempio rimborsi dovuti per effetto di contestazioni mosse 
+dall'Amministrazione finanziaria dello Stato membro di nuova residenza). 
+In ogni caso, l'aderente è tenuto ad avvisare tempestivamente in relazione ad ogni eventuale cambio della propria 
+residenza. 
+ 
+L'aderente è tenuto ad avvisare tempestivamente l'impresa di assicurazione, laddove nel corso della durata 
+contrattuale si verifichino modifiche alle circostanze che ne determinano la classificazione ai fini FATCA (cittadino 
+statunitense o fiscalmente residente negli Stati Uniti) e/o CRS (cittadino avente ulteriore residenza fiscale in uno 
+stato diverso da Italia e/o Stati Uniti).  
+ 
+Art. 10 – Beneficiari 
+Il Beneficiario della copertura assicurativa in caso di invalidità totale e permanente dell'aderente è l'aderente 
+stesso. 
+I Beneficiari della copertura assicurativa in caso di decesso sono i medesimi soggetti designati per la prestazione 
+previdenziale in caso di decesso dell'aderente. In mancanza di designazione da parte dell'aderente, si intendono 
+beneficiari gli aventi diritto previsti dalla normativa tempo per tempo vigente. 
+ 
+Art. 11 – Revoca e Recesso 
+L'aderente ha diritto di revocare la copertura assicurativa fino a che la copertura assicurativa non è conclusa, 
+dandone comunicazione all'impresa di assicurazione mediante richiesta scritta inviata con lettera raccomandata 
+A/R indirizzata a: Helvetia Vita S.p.A. –  Gestione Operativa –  Previdenza, Via G.B. Cassinis 21, 20139 Milano 
+(Italia). 
+La richiesta di revoca  può essere inviata anche direttamente agli indirizzi mail o e -mail PEC riportati all'interno 
+della Nota Informativa. 
+L'impresa di assicurazione, entro 30 giorni dalla data di ricevimento della comunicazione di revoca , rimborsa 
+all'aderente il premio da questi eventualmente corrisposto. La comunicazione di revoca  deve essere corredata 
+dalle coordinate bancarie dell'aderente per le operazioni di accredito (Banca, codice IBAN dell'aderente). 
+ 
+L'aderente ha inoltre diritto di recedere dalla copertura assicurativa entro 30 giorni dalla data di conclusione  
+della copertura stessa , dandone comunicazione all'impresa di assicurazione mediante richiesta scritta inviata 
+con lettera raccomandata A/R indirizzata a: Helvetia Vita S.p.A. –  Gestione Operativa – Previdenza, Via G.B. 
+Cassinis 21, 20139 Milano (Italia). 
+La richiesta di recesso può essere inviata anche direttamente agli indirizzi mail o e-mail PEC riportati all'interno 
+della Nota Informativa. 
+L'impresa di assicurazione, entro 30 giorni dalla data di ricevimento della comunicazione di recesso, rimborsa 
+all'aderente il premio da questi eventualmente corrisposto al netto della parte di premio relativa al rischio 
+assunto per il periodo durante il quale il contratto era in vigore, nonché delle spese sostenute per l’emissione 
+della copertura assicurativa . La comunicazione di recesso deve essere corredata dalle coordinate bancarie 
+dell'aderente per le operazioni di accredito (Banca, codice IBAN dell'aderente). 
+Il diritto di recesso libera l'aderente e l'impresa di assicurazione da qualsiasi obbligazione futura derivante dal 
+contratto dalle ore 24 del giorno di invio della comunicazione di recesso.
+=== pagina 38 ===
+Mod. 95 – Ed. 07.2026   Pag. 38 di 56 
+Art. 12 – Esclusioni 
+Sempreché l'aderente abbia reso dichiarazioni complete, corrette e veritiere e abbia quindi consentito all'impresa 
+di assicurazione di valutare correttamente il rischio che si assume, il rischio di decesso e il rischio di invalidità 
+totale e permanente dell'aderente è coperto qualunque possa esserne la causa, senza limiti territoriali, salvo le 
+esclusioni sotto riportate ed i periodi di carenza di cui al successivo art. 13.  
+ 
+È escluso dalla copertura assicurativa il decesso o l'invalidità totale e permanente causat i da: 
+ dolo dell'aderente o dei beneficiari; 
+ partecipazione attiva dell'aderente a delitti dolosi; 
+ partecipazione attiva dell'aderente a fatti di guerra, salvo che non derivi da obblighi verso lo Stato italiano;  
+ incidente di volo, se l'aderente viaggia a bordo di aeromobile non autorizzato al volo o con pilota non titolare 
+di brevetto idoneo e, in ogni caso, se viaggia in qualità di membro dell'equipaggio;  
+ suicidio o tentativo di suicidio, se avviene nei primi due anni dalla data di decorrenza del contratto o, trascorso 
+questo periodo, nei primi dodici mesi dall'eventuale riattivazione del contratto;  
+ patologie derivanti da abuso d'alcool; 
+ uso non terapeutico di sostanze stupefacenti, allucinogeni, psicofarmaci e sostanze psicotrope;  
+ decesso avvenuto in uno qualunque dei paesi indicati come paesi a rischio e per i quali il Ministero degli Esteri 
+ha sconsigliato di intraprendere viaggi a qualsiasi titolo. L'indicazione è rilevabile sul sito internet 
+www.viaggiaresicuri.it. Qualora l'indicazione fornita dal Ministero degli Esteri venga diramata mentre 
+l'aderente si trova nel paese segnalato, la garanzia è estesa per un periodo massimo di 14 giorni dalla data 
+della segnalazione. 
+ 
+È inoltre escluso dalla copertura assicurativa il decesso o l'invalidità totale e permanente causati da:  
+ pratica delle seguenti professioni: operatore di qualunque settore merceologico che anche occasionalmente 
+è esposto a sostanze esplosive, cisterne o vasche di sostanze infiammabili, tossiche o corrosive; 
+operaio/muratore che lavora ad altezze superiori ai 20 metri; pilota o membro dell'equipaggio di velivoli non 
+commerciali/di linea o volo per servizi anti -incendio o ricerca e recupero; sommozzatore o palombaro; 
+addetto alla guida di mezzi subacquei; minatore o addetto a scavi in profondità, sia terrestri c he marini e/o 
+lacustri; collaudatore di veicoli, lavoro su piattaforme petrolifere; addetto alle forze armate o forze 
+dell'ordine salvo lavoro prettamente amministrativo; 
+ pratica delle seguenti attività sportive: sport aerei in genere (incluso il volo con ultraleggeri, deltaplani e 
+parapendio), paracadutismo, bungee jumping, pugilato, speleologia, immersioni subacquee non in apnea, 
+alpinismo di grado superiore al terzo secondo la scala francese, automobilismo, motociclismo, motonautica, 
+salto dal trampolino con sci o idrosci e sport estremi in genere. 
+ 
+Per il solo caso di invalidità totale e permanente dell'aderente, è esclusa dalla copertura assicurativa l'invalidità 
+totale e permanente causata da: 
+ malattie preesistenti alla data di decorrenza del contratto o che siano espressione o conseguenza di 
+situazioni patologiche insorte anteriormente a tale data (si precisa che non saranno invece considerate, ai 
+fini della presente esclusione, le patologie oncologiche da cui l' Aderente sia stato precedentemente affetto 
+e il cui trattamento attivo della patologia si sia concluso, senza episodi di recidiva, da più di 10 anni rispetto 
+alla data di decorrenza del contratto. Tale periodo è ridotto a 5 anni nel caso in cui la patologia sia insorta 
+prima del compimento dei 21 anni. Si rimanda all'Allegato 1 "Tabella delle patologie riduzione termini diritto 
+oblio oncologico" , presente sul sito internet della Compagnia al link 
+https://www.helvetia.com/it/web/it/oblio-oncologico.html, per i dettagli relativi alle patologie che 
+prevedono termini ulteriormente ridotti per il maturarsi del diritto all'oblio oncologico  nonché per maggiori 
+informazioni in merito); 
+ infortuni occorsi anteriormente alla data di decorrenza del contratto;  
+ stati di invalidità preesistenti o in corso di riconoscimento anteriormente alla data di decorrenza del 
+contratto; 
+ malattie psichiche quali disturbi dell’umore (depressione maggiore o bipolare), disturbi d’ansia (attacchi di 
+panico, disturbo ossessivo compulsivo, disturbo post traumatico da stress), schizofrenia, psicosi cos ì come i 
+loro seguiti e conseguenze; 
+ atti di guerra, operazioni militari, partecipazione attiva dell'aderente a insurrezioni, sommosse e tumulti 
+popolari; 
+ contaminazioni chimiche e/o batteriologiche, trasformazioni o assestamenti energetici dell’atomo, naturali 
+e/o provocati, accelerazioni di particelle atomiche ed esposizione a particelle ionizzanti;
+=== pagina 39 ===
+Mod. 95 – Ed. 07.2026   Pag. 39 di 56 
+ uso di stupefacenti o di allucinogeni e abuso continuativo di alcolici o di farmaci, comprovati da 
+documentazione sanitaria. 
+ 
+Nei suddetti casi, ad eccezione del caso di dolo dell'aderente o dei beneficiari per il quale non viene corrisposta 
+alcuna prestazione, l'impresa di assicurazione si impegna a rimborsare agli aventi diritto un importo pari al rateo 
+di premio relativo al periodo di copertura non goduto. 
+ 
+L'impresa di assicurazione  inoltre non fornisce alcuna copertura o altra prestazione nella misura in cui la 
+copertura o la prestazione stessa possano esporre l'impresa al manifestarsi o al rischio di: 
+ violazione di divieto, erogazione di sanzione o applicazione di restrizione derivante da Risoluzioni delle 
+Nazioni Unite; 
+ erogazione di sanzioni economiche o commerciali, derivanti dalla violazione di leggi o disposizioni 
+dell’Unione Europea, del Regno Unito, della Svizzera o degli Stati Uniti d’America.  
+ 
+Art. 13 – Carenze 
+Qualora il decesso o l'invalidità totale e permanente dell'aderente per malattia avvenga no entro i primi sei mesi 
+dalla data di decorrenza della copertura assicurativa, non è prevista alcuna prestazione da parte d i Helvetia Vita 
+S.p.A.. 
+ 
+L'Impresa di assicurazione non applicherà entro i primi sei mesi dalla data di decorrenza delle coperture 
+assicurative la limitazione sopra indicata e pertanto sarà dovuta la prestazione assicurata, qualora il decesso o 
+l'invalidità totale e permanente dell'aderente siano conseguenza diretta di: 
+ una delle seguenti malattie infettive acute sopravvenute dopo la data di decorrenza: tifo, paratifo, difterite, 
+scarlattina, morbillo, vaiolo, poliomielite anteriore acuta, meningite cerebro- spinale, polmonite, encefalite 
+epidemica, carbonchio, febbri puerperali, tifo esantematico, epatite virale A, leptospirosi ittero emorragica, 
+colera, brucellosi, dissenteria bacillare, febbre gialla, febbre Q, salmonellosi, botulismo, mononucleosi 
+infettiva, parotite epidemica, peste, rabbia, pertosse, rosolia, vaccinia generalizzata, encefalite post -
+vaccinica; 
+ shock anafilattico sopravvenuto dopo la data di decorrenza; 
+ infortunio - intendendosi per tale (fermo quanto disposto dall’Art. 12 – Esclusioni) l’evento dovuto a causa 
+fortuita, violenta ed esterna che produca lesioni corporali obiettivamente constatabili, che abbiano come 
+conseguenza il decesso - avvenuto dopo la data di decorrenza. 
+ 
+La carenza sopra riportata si applica in fase di attivazione delle coperture assicurative, ma non ai rinnovi successivi. 
+Qualora l'aderente dovesse interrompere il rinnovo delle coperture e, successivamente, riattivare le coperture, 
+la carenza sopra descritta si intende di nuovo operante e sarà necessario sottoscrivere nuovamente la 
+Dichiarazione di Buono Stato di Salute. 
+ 
+Art. 14 – Denuncia e accertamento dell'invalidità totale e permanente 
+Al manifestarsi della malattia o al verificarsi dell'infortunio che, secondo parere medico, comporti un'invalidità 
+totale e permanente, l'aderente è tenuto a darne comunicazione scritta all'Impresa di assicurazione entro quindici 
+giorni dalla data di insorgenza della malattia o di accadimento dell'infortunio, ovvero dal momento in cui ne abbia 
+avuto la possibilità. L'inadempimento di tale obbligo può comportare la perdita totale o parziale del diritto alla 
+prestazione assicurata. 
+ 
+La denuncia – da inviare ai sensi del successivo art. 15 – deve essere corredata da adeguata certificazione medica 
+(copia di esami specialistici, copia integrale di tutte le cartelle cliniche relative agli eventuali ricoveri subiti, ecc.) 
+relativa alla nat ura, decorso, conseguenze della malattia o dell’infortunio e allo stato di invalidità permanente 
+derivante dalla malattia o dall’infortunio. 
+Per il solo caso di infortunio la denuncia deve anche contenere l’indicazione del luogo, giorno e ora 
+dell’infortunio, nonché delle cause che lo hanno determinato.  
+ 
+L'aderente è tenuto a rispettare i seguenti obblighi: 
+ consentire all'impresa di assicurazione tutte le indagini e visite mediche necessarie ad accertare lo stato di 
+invalidità; 
+ rendere in modo veritiero, completo ed esatto ogni dichiarazione utile per l’accertamento dello stato di 
+invalidità; 
+ fornire tutte le prove necessarie per determinare le cause e le conseguenze della malattia o della lesione che 
+hanno prodotto l’invalidità.
+=== pagina 40 ===
+Mod. 95 – Ed. 07.2026   Pag. 40 di 56 
+L'impresa di assicurazione si riserva il pieno ed incondizionato diritto di accertare l’invalidità totale e permanente 
+con i medici di sua fiducia e renderà nota la propria decisione sul riconoscimento dell’invalidità e la comunicherà  
+all'aderente entro il termine massimo di 180 giorni dalla data di ricevimento della denuncia. 
+ 
+In caso di controversia  sulla natura della malattia o dell’infortunio, sulle conseguenze degli stessi o sul grado 
+dell’invalidità permanente, l'impresa di assicurazione e l'aderente possono risolvere la controversia incaricando 
+a tale scopo uno o più arbitri da nominarsi con apposito atto.  
+Resta inteso che l’arbitrato si svolgerà nella località in cui ha sede l’Istituto di Medicina Legale più vicino  
+all'aderente. 
+Fino a quando lo stato di invalidità totale permanente non sia stato accertato, l'aderente è tenuto al pagamento 
+del premio annuo. 
+Una volta accertato lo stato di invalidità, l'impresa di assicurazione  si impegna a restituire al l'aderente un 
+importo pari ai premi pagati successivamente alla data della denuncia, al netto delle imposte.  
+ 
+Art. 15 – Pagamenti dell'impresa di assicurazione 
+La richiesta di liquidazione da parte degli aventi diritto deve essere effettuata in forma scritta (anche mediante 
+l'utilizzo dell'apposito modulo) consegnata allo sportello bancario di riferimento o inviata direttamente alla 
+all'impresa di assicurazione al seguente indirizzo: Helvetia Vita S.p.A. – Gestione Operativa – Previdenza, Via G.B. 
+Cassinis 21, 20139 Milano, a mezzo lettera raccomandata A/R, corredata dai documenti di seguito riportati.  
+La richiesta può essere inviata anche tramite mail o e -mail PEC agli indirizzi riportati all'interno della Nota 
+Informativa. 
+Si precisa che il suddetto modulo viene messo a disposizione da parte dell'impresa di assicurazione al solo fine 
+di agevolare la richiesta di pagamento e a titolo di servizio alla clientela.  
+ 
+I documenti da presentare per la liquidazione del capitale assicurato in caso di decesso sono:  
+ denuncia di sinistro, da inviare entro 60 giorni dalla data in cui si è verificato il decesso dell' aderente; 
+ consenso all’utilizzo dei dati personali sottoscritto dagli aventi diritto in caso di decesso (Reg. UE 679/2016); 
+ dati anagrafico fiscali degli aventi diritto e loro coordinate bancarie per le operazioni di accredito (nome, 
+cognome, codice fiscale, Banca e coordinate bancarie - codice IBAN - di ciascun avente diritto); 
+ copia leggibile di un valido documento di identità e del codice fiscale di ciascun avente diritto;  
+ certificato di decesso dell’aderente (in originale), rilasciato dall'Ufficio di Stato Civile in carta semplice;  
+ certificato medico attestante la causa del decesso o Scheda di Morte ISTAT emesso dall'ASL;  
+ documentazione attestante la designazione dei Beneficiari quale: 
+ in caso di designazione effettuata facendo riferimento alla qualità di eredi legittimi o testamentari , 
+atto di notorietà redatto dinanzi al Notaio o presso il Tribunale, sul quale viene indicato:  
+ se l'aderente ha lasciato o meno testamento. In caso di esistenza di testamento, deve esserne 
+inviata copia autenticata e l’atto di notorietà deve riportarne gli estremi precisando che detto 
+testamento è l’ultimo da ritenersi valido ed evidenziando quali sono gli eredi legittimi, loro età e 
+capacità di agire; 
+ quali sono gli eredi legittimi, loro età e capacità di agire. 
+ in caso di designazione effettuata con riferimento a un soggetto specificamente individuato :  
+ se è presente un testamento:  
+ copia autentica o estratto autentico dell'atto di ultima volontà; 
+ dichiarazione sostitutiva dell’atto di notorietà dalla quale risulti, sotto la propria piena 
+responsabilità, quali sono i Beneficiari e che il Beneficiario ha effettuato ogni tentativo e ha 
+compiuto quanto in suo potere per accertare che il testamento pres entato è l’unico o, nel caso 
+di più testamenti, quale sia ritenuto valido, che non sono state mosse contestazioni relative al 
+testamento o ai testamenti, che oltre ai Beneficiari menzionati nella dichiarazione stessa non 
+ve ne sono altri e che nel testamento non sono presenti revoche o modifiche della designazione 
+dei Beneficiari. Nella dichiarazione sostitutiva è necessario inoltre indicare quali sono gli eredi 
+legittimi, loro età e capacità di agire; 
+ se non è presente un testamento:  
+ dichiarazione sostitutiva dell’atto di notorietà dalla quale risulti, sotto la propria piena 
+responsabilità, che il Beneficiario ha effettuato ogni tentativo ed ha compiuto quanto in suo 
+potere per accertare la non esistenza di disposizioni testamentarie, nonché l'indicazione di tutte 
+le persone nominate come Beneficiari. Nella dichiarazione sostitutiva è necessario inoltre 
+indicare quali sono gli eredi legittimi, loro età e capacità di agire;  
+ qualora gli aventi diritto risultino minorenni o incapaci, Decreto del Giudice Tutelare in originale o in copia
+=== pagina 41 ===
+Mod. 95 – Ed. 07.2026   Pag. 41 di 56 
+autenticata contenente l'autorizzazione in capo al Legale Rappresentante dei minorenni o incapaci a 
+riscuotere la somma dovuta con esonero del l'impresa di assicurazione da ogni responsabilità relativa al 
+pagamento nonché all'eventuale reimpiego della somma stessa; 
+ relazione del medico curante redatta anche mediante utilizzo di modulistica fornita del l'impresa di 
+assicurazione e, se vi è stato ricovero in ospedale, copia integrale della cartella clinica, completa di 
+anamnesi, relativa al primo ricovero subito dall'aderente; 
+ copia di un articolo di giornale (se disponibili) che riporti le circostanze dell'accaduto e – appena possibile – 
+copia del verbale dell'Autorità Giudiziaria che ha effettuato gli accertamenti in caso di decesso conseguente 
+ad infortunio, omicidio o suicidio. 
+ 
+I documenti da presentare in caso di insorgenza dell'invalidità totale e permanente dell'aderente devono essere: 
+ denuncia, da inviare entro 15 giorni dalla data in cui si è verificat a l'invalidità totale e permanente  
+dell'aderente o entro la data dalla quale se ne è venuti a conoscenza (ai sensi dell'art. 14); 
+ copia leggibile del codice fiscale e di un valido documento di identità dell'aderente; 
+ coordinate bancarie dell'aderente per le operazioni di  accredito (nome, cognome, codice fiscale, Banca e 
+coordinate bancarie – codice IBAN).  
+ documentazione medica ai fini dell’accertamento dell’invalidità totale  e permanente, quale prevista al 
+precedente art. 14. 
+ 
+L'impresa di assicurazione potrà chiedere documentazione ulteriore rispetto a quella di cui sopra per ipotesi 
+specifiche, in considerazione di particolari esigenze istruttorie. 
+Resta inteso che le spese relative all’acquisizione dei suddetti documenti gravano direttamente sugli aventi 
+diritto. 
+Le richieste di pagamento incomplete comportano tempi di liquidazione più lunghi.  
+ 
+Verificata la sussistenza dell'obbligo al pagamento della prestazione in caso di decesso dell'aderente, l'impresa 
+di assicurazione esegue i pagamenti derivanti dai propri obblighi contrattuali entro 30 giorni dalla data di 
+ricevimento della richiesta completa di tutta la documentazione sopra riportata (ovvero alla data di ricevimento 
+presso la filiale interessata, se anteriore). 
+ 
+Per quanto riguarda la prestazione in caso di invalidità totale e permanente, verificata la sussistenza dell’obbligo 
+di pagamento l'impresa di assicurazione provvede alla liquidazione dell’importo dovuto entro un termine di 30 
+giorni dalla data di accertamento dell'invalidità totale e permanente a condizione che l'impresa di assicurazione 
+(o la filiale interessata) abbia ricevuto la richiesta completa di tutta la documentazione sopra indicata.   
+ 
+Decorso il termine sopra riportato sono dovuti gli interessi moratori a favore degli aventi diritto. Gli interessi 
+sono calcolati, nella misura degli interessi legali in vigore, a partire dal giorno in cui l'impresa di assicurazione o 
+la filiale è  entrata in possesso della documentazione completa e ha concordato l’accertamento dell’invalidità 
+totale e permanente (nel caso della copertura ITP).  
+ 
+Si ricorda che il Codice Civile (Art. 2952) dispone che i diritti derivanti dal contratto di assicurazione si 
+estinguono dopo dieci anni dal giorno in cui si è verificato il fatto su cui il diritto stesso si fonda (prescrizione). 
+Qualora i Beneficiari non richiedano gli importi dovuti entro il suddetto termine di prescrizione, questi ultimi 
+sono devoluti al Fondo per le vittime delle frodi finanziarie istituito presso il Ministero dell'Economia e delle 
+Finanze, come previsto  in materia di rapporti  dormienti dalla Legge  n. 266/2005 e successive modifiche ed 
+integrazioni. 
+ 
+Art. 16 – Non pignorabilità e non sequestrabilità  
+Ai sensi dell’art. 1923 del Codice Civile le somme dovute dall'impresa di assicurazione, in virtù dei contratti di 
+assicurazione sulla vita, non sono pignorabili né sequestrabili. 
+Sono salve, rispetto ai premi pagati, le disposizioni relative alla revocazione degli atti compiuti in pregiudizio dei 
+creditori e quelle relative alla collazione, all'imputazione e alla riduzione delle donazioni (art.1923, comma 2 del 
+Codice Civile). 
+ 
+Art. 17 – Tasse e imposte  
+Le eventuali tasse ed imposte relative alla copertura assicurativa  sono a carico del l'aderente, dei Beneficiari o 
+degli aventi diritto.
+=== pagina 42 ===
+Mod. 95 – Ed. 07.2026   Pag. 42 di 56 
+Art. 18 – Legge applicabile e valuta 
+Alla copertura assicurativa si applica la legge italiana.  
+Gli impegni contrattuali, premi e prestazioni assicurate, sono regolati in Euro.  
+ 
+Art. 19 – Foro Competente e sistemi alternativi di risoluzione delle controversie 
+Chi intende esercitare in giudizio un'azione relativa ad una controversia in materia di contratti assicurativi è 
+tenuto inizialmente ad attivare il procedimento di mediazione previsto dalla Legge 09/08/2013, n. 98 e s.m.i. 
+presso un Organismo di Mediazione  iscritto in apposito Registro istituito presso il Ministero della Giustizia, che 
+abbia sede nel luogo del Giudice territorialmente competente per la controversia stessa.  
+Solo in seguito alla definitiva conclusione del procedimento di mediazione secondo le modalità di cui alla sopra 
+citata Legge, sarà possibile rivolgersi all'Autorità Giudiziaria competente, la quale viene individuata in quella del 
+luogo di residenza o di d omicilio del l'aderente o dei soggetti che intendono far valere i diritti derivanti dal 
+contratto. 
+ 
+In ogni caso, prima di ricorrere all'Autorità Giudiziaria, è anche possibile ricorrere al procedimento di 
+negoziazione assistita prevista ai sensi del D. L. 132/2014, convertito con modifiche dalla L. 162/2014, invitando 
+l'altra parte a stipulare una convenzione di negoziazione tramite il proprio legale. 
+ 
+Si ricorda che in relazione alle controversie inerenti la quantificazione delle prestazioni e l'attribuzione delle 
+responsabilità permane la competenza esclusiva dell'Autorità Giudiziaria.  
+Tramite il sito del l'impresa di assicurazione ( www.helvetia.it – Reclami) è possibile acquisire in forma più 
+dettagliata le informazioni riguardanti le modalità di attivazione delle suddette procedure.
+=== pagina 43 ===
+Mod. 95 – Ed. 07.2026   Pag. 43 di 56 
+TABELLA A – TABELLA RIASSUNTIVA DEI CAPITALI ASSICURATI PER ETA' E PREMIO 
+Il capitale assicurato iniziale è  determinato in funzione dell'età dell'aderente alla data di decorrenza della copertura 
+assicurativa e dell'importo del premio  annuo selezionato. Ad ogni rinnovo annuale il capitale assicurato di riferimento deve 
+intendersi quello riferito all'età anagrafica dell'aderente alla data del rinnovo a parità di premio annuo selezionato. 
+Il capitale assicurato in caso di liquidazione del sinistro è quello riferito all'età dell'aderente alla data del decesso/accertamento 
+dell'invalidità totale e permanente e dell'importo del premio annuo selezionato. 
+ 
+Età anagrafica 
+dell'aderente 
+Premio 150 € annuo Premio 200 € annuo 
+Capitale Assicurato Capitale Assicurato 
+18 181.700 242.300  
+19 178.100 237.500  
+20 175.800 234.400  
+21 174.100 232.200  
+22 172.500 230.000  
+23 172.100 229.400  
+24 171.000 228.100  
+25 171.600 228.800  
+26 171.600 228.800  
+27 171.300 228.400  
+28 171.500 228.700  
+29 171.800 229.100  
+30 170.400 227.300  
+31 170.100 226.900  
+32 167.900 223.800  
+33 164.800 219.700  
+34 155.200 207.000  
+35 139.800 186.400  
+36 133.100 177.500  
+37 127.500 170.000  
+38 119.200 159.000  
+39 110.000 146.700  
+40 99.900 133.300  
+41 92.100 122.800  
+42 84.500 112.700  
+43 77.300 103.100  
+44 70.700 94.300  
+45 60.900 81.200  
+46 55.900 74.500  
+47 50.400 67.200  
+48 46.400 61.900  
+49 42.400 56.500  
+50 38.300 51.100  
+51 35.100 46.900  
+52 32.000 42.700  
+53 28.400 37.900  
+54 26.200 34.900  
+55 23.000 30.700  
+56 21.200 28.200  
+57 19.000 25.400  
+58 17.400 23.200  
+59 15.600 20.800  
+60 14.200 18.900  
+61 13.000 17.400  
+62 11.900 15.900  
+63 11.000 14.700  
+64 10.100 13.400  
+65 9.100 12.100  
+66 8.200 11.000  
+67 7.400 9.900  
+68 6.700 8.900  
+69 6.100 8.100  
+ 
+N.B. La copertura è attivabile esclusivamente da aderenti lavoratori che abbiano al momento della prima attivazione massimo 
+65 anni (anagrafici) e può essere rinnovata fino all'età massima di 70 anni (anagrafici)  a condizione che permanga lo stato di 
+lavoratore dell'aderente.
+=== pagina 44 ===
+Mod. 95 – Ed. 07.2026   Pag. 44 di 56 
+2. COPERTURA IN CASO DI DECESSO E IN CASO DI PERDITA DI 
+AUTOSUFFICIENZA (LTC) DELL'ADERENTE 
+ 
+Art. 1 – Oggetto della copertura 
+Con la presente copertura assicurativa l'impresa di assicurazione si impegna a corrispondere:  
+ ai Beneficiari designati, un importo pari al capitale assicurato nel caso in cui si verifichi il decesso dell'aderente 
+(Assicurato) durante il periodo di validità della copertura; 
+e 
+ all'aderente una rendita vitalizia mensile costante nel caso in cui si verifichi la perdita di autosufficienza 
+dell'aderente stesso durante il periodo di validità della copertura.  
+ 
+Si tratta di un'assicurazione sulla vita di durata monoannuale e ad attivazione facoltativa, riservata esclusivamente 
+agli iscritti al Fondo Pensione Aperto Soluzione Previdente, di età compresa tra i 18 e i 65 anni anagrafici al 
+momento dell'attivazione. 
+Alla scadenza della copertura assicurativa, l'età dell'aderente non deve comunque superare l'età pensionabile e 
+in ogni caso non può essere superiore ai 70 anni (anagrafici). 
+ 
+Le prestazioni assicurate (capitale assicurato e rendita vitalizia mensile) non sono in alcun modo collegate al valore 
+della posizione assicurativa presente nel Fondo Pensione, bensì si tratta di prestazioni aggiuntive e indipendenti.  
+ 
+Art. 2 – Modalità assuntive 
+L'assunzione del rischio da parte dell'impresa di assicurazione avviene al momento della richiesta di attivazione 
+della copertura da parte dell'aderente.  
+L'aderente può attivare la copertura assicurativa contestualmente all'adesione al Fondo oppure, in un momento 
+successivo, mediante sottoscrizione di apposito modulo. 
+In entrambi i casi l'aderente deve inoltre sottoscrivere una Dichiarazione di Buono Stato di Salute prevista per la 
+valutazione del suo stato di salute. Qualora l'aderente sia impossibilitato a sottoscrivere tale dichiarazione, il 
+rischio si intende rifiut ato da parte dell'impresa di assicurazione e non sarà possibile attivare la copertura 
+assicurativa.  
+Si richiama la necessità di leggere le raccomandazioni e le avvertenze contenute nel modulo di adesione (o nel 
+modulo di attivazione delle prestazioni accessorie) relative alla Dichiarazione di Buono Stato di Salute.  
+È di fondamentale importanza che le dichiarazioni rese dall'aderente per la definizione del rischio siano veritiere, 
+esatte e complete per evitare il rischio di successive, legittime, contestazioni dell'impresa di assicurazione che 
+potrebbero anche pregiudicare il diritto degli aventi diritto di ottenere il pagamento della prestazione assicurata. 
+ 
+L'aderente che abbia chiesto e ottenuto la disdetta al rinnovo della copertura assicurativa ai sensi del successivo 
+art. 6 e, successivamente, desideri riattivarla dovrà farne espressa richiesta al Fondo Pensione Aperto e 
+sottoscrivere nuovamente la Dichia razione di Buono Stato di Salute per permettere all'impresa di assicurazione 
+di effettuare le proprie valutazioni. 
+ 
+Art. 3 – Premio 
+Le prestazioni assicurate sono garantite a fronte della corresponsione di un premio annuo di importo fisso e non 
+modificabile, prescelto dall'aderente tra quelli di seguito riportati:  
+ 150 Euro; 
+ 200 Euro. 
+ 
+Il premio prescelto dall'aderente è unico e valido per entrambe le coperture. Per coloro che aderiscono in corso 
+d'anno, l'importo del premio sarà determinato riducendo in misura proporzionale alla durata delle coperture, il 
+premio corrispondente alla durata di 1 anno. 
+ 
+Art. 4 – Pagamento del premio 
+Il pagamento del primo premio deve essere effettuato dall'aderente esclusivamente tramite bonifico bancario 
+direttamente a favore del Fondo Pensione sul conto corrente bancario indicato all'interno del Modulo di adesione 
+(o nel modulo di attivazione delle prestazioni accessorie). 
+Il pagamento dei premi successivi al primo  deve essere effettuato dall'aderente mediante addebito dell’importo 
+pattuito sul conto corrente acceso presso la Banca distributrice e conseguente accredito dello stesso da parte 
+della Banca su  apposito conto corrente intestato al Fondo Pensione e riportato nel Modulo di adesione (o nel
+=== pagina 45 ===
+Mod. 95 – Ed. 07.2026   Pag. 45 di 56 
+modulo di attivazione delle prestazioni accessorie).  
+ 
+In caso di cessazione del rapporto del l'aderente con la Banca presso cui è stata effettuata l'adesione al Fondo 
+Pensione o laddove non sia possibile attivare l'addebito automatico in conto, i versamenti successivi al primo 
+potranno essere versati tramite bonifico bancario - direttamente a favore del Fondo Pensione - sul conto corrente 
+utilizzato per il versamento del primo premio o, laddove variato, sul conto corrente che sarà comunicato dal Fondo 
+Pensione Aperto. 
+Le spese relative ai mezzi di pagamento gravano direttamente sugli aderenti.  
+ 
+Art. 5 – Durata e decorrenza della copertura assicurativa 
+La copertura assicurativa ha durata monoannuale e si rinnova automaticamente il 1° gennaio di ogni anno.  
+La copertura si intende conclusa nel momento in cui l'aderente ha provveduto a sottoscrivere la richiesta di 
+attivazione della copertura ed ha effettuato il pagamento del primo premio annuale.  
+ 
+In fase di prima attivazione e previo consenso dell'impresa di assicurazione la copertura ha decorrenza dalle:  
+ ore 24.00 del 1° giorno lavorativo del mese successivo a quello di richiesta di attivazione,  se la richiesta di 
+attivazione è pervenuta al Fondo Pensione Aperto entro il 15 del mese ed il pagamento del primo premio è 
+avvenuto con valuta entro il 5° giorno lavorativo precedente la fine del mese nel quale è pervenuta la richiesta 
+di attivazione; 
+ ore 24.00 del 1° giorno lavorativo del secondo mese successivo a quello di richiesta di attivazione,  se la 
+richiesta di attivazione è pervenuta al Fondo Pensione Aperto dopo il 15 del mese ed il pagamento del primo 
+premio è avvenuto con valuta entro il 5° giorno lavorativo precedente la fine del mese successivo a quello di 
+pervenimento della richiesta di attivazione. 
+ 
+Esempio 1: 
+Richiesta di attivazione: 10/11/2022 
+Data valuta pagamento premio: 22/11/2022 
+Decorrenza della copertura: 01/12/2022 
+ 
+Esempio 2: 
+Richiesta di attivazione: 28/11/2022 
+Data valuta pagamento premio: 15/12/2022 
+Decorrenza della copertura: 01/01/2023 
+ 
+Per gli anni successivi la copertura avrà validità dall'1 gennaio al 31 dicembre di ciascun anno solare, previo 
+pagamento del relativo premio a norma di quanto previsto al successivo art. 6.  
+ 
+Art. 6 – Rinnovo e disdetta delle coperture assicurative 
+La copertura assicurativa si rinnova tacitamente alle ore 24.00 del 1° gennaio di ogni anno fino al raggiungimento 
+dell'età massima prevista. 
+ 
+Resta ferma la possibilità per l'aderente di dare disdetta al rinnovo mediante invio di lettera raccomandata A/R al 
+Fondo o invio di e -mail o e -mail PEC agli indirizzi riportati nella Nota Informativa. Se la richiesta di disdetta 
+perviene: 
+ entro e non oltre il 15 novembre dell'anno in corso, la disdetta è valida per il rinnovo immediatamente 
+successivo; 
+ dal 16 novembre al 31 dicembre dell'anno in corso, la disdetta è valida per il rinnovo del secondo anno 
+successivo. 
+ 
+Esempio 1: Richiesta di disdetta arrivata il 15/11/2022: le coperture non saranno rinnovate per il 2023. 
+ 
+Esempio 2: Richiesta di disdetta arrivata il 03/12/2022: le coperture saranno rinnovate per il 2023 e non saranno 
+rinnovate per il 2024. 
+ 
+In caso di disdetta effettuata nel corso dell'anno o in caso di uscita dal Fondo pensione Aperto nel corso dell'anno 
+la copertura in caso di decesso e in caso di non autosufficienza resterà in ogni caso attiva fino al 31 dicembre dello 
+stesso anno. 
+ 
+La copertura in caso di decesso e in caso di non autosufficienza  dell'aderente può essere attivata e rinnovata 
+unicamente nella Fase di Accumulo del Fondo pensione Aperto.
+=== pagina 46 ===
+Mod. 95 – Ed. 07.2026   Pag. 46 di 56 
+Art.7 – Prestazioni assicurate 
+Durante il periodo di validità della copertura assicurativa e ferme le esclusioni ed i periodi di carenza di cui ai 
+successivi artt. 12 e 13, è previsto il pagamento: 
+ ai Beneficiari designati, di un importo pari al capitale assicurato nel caso in cui si verifichi il decesso 
+dell'aderente per qualunque causa; 
+e 
+ all'aderente di una rendita vitalizia mensile costante nel caso in cui l'aderente sia riconosciuto non 
+autosufficiente nel compimento di almeno 4 dei 6 atti elementari della vita quotidiana . 
+ 
+Il capitale assicurato  iniziale e la rendita assicurata iniziale sono determinati in funzione dell'età anagrafica 
+dell'aderente alla data di decorrenza  della copertura e dell'importo del premio annuo scelto al momento 
+dell'attivazione, così come riportato alla successiva Tabella B. 
+ 
+Il capitale assicurato da liquidare in caso di decesso è quello determinato in funzione dell'età anagrafica 
+dell'aderente alla data di decesso e dell'importo del premio annuo scelto, così come riportato alla successiva 
+Tabella B. 
+La rendita assicurata da liquidare in caso di non autosufficienza è quella determinata in funzione dell'età 
+anagrafica dell'aderente alla data di riconoscimento della non autosufficienza e dell'importo del premio annuo 
+scelto, così come riportato alla successiva Tabella B. 
+ 
+Le prestazioni assicurate possono essere richieste a condizione che  l'aderente abbia provveduto al pagamento 
+del premio. 
+ 
+Se l'aderente decede durante il periodo di erogazione della rendita dovuta in caso di non autosufficienza, il 
+pagamento della rendita si interrompe e l'impresa di assicurazione si impegna a corrispondere, ai Beneficiari 
+designati, il capital e assicurato di importo pari a quello relativo all'età dell'aderente alla data di decesso e al 
+premio annuo prescelto, come riportato nella Tabella B. 
+ 
+Laddove all'aderente venga riconosciuta la non autosufficienza, perché rimanga in vigore anche la copertura in 
+caso di decesso è necessario che l'aderente continui a versare la quota parte di premio relativo a tale copertura, 
+il cui importo verrà comunicato dall'impresa di assicurazione. 
+ 
+Qualora al termine dalla copertura assicurativa non si sia verificato nessuno dei due eventi sopra riportati (decesso 
+o perdita di autosufficienza) non è prevista alcuna prestazione per gli aventi diritto ed i premi pagati restano 
+acquisiti da Helvetia Vita S.p.A.. 
+ 
+Art. 8 – Definizione dello stato di non autosufficienza 
+Si definisce non autosufficiente l'aderente il cui stato di salute comporti l’impossibilità di compiere in autonomia, 
+in modo permanente e presumibilmente irreversibile almeno  4 dei 6 atti elementari della vita quotidiana (ADL: 
+Activity of Daily Living) tra quelli di seguito elencati: 
+1. Lavarsi: la capacità di lavarsi nella vasca o nella doccia (e anche di entrare e uscire autonomamente dalla 
+vasca o dalla doccia); 
+2. Vestirsi e Svestirsi : la capacità di mettersi, togliersi, allacciare e slacciare ogni tipo di indumento  da soli, 
+inclusa la biancheria intima ed, eventualmente, anche bretelle, arti artificiali o altri apparecchi protesici senza 
+l’assistenza di una terza persona; 
+3. Andare al bagno ed usarlo: la capacità di mantenere un livello ragionevole di igiene personale (ad esempio, 
+lavarsi, radersi, pettinarsi, ecc.); 
+4. Spostarsi: la capacità di passare dal letto ad una sedia o sedia a rotelle e viceversa senza l’aiuto di una terza 
+persona; 
+5. Continenza: la capacità di controllare le funzioni corporali o comunque di mingere ed evacuare ; 
+6. Alimentarsi: la capacità di nutrirsi autonomamente, anche con il cibo preparato da altri, e di bere senza l’aiuto 
+di una terza persona. 
+ 
+L'accertamento dello stato di non autosufficienza spetta all'impresa di assicurazione  che lo effettua sulla base 
+di quanto riportato ai successivi Artt. 15 "Accertamento dello stato di non autosufficienza dell'aderente"  e 17 
+"Pagamenti dall'impresa di assicurazione". 
+ 
+Art. 9 – Dichiarazioni dell'aderente 
+Le dichiarazioni dell'aderente devono essere veritiere, esatte e complete, diversamente l'impresa di assicurazione 
+potrebbe sottovalutare il rischio che non avrebbe accettato alle medesime condizioni o che avrebbe rifiutato.
+=== pagina 47 ===
+Mod. 95 – Ed. 07.2026   Pag. 47 di 56 
+In caso di dichiarazioni non veritiere, inesatte o incomplete, l'impresa di assicurazione può valutare se la verità sia 
+stata alterata o taciuta per malafede, colpa grave o negligenza, applicando le conseguenti disposizioni di Legge 
+(Artt. 1892, 1893, 1894 del Codice civile). 
+ 
+Le dichiarazioni inesatte o le reticenze dell'aderente  relative a circostanze che influiscono sulla valutazione del 
+rischio possono comportare la perdita totale o parziale del diritto alle prestazioni assicurate, nonché la cessazione 
+della copertura assicurativa. 
+ 
+In ogni caso, l’inesatta indicazione dell’età dell’aderente comporta la rettifica delle prestazioni assicurate in base 
+all’età reale. 
+ 
+Laddove nel corso della durata contrattuale l'aderente trasferisca la propria residenza in un altro Stato membro 
+dell'Unione Europea, l'aderente stesso è tenuto a darne comunicazione all 'impresa di assicurazione  
+tempestivamente e comunque entro il termine di 30 giorni dall'avvenuto trasferimento. Quanto sopra al fine di 
+consentire all 'impresa di assicurazione  di effettuare gli adempimenti relativi all'applicazione delle imposte 
+indirette e degli oneri parafiscali gravanti sui premi eventualmente previsti in altri stati dell'Unione Europea. 
+Resta inteso che, nel caso in cui l'aderente non effettui la suddetta comunicazione nei termini sopra riportati, sarà 
+tenuto a rimborsare all'impresa di assicurazione quanto la stessa sia stata eventualmente chiamata a pagare in 
+conseguenza della mancata comunicazione (ad esempio rimborsi dovuti per effetto di contestazioni mosse 
+dall'Amministrazione finanziaria dello Stato membro di nuova residenza). 
+In ogni caso, l'aderente è tenuto ad avvisare tempestivamente l 'impresa di assicurazione  in relazione ad ogni 
+eventuale cambio della propria residenza. 
+ 
+L'aderente è tenuto ad avvisare tempestivamente l 'impresa di assicurazione , laddove nel corso della durata 
+contrattuale si verifichino modifiche alle circostanze che ne determinano la classificazione ai fini FATCA (cittadino 
+statunitense o fiscalmente residente negli Stati Uniti) e/o CRS (cittadino avente ulteriore residenza fiscale in uno 
+stato diverso da Italia e/o Stati Uniti).  
+ 
+Art. 10 – Beneficiari 
+Il Beneficiario della copertura in caso di perdita di autosufficienza dell'aderente è l'aderente stesso.  
+I Beneficiari della copertura in caso di decesso dell'aderente sono i medesimi soggetti designati per la prestazione 
+previdenziale in caso di decesso dell'aderente. In mancanza di designazione da parte dell'aderente, si intendono 
+beneficiari gli aventi diritto previsti dalla normativa tempo per tempo vigente. 
+ 
+Art. 11 – Revoca e Recesso  
+L'aderente ha diritto di revocare la copertura assicurativa fino a che la copertura assicurativa non è conclusa, 
+dandone comunicazione all'impresa di assicurazione mediante richiesta scritta inviata con lettera raccomandata 
+A/R indirizzata a: Helvetia Vita S.p.A. –  Gestione Operativa –  Previdenza, Via G.B. Cassinis 21, 20139 Milano 
+(Italia). 
+La richiesta di revoca  può essere inviata anche direttamente agli indirizzi mail o e -mail PEC riportati all'interno 
+della Nota Informativa. 
+L'impresa di assicurazione, entro 30 giorni dalla data di ricevimento della comunicazione di revoca , rimborsa 
+all'aderente il premio da questi eventualmente corrisposto. La comunicazione di revoca  deve essere corredata 
+dalle coordinate bancarie dell'aderente per le operazioni di accredito (Banca, codice IBAN dell'aderente). 
+ 
+L'aderente ha inoltre diritto di recedere dalla copertura assicurativa entro 30 giorni dalla data di conclusione 
+della stessa, dandone comunicazione all'impresa di assicurazione mediante richiesta scritta inviata con lettera 
+raccomandata A/R indirizzata a: Helvetia Vita S.p.A. –  Gestione Operativa –  Previdenza, Via G.B. Cassinis 21, 
+20139 Milano (Italia). 
+La richiesta di recesso può essere inviata anche direttamente agli indirizzi mail o e-mail PEC riportati all'interno 
+della Nota Informativa. 
+L'impresa di assicurazione, entro 30 giorni dalla data di ricevimento della comunicazione di recesso, rimborsa 
+all'aderente il premio da questi eventualmente corrisposto al netto della parte di premio relativa al rischio 
+assunto per il periodo durante il quale il contratto era in vigore, nonché delle spese sostenute per l’emissione 
+della copertura assicurativa . La comunicazione di recesso deve essere corredata dalle coordinate bancarie 
+dell'aderente per le operazioni di accredito (Banca, codice IBAN dell'aderente). 
+Il diritto di recesso libera l'aderente e l'impresa di assicurazione da qualsiasi obbligazione futura derivante dal 
+contratto dalle ore 24 del giorno di invio della comunicazione di recesso.
+=== pagina 48 ===
+Mod. 95 – Ed. 07.2026   Pag. 48 di 56 
+Art. 12 – Esclusioni 
+Sempreché l'aderente abbia reso dichiarazioni complete, corrette e veritiere e abbia quindi consentito all'impresa 
+di assicurazione  di valutare correttamente il rischio che si assume, il rischio di decesso e il rischio di non 
+autosufficienza nel compimento degli atti elementare della vita quotidiana sono coperti qualunque possa esserne 
+la causa, senza limiti territoriali, salvo le esclusioni sotto riportate ed i periodi di carenza di cui al successivo art. 
+13. 
+ 
+È escluso dalla copertura assicurativa il decesso o la non autosufficienza causati da: 
+ dolo dell'aderente o dei beneficiari; 
+ partecipazione attiva dell'aderente a delitti dolosi; 
+ partecipazione attiva dell'aderente a fatti di guerra, salvo che non derivi da obblighi verso lo Stato italiano;  
+ incidente di volo, se l'aderente viaggia a bordo di aeromobile non autorizzato al volo o con pilota non titolare 
+di brevetto idoneo e, in ogni caso, se viaggia in qualità di membro dell'equipaggio;  
+ suicidio o tentativo di suicidio, se avviene nei primi due anni dalla data di decorrenza del contratto o, trascorso 
+questo periodo, nei primi dodici mesi dall'eventuale riattivazione del contratto;  
+ patologie derivanti da abuso d'alcool; 
+ uso non terapeutico di sostanze stupefacenti, allucinogeni, psicofarmaci e sostanze psicotrope;  
+ decesso avvenuto in uno qualunque dei paesi indicati come paesi a rischio e per i quali il Ministero degli Esteri 
+ha sconsigliato di intraprendere viaggi a qualsiasi titolo. L'indicazione è rilevabile sul sito internet 
+www.viaggiaresicuri.it. Qualora l'indicazione fornita dal Ministero degli Esteri venga diramata mentre 
+l'aderente si trova nel paese segnalato, la garanzia è estesa per un periodo massimo di 14 giorni dalla data 
+della segnalazione. 
+ 
+È inoltre escluso dalla copertura assicurativa il decesso o la non autosufficienza causati  da: 
+ pratica delle seguenti professioni: operatore di qualunque settore merceologico che anche occasionalmente 
+è esposto a sostanze esplosive, cisterne o vasche di sostanze infiammabili, tossiche o corrosive; 
+operaio/muratore che lavora ad altezze superiori ai 20 metri; pilota o membro dell'equipaggio di velivoli non 
+commerciali/di linea o volo per servizi anti -incendio o ricerca e recupero; sommozzatore o palombaro; 
+addetto alla guida di mezzi subacquei; minatore o addetto a scavi in profondità, sia terrestri c he marini e/o 
+lacustri; collaudatore di veicoli, lavoro su piattaforme petrolifere; addetto alle forze armate o forze 
+dell'ordine salvo lavoro prettamente amministrativo; 
+ pratica delle seguenti attività sportive: sport aerei in genere (incluso il volo con ultraleggeri, deltaplani e 
+parapendio), paracadutismo, bungee jumping, pugilato, speleologia, immersioni subacquee non in apnea, 
+alpinismo di grado superiore al terzo seco ndo la scala francese, automobilismo, motociclismo, motonautica, 
+salto dal trampolino con sci o idrosci e sport estremi in genere; 
+ 
+Per il solo caso di perdita di autosufficienza dell'aderente, è esclusa dalla copertura assicurativa la non 
+autosufficienza derivante direttamente o indirettamente da: 
+ atti di guerra, operazioni militari, partecipazione attiva dell’ aderente a insurrezioni, sommosse e tumulti 
+popolari;  
+ contaminazioni chimiche e/o batteriologiche, trasformazioni o assestamenti energetici dell’atomo, naturali 
+e/o provocati, accelerazioni di particelle atomiche ed esposizione a particelle ionizzanti;  
+ uso di stupefacenti o di allucinogeni e abuso continuativo di alcolici o di farmaci, comprovati da 
+documentazione sanitaria;  
+ patologie nervose o mentali non di causa organica (es. depressione, psicosi, ecc.)  
+ 
+Nei suddetti casi, ad eccezione del caso di dolo dell'aderente o dei beneficiari per il quale non viene corrisposta 
+alcuna prestazione, l'impresa di assicurazione si impegna a rimborsare agli aventi diritto un importo pari al rateo 
+di premio relativo al periodo di copertura non goduto. 
+ 
+L'impresa di assicurazione inoltre non fornisce alcuna copertura o altra prestazione nella misura in cui la 
+copertura o la prestazione stessa possano esporre l'impresa al manifestarsi o al rischio di:  
+ violazione di divieto, erogazione di sanzione o applicazione di restrizione derivante da Risoluzioni delle 
+Nazioni Unite; 
+ erogazione di sanzioni economiche o commerciali, derivanti dalla violazione di leggi o disposizioni 
+dell’Unione Europea, del Regno Unito, della Svizzera o degli Stati Uniti d’America.  
+ 
+Art. 13 – Carenze 
+Qualora il decesso dell'aderente per malattia avvenga entro i primi sei mesi dalla data di decorrenza della
+=== pagina 49 ===
+Mod. 95 – Ed. 07.2026   Pag. 49 di 56 
+copertura assicurativa, non è prevista alcuna prestazione da parte di  Helvetia Vita S.p.A.. 
+ 
+L'Impresa di assicurazione non applicherà entro i primi sei mesi dalla data di decorrenza della copertura 
+assicurativa la limitazione sopra indicata e pertanto sarà dovuta la prestazione assicurata, qualora il decesso sia 
+conseguenza diretta di: 
+ una delle seguenti malattie infettive acute sopravvenute dopo la data di decorrenza: tifo, paratifo, difterite, 
+scarlattina, morbillo, vaiolo, poliomielite anteriore acuta, meningite cerebro- spinale, polmonite, encefalite 
+epidemica, carbonchio, febbri puerperali, tifo esantematico, epatite virale A, leptospirosi ittero emorragica, 
+colera, brucellosi, dissenteria bacillare, febbre gialla, febbre Q, salmonellosi, botulismo, mononucleosi 
+infettiva, parotite epidemica, peste, rabbia, pertosse, rosolia, vaccinia generalizzata, encefalite post -
+vaccinica; 
+ shock anafilattico sopravvenuto dopo la data di decorrenza; 
+ infortunio - intendendosi per tale (fermo quanto disposto dall’Art. 12 – Esclusioni) l’evento dovuto a causa 
+fortuita, violenta ed esterna che produca lesioni corporali obiettivamente constatabili, che abbiano come 
+conseguenza il decesso - avvenuto dopo la data di decorrenza. 
+ 
+Per il caso di non autosufficienza dell'aderente, l'efficacia della copertura assicurativa risulterà limitata per: 
+1. 18 mesi dalla data di decorrenza in caso di non autosufficienza causata da malattie neurologiche, nervose o 
+mentali dovute a causa organica (Ad esempio Alzheimer, Parkinson, demenza senile, sclerosi multipla); 
+2. 6 mesi dalla data di decorrenza in caso di non autosufficienza causata da malattie diverse da quelle di cui al 
+punto 1. 
+ 
+Nel caso in cui la non autosufficienza avvenga durante uno dei periodi di carenza sopra riportati, non verrà 
+erogata alcuna prestazione assicurata (rendita assicurata). 
+ 
+I periodi di carenza di cui sopra, invece, non si applicano e pertanto la prestazione assicurata dovuta sarà pari alla 
+rendita assicurata, qualora lo stato di non autosufficienza sia conseguenza diretta ed esclusiva di infortunio 
+avvenuto dopo l'entrata in vigore della copertura. 
+Per infortunio deve intendersi l’evento  dovuto a causa fortuita, violenta ed esterna che produca lesioni 
+corporali obiettivamente constatabili, che abbiano come conseguenza la non autosufficienza dell' aderente 
+determinata ai sensi di quanto previsto al precedente Art. 8 "Definizione dello stato di non autosufficienza". 
+ 
+Le carenze sopra riportate si applicano in fase di attivazione dell e coperture assicurative , ma non ai rinnovi 
+successivi. 
+Qualora l'aderente dovesse interrompere il rinnovo delle coperture e, successivamente, riattivare le coperture, 
+la carenza sopra descritta si intende di nuovo operante e sarà necessario sottoscrivere nuovamente la 
+Dichiarazione di Buono Stato di Salute. 
+ 
+Art. 14 – Soggetti non assicurabili per la copertura assicurativa in caso di perdita di autosufficienza 
+dell'aderente 
+Non è assicurabile la persona fisica che: 
+ alla data di sottoscrizione della copertura sia già beneficiaria di una rendita di invalidità o inabilità al lavoro 
+(sia privata che pubblica) e/o sia invalida civile con una percentuale di invalidità superiore al 50%;  
+ sia già in stato di non autosufficienza al momento della sottoscrizione copertura assicurativa, o abbia fatto 
+richiesta di riconoscimento di tale stato. 
+ 
+Art. 15 – Accertamento dello stato di non autosufficienza dell'aderente 
+L’accertamento della non autosufficienza spetta all'impresa di assicurazione che, al fine di effettuare le verifiche 
+necessarie potrà chiedere all'aderente di: 
+1. sottoporsi ad eventuali accertamenti sanitari e/o visite mediche disposte dall 'impresa di assicurazione; 
+2. fornire all'impresa di assicurazione tutte le informazioni/documentazioni necessarie alla valutazione dello 
+stato di non autosufficienza e delle relative cause. 
+ 
+L'impresa di assicurazione potrà chiedere ulteriore documentazione rispetto a quella di cui sopra per ipotesi 
+specifiche ed in ogni caso necessarie ai fini dell'accertamento dello stato di non autosufficienza.  
+ 
+A partire dalla data di denuncia, di cui al successivo art. 17, decorre il periodo di accertamento dello stato di non 
+autosufficienza da parte dell'impresa di assicurazione, fissato in un massimo di 90 giorni.
+=== pagina 50 ===
+Mod. 95 – Ed. 07.2026   Pag. 50 di 56 
+Terminati i controlli medici e l'analisi della documentazione, l 'impresa di assicurazione comunicherà per iscritto 
+all'aderente il riconoscimento o meno dello stato di non autosufficienza.  
+Fino a quando lo stato di non autosufficienza non sia stato accertato, l'aderente è tenuto al pagamento del 
+premio scelto in fase di attivazione della copertura assicurativa. 
+Laddove venga riconosciuta la non autosufficienza dell'aderente, l'impresa di assicurazione  si impegna a 
+liquidare la prima rata di rendita mensile entro 30 giorni  dalla comunicazione di cui sopra, a condizione che 
+l'aderente sia in vita  e che siano trascorsi 90 giorni a partire dalla data di denuncia dello stato di non 
+autosufficienza. 
+ 
+Unitamente alla prima rata di rendita mensile costante saranno corrisposte anche:  
+ le rate di rendita pregresse dovute a partire dalla data di denuncia;  
+ un importo pari ai premi pagati nel periodo di accertamento dello stato di non autosufficienza . 
+Per maggiori dettagli relativi al pagamento dell 'impresa di assicurazione  si rimanda al successivo Art. 17  
+"Pagamenti dell'impresa di assicurazione". 
+ 
+In caso di controversie sull'esito dell'accertamento l'aderente può ricorrere ad un Collegio Arbitrale con le 
+modalità riportate al successivo Art. 21 "Collegio Arbitrale". 
+ 
+In caso di decesso dell'aderente, avvenuto nel periodo di accertamento della non autosufficienza o in corso di 
+erogazione della rendita assicurata , l'impresa di assicurazione non liquiderà la rendita assicurata ovvero 
+interromperà il pagamento della stessa e provvederà a liquidare, ai Beneficiari designati, il capitale assicurato 
+in caso di decesso di importo pari a quello riportato alla Tabella B pre so in corrispondenza dell'età 
+dell'aderente a tale data e dell'importo del premio annuo prescelto. 
+ 
+In ogni caso, nel corso dell'erogazione della rendita vitalizia mensile l'impresa di assicurazione si riserva, a proprio 
+totale carico, il diritto di far esaminare in ogni momento l'aderente non autosufficiente da un proprio medico di 
+fiducia e di richiedere la produzione di ogni documento che ritenga necessario per la valutazione dello stato di 
+non autosufficienza (come, ad esempio, una dichiarazione di esistenza in vita dell'aderente). In caso di rifiuto da 
+parte dell'aderente, il pagamento della rendita assicurata verrà immediatamente sospesa fino all'avvenuto 
+accertamento. 
+ 
+Art. 16 – Modifica dello stato di non autosufficienza dell'aderente 
+L'aderente è tenuto a comunicare all'impresa di assicurazione  – entro 60 giorni da quando ne sia venuto a 
+conoscenza – a mezzo di lettera raccomandata A/R o invio di e -mail o e-mail PEC agli indirizzi riportati nella 
+Nota Informativa., il recupero dello stato di autosufficienza.  
+ 
+In tale caso il pagamento della rendita verrà interrotto con effetto dalla prima scadenza di rata immediatamente 
+successiva alla data di accertamento e l'eventuale nuova attivazione della copertura dovrà essere esplicitamente 
+accordata dall'impresa di assicurazione.  
+ 
+In ogni caso l'aderente, ovvero gli aventi diritto dell'aderente, sono tenuti a comunicare all'impresa di 
+assicurazione – entro 60 giorni da quando ne siano venuti a conoscenza –  a mezzo di lettera raccomandata 
+A/R invio di e-mail o e-mail PEC agli indirizzi riportati nella Nota Informativa – il decesso dell'aderente stesso. 
+In tal caso il pagamento della rendita verrà interrotto e l'impresa di assicurazione provvederà a liquidare, ai 
+Beneficiari designati, il capitale assicurato in caso di decesso di importo pari a quello riportato alla Tabella B 
+preso in corrispondenza dell'età dell'aderente alla data di decesso e dell'importo del premio annuo prescelto. 
+Laddove la denuncia di cui sopra sia arrivata in ritardo rispetto all'effettiva data di decesso dell'aderente, 
+l'impresa di assicurazione si riserva di chiedere la restituzione delle rate di rendita pagate e non dovute.  
+ 
+Art. 17 – Pagamenti dall'impresa di assicurazione 
+La richiesta di liquidazione da parte degli aventi diritto deve essere effettuata in forma scritta (anche mediante 
+l'utilizzo dell'apposito modulo) consegnata allo sportello bancario di riferimento o inviata direttamente 
+all'impresa di assicurazione al seguente indirizzo: Helvetia Vita S.p.A. – Gestione Operativa – Previdenza, Via G.B. 
+Cassinis 21, 20139 Milano, a mezzo lettera raccomandata A/R, corredata dai documenti di seguito riportati.  
+La richiesta può essere inviata anche tramite mail o e -mail PEC agli indirizzi riportati all'interno della Nota 
+Informativa. 
+Si precisa che il suddetto modulo viene messo a disposizione da parte dell'impresa di assicurazione al solo fine 
+di agevolare la richiesta di pagamento e a titolo di servizio alla clientela.
+=== pagina 51 ===
+Mod. 95 – Ed. 07.2026   Pag. 51 di 56 
+I documenti da presentare per la liquidazione del capitale assicurato in caso di decesso sono:  
+ denuncia di sinistro, da inviare entro 60 giorni dalla data in cui si è verificato il decesso dell' aderente; 
+ consenso all’utilizzo dei dati personali sottoscritto dagli aventi diritto in caso di decesso (Reg. UE 679/2016); 
+ dati anagrafico fiscali degli aventi diritto e loro coordinate bancarie per le operazioni di accredito (nome, 
+cognome, codice fiscale, Banca e coordinate bancarie - codice IBAN - di ciascun avente diritto). Le coordinate 
+dovranno essere sottoscritte in originale da ciascun avente diritto; 
+ copia leggibile di un valido documento di identità e del codice fiscale di ciascun avente diritto;  
+ certificato di decesso dell’aderente (in originale), rilasciato dall'Ufficio di Stato Civile in carta semplice;  
+ certificato medico attestante la causa del decesso o Scheda di Morte ISTAT emesso dall'ASL;  
+ documentazione attestante la designazione dei Beneficiari quale: 
+ in caso di designazione effettuata facendo riferimento alla qualità di eredi legittimi o testamentari , 
+atto di notorietà redatto dinanzi al Notaio o presso il Tribunale, sul quale viene indicato:  
+ se l'aderente ha lasciato o meno testamento. In caso di esistenza di testamento, deve esserne 
+inviata copia autenticata e l’atto di notorietà deve riportarne gli estremi precisando che detto 
+testamento è l’ultimo da ritenersi valido ed evidenziando quali sono gli eredi legittimi, loro età e 
+capacità di agire; 
+ quali sono gli eredi legittimi, loro età e capacità di agire. 
+ in caso di designazione effettuata con riferimento a un soggetto specificamente individuato :  
+ se è presente un testamento:  
+ copia autentica o estratto autentico dell'atto di ultima volontà; 
+ dichiarazione sostitutiva dell’atto di notorietà dalla quale risulti, sotto la propria piena 
+responsabilità, quali sono i Beneficiari e che il Beneficiario ha effettuato ogni tentativo e ha 
+compiuto quanto in suo potere per accertare che il testamento pres entato è l’unico o, nel caso 
+di più testamenti, quale sia ritenuto valido, che non sono state mosse contestazioni relative al 
+testamento o ai testamenti, che oltre ai Beneficiari menzionati nella dichiarazione stessa non 
+ve ne sono altri e che nel testamento non sono presenti revoche o modifiche della designazione 
+dei Beneficiari. Nella dichiarazione sostitutiva è necessario inoltre indicare quali sono gli eredi 
+legittimi, loro età e capacità di agire; 
+ se non è presente un testamento:  
+ dichiarazione sostitutiva dell’atto di notorietà dalla quale risulti, sotto la propria piena 
+responsabilità, che il Beneficiario ha effettuato ogni tentativo ed ha compiuto quanto in suo 
+potere per accertare la non esistenza di disposizioni testamentarie, nonché l'indicazione di tutte 
+le persone nominate come Beneficiari. Nella dichiarazione sostitutiva è necessario inoltre 
+indicare quali sono gli eredi legittimi, loro età e capacità di agire;  
+ qualora gli aventi diritto risultino minorenni o incapaci, Decreto del Giudice Tutelare in originale o in copia 
+autenticata contenente l'autorizzazione in capo al Legale Rappresentante dei minorenni o incapaci a 
+riscuotere la somma dovuta con esonero dall'impresa di assicurazione  da ogni responsabilità relativa al 
+pagamento nonché all'eventuale reimpiego della somma stessa; 
+ relazione del medico curante redatta anche mediante utilizzo di modulistica fornita dall'impresa di 
+assicurazione e, se vi è stato ricovero in ospedale, copia integrale della cartella clinica, completa di 
+anamnesi, relativa al primo ricovero subito dall'aderente; 
+ copia di un articolo di giornale (se disponibili) che riporti le circostanze dell'accaduto e – appena possibile – 
+copia del verbale dell'Autorità Giudiziaria che ha effettuato gli accertamenti in caso di decesso conseguente 
+ad infortunio, omicidio o suicidio. 
+ 
+I documenti da presentare in caso di insorgenza dello stato di non autosufficienza devono essere: 
+ denuncia, da inviare al verificarsi della presunta perdita permanente dell'autosufficienza;  
+ copia del documento attestante la nomina di Amministratore di sostegno/Tutore/Procuratore (decreto del 
+Giudice Tutelare/Atto notarile), laddove previsto; 
+ relazione del medico curante (medico di famiglia e/o ospedaliero) attestante lo stato di non autosufficienza 
+dell'aderente con indicazione delle cause della perdita di autosufficienza. Tale relazione potrà essere 
+effettuata preferibilmente utilizzando l’apposito modulo predisposto dall 'impresa di assicurazione , per 
+garantire la completezza delle informazioni; 
+ copia fronte-retro di un valido documento di identità dell'aderente riportante firma visibile;  
+ coordinate bancarie dell'aderente per le operazioni di accredito (Banca e codice IBAN); 
+ documentazione medica, cartelle cliniche e/o accertamenti effettuati dall'aderente utili ad attestare la data 
+di diagnosi della non autosufficienza ed il decorso della patologia o del trauma che la ha causata.
+=== pagina 52 ===
+Mod. 95 – Ed. 07.2026   Pag. 52 di 56 
+La data di denuncia dello stato di non autosufficienza coincide con la data di pervenimento della documentazione 
+completa di cui sopra, necessaria all 'impresa di assicurazione per poter effettuare l’accertamento dello stato di 
+non autosufficienza. A partire da tale data decorre il periodo di accertamento dello stato di non autosufficienza 
+da parte del l'impresa di assicurazione , di cui al precedente Art. 15 "Accertamento dello stato di non 
+autosufficienza dell'aderente". 
+ 
+L'impresa di assicurazione potrà chiedere documentazione ulteriore rispetto a quella di cui sopra per ipotesi 
+specifiche, in considerazione di particolari esigenze istruttorie. 
+Resta inteso che le spese relative all’acquisizione dei suddetti documenti gravano direttamente sull'aderente 
+e/o sugli aventi diritto. 
+Le richieste di pagamento incomplete comportano tempi di liquidazione più lunghi.  
+ 
+Verificata la sussistenza dell'obbligo al pagamento della prestazione in caso di decesso dell'aderente, l'impresa 
+di assicurazione esegue i pagamenti derivanti dai propri obblighi contrattuali entro 30 giorni dalla data di 
+ricevimento della richiesta completa di tutta la documentazione sopra riportata (ovvero alla data di ricevimento 
+presso la filiale interessata, se anteriore). 
+ 
+Per quanto riguarda la prestazione in caso di perdita di autosufficienza , verificata la sussistenza dell’obbligo di 
+pagamento l'impresa di assicurazione provvede  alla liquidazione dell’importo dovuto entro un termine di 30 
+giorni dalla comunicazione di riconoscimento dello stato di non autosufficienza  a condizione che l'impresa di 
+assicurazione (o la filiale interessata) abbia ricevuto la richiesta completa di tutta la documentazione sopra 
+indicata.  
+ 
+Decorso il termine sopra riportato sono dovuti gli interessi moratori a favore degli aventi diritto. Gli interessi 
+sono calcolati, nella misura degli interessi legali in vigore, a partire dal giorno in cui l'impresa di assicurazione o 
+la filiale è entrata in possesso della documentazione completa e ha concordato l'accertamento dello stato di non 
+autosufficienza (nel caso della copertura LTC).  
+ 
+Si ricorda che il Codice Civile (Art. 2952) dispone che i diritti derivanti dal contratto di assicurazione si 
+estinguono dopo dieci anni dal giorno in cui si è verificato il fatto su cui il diritto stesso si fonda (prescrizione). 
+Qualora i Beneficiari non richiedano gli importi dovuti entro il suddetto termine di prescrizione, questi ultimi 
+sono devoluti al Fondo per le vittime delle frodi finanziarie istituito presso il Ministero dell'Economia e delle 
+Finanze, come previsto  in materia di rapporti  dormienti dalla Legge  n. 266/2005 e successive modifiche ed 
+integrazioni. 
+ 
+Art. 1 8 – Modifica delle prestazioni assicurate a seguito di scostamenti delle basi statistiche o 
+deviazioni nell'andamento del portafoglio 
+Trascorsi cinque anni dalla data di decorrenza della copertura assicurativa, l'impresa di assicurazione può 
+rivedere (ai sensi del Regolamento ISVAP n. 21 del 28 marzo 2008) le basi statistiche utilizzate per la 
+determinazione della rendita vitalizia mensi le prevista per la copertura in caso di perdita di autosufficienza 
+dell'aderente.  
+A seguito della revisione  delle suddette basi, l 'impresa comunicherà all'aderente il nuovo importo della rendita 
+vitalizia mensile  e quest'ultimo avrà la possibilità di scegliere se mantenere attiva la copertura oppure 
+interromperla. 
+Le eventuali modifiche verranno applicate sia in fase di prima attivazione sia per i rinnovi successivi.  
+ 
+Art. 19 – Non pignorabilità e non sequestrabilità 
+Ai sensi dell'Art. 1923 del Codice civile, le somme dovute dall'impresa di assicurazione in relazione ai contratti di 
+assicurazione sulla vita non sono pignorabili né sequestrabili.  
+Sono salve, rispetto al premio pagato, le disposizioni relative alla revocazione degli atti compiuti in pregiudizio 
+dei creditori e quelle relative alla collazione, all'imputazione e alla riduzione delle donazioni (Art. 1923, comma 
+2 del Codice Civile). 
+ 
+Art. 20 – Tasse e imposte  
+Le eventuali tasse ed imposte relative al contratto sono a carico del l'aderente, dei Beneficiari o degli aventi 
+diritto.
+=== pagina 53 ===
+Mod. 95 – Ed. 07.2026   Pag. 53 di 56 
+Art. 21 – Collegio Arbitrale 
+In caso di controversie di natura medica sulla liquidabilità della prestazione  in caso di non autosufficienza , le 
+Parti (impresa di assicurazione e aderente) possono conferire per iscritto mandato di decidere ad un Collegio di 
+tre medici, nominati uno per parte ed il terzo di comune accordo od in caso contrario dal Presidente del Consiglio 
+dell’Ordine dei Medici avente sede nel luogo dove deve riunirsi il Colle gio. 
+Il Collegio medico risiede nel Comune, sede di Istituto di Medicina Legale, più vicino al luogo di residenza 
+dell'aderente. Ciascuna delle Parti sostiene le proprie spese e remunera il medico da essa designato, 
+contribuendo per metà delle spese e competenze per il terzo medico.  
+Le decisioni del Collegio medico sono prese a maggioranza dei voti, con dispensa da ogni formalità di legge e 
+sono vincolanti tra le Parti, le quali rinunciano fin d’ora a qualsiasi impugnativa salvo i casi di violenza, dolo, 
+errore o violazione di patti contrattuali. 
+I risultati delle operazioni arbitrali devono essere raccolti in apposito verbale, da redigersi in doppio esemplare, 
+uno per ognuna delle Parti. Le decisioni del Collegio medico sono vincolanti per le Parti anche se uno dei medici 
+si rifiuti di firmare il relativo verbale; tale rifiuto deve essere attestato dagli arbitri nel verbale definitivo.  
+Il ricorso al Collegio Arbitrale non pregiudica, in ogni caso, la possibilità per l'aderente di rivolgersi alle competenti 
+Autorità giudiziarie. 
+ 
+Art. 22 – Legge applicabile e Valuta 
+Alla copertura assicurativa si applica la legge italiana. 
+Gli impegni contrattuali, premi e prestazioni assicurate, sono regolati in Euro.  
+ 
+Art. 23 – Foro Competente e sistemi alternativi di risoluzione delle controversie 
+Chi intende esercitare in giudizio un'azione relativa ad una controversia in materia di contratti assicurativi è 
+tenuto inizialmente ad attivare il procedimento di mediazione previsto dalla Legge 09/08/2013, n. 98 e s.m.i. 
+presso un Organismo di Mediazione  iscritto in apposito Registro istituito presso il Ministero della Giustizia, che 
+abbia sede nel luogo del Giudice territorialmente competente per la controversia stessa.  
+Solo in seguito alla definitiva conclusione del procedimento di mediazione secondo le modalità di cui alla sopra 
+citata Legge, sarà possibile rivolgersi all'Autorità Giudiziaria competente, la quale viene individuata in quella del 
+luogo di residenza o di d omicilio del l'aderente o dei soggetti che intendono far valere i diritti derivanti dal 
+contratto. 
+ 
+In ogni caso, prima di ricorrere all'Autorità Giudiziaria, è anche possibile  ricorrere al  procedimento di 
+negoziazione assistita prevista ai sensi del D. L. 132/2014, convertito con modifiche dalla L. 162/2014, invitando 
+l'altra parte a stipulare una convenzione di negoziazione tramite il proprio legale. 
+ 
+Si ricorda che in relazione alle controversie inerenti alla quantificazione delle prestazioni e l'attribuzione delle 
+responsabilità permane la competenza esclusiva dell'Autorità Giudiziaria. 
+Tramite il sito dell'impresa di assicurazione  (www.helvetia.it – Reclami) è possibile  acquisire in  forma più 
+dettagliata le informazioni riguardanti le modalità di attivazione delle suddette procedure.
+=== pagina 54 ===
+Mod. 95 – Ed. 07.2026   Pag. 54 di 56 
+TABELLA B – TABELLA RIASSUNTIVA DEI CAPITALI ASSICURATI E DELLE RENDITE ASSICURATE PER 
+ETA' E PREMIO 
+Il capitale assicurato iniziale e la rendita assicurata iniziale sono determinati in funzione dell'età dell'aderente alla dat a di 
+decorrenza della copertura assicurativa e dell'importo del premio annuo selezionato. Ad ogni rinnovo annuale il capitale 
+assicurato di riferimento e la rendita assicurata di riferimento devono intendersi quelli riferiti all'età anagrafica dell'aderent e 
+alla data del rinnovo a parità di premio annuo selezionato. 
+Il capitale assicurato in caso di liquidazione del sinistro è quello riferito all'età dell'aderente alla data del decesso e dell'importo 
+del premio annuo selezionato. La rendita assicurata in caso di liquidazione del sinistro è quella riferita all'età dell'aderente alla 
+data di riconoscimento della non autosufficienza e dell'importo del premio annuo selezionato. 
+ 
+Età dell'aderente Premio annuo 150€ Premio annuo 200€ 
+Capitale Assicurato Rendita LTC  Capitale Assicurato Rendita LTC  
+18 213.600 1.500 292.200 1.500 
+19 213.600 1.500 292.200 1.500 
+20 213.600 1.500 292.200 1.500 
+21 213.600 1.500 292.200 1.500 
+22 213.600 1.500 292.200 1.500 
+23 213.600 1.500 292.200 1.500 
+24 213.600 1.500 292.200 1.500 
+25 213.600 1.500 292.200 1.500 
+26 213.600 1.500 292.200 1.500 
+27 213.600 1.500 292.200 1.500 
+28 213.600 1.500 292.200 1.500 
+29 213.600 1.500 292.200 1.500 
+30 213.600 1.500 292.200 1.500 
+31 213.200 1.500 291.900 1.500 
+32 212.100 1.500 290.800 1.500 
+33 210.600 1.500 289.200 1.500 
+34 197.100 1.500 271.300 1.500 
+35 172.400 1.500 237.800 1.500 
+36 163.100 1.500 225.600 1.500 
+37 154.600 1.500 214.500 1.500 
+38 142.800 1.500 198.800 1.500 
+39 130.100 1.500 181.800 1.500 
+40 115.100 1.500 161.800 1.500 
+41 103.300 1.500 146.000 1.500 
+42 91.500 1.500 130.600 1.500 
+43 81.600 1.500 117.300 1.500 
+44 73.100 1.500 105.900 1.500 
+45 59.000 1.500 86.600 1.500 
+46 51.900 1.500 77.300 1.500 
+47 45.200 1.500 68.100 1.500 
+48 39.400 1.500 60.500 1.500 
+49 34.700 1.500 54.100 1.500 
+50 29.200 1.500 46.600 1.500 
+51 25.500 1.500 41.600 1.500 
+52 22.000 1.480 36.400 1.500 
+53 19.600 1.360 30.700 1.500 
+54 18.000 1.270 26.800 1.500 
+55 15.600 1.200 22.200 1.500 
+56 14.400 1.140 19.600 1.500 
+57 13.000 1.060 17.300 1.410 
+58 11.800 1.030 15.800 1.370 
+59 10.600 970 14.200 1.300 
+60 9.600 920 12.800 1.230 
+61 8.800 860 11.800 1.150 
+62 8.100 790 10.800 1.050 
+63 7.400 710 9.900 950 
+64 6.800 660 9.100 880 
+65 6.200 600 8.300 810 
+66 5.600 550 7.500 730 
+67 5.100 490 6.800 650 
+68 4.600 430 6.100 580 
+69 4.200 380 5.600 510 
+ 
+N.B. è possibile attivare la copertura per la prima volta fino a 65 anni di età anagrafici ed è possibile rinnovarla fino a 70 anni 
+anagrafici.
+=== pagina 55 ===
+
+=== pagina 56 ===
+Mod. 95 – Ed. 07/2026

@@ -1,0 +1,79 @@
+# Fondo: GENERALI GLOBAL - FONDO PENSIONE APERTO A CONTRIBUZIONE DEFINITA (generali-global)
+# Documento: Metodologia delle proiezioni – Metodologia Fpa
+# Fonte: https://www.generali.it/cmsassets/site/778eb8aa-b8a4-42b2-abae-7b93430f402e/Metodologia_FPA.pdf
+# Citato in: https://www.generali.it/previdenza/generali-global-fondo-pensione-aperto/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: d6bcdd21227f1f7f2ab2ab3ce4283d4acdbe017898e507bd79736a3654c7d349
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Generali Global – Fondo Pensione Aperto a contribuzione definita 
+ 
+METODOLOGIA E IPOTESI UTILIZZATE PER L’ELABORAZIONE DELLE PRESTAZIONI 
+PENSIONISTICHE 
+ 
+Il presente documento è volto a illustrare la metodologia di calcolo e le ipotesi utilizzate per la 
+simulazione della prestazione pensionistica alla data di pensionamento.  
+La costruzione delle proiezioni pensionistiche si basa: 
+-  sulle informazioni relative all’Aderente:  
+o dati anagrafici dell’aderente (età e sesso); 
+o misura della contribuzione; 
+o profilo di investimento; 
+o età prevista al pensionamento di vecchiaia; 
+ 
+- sulle informazioni relative alla forma pensionistica complementare: 
+o costi connessi alla partecipazione nella fase di accumulo (pari a quelli effettivamente 
+applicati dalla forma pensionistica complementare e consultabili dalla Scheda “I 
+costi”);  
+o basi tecniche e demografiche per il calcolo della prima rata di rendita:   
+− tavola A62U (A62 indifferenziata per sesso), corrispondente alla 
+combinazione 60% femmine, 40% maschi 
+− tasso tecnico 0,0% 
+− costo relativo alla trasformazione della posizione in rendita: 0,90% 
+ 
+- sulle ipotesi definite dalla COVIP: 
+o Tasso di inflazione: 2% 
+o Tasso di crescita reale dei contributi versati al Fondo: 1% 
+o Età di pensionamento: 67 anni 
+o Tasso atteso di rendimento della gestione calcolato sulla base della composizione 
+azionaria e obbligazionaria del comparto : alla componente azionaria è attribuito un 
+rendimento del 4,00% annuo e a quella obbligazionaria un rendimento del 2,00% 
+annuo.  
+Il motore di calcolo per lo sviluppo delle proiezioni, disponibile sul sito web, consente di modificare i 
+seguenti parametri: 
+- dati anagrafici dell’aderente (età e sesso);  
+- misura della contribuzione;  
+- tasso annuo atteso di crescita della contribuzione/retribuzione, che in ogni caso non può 
+superare il 3% reale;  
+- profilo di investimento;  
+- età prevista al pensionamento di vecchiaia. 
+Il motore di calcolo per lo sviluppo delle proiezioni, disponibile nell’Area Riservata - Area Clienti, 
+consente la realizzazione di simulazioni personalizzate in merito alla prestazione pensionistica 
+senza la necessità di inserire le informazioni relative all’aderente (sesso, età e valore della posizione 
+individuale maturata). Tale strumento consente altresì di simulare l’effetto sulla posizione individuale 
+in maturazione e sulla prestazione pensionistica di ciascuna opzione esercitabile dall’aderente in 
+merito a:
+=== pagina 2 ===
+- anticipazione; 
+- riscatto parziale; 
+- modifica dell’opzione di investimento dell’intera posizione individuale;  
+- modifica dell’opzione di investimento dei versamenti contributivi futuri. 
+L’introduzione di tali opzioni ha finalità puramente indicative;  queste opzioni possono prevedere 
+requisiti normativi o contrattuali che saranno verificati al momento di un’eventuale effettiva richiesta 
+presentata alla Forma pensionistica.  
+Al termine dell’elaborazione viene fornito il valore della posizione individuale prospettica e l’importo 
+annuo inizi ale delle tipologie di rendita previste dalla Forma pensionistica,  sia alla data di 
+pensionamento di vecchiaia indicata dall’aderente che nei cinque anni successivi. 
+Tali valori sono rappresentati al lordo della fiscalità (nel calcolo dell’evoluzione della posizione 
+individuale si tiene conto soltanto delle imposte gravanti sui rendimenti) e in termini reali e, pertanto, 
+già al netto degli effetti dell’inflazione.  
+Nella Nota informativa sono fornite simulazioni effettuate nel rispetto della metodologia sopra 
+indicata, avendo a riferimento figure-tipo con le seguenti caratteristiche:  
+- età anagrafica al momento dell’adesione: 30 anni e 40 anni;  
+- contributo annuo: 2.500 € e 5.000 €;  
+- età di pensionamento di vecchiaia: 67 anni.  
+In particolare, il Paragrafo ‘Quanto potresti ricevere quando andrai in pensione’, della Parte I ‘Le 
+informazioni chiave per l’aderente’, della Nota informativa, riporta il valore della posizione individuale 
+e il corrispondente valore della rata annua di rendita attesa, calcolata con riferimento alle suddette 
+ipotesi.

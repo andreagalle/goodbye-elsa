@@ -1,0 +1,1595 @@
+# Fondo: PROGRAMMA OPEN FONDO PENSIONE APERTO (programma-open)
+# Documento: Altri documenti – Politica di impegno 2022
+# Fonte: https://www.groupama.it/app/uploads/2022/12/Politica-di-Impegno-Groupama-Assicurazioni.pdf
+# Citato in: https://www.groupama.it/previdenza-integrativa/programma-open/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5193b0e517cabf420a63b8d22aed07fe8158bc23fe9363cc530adbbb3e32198b
+# Pagine: 36
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Versione: 1.0 
+U.O. Responsabile: Investimenti 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POLITICA DEGLI IMPEGNI E  STRATEGIA D'INVESTIMENTO DEGLI    
+INVESTITORI  ISTITUZIONALI E ACCORDI CON I GESTORI DI ATTIVI 
+ 
+Groupama Assicurazioni S.p.a. 
+ 
+ 
+ 
+Novembre 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Versione      Approvato da   Data 
+1.0      Consiglio di Amministrazione  09/12/2022 
+1.0      Comitato Rischio Finanziario  21/11/2022
+=== pagina 2 ===
+Politica di Impegno 
+investimenti 
+Pag. 2 di 36 Groupama 
+ 
+ 
+ 
+ 
+ 
+Sommario 
+1. CONTESTO GENERALE ................................ ................................ ................................ ...............  3 
+1.1 Premessa ................................ ................................ ................................ ................................ ................................ .............  3 
+1.2 Obiettivi della Politica  ................................ ................................ ................................ ................................ ............................  3 
+1.3 Approvazione e data efficacia ................................ ................................ ................................ ................................ ..................  3 
+1.4 Riferimenti normativi ................................ ................................ ................................ ................................ .............................  4 
+2. POLIT ICA DI IMPEGNO ................................ ................................ ................................ ..............  4 
+2.1 Modalità con cui sono monitorate le società partecipa te ................................ ................................ ................................ ..............  4 
+2.2 Dialogo con le società partecipate ................................ ................................ ................................ ................................ ............  5 
+2.3 Esercizio del diritto di voto ................................ ................................ ................................ ................................ ......................  5 
+2.4 Gestione del conflitto di interessi ................................ ................................ ................................ ................................ .............  5 
+3. STRATEGIA DI INVEST IMENTO ................................ ................................ ................................ ....  6 
+3.1 Strategia di investimento azionario................................ ................................ ................................ ................................ ...........  6 
+3.2 Gestioni Separate ................................ ................................ ................................ ................................ ................................ .. 6 
+3.3 Fondi interni assicurativi ................................ ................................ ................................ ................................ .........................  6 
+3.4 Programma Open Fondo Pensione Aperto ................................ ................................ ................................ ................................ . 7 
+4. Rischi ambientali, sociali e di Governanc e ESG ................................ ................................ ................  7 
+5. Accordo con i gestori di Attivi ................................ ................................ ................................ .....  7 
+6. RUOLI E RESPONSABILITÀ ................................ ................................ ................................ ..........  9 
+6.1 Consiglio di Amministrazione  ................................ ................................ ................................ ................................ .................. 10 
+6.2 Alta Direzione ................................ ................................ ................................ ................................ ................................ ...... 10 
+6.3 Comitato per il Controllo Interno e i Rischi ................................ ................................ ................................ ................................ 11 
+6.4 Comitato Rischio Finanziario................................ ................................ ................................ ................................ ................... 12 
+6.5 Comitato ALM................................ ................................ ................................ ................................ ................................ ...... 12 
+6.6     Investimenti ................................ ................................ ................................ ................................ ................................ ......... 13 
+6.7      U. O. Investimenti finanziari................................ ................................ ................................ ................................ .................... 13 
+6.8    Direzione Investimenti di Gruppo e Direzione Rischi di Gruppo ................................ ................................ ................................ ....... 13 
+6.9   Gestore finanziario................................ ................................ ................................ ................................ ................................ ..14 
+7. REPORTING E SEGNALAZIONI ................................ ................................ ................................ ...  14 
+ALLEGAT I................................ ................................ ................................ ................................ ....  15 
+Allegato A - Definizioni e terminologia ................................ ................................ ................................ ................................ ............... 15 
+Allegato 1 - POLITICA DI VOTO 2022................................ ................................ ................................ ................................ .................. 17
+=== pagina 3 ===
+Politica di Impegno 
+investimenti 
+Pag. 3 di 36 Groupama 
+ 
+1. CONTESTO GENERALE 
+1.1 Premessa 
+Groupama Assicurazioni S.p.A. (di seguito, “Groupama” o la “Compagnia”) ritiene che rafforzare la 
+trasparenza societaria al fine di promuovere l’impegno a lungo termine degli investitori istituzionali e 
+assicurare adeguati flussi informativi nel rapporto contrattuale tra investitori istituzionali e gestori degli attivi 
+sia di rilevante importanza al fine di accrescere i benefici degli investitori e della Compagnia attraverso una 
+miglior comprensione delle strategie aziendali, nella prospettiva della creazione di valore nel medio e lungo 
+termine. 
+In considerazione di quanto precede e al fine di conformarsi agli artt. 124-quinquies, 124-sexies d. lgs. n. 58 
+del 1998 (di seguito “TUF”) e agli artt. 4 e 5 del Regolamento IVASS n. 46 del 17 novembre 2020 (di seguito 
+“Regolamento 46/2020”) il Consiglio di Amministrazione della Compagnia – su proposta del Presidente, 
+d’intesa con l’Amministratore Delegato, ha adottato la seguente politica di impegno e strategia d'investimento 
+degli investitori istituzionali e accordi con i gestori di attivi (di seguito, la “Politica”). 
+In particolare, il Regolamento IVASS n. 46/2020 prevede che gli “investitori istituzionali assicurativi” che 
+investano in azioni di società quotate in un mercato regolamentato italiano o di un altro Stato membro 
+dell’Unione Europea comunichino, tra le altre, le informazioni sulla strategia d’investimento azionario o, 
+qualora investano per il tramite di gestori di attivi, alcune informazioni riguardanti gli accordi di gestione.  
+Pertanto, il presente documento viene redatto ai sensi dell’art. 124 sexies del TUF così come richiamato 
+dall’art. 5 del Regolamento IVASS 46. 
+ 
+1.2 Obiettivi della Politica 
+La finalità di questa Politica è favorire l’adozione di comportamenti in linea con il principio di sana e prudente 
+gestione. 
+ 
+In particolare, la Politica definisce le modalità con cui la Compagnia monitora le società quotate da essa 
+partecipate sulle questioni di maggiore rilevanza, quali la strategia, i risultati finanziari e non finanziari, la 
+gestione del rischio, la struttura del capitale, l’impatto sociale, ambientale e il governo societario. Sono altresì 
+oggetto di questa politica le modalità con cui la compagnia interagisce e dialoga con le società partecipate, 
+esercita i diritti di voto e altri diritti connessi alle azioni, collabora con altri azionisti, comunica con i portatori 
+di interesse delle società partecipate e gestisce gli attuali e potenziali conflitti di interesse, anche per il tramite 
+di gestori di attivi. 
+Inoltre, la Politica definisce, in coerenza con la Politica degli investimenti di Groupama, gli elementi principali 
+della strategia di investimento azionario della Compagnia in relazione con il profilo e la durata delle proprie 
+passività, in particolare delle passività a lungo termine, nonché il modo in cui tali elementi contribuiscono al 
+rendimento a medio e lungo termine dei propri attivi.  
+1.3 Approvazione e data efficacia 
+La Politica in esame è approvata dal Consiglio di Amministrazione della Compagnia. 
+ 
+Il Consiglio di amministrazione sottopone la Politica ad una a revisione con frequenza almeno annuale al fine 
+di garantirne l’adeguatezza alla luce dell’evoluzione normativa, delle prassi nazionali ed internazionali e ogni 
+qual volta se ne ravvisi la necessità per il verificarsi di eventi e variazioni di portata rilevante. 
+ 
+La Politica e le relative modifiche e aggiornamenti sono pubblicati sul sito istituzionale di Groupama entro
+=== pagina 4 ===
+Politica di Impegno 
+investimenti 
+Pag. 4 di 36 Groupama 
+ 
+15 giorni dalla loro adozione. 
+ 
+Inoltre, ai sensi dell’art. 124-quinquies, comma 2 del TUF, la Compagnia rende disponibile ogni anno una 
+relazione annuale sulle le modalità di attuazione della Politica di Impegno. 
+ 
+1.4 Riferimenti normativi 
+La Politica è definita in modo conforme alla normativa nazionale e alla normativa europea.  
+ 
+Sul piano nazionale, i riferimenti normativi sono: 
+ 
+• Decreto Legislativo n. 58 del 24 febbraio 1998 - Testo unico delle disposizioni in materia di 
+intermediazione finanziaria; 
+• Decreto Legislativo n. 49 del 10 maggio 2019 - Attuazione della Direttiva 2017/828 del Parlamento 
+europeo e del Consiglio, del 17 maggio 2017, che modifica la Direttiva 2007/36/CE per quanto 
+riguarda l'incoraggiamento dell'impegno a lungo termine degli azionisti; 
+• Regolamento IVASS n. 46 del 17 novembre 2020 - in materia di trasparenza della Politica di impegno 
+e degli elementi di strategia di investimento azionario delle imprese di assicurazione o di 
+riassicurazione, ai sensi dell’articolo 124 novies, comma 3 del testo unico delle disposizioni in materia 
+di intermediazione finanziaria; 
+• Deliberazione Covip del 2 dicembre 2020. 
+ 
+A livello europeo, invece, i riferimenti normativi sono: 
+  
+• Direttiva 2007/36/CE del Parlamento europeo e del Consiglio dell’11 luglio 2007 - Shareholder Rights 
+Directive I (“SRD I”) relativa all’esercizio di alcuni diritti degli Azionisti di società quotate;  
+• Direttiva (UE) 2017/828 del Parlamento europeo e del Consiglio del 17 maggio 2017 - Shareholder 
+Rights Directive II (“SRD II”) che modifica la Direttiva 2007/36/CE per quanto riguarda 
+l'incoraggiamento dell'impegno a lungo termine degli azionisti. 
+ 
+2. POLITICA DI IMPEGNO 
+Al momento Groupama non investe direttamente in azioni di società quotate sul mercato regolamentato 
+italiano ma si avvale di un gestore di attivi, ragione per la quale le attività oggetto della politica 
+riguardanti a) il monitoraggio delle società partecipate su questioni rilevanti, quali la strategia, i risultati 
+finanziari e non finanziari, i rischi, la struttura del capitale, l’impatto sociale e ambientale e il governo 
+societario, b) il dialogo con le società partecipate, tramite l’esercizio dei diritti di voto e gli altri diritti 
+connessi alle azioni, e c) la collaborazione con altri azionisti o nella comunicazione con gli stakeholder 
+dell’impresa compresa la gestione dei potenziali conflitti di interesse attuali e potenziali sono svolte dal 
+gestore di attivi, in conformità agli accordi stipulati con lo stesso. 
+2.1 Modalità con cui sono monitorate le società partecipate 
+La Compagnia, in coerenza con gli obiettivi della presente Politica, si impegna a monitorare su base 
+continuativa e costante le società quotate da essa partecipate al fine di identificare, gestire e valutare 
+potenziali rischi e di tutelare la sicurezza, qualità, redditività e sostenibilità del portafoglio 
+complessivamente valutato e a tal fine ha stipulato uno specifico accordo con il gestore degli attivi che 
+trasmetterà alla Compagnia, su base periodica, le evidenze delle attività di monitoraggio svolte dal 
+gestore in conformità al mandato. 
+ 
+Al momento, la Compagnia non detiene investimenti che comportano il controllo o l’influenza notevole
+=== pagina 5 ===
+Politica di Impegno 
+investimenti 
+Pag. 5 di 36 Groupama 
+ 
+o investimenti azionari materiali/significativi, intendendosi come tali le partecipazioni in società in cui 
+Groupama Assicurazioni è rappresentata nel Consiglio di Amministrazione della Società oppure ha uno 
+status di osservatore nel Consiglio di Amministrazione,  pertanto non sono state adottate mis ure di 
+intervento attivo o escalation 
+ 
+2.2 Dialogo con le società partecipate 
+La Compagnia ritiene che l’instaurazione e il mantenimento di un dialogo trasparente, costante e 
+costruttivo con le società partecipate sia di rilevante importanza al fine di accrescere i benefici degli 
+investitori e della Compagnia attraverso una miglior comprensione delle rispettive strategie aziendali, 
+nella prospettiva della creazione di valore nel medio e lungo termine. 
+ 
+L’assemblea dei soci delle società partecipate, sia in forma ordinaria che straordinaria, rappresenta luogo 
+privilegiato e primario di interazione e dialogo. La Compagnia partecipa alle assemblee dei soci delle 
+società partecipate per il tramite del gestore di attivi, esercitando il diritto di voto in confo rmità agli 
+accordi presi con lo stesso. 
+ 
+2.3 Esercizio del diritto di voto 
+Il processo di esercizio del diritto di voto consiste nelle seguenti fasi principali:  
+ 
+- Valutazioni relative all’opportunità di esercitare il diritto di voto;  
+- Esercizio del diritto di voto;  
+- Archiviazione.  
+ 
+i) Opportunità di esercitare il diritto di voto 
+ 
+La valutazione relativa all’esercizio di voto è effettuata dal gestore di attivi sulla base dei criteri indicati 
+nella politica di voto dello stesso (vedi allegato 1), che la Compagnia ha previamente internamente 
+valutato e condiviso nei principi. 
+ 
+ii) Esercizio dei diritti di voto 
+ 
+Una volta che il gestore di attivi ha valutato positivamente l’esercizio del diritto di voto, salvo diverso 
+avviso della Compagnia, saranno organizzate da quest’ultima le attività necessarie per consentire al 
+gestore di partecipare alle assemblee.  
+ 
+iii) Archiviazione 
+ 
+Le Funzioni aziendali della Compagnia provvedono a conservare apposita documentazione da 
+cui risultano le attività svolte dal gestore degli attivi 
+ 
+2.4 Gestione del conflitto di interessi 
+La Compagnia è consapevole che possano sorgere conflitti di interesse in relazione alle società da essa 
+partecipate. 
+Per tale ragione Groupama si impegna ad adottare ogni presidio utile e ragionevole al fine di individuare, 
+controllare e gestire ogni potenziale conflitto di interessi. 
+Al fine gestire al meglio ogni potenziale conflitto di interessi, la Compagnia ha stipulato con il gestore delegato 
+una convenzione nella quale sono delineati i presidi adottati.
+=== pagina 6 ===
+Politica di Impegno 
+investimenti 
+Pag. 6 di 36 Groupama 
+ 
+3. STRATEGIA DI INVESTIMENTO 
+3.1 Strategia di investimento azionario 
+La strategia di investimento azionario, in coerenza con la Politica di Investimento di Groupama, viene definita 
+con modalità differenti in base alla tipologia di prodotto e nel migliore interesse dei contraenti, degli assicurati 
+e dei beneficiari, tenuto conto del contesto del mercato finanziario al momento dell’investimento e degli 
+scenari prospettici. La strategia di Investimento della Compagnia è declinata nel rispetto del principio della 
+persona prudente ed è differenziata, secondo un approccio flessibile e proporzionale, in funzione della 
+tipologia di investimento. 
+La gestione finanziaria di gran parte dei portafogli di Classe C e di Classe D (Ramo III – ad eccezione della 
+unit PIR e unit esterne – e Ramo VI) è stata delegata al gestore di Gruppo, Groupama Asset Management 
+Sgr (il “Gestore” o “GAM”), attraverso un mandato di gestion e, che recepisce pienamente la Politica di 
+Investimento adottata dalla Compagnia. 
+ 
+La Compagnia ritiene opportuno differenziare la descrizione della strategia di investimento azionario 
+distinguendo in base alla tipologia di portafoglio 
+ 
+3.2 Gestioni Separate  
+L’Asset Allocation è determinata con un approccio assicurativo di gestione integrata dell’attivo e del passivo 
+al fine di garantire una buona redditività nel breve-medio termine, tenuto conto della struttura degli impegni 
+assunti e dell’ammontare massimo d i capitale impegnabile, attraverso investimenti caratterizzati da un 
+adeguato livello di sicurezza, qualità, redditività, liquidità e disponibilità. 
+L’obiettivo di redditività è definito nel processo di pianificazione strategica e nelle successive fasi di 
+validazione, in modo che sia coerente con gli obiettivi di rischio e di copertura del requisito di capitale. 
+La determinazione dell’allocazione ottimale dipende dalle condizioni di mercato correnti e dalle ipotesi di 
+scenario formulate ma tiene anche conto dei costi di revisione del portafoglio effettivo in essere. 
+Poiché la gestione finanziaria ha portato, negli anni, a costruire un portafoglio di attività finanziarie 
+coerente con le caratteristiche e il profilo di rischio delle passività detenute, le scelte di investimento 
+riguardano, generalmente e in condizioni normali di mercato, i soli flussi netti da reinvestire. 
+Tali flussi sono allocati sulle asset class ammissibili in funzione degli obiettivi di redditività, del contesto del 
+mercato finanziario e dell’esigenza di disporre di strumenti di mercato monetario o attività finanziarie esigibili 
+a vista / liquide pari almeno a quanto previsto dal limite primario sulla liquidità riportato nell’allegato quadro 
+dei limiti e nel rispetto della riserva di liquidità. 
+Si rinvia alla Politica degli investimenti (link_____) per ulteriori dettagli circa l’Asset Allocation della Classe C 
+sull’orizzonte temporale della pianificazione strategica, la quale potrebbe essere oggetto di revisione durante 
+l’anno in corso, sia per effetto dell’affinamento dei processi di determinazione quantitativa dell’appetito al 
+rischio e della solvibilità, sia per effetto di materiali variazioni del contesto di mercato rispetto alle previsioni.  
+Per l’investimento azionario in titoli quotati si fa espressamente riferimento al quadro limiti indicato nella 
+politica sugli investimenti, che prevede un limite massimo di esposizione. L’investimento in partecipazioni 
+strategiche (che comportano il controllo o l’influenza notevole) viene deciso dal Consiglio di Amministrazione. 
+ 
+3.3 Fondi interni assicurativi 
+I portafogli finanziari a copertura dei contratti Unit di Ramo III sono investiti conformemente alla politica di 
+gestione così come riportata nel regolamento contrattuale. 
+La politica di gestione è f unzione della strategia di business nella fase di “concept” del prodotto, 
+eventualmente riformulata in caso di revisione del prodotto. La definizione delle caratteristiche dei 
+portafogli è conforme al principio della persona prudente e prevede investimenti  in attivi dei quali la 
+Compagnia è, in ogni caso, in grado di identificare, misurare, monitorare, gestire e controllare 
+adeguatamente i rischi.
+=== pagina 7 ===
+Politica di Impegno 
+investimenti 
+Pag. 7 di 36 Groupama 
+ 
+Gli obiettivi di rendimento atteso sono funzione delle caratteristiche del prodotto come riassunte, ove 
+presente, dal benchmark di riferimento o, altrimenti, dagli obiettivi di rischio o rendimento dichiarati nel 
+regolamento contrattuale. 
+L’indicazione nel mandato di gestione delle linee guida alla gestione finanziaria, dei limiti in termini di 
+esposizione sulle diverse asset class, settori, mercati, ecc. o la fissazione di limiti di rischio è finalizzata al 
+raggiungimento degli obiettivi di rendimento/rischio fissati. 
+A tal fine, in fase di “concept” del prodotto, vengono effettuate analisi preliminari, anche attraverso 
+simulazioni e back-testing, che consentono di individuare il portafoglio target, definire la strategia di gestione 
+e declinare i limiti operativi. 
+ 
+3.4 Programma Open Fondo Pensione Aperto 
+I portafogli finanziari a copertura dei contratti Unit di Ramo III sono investiti conformemente alla politica di 
+gestione così come riportata nel regolamento contrattuale. 
+La politica di gestione è funzione della strategia di business nella fase di “concept” del prodotto, 
+eventualmente riformulata in caso di revisione del prodotto. La definizione delle caratteristiche dei 
+portafogli è conforme al principio della persona prudente e prevede investimenti in attivi dei quali la 
+Compagnia è, in ogni caso, in grado di identificare, misurare, monitorare, gestire e contro llare 
+adeguatamente i rischi. 
+Gli obiettivi di rendimento atteso sono funzione delle caratteristiche del prodotto come riassunte, ove 
+presente, dal benchmark di riferimento o, altrimenti, dagli obiettivi di rischio o rendimento dichiarati nel 
+regolamento contrattuale. 
+L’indicazione nel mandato di gestione delle linee guida alla gestione finanziaria, dei limiti in termini di 
+esposizione sulle diverse asset class, settori, mercati, ecc. o la fissazione di limiti di rischio è finalizzata al 
+raggiungimento degli obiettivi di rendimento/rischio fissati. 
+A tal fine, in fase di “concept” del prodotto, vengono effettuate analisi preliminari, anche attraverso 
+simulazioni e back-testing, che consentono di individuare il portafoglio target, definire la strategia di gestione 
+e declinare i limiti operativi. 
+ 
+4. Rischi ambientali, sociali e di Governance ESG 
+La Compagnia si è impegnata a integrare i fattori ESG nei propri processi di investimento al fine di 
+controllare i rischi finanziari e finanziare la transizione, gestire i rischi per la sostenibilità  e gli 
+impatti negativi  dei propri investimenti e promuov ere l’impatto positivo dei fattori ESG nella 
+gestione finanziaria, in particolare partecipando alla lotta contro il riscaldamento globale e 
+contribuendo al finanziamento delle tre principali transizioni (demografica, digitale ed ecologica) e 
+a tal fine ha adottato una Carta Degli Investimenti Sostenibili in allegato alla Politica degli 
+Investimenti [LINK].  
+ 
+Nell’attuare la Politica d’impegno e nel promuovere il dialogo con le società di cui Groupama è 
+azionista, la Compagnia ha stipulato con GAM un accordo  che persegue l'obiettivo di ridurre il 
+rischio di sostenibilità dei propri investimenti, i cui ulteriori dettagli sono indicati nel paragrafo che 
+segue.  
+ 
+5. Accordo con i gestori di Attivi  
+La gestione dei portafogli di investimento di Classe C e del Fondo Pensione Aperto Open è stata delegata, 
+tramite mandato, a GAM. 
+GAM è tenuto ad agire in coerenza con i principi definiti dalla presente Politica e dalla Politica di Investimento 
+di Groupama, a fornire tempestive informazioni circa l’andamento della gestione e alle eventuali azioni che 
+intende intraprendere.
+=== pagina 8 ===
+Politica di Impegno 
+investimenti 
+Pag. 8 di 36 Groupama 
+ 
+Gli investimenti azionari hanno lo scopo di generare rendimenti aggiustati per il rischio, adeguati rispetto agli 
+obiettivi strategici fissati nella Politica degli investimenti. Prevalentemente queste posizioni rappresentano 
+investimenti sostenibili nel medio/lungo termine. A tal fine:  
+- GAM nella selezione dei titoli tiene in considerazione sia le metriche tradizionali dei fattori ESG 
+(Environmental, Social and Governance) ovvero se due titoli hanno eguali caratteristiche, verrà selezionato 
+quello con un rating ESG superiore;  
+- le Società in cui si investe vengono monitorate nel continuo attraverso l’analisi dei risultati conseguiti 
+rispetto a quanto dichiarato, dei loro piani strategici e di svil uppo e della loro esposizione ai rischi, 
+dell’attenzione posta sulle tematiche ambientali, sociali e di governance. Il monitoraggio periodico si basa 
+sull’analisi della documentazione messa a disposizione dalle Società selezionate, su analisi e report predisposti 
+dagli analisti, dalle Società di rating, da rating interno ESG e sulla base delle notizie diffuse dai principali 
+Provider. 
+Inoltre, GAM effettua l’analisi del portafoglio con riferimento ai rischi in materia di sostenibilità (ambientali, 
+sociali e di governance), calcola gli indicatori degli impatti ambientali (intensità di carbonio, quota verde - 
+secondo la tassonomia europea - e Net Environmental Contribution (indicatore NEC-I Care)), completati dal 
+calcolo dell’allineamento con l’obiettivo del portafoglio di limitare il riscaldamento globale a 2°.  
+GAM calcola rendimenti, volatilità e indicatori di rischio assoluti o rispetto ai benchmark di riferimento, se 
+presenti, al fine di valutare l’andamento dei singoli fondi interni.  
+Inoltre, al fine di dare attuazione alla politica di impegno con riferimento all’esercizio del diritto di voto per 
+gli investimenti azionari, GAM ha reso pubbliche le informazioni riguardanti il voto.  
+Il mandato di gestione con GAM disciplina le modalità con cui, nell’esecuzione del mandato, GAM opera in 
+conformità alle linee di indirizzo stabilite dalla Compagnia con riferimento alle caratteristiche di ciascun 
+portafoglio.  
+La Compagnia si impegna a monitorare attivamente e periodicamente l’operato di GAM e a valutarne la 
+coerenza rispetto al mandato e agli obiettivi di investimento, con particolare riguardo al rispetto dei limiti di 
+rischio, alla qualità del servizio erogato e ai risultati realizzati. Per il monitoraggio dei risultati finanziari sono 
+adottati intervalli di tempo coerenti con l’orizzonte temporale di medio-lungo periodo dell’asset allocation 
+strategica. In particolare, in tali attività di monitoraggio periodico, la Compagnia verificherà anche se: 
+(i) GAM continua ad allineare la strategia e le decisioni di investimento al profilo e alla durata delle 
+passività della Compagnia, in particolare delle passività a lungo termine; 
+(ii) GAM continua a prendere decisioni di investimento basate sulle valutazioni relative ai risultati 
+finanziari e non finanziari a lungo e medio termine delle società partecipate e a impegnarsi con 
+tali società al fine di migliorarne i risultati a medio e lungo termine nonché 
+(iii) le modalità con cui il metodo e l'orizzonte temporale di valutazione dei risultati di GAM e la sua 
+remunerazione per l'attività di gestione, sono in linea con il profilo e la durata delle passività 
+della Compagnia, in particolare delle passività a lungo termine, e tengono conto dei risultati 
+assoluti a lungo termine. 
+Negli incontri periodici di verifica dell’attività di gestione finanziaria posta in essere da GAM è, inoltre, fornita 
+evidenza delle operazioni in conflitto di interesse e delle valutazioni svolte da GAM nelle scelte di investimento 
+o, se del caso, di voto in caso di operazioni in conflitto. 
+Infine, per quanto riguarda le valutazioni pertinenti alle variabili non finanziarie, con particolare riferimento 
+alle linee guida per l’integrazione dei fattori ESG nelle strategie di investimento, la Compagnia monitora 
+l’attività di engagement e di voting svolta da GAM tramite appo siti presidi organizzativi che sono stati 
+concordati nell’accordo con GAM.
+=== pagina 9 ===
+Politica di Impegno 
+investimenti 
+Pag. 9 di 36 Groupama 
+ 
+In caso di evidenza di situazioni potenzialmente critiche viene data informativa immediata ai comitati di 
+governance del rischio finanziario, Comitato Rischio Finanziario e Comitato per il Controllo Interno e i Rischi) 
+per la definizione del piano d’azione. Sono previsti, inoltre, ulteriori obblighi di informazione privi di cadenza 
+periodica principalmente relativi all’andamento di mercato. Il flusso informativo è garantito attraverso la 
+tenuta di comitati, teleconferenze e ogni altra modalità di scambio idonea. 
+Ai fini della determinazione della remunerazione dovuta a GAM, la base di calcolo è determinata utilizzando 
+il valore di mercato totale di ogni portafogli o di ogni fondo mentre non sono previsti costi di rotazione del 
+portafoglio. 
+ 
+Il mandato con GAM ha durata indeterminata e può essere risolto in qualsiasi momento senza penali. In tal 
+modo si garantisce la possibilità di misurare le performance di gestione su un orizzonte temporale superiore 
+a un anno. 
+Infine, la Società ha sottoscritto quote di fondi di investimento alternativi (“FIA”) gestiti da alcuni gestori di 
+attivi UE autorizzati alla prestazione del servizio di gestione collettiva. Alcuni di tali fondi gestiti hann o 
+investito o potrebbero investire in emittenti quotati sul mercato regolamentato europeo. La Società mantiene 
+un costante monitoraggio degli investimenti di tali FIA, assicurando il rispetto dei limiti di rischio e 
+investimento nonché le varie condizioni indicati nell’accordo di sottoscrizione con il relativo gestore. Inoltre, 
+con frequenza annuale, la Società valuta gli accordi di sottoscrizione attraverso la verifica della coerenza 
+della politica di impegno degli stessi, disponibile sui loro siti, con la presente Politica di Impegno; assicura 
+nel continuo un canale di comunicazione con i gestori per approfondire le modalità di attuazione della politica 
+di questi ultimi rispetto agli investimenti azionari effettuati dai FIA gestiti; richiede, infine, che i  gestori 
+condividano preliminarmente con la Società eventuali azioni che intendono intraprendere (come ad esempio 
+l’eventuale partecipazione all’assemblea e l’esercizio di diritto di voto). Alla data di redazione della presente 
+Politica di Impegno solo due FIA hanno investito in emittenti quotati sul mercato regolamentato europeo e 
+le suddette esposizioni sono residuali rispetto all’asset allocation complessiva effettuata dai relativi gestori e 
+rispetto al totale aggregato degli investimenti indiretti effettuati dalla Società per il tramite di gestori di attivi.  
+6. RUOLI E RESPONSABILITÀ 
+Il processo di investimento della Compagnia parte dalla definizione della propensione e della tolleranza al 
+rischio e declina le asset class investibili sulla base dei criteri di investimento e del quadro generale dei limiti 
+definiti nel presente documento. 
+La politica strategica degli investimenti è definita dal Consiglio di Amministrazione in modo da conseguire il 
+profilo rischio/rendimento desiderato, nel rispetto delle linee guida del Gruppo in tema di concentrazione e 
+dei limiti normativi vigenti. 
+I Comitati di Rischio Finanziario e ALM assicurano l’attuazione delle politiche in materia di investimenti.La 
+gestione finanziaria di gran parte dei portafogli di Classe C e di Classe D (Ramo III – ad eccezione della unit 
+PIR e unit esterne – e Ramo VI) è stata delegata al gestore di Gruppo, Groupama Asset Management Sgr 
+(il Gestore), attraverso un mandato di gestione, regolarmente firmato da entrambe le parti, che recepisce 
+pienamente quanto stabilito nel presente documento. 
+Al Gestore è demandata la scelta dei singoli titoli/strumenti finanziari nei quali investire, all’interno delle 
+classi di investimento ammissibili e nel rispetto dei limiti operativi fissati. Il processo  decisionale è 
+formalizzato in Politiche interne adottate da Groupama AM in conformità alla normativa vigente in tema di 
+gestione finanziaria e alle linee guida del Gruppo. 
+La Compagnia condivide le linee guida di gruppo in tema di attenzione ai fattori di sostenibilità, integrando 
+una politica di investimento basata su criteri ambientali, sociali e di governance nella selezione degli
+=== pagina 10 ===
+Politica di Impegno 
+investimenti 
+Pag. 10 di 36 Groupama 
+ 
+strumenti con l’obiettivo  di sostenere la transizione ecologica ed energetica verso un’economia più 
+sostenibile. Per ulteriori approfondimenti, si rimanda alla Carta degli Investimenti Sostenibili. 
+Investimenti impartisce al Gestore le linee guida e verifica periodicamente il processo di investimento attuato 
+dal Gestore e le operazioni effettuate al fine di assicurarne la coerenza con la presente politica. 
+Il mandato di gestione è considerato attività esternalizzata essenziale ai sensi del Regolamento ISVAP n. 
+20/2008 ed è pertanto soggetto a tutti gli obblighi previsti in materia. 
+Di seguito si descrivono ruoli e responsabilità degli organi/servizi aziendali coinvolti nella gestione degli 
+investimenti. 
+6.1 Consiglio di Amministrazione 
+Al Consiglio di Amministrazione è riservata la definizione della politica degli investimenti, e ne valuta, con 
+frequenza almeno annuale, l’adeguatezza in relazione alla complessiva attività svolta dalla Compagnia, alla 
+tolleranza al rischio e al livello di patrimonializzazione posseduto. L’organo amministrativo assicura, anche 
+con riguardo alle attività esternalizzate,  la conformità della gestione patrimoniale e finanziaria della 
+Compagnia alla politica di gestione degli investimenti e dei rischi adottata, alle leggi e ai regolamenti, 
+richiedendo che i sistemi impiegati forniscano accurate e tempestive analisi sulle esposizioni al rischio 
+derivanti dalle scelte d’investimento effettuate, con particolare riguardo  a strumenti finanziari derivati e 
+strumenti finanziari con caratteristiche o effetti analoghi, cartolarizzazioni, attività di investimento occasionali 
+se comportano un rischio significativo o determinino un cambiamento del profilo di rischio, altri attivi ritenuti 
+complessi. 
+Il Consiglio di Amministrazione è informato, secondo cadenze fissate per il tramite del Comitato per il 
+Controllo Interno e i Rischi e del Comitato Rischio Finanziario, sulle esposizioni e sui rischi degli investimenti, 
+riceve tempestiva informativa riguardo le criticità più significative e sull’esistenza di potenziali conflitti di 
+interesse, impartendo le direttive per l’adozione di misure correttive. L’informativa è resa attraverso l’impiego 
+di una reportistica adeguata, che permetta una corretta valutazione dell’effettivo livello di rischio cui è 
+esposta la Compagnia. Specifica e separata evidenza è fornita con riguardo all’esposizione complessiva in 
+strumenti finanziari derivati e strumenti finanziari con caratteristiche o effetti analoghi, cartolarizzazioni, 
+attività di investimento occasionali con indicazione dell’impatto sul profilo di rischio della Compagnia, altri 
+attivi ritenuti complessi nonché sulle esposizioni individuali di importo rilevante, tenuto conto delle correlazioni 
+con gli altri strumenti finanziari in portafoglio. 
+ 
+6.2 Alta Direzione 
+L’Alta Direzione è responsabile, sulla base delle direttive impartite dal Consiglio di Amministrazione, 
+dell’attuazione, del mantenimento e del monitoraggio della politica degli investimenti. In particolare, nel 
+rispetto della presente politica e dei requisiti regolamentari, l’Alta Direzione: 
+• attua gli obiettivi di investimento fissati dal Consiglio di Amministrazione, tenendo conto anche del 
+contesto dei mercati finanziari. A tal fine vengono individuati nel dettaglio, anche con il contributo 
+della Funzione Risk Management, gli investimenti ammissibili, ivi inclusi i prodotti finanziari derivati 
+e gli strumenti finanziari con caratteristiche o effetti analoghi, e i relativi limiti di investimento, quali 
+quelli riferiti al mercato di negoziazione, al rating, all’ammontare della specifica emissione o alla 
+capitalizzazione minima, ai quantitativi di sottoscrizione massimi e a quelli di concentrazione; 
+• specifica e formalizza, anche con il contributo della Funzione Risk Management, ogni altra restrizione 
+da assegnare alle strutture operative, quali i limiti di diversificazione, i limiti per ciascuna fonte di 
+rischio di concentrazione rilevante, quelli di tolleranza al rischio e quelli che attengono alla 
+delimitazione delle controparti utilizzabili per la negoziazione. In tale ambito, separata e specifica 
+evidenza è fornita con riguardo ai limiti di operatività sugli strumenti finanziari derivati, strumenti 
+finanziari con caratteristiche o effetti analoghi, cartolarizzazioni, attività di investimento occasionali,
+=== pagina 11 ===
+Politica di Impegno 
+investimenti 
+Pag. 11 di 36 Groupama 
+ 
+altri attivi ritenuti complessi; 
+• definisce, anche con il contributo della Funzione Risk Management, gli indicatori di rischio; 
+• individua in coerenza con le direttive del Consiglio di Amministrazione, i soggetti autorizzati ad 
+effettuare le transazioni con indicazione dei relativi limiti operativi; 
+• stabilisce, anche con il contributo della Funzione Risk Management, la reportistica su materie 
+attinenti all’area finanza da impiegare per le comunicazioni periodiche al Consiglio di 
+Amministrazione e per quelle da inviare alle unità organizzative interessate; 
+• definisce e rende note alle unità organizzative interessate le procedure operative interne dell’area 
+finanza, con particolare riguardo a quelle relative a: 
+o l’impiego di nuove forme di investimento e l’utilizzazione di nuove controparti; 
+o l’aggiornamento della valutazione del merito di credito degli strumenti in 
+portafoglio; 
+o le azioni da intraprendere nelle ipotesi in cui si verifichino superamenti dei limiti operativi 
+assegnati; 
+o l’analisi dei rischi e delle esposizioni con individuazione del soggetto responsabile della 
+valutazione; 
+• propone al Consiglio di Amministrazione, anche alla luce delle indicazioni della Funzione Risk 
+Management, eventuali modifiche alla politica degli investimenti, anche tenuto conto dell’evolversi 
+delle condizioni di mercato; 
+• dà attuazione alle indicazioni del Consiglio di Amministrazione in ordine alle misure da adottare per 
+correggere le anomalie riscontrate e apportare miglioramenti. 
+• In particolare, verifica le procedure amministrative adottate dalla Compagnia per la movimentazione, 
+custodia e contabilizzazione degli strumenti finanziari, accertando le disposizioni impartite agli enti 
+depositari in ordine all’invio periodico degli estratti conto con le opportune evidenze di eventuali 
+vincoli; 
+• in occasione dei periodici accertamenti, verifica la libertà da vincoli e la piena disponibilità degli attivi 
+destinati alla copertura delle riserve tecniche, ricorrendo, anche con metodologie a campione, 
+all’acquisizione di idonee dichiarazioni in tal senso da parte del depositario; 
+• completa le verifiche sui titoli operando il necessario riscontro con il registro delle attività a copertura 
+delle riserve tecniche; 
+• segnala al Consiglio di Amministrazione le eventuali anomalie riscontrate nell’ambito delle verifiche 
+effettuate, sollecitando idonee misure correttive, documentando adeguatamente le verifiche e le 
+relative risultanze. 
+ 
+6.3 Comitato per il Controllo Interno e i Rischi 
+Il Comitato ha funzioni consultive e propositive nei confronti del Consiglio di Amministrazione. La funzione 
+principale del Comitato è quella di assistere il Consiglio di Amministrazione nella determinazione delle linee 
+di indirizzo del sistema di controllo interno e gestione dei rischi, nella verifica periodica della sua adeguatezza 
+e del suo effettivo funzionamento, nell’identificazione e gestione dei principali rischi aziendali. 
+In particolare, nell’ambito oggetto della presente politica, il Comitato dovrà esprimere pareri su specifici 
+aspetti inerenti alla identificazione dei principali rischi aziendali nonché alla progettazione, realizzazione e 
+gestione del sistema di controllo interno. 
+Il Comitato per il Controllo Interno e i Rischi, inoltre esamina, per informazione la reportistica trimestrale sui 
+rischi finanziari redatta dalla Funzione Risk Management, che ha l’obiettivo di informare il Consiglio di 
+Amministrazione riguardo le attività di monitoraggio periodiche sul portafoglio finanziario e sul rispetto dei 
+livelli di Propensione e Tolleranza al rischio svolte dalla Funzione Risk Management.
+=== pagina 12 ===
+Politica di Impegno 
+investimenti 
+Pag. 12 di 36 Groupama 
+ 
+Relativamente ai rischi finanziari, il Comitato per il Controllo Interno e i Rischi prende atto delle decisioni 
+adottate dal Comitato Rischio Finanziario fornendo, eventualmente, le proprie osservazioni. 
+ 
+6.4 Comitato Rischio Finanziario 
+Il Comitato Rischio Finanziario verifica che la politica di gestione del rischio finanziario sia attuata nel rispetto 
+della vigente regolamentazione nonché delle indicazioni fornite in materia dal Consiglio di Amministrazione e 
+dal Gruppo, assicurando idonea nonché tempestiva informativa al Comitato Rischi sul monitoraggio delle 
+attività poste in essere per la gestione dei rischi finanziari. 
+Tale Comitato, la cui attività è disciplinata da apposito regolamento soggetto ad approvazione del Consiglio 
+di Amministrazione, si riunisce bimestralmente od allorquando le circostanze lo dovessero richiedere. 
+Il Comitato Rischio Finanziario ha funzioni consultive e decisionali. In particolare, tale Comitato: 
+• definisce le strategie di investimento e i livelli di rischio/rendimento dei portafogli gestiti, sulla base 
+delle analisi ALM effettuate dalle strutture preposte; 
+• elabora le proposte di asset allocation da sottoporre all’approvazione del Consiglio di 
+Amministrazione; 
+• approva/analizza l’informativa delle analisi di Due Diligence per gli strumenti complessi; 
+• assicura il mantenimento di un’adeguata politica per la selezione dei Gestori Finanziari e il 
+monitoraggio dell’attività del Gestore Finanziario Delegato; 
+• assicura il mantenimento di idonee metodologie di gestione degli attivi e dei passivi e di selezione 
+degli investimenti diretti; 
+• assicura idonea nonché tempestiva informativa al Consiglio di Amministrazione circa l’esposizione ai 
+rischi d’investimento, il superamento dei limiti di investimento deliberati nel presente documento e 
+le eventuali criticità riscontrate anche al di fuori delle cadenze prefissate. 
+I rischi connessi alle procedure, agli strumenti o alle risorse umane coinvolte nelle attività descritte, non 
+rientrano nell’ambito di gestione del Comitato. 
+6.5 Comitato ALM 
+La missione del Comitato è: 
+• assicurare il mantenimento di idonee metodologie di gestione integrata degli attivi e dei passivi, 
+analizzare i report ALM prodotti da Investimenti e Attuariato Riserve Vita e Danni 
+• esaminare i risultati di rendimento realizzati rispetto a quelli attesi 
+• formulare linee guida sulla strategia di gestione integrata delle attività e delle passività 
+• richiedere test e analisi ad hoc per valutare le proposte strategiche prese in considerazione 
+• validare le risultanze delle analisi e formulare le strategie ALM 
+• comunicare ai Comitati competenti le strategie per le attuazioni. 
+ 
+Il Comitato inoltre facilita il coordinamento informativo ed operativo delle unità organizzative della 
+Compagnia coinvolte nel monitoraggio dei rischi ALM e propone al Comitato Rischio Finanziario eventuali 
+modifiche al quadro di gestione dei rischi finanziari in vigore. 
+Il Comitato agisce nel rispetto della vigente regolamentazione nonché delle indicazioni fornite in materia dal 
+Gruppo e dal Consiglio di Amministrazione e riporta gerarchicamente all’Amministratore Delegato/Comitato 
+Endoconsiliare per il Controllo Interno e i Rischi.
+=== pagina 13 ===
+Politica di Impegno 
+investimenti 
+Pag. 13 di 36 Groupama 
+ 
+6.6     Investimenti 
+In materia di gestione del rischio di investimento, Investimenti 
+• è responsabile della politica e della gestione del rischio; 
+• relaziona l’Alta Direzione ed è responsabile della reportistica; 
+• è responsabile della manutenzione dei mandati di gestione al fine di assicurarne la coerenza con le 
+linee guida definite nel presente documento, della conduzione dei rapporti con il gestore 
+finanziario, dell’allineamento dello stesso al mutato contesto normativo, della verifica circa 
+l’esattezza dei calcoli relativi alle commissioni di gestione e di tutte le attività di controllo dell’operato 
+del gestore finanziario; 
+• può attivare, previe adeguate verifiche, operazioni in strumenti derivati o investimenti con 
+caratteristiche o effetti analoghi, attivi complessi, investimenti occasionali sotto determinate 
+condizioni dettagliate nel seguito del documento e comunque previa autorizzazione del Comitato 
+Rischio Finanziario; 
+• analizza e valuta i rischi relativi alla gestione finanziaria sulla base delle evidenze prodotte da U.O. 
+Investimenti Finanziari; 
+• effettua le analisi a supporto delle decisioni di investimento in attività finanziarie complesse o 
+investimenti occasionali, finalizzate a valutarne la redditività, l’impatto sul livello di sicurezza, qualità, 
+liquidità e disponibilità del portafoglio finanziario, l’i mpatto sul profilo rischio -rendimento del 
+portafoglio finanziario e la coerenza con le caratteristiche e il profilo di rischio delle passività; 
+• con il contributo della Funzione Risk Management, deve fornire, indipendentemente dalle cadenze 
+prefissate, idonea nonché tempestiva informativa al Comitato Rischio Finanziario circa l’esposizione ai 
+rischi di investimento e le eventuali criticità riscontrate; 
+• in caso di sforamento dei limiti, ne approfondisce la natura e le motivazioni e informa 
+tempestivamente il Comitato ALM, il Comitato Rischio Finanziario e il Comitato per il Controllo 
+Interno e i Rischi. 
+ 
+6.7      U. O. Investimenti finanziari 
+ 
+In materia di gestione del rischio di investimento, U.O Investimenti Finanziari: 
+• monitora e misura i rischi relativi alla gestione finanziaria tramite metodologie che prevedono analisi 
+di: stress test, differenziale di duration, copertura dei tassi minimi garantiti e ottenimento dei tassi 
+target, asset allocation e ulteriori analisi strategiche. Tali analisi sono inviate all’Alta Direzione e alla 
+Funzione Risk Management, e possono formare la documentazione di supporto durante le 
+discussioni del Comitato ALM; 
+• pone in essere  delle attività di monitoraggio dell’esposizione in caso di scostamento dell’Asset 
+Allocation effettiva dall’Asset Allocation Strategica, i cui esiti sono discussi durante il Comitato Rischio 
+Finanziario; 
+• effettua il controllo di I livello dei limiti di investimento fissati in questa politica; in caso di sforamento 
+dei limiti, ne approfondisce la natura e le motivazioni; informa Investimenti. 
+ 
+6.8    Direzione Investimenti di Gruppo e Direzione Rischi di Gruppo 
+In materia di gestione del rischio di investimento, la Direzione Investimenti di Gruppo: 
+• partecipa ad incontri settimanali, via teleconferenza, nell’ambito della conduzione delle attività di 
+gestione del portafoglio finanziario; 
+• contribuisce al monitoraggio dei rischi relativi alla gestione fi nanziaria mediante opportuna  
+reportistica fornita durante il Comitato Rischio Finanziario;
+=== pagina 14 ===
+Politica di Impegno 
+investimenti 
+Pag. 14 di 36 Groupama 
+ 
+• contribuisce alla definizione dell’asset allocation strategica ed all’applicazione della tattica nel breve 
+periodo; 
+• può richiedere alla Compagnia di effettuare opportuni studi di approfondimento in merito a tematiche 
+legate alla gestione del portafoglio finanziario ed a tematiche ALM. 
+ 
+6.9   Gestore finanziario 
+Il Gestore delegato: 
+• attua la gestione finanziaria della quasi totalità dei portafogli di attività finanziarie della Compagnia, 
+distintamente per il Ramo Vita e per il Ramo Danni, nei termini e alle condizioni definite nel 
+mandato di gestione e delle linee guida volta a volta impartite dalla Compagnia per il tramite di 
+Investimenti; 
+• nel caso di operazioni aventi a oggetto strumenti non espressamente previsti nella struttura dei limiti 
+declinati nel presente documento, in caso di operazioni in conflitto di interesse, di investimenti in 
+strumenti finanziari derivati e assimilabili o investimenti complessi, condivide le finalità e l’opportunità 
+di tali operazioni con U.O. Investimenti Finanziari e la Funzione Risk Management, per richiedere 
+l’autorizzazione al Comitato Rischio Finanziario; 
+• predispone la reportistica periodica sull’attività di investimento per illustrare la strategia 
+implementata, i risultati conseguiti relativamente agli obiettivi fissati. 
+ 
+7. REPORTING E SEGNALAZIONI 
+ 
+Tutte le Unità Organizzative coinvolte, per gli aspetti di rispettiva competenza, nell’applicazione della 
+presente politica sono tenute a comunicare, senza indugio, alle funzioni di controllo, per gli aspetti di rispettiva 
+competenza, qualsiasi fatto rilevante per gli adempimenti previsti. 
+I flussi informativi tra i soggetti incaricati dell’operatività aziendale e quelli incaricati dei controlli, su differenti 
+livelli, devono essere finalizzati a facilitare lo svolgimento dei compiti assegnati in un clima di collaborazione 
+tra le varie unità organizzative e funzioni e di ottimizzazione delle attività svolte. 
+La condivisione delle informazioni deve inoltre favorire la segnalazione di eventuali criticità, riscontrate a 
+seguito dei controlli effettuati con riferimento a specifici ambiti operativi, affinché siano tempestivamente 
+attivati i meccanismi di escalation verso l’Alta Direzione e gli Organi Sociali, con particolare riferimento alle 
+situazioni di maggiore gravità.Al fine di garantire una corretta, completa e tempestiva conoscenza da parte 
+degli organi aziendali dell’attività di gestione degli investimenti, nonché dei rischi ad essa connessi, sono 
+previsti specifici flussi informativi nei confronti dell’Alta Direzione e del Consiglio di Amministrazione. 
+Tali flussi informativi sono finalizzati, tra l’altro, a consentire di definire e valutare se siano stati raggiunti gli 
+obiettivi strategici fissati nonché a misurare l’esposizione dei rischi gravanti sul patrimonio aziendale, in modo 
+da sottoporre ad eventuale revisione la presente politica. Tali flussi informativi sono dettagliati in allegato 
+alla presente politica, con indicazione della tempistica e dei Responsabili della loro produzione. 
+Per il dettaglio dei flussi informativi si rimanda al capitolo 5 della presente Politica.
+=== pagina 15 ===
+Politica di Impegno 
+investimenti 
+Pag. 15 di 36 Groupama 
+ 
+ALLEGATI 
+ 
+Allegato A - Definizioni e terminologia 
+ 
+Di seguito sono riportate le definizioni dei termini maggiormente utilizzati all’interno del documento. 
+ 
+Alta Direzione: L’Alta Direzione è composta dagli Amministratori Delegati, dal Direttore Generale e dai Vice 
+Direttori Generali, in quanto responsabili ad alto livello del processo decisionale e di attuazione delle strategie. 
+Essa è responsabile dell'attuazione, del mantenimento e del monitoraggio del sistema di governo societario, 
+coerentemente con le direttive dell’organo amministrativo e nel rispetto dei ruoli e dei compiti ad essa 
+attribuiti, anche a livello di gruppo in quanto Alta direzione dell’ultima società controllante italiana.  
+Comitato Direttivo: Il Comitato Direttivo è l’istanza attraverso la quale l’Alta Direzione, composta dagli 
+Amministratori Delegati, dal Direttore Generale e dai Vice-Direttore Generale, effettua la declinazione delle 
+scelte strategiche definite dall’organo amministrativo e svolge le attività di attuazione, mantenimento e 
+monitoraggio del sistema di governo societario, coerentemente con le direttive dell’organo amministrativo e 
+nel rispetto dei ruoli e dei  compiti ad essa attribuiti. Partecipano al Comitato Direttivo, insieme all’Alta 
+Direzione, i Direttori e i Responsabili delle Funzioni da essa identificati. 
+Comitato di Asset Liabilities Management (ALM): Il Comitato riceve il suo mandato dall’Alta Direzione 
+della Compagnia, e svolge la sua attività all’interno del quadro di gestione dei rischi finanziari, cosi come 
+definito dal Comitato Rischio Finanziario, approvato dal Consiglio di Amministrazione e rivisto almeno 
+annualmente all’interno delle Politiche in materia di investimenti. La missione del Comitato è di attuare la 
+politica di gestione delle attività e delle passività, facilitando il coordinamento informativo ed operativo delle 
+unità organizzative della Compagnia coinvolte nel monitoraggio dei rischi ALM e di proporre al Comitato 
+Rischio Finanziario eventuali modifiche al quadro di gestione dei rischi finanziari in vigore. Il Comitato agisce 
+nel rispetto della vigente regolamentazione nonché delle indicazioni fornite in materia dal Gruppo e dal 
+Consiglio di Amministrazione e riporta gerarchicamente al Comitato Rischio Finanziario. 
+Comitato per il Controllo Interno e i Rischi: Organo, nominato dal Consiglio di Amministrazione della 
+Compagnia, che assiste il CdA nella determinazione delle linee di indirizzo dei sistemi di controllo interno e 
+di gestione dei rischi, al quale il CdA affida funzioni consultive e propositive ed il compito di svolgere indagini 
+conoscitive. In particolare, il CCIR assiste il CdA nella determinazione delle linee di indirizzo del sistema di 
+controllo interno e gestione dei rischi, nella verifica periodica della sua adeguatezza e del suo effettivo 
+funzionamento, e nell’identificazione e gestione dei principali rischi della società Groupama Assicurazioni. 
+Comitato Rischio Finanziario: La composizione ed il funzionamento del Comitato per il Rischio Finanziario 
+sono definiti dal Comitato per il Controllo Interno   e Rischi su delega del Consiglio di Amministrazione della 
+Compagnia. È responsabile della definizione del quadro generale di gestione dei rischi finanziari della 
+Compagnia e della garanzia che la struttura della Compagnia sia adeguata a tale quadro generale.
+=== pagina 16 ===
+Politica di Impegno 
+investimenti 
+Pag. 16 di 36 Groupama 
+ 
+ 
+Funzione Risk Management: Responsabile del monitoraggio dei rischi principali della Compagnia, 
+contribuisce al monitoraggio dei rischi principali a livello di Gruppo e riporta al Consiglio di Amministrazione, 
+attraverso il Comitato  per il Controllo Interno e i Rischi. Tale funzione concorre alla definizione delle 
+metodologie di misurazione dei rischi e dei limiti operativi, ha il compito di validare i flussi informativi 
+dell’attività di monitoraggio dei rischi, di predisporre la reportistica per i vertici aziendali e di verificare la 
+coerenza dei modelli di misurazione dei rischi con l’operatività svolta dall’azienda. 
+Organo amministrativo: il Consiglio di Amministrazione della Compagnia Groupama Assicurazioni S.p.A. 
+SCR: Solvency Capital Requirement 
+Sistema dei Controlli interni: insieme delle regole, delle procedure e delle strutture organizzative volte 
+ad assicurare il corretto funzionamento ed il buon andamento dell’impresa e a garantire, con un ragionevole 
+margine di sicurezza l’efficienza e l’efficacia dei processi aziendali, l’adeguato controllo dei rischi attuali e 
+prospettici, la tempestività del sistema di reporting delle informazioni aziendali, l’attendibilità e l’integrità 
+delle informazioni contabili e gestionali, la salvaguardia del patrimonio anche in un’ottica di medio-lungo 
+periodo, la conformità dell’attività dell’impresa alla normativa vigente, alle direttive e alle procedure 
+aziendali.
+=== pagina 17 ===
+Politica di Impegno 
+Pag. 17 di 36 
+ 
+Allegato 1 - POLITICA DI VOTO 2022  
+ 
+PREFAZIONE 
+ 
+INVESTIMENTI RESPONSABILI PER PERFORMANCE SOSTENIBILI 
+Groupama AM è uno dei pionieri della finanza sostenibile dal 2001. Tale approccio rientra nel suo obbligo 
+fiduciario, con l'obiettivo di favorire lo sviluppo di risparmi a lungo termine per un finanziamento più 
+responsabile e sostenibile dell’economia. 
+ 
+Groupama AM crede nell'importanza di concentrare i propri investimenti su società di qualità che riconoscano 
+le proprie responsabilità nei confronti di tutte le parti interessate, non soltanto dei propri azionisti. 
+Dall'inizio degli anni 2000, Groupama AM integra sistematicamente l'analisi dei fattori ambientali, sociali e di 
+governance (ESG) nella propria analisi finanziaria. Le basi di questo approccio sono solide e più che mai 
+adattate alle esigenze del mondo degli investimenti post-crisi finanziaria 
+ 
+UNA POLITICA DI VOTO ESIGENTE 
+L’assemblea generale annuale offre alle aziende un'opportunità unica per comunicare e rendere conto ai 
+propri azionisti, che richiede un elevato livello di trasparenza. 
+ 
+Le votazioni in sede di assemblea generale annuale degli azionisti sono parte integrante del processo di 
+gestione patrimoniale e costituiscono una componente chiave nella strategia ESG di G roupama AM, in 
+particolare per quanto riguarda il dialogo aziendale e il coinvolgimento nelle questioni di governance. 
+ 
+Il rispetto degli standard di buona governance è essenziale affinché gli organi esecutivi e di gestione operino 
+in modo efficace, sostenendo la crescita degli investimenti a lungo termine. Groupama AM ritiene infatti che 
+la qualità della governance sia un indicatore precoce del rischio: le società con una "governance carente" 
+hanno maggiori probabilità di presentare il rischio di non gestire i propri rischi operativi, reputazionali e 
+finanziari. 
+  
+Se questi rischi si concretizzano, possono avere un impatto significativo sulla valutazione delle attività di una 
+società, nonché sul suo rating. 
+ 
+È importante che tutti i membri del Consiglio o i  membri del Consiglio di Sorveglianza partecipino alle 
+assemblee generali annuali e che il Consiglio di amministrazione spieghi le delibere in modo che gli azionisti 
+possano analizzare le loro implicazioni e le questioni in gioco prima di votare. 
+ 
+La politica di voto di Groupama AM viene rivista ogni anno per prendere in considerazione eventuali sviluppi 
+legali e normativi, cambiamenti nei codici di governance e buone pratiche, nonché raccomandazioni derivanti 
+da controlli interni. Questo è il motivo per il quale l'applicazione della politica di voto può essere adattata 
+per tenere conto delle circostanze specifiche di ciascuna società.
+=== pagina 18 ===
+Politica di Impegno 
+Pag. 18 di 36 
+ 
+ 
+ 
+PRINCIPI GUIDA 
+1. TRATTAMENTO EQUO DI TUTTI GLI AZIONISTI 
+Il rispetto degli interessi di tutti gli azionisti, sia di maggioranza che di minoranza, è un principio essenziale 
+della politica di governo societario. 
+ 
+2. EQUILIBRIO DI POTERI 
+La buona governance richiede un equilibrio di poteri tra organi esecutivi e di controllo, al fine di garantire 
+un quadro favorevole per scamb i e opinioni divergenti. I due sistemi di governance più comunemente 
+utilizzati sono quello dualistico (Consiglio di Amministrazione e Consiglio di Sorveglianza) e monistico 
+(Amministratore Delegato/Consiglio di Amministrazione). 
+ 
+Groupama AM non esprime alcuna preferenza per nessuno dei due sistemi. Per quanto riguarda in particolare 
+l'equilibrio di poteri, è opportuno riconoscere che mentre una struttura a livello unico (struttura monistica) 
+può offrire un reale equilibrio di poteri, la struttura a due li velli (dualistica) lo impone attraverso una 
+separazione delle funzioni di gestione e di vigilanza, nonché per il fatto che non sono presenti amministratori 
+esecutivi nel consiglio.  
+Secondo Groupama AM, la composizione degli organi di controllo deve garantire un sapiente mix di 
+indipendenza, aree di competenza diverse, esperienza e disponibilità.  
+ 
+3. REMUNERAZIONE EQUA E TRASPARENTE DEI DIRIGENTI 
+La politica di remunerazione degli amministratori esecutivi deve essere trasparente e comunicata prima 
+dell'assemblea generale. Essa deve essere soggetta a criteri pertinenti e obiettivi di performance quantificati. 
+ 
+Nel 2013 il codice AFEP-Medef ha introdotto un voto consultivo sulla remunerazione degli amministratori 
+esecutivi. Tale sistema è stato rafforzato alla fine del 2016 da un quadro legislativo più rigoroso: la legge 
+Sapin 2, che prevede il voto obbligatorio degli azionisti sulla politica di remunerazione a partire 
+dall'assemblea generale annuale 2017.  
+ 
+4. INTEGRITÀ DELLE INFORMAZIONI FINANZIARIE DIVULGATE DALLA SOCIETÀ 
+Le informazioni finanziarie devono essere accessibili, corrette e coerenti entro i termini regolamentari. La 
+strategia presentata deve essere comprensibile e stabile in tutti i documenti messi a disposizione degli 
+azionisti (relazione annuale, documento di riferimento, comunicati stampa, ecc.). 
+ 
+5. GESTIONE PRUDENTE DEL CAPITALE 
+La distribuzione offerta agli azionisti deve essere giustificata e in linea con la strategia e le prospettive della 
+società. Deve inoltre essere coerente con i livelli di distribuzione del settore di attività.
+=== pagina 19 ===
+Politica di Impegno 
+Pag. 19 di 36 
+ 
+ 
+ 
+6. RICONOSCIMENTO DA PARTE DELLA SOCIETÀ DELLA PROPRIA RESPONSABILITÀ SOCIALE D’IMPRESA 
+E AMBIENTALE NEI CONFRONTI DELLE PARTI INTERESSATE 
+La strategia dell'azienda mira a definire i principi di una crescita sostenibile e a lungo termine. La valutazione 
+complessiva dell'azienda basata sul coordinamento tra ESG e questioni finanziarie garantisce la creazione 
+regolare di ricchezza (da parte dell’azienda). 
+Il Consiglio deve garantire che le informazioni sulle questioni ESG significative considerate e sulle prospettive 
+a lungo termine siano comunicate in modo chiaro ad azionisti e investitori.   
+ 
+ATTUAZIONE DELLA POLITICA DI VOTO 
+  
+CRITERI PER L'ESERCIZIO DEL VOTO 
+Attualmente, Groupama AM esercita i diritti di voto connessi alle azioni quotate detenute nei suoi fondi 
+OICVM: 
+• Azioni quotate in tutti i paesi "sviluppati" europei, secondo la definizione MSCI (Austria, Belgio, 
+Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lussemburgo, Paesi Bassi, Portogallo, 
+Spagna, Svizzera, Regno Unito, Danimarca, Norvegia, Svezia). In  totale, titoli di 17 paesi, 
+detenuti dai depositari francesi, se l'investimento totale è superiore a 2 milioni di euro (a 
+condizione di ricevere a tempo debito dai depositari la documentazione relativa al voto).  
+• Azioni quotate negli Stati Uniti con voto automatico sulla piattaforma ISS per posizioni superiori 
+a 2 milioni di euro. 
+  
+CONDIZIONI PER L'ESERCIZIO DEI DIRITTI DI VOTO 
+Per ragioni di efficienza, Groupama AM esercita i propri voti principalmente per corrispondenza grazie alla 
+piattaforma di votazione specializzata. Tuttavia, la società non esclude la possibilità di votare nelle assemblee 
+generali quando lo ritenga preferibile. 
+Groupama AM valuterà caso per caso le delibere il cui argomento non è menzionato nella sua politica di 
+voto. 
+Groupama AM si riserva il diritto di modificare la propria politica di voto in base alle circostanze individuali 
+di ciascuna società. Queste possono giustificare una dispensa speciale. 
+ 
+PRINCIPIO DI PARITÀ DEGLI AZIONISTI: STRUTTURA DEL CAPITALE E DIRITTI DI VOTO 
+La preferenza di Groupama AM è quella di avere una struttura del capitale con una singola classe di azioni, 
+conformemente al principio “un'azione, un voto”. 
+A tal riguardo, di norma, misure volte a limitare i diritti di voto oltre un certo livello di capitale posseduto 
+devono essere soggette a espressa riserva.
+=== pagina 20 ===
+Politica di Impegno 
+Pag. 20 di 36 
+ 
+MISURE DI PROTEZIONE DEL CAPITALE/CONTRO LE ACQUISIZIONI 
+Groupama AM si oppone a qualsiasi accordo di protezione del capitale posto in essere: limitazione della 
+proprietà del capitale o dei diritti di voto, golden share, warrant Bons Breton esercitabili solo in una situazione 
+di acquisizione ostile, uso di veicoli "Dutch stichting", trasformazione di una società a responsabilità limitata 
+in una società in accomandita per azioni, clausola statutaria che  penalizza la società in caso di offerta 
+pubblica o cambio di controllo come il mantenimento delle autorizzazioni per l’aumento di capitale o il 
+riacquisto di azioni nel caso di un’acquisizione, ecc. 
+ 
+AUMENTO DI CAPITALE 
+Un aumento di capitale sarà sostenuto in particolare se giustificato da un progetto specifico (finanziamento 
+per un'acquisizione, ristrutturazione finanziaria, ecc.) che abbia senso per Groupama AM.   
+Groupama AM sosterrà le autorizzazioni per aumenti di capitale coerenti con il principio del "trattamento 
+equo di tutti gli azionisti". 
+ 
+Durante le operazioni di aumento di capitale, il rispetto dei diritti di prelazione degli azionisti (Droits 
+Préférentiels de Souscription o DPS) è considerato molto importante al fine di consentire agli stessi  di 
+mantenere i propri livelli di partecipazione nel capitale della società. 
+Per valutare le delibere relative alle richieste di autorizzazione al capitale, Groupama AM applica i seguenti 
+principi: 
+• Aumento di capitale con diritto di prelazione sulla sottoscrizione: delibera respinta se superiore 
+al 50% del capitale. 
+• Aumento di capitale senza diritto prelazione sulla sottoscrizione e senza motivazione: delibera 
+respinta se superiore al 10% del capitale per biennio. 
+• Aumento di capitale senza diritto di prelazione sulla sottoscrizione, ma con periodo di priorità 
+garantito: delibera respinta se superiore al 33% del capitale per non penalizzare eccessivamente 
+gli azionisti che non possono partecipare. 
+• Aumento di capitale per il pagamento di contributi in natura: delibera respinta se superiore al 
+10% del capitale per biennio. 
+• Aumento di capitale mediante collocamento privato: delibera respinta se superiore al 10% del 
+capitale, salvo specifica giustificazione. 
+• Aumento di capitale in caso di offerta pubblica di acquisto: delibera sistematicamente respinta. 
+Queste autorizzazioni verranno rifiutate laddove suscettibili di essere utilizzate in caso di acquisizione. 
+FOCUS - Per le emissioni di obbligazioni convertibili, Groupama AM esaminerà i potenziali impatti delle 
+stesse per gli azionisti, in particolare in termini di diluizione, nonché gli impatti sui livelli di indebitamento. 
+In relazione a un'opzione di sovrallocazione (“green shoe"), Groupama AM sosterrà un'estensione 
+dell'autorizzazione all'aumento di capitale fino al 15% dell'emissione iniziale qualora la diluizione potenziale 
+massima risultante dall'esercizio dell'opzione di sovrallocazione non superi i limiti massimi sopra indicati. 
+Questa estensione deve essere offerta allo stesso prezzo di quello applicato per l'emissione iniziale ed entro 
+un periodo di 30 giorni dalla fine del periodo di sottoscrizione.
+=== pagina 21 ===
+Politica di Impegno 
+Pag. 21 di 36 
+ 
+ 
+EQUILIBRIO DI POTERI 
+Groupama AM chiede al consiglio di: 
+• Pubblicare il curriculum vitae dettagliato di ciascun amministratore, indicandone l’esperienza 
+professionale, le cariche attuali e gli incarichi ricoperti negli ultimi cinque anni. 
+• Giustificare la selezione di ciascun amministratore al momento della nomina o della riconferma. Ciò può 
+avvenire in un quadro più generale laddove il consiglio abbia effettuato, autonomamente o tramite terzi, 
+una valutazione del proprio operato. 
+• Specificare i compiti e l'effettivo ruolo del presidente nonché la valutazione della sua attività per l'anno 
+in caso di rinnovo. 
+Inoltre, si raccomanda di cessare i contratti di lavoro dei dipendenti che diventano amministratori esecutivi. 
+  
+MAGGIORANZA DI AMMINISTRATORI INDIPENDENTI 
+Definizione del principio di «amministratore indipendente»  
+La qualifica di “membro privo di interessi” esclude in particolare i seguenti casi, dovuti a potenziali conflitti 
+d’interesse o disponibilità limitata:   
+• dirigenti e dipendenti attuali e passati; 
+• parenti di dirigenti e parti correlate; 
+• azionisti e loro rappresentanti con più del 3% dei diritti di voto; 
+• clienti, fornitori di beni e i fornitori di servizi della società, compresi  investment banker che potrebbero 
+avere, o potrebbero aver avuto di recente, un rapporto d'affari con la società; 
+• amministratori nominati a seguito di partecipazioni incrociate; 
+• amministratori la cui carica all'interno della società ha una durata superiore a 12 anni; 
+• persone che hanno ricoperto l’incarico di sindaci in qualsiasi momento negli ultimi cinque anni. 
+  
+NUMERO DI AMMINISTRATORI INDIPENDENTI 
+Secondo Groupama AM, la p resenza di una maggioranza di amministratori indipendenti nel consiglio di 
+amministrazione potrebbe limitare i conflitti d’interesse, contribuendo a garantire un trattamento equo per 
+tutti gli azionisti e un controllo obiettivo da parte dei dirigenti della società. 
+ 
+Per le società in cui uno o più azionisti di maggioranza detengono più del 50% del capitale, è comprensibile 
+che il numero di amministratori indipendenti richiesto debba essere coerente con la percentuale di flottante, 
+entro il limite dei due te rzi dei seggi sotto il controllo di tali azionisti. Infatti, almeno un terzo degli 
+amministratori dovrebbe essere indipendente. 
+Groupama AM applica questo limite anche a un terzo degli amministratori indipendenti delle società che, per 
+legge, sono tenute ad avere nel consiglio un 50% di amministratori che rappresentano dipendenti. 
+ 
+Qualora la legge richieda il rinnovo del consiglio di amministrazione mediante liste (come ad esempio in 
+Italia), Groupama AM selezionerà la lista che meglio soddisfa i criteri sopra indicati.
+=== pagina 22 ===
+Politica di Impegno 
+Pag. 22 di 36 
+ 
+  
+ 
+ 
+Tra gli amministratori non indipendenti, Groupama AM accetta la presenza di due amministratori esecutivi. 
+ 
+Qualora tutte le riconferme/nomine di amministratori proposte dalla società non possano essere accettate 
+per sovra-rappresentazione di amministratori non privi di interessi, Groupama AM opererà la propria scelta 
+sulla base dei criteri di seguito indicati (disponibilità, diversità, ecc.). 
+ 
+Amministratori dipendenti: gli amministratori dipendenti eletti o designati in conformità ai requisiti di 
+legge, fanno parte del Consiglio ma non sono soggetti a elezione durante l'assemblea generale annuale. 
+Sebbene non possano essere considerati amministratori indipendenti, essi apportano una conoscenza diretta 
+dei team operativi, nonché del clima e delle relazioni sociali, consentendo in definitiva di avere un approccio 
+al business più ampio rispetto alla strategia e alle performance finanziarie.  
+ 
+La posizione di Groupama AM è quindi quella di non includere gli amministratori stipendiati nel calcolo della 
+percentuale degli amministratori indipendenti per non “penalizzare” il tasso di indipendenza del CdA 
+considerato. 
+ 
+Dipendenti azionisti: gli ammin istratori che rappresentano gli azionisti dipendenti sono soggetti 
+all'elezione dell'assemblea generale degli azionisti nelle società in cui i dipendenti detengono collettivamente 
+più del 3% del capitale sociale. L'approccio di Groupama AM è simile a quello degli amministratori dipendenti 
+in quanto gli azionisti dipendenti non sono conteggiati nel determinare la percentuale di amministratori 
+indipendenti 
+ 
+SEPARAZIONE DELLE FUNZIONI DI PRESIDENTE DEL CONSIGLIO DI AMMINISTRAZIONE  
+E AMMINISTRATORE DELEGATO 
+Groupama AM, dati i significativi poteri conferiti al Presidente del Consiglio di Amministrazione, favorisce la 
+separazione delle funzioni di Presidente del Consiglio di Amministrazione e Amministratore Delegato al fine 
+di garantire un equilibrio di poteri. Tale separazione delle funzioni può essere ottenuta: 
+• adottando una struttura di governance a due livelli, ovvero consiglio di 
+amministrazione/consiglio di sorveglianza;    
+• separando le funzioni di Amministratore Delegato e Presidente del Consiglio di Amministrazione. 
+Pertanto, Groupama Asset Management voterà contro la nomina di un Presidente-Amministratore Delegato 
+nel consiglio laddove la società abbia dichiarato in anticipo che le due funzioni convergeranno, a meno che 
+la società: 
+• spieghi perché desidera far convergere i ruoli;  
+• abbia posto in essere misure atte a fornire un'efficace opposizione al Presidente -Amministratore 
+Delegato. Tali contestazioni possono essere ottenute in vari modi, in particolare mediante: 
+• un consiglio di amministrazione e comitati specializzati (controllo interno, nomine e remunerazioni) 
+composti in maggioranza da amministratori indipendenti, competenti e disponibili;
+=== pagina 23 ===
+Politica di Impegno 
+Pag. 23 di 36 
+ 
+• la nomina di un amministratore indipendente senior con poteri superiori a quelli degli altr i 
+amministratori, ed in particolare per la gestione dei conflitti di interesse, il potere di collaborare con 
+il Presidente per la redazione dell'ordine del giorno delle riunioni consiliari aggiungendo, se 
+necessario, ulteriori punti o per la convocazione d el consiglio in circostanze eccezionali; tale 
+amministratore assicura inoltre che la buona governance sia rispettata all'interno del consiglio e dei 
+comitati specializzati e riferisce su ogni azione intrapresa durante l'assemblea generale annuale; 
+• tali poteri devono essere chiaramente formalizzati nello statuto o nel regolamento interno; 
+• l'organizzazione di sessioni esecutive prima o dopo ciascuna riunione del Consiglio al fine di garantire 
+riunioni regolari per i soli membri non esecutivi del Consiglio. 
+• Caso di rinnovo degli amministratori delegati fondatori: Groupama AM desidera riconoscere il loro 
+ruolo specifico nell'ulteriore sviluppo e creazione di valore dell'azienda. Sarà emessa una 
+raccomandazione positiva a condizione che: 
+• la maggioranza degli amministratori del Consiglio sia indipendente; 
+• l'amministratore fondatore non goda di benefici a scapito di altri azionisti (doppio diritto di voto, 
+remunerazione eccessiva, accordi regolamentati significativi. 
+Groupama Asset Management esaminerà anche la qualità della politica di remunerazione dei dirigenti. 
+ 
+DIVERSE AREE DI COMPETENZA ED ESPERIENZA 
+La diversità dei profili degli amministratori contribuisce a garantire scambi costruttivi e contraddittori, 
+aiutando ad assicurare un funzionamento efficace del consiglio. Tale diversità deve essere coerente con 
+l'attività dell'azienda e le aree geografiche in cui opera. 
+ 
+L’interpretazione di Groupama AM dei diversi profili è la seguente: diversità di genere, diversità in termini di 
+nazionalità, diversità in termini di aree di competenza, diversità in termini di esperienza professionale, 
+svecchiamento degli amministratori nei consigli di amministrazione con un'età media elevata, ecc. Con 
+riguardo a quest'ultimo punto, Groupama AM predilige una presenza molto limitata di amministratori di età 
+superiore ai 70 anni.   
+ 
+Al fine di ampliare la portata dei suoi impegni a favore della non discriminazione e della diversità, il Consiglio 
+deve garantire che i dirigenti attuino una politica in questo ambito, inclusa una rappresentanza più equilibrata 
+di donne e uomini in tutti gli organi di governo: comitato esecutivo, direzione e alta dirigenza.  
+Groupama AM si riserva il diritto di votare contro la nomina di un amministratore qualora quest'ultimo 
+proponga un progetto strategico che Groupama AM non supporta (fusioni, acquisizioni, vendite, ecc.) o 
+qualora la persona proposta attui pratiche che Groupama AM non approva. 
+ 
+Sebbene la diversità degli amministratori sia importante, Groupama AM ritiene che un consiglio di 
+amministrazione debba avere un minimo di 7 e un massimo di 16 membri al fine di ottimizzare l'efficienza e 
+l’efficacia.  
+Soprattutto per quest'ultimo motivo, Groupama AM non supporta la presenza e il coinvolgimento di revisori 
+dei conti (amministratori senza diritto di voto che assistono il consiglio e sono retribuiti per la partecipazione 
+ai consigli).
+=== pagina 24 ===
+Politica di Impegno 
+Pag. 24 di 36 
+ 
+DISPONIBILITÀ 
+Il coinvolgimento degli amministratori nei lavori del consiglio è un fattore importante per il suo 
+funzionamento efficace. Una condizione essenziale per tale coinvolgimento è legata alla disponibilità degli 
+amministratori, ovvero al numero di incarichi ricoperti da ciascuno di essi. 
+ 
+Groupama AM stima che, per svolgere efficacemente l’incarico di amministratore non esecutivo, sia 
+necessario un giorno alla settimana.  Pertanto, rifiuterà la nomina di amministratori che ricoprono numerosi 
+incarichi in Francia e all'estero, in particolare quando svolgono più di altri quattro incarichi non esecutivi in 
+società quotate esterne al Gruppo, o hanno altri due incarichi in società quotate esterne Gruppo laddove 
+uno di questi ruoli sia una carica esecutiva. 
+  
+Groupama AM voterà contro la riconferma di eventuali membri la cui partecipazione alle riunioni del consiglio 
+di amministrazione e/o dei comitati specializzati sia inferiore al 75%.   
+Tale percentuale deve essere pubblicata, per ciascun amministratore, nella relazione sul governo societario. 
+Nei casi in cui un amministratore esecutivo ricopra più di altre due cariche, Groupama AM non voterà contro 
+il rinnovo della carica esecutiva, ma si opporrà al rinnovo degli incarichi non dirigenziali.  
+  
+Tabella riassuntiva delle principali motivazioni, legate al rinnovo degli amministratori, che portano 
+sistematicamente ad un voto CONTRARIO  
+Principio Voto generico Specificità del medio termine* 
+Indipendenza del Consiglio Votare contro la riconferma/nomina di 
+membri ritenuti non indipendenti se 
+metà del Consiglio di amministrazione 
+non è indipendente. 
+Società controllata: voto contrario al 
+rinnovo o alla nomina di membri 
+ritenuti non indipendenti se 1/3 del 
+Consiglio di Amministrazione 
+non è indipendente 
+Presidente dei comitati non 
+indipendenti 
+Voto contrario al rinnovo/nomina 
+Direttori esecutivi nei 
+comitati 
+Voti contrari al rinnovo/nomina Voto contrario al rinnovo/nomina nei 
+Comitati per le remunerazioni/nomine 
+Comitato di revisione Votare contro il 
+rinnovo/nomina di un membro ritenuto 
+non indipendente se i 2/3 dei membri non 
+sono indipendenti 
+Votare contro la riconferma o la 
+nomina d i  un membro ritenuto non 
+indipendente se almeno un membro 
+non è indipendente. 
+Disponibilità degli 
+amministratori 
+Voto contrario al rinnovo degli amministratori con 
+presenza < 75 
+ 
+CREAZIONE DI COMITATI SPECIALIZZATI 
+L'esistenza di comitati specializzati contribuisce a garantire che il consiglio sia in grado di operare 
+efficacemente. Tali comitati svolgono attività preparatorie approfondite per la trattazione di materie 
+complesse o che comportano un rischio di conflitto di interessi, senza sostituire la responsabilità collegiale 
+del consiglio. Di fatto, la decisione finale è comunque responsabilità collettiva del consiglio di 
+amministrazione.
+=== pagina 25 ===
+Politica di Impegno 
+Pag. 25 di 36 
+ 
+Tali comitati devono essere presieduti da un amministratore indipendente e i loro membri devono essere in 
+maggioranza anche amministratori indipendenti. 
+Questi comitati devono disporre di risorse indipendenti che consentano loro di svolgere i propri compiti. È 
+richiesto un minimo di tre comitati separati (controllo interno, remunerazioni e nomine). Questi comitati non 
+possono includere amministratori esecutivi. 
+ 
+COMITATO NOMINE 
+Questo comitato è responsabile del processo di nomina dei membri del consiglio e dei dirigenti. Più 
+specificamente, deve essere in grado di stabilire piani di successione per i dirigenti aziendali e di rivederli 
+annualmente per proporre rapidamente soluzioni di successione al consiglio laddove eventuali posizioni 
+diventassero vacanti inaspettatamente. Il suo ruolo è essenziale per garantire l'equilibrio della composizione 
+del consiglio (diversità, competenze, indipendenza e disponibilità degli amministratori). 
+ 
+Al fine di replicare la diversità del Consiglio all’interno dei comitati specifici, è auspicabile una significativa 
+rappresentanza delle donne nel comitato nomine. 
+Groupama AM può votare contro la riconferma del Presidente del Comitato Nomine qualora le proposte del 
+consiglio rispetto alla nomina e alla riconferma degli amministratori non siano conformi ai criteri sopra citati.    
+  
+COMITATO REMUNERAZIONI 
+Tale comitato sottopone al consiglio proposte in merito agli elementi generali della politica di remunerazione 
+dei dirigenti (retribuzione fissa e variabile, benefici in natura, piani pensionistici, piani di stock option e/o 
+azioni gratuite, TFR) e valuta le performance dei dirigenti nell'ottica di determinarne la remunerazione. Può 
+anche avere la possibilità di formulare raccomandazioni in merito al livello strutturale di remunerazione per 
+il team di dirigenti esecutivi, nonché alla remunera zione dei dipendenti le cui attività possono avere un 
+impatto significativo sull'esposizione al rischio dell'azienda. 
+È preferibile che uno dei membri sia un amministratore dipendente. 
+ 
+Per le società con struttura a livello unico, Groupama AM monitorerà le pratiche di remunerazione in modo 
+particolarmente attento nei casi in cui il consiglio abbia deciso di far convergere le funzioni di amministratore 
+delegato e presidente del consiglio di amministrazione. 
+ 
+Groupama AM potrebbe votare contro la riconferma del Presidente del Comitato Remunerazioni qualora la 
+politica di remunerazione della società non fosse coerente con i principi fondamentali della politica di voto 
+in materia di remunerazione. 
+Inoltre, in occasione del rinnovo del Presidente del Comitato, verrà effettuata un'analisi del processo di voto 
+relativo alla politica di remunerazione. Qualora il comitato non reagisca alla significativa contestazione 
+(punteggio di approvazione <80%) delle voci di remunerazione da parte dell'assemblea generale, Groupama 
+Asset Management voterà contro il rinnovo del Presidente del comitato remunerazioni.
+=== pagina 26 ===
+Politica di Impegno 
+Pag. 26 di 36 
+ 
+ 
+COMITATO PER IL CONTROLLO INTERNO 
+Nello specifico, il comitato per il controllo interno ha l’obbligo svolgere i seguenti ruoli: 
+• revisione delle informazioni contabili e finanziarie; 
+• analisi dei rischi e supervisione del controllo interno; 
+• monitoraggio della revisione legale dei conti, esaminando il lavoro di revisione esterna; 
+• selezione dei sindaci, verificandone l'indipendenza.     
+Infine, il consiglio dovrebbe idealmente far sì che l'esistenza e il lavoro del comitato per il controllo interno 
+vengano comunicati il più ampiamente possibile attraverso la relazione sul controllo interno o la relazione 
+annuale presentata durante l'assemblea generale. 
+ 
+Considerati i requisiti di competenza e indipendenza del comitato per il controllo interno, esso dovrebbe 
+essere composto da un minimo di due persone con elevati livelli di competenze in ambito finanziario/di 
+audit/contabile. Inoltre, due terzi degli amministratori dovrebbero essere indipendenti. 
+Il comitato per il controllo interno non deve includere dipendenti dell'azienda. 
+Groupama AM può votare contro la riconferma del Presidente del comitato per il controllo interno in caso di 
+mancato adempimento dei propri compiti. 
+ 
+COMITATO CSR 
+Per incoraggiare l'integrazione delle questioni di CSR al centro di tutte le decisioni strategiche, si raccomanda 
+vivamente la creazione di un comitato CSR specializzato. Questo comitato lavora in collaborazione con gli 
+altri comitati specializzati, a seconda degli argomenti trattati. 
+  
+REMUNERAZIONE EQUA E TRASPARENTE 
+ 
+TRASPARENZA DELLA REMUNERAZIONE 
+Ogni anno, il consiglio è tenuto a fornire agli azionisti spiegazioni in merito a tutti gli elementi della 
+remunerazione individuale dei dirigenti, nonché della remunerazione complessiva corrisposta alle dieci 
+persone più pagate che svolgono funzioni di gestione per l'esercizio conclusosi. Tali informazioni devono 
+riguardare: gli elementi fissi, variabili, eccezionali, immediati e differiti, nonché tutti gli elementi relativi alle 
+azioni gratuite e alle opzioni assegnate o pagate dalla società, in Francia e all’estero. 
+ 
+Le informazioni fornite sui piani di stock warrant devono consentire di analizzare le conseguenze di tali piani 
+in termini di costi e di futura diluizione del capitale, nonché il numero di beneficiari indicato per le opzioni 
+assegnate nell'ambito di tali piani. Devono inoltre essere previste le condizioni relative alle prestazioni di fine 
+rapporto in caso di dimissioni forzate e le condizioni relative alle pensioni integrative. 
+  
+Groupama AM è favorevole alla pubblicazione di una tabella riepilogativa che indichi tutte le voci dei 
+compensi spettanti e corrisposti a ciascun amministratore esecutivo per l’esercizio in corso, l’esercizio 
+precedente e quello successivo al fine di facilitare la comprensione delle prassi di remunerazione della 
+società.
+=== pagina 27 ===
+Politica di Impegno 
+Pag. 27 di 36 
+ 
+ 
+Tale presentazione deve essere seguita da un voto obbligatorio degli azionisti, introdotto dalla legge nota 
+come Sapin 2*. Se il tasso di approvazione della politica retributiva (voto ex-ante) da parte degli azionisti di 
+minoranza è inferiore all'80%, il Consiglio di amministrazione deve riunirsi per esaminare le ragioni del voto 
+e le aspettative espresse. Il Consiglio di amministrazione decide quindi le modifiche da apportare in base 
+alle raccomandazioni del Comitato per le remunerazioni e pubblica subito dopo un comunicato stampa sul 
+sito web. 
+Se non viene ricevuta alcuna comunicazione, Groupama AM può votare contro la riconferma del presidente 
+del comitato per le remunerazioni  Groupama AM è favorevole all’individualizzazione delle delibere per 
+ciascuno dei dirigenti aziendali, compreso il Presidente del Consiglio o il Presidente del Consiglio di 
+Sorveglianza. 
+*Legge nota come Sapin 2: Francia  
+Prima Parte: l'approvazione dell’assemblea generale è richiesta per qualsiasi modifica della politica di 
+remunerazione e per ogni rinnovo del mandato degli amministratori esecutivi a partire dalla stagione 2017 
+per tutte le società che fanno riferimento al codice di governance Afep -Medef.  
+Seconda parte:  l'approvazione dell’assemblea generale è richiesta prima di qualsiasi pagamento o 
+assegnazione degli elementi di remunerazione variabile ed eccezionale per l’esercizio  fiscale precedente a 
+partire dalla stagione 2018.  
+Questa seconda parte si applica alle sole società aventi lo status di società a responsabilità limitata e non 
+riguarda quindi le società per azioni.  
+ 
+PRINCIPI PER LA REMUNERAZIONE DEI DIRIGENTI (1/2) 
+Groupama AM ritiene che un'adeguata politica di remunerazione debba rispettare i seguenti principi: 
+Principi generali 
+• La remunerazione degli amministratori esecutivi deve essere sempre giustificata e giustificabile 
+in relazione a criteri rilevanti e oggett ivi. La remunerazione deve riflettere le prestazioni 
+dell'azienda in relazione ai rischi effettivi sostenuti. 
+• L'eventuale aumento della parte fissa della remunerazione deve essere spiegato e collegato 
+all'evoluzione del rapporto retributivo (vedi sotto), se pubblicato. 
+• Gli obiettivi e i criteri di performance devono essere coerenti con gli obiettivi strategici annunciati 
+agli investitori. Devono essere esigenti, espliciti e, per quanto possibile, sostenibili. 
+• Qualsiasi deviazione dall'applicazione della politica retributiva già approvata dagli azionisti deve 
+essere eccezionale e spiegata/giustificata dal Consiglio di amministrazione. 
+• Qualsiasi modifica significativa alla politica retributiva deve indurre la società a sottoporla 
+all'approvazione dell'assemblea generale. 
+• Gli obiettivi e i criteri di performance devono essere valutati in relazione all’andamento assoluto 
+dell'azienda, nonché, e soprattutto, in relazione ai suoi risultati relativi rispetto ad altre società 
+dello stesso settore di attività, al fine di evitare effetti inaspettati e premiare i risultati dei dirigenti 
+interessati. Ciò è particolarmente vero per i criteri del mercato azionario. 
+• Deve essere pubblicata una griglia delle prestazioni che specifichi la rilevanza di ciascun criterio 
+e il tasso di raggiungimento per obiettivo. 
+• I criteri quantificabili, che non sono necessariamente finanziari, devono essere di primaria 
+importanza. Il totale parziale applicabile ai criteri qualitativi deve quindi essere rigorosamente 
+inferiore al 50%.
+=== pagina 28 ===
+Politica di Impegno 
+Pag. 28 di 36 
+ 
+ 
+• La retr ibuzione variabile deve comprendere criteri legati alla responsabilità sociale e con 
+l'obiettivo di promuovere performance e competitività nel medio e lungo termine. 
+• Gli importi concessi devono essere coerenti con l'evoluzione 1/dei risultati dell'azienda 2/ della 
+retribuzione media o mediana dei dipendenti nel Paese in cui si trova la sede centrale. 
+• Nel caso delle istituzioni finanziarie, l'introduzione di una remunerazione variabile differita, con 
+l'introduzione di un meccanismo di recupero, dovrebbe essere incoraggiata al fine di scoraggiare 
+l'assunzione di rischi eccessivi. 
+ 
+Criteri extra-finanziari 
+• La remunerazione variabile dovrebbe includere criteri legati alla responsabilità sociale e 
+ambientale con l'obiettivo di promuovere la performance e la competitività nel medio e lungo 
+termine. 
+• I criteri extra -finanziari devono essere coerenti con gli obiettivi strategici e rispondere alle 
+specificità di ciascun settore. 
+• Settori ad alto impatto ambientale: un obiettivo climatico o ambientale pertinente al settore 
+• Settore farmaceutico (produttori di vaccini): diffusione equa dei vaccini attraverso la 
+partecipazione al Covax. 
+  
+PRINCIPI RELATIVI ALLA RETRIBUZIONE DEI DIRIGENTI (2/2) 
+ 
+L'analisi delle prassi di settore in materia retributiva non giustifica da sola il marcato aumento dei salari negli 
+ultimi anni. Le disparità di reddito sono in aumento da più di 30 anni. Tale aumento può essere spiegato in 
+particolare dall’evoluzione divergente tra le politiche di remunerazione dei dirigenti e quelle dei dipendenti 
+all'interno delle aziende 
+ 
+Dal 2020, sulla base del modello statunitense, in Francia e nel Regno Unito è stato stabilito un rapporto tra 
+la retribuzione dei dirigenti e lo stipendio medio e mediano. Tale rapporto retributivo deve essere pubblicato 
+lungo un periodo di 5 anni per il perimetro più rilevante dell’azienda. Per Groupama AM, l'evoluzione di 
+questo rapporto deve essere coerente con quella delle performance. Un aumento ingiustificato di questo 
+rapporto potrebbe verosimilmente risultare in un voto negativo relativamente a una proposta di aumento 
+della remunerazione fissa dei dirigenti 
+Per quanto riguarda gli istituti finanziari, al fine di scoraggiare l'assunzione di rischi eccessivi andrebbe 
+incoraggiata l’applicazione della remunerazione variabile differita, con l'introduzione di un meccanismo di 
+recupero.
+=== pagina 29 ===
+Politica di Impegno 
+Pag. 29 di 36 
+ 
+ 
+Tabella riassuntiva delle principali motivazioni, legate alla remunerazione e che portano 
+sistematicamente a un voto CONTRARIO  
+Principio Voto generico Specificità del mediano 
+Criteri CSR legati alla retribuzione 
+variabile dei dirigenti 
+Assenza di criteri in generale e di 
+criteri specifici per il settore (vedi 
+pagina 19) 
+Totale assenza di criteri di 
+RSI 
+Criteri qualitativi (finanziari o meno) Peso dei criteri qualitativi > 50% dei criteri totali 
+Criteri di prestazione Insufficiente trasparenza sul legame tra prestazioni e pagamenti 
+Pubblicazione dell'equity ratio L'aumento della retribuzione 
+dei dirigenti è scollegato 
+dall'evoluzione della 
+retribuzione media dei 
+dipendenti 
+ 
+NA 
+Remunerazione a lungo termine Assenza di retribuzione a lungo termine nella politica retributiva 
+ 
+PIANI DI INCENTIVAZIONE A LUNGO TERMINE 
+ 
+Partecipazioni minime dei membri del consiglio 
+Groupama AM è a favore dei membri del consiglio e dei dirigenti che detengono azioni al fine di allineare i 
+loro interessi con le performance a lungo termine della società, che corrispondono anche agli interessi degli 
+azionisti. 
+ 
+Assegnazione di stock option e azioni gratuite 
+I programmi di stock option e/o azioni gratuite costituiscono un elemento chiave nei piani di incentivazione 
+a lungo termine per i dirigenti. Essi devono essere subordinati a diversi criteri e più specificamente: 
+• Comunicazione delle condizioni di performance, che devono essere sempre basate su criteri 
+quantificabili e non modificabili durante il periodo, salvo circostanze eccezionali. Tali condizioni 
+devono essere esigenti e coprire un periodo di tempo lungo (di almeno tre anni) per i premi ai 
+dirigenti 
+• Un periodo vincolato, considerato che una percentuale significativa delle azioni assegnate ai 
+dirigenti dovrebbe idealmente essere detenuta fino alla scadenza dell’incarico.
+=== pagina 30 ===
+Politica di Impegno 
+Pag. 30 di 36 
+ 
+ 
+Principi da rispettare 
+• Nessuno sconto sul prezzo di esercizio per i diritti di opzione 
+• Percentuale limitata del capitale al fine di limitare l'effetto diluitivo per gli azionisti. L’ammontare 
+totale di tutti i piani in corso, compresi diritti di opzione e azioni gratuite, non deve superare il 
+10% del capitale. 
+• In linea di principio, il livello di concentrazione dei premi riservati agli amministratori esecutivi                                                                                 
+non dovrebbe essere troppo alto. Il numero complessivo di beneficiari deve essere specificato 
+nelle delibere messe ai voti, separando le deliberazioni riguardanti i dipendenti da quelle dei 
+dirigenti. 
+• Le condizioni per l'assegnazione di diritti di opzione e/o azioni gratuite devono essere 
+chiaramente indicate nelle delibere. 
+ 
+TFR E INDENNITÀ 
+TFR e indennità di non concorrenza 
+Eventuali benefici di fine rapporto riconosciuti agli amministratori esecutivi possono essere assegnati solo 
+nel caso in cui l'amministratore sia costretto a lasciare la società a causa di un cambio di controllo o di 
+strategia. Tali benefici devono dipendere dal rispetto di varie condizioni di performance.   
+ 
+Secondo Groupama AM, tutti i benefici (TFR, indennità di non concorrenza, ecc.) devono essere proporzionali 
+alla durata del servizio del dirigente, alla sua retribuzione e alle performance dell'azienda durante il mandato 
+del beneficiario. L'ammontare di tali benefici non deve superare un importo pari a due anni di retribuzione 
+(fissa + variabile). 
+In caso di peggioramento delle performance (perdite) nell'arco di due anni consecutivi nonché di ripetuti 
+avvertimenti rispetto agli utili, la soglia di cumulo delle indennità è ridotta a un anno di remunerazione. Le 
+condizioni associate al trattamento di fine rapporto per ciascun dirigente aziendale devono essere oggetto 
+di delibera separata e devono essere esaustivamente dettagliate. 
+  
+Il pagamento dell'indennità di non concorrenza deve essere escluso al momento del pensionamento. Nessun 
+compenso può essere corrisposto oltre i 65 anni di età. 
+Deve essere esclusa la conclusione di un patto di non concorrenza al momento delle dimissioni dall’azienda. 
+ 
+Piani pensionistici integrativi 
+È preferibile che i dirigenti siano coperti da un piano integrativo definito se e soltanto se sono presenti in 
+azienda al momento del pensionamento e hanno almeno due anni di anzianità. 
+ 
+Secondo Groupama AM, i piani pensionistici integrativi non devono superare il 3% della retribuzione del 
+beneficiario negli ultimi tre anni per ogni anno di servizio e devono essere limitati al 45% dell'importo fisso 
+e variabile annuale pagato negli ultimi tre anni. La concessione di questi benefici dovrebbe essere soggetta 
+a condizioni di performance.
+=== pagina 31 ===
+Politica di Impegno 
+Pag. 31 di 36 
+ 
+Remunerazione degli amministratori 
+Groupama AM è a favore di un approccio in cui il pagamento dei compensi degli amministratori è indicizzato 
+in base alla loro effettiva partecipazione alle riunioni del consiglio e ai comitati specializzati. Gli importi 
+assegnati devono essere coerenti con le prassi del settore di attività e del paese in cui opera la società e 
+ogni modifica dovrà essere spiegata e dettagliata. L'assegnazione di compensi variabili, diritti di opzione o 
+performance share non è auspicabile perché comprometterebbe l'indipendenza degli amministratori. 
+Nel caso in cui la politica di remunerazione degl i Amministratori sia raggruppata assieme a quella dei 
+Dirigenti, Groupama AM richiede delibere separate, in modo che i due voti possano essere distinti. 
+  
+INTEGRITÀ DELLE INFORMAZIONI DIVULGATE DALLA SOCIETÀ 
+ 
+APPROVAZIONE DEL BILANCIO 
+ 
+L'utilizzo di diversi documenti di riferimento nella presentazione del bilancio richiede la pubblicazione di 
+spiegazioni per le eventuali discrepanze rispetto ai principi. 
+La presentazione dei rischi, degli impegni fuori bilancio e delle controversie in corso deve essere esaustiva 
+e fornita in tempo reale. 
+Groupama AM vota contro l'approvazione dei bilanci rispetto ai quali vi sono riserve in merito alla correttezza 
+espressa dai revisori della società. 
+ 
+DELIBERE CORRELATE 
+ 
+La pratica delle delibere "correlate", che comporta il raggruppamento di più decisioni nell'ambito della stessa 
+delibera, pur se di natura simile, non è accettabile. Gli azionisti, infatti, devono potersi esprimere con 
+chiarezza e quindi votare su ogni questione.  Tali decisioni devono essere sottoposte separatamente al voto 
+in sede di assemblea generale. 
+Quando Groupama AM è contraria a una delle decisioni messe ai voti in una delibera "correlata", potrebbe 
+votare contro l'intera delibera.   
+ 
+ACCORDI CON PARTI CORRELATE 
+ 
+Tutti gli accordi con parti correlate devono essere sottoscritti nell'interesse di tutti gli azionisti, richiedendo 
+che venga prestata particolare attenzione all'approvazione di tali accordi, che devono essere strategicamente 
+giustificati e basati su condizioni eque. 
+Eventuali accordi con parti correlate che siano mal spiegati, abbiano una scarsa giustificazione strategica o 
+siano iniqui devono comportare il rigetto dell'approvazione del rapporto speciale del revisore. 
+ 
+Anche se non formalmente richiesto dalla normativa vigente, Groupama AM è favorevole a che ogni accordo 
+significativo con parti correlate sia soggetto a delibera separata (la legge francese richiede una specifica 
+delibera per gli accordi con parti correlate in materia di remunerazione).
+=== pagina 32 ===
+Politica di Impegno 
+Pag. 32 di 36 
+ 
+ 
+Laddove il rapporto speciale comprenda più accordi con parti correlate, Groupama AM si riserva il diritto di 
+astenersi o di votare contro nel caso in cui uno qualsiasi degli accordi non sia conforme ai principi della 
+politica di voto. 
+ 
+Anche se non legalmente vincolanti, Groupama AM chiede alle società di tenere in considerazione i risultati 
+delle votazioni dei soci sugli accordi con parti correlate.   
+ 
+«RAGION D’ESSERE» E «STRATEGIA AZIENDALE» 
+ 
+Quando questi due concetti sono oggetto di modifiche statutarie, devono e ssere sottoposti a votazione 
+mediante delibere separate. Groupama AM, nel decidere in merito al proprio voto, esaminerà se la "Ragion 
+d’essere" è coerente con le attività e la strategia dell’azienda. 
+  
+NOMINA E INDIPENDENZA DEI SINDACI  
+I sindaci effettuano controlli esterni indipendenti per garantire la qualità del bilancio. È quindi importante 
+garantire la loro indipendenza e vigilanza: 
+ 
+Indipendenza: 
+Gli onorari per i servizi di consulenza non devono mai superare gli onorari per la revisione contabile. 
+I sindaci non devono certificare eventuali collegate quotate. 
+La nomina di due sindaci congiunti potrebbe favorire l'indipendenza delle loro valutazioni. Nei casi in cui la 
+società è tenuta a collaborare con due sindaci congiunti, si raccomanda di equilibra re la ripartizione del 
+lavoro tra questi ultimi. 
+ 
+Durata del contratto: 
+La rotazione dei sindaci potrebbe incoraggiare un processo di revisione più rigoroso. Groupama AM è 
+favorevole a limitare i contratti dei revisori a un massimo di 15 anni.    
+  
+SCARICO DI RESPONSABILITÀ DEGLI AMMINISTRATORI 
+ 
+Groupama AM ritiene che tutti i funzionari aziendali debbano accettare le proprie responsabilità passate e 
+che, generalmente, essi non dovrebbero richiedere alcuno scarico di responsabilità per la loro gestione. 
+Groupama AM voterà generalmente a favore dello scarico di responsabilità se esso rappresenta un voto di 
+fiducia, ma non impedirebbe alcuna accusa di responsabilità nei confronti dei funzionari aziendali laddove 
+emergessero casi di colpa gravissima. 
+ 
+Qualora la delibera relativa allo scarico sia associata all'approvazione del bilancio, Groupama AM voterà a 
+favore, salvo i casi in cui i sindaci abbiano espresso riserve.
+=== pagina 33 ===
+Politica di Impegno 
+Pag. 33 di 36 
+ 
+ 
+ 
+CESSIONE STRATEGICA E/O SIGNIFICATIVA DI ATTIVI 
+ 
+Groupama AM raccomanda che le cessioni di attivi significativi e/o strategici siano sottoposte al voto 
+preventivo degli azionisti in occasione di un’assemblea generale straordinaria. 
+ 
+GESTIONE PRUDENTE DEL CAPITALE 
+DISTRIBUZIONE DEI DIVIDENDI 
+ 
+La distribuzione offerta agli azionisti deve essere giustificata e in linea con la strategia e le prospettive della 
+società. 
+Groupama AM ritiene che:     
+• La correttezza tra gli azionisti non sia messa in discussione dal pagamento di un dividendo 
+basato su azioni poiché viene offerta loro una scelta. 
+• È auspicabile fidelizzare sempre più gli azionisti. Il sistema di dividendi, maggiorato del limite 
+legale francese del 10%, è riservato agli azionisti registrati che detengono da almeno due anni 
+meno dello 0,5% del capitale e rappresenta un mezzo accettabile per la fidelizzazione. Tuttavia, 
+sarebbe preferibile che esso non fosse basato sulle azioni detenute da azionisti registrati, bensì 
+sulla partecipazione effettiva degli azionisti alle votazioni negli ultimi due anni. 
+• La distribuzione dei dividendi deve essere oggetto di apposita delibera.  
+ 
+RIACQUISTO DI AZIONI 
+Le politiche di riacquisto di azioni saranno valutate nell’ambito di una strategia chiara 
+Groupama AM si oppone a qualsiasi delibera riguardante il riacquisto di azioni 
+• che autorizzi il perseguimento di una politica di riacquisto di azioni durante un periodo di offerta 
+pubblica; 
+• che autorizzi l'utilizzo di derivati in relazione a programmi di riacquisto di azioni, salvo a fini di 
+copertura di piani di stock option riservati ai dipendenti 
+• per le società le cui azioni non sono sufficientemente liquide. 
+In caso di contrarietà a un riacquisto di azioni, per coerenza, Groupama AM si opporrà anche alla riduzione 
+del capitale.    
+ 
+INDEBITAMENTO     
+Le politiche di indebitamento saranno valutate nell’ambito di una strategia chiara.
+=== pagina 34 ===
+Politica di Impegno 
+Pag. 34 di 36 
+ 
+ 
+ 
+RICONOSCIMENTO DA PARTE DELLA SOCIETÀ DELLA SUA RESPONSABILITÀ SOCIALE 
+D’IMPRESA E AMBIENTALE 
+ 
+Groupama AM riconosce pienamente l'importanza di concentrare i propri investimenti su imprese di qualità 
+che riconoscano le proprie responsabilità nei confronti di tutte le parti interessate, non soltanto dei propri 
+azionisti. 
+Le informazioni di carattere sociale e ambientale dovrebbero essere verificate e pubblicate analogamente 
+alle informazioni finanziarie.      
+ 
+Groupama AM supporta la pubblicazione da parte delle aziende di report integrati che rendano conto della 
+gestione - nel lungo periodo - di tutto il capitale (materiale e immateriale) dell'azienda e non soltanto del 
+capitale finanziario. 
+Groupama AM incoraggia la creazione di un comitato dedicato responsabile delle questioni di RSI nonché 
+della certificazione delle informazioni RSI in tutto il perimetro di attività dell'azienda. 
+ 
+Dal punto di vista di Groupama AM, è importante che l'azienda faciliti il dialogo con le parti interessate, 
+comprese le richieste da parte degli azionisti di minoranza di aggiungere punti all’ordine del giorno delle 
+assemblee generali annuali. 
+Groupama AM valuterà, caso per caso, tutte le delibere presentate dagli azionisti di minoranza della società 
+e in particolare la loro rilevanza e adeguatezza rispetto alla strategia aziendale 
+  
+TRASPARENZA SUI RISCHI CLIMATICI 
+Groupama AM voterà CONTRO il rinnovo del presidente del consiglio di amministrazione delle società che 
+operano in settori ad alta intensità di carbonio* sulla base di questi tre elementi: 
+- Mancanza di comunicazione sui rischi climatici legati all'attività dell'azienda 
+- Mancanza di una strategia per gestire e minimizzare questi rischi. 
+- Assenza di obiettivi di riduzione della CO2 
+La comunicazione su almeno uno di questi elementi consente di votare A FAVORE 
+ 
+DELIBERE SUL CLIMA PRESENTATE DAGLI EMITTENTI 
+ 
+In linea con i suoi impegni nella lotta al cambiamento climatico e in particolare con la sua politica del 
+"carbone", Groupama AM incoraggia : 
+- una presentazione al voto degli azionisti di politica climatica ogni 3 anni 
+Groupama AM sosterrà le risoluzioni sul clima presentate dalle aziende se presentano uno di questi elementi: 
+- Obiettivi quantitativi di riduzione delle emissioni di CO2 (almeno per gli ambiti 1 e 2) compatibili con gli 
+Accordi di Parigi. 
+- Un obiettivo di neutralità del carbonio entro il 2050 con obiettivi intermedi (BT, MT, LT
+=== pagina 35 ===
+Politica di Impegno 
+Pag. 35 di 36 
+ 
+ 
+ 
+PREVENZIONE DEI CONFLITTI DI INTERESSE 
+Nell'esercizio dei diritti di voto, due principi fondamentali guidano l'approccio ai conflitti di interesse: 
+L’obbligo di informazione e trasparenza nei confronti dei clienti, che è basilare per prevenire i conflitti di 
+interesse. 
+• I principi e i criteri della politica di voto di Groupama AM sono pubblici e pubblicati sul sito web, 
+a disposizione dei clienti. 
+• La politica di voto è approvata ogni anno dagli organi di governo. 
+La parità di trattamento dei clienti e delle società di cui Groupama AM è azionista 
+• Groupama AM applicherà la politica di voto indiscriminatamente a qualsiasi legame che riguardi 
+affari, capitali o rapporti eventualmente esistente tra la società e le società del Gruppo 
+GROUPAMA. 
+• In caso di conflitto di interessi tra Groupama AM o un membro del team responsabile 
+dell'esercizio dei diritti di voto e uno dei suoi clienti, l’ RCCI, di concerto con le altre parti 
+interessate (gestione e ricerca), deciderà l'atteggiamento da adottare.      
+ 
+GOVERNANCE PER L'ESERCIZIO DEI DIRITTI DI VOTO 
+L'esercizio dei diritti di voto coinvolge diverse funzioni all'interno di Groupama AM: 
+• Direzione Ricerca: ha redatto e aggiornato annualmente un documento denominato "Groupama 
+AM Voting Policy", che presenta le posizioni della società di gestione rispetto alle delibere 
+standard. L'aggiornamento annuale tiene conto del parere di molte fonti, tra cui: Proxinvest, 
+ISS, l'Associazione francese di gestione finanziaria (AFG) e AFEP-MEDEF. Tale documento è 
+pubblicato sul sito web di Groupama AM. 
+• Team di Equity Portfolio Manager: ha aderito a piattaforme di voto e servizi di provider esterni 
+(Proxinvest, ECGS, ISS), che analizzano le delibere sottoposte al voto dagli azionisti e forniscono 
+commenti. 
+• A ciascun portfolio manager viene assegnato un settore di borsa rispetto al quale è responsabile 
+del voto per tutti gli OICR pertinenti. 
+• I portfolio manager considerano i consigli forniti e utilizzano la Politica di voto di Groupama AM 
+per esprimere la propria valutazione delle delibere. Quindi procedono all’effettuazione delle 
+votazioni tramite la piattaforma ISS. 
+• Al termine della campagna di votazione, i portfolio manager stilano le statistiche e raccolgono 
+gli elementi necessari per l’informativa legale utilizzando la piattaforma ISS. 
+• Il Middle Office gestisce il follow-up amministrativo delle schede di voto in sede di assemblea 
+con l'ausilio delle piattaforme di voto. Tale follow-up consiste in: 
+• Invio di avvisi sulle partecipazioni detenute in sede di assemblea generale contenenti la 
+distribuzione delle azioni e il termine per il voto 
+• Blocco dei titoli prima delle assemblee generali sulla base dei vincoli specifici di ogni paese e 
+successivo svincolo dei titoli dopo le assemblee generali 
+• Verifica del corretto svolgimento delle votazioni e dei rapporti con i depositari
+=== pagina 36 ===
+Politica di Impegno 
+Pag. 36 di 36 
+ 
+ 
+È stata elaborata una procedura denominata "Diritto di voto" che descrive nel dettaglio come viene condotta 
+la votazione, compreso l'uso delle piattaforme di voto, le modalità di tracciamento dei voti e lo sviluppo delle 
+statistiche di voto. 
+ 
+Una relazione annuale sulla politica di voto implementata viene redatta e pubblicata sul sito 
+web di Groupama AM.  
+Una sintesi della politica di voto è inclusa nella relazione annuale dell'OICVM. 
+Il Responsabile del Controllo Interno e della Conformità (ICCM) monitora la corretta 
+applicazione della politica per l'esercizio dei diritti di voto da parte della società.

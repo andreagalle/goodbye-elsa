@@ -1,0 +1,1142 @@
+# Fondo: FONDO PENSIONE APERTO CREDIT AGRICOLE VITA (credit-agricole-vita)
+# Documento: Documento sul sistema di governo – Sistema di Governo Societario
+# Fonte: https://www.ca-vita.it/media/filer_public/ee/2e/ee2e920d-d713-4f0d-84a6-438660108b1d/sistema_di_governo_societario.pdf
+# Citato in: https://www.ca-vita.it/fondo-pensione-e-previdenza/fondo-pensione-aperto
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 153814513af20120f0ce7fd54ae5f4fb811f378bf0e563e1fe12a86798bc2829
+# Pagine: 27
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fondo Pensione Aperto 
+Crédit Agricole Vita 
+Iscritto all’Albo tenuto dalla COVIP con il n. 57 
+ 
+Istituito da Crédit Agricole Vita S.p.A. 
+Società Unipersonale soggetta a direzione e coordinamento di Crédit Agricole Assurances S.A. - 
+Capogruppo del “Gruppo Crédit Agricole Assurances Italia”, iscritto all'Albo delle società capogruppo 
+presso IVASS al n. 057. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Documento sul sistema di governo societario 
+afferente alla gestione del  
+Fondo Pensione Aperto Crédit Agricole Vita 
+ 
+(Documento approvato dal Consiglio di Amministrazione di Crédit Agricole Vita 
+S.p.A. il 24 marzo 2026) 
+Versione Documento: 6/2026
+=== pagina 2 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+2  
+ 
+Sommario 
+(Documento approvato dal Consiglio di Amministrazione di Crédit Agricole Vita S.p.A. il 24 marzo 
+2026) ........................................................................................................................................... 1 
+Versione Documento: 6/2025 .................................................................................................................. 1 
+1. Premessa, Aggiornamento e Quadro normativo ............................................................................ 4 
+2. Introduzione ................................................................................................................................ 6  
+3. Organizzazione della Compagnia ................................................................................................... 7 
+3.1 Struttura degli Organi Sociali ...................................................................................................... 8 
+3.1.1 L’Assemblea Generale degli Azionisti ......................................................................................... 8 
+3.1.2 Il Consiglio di Amministrazione ................................................................................................... 8 
+3.1.3 Il Presidente ................................................................................................................................ 9 
+3.1.4 L’Amministratore Delegato ....................................................................................................... 10 
+3.1.5 Direzione Generale ................................................................................................................... 10 
+Direttore Generale ................................................................................................................................. 10 
+Vice Direttore Generale Commerciale, Marketing e  Investimenti ....................................................... 11 
+Vice Direttore Generale ICT e Tecnica Vita ............................................................................................ 12 
+3.1.6 Il Collegio Sindacale .................................................................................................................. 13 
+3.1.7 L’Organismo di Vigilanza ........................................................................................................... 13 
+3.2 Rappresentazione delle Funzioni Fondamentali e delle interrelazioni con le altre funzioni 
+operative ................................................................................................................................... 14 
+3.2.1 Funzione di gestione dei rischi .................................................................................................. 14 
+3.2.2 Funzione di revisione interna.................................................................................................... 15 
+3.3 Compiti e responsabilità dei soggetti, organi e strutture coinvolte nel processo di 
+investimento ............................................................................................................................. 15 
+3.4 Rappresentazione della struttura operativa del Fondo ............................................................ 16 
+3.4.1 Area Finance, Strategy & Operations ........................................................................... 16 
+3.4.2 Area Compliance & Customer Protection ..................................................................... 18 
+3.4.3 Divisione Investimenti Back Office e Tesoreria ............................................................ 18 
+3.5 Le attività esternalizzate ........................................................................................................... 19 
+4. Organizzazione del sistema dei controlli interni rilevanti per il Fondo .......................................... 21 
+4.1 Controlli di primo livello ................................................................................................ 21 
+4.2 Controlli di secondo livello ............................................................................................ 22 
+4.3 Controlli di terzo livello ................................................................................................. 22 
+4.4 Funzione di Compliance della Compagnia .................................................................... 22 
+5. Organizzazione del sistema di gestione dei rischi rilevanti per il Fondo ......................................... 22 
+6. Flussi informativi tra le strutture aziendali e il Responsabile del Fondo ........................................ 23
+=== pagina 3 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+3  
+6.1 Informativa verso le Funzioni Fondamentali ................................................................ 24 
+7. Politica di remunerazione degli Organi Sociali e del Personale rilevante ....................................... 24 
+7.1 Politica di remunerazione dei soggetti che svolgono un ruolo rilevante all’interno del 
+Fondo ............................................................................................................................ 25 
+7.2 Politica di remunerazione del Responsabile del Fondo ................................................ 26 
+8. Appendice.................................................................................................................................. 27  
+8.1 Cronologia del documento ........................................................................................... 27
+=== pagina 4 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+4  
+1. Premessa, Aggiornamento e Quadro normativo 
+Il contesto normativo europeo di riferimento è definito dalla DIRETTIVA (UE) 2016/2341 (cosiddetta “IORP 
+II”) e dalle successive integrazioni emanate Commissione di Vigilanza sui Fondi Pensioni (di seguito “COVIP”). 
+ 
+Nella strutturazione del sistema di governo del Fondo Pensione Aperto Crédit Agricole Vita sono state prese 
+a riferimento le seguenti normative: 
+ 
+ Decreto legislativo 5 dicembre 2005, n. 252, comprensivo delle modifiche apportate dal decreto 
+legislativo 13 dicembre 2018, n. 147: Decreto Legislativo che integra nelle previsioni del 2005 quanto 
+previsto dal quadro normativo europeo di cui alla IORP II. 
+ 
+ Deliberazione COVIP del 29 luglio 2020 - Direttive alle forme pensionistiche complementari in merito 
+alle modifiche e integrazioni recate al decreto legislativo 5 dicembre 2005, n. 252, dal decreto 
+legislativo 13 dicembre 2018, n. 147, in attuazione della direttiva (UE) 2016/2341. 
+ 
+ Deliberazione COVIP del 13 gennaio 2021 - Istruzioni di vigilanza per le società che gestiscono fondi 
+pensione aperti, adottate ai sensi dell’art. 5-decies, comma 1, del decreto legislativo 5 dicembre 
+2005, n. 252. 
+ 
+ Regolamento Europeo 2022/2554 - Regolamento in merito alla resilienza operativa digitale per il 
+settore finanziario (c.d. DORA - Digital Operational Resilience Act). 
+ 
+ 
+Il presente documento, predisposto ai sensi della normativa applicabile alla Disciplina della governance dei 
+fondi pensione, illustra gli indirizzi adottati dalla Compagnia istitutrice Crédit Agricole Vita S.p.A. (di seguito, 
+anche la “Compagnia”) per garantire l’efficienza e l’efficacia dei processi interni ed esternalizzati adottati, 
+attraverso un’idonea individuazione e gestione dei rischi nonché mediante la verifica dell’attendibilità e 
+dell’integrità dei dati e delle informazioni, anche contabili, inerenti ai profili gestionali. Tale orientamento 
+permette alla Compagnia di garantire una gestione utile alla tutela degli Aderenti presenti e futuri e lo 
+svolgimento delle attività gestionali nel rispetto dei criteri di sana e prudente gestione. 
+ 
+In tale ottica la Compagnia persegue i seguenti obiettivi: 
+ 
+ coordinare il sistema di governance previsto dalla regolamentazione impartita dall’IVASS per le 
+imprese di assicurazione con quello previsto dalla normativa Covip per le società che gestiscono fondi 
+pensione aperti; 
+ 
+ assicurare che le procedure interne definiscano, in chiave di proporzionalità, in modo chiaro e 
+appropriato il riparto dei ruoli e delle responsabilità tra tutti i vari soggetti operanti per il Fondo 
+Pensione Aperto Crédit Agricole Vita (di seguito, anche il “Fondo”) evitando sovrapposizioni e conflitti 
+di interessi; 
+ 
+ assicurare l’ordinata diffusione delle informazioni rilevanti, nonché la tempestiva segnalazione delle 
+eventuali disfunzioni riscontrate al soggetto o organo competente ad attivare le misure correttive; 
+ 
+ assicurare che lo svolgimento delle attività relative alla gestione del Fondo avvengano nel rispetto 
+dei criteri di sana e prudente gestione;
+=== pagina 5 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+5  
+ 
+ rispondere alla prioritaria esigenza, attuale e prospettica, di tutela degli aderenti e dei beneficiari del 
+Fondo e di salvaguardia della piena separazione patrimoniale tra il patrimonio dello stesso e il 
+patrimonio della Compagnia e degli altri clienti. 
+ 
+Il presente documento è redatto/aggiornato con cadenza annuale e pubblicato sul sito web della Compagnia, 
+nella sezione dedicata, unitamente al rendiconto del Fondo ed è suddiviso in 5 sezioni sostanziali, relative: 
+ 
+a) all’organizzazione della Compagnia; 
+b) all’organizzazione del sistema di controllo interno; 
+c) all’organizzazione del sistema di gestione dei rischi; 
+d) ai flussi informativi tra la struttura e il Responsabile del Fondo; 
+e) alle informazioni essenziali relative alla politica di remunerazione. 
+ 
+Nell’ambito della descrizione dell’organizzazione della Compagnia sono riportati anche i ruoli e le 
+responsabilità dei soggetti coinvolti nel processo di investimento di cui all’art. 5 delle “Disposizioni sul 
+processo di attuazione della politica di investimento” (Deliberazione COVIP del 16 marzo 2012).
+=== pagina 6 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+6  
+2. Introduzione 
+ 
+Il Fondo Pensione Aperto Crédit Agricole Vita (di seguito anche il “Fondo”) è un Fondo Pensione Aperto di cui 
+all’art. 12 del D. Lgs. 252/2005 (di seguito “Decreto”). 
+ 
+Il Fondo è stato istituito da Crédit Agricole Vita S.p.A. (di seguito, anche la “Compagnia”), con provvedimento 
+del 7 agosto 1998, mediante autorizzazione rilasciata dalla COVIP d’intesa con l’IVASS. 
+ 
+Il Fondo non ha fini di lucro e ha lo scopo di consentire agli Aderenti di disporre, all’atto del pensionamento, di 
+prestazioni pensionistiche complementari al sistema obbligatorio. Tale scopo è perseguito mediante la 
+raccolta dei contributi e la gestione delle risorse nell’esclusivo interesse degli Aderenti secondo quanto 
+disposto dalla normativa in materia di previdenza complementare. 
+ 
+Sono destinatari del Fondo, coloro che vogliano costituire una pensione integrativa al sistema obbligatorio e 
+l’adesione è consentita: 
+ in forma individuale; 
+ su base collettiva limitatamente ai soggetti destinatari delle forme pensionistiche complementari 
+individuati all’art. 2, comma 1, del Decreto, nei cui confronti trovino applicazione i contratti, gli 
+accordi o i regolamenti aziendali che dispongono l’adesione al Fondo. 
+ 
+La governance e la struttura organizzativa del Fondo recepiscono le disposizioni stabilite dal D. Lgs. n. 
+252/2005 e successive modificazioni ed integrazioni in materia, e dalle direttive della COVIP per le società 
+che gestiscono fondi pensione aperti, in coerenza con il Regolamento del Fondo. 
+Il Fondo opera in regime di contribuzione definita e l’entità delle prestazioni pensionistiche del Fondo è 
+determinata in funzione della contribuzione effettuata e in base al principio della capitalizzazione in relazione 
+al comparto scelto dall’Aderente. 
+ 
+Il Fondo è articolato in 3 comparti, nei quali l’Aderente, all’atto dell’adesione, può scegliere di far confluire i 
+versamenti contributivi: 
+ 
+• Comparto Linea Garantita 
+ 
+• Comparto Linea Moderata 
+ 
+• Comparto Linea Dinamica 
+ 
+In corrispondenza del comparto Linea Garantita viene destinato il conferimento tacito del TFR.
+=== pagina 7 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+7  
+3. Organizzazione della Compagnia 
+ 
+La Compagnia, coerentemente con quanto previsto dalla normativa propria di settore, garantisce una 
+struttura organizzativa adeguata e una puntuale rappresentazione della stessa al fine di definire 
+univocamente i ruoli e le responsabilità dei soggetti coinvolti nelle varie attività. La stessa ha implementato 
+e mantiene un sistema di governo societario “rafforzato” – già adottato a partire dal 2019 – quale quello 
+concretamente applicabile alla Compagnia, in ragione i) del profilo di rischio, ii) della tipologia di attività e iii) 
+della complessità del business e delle operazioni, il tutto conformemente a quanto previsto dal Regolamento 
+IVASS n. 38/2018. Nell’ambito di tale sistema si inserisce, con gli adeguamenti richiesti e le specificità previste 
+dalla disciplina COVIP, quello del Fondo. 
+ 
+La presenza di una solida struttura organizzativa alla base della Compagnia permette di garantire un’adeguata 
+dialettica tra i diversi attori del sistema di governance al fine di individuare tempestivamente eventuali 
+anomalie che dovessero emergere nel corso delle singole attività e permettere un’azione immediata e diretta 
+attraverso il coinvolgimento delle unità preposte. 
+ 
+La struttura individuata garantisce altresì il rafforzamento della centralità dell’Organo Amministrativo in 
+termini di ultimo responsabile del sistema di governance del Fondo. 
+ 
+La presente sezione ha pertanto l’obiettivo di descrivere il sistema organizzativo e di governance della 
+Compagnia con riguardo al Fondo, attraverso una chiara e formale rappresentazione dei soggetti coinvolti, 
+evidenziando la separatezza dei ruoli e delle responsabilità ad essi affidati nonché delle linee guida e le attività 
+operative che gli stessi sono chiamati a svolgere. 
+ 
+La Compagnia è strutturata gerarchicamente e presenta 3 macro sezioni: 
+ 
+- Struttura degli organi sociali 
+- Soggetti che svolgono Funzioni Fondamentali 1 
+- Ulteriore Personale operativo 
+ 
+La Compagnia, con riferimento alla gestione propria del Fondo, ha limitato l’affidamento in outsourcing di 
+alcune attività coerentemente con quando previsto dalla normativa vigente: 
+ 
+- Gestione amministrativa 
+- Gestione investimenti 
+- Responsabile del fondo 
+- Depositario 
+ 
+ 
+Di seguito si riportano ruoli e responsabilità degli Organi sociali, nonché dei titolari delle Funzioni 
+Fondamentali e di tutti i soggetti che svolgono un ruolo rilevante all’interno della Compagnia, le cui attività 
+hanno un impatto rilevante sulla gestione del Fondo Pensione Aperto. 
+ 
+ 
+ 
+ 
+1 Per quanto concerne il Fondo, per Funzioni Fondamentali si intende quanto previsto dalla Deliberazione Covip del 13 
+gennaio del 2021 ovvero Funzione di gestione dei rischi e Funzione di Revisione Interna.
+=== pagina 8 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+8  
+3.1 Struttura degli Organi Sociali 
+Il presente paragrafo riporta una rappresentazione degli organi sociali della Compagnia e delle unità coinvolte 
+nell’attività della stessa. 
+Gli Organi societari della Compagnia sono: 
+ 
+- l’Assemblea degli azionisti; 
+- il Consiglio di Amministrazione; 
+- il Collegio Sindacale. 
+ 
+Inoltre, la Compagnia si è dotata dell’Organismo di Vigilanza e ha costituito dei Comitati endoconsiliari al fine 
+di dare compiuta attuazione al sistema di governo societario “rafforzato” previsto dalla disciplina 
+regolamentare di IVASS. 
+ 
+3.1.1 L’Assemblea Generale degli Azionisti 
+L’Assemblea, regolarmente convocata e costituita, rappresenta l’universalità dei Soci. 
+ 
+L'Assemblea si reputa regolarmente costituita quando è rappresentato l'intero capitale sociale, partecipa 
+all'Assemblea la maggioranza degli Amministratori in carica e dei Sindaci effettivi e nessuno dei partecipanti 
+si opponga alla discussione degli argomenti all’ordine del giorno sui quali non si ritenga sufficientemente 
+informato. 
+Le deliberazioni prese in conformità alla legge e all’atto costitutivo vincolano tutti i Soci, ancorché non 
+intervenuti o dissenzienti. 
+L’Assemblea è ordinaria e straordinaria ai sensi di legge. 
+ 
+L'Assemblea è convocata dagli Amministratori presso la sede sociale, o altrove in Europa, in via ordinaria per 
+l'approvazione del bilancio almeno una volta l'anno entro centoventi giorni dalla fine dell'esercizio, 
+prorogabile sino a centottanta giorni quando particolari esigenze relative alla struttura e all'oggetto della 
+Compagnia lo richiedano. L'Assemblea può altresì essere convocata, previa comunicazione al Presidente del 
+Consiglio di Amministrazione, da almeno due Sindaci. 
+L’Assemblea ordinaria ha il compito di approvare i compensi spettanti agli Organi dalla Compagnia nominati, 
+le politiche di remunerazione a favore degli Organi sociali e del personale rilevante, nonché eventuali piani 
+di remunerazione basati su strumenti finanziari. Per quanto concerne il Fondo, l’Assemblea quindi definisce 
+indirettamente tutto ciò che lo riguarda, non avendo lo stesso Organi e personale propri. 
+ 
+3.1.2 Il Consiglio di Amministrazione 
+Il Consiglio di Amministrazione è composto da un minimo di 5 ad un massimo di 14 Consiglieri che vengono 
+nominati dall’Assemblea degli azionisti. 
+Qualora nel corso dell’esercizio vengano a mancare uno o più Amministratori si provvede secondo le norme 
+del Codice civile, salvo il caso in cui, per dimissioni o per altre cause, vengano a mancare due terzi degli 
+Amministratori di nomina assembleare si intenderà dimissionario l'intero Consiglio e gli Amministratori 
+rimasti in carica dovranno convocare d’urgenza l'Assemblea per la nomina dell'intero nuovo Consiglio. 
+Gli Amministratori non possono essere nominati per un periodo superiore a tre esercizi e scadono alla data
+=== pagina 9 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+9  
+dell'Assemblea convocata per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica e sono 
+rieleggibili. 
+Inoltre, in linea con quanto indicato nell’articolo 10, comma 4, del D.M. 88/2022, nell’organo di 
+amministrazione deve essere assicurata la presenza di una quota di esponenti in possesso dei requisiti di 
+indipendenza di cui all’art. 12 del D.M. 88/2022 medesimo. Tale quota è definita da IVASS per via 
+regolamentare, nel contesto del Regolamento 38. In base a quanto indicato nell’articolo 25, comma 1-bis, 
+del Regolamento 38, almeno un quarto dei Consiglieri deve essere in possesso dei menzionati requisiti di 
+indipendenza di cui all’art. 12 del D.M. 88/2022, in quanto ad essi spetta il compito di vigilare con autonomia 
+di giudizio sulla gestione sociale. 
+Il Consiglio si riunisce con periodicità almeno trimestrale nonché su proposta del Presidente del Consiglio di 
+Amministrazione ovvero quando ne sia fatta domanda da oltre la metà dei suoi membri. Il Consiglio di 
+Amministrazione può essere altresì convocato, previa comunicazione al Presidente del Consiglio di 
+Amministrazione, da almeno due Sindaci. 
+Per la validità delle riunioni del Consiglio si richiede la presenza della maggioranza degli Amministratori, in 
+caso di parità di voti, la deliberazione si intende respinta. 
+Il Consiglio di Amministrazione è investito dei più ampi ed illimitati poteri per la gestione ordinaria e 
+straordinaria della Compagnia. 
+Il Consiglio di Amministrazione ha la facoltà di compiere tutti gli atti anche di disposizione che ritiene 
+opportuni per il conseguimento dell'oggetto sociale, esclusi soltanto quelli che la legge espressamente riserva 
+all'Assemblea degli azionisti. 
+Il Consiglio di Amministrazione è inoltre competente a deliberare in merito: 
+ 
+- all'emissione di obbligazioni non convertibili; 
+- ad eventuale fusione o scissione; 
+- all'istituzione o la soppressione di sedi secondarie; 
+- all'indicazione di quali tra gli Amministratori, oltre al Presidente, al Vice Presidente e 
+all’Amministratore Delegato, hanno la rappresentanza della Compagnia; 
+- all’attribuzione dei poteri di rappresentanza a dirigenti della Compagnia; 
+- alla riduzione del capitale in caso di recesso del socio; 
+- agli adeguamenti dello statuto a disposizioni normative; 
+- al trasferimento della sede sociale nel territorio nazionale. 
+ 
+Con riferimento al Fondo, il Consiglio di Amministrazione effettua un monitoraggio periodico circa 
+l’andamento dello stesso, analizza e prende atto dei controlli effettuati dai vari soggetti preposti alle verifiche 
+delle attività del Fondo e di eventuali questioni straordinarie, al fine di poter individuare le opportune azioni 
+da intraprendere in merito. Inoltre, il Consiglio di Amministrazione si occupa dell’approvazione di tutta la 
+documentazione prevista dalla normativa vigente e dalla prassi operativa della Compagnia. 
+ 
+3.1.3 Il Presidente 
+Il Consiglio di Amministrazione, qualora non vi abbia provveduto l’Assemblea, elegge tra i suoi membri il 
+Presidente. 
+Al Presidente del Consiglio di Amministrazione spetta la rappresentanza legale della Compagnia. Ha il 
+compito di convocare le riunioni del Consiglio di Amministrazione, stabilendo gli ordini del giorno,
+=== pagina 10 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+10  
+coordinandone i lavori e assicurando lo svolgimento di quant’altro ad esso demandato. 
+Il Presidente provvede affinché: 
+- agli Amministratori sia trasmessa con congruo anticipo la documentazione a supporto delle 
+deliberazioni del Consiglio di Amministrazione o, almeno, una prima informativa sulle materie che 
+verranno discusse; 
+- la documentazione a supporto delle deliberazioni, in particolare quella resa agli Amministratori privi 
+di deleghe esecutive, sia adeguata in termini quantitativi e qualitativi rispetto alle materie iscritte 
+all’ordine del giorno; 
+- il processo di autovalutazione ai sensi della disciplina di settore sia svolto con efficacia, siano adottate 
+le misure correttive eventualmente opportune, nonché predisposti e attuati programmi di 
+inserimento e piani di formazione dei componenti del Consiglio di Amministrazione; 
+- la dialettica tra Amministratore Delegato e Amministratori privi di deleghe sia adeguata e sia 
+assicurata la partecipazione attiva di questi ultimi ai lavori del Consiglio di Amministrazione. 
+In ragione delle dimensioni e dello specifico profilo di complessità della Compagnia, il Presidente non ricopre 
+un ruolo esecutivo né svolge funzioni gestionali. Il Consiglio ha provveduto pertanto alla nomina di due Vice 
+Presidenti che sostituiscono il Presidente con i medesimi poteri ad esso spettanti nei casi di assenza o di 
+impedimento. 
+Il Presidente del Consiglio di Amministrazione ha il compito di promuovere l’effettivo funzionamento del 
+sistema di governo societario, garantendo l’equilibrio di poteri rispetto all’Amministratore Delegato e agli 
+eventuali Amministratori esecutivi. 
+ 
+3.1.4 L’Amministratore Delegato 
+La carica viene attribuita dal Consiglio di Amministrazione ad uno dei suoi componenti, attribuendo allo 
+stesso la rappresentanza sociale. 
+L’Amministratore Delegato ha il compito di: 
+ 
+1) curare, per conto della Compagnia, l’esecuzione delle deliberazioni del Consiglio di Amministrazione e 
+dell’eventuale Comitato Esecutivo; 
+2) sovraintendere alla gestione della Compagnia nell’ambito dei poteri attribuiti e secondo gli indirizzi 
+generali fissati dal Consiglio di Amministrazione; 
+ 
+3.1.5 Direzione Generale 
+ 
+        Direttore Generale 
+ 
+Il Direttore Generale è nominato dal Consiglio di Amministrazione. 
+Al Direttore Generale possono essere conferiti, con riferimento a specifici atti o categorie di atti rientranti 
+nell'ambito dei propri poteri, mandati e procure, anche di natura processuale. 
+Il Direttore Generale: 
+- Contribuisce a definire la strategia della Compagnia; 
+- Sovraintende, con il supporto dei Vice Direttori Generali, all’organizzazione e alla gestione aziendale 
+dell’Area Commerciale e Divisione Marketing, dell’Area ICT , della Divisione Investimenti, Back office  e
+=== pagina 11 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+11  
+Tesoreria, dell’Area Tecnica Vita e del Servizio Sviluppo Prodotti Vita garantendone il coordinamento e 
+monitorandone l’operatività; 
+- Provvede alla gestione degli affari correnti afferenti alle proprie aree/servizi di riferimento; 
+- Sovraintende alla predisposizione del budget delle proprie aree di riferimento; 
+- Collabora con l’Amministratore Delegato nella formulazione del Piano, coordinandone la successiva 
+realizzazione per le proprie aree/servizi di riferimento; 
+- Partecipa ai Comitati in coerenza con quanto disposto dai Regolamenti dei Comitati Aziendali della 
+Compagnia riportato nel documento “Responsabilità e interrelazioni degli Organi Sociali e delle Funzioni 
+Fondamentali nell’ambito del sistema di governo societario”; 
+- Coordina progetti di particolare rilevanza per la Compagnia. 
+ 
+Il Direttore Generale, inoltre, in collaborazione con le altre funzioni di Alta Direzione contribuisce a definire 
+l’assetto organizzativo delle Compagnie, i compiti e le responsabilità delle unità operative e dei relativi 
+addetti nonché i processi decisionali in coerenza con le direttive impartite, tra l’altro, dall’organo 
+amministrativo.  
+         
+        Vice Direttore Generale Commerciale, Marketing e  Investimenti 
+ 
+Vice Direttore Generale Commerciale, Marketing e Investimentia è nominato dal Consiglio di Amministrazione. 
+Il Vice Direttore Generale Commerciale, Marketing e  Investimenti assiste e supporta il Direttore Generale 
+nell'esercizio delle sue funzioni e lo sostituisce in caso di assenza o impedimento.  Il Vice Direttore Generale 
+può esercitare gli specifici poteri e le attribuzioni conferitigli ai sensi dello statuto sociale - ivi inclusa 
+l’eventuale rappresentanza della Compagnia, con potere di firma individuale o congiunta - per il compimento 
+di specifici atti o categorie di atti, nei limiti dei poteri attribuiti. 
+Egli potrà altresì assistere, ove richiesto, alle riunioni del Consiglio di Amministrazione. Il Vice Direttore 
+Generale Commerciale e Marketing e  Investimenti riporta al Direttore Generale e lo supporta nella gestione 
+e nel coordinamento delle Aree e Divisione: 
+Divisione Marketing; 
+Area Commerciale; 
+Divisione Investimenti, Back office  e Tesoreria 
+Servizio Sviluppo Prodotti Vita  
+ 
+Principali responsabilità:  
+ 
+Supporta il Direttore Generale nella formulazione del Piano Strategico in collaborazione con l’Amministratore 
+Delegato; 
+Coadiuva il Direttore Generale nell’organizzazione, nella gestione e nel coordinamento delle Aree 
+Commerciale, Divisione Investimenti, Back office  e Tesoreria, Servizio  Sviluppo Prodotti Vita e della Divisione 
+Marketing, monitorandone l’operatività; 
+Coadiuva il Direttore Generale nelle proprie attività di direzione, di controllo del budget delle proprie aree di 
+riferimento, ovvero per le Aree Commerciale, Divisione Investimenti, Back office  e Tesoreria . Servizio  
+Sviluppo Prodotti Vita e della Divisione Marketing;
+=== pagina 12 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+12  
+Partecipa ai Comitati in coerenza con quanto disposto dai Regolamenti dei Comitati Aziendali della Compagnia 
+riportato nel documento “Responsabilità e interrelazioni degli Organi Sociali e delle Funzioni Fondamentali 
+nell’ambito del sistema di governo societario”; 
+Su mandato del Direttore Generale assume l’incarico di coordinamento e direzione di specifici progetti di 
+particolare rilevanza per la Compagnia volte all’innovazione, digitalizzazione e ottimizzazione dell’offerta di 
+servizi e dei processi/risorse; 
+Valida specifiche azioni commerciali a supporto delle scelte strategiche e di posizionamento competitivo delle 
+Compagnie; 
+Supervisiona e valida la gamma prodotti, il piano sviluppo di nuovi prodotti, il Piano Marketing per i prodotti 
+in essere e per il lancio di nuovi prodotti in linea con le strategie del Gruppo; 
+Supportare il Direttore Generale nella definizione del Piano Strategico delle Compagnie 
+ 
+        Vice Direttore Generale ICT e Tecnica Vita  
+ 
+Vice Direttore Generale ICT e Tecnica Vita  è nominato dal Consiglio di Amministrazione. 
+Il Vice Direttore Generale ICT E TECNICA VITA  assiste e supporta il Direttore Generale nell'esercizio delle sue 
+funzioni e lo sostituisce in caso di assenza o impedimento.  Il Vice Direttore Generale può esercitare gli specifici 
+poteri e le attribuzioni conferitigli ai sensi dello statuto sociale - ivi inclusa l’eventuale rappresentanza della 
+Compagnia, con potere di firma individuale o congiunta - per il compimento di specifici atti o categorie di atti, 
+nei limiti dei poteri attribuiti. 
+Egli potrà altresì assistere, ove richiesto, alle riunioni del Consiglio di Amministrazione. 
+ 
+Il Vice Direttore Generale ICT e TECNICA VITA  riporta al Direttore Generale e lo supporta nella gestione e nel 
+coordinamento delle seguenti Aree: 
+ 
+ ICT 
+ TECNICA VITA  
+ 
+Principali responsabilità:  
+ 
+Supporta il Direttore Generale nella formulazione del Piano Strategico in collaborazione con l’Amministratore 
+Delegato; 
+Coadiuva il Direttore Generale nell’organizzazione, nella gestione e nel coordinamento dell’Area ICT, 
+monitorandone l’operatività; 
+Coadiuva il Direttore Generale nelle proprie attività di direzione, di controllo del budget delle proprie aree di 
+riferimento, ovvero per le Area ICT ; 
+Partecipa ai Comitati in coerenza con quanto disposto dai Regolamenti dei Comitati Aziendali della Compagnia 
+riportato nel documento “Responsabilità e interrelazioni degli Organi Sociali e delle Funzioni Fondamentali 
+nell’ambito del sistema di governo societario”; 
+Su mandato del Direttore Generale assume l’incarico di coordinamento e direzione di specifici progetti di 
+particolare rilevanza per la Compagnia volte all’innovazione, digitalizzazione e ottimizzazione dell’offerta di 
+servizi e dei processi/risorse.
+=== pagina 13 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+13  
+3.1.6 Il Collegio Sindacale 
+Il Collegio Sindacale si compone di tre membri effettivi e di due Sindaci supplenti. I componenti del Collegio 
+Sindacale durano in carica per tre esercizi sociali e sono rieleggibili. 
+Il Collegio Sindacale vigila sull’osservanza della legge e dello Statuto, sul rispetto dei principi di corretta 
+amministrazione e sull’adeguatezza dell’assetto organizzativo, amministrativo e contabile adottato dalla 
+Compagnia e sul suo concreto funzionamento. Vigila inoltre sul processo di informativa finanziaria, sulla 
+revisione legale dei conti annuali, sull’indipendenza della Società di revisione legale. 
+Il Collegio Sindacale accerta l’adeguato coordinamento di tutte le funzioni e strutture coinvolte nel sistema 
+dei controlli interni, promuovendo, se del caso, gli opportuni interventi correttivi. 
+A tal fine, il Collegio Sindacale collabora con la società di revisione, le Funzioni Fondamentali, le Funzioni 
+Equiparabili e con eventuali ulteriori soggetti che svolgono compiti di controllo presso l’Impresa e il Fondo 
+Pensione Aperto, e l’OdV; 
+Il Collegio Sindacale vigila altresì sull’osservanza delle regole adottate dalla Compagnia per assicurare la 
+trasparenza e la correttezza sostanziale e procedurale delle operazioni con parti correlate. 
+Il Collegio Sindacale nello svolgimento dei propri compiti si avvale dei flussi informativi provenienti dalle 
+funzioni e strutture di controllo interno. 
+Il Collegio Sindacale mantiene un adeguato collegamento con la Funzione di Internal Audit e con il 
+Responsabile del Fondo Pensione Aperto; 
+Fermo restando l’obbligo di segnalazione alle Autorità di Vigilanza competenti di atti o fatti che possano 
+costituire un’irregolarità di gestione o violazione di norme previste dalla normativa vigente, il Collegio 
+Sindacale segnala al Consiglio di Amministrazione le carenze e irregolarità eventualmente riscontrate, 
+richiede l’adozione di idonee misure correttive e ne verifica nel tempo l’efficacia. 
+ 
+3.1.7 L’Organismo di Vigilanza 
+L’Organismo di Vigilanza (OdV) è un organo collegiale caratterizzato da autonomia, indipendenza, efficienza 
+operativa e continuità di azione, nonché in possesso di professionalità e onorabilità adeguate al ruolo. 
+All’Organismo, nominato dal Consiglio di Amministrazione dell’Impresa, è affidato il compito di vigilare: 
+ sull'osservanza del Modello di Organizzazione e Gestione (MOG) adottato dalla Compagnia; 
+ sull'efficacia e adeguatezza del MOG in relazione alla struttura aziendale e alla effettiva capacità di 
+prevenire la commissione dei reati; 
+ sull'opportunità di aggiornamento del MOG, laddove si riscontrino esigenze di adeguamento dello 
+stesso in relazione a mutate condizioni aziendali e/o normative. 
+La composizione dell’Organismo di Vigilanza (OdV) è descritta nel relativo regolamento. 
+ 
+L’Organismo di Vigilanza relaziona due volte all’anno il Consiglio di Amministrazione sull’attività svolta e il 
+Collegio Sindacale almeno una volta all’anno.
+=== pagina 14 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+14  
+3.2 Rappresentazione delle Funzioni Fondamentali e delle interrelazioni con le 
+altre funzioni operative 
+Nell’ambito del sistema di governo societario sono presenti le Funzioni Fondamentali relative alla gestione 
+dei rischi e alla revisione interna, con evidenza dei compiti attribuiti a ciascuna di esse. 
+Le Funzioni Fondamentali sono previste nell’ordinamento di appartenenza del soggetto presso il quale è 
+istituito o che gestisce il Fondo Pensione e pertanto i compiti ad esse affidati sono stati estesi secondo quanto 
+disposto dalla normativa vigente. Con riferimento al Fondo, le Funzioni Fondamentali previste dalla 
+normativa sono la Funzione di Gestione dei Rischi e la Funzione di Revisione interna. 
+Le Funzioni Fondamentali, ferma restando la reciproca indipendenza e i rispettivi ruoli, collaborano tra loro 
+e con le altre funzioni e gli organi di controllo della Compagnia sia su base continuativa, con frequenza almeno 
+trimestrale, che al verificarsi di specifici eventi, allo scopo di sviluppare metodologie di controllo coerenti con 
+l’attività del Fondo. 
+Le Funzioni Fondamentali richiedono ai competenti organi - siano essi relativi ad attività interne che 
+esternalizzate - i dati, le informazioni e i documenti ritenuti rilevanti ai fini dello svolgimento dei propri compiti 
+e dell’emanazione di eventuali Provvedimenti da parte dell’Organo Amministrativo. 
+Tutto il personale della Compagnia coinvolto nella gestione del Fondo è soggetto all’individuazione e alla 
+mitigazione dei rischi intrinsechi all’attività propria del Fondo. 
+A tal fine il Consiglio di Amministrazione promuove un alto livello di integrità e una cultura del rischio e del 
+controllo interno, tale da sensibilizzare l’intero personale sull’importanza e l’utilità dei controlli interni a 
+presidio dei rischi. Responsabile della promozione della cultura del controllo interno è l’Alta Direzione (ovvero 
+l’Amministratore Delegato, il Direttore Generale, i Vice Direttore Generali nonché la Dirigenza responsabile 
+ad Alto livello del processo decisionale e di attuazione delle strategie) che assicura che il personale sia messo 
+a conoscenza del proprio specifico ruolo prevedendo un assetto organizzativo tale da assicurare uno scambio 
+documentale periodico tra le singole strutture operative e le Funzioni Fondamentali. 
+Il Consiglio di Amministrazione ha costituito un Comitato Endoconsiliare per il Controllo Interno e i Rischi (di 
+seguito eventualmente anche ICRC), con funzioni istruttorie, consultive e propositive, che ha il compito di 
+assistere il Consiglio stesso nella determinazione delle linee di indirizzo del sistema di controllo interno e 
+gestione dei rischi, nella verifica periodica della sua adeguatezza e del suo effettivo funzionamento. 
+Il Comitato ha il compito di riferire al Consiglio di Amministrazione in merito all’attività svolta, attraverso 
+apposite relazioni da sottoporre alla prima riunione utile. Il Presidente del Comitato riferisce inoltre sulle 
+attività svolte in merito a specifici argomenti di volta in volta sottoposti alle deliberazioni del Consiglio di 
+Amministrazione, ovvero per i quali il Comitato è stato chiamato a svolgere approfondimenti dal Consiglio di 
+Amministrazione, trasmettendo la relativa documentazione a supporto dei lavori del Consiglio di 
+Amministrazione stesso. 
+ 
+3.2.1 Funzione di gestione dei rischi 
+La Funzione di gestione dei rischi viene svolta internamente dalle strutture preposte dalla Compagnia nell’Area 
+Risk Management e Controlli Permanenti. 
+La Funzione di gestione dei rischi ha il compito di concorrere alla definizione della politica di gestione dei 
+rischi e di facilitare l’attuazione del sistema di gestione dei rischi, verificando l’efficienza ed efficacia del 
+sistema nel suo complesso. 
+La Funzione, nell’ambito dello svolgimento delle proprie attività, monitora e valuta i processi operativi
+=== pagina 15 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+15  
+dialogando con le funzioni di Internal Audit e Compliance e con gli uffici preposti alle attività operative. 
+Le principali responsabilità della Funzione sono formulare opinioni sulle decisioni fondamentali che generano 
+rischiosità, implementare un sistema di supervisione dei rischi e di prevenzione degli stessi, provvedere 
+all’implementazione ed elaborazione della mappatura dei rischi, definendo metodologia, strumenti e criteri 
+di valutazione. 
+La Funzione di gestione dei rischi ha altresì il compito di validare i flussi informativi necessari ad assicurare il 
+tempestivo controllo delle esposizioni ai rischi e l’immediata rilevazione delle anomalie riscontrate 
+nell’operatività del Fondo. 
+ 
+3.2.2 Funzione di revisione interna 
+La Funzione di revisione interna viene svolta internamente dalle strutture preposte dalla Compagnia nell’Area 
+Internal Audit. 
+La Funzione di revisione interna, conformemente alle disposizioni contenute nell’art. 5-quater del decreto n. 
+252/2005, ha il compito di verificare la correttezza dei processi gestionali ed operativi riguardanti il Fondo 
+Pensione Aperto, l’attendibilità delle rilevazioni contabili e gestionali, l’adeguatezza e l’efficienza del sistema 
+di controllo interno, del sistema informatico (ICT audit) e degli altri elementi riguardanti l’assetto 
+organizzativo di sistema di governo del Fondo Pensione Aperto, comprese le attività esternalizzate, e la 
+funzionalità dei flussi informativi. 
+L’attività viene svolta in modo da identificare i processi, nonché le funzioni e le ulteriori componenti del 
+sistema di governo societario da sottoporre prioritariamente a verifica, utilizzando un approccio basato sul 
+rischio per determinare la cadenza delle verifiche così come per determinare il relativo perimetro e la 
+profondità delle verifiche. 
+Il titolare della revisione interna comunica le risultanze e le raccomandazioni rilevanti nel proprio ambito di 
+responsabilità all’organo amministrativo e, ai sensi dell’art. 5-bis, comma 5, del decreto n. 252/2005 e nei 
+casi previsti dal suddetto articolo, comunica alla Covip se l’Organo al quale ha trasmesso le risultanze e le 
+raccomandazioni rilevanti nel proprio ambito di attività non intraprende azioni correttive adeguate e 
+tempestive. 
+Il titolare della Funzione di revisione interna lavora a stretto contatto con il titolare della Funzione di gestione 
+dei rischi al fine di essere tempestivamente informato circa eventuali disfunzioni che potrebbero coinvolgere 
+le varie strutture operative della Compagnia con riferimento ai nuovi rischi identificati e sulla base della 
+rischiosità dei processi emersa dalle risultanze dell’attività di mappatura dei rischi.  
+3.3 Compiti e responsabilità dei soggetti, organi e strutture coinvolte nel processo 
+di investimento 
+L’investimento delle risorse del Fondo viene effettuato da Crédit Agricole Vita nel rispetto dei limiti e delle 
+condizioni stabiliti dalla normativa vigente, del Regolamento del Fondo e di quanto stabilito nel documento 
+sulla Politica Finanziaria del Fondo Pensione. 
+La Compagnia, fermo restando la piena responsabilità verso gli Aderenti, si è avvalsa della facoltà di delegare 
+l’esecuzione dell’attività d’investimento delle disponibilità del Fondo ad Amundi SGR (società appartenente 
+al Gruppo Crédit Agricole, di seguito “Gestore”), soggetto in possesso dei requisiti definiti nel Decreto 
+Legislativo 5 dicembre 2005, n. 252. 
+Tale delega conferisce ad Amundi l’incarico di eseguire operazioni finanziarie nell’esclusivo interesse degli
+=== pagina 16 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+16  
+Aderenti nel rispetto di quanto stabilito nel Regolamento del Fondo oltre che delle leggi e delle direttive 
+emanate dalla COVIP in materia. 
+Come richiesto dalla Deliberazione Covip del 16 marzo 2012 il documento sulla Politica Finanziaria del Fondo 
+Pensione integra il contratto di gestione del patrimonio del Fondo e la sua applicazione viene costantemente 
+monitorata dalla Compagnia tramite i presidi previsti dalla normativa interna ed esterna. 
+A norma dell’art. 5 della Deliberazione e considerando che il Fondo non ha soggettività giuridica, sono stati 
+determinati i compiti e le responsabilità dei soggetti coinvolti nel processo di investimento come di seguito 
+riportato: 
+- Consiglio di Amministrazione : compete l’approvazione del documento sulla Finanziaria del Fondo 
+Pensione e la deliberazione su eventuali modifiche almeno ogni tre anni su proposta del Comitato 
+Finanza (di seguito eventualmente anche “CoFi”) della Compagnia; 
+- Amministratore Delegato: spetta il conferimento o la revoca del mandato di gestione a soggetti terzi; 
+- Risk Management: esamina la Politica Finanziaria del Fondo e svolge i controlli relativi al rispetto dei 
+limiti operativi fissati dalla stessa; 
+- Comitato Finanza : svolge un ruolo propositivo nella impostazione della politica strategica degli 
+investimenti in coerenza con la Politica Finanziaria e il Regolamento del Fondo; 
+- Vice Direttore Generale Commerciale, Marketing e Investimenti. : supporta il Comitato Finanza 
+nell’impostazione della politica strategica degli investimenti; gestisce, nel rispetto della procedura 
+sulla selezione dei fornitori della Compagnia, l’attività istruttoria per la selezione dei gestori finanziari 
+da sottoporre all’Amministratore Delegato. 
+L’Area è composta da soggetti dotati delle necessarie competenze e professionalità per svolgere un 
+efficace controllo della corretta applicazione della Politica Finanziaria; 
+- Il Responsabile del Fondo: vigila sulla gestione finanziaria con riferimento ai controlli sulle politiche 
+di investimento e sul monitoraggio dei rischi assunti. Il Responsabile del Fondo comunica alla COVIP, 
+contestualmente alla segnalazione all’Organo di Amministrazione e a quello di controllo della 
+Compagnia, le irregolarità riscontrate nell’esercizio delle sue funzioni. Per svolgere tale incarico, in 
+merito agli aspetti finanziari di cui al presente documento, si può avvalere dell’attività di controllo 
+sull’Area Finanza svolta dall’Area Risk Management e Controlli Permanenti della Compagnia; 
+- Gestore finanziario: la gestione è affidata ad Amundi SGR, che trasmette almeno annualmente al 
+Consiglio di Amministrazione della Compagnia una rendicontazione sulle scelte d’investimento 
+effettuate; 
+- Depositario: la funzione di Depositario è stata affidata a Caceis Bank, Italy Branch che svolge le 
+attività previste dalla legge. 
+ 
+3.4 Rappresentazione della struttura operativa del Fondo 
+La Compagnia, al fine di garantire il corretto svolgimento delle operazioni inerenti il Fondo, ha individuato 
+internamente una struttura in grado di rispondere tempestivamente alle specifiche richieste degli Aderenti 
+nonché di adeguarsi agli aggiornamenti richiesti dal mercato garantendo la continuità operativa del Fondo. 
+3.4.1 Area Finance, Strategy & Operations  
+L’Area Finance, Strategy & Operations ha il compito di sovrintendere alla corretta gestione amministrativa, 
+fiscale e di controllo di gestione della Compagnia, governando l’efficienza e l’efficacia dei relativi presidi 
+operazionali, a garanzia della conformità con le regolamentazioni locali e di Gruppo. 
+Tale Area è stata strutturata su più Divisioni di cui si riportano di seguito i principali settori relativi al Fondo
+=== pagina 17 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+17  
+3.4.1.1 Divisione Operations  
+ 
+La Divisione Operations ha il principale compito di intrattenere i rapporti con il Responsabile del Fondo al fine 
+di assicurare una coerente gestione delle attività. 
+A sua volta è stata organizzata in Servizi e Uffici, ognuno dei quali garantisce un determinato presidio: 
+ 
+Servizio Liquidazioni e Contenzioso che si compone: 
+ 
+Ufficio Liquidazioni 
+Ha il compito principale di gestire le varie tipologie di liquidazioni sia per contratti individuali sia collettivi, 
+analizzando la documentazione richiesta dalla Normativa Interna, in particolare: 
+ gestisce i rapporti con il fornitore dei servizi amministrativi del Fondo per quanto di competenza; 
+ verifica la completezza delle richieste di liquidazione e della relativa documentazione; 
+ verifica la presenza dei requisiti necessari per richiedere la liquidazione; 
+ provvede a richiedere e a sollecitare eventuale documentazione mancante; 
+ invia le richieste e la documentazione al fornitore dei servizi amministrativi che si occupa del 
+disinvestimento e della liquidazione; 
+ analizza l’elenco dei sospesi messo a disposizione periodicamente dal fornitore verificandone la 
+coincidenza con quanto atteso e attivandosi per la risoluzione delle anomalie; 
+ effettua controlli a campione sulla correttezza dei dati riportati negli estratti conto liquidativi. 
+L’Ufficio Liquidazioni ha inoltre il compito di verificare il corretto accorpamento delle liquidazioni 
+previdenziali nei registri di competenza, nonché presidiare la casella di posta elettronica dell’Ufficio dedicata 
+alle liquidazioni previdenziali e la casella pec del Servizio Liquidazioni e Contenzioso rispondendo alle email 
+che pervengono dalle Filiali e dalla Clientela per quanto di competenza dell’Ufficio. Fornisce inoltre assistenza 
+telefonica di 2° livello, anche via email, a Clienti, Gestori e Reti Terze. 
+Servizio Portafoglio che si compone: 
+Ufficio Assunzione e Gestione Tecnica  
+Tra i vari compiti affidati a questo Ufficio si rileva nello specifico la gestione dei rapporti con il fornitore dei 
+servizi amministrativi del Fondo per quanto di competenza e l’invio, alle Autorità di Vigilanza e agli Organismi 
+associativi, dei dati statistici e informativi di competenza secondo le disposizioni della Normativa Interna e, 
+in caso di richieste di chiarimenti da parte dell’Autorità di Vigilanza, inoltrare la stessa al Servizio di 
+competenza. 
+L’Ufficio Gestione Tecnica e Previdenza intrattiene i rapporti con il Responsabile del Fondo Pensione Aperto, 
+inoltrando periodicamente la reportistica - fornita dai competenti Servizi di Compagnia - al fine di permettere 
+al Responsabile il corretto svolgimento delle sue attività. Si occupa altresì della gestione dei trasferimenti 
+provenienti da altre forme previdenziali, della riconciliazione delle distinte di contribuzione dei datori di 
+lavoro e del relativo invio della documentazione al fornitore dei servizi amministrativi del Fondo, richiedendo 
+e sollecitando l’eventuale documentazione mancante. Fornisce inoltre assistenza telefonica di 2° livello e via 
+mail a Clienti e Gestori e Reti Terze. 
+ 
+3.4.1.2 Pianificazione e Controllo, Bilanci e Reporting 
+ 
+La Divisione ha il principale compito di organizzare, controllare e coordinare le attività delle risorse della 
+Divisione secondo le priorità individuate e i carichi di lavoro e di supportare il Responsabile di Area nella
+=== pagina 18 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+18  
+gestione delle problematiche di pianificazione, controllo, Bilancio e reporting e nella valutazione dei rischi 
+connessi. Per quanto concerne il Fondo, risulta essenziale l’attività svolta dall’Ufficio Bilancio civilistico e IFRS: 
+ 
+Servizio Contabilità Generale e Tecnica 
+Verificare i dati tecnici provenienti dal fornitore Previnet e sulla base degli stessi garantire la corretta tenuta 
+della contabilità e dell’aggiornamento del sistema contabile della Compagnia ed effettuare inoltre le 
+statistiche periodiche richieste dagli organi di vigilanza e dall’associazione di categoria; 
+ 
+Ufficio Bilancio civilistico e IFRS 
+Ha il principale compito di redigere il rendiconto annuale del Fondo e presidiare il rispetto degli adempimenti 
+di Bilancio e delle attività collegate, di controllarne i dati, di curare gli adempimenti e la corrispondenza con 
+IVASS, ANIA e COVIP per l’informativa di propria competenza (dati di natura bilancistica e contabile), 
+integrando le informazioni di natura non contabile provenienti dalle altre funzioni aziendali coinvolte. 
+ 
+3.4.2 Area Compliance & Customer Protection 
+All’interno dell’Area Compliance, un ruolo importante per garantire nel tempo il rapporto tra Fondo e Aderenti 
+è svolto dall’Ufficio Reclami: 
+Ufficio Reclami 
+L’Ufficio Reclami ha il compito di gestire tutto il processo legato agli esposti, a partire dalla protocollazione 
+dei reclami/richieste istruttorie COVIP ricevute, alla relativa registrazione informatica, curandone 
+l’integrazione con i dati relativi alla loro trattazione, alla predisposizione del relativo riscontro sulla base delle 
+informazioni ricevute dai servizi coinvolti. L’Ufficio ha inoltre il compito di registrare la chiusura del 
+reclamo/richiesta istruttoria nell’apposito registro elettronico. 
+Trimestralmente, inoltre, l’Ufficio ha il compito di trasmettere alla COVIP, per il tramite del fornitore dei 
+servizi amministrativi del Fondo, le statistiche relative ai reclami ricevuti inerenti a quest’ultimo. 
+Annualmente, l’Ufficio propone al Responsabile dell’Area Compliance interventi in merito alla “Politica di 
+gestione dei reclami” da sottoporre al Consiglio di Amministrazione. 
+ 
+3.4.3 Divisione Investimenti Back Office e Tesoreria 
+ 
+La Divisione Investimenti Back Office e Tesoreria riporta al Vice Direttore Generale Commerciale, Marketing 
+e Investimenti ed è organizzata in Servizi ed Uffici, ognuno dei quali garantisce un determinato presidio: 
+ 
+Servizio Back-Office Finanza e Tesoreria 
+Il Servizio si compone dei seguenti Uffici: 
+ 
+Ufficio Amministrazione Titoli 
+Ha il compito di verificare il corretto operato del fornitore dei servizi amministrativi del Fondo, in merito alla 
+gestione amministrativa, alla rendicontazione, alla valorizzazione e alla pubblicazione dei dati relativi al 
+Fondo.
+=== pagina 19 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+19  
+Ufficio Tesoreria e Pagamenti 
+Ha il compito di recepire, controllare i giroconti della liquidità predisposti dall’outsourcer Previnet, sulla base 
+delle Simulazioni/Movimentazioni del Fondo Pensione Aperto. 
+ 
+Ufficio Contabilità e Reporting Titoli 
+Le principali responsabilità relative al Fondo affidate a tale Ufficio sono relative agli adempimenti periodici 
+inviati a IVASS, COVIP e BANCA D’ITALIA, relativamente agli attivi finanziari presenti nel Fondo, inerenti 
+all’attività dell’Ufficio. Tra le ulteriori attività affidate all’Ufficio vi è la preparazione dei documenti per le 
+verifiche sindacali e la verifica della corretta contabilizzazione 
+ 
+Servizio Investimenti 
+Il Servizio tra le altre attività si occupa del presidio delle attività di investimento per i comparti del Fondo 
+Pensione Aperto verificandone la conformità in relazione al rispetto delle rispettive Politiche Finanziarie e 
+delle decisioni prese dal Comitato Finanza e dal Responsabile di Area; 
+Inoltre, si occupa della predisposizione della reportistica di controllo dei limiti definiti nei mandati di gestione 
+e nelle Politiche Finanziarie per i Fondi Interni, Gestioni Separate e Fondo Pensione e rendiconta al Comitato 
+Finanza la situazione dei portafogli e le scelte di investimento. 
+ 
+3.5 Le attività esternalizzate 
+ 
+In linea con le attuali disposizioni normative in merito all’esternalizzazione delle attività e delle funzioni, nel 
+presente paragrafo vengono illustrate le esternalizzazioni a oggi adottate dalla Compagnia con riferimento 
+alla gestione del Fondo. 
+ 
+La Compagnia è consapevole che l’esternalizzazione non la esonera in ogni caso dalle rispettive 
+responsabilità, essendo la stessa chiamata a compiere una valutazione circa l’opportunità di esternalizzare le 
+proprie attività piuttosto che affidare le stesse internamente. 
+La Compagnia è pertanto chiamata a motivare e a documentare le scelte che hanno portato a esternalizzare 
+una data attività, nonché a rappresentare, all’interno della politica di gestione dei rischi, i rischi specifici 
+connessi all’esternalizzazione e i relativi presidi adottati dalla stessa per mitigare tale rischio. 
+La nozione di esternalizzazione rilevante ai fini della disciplina Covip con riguardo alle attività del Fondo 
+discende dal dettato normativo e dalle indicazioni della stessa Autorità presentate nelle Istruzioni di vigilanza 
+per le società che gestiscono fondi pensione aperti, adottate ai sensi dell’art. 5-decies, comma 1, del decreto 
+legislativo 5 dicembre 2005, n. 252. 
+ 
+A tal fine, seppure conferita in outsourcing non rientrano sotto tale nozione le attività del Responsabile del 
+Fondo e del Depositario, dovendo essere gli stessi, ai sensi della normativa vigente, soggetti esterni alla 
+Compagnia. 
+Il Responsabile del Fondo, ai sensi di quanto previsto dall’art. 5, comma 2 del D.lgs. 252/2005 deve infatti 
+svolgere la propria attività in modo autonomo e indipendente e la normativa specifica che l’incarico non può 
+essere conferito ad uno degli Amministratori della Compagnia e che è incompatibile con lo svolgimento di
+=== pagina 20 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+20  
+attività di lavoro subordinato o di prestazione d’opera continuativa, presso la Società istitutrice del Fondo 
+ovvero presso le Società da queste controllate o che le controllano. Il Responsabile assiste alle riunioni 
+dell’organo di amministrazione e di quello di controllo dell’impresa di assicurazione, per tutte le materie 
+inerenti al Fondo. 
+Così come per il Responsabile, il D.lgs. 252/2005 all’art. 7 disciplina anche l’attività del Depositario, 
+specificando che questo deve essere un soggetto distinto dal gestore e avere i requisiti di cui all’art. 47 del 
+Decreto Legislativo del 24 febbraio 1998, n. 58. 
+Con riferimento al tema delle attività affidate in outsourcing, si precisa che anche l’attività di verifica del 
+bilancio è stata affidata ad una società di revisione esterna in possesso dei requisiti previsti dalla normativa 
+vigente. 
+La società di revisione ha il compito di acquisire ogni elemento necessario per accertare se il bilancio 
+d'esercizio sia viziato da errori significativi e se risulti, nel suo complesso, attendibile. Il procedimento di 
+revisione comprende l'esame, sulla base di verifiche a campione, degli elementi probativi a supporto dei saldi 
+e delle informazioni contenuti nel bilancio, nonché la valutazione dell'adeguatezza e della correttezza dei 
+criteri contabili utilizzati e della ragionevolezza delle stime effettuate dagli Amministratori. 
+La società di revisione verifica, inoltre, la regolare tenuta della contabilità e della corretta rilevazione dei fatti 
+di gestione nelle scritture contabili attraverso verifiche campionarie, nonché sottoscrive le dichiarazioni 
+fiscali. 
+La Compagnia, pertanto, tenuto conto di quanto previsto dalla normativa di settore, ha previsto 
+l’esternalizzazione delle attività limitatamente alla gestione amministrativa e all’attività di investimento delle 
+disponibilità del Fondo.  
+La Compagnia, al fine di garantire un servizio adeguato alle dimensioni del Fondo, in grado di rispondere alla 
+primaria esigenza di garantire una gestione dinamica e aggiornata ha provveduto ad esternalizzare la gestione 
+amministrativa del Fondo, affidandola a Previnet S.p.A., con sede in Preganziol (TV). 
+L’esternalizzazione della gestione amministrativa non esonera in ogni modo l’Organo Amministrativo dalle 
+responsabilità derivanti dall’attività stessa, risultando la stessa il risultato di un’apposita valutazione interna 
+che ha portato la Compagnia ad optare per tale soluzione, in quanto, seppur maggiormente dispendiosa, 
+ritenuta qualitativamente migliorativa. 
+Con riferimento all’investimento delle disponibilità del Fondo, la Compagnia, ferma restando la responsabilità 
+verso gli aderenti, si è avvalsa della facoltà di delegare l’esecuzione dell’attività ad Amundi SGR (società del 
+Gruppo Crédit Agricole, di seguito “Gestore”), soggetto in possesso dei requisiti definiti dalla normativa 
+vigente. Tale delega conferisce ad Amundi SGR l’incarico di eseguire operazioni finanziarie nell’esclusivo 
+interesse degli aderenti e nel rispetto di quanto stabilito nel Regolamento del Fondo oltre che delle leggi e 
+delle direttive emanate dalla COVIP in materia. 
+Al fine di garantire una maggiore tutela degli Aderenti il gestore trasmette almeno annualmente al Consiglio 
+di Amministrazione della Compagnia una rendicontazione sulle scelte d’investimento effettuate. 
+La Compagnia, pertanto, al fine di garantire la continuità operativa del Fondo ha provveduto, considerando 
+la centralità delle attività affidate in outsourcing, ad individuare e a mitigare i rischi specifici connessi 
+all’esternalizzazione all’interno della propria politica di gestione dei rischi. 
+La Compagnia effettua un monitoraggio continuo dei processi, con l’obiettivo di individuare la presenza di
+=== pagina 21 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+21  
+eventuali situazioni di conflitto di interesse, garantire la continuità operativa ed il mantenimento della qualità 
+dei servizi. 
+ 
+4. Organizzazione del sistema dei controlli interni rilevanti per il Fondo 
+Il sistema dei controlli interni del Fondo è parte integrante del medesimo della Compagnia che riveste un 
+ruolo centrale nell’organizzazione dell’intera struttura, in quanto costituisce un efficace presidio per 
+garantire il rispetto delle regole, la funzionalità del sistema gestionale e la diffusione di valori di corretta 
+amministrazione e legalità. Di conseguenza, nel presente paragrafo è descritta l’organizzazione del sistema 
+di controllo interno della Compagnia di cui beneficia anche il Fondo. 
+Il Sistema dei Controlli Interni è parte integrante del sistema di governo societario in quanto prevede attività 
+di controllo diffuse in ogni settore operativo e serve, in particolare, a garantire l’emersione delle eventuali 
+anomalie e la loro rappresentazione a chi è in grado di attivare tempestivamente gli opportuni interventi 
+correttivi. 
+Tale sistema di controlli presuppone l’esistenza di un insieme organizzato di procedure di verifica 
+dell’operatività a tutti livelli, che complessivamente assicuri la verifica di conformità dell’attività della 
+Compagnia rispetto alla normativa nazionale e dell’Unione europea, sia essa primaria o secondaria, nonché 
+la rispondenza alle previsioni stabilite dal regolamento e dalle procedure interne. 
+La responsabilità ultima del Sistema dei Controlli Interni risiede presso il Consiglio di Amministrazione che: 
+ 
+ ne fissa le linee di indirizzo, ne verifica periodicamente la costante completezza, funzionalità ed 
+efficacia, anche con riferimento alle attività esternalizzate, assicurando l’identificazione, la 
+valutazione e il controllo dei rischi, ivi compresi quelli derivanti dalla non conformità alle norme; 
+ garantisce la separazione dei ruoli nello svolgimento delle attività di processo, la tracciabilità e 
+visibilità delle operazioni, nonché la trasparenza dei processi decisionali inerenti i singoli processi 
+operativi, approvando, da ultimo, la struttura organizzativa definita in una adeguata e coerente 
+articolazione; 
+ promuove un alto livello di integrità e una cultura del controllo interno, tale da sensibilizzare l’intero 
+personale sull’importanza e l’utilità dei controlli interni a presidio dei rischi. 
+Il sistema di controllo interno si articola su diversi livelli definiti da apposite procedure ed effettuati dalle 
+stesse strutture operative incaricate delle relative attività. Il Sistema individuato infatti coinvolge tutte le 
+strutture operative, comprese quelle affidate in outsourcing e tutte le attività di verifica svolte dai soggetti 
+che operano nel sistema dei controlli interni sono rendicontate periodicamente al Consiglio di 
+Amministrazione. 
+ 
+Il Sistema dei Controlli Interni è articolato su tre distinti livelli. 
+ 
+4.1 Controlli di primo livello 
+I Controlli di primo livello, anche definiti controlli di linea, rappresentano la prima linea di difesa e consistono 
+nelle verifiche svolte sia da chi mette in atto una determinata attività sia da chi ne ha la responsabilità di 
+supervisione, generalmente nell’ambito della stessa unità organizzativa o funzione. Sono i controlli effettuati 
+dalle stesse strutture operative, incorporati nelle procedure automatizzate oppure eseguiti nell’ambito 
+dell’attività di back-office. Sono parte essenziale del Sistema dei Controlli Interni e richiedono lo sviluppo e 
+l’assimilazione della “cultura del controllo”, che è elemento essenziale di un sistema di governance efficace.
+=== pagina 22 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+22  
+4.2 Controlli di secondo livello 
+I controlli di secondo livello, di gestione dei rischi, rappresentano la seconda linea di difesa e rispondono 
+all'esigenza di garantire il monitoraggio continuo e la valutazione dei rischi più significativi per l'attività della 
+Compagnia. 
+Sono attività specifiche affidate a strutture diverse da quelle operative e hanno la finalità di concorrere alla 
+definizione delle metodologie di misurazione dei rischi, di verificare il rispetto dei limiti assegnati alle varie 
+funzioni operative, di controllare la coerenza dell’operatività con gli obiettivi e livelli di rischio definiti dai 
+competenti organi aziendali e di definire specifici controlli permanenti per monitorare le attività ritenute più 
+rischiose. 
+I soggetti a cui è affidata questa tipologia di controlli sono principalmente il titolare della Funzione 
+Fondamentale di Gestione dei rischi, della Funzione di Compliance della Compagnia e il Responsabile del 
+Fondo. 
+Al fine di essere compliant al Regolamento DORA (UE 2022/2554) e, laddove applicabili, alle disposizioni di 
+Capogruppo CAAs, la Compagnia ha avviato un’analisi interna per costituire un sistema di governance 
+adeguato - al fine di garantire gli opportuni presidi di difesa organizzativa sia di 1° livello sia di 2° livello - 
+attraverso la previsione di specifici ruoli e relative responsabilità. Tale attività, che prevede vari passaggi 
+autorizzativi interni ed esterni, è in corso di definizione.  
+4.3 Controlli di terzo livello 
+I controlli di terzo livello, svolti dalla Funzione di Revisione Interna, rappresentano la terza linea di difesa e 
+sono diretti a individuare andamenti anomali, violazioni delle leggi, dei regolamenti e delle procedure, 
+nonché a valutare la funzionalità del complessivo sistema di controllo interno adottato. 
+Concernono pertanto a verificare la completezza, funzionalità e adeguatezza del Sistema dei Controlli Interni 
+e delle ulteriori componenti del sistema di governo societario. 
+4.4 Funzione di Compliance della Compagnia 
+ 
+La Funzione Compliance è volta a prevenire e mitigare il rischio di non conformità, ovvero evitare che la 
+Compagnia incorra in sanzioni giudiziarie o amministrative e/o danni reputazionali derivanti dalla mancata 
+osservanza della normativa di riferimento. 
+ 
+A tal fine, la funzione provvede all’individuazione, monitoraggio e reporting dei rischi e/o ambiti di non conformità 
+rilevati, e contestualmente propone interventi correttivi sui relativi processi e procedure aziendali impattati. 
+ 
+ 
+ 
+ 
+5. Organizzazione del sistema di gestione dei rischi rilevanti per il Fondo 
+ 
+La gestione dei rischi è un processo finalizzato alla individuazione degli eventi potenzialmente negativi e alla 
+relativa mitigazione al fine di rendere il rischio individuato un “rischio accettabile”, garantendo una 
+ragionevole sicurezza sul conseguimento degli obiettivi prefissati. 
+Analogamente a quanto indicato in precedenza, si riporta di seguito il dettaglio del sistema di gestione dei 
+rischi della Compagnia a cui fa capo quello del Fondo. 
+ 
+La Compagnia a tal fine provvede a definire le categorie di rischio, indipendentemente dalla circostanza che 
+siano quantificabili, in funzione della natura, della portata e della complessità dei rischi inerenti all’attività
+=== pagina 23 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+23  
+svolta, in un’ottica attuale e prospettica, nonché degli effetti indiretti connessi ai rischi significativi e alle 
+interdipendenze fra i rischi. 
+ 
+Il sistema di gestione dei rischi prevede la definizione delle strategie, dei processi e delle procedure di 
+segnalazione necessarie a individuare, misurare, monitorare, gestire e segnalare periodicamente all’organo 
+individuato dall’ordinamento interno i rischi a livello individuale ed aggregato ai quali la Compagnia, nonché 
+il Fondo, è o potrebbe essere esposto. 
+ 
+Nell’ottica sopra evidenziata, il Consiglio di Amministrazione, supportato dalla Funzione di Gestione dei 
+Rischi, ha la responsabilità della definizione e dell’attuazione della politica di gestione dei rischi, verificando 
+l’efficienza ed efficacia del sistema nel suo complesso, così come determinato dall’insieme delle Procedure 
+Operative deliberate. 
+ 
+In tale contesto la Funzione di gestione dei rischi è destinataria di flussi informativi che riguardano i rischi 
+indicati dal modello di gestione approvato dal Consiglio di Amministrazione e individuati come rilevanti. 
+Le finalità del sistema di gestione dei rischi sono: 
+ l’efficienza e l’efficacia dei processi; 
+ l’identificazione, la valutazione (anche prospettica), la gestione e l’adeguato controllo dei rischi, in 
+coerenza con gli indirizzi strategici e la propensione al rischio, anche in un’ottica di medio-lungo 
+periodo; 
+ l’identificazione di Controlli Permanenti per la mitigazione e monitoraggio dei rischi;  
+ la tempestività del sistema di reporting delle informazioni; 
+ l’attendibilità e l’integrità delle informazioni sui rischi cui il Fondo è esposto; 
+ la salvaguardia del patrimonio, anche in un’ottica di medio-lungo periodo; 
+ la conformità dell’attività del Fondo alla normativa vigente. 
+ 
+La Funzione, nell'espletamento della sua attività non ha vincoli di accesso a dati, archivi, incluse le 
+informazioni utili per la verifica dell’adeguatezza dei controlli svolti sulle funzioni esternalizzate. 
+La Compagnia, al fine di mantenere ad un livello accettabile i rischi a cui il Fondo è esposto, si è dotata di un 
+adeguato sistema di gestione dei rischi, proporzionato alla natura dell’attività esercitata, che consente 
+l’identificazione, la valutazione ed il controllo dei rischi maggiormente significativi, intendendosi per tali i 
+rischi le cui conseguenze possono minare la realizzazione dell’obiettivo previdenziale del Fondo stesso. 
+A tal fine la Compagnia ha costituito un Comitato per il Controllo Interno e i Rischi, nel quale, un membro del 
+Consiglio di Amministrazione, adeguatamente competente in materia e privo di deleghe, ha il compito di 
+monitorare le attività, l’adeguatezza ed il corretto funzionamento del sistema di gestione dei rischi, al fine di 
+riferire le relative risultanze al Consiglio di Amministrazione, che ne è responsabile ultimo. 
+ 
+6. Flussi informativi tra le strutture aziendali e il Responsabile del Fondo 
+La Compagnia, al fine di permettere al Responsabile del Fondo il corretto svolgimento dell’attività oggetto di 
+mandato, ha implementato con le singole strutture operative adeguati flussi informativi e documentali 
+tramite i quali, su base periodica e a evento, il Responsabile riceve le informazioni pertinenti all’operatività 
+del Fondo. 
+Il Responsabile del Fondo, sulla base della reportistica, delle notizie e dei dati trasmessi provvede a effettuare 
+le proprie verifiche, previste dalla normativa di settore, al fine di verificare che le attività riguardanti la
+=== pagina 24 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+24  
+gestione finanziaria, la gestione amministrativa e le misure di trasparenza siano adeguate e orientate alla 
+tutela degli Aderenti. 
+Il Responsabile, qualora dovesse ravvisare irregolarità rilevanti, tali da poter generare situazioni da ledere gli 
+interessi degli Aderenti e la stabilità stessa del Fondo, ha l’obbligo di dare tempestiva comunicazione alla 
+COVIP, nonché agli Organi competenti della Compagnia affinché gli stessi possano attivare le procedure 
+individuate al fine di evitare pregiudizi su tutta l’attività. 
+Sulla base della documentazione trasmessa dalle strutture operative e da quanto emerso durante gli specifici 
+incontri presso la sede della Compagnia o effettuati in remoto il Responsabile del Fondo predispone 
+annualmente una relazione nella quale sono contenute le risultanze delle verifiche effettuate nel corso 
+dell’esercizio. 
+Nel dettaglio, nella propria relazione, il Responsabile esprime un proprio giudizio circa: 
+ la congruità dei dati forniti; 
+ dettagli relativi agli Aderenti del Fondo; 
+ la tempestività nella liquidazione delle richieste degli Aderenti; 
+ la tempestività e la completezza dei riscontri forniti agli Aderenti relativamente ad eventuali esposti; 
+ il rispetto dei limiti di investimento previsti dal documento di politica Finanziaria del Fondo Pensione; 
+ la presenza di eventuali importi non riconciliati; 
+ la verifica dell’avvenuto invio delle segnalazioni statistiche; 
+ il corretto aggiornamento della documentazione informativa e contrattuale. 
+Nella stessa il Responsabile fornisce inoltre alla COVIP un proprio giudizio in merito all’organizzazione della 
+struttura sulla base della tempestività e completezza dei riscontri forniti dalla Compagnia nel corso 
+dell’esercizio su eventuali disallineamenti emersi nel corso delle verifiche. 
+ 
+6.1 Informativa verso le Funzioni Fondamentali 
+ 
+Tutte le Unità Organizzative hanno l’obbligo di comunicare tempestivamente in forma scritta alle Funzioni 
+Fondamentali e al Responsabile del Fondo, per gli aspetti di rispettiva competenza, qualsiasi fatto rilevante per 
+l’adempimento dei relativi doveri di cui dovesse venire a conoscenza nello svolgimento delle proprie attività. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. Politica di remunerazione degli Organi Sociali e del Personale rilevante 
+La presente sezione ha lo scopo di descrivere gli elementi principali della politica di remunerazione della 
+Compagnia (ovvero la “Politica di Remunerazione degli Organi Sociali e del Personale rilevante”, di seguito 
+anche “Politica di remunerazione”, che al suo interno contiene l’allegato II denominato “Politica di 
+Remunerazione del Responsabile del Fondo Pensione Aperto”) con riferimento ai requisiti specifici richiesti 
+dalle Istruzioni di vigilanza per le società che gestiscono fondi pensione aperti, adottate ai sensi dell’art. 5-
+decies, comma 1, del decreto legislativo 5 dicembre 2005, n. 252 per il Fondo. 
+Pertanto, sotto il profilo soggettivo, la politica di remunerazione per il Fondo è allineata alla politica di 
+remunerazione della Compagnia per quanto riguarda la remunerazione dei titolari delle Funzioni
+=== pagina 25 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+25  
+Fondamentali e prevede specifici requisiti per la remunerazione del Responsabile del Fondo Pensione. 
+Obiettivo della Politica di remunerazione della Compagnia è quello di assicurare il rispetto del principio di 
+sana e prudente gestione delle risorse, nonché l’obiettività, l’autonomia e l’indipendenza degli 
+organi/funzioni/altri soggetti coinvolti, a vario titolo, nelle singole attività. 
+La Compagnia adotta una politica di remunerazione atta a non incoraggiare l’assunzione di rischi in modo 
+non congruo rispetto alla complessità e alla natura dell’attività e a non contrastare gli obiettivi strategici, la 
+redditività e l’equilibrio del Fondo nel lungo termine, nonché gli interessi a lungo termine degli Aderenti e dei 
+Beneficiari. 
+La politica di remunerazione è aggiornata periodicamente e riesaminata almeno ogni tre anni. 
+ 
+Intendendo per remunerazione ogni forma di pagamento, determinata in misura fissa o variabile, ovvero 
+beneficio, incluse eventuali componenti accessorie, corrisposto direttamente o indirettamente, in qualsiasi 
+forma in cambio delle prestazioni di lavoro o dei servizi professionali resi al Fondo, la Compagnia ha 
+formalizzato le diverse componenti che caratterizzano la remunerazione dei soggetti coinvolti nell’attività 
+della stessa: 
+ componente fissa: remunera il ruolo ricoperto ed è proporzionata all’attività svolta, alla 
+responsabilità relativa e alle competenze ed esperienza professionale del destinatario, anche in 
+relazione ai livelli di mercato per figure analoghe; 
+ componente variabile: viene definita attraverso piani di incentivazione, è ammessa purché non 
+incoraggi neppure indirettamente all’assunzione di rischi non congrua o la mancanza di rispetto delle 
+regole interne ed esterne del Fondo. I criteri di commisurazione sono resi noti anticipatamente agli 
+interessati; 
+ benefit: sono riconosciuti in modo omogeneo per categorie di destinatari, in linea con il   mercato. 
+La Compagnia, con riferimento alla Politica di remunerazione ha costituito un Comitato Endoconsiliare, il 
+“Comitato Remunerazioni”, che ha il compito di verificare la congruità del complessivo schema retributivo, 
+delle politiche di remunerazione degli organi sociali e del personale rilevante al fine di garantirne l’adeguatezza 
+anche in caso di modifiche all’operatività della Compagnia o del contesto di mercato in cui la stessa opera, 
+nonché di individuare i potenziali conflitti di interesse e le misure da adottare per gestirli. 
+Al Comitato è altresì affidato il compito di accertare il verificarsi delle condizioni per il pagamento degli 
+incentivi del personale rilevante, dando infine un’adeguata informativa al Consiglio di Amministrazione 
+sull’efficace funzionamento delle politiche di remunerazione. 
+ 
+7.1 Politica di remunerazione dei soggetti che svolgono un ruolo rilevante all’interno del 
+Fondo 
+Il Fondo viene gestito dalla Compagnia e pertanto si avvale dell’operato dei dipendenti della stessa. Nello 
+specifico, con riferimento alle novità introdotte dalla normativa vigente, il Consiglio di Amministrazione ha 
+deliberato sull’estensione dei compiti e delle responsabilità dei titolari delle Funzioni Fondamentali della 
+Compagnia prevedendo l’introduzione dei compiti e delle responsabilità inerenti allo svolgimento delle 
+medesime attività per il Fondo. 
+Il Consiglio di Amministrazione, coerentemente con quanto previsto dalla normativa ha individuato nei 
+titolari delle Funzioni Fondamentali i soggetti che oltre a possedere i requisiti previsti dalla normativa di 
+settore siano capaci di far fronte agli impegni richiesti dalla particolare funzione ad essi affidati.
+=== pagina 26 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+26  
+Pertanto, lo stesso ha individuato l’inquadramento idoneo per tali figure, al fine di garantire loro un 
+compenso proporzionale al ruolo ricoperto. 
+7.2 Politica di remunerazione del Responsabile del Fondo 
+La retribuzione annuale del Responsabile del Fondo è determinata dal Consiglio di Amministrazione della 
+Compagnia all’atto della nomina per l’intero periodo di durata dell’incarico e viene definita sulla base di una 
+sana politica di remunerazione che tenga conto dei principi previsti dalla normativa vigente. 
+Al fine di tutelare gli interessi degli Aderenti ed evitare l’insorgere di eventuali situazioni in conflitto di 
+interesse, il Consiglio di Amministrazione della Compagnia ha definito per il Responsabile del Fondo un 
+compenso fisso e predeterminato escludendo sia qualsiasi forma di partecipazione agli utili della Compagnia, 
+o di Società controllanti o controllate, sia eventuali diritti di acquisto o di sottoscrizione di azioni della 
+Compagnia o di Società controllanti o controllate. 
+La remunerazione del Responsabile non include, di norma, componenti variabili e nel caso le stesse fossero 
+presenti devono essere adeguatamente motivate e rappresentare comunque una parte non significativa 
+della remunerazione. 
+La Politica di remunerazione definita dalla Compagnia prevede altresì la possibilità di riconoscere al 
+Responsabile del Fondo un compenso proporzionato all’effettivo impegno temporale (gettoni di presenza), 
+ferma restando la congruità rispetto alle responsabilità del titolare dell’incarico, anche in relazione ai livelli 
+di mercato.
+=== pagina 27 ===
+Documento sul sistema di governo societario afferente alla gestione del FPA 
+ 
+27  
+8. Appendice  
+8.1 Cronologia del documento 
+ 
+Versione Data Autori Modifiche  
+V1/2021 marzo 
+2021 
+Bordogna Creazione documento 
+V2/2022 
+ 
+settembre 
+2022 
+Bordogna Aggiornamento Annuale 
+V3/2023 settembre 
+2023 
+Bordogna Aggiornamento Annuale 
+V4/2024 luglio 
+2024 
+Bordogna Aggiornamento Annuale 
+V5/2025 settembre 
+2025 
+Bordogna Aggiornamento Annuale 
+V6/2026 marzo 
+2026 
+Bordogna Aggiornamento Annuale

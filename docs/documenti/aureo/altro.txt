@@ -1,0 +1,52 @@
+# Fondo: FONDO PENSIONE APERTO AUREO (aureo)
+# Documento: Altri documenti – Leggi l'informativa completa
+# Fonte: https://www.bccrisparmioeprevidenza.it/it-IT/Documents/Nuove%20prestazioni%20pensionistiche_link%20sito%20web.pdf
+# Citato in: https://www.bccrisparmioeprevidenza.it/it-IT/pagine/prodotti/fondo-pensione.aspx
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 5608d5187d5a77ffafcb5e8d3e1f312f27060b66760c72df53a5e189d23cf20e
+# Pagine: 2
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Nuove prestazioni pensionistiche: regole 
+COVIP 2026 
+ 
+La Legge di Bilancio 2026 (L. n. 199/2025) ha modificato in modo significativo l’art. 
+11 del D.Lgs. 252/2005, che disciplina le prestazioni pensionistiche complementari 
+introducendone tre nuove tipologie, espressamente qualificate come «prestazioni 
+pensionistiche», alternative alla rendita vitalizia tradizionale. 
+ 
+Dal 1° luglio 2026 si aggiungono le seguenti nuove opzioni, erogate direttamente dal 
+Fondo pensione: 
+ 
+• rendita a durata definita: è una prestazione erogata per un numero di anni 
+predeterminato, calcolato sulla base dell’aspettativa di vita al momento della 
+richiesta. Il montante maturato viene diviso in un numero di rate pari a quello 
+degli anni di speranza di vita residua dell’aderente, ricavato dalle tavole di 
+mortalità ISTAT; 
+• prelievi liberamente determinabili: tale opzione permette all’aderente di 
+scegliere quando prelevare e quanto, nei limiti previsti dalla normativa. Non è 
+possibile tuttavia prelevare tutto e subito: la normativa stabilisce un tetto 
+massimo pari all’importo che si sarebbe ricevuto se l’aderente avesse scelto la 
+rendita a durata definita con frazionamento annuale. 
+ 
+Dal 31 ottobre 2026 entrerà infine in vigore l’erogazione frazionata del montante: 
+questa prestazione permette di ricevere il montante accumulato in rate periodiche 
+nell’arco di un periodo di tempo scelto liberamente dall’aderente, nel rispetto del 
+limite minimo di 5 anni fissato dalla legge. 
+ 
+Le “Istruzioni in tema di prestazioni pensionistiche”, emanate dalla Commissione di 
+Vigilanza sui Fondi Pensione (COVIP) il 25 giugno 2026, prevedono un periodo 
+transitorio, che non potrà protrarsi oltre il 31 dicembre 2026, al fine di consentire alle 
+forme pensionistiche complementari di adeguare in maniera ordinata i sistemi e i 
+processi operativi interni per la gestione delle richieste e l’erogazione delle 
+prestazioni.
+=== pagina 2 ===
+Pag. 2 di 2 
+ 
+ 
+Durante questo periodo, le forme pensionistiche complementari potranno accogliere 
+le richieste di accesso da parte degli aderenti alle nuove prestazioni, ma 
+procederanno all’erogazione solo successivamente all’avvenuto adeguamento 
+operativo. L'aderente potrà revocare la scelta prima della liquidazione del primo 
+importo. Dopo l’inizio della liquidazione la scelta è irrevocabile.

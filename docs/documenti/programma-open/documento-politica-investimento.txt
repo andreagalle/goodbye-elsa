@@ -1,0 +1,647 @@
+# Fondo: PROGRAMMA OPEN FONDO PENSIONE APERTO (programma-open)
+# Documento: Documento sulla politica di investimento – Programma Open – Documento sulla politica di investimento
+# Fonte: https://cdn.groupama.it/app/uploads/2024/01/Programma-Open-Documento-sulla-politica-di-investimento.pdf
+# Citato in: https://www.groupama.it/previdenza-integrativa/programma-open/
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 40748edbebec47a9255388b4c9bc300f4b9f0f4d80650d364ae0092d897b473b
+# Pagine: 14
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+1  
+ 
+DOCUMENTO SULLA 
+STRATEGIA FINANZIARIA DELLE FORME PENSIONISTICHE COMPLEMENTARI 
+Istituite da GROUPAMA ASSICURAZIONI S.p.A. 
+Ai sensi della Delibera COVIP del 16 marzo 2012 – Disposizioni sul processo di attuazione della politica di investimento 
+e ai sensi del Reg. 2088/2019 – Informativa sulla sostenibilità 
+ 
+Perimetro di applicazione: 
+Programma Open Fondo Pensione Aperto (aperto alla raccolta di nuove adesioni) 
+- Comparti Bilanciato Etico, Azionario Etico, Nuovo Obbligazionario Etico; 
+ 
+Data di entrata in vigore: 
+1 Gennaio 2024  
+ 
+ 
+Premessa 
+Il Programma Open Fondo Pensione Aperto è finalizzato all’erogazione di trattamenti pensionistici complementari del 
+sistema previdenziale obbligatorio, ai sensi del D. Lgs. 5 dicembre 2005, n. 252. Programma Open è stato istituito da 
+Groupama Assicurazioni S.p.A., impresa di assicurazione appartenente al gruppo Groupama, ed è iscritto all’albo tenuto 
+dalla COVIP con il numero 78. 
+Programma Open è rivolto a tutti coloro che inte ndono realizzare un piano di previdenza complementare su base 
+individuale. Possono inoltre aderire, su base collettiva, i lavoratori nei cui confronti trovano applicazione i contratti, gl i 
+accordi o i regolamenti aziendali che prevedono l’adesione a Programma Open. 
+Programma Open è una forma pensionistica operante in regime di contribuzione definita: l’entità della prestazione 
+pensionistica è determinata in funzione della contribuzione effettuata e dei relativi rendimenti. Programma Open è 
+costituito in forma di patrimonio separato e autonomo all’interno della Compagnia. 
+Il presente documento ha lo scopo di definire il processo di attuazione della politica di investimento che la Società 
+intende attuare per ottenere, dall’impiego delle risorse gestite afferenti a Programma Open, l’obiettivo finale di perseguire 
+combinazioni di rischio-rendimento efficienti nell’arco temporale coerente con i bisogni previdenziali degli aderenti e con 
+le prestazioni da erogare. 
+Esso è sottoposto a revisione periodica almeno ogni tre anni. 
+Il Documento è trasmesso, in sede di prima definizione e, in seguito, in occasione di ogni sua modificazione:  
+• agli organi di controllo della forma pensionistica ed al responsabile della  stessa; 
+• ai soggetti incaricati della gestione finanziaria e alla banca depositaria; 
+• alla COVIP, entro venti giorni dalla sua formalizzazione. 
+Il documento è a disposizione degli aderenti che ne facciano richiesta per iscritto, a mezzo posta elettronica o posta 
+ordinaria, ai seguenti indirizzi: 
+info@groupama.it 
+Groupama Assicurazioni, Direzione Vita, Ufficio Previdenza Complementare, viale Cesare Pavese, n° 385 – 00144 
+Roma.
+=== pagina 2 ===
+2  
+ 
+1) Numero minimo e massimo di mandati in cui far articolare la gestione, requisiti dei gestori, durata dei 
+mandati, natura e tipologia, struttura del regime commissionale, esercizio dei diritti di  voto 
+La Compagnia ha sottoscritto un mandato di gestione con il  Gestore Finanziario di Gr uppo Groupama Asset 
+Management S.g.r., al quale è subentrata dal 01/01/2023 la Groupama Asset Management SA – Succursale 
+Italiana, per la gestione finanziaria delle risorse degli aderenti, che prevede indicazioni relative a ciascuno dei 
+tre comparti di cui si compone Programma Open Fondo Pensione Aperto. Il mandato prevede differenti limiti 
+e vincoli, a seconda del comparto in cui le risorse sono investite. 
+Il mandato impone al Gestore Finanziario una gestione del portafoglio attiva rispetto al parametro oggettivo di 
+riferimento su tutti e tre i comparti. 
+Il Gestore Finanziario, oltre ad essere in possesso di tutti i requisiti di legge, è altresì in possesso di una 
+consolidata esperienza in materia di strumenti, mercati finanziari e di attività di gestione d i organismi di 
+investimento collettivo del risparmio (OICR). 
+La durata del mandato è annuale e viene tacitamente rinnovato di anno in anno, salvo disdetta che la 
+Compagnia dovrà inviare al Gestore Finanziario con un preavviso di almeno 90 giorni.  
+La remunerazione del Gestore Finanziario è fissata in 20 punti base annui sul valore di mercato del patrimonio 
+gestito. Non sono previste commissioni di incentivo, né commissioni di sovra performance rispetto al 
+parametro oggettivo di riferimento. 
+L’esposizione azionaria è interamente rappresentata da OICR e/o ETF e non può essere rappresentata da 
+esposizioni dirette: non viene pertanto esercitato alcun diritto di  voto. 
+ 
+ 
+2) Caratteristiche dei potenziali aderenti e analisi dei dati relativi ai passivi, ripartiti per portafoglio di 
+investimento 
+Programma Open Fondo Pensione Aperto non prevede meccanismi di life-cycle. E’ destinato sia alle adesioni 
+individuali di tutti i soggetti indistintamente sia alle adesioni dei lavoratori sulla base, ad esempio, di contratti 
+o accordi collettivi aziendali. Esso non ha quindi una popolazione di riferimento predefinita. D’altra parte, la 
+pluralità di opzioni d’investimento previste dal Fondo e l’ampia facoltà concessa ai potenziali aderenti di destinare 
+liberamente i contributi a uno o più comparti con combinazioni di rischio -rendimento diversificate rendono 
+Programma Open idoneo a soddisfare le aspettative di popolazioni di riferimento piuttosto  ampie.
+=== pagina 3 ===
+3  
+ 
+3) Definizione del numero di comparti e delle combinazioni rischio -rendimento di ciascun portafoglio, 
+definizione del rendimento medio annuo atteso e della sua variabilità nell’orizzonte temporale preso a 
+riferimento, definizione della probabilità che il rendimento dell’investimento, nell’orizzonte temporale 
+preso a riferimento, risulti inferiore al rendimento target. Definizione del turnover. 
+Vengono fissati i seguenti obiettivi della gestione, divisi per comparto di  investimento: 
+ 
+Programma Open FPA – Comparto Bilanciato Etico: 
+- Orizzonte temporale di investimento consigliato: 7 - 10 anni 
+- Orizzonte temporale stocastico: 7,3 anni 
+- Rendimento medio annuo atteso nell’orizzonte temporale stocastico: 4,17% 
+- Variabilità attesa del rendimento nell’orizzonte temporale stocastico: 3,56% 
+- Perdita massima annuale ritenuta accettabile (con un intervallo di confidenza del 95%):  -17,64% 
+- Duration della componente obbligazionaria: compresa tra 0 e 10 anni 
+- Turnover atteso: 10-200% 
+- T.E.V. massima attesa: 2,30% 
+- La probabilità che, anche in base all’esperienza passata, il rendimento nell’orizzonte temporale 
+stocastico stabilito possa risultare inferiore al target è pari a: 49,82% 
+ 
+Programma Open FPA – Comparto Prevalentemente Azionario Etico: 
+- Orizzonte temporale di investimento consigliato: oltre 10 anni 
+- Orizzonte temporale stocastico: 9,2 anni 
+- Rendimento medio annuo atteso nell’orizzonte  temporale stocastico:  5,86% 
+- Variabilità attesa del rendimento nell’orizzonte  temporale stocastico:  4,57% 
+- Perdita massima annuale ritenuta accettabile (con un intervallo di confidenza del 95%):  -22,33% 
+- Duration della componente obbligazionaria: compresa tra 0 e 11 anni 
+- Turnover atteso: 10-200% 
+- T.E.V. massima attesa: 3,27% 
+- La probabilità che, anche in base all’esperienza passata, il rendimento nell’orizzonte temporale 
+stocastico stabilito possa risultare inferiore al target è pari a: 49,12% 
+ 
+ 
+ 
+Programma Open FPA – Comparto Nuovo Obbligazionario Etico, con garanzia di conservazione del capitale 
+investito: 
+- Orizzonte temporale di investimento consigliato: 5 anni 
+- Orizzonte temporale stocastico: 5,2 anni 
+- Rendimento medio annuo atteso nell’orizzonte  temporale stocastico:  1,84% 
+- Variabilità attesa del rendimento nell’orizzonte  temporale stocastico:  3,64% 
+- Perdita massima annuale ritenuta accettabile (con un intervallo di confidenza del 95%):  -13,82% 
+- Duration della componente obbligazionaria: compresa tra 0 e 6 anni 
+- Turnover atteso: 10-200% 
+- T.E.V. massima attesa: 1,57% 
+- La probabilità che, anche in base all’esperienza passata, il rendimento nell’orizzonte temporale stocastico 
+stabilito possa risultare inferiore al limite rappresentato dagli impegni di conservazione del capitale
+=== pagina 4 ===
+4  
+assunti è pari a: 49,72% 
+ 
+ 
+4) Obiettivi della gestione e criteri da seguire per il loro perseguimento: 
+Il Programma Open Fondo Pensione Aperto ha l’obiettivo, in particolare, di consentire agli aderenti di disporre, 
+all’atto del pensionamento, di prestazioni pensionistiche complementari del sistema obb ligatorio. A tal fine, 
+esso provvede alla raccolta dei contributi, alla gestione delle risorse nell’interesse esclusivo degli aderenti e 
+all’erogazione delle prestazioni secondo quanto disposto dalla normativa in materia di previdenza 
+complementare. L’obiettivo finale della politica di investimento del Programma Open Fondo Pensione Aperto 
+è di massimizzare le risorse destinate alle prestazioni fornendo agli aderenti opzioni d’investimento 
+diversificate in funzione di diverse aspettative di rendimento e di tolleranza al rischio finanziario, perseguendo 
+combinazioni di rischio -rendimento efficienti in termini di rapporto tra rendimenti e volatilità dei risultati, in 
+qualsiasi arco temporale considerato. 
+Al fine di realizzare tale obiettivo , il Programma Open Fondo Pensione Aperto prevede tre opzioni di 
+investimento (definite comparti): Comparto Nuovo Obbligazionario Etico  con garanzia di conservazione del 
+capitale investito, Comparto Bilanciato Etico, Comparto Azionario Etico. La gestione finanziaria dei comparti è 
+affidata mediante mandato di gestione a Groupama Asset Management SA – Succursale Italiana, società di 
+gestione facente parte del medesimo gruppo della Compagnia. Gli aderenti del Programma Open Fondo 
+Pensione Aperto possono liber amente destinare i contributi ad uno dei comparti o a suddividerli tra gli stessi 
+con combinazioni scelte  liberamente dall’aderente. I flussi di TFR conferiti tacitamente a Programma Open sono 
+destinati al comparto Nuovo Obbligazionario Etico con garanzia di conservazione del capitale investito. 
+ 
+ 
+5) Asset allocation: definizione della % di patrimonio da investire nelle varie classi di strumenti (azioni - 
+obbligazioni-altro), aree geografiche, settori, valute. Utilizzo di OICR. Porzione di patrimo nio da gestire 
+attivamente.  
+ 
+Programma Open FPA – Comparto Bilanciato Etico: 
+Il comparto risponde alla finalità di ottenere un graduale incremento del capitale investito, coniugando 
+elementi di redditività e di rivalutazione e accettando la variabilità dei risultati nel tempo e potenziali moderate 
+perdite del valore dell’investimento. 
+ 
+Il comparto è adatto agli aderenti che non siano prossimi al pensionamento.  
+Il comparto è basato su di una gestione finanziaria bilanciata tra strumenti di natura obbligazionaria e strumenti 
+di natura azionaria, quotati nei principali mercati regolamentati delle aree geografiche di riferimento orientati 
+principalmente nell’area europea. La strategia d’investimento persegue un’ottimizzazione delle combinazioni 
+rischio-rendimento del patrimonio gestito, variando la porzione di portafoglio investita in azioni e 
+obbligazionari, in relazione all’andamento dei mercati. 
+Il parametro oggettivo di riferimento (benchmark) risulta essere il seguente:  
+• 50% Bloomberg Euro Aggregate Treasury (LEATTREU Index) 
+• 20% Bloomberg Euro Aggregate Corporate (LECPTREU Index) 
+• 20% MSCI World Net Total Return EUR Index (MSDEWIN Index) 
+• 10% MSCI World 100% Hedged to EUR Net Total Return Index (MXWOHEUR Index)  
+ 
+Le risorse finanziarie del portafoglio sono prevalentemente investite in strumenti obbligazionari . La duration
+=== pagina 5 ===
+5  
+media della componente obbligazionaria del portafoglio può oscillare tra 0 e 10 anni. Gli emittenti dei titoli di 
+debito sono sia pubblici e che privati.  
+L’allocazione azionaria è rappresentata da OICR e/o ETF e può rappresentare al massimo il 40% del portafoglio. 
+L’esposizione azionaria prevede investimenti prevalentemente ad elevata capitalizzazione  ed operanti in tutti 
+i settori industriali.  
+L’area geografica  di riferimento è rappresentata dai paesi dell’Unione Europea, dai principali paesi 
+industrializzati dell’OCSE e dai paesi emergenti. 
+ 
+Il Gestore Finanziario ha facoltà di non coprire il rischio di cambio ma l’esposizione in divisa diversa da Euro, al netto 
+della copertura del rischio cambio, non può superare il 30% del portafoglio.  
+ 
+Nessun singolo emittente, né azionario, né obbligazionario, può superare,  ad eccezione dei titoli emessi e/o 
+garantiti da Stati appartenenti all’OCSE, il 5% del portafoglio. E’ previsto l’utilizzo di OICR senza limiti particolari 
+sul portafoglio. L’investimento in OICR sarà limitato ai prodotti la cui politica d’investimento sia coerente con il 
+mandato della gestione.  
+ 
+E’ altresì consentito l’utilizzo di strumenti derivati orientato a finalità di copertura del rischio, coerentemente 
+con il profilo rischio-rendimento del comparto, a patto che i contratti siano conclusi con controparti abilitate, 
+sottoposte a vigilanza prudenziale e con rating minimo BBB-. 
+ 
+Circa l’opportunità di impiego di strumenti alternativi, è possibile investire in questo tipo di strumenti fino al 20% del 
+portafoglio, a patto che presentino  una politica di gestione coerente con il comparto. In  ottemperanza alla 
+normativa in vigore, prima dell’investimento in questa classe di attivi la Compagnia compirà analisi per 
+individuare i rapporti rischio -rendimento associati a tali investimenti. E’ ammesso l’utilizzo  di questo tipo di 
+strumenti qualora in occasione di determinate congiunture dei mercati essi siano riconosciuti  come valide 
+alternative di investimento in un’ottica di diversificazione o di decorrelazione con l’andamento  dei mercati 
+medesimi, mantenendo  comunque coerenza con la politica di investimento e con gli obiettivi prefissati. Gli 
+investimenti in strumenti alternativi, derivati e OICR, saranno effettuati a seguito di accordi con gli emittenti 
+che esplicitino il livello di accesso da parte della società alle informazioni su lle strategie poste in essere dal 
+gestore, la struttura dei costi dello strumento, i periodi di uscita dall’investimento, nonché i flussi informativi 
+sufficienti ad un’adeguata valutazione dell’investimento effettuato e alla predisposizione delle segnalazi oni 
+statistiche di vigilanza. 
+ 
+La gestione del comparto è effettuata da Groupama Asset Management SA – Succursale Italiana, società di 
+gestione del risparmio appartenente allo stesso gruppo della Compagnia, in modo da perseguire benefici in 
+termini di gestione finanziaria e di razionalizzazione dei costi. 
+Lo stile di gestione è attivo, finalizzato alla compravendita di attivi in coerenza con la durata delle obbligazioni 
+per gli strumenti di debito, con scostamenti anche significativi dal benchmark. Per la quota investita in OICR 
+e/o ETF azionari vi è la possibilità di scostamenti rilevanti dal benchmark, al fine di cogliere singole opportunità 
+di investimento. L’investimento in strumenti finanziari diversi da quelli previsti nell’indice di riferimento o presenti  
+in misura diversa possono comportare scostamenti del comparto rispetto al  benchmark. 
+ 
+La Compagnia monitora altresì il turnover di portafoglio e la tracking error volatility (TEV).  
+ 
+Strategia di Investimento Sostenibile
+=== pagina 6 ===
+6  
+Il comparto promuove caratteristiche ambientali e sociali, corrispondendo così alla classificazione dell'articolo 
+8 ai sensi del Regolamento UE 2019/2088 (SFDR).  
+Tutti i criteri ESG (Environment, Social, Governance) sono utilizzati nell'analisi finanziari a e nelle decisioni di 
+investimento, in particolare nel processo di selezione dei fondi comuni. Il comparto “Bilanciato Etico” prevede 
+di allocare una percentuale minima di investimenti basati su strategie ESG (articolo 8 o 9 ai sensi del lo SFDR) 
+pari all'80%.  
+L'integrazione dell'analisi ESG nel processo di gestione utilizzato nei fondi sottostanti da Groupama Asset 
+Management consente al fondo pensione di valutare la capacità di aziende e organizzazioni di innovare e 
+adattarsi ai cambiamenti ambientali e sociali, con una prospettiva di lungo periodo. 
+ 
+Il rischio di sostenibilità  è definito nel lo SFDR come un evento o una condizione ambientale, sociale o di 
+governance che, se si verifica, potrebbe causare un impatto negativo materiale effettivo o potenziale sul valore 
+dell'investimento. Groupama Assicurazioni si affida alla gestione e alle compete nze d el gestore delegato  
+(Groupama Asset Management) per integrare i rischi di sostenibilità nella gestione del portafoglio (attraverso 
+i fondi selezionati), in particolare per: 
+• valutare la capacità delle aziende e delle organizzazioni di innovare e adatta rsi ai cambiamenti 
+ambientali e sociali, con una prospettiva di lungo termine (analisi finanziaria ed extra -finanziaria 
+integrata da parte di Groupama Asset Management); 
+• utilizzare un approccio strutturale ed extra -finanziario all'analisi delle "obbligazio ni sovrane", 
+integrando i principi di un'economia sostenibile (innovazione, istruzione e formazione, stabilità sociale, 
+transizione energetica) nella valutazione del merito di credito degli Stati;  
+• vietare (per i fondi con etichetta "PVR") o contenere fortemente (per gli altri fondi, per i quali i gestori 
+di portafoglio devono fornire motivazioni scritte) l'investimento o il reinvestimento in società la cui 
+redditività economica e finanziaria potrebbe essere compromessa a causa di un'elevata esposizione a 
+fattori ambientali, sociali e di governance ("Major ESG Risks List"); 
+• disimpegnarsi da società il cui fatturato o mix di produzione di energia sia basato sul carbone termico 
+per oltre il 20%, o la cui produzione annuale superi i 20 Mt o la cui capacità insta llata di centrali 
+elettriche a carbone superi i 10 GW. 
+• disimpegnarsi dalle aziende con nuovi progetti di centrali elettriche che utilizzano carbone termico, 
+miniere di carbone termico o infrastrutture di carbone termico. 
+ 
+L’analisi ESG  consente inoltre al fondo pensione di valutare gli impatti negativi o positivi  sui fattori di 
+sostenibilità (impatto ambientale e sociale, rispetto dei diritti umani, etica aziendale) delle società o delle 
+organizzazioni; per ogni settore vengono selezionati gli indicatori ri tenuti rilevanti e materiali. La politica di 
+esclusione del carbone termico e dei combustibili fossili  contribuisce alla gestione degli impatti negativi del
+=== pagina 7 ===
+7  
+fondo. 
+ 
+Per garantire la qualità della governance delle società investite dai fondi sottostanti, Groupama AM utilizza 
+uno strumento di analisi ESG proprietario che include criteri di buona governance:  
+• % di consiglieri indipendenti 
+• Integrazione dei criteri ESG nella remunerazione degli executive 
+• Esistenza di un CSR Committee all'interno del consiglio 
+• Politica di prevenzione della corruzione e contenzioso in materia di corruzione  
+• Lobbismo responsabile ed esistenza di controversie 
+ 
+ 
+ 
+Programma Open FPA – Comparto Prevalentemente Azionario Etico 
+ 
+Il comparto risponde alla finalità di ottenere un sostanziale incremento dei capitali investiti al termine 
+dell’orizzonte temporale, accettando nel corso dell’orizzonte temporale oscillazioni dei risultati e potenziali 
+significative perdite del valore dell’investimento.  
+Il comparto è orientato prevalentemente su strumenti di natura azionaria, la cui quota non può superare il 
+65%. La quota residuale è investita in strumenti di natura obbligazionaria e monetaria quotati nei principali 
+mercati regolamentati d elle aree geografiche  di riferimento. La strategia d’investimento persegue 
+l’ottimizzazione delle combinazioni di rischio-rendimento del patrimonio gestito, variando la scelta dei mercati 
+e delle aree di riferimento, mantenendo comunque rilevante la porzio ne del portafoglio investita in azioni. 
+ 
+Il parametro oggettivo di riferimento risulta essere il seguente: 
+• 45% Bloomberg Euro Aggregate Treasury (LEATTREU Index) 
+• 25% MSCI World Net Total Return EUR Index(MSDEWIN Index)) 
+• 20% MSCI World 100% Hedged to EUR Net Total Return Index (MXWOHEUR Index) 
+• 10% MSCI EMU Net Total Return EUR Index (MSDEEMUN Index) 
+ 
+L’esposizione azionaria è rappresentata  da OICR e/o ETF e prevede prevalentemente emittenti ad alta 
+capitalizzazione ed operanti in tutti i settori industriali.  
+La quota residuale investita in titoli obbligazionari ha una duration media che può oscillare tra  0 e 11 anni. Gli 
+emittenti dei titoli di debito sono sia pubblici che privati. L’area geografica di riferimento è rappresentata dai 
+paesi dell’Unione Europea, dai principali paesi industrializzati dell’OCSE e dai paesi emergenti. 
+ 
+Il Gestore Finanziario ha facoltà di non coprire il rischio di cambio, ma l’esposizione in divisa diversa da Euro 
+non può superare il 30% del portafoglio, al netto della copertura del rischio cambio. 
+ 
+Nessun singolo emittente, né azionario, né obbligazionario, può superare, ad eccezione dei titoli emessi e/o 
+garantiti da Stati appartenenti all’OCSE, il 5% del portafoglio. E’ previsto l’utilizzo di OICR senza limiti particolari 
+sul portafoglio. L’investimento  in OICR sarà limitato ai prodotti la cui politica d’investimento sia coerente con il 
+mandato della gestione.  
+ 
+E’ altresì consentito l’utilizzo di strumenti derivati orientato a finalità di copertura del rischio, coerentemente
+=== pagina 8 ===
+8  
+con il profilo rischio-rendimento del comparto, a patto che i contratti siano conclusi con controparti abilitate, 
+sottoposte a vigilanza prudenziale e con rating minimo BBB-. 
+ 
+Circa l’opportunità di impiego di strumenti alternativi, è possibile investire in questo tipo di strumenti fino al 20% 
+del portafoglio, a patto che presentino una politica di gestione coerente con il comparto. In  ottemperanza alla 
+normativa in vigore, prima dell’investimento in questa classe di attivi la Compagnia compirà analisi per 
+individuare i rapporti rischio -rendimento associati a tali investimenti. E’ ammesso l’utilizzo  di questo tipo di 
+strumenti qualora in occasione di determinate congiunture dei mercati essi siano riconosciuti  come valide 
+alternative di investimento in un’ottica di diversificazione o di decorrelazione con l’andamento  dei mercati 
+medesimi, mantenendo  comunque coerenza con la politica di investimento  e con gli obiettivi prefissati. Gli 
+investimenti in strumenti alternativi, derivati e OICR , saranno effettuati a seguito di accordi con gli emittenti 
+che esplicitino il livello di accesso da parte della società alle informazioni sulle strategie poste in essere dal 
+gestore, la struttura dei costi dello strumento, i p eriodi di uscita dall’investimento, nonché i flussi informativi 
+sufficienti ad un’adeguata valutazione dell’investimento effettuato e alla predisposizione delle segnalazioni 
+statistiche di vigilanza. 
+ 
+La gestione è effettuata da Groupama Asset Management SA – Succursale Italiana, società di gestione del 
+risparmio appartenente allo stesso gruppo della Compagnia, in modo da perseguire benefici in termini di 
+gestione finanziaria e di razionalizzazione dei costi. 
+Lo stile di gestione è attivo, finalizzato alla compravendita di attivi in coerenza con la durata delle obbligazioni 
+per gli strumenti di debito, con scostamenti anche significativi dal benchmark. Per la quota investita in OICR 
+e/o ETF azionari vi è la possibilità di scostamenti rilevanti dal benchmark, al fine di cogliere singole opportunità 
+di investimento. L’investimento in strumenti finanziari diversi da quelli previsti nell’indice di riferimento o presenti 
+in misura diversa possono comportare scostamenti del comparto rispetto al  benchmark. 
+La Compagnia monitora altresì il turnover di portafoglio e la tracking error v olatility (TEV). 
+ 
+ 
+Strategia di Investimento Sostenibile 
+Il comparto promuove caratteristiche ambientali e sociali, corrispondendo così alla classificazione dell'articolo 
+8 ai sensi del Regolamento UE 2019/2088 (SFDR).  
+Tutti i criteri ESG (Environment, So cial, Governance) sono utilizzati nell'analisi finanziaria e nelle decisioni di 
+investimento, in particolare nel processo di selezione dei fondi comuni. Il comparto “Prevalentemente Azionario 
+Etico” prevede di allocare una percentuale minima di investimenti basati su strategie ESG (articolo 8 o 9 ai sensi 
+dello SFDR) pari all'80%.  
+L'integrazione dell'analisi ESG nel processo di gestione utilizzato nei fondi sottostanti da Groupama Asset 
+Management co nsente al fondo pensione di valutare la capacità di aziende e organizzazioni di innovare e 
+adattarsi ai cambiamenti ambientali e sociali, con una prospettiva di lungo periodo.  
+ 
+Il rischio di sostenibilità è definito nel Regolamento UE 2019/2088 (SFDR) come un evento o una condizione 
+ambientale, sociale o di governance che, se si verifica, potrebbe causare un impatto negativo materiale 
+effettivo o potenziale sul valore dell'investimento. Groupama Assicurazioni si affida alla gestione e alle
+=== pagina 9 ===
+9  
+competenze del ge store delegato (Groupama Asset Management) per integrare i rischi di sostenibilità nella 
+gestione del portafoglio (attraverso i fondi selezionati), in particolare per:  
+• valutare la capacità delle aziende e delle organizzazioni di innovare e adattarsi ai cam biamenti 
+ambientali e sociali, con una prospettiva di lungo termine (analisi finanziaria ed extra -finanziaria 
+integrata); 
+• utilizzare un approccio strutturale ed extra -finanziario all'analisi delle "obbligazioni sovrane", 
+integrando i principi di un'economia sostenibile (innovazione, istruzione e formazione, stabilità sociale, 
+transizione energetica) nella valutazione del merito di credito degli Stati;  
+• vietare (per i fondi con etichetta "PVR") o contenere fortemente (per gli altri fondi, per i quali i gestor i 
+di portafoglio devono fornire motivazioni scritte) l'investimento o il reinvestimento in società la cui 
+redditività economica e finanziaria potrebbe essere compromessa a causa di un'elevata esposizione a 
+fattori ambientali, sociali e di governance ("Major ESG Risks List"); 
+• disimpegnarsi da società il cui fatturato o mix di produzione di energia sia basato sul carbone termico 
+per oltre il 20%, o la cui produzione annuale superi i 20 Mt o la cui capacità installata di centrali 
+elettriche a carbone superi i 10 GW. 
+• disimpegnarsi dalle aziende con nuovi progetti di centrali elettriche che utilizzano carbone termico, 
+miniere di carbone termico o infrastrutture di carbone termico. 
+ 
+L’analisi ESG consente inoltre al fondo pensione di valutare gli impatti negativi o positivi  sui fattori di 
+sostenibilità (impatto ambientale e sociale, rispetto dei diritti umani, etica aziendale) delle società o delle 
+organizzazioni; per ogni settore ven gono selezionati gli indicatori ritenuti rilevanti e materiali. La politica di 
+esclusione del carbone termico e dei combustibili fossili  contribuisce alla gestione degli impatti negativi del 
+Fondo. 
+ 
+Per garantire la qualità della governance delle società i nvestite dai fondi sottostanti, Groupama A sset 
+Management utilizza uno strumento di analisi ESG proprietario che include criteri di buona governance: 
+• % di consiglieri indipendenti 
+• Integrazione dei criteri ESG nella remunerazione degli executive 
+• Esistenza di un CSR Committee all'interno del consiglio 
+• Politica di prevenzione della corruzione e contenzioso in materia di corruzione  
+• Lobbismo responsabile ed esistenza di controversie 
+ 
+Programma Open FPA – Comparto Nuovo Obbligazionario Etico , con garanzia di cons ervazione del capitale 
+investito 
+La garanzia prevede l’erogazione di un importo minimo garantito, a prescindere dai risultati di gestione, pari alla  
+somma dei contributi versati al comparto al netto delle spese direttamente a carico dell’aderente al verificarsi 
+dei seguenti eventi: 
+o esercizio del diritto alla prestazione pensionistica;
+=== pagina 10 ===
+10  
+o riscatto per decesso; 
+o riscatto per invalidità permanente che comporti la riduzione della capacità di lavoro a meno 
+di un terzo; 
+o inoccupazione per un periodo superiore a 48 mesi. 
+Questo comparto è destinato al conferimento tacito del TFR ed è adatto agli aderenti che prediligono 
+investimenti estremamente prudenti. La gestione è volta a realizzare con elevata probabilità rendimenti c he  
+siano almeno pari a quelli del TFR in un orizzonte temporale pluriennale.  
+Il comparto risponde alle esigenze di un soggetto che è avverso al rischio e privilegia investimenti volti a favorire 
+la stabilità del capitale e dei risultati nel tempo. Il comp arto è basato su di una gestione finanziaria fondata 
+prevalentemente su titoli a reddito fisso, sia governativi sia societari, che persegue  l’ottimizzazione delle 
+combinazioni rischio -rendimento del patrimonio gestito mantenendo contenute, in relazione all’andamento 
+dei mercati, le oscillazioni del valore dell’investimento. Le scelte d’investimento sono coerenti con gli obiettivi 
+di prudenza della strategia, che è quindi orientata in prevalenza verso classi di attivi di  natura monetaria ed 
+obbligazionaria. E’ possibile che una quota del portafoglio sia investita su strumenti di natura azionaria, comunque 
+fino al massimo del 10%. 
+ 
+Il parametro oggettivo di riferimento risulta essere il seguente: 
+• 25% Bloomberg Euro Aggregate Treasury (LEATTREU Index) 
+• 25% Bloomberg Euro-Aggregate Treasury 1-3 Year TR Index Value Unhedged EUR (LET1TREU Index) 
+• 45% Bloomberg Euro Aggregate Corporate (LECPTREU Index) 
+• 5% MSCI EMU Net Total Return EUR Index (MSDEEMUN Index) 
+ 
+La prevalenza del portafoglio è investita in titoli obbligazionari di breve -media durata, con duration tra 0 e 6 
+anni. Gli emittenti dei titoli di debito sono sia pubblici che privati. 
+L’esposizione azionaria è rappresenta da OICR e/o ETF. I paesi dell’Unione Europea rappresentano le principali 
+aree geografiche di investimento e sono ammessi investimenti nei principali paesi industrializzati dell’OCSE  e 
+in paesi emergenti. 
+ 
+Il Gestore Finanziario ha facoltà di non coprire il rischio di cambio, ma l’esposizione in divisa diversa da Euro non 
+può superare il 30% del portafoglio, al netto della copertura del rischio di cambio. 
+ 
+Nessun singolo emittente, né azionario, né obbligazionario, può superare, ad eccezione dei titoli emessi e/o 
+garantiti da Stati appartenenti all’OCSE, il 5% del portafoglio. E’ previsto l’utilizzo di OICR senza limiti particolari 
+sul portafoglio. E’ altresì consentito l’utilizzo di strumenti derivati orientato a finalità di copertura del rischio, 
+coerentemente con il profilo risc hio-rendimento del comparto, a patto che i contratti siano conclusi con 
+controparti abilitate, sottoposte a vigilanza prudenziale e con rating minimo  BBB-. 
+ 
+Gli investimenti in strumenti derivati e in OICR  sono effettuati a seguito di accordi con l’emittente di tali 
+strumenti, che esplicitano il livello di accesso da parte della società alle informazioni sulle strategie poste in 
+essere dal gestore, la struttura dei costi dello strumento, i periodi di uscita dall’investimento, nonché di flussi 
+informativi sufficienti ad un’adeguata valutazione dell’investimento effettuato e alla predisposizione delle 
+segnalazioni statistiche di vigilanza. 
+ 
+La gestione è effettuata da Groupama Asset Management SA – Succursale Italiana, società di gestione del
+=== pagina 11 ===
+11  
+risparmio appartenente allo stesso gruppo della Compagnia, in modo da perseguire benefici in termini di 
+gestione finanziaria e di razionalizzazione dei costi. 
+Lo stile di gestione è attivo, finalizzato alla compravendita di attivi in coerenza con la durata delle obbligazioni 
+per gli strumenti di debito, con scostamenti anche significativi dal benchmark. Per la quota investita in ETF e/o 
+OICR azionari vi è la possibilità di scostamenti rilevanti dal benchmark, al fine di cogliere singole opportunità di 
+investimento. L’investimento in strumenti finanziari diversi da quelli presenti nell’indice di riferimento o presenti in 
+misura diversa possono comportare scostamenti del Comparto rispetto al benchmark.  
+La Compagnia monitora altresì il turnover di portafoglio e la tracking error volatility (TEV).  
+ 
+Strategia di Investimento Sostenibile 
+Il comparto promuove caratteristiche ambientali e sociali, corrispondendo così alla class ificazione dell'articolo 
+8 ai sensi del Regolamento UE 2019/2088 (SFDR). 
+Tutti i criteri ESG (Environment, Social, Governance) sono utilizzati nell'analisi finanziaria e nelle decisioni di 
+investimento, in particolare nel processo di selezione dei fondi co muni. Il comparto “Nuovo Obbligazion ario 
+Etico” prevede di allocare una percentuale minima di investimenti basati su strategie ESG (articolo 8 o 9 ai sensi 
+delloSFDR) pari all'80%.  
+L'integrazione dell'analisi ESG nel processo di gestione utilizzato  nei fo ndi sottostanti da Groupama Asset 
+Management consente al fondo pensione di valutare la capacità di aziende e organizzazioni di innovare e 
+adattarsi ai cambiamenti ambientali e sociali, con una prospettiva di lungo periodo.  
+ 
+Il rischio di sostenibilità  è definito nel Regolamento UE 2019/2088 SFDR come un evento o una condizione 
+ambientale, sociale o di governance che, se si verifica, potrebbe causare un impatto negativo materiale 
+effettivo o potenziale sul valore dell'investimento. Groupama Assicurazioni si affida alla gestione e alle 
+competenze del gestore delegato (Groupama Asset Management) per integrare i rischi di sostenibilità nella 
+gestione del portafoglio (attraverso i fondi selezionati), in particolare per:  
+• valutare la capacità delle aziende e delle organizzazioni di innovare e adattarsi ai cambiamenti 
+ambientali e sociali, con una prospettiva di lungo termine (analisi finanziaria ed extra -finanziaria 
+integrata); 
+• utilizzare un approccio strutturale ed extra -finanziario all'analisi delle "obbligazioni sovrane", 
+integrando i principi di un'economia sostenibile (innovazione, istruzione e formazione, stabilità sociale, 
+transizione energetica) nella valutazione del merito di credito degli Stati;  
+• vietare (per i fondi con etichetta "PVR") o contenere fortemente (per gli altri fondi, per i quali i gestori 
+di portafoglio devono fornire motivazioni scritte) l'investimento o il reinvestimento in società la cui 
+redditività economica e finanziaria potrebbe essere compromessa a causa di un'elevata esposizione a 
+fattori ambientali, sociali e di governance ("Major ESG Risks List");
+=== pagina 12 ===
+12  
+• disimpegnarsi da società il cui fatturato o mix di produzione di energia sia basato sul carbone termico 
+per oltre il 20%, o la cui produzione annuale superi i 20 Mt o la cui capacità installa ta di centrali 
+elettriche a carbone superi i 10 GW. 
+• disimpegnarsi dalle aziende con nuovi progetti di centrali elettriche che utilizzano carbone termico, 
+miniere di carbone termico o infrastrutture di carbone termico. 
+ 
+L’analisi ESG consente inoltre al fondo pensione di valutare gli impatti negativi o positivi  sui fattori di 
+sostenibilità (impatto ambientale e sociale, rispetto dei diritti umani, etica aziendale) delle società o delle 
+organizzazioni; per ogni settore ven gono selezionati gli indicatori ritenuti rilevanti e materiali. La politica di 
+esclusione del carbone termico e dei combustibili fossili  contribuisce alla gestione degli impatti negativi del 
+Fondo. 
+ 
+Per garantire la qualità della governance delle società i nvestite dai fondi sottostanti, Groupama A sset 
+Management  utilizza uno strumento di analisi ESG proprietario che include criteri di buona governa nce: 
+• % di consiglieri indipendenti 
+• Integrazione dei criteri ESG nella remunerazione degli executive 
+• Esistenza di un CSR Committee all'interno del consiglio 
+• Politica di prevenzione della corruzione e contenzioso in materia di corruzione  
+• Lobbismo responsabile ed esistenza di controversie 
+ 
+ 
+6) Sistema di controllo della gestione e dei risultati 
+Di seguito sono indicati i controlli effettuati e la relativa periodicità valevoli per tutti i comparti:  
+ 
+Parametro Soggetto Modalità di 
+verifica 
+Periodicità 
+Performance/rendimento Gestore Finanziario / 
+Investimenti Finanziari 
+Esame dei risultati 
+conseguiti in termini di 
+rischio e rendimento, in 
+assoluto che in relazione 
+con il mercato 
+Trimestrale 
+Variabilità rendimento 
+medio 
+Gestore Finanziario / 
+Investimenti Finanziari 
+Calcolo del valore effettivo 
+e confronto con quello 
+atteso 
+Annuale 
+Perdita massima accettabile Gestore Finanziario / 
+Investimenti Finanziari 
+Calcolo del valore effettivo 
+e confronto con quello 
+atteso 
+Annuale 
+Duration titoli obbligazionari Gestore Finanziario / 
+Investimenti Finanziari 
+Calcolo del valore e verifica 
+che lo stesso sia in linea con 
+le indicazioni riportate nel 
+Documento 
+Trimestrale 
+Tracking error volatility 
+(TEV) 
+Gestore Finanziario / 
+Investimenti Finanziari 
+Calcolo e monitoraggio del 
+valore 
+Trimestrale
+=== pagina 13 ===
+13  
+Limiti di investimento Gestore Finanziario / 
+Investimenti Finanziari 
+Verifica di eventuali 
+sforamenti rispetto ai limiti 
+prestabiliti nel Documento 
+Mensile 
+Performance attribution Gestore Finanziario Attribuzione della 
+differenza dei risultati 
+conseguiti in termini di 
+rischio e rendimento 
+rispetto a quelli attesi dai 
+diversi fattori di mercato 
+Trimestrale 
+Controllo costi di gestione, 
+di negoziazione e degli OICR 
+Auditing Interno Analisi dei costi sostenuti e 
+verifica della loro coerenza 
+con i costi a carico degli 
+aderenti. Controllo sulla 
+coerenza tra costi effettivi 
+per gli OICR e quanto 
+previsto dalle previsioni 
+regolamentari o dalle 
+convenzioni di gestione 
+ 
+Analisi strumenti alternativi 
+(se previsti da regolamento 
+e mandato con il Gestore 
+Finanziario) 
+Gestore Finanziario / 
+Investimenti Finanziari 
+Analisi per individuare i 
+rapporti rischio-rendimento 
+associati (sia considerati 
+isolatamente che in 
+relazione all’interazione 
+con altre tipologie di 
+strumenti finanziari 
+presenti in portafoglio e 
+solo in caso di ricorso a 
+strumenti alternativi di 
+dimensioni significative) 
+Annuale 
+Controllo incidenza costi 
+OICR 
+Gestore Finanziario / 
+Investimenti Finanziari 
+Verifica dell’incidenza sulla 
+redditività dei costi 
+sostenuti e solo in caso di 
+ricorso a OICR di 
+dimensioni significative 
+Annuale 
+Verifica applicazione 
+procedure di impostazione e 
+attuazione politica di 
+Investimento 
+Auditing Interno   
+Verifica percentuale 
+sottostanti art.8 presenti nel 
+comparto 
+Gestore Finanziario / 
+Investimenti Finanziari 
+ Verifica percentuale 
+sottostanti art.8 presenti nel 
+comparto 
+Trimestrale
+=== pagina 14 ===
+14  
+7) Informativa e modifiche apportate nell’ultimo triennio 
+ 
+Modifica Oggetto Data modifica 
+Benchmark Modifica dei benchmark di riferimento per ciascun comparto del Fondo 
+Pensione. 
+1 gennaio 2019 
+Rimozione 
+paragrafo 
+Eliminazione del paragrafo “compiti e responsabilità dei soggetti coinvolti nel 
+processo di investimento” dato che tale sezione è ormai contenuta nel 
+Documento sul sistema di governo del fondo 
+  1 luglio 2021 
+Sostenibilità Inserimento paragrafo ai sensi del Regolamento UE 2088/2019 (SFDR)    1 luglio 2021 
+Fusione con 
+creazione di 
+nuovo comparto 
+Fusione dei comparti Obbligazionario e Tutela nel comparto di nuova istituzione - 
+art. 8 SFDR - denominato Nuovo Obbligazionario Etico  
+1 gennaio 2024 
+Trasformazione 
+comparti art. 8 
+Trasformazione d ei compart i Bilanciato e Prevalentemente Azionario  in art. 8 
+SFDR  , ridenominazione rispettivamente in Bilanciato Etico e Prevalentemente 
+Azionario Etico ; integrazione del nuovo approccio di sostenibilità nei 
+sottoparagrafi sull’asset allocation e conseguente rimozione  del paragrafo 
+specifico.  
+1 gennaio 2024 
+Strategia di 
+investimento  
+Per i comparti Bilanciato Etico e Prevalentemente Azionario Etico: variazione della 
+duration della componente obbligazionaria; utilizzo di ETF; investimento in paesi 
+emergenti; equivalente rilevanza di emittenti pubblici e privati con rimozione del 
+rating minimo; equivalente rilevanza di OICR armonizzati e non;  riduzione del 
+rating minimo delle controparti di operazioni in derivati. 
+1 gennaio 2024 
+Benchmark Modifica dei benchmark di riferimento  dei comparti  Bilanciato Etico e 
+Prevalentemente Azionario Etico 
+1 gennaio 2024

@@ -1,17 +1,26 @@
 {
-  "versione": "c0729f8-dirty (sviluppo)",
-  "generato_il": "2026-10-07T21:16:06+00:00",
+  "versione": "a538964-dirty (sviluppo)",
+  "generato_il": "2026-10-10T13:33:11+00:00",
   "workbook": "fondi-pensione-covip.xlsx",
-  "workbook_modificato_il": "2026-10-07T19:41:58",
-  "workbook_sha256": "fa54dece8fa2d53a82430bec3bc9cb3229f3818be7d399ec2bf5c58961a46a49",
-  "commit": "c0729f8f7cfed1e00b28aaacba8bd55529e82a02",
+  "workbook_modificato_il": "2026-10-10T09:36:04",
+  "workbook_sha256": "226614f84cd0bd759e08fea9ba8f8daa93ca012a4441e5841d9413c9ccb50650",
+  "commit": "a5389644146cdf3fdc236c57926feef4e0408f5f",
+  "licenza": {
+    "nome": "The Unlicense",
+    "spdx": "Unlicense",
+    "file": "LICENSE"
+  },
   "conteggi": {
     "fondi": 38,
     "fondi_con_dati": 23,
     "comparti": 102,
     "comparti_10_anni": 95,
     "comparti_con_anomalie": 11,
-    "fondi_con_anomalie": 19
+    "fondi_con_anomalie": 19,
+    "regole": 32,
+    "glossario": 49,
+    "fondi_con_prestazioni": 32,
+    "prestazioni_con_rendita_67": 24
   },
   "flag": {
     "comparti": {
@@ -48,10 +57,100 @@
       "tipo": "primaria"
     },
     {
+      "nome": "Documenti sulle rendite, Supplementi alla Nota informativa e Schede costi dei gestori",
+      "url": null,
+      "tipo": "primaria",
+      "dettaglio": "foglio Prestazioni: link documento_rendite, scheda_costi e supplemento di prestazioni.json"
+    },
+    {
       "nome": "Ciao Elsa – schede dei fondi pensione aperti",
       "url": "https://www.ciaoelsa.com/schede-fondo/fondi-pensione-aperti/",
       "tipo": "secondaria",
       "dettaglio": "colonna scheda_url di fondi.json e comparti.json"
+    },
+    {
+      "nome": "COVIP – Guida introduttiva alla previdenza complementare (settembre 2018)",
+      "url": "https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "D.Lgs. 252/2005 – testo COVIP aggiornato alla Legge 199/2025",
+      "url": "https://www.covip.it/sites/default/files/legislazione_fondi/decreto_legislativo_5_dicembre_2005_n_252.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – FAQ sul conferimento del TFR",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/conferimento-tfr",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "Legge 30 dicembre 2025, n. 199 – estratto COVIP",
+      "url": "https://www.covip.it/sites/default/files/legislazione_fondi/legge_bilancio_2026.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – FAQ sul trattamento fiscale",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/trattamento-fiscale",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – FAQ sulle prestazioni",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/prestazioni",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Risposta a quesito sul riscatto ex art. 14, c. 5 (febbraio 2021)",
+      "url": "https://www.covip.it/normativa/fondi-pensione/quesiti/risposta-quesito-tema-riscatto-della-posizione-individuale-parte",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Esempio di supplemento alla Nota informativa per i fondi aperti (28 luglio 2026)",
+      "url": "https://www.covip.it/sites/default/files/notizie/esempio_supplementoni_fpa.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Istruzioni sulle prestazioni (deliberazione 25 giugno 2026)",
+      "url": "https://www.covip.it/sites/default/files/provvedimenti/istruzioni_prestazioni_25_06_2026.pdf",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "COVIP – Risposta a quesito: premorienza e rinuncia all'eredità (ottobre 2009)",
+      "url": "https://www.covip.it/normativa/fondi-pensione/quesiti/premorienza-rinuncia-alleredita",
+      "tipo": "primaria",
+      "dettaglio": "foglio Regole"
+    },
+    {
+      "nome": "ISTAT – Tavole di mortalità della popolazione residente, Italia 2025 (stima)",
+      "url": "https://demo.istat.it/app/?i=TVM&l=it",
+      "tipo": "primaria",
+      "dettaglio": "foglio Longevita"
+    },
+    {
+      "nome": "COVIP – Glossario",
+      "url": "https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario",
+      "dettaglio": "foglio Glossario",
+      "tipo": "primaria"
+    },
+    {
+      "nome": "Ciao Elsa – home page (“Ma chi è Ciao Elsa?”)",
+      "url": "https://www.ciaoelsa.com/",
+      "dettaglio": "foglio Glossario",
+      "tipo": "secondaria"
+    },
+    {
+      "nome": "Ciao Elsa – Sottoscrizione di fondi pensione su Ciao Elsa",
+      "url": "https://www.ciaoelsa.com/sottoscrizione-fondi-pensione-su-ciao-elsa",
+      "dettaglio": "foglio Glossario",
+      "tipo": "secondaria"
     }
   ]
 }

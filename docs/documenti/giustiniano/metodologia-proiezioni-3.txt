@@ -1,0 +1,250 @@
+# Fondo: FONDO PENSIONE APERTO GIUSTINIANO (giustiniano)
+# Documento: Metodologia delle proiezioni – Disposizioni sulle proiezioni pensionistiche
+# Fonte: https://www.intesasanpaoloassicurazioni.com/bin/openAssetInline?path=/content/dam/isp_assicurazioni/products/altro/005/Documento%20sulle%20proiezioni%20pensionistiche_03_2026_UA.pdf
+# Citato in: https://www.intesasanpaoloassicurazioni.com/it/prodotti-e-rendimenti/pensione-integrativa/giustiniano.html
+# Scaricato il: 2026-10-09
+# SHA-256 del PDF: 30a47ce647a033cb01239257fb4e19d50b68bda6a2a912fc482185744ea20c08
+# Pagine: 6
+# Testo estratto automaticamente dal PDF con pypdf: tabelle e impaginazione possono risultare alterate; fa fede il PDF.
+
+=== pagina 1 ===
+Disposizioni 
+su
+lle proiezioni 
+pensionistiche
+Sezione V della Delibera COVIP del 22 dicembre 2020 -
+ Istruzioni di vigilanza in materia di trasparenza 
+Gruppo Intesa Sanpaolo
+=== pagina 2 ===
+Disposizioni sulle proiezioni pensionistiche
+2 di 6
+1. Premessa
+Le Istruzioni di cui alla presente Sezione sono volte a definire una metodologia uniforme per l’elaborazione di 
+proiezioni che le forme pensionistiche complementari/società utilizzano per fornire, in qualunque forma e a 
+qualunque fine, anche promozionale, indicazioni circa le prestazioni attese.
+In particolare, le forme pensionistiche complementari/società nell’ambito della Parte I ‘Le informazioni chiave 
+per l’aderente’, della Nota Informativa, forniscono proiezioni standardizzate prendendo a riferimento figure-tipo 
+di aderenti volte a illustrare:
+ - l’importo della prestazione attesa al momento del pensionamento;
+ - il valore della rendita corrispondente alla posizione individuale maturata.
+Le forme pensionistiche complementari/società forniscono altresì annualmente agli aderenti proiezioni 
+personalizzate nell’ambito del ‘Prospetto delle prestazioni pensionistiche - fase di accumulo’ (cfr. Sezione IV), 
+basate sulle caratteristiche proprie dell’aderente (posizione individuale maturata, misura delle contribuzioni, 
+età anagrafica).
+Inoltre, nei siti web nei quali sono pubblicati i documenti relativi alla forma pensionistica complementare è reso 
+disponibile al pubblico un motore di calcolo per lo sviluppo di proiezioni personalizzate.
+2. Ambito di applicazione
+Le Istruzioni di cui alla presente Sezione si applicano alle seguenti forme pensionistiche:
+ - fondi pensione negoziali,
+ - fondi pensione aperti,
+ - piani individuali pensionistici (PIP);
+ - fondi pensione preesistenti, di cui all’art. 20, comma 1, del decreto n. 252/2005, in regime di contribuzione 
+definita, o con una sezione a contribuzione definita.
+Sono esonerati dall’obbligo i fondi pensione preesistenti rivolti esclusivamente a beneficiari e/o iscritti differiti.
+Le Istruzioni di cui alla presente Sezione si applicano inoltre, in quanto compatibili, alle forme pensionistiche 
+dell’Unione europea di cui all’art.15-ter, comma 1, del decreto n. 252/2005.
+3. Variabili di utilizzo per la costruzione delle proiezioni 
+pensionistiche personalizzate 
+Per la costruzione di proiezioni pensionistiche personalizzate si considerano le informazioni relative al singolo 
+aderente, le informazioni proprie della forma pensionistica complementare e le ipotesi definite dalla COVIP in 
+modo uniforme per tutte le forme pensionistiche complementari. Le variabili da utilizzare sono le seguenti:
+Variabili Dati relativi 
+all’aderente
+Dati relativi alla forma 
+pensionistica 
+complementare
+Ipotesi definite 
+dalla COVIP
+  1. dati anagrafic i dell’aderente ( età e sesso) X
+ 2. misura della contribuzione X
+ 3. tasso atteso di crescita della 
+contribuzione/retribuzione X
+  4. tasso annuo atteso di inflazio ne X
+ 5. costi connessi alla partecipaz ione nella 
+fase di accumulo X
+=== pagina 3 ===
+Disposizioni sulle proiezioni pensionistiche
+3 di 6
+Variabili Dati relativi 
+all’aderente
+Dati relativi alla forma 
+pensionistica 
+complementare
+Ipotesi definite 
+dalla COVIP
+  6. profilo di inve stimento X
+ 7. tasso atteso di rendimento della gestione X
+ 8. età prevista al pensionamento X X
+ 9. basi tecniche per il calcolo de lla rendita X X
+10. costo relativo alla trasformazione della 
+posizione individuale in rendita X X
+Dati anagrafici: l’età e il sesso sono quelli relativi all’aderente.
+Misura della contribuzione : la misura della contribuzione è quella risultante alla forma pensionistica 
+complementare sulla base delle indicazioni dell’aderente ovvero quella che risulti effettivamente versata con 
+carattere di stabilità. La stessa è espressa su base annuale.
+Tasso atteso di crescita della contribuzione/retribuzione : la contribuzione è rivalutata annualmente. 
+La rivalutazione avviene a un tasso reale dell’1%, qualora la contribuzione sia espressa in cifra fissa; qualora 
+la stessa sia invece espressa in percentuale della retribuzione, si assume un tasso annuo atteso di crescita 
+della retribuzione pari all’1% in termini reali.
+Tasso annuo atteso di inflazione: il tasso annuo atteso di inflazione è posto pari al 2%.
+Costi connessi alla partecipazione nella fase di accumulo : i costi relativi alla fase di accumulo sono quelli 
+effettivamente applicati all’aderente; gli stessi tengono pertanto conto delle eventuali agevolazioni 
+commissionali praticate dalla forma pensionistica complementare. Con riferimento ai criteri di individuazione e 
+di trattamento dei costi, si fa riferimento a quanto previsto nella Nota metodologica per il calcolo dell’indicatore 
+sintetico dei costi da riportare nella Nota Informativa, con esclusione del costo per il trasferimento della 
+posizione individuale ad altra forma pensionistica complementare. Le variabili relative alla misura della 
+contribuzione e alle ipotesi di rendimento atteso sono tuttavia individuate sulla base di quanto indicato nelle 
+presenti Istruzioni.
+Profilo di investimento: il profilo di investimento è quello scelto dall’aderente. In presenza di meccanismi di 
+riallocazione automatica della posizione individuale o dei flussi di contribuzione tra comparti (o fondi interni/
+OICR/gestioni interne separate) o combinazioni degli stessi in funzione dell’età dell’aderente o degli anni 
+mancanti al pensionamento (life cycle style), lo sviluppo delle proiezioni ne tiene conto secondo le modalità 
+previste dalla forma pensionistica complementare.
+Tasso atteso di rendimento della gestione: al fine di tenere conto delle differenti caratteristiche di investimento 
+dei comparti (o fondi interni/OICR/gestioni interne separate), i parametri di rendimento sono definiti in funzione 
+delle diverse classi di attività (azionario o obbligazionario). Le ipotesi di rendimento sono pertanto distinte per 
+gli investimenti azionari e per quelli obbligazionari. I tassi di rendimento riportati nella Tabella che segue sono 
+espressi in termini reali e al lordo dei costi e della tassazione:
+Rendimento obbligazionario
+(robb)
+Rendimento azionario
+(raz)
+Rendimento medio annuo 2,00% 4,00%
+Con riferimento a ciascun comparto (o fondo interno/OICR/gestione interna separata) rientrante nel profilo di 
+investimento scelto dall’aderente, i versamenti sono rivalutati annualmente sulla base dei seguenti parametri 
+di rendimento (r), calcolati secondo le formule che seguono:
+r = α raz + β robb
+=== pagina 4 ===
+Disposizioni sulle proiezioni pensionistiche
+4 di 6
+I coef ficienti  α  e  β  rappresent ano  le  percentuali  di  investimento,  rispettivamente,  azionario  e  obbligazionario  di  
+ciascun comparto (o fondo interno/OICR/gestione interna separata), corrispondenti alla composizione del 
+relativo benchmark.  I  coef ficienti  assumono  pertanto  valori  tali  per  cui  (α  +  β)  =  1.  Qualora  il  benchmark  non  
+costituisca un parametro significativo per lo stile gestionale adottato, la ripartizione degli investimenti viene 
+definita sulla base di ogni informazione utile, coerentemente con la politica di investimento perseguita in un 
+orizzonte temporale di lungo periodo (composizione effettiva realizzata negli esercizi precedenti, informazioni 
+riportate nella Nota Informativa...). Laddove ciò non sia possibile, è posto per convenzione, in caso di 
+comparti caratterizzati da garanzie di risultato, α = 0 e β = 1 e in tutti gli altri casi α = 0,3 e β = 0,7.
+Età di pensionamento : si tratta della presumibile età di pensionamento di vecchiaia, come individuata sulla 
+base delle indicazioni fornite nello Schema di “Prospetto delle prestazioni pensionistiche - fase di accumulo” 
+(Sezione ‘I tuoi dati’);
+Ipotesi tecniche per il calcolo della rendita: il calcolo della prima rata annua di rendita è effettuato applicando i 
+coefficienti di conversione relativi alle seguenti ipotesi:
+ - basi demografiche: la tavola di mortalità è la A62, ove la forma pensionistica complementare preveda una 
+differenziazione per sesso, e, negli altri casi, la A62U (A62 indifferenziata per sesso), corrispondente alla 
+combinazione 60 per cento maschi, 40 per cento femmine;
+ - basi finanziarie: il tasso tecnico è posto pari allo 0%;
+ - costo relativo alla trasformazione della posizione individuale in rendita: 1,25% della posizione individuale 
+maturata al termine della fase di accumulo.
+Qualora i  coef ficienti  di  conversione  ef fettivamente  utilizzati  dalla  forma  pensionistica  complementare  al 
+momento dell’elaborazione del documento risultino meno favorevoli all’aderente rispetto a quelli sopra indicati, 
+il calcolo della prima rata annua di rendita è effettuato applicando i coefficienti propri della forma pensionistica 
+complementare.
+Nei casi in cui sussista un impegno contrattuale al mantenimento dei coefficienti di conversione in rendita, la 
+simulazione può essere effettuata sulla base delle condizioni applicate dalla forma pensionistica 
+complementare, per le situazioni riguardate da detto impegno.
+Qualora al  momento  dell’elab orazione  le  condizioni  per  l’erogazione  delle  rendite  non  risultino  ancora  definite,  
+le ipotesi relative alle basi tecniche da impiegare sono in ogni caso quelle sopra indicate.
+4. Istruzioni per l’elaborazione delle proiezioni pensionistiche 
+personalizzate fornite periodicamente nell’ambito del 
+‘Prospetto delle prestazioni pensionistiche - fase di accumulo’ 
+Nell’ambito del ‘Prospetto delle prestazioni pensionistiche - fase di accumulo’ vengono fornite proiezioni 
+pensionistiche volte a consentire all’aderente una valutazione sintetica e prospettica del proprio programma 
+previdenziale. Tali rappresentazioni costituiscono pertanto uno strumento di ausilio nella adozione delle scelte 
+relative alla partecipazione alla forma pensionistica complementare per le variabili dipendenti da 
+determinazioni dell’aderente medesimo.
+In part icolare,  la  Sezione  ‘Quant o  riceverai  quando  andrai  in  pensione’ cont iene  una  proiezione  della 
+posizione maturata al momento del pensionamento e della relativa rata annua di rendita attesa nell’ipotesi che 
+l’intera prestazione sia erogata in forma di rendita vitalizia immediata senza reversibilità.
+Inoltre, nella Sezione ‘Informazioni all’avvicinarsi del pensionamento di vecchiaia’ (che viene fornita in 
+aggiunta agli aderenti ai quali mancano tre anni o meno alla presumibile età di pensionamento) viene altresì 
+riportata una stima del valore della posizione individuale maturata e della relativa rata di rendita per ciascuna 
+tipologia di rendita offerta (con eccezione della rendita vitalizia reversibile) in corrispondenza della presumibile 
+età di pensionamento di vecchiaia e ai quattro anni successivi.
+Il valore della posizione individuale prospettica e il corrispondente valore della rata annua di rendita attesa 
+sono rappresentati in termini reali, anche qualora sia necessario effettuare il relativo calcolo in termini 
+nominali. Il documento contiene chiara indicazione del fatto che si tratta di valori espressi in termini reali.
+=== pagina 5 ===
+Disposizioni sulle proiezioni pensionistiche
+5 di 6
+L’elaborazione delle proiezioni inerenti al valore della posizione individuale si basano sulle seguenti 
+esemplificazioni:
+ - I versamenti sono considerati al lordo dei costi gravanti direttamente sull’aderente e, per il primo anno, delle 
+spese di adesione, nonché dei costi e premi relativi a eventuali prestazioni assicurative ad adesione 
+obbligatoria. I versamenti non includono invece eventuali somme destinate al finanziamento di prestazioni 
+assicurative a carattere facoltativo.
+ - Per s emplicità  s i  as sume  c he  i  v ersamenti  v engano  ef fettuati  all’iniz io  di  c iascun  anno. Q ualora, per i 
+lavoratori dipendenti, i versamenti comprendano anche il flusso di TFR, si assume inoltre che gli eventuali 
+contributi a carico del datore di lavoro e/o del lavoratore (ove non determinati in cifra fissa) siano espressi in 
+percentuale della retribuzione utile per il calcolo del TFR, anche laddove i contratti o accordi collettivi 
+utilizzino una base di calcolo differente.
+ - La posizione individuale relativa a ciascun anno di sviluppo della proiezione è calcolata tenendo conto della 
+contribuzione lorda relativa a ciascun anno, del tasso di rendimento corrispondente al profilo di investimento 
+dell’aderente, dei costi praticati dalla forma pensionistica complementare e del prelievo fiscale sui 
+rendimenti della gestione, secondo la normativa tempo per tempo vigente.
+In sede di aggiornamento annuale del documento per l’elaborazione delle proiezioni inerenti al valore della 
+posizione individuale maturata si assume quale dato iniziale la posizione individuale effettivamente maturata 
+dall’aderente alla fine dell’anno solare precedente e, per la relativa conversione in rendita, si utilizzano i 
+coefficienti di conversione calcolati sulla base delle ipotesi tecniche sopra riportate. L’indicazione della rata di 
+rendita è al lordo della tassazione.
+L’aggiornamento tiene conto delle condizioni di partecipazione in vigore al momento in cui si procede alla 
+elaborazione.
+5. Istruzioni per l’elaborazione di prestazioni pensionistiche 
+standardizzate fornite nell’ambito della Nota Informativa
+Nella Nota Informativa sono fornite simulazioni effettuate nel rispetto delle Istruzioni sopra indicate, avendo a 
+riferimento figure-tipo aventi le seguenti caratteristiche:
+ - età anagrafica al momento dell’adesione: 30 e 40 anni;
+ - contributo annuo: 2.500,00 e 5.000,00;
+ - età di pensionamento: 67 anni.
+In particolare  il  Paragrafo  ‘Quanto  potresti  ricevere  quando  andrai  in  pensione’,  della  Parte  I  ‘Le  informazioni  
+chiave per l’aderente’, della Nota Informativa, riporta il valore della posizione individuale e il corrispondente 
+valore della rata annua di rendita attesa, calcolata con riferimento alle suddette ipotesi.
+Qualora la  forma  pensionistic a  complementare  adotti  basi  demografiche  dif ferenziate  per  sesso,  il  documento  
+in versione standardizzata riporta, per ogni figura-tipo, il valore della prima rata annuale di rendita 
+distintamente per maschi e femmine.
+L’elaborazione è compiuta per ciascun comparto (o fondo interno/OICR/gestione interna separata) e/o 
+combinazione predefinita offerti dalla forma pensionistica complementare.
+6. Altre procedure per la proiezione della prestazione pensionistica 
+complementare
+Le procedure che le forme pensionistiche complementari utilizzano per fornire, in qualunque forma e a 
+qualunque fine, anche promozionale, indicazioni circa le prestazioni attese sono implementate in 
+ottemperanza delle presenti Istruzioni.
+Nei siti web nei quali sono pubblicati i documenti relativi alla forma pensionistica complementare è reso 
+disponibile al pubblico un motore di calcolo per lo sviluppo delle proiezioni.
+=== pagina 6 ===
+Disposizioni sulle proiezioni pensionistiche
+6 di 6
+Per quanto attiene alla individuazione delle variabili da impiegare nelle elaborazioni, il motore di calcolo 
+consente la modificabilità delle ipotesi in materia di:
+ - dati anagrafici dell’aderente;
+ - misura della contribuzione;
+ - tasso annuo atteso di crescita della contribuzione/retribuzione: per questo aspetto, i motori possono anche 
+consentire all’utente di scegliere l’andamento della crescita contribuzione/retribuzione (ad esempio, 
+ipotizzando dinamiche lineari, concave o convesse). In ogni caso, il tasso medio annuo atteso di crescita 
+della contribuzione/retribuzione non può superare il 3% reale;
+ - profilo di investimento;
+ - età prevista al pensionamento.
+Il programma può sviluppare modalità di rappresentazione del rischio connesso all’investimento, indicando le 
+ipotesi alla base di tale rappresentazione.
+Nel caso in cui ciò avvenga mediante l’indicazione di scenari alternativi, come scenario centrale dovrà essere 
+utilizzato quello definito sulla base delle Istruzioni COVIP; gli altri scenari dovranno essere definiti in modo 
+simmetrico rispetto a quest’ultimo; a tale scenario centrale dovrà essere data particolare evidenza, indicando 
+che esso è quello corrispondente alle menzionate Istruzioni COVIP.
+Il programma può inoltre consentire di simulare l’effetto sulla posizione individuale in maturazione e sulla 
+prestazione pensionistica attesa di eventuali opzioni esercitabili dall’aderente (anticipazioni, riscatti parziali, 
+riallocazione della posizione individuale e/o dei versamenti contributivi, ecc…).
+La presentazione del motore di calcolo è corredata da chiare istruzioni per l’utilizzo e dà evidenza delle 
+medesime indi cazioni  riportate  nel  documento  redatto  in  forma  cartacea.  Queste  ultime  sono  riportate  anche  
+nelle versioni a stampa delle simulazioni effettuate sul sito web.
+Il programma consente all’aderente il raccordo con le proiezioni fornite nell’ambito del ‘Prospetto delle 
+prestazioni pensionistiche - fase di accumulo’.
+Nelle modalità di accesso al programma i fondi possono acquisire informazioni relative all’aderente stesso 
+anche finalizzate alla redazione del documento in versione personalizzata.
+I motori di calcolo possono altresì consentire di stimare il tasso di copertura atteso dal sistema di previdenza 
+obbligatoria di appartenenza. Nella rappresentazione del tasso complessivo atteso di copertura pensionistica 
+deve essere possibile identificare chiaramente la quota riconducibile alla prestazione di base e quella relativa 
+alla prestazione complementare.
+Le forme pensionistiche complementari precisano che sul sito dell’INPS è comunque disponibile il servizio “La 
+mia pensione”, che permette di simulare quella che sarà presumibilmente la prestazione di base che un 
+lavoratore iscritto al Fondo pensione lavoratori dipendenti o ad altri fondi o gestioni amministrati dall’INPS 
+riceverà al termine dell’attività lavorativa.
