@@ -713,6 +713,11 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.10: prima di pa
    { "name": "goodbye-elsa", "compatibility_date": "2026-10-01", "assets": { "directory": "./docs" },
      "workers_dev": true, "preview_urls": false }
    ```
+   **"Senza codice"** vuol dire senza `main`: i file li serve il server di Cloudflare. Provato in locale l'11/10/2026
+   con `wrangler dev` su `docs/`: `/guida` → `307` verso `/guida/`, tipi giusti (HTML, JSON, PDF), `ETag`, `404` per i
+   percorsi che non esistono. Codice nostro solo per ciò che il browser non può fare (secret, dati scritti dagli
+   utenti, lavori programmati, ricerca nei testi dei documenti), limitato a percorsi come `/api/*` (`run_worker_first`
+   con un elenco di percorsi), così i file statici restano gratuiti e illimitati.
    Anteprime spente: basta l'anteprima locale (§10.3). Facoltativi `docs/404.html` (con
    `"not_found_handling": "404-page"`) e `docs/_headers` (`X-Robots-Tag: noindex`).
    Provato il 10/10/2026 con `wrangler deploy --dry-run`, che non chiede credenziali: legge tutto `docs/` (circa 1.100
