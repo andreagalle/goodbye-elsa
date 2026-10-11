@@ -648,7 +648,7 @@ accompagnata **nello stesso commit/PR** da:
 - [ ] Valutare di rinominare `Sheet1` in `Fondi` (le formule di Excel si aggiornano da sole; aggiornare lo script)
 - [x] Confermare l'URL esatto dell'elenco COVIP nella §4.1
 - [ ] **Migrazione a Cloudflare** (Workers static assets + Access con One-time PIN) e repository privato: piano nella §13,
-  da approvare con l'utente (Access in un account dedicato o password unica della §13.8, testo del disclaimer, licenza)
+  (scelto l'11/10/2026: Access in un account dedicato; da decidere testo del disclaimer e licenza)
 
 ## 13. Piano: da GitHub Pages a Cloudflare, con accesso riservato e repository privato (proposta del 10/10/2026)
 **Stato: proposta da approvare, non eseguita.** Finché non viene eseguita valgono le §7–§8 (GitHub Pages). Prezzi,
@@ -657,9 +657,9 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.10: prima di pa
 ### 13.1 Scelte consigliate
 | Tema | Scelta | Perché |
 |---|---|---|
-| Hosting | **Cloudflare Workers con static assets**: un Worker senza codice che serve `docs/` (variante Pages nella §13.9) | Pages resta supportato, ma le novità arrivano su Workers (Access a un clic, anteprime delle PR); costi e limiti uguali |
+| Hosting | **Cloudflare Workers con static assets**: un Worker senza codice che serve `docs/` (variante Pages nella §13.9). Nessun server da accendere: wrangler carica i file una volta, Cloudflare li serve dalla sede più vicina e li tiene in cache al primo accesso; senza codice nostro nessun Worker parte | Pages non ha una data di dismissione, ma Cloudflare dichiara che continuerà a supportarlo e che tutti gli investimenti vanno su Workers, consigliato per i progetti nuovi (Access a un clic, anteprime delle PR); costi e limiti uguali |
 | Build e deploy | tutto resta in **GitHub Actions** (export, test, versione, release): cambia solo il passo di deploy, `wrangler deploy` | export Python e test Playwright restano dove sono; niente build su Cloudflare; l'anteprima locale (§10.3) non cambia |
-| Autenticazione | **Cloudflare Access** con **One-time PIN** (si scrive la propria email e arriva un codice), in un **account Cloudflare dedicato** a goodbye-elsa, con la sua organizzazione Zero Trust Free; alternativa senza Zero Trust: utente e password unici (§13.8) | l'utente non vuole condividere Zero Trust con l'altro progetto (10/10/2026); nessuna password da custodire, nessun codice nel sito |
+| Autenticazione | **Cloudflare Access** con **One-time PIN** (si scrive la propria email e arriva un codice), in un **account Cloudflare dedicato** a goodbye-elsa, con la sua organizzazione Zero Trust Free (**scelto dall'utente l'11/10/2026**; di riserva, senza Zero Trust: utente e password unici, §13.8) | l'utente non vuole condividere Zero Trust con l'altro progetto (10/10/2026); nessuna password da custodire, nessun codice nel sito |
 | Autorizzazione | una policy *Allow* con l'**elenco delle email** ammesse (all'inizio solo l'utente) | si aggiunge o si toglie una persona dal pannello Zero Trust, senza deploy |
 | Indirizzo | **deciso con l'utente il 10/10/2026**: quello di default, `https://goodbye-elsa.<sottodominio>.workers.dev`, senza dominio proprio | sito per uso personale: gratuito e senza DNS da gestire |
 | IaC | **niente Terraform all'inizio**: `wrangler.jsonc` versionato + la checklist della §13.2; Terraform solo se serve (§13.7) | sono 4–5 oggetti: state, token e import costerebbero più di quanto fanno risparmiare |
@@ -791,8 +791,8 @@ limiti e comandi verificati il 10/10/2026 sulle fonti della §13.10: prima di pa
   `plan` nelle PR e `apply` al merge.
 
 ### 13.8 Alternativa: utente e password unici, senza Zero Trust
-Per chi non vuole un secondo account né Zero Trust (scelta dell'utente ancora aperta il 10/10/2026). **Nessun
-database**: utente e password sono due secret del Worker, e con l'HTTP Basic il browser li ricorda e li rimanda a ogni
+**Non scelta**: l'11/10/2026 l'utente ha preferito l'account dedicato con Access (§13.2). Resta di riserva, se un giorno
+non si volesse Zero Trust. **Nessun database**: utente e password sono due secret del Worker, e con l'HTTP Basic il browser li ricorda e li rimanda a ogni
 richiesta.
 - **Worker** `worker/accesso.js` (~25 righe, provato il 10/10/2026 con `wrangler dev`): senza credenziali o con quelle
   sbagliate risponde `401` con `WWW-Authenticate: Basic realm="goodbye Elsa", charset="UTF-8"` (il browser apre la sua
@@ -827,7 +827,11 @@ Pages › Edit*. Differenza principale: *Settings › Enable access policy* prot
 Access creata, poi riattivare la policy delle anteprime).
 
 ### 13.10 Fonti (consultate il 10/10/2026)
-- Cloudflare: limiti di [Workers](https://developers.cloudflare.com/workers/platform/limits/) e
+- Cloudflare: [come funzionano i Worker](https://developers.cloudflare.com/workers/reference/how-workers-works/),
+  [static assets](https://developers.cloudflare.com/workers/static-assets/),
+  [Pages e Workers](https://blog.cloudflare.com/full-stack-development-on-cloudflare-workers/) (blog: Pages resta
+  supportato, gli investimenti vanno su Workers), [prezzi di Workers](https://developers.cloudflare.com/workers/platform/pricing/),
+  limiti di [Workers](https://developers.cloudflare.com/workers/platform/limits/) e
   [Pages](https://developers.cloudflare.com/pages/platform/limits/),
   [costi degli static assets](https://developers.cloudflare.com/workers/static-assets/billing-and-limitations/),
   [migrazione da Pages](https://developers.cloudflare.com/workers/static-assets/migration-guides/migrate-from-pages/),
